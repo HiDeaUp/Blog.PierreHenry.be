@@ -46,17 +46,17 @@ So go for it. Try the five-second rule, or the five-minute timer. Use it to get 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Use a five-second countdown to start any task, especially when you feel resistance.*
 - *Keep your timer app easy to access—remove all friction.*
 - *Break your day into short sprints with clear start and end times.*
 - *Discipline creates freedom. Small habits lead to big results.*
 
-*Actions List:*
+## Action Steps
 - *Move your timer app to your phone’s main screen.*
 - *Try the five-second countdown next time you hesitate.*
 - *Set a five-minute timer to get out of bed or start a tough task.*
 
-*Ask Yourself:*
+## Reflection
 - *What’s one task you’ve been putting off that you could start with a five-second countdown?*
 - *How could you use short timers to make your day flow better?*

@@ -51,20 +51,20 @@ In the end, it’s about knowing yourself—what you want, what you need, and wh
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your view of the world is shaped by your past, upbringing, and culture.
 - Comparing your inside to others’ outside is a recipe for unhappiness.
 - Track your own progress, not someone else’s.
 - Your environment and the people around you matter more than you think.
 - Happiness comes from knowing yourself and acting on what matters to you.
 
-*Actions List:*
+## Action Steps
 - Reflect on what truly makes you happy.
 - Write down your feelings and progress each day.
 - Limit time with people who drain your energy.
 - Visualize your ideal day each morning.
 
-*Ask Yourself:*
+## Reflection
 - Are you living your life, or someone else’s?
 - Who around you lifts you up, and who brings you down?
 - What small change can you make today to move closer to your own happiness?

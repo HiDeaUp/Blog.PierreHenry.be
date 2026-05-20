@@ -47,13 +47,13 @@ The only thing stopping you is waiting for the perfect moment. Don’t put off w
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Repetition is the real path to mastery in any skill.*
 - *Daily practice beats endless theory or courses.*
 - *Track your progress for 30 days and see how much you improve.*
 - *Don’t wait for the perfect moment—start now.*
 
-*Ask Yourself:*
+## Reflection
 - *What skill do you want to master?*
 - *Are you willing to practice it every day for 30 days?*
 - *How will you measure your progress?*

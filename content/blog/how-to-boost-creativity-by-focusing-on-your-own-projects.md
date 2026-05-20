@@ -43,18 +43,18 @@ So, the most useful thing you can do is find a skill that speaks to you and prac
 ![Instagram: justdoait](https://images.unsplash.com/photo-1588248753076-348002dfd143?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU1NTMyMjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Creativity by Focusing on Your Own Projects")
 *How to Boost Creativity by Focusing on Your Own Projects - Photo by [Buse Doga Ay](https://unsplash.com/@busedoay) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-clay-pot-q0kFDJTPwgI)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus on your own life and projects, not just others’.
 - Daily creative practice helps you grow and develop rare skills.
 - Meta-skills multiply your abilities and make you more adaptable.
 - Find a creative habit you enjoy and stick with it—it will change how you think.
 
-*Actions List:*
+## Action Steps
 - Set aside time each day for a personal project.
 - Identify a meta-skill you want to develop (like organizing ideas or speaking).
 - Start a daily creative habit, even if it’s small.
 
-*Ask Yourself:*
+## Reflection
 - What’s one creative thing I can do today that’s just for me?
 - Am I investing enough in my own growth, or just living for others?
 - Which meta-skill could help me most in my life right now?

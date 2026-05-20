@@ -41,13 +41,13 @@ The choice is always yours: will you spend your time investing in yourself, or w
 ![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4NDA5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Minute Count Without Feeling Overwhelmed")
 *How to Make Every Minute Count Without Feeling Overwhelmed - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 - Time moves forward, whether you do or not.
 - Every minute can be used for your own growth or given away to others.
 - Consuming content is fine, but creating and acting on what matters to you is even more important.
 - Learning is good, but using what you learn is what truly changes your life.
 
-### **Actions List**
+## Action Steps
 - Notice where your time goes each day.
 - Decide what really matters to you and make time for it.
 - Balance consuming with creating—don’t just watch, do.

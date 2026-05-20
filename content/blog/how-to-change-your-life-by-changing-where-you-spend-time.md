@@ -57,21 +57,21 @@ So, choose your spaces wisely. Surround yourself with people and places that lif
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - The places you spend time in can deeply affect your mood, creativity, and happiness.
 - Choose open, inspiring environments—nature, big windows, high ceilings—over cramped, closed spaces.
 - Make time every day to step back, reflect, and decompress.
 - Your habits and the people around you matter as much as your physical environment.
 - Don’t wait for the “right” time—start making changes now.
 
-*Actions List:*
+## Action Steps
 - Find a spot that inspires you and make it part of your daily routine.
 - Add plants or natural touches to your home or workspace.
 - Take a few minutes each day to reflect on your life and choices.
 - Try a new healthy snack or ritual to boost your creativity.
 - Reconsider the people and habits you surround yourself with—do they support your growth?
 
-*Ask Yourself:*
+## Reflection
 - What places make you feel most alive or at peace?
 - Are you living a life that matches your values, or one shaped by others’ expectations?
 - What small change can you make today to create more space for happiness in your life?

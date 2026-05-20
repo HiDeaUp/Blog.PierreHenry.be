@@ -43,12 +43,12 @@ So, I invite you to try it. Next time you eat something you love, slow down. Pay
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Savoring food mindfully can boost your happiness and well-being.*
 - *Put away distractions and focus on the moment, whether you’re alone or with loved ones.*
 - *Turn eating into a simple meditation by paying attention to taste, texture, and sensation.*
 - *Small rituals of appreciation can make everyday life more joyful.*
 
-*Ask Yourself:*
+## Reflection
 - *When was the last time you truly enjoyed a meal without distractions?*
 - *What food brings you the most joy, and how can you savor it more fully?*

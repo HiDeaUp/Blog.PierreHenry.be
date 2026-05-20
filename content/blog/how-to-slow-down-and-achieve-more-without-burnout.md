@@ -34,13 +34,13 @@ When you slow down, you notice details you usually miss. You become more present
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Rest is not wasted time; it is necessary for your well-being.
 - Slowing down helps you appreciate the present and listen to yourself.
 - Constantly chasing more will never bring lasting satisfaction.
 - Small moments of calm can transform your day.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly paused and listened to your surroundings?
 - Are you chasing achievements at the cost of your own peace?
 - What simple moment can you savor today?

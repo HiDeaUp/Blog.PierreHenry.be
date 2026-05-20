@@ -49,18 +49,18 @@ Facing your fears isn’t easy, but it’s often the only way to reach your drea
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Break down your fears using What, Why, and How.
 - Start with small steps and practice regularly.
 - Visualize your success to make the process easier.
 - Experience is the best way to reduce fear.
 
-*Actions List:*
+## Action Steps
 - Identify one fear you want to overcome.
 - Write down your What, Why, and How.
 - Take one small action today, no matter how tiny.
 
-*Ask Yourself:*
+## Reflection
 - What fear is holding you back right now?
 - Why do you want to move past it?
 - What is one small thing you can do today to get started?

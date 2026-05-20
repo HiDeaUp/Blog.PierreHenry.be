@@ -41,14 +41,14 @@ Don’t put off what matters most. There’s an old Chinese proverb that says th
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - *Choose one meaningful thing to accomplish each day.*
 - *Write it down—make it a commitment to yourself.*
 - *Do it early, before the day gets away from you.*
 - *Treat it as part of your daily routine, like brushing your teeth.*
 - *Don’t wait for the perfect moment. Start now.*
 
-*Ask Yourself:*
+## Reflection
 - *What is the one thing that would make today a success for you?*
 - *Are you willing to commit to doing it, starting tomorrow morning?*
 - *How would your life change if you made this a daily habit?*

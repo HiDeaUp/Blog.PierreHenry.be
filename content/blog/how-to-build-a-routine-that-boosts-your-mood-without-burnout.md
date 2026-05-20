@@ -33,7 +33,7 @@ So, tonight, don’t just think about your routine. Write it down. Make it real.
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - A routine frees you from relying on your mood.
 - Set a clear, specific weekly goal.
 - Break your goal into daily habits.
@@ -43,13 +43,13 @@ So, tonight, don’t just think about your routine. Write it down. Make it real.
 ![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwcHJvZHVjdGl2aXR5JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNjkyM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Routine That Boosts Your Mood Without Burnout")
 *How to Build a Routine That Boosts Your Mood Without Burnout - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
 
-*Actions List:*
+## Action Steps
 - Decide on one clear goal for the week.
 - Write it down and keep it where you can see it.
 - Identify daily actions that will help you reach your goal.
 - Stick to your routine every day, even if it’s just a small step.
 
-*Ask Yourself:*
+## Reflection
 - What new habit do you want to add to your routine this week?
 - How will you make sure you stick to it every day?
 - What will you feel when you reach your goal by Sunday?

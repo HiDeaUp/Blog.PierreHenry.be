@@ -46,11 +46,3 @@ If you’re not using something like this, you’re wasting time and probably an
 
 ![Photo by Dan Crile](https://images.unsplash.com/photo-1708621810057-b24eed577bfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwdWxsJTIwcmVxdWVzdHMlMjBhdXRvbWF0aW9uJTIwQUklMjB0b29sc3xlbnwwfDB8fHwxNzY3MDU3NDAwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Automate Pull Requests and Save Hours Every Week")
 *How to Automate Pull Requests and Save Hours Every Week - Photo by [Dan Crile](https://unsplash.com/@dancrile) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-an-engine-MjVwL1aMpEE)*
-
----
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)
-
----
-
-### Kicker:  
-Stop wasting time on manual PRs—let automation do the heavy lifting so you can focus on real problem-solving.

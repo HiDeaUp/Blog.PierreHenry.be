@@ -50,18 +50,18 @@ The most important thing is to start now. Don’t wait for the perfect moment. I
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Consistency is more important than intensity. Small daily actions add up.
 - Know your “why.” Set clear goals for the week and stick to them.
 - Start now—there’s never a perfect time.
 - Question yourself honestly: Does this make you happy? Is it worth your time?
 - Find the balance between passion and profit for a happier life.
 
-**Actions List**
+## Action Steps
 - Set a small, achievable goal for this week.
 - Dedicate at least ten minutes a day to your project or passion.
 - Outline your project and ask yourself if it excites you.
 - Adjust your path as you go, but keep moving forward.
 
-*What About You?*
+## Reflection
 *What small step can you take today toward your goal? Are you doing what you love, or just what you think you should do?*

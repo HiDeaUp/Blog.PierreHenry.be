@@ -34,11 +34,11 @@ If you want to feel better, accomplish more, or just enjoy life a bit more, try 
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Improving by 1% each day leads to big changes over time.
 - Measure your progress and keep going, even when it feels slow.
 - Discipline and consistency matter more than perfection.
 - The 1% rule can be applied to any area of your life.
 
-*Ask Yourself:*
+## Reflection
 *What small step can you take today to be 1% better than yesterday? Where could steady, tiny improvements make the biggest difference for you?*

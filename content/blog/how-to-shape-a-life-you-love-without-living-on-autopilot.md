@@ -61,14 +61,14 @@ You never know what tomorrow will bring. So act now, and enjoy life as much as y
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Your environment and the people around you shape your life more than you think.
 - Don’t be afraid to try new places, jobs, or routines—you’re not stuck forever.
 - Check in with yourself regularly: Are you living the life you want?
 - Life can change in a second. Don’t wait to start living fully.
 - Happiness is the real goal—not just following the crowd.
 
-*Ask Yourself:*
+## Reflection
 - Am I really happy with my daily life, or am I just going through the motions?
 - Who are the people and habits shaping my days?
 - What small change can I make today to move closer to the life I want?

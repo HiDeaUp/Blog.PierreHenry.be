@@ -45,18 +45,18 @@ So, your exercise for today is to create little moments where you disconnect fro
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Stress clouds your mind and blocks clear thinking.
 - Being present helps you notice what really matters.
 - Write down important tasks to free your mind.
 - Meditation is like a workout for your brain—focus on one thing, let the rest go.
 - Calm is not just comfort; it is the foundation for a better life.
 
-*Actions List:*
+## Action Steps
 - Try a note-taking app to clear your mind.
 - Set aside a few minutes each day to meditate or just sit quietly.
 - Practice being present with others—put your phone away and really listen.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you were truly present?
 - What small step can you take today to find more calm in your life?

@@ -47,20 +47,20 @@ If you want to go deeper, I’ve spent over 12 years studying this topic. There�
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Your environment shapes your habits more than your willpower.
 - Small changes in your surroundings can boost your productivity.
 - Notice what helps or hinders you, and adjust your space and routines.
 - Talk to yourself out loud to spot hidden problems.
 - The best time to take action is today.
 
-*Actions List:*
+## Action Steps
 - Rearrange your workspace for fewer distractions.
 - Set a regular bedtime and stick to it.
 - Pay attention to how food and noise affect your focus.
 - Try talking through your challenges out loud.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing in your environment you can change today?
 - Are your routines helping or hurting your productivity?
 - Who or what in your surroundings is pulling you back into old habits?

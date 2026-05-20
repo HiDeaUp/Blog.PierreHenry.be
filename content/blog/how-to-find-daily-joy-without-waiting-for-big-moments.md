@@ -53,6 +53,6 @@ Rewards can also motivate you to tackle challenges. For example, if I get up ear
 
 ---
 
-*Ask Yourself:*
+## Reflection
 
 *What small moment could you add to your day today? What’s one reward you could plan for after your next big achievement?*

@@ -74,6 +74,6 @@ So, focus on what’s essential. Ask yourself what you really want—not for the
 - Challenge yourself, but know when enough is enough.
 - Focus on experiences and fulfillment, not just accumulation.
 
-### What About You?
+## Reflection
 
 *What’s one thing you could remove from your life today to make it simpler? Are you adding things for yourself, or just because you can?*

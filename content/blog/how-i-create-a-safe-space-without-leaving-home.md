@@ -45,20 +45,20 @@ If you really want something, if you’re obsessed with it, you’ll get there i
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Feeling at peace is essential for well-being.
 - Create your own safe space to rest, learn, and grow.
 - Reread books or revisit things that bring you joy.
 - Invest in your knowledge and well-being—it pays off.
 - Take action now; don’t wait for tomorrow.
 
-*Actions List:*
+## Action Steps
 - Find a spot where you feel safe and calm.
 - Share what you’re learning with others.
 - Revisit a favorite book or memory from a happy time.
 - Take one small action today toward your well-being.
 
-*Ask Yourself:*
+## Reflection
 - What makes you feel truly at peace?
 - When was the last time you revisited something that made you happy?
 - What’s one thing you can do today to invest in your well-being?

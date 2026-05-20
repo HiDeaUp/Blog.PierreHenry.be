@@ -49,19 +49,19 @@ The best time to take action is now. Don’t put off what you want to do. Go for
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Culture and experience matter as much as money in freelancing.
 - Small gestures and unique touches make you stand out.
 - Surround yourself with people who challenge and teach you.
 - Offer clients more than they expect—create memorable moments.
 - The best time to start is now.
 
-*Actions List:*
+## Action Steps
 - Think about what makes your freelance service unique.
 - Organize small team or client events to build stronger relationships.
 - Always look for ways to go beyond expectations.
 
-*Ask Yourself:*
+## Reflection
 - What small thing can I do today to make my clients’ experience better?
 - Am I learning from those around me, or am I the one always teaching?
 - How can I make my work journey more enjoyable right now?

@@ -50,18 +50,18 @@ Don’t wait until tomorrow to do what you want to start today. The best time to
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Don’t label yourself as “bad” before you’ve even tried.
 - Perseverance and daily practice are the real keys to getting better.
 - Change your perspective and find your own reason to keep going.
 - The only real limits are the ones you set for yourself.
 - Start today—every day is a new chance.
 
-*Actions List:*
+## Action Steps
 - Pick something you want to improve and practice it a little every day.
 - Challenge your negative self-labels and open new doors.
 - Find a personal reason to keep going, even when it’s tough.
 
-*Ask Yourself:*
+## Reflection
 - What doors have you closed on yourself before even trying?
 - What could you achieve if you gave yourself permission to be a beginner?

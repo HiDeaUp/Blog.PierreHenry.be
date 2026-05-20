@@ -49,7 +49,7 @@ Change is possible. Positivity and mindset matter. Organize your days, rethink h
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Doing nothing is the real danger—action, even imperfect, brings growth.
 - Every decision, big or small, can change your life’s direction.
 - Mistakes are learning experiences, not failures.
@@ -57,13 +57,13 @@ Change is possible. Positivity and mindset matter. Organize your days, rethink h
 - A positive mindset and open posture attract opportunities and people.
 - Take responsibility for your life; solutions start with you.
 
-*Actions List:*
+## Action Steps
 - Try something new this week, even if it’s small.
 - Reflect on a recent mistake—what did you learn?
 - Practice positive body language and see how people respond.
 - Organize your day to include one action that moves you forward.
 
-*Ask Yourself:*
+## Reflection
 - What’s one decision you’ve been putting off out of fear?
 - How can you turn today’s challenges into learning experiences?
 - Are you waiting for luck, or are you ready to say yes to opportunities?

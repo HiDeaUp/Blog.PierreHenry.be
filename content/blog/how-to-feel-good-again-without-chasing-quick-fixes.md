@@ -53,20 +53,20 @@ So, find what makes you feel alive. Try new things, but don’t force yourself t
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Build your happiness around curiosity and learning.
 - Don’t just copy what others do—find what works for you.
 - The perfect moment won’t come; you have to create it.
 - Remember what made you happy as a child for clues about your true passions.
 - Take action instead of waiting or complaining.
 
-**Actions List**
+## Action Steps
 - Ask yourself what you could do differently to feel better.
 - Try something new, even if it’s small.
 - Reflect on your childhood passions and see how they fit into your life now.
 - Don’t chase trends unless they genuinely interest you.
 
-**Ask Yourself**
+## Reflection
 - *What did you love doing before the world told you what you “should” love?*
 - *Are you living a life that feels like yours, or someone else’s?*
 - *What small step can you take today to feel more alive?*

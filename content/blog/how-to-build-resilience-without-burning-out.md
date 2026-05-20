@@ -47,20 +47,20 @@ In the end, everyone wants a life and a job that feels good, where you are happy
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Resilience is about steady, consistent action toward your goal.*
 - *Ten minutes a day adds up to big results over time.*
 - *Start now—waiting for the perfect moment only delays your progress.*
 - *Ask yourself the right questions and focus on what you love.*
 - *Combine passion and practicality for a happier, more fulfilling life.*
 
-*Actions List:*
+## Action Steps
 - *Set a simple, clear goal for this week.*
 - *Break it down into daily actions, even if they are small.*
 - *Reflect on what truly makes you happy and how you can do more of it.*
 - *Start today, not tomorrow.*
 
-*What About You?*
+## Reflection
 - *What is one small step you can take today toward your goal?*
 - *Are you doing what you love, or just what you think you should do?*
 - *How can you turn your passion into something that supports your life?*

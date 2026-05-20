@@ -61,7 +61,7 @@ Relaxation isn’t just about doing nothing. It’s about creating moments for y
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Try simple breathing exercises to calm your mind and body.
 - Create small rituals, like making coffee or tea, to pause during your day.
 - Move your body—walk, jog, or try a new sport.
@@ -69,7 +69,7 @@ Relaxation isn’t just about doing nothing. It’s about creating moments for y
 - Reward yourself with small pleasures after stressful days.
 - Consider a solo weekend to disconnect and recharge.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly relaxed?
 - What small ritual could you add to your day to create a moment of calm?
 - Who or what is your safe space?

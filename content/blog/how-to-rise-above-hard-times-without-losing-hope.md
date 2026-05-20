@@ -34,12 +34,12 @@ It’s not always easy, but it’s simple: nurture your mind, choose your circle
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your mindset is your most powerful tool for overcoming difficulties.
 - Positive people and information help you stay strong.
 - Avoid toxic influences to protect your happiness.
 
-*Ask Yourself:*
+## Reflection
 - Who are the people I spend the most time with?
 - What kind of information am I feeding my mind every day?
 - How can I make small changes to strengthen my mindset?

@@ -34,7 +34,7 @@ So, next time you’re hesitating to start, remember: don’t wait for motivatio
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Motivation is unreliable; it comes and goes.
 - Routines make starting tasks automatic.
 - Treat your important tasks like brushing your teeth—just do them, no questions asked.
@@ -42,11 +42,11 @@ So, next time you’re hesitating to start, remember: don’t wait for motivatio
 ![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHRhc2tzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NjM5NTY4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Daily Tasks Without Waiting for Motivation")
 *How to Start Daily Tasks Without Waiting for Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
 
-*Actions List:*
+## Action Steps
 - Identify one task you keep putting off.
 - Add it to your daily routine at a fixed time.
 - Commit to doing it for a week, no matter how you feel.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you could make automatic in your day?
 - Are you waiting for motivation, or are you building habits?

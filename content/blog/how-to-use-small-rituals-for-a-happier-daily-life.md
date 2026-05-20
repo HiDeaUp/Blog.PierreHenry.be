@@ -47,13 +47,13 @@ So, what traditions do you want to keep, or start, in your own life? Take a mome
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Traditions can be big or small, old or new, but they matter.
 - They give us something to look forward to and help us feel grounded.
 - Protecting your rituals, even when life is hectic, is a way to care for yourself and those you love.
 - Creating new traditions is just as important as honoring old ones.
 
-*Ask Yourself:*
+## Reflection
 - What traditions do you cherish most?
 - Is there a new ritual you’d like to start?
 - How can you make space for these moments in your life?

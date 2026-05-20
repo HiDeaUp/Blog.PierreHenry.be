@@ -43,14 +43,14 @@ Listen to yourself. Trust your instincts. Do what speaks to you and what feels t
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Building something new starts with small daily habits.
 - Trying new things rewires your brain and opens up new possibilities.
 - Don’t wait for the “right” moment—start today.
 - Listen to your own voice, not just what others are doing.
 - You only have one life, so make it count by exploring new passions.
 
-*Ask Yourself:*
+## Reflection
 - What is one new thing you could try today, no matter how small?
 - Are you living your own life, or someone else’s?
 - Which habit could you start now that might change your future?

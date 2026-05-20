@@ -36,16 +36,16 @@ I truly wish you the best on this journey. Remember, peace isn’t something you
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Stress can pull you out of the present, but you can always return.
 - Take a deep breath and notice the world around you.
 - Find joy in the simple, everyday moments.
 
-*Actions List:*
+## Action Steps
 - Pause for a moment and take a slow, deep breath.
 - Look for one small thing today that brings you joy.
 - Remind yourself that peace is always within reach.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly enjoyed a quiet moment?
 - What simple pleasure can you notice right now?

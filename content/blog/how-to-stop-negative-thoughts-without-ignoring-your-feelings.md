@@ -45,19 +45,19 @@ Let’s come back to the basics: posture, language, and attention. Change your p
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your mindset shapes your reality—positivity attracts opportunities.
 - Cut out negative language and posture; act and speak with confidence.
 - Focus on the present and the people who matter most.
 - Try a day without negativity and see how your mood shifts.
 
-*Actions List:*
+## Action Steps
 - Stand tall and use positive words.
 - When something goes wrong, ask what you can learn.
 - Spend time with people you care about.
 - Take a break from negative news.
 
-*Ask Yourself:*
+## Reflection
 - What’s one negative thought you can let go of today?
 - How can you shift your posture or words to be more positive?
 - Are you living in the present, or stuck in what went wrong?

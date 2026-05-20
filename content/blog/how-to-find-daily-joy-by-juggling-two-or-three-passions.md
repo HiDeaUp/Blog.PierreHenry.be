@@ -58,7 +58,7 @@ Gardening, dog grooming, training dogs, or even decorating for Christmas—these
 - *Ask family or friends what you loved doing as a kid.*
 - *Try a new hobby or revisit an old one for at least half an hour each day.*
 
-### *What About You?*
+## Reflection
 
 - *What passion projects could you bring back into your life?*
 - *How can you make time each day for something that makes you happy?*

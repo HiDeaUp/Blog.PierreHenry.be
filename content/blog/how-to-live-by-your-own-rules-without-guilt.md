@@ -45,14 +45,14 @@ The goal of life is to be happy, to live a life that feels right for you, a life
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your time is your life—protect it.
 - True freedom means making your own choices, even if they’re not the cheapest or easiest.
 - Experiences matter more than things.
 - Try living by your own rules for at least 21 days to see real change.
 - Keep learning and building your own foundation.
 
-*Ask Yourself:*
+## Reflection
 - Are you living by your own choices, or by what others expect of you?
 - What experiences do you want to create for yourself?
 - What’s one thing you can say “no” to today, to reclaim your time?

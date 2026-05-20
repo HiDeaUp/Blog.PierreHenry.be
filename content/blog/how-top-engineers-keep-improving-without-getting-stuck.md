@@ -78,14 +78,3 @@ This is way more efficient than polling with AJAX, and it’s not even that comp
 > “As more years of experience you get, you should always be better—but as a software engineer, it’s easy to be a less good engineer if you’re not careful.”
 
 > “Every new technology isn’t just to release something new. It always fixes issues that existed in the past.”
-
----
-
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)  
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years  
-🤔 [Learn more about me on Dev.to](https://dev.to/pierre)
-
----
-
-### Kicker:  
-Keep your skills sharp—don’t let experience turn into complacency.

@@ -43,20 +43,20 @@ By doing this, you move closer to your vision every day. You grow, you invest in
 ![Photo by Richie Lai Cheong](https://images.unsplash.com/photo-1661681010889-edc18b619970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBjbGFyaXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzU1NjM5MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind and Focus Without Overthinking")
 *How to Clear Your Mind and Focus Without Overthinking - Photo by [Richie Lai Cheong](https://unsplash.com/@richie_slai) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-rocks-XaLMpvz5i0g)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Set a clear vision for your life and stick to it.
 - Dedicate at least ten to twenty minutes each day to your project or goal.
 - Consistency is more important than intensity.
 - Apply what you learn as soon as possible.
 - Let your personal motivation and vision guide your daily actions.
 
-*Actions List:*
+## Action Steps
 - Define your vision and write it down.
 - Block out a small amount of time each day for your project.
 - Track your progress and celebrate small wins.
 - Adjust your routine to fit your style, but stay regular.
 
-*Ask Yourself:*
+## Reflection
 - What is one thing I can do today to move closer to my vision?
 - How can I make this a daily habit?
 - What motivates me to keep going, even when it gets tough?

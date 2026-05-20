@@ -39,16 +39,16 @@ When you do this, you’ll find that the real event feels much easier. You’ve 
 ![Photo by Akshay Chauhan](https://images.unsplash.com/photo-1657740985886-8db6906bc1f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjB0cmFpbmluZyUyMHB1YmxpYyUyMHNwZWFraW5nJTIwY29uZmlkZW5jZXxlbnwwfDB8fHwxNzU2MTEzOTU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm in Any Situation Without Stressing Out")
 *How to Stay Calm in Any Situation Without Stressing Out - Photo by [Akshay Chauhan](https://unsplash.com/@akshayspaceship) on [Unsplash](https://unsplash.com/photos/a-microphone-on-a-stand-MsCiikhkx1Y)*
 
-**Key Takeaways**
+## Key Takeaways
 - Mental rehearsal makes real-life situations feel easier and less stressful.
 - Practice your speech, pitch, or interview answers anywhere—at home, in the shower, or on your commute.
 - If possible, get used to the environment where your event will happen, or find a similar place to practice.
 - The more you prepare, the more confident and calm you’ll feel when it matters.
 
-**Actions List**
+## Action Steps
 - Start visualizing your next big event today.
 - Practice your words and responses out loud, even if you’re alone.
 - Find a similar environment to the real one and rehearse there.
 
-*What about you?*
+## Reflection
 *How do you prepare for important moments? Have you tried mental rehearsal before? What could you do differently next time to feel more ready?*

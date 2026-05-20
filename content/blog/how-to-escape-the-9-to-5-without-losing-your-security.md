@@ -51,18 +51,18 @@ In the end, don’t let your job define you. Use it as a tool, but don’t let i
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - A 9-to-5 job can keep you stuck and replaceable.
 - True freedom comes when you take control and create your own path.
 - Find what makes you unique and irreplaceable.
 - Listen to yourself, not just what society expects.
 
-*Actions List:*
+## Action Steps
 - Ask yourself if your job is just for survival or if it excites you.
 - Consider what you could do that no one else can.
 - Take small steps toward being your own boss or making your work unique.
 
-*Ask Yourself:*
+## Reflection
 - Are you living the life you want, or just surviving?
 - What would you do if you weren’t afraid of losing your job?
 - What makes you irreplaceable?

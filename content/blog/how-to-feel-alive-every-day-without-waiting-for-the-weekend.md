@@ -49,18 +49,18 @@ So, take a look at your surroundings. What can you clear out? What can you see d
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Use every moment, even the boring ones, to do something meaningful.
 - Change your perspective and see opportunities instead of problems.
 - Minimalism helps you focus on what matters most.
 - Your environment shapes your mood and your success.
 
-*Actions List:*
+## Action Steps
 - Next time you’re stuck waiting, try learning something new or working on a personal project.
 - Look for ways to simplify your space and your schedule.
 - Challenge yourself to see your daily routine from a fresh angle.
 
-*Ask Yourself:*
+## Reflection
 - How can I use my “lost” time to move closer to my goals?
 - What small change in perspective could make my day better?
 - What’s one thing I can do today to make my environment lighter?

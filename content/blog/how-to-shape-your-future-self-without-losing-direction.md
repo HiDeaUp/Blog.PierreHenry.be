@@ -39,14 +39,14 @@ So, what life do you want to live? The one you think is impossible? Start buildi
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your future self is your best inspiration—picture who you want to be in 10 years.
 - A strong vision helps you break through fears and limiting beliefs.
 - Take daily actions, no matter how small, toward your dream life.
 - Believe in your vision with everything you have—mindset is everything.
 - Patience and persistence are key. Trust the process.
 
-*Ask Yourself:*
+## Reflection
 - Who is the person I want to become in 10 years?
 - What daily actions can I take to move closer to that vision?
 - What limiting beliefs do I need to let go of to reach my goals?

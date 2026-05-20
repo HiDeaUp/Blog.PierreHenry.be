@@ -43,13 +43,13 @@ Managing your mood and tension is essential. It’s about how you process these 
 ![Mental Health](https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1Mzg0NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reclaim Your Peace Without Letting Small Frustrations Win")
 *How to Reclaim Your Peace Without Letting Small Frustrations Win - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)*
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 - Small frustrations can pollute your mind and ruin your day if you let them.
 - Most problems are minor in the big picture; don’t let them steal your joy.
 - Simple breathing exercises or a walk can help clear your mind.
 - Let go of what you can’t control and focus on enjoying the present moment.
 
-### **Actions List**
+## Action Steps
 - Try the triangle breathing exercise next time you feel overwhelmed.
 - Step outside or take a walk to reset your mind.
 - Remind yourself that most setbacks are small and temporary.

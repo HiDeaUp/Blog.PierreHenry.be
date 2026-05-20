@@ -58,7 +58,7 @@ One last tip: it’s even better if you’re also a user of your own solution. I
 
 ---
 
-### *What About You?*
+## Reflection
 
 - *What urgent, painful problems do you see around you?*
 - *Are you willing to work on them for the next three to five years?*

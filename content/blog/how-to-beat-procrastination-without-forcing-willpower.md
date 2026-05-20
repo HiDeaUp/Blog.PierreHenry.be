@@ -53,7 +53,7 @@ Remember, investing in yourself is the best investment you can make. Don’t let
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Set a clear vision, not just goals.
 - Break big tasks into small daily actions.
 - Value your time as much as your money.
@@ -61,7 +61,7 @@ Remember, investing in yourself is the best investment you can make. Don’t let
 - Reward yourself for progress.
 - Start now—don’t wait for the perfect moment.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one thing you can do today that will move you closer to your vision?
 - How much is your time really worth to you?
 - Are you letting your time slip away, or are you investing it in yourself?

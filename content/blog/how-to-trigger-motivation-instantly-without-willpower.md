@@ -41,18 +41,18 @@ The bottom line is that your environment is crucial for preparing yourself for a
 ![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NjYzNTgyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Trigger Motivation Instantly Without Willpower")
 *How to Trigger Motivation Instantly Without Willpower - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - What you do before a task shapes your motivation.
 - Physical movement can boost your energy.
 - Calm environments and music can spark creativity.
 - Libraries and bookstores are perfect for writing inspiration.
 - The right environment makes any task easier to start.
 
-**Actions List**
+## Action Steps
 - Try a quick physical warm-up before energetic tasks.
 - Use music or peaceful spaces to relax and get creative.
 - Visit a library or bookstore if you want to write.
 - Notice how your environment affects your motivation.
 
-*What about you?*
+## Reflection
 *How do you prepare yourself before starting something important? What kind of environment helps you the most?*

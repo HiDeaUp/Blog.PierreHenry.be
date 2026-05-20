@@ -39,17 +39,17 @@ What’s most important is consistency. You don’t need to spend hours every da
 ![Photo by Marija Zaric](https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc2VsZi1leHByZXNzaW9uJTIwcGVyc29uYWwlMjBwcm9qZWN0c3xlbnwwfDB8fHwxNzU2NjMzODE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Beautiful Things Just for Yourself")
 *How to Create Beautiful Things Just for Yourself - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Do things that make you happy and proud, just for you.
 - Even small daily efforts add up to something big over time.
 - Your projects become your signature and help you stand out.
 - Consistency is more important than intensity.
 
-*Actions List:*
+## Action Steps
 - Pick one project that excites you and start today.
 - Dedicate just 30 minutes a day to it.
 - Track your progress and celebrate small wins.
 
-*Ask Yourself:*
+## Reflection
 - What is one thing I can start today that will make me proud tomorrow?
 - How can I make time for my own projects, even if it’s just a little each day?

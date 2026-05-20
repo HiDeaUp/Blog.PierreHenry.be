@@ -39,13 +39,13 @@ If you want to go even further in improving your daily life, remember that it al
 ![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzI1NDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Unbreakable Resilience With Small Daily Challenges")
 *How to Build Unbreakable Resilience With Small Daily Challenges - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Set yourself small, clear challenges.
 - Stick to your commitments, no matter the weather or circumstances.
 - Adjust your routine if needed, but never skip your goal.
 - Let your challenges motivate you to get up and take action every day.
 
-*Ask Yourself:*
+## Reflection
 - What small challenge can you set for yourself this month?
 - How will you hold yourself accountable, even when it gets tough?
 - What’s one thing you can do today to build your resilience?

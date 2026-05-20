@@ -37,13 +37,13 @@ So, whenever you feel like giving up, remember that moving forward—even with s
 ![Male Rock Climber Mountain](https://images.unsplash.com/photo-1502126361989-34361003b3a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcmVzaWxpZW5jZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTAwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Going When Life Slows You Down")
 *How to Keep Going When Life Slows You Down - Photo by [Brad Barmore](https://unsplash.com/@bradbarmore) on [Unsplash](https://unsplash.com/photos/man-rock-climbing-on-mountain-iLK1W79UdcU)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Keep moving forward, even on tough days.
 - Looking for new opportunities brings back your energy.
 - Don’t let setbacks stop you from trying again.
 - Progress, no matter how small, leads to success.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you pushed forward, even when you didn’t feel like it?
 - What new opportunity can you look for tomorrow?
 - How can you remind yourself to keep going when things get tough?

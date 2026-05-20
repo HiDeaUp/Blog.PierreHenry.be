@@ -93,7 +93,7 @@ Even ten minutes a day adds up. If you practice something for ten minutes every 
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - What experiences do I want to remember at the end of my life?
 - Am I spending my time on what truly matters to me?
 - What small step can I take today toward my biggest dream?

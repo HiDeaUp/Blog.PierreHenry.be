@@ -39,13 +39,13 @@ So, next time you feel left out or small, remind yourself: you’re not the cent
 ![Photo by Dawn Lio](https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaW1pdGluZyUyMGJlbGllZnMlMjBzZWxmLXdvcnRoJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTUxMzI4Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Feeling Left Out Into Your Biggest Strength")
 *How to Turn Feeling Left Out Into Your Biggest Strength - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Feeling left out doesn’t mean you’re less—it means you have room to grow.
 - You are much more than you think.
 - The only real limits are in your head.
 - Think big, aim high, and don’t let rejection define you.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you let your own beliefs hold you back?
 - What would you try if you truly believed anything was possible?
 - Are you ready to stop seeing yourself as small and start acting big?

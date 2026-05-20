@@ -41,17 +41,17 @@ This is really the only way to have any influence over your future. If you want 
 ![Photo by Alex Shute](https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0YWtlJTIwYWN0aW9uJTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwNjM5OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Living Now Without Waiting for the Perfect Moment")
 *How to Start Living Now Without Waiting for the Perfect Moment - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Don’t wait for the perfect moment—start now.
 - Our sense of time is often wrong; we always think we have more time than we do.
 - Taking action today is the only way to shape your future.
 - Small steps now lead to big changes later.
 
-*Actions List:*
+## Action Steps
 - Pick one thing you’ve been putting off and start it today.
 - Break big tasks into small, doable steps.
 - Remind yourself that time moves quickly—don’t let it slip away.
 
-*Ask Yourself:*
+## Reflection
 - What have you been waiting to start?
 - What small action can you take right now to move closer to your goal?

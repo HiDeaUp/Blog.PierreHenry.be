@@ -47,7 +47,7 @@ Remember, time is like a train that never stops. The best moment to act is alway
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Use a 5-second countdown to break inertia and start any task.*
 - *Make your timer app easy to access—remove all friction.*
 - *Try five-minute timers for bigger transitions, like getting out of bed or starting deep work.*

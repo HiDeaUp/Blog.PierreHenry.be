@@ -49,13 +49,13 @@ If you want to feed your mind with good things, start with small daily actions. 
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Comparing yourself to others only leads to frustration. Focus on your own progress.
 - Small, consistent actions have a powerful compound effect over time.
 - Every choice you make—what you eat, what you read, who you spend time with—shapes your life.
 - Start with what you can do today, and build from there.
 
-*Ask Yourself:*
+## Reflection
 - What small step can I take today to move closer to my goals?
 - Am I spending too much energy comparing myself to others?
 - What habits or people are shaping my life right now?

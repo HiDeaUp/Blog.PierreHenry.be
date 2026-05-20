@@ -43,7 +43,7 @@ Life is beautiful. It deserves to be lived fully, right now. Don’t let worries
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 - Stop waiting for the “right” time—there’s no such thing.
 - Enjoy where you are, not where you think you should be.
 - Money and time will never feel like “enough.” Start anyway.

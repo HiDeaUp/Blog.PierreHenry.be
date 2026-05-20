@@ -45,14 +45,14 @@ If you want to go even further, I’ve written many articles on this topic and m
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Use music that reminds you of your best memories to boost your mood.*
 - *Print and display photos from your happiest moments to recharge your energy.*
 - *Combine music and movement for an instant lift.*
 - *Watch inspiring talks or read biographies to put your problems in perspective.*
 - *Remember, everyone has ups and downs—find your own way to get motivated again.*
 
-*Ask Yourself:*
+## Reflection
 - *What songs instantly bring back your happiest memories?*
 - *Which photos would you put on your wall to remind you of your best moments?*
 - *How can you create new memories that will inspire you in the future?*

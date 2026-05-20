@@ -47,14 +47,14 @@ done is better than perfect, perfectionism, get it done, complete, finish, rough
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Daily creation builds real expertise and unique value.
 - Obsession with your project or field leads to mastery.
 - Notice details, take notes, and let your environment inspire you.
 - Over time, you’ll become irreplaceable and your worth will grow.
 - Passion, not just money, is the real fuel for success.
 
-*Ask Yourself:*
+## Reflection
 - What project or field could you become obsessed with?
 - How can you make daily progress, even in small ways?
 - What details around you could inspire your next big idea?

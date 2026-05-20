@@ -50,20 +50,20 @@ Break big tasks into small steps. If you do a little bit every day, the results 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Always ask yourself how you can do better, even if you’re already doing well.
 - Consistency and discipline are more important than chasing new ideas.
 - Reflect on your progress weekly and adjust your goals as needed.
 - Balance productivity with happiness—don’t sacrifice your well-being for short-term gains.
 - Break big goals into small, daily actions.
 
-*Actions List:*
+## Action Steps
 - Set a daily routine and stick to it.
 - Review your weekly goals and progress.
 - Try breaking big tasks into smaller steps.
 - Make time for social, physical, and restful activities every day.
 
-*Ask Yourself:*
+## Reflection
 - Am I settling for “good enough,” or can I push a little further?
 - What small change can I make today to get closer to my long-term goals?
 - Is my routine helping me grow, or do I need to adjust it?

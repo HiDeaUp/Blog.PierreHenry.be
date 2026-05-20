@@ -39,13 +39,13 @@ So, think about which topics you want to learn. This week, pick just one subject
 ](https://images.unsplash.com/photo-1599081595921-238c45c87bda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHVkeSUyMHBsYW5uZXIlMjBzZWxmLWRldmVsb3BtZW50JTIwcGVyc29uYWwlMjBwcm9qZWN0c3xlbnwwfDB8fHwxNzU1NjA5MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Your Learning Without Overwhelm")
 *How to Take Charge of Your Learning Without Overwhelm - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/black-and-white-book-beside-brown-pencil-OFJ4iDE2VuE)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - A study planner gives you direction and structure for your personal projects.
 - Focus on active learning by applying what you learn right away.
 - Choose one topic each week and stick to it for better results.
 - Investing in your own growth is the most important step you can take.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one skill or topic you want to master this week?
 - How can you make your learning more active and less passive?
 - Are you investing your time in yourself, or just letting your days slip by?

@@ -47,13 +47,13 @@ Regularity is your best friend. Treat your dream like a part of your daily hygie
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Make your dream a daily habit, not a distant wish.
 - Small, regular actions matter more than occasional big efforts.
 - Don’t let your goal fade from your routine—keep it present every day.
 - Persistence and regularity are the real shortcuts to success.
 
-*Ask Yourself:*
+## Reflection
 - What small step can I take today toward my biggest goal?
 - Is my dream part of my daily routine, or am I letting it slip away?
 - How can I make my commitment to my goal as natural as brushing my teeth?

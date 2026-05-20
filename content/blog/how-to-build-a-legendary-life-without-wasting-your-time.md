@@ -58,20 +58,20 @@ So, next time you hesitate, remember: asking opens doors. Not asking is the same
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Time is your most valuable asset—invest it wisely.
 - Mistakes are steps, not setbacks. Learn by doing.
 - Don’t wait for the perfect moment. Start now.
 - Change your mindset: ask “What if the answer is yes?”
 - If you don’t ask, the answer is always no.
 
-*Actions List:*
+## Action Steps
 - Review how you spend your time each day.
 - Identify one thing you can stop doing that wastes your time.
 - Try asking for something you want today, even if it feels uncomfortable.
 - Challenge a negative thought with a positive question.
 
-*Ask Yourself:*
+## Reflection
 - Am I using my time in a way that builds the life I want?
 - What’s one thing I’ve been afraid to ask for?
 - If I believed the answer was always yes, what would I try next?

@@ -50,7 +50,7 @@ This discipline leads to better productivity and helps you get into the “zone�
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you were truly unreachable?
 - What could you achieve if you protected your focus time every week?
 - How would your life change if you made your own “not to be disturbed” rule?

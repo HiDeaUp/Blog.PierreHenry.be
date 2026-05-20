@@ -43,18 +43,18 @@ Learning something new or becoming an expert in a field doesn’t mean you’ll 
 ![Photo by Sabine Freiberger](https://images.unsplash.com/photo-1682350054692-7d2fab9776dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVzaCUyMHN0YXJ0JTIwbGlmZSUyMGNoYW5nZXMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA4Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Over Without Waiting for the “Right Moment”")
 *How to Start Over Without Waiting for the “Right Moment” - Photo by [Sabine Freiberger](https://unsplash.com/@bine_1) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-mIn-IlifdpE)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Every experience matters, even if it doesn’t work out as planned.
 - Don’t wait for the perfect moment—take action now.
 - Changing your environment can open up new possibilities.
 - Your dreams are worth pursuing, even if the path is uncertain.
 
-*Actions List:*
+## Action Steps
 - Identify one thing you’ve been putting off and take the first step today.
 - Reflect on your current environment—does it help you grow?
 - Reach out to someone who inspires you and ask about their journey.
 
-*Ask Yourself:*
+## Reflection
 - What’s one dream you’ve delayed for too long?
 - Are you living the life you truly want, or just the one you settled for?
 - What’s stopping you from making a fresh start?

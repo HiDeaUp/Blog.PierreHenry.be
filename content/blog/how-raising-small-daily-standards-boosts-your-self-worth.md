@@ -43,12 +43,12 @@ When you raise your standards, you start to live a better life. You feel more co
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Treat yourself as you would treat a valued guest.
 - Small daily upgrades build self-respect and confidence.
 - You deserve better, even when no one is watching.
 - Start with simple habits: set the table, eat from real dishes, care for your body.
 - Raising your standards is a daily practice, not a one-time event.
 
-**Ask Yourself**
+## Reflection
 *What is one small habit you can upgrade today to show yourself more respect? How would your life change if you treated yourself like someone truly important, every single day?*

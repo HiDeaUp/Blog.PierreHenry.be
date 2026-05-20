@@ -58,6 +58,6 @@ One thing I’ve learned is that teaching what you learn is a great way to reall
 - Don’t be afraid to try something new, even if it’s scary.
 - Share what you learn with others to deepen your understanding.
 
-### What About You?
+## Reflection
 
 *Are you living your life for yourself, or for someone else? What’s one thing you could try today that’s just for you?*

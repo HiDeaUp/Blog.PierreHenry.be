@@ -45,18 +45,18 @@ Life is short. Sometimes we wake up and realize years have passed without really
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Take regular breaks just for yourself, even if it’s only half an hour.
 - Use these moments to relax, reflect, and recharge.
 - Disconnect from screens and distractions; focus on being present.
 - Ask yourself if you’re living the life you want, or just following old habits.
 
-*Actions List:*
+## Action Steps
 - Schedule a “date” with yourself this week.
 - Try a hermit weekend or even just a few hours alone with a book and a snack.
 - Reflect on your current path and make changes if needed.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly spent time alone, just for you?
 - Are you living by choice, or by default?
 - What small ritual could you start to reconnect with yourself?

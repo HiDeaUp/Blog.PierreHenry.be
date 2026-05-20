@@ -39,16 +39,16 @@ Take a moment to reflect: What is the central thing that makes you happy? How ca
 ![Sunflower against blue sky with small clouds](https://images.unsplash.com/photo-1658564763147-d5e75fca0a15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdW5zaGluZSUyMG1vb2QlMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NDE4NzU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood With Sunshine—No Therapy Needed")
 *How to Boost Your Mood With Sunshine—No Therapy Needed - Photo by [David Cho-Lerat](https://unsplash.com/@elratondefuego) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-sunflower-tuIEw5doAkY)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Sunshine and pleasant surroundings naturally boost our mood and happiness.
 - Our environment has a bigger impact on our well-being than we often realize.
 - Small changes in your daily life and surroundings can make a big difference.
 - Find what makes you feel good and build your life around it.
 
-**Actions List**
+## Action Steps
 - Notice how different environments affect your mood.
 - Spend more time in places that make you feel positive and safe.
 - Make small changes at home or work to create a happier space.
 
-*What about you?*
+## Reflection
 *What kind of environment makes you feel your best? How can you bring more of that into your daily life?*

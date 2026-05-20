@@ -70,20 +70,20 @@ Adopt this mindset: What’s next? What do I need to do to get there? You have t
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Building your own project is the best investment you can make in yourself.
 - Start small—scripts, apps, anything that excites you.
 - Use your time wisely; don’t let distractions steal your days.
 - Visualize the person you want to become and start acting like them now.
 - The only real limit is the one you set in your mind.
 
-*Actions List:*
+## Action Steps
 - Pick a small project and start today.
 - Limit distractions—try airplane mode for focused work.
 - Write down your goals and visualize your ideal day every morning.
 - Take one step each day toward the person you want to be.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one project you’ve always wanted to start?
 - Who do you want to become in two years?
 - What’s stopping you from starting today?

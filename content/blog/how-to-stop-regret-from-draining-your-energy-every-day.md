@@ -37,13 +37,13 @@ There’s only one life. Don’t keep putting off what you want to do. Take acti
 ![Photo by Marija Zaric](https://images.unsplash.com/photo-1706206448433-f3562a40e035?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjB3ZWxsLWJlaW5nJTIwY29waW5nJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzU2MDEwNTI4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Regret From Draining Your Energy Every Day")
 *How to Stop Regret From Draining Your Energy Every Day - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-feelings-on-it-qXpxU0ueurc)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Frustration comes from holding onto regrets and negativity.
 - The more you dwell on the past, the less you move forward.
 - Turn the page, focus on today, and take action now.
 - Life is short—use your time to make choices that matter.
 
-*Ask Yourself:*
+## Reflection
 - What regrets are you holding onto that you could let go of today?
 - How can you use your time better, starting now?
 - What small step can you take today to move forward?

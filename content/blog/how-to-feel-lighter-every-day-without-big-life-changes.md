@@ -32,7 +32,7 @@ It all starts with knowing yourself. Listen to what you truly want. Ask yourself
 
 ---
 
-**TL;DR**
+## Key Takeaways
 - The way you start your day shapes how relaxed you’ll feel.
 - Choose activities and places that genuinely make you happy.
 - Good habits—like exercise and balanced meals—help create a positive cycle.
@@ -43,13 +43,13 @@ It all starts with knowing yourself. Listen to what you truly want. Ask yourself
 With love from Korpo.](https://images.unsplash.com/photo-1533537841959-705741f3d3a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwc2VsZi1jYXJlJTIwc3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzQ4NTk0MzE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Lighter Every Day Without Big Life Changes")
 *How to Feel Lighter Every Day Without Big Life Changes - Photo by [Aarón Blanco Tejedor](https://unsplash.com/@the_meaning_of_love) on [Unsplash](https://unsplash.com/photos/painting-of-man-VBe9zj-JHBs)*
 
-**Actions List**
+## Action Steps
 - Start your day with a choice that makes you feel good.
 - Try a new activity or visit a place that helps you relax.
 - Build small, healthy habits into your routine.
 - Reflect on what truly brings you joy and make it a priority.
 
-*Ask Yourself:*
+## Reflection
 - What small change could make your day more relaxing?
 - Are you listening to your own needs, or letting others decide for you?
 - How can you use your time today to feel lighter and happier?

@@ -51,20 +51,20 @@ So, take charge of your life. Stay positive. I believe in you, and I know you ca
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Listen to yourself, not to trends or others’ expectations.
 - Imagine the life you want, then work backwards to plan your steps.
 - Find joy in small, personal achievements.
 - Don’t wait for the “right” time—start now.
 - Reflect daily on what makes you happy and what doesn’t, and adjust accordingly.
 
-*Actions List:*
+## Action Steps
 - Spend a few minutes today asking yourself what you really want.
 - Write down what made you happy (and unhappy) today.
 - Tomorrow, look at your list and decide what to keep and what to change.
 - Repeat this every day for a week and notice the difference.
 
-*Ask Yourself:*
+## Reflection
 - What would your life look like if you stopped living for others?
 - What small step can you take today toward the life you want?
 - Are you waiting for a “perfect” moment that may never come?

@@ -39,13 +39,13 @@ For example, if you want to be a professional speaker, you have to work on your 
 ![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1Mzg0MTU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Without Old Habits Holding You Back")
 *How to Shape Your Future Without Old Habits Holding You Back - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your words, thoughts, and posture shape who you are and who you become.
 - Old habits and negative behaviors will hold you back from your goals.
 - Align your actions, language, and mindset with the person you want to be.
 - Success becomes easier when your habits match your ambitions.
 
-*Ask Yourself:*
+## Reflection
 - Are my daily habits helping me become the person I want to be?
 - What small change can I make today in my speech, posture, or thoughts to move closer to my goals?
 - Am I holding onto any rituals or perceptions that no longer serve me?

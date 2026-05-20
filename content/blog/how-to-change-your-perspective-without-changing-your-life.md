@@ -36,20 +36,20 @@ Changing your mindset isn’t about ignoring problems or pretending everything i
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - The way you see things is shaped by your past, your values, and your personality.
 - What feels huge to you might be nothing to someone else—and vice versa.
 - Your mindset can hold you back more than any outside obstacle.
 - Sometimes, the solution is to change your perspective, not the situation.
 - Focus on what really matters for your goals, even if it’s uncomfortable.
 
-*Actions List:*
+## Action Steps
 - Notice when your reactions are making things harder for you.
 - Try to see situations from another point of view.
 - Ask yourself what you can do right now to move forward, instead of getting stuck.
 - Remember: progress is better than perfection.
 
-*Ask Yourself:*
+## Reflection
 - What’s one belief or habit that’s holding you back right now?
 - How could you see it differently?
 - What small action could you take today to shift your mindset?

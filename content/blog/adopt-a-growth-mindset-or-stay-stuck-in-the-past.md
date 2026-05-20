@@ -50,14 +50,14 @@ Building a life or a business that fits you doesn’t happen by accident. It tak
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Stay curious and keep learning, whether through formal education or on your own.
 - Consistency and perseverance matter more than raw talent or luck.
 - Don’t be afraid to pivot if something isn’t working.
 - Know your audience deeply—create a detailed avatar and speak directly to them.
 - Build step by step; big results come from small, regular actions.
 
-*Ask Yourself:*
+## Reflection
 - What am I truly curious about, and how can I learn more every day?
 - Am I being persistent, or just stubborn?
 - Who is my ideal “avatar,” and what do they really want?

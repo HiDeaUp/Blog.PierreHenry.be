@@ -45,18 +45,18 @@ If you want to go further in making your days more fulfilling, I encourage you t
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Urgent tasks are not always important tasks.
 - Make time for what truly matters to you, not just what feels pressing.
 - Schedule at least one meaningful activity for yourself each week.
 - Your happiness and fulfillment are the real sources of energy and motivation.
 
-*Actions List:*
+## Action Steps
 - Identify what brings you joy and fulfillment.
 - Block out time each week for these activities.
 - Notice how your mood and energy change when you prioritize yourself.
 
-*Ask Yourself:*
+## Reflection
 - What have I been putting off that would make me happier?
 - When will I schedule my next “me time” session?
 - How can I make my priorities more visible in my daily life?

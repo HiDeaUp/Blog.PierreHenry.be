@@ -77,7 +77,7 @@ In the end, life is about doing what fills you up and keeps you moving forward. 
 
 ---
 
-### *What About You?*
+## Reflection
 
 - *What’s one thing you keep putting off that you could start today?*
 - *Are your daily actions moving you closer to what really matters to you?*

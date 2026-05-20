@@ -44,18 +44,18 @@ Don’t underestimate the power of these tiny routines. Your happiness and fulfi
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Break big goals into small, daily habits.
 - Use short time slots (10–30 minutes) to make progress.
 - Treat your dreams like daily hygiene—non-negotiable.
 - Small efforts add up to big results over time.
 
-*Actions List:*
+## Action Steps
 - Choose one project or dream you want to work on.
 - Schedule a daily 10–30 minute slot for it—preferably in the morning.
 - Stick to it every day, no matter what.
 - Track your progress weekly to see your growth.
 
-*Ask Yourself:*
+## Reflection
 - What small habit can I start today that will move me closer to my biggest goal?
 - Am I giving my dreams the same priority as my daily routines?

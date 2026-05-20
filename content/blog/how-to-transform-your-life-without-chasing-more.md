@@ -70,21 +70,21 @@ You deserve to be happy. The purpose of life is fulfillment and joy. If you’re
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Don’t wait for “one day” to enjoy life—start now.
 - Your values and goals will change over time, and that’s normal.
 - Know the difference between perseverance and stubbornness.
 - Take care of what matters to you, and you’ll grow to love it.
 - Be the main actor in your life—don’t just go through the motions.
 
-*Actions List:*
+## Action Steps
 - Reflect on whether you’re chasing goals that truly matter to you.
 - Set short, medium, and long-term goals that fit your current values.
 - Let go of projects or habits that no longer serve you.
 - Replace bad habits with activities that bring you more joy.
 - Take action today, not tomorrow.
 
-*Ask Yourself:*
+## Reflection
 - Am I living for myself, or for someone else’s expectations?
 - What do I really want right now?
 - Is it time to change direction?

@@ -53,18 +53,18 @@ The point of life is to be happy, to feel good, and to do what brings you joy. I
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Enjoy the simple moments—don’t wait for a special occasion.
 - Choose your own path, not the one others expect of you.
 - Make a list of what you want to do and take small steps every day.
 - Happiness comes from doing what feels right for you.
 
-*Actions List:*
+## Action Steps
 - Write down three things that make you happy and do one today.
 - Spend one hour this week on something just for you.
 - Reflect on whether you’re living your life—or someone else’s.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small thing you can do today to feel more alive?
 - Are you following your own dreams, or someone else’s expectations?
 - What would your life look like if you chose happiness every day?

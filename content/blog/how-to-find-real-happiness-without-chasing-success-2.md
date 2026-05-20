@@ -40,13 +40,13 @@ So, it’s important to know yourself and choose your circle wisely. Surround yo
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Happiness starts with knowing yourself and your values.
 - Fill your days with activities and people that truly make you happy.
 - Avoid comparing yourself to others or chasing their approval.
 - The people you spend time with shape who you become—choose them carefully.
 
-*Ask Yourself:*
+## Reflection
 - Who are the three people I spend the most time with?
 - Do they inspire me to be my best self?
 - What small changes can I make today to bring more happiness into my life?

@@ -98,9 +98,5 @@ I’m pretty happy with how this turned out. Cursor, when paired with up-to-date
 > “Up-to-date docs mean up-to-date code. Don’t settle for outdated references.”
 
 ---
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)  
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
 
 #### Smarter API integrations start with smarter tools.

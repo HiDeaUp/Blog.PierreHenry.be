@@ -39,14 +39,14 @@ The most important thing is to keep moving forward, step by step. The journey is
 ![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MDY2ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Push Your Limits Without Burning Out")
 *How to Push Your Limits Without Burning Out - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Pushing your limits gives you energy and motivation.
 - Set a clear, meaningful goal—even if it seems impossible.
 - Take daily actions, no matter how small.
 - Ask for help and build a support network.
 - The journey shapes you as much as the result.
 
-*Ask Yourself:*
+## Reflection
 - What is one goal that scares you, but excites you at the same time?
 - Who could you ask for support or advice on your journey?
 - What small step can you take today to get closer to your dream?

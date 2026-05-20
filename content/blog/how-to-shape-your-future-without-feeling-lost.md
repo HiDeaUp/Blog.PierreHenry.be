@@ -40,14 +40,14 @@ If you want to go even further in improving your daily life, I recommend keeping
 ![Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background](https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdXR1cmUlMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjEwOTAxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Without Feeling Lost")
 *How to Shape Your Future Without Feeling Lost - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Having a clear vision for your future shapes your daily choices.
 - Align your lifestyle with your values and what brings you joy.
 - Time is more precious than money; spend it on what matters.
 - Balance between work and personal life leads to greater happiness.
 - Use a notebook to track your vision and progress.
 
-*Ask Yourself:*
+## Reflection
 - What does your ideal future look like in five or ten years?
 - Are your daily actions moving you closer to that vision?
 - What small changes can you make today to live a life you truly enjoy?

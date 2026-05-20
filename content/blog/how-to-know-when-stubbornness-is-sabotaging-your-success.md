@@ -55,6 +55,6 @@ If you see there’s no demand, don’t let your pride or the years you’ve inv
 - Be willing to pivot or start something new if the signs are clear.
 - Remember: learning and changing course is a strength, not a weakness.
 
-### What About You?
+## Reflection
 
 *Are you holding onto something just to prove a point? What could you achieve if you let go and tried a new path?*

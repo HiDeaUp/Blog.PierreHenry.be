@@ -43,14 +43,14 @@ So, next time you’re out and about, bring a notebook. Write down what catches 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Taking notes makes you more alert and creative.
 - A notebook helps you focus and avoid distractions.
 - Writing down questions and ideas can lead to big discoveries.
 - Practice noticing details everywhere you go.
 - Connecting ideas from your notes can spark innovation.
 
-*Ask Yourself:*
+## Reflection
 - What small details have I missed today that could inspire me?
 - How could a simple notebook change the way I see the world?
 - What questions am I curious about right now?

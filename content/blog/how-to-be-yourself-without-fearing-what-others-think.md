@@ -53,18 +53,18 @@ The point is, you can invite positive people into your life, even if it’s just
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Living as your true self is hard, but worth it.
 - Don’t let fear of judgment steal your life.
 - Your time is your most precious asset—protect it.
 - Face your fears daily to build resilience.
 - Surround yourself with positive influences, even virtually.
 
-**Actions List**
+## Action Steps
 - Ask yourself: What’s the worst that could happen if I’m truly myself?
 - Try doing one thing every day that scares you.
 - Seek out positive people, online or offline.
 - Remember: your life belongs to you, not to others.
 
-**What About You?**
+## Reflection
 *Are you living your own life, or someone else’s? What small step can you take today to be more yourself?*

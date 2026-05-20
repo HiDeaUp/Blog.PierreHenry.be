@@ -63,10 +63,4 @@ Now, check: does your company already use an auth provider? Is there a library f
 - Smart engineers still make mistakes by jumping in too fast. Don't be that person.
 
 ---
-🤔 [Learn more about me on Dev.to](https://dev.to/pierre)  
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
-
-### Kicker:  
-The smartest move in software engineering is sometimes to pause, not to code.
+🤔 [Learn more about me on Dev.to](https://dev.to/pierre)

@@ -55,7 +55,7 @@ So, make it a habit to say “yes” to opportunities, to keep your energy up, a
 ![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwbG9uZy10ZXJtJTIwZ29hbHMlMjBtZW50YWwlMjBiYXJyaWVyc3xlbnwwfDB8fHwxNzU1NjA0ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Mental Limits Without Forcing Motivation")
 *How to Break Mental Limits Without Forcing Motivation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)*
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 - Your mindset can be your biggest obstacle—or your greatest ally.
 - Replace limiting beliefs with positive affirmations and inspiring voices.
@@ -63,7 +63,7 @@ So, make it a habit to say “yes” to opportunities, to keep your energy up, a
 - Focus on small, weekly improvements rather than the whole journey at once.
 - Positivity attracts opportunities; negativity closes doors.
 
-### **Actions List**
+## Action Steps
 
 - Make a playlist of inspiring talks or podcasts.
 - Stand in front of the mirror and say your affirmations every morning.

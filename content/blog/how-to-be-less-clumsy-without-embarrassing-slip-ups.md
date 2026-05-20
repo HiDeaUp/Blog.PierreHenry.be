@@ -41,16 +41,16 @@ Every mistake is a chance to become a better version of yourself than you were y
 ![I love feet shots. It’s silly, but I love taking pictures of shoes or feet. So I was hanging with my friend Samantha on top of this parking garage in downtown Redding, California, and I just knew I had to get this shot. The lighting, the dress, the white converse, everything was just beautiful.](https://images.unsplash.com/photo-1500699889581-a7f97ec155d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjbHVtc2luZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU2NjM1MTA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Less Clumsy Without Embarrassing Slip-Ups")
 *How to Be Less Clumsy Without Embarrassing Slip-Ups - Photo by [Japheth Mast](https://unsplash.com/@japhethmast) on [Unsplash](https://unsplash.com/photos/woman-standing-beside-the-fence-lAB1aswd_rg)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Pay attention to your surroundings, especially when handling valuable items.
 - Pause and think before acting, especially in routine situations.
 - Learn from small mistakes and use them to improve your habits.
 - Being present helps prevent clumsy accidents.
 
-**Actions List**
+## Action Steps
 - Next time you’re about to set something down, check if it’s a safe spot.
 - When you make a mistake, reflect on how you can avoid it in the future.
 - Practice being present in everyday tasks, even the simple ones.
 
-*What about you?*
+## Reflection
 *When was the last time a small oversight led to a clumsy moment? What can you do today to be more attentive and avoid repeating it?*

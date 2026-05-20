@@ -37,13 +37,13 @@ This way of living does not happen overnight. It takes practice and patience. Th
 ![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUyMDY3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Emotions for Daily Inspiration Without Losing Control")
 *How to Use Your Emotions for Daily Inspiration Without Losing Control - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Emotions are dynamic and can take over if we let them.
 - Use emotions as inspiration, not as your guide.
 - Pause, reflect, and choose your actions instead of reacting impulsively.
 - Practice makes it easier to stay in control and avoid regrets.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time an emotion took over your actions?
 - How can you pause and reflect the next time you feel overwhelmed?
 - What could you learn from your emotions instead of fighting them?

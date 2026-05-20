@@ -43,14 +43,14 @@ A simple routine like this can make a huge difference in your productivity and p
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Plan your tasks the night before to save time and mental energy.
 - Use Tuesdays and Wednesdays for strategic thinking and planning.
 - Reserve Fridays for executing your plans, not for deep thinking.
 - Focus on tasks where you add the most value and delegate the rest.
 - Regular reflection helps you improve your routine and results.
 
-*Ask Yourself:*
+## Reflection
 - Are you spending your best energy on your most important tasks?
 - What could you delegate or drop to focus on what matters most?
 - When is your mind sharpest for planning and reflection?

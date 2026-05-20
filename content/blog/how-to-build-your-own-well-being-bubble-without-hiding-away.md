@@ -47,18 +47,18 @@ Building your own well-being bunker isn’t about luxury or big spaces. It’s a
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Your environment shapes your happiness—make it clean, safe, and positive.
 - Declutter by boxing up unused items and letting them go after a few months.
 - Build good habits: close doors, clean as you go, and keep your space tidy.
 - Invest in plants and healthy choices instead of junk food or cigarettes.
 
-*Actions List:*
+## Action Steps
 - Box up everything you haven’t used today, label it, and review in 3-6 months.
 - Close doors and cabinets right after use.
 - Clean up immediately after yourself.
 - Buy a plant instead of candy or junk food.
 
-*Ask Yourself:*
+## Reflection
 - What small changes can you make today to build your own bubble of happiness?
 - What’s one thing you can let go of right now to clear your space and your mind?

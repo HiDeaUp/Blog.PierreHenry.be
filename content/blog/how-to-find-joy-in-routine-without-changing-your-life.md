@@ -40,7 +40,7 @@ I encourage you to look at your life this way. I’m with you, 100%, and I truly
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 ![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
 ― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwbGVhc3VyZSUyMGZpbmRpbmclMjBqb3klMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MTE0MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joy in Routine Without Changing Your Life")

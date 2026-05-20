@@ -45,13 +45,13 @@ Life is short. If you can work in a way that feels like a passion, like hanging 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment shapes your mood, energy, and productivity.
 - Decorating or personalizing your space can create a sense of magic and well-being.
 - Find the spot that works for you, whether it’s at home, in a library, or outside.
 - The right environment can help you reach your goals and enjoy your work more.
 
-*Ask Yourself:*
+## Reflection
 - What does your current environment say about you?
 - How could you make your space more inspiring or comfortable?
 - Where do you feel most at home and productive?

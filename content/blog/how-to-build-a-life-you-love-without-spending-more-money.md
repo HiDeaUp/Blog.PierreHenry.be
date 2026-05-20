@@ -43,13 +43,13 @@ Remember, your time is precious. Use it to build a life that feels good to you, 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Time is your most valuable resource—spend it on things that make you happy.
 - Notice what brings you joy and try to do it more often.
 - Reduce time spent on activities that don’t fulfill you.
 - Fill your days with small pleasures and meaningful moments.
 
-*Ask Yourself:*
+## Reflection
 - What small activity could you do today to make yourself happier?
 - Are you spending your time on things that truly matter to you?
 - How can you add more joyful moments to your daily routine?

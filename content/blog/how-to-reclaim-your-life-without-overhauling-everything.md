@@ -40,17 +40,17 @@ So, I suggest you start today. Build your routine, invest in yourself, and share
 ](https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZSUyMG1hbmFnZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NjU1ODE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reclaim Your Life Without Overhauling Everything")
 *How to Reclaim Your Life Without Overhauling Everything - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Build regular routines and stick to them.
 - Invest time in yourself, even if it’s just a little each day.
 - Share your progress online to inspire yourself and others.
 - Documenting your journey helps you see how far you’ve come.
 
-*Actions List:*
+## Action Steps
 - Set a fixed time each morning for your personal project.
 - Spend a few minutes daily sharing your progress on social media.
 - Reflect on your journey and celebrate small wins.
 
-*Ask Yourself:*
+## Reflection
 - What small habit can I start today to move closer to my goals?
 - How can I share my progress to inspire others and keep myself motivated?

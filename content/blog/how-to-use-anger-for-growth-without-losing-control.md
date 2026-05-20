@@ -64,18 +64,18 @@ The best time to act is always now. Don’t wait for the perfect moment. If you 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Anger is energy—use it to build, not destroy.
 - Don’t feed negativity with more negativity.
 - Know yourself and what brings out your best.
 - Turn setbacks into fuel for action.
 - The best time to start is now.
 
-*Actions List:*
+## Action Steps
 - Next time you feel angry, pause and ask: How can I use this energy for something positive?
 - Try the mirror exercise—talk to yourself about your goals and next steps.
 - Choose one small action today that moves you closer to the life you want.
 
-*Ask Yourself:*
+## Reflection
 - What’s one area of your life where you could turn anger into progress?
 - How can you make your next setback your next breakthrough?

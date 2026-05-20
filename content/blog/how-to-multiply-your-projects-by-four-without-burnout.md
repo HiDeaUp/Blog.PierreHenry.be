@@ -38,19 +38,19 @@ So, what time is it for you right now? What are you going to start today? Life i
 ![Photo by kris](https://images.unsplash.com/photo-1542123491-63f422a5f45e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMGNvbnNpc3RlbmN5JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzMTA1MTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Multiply Your Projects by Four Without Burnout")
 *How to Multiply Your Projects by Four Without Burnout - Photo by [kris](https://unsplash.com/@leafybirdy) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-productivity-printed-book-n9u9ZEoH2yM)*
 
-*TL;DR:*
+## Key Takeaways
 - Set a clear, concrete goal with a deadline.
 - Break it down into daily steps.
 - Show up every day, no matter what.
 - Don’t wait for the “perfect” moment—start now.
 
-*Actions List:*
+## Action Steps
 - Write down your main goal and the outcome you want.
 - Set a deadline—be specific.
 - Decide what you’ll do every day to move closer.
 - Stick to your daily action, even if it’s just one hour.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one thing I can start today that will move me closer to my goal?
 - Am I being specific enough about what I want and when I want it?
 - What’s stopping me from starting right now?

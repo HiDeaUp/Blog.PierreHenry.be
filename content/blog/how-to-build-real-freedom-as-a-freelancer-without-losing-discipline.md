@@ -68,21 +68,21 @@ Don’t wait for tomorrow. The best moment to act is today. If the path feels go
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Discipline is the real freedom for freelancers.
 - Build routines and lower the barriers to starting tasks.
 - Change your environment to support your goals.
 - Focus on the 20% of actions that bring 80% of results.
 - Happiness and fulfillment are the real goals.
 
-*Actions List:*
+## Action Steps
 - Set clear work hours and stick to them.
 - Create a distraction-free workspace.
 - Replace social media with deeper learning (like books).
 - Review your daily habits and routines.
 - Focus on tasks that truly move your business forward.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small change you can make to your environment today?
 - Which habit could you build this week to support your discipline?
 - Are you spending time on what really matters to you?

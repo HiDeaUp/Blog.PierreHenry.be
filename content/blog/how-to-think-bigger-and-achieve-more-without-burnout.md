@@ -37,13 +37,13 @@ When you start thinking and acting this way, you’ll notice real change. You’
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzI2OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger and Achieve More Without Burnout")
 *How to Think Bigger and Achieve More Without Burnout - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus on the 20% of actions that bring 80% of results.
 - Make consistency your best friend—even one hour a day matters.
 - Set clear goals and deadlines to keep moving up.
 - Always ask: what will have the biggest impact in the long run?
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can do today that my future self will thank me for?
 - Am I spending my energy on what truly matters, or just staying busy?
 - Where can I set a new challenge for myself this week?

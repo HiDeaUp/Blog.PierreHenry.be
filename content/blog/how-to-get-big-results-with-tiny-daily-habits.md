@@ -32,13 +32,13 @@ It’s easy to underestimate what you can achieve in a year by doing a little bi
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Small daily actions add up to big results over time.
 - Consistency is more important than intensity.
 - Avoid breaks to keep momentum strong.
 - Set a clear goal for the year and chip away at it every day.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you could improve by spending 15 minutes on it every day?
 - Are you letting breaks or weekends slow your progress?
 - How would your life look in a year if you started today?

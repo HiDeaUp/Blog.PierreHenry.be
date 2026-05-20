@@ -55,13 +55,13 @@ This is the message I want to share: your environment shapes your life. Take car
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Arrange your home to feel comfortable and personal.
 - Bring nature into your space, even with small touches.
 - Keep your home at a comfortable temperature and avoid screens before bed.
 - Balance your day with different activities for a happier life.
 
-*Ask Yourself:*
+## Reflection
 - How does your environment make you feel right now?
 - What small changes could you make to feel more at home?
 - Are you giving yourself enough time in nature or with natural elements?

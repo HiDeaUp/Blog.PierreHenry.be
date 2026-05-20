@@ -43,16 +43,16 @@ Remember, it’s normal to have days when you feel low. But by recalling good me
 ![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxncmF0aXR1ZGUlMjBtZW50YWwlMjBoZWFsdGglMjBwb3NpdGl2aXR5fGVufDB8MHx8fDE3NTUzODYyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Grateful When Life Feels Heavy")
 *How to Feel Grateful When Life Feels Heavy - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Write down positive memories, even small ones, to boost your mood.
 - Use background music to change your environment and mindset.
 - Pay attention to your posture and movement—they affect how you feel.
 
-*Actions List:*
+## Action Steps
 - Take five minutes to jot down a few happy memories.
 - Play some calming or energizing music in the background.
 - Stand up, stretch, and notice how your body feels.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small moment from your past that always makes you smile?
 - How can you bring more of those moments into your daily life?

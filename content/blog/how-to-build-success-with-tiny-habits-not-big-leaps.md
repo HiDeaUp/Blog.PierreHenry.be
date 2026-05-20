@@ -59,14 +59,14 @@ There’s no magic trick for overnight success. It takes effort, patience, and a
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Build daily habits so you don’t rely on motivation.
 - Set tiny goals to avoid procrastination.
 - Reward yourself for small wins.
 - Feed your body and mind with good things.
 - Keep your goals visible and surround yourself with inspiring stories.
 
-*Ask Yourself:*
+## Reflection
 - What tiny habit can you start today?
 - How can you make your goals part of your daily routine?
 - What’s one thing you can remove from your life that drags you down?

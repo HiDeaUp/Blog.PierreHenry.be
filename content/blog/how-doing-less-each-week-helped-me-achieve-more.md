@@ -36,14 +36,14 @@ The truth is, doing less but doing it better is what sets apart the work that la
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus on just two main goals each week.
 - Give yourself time to think and prepare.
 - Prioritize quality over quantity.
 - Avoid burnout and enjoy what you do.
 - Doing less, but better, makes all the difference.
 
-*Ask Yourself:*
+## Reflection
 - What could you achieve if you stopped trying to do everything?
 - Which two things would make the biggest impact for you this week?
 - Are you creating for the sake of creating, or are you building something you care about?

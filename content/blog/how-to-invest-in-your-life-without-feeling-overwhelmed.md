@@ -43,14 +43,14 @@ It is also important to balance your activities. A rich and fulfilling day is no
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Focus your energy on one main project each week.
 - Write down your goals and visualize your progress.
 - Balance your days with different types of activities.
 - Avoid spreading yourself too thin with too many projects.
 - Celebrate small wins and notice the difference at the end of the week.
 
-*Ask Yourself:*
+## Reflection
 - What is the one thing I want to focus on this week?
 - How can I organize my days to make real progress?
 - Am I giving myself enough variety to stay balanced and happy?

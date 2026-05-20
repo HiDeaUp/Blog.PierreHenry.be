@@ -41,19 +41,19 @@ Sometimes, we don’t realize how much our upbringing and past experiences have 
 ![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGVuZXJneSUyMGVudmlyb25tZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjA3NjU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Happiness by Changing Your Space")
 *How to Shape Your Happiness by Changing Your Space - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment has a huge impact on your happiness and mindset.
 - Small changes, like cutting unnecessary expenses, can help you improve your living space.
 - Minimalism and decluttering can make you feel better.
 - Don’t let your past or upbringing decide your present. You can always choose a new direction.
 
-*Actions List:*
+## Action Steps
 - Identify one area where you can save money this month.
 - Add something you love to your home, even if it’s just a plant.
 - Remove one item that no longer serves you.
 - Reflect on whether your current environment truly fits who you are.
 
-*Ask Yourself:*
+## Reflection
 - What small change can I make in my environment today to feel better?
 - Am I living in a space that inspires me, or one that was chosen for me?
 - What’s one thing I can let go of to create more room for happiness?

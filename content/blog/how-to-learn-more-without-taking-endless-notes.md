@@ -34,10 +34,10 @@ The real question is: are you using note-taking as a way to avoid action, or are
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Taking notes can be useful, but acting on what you learn is even better.
 - Consider creating something practical (like a video, audio, or PDF) instead of just writing notes.
 - Use your own creations as your reference material for the future.
 
-**Ask Yourself**
+## Reflection
 *Are you taking notes just to feel productive, or are you actually using what you learn? What could you create today from something you just learned?*

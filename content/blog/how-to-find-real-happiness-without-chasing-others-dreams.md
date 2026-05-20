@@ -43,13 +43,13 @@ If you want to go further in shaping your life, I encourage you to keep learning
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Ask yourself if you’re living for your own happiness or someone else’s expectations.
 - Don’t let years slip by in a life that doesn’t fulfill you.
 - Take action, even if it’s just a small step, to move toward the life you want.
 - Regularly step out of your comfort zone to discover what truly matters to you.
 
-*What About You?*
+## Reflection
 - Are you the main character in your own story, or just playing a part in someone else’s?
 - What small action can you take today to move closer to your real happiness?
 - If you could design your ideal life, what would it look like?

@@ -41,17 +41,17 @@ I encourage you to look at your life this way. Every stage, even the boring ones
 ![This my favorite photo ever taken of me.](https://images.unsplash.com/photo-1543001746-6b48d1dcf32b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmaW5kaW5nJTIwcGxlYXN1cmUlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG92ZXJjb21pbmclMjBib3JlZG9tfGVufDB8MHx8fDE3NTYwMTAzNzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joy in Boring Routines Without Quitting Your Job")
 *How to Find Joy in Boring Routines Without Quitting Your Job - Photo by [Tobias Gonzales](https://unsplash.com/@tobi_gon) on [Unsplash](https://unsplash.com/photos/man-leaning-beside-window-tmBYpdP-pbE)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Even boring jobs or routines can teach you something valuable.
 - Use downtime to learn, grow, or plan your next move.
 - See your life as a journey with many steps, not a dead end.
 - The only real limits are the ones you believe in.
 
-*Actions List:*
+## Action Steps
 - Identify one thing you can learn from your current situation.
 - Use your commute or free moments to listen to an audiobook or podcast.
 - Set a clear deadline for your next move, and start planning now.
 
-*Ask Yourself:*
+## Reflection
 - What small step can I take today to make my routine more meaningful?
 - How can I turn my current “plateau” into a launchpad for something better?

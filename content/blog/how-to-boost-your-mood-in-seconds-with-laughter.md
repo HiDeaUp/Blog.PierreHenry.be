@@ -34,16 +34,16 @@ The key idea is simple: laughter, even when it feels artificial, can break the c
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - You can't be happy and sad at the same time.
 - Laughter, even if it feels fake, can quickly improve your mood.
 - Try laughing alone as a simple exercise to feel better.
 
-*Actions List:*
+## Action Steps
 - Set aside a few minutes to laugh, even if it's just for yourself.
 - Notice how your mood shifts after a short burst of laughter.
 - Make laughter a regular part of your self-care routine.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you laughed just for the sake of it?
 - How could you use laughter to brighten your day today?

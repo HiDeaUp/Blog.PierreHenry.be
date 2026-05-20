@@ -32,15 +32,15 @@ This is what makes the difference: that strength, that tenacity, and always look
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Your background doesn’t decide your future.
 - Use your past as a strength, not an excuse.
 - Positivity and tenacity make all the difference.
 
-*Actions List:*
+## Action Steps
 - Ask yourself: How can I turn my story into my strength?
 - Look for the positive side, even in tough situations.
 - Decide what you can do now—not what you can’t.
 
-*What about you?*  
+## Reflection
 *What’s one thing from your past you can use as fuel for your future?*

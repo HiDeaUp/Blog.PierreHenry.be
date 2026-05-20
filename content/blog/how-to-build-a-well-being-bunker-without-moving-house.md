@@ -54,20 +54,20 @@ Building your own well-being bunker isn’t about having a big house or lots of 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment shapes your happiness and growth.
 - Declutter: Store unused items, review in 3-6 months, and let go of what you don’t use.
 - Keep your space tidy—clean as you go, close doors and cabinets, and don’t let mess pile up.
 - Add plants for life and calm; swap junk food for something that brings you joy.
 - It’s not about where you live, but how you live in your space.
 
-*Actions List:*
+## Action Steps
 - Box up unused items today and label them.
 - Make a habit of cleaning up right after using something.
 - Buy a plant instead of junk food this week.
 - Notice how your mood changes as your space becomes clearer.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you can remove from your space today?
 - How does your environment make you feel right now?
 - What small habit can you start to make your home feel more like a “well-being bunker”?

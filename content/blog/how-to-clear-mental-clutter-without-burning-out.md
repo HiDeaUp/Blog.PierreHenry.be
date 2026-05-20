@@ -69,21 +69,21 @@ Sometimes we do things because of social pressure or because it’s what everyon
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Simplify your daily schedule to reduce mental clutter.
 - Focus on the 20% of tasks that bring 80% of your results.
 - Review your day, keep what works, and cut what doesn’t.
 - Invest in tools or methods that save you time and energy.
 - Remember: your time is your life—use it wisely.
 
-*Actions List:*
+## Action Steps
 - Try time blocking your tasks for a week.
 - At the end of each day, write down what worked and what didn’t.
 - Remove or delegate tasks that don’t bring value.
 - Put obstacles in place to avoid bad habits.
 - Regularly ask yourself if your actions match your values.
 
-*Ask Yourself:*
+## Reflection
 - Are you spending your time on what truly matters to you?
 - What can you remove from your day to make space for what you love?
 - How can you make your daily tasks more enjoyable or meaningful?

@@ -37,14 +37,14 @@ So, today, I invite you to take a closer look at your day. Question your habits,
 ![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjByb3V0aW5lJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTU3Nzk2N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reinvent Your Days Without Overhauling Your Life")
 *How to Reinvent Your Days Without Overhauling Your Life - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Obstacles are part of trying new things—don’t let them stop you.
 - The first solution is rarely the best. Try different approaches.
 - If something isn’t working, change your strategy.
 - Reinvent your days by questioning your routines and habits.
 - Improvement comes from doing things differently, not just harder.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing in your day you could do differently?
 - Are you stuck repeating the same actions, hoping for a new result?
 - What small change could make a big difference for you?

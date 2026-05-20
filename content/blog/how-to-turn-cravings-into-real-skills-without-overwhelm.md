@@ -45,13 +45,13 @@ The key is to keep asking yourself: How can I turn what I love into something va
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your desires can become real projects, businesses, or careers.
 - Start with what excites you—curiosity is your best guide.
 - Look for ways to share your knowledge: courses, meetups, videos, audiobooks.
 - Practice creativity. The more you do, the more natural it feels.
 
-*Ask Yourself:*
+## Reflection
 - What interests have you been putting aside?
 - How could you turn your passion into something others find valuable?
 - What’s one small step you can take today to move closer to your goal?

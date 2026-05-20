@@ -34,11 +34,11 @@ Perseverance isn’t about never feeling doubt or frustration. It’s about refu
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Perseverance means not giving up, especially when you’re close to your goal.
 - If you feel stuck, try looking at the problem from a different angle.
 - The solution is often closer than you think.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you gave up just before reaching your goal?
 - How could you change your perspective the next time you feel stuck?

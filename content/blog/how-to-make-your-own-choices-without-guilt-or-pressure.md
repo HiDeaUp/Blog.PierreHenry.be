@@ -39,13 +39,13 @@ Remember, every decision you make is a piece of your life. Time is life. The mor
 ![Young woman in the Anza Borrego Desert.](https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbi1tYWtpbmclMjBzZWxmLWVtcG93ZXJtZW50JTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjM0NzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Your Own Choices Without Guilt or Pressure")
 *How to Make Your Own Choices Without Guilt or Pressure - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Know your values to make decisions that truly fit you.
 - Stop letting others’ opinions guide your choices.
 - Use a five-minute timer to make decisions quickly and avoid overthinking.
 - Every decision shapes your life—choose for yourself.
 
-*Ask Yourself:*
+## Reflection
 - Are your recent decisions truly yours, or are they influenced by others?
 - What values matter most to you when making choices?
 - How could your life change if you started deciding for yourself, right now?

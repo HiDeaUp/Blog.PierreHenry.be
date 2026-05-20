@@ -43,20 +43,20 @@ So, take a moment for yourself every day. Reflect, reset, and move forward. You�
 ![Photo by Артемий Савинков](https://images.unsplash.com/photo-1569535188944-249671c96238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZGZ1bG5lc3MlMjBsaWZlJTIwY29udHJvbHxlbnwwfDB8fHwxNzU1Mzg1MDU3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Alive Every Day Without Changing Your Life")
 *How to Feel Alive Every Day Without Changing Your Life - Photo by [Артемий Савинков](https://unsplash.com/@cloudman_spb) on [Unsplash](https://unsplash.com/photos/woman-wears-white-camisole-ayaE3EW3Cek)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Take a daily walk alone to reflect and reset.
 - Review your day: what went well, what could improve.
 - Don’t fear mistakes—they are steps forward.
 - Try new things, even if others say they won’t work.
 - Mindfulness and presence help you grow faster than comfort.
 
-*Actions List:*
+## Action Steps
 - Set aside 10 minutes daily for a “presence walk.”
 - Ask yourself: Am I proud of how I spent my day?
 - Identify one thing to improve tomorrow.
 - Let go of mental clutter—start fresh each day.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly felt present?
 - What’s one small change you can make today to live better?
 - Are you learning from your mistakes, or letting them hold you back?

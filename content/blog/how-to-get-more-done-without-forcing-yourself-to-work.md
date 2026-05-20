@@ -45,19 +45,19 @@ All of this boils down to one idea: give yourself a reason to finish. Whether it
 
 ---
 
-**TL;DR**
+## Key Takeaways
 - Set small rewards for finishing tasks, and bigger ones for bigger goals.
 - Give yourself clear deadlines to avoid procrastination.
 - Use your environment to your advantage—work where you feel inspired.
 - Try “task boxing”: limit your work by time or battery life to stay focused.
 
-**Actions List**
+## Action Steps
 - Decide on a reward for your next task—big or small.
 - Set a deadline and stick to it.
 - Find a place that makes you want to work.
 - Try boxing your tasks with time or other limits.
 
-*Ask Yourself:*
+## Reflection
 - What’s one reward that would really motivate you today?
 - Is your environment helping you, or holding you back?
 - How can you make finishing tasks feel more satisfying?

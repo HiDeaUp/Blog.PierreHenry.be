@@ -43,16 +43,16 @@ Treating people “aux petits oignons”—with extra care and attention—shoul
 ![A beautiful idol of Maa Durga at a workshop in Mumbai during Navratri 2019](https://images.unsplash.com/photo-1622279486466-e0e3bfdd0a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxraW5kbmVzcyUyMGN1c3RvbWVyJTIwc2VydmljZSUyMHdvcmtwbGFjZSUyMGN1bHR1cmV8ZW58MHwwfHx8MTc0OTMwOTAxM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Culture of Kindness Without Big Budgets")
 *How to Build a Culture of Kindness Without Big Budgets - Photo by [Sonika Agarwal](https://unsplash.com/@sonika_agarwal) on [Unsplash](https://unsplash.com/photos/woman-in-red-and-gold-dress-statue-g1A3ZF5UlTo)*
 
-*TL;DR:*
+## Key Takeaways
 - Small details and genuine kindness transform any service experience.
 - Paying attention to others’ needs creates loyalty and positive memories.
 - Even a few extra seconds of care can change someone’s day.
 
-*Actions List:*
+## Action Steps
 - Notice the little things and act on them.
 - Always aim for maximum quality, no matter the situation.
 - Treat everyone with the same care you’d give to your loved ones.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time a small gesture made your day?
 - How can you add a touch of kindness to your daily interactions?

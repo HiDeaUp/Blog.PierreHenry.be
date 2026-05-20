@@ -50,14 +50,14 @@ I believe in you. Take that first step today. Don’t put off what you can do ri
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Practice positive thinking daily, even for just five minutes.
 - Use simple breathing exercises to calm your mind and body.
 - Take time to rest and recharge—it’s essential for growth.
 - Set clear goals and review your progress regularly.
 - Small daily actions lead to big changes over time.
 
-*Ask Yourself:*
+## Reflection
 - What’s one positive memory you can recall right now?
 - How can you create a moment of well-being for yourself today?
 - What small change can you make in your environment to feel better?

@@ -43,20 +43,20 @@ Your life belongs to you. It’s up to you to decide how to use your days, how t
 ![Unsplash Power](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwc2VsZi1jYXJlJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NDkzMzAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Balance Without Burning Out Chasing “More”?")
 *How to Find Balance Without Burning Out Chasing “More”? - Photo by [Domenico Loia](https://unsplash.com/@domenicoloia) on [Unsplash](https://unsplash.com/photos/macbook-pro-on-table-beside-white-imac-and-magic-mouse-hGV2TfOh0ns)*
 
-*TL;DR:*
+## Key Takeaways
 - Discipline is important, but so is pleasure.
 - Balance your work and your downtime.
 - Don’t let guilt stop you from enjoying life.
 - Organize your days so you feel good, not just productive.
 
-*Actions List:*
+## Action Steps
 - Schedule real breaks in your day.
 - Try mixing different types of activities.
 - Create a dedicated space for focus, even if it’s just a corner.
 - Use simple tools to help you stay organized.
 - Reflect on what truly makes you happy.
 
-*Ask Yourself:*
+## Reflection
 - Are you giving yourself permission to enjoy life?
 - What small change could make your days feel more balanced?
 - How do you want to feel at the end of your day?

@@ -45,21 +45,21 @@ So, if you want to stop procrastinating, try this: set a clear goal, give yourse
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Set a clear goal and deadline for your tasks.
 - Promise yourself a real reward when you finish.
 - Choose an environment that helps you focus and feel good.
 - Use “task boxing” to give yourself time limits.
 - The more you believe in your dreams, the more you’ll find ways to reach them.
 
-*Actions List:*
+## Action Steps
 - Pick a task you’ve been putting off.
 - Decide on a reward that excites you.
 - Set a deadline and stick to it.
 - Make your workspace pleasant and motivating.
 - Try “task boxing” for your next project.
 
-*Ask Yourself:*
+## Reflection
 - What reward would really motivate you to finish your next task?
 - Is your environment helping or hurting your progress?
 - How can you make your goals feel more urgent and real?

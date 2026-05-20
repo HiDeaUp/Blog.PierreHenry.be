@@ -66,14 +66,14 @@ When you practice gratitude, you give yourself the energy to take the next step,
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 
 - *Write down moments that made you feel good, no matter how small.*
 - *Use music to change your mood and create a positive atmosphere.*
 - *Pay attention to your posture and move your body to help shift your mindset.*
 - *Remembering good times gives you energy and hope for the future.*
 
-*Ask Yourself:*
+## Reflection
 
 1. *What small moments from your past make you smile?*
 2. *How can you bring more of those moments into your daily life?*

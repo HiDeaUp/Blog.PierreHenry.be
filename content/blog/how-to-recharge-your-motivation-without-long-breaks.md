@@ -34,15 +34,15 @@ So, next time you feel your motivation slipping, don’t ignore it. Take a real 
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Short, positive breaks help you regain energy and motivation.
 - Visualizing your goal during these moments can boost your drive.
 - Regularly “tasting” positive energy prevents burnout and keeps you moving forward.
 
-**Actions List**
+## Action Steps
 - Schedule small, enjoyable breaks in your day.
 - Use these moments to picture your end goal.
 - Notice when your motivation drops and recharge before you hit empty.
 
-*What about you?*
+## Reflection
 *When was the last time you truly enjoyed a positive pause? How do you recharge your motivation?*

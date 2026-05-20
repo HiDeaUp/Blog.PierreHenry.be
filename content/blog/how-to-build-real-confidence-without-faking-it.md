@@ -41,14 +41,14 @@ Being upfront is key. Don’t give false promises. Say things as they are, just 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - True confidence comes from making choices that match your real desires.
 - Don’t live to please others at your own expense.
 - Be honest and clear about what you want and what you can offer.
 - Say things directly, avoid giving false hope.
 - Life is too short for regrets and mental clutter.
 
-*Ask Yourself:*
+## Reflection
 - Are your decisions really coming from your heart?
 - Where are you saying “yes” when you actually mean “no”?
 - What would change if you started being more honest with yourself and others?

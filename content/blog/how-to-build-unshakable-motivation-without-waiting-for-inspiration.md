@@ -53,16 +53,16 @@ If you want to remember just three things to help you get more done and keep you
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Find what truly motivates you.
 - Build new habits by attaching them to routines you already have.
 - Keep at it until it becomes automatic.
 
-*Actions List:*
+## Action Steps
 - List three things that give you energy and motivation.
 - Choose one new habit and link it to an existing routine.
 - Track your progress for 21 days.
 
-*Ask Yourself:*
+## Reflection
 - What small change can I make today that my future self will thank me for?
 - Which routine in my day could become the trigger for a new habit?

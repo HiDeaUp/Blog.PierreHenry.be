@@ -47,19 +47,19 @@ If you want to feel more fulfilled and happy, start a long-term project. Make it
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Find a project that excites you and makes you want to get up in the morning.
 - Build something for yourself first—if others like it, that’s a bonus.
 - Don’t worry about being perfect; focus on what brings you joy and meaning.
 - Let your project grow with you over time.
 
-*Actions List:*
+## Action Steps
 - Think about what you’d love to work on, even if nobody else cares.
 - Start small, but start today.
 - Keep improving your project for yourself, not for others.
 - Use your own needs as your guide.
 
-*Ask Yourself:*
+## Reflection
 - What project would make you jump out of bed in the morning?
 - Are you building something for yourself, or just to please others?
 - How can you turn your interests into a long-term passion?

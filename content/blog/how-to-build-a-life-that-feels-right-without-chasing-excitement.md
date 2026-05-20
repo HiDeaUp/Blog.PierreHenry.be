@@ -41,13 +41,13 @@ When you feel at home in your environment, everything else falls into place. You
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx2YWx1ZXMlMjBsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTU4NzYwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Feels Right Without Chasing Excitement")
 *How to Build a Life That Feels Right Without Chasing Excitement - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment plays a huge role in your happiness.
 - Choose a place to live that matches your values and brings you peace.
 - Don’t chase excitement for its own sake—think about what will make you feel good every day.
 - Get to know yourself and what you truly need to feel at home.
 
-*Ask Yourself:*
+## Reflection
 - Where do you feel most at peace?
 - What kind of environment helps you make good decisions and feel supported?
 - Are you living in a place that matches your values, or just following the crowd?

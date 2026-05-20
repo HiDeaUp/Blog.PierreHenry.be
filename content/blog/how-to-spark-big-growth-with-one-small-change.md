@@ -41,13 +41,13 @@ So, here’s to experimenting with your routine and creating new habits. Every s
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Try something new for 21 to 31 days to break your routine.
 - Small changes can lead to big improvements in your skills and mindset.
 - If a new habit doesn’t fit, move on and try something else.
 - Building new habits is about experimenting and growing, not perfection.
 
-*Ask Yourself:*
+## Reflection
 - What is one thing you’ve always wanted to try but haven’t started yet?
 - How could a small change in your daily routine make your life more interesting?
 - Are you willing to let go of habits that no longer serve you?

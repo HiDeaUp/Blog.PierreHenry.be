@@ -43,11 +43,11 @@ Building routines like this gives us more control over our lives. The cold showe
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Cold showers can boost your mood, motivation, and resilience.
 - This habit helps you feel more in control and less likely to fall into negative patterns.
 - Start with just a minute or two each morning and notice the changes in your energy and mindset.
 
-*Ask Yourself:*
+## Reflection
 - Are you willing to try something uncomfortable for a few minutes each day to gain more control over your life?
 - What small habit could you add to your routine that might have a big impact?

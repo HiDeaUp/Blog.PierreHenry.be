@@ -39,13 +39,13 @@ If you want to keep growing and improving yourself, remember that you always hav
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Try to see situations from both your own and others’ perspectives.
 - Take responsibility for your part, even if it’s small.
 - Ask yourself how you could have acted differently, even when you’re not at fault.
 - Adjust your communication to improve understanding and relationships.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you blamed someone else for a problem?
 - How could you have changed your approach to get a better outcome?
 - What small change can you make today to take more responsibility for your environment?

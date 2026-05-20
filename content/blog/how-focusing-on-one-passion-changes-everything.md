@@ -39,17 +39,17 @@ So, if you want to win, pick that one thing that matters most to you. Pour your 
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, love, true love need work, work, commitment, relationship, effort, talk, listen, commit, engagement, marriage, partner, love needs work, love always hopes, 1 corinthians 13, new testament, christianity, protect, look after, care, caring, compassion, defend, shield, st paul, saint paul, corinthians, epistles, trust, care, truth, honesty, dependence, trustworthy, trustworthiness, persistence, love always pe](https://images.unsplash.com/photo-1637250529646-9df3f739edb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwbGlmZSUyMHB1cnBvc2UlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MDc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Focusing on One Passion Changes Everything")
 *How Focusing on One Passion Changes Everything - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-love-always-per-siss-voSXwjMzraQ)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus all your energy on one passion or project.
 - The more you concentrate, the faster and bigger your results.
 - Don’t spread yourself thin. Be like a laser, not a lamp.
 
-*Actions List:*
+## Action Steps
 - Identify your true passion.
 - Commit to it fully.
 - Avoid distractions and stay focused.
 
-*Ask Yourself:*
+## Reflection
 - What is the one thing I care about most?
 - Am I giving it all my attention?
 - What can I do today to move closer to my goal?

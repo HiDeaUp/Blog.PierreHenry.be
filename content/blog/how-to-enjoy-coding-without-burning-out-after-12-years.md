@@ -62,10 +62,4 @@ Having a personal career path is crucial. Know where you want to go. Otherwise, 
 > “If you try to plant a tree on concrete, it won’t grow. But if you plant it in good soil, it’ll thrive. Same with us.”
 
 ---
-
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
-
-#### Kicker:  
-**Don’t settle for junk pizza—upgrade your environment, upgrade your life.**
+#

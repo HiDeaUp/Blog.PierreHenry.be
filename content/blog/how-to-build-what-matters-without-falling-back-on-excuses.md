@@ -47,7 +47,7 @@ The best time to start a new habit is today, not tomorrow. There’s no point in
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Start with a clear action plan for your goals.
 - Don’t let exceptions become habits.
 - The longer you pause, the harder it is to restart.
@@ -56,7 +56,7 @@ The best time to start a new habit is today, not tomorrow. There’s no point in
 - Add challenges to keep motivation up.
 - Treat your habits like brushing your teeth—non-negotiable.
 
-*Ask Yourself:*
+## Reflection
 - What’s one habit you keep making exceptions for?
 - How can you make it as automatic as brushing your teeth?
 - What small action can you take today to move closer to your goal?

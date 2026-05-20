@@ -43,18 +43,18 @@ So, I wish you all the best in creating a space and routine that truly supports 
 ![Port side view of NOAA Ship RAINIER at anchor. ](https://images.unsplash.com/photo-1584266032559-fe29c2fc22e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwZW52aXJvbm1lbnQlMjBoYWJpdHN8ZW58MHwwfHx8MTc0OTQwNjQ5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How I Changed My Mood Without Changing My Life")
 *How I Changed My Mood Without Changing My Life - Photo by [NOAA](https://unsplash.com/@noaa) on [Unsplash](https://unsplash.com/photos/white-and-blue-ship-on-sea-under-blue-sky-during-daytime-AdZUiGNo9Fo)*
 
-*TL;DR:*
+## Key Takeaways
 - Your environment and the people around you affect your mood and well-being.
 - Small changes in your space—like reducing clutter or rearranging furniture—can help you feel calmer.
 - Pay attention to your habits, routines, and even your diet for a more peaceful daily life.
 
-*Actions List:*
+## Action Steps
 - Look around your space and notice how it makes you feel.
 - Try removing clutter or sharp objects near where you sleep or work.
 - Research basic feng shui tips to improve energy flow in your home.
 - Reflect on the people you spend time with and how they influence your mood.
 
-*Ask Yourself:*
+## Reflection
 - Where do I spend most of my time, and how does it make me feel?
 - What small changes could I make to feel more at ease in my daily life?
 - Am I surrounding myself with people and things that lift me up?

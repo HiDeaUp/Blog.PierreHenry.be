@@ -49,7 +49,7 @@ And finally, remember: the best time to act is now. Don’t put off what you wan
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Express yourself honestly, but kindly—how you say things matters as much as what you say.
 - Use the “critique sandwich”: compliment, suggestion, compliment.
 - Avoid negativity; focus on positive communication.
@@ -58,13 +58,13 @@ And finally, remember: the best time to act is now. Don’t put off what you wan
 - Take responsibility for your actions and progress.
 - The best time to start is now.
 
-*Actions List:*
+## Action Steps
 - Try a day without saying “no”—find softer ways to set boundaries.
 - Practice the critique sandwich in your next conversation.
 - Reflect on your environment: does it help you thrive?
 - Write down one positive affirmation to repeat daily.
 
-*Ask Yourself:*
+## Reflection
 - How do I react when someone asks a “simple” question?
 - Am I surrounding myself with people who help me grow?
 - What’s one thing I want to achieve—and how can I start today?

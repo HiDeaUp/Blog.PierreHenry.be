@@ -38,7 +38,7 @@ The point is, these little things—your style, your words, your habits—make y
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 
 - Find what makes you different—your style, your words, your habits.
 - Ask friends what they notice about you.

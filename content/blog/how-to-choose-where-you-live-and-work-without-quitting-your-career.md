@@ -58,6 +58,6 @@ The best time to start is now. Believe in yourself. Everything is possible if yo
 - Start small: offer a service, build a product, or teach what you know.
 - Remember, every step you take for yourself builds your freedom.
 
-### What About You?
+## Reflection
 
 *Are you ready to take the first step toward more freedom? What’s holding you back from working for yourself?*

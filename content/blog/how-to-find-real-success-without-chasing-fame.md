@@ -53,14 +53,14 @@ Every morning, ask yourself: What are three small things I can do today that wil
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Set a clear, passionate goal and believe in it fully.
 - Let your goal become your obsession—think about it all the time.
 - Focus on solving the real problem, not just sticking to your first solution.
 - Stay positive to see more opportunities and keep moving forward.
 - Start each day by planning three small wins and visualizing your ideal day.
 
-*Ask Yourself:*
+## Reflection
 - What’s one goal you truly believe in?
 - Are you focusing on the real problem, or just your favorite solution?
 - What three small things can you do today to make your day better?

@@ -43,13 +43,13 @@ We can talk about clearing out what no longer serves you, about new habits, and 
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Show your enthusiasm and curiosity in every conversation.
 - Be fully present and genuine when you interact with others.
 - Small changes in your daily approach can lead to big transformations.
 - Notice and appreciate the little things around you—they can spark meaningful connections.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly showed your passion in a conversation?
 - What small step can you take today to bring more life into your daily interactions?
 - What do you want less of, and what do you want more of in your life?

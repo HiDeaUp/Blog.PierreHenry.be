@@ -94,6 +94,3 @@ That’s it for now, but you can see it works. Those are the new files I have no
 - The “work with code” extension for ChatGPT unlocks a whole new workflow for developers.
 - “Imagination is the only limit.”  
 - “Every day, I’m learning new possibilities.”
-
----
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)

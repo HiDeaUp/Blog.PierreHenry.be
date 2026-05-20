@@ -47,6 +47,6 @@ If you want to evolve, to become a better version of yourself, curiosity is your
 
 ---
 
-*Ask Yourself:*
+## Reflection
 
 *When was the last time you learned something completely new? What is stopping you from being more curious today?*

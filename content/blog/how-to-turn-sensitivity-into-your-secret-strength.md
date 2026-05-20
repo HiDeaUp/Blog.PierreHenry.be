@@ -49,7 +49,7 @@ If you take anything from this, let it be this: we’re all sensitive, and that�
 
 ---
 
-### **Key Takeaways**
+## Key Takeaways
 - Sensitivity is a strength, not a weakness.
 - Separate your personal worth from your projects and setbacks.
 - Don’t let strangers or careless people ruin your day.

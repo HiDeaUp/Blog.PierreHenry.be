@@ -128,10 +128,4 @@ Organizing your workflow this way is a game changer. You’ll always know where 
 > “Your folder structure should be so obvious you never have to think about it.”
 
 ---
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years  
 🤔 [Learn more about me on Dev.to](https://dev.to/pierre)
-
----
-
-### Kicker:  
-Simple habits like this are what separate smooth workflows from daily chaos.

@@ -55,20 +55,20 @@ Stay focused. Choose one thing. Give yourself a clear goal and a deadline. Value
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus on one thing at a time; curiosity is good, but too much can scatter your efforts.
 - Set clear goals with deadlines and outcomes.
 - Value your time above all—once it’s gone, it’s gone.
 - Regularly reflect on how you spend your time.
 - Surround yourself with positive influences, both in person and virtually.
 
-*Actions List:*
+## Action Steps
 - Pick one project or goal to focus on this month.
 - Set a clear deadline and outcome for it.
 - Schedule daily or weekly check-ins to reflect on your progress and time use.
 - Replace negative content with positive, educational, or inspiring material.
 
-*Ask Yourself:*
+## Reflection
 - Am I spreading myself too thin with too many projects?
 - How did I spend my last two hours? Was it worth it?
 - What’s one thing I can focus on right now that will move me forward?

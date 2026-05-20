@@ -61,7 +61,7 @@ So, stick to your routine. It’s a simple rule, but it makes a huge difference.
 
 ---
 
-### TL;DR
+## Key Takeaways
 
 - Go to bed and wake up at the same time every day—even on weekends.
 - Don’t allow exceptions; they make it harder to keep your rhythm.

@@ -45,19 +45,19 @@ It’s important to manage your mood and the tension inside you. Pay attention t
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Small annoyances can ruin your mood, but they don’t have to.
 - Practice belly breathing (3 seconds in, hold, 3 seconds out) to reset your mind.
 - Let go of tiny problems—they’re not worth your peace or your time with loved ones.
 - When your mind drifts, bring yourself back to the present and focus on what matters.
 
-*Actions List:*
+## Action Steps
 - Notice when mental pollution creeps in.
 - Try the triangle breathing exercise next time you feel tense.
 - Take a walk or do something simple to clear your mind.
 - Remind yourself: most problems are smaller than they seem.
 
-*Ask Yourself:*
+## Reflection
 - What small annoyance have you let ruin your day recently?
 - How can you remind yourself to let go and enjoy the present moment?
 - Who do you want to be when things don’t go as planned?

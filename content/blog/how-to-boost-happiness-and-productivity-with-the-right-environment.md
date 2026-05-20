@@ -37,11 +37,11 @@ If you want to go deeper, think about how you can create these environments for 
 ![Lone tree](https://images.unsplash.com/photo-1629959063369-1296587f3ae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2NTE5MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Productivity With the Right Environment")
 *How to Boost Happiness and Productivity With the Right Environment - Photo by [Tom Tor](https://unsplash.com/@tomtorstudio) on [Unsplash](https://unsplash.com/photos/green-tree-in-the-middle-of-green-grass-field-under-blue-sky-and-white-clouds-during-ayF84laCuQA)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - The places you spend time in can boost your mood and productivity.
 - Find environments that inspire you and make you feel good.
 - Set up your own spaces to support your goals and happiness.
 
-*Ask Yourself:*
+## Reflection
 - Where do you feel most inspired or at peace?
 - How can you adjust your surroundings to help you grow?

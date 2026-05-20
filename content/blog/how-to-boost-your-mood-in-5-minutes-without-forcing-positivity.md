@@ -41,17 +41,17 @@ As for me, I’m about to head to bed, but I’m already looking forward to tomo
 ![Photo by Shiona Das](https://images.unsplash.com/photo-1721784106865-bd5e25c221f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwbW9vZCUyMGJvb3N0JTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1NDIzNDk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood in 5 Minutes Without Forcing Positivity")
 *How to Boost Your Mood in 5 Minutes Without Forcing Positivity - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-road-with-their-arms-in-the-air-vo1F522rYgk)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - The positive feeling is about waking up with energy and motivation.
 - Having a meaningful project can transform your mood and your days.
 - If motivation drops, it might be time to change your project or your perspective.
 - Your environment and self-rewards matter, but your project is the foundation.
 
-**Actions List**
+## Action Steps
 - Write down a project that excites you.
 - Update your project list regularly.
 - If you feel less motivated, ask yourself why and adjust your approach.
 - Celebrate small wins and notice the energy they bring.
 
-**Ask Yourself**
+## Reflection
 *What project could bring you more positive energy right now? How can you adjust your daily routine to nurture that feeling?*

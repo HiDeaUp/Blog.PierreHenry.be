@@ -43,11 +43,11 @@ The power to change your reality starts with changing your perception. When you 
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Your perception shapes your reality more than you think.
 - The environment you create—physically and mentally—can lift you up or drag you down.
 - Focus on positive things to “manufacture” a better reality for yourself.
 - There is no single reality; you create your own by how you choose to see things.
 
-**Ask Yourself**
+## Reflection
 *What parts of your environment are holding you back? How could you change your perception to build a reality that supports you?*

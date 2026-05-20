@@ -53,5 +53,5 @@ If you want to be truly efficient, start by building your own protected space. I
 
 ---
 
-*What about you?*  
+## Reflection
 *When was the last time you truly focused without any interruptions? What could you change in your environment to help your mind settle into deep work?*

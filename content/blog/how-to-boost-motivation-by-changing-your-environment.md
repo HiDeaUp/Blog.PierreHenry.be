@@ -43,13 +43,13 @@ This simple habit, done every day, can change your life. It’s not about being 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - The atmosphere around you shapes your motivation and results.
 - Each day, choose three important tasks that will make the biggest difference.
 - Focus on what matters, not on doing more.
 - Reflect daily on what worked and adjust as needed.
 
-*Ask Yourself:*
+## Reflection
 - What three things can I do today that will have the biggest impact?
 - Am I spending my time on what truly matters, or just staying busy?
 - How does my environment affect my energy and focus?

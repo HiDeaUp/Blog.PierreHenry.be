@@ -39,13 +39,13 @@ I encourage you to try this for yourself. Once you start, you’ll see how much 
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleGNlbGxlbmNlJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjUwODQ1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Excel Without Comparing Yourself to Others")
 *How to Excel Without Comparing Yourself to Others - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Stop comparing yourself to others; compare yourself to your past self.
 - Use a one-week timeframe to measure your progress.
 - Ask yourself what you did well, what you could improve, and which habits to change.
 - Simple self-reflection, done regularly, leads to real excellence.
 
-*Ask Yourself:*
+## Reflection
 - Am I proud of my progress this week?
 - What one habit can I start or stop to become a better version of myself?
 - Who inspires me, and how can I use that inspiration for my own growth?

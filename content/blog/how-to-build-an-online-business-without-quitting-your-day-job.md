@@ -67,7 +67,7 @@ After more than 14 years of trying, learning, and sometimes failing, I can tell 
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 
 - Share value first—teach, write, or help others.
 - Offer a service that saves time or solves a real problem.

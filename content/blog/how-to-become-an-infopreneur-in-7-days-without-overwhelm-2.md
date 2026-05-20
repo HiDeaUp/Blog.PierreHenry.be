@@ -43,16 +43,16 @@ So, if you’re learning something new today, don’t keep it to yourself. Write
 ![Learn word](https://images.unsplash.com/photo-1673515334386-2b24073bb22f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjBjb3Vyc2VzJTIwa25vd2xlZGdlJTIwc2hhcmluZ3xlbnwwfDB8fHwxNzU2MDEyMjkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become an Infopreneur in 7 Days Without Overwhelm")
 *How to Become an Infopreneur in 7 Days Without Overwhelm - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-spelled-with-scrabble-letters-on-a-wooden-table-IQSy7cU5BxQ)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Teaching what you know boosts your confidence and helps you organize your thoughts.
 - Sharing your knowledge makes you stand out as an expert, even in new fields.
 - Teaching can lead to better job opportunities and leadership roles.
 - Don’t wait—start sharing what you learn today, in any format that suits you.
 
-**Actions List**
+## Action Steps
 - Pick a topic you’re learning and explain it to someone else.
 - Create a short video or write a simple guide about it.
 - Organize a small meetup or online session to discuss your ideas.
 
-**Ask Yourself**
+## Reflection
 *What knowledge do you have right now that could help someone else? What’s stopping you from sharing it?*

@@ -45,13 +45,13 @@ So, focus on changing your mindset. Ask yourself each day: How can I make today 
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - *Your mindset shapes your reality. Change your thoughts, and you change your life.*
 - *Let go of limiting beliefs and start fresh, just like fertile ground after a fire.*
 - *Daily positive affirmations can shift your perspective and boost your confidence.*
 - *Success comes from small, consistent actions that align with your values and goals.*
 
-*Ask Yourself:*
+## Reflection
 - *What mental barriers are holding you back right now?*
 - *What is one small thing you can do today to move closer to your goals?*
 - *Are your daily actions aligned with the life you want to live?*

@@ -58,7 +58,7 @@ So, do your most important task first. Then you can enjoy the rest of your day, 
 - *Set boundaries with family or friends so you can work undisturbed.*
 - *Reflect: What’s your “frog” to eat each morning?*
 
-### *What About You?*
+## Reflection
 
 - *What small daily action could move your passion project forward?*
 - *How can you make it as automatic as brushing your teeth?*

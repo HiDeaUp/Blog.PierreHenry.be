@@ -79,11 +79,3 @@ So, take care of your health, set up your environment, use timers, take breaks, 
 > “If you’re not healthy, you can’t focus. If you can’t focus, you can’t do deep work. Simple.”
 
 > “Start with good foundations—whether it’s your health or your codebase.”
-
----
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)
-
----
-
-### Kicker:  
-*Get your flow right, and the code (and your sanity) will follow.*

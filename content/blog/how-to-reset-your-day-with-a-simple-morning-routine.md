@@ -43,18 +43,18 @@ The real secret is regularity. Go to bed at the same time every night, wake up a
 ![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1608590757123-bbf889c0b652?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhcHBpbmVzcyUyMGhhYml0cyUyMGRhaWx5JTIwcmVzZXR8ZW58MHwwfHx8MTc1NTQzMzY4MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Day With a Simple Morning Routine")
 *How to Reset Your Day With a Simple Morning Routine - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/white-and-blue-ceramic-mug-on-brown-wooden-table-wdxT3xl8Dfo)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Build your own happy moments by creating a simple morning routine.
 - Start your day with small rituals: drink water, enjoy a coffee, take time for yourself.
 - Use the first hour or two of your day for personal projects or learning.
 - Regularity is key—consistency in your routine makes all the difference.
 - Every day is a new opportunity to move closer to the person you want to become.
 
-**Actions List**
+## Action Steps
 - Decide on one small thing you’ll do for yourself each morning.
 - Set your alarm for the same time every day.
 - Try drinking two glasses of water when you wake up.
 - Use ten minutes each morning to learn something new.
 
-*What about you?*
+## Reflection
 *What’s one thing you could add to your morning to make your day feel better? How could a small change in your routine help you become who you want to be?*

@@ -84,6 +84,6 @@ Remember, passive learning—just watching videos or reading without doing anyth
 
 ---
 
-### What About You?
+## Reflection
 
 *How do you plan your days? Are you taking care of yourself first, or are you always putting others ahead of you? What’s one thing you can do today to start building your own steel mindset?*

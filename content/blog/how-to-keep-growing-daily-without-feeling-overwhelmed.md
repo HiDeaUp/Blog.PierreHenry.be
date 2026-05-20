@@ -38,17 +38,17 @@ If you try this, you’ll notice real changes—not just in your skills, but in 
 ![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTE4NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Growing Daily Without Feeling Overwhelmed")
 *How to Keep Growing Daily Without Feeling Overwhelmed - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Keep a notebook and pen in every room.
 - After each task, write a quick feedback note: how you felt, what went well, what could improve.
 - Improvement comes from small, steady steps, not big leaps.
 - This habit helps you notice progress and grow without pressure.
 
-*Actions List:*
+## Action Steps
 - Place a notebook and pen in each room today.
 - Label each notebook with the room’s name.
 - Start writing a short note after every task, no matter how small.
 
-*Ask Yourself:*
+## Reflection
 - What small change could you make today to feel a little better tomorrow?
 - How would your days look if you paid attention to your own progress, one step at a time?

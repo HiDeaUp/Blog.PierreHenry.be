@@ -45,20 +45,20 @@ I truly wish you the best on your journey. Remember, the smallest daily steps ca
 
 ---
 
-*TL;DR / Key Takeaways*
+## Key Takeaways
 - Set aside 10 minutes every day for personal learning or growth.
 - Focus on one thing at a time and apply what you learn.
 - Use tools like Kindle and Bear to organize your notes and ideas.
 - Never break the chain—consistency is more important than duration.
 - Let go of information that isn’t useful and move on.
 
-*Actions List*
+## Action Steps
 - Choose a book, course, or video to learn from tonight.
 - Set a 10-minute timer and stick to it.
 - Take notes and tag them for easy access later.
 - Reflect: How can you use what you learned today?
 
-*Ask Yourself*
+## Reflection
 - What is one small thing I can learn or practice today?
 - How can I make learning a daily habit, even on busy days?
 - What information am I holding onto that I should let go?

@@ -43,13 +43,13 @@ What matters is not how long you’ve stuck with something, but whether you’re
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Stubbornness can waste years of your life if you’re only trying to prove something to yourself or others.
 - Recognize when your project or idea is no longer working or in demand.
 - It’s okay to pivot, change direction, or start something new.
 - Learn from your mistakes and use your experience to fuel your next move.
 
-*Ask Yourself:*
+## Reflection
 - Am I pushing forward because I believe in my idea, or just because I don’t want to admit defeat?
 - Is there still real demand for what I’m doing?
 - What could I achieve if I redirected my energy elsewhere?

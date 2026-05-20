@@ -41,13 +41,13 @@ If you’re looking for that positive spark, start with a project that excites y
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - A positive feeling often starts with a project that excites you.
 - Check in with your projects regularly—if your motivation drops, maybe the project needs to change.
 - Your environment and daily habits matter, but your main project is the real driver.
 - Keep your list of projects fresh and let them evolve as you do.
 
-*Ask Yourself:*
+## Reflection
 - What project would make you jump out of bed tomorrow?
 - When was the last time you updated your list of goals?
 - Are you still excited about what you’re working on, or is it time for a change?

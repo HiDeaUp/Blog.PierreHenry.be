@@ -60,7 +60,7 @@ The truth is, being an expat and working for yourself is not about escaping life
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Find your unique message and make it clear.
 - Focus on a small, specific niche.
 - Tell your personal story—people connect with authenticity.
@@ -68,13 +68,13 @@ The truth is, being an expat and working for yourself is not about escaping life
 - Do the most important thing first every morning.
 - Start small, test online, and only then invest more.
 
-*Actions List:*
+## Action Steps
 - Write down your USP and tagline.
 - Rate your day every evening and adjust your focus.
 - Practice explaining your business in one minute.
 - Share your real story with your audience.
 
-*Ask Yourself:*
+## Reflection
 - What makes you different from everyone else?
 - Can you explain your business in 30 seconds?
 - Are you building a life you want, or just running away from the old one?

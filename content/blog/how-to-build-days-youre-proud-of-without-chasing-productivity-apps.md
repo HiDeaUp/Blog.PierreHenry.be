@@ -51,20 +51,20 @@ Don’t underestimate the power of positive self-talk. Tell yourself, “Today w
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Time is your most precious resource—treat it that way.
 - Plan your days the night before, focusing on your top three priorities.
 - Reflect daily: What made you proud? What can you improve?
 - Visualize your perfect day each morning.
 - Use positive affirmations to set your mindset.
 
-*Actions List:*
+## Action Steps
 - Tonight, write down your three most important tasks for tomorrow.
 - At the end of the day, ask: What made me proud? What can I do better?
 - Try a two-hour check-in: Am I using my time well?
 - Visualize your ideal day before you get out of bed.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can do tomorrow that will make me proud?
 - Am I letting urgent things crowd out what’s truly important?
 - How can I make time for what really matters to me?

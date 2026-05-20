@@ -96,11 +96,3 @@ You might remember when OpenAI called this “function calling.” Now, everyone
 - Tools like Railway and Brave browser can make your dev workflow smoother.
 
 > “The only limit is your imagination. Plug in your codebase, your terminal, and let ChatGPT do its thing.”
-
----
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)
-
----
-
-### Kicker:  
-Plug your codebase into ChatGPT and let your workflow flow.

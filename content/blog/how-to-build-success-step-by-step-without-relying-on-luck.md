@@ -47,14 +47,14 @@ Success is the result of a long journey, not a single leap. It takes time, patie
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Success comes from consistent action and learning from mistakes.
 - Study those who have already succeeded and avoid negative influences.
 - Build daily habits that align with your long-term goals.
 - Take care of your well-being to boost creativity and problem-solving.
 - Focus on one thing at a time, and don’t be afraid to change direction if needed.
 
-*Ask Yourself:*
+## Reflection
 - What small action can you take today to move closer to your goal?
 - Who are your role models, and what can you learn from them?
 - Are you focusing on one thing, or spreading yourself too thin?

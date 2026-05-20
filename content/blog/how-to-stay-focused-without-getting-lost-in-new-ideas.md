@@ -46,14 +46,14 @@ So, keep your focus. Do one thing at a time. You’ll see—it makes all the dif
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Stay focused on your main project or goal.
 - Don’t let trends or other people’s paths distract you.
 - Perseverance brings results, but don’t be afraid to change direction if something truly isn’t working.
 - Time lost to distractions is time you can never get back.
 - Productivity is about doing what matters, not just doing more.
 
-*Ask Yourself:*
+## Reflection
 - What is the one thing I should focus on right now?
 - Am I letting distractions pull me away from my real goals?
 - How can I protect my time and energy for what truly matters?

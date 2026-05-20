@@ -54,14 +54,14 @@ The same goes for any big decision. If you feel it’s right, do it. Don’t wai
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Treat each day as if it were your whole life.
 - Don’t wait for the perfect moment to do what matters.
 - Money is a tool—use it to create and experience more.
 - Trust your own judgment over others’ opinions.
 - Try new places and experiences to find what truly suits you.
 
-*Ask Yourself:*
+## Reflection
 - What would you do today if you knew it was your last chance?
 - Are you living where you truly want to live?
 - What’s one thing you keep putting off that you could start right now?

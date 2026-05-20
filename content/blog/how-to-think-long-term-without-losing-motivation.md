@@ -41,13 +41,13 @@ Whatever your dream is, keep it close and let it guide your choices. Every day i
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Thinking long-term gives your daily actions purpose and direction.*
 - *Visualize your goals and keep reminders around you to stay motivated.*
 - *Check in with yourself: Are your actions moving you closer to your dream?*
 - *Even small steps add up to big changes over time.*
 
-*Ask Yourself:*
+## Reflection
 - *What does your ideal future look like?*
 - *What can you do today to get a little closer to that vision?*
 - *Are your habits helping or hurting your progress?*

@@ -71,7 +71,7 @@ The most important thing is to take action. The more you do, the more you’ll w
 
 ---
 
-*TL;DR / Key Takeaways*
+## Key Takeaways
 - Don’t wait for the perfect moment—start working on your dreams now.
 - Start small; small steps lead to big changes.
 - Your mindset is more important than your skills.
@@ -79,13 +79,13 @@ The most important thing is to take action. The more you do, the more you’ll w
 - Regret is a trap—focus on what you can still do, not what you missed.
 - You are responsible for your own happiness and fulfillment.
 
-*Actions List*
+## Action Steps
 - Identify one dream you’ve been putting off and take a small step toward it today.
 - Reflect on whether you’re living for yourself or for others’ expectations.
 - Challenge the limits you’ve set for yourself—are they real, or just stories?
 - Make time for yourself, even if it’s just a little each day.
 
-*Ask Yourself*
+## Reflection
 - What’s one thing I wish I had started years ago?
 - What’s stopping me from starting it now?
 - How can I make a small step toward my dream today?

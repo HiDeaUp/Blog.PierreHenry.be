@@ -64,20 +64,20 @@ Don’t wait for the perfect moment. Start with one rule if that’s all you can
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Write your own personal constitution with up to four unbreakable rules.
 - Make it official: sign, date, and keep each law on its own page.
 - Ask a trusted person to be your accountability partner if you want extra support.
 - Store your constitution safely and review it often.
 - Your environment matters—surround yourself with positive influences.
 
-*Actions List:*
+## Action Steps
 - Choose one habit you want to quit or change.
 - Write your first personal law today.
 - Sign and date it, and keep it somewhere safe.
 - Consider sharing it with someone you trust.
 
-*Ask Yourself:*
+## Reflection
 - What is one habit that’s holding you back?
 - Are you ready to make a real promise to yourself?
 - Who could help you stay accountable?

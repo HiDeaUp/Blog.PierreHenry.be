@@ -46,18 +46,18 @@ When you make action a habit, it gets easier. Each time you push yourself to do 
 ](https://images.unsplash.com/photo-1603812079237-c3ec68eb9933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0YWtlJTIwYWN0aW9uJTIwbW90aXZhdGlvbiUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI4MjExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the Perfect Moment")
 *How to Take Action Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-7_hT9sWPJ-A)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - The perfect moment to act never arrives. Start now.
 - Action leads to progress, learning, and satisfaction.
 - Fear of mistakes is normal, but mistakes are part of growth.
 - The more you act, the easier it gets.
 
-**Actions List**
+## Action Steps
 - Pick one thing you’ve been putting off and do it today.
 - Notice how you feel after taking action, even if it’s a small step.
 - Make a habit of acting instead of waiting.
 
-*What about you?*
+## Reflection
 - What have you been waiting to start?
 - What’s one small action you can take right now?
 - How would your life change if you acted more often?

@@ -45,13 +45,13 @@ So, treat each day as a unique opportunity. Savor your life fully, and remember:
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Assign specific tasks to specific environments to boost focus.
 - Remove distractions by creating self-imposed constraints.
 - Treat your time as your most precious resource—more valuable than money.
 - Challenge the limits you set for yourself and take action, even if it’s small.
 
-*Ask Yourself:*
+## Reflection
 - Which environments help you focus best?
 - Are you spending your time on what truly matters to you?
 - What small change can you make today to improve your productivity or happiness?

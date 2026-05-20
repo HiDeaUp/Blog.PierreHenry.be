@@ -49,18 +49,18 @@ If you’re not happy, it’s easy to blame others or circumstances, but the ans
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Invest in yourself—skills, health, and experiences matter more than money.
 - Take real breaks to reflect and recharge, even just for a weekend.
 - Don’t wait for the “right” time; it never comes. Start now.
 - You are responsible for your own happiness and growth.
 
-*Actions List:*
+## Action Steps
 - Plan a “Hermit Weekend” or a few hours alone away from your usual routine.
 - Reflect on what you want from your life and what you can change today.
 - Remember: time is more valuable than money—use it wisely.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly took a break for yourself?
 - What’s stopping you from taking action right now?
 - What small step can you take today to become a richer version of yourself?

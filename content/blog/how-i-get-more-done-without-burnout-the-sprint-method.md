@@ -85,7 +85,7 @@ If I had learned these methods ten years ago, I would have saved so much time an
 
 ---
 
-*Ask Yourself:*
+## Reflection
 *Are you working in focused sprints, or letting distractions steal your time?*
 *Do you reward yourself for progress, and take real breaks?*
 *Is your environment helping or hurting your focus?*

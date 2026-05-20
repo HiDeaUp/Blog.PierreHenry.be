@@ -50,17 +50,17 @@ So, focus on what’s essential. Ask yourself what you really want—not for sho
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - The more you own, the more complicated your life becomes.
 - Simplicity means focusing on what truly matters and letting go of the rest.
 - Don’t add things to your life just because you can—ask if you really need them.
 - True happiness comes from knowing your limits and enjoying what you have.
 
-*Actions List:*
+## Action Steps
 - Look around: what can you remove from your life today?
 - Next time you’re offered something for free, ask yourself if you really need it.
 - Challenge yourself, but know when enough is enough.
 
-*Ask Yourself:*
+## Reflection
 - What do I truly want for myself—not for others, not for show, but for me?
 - Am I adding things to my life that actually make me happier, or just more stressed?

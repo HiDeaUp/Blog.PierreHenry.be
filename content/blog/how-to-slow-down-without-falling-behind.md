@@ -39,18 +39,18 @@ This constant whirlwind is dangerous. You can spend your whole life busy, doing 
 ![guy sits cross-legged on the beach and meditates, the wide sea in the background](https://images.unsplash.com/photo-1630406866478-a2fca6070d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBtaW5kZnVsbmVzcyUyMHRha2luZyUyMGElMjBicmVha3xlbnwwfDB8fHwxNzU1OTk3NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Slow Down Without Falling Behind")
 *How to Slow Down Without Falling Behind - Photo by [Benjamin Wedemeyer](https://unsplash.com/@benjaminwedemeyer) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-beach-during-sunset-NBYz3bQVMIo)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Take real breaks, even if it’s just five minutes in a park.
 - Leave your phone behind to avoid negative distractions.
 - Use these moments to check in with yourself and your life.
 - Don’t wait years to realize you’re not living the life you want.
 
-*Actions List:*
+## Action Steps
 - Find a spot, even a public one, where you can pause.
 - Schedule a short daily break with no phone, no agenda.
 - Ask yourself: Am I living the life I want, or just staying busy?
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly did nothing?
 - Are you moving through life with intention, or just on autopilot?
 - What would you notice if you gave yourself a real moment to breathe?

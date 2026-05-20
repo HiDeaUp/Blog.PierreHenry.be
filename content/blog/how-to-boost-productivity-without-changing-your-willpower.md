@@ -50,19 +50,19 @@ I’ve been interested in productivity for over 12 years. It’s a topic I love,
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Your environment shapes your productivity more than your willpower.
 - Small changes in your space can make a big difference.
 - Talk to yourself out loud to spot what’s really holding you back.
 - Don’t wait for the perfect moment—start changing your environment today.
 
-*Actions List:*
+## Action Steps
 - Identify one thing in your environment that’s hurting your productivity and change it.
 - Try talking out loud about your habits to see what needs fixing.
 - Set a regular bedtime and stick to it for a week.
 - Notice how noise and clutter affect your focus.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small change I can make in my environment right now?
 - Am I blaming myself for things my environment is causing?
 - How can I make my space support the habits I want?

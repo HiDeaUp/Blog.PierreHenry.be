@@ -86,10 +86,4 @@ So next time you're tempted to add more, write more, or make something more comp
 
 ---
 
-🤔 [Learn more about me on Dev.to](https://dev.to/pierre)  
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
-
-### Kicker:  
-Keep it simple. Your future self will thank you.
+🤔 [Learn more about me on Dev.to](https://dev.to/pierre)

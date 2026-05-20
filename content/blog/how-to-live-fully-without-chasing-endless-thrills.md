@@ -48,14 +48,14 @@ Life is too short to waste on things that don’t make you happy. The beauty of 
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, get over it, move on, press on, don't mope, mither not, no regrets, start again, learn from your mistakes, mindfulness, life will not wait, keep going, take initiative, be a self starter, do it now, don't wait forever, procrastination, excuses, don't make excuses, ](https://images.unsplash.com/photo-1621329507764-4f9c873225dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdWxmaWxsbWVudCUyMHdlbGxiZWluZyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NjEwOTI1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Fully Without Chasing Endless Thrills")
 *How to Live Fully Without Chasing Endless Thrills - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-jrEOH5LQZMw)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Imagine your ideal life and write it down.
 - Focus on routines and habits that make you feel good in the long run.
 - Set your own rules and boundaries—your "life constitution."
 - Say no to commitments that don’t fit your values or make you uncomfortable.
 - Start today. Don’t wait for the perfect moment.
 
-*Ask Yourself:*
+## Reflection
 - What does your ideal day look like?
 - Which habits or routines would make you proud to repeat every day?
 - What boundaries do you need to set to protect your happiness?

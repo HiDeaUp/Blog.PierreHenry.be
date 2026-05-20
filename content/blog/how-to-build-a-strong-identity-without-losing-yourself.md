@@ -56,6 +56,6 @@ Ask yourself how you want to define yourself, both personally and professionally
 - Identify one habit that doesn’t match your ideal identity and change it this week.
 - Reflect on your strengths and weaknesses to make better daily choices.
 
-### What About You?
+## Reflection
 
 *Who do you want to become? What would your dictionary entry say? Are your habits helping you get there, or is it time for a change?*

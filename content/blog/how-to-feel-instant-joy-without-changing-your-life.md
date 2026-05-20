@@ -48,11 +48,11 @@ So, take a moment today to play this little game with yourself. Remember the goo
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Recall happy moments from your past to boost your mood instantly.*
 - *Bring those positive feelings into the present to feel more grateful and accomplished.*
 - *Use this renewed energy to focus on what matters most to you.*
 
-*Ask Yourself:*
+## Reflection
 - *When was the last time you paused to remember a joyful moment?*
 - *How can you bring that feeling into your day today?*

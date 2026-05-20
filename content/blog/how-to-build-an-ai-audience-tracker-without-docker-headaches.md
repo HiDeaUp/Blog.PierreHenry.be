@@ -110,8 +110,3 @@ If you want to fork the repo or raise a pull request, go for it. I look at all P
 
 ---
 🤔 [Learn more about me on Dev.to](https://dev.to/pierre)
-
----
-
-### Kicker:  
-Building meaningful tools is always a pleasure—especially when you automate the headaches away.

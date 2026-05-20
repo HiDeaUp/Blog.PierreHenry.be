@@ -39,7 +39,7 @@ So, if you want to change your life for the better, start by changing your days.
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 
 ![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NjgyMTkzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Routine and Win Without Feeling Stuck")
 *How to Break Routine and Win Without Feeling Stuck - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
@@ -50,7 +50,7 @@ So, if you want to change your life for the better, start by changing your days.
 4. Even small changes—like a weekly class—can lead to big shifts in your life.
 5. Don’t wait until you regret not starting sooner. Begin now.
 
-*Ask Yourself:*
+## Reflection
 
 - What is one new thing you could try this week?
 - Are you collecting experiences or just things?

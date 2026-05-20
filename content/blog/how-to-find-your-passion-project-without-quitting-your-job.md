@@ -43,13 +43,13 @@ So, what’s your passion project? What’s that one thing that makes you feel t
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - A passion project gives meaning and energy to your life.
 - Even a small daily commitment can make a big difference.
 - Your passion can help others and connect you with like-minded people.
 - Don’t wait for the “perfect” time—start now, and let it grow.
 
-*Ask Yourself:*
+## Reflection
 - What excites me enough to get up early?
 - What small step can I take today toward my passion project?
 - How can I share my passion with others?

@@ -64,6 +64,6 @@ Small talk might seem pointless, but it’s actually a decision—a choice to be
 
 ---
 
-### What About You?
+## Reflection
 
 *Are you waiting for luck, or are you making your own? What’s one decision you can make today to move closer to your goals?*

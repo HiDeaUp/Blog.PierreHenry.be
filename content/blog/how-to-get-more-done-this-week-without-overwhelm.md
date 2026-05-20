@@ -36,14 +36,14 @@ This method isn’t about being perfect. It’s about being intentional. Every w
 ![Photo by 2H Media](https://images.unsplash.com/photo-1657040298726-7189d3090d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWVrbHklMjBnb2FscyUyMHByb2R1Y3Rpdml0eSUyMGFjdGlvbiUyMHN0ZXBzfGVufDB8MHx8fDE3NTY1MTY1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done This Week Without Overwhelm")
 *How to Get More Done This Week Without Overwhelm - Photo by [2H Media](https://unsplash.com/@2hmedia) on [Unsplash](https://unsplash.com/photos/text-CI42rRp-dLc)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Write down a clear, specific goal for the week.
 - List the habits you want to build and repeat daily.
 - Make a second list of habits or actions you want to stop.
 - Review both lists every day to stay on track.
 - Your dream week starts with what you choose to do—and not do.
 
-*Ask Yourself:*
+## Reflection
 - What’s one habit I want to start this week?
 - What’s one habit I need to let go of?
 - How would my week look if I actually followed both lists?

@@ -87,5 +87,4 @@ I love playing with effects like glow and background boxes. Even if something br
 - Iteration is key. Keep testing, rolling back, and improving your app.
 
 ---
-#### Kicker:  
-Keep building, keep learning, and let AI make you a more curious, capable engineer.
+#

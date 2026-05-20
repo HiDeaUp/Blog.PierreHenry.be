@@ -51,20 +51,20 @@ If the path of life is pleasant, you don’t worry about where it leads. You sim
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Find your own balance between ambition and satisfaction.
 - Surround yourself with people who lift you up.
 - Learn to savor the present instead of always chasing more.
 - Rest is as important as work—don’t sacrifice your sleep.
 - Happiness is often a matter of perception; allow yourself to appreciate what you have.
 
-*Actions List:*
+## Action Steps
 - Take a moment to reflect on what truly makes you happy.
 - Identify areas where you can add more balance to your life.
 - Practice gratitude for the people and things you already have.
 - Schedule regular breaks or “mini-retirements” to recharge.
 
-*Ask Yourself:*
+## Reflection
 - Are you always chasing the next thing, or can you enjoy what you have right now?
 - Who are the people around you—do they bring you joy or drain your energy?
 - What small change can you make today to feel more satisfied with your life?

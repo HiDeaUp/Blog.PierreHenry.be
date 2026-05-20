@@ -41,16 +41,16 @@ So, don’t wait for the stars to align. Don’t wait for Monday, or for the rig
 ![Photo by Jeremy Beck](https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGFjY29tcGxpc2htZW50fGVufDB8MHx8fDE3NDkzNzQxMzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Waiting for the Perfect Moment")
 *How to Make Progress Without Waiting for the Perfect Moment - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)*
 
-*TL;DR:*
+## Key Takeaways
 - Every day is a good day to accomplish something, even something small.
 - Focus on progress, not perfection.
 - Try something new, learn, and grow—at work or in your personal life.
 
-*Actions List:*
+## Action Steps
 - Pick one small thing to accomplish today.
 - Reflect on what you learned from it.
 - Repeat tomorrow.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can do today that my future self will thank me for?
 - Am I waiting for the perfect moment, or am I moving forward now?

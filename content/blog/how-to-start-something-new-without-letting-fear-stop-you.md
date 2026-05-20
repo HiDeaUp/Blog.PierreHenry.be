@@ -39,12 +39,12 @@ Looking back, you’ll realize that trying was worth it. You’ll be grateful yo
 ![Man climbing during summer](https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1mZWFyJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIyMzc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Something New Without Letting Fear Stop You")
 *How to Start Something New Without Letting Fear Stop You - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Fear of failure often stops us before we start.
 - Every attempt, even if it doesn’t work out, helps us grow.
 - Life’s beauty comes from its contrasts—successes and setbacks alike.
 - If you never try, you’ll never know what could have been.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you’ve been putting off because you’re afraid it won’t work out?
 - How would your life change if you saw every attempt as a step forward, not a risk of failure?

@@ -51,14 +51,14 @@ It’s easy to fall into the trap of endless planning and learning without ever 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Relaxation is just as important as organisation.
 - Simple exercises like bouncing, laughing, and deep breathing can boost your mood and energy.
 - Being barefoot or connecting with nature helps you feel grounded.
 - Review your day and make small improvements regularly.
 - Take action now—don’t wait for everything to be perfect.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly relaxed?
 - What small routine could you add to your day to feel more at peace?
 - Are you taking action on your ideas, or just thinking about them?

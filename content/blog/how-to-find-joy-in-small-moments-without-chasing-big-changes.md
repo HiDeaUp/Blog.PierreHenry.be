@@ -46,13 +46,13 @@ Life is short. You don’t have to make a huge commitment to change everything f
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Small pleasures can make a big difference in your day.
 - Changing your environment, even for a short time, can refresh your outlook on life.
 - You don’t have to make permanent decisions—try new places and see how you feel.
 - The most important thing is to create a life you truly enjoy.
 
-*Ask Yourself:*
+## Reflection
 - What small joys have you noticed today?
 - Is there a place you’ve always wanted to try living, even just for a while?
 - Are you making choices that help you enjoy your life, or are you just going through the motions?

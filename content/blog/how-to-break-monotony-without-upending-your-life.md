@@ -61,14 +61,14 @@ Your life belongs to you. Don’t stay stuck in your comfort zone just because i
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - If you want different results, change your daily habits.
 - Write down what you want to keep and what you want to let go.
 - Imagine your ideal day and take steps to make it real.
 - Consistency matters more than big, one-time changes.
 - Fill your days with positive habits and people.
 
-*Ask Yourself:*
+## Reflection
 - What habits are shaping my days right now?
 - What small change could I try today to make my life better?
 - Am I letting the wrong influences fill my time?

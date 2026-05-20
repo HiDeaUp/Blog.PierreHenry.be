@@ -69,5 +69,4 @@ Don’t hesitate to use AI and modern tools to boost your career. If you practic
 
 ---
 
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years  
 🤔 [Learn more about me on Dev.to](https://dev.to/pierre)

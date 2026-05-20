@@ -65,14 +65,14 @@ And remember, it’s not about working harder or sacrificing your happiness. The
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Staying positive and enthusiastic gives you more energy and attracts good people.
 - Track your mood to discover what really makes you happy.
 - Turn problems into opportunities by looking for the hidden upside.
 - Learn from your failures—they can become your biggest assets.
 - The best time to start is always now.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you’ve been putting off that you could start today?
 - Which activities give you the most energy and joy?
 - How can you turn your next challenge into an opportunity?

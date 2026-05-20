@@ -41,11 +41,11 @@ We all have a unique field that fits us perfectly. The trick is to look for it, 
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Think back to what you loved doing between ages 9 and 12.
 - Notice what friends and family ask you for help with.
 - Try out your interests and see what makes you excited to wake up in the morning.
 - If you find something you love, put in the effort and see where it leads.
 
-**Ask Yourself**
+## Reflection
 *What did you love doing before anyone told you what you should do? What do people always ask you for help with? Are you ready to become the expert in your own story?*

@@ -47,19 +47,19 @@ So, take a moment to look at your week. What can you start today? Give yourself 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Consistency beats intensity: small daily actions add up.
 - Know your “why” and set clear, short-term goals.
 - The best time to start is now, not later.
 - Focus on what you love—passion is the best fuel for success.
 
-*Actions List:*
+## Action Steps
 - Find 10 minutes today for your project.
 - Set a weekly goal and break it into daily steps.
 - Ask yourself: Does this matter to me? Will I enjoy the process?
 - Adjust and pivot as you go—don’t be afraid to change direction.
 
-*Ask Yourself:*
+## Reflection
 - What small step can I take today toward my goal?
 - Am I doing this because I love it, or just because I think I should?
 - How can I make my passion part of my daily routine?

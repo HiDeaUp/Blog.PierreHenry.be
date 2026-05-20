@@ -41,13 +41,13 @@ The best time to take action is today, right now. There’s no point in putting 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Use your curiosity as a tool for personal growth.
 - Look for inspiration in your everyday environment.
 - Connect unrelated things to spark new ideas.
 - Take action now—don’t wait for the “perfect” moment.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing around you right now that could inspire your next step?
 - How can you use your curiosity to connect with new people or ideas?
 - Are you waiting for a sign to start? What if that sign is already in front of you?

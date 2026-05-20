@@ -67,14 +67,14 @@ Accountability—whether to another person or through a digital tool—can be th
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Accountability turns intentions into real results.*
 - *Telling someone your goals makes you more likely to achieve them.*
 - *Digital tools like Boss as a Service and Focusmate can act as virtual accountability partners.*
 - *Working alongside others, even virtually, boosts motivation and focus.*
 - *Tracking your time and building routines helps you stay consistent.*
 
-*Ask Yourself:*
+## Reflection
 - *Who can you share your goals with to boost your accountability?*
 - *Which tool or method will you try first to stay on track?*
 - *What’s one commitment you can make today that you’ll follow through on this week?*

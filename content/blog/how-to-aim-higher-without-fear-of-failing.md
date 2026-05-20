@@ -12,20 +12,6 @@ original_title = "Viser grand - Le secret d’une grande vie !"
 source_medium = "https://medium.com/@phenrysay/6032ab7584a1"
 +++
 
-![(and execute)
-
-At least, that’s what I wish it said off to the side. It’s been a long time sine I’ve done both of those things – too long.
-
-I’ve spent the last couple months funemployed and figuring out exactly what I want to do. I found a job a long way away from home that fit the bill and tossed in an application the other day but I’m pretty sure that I won’t get it for one reason or another.
-
-Anyways – putting the application together was a lot of fun. It let me dream like I haven’t since I was in university, and getting it all down on paper was pretty liberating.](https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGJpZyUyMGdvYWwlMjBzZXR0aW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxMTE3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Aim Higher Without Fear of Failing")
-*How to Aim Higher Without Fear of Failing - Photo by [Randy Tarampi](https://unsplash.com/@randytarampi) on [Unsplash](https://unsplash.com/photos/dream-big-text-U2eUlPEKIgU)*
-
-### Dreaming Big Is Not Just for Others
-
-# Aim High – The Secret to a Great Life!
-### Why setting your sights higher changes everything (even if you fall short)
-
 Have you ever caught yourself thinking, “If only I could just manage this little thing, that would be enough”? Maybe you’re considering starting an online business and you tell yourself, “If I could just make a thousand euros a month, I’d be happy.” It’s so common to set small goals, especially when we’re not feeling confident. We’re afraid to dream bigger, to want more. But here’s the truth: dreaming big is not about being greedy or unrealistic. It’s about giving yourself permission to reach further and removing the limits you’ve set for yourself.
 
 When you set the bar low, you automatically put a ceiling on what you can achieve. If your goal is to make a thousand euros, you’ll probably stop pushing once you get there. Going beyond that will feel much harder, because in your mind, you’ve already “made it.” You might even start to believe you don’t deserve more. This is a trap that keeps so many people from growing.
@@ -54,14 +40,14 @@ Ask yourself: Who do I need to be around, virtually or in person, to reach my go
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Set your goals higher than what feels comfortable.
 - Your only real limits are the ones you create for yourself.
 - Surround yourself with people who inspire you, even if it’s just online.
 - Focus on saving time and working smarter, not just harder.
 - Your environment shapes your ambition—choose it wisely.
 
-*Ask Yourself:*
+## Reflection
 - Are your current goals big enough to excite and scare you?
 - Who are you spending time with, and are they helping you grow?
 - What’s one step you can take today to aim higher?

@@ -33,7 +33,7 @@ If you want to see real change, start with your mornings. Make them yours. Give 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - A morning routine—meditation, good breakfast, and exercise—sets the tone for your day.
 - Consistency is key: small daily actions help you grow over time.
 - Treat your mornings as fertile ground to plant seeds for your future.
@@ -41,12 +41,12 @@ If you want to see real change, start with your mornings. Make them yours. Give 
 ![‘Tis the season of rhubarb. And strawberry. And blood orange. Praise be. Amen.](https://images.unsplash.com/photo-1490818387583-1baba5e638af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMGhlYWx0aHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NDg3NDQ1ODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How a Simple Morning Routine Can Change Your Life Without Stress")
 *How a Simple Morning Routine Can Change Your Life Without Stress - Photo by [Brooke Lark](https://unsplash.com/@brookelark) on [Unsplash](https://unsplash.com/photos/variety-of-sliced-fruits-08bOYnH_r_E)*
 
-*Actions List:*
+## Action Steps
 - Try meditating for a few minutes after waking up.
 - Eat a healthy breakfast.
 - Move your body for at least 30 minutes.
 - Repeat every day and notice the difference.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small habit you can add to your morning routine starting tomorrow?
 - How would your day change if you gave yourself this time every morning?

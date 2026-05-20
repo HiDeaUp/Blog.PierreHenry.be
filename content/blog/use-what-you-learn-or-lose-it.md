@@ -52,7 +52,7 @@ If you want to go even further in your learning, remember: it’s not about how 
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you learned recently that you haven’t put into practice yet?
 - How can you make applying new knowledge a daily habit?
 - Are you focusing on what truly matters, or getting lost in the details?

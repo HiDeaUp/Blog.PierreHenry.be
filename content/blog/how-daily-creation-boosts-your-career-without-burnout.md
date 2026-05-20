@@ -54,13 +54,13 @@ Minimalism, clearing out distractions, and focusing on what brings you joy are j
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - For every hour you spend learning, spend an hour creating.
 - Consistency is more important than perfection.
 - Sharing your work builds your reputation and attracts opportunities.
 - Start today—there’s no better time.
 
-*Ask Yourself:*
+## Reflection
 - What’s stopping you from creating today?
 - How can you turn your learning into action?
 - What small step can you take right now to move closer to your goals?

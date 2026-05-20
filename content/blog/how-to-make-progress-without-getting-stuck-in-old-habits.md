@@ -39,16 +39,16 @@ The real difference comes from being proactive. Instead of waiting for things to
 ![Photo by Alisa Anton](https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc0OTQwODU5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Getting Stuck in Old Habits")
 *How to Make Progress Without Getting Stuck in Old Habits - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)*
 
-**TL;DR**
+## Key Takeaways
 - Always question yourself and look for new solutions.
 - Don’t let excuses or old habits stop you from moving forward.
 - Take proactive steps, even small ones, to create the life you want.
 
-**Actions List**
+## Action Steps
 - Next time you face a problem, ask: “What can I do to move forward?”
 - Let go of things—physical or mental—that no longer serve you.
 - Try one new solution this week, even if it feels uncomfortable.
 
-**Ask Yourself**
+## Reflection
 - *What’s one excuse you’ve been making that you could let go of today?*
 - *How can you take a small step forward, right now?*

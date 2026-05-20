@@ -43,13 +43,13 @@ Remember, it’s not about being perfect. It’s about making small, positive ch
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Every action has either a positive or negative impact on your life.
 - Replace bad habits with positive ones that bring real value and pleasure.
 - Start today—waiting for tomorrow only delays your progress.
 - Small changes, done consistently, lead to big results.
 
-*Ask Yourself:*
+## Reflection
 - What is one positive action I can start today?
 - Which negative habit can I replace with something better?
 - How will my life look in a year if I stick to this new habit?

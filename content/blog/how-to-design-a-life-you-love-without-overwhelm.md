@@ -43,13 +43,13 @@ Remember, your lifestyle is a reflection of your choices. You have the power to 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Picture your ideal day and environment.
 - Focus on what truly makes you happy, not what’s trendy.
 - Make small, meaningful changes to your daily routine.
 - Your lifestyle is yours to create—start with what feels right for you.
 
-*Ask Yourself:*
+## Reflection
 - What does my perfect day look like?
 - Where do I feel most comfortable and alive?
 - What small change can I make today to get closer to my ideal lifestyle?

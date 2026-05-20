@@ -47,18 +47,18 @@ So, start today. Change your daily routine, eat better, and make time for the th
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Organize your day to make space for your dreams.
 - Small time savings add up—use them for what matters.
 - Eat well and keep regular habits for more energy.
 - The best time to start is now, not later.
 
-*Actions List:*
+## Action Steps
 - Review your daily routine and spot where you can save time.
 - Set a regular sleep schedule.
 - Choose one goal and make a little time for it every day.
 
-*Ask Yourself:*
+## Reflection
 - What small changes can I make today to move closer to my goals?
 - Where am I spending time on things that don’t really matter to me?
 - How can I make my daily routine support my happiness?

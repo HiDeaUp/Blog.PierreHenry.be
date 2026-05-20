@@ -39,12 +39,12 @@ So, ask yourself: What can I change, right now, in a positive way? What’s with
 ![Mumbai Motivation: motivational street art in Worli, Mumbai, Maharashtra, India.](https://images.unsplash.com/photo-1669951188139-958228a42059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjaGFuY2UlMjBhY2NlcHRhbmNlJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTM4MzcxOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Success When Life Doesn’t Go as Planned")
 *How to Find Success When Life Doesn’t Go as Planned - Photo by [ShareYaarNow](https://unsplash.com/@shareyaarnow) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-building-yLq8e34mq3M)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Accept what you can’t change and move forward.
 - Life always brings new opportunities—look for them.
 - Focus on what you can control, not on regrets.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you can let go of today?
 - What new opportunity is waiting for you right now?
 - Where can you take positive action in your life?

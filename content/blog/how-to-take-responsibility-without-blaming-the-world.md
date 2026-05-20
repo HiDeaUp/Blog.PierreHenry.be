@@ -45,18 +45,18 @@ So, when you face a problem, ask yourself what you can do to prevent it from hap
 
 ---
 
-**TL;DR**
+## Key Takeaways
 - Take responsibility for your actions, even when it’s hard.
 - Stop blaming others or outside circumstances.
 - Always ask yourself how you can do better next time.
 - Don’t wait for approval—move forward with your own decisions.
 
-**Actions List**
+## Action Steps
 - Next time something goes wrong, pause and ask: “What could I have done differently?”
 - Make decisions quickly instead of hesitating for too long.
 - Focus on finding solutions, not excuses.
 
-**Ask Yourself**
+## Reflection
 - *What’s one thing you can take responsibility for today?*
 - *How can you make sure the same mistake doesn’t happen again?*
 - *Are you waiting for someone else’s approval to move forward?*

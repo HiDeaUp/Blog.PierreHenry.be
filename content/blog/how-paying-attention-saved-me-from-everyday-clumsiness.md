@@ -34,15 +34,15 @@ Paying attention is a basic principle, but it’s easy to overlook. We often thi
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Small acts of carelessness can lead to bigger problems.
 - Being present and attentive helps prevent avoidable mistakes.
 - Slow down and focus on one thing at a time.
 
-**Actions List**
+## Action Steps
 - Before moving objects, check what’s on or around them.
 - Take a moment to notice your surroundings before starting a task.
 - Practice being present, even in simple daily routines.
 
-**Ask Yourself**
+## Reflection
 *When was the last time a small distraction led to a mistake? What could you do differently next time?*

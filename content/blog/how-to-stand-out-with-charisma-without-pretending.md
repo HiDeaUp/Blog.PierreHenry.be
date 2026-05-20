@@ -41,13 +41,13 @@ If you join this group, you’ll find yourself pushed to the front of the stage.
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Charisma is about being unique, not about fitting in.
 - Your presence, speech, and posture all contribute to how people see you.
 - Amplify your positive traits instead of trying to be someone else.
 - Being memorable is more valuable than being perfect.
 
-*Ask Yourself:*
+## Reflection
 - What makes you different from everyone else?
 - Are you showing your true self, or just trying to fit in?
 - Which of your qualities could you amplify to stand out in a positive way?

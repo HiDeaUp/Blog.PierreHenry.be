@@ -54,19 +54,19 @@ The best time to take action is now. Don’t put off what you want to do today. 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Use anger as fuel to build, not destroy.
 - Don’t get stuck in negativity—turn it into action.
 - Build a life that makes you proud and reflects your values.
 - Talk to yourself honestly; ask what would make you proud today.
 - The best time to act is now.
 
-*Actions List:*
+## Action Steps
 - Next time you’re angry, pause and ask: how can I use this energy to create something positive?
 - Try the mirror exercise—talk to yourself as your own best friend.
 - Identify one thing today you can do to move closer to the life you want.
 
-*Ask Yourself:*
+## Reflection
 - How do I usually react to anger?
 - What could I build if I used that energy differently?
 - What would the best version of myself do right now?

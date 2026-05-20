@@ -39,13 +39,13 @@ Nature is not just a resource; it is the foundation for everything you want to a
 ![Lovely plants growing in the forest](https://images.unsplash.com/photo-1753787346105-b570a59916e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjBsaWZlJTIwcGVyc3BlY3RpdmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fresh Perspective Without Leaving Your Neighborhood")
 *How to Find Fresh Perspective Without Leaving Your Neighborhood - Photo by [engin akyurt](https://unsplash.com/@enginakyurt) on [Unsplash](https://unsplash.com/photos/fresh-green-plants-thriving-in-nature-wa25NFRuxBg)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Nature is more than a background; it can drive your personal progress.
 - Try walking in nature two or three times a week and use this time for reflection.
 - Shift your mindset from "What can I do?" to "What can I do thanks to nature?"
 - Let nature become your partner in growth.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you let nature influence your thoughts?
 - How could your environment help you move forward in life?
 - What new ideas might come if you gave yourself time in nature each week?

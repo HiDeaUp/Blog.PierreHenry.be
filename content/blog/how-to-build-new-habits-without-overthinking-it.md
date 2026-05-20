@@ -39,13 +39,13 @@ Listen to yourself. Trust your instincts. Do things that speak to you, things th
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Trying new things builds new connections in your brain and opens up new possibilities.
 - Don’t wait for tomorrow—start building new habits today.
 - Listen to your own voice, not just what others are doing.
 - Life is too short to live someone else’s story.
 
-*Ask Yourself:*
+## Reflection
 - What is one new thing you can try today, no matter how small?
 - Are you living your own life, or just following someone else’s path?
 - What habit could you start that would make your days more interesting?

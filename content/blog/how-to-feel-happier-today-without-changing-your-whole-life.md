@@ -41,18 +41,18 @@ This is your personal recipe for happiness. It’s not about following someone e
 ![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2NDIzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Today Without Changing Your Whole Life")
 *How to Feel Happier Today Without Changing Your Whole Life - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Find out what makes you happy and add more of it to your daily life.
 - Remove or avoid things and people that bring you down.
 - Test these changes for a few weeks and see how you feel.
 - Your happiness is in your hands—make it your own.
 
-*Actions List:*
+## Action Steps
 - List three things that make you happy. How can you add them to your day?
 - Identify one thing or person that drains your energy. How can you reduce their impact?
 - Try your new routine for three weeks and notice the difference.
 
-*Ask Yourself:*
+## Reflection
 - What small change could make today better?
 - Are you letting old habits or people steal your joy?
 - What’s one thing you can do right now to feel more fulfilled?

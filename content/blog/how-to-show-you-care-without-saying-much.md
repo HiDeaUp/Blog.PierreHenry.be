@@ -59,7 +59,7 @@ In the end, your environment and the people around you play a huge role in your 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Asking “How are you?” is a small but meaningful gesture.
 - Be yourself; don’t try to please everyone.
 - Your environment and the people around you shape your happiness.
@@ -67,13 +67,13 @@ In the end, your environment and the people around you play a huge role in your 
 - Surround yourself with positive influences, even online.
 - Don’t be afraid to take risks—change can lead to great things.
 
-*Actions List:*
+## Action Steps
 - Notice how your environment affects your mood.
 - Consider if a change of place or people could help you feel better.
 - Seek out positive influences, both in real life and online.
 - Take one small step toward improving your surroundings this week.
 
-*Ask Yourself:*
+## Reflection
 - Are you living in an environment that supports your happiness?
 - Who are the people you spend the most time with, and how do they affect you?
 - What’s one change you could make to feel better every day?

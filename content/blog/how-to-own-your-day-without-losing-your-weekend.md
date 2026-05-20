@@ -41,19 +41,19 @@ It’s true. When you stick to your routine, you give yourself more freedom to e
 ](https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsbmVzcyUyMHJvdXRpbmUlMjBkYWlseSUyMGhhYml0cyUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU0MjIzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Own Your Day Without Losing Your Weekend")
 *How to Own Your Day Without Losing Your Weekend - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Regular routines help you feel happier and avoid frustration.
 - Waking up and going to bed at the same time every day keeps your energy steady.
 - Avoid sugar and coffee first thing in the morning to prevent energy crashes.
 - A simple, steady routine boosts your presence, productivity, and happiness.
 
-*Actions List:*
+## Action Steps
 - Set a fixed bedtime and wake-up time—even on weekends.
 - Start your day with water, not coffee or sugar.
 - Choose similar, healthy foods for breakfast.
 - Notice how your energy changes with these habits.
 
-*Ask Yourself:*
+## Reflection
 - What small change could you make to your morning routine this week?
 - How does your current routine affect your mood and productivity?
 - Are you giving yourself the best chance to enjoy your weekends?

@@ -58,7 +58,7 @@ So, take a step back and focus on the essentials. Ask yourself what you really w
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 
 - *Simplicity leads to a happier, less stressful life.*
 - *Adding more things or features often creates more problems than it solves.*
@@ -66,7 +66,7 @@ So, take a step back and focus on the essentials. Ask yourself what you really w
 - *Focus on what matters most to you, not what impresses others.*
 - *Recognize when you’ve done enough and allow yourself to be content.*
 
-*Ask Yourself:*
+## Reflection
 
 1. *What are you holding onto “just in case” that you could let go of today?*
 2. *Are you adding complexity to your life for the right reasons?*

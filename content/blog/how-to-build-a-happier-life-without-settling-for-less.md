@@ -39,13 +39,13 @@ When you start making these changes, even little by little, you’ll notice a di
 ![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNzE0NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Happier Life Without Settling for Less")
 *How to Build a Happier Life Without Settling for Less - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Happiness comes from doing things that bring you joy, not from constant frustration.
 - Clean up your life by removing what drains you.
 - Make time for what you love and what helps you grow.
 - Small changes can lead to a big difference in how you feel.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you can remove from your life today that’s holding you back?
 - How can you make more time for what truly makes you happy?
 - Are you growing in the right environment, or is it time to change your soil?

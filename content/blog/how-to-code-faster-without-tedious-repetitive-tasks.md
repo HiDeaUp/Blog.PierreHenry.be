@@ -78,11 +78,3 @@ And remember, always review what it does. You’re still the master of your code
 > “Treat AI like a good junior engineer: you’re the senior, and you’re reviewing what it did.”
 
 > “The more precise you are, the better Cursor performs.”
-
----
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
-
-### Kicker:  
-*Cursor isn’t just another code editor—it’s your new coding sidekick, ready to automate the boring stuff so you can focus on building cool things.*

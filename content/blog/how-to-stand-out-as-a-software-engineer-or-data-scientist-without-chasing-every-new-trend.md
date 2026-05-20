@@ -70,12 +70,3 @@ So, keep learning, keep building, and keep moving forward. That’s how you beco
 > “Time is your most valuable asset. Don’t waste it on things that don’t move you forward.”
 
 > “The ability to learn quickly and adapt is the real superpower in tech.”
-
----
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)  
-🤔 [Learn more about me on Dev.to](https://dev.to/pierre)
-
----
-
-### Kicker:  
-**The real edge in tech isn’t what you know—it’s how fast you can learn, adapt, and apply.**

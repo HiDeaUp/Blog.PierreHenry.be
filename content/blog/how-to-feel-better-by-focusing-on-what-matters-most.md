@@ -57,17 +57,17 @@ Take a moment to think about what truly matters to you. Write those things down.
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Identify the 3-5 things that matter most to you.
 - Write them down and focus on them daily.
 - Notice how your mood and fulfillment improve when you stick to your priorities.
 
-*Actions List:*
+## Action Steps
 - Grab a notebook and list your top priorities.
 - Schedule time for each one every day or week.
 - Reflect on how you feel after focusing on them.
 
-*Ask Yourself:*
+## Reflection
 - What are the ingredients for your happiness?
 - Are you making enough time for them?
 - How can you adjust your routine to feel better each day?

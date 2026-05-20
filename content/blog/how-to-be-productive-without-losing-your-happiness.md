@@ -45,14 +45,14 @@ If you want to go even further in improving your life, remember that your enviro
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Productivity and happiness don’t have to be opposites.
 - Choose work that makes you happy and helps you grow.
 - Balance your days with different types of activities.
 - Too much of anything—even what you love—can harm your happiness.
 - Your environment plays a big role in how you feel and work.
 
-*Ask Yourself:*
+## Reflection
 - Are you enjoying what you do each day?
 - Do you feel balanced, or are you always rushing?
 - What small changes could make your days happier and more fulfilling?

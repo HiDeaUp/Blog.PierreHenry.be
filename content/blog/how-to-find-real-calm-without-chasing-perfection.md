@@ -41,14 +41,14 @@ So, simply love life, relax, and keep questioning yourself. It might sound contr
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Reinvent yourself often—don’t get stuck in what works now.
 - Stand out by being different, not just better.
 - Enjoy the small things; they bring real happiness.
 - Don’t live only in the virtual world—be present in your real life.
 - Question yourself, relax, and take action to improve.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly enjoyed a simple moment?
 - Are you living for yourself, or just following the crowd?
 - What small change could you make today to bring more peace into your life?

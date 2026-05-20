@@ -55,20 +55,20 @@ It’s important to recognize when a space just doesn’t feel right. Some rooms
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment has a huge impact on your energy and productivity.
 - Build strong habits and routines; don’t rely on motivation alone.
 - Make it easy to start the things you want to do by removing barriers.
 - Don’t give yourself exceptions—consistency is key.
 - If a space feels wrong, change it. Sometimes, it’s not you—it’s the environment.
 
-*Actions List:*
+## Action Steps
 - Rearrange or change your workspace if you feel stuck.
 - Prepare everything you need for your habits in advance.
 - Stick to your routines, no matter what.
 - Notice how different environments affect your mood and energy.
 
-*Ask Yourself:*
+## Reflection
 - Is my current environment helping or hurting my goals?
 - What small changes can I make today to support my habits?
 - Am I making things harder for myself than they need to be?

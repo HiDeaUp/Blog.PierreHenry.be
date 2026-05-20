@@ -63,7 +63,7 @@ So, don’t put off what matters. Start today, even if it’s just a small step.
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - We all have the same 24 hours; how you use them makes the difference.
 - Use “dead time” for learning, creating, or reflecting.
 - Delegate or eliminate tasks that don’t add value or joy.
@@ -72,13 +72,13 @@ So, don’t put off what matters. Start today, even if it’s just a small step.
 - Consistency beats intensity over the long run.
 - Challenge your self-imposed limits and keep your vision clear.
 
-*Actions List:*
+## Action Steps
 - Set aside time each week to review how you spent your time.
 - Identify one task you can delegate or stop doing.
 - Start a small daily habit that moves you closer to your goals.
 - Create a vision board to keep your motivation high.
 
-*Ask Yourself:*
+## Reflection
 - How much is one hour of your life truly worth?
 - What could you achieve if you used your “dead time” differently?
 - Are you living by old limits, or are you ready to set new ones?

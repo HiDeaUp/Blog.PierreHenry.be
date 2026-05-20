@@ -43,18 +43,18 @@ So, take time for yourself. Relax, unwind, and enjoy the simple things. That’s
 ![Room](https://images.unsplash.com/photo-1513694203232-719a280e022f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaXZpbmclMjBmdWxseSUyMG1pbmRmdWxuZXNzJTIwY2FycGUlMjBkaWVtfGVufDB8MHx8fDE3NDkzODIyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Fully Without Waiting for the “Right Time”")
 *How to Live Fully Without Waiting for the “Right Time” - Photo by [Alexandra Gorn](https://unsplash.com/@alexagorn) on [Unsplash](https://unsplash.com/photos/dresser-beside-sofa-JIUjvqe2ZHg)*
 
-*TL;DR:*
+## Key Takeaways
 - Time is your most valuable resource—use it well.
 - Enjoy the present moment and your surroundings.
 - Simple pleasures often bring the most happiness.
 - Reflect on what you want to keep or change in your life.
 
-*Actions List:*
+## Action Steps
 - Take a walk and really notice your environment.
 - Set aside time to relax and reflect.
 - Write down what you want to change or keep in your life.
 
-*Ask Yourself:*
+## Reflection
 - Are you living for today, or waiting for “someday”?
 - What simple pleasures can you enjoy right now?
 - How can you make the most of your time, starting today?

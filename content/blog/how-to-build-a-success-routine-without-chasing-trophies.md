@@ -44,14 +44,14 @@ Your main job is to enjoy what you love, whether it’s theater, piano, ceramics
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Make time for what makes you happy, just for you.
 - Stack new habits onto existing routines to make them stick.
 - Don’t turn every passion into a business; keep some things just for pleasure.
 - Spend time alone to reflect on what you want to do next.
 - Real success is about enjoying your life, not chasing trophies.
 
-*Ask Yourself:*
+## Reflection
 - What small passion could you add to your daily routine?
 - Are you doing things for yourself, or just to impress others?
 - When was the last time you did something just for the joy of it?

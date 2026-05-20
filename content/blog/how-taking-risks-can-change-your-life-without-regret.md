@@ -52,7 +52,7 @@ It’s important to step back and review your day. Ask yourself: How did it go? 
 
 ---
 
-### TL;DR
+## Key Takeaways
 
 - Provoking luck means doing things that scare you and stepping out of your comfort zone.  
 - Change your environment, try new projects, and challenge yourself daily.  

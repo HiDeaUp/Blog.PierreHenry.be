@@ -51,7 +51,7 @@ So, take a hard look at your life. What are your top three priorities? What’s 
 
 ---
 
-*TL;DR / Key Takeaways*
+## Key Takeaways
 - Stop waiting for the perfect moment—start now.
 - Identify your top priority and give it real attention.
 - Accept that you can’t do everything, and that’s okay.
@@ -59,7 +59,7 @@ So, take a hard look at your life. What are your top three priorities? What’s 
 - After achieving one goal, set a new top priority.
 - Balance productivity with well-being.
 
-*Ask Yourself:*
+## Reflection
 - What is my number one priority right now?
 - What am I putting off for “tomorrow” that I could start today?
 - Am I spending my time on what truly matters to me?

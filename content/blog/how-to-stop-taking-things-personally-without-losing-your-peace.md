@@ -49,11 +49,11 @@ So, next time you feel like the world is against you, remember: you’re not the
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Most things are not about you—don’t take everything personally.
 - Protect your focus and stay in your own bubble when needed.
 - If you feel left out, try reaching out instead of withdrawing.
 - Remember, everyone has their own story and struggles.
 
-**Ask Yourself**
+## Reflection
 *When was the last time you took something personally that wasn’t about you? How would your day change if you let go of that habit?*

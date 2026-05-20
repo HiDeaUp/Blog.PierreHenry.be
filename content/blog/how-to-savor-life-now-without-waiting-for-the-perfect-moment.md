@@ -33,7 +33,7 @@ Taking a step back is essential. Give yourself moments to think: What do I want 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Time is more valuable than money—use it well.
 - Enjoy where you are and what you have right now.
 - The simple things in life often bring the most happiness.
@@ -42,12 +42,12 @@ Taking a step back is essential. Give yourself moments to think: What do I want 
 ![Photo by Ian Schneider](https://images.unsplash.com/photo-1455849318743-b2233052fcff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaXZlJTIwaW4lMjB0aGUlMjBtb21lbnQlMjBlbmpveSUyMGxpZmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ4NjM2OTU3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Now Without Waiting for the Perfect Moment")
 *How to Savor Life Now Without Waiting for the Perfect Moment - Photo by [Ian Schneider](https://unsplash.com/@goian) on [Unsplash](https://unsplash.com/photos/two-person-standing-on-gray-tile-paving-TamMbr4okv4)*
 
-*Actions List:*
+## Action Steps
 - Notice your surroundings and appreciate them.
 - Make time for yourself to relax and slow down.
 - Reflect on what you want to change or keep in your life.
 
-*Ask Yourself:*
+## Reflection
 - Are you living in the present, or always waiting for “later”?
 - What simple pleasures can you enjoy today?
 - What would you regret not doing if tomorrow never came?

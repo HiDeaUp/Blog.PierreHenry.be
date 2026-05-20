@@ -41,16 +41,16 @@ So, next time you feel the day rushing by, try a fika break. Even if you’re al
 ![Photo by Lasse Jensen](https://images.unsplash.com/photo-1623092733170-ebad18f2faa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGaWthJTIwU3dlZGlzaCUyMGN1bHR1cmUlMjBjb2ZmZWUlMjBicmVha3xlbnwwfDB8fHwxNzU2NTI2NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier at Work With a Swedish Fika Break")
 *How to Feel Happier at Work With a Swedish Fika Break - Photo by [Lasse Jensen](https://unsplash.com/@maybejensen) on [Unsplash](https://unsplash.com/photos/person-holding-clear-glass-cup-with-brown-liquid-7pTpTTl_U8g)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Fika is a Swedish tradition of taking a real break with coffee and a treat, usually twice a day.
 - The focus is on relaxing, connecting, and not talking about work.
 - You can create your own fika, even if you work remotely or alone.
 - These short pauses help you recharge and return to your tasks with more energy.
 
-**Actions List**
+## Action Steps
 - Schedule a daily fika break, even if it’s just for yourself.
 - Invite a colleague or friend to join you for a no-work chat.
 - Notice how you feel after taking a real pause.
 
-*What about you?*
+## Reflection
 *When was the last time you truly paused in your day? Could a fika break help you feel better and work better?*

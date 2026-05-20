@@ -42,18 +42,18 @@ The best time to start is now. Don’t wait for the perfect moment, because it n
 ![Photo by Jilbert Ebrahimi](https://images.unsplash.com/photo-1441804238730-210ce1c2cc00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzQ4NzQyOTY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done WITHOUT Falling for the Multitasking Trap")
 *How to Get More Done WITHOUT Falling for the Multitasking Trap - Photo by [Jilbert Ebrahimi](https://unsplash.com/@jilburr) on [Unsplash](https://unsplash.com/photos/macrophotography-of-cracked-glass-screen-pVEcNabAg9o)*
 
-*TL;DR:*
+## Key Takeaways
 - Multitasking leads to poor results and unfinished work.
 - Focus on one thing at a time for better quality and satisfaction.
 - Promise yourself to improve and stick to it.
 - Compare yourself to your future self, not others.
 - The best time to start is now.
 
-*Actions List:*
+## Action Steps
 - Pick one task and finish it before starting another.
 - Write down a personal rule to avoid multitasking.
 - Reflect on what you can improve today.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one thing you can do right now to move closer to your future self?
 - Are you spreading yourself too thin by trying to do too much at once?

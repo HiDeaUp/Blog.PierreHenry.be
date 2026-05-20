@@ -44,14 +44,14 @@ Taking time to reflect and adjust, even in small ways, can make your days much b
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Pause and ask yourself if your daily actions are making you happy.*
 - *Small changes in routine or environment can make a big difference.*
 - *Try combining chores with things you enjoy, like listening to podcasts or audiobooks.*
 - *Consider working from new places to refresh your perspective.*
 - *Regular reflection helps you stay aligned with what feels good for you.*
 
-*Ask Yourself:*
+## Reflection
 - *When was the last time you questioned your daily routine?*
 - *What small change could you make this week to feel better about your days?*
 - *Are you doing what’s truly good for you, or just what you’ve always done?*

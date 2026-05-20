@@ -47,5 +47,5 @@ Meditation apps like Space can help you get started, and there are plenty of oth
 
 ---
 
-*Ask Yourself:*
+## Reflection
 *What thoughts are you holding onto that you could flush away today? How can you make space for more joy and peace in your daily life?*

@@ -40,12 +40,12 @@ Think about it. Life is too short not to make the most of it. Maybe it is time t
 ![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjBhdXRoZW50aWMlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NjY0MjQ0OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Feels Right Without Pretending")
 *How to Build a Life That Feels Right Without Pretending - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - You can choose where and how you live, especially with remote work.
 - Do not wait for the perfect moment; start building the life you want now.
 - A job you love and a place that inspires you can change everything.
 
-*Ask Yourself:*
+## Reflection
 - What is stopping you from living where you truly want?
 - Are you making choices based on what feels right for you, or just what is expected?
 - If you could live anywhere and do anything, what would you choose?

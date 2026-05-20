@@ -89,8 +89,3 @@ As I always say: *“A model that can’t communicate its results is only half a
 
 ---
 🤔 [Learn more about me on Dev.to](https://dev.to/pierre)
-
----
-
-### Kicker:  
-*If you want your AI to be both smart and approachable, this is the stack to try.*

@@ -47,7 +47,7 @@ Learning is a lifelong process. The more you learn, the more you realize how muc
 ![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRzZXQlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYwMTUyNTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Mindset Without Forcing Motivation")
 *How to Change Your Mindset Without Forcing Motivation - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 - Your mindset and self-image directly influence your success.
 - Most limits are self-imposed and can be broken down.
@@ -57,7 +57,7 @@ Learning is a lifelong process. The more you learn, the more you realize how muc
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - What invisible barriers have you built in your mind?
 - How does your self-image match the person you want to become?
 - Are you making learning a daily priority?

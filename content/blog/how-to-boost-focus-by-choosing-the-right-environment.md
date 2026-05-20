@@ -34,10 +34,10 @@ What about you? What is your ideal environment? Where do you feel most at ease, 
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Your environment has a real impact on your mood and productivity.
 - Take time to notice where you feel your best.
 - Try to spend more time in places that inspire and support you.
 
-**Ask Yourself**
+## Reflection
 *Where do you feel most alive and focused? What small changes can you make to your surroundings today to feel better?*

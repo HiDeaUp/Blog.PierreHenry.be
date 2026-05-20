@@ -100,12 +100,5 @@ As I always say, “The more context you give, the better results you’ll get.�
 > “If your app isn’t coming out right, it’s probably your prompt. Iterate, refine, and keep your prompts small enough for the LLM to digest.”
 
 ---
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)  
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
-
----
-
 ## Kicker:  
 AI isn’t just a tool—it’s your new coding sidekick. Use it everywhere, and watch your workflow transform.

@@ -45,13 +45,13 @@ By making small, regular improvements and reflecting on your choices, you’ll f
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Regularly reflect on how you spend your time, even on small tasks.
 - Ask yourself if your time was well used and how you could improve.
 - Don’t compare yourself to others; focus on your own progress.
 - Small, consistent changes lead to real growth in self-esteem and achievement.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you paused to reflect on your day?
 - What small change could you make today to use your time better?
 - Are you measuring your success by your own values, or someone else’s?

@@ -39,13 +39,13 @@ Mental strength is about being a little bit “vicious” with your goals—neve
 ![Photo by Saaaaaarah 📸](https://images.unsplash.com/photo-1641593935856-ce3ec319bf6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBzdHJlbmd0aCUyMGFtYml0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxMTE5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Aim Higher Without Fear of Falling Short")
 *How to Aim Higher Without Fear of Falling Short - Photo by [Saaaaaarah 📸](https://unsplash.com/@saaaaaarahs_shots) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-top-of-a-rocky-mountain-mYlc2S4rCxc)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Set ambitious goals that excite you.
 - Make your objectives specific and give them a deadline.
 - Let your goal become a daily focus.
 - Don’t be afraid to aim high—even if you fall short, you’ll still move forward.
 
-*Ask Yourself:*
+## Reflection
 - Are your goals ambitious enough to motivate you every day?
 - Do you think about your objectives daily, or do they fade into the background?
 - What’s one bold goal you can set for yourself right now?

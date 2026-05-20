@@ -83,5 +83,4 @@ Let’s go. Let’s do it. Let’s be better.
 
 ---
 
-#### Kicker:  
-Don’t let AI do your thinking—let it do your building. Stay sharp, stay in control.
+#

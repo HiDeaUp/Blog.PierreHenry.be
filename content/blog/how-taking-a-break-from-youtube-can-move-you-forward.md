@@ -61,7 +61,7 @@ I truly hope you go far in your own projects. I want you to live the life you dr
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 
 1. *Taking a break can be a powerful way to refocus your energy and grow.*
 2. *All existing videos remain available for you to revisit and learn from.*

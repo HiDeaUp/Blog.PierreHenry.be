@@ -54,7 +54,7 @@ Travel comes with its own set of challenges—noise, delays, people calling out 
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 ![time flies](https://images.unsplash.com/photo-1494506111877-98a309cf0a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODgzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How I Stay Focused Anywhere—Even in a Noisy Airport")
 *How I Stay Focused Anywhere—Even in a Noisy Airport - Photo by [Amin Salehi](https://unsplash.com/@aminsalehi) on [Unsplash](https://unsplash.com/photos/round-grey-stainless-steel-analog-clock-displaying-322-_e2BZT4c7xk)*

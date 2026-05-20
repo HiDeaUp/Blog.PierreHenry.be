@@ -58,9 +58,6 @@ It’s a really exciting journey. If you’re into this stuff, you’ll find it 
 > “Start today by building a project for a real problem you want to solve.”
 
 ---
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)
-
----
 
 ## Kicker:  
 *If you want to become an AI engineer, don’t just learn—build, experiment, and solve real problems. That’s how you level up fast.*

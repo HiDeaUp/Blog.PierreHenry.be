@@ -59,14 +59,14 @@ If you’re learning something new today, try teaching it. Maybe you’re readin
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 - Teaching what you know boosts your confidence and self-worth.
 - Organizing your knowledge for others helps you understand it better.
 - Teaching reinforces your memory for the long term.
 - You don’t need to be the world’s top expert—teaching makes you stand out.
 - Sharing your knowledge opens doors to new opportunities and leadership roles.
 
-### **Actions List**
+## Action Steps
 - Pick something you’re learning now and teach it to someone else.
 - Share your knowledge through a video, blog, or meetup.
 - Don’t wait to be perfect—start sharing today.

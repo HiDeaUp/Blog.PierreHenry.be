@@ -43,17 +43,17 @@ So, take action. Even if it’s just ten minutes a day for something you love, i
 ![Photo by Aaron Burden](https://images.unsplash.com/photo-1516676839530-135a545cce02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwcGxhbm5pbmclMjBjbGFyaXR5JTIwY2FsbXxlbnwwfDB8fHwxNzQ4NzQzODg0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Weekend Without Losing Your Free Time")
 *How to Plan Your Weekend Without Losing Your Free Time - Photo by [Aaron Burden](https://unsplash.com/@aaronburden) on [Unsplash](https://unsplash.com/photos/focus-photography-of-brown-plants-tQF8FCNYNrk)*
 
-*TL;DR:*
+## Key Takeaways
 - Every day is a chance to do something for yourself.
 - Planning your weekends gives you energy and purpose.
 - Small daily actions add up to big changes over time.
 - Invest in yourself, even if it’s just a few minutes a day.
 
-*Actions List:*
+## Action Steps
 - Decide tonight what you want to do tomorrow.
 - Set aside at least ten minutes a day for a personal project.
 - Reflect on where you want to be in three months and plan your steps.
 
-*Ask Yourself:*
+## Reflection
 - What small action can I take today that my future self will thank me for?
 - How can I make my weekends more meaningful?

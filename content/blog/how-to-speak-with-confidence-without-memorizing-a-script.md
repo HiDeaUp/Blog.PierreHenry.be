@@ -59,7 +59,7 @@ One last thing to remember: most people are much more understanding and supporti
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 
 - Visualize where you’ll be speaking.
 - Focus on your main message, not a word-for-word script.

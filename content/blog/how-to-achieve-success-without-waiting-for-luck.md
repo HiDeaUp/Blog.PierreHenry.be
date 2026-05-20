@@ -35,14 +35,14 @@ This accumulation of effort is what creates success. It’s not glamorous, but i
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZGFpbHklMjBlZmZvcnQlMjBteXRoc3xlbnwwfDB8fHwxNzU1NTc5NzMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Success Without Waiting for Luck")
 *How to Achieve Success Without Waiting for Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Success is built through daily habits and routines, not sudden luck.
 - Consistency is more important than intensity.
 - Define who you want to become and take small steps every day.
 - Set clear goals and review your progress regularly.
 - The accumulation of small efforts leads to big results.
 
-*Ask Yourself:*
+## Reflection
 - What small action can you take today towards your goal?
 - Are your daily routines helping you become the person you want to be?
 - How can you make consistency a part of your life?

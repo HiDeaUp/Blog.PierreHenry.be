@@ -47,17 +47,17 @@ The answer is to come back to basics. Remember why you’re here. Focus on what 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Frustration and mental clutter can ruin good moments if you let them.
 - Most setbacks are small in the big picture.
 - Simple breathing exercises or a walk can help clear your mind.
 - Focus on what matters and don’t let minor problems take over your day.
 
-*Actions List:*
+## Action Steps
 - Try triangle breathing next time you feel overwhelmed.
 - Remind yourself that most problems are small.
 - Take a break, get some fresh air, and reset your mood.
 
-*Ask Yourself:*
+## Reflection
 - How often do you let small frustrations ruin your day?
 - What simple habit could help you handle setbacks better?

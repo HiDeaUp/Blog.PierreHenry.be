@@ -41,17 +41,17 @@ The point is to try these small moments for yourself. Step outside your routine,
 ![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1632494483455-a848e1225239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbWFsbCUyMHBsZWFzdXJlcyUyMHByb2R1Y3Rpdml0eSUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjUwNzE2OHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Pleasures Boost Productivity Without Burnout")
 *How Small Pleasures Boost Productivity Without Burnout - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/a-glass-jar-with-a-message-inside-sitting-on-a-wooden-table-T_hpZ3JLyqk)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Small pleasures like a café visit or a hotel stay can boost your productivity.
 - Investing in your environment helps you focus on personal projects.
 - Stepping out of your routine, even briefly, can spark new ideas.
 - Try creating your own “think week” or mini-retreat for reflection and growth.
 
-*Actions List:*
+## Action Steps
 - Pick a new spot to work or relax this week.
 - Set a clear goal for your next “treat yourself” session.
 - Reflect on what small changes could help you feel more productive.
 
-*Ask Yourself:*
+## Reflection
 - What small pleasure could you use to boost your own productivity?
 - When was the last time you stepped out of your routine for yourself?

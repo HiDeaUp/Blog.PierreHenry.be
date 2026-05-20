@@ -36,13 +36,13 @@ The real secret is consistency. Every day, take a step outside your usual routin
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Add something new to your day, every day
 - Start small: a new habit, a new class, a new initiative
 - Each new step grows your knowledge and your network
 - Consistency is what lifts your success curve
 
-*Ask Yourself:*
+## Reflection
 - What new thing can you try today?
 - How can you make meeting new people part of your routine?
 - Are you willing to step out of your comfort zone, even just a little, every day?

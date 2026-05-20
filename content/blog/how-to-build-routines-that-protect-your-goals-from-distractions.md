@@ -53,14 +53,14 @@ So, invest your time wisely. Block out those hours, protect them, and use them t
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Routines protect your goals from daily distractions.
 - Block out time in your calendar for focused work.
 - Turn your phone to grayscale to reduce distractions.
 - Use “dead time” like commutes to work on your projects.
 - Start today—there’s no better moment than now.
 
-*Ask Yourself:*
+## Reflection
 - What project could you move forward if you dedicated just one hour a day?
 - How much time do you lose to distractions, and what could you achieve if you reclaimed it?
 - What’s stopping you from starting your new routine today?

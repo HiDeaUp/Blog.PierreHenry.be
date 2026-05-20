@@ -36,12 +36,12 @@ So next time you feel paralyzed by doubt, remember: you don’t need to have it 
 ![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG92ZXJjb21pbmclMjBkb3VidHxlbnwwfDB8fHwxNzU2NjQwMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Confidence Without Overthinking Everything")
 *How to Build Real Confidence Without Overthinking Everything - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Overthinking about failure only increases stress and keeps you stuck.
 - Changing your perspective can help you act, even if you’re unsure.
 - Confidence is not about being fearless, but about moving forward despite your doubts.
 - Find your own way to build confidence—there’s no universal recipe.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small step you can take today, even if you’re not sure of the outcome?
 - How would your life change if you stopped treating every decision as a potential disaster?

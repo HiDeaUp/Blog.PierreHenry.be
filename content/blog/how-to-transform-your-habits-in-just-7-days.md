@@ -41,19 +41,19 @@ What matters most is the commitment. For one week, you focus on one thing. You p
 ![Photo by Tu Tran Anh](https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwNy1kYXklMjBjaGFsbGVuZ2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU3NDYzMDcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Habits in Just 7 Days")
 *How to Transform Your Habits in Just 7 Days - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Pick one challenge and stick to it for seven days.
 - It can be about food, writing, videos, or even learning a new skill.
 - The goal is to build discipline and see what you’re capable of.
 - Progress matters more than perfection.
 
-*Actions List:*
+## Action Steps
 - Choose your challenge for the next week.
 - Set clear rules and limits.
 - Track your progress daily.
 - Reflect on what you learned at the end of the week.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you’ve always wanted to try but never started?
 - How would your life change if you committed to it for just one week?
 - What’s stopping you from starting today?

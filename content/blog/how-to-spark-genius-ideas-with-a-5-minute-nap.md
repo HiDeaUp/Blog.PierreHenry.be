@@ -59,13 +59,13 @@ If you want to solve problems or boost your creativity, I highly recommend givin
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 - The creative nap is a short nap where you wake up as soon as you start to fall asleep, often by dropping an object that makes noise.
 - Set a clear intention before your nap about what you want to solve or create.
 - Capture your ideas immediately after waking, before your logical mind filters them out.
 - This technique was used by Thomas Edison and is backed by research on sleep stages and creativity.
 
-### **Actions List**
+## Action Steps
 - Try the creative nap technique with keys or another noisy object.
 - Set a specific goal before your nap.
 - Keep a notebook or recorder nearby to capture ideas right after waking.

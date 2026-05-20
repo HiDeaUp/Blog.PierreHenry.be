@@ -36,13 +36,13 @@ When you allow yourself to question your choices, you open the door to real impr
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Take time to pause and reflect on your actions.
 - Ask yourself if what you’re doing really makes you happy.
 - Don’t be afraid to question your routine and try new ways of doing things.
 - True progress often starts with honest self-reflection.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you questioned your daily routine?
 - Are you working towards something that truly matters to you?
 - What small change could you make today to bring more meaning to your work?

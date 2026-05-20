@@ -75,14 +75,14 @@ When it comes to learning and growing, you have choices. You can go the long way
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Take regular moments alone to reflect and recharge.
 - Accept your share of responsibility in every situation—it’s the only way to grow.
 - The present is the only time you can act; don’t wait for tomorrow.
 - Do things for yourself, not just to please others.
 - Decide quickly and move forward—don’t let indecision keep you stuck.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you spent real, undistracted time alone?
 - Are you living for yourself, or to impress others?
 - What’s one thing you can do today to move closer to your own goals?

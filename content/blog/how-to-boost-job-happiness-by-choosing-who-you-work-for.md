@@ -47,17 +47,17 @@ So, whether you’re an executive assistant or a cleaner, the key is to be strat
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 - Job titles change, but the core tasks often stay the same.
 - Your happiness at work depends a lot on who you work for.
 - If you admire your boss, your job will feel more meaningful.
 - The value of your work can increase dramatically depending on where and for whom you do it.
 - Be strategic: choose your boss and workplace with care.
 
-### **Actions List**
+## Action Steps
 - Before accepting a job, ask yourself if you admire the person you’ll be working for.
 - If you’re in a support role, look for leaders who inspire you.
 - If you’re in a service job, aim for workplaces that value and reward quality work.
 
-### *What About You?*
+## Reflection
 *Are you working for someone who lifts you up? Does your workplace value your contribution? What could you change to feel more fulfilled in your job?*

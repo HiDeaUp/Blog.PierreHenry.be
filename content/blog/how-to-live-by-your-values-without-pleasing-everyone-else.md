@@ -34,7 +34,7 @@ The best time to start living according to your values, to do things that make y
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Ask yourself if what you’re doing really matches your values.
 - Don’t force yourself into situations or places that drain you.
 - Real courage is saying no to what doesn’t fit you.
@@ -43,12 +43,12 @@ The best time to start living according to your values, to do things that make y
 ![Photo by Joshua Hoehne](https://images.unsplash.com/photo-1579758300918-333e43ba760d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMHZhbHVlcyUyMGF1dGhlbnRpY2l0eSUyMHNlbGYtZGlzY292ZXJ5fGVufDB8MHx8fDE3NTU3Mjc0MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live by Your Values Without Pleasing Everyone Else")
 *How to Live by Your Values Without Pleasing Everyone Else - Photo by [Joshua Hoehne](https://unsplash.com/@joshua_hoehne) on [Unsplash](https://unsplash.com/photos/black-and-brown-happy-new-year-text-rIUx_Q9_axw)*
 
-*Actions List:*
+## Action Steps
 - Take a moment to reflect on what truly matters to you.
 - Say no to things and people that don’t align with your values.
 - Choose environments and activities that make you feel good.
 
-*Ask Yourself:*
+## Reflection
 - Are you living by your own values, or someone else’s?
 - What’s one thing you can stop doing today that doesn’t feel right?
 - What would your life look like if you only did what truly matters to you?

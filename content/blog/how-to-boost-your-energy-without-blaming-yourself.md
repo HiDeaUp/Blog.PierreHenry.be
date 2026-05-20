@@ -46,19 +46,19 @@ Sometimes, the answer really is to change your environment. Some places just dra
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Your environment affects your energy and productivity more than you think.
 - Change your surroundings or routines to see what works best for you.
 - Make starting tasks easy by setting up your space in advance.
 - Stick to your habits and avoid giving yourself exceptions.
 - Don’t blame yourself for low energy—sometimes it’s just where you are.
 
-*Actions List:*
+## Action Steps
 - Look around: does your space help or hinder your energy?
 - Try rearranging your routine or moving to a new spot.
 - Prepare what you need for your habits the night before.
 - Notice how different environments make you feel.
 
-*Ask Yourself:*
+## Reflection
 - What small change in your environment could boost your energy today?
 - Are you blaming yourself for something your surroundings are causing?

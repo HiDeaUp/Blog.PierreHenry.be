@@ -34,13 +34,13 @@ You can’t manufacture more hours in a day, but you can decide how to use the o
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Time never waits. Once it’s gone, it’s gone for good.
 - Everyone has the same 24 hours, but how you use them makes all the difference.
 - Focus on the present and savor the small moments—they add up to a meaningful life.
 - Notice your energy patterns and use your best moments for what matters most.
 
-*Ask Yourself:*
+## Reflection
 - Are you truly present in your daily life, or are you letting moments slip away?
 - How can you make your next hour more meaningful?
 - What small treasures can you notice and appreciate today?

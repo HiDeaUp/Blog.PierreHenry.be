@@ -41,7 +41,7 @@ It’s the same with your projects and your passions. If you start now, you’ll
 
 ---
 
-### **Key Takeaways**
+## Key Takeaways
 
 ![A group of South Africans with diabetes brainstorm ideas on diabetes advocacy](https://images.unsplash.com/photo-1683200517782-717f1792fa58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcGFzc2lvbiUyMHByb2plY3RzJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjM3ODkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Quitting Your Day Job")
 *How to Invest in Yourself Without Quitting Your Day Job - Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-yQ4smaPYgnw)*

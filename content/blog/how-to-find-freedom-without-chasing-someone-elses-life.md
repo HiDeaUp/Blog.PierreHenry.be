@@ -48,14 +48,14 @@ Surrounding yourself with the right people and consuming positive content is jus
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus on your own progress, not others’ achievements.
 - Take small steps—each one matters more than you think.
 - Use what you have, where you are, and build from there.
 - Be mindful of your habits; they shape your future.
 - Surround yourself with positive people and content.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small step I can take today toward my own freedom?
 - Am I comparing my journey to someone else’s highlight reel?
 - What habits can I change, even a little, to improve my life over time?

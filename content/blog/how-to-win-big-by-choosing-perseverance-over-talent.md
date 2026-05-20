@@ -41,14 +41,14 @@ I truly wish you the best from the bottom of my heart as you move forward with y
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBtb3RpdmF0aW9uJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NTI4MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Win Big by Choosing Perseverance Over Talent")
 *How to Win Big by Choosing Perseverance Over Talent - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Perseverance is the real key to meaningful progress.
 - Set a clear vision and remind yourself of it every day.
 - Consistency beats intensity—work on your goal daily, even for a short time.
 - Visual reminders help keep your motivation alive.
 - Everything is possible if you keep going, step by step.
 
-*Ask Yourself:*
+## Reflection
 - What small action can you take today to move closer to your goal?
 - How can you make your vision more present in your daily life?
 - Are you willing to show up for yourself every single day, even if it’s just for a few minutes?

@@ -41,7 +41,7 @@ Life is much shorter than we think. At the end of the day, your life is in your 
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 - Small daily actions add up to big changes over time.
 - Don’t wait for the perfect moment—start today.
 - Ten minutes a day is enough to make a real difference.

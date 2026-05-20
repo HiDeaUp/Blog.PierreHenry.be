@@ -39,14 +39,14 @@ So, next time you set a goal, don’t leave it vague. Give yourself a clear targ
 ![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTU0MTg0NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Your Goals Without Getting Stuck in Planning")
 *How to Achieve Your Goals Without Getting Stuck in Planning - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Be specific about what you want to achieve.
 - Set real deadlines for your actions.
 - Turn your goals into personal challenges.
 - Surround yourself with motivated, driven people—even virtually.
 - Break big goals into clear, actionable steps.
 
-*Ask Yourself:*
+## Reflection
 - What’s one goal I can make more specific today?
 - What deadline can I set for myself right now?
 - Who can I connect with to help keep me motivated?

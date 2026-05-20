@@ -41,18 +41,18 @@ The key is to keep moving, keep questioning, and keep improving. Don’t settle 
 ― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzcGVjdGl2ZSUyMHNpbXBsaWNpdHklMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDg3NDUxODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life Without Settling for Less")
 *How to Simplify Life Without Settling for Less - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
 
-*TL;DR:*
+## Key Takeaways
 - Always iterate and question your process.
 - Satisfaction is good, but don’t let it make you complacent.
 - Build good habits and keep pushing yourself, but don’t overdo it.
 - Reflect on your days and look for ways to improve.
 
-*Actions List:*
+## Action Steps
 - After each project or day, ask: What worked? What didn’t?
 - Try small changes and see if they make a difference.
 - Keep your passion alive, but remember to rest.
 
-*Ask Yourself:*
+## Reflection
 - Am I satisfied, or am I settling?
 - What’s one thing I could try differently tomorrow?
 - How can I make improvement a habit, not a chore?

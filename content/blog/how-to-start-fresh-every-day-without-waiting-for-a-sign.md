@@ -49,18 +49,18 @@ If you do something for just ten minutes a day, that’s seventy minutes a week,
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Every day is a new chance to do something meaningful, even if it’s just for ten minutes.
 - Having a goal gives your life direction—without it, you’re just drifting.
 - Time is precious; once it’s gone, you can’t get it back.
 - Regular, small actions add up to big results.
 - Happiness is the real goal, not just achievement or money.
 
-*Actions List:*
+## Action Steps
 - Ask yourself each morning: What can I do today, even for ten minutes, that will make me proud?
 - Set a clear goal, even a small one, and take a step toward it every day.
 - Reflect on what truly makes you happy—not what impresses others.
 
-*What About You?*
+## Reflection
 - Are you acting in your life, or just letting it happen to you?
 - What’s one small thing you can do today to move closer to your own hero in ten years?

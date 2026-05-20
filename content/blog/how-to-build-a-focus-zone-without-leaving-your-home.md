@@ -41,16 +41,16 @@ I truly hope your Safe Space helps you as much as it’s helped me. Don’t put 
 ![Photo by Shawn Rain](https://images.unsplash.com/photo-1655910727243-006317ef2dbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzYWZlJTIwc3BhY2UlMjBmb2N1cyUyMGRpc3RyYWN0aW9uLWZyZWV8ZW58MHwwfHx8MTc1NjUyNzY1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Focus Zone Without Leaving Your Home")
 *How to Build a Focus Zone Without Leaving Your Home - Photo by [Shawn Rain](https://unsplash.com/@shawn_rain) on [Unsplash](https://unsplash.com/photos/a-circular-window-with-a-cloudy-sky-pdUF_RdVNJ4)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - A Safe Space is a dedicated spot where you can be with yourself, free from distractions and interruptions.
 - Use a simple sign or signal to let others know you’re not to be disturbed.
 - Don’t wait—choose a place in your home today and make it your own.
 - Focusing on yourself is not selfish; it’s necessary for real progress and happiness.
 
-**Actions List**
+## Action Steps
 - Pick a room or corner in your home to be your Safe Space.
 - Create a “Do Not Disturb” sign or signal.
 - Set aside regular time to use your Safe Space for your personal projects or reflection.
 
-**Ask Yourself**
+## Reflection
 *What’s stopping you from creating your own Safe Space? How would your life change if you had a place to focus just on you?*

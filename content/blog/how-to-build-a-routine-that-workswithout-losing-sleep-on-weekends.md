@@ -43,19 +43,19 @@ Keeping a steady routine isn’t just about productivity. It’s about your heal
 ![Get Some Sleep](https://images.unsplash.com/photo-1488015795646-7e22a773d72a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwc2xlZXAlMjBzY2hlZHVsZSUyMGNvbnNpc3RlbmN5fGVufDB8MHx8fDE3NDkzMDQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Routine That Works—Without Losing Sleep on Weekends")
 *How to Build a Routine That Works—Without Losing Sleep on Weekends - Photo by [Sabri Tuzcu](https://unsplash.com/@sabrituzcu) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-brown-tabby-kitten-on-couch-KHBvwAnWFmc)*
 
-*TL;DR:*
+## Key Takeaways
 - Go to bed and wake up at the same time every day, even on weekends.
 - If you’re tired, nap or go to bed earlier, but never sleep in.
 - Don’t make exceptions—one leads to another.
 - A steady routine helps your health and makes your days feel more productive.
 
-*Actions List:*
+## Action Steps
 - Set a fixed bedtime and wake-up time.
 - Prepare for unexpected late nights by planning a nap, not a sleep-in.
 - Resist the urge to make exceptions, even on weekends or holidays.
 - Notice how your body adapts and how your mornings improve.
 
-*Ask Yourself:*
+## Reflection
 - Are you letting small exceptions ruin your routine?
 - How do you feel when you wake up late versus when you stick to your schedule?
 - What’s one thing you can do today to make your routine more regular?

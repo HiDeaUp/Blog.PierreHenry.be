@@ -57,14 +57,14 @@ Don’t let your days drift by in a fog. Take action, stay organized, and keep l
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Your ambition is personal—don’t compare it to others.
 - Happiness doesn’t always come from what looks impressive on paper.
 - Sometimes, the answer is simpler and closer than you think.
 - Learn from mistakes and move forward; don’t get stuck waiting for the “perfect” moment.
 - Invest in yourself, organize your days, and keep taking action.
 
-*Ask Yourself:*
+## Reflection
 - Are you living a life that’s truly yours, or one that others expect of you?
 - What’s one decision you’ve been putting off that could move you closer to happiness?
 - What would your life look like if you stopped comparing and started choosing for yourself?

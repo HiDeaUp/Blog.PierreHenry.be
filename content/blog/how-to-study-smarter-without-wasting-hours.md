@@ -39,14 +39,14 @@ I’ve learned that working like this brings out the best results. If you want t
 ![Photo by David Trinks](https://images.unsplash.com/photo-1664188613064-7eea761238f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlZmZlY3RpdmUlMjBzdHVkeWluZyUyMHN0dWR5JTIwaGFiaXRzJTIwYWNhZGVtaWMlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTYxMDk5NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Study Smarter Without Wasting Hours")
 *How to Study Smarter Without Wasting Hours - Photo by [David Trinks](https://unsplash.com/@dtrinksrph) on [Unsplash](https://unsplash.com/photos/text-logo-gb7Yl37ucJI)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus on studying well, not just hard.
 - Identify the few tasks or people that bring the most value.
 - Don’t waste time on things that don’t matter.
 - Ask yourself and your manager what the real priorities are.
 - Cut out distractions and concentrate on what truly counts.
 
-*Ask Yourself:*
+## Reflection
 - What is my number one priority right now?
 - Which tasks actually bring value to my goals?
 - Am I spending time on things that don’t really matter?

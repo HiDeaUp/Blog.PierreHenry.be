@@ -44,13 +44,13 @@ Right now, I’m in Sydney, near the Opera House. I could set a timer on my watc
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Overthinking keeps you stuck; action creates change.
 - Don’t wait for the perfect moment—make a choice and move forward.
 - Use a timer to limit decision time and avoid endless hesitation.
 - Growth happens outside your comfort zone.
 
-*Ask Yourself:*
+## Reflection
 - What decision have you been putting off out of fear or overthinking?
 - If you set a timer right now, what would your choice be?
 - Are you willing to trade comfort for the possibility of a better life?

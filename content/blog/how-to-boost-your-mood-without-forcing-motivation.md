@@ -55,18 +55,18 @@ Whenever I discover something new that helps me, I add it to my routine. It’s 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Use physical activity to change your mood quickly.
 - Adjust your environment with music and lighting.
 - Build simple rituals to trigger the mood you want.
 - Keep learning what works best for you.
 
-*Actions List:*
+## Action Steps
 - Try a quick exercise or cold shower before important tasks.
 - Make a playlist for different moods.
 - Experiment with lighting in your workspace.
 - Notice which actions help you shift your mood and repeat them.
 
-*Ask Yourself:*
+## Reflection
 - What small change could you make right now to feel more energized?
 - Which ritual could you try before your next big task?

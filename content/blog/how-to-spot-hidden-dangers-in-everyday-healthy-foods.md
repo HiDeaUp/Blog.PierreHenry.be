@@ -51,14 +51,14 @@ The message here is simple: context is everything. The environment, the people, 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Not everything that looks good is good for you; context matters.
 - Overdoing even what you love can turn joy into pressure.
 - The environment and people around you shape your happiness as much as your work.
 - Don’t let your dreams become your prison; balance is key.
 - Delegate or avoid what drains you, and focus on what truly brings you joy.
 
-*Ask Yourself:*
+## Reflection
 - Are you enjoying the journey, or just chasing the result?
 - Is your environment helping or hurting your happiness?
 - What small changes could make your daily life more fulfilling?

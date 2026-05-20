@@ -60,7 +60,7 @@ So here’s your mission: Find one thing you can do today to invest in yourself.
 
 ---
 
-### *What About You?*
+## Reflection
 
 - *What’s one thing you can do for yourself before the day gets busy?*
 - *Which skill would make the biggest difference in your life right now?*

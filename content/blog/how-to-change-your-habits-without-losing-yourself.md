@@ -41,16 +41,16 @@ So, if you feel stuck, don’t wait for a big sign. Start by asking yourself: Wh
 ![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhYml0JTIwY2hhbmdlJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1Mzg2MDczfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Habits Without Losing Yourself")
 *How to Change Your Habits Without Losing Yourself - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - If you want a different life, you need to try new habits.
 - Questioning yourself is the key to learning and growing.
 - Small changes, done often, lead to big results over time.
 
-*Actions List:*
+## Action Steps
 - Identify one habit you want to change this week.
 - Ask yourself daily: “Is this the life I want?”
 - Try something new, even if it feels uncomfortable.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I could do differently today?
 - Am I living the life I dreamed of, or just repeating yesterday?

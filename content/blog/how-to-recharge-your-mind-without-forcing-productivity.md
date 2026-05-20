@@ -51,19 +51,19 @@ In the end, life is about enjoying the little things and being present. Take tim
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Taking real breaks is essential for mental lightness and renewed energy.
 - Reading and writing are powerful ways to step back and recharge.
 - Nature offers perspective and helps us realize our problems are smaller than they seem.
 - Accept that life doesn’t always go as planned, and that’s perfectly fine.
 
-*Actions List:*
+## Action Steps
 - Schedule regular breaks, even short ones, during your day.
 - Try reading a book that inspires you or teaches you something new.
 - Spend time in nature, even if it’s just a walk in the park.
 - Reflect on your current path and ask if it’s truly what you want.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly paused and let your mind rest?
 - Are you giving yourself enough space to recharge and see things differently?
 - What small change could you make today to bring more lightness into your life?

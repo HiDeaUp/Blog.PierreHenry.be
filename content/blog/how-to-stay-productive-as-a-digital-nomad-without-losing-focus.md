@@ -53,7 +53,7 @@ The main lesson? Build routines that work for you, wherever you are. Use simple 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Always do your most important task first thing in the morning.
 - Stick to your original time zone if the difference is small.
 - Use simple tools—eye mask, headphones—to sleep anywhere.
@@ -61,14 +61,14 @@ The main lesson? Build routines that work for you, wherever you are. Use simple 
 - Focus on the 20% of tasks that give you 80% of the results.
 - Use libraries, coworking spaces, and cafés to stay productive on the move.
 
-*Actions List:*
+## Action Steps
 - Set your watch to your destination’s time as soon as you board the plane.
 - Pack a sleeping mask and noise-cancelling headphones.
 - Identify your “frog” and eat it first every day.
 - Choose comfort over savings when it matters for your work.
 - Find your favorite work spots in every city.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one thing you need to finish each day to feel accomplished?
 - Are you investing enough in your own comfort and productivity?
 - How can you adjust your routine to work better for you, wherever you are?

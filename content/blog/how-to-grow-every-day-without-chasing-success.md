@@ -32,13 +32,13 @@ If you want to improve, start with your daily actions. Change a little, every da
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Success is about transforming yourself, not chasing after rewards.
 - Focus on what you can change in your habits and daily actions.
 - Consistency—doing a little bit every day—makes all the difference.
 - If you want new results, you have to try new things and keep adjusting.
 
-*Ask Yourself:*
+## Reflection
 - What small habit can you start today that will move you closer to your goals?
 - Are you willing to change your routine to get different results?
 - How can you make consistency your superpower?

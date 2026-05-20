@@ -44,13 +44,13 @@ I truly wish you the best from the bottom of my heart. Take a moment to look at 
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - You are often just one small step away from a more fulfilling life.
 - Sometimes, the problem is not as big as it seems; a tiny change can have a big impact.
 - Persistence and small adjustments can help you reach your goals.
 - Your mindset shapes your reality—focus on what you can improve, even if it’s minor.
 
-*Ask Yourself:*
+## Reflection
 - What is the one small thing I could change in my daily routine?
 - Am I overlooking a simple adjustment that could make everything fit together?
 - How can I shift my mindset to see opportunities instead of obstacles?

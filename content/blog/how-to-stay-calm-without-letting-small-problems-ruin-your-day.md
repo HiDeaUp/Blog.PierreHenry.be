@@ -54,19 +54,19 @@ When you start thinking this way, you’ll have more energy and use your time mu
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Most problems are tiny in the grand scheme of things.
 - Focus on the present moment—enjoy it fully.
 - Treat your time as your most precious resource.
 - Build your life, brick by brick, with small daily actions.
 - Clear your mind of distractions to make space for what matters.
 
-*Actions List:*
+## Action Steps
 - Next time you feel stressed, pause and look at the bigger picture.
 - Set up small routines or rewards to make your days sweeter.
 - Ask yourself: Am I spending my time on what truly matters to me?
 
-*Ask Yourself:*
+## Reflection
 - What small step can I take today to build the life I want?
 - How can I protect my time from distractions and negativity?
 - What “cherries” can I add to my day to make it more joyful?

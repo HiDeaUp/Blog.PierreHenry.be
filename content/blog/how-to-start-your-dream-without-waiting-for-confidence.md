@@ -43,14 +43,14 @@ The important thing is to keep going, to keep learning, and to keep trying. That
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - There is no perfect moment to start—just start.
 - Mistakes are part of the process; they mean you’re learning.
 - Doing nothing is the only real failure.
 - Pivot and adapt if things don’t work out as planned.
 - Always finish what you start, but don’t be afraid to change direction.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you can start today, even if you don’t feel ready?
 - Are you waiting for confidence, or are you willing to build it by taking action?
 - How can you turn your next “mistake” into a lesson?

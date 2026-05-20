@@ -46,7 +46,7 @@ I believe in you. Go for it. Grow. We grow together. And if you want to go even 
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Start with a clear vision of what you want.
 - Ask yourself what your ideal day looks like.
 - Change one small thing at a time.
@@ -54,7 +54,7 @@ I believe in you. Go for it. Grow. We grow together. And if you want to go even 
 - Stop making excuses—take action now.
 - There is no perfect moment; the best time is today.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can change today to get closer to my dreams?
 - What excuses am I making that are holding me back?
 - How will my life look in 20 years if I start acting now?

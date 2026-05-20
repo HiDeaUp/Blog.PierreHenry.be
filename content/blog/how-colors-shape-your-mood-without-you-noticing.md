@@ -51,7 +51,7 @@ All these little details add up. Without realizing it, colors can change our beh
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 - Colors quietly shape our mood, decisions, and creativity.
 - Bold colors like red and yellow can make us feel tense or excited, while soft blues and greens calm us.
 - The colors in your home or workspace can change how you feel and act—sometimes without you even knowing it.

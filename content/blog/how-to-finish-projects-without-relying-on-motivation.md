@@ -37,13 +37,13 @@ So, believe in yourself. I believe in you. Keep going, every single day, until w
 ![Make Things Special](https://images.unsplash.com/photo-1511465390398-532913e8328d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODU5NDAxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Projects Without Relying on Motivation")
 *How to Finish Projects Without Relying on Motivation - Photo by [Mert Talay](https://unsplash.com/@merttly) on [Unsplash](https://unsplash.com/photos/quote-3d-text-KYZoOmpn1Aw)*
 
-**TL;DR:**
+## Key Takeaways
 - Motivation fades, but habits and personal challenges keep you going.
 - Don’t confuse stubbornness with persistence.
 - Persistence is a rare and valuable trait, both personally and professionally.
 - Make your project part of your daily routine.
 
-**Ask Yourself:**
+## Reflection
 - What personal challenge can you set today to keep your project alive?
 - Are you being persistent, or just stubborn?
 - How can you make your project a habit, not just a burst of motivation?

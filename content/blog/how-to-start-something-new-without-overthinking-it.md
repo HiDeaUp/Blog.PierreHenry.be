@@ -47,17 +47,17 @@ I believe in you. I know you can make it happen. If you want to go further, I’
 ![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0LWJ1aWxkaW5nfGVufDB8MHx8fDE3NTY1MjU1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Something New Without Overthinking It")
 *How to Start Something New Without Overthinking It - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Start simple, start small, and focus on one project for a month.
 - Work on your project every morning for one hour.
 - Make your project your obsession—focus all your energy on it.
 - At the end of the month, review your progress and adjust if needed.
 - Believe in yourself. Everything is possible if you really want it.
 
-**Actions List**
+## Action Steps
 - Choose one simple, small project to start today.
 - Dedicate one hour each morning to it, no excuses.
 - After a month, review and decide if you need to pivot or keep going.
 
-*What about you?*
+## Reflection
 *What’s the one project you’ve been putting off? Are you ready to give it your full attention for a month?*

@@ -59,21 +59,21 @@ When you clear out the negative and fill your life with positive habits, you’l
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Move your body, even a little, to boost your energy.
 - Spend time in nature—trees can calm and recharge you.
 - Meditate to train your mind and stay present.
 - Use music to lift your mood and motivation.
 - Eat healthy and avoid negative information.
 
-*Actions List:*
+## Action Steps
 - Go for a walk or do a short workout today.
 - Try hugging a tree or sitting quietly in a park.
 - Set aside five minutes for meditation.
 - Make a playlist of songs that inspire you.
 - Choose one healthy meal and drink plenty of water.
 
-*Ask Yourself:*
+## Reflection
 - What drains your energy the most?
 - Which of these tips will you try first?
 - How can you make your daily routine more positive?

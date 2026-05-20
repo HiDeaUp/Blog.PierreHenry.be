@@ -32,13 +32,13 @@ What about you? What does your ideal environment look like? Try writing it down.
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment has a real effect on your mood and energy.
 - Think about where you feel happiest and most at ease.
 - Write down what your perfect environment looks like.
 - Make small changes to bring more of those qualities into your life.
 
-*Ask Yourself:*
+## Reflection
 - Where do you feel most alive and comfortable?
 - What small changes can you make to your current space?
 - How does your environment influence your daily habits and feelings?

@@ -46,13 +46,13 @@ Remember, even if the weather is gloomy, the sun is still behind the clouds. It�
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Rate your day and adjust until you reach fulfillment.
 - Make your dreams your top priority—if you want something enough, you’ll make it happen.
 - Your happiness depends on your choices, not your circumstances.
 - Don’t wait for the “right time”—take action now.
 
-*Ask Yourself:*
+## Reflection
 - Are you the main actor in your life, or just a passenger?
 - What would you do differently if your happiness was your number one priority?
 - What’s one small action you can take today to move closer to the life you want?

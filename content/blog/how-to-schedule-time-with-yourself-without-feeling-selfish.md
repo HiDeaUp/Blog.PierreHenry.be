@@ -45,13 +45,13 @@ Think of this as a little reminder, like a booster shot, to help you remember wh
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Make regular appointments with yourself for reflection and growth.
 - Treat self-conversations as seriously as meetings with others.
 - Focus on comparing yourself only to your past self, not to others.
 - Use your “me time” to brainstorm, question, and plan for a better you.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you scheduled time just for yourself?
 - What would your week look like if you made self-reflection a habit?
 - How can you become a better version of yourself, starting today?

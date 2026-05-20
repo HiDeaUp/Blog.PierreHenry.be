@@ -23,15 +23,6 @@ Success and the projects we bring to life are directly tied to these beliefs. Wh
 
 To achieve great things, you sometimes have to think outside the box. You need to practice, experiment, and iterate. If you keep doing what you’ve always done, without questioning your methods or taking a step back to reflect, you’ll stay stuck at the same level. Repeating the same actions because you think it’s the best way will only keep you within your current limits.
 
-![(and execute)
-
-At least, that’s what I wish it said off to the side. It’s been a long time sine I’ve done both of those things – too long.
-
-I’ve spent the last couple months funemployed and figuring out exactly what I want to do. I found a job a long way away from home that fit the bill and tossed in an application the other day but I’m pretty sure that I won’t get it for one reason or another.
-
-Anyways – putting the application together was a lot of fun. It let me dream like I haven’t since I was in university, and getting it all down on paper was pretty liberating.](https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbSUyMGJpZ3xlbnwwfDB8fHwxNzU2MDA4NjkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Dream Bigger Without Letting Limits Hold You Back")
-*How to Dream Bigger Without Letting Limits Hold You Back - Photo by [Randy Tarampi](https://unsplash.com/@randytarampi) on [Unsplash](https://unsplash.com/photos/dream-big-text-U2eUlPEKIgU)*
-
 There’s always a better way to do things. Moving forward means questioning yourself, pausing, brainstorming, and asking, “What new thing can I try to reach the next level?” This shift in mindset changes everything. I’ve done this countless times, and each time, I’ve realized that anything is possible if you want it badly enough.
 
 When you want something so much that it becomes an obsession, you’ll find the triggers and levers that open new doors. You’ll discover ways to create new possibilities for yourself. That’s what I encourage you to do: go further, push your boundaries, and see what you’re truly capable of.
@@ -51,13 +42,13 @@ Remember, the only limits that exist are the ones you create in your mind. It’
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Your limits are self-imposed—challenge them.*
 - *Question your habits and routines to find better ways forward.*
 - *Obsession and passion can help you break through barriers.*
 - *Learning and growth are never finished—keep updating your approach.*
 
-*Ask Yourself:*
+## Reflection
 - *What’s one belief about yourself that’s holding you back?*
 - *What new action can you take today to move closer to your biggest goal?*
 - *Are you willing to question your methods and try something different?*

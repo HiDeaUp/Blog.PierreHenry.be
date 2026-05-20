@@ -45,18 +45,18 @@ Start small. Even ten minutes a day adds up to over an hour a week. Little by li
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Find a project or mission that excites you—it doesn’t have to be about money.
 - Passion makes you better and keeps you curious.
 - Without a mission, life can feel empty and directionless.
 - Start small; even a few minutes a day can lead to big results.
 
-*Actions List:*
+## Action Steps
 - Reflect on what excites you or what you look forward to.
 - Dedicate at least 10 minutes a day to your passion project.
 - Share your ideas with friends and keep improving.
 
-*Ask Yourself:*
+## Reflection
 - What makes you feel truly alive?
 - What small step can you take today toward your dream?
 - How can you turn your passion into a mission?

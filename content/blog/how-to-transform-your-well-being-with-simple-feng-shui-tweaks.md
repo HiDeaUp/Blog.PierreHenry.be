@@ -67,7 +67,7 @@ Feng Shui is a vast and fascinating subject. Sometimes, we feel uneasy in a hote
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - The way you arrange your home affects your mood, health, and sense of security.
 - Avoid sharp angles, especially in bedrooms and bathrooms; choose rounded furniture.
 - Don’t place beds or desks in the direct path between doors and windows.
@@ -76,13 +76,13 @@ Feng Shui is a vast and fascinating subject. Sometimes, we feel uneasy in a hote
 - Close bathroom doors and toilet lids to keep energy from escaping.
 - Small changes can make a big difference in how you feel at home.
 
-*Actions List:*
+## Action Steps
 - Check the position of your bed and desk—move them out of the path between doors and windows.
 - Add plants or shelves to create gentle separations in open spaces.
 - Remove or reposition mirrors that face your bed or front door.
 - Make your entryway bright and clutter-free.
 
-*Ask Yourself:*
+## Reflection
 - Do you feel truly comfortable and safe in every room of your home?
 - Are there places where you always feel uneasy or restless?
 - What small change could you make today to improve the energy in your space?

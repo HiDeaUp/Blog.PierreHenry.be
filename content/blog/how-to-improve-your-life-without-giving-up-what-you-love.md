@@ -59,6 +59,6 @@ So, don’t put off what you want to do. Don’t make excuses about time or mone
 
 ---
 
-*Ask Yourself:*
+## Reflection
 
 *What small action can you take today to move closer to your goals? Are your daily habits helping or holding you back? What invisible barriers are you ready to break?*

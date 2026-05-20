@@ -41,18 +41,18 @@ Try this for a month. Then keep going for two months, three months. You’ll see
 ![Photo by Sara](https://images.unsplash.com/photo-1642430206049-af570fbc75a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2MzM3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Better in 10 Minutes a Day Without Overwhelm")
 *How to Feel Better in 10 Minutes a Day Without Overwhelm - Photo by [Sara](https://unsplash.com/@eretree) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-dock-near-a-body-of-water-O1_0ecB-ra4)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Ten minutes a day can change your life if you use them well.
 - Start with something you really want to do or learn.
 - Be consistent—regular practice is what counts.
 - Do it in the morning to make sure it happens.
 - Don’t wait for the perfect moment. Start now.
 
-**Actions List**
+## Action Steps
 - Pick one thing you want to improve or create.
 - Set aside ten minutes every morning for it.
 - Stick with it for at least a month.
 - Notice how you feel and what changes.
 
-*What about you?*
+## Reflection
 *What could you start today with just ten minutes? What’s stopping you from trying?*

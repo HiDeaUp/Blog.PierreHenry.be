@@ -75,9 +75,14 @@ PRIORITY_TOPICS = {
 
 HEADING_REPLACEMENTS = {
     "tl;dr / key takeaways": "## Key Takeaways",
+    "tl;dr & key takeaways": "## Key Takeaways",
     "key takeaways": "## Key Takeaways",
+    "tl;dr": "## Key Takeaways",
     "actions list": "## Action Steps",
+    "action steps": "## Action Steps",
     "ask yourself": "## Reflection",
+    "what about you": "## Reflection",
+    "what about you?": "## Reflection",
 }
 
 PROMO_MARKERS = {
@@ -86,6 +91,9 @@ PROMO_MARKERS = {
     "masterclass.ph7.me",
     "ko-fi.com/phenry",
     "retainr.io",
+    "substack.com/@pierrehenry",
+    "open-source projects i've built",
+    "open source projects i've built",
     "subscribe to my youtube channel",
     "support my work with a coffee",
 }
@@ -227,13 +235,25 @@ def strip_leading_heading_block(body: str) -> str:
     return body.strip()
 
 
+def strip_malformed_media_blocks(body: str) -> str:
+    return re.sub(
+        r"(?ms)^!\[\((?:.*?)\]\([^\n]+\)\s*\n\*.*?\*\s*\n*",
+        "",
+        body,
+    )
+
+
 def normalize_sections(body: str) -> str:
     normalized_lines: list[str] = []
     for line in body.splitlines():
         stripped = line.strip()
+        plain_label = stripped.strip("*_ ").rstrip(":").lower()
+        if plain_label in HEADING_REPLACEMENTS:
+            normalized_lines.append(HEADING_REPLACEMENTS[plain_label])
+            continue
         heading_match = re.match(r"^#{1,6}\s+\*?(.*?)\*?$", stripped)
         if heading_match:
-            label = heading_match.group(1).strip().lower()
+            label = heading_match.group(1).strip().strip("*_ ").lower()
             replacement = HEADING_REPLACEMENTS.get(label)
             if replacement:
                 normalized_lines.append(replacement)
@@ -245,6 +265,9 @@ def normalize_sections(body: str) -> str:
     text = re.sub(r"(?m)^https://youtu\.be/.*$\n?", "", text)
     text = re.sub(r"(?m)^(👋|📺|⚡️).*\n?", "", text)
     text = re.sub(r"(?mi)^and \[retainr\.io\].*\n?", "", text)
+    text = re.sub(r"(?mi)^🤖\s+.*$\n?", "", text)
+    text = re.sub(r"(?ms)\n*---\s*\n###\s*Kicker:\s*\n.*\Z", "", text)
+    text = re.sub(r"(?ms)\n*###\s*Kicker:\s*\n.*\Z", "", text)
     text = re.sub(r"\n(?:---\s*\n){2,}", "\n---\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
 
@@ -265,6 +288,7 @@ def normalize_sections(body: str) -> str:
     text = "\n\n".join(chunk for chunk in kept_chunks if chunk)
     text = re.sub(r"\A(?:---\s*)+", "", text)
     text = re.sub(r"(?:\s*---)+\s*\Z", "", text)
+    text = re.sub(r"\n(?:---\s*\n){2,}", "\n---\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
 
@@ -292,7 +316,9 @@ def extract_summary(body: str) -> str:
 
 
 def normalize_body(body: str) -> str:
-    cleaned = strip_leading_heading_block(body)
+    cleaned = body.lstrip()
+    cleaned = strip_malformed_media_blocks(cleaned)
+    cleaned = strip_leading_heading_block(cleaned)
     cleaned = normalize_sections(cleaned)
     return cleaned.strip() + "\n"
 

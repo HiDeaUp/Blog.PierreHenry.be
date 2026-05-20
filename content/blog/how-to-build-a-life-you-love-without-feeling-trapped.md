@@ -60,14 +60,14 @@ Don’t put off the changes you want to make. The best moment to act is now. Lif
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - The only real limits are the ones you set in your mind.
 - Listen to your own needs, not what others expect from you.
 - Small changes in your daily routine can make a big difference.
 - Reflect on your day and adjust for more happiness tomorrow.
 - Surround yourself with positive influences and inspiring people.
 
-*Ask Yourself:*
+## Reflection
 - What small step can I take today to make my life a little happier?
 - Am I living for myself, or for someone else’s expectations?
 - How can I turn a daily chore into a moment of joy or learning?

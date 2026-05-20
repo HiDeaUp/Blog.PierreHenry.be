@@ -69,6 +69,6 @@ So, keep comparing yourself to who you were yesterday, not to others. Step by st
 - Reflect weekly on your progress and adjust as needed.
 - Make your happiness and growth your top priority.
 
-### *What About You?*
+## Reflection
 
 *What does your ideal day look like? Who do you want to become in the next five years? What small step can you take today to move closer to your vision?*

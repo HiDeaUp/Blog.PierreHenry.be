@@ -44,7 +44,7 @@ You can also mix things up. Instead of writing at breakfast, take a walk around 
 
 ---
 
-### TL;DR
+## Key Takeaways
 
 ![Plain lined paper](https://images.unsplash.com/photo-1532153354457-5fbe1a3bb0b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbGVlcCUyMGhhYml0cyUyMHBhcGVyJTIwYm9va3MlMjBiZWR0aW1lJTIwcm91dGluZXxlbnwwfDB8fHwxNzQ5NDA1NTk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Sleep Better WITHOUT Scrolling Your Phone at Night")
 *How to Sleep Better WITHOUT Scrolling Your Phone at Night - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/white-ruled-paper-U_Ff4ohzLSw)*

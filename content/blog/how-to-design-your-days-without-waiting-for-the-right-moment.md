@@ -58,18 +58,18 @@ And don’t forget: good sleep is a real investment in your projects and your li
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Put your own projects first and take daily action, even if it’s small.
 - Visualize your dream life and surround yourself with reminders.
 - Break your goals into 90-day sprints and review your progress.
 - Don’t underestimate the power of good sleep.
 
-*Actions List:*
+## Action Steps
 - Write down your top priority and one action you can take today.
 - Change your phone or computer background to an image that inspires you.
 - Set a 90-day goal and break it into daily steps.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can do today to move closer to my dream?
 - Am I putting my own goals first, or always last?
 - What would my life look like if I made myself a priority for the next 90 days?

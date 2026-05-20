@@ -47,13 +47,13 @@ I believe in you. Take action now, because time won’t wait. Live each day as i
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Rate your day from 0 to 20 to reflect on what went well and what didn’t.
 - Repeat the things that made you happy, and find ways to avoid what didn’t.
 - Remember, your time is precious—treat each day like gold.
 - A successful life is made up of many good days.
 
-*Ask Yourself:*
+## Reflection
 - What made me proud today?
 - How can I create more days that I’m proud of?
 - What can I change tomorrow to make it even better?

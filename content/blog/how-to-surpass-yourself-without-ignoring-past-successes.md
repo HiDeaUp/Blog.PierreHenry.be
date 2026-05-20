@@ -51,20 +51,20 @@ And don’t forget: big tasks are just a series of small steps. Break them down.
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Always aim higher—don’t settle for what you’ve already achieved.
 - Consistency and discipline are more important than bursts of motivation.
 - Review your progress regularly and adjust your approach.
 - Balance productivity with happiness—don’t sacrifice your well-being.
 - Break big goals into small, daily actions.
 
-*Actions List:*
+## Action Steps
 - Identify one area where you can push yourself further this week.
 - Set a simple, repeatable routine for your mornings.
 - At the end of the week, review what worked and what didn’t.
 - Add one social or physical activity to your daily schedule.
 
-*Ask Yourself:*
+## Reflection
 - Where am I holding back, and why?
 - What small change can I make today that will add up over time?
 - Am I balancing my ambition with my well-being?

@@ -34,14 +34,14 @@ This is the real path to success: act, learn from your results, and keep moving 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Action is the only way to real improvement.
 - Learning is important, but doing is essential.
 - People remember what you accomplish, not what you plan.
 - Mistakes and successes are your best teachers.
 - Persistence and resilience are key to moving forward.
 
-*Ask Yourself:*
+## Reflection
 - What is one thing you can do today instead of just learning about it?
 - Are you spending more time preparing than actually acting?
 - What past success can you learn from and repeat?

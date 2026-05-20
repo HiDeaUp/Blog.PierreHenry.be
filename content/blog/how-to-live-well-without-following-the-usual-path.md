@@ -42,19 +42,19 @@ So, here’s my invitation: take a fresh look at how you organize your days. Thi
 ](https://images.unsplash.com/photo-1606927098442-3b7c4ce11d2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGxpZmUlMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwbGlmZSUyMGNob2ljZXN8ZW58MHwwfHx8MTc1NTU3OTY1N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Well Without Following the Usual Path")
 *How to Live Well Without Following the Usual Path - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-YEDq63E_psU)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Living your dream life means making your own choices and organizing your days around what matters to you.
 - The employee path is easier, but living for yourself brings more fulfillment—if you stay organized and clear about your goals.
 - Motivation can be tough when you’re your own boss, but the long-term rewards are worth it.
 - You don’t need to be a tech expert to start something on your own—just be willing to learn and try.
 
-*Actions List:*
+## Action Steps
 - Review how you spend your days.  
 - Define what “living well” means for you.  
 - Try freelancing, selling your knowledge, or experimenting with new tools.  
 - Stay organized and keep your vision clear.
 
-*Ask Yourself:*
+## Reflection
 - What does your dream life look like?
 - Are you living for yourself, or just following a routine?
 - What small step can you take today to move closer to your own vision?

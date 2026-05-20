@@ -100,7 +100,7 @@ Keep track of how you spend your time. The more you measure, the more control yo
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - Are you spending your time on what truly matters?
 - What small changes can you make today to save hours every week?
 - If you looked back at your day, would you be proud of how you used your time?

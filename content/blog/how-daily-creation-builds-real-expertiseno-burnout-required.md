@@ -44,13 +44,13 @@ When you’re passionate about what you do, you don’t worry about where it’s
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Daily creation builds expertise and unique value.*
 - *Obsession with your craft leads to insights others miss.*
 - *Specialists are always in demand because of their deep knowledge.*
 - *Passion, not just money, is the real driver of excellence.*
 
-*Ask Yourself:*
+## Reflection
 - *What’s one thing you could work on every day that would set you apart?*
 - *Are you building expertise in something you truly care about?*
 - *How can you turn your daily habits into a source of rare value?*

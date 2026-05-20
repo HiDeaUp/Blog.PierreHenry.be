@@ -39,13 +39,13 @@ If you want to see real change, consistency is your best friend. Don’t worry a
 ![lisbon, run, stair steps, man running, sport](https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50JTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NjM4MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overhauling Your Life")
 *How to Build New Habits Without Overhauling Your Life - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Try something new for 21–31 days to break your routine.
 - Choose one activity that excites or challenges you.
 - Consistency is more important than intensity.
 - Small daily actions can lead to big changes over time.
 
-*Ask Yourself:*
+## Reflection
 - What’s one new habit I’ve always wanted to try?
 - How can I make space for it in my daily routine?
 - What might change in my life if I stick with it for a month?

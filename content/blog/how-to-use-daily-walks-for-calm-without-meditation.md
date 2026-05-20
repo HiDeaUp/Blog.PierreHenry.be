@@ -39,13 +39,13 @@ You don’t need anything special to start. Just take a walk, think about your d
 ![Photo by MINGYUE SUN](https://images.unsplash.com/photo-1477140734977-395331f85087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwd2VsbC1iZWluZyUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTIwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Daily Walks for Calm Without Meditation")
 *How to Use Daily Walks for Calm Without Meditation - Photo by [MINGYUE SUN](https://unsplash.com/@vickysun) on [Unsplash](https://unsplash.com/photos/person-walking-on-black-paved-alley-FryCmDQUioI)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Use daily walks to reflect on your day and your feelings.
 - Rate your happiness and think about small ways to improve it.
 - Take notes and review them to avoid repeating what didn’t work.
 - Small, steady changes can lead to a more fulfilling life.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly reflected on your day?
 - What small change could you make tomorrow to feel better?
 - Are you living the life you want, or just going through the motions?

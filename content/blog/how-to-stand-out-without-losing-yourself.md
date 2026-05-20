@@ -41,13 +41,13 @@ Why squeeze yourself into a box just because someone else expects it, or because
 ![Title: Maskid Creator: Vallimäe-Mark, Lüüdia (autor) Date: 1969 Providing institution: Tartu Art Museum Aggregator: Estonian e-Repository and Conservation of Collections Providing Country: Estonia CC0 Maskid by Vallimäe-Mark, Lüüdia (autor) - 1969 - Tartu Art Museum, Estonia - CC0.](https://images.unsplash.com/photo-1748202621835-bc4e0581e5e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdXRoZW50aWNpdHklMjBpbmRpdmlkdWFsaXR5JTIwc2VsZi1leHByZXNzaW9ufGVufDB8MHx8fDE3NTY1MjI0NjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out Without Losing Yourself")
 *How to Stand Out Without Losing Yourself - Photo by [Europeana](https://unsplash.com/@europeana) on [Unsplash](https://unsplash.com/photos/xBH8XHpxTr0)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Being yourself is more valuable than fitting in.
 - Authenticity is your best personal brand, both online and offline.
 - Social pressure exists, but you can choose to set an example instead of just following the crowd.
 - Find the environment that lets you thrive as your true self.
 
-*Ask Yourself:*
+## Reflection
 - Where am I holding back just to fit in?
 - What would I do differently if I stopped worrying about others’ opinions?
 - How can I inspire others by being myself?

@@ -41,16 +41,16 @@ So next time you find yourself with just a few seconds to share your idea, remem
 ![Photo by Helena Lopes](https://images.unsplash.com/photo-1523908511403-7fc7b25592f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbGV2YXRvciUyMHBpdGNoJTIwc3RhcnR1cCUyMG5ldHdvcmtpbmd8ZW58MHwwfHx8MTc0OTM3NDcyOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Win Big in 20 Seconds With a Killer Elevator Pitch")
 *How to Win Big in 20 Seconds With a Killer Elevator Pitch - Photo by [Helena Lopes](https://unsplash.com/@helenalopesph) on [Unsplash](https://unsplash.com/photos/two-men-laughing-white-sitting-on-chairs-1m2LQEonm2A)*
 
-*TL;DR:*
+## Key Takeaways
 - An elevator pitch is a short, clear way to present your idea in seconds.
 - Adapt your pitch to your audience: investor, client, or future team member.
 - Make your message simple, direct, and memorable.
 
-*Actions List:*
+## Action Steps
 - Practice explaining your idea in one sentence.
 - Try your pitch on friends and ask if they “get it” right away.
 - Focus on what makes your idea exciting and different.
 
-*Ask Yourself:*
+## Reflection
 - If you had 20 seconds, could you make someone want to join your project?
 - What’s the one thing about your idea that makes people say “wow”?

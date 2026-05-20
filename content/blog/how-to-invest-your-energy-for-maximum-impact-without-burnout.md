@@ -41,12 +41,12 @@ If you want your days to count, make sure you’re putting your energy where it 
 ![Photo by faizan khan](https://images.unsplash.com/photo-1635267065514-00dd006878a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBwcmlvcml0aXphdGlvbnxlbnwwfDB8fHwxNzU2NTE2NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest Your Energy for Maximum Impact Without Burnout")
 *How to Invest Your Energy for Maximum Impact Without Burnout - Photo by [faizan khan](https://unsplash.com/@faizankhan3545) on [Unsplash](https://unsplash.com/photos/a-green-alarm-clock-sitting-on-top-of-a-table-eT1gMuQJlSI)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus on the 20% of actions that bring 80% of your results.
 - Identify your strengths and invest your energy there.
 - Doing less, but better, leads to more meaningful progress.
 
-*Ask Yourself:*
+## Reflection
 - Where am I spending time that doesn’t really matter?
 - What are the few things I do that make the biggest difference?
 - How can I shift my focus to what truly counts?

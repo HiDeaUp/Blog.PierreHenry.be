@@ -45,16 +45,16 @@ You deserve a great life. I believe in you 100%. Go for it—take action. The be
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Do what makes you happy, even if it’s simple.
 - Being present and listening to yourself changes everything.
 - The best time to act is now, not later.
 
-*Actions List:*
+## Action Steps
 - Take five minutes today to do something just for you.
 - Try waking up a bit earlier and notice the difference.
 - When you’re stuck, step back and clear your mind.
 
-*Ask Yourself:*
+## Reflection
 - What small thing could you do right now that would make you feel good?
 - Are you listening to what you really want, or just following the crowd?

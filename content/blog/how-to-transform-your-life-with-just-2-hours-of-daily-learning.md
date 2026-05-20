@@ -41,20 +41,20 @@ If you want to go even further, I’ve developed a deeper approach that helps yo
 ![Photo by Towfiqu barbhuiya](https://images.unsplash.com/photo-1628692945421-21162c93a8a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTYwMDcyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Just 2 Hours of Daily Learning")
 *How to Transform Your Life With Just 2 Hours of Daily Learning - Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/photos/black-and-white-alarm-clock-at-10-10-TWkaYiCDjCE)*
 
-*Key Takeaways:*
+## Key Takeaways
 - Block out two hours each day for focused learning or work.
 - Change your environment to avoid distractions.
 - Use a timer and reward yourself for completing tasks.
 - Good headphones can help you concentrate, even in noisy places.
 - Small daily habits lead to big changes in productivity and happiness.
 
-*Actions List:*
+## Action Steps
 - Pick a time and place for your daily 2-hour session.
 - Download a simple timer app and use it every day.
 - Invest in noise-cancelling headphones if you can.
 - Reflect on how you feel after a week of this practice.
 
-*Ask Yourself:*
+## Reflection
 - What’s stopping you from dedicating two hours to yourself each day?
 - How could changing your environment help you focus better?
 - What small reward could you give yourself for sticking to your plan?

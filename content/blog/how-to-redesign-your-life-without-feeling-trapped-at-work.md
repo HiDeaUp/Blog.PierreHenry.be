@@ -43,14 +43,14 @@ All these resources are things I wish I had discovered years ago. I’ve gathere
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - If you feel stuck, consider redesigning your life around your true desires.
 - Freelancing or starting your own business can give you more freedom and control.
 - Geographic freedom lets you work from anywhere and choose your own path.
 - Your ideal life will change over time—stay flexible and adjust as you grow.
 - Use tools, apps, and inspiring workspaces to support your journey.
 
-*Ask Yourself:*
+## Reflection
 - What would your life look like if you could design it from scratch?
 - What’s one small step you can take today to move toward more freedom?
 - Are you living by your own values, or someone else’s expectations?

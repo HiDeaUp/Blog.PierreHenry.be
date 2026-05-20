@@ -59,7 +59,7 @@ Success is not about waiting for the perfect moment. The best time to start is a
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your mindset shapes your reality. Positive self-talk and daily affirmations can break limiting beliefs.
 - The only real limits are the ones you set in your mind.
 - Success comes from transforming yourself, not chasing after it.
@@ -67,7 +67,7 @@ Success is not about waiting for the perfect moment. The best time to start is a
 - Change is uncomfortable but necessary for growth.
 - Model yourself after those who have already succeeded.
 
-*Ask Yourself:*
+## Reflection
 - What limiting beliefs are holding you back right now?
 - How can you start transforming your self-image today?
 - Are you living for yourself, or for the approval of others?

@@ -43,17 +43,17 @@ In the end, it’s all about taking care of people “aux petits oignons”—a 
 ![A beautiful idol of Maa Durga at a workshop in Mumbai during Navratri 2019](https://images.unsplash.com/photo-1622279486466-e0e3bfdd0a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxraW5kbmVzcyUyMHdvcmtwbGFjZSUyMGN1bHR1cmUlMjBob3NwaXRhbGl0eXxlbnwwfDB8fHwxNzQ5Mjk0MDY0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Acts of Kindness Transform Your Business and Life")
 *How Small Acts of Kindness Transform Your Business and Life - Photo by [Sonika Agarwal](https://unsplash.com/@sonika_agarwal) on [Unsplash](https://unsplash.com/photos/woman-in-red-and-gold-dress-statue-g1A3ZF5UlTo)*
 
-*TL;DR:*
+## Key Takeaways
 - Small details and genuine kindness make a huge difference in any interaction.
 - Treat every person with care, as if they were family.
 - Quality, politeness, and attention to detail are always worth the effort.
 
-*Actions List:*
+## Action Steps
 - Notice the little things—offer help before it’s asked for.
 - Smile, ask about someone’s day, and listen.
 - Always aim for the highest quality, even in small gestures.
 
-*Ask Yourself:*
+## Reflection
 - How can you add a touch of kindness to your next interaction?
 - What small detail could you improve in your daily routine?
 - When was the last time someone’s kindness changed your day?

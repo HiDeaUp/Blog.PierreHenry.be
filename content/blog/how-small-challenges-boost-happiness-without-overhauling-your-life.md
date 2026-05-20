@@ -36,12 +36,12 @@ The more you focus on what makes you happy, the more you do, and the better you 
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Shift your perspective to see life more positively.
 - Add small, personal challenges to your daily routine.
 - Celebrate your progress to build confidence and happiness.
 
-*Ask Yourself:*
+## Reflection
 - What small challenge can I add to my day that would make me feel good?
 - How can I organize my routine around what brings me joy?
 - When was the last time I felt proud of something I accomplished?

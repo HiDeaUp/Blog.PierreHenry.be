@@ -42,14 +42,14 @@ The key is to keep feeding your mind with good things, just as you would feed yo
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Surround yourself with positive, supportive people.
 - Stay curious and keep asking questions.
 - Write down or record your ideas as they come.
 - Review your notes and take action regularly.
 - Build your life step by step, like adding stones to a strong foundation.
 
-*Ask Yourself:*
+## Reflection
 - Who are the people I spend the most time with?
 - What new ideas have I collected today?
 - Am I taking regular steps toward my goals?

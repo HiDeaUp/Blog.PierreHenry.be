@@ -41,14 +41,14 @@ I wish you all the best from the bottom of my heart. Go for it—I’m 100% with
 
 ---
 
-*TL;DR*  
+## Key Takeaways
 - Mental clutter builds up and overwhelms us.  
 - Clear your mind by focusing only on the present moment.  
 - Imagine throwing your worries in the trash to free your head.  
 - Take life one step at a time: today, then tomorrow, then the next day.  
 - This simple habit can change your life and help you move forward.
 
-*Ask Yourself*  
+## Reflection
 - What mental burdens am I carrying right now?  
 - How can I focus more on the present moment?  
 - What one thing can I do today without worrying about the rest?

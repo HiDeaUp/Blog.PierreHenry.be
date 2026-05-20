@@ -34,13 +34,13 @@ This YES principle is about honoring your own priorities. It’s about making a 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Say YES to your plans and act on them right away.
 - Protect your time by dedicating specific moments to your goals.
 - Avoid postponing what matters to you—enthusiasm fades with delay.
 - Make a commitment to yourself and keep it.
 
-*Ask Yourself:*
+## Reflection
 - What have you been putting off that you truly want to do?
 - How can you block out time to make sure it happens?
 - What would change if you said YES and acted today?

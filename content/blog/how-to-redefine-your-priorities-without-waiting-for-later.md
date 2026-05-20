@@ -55,7 +55,7 @@ At the end of the day, life is short. Money comes and goes, but time only moves 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Life is shorter than we think—don’t wait for the “perfect” moment.
 - Use small blocks of time each day to work on what matters.
 - Always look for ways to improve, even just a little.
@@ -63,13 +63,13 @@ At the end of the day, life is short. Money comes and goes, but time only moves 
 - Focus on your own happiness, not on impressing others.
 - Stay curious and open to new opportunities.
 
-*Actions List:*
+## Action Steps
 - Set aside at least 10–20 minutes a day for your goals.
 - At the end of each day, reflect on what worked and what didn’t.
 - List your top 3 priorities every morning.
 - Ask yourself regularly: Am I doing this for me, or for someone else?
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can do today that my future self will thank me for?
 - Am I living my days for myself, or for the approval of others?
 - How can I make tomorrow just a little bit better than today?

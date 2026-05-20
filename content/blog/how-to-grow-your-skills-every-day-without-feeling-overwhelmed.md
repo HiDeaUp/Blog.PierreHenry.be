@@ -41,13 +41,13 @@ Improvement is a slow, steady process. By repeating these small steps, you becom
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Every day is a new chance to learn and grow, no matter how small the step.
 - Reflect on what you read or do, and write down your takeaways.
 - Teaching others helps you remember and organize what you’ve learned.
 - Your environment and mindset matter—keep them simple and supportive.
 
-*Ask Yourself:*
+## Reflection
 - What did I learn today, and how can I use it?
 - How can I make learning a daily habit?
 - Who can I share my new knowledge with?

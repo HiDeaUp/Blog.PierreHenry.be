@@ -54,7 +54,7 @@ I hope you try this five-second or five-minute timer principle. Whether you’re
 ![Photo by - Kenny](https://images.unsplash.com/photo-1747103837537-0c07eb07e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Moving in 5 Seconds—Even When You Don’t Want To")
 *How to Get Moving in 5 Seconds—Even When You Don’t Want To - Photo by [- Kenny](https://unsplash.com/@kennyzhang29) on [Unsplash](https://unsplash.com/photos/a-clock-is-attached-to-a-tree-by-the-street-iD-eyB7uxO4)*
 
-*Actions List:*
+## Action Steps
 
 - Move your timer app to your home screen or dock.
 - Try the five-second countdown before your next task.
@@ -63,7 +63,7 @@ I hope you try this five-second or five-minute timer principle. Whether you’re
 
 ---
 
-*Ask Yourself:*
+## Reflection
 
 - What’s one task you’ve been putting off that you could start with a five-second countdown?
 - How could a simple timer help you build better habits?

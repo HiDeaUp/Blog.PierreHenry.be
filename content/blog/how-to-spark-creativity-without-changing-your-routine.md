@@ -37,12 +37,12 @@ If you want to boost your creativity, pay attention to where you spend your time
 ![Create! spraycan art, graffiti](https://images.unsplash.com/photo-1708818883200-b64be75ade39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMGluc3BpcmF0aW9uJTIwY3JlYXRpdml0eXxlbnwwfDB8fHwxNzU3NDYyNDI4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creativity Without Changing Your Routine")
 *How to Spark Creativity Without Changing Your Routine - Photo by [Haberdoedas II](https://unsplash.com/@haberdoedas2) on [Unsplash](https://unsplash.com/photos/graffiti-on-a-wall-that-says-create-not-destroy-sQbiTUjGZvQ)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Small, cramped spaces can block creativity and inspiration.
 - Open, spacious environments help your imagination grow.
 - Changing your surroundings, even briefly, can spark new ideas.
 
-*Ask Yourself:*
+## Reflection
 - Do you notice a difference in your creativity depending on where you are?
 - What spaces make you feel most inspired?
 - How can you adjust your environment to help your imagination thrive?

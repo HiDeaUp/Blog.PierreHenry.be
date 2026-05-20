@@ -39,11 +39,11 @@ If you keep that hope alive, you will go far. You will achieve more than you eve
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc2lzdGVuY2UlMjBzZWxmLWJlbGllZnxlbnwwfDB8fHwxNzU1OTk3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Going When Everything Feels Lost")
 *How to Keep Going When Everything Feels Lost - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - When you feel lost or stuck, keep going. Do not give up.
 - True success comes from transforming yourself, not chasing after it like an object.
 - Want your goal deeply and persistently. Solutions come to those who truly desire them.
 - Hold on to hope, even when things seem impossible.
 
-**Ask Yourself**
+## Reflection
 *What is one thing you truly want right now? Are you willing to change yourself to achieve it? How can you keep hope alive, even when things get tough?*

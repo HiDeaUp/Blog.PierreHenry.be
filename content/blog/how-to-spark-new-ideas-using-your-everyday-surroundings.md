@@ -37,13 +37,13 @@ If you want to go even further, try visiting places that are completely differen
 ![Photo by Marija Zaric](https://images.unsplash.com/photo-1598476793884-0e7afd57b92e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnNwaXJhdGlvbiUyMGNyZWF0aXZpdHklMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU2NTE3MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark New Ideas Using Your Everyday Surroundings")
 *How to Spark New Ideas Using Your Everyday Surroundings - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/red-and-white-no-smoking-sign-FrGQr9eQcVM)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Changing your environment can help you find new ideas.
 - Combining ordinary things around you can lead to creative solutions.
 - Unfamiliar places push your mind to make new connections.
 - Inspiration is often closer than you think.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you changed your environment?
 - What ordinary things around you could be combined in a new way?
 - How can you use your surroundings to inspire your next idea?

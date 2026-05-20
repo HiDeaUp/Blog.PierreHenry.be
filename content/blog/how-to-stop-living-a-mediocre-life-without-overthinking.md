@@ -45,20 +45,20 @@ So, if you want to stop living a mediocre life, start by changing your thoughts.
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your thoughts shape your reality—choose positive, uplifting ones.
 - Meditation and changing your environment help train your mind.
 - Give yourself projects and goals to stay motivated.
 - Challenge your own limits; most are self-imposed.
 - The present moment is all you truly have—live in it.
 
-*Actions List:*
+## Action Steps
 - Practice focusing your thoughts daily, even for just 5 minutes.
 - Go for a walk in a new place and notice how it changes your mood.
 - Start a new project, no matter how small.
 - Identify one limiting belief and question if it’s really true.
 
-*Ask Yourself:*
+## Reflection
 - What kind of thoughts fill most of your day?
 - Are you living in the present, or stuck in the past or future?
 - What’s one thing you can do today to make your life less mediocre?

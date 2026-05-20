@@ -78,8 +78,5 @@ A little research and planning can save you hours—or even days—of wasted eff
 > “Think first, code second. That’s how you build things that last.”
 
 ---
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)
-
----
 
 *Jumping in is easy. Building smart is better.*

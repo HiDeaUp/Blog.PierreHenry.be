@@ -47,14 +47,14 @@ So, start today. When you wake up, look for those moments that make you feel goo
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Spot the moments in your day that bring you real pleasure.*
 - *Focus on these moments and let them grow.*
 - *Gradually remove what brings you less joy.*
 - *Happiness makes you kinder, and kindness comes back to you.*
 - *Perfect days add up to a life you love.*
 
-*Ask Yourself:*
+## Reflection
 - *What are the small moments in your day that make you feel proud or happy?*
 - *How can you create more of these moments?*
 - *What could you let go of to make space for more joy?*

@@ -91,7 +91,6 @@ AI models are getting better every month, but you have to keep improving too. Le
 > “Every day is a new opportunity to improve. Every day you have the chance to be better, to be more proactive.”
 
 ---
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years  
 🤔 [Learn more about me on Dev.to](https://dev.to/pierre)
 
 ---

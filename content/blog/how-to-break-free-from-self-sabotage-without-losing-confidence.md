@@ -54,7 +54,7 @@ In the end, your imagination is your only real limit. The more you stretch it, t
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Self-doubt and negative beliefs are the biggest barriers to success.
 - Take action today, even if it’s a small step.
 - Most limits are in your mind, not in reality.
@@ -62,7 +62,7 @@ In the end, your imagination is your only real limit. The more you stretch it, t
 - Act like the person you want to become.
 - Your imagination sets the boundaries of your life.
 
-*Ask Yourself:*
+## Reflection
 - What negative beliefs have you been repeating to yourself?
 - What’s one small action you can take today toward your goal?
 - Who can you learn from or invite into your environment to inspire you?

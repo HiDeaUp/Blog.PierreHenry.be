@@ -48,7 +48,7 @@ The key is to focus, finish what you start, and not get distracted by what every
 
 ---
 
-*Ask Yourself:*
+## Reflection
 
 - What is the one thing you can finish today?
 - Are you spreading yourself too thin by chasing too many ideas?

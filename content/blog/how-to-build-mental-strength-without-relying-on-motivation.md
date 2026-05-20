@@ -37,13 +37,13 @@ Mental strength isn’t just about pushing through difficulties. It’s about cr
 ![Photo by yousef samuil](https://images.unsplash.com/photo-1688521010888-68157dc47664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBzdHJlbmd0aCUyMG1vcm5pbmclMjByb3V0aW5lJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU3NDYyNTA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Mental Strength Without Relying on Motivation")
 *How to Build Mental Strength Without Relying on Motivation - Photo by [yousef samuil](https://unsplash.com/@joosamm) on [Unsplash](https://unsplash.com/photos/a-person-lifting-a-barbell-in-a-gym-DfV1vNIQiQU)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Mental strength is about showing up for yourself every day.
 - Setting clear goals gives you the energy to move forward.
 - Passion fuels persistence, even when things get tough.
 - Small daily actions build real change over time.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you want to change or achieve this week?
 - How can you build a routine that supports your goal?
 - What passion gives you the energy to keep going?

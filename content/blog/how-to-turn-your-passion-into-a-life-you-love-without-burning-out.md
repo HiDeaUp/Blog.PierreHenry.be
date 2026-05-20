@@ -47,7 +47,7 @@ At the end of the day, it’s up to you to take action. No one else can do it fo
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Find what truly excites you and build around it.
 - Ask friends what makes you unique if you’re unsure about your strengths.
 - Keep a healthy balance—don’t let your passion become a burden.
@@ -56,7 +56,7 @@ At the end of the day, it’s up to you to take action. No one else can do it fo
 - Make starting easy to avoid procrastination.
 - The best time to act is now.
 
-*Actions List:*
+## Action Steps
 - Reflect on what makes you happy and unique.
 - Ask friends for honest feedback about your strengths.
 - Set limits on your work hours to protect your passion.
@@ -64,7 +64,7 @@ At the end of the day, it’s up to you to take action. No one else can do it fo
 - Prepare your workspace so starting is easy.
 - Use a timer to help you begin tasks.
 
-*Ask Yourself:*
+## Reflection
 - What would I do every day even if I didn’t get paid?
 - Which tasks drain my energy, and how can I delegate them?
 - What’s stopping me from starting today?

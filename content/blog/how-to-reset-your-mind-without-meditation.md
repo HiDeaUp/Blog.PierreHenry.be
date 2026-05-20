@@ -39,11 +39,11 @@ Life moves so quickly. It’s too short to let your mind get polluted by negativ
 ![Photo by Marcel Strauß](https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMHJvdXRpbmVzfGVufDB8MHx8fDE3NTY1MTU0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Meditation")
 *How to Reset Your Mind Without Meditation - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/text-fzqxoFJytiE)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Start your day by clearing out negative thoughts.
 - Focus on positive ideas, just like you’d choose healthy food for your body.
 - Make this a daily habit for a brighter, lighter mind.
 
-*Ask Yourself:*
+## Reflection
 - What thoughts do I want to keep, and which ones should I throw away?
 - How can I make space for more positive thinking each morning?

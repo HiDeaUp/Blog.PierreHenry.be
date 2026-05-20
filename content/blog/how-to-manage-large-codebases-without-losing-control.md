@@ -66,10 +66,6 @@ Your environment shapes your productivity. If you’re happy where you are, it s
 > “If you’re not happy where you work, run away. Life’s too short to be miserable at your job.”
 
 ---
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
-
 ## Keep Growing, Keep Coding
 
 No matter where you are in your journey, keep pushing yourself. The tools, the code, and even your job will look different next year. That’s what makes this field so exciting.

@@ -34,13 +34,13 @@ So, if there is something you have been putting off, something that matters to y
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Taking action is better than waiting for the perfect moment.
 - If you always do the same thing, nothing will change.
 - Mistakes are part of learning and growing.
 - Life is short—do what matters to you now.
 
-*Ask Yourself:*
+## Reflection
 - What have you been putting off that matters to you?
 - What small step can you take today to move forward?
 - Are you letting fear of mistakes stop you from growing?

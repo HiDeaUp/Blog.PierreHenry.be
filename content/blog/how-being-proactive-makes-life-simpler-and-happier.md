@@ -41,13 +41,13 @@ When you live this way, you can make choices that truly make you happy. You can 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Life is not meant to be endured, but lived fully.
 - Being proactive is the key to happiness and growth.
 - Take action on what matters to you, and you will see new opportunities.
 - Your life, your choices, your plan.
 
-*Ask Yourself:*
+## Reflection
 - Are you living your life or just letting it happen?
 - What is one step you can take today to move toward what makes you happy?
 - What would your life look like if you became the main character in your own story?

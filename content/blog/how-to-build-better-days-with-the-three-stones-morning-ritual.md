@@ -61,7 +61,7 @@ This evening, take a moment to list your three stones for tomorrow. Ask yourself
 
 ---
 
-### *TL;DR & Key Takeaways*
+## Key Takeaways
 
 - *Start your day with your three most important tasks—the “stones.”*
 - *Write them down the night before, and tackle them first thing in the morning.*

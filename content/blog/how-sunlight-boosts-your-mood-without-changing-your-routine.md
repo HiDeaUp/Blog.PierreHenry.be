@@ -41,14 +41,14 @@ This is the message I want to share: your environment shapes your life. Take car
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment has a direct effect on your mood, creativity, and productivity.
 - You don’t need to spend a lot—focus on making your space cozy and welcoming.
 - Nature and green spaces boost creativity and well-being.
 - Set the right temperature and avoid screens before bed for better sleep.
 - Balance your day with different activities for a happier life.
 
-*Ask Yourself:*
+## Reflection
 - Does your home feel like a cozy nest?
 - Are you making the most of nature around you?
 - How can you balance your daily activities for more happiness?

@@ -83,7 +83,7 @@ Often, your body knows what feels right. If you feel uneasy in a space, there’
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 
 - The way you arrange your home affects your mood, health, and sense of security.
 - Avoid sharp corners, exposed beams, and direct paths between doors and windows.

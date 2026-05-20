@@ -62,7 +62,7 @@ Creativity is essential. It’s not just about coming up with new things — it�
 
 ---
 
-### TL;DR
+## Key Takeaways
 
 - Gather 10–12 ideas before bed.
 - Let them “marinate” overnight.

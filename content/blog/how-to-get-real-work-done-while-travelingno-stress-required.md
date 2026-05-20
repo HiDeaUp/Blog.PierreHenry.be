@@ -39,13 +39,13 @@ When you start seeing travel as an opportunity rather than a pause, you’ll be 
 ![Photo by Zendure Power Station](https://images.unsplash.com/photo-1681263869035-af6dae276097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaWdpdGFsJTIwbm9tYWQlMjByZW1vdGUlMjB3b3JrJTIwdHJhdmVsJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTYxMTAwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Real Work Done While Traveling—No Stress Required")
 *How to Get Real Work Done While Traveling—No Stress Required - Photo by [Zendure Power Station](https://unsplash.com/@zendure) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-chair-next-to-a-tent-7czqg6Va_ho)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Travel time can be productive if you plan ahead.
 - Noise-cancelling headphones help you focus in busy environments.
 - Choose to work on something meaningful instead of mindlessly scrolling.
 - Small changes in your routine can lead to big results.
 
-*Ask Yourself:*
+## Reflection
 - How could you use your travel time more wisely?
 - What small tools or habits could help you focus on the go?
 - Are you making the most of the “in-between” moments in your day?

@@ -42,7 +42,7 @@ So, next time youâ€™re stopped in the street or asked for a favor, remember: itâ
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - What are your real priorities today?
 - Are you putting yourself last too often?
 - How can you protect your time and energy for what matters most?

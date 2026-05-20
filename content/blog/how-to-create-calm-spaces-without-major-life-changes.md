@@ -55,7 +55,7 @@ Taking small breaks, like grabbing a coffee or hot chocolate, can also help you 
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - *How do you create space for relaxation in your day?*
 - *What small change could you make today to feel more at ease?*
 - *Are you letting unhelpful thoughts take up too much space in your mind?*

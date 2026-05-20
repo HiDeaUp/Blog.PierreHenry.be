@@ -43,18 +43,18 @@ I hope this makes sense to you. I really believe that if you try this, it will h
 ![tabel day](https://images.unsplash.com/photo-1483546363825-7ebf25fb7513?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aG91Z2h0JTIwcmVzdHJ1Y3R1cmluZyUyMHNlbGYtaW1wcm92ZW1lbnQlMjBqb3VybmFsaW5nfGVufDB8MHx8fDE3NTY1MTM5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Recording Your Day Boosts Self-Growth Without Journaling")
 *How Recording Your Day Boosts Self-Growth Without Journaling - Photo by [Jan Kahánek](https://unsplash.com/@honza_kahanek) on [Unsplash](https://unsplash.com/photos/brown-pencil-on-white-book-page-fVUl6kzIvLg)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Recording your thoughts daily helps you understand yourself better.
 - Listening back to your recordings gives you a personal history of your emotions and ideas.
 - Speaking your thoughts out loud forces you to organize and clarify them.
 - Small moments of reflection can lead to big changes in your life.
 
-*Actions List:*
+## Action Steps
 - Try recording a short audio or video about your day, just for yourself.
 - Make it a habit, even if you never share or re-listen to them.
 - Use these moments to reflect and make better decisions for your future.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you really listened to your own thoughts?
 - What patterns might you discover if you kept a record of your feelings and ideas?
 - How could this simple habit help you make better choices?

@@ -42,13 +42,13 @@ If you want to build something that lasts, focus on being regular. Do a little b
 ](https://images.unsplash.com/photo-1636019197408-c16e04d0206f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25zaXN0ZW5jeSUyMHN1Y2Nlc3MlMjBwcmluY2lwbGVzJTIwYnVzaW5lc3MlMjBsZXNzb25zfGVufDB8MHx8fDE3NTU2MDk5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Win in Business by Using the Tortoise Principle")
 *How to Win in Business by Using the Tortoise Principle - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-correrstone-on-a-white-background-c8iu1ilMy4A)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Small, regular actions beat short bursts of intense effort.
 - Consistency protects you from burnout and disappointment.
 - Long-term progress is often invisible at first, but it compounds over time.
 - Prioritize your health and lifestyle while building your business.
 
-*Ask Yourself:*
+## Reflection
 - Are you sprinting like the hare, or moving steadily like the tortoise?
 - What small action can you take today that you can repeat tomorrow?
 - How can you make consistency your strongest habit?

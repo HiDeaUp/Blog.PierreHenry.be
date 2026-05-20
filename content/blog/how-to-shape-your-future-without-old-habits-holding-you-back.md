@@ -34,7 +34,7 @@ Sometimes, these habits come from our upbringing or the environment we grew up i
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Your words, actions, and thoughts shape who you are.
 - Align your behavior with your goals for real progress.
 - Old habits can hold you back—change them to move forward.
@@ -42,12 +42,12 @@ Sometimes, these habits come from our upbringing or the environment we grew up i
 ![Photo by Anthony Tran](https://images.unsplash.com/photo-1505489304219-85ce17010209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMHBvc2l0aXZlJTIwaGFiaXRzfGVufDB8MHx8fDE3NDkzMzQ5NDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Without Old Habits Holding You Back")
 *How to Shape Your Future Without Old Habits Holding You Back - Photo by [Anthony Tran](https://unsplash.com/@anthonytran) on [Unsplash](https://unsplash.com/photos/woman-holding-a-cup-of-coffee-at-right-hand-and-reading-book-on-her-lap-while-holding-it-open-with-her-left-hand-in-a-well-lit-room-8i2fHtStfxk)*
 
-*Actions List:*
+## Action Steps
 - Notice your language and posture every day.
 - Reflect on whether your behavior matches your ambitions.
 - Make small changes to align your habits with your goals.
 
-*Ask Yourself:*
+## Reflection
 - Are my daily habits helping me become who I want to be?
 - What old rituals or ways of thinking do I need to let go of?
 - How can I start aligning my words, actions, and thoughts today?

@@ -53,16 +53,16 @@ All these little color cues change how we act, how we feel, and even how creativ
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Colors shape our moods, decisions, and even our sense of temperature.
 - Bold colors like red and yellow can make us tense or energetic, while soft blues and greens calm us.
 - The colors in our homes and on products quietly guide our feelings and choices.
 
-*Actions List:*
+## Action Steps
 - Look around your space: what colors do you see most?
 - Try adding softer colors if you want more calm or creativity.
 - Notice how product colors influence your choices at the store.
 
-*Ask Yourself:*
+## Reflection
 - *How do the colors around you make you feel?*
 - *Could changing a color in your environment change your mood or habits?*

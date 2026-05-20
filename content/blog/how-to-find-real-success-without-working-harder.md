@@ -41,13 +41,13 @@ Don’t wait for the perfect moment. Create projects, find what excites you, and
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Set personal challenges to add excitement to your days.*
 - *Have both long-term and short-term projects to look forward to.*
 - *Even small goals or reading a book can keep your mind active.*
 - *Don’t let your days slip by without purpose—create your own reasons to get up in the morning.*
 
-*Ask Yourself:*
+## Reflection
 - *What challenge can I set for myself this week?*
 - *What project would make me excited to wake up early on a Saturday?*
 - *How can I add a little more spice to my daily routine?*

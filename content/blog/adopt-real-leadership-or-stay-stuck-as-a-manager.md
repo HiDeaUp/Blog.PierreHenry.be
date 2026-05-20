@@ -106,10 +106,6 @@ A little life advice: Monday should feel like Friday. If it doesn’t, ask yours
 > “A manager is, before anything else, a work coach.”
 
 ---
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years  
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)
-
----
 
 ### Mondays Should Feel Like Fridays
 

@@ -47,14 +47,14 @@ So tonight, try spending half an hour, or even just ten minutes, on something th
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Set small, daily goals you can actually achieve.
 - Focus on progress, not perfection.
 - Make your goals measurable and realistic.
 - Build habits, not just rely on motivation.
 - Celebrate every small win—you’re building your future self.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small thing I can do tonight that will make me proud?
 - How can I make this a habit, not just a one-off effort?
 - Who do I want to become in three years, and what can I do today to move closer to that person?

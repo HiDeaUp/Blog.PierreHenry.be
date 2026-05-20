@@ -64,21 +64,21 @@ Time is the one thing we can never get back. It moves forward, no matter what. T
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Taking breaks and disconnecting from work is essential for your well-being.
 - Your environment shapes your mood, energy, and success—improve it, even in small ways.
 - Pair tasks you dislike with rewards you enjoy to make them easier.
 - Invest in yourself and your growth; you’ll value it more and see better results.
 - Protect your sleep and personal time as much as your work.
 
-*Actions List:*
+## Action Steps
 - Schedule regular breaks, even short walks outside.
 - Make small changes to your environment to lift your mood.
 - Try linking chores with enjoyable activities or rewards.
 - Go to bed and wake up at the same time every day.
 - Invest in learning and personal growth—commit to it.
 
-*Ask Yourself:*
+## Reflection
 - Are you spending enough time away from your work?
 - What small changes can you make to your environment today?
 - How can you reward yourself for completing tasks you dislike?

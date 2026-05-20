@@ -60,13 +60,13 @@ Don’t wait for the perfect moment when everything aligns. That moment will nev
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 - There’s always a way out, even when you feel stuck.
 - Small, consistent actions matter more than waiting for the perfect time.
 - Invest in yourself—your habits, your knowledge, your health, and your relationships.
 - The best time to start is always now.
 
-### **Actions List**
+## Action Steps
 - Save a little money, no matter how small.
 - Spend at least 10 minutes a day on your personal project.
 - Build one new good habit.

@@ -41,14 +41,14 @@ I believe in you. Now it’s your turn to believe in yourself. The best moment i
 ![Desk with a keyboard and a planner with the words Marketing Strategy on it](https://images.unsplash.com/photo-1676287565869-6992e7df9bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MDEwMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Push Yourself Without Burning Out")
 *How to Push Yourself Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-notepad-with-the-words-marketing-strategy-written-on-it-WJRIxCK4Tsk)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Set personal challenges to add excitement to your days.
 - Mix long-term projects with short-term goals for daily motivation.
 - Even small activities, like reading, can keep your mind sharp.
 - Time is precious—don’t waste it waiting for the “right” moment.
 - The best time to start is always now.
 
-*Ask Yourself:*
+## Reflection
 - What challenge can I set for myself this week?
 - How can I add more purpose to my mornings?
 - Am I making the most of my time, or am I letting it slip away?

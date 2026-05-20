@@ -41,13 +41,13 @@ Sometimes, the best ideas come from improvisation. This article wasn’t planned
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Schedule personal time in your calendar, just like work tasks.
 - Make external commitments (like classes or reservations) to help you stick to your plans.
 - Balance isn’t about doing less work, but about making time for what matters.
 - Small, regular moments for yourself can change your whole week.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly made time for yourself?
 - What’s one thing you can schedule this week that’s just for you?
 - How can you turn your “maybe later” into a real commitment?

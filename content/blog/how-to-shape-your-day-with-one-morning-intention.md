@@ -53,21 +53,21 @@ So, listen to your body. There’s a lot of advice out there, but what matters m
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Start your day by setting a positive intention.
 - Use music, light, and movement to boost your mood.
 - Visualize your ideal day and focus on one key goal.
 - Drink water before eating and wait before having coffee.
 - Listen to your body and adjust your routine to fit your needs.
 
-*Actions List:*
+## Action Steps
 - Create a morning playlist that energizes you.
 - Write down your intention for the day.
 - Try a short meditation or some stretching.
 - Drink two glasses of room-temperature water upon waking.
 - Review your vision board or daily goals.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one thing that would make you proud today?
 - How can you shift your environment to support your mindset?
 - Are you listening to what your body really needs in the morning?

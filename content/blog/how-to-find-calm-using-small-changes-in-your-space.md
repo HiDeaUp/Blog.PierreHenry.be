@@ -34,13 +34,13 @@ Good organization, healthy routines, and quality sleep make all the difference. 
 
 ---
 
-*TL;DR & Key Takeaways:*
+## Key Takeaways
 - Your environment has a huge impact on your well-being.
 - Focus on doing one or two things well, instead of trying to do everything.
 - Consistent routines and good sleep are essential for happiness and fulfillment.
 - Quality matters more than quantity in your daily actions.
 
-*Ask Yourself:*
+## Reflection
 - What small change can you make in your environment today to feel more at peace?
 - Are you focusing on too many things at once? What could you let go of?
 - How can you improve your daily routine to support your well-being?

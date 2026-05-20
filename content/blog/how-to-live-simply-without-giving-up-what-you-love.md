@@ -43,13 +43,13 @@ We all deserve to have a passion project. We all deserve to love our lives. I wi
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Reconnect with what you loved as a child to find your true passion.
 - Write down what excites you and why—this helps clarify your path.
 - Start small, but start today. Small steps lead to big changes.
 - Building a simple, meaningful life is possible for everyone.
 
-*Ask Yourself:*
+## Reflection
 - What did you love doing as a child, before anyone told you what you should like?
 - What small step can you take today to bring more of that passion into your life?
 - Are you willing to give yourself permission to build a life you truly love?

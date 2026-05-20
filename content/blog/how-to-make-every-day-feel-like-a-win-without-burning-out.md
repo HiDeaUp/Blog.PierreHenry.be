@@ -37,18 +37,18 @@ So, take charge. Imagine your perfect day, write it down, and start making it re
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZGFpbHklMjByZWZsZWN0aW9uJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2NTIxMzIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day Feel Like a Win Without Burning Out")
 *How to Make Every Day Feel Like a Win Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Ask yourself if you’d want to relive the day you just had.
 - If not, define what your ideal day looks like.
 - Write down or sketch out the elements of your perfect day.
 - Take small steps to bring those elements into your daily life.
 - Remember, time is precious—don’t wait to live the days you truly want.
 
-*Actions List:*
+## Action Steps
 - Reflect each evening: Was today the day you wanted?
 - Write or draw your ideal day.
 - Identify one change you can make tomorrow.
 
-*Ask Yourself:*
+## Reflection
 - What would make today a day worth repeating?
 - What’s stopping you from living your ideal day?

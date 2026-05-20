@@ -49,14 +49,14 @@ And remember: if the journey is beautiful, you do not worry about where it leads
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus on positive thoughts daily to boost your mood and well-being.
 - Practice the 4-4-4 breathing method to feel calmer and more present.
 - Take time to rest and recharge—this is essential for long-term growth.
 - Set clear goals and review your progress regularly.
 - Remember, small daily actions lead to big changes over time.
 
-*Ask Yourself:*
+## Reflection
 - What is one positive memory or thought you can focus on today?
 - How can you create a small moment of well-being for yourself right now?
 - What is one small change you can make in your environment to feel better?

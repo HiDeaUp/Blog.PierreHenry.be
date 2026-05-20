@@ -43,17 +43,17 @@ If you want to go deeper, there’s a book called *The Compound Effect* (or *L�
 ![cute girl talking on the phone](https://images.unsplash.com/photo-1700520695928-94bd06abfb0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb21wb3VuZCUyMGVmZmVjdCUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDYxNzk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Habits Shape Your Future Without Big Effort")
 *How Small Habits Shape Your Future Without Big Effort - Photo by [Jelena Kostic](https://unsplash.com/@maur981) on [Unsplash](https://unsplash.com/photos/a-woman-is-holding-a-pen-and-looking-at-something-t_3Vrw5rI5k)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Small daily actions, good or bad, add up over time.
 - Good habits lead to exponential growth and success.
 - Bad habits quietly pile up and can drag you down.
 - Identify and keep the habits that make the biggest positive difference.
 - Remove negative habits from your life as soon as you spot them.
 
-**Actions List**
+## Action Steps
 - List your daily habits—both good and bad.
 - Choose one positive habit to strengthen this week.
 - Pick one negative habit to stop or replace.
 
-*What about you?*
+## Reflection
 *Which small habit could you start today that would make a big difference in your life a year from now? What’s one habit you need to throw out for good?*

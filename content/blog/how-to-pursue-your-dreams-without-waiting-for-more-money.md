@@ -23,15 +23,6 @@ Some people call this “fucking money”—the idea that you need a certain amo
 
 Here’s the real message: stop using “not enough money” or “not the right time” as excuses. Instead, ask yourself what project or dream you can start now that could actually generate the money you need. Often, it’s the project itself that brings in the resources, not the other way around.
 
-![(and execute)
-
-At least, that’s what I wish it said off to the side. It’s been a long time sine I’ve done both of those things – too long.
-
-I’ve spent the last couple months funemployed and figuring out exactly what I want to do. I found a job a long way away from home that fit the bill and tossed in an application the other day but I’m pretty sure that I won’t get it for one reason or another.
-
-Anyways – putting the application together was a lot of fun. It let me dream like I haven’t since I was in university, and getting it all down on paper was pretty liberating.](https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Pursue Your Dreams Without Waiting for More Money")
-*How to Pursue Your Dreams Without Waiting for More Money - Photo by [Randy Tarampi](https://unsplash.com/@randytarampi) on [Unsplash](https://unsplash.com/photos/dream-big-text-U2eUlPEKIgU)*
-
 Think about it: maybe you want to freelance, take on a better-paying job, or launch a side project. These actions can bring in the money you’re hoping for. If you keep telling yourself you need to save more before you start, and you’re not very disciplined, you’ll never reach that magic number. There will always be something else to spend on.
 
 Discipline is key. Make a habit of saving, even if it’s just a small amount every week or month. When I lived in Australia, the UK, New Zealand, and Ireland, I noticed that rent is often paid weekly, not monthly like in some other countries. This made it easier to save a little each week. Whether it’s €3 or €30, what matters is consistency. As soon as you have enough for your first step, go for it. Life is too short to watch your dreams slip away.
@@ -46,7 +37,7 @@ Don’t let your dreams fly out of your hands because you waited too long. The p
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 ![The word dream, captured in an ornament on the windowsill, with the early morning sun, casting a beautiful golden light upon it and creating a shadow.](https://images.unsplash.com/photo-1596772160247-e66da3dcb644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Pursue Your Dreams Without Waiting for More Money")
 *How to Pursue Your Dreams Without Waiting for More Money - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/white-love-neon-light-signage-hJXjkEoHDSk)*

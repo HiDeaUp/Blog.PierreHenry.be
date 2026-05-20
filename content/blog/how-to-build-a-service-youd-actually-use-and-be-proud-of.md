@@ -52,7 +52,7 @@ So, what’s your quest? What problem are you passionate about solving? Step by 
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Build a service you’d use yourself and be proud of.
 - Focus on doing a few things perfectly, not everything poorly.
 - “Perfect but incomplete” is better than “complete but buggy.”
@@ -60,7 +60,7 @@ So, what’s your quest? What problem are you passionate about solving? Step by 
 - Fall in love with the problem, not the solution.
 - Improvement is a journey—keep moving forward.
 
-*Ask Yourself:*
+## Reflection
 - What real problem are you solving?
 - Are you proud enough of your service to use it yourself?
 - How can you make your product “perfect but incomplete” today?

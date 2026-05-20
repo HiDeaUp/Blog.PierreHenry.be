@@ -32,7 +32,7 @@ This minimalist approach isn’t about doing less for the sake of it. It’s abo
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Set a clear, visible goal for the next three weeks.
 - Visualize your goal as already achieved.
 - Break it down into tiny daily actions.
@@ -42,11 +42,11 @@ This minimalist approach isn’t about doing less for the sake of it. It’s abo
 ![Photo by Alex 張飛](https://images.unsplash.com/photo-1635217092087-25d8aeabe407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5JTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTgzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Feeling Overwhelmed")
 *How to Get More Done Without Feeling Overwhelmed - Photo by [Alex 張飛](https://unsplash.com/@zhangfeialex) on [Unsplash](https://unsplash.com/photos/a-clock-on-the-wall-of-a-room-gy5_03ySUNY)*
 
-**Actions List**
+## Action Steps
 - Define your three-week goal.
 - Visualize your success.
 - Write down one small action for each day.
 - Stick to your daily 10–20 minute routine.
 
-*What about you?*
+## Reflection
 *What’s one small step you can take today toward your big goal? How can you make your daily routine more focused and intentional?*

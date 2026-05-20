@@ -36,12 +36,12 @@ We all have these little rituals. They’re like crutches that help us get back 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Notice what small things lift your mood.
 - Use these boosters when you feel low or tired.
 - Simple pleasures can make a big difference in your day.
 
-*Ask Yourself:*
+## Reflection
 - What are your personal boosters?
 - When was the last time you used one to feel better?
 - How can you make space for these moments in your routine?

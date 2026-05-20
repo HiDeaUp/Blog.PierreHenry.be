@@ -51,16 +51,16 @@ There will always be things we want to do more of, or things we wish we could pe
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Your perception shapes your reality—sometimes for the worse.
 - The same event can feel huge or tiny depending on your mindset.
 - Letting go of perfection and focusing on what matters most can help you move forward.
 
-*Actions List:*
+## Action Steps
 - Notice when your perception is making things harder than they need to be.
 - Try to see situations from another angle.
 - Focus on actions that solve real problems, not just the ones that feel comfortable.
 
-*Ask Yourself:*
+## Reflection
 - What beliefs or habits are holding you back right now?
 - How could changing your perspective help you move forward?

@@ -39,16 +39,16 @@ If you keep asking yourself, “How can I make today just a little better than y
 ![Photo by Raj Vachhani](https://images.unsplash.com/photo-1721068061687-7a9873a34cac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLXJlZmxlY3Rpb258ZW58MHwwfHx8MTc1NTQxNjA1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Walks Build a Better Life Without Extra Effort")
 *How Daily Walks Build a Better Life Without Extra Effort - Photo by [Raj Vachhani](https://unsplash.com/@rajvachhani) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-the-middle-of-a-street-with-their-reflection-in-a-puddle-wP7k-3_qomI)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Use daily walks to reflect on your day and your happiness.
 - Ask yourself what worked, what didn’t, and how you could improve tomorrow.
 - Take simple notes and review them the next morning.
 - Small, regular adjustments lead to big changes over time.
 
-**Actions List**
+## Action Steps
 - Try a short walk at the end of your day, just to think.
 - Rate your happiness or fulfillment, and ask what could make it better.
 - Write down your thoughts and use them to guide your next day.
 
-*What about you?*  
+## Reflection
 *When was the last time you took a walk just to think? What small change could make your tomorrow even a little bit better?*

@@ -54,7 +54,7 @@ If you feel stuck, try changing your environment or your approach. There’s alw
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 - Motivation is temporary, but habits last.
 - Act today—tomorrow is always uncertain.

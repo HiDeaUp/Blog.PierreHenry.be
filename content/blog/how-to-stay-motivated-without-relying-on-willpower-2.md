@@ -49,19 +49,19 @@ So, next time you’re struggling to finish something, try this: set a clear dea
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Use small, meaningful rewards to motivate yourself.
 - Set clear deadlines to avoid procrastination.
 - Choose an environment that makes you feel good and helps you focus.
 - Everyone starts from a different place, but with the right triggers, you can achieve your goals.
 
-*Actions List:*
+## Action Steps
 - Pick one task you’ve been putting off.
 - Set a deadline for it—be specific.
 - Decide on a reward you’ll give yourself when you finish.
 - Find a place that helps you focus, and get started.
 
-*Ask Yourself:*
+## Reflection
 - What small reward would really motivate you today?
 - Is your environment helping or hurting your focus?
 - What’s one thing you can finish before the end of the day?

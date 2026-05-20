@@ -49,13 +49,13 @@ Remember, the goal isn’t just to get more done—it’s to build a life that f
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Mental clutter and poor routines can ruin your productivity and mood.
 - Knowing yourself is the first step to building better habits.
 - True productivity should make you happier, not just busier.
 - Start small, act now, and keep improving your daily routines.
 
-*Ask Yourself:*
+## Reflection
 - What habits are holding you back each day?
 - Are your routines helping you, or making life harder?
 - What’s one small change you can make today to feel better tomorrow?

@@ -44,13 +44,13 @@ I wish you all the best as you go further. Remember, every day is an opportunity
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Try something new every day, even if it feels scary.
 - Expanding your comfort zone brings fresh ideas and new opportunities.
 - Changing your environment can spark creativity and self-discovery.
 - What feels intimidating today will feel normal tomorrow.
 
-*Ask Yourself:*
+## Reflection
 - What is one thing you can do today that you’ve never done before?
 - How can you make trying new things a daily habit?
 - What’s holding you back from daring a little more?

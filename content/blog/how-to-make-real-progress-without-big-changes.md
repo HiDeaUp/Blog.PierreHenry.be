@@ -43,20 +43,20 @@ If you want to go further, think about how you organize your day. Mix up your ac
 Now, fast-forwarding to today, these friends have become teachers, judges and doctors.](https://images.unsplash.com/photo-1551892589-865f69869476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMGRhaWx5JTIwcHJvZ3Jlc3N8ZW58MHwwfHx8MTc0OTQxNDkwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Big Changes")
 *How to Make Real Progress Without Big Changes - Photo by [Guille Álvarez](https://unsplash.com/@guillealvarez) on [Unsplash](https://unsplash.com/photos/people-jumping-on-shore-front-of-golden-hour-IcI3FizU9Cw)*
 
-*TL;DR:*
+## Key Takeaways
 - Every day is a new chance to learn and grow.
 - Focus on what you can take away from everything you read, watch, or do.
 - Teach what you learn—it helps you remember and organize your thoughts.
 - Small, daily steps matter more than big, rare efforts.
 - Your environment and mindset play a huge role in your progress.
 
-*Actions List:*
+## Action Steps
 - Pick one thing to learn today, even if it’s just for 10 minutes.
 - Write down what you learned and how you can use it.
 - Share your new knowledge with someone else.
 - Look around: how can you improve your environment, even in a small way?
 
-*Ask Yourself:*
+## Reflection
 - What did I learn today that I can use tomorrow?
 - How can I make my surroundings support my growth?
 - Who can I teach something new to today?

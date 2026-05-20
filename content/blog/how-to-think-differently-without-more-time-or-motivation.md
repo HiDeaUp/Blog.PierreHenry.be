@@ -61,7 +61,7 @@ When you start to see obstacles as opportunities to try something new, you’ll 
 - *Set up your workspace or tools so you can start without friction.*
 - *Try doing a familiar task in a new place or with a new method this week.*
 
-### *What About You?*
+## Reflection
 
 - *What’s one problem you could see differently if you changed your approach?*
 - *How could you make the first step so easy you can’t say no?*

@@ -87,11 +87,3 @@ Sometimes you’ll hit permission issues when deploying. If that happens, just t
 > “Cursor is like having a junior developer who handles the boring stuff and lets you focus on building.”
 
 > “Sometimes I doubt the AI, but then I check and, yeah, it’s already there. That’s pretty cool.”
-
----
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)
-
----
-
-### Kicker:  
-If you’re tired of repetitive setup and want your IDE to actually help, give Cursor a try—it’s a game changer for app development.

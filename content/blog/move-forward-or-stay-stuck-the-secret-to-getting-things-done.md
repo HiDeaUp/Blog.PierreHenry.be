@@ -60,7 +60,7 @@ Once you have chosen your project, commit to it fully. Pour all your energy into
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 
 1. *Start now. Do not wait for the perfect moment.*
 2. *Focus all your energy on one project at a time.*

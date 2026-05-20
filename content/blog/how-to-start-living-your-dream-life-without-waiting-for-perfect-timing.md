@@ -35,7 +35,7 @@ I believe in you. Go for it. Take action. Grow. We grow together.
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Ask yourself what your ideal day looks like.*
 - *Change one small thing today, not everything at once.*
 - *Reflect weekly on what’s working and what isn’t.*
@@ -44,12 +44,12 @@ I believe in you. Go for it. Take action. Grow. We grow together.
 ![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MDA5ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Living Your Dream Life Without Waiting for Perfect Timing")
 *How to Start Living Your Dream Life Without Waiting for Perfect Timing - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
 
-*Actions List:*
+## Action Steps
 - *Write down one thing you want to change this week.*
 - *Set aside time each Sunday to review your progress.*
 - *Challenge your excuses and take one step forward today.*
 
-*What About You?*
+## Reflection
 - *What’s one dream you’ve been putting off?*
 - *What’s stopping you from starting today?*
 - *How would your life look if you made just one small change right now?*

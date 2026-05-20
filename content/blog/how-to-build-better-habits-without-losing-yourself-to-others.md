@@ -52,19 +52,19 @@ So, take a moment to look at your own habits and environment. Are there things y
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Harmful habits often come from your environment and the people you spend time with.
 - Don’t be a people pleaser—do what makes you happy, not just what others want.
 - Your environment can make or break your routines and goals.
 - Use motivating content as a trigger for action, not just for passive consumption.
 
-*Actions List:*
+## Action Steps
 - Identify habits that don’t serve you.
 - Check if your environment supports your goals.
 - Surround yourself with people who lift you up.
 - Use inspiration as a launchpad for real action.
 
-*Ask Yourself:*
+## Reflection
 - Are your habits and environment helping or hurting your happiness?
 - Who are the five people you spend the most time with?
 - What’s one small change you can make today to move closer to your goals?

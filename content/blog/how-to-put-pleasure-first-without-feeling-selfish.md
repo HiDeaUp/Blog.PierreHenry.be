@@ -41,19 +41,19 @@ When you always put yourself last, you end up frustrated and doubting your abili
 ![Admiration | Instagram: @timmossholder](https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTYwMDcxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Put Pleasure First Without Feeling Selfish")
 *How to Put Pleasure First Without Feeling Selfish - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Organize your day around what excites you, not just obligations.
 - Give your best energy to your passions, not what’s left over.
 - Time is more valuable than money—spend it on what matters to you.
 - Challenge routines that don’t serve your happiness.
 
-*Actions List:*
+## Action Steps
 - Identify what truly makes you happy and energized.
 - Restructure your mornings to prioritize these activities.
 - Question inherited beliefs about work and success.
 - Start small: even 30 minutes a day for yourself can change everything.
 
-*Ask Yourself:*
+## Reflection
 - Am I putting myself last in my own life?
 - What would my days look like if I put my happiness first?
 - What’s one thing I can do tomorrow morning just for me?

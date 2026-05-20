@@ -43,17 +43,17 @@ But even if you don’t go further with me, remember this: you can always genera
 ![Giant Solar Panel](https://images.unsplash.com/photo-1491677533189-49af044391ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1oZWxwJTIwZW5lcmd5JTIwYm9vc3R8ZW58MHwwfHx8MTc0OTM5NTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated When You Feel Too Tired to Start")
 *How to Get Motivated When You Feel Too Tired to Start - Photo by [Biel Morro](https://unsplash.com/@bielmorro) on [Unsplash](https://unsplash.com/photos/black-and-silver-solar-panel-HCha-UHkIg8)*
 
-*TL;DR:*
+## Key Takeaways
 - You can create the mood and energy you need, even when you feel drained.
 - Try quick exercises, cold showers, or music to shift your state.
 - Adjust your environment with lighting or sound to help you focus.
 - Don’t wait for motivation—take action, and your mood will catch up.
 
-*Actions List:*
+## Action Steps
 - Pick one quick activity (exercise, shower, music) to try before your next task.
 - Set up a playlist or lighting that helps you get in the right mood.
 - Notice how your energy changes and adjust your routine as needed.
 
-*Ask Yourself:*
+## Reflection
 - What small ritual could help you get motivated when you’re feeling stuck?
 - How can you change your environment to support your goals?

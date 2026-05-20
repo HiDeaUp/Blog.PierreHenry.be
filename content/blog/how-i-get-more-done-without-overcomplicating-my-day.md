@@ -48,19 +48,19 @@ So, next time you have something to do, try setting a reward for yourself. Make 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Set small rewards for finishing tasks.
 - Use deadlines to avoid procrastination.
 - Make your environment pleasant and motivating.
 - Even small pleasures can push you to finish what you start.
 
-*Actions List:*
+## Action Steps
 - Pick a task you’ve been putting off.
 - Decide on a simple reward for finishing it.
 - Set a clear deadline.
 - Work in a place that feels good to you.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small reward that would motivate you today?
 - How can you make your environment more inspiring?
 - Are you setting real deadlines for your goals?

@@ -41,18 +41,18 @@ So, if you want to change your life, start by changing your habits—especially 
 ![Photo by Alex Hudson](https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWVudGFsJTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzQ5MzA1MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Bad Mental Habits Without Losing Yourself")
 *How to Break Bad Mental Habits Without Losing Yourself - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)*
 
-*TL;DR:*
+## Key Takeaways
 - What you say, do, and think shapes who you are.
 - Align your behavior, words, and thoughts with your goals.
 - Bad habits—mental or physical—will hold you back if you don’t address them.
 - Real change starts with changing your daily habits.
 
-*Actions List:*
+## Action Steps
 - Notice your recurring thoughts and words—are they helping or hurting you?
 - Adjust your posture and language to match your ambitions.
 - Replace negative habits with positive, goal-oriented ones.
 
-*Ask Yourself:*
+## Reflection
 - Are my words and actions in line with the person I want to become?
 - What habits do I need to change to reach my goals?
 - How can I start aligning my thoughts, words, and behavior today?

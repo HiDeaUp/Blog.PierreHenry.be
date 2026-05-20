@@ -46,7 +46,7 @@ The key is to give yourself permission to step away from your usual workspace. L
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - Where do you feel most creative or inspired?
 - When was the last time you changed your environment to solve a problem?
 - What new places could you try for your next brainstorming session?

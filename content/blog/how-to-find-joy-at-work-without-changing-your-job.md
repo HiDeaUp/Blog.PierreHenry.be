@@ -43,13 +43,13 @@ I encourage you to look at your life this way. I’m with you, 100%. Don’t put
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Even boring or frustrating situations can teach you something valuable.
 - Use “dead moments” in your day to learn, grow, or plan for the future.
 - Your current job or routine is not forever—see it as a step, not a prison.
 - Taking action, even small steps, is the best way to move forward.
 
-*Ask Yourself:*
+## Reflection
 - What can I learn from my current situation?
 - How can I use my spare moments to improve my life?
 - What small step can I take today toward something I care about?

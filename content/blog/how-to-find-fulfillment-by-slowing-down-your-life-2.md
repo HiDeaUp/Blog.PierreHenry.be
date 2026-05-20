@@ -56,20 +56,20 @@ Regularity is powerful. If you’re consistent and know your goal, you can look 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Take time to breathe and enjoy the present moment.
 - Set clear goals and break them into small, daily steps.
 - Regularity and habits are more powerful than bursts of effort.
 - Know your destination and track your progress.
 - Don’t let pressure or the urge to do more steal your joy.
 
-*Actions List:*
+## Action Steps
 - Choose one project that matters to you.
 - Set a clear deadline and define your desired outcome.
 - Commit to a small daily action, even just 10 minutes.
 - Reflect weekly on your progress and adjust as needed.
 
-*Ask Yourself:*
+## Reflection
 - What small step can I take today toward a life that truly speaks to me?
 - Am I enjoying the journey, or just rushing to the next thing?
 - How can I make my daily actions more meaningful?

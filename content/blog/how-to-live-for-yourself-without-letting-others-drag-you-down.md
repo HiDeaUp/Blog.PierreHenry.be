@@ -41,16 +41,16 @@ So, next time you’re faced with a decision—big or small—pause and ask: is 
 ![There were many short lived pop-up thunderstorms on this day. This one produced a microburst which I was lucky enough to catch on camera. ](https://images.unsplash.com/photo-1561470508-fd4df1ed90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0b3hpYyUyMGVudmlyb25tZW50JTIwc2VsZi1ncm93dGglMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NDkzOTc4MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live for Yourself Without Letting Others Drag You Down")
 *How to Live for Yourself Without Letting Others Drag You Down - Photo by [NOAA](https://unsplash.com/@noaa) on [Unsplash](https://unsplash.com/photos/microburst-thunderstorm-Led9c1SSNFo)*
 
-*TL;DR:*
+## Key Takeaways
 - There are always two choices: your own, and the one shaped by others.
 - Choosing yourself leads to growth and fulfillment; following others can leave you empty.
 - Notice when your environment is dragging you down, and make conscious choices that lift you up.
 
-*Actions List:*
+## Action Steps
 - Identify one area where you’re following others instead of yourself.
 - Make a small change this week that puts your needs first.
 - Reflect on how you feel after making that change.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you do just to please others, even though it doesn’t make you happy?
 - How would your days look if you made choices just for you?

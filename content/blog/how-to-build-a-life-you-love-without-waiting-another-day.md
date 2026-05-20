@@ -44,14 +44,14 @@ And it doesn’t matter how old you are. Even if you’re 60, life doesn’t jus
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Every day is a new chance to do something that matters to you.
 - Don’t waste time trying to impress others—focus on impressing yourself.
 - Your hero should always be your future self, just out of reach.
 - Having a big vision keeps you moving forward, no matter your age.
 - Saying positive things to yourself can change your whole day.
 
-*Ask Yourself:*
+## Reflection
 - What is the thing that truly excites you?
 - Who is your hero in ten years—and what would they want you to do today?
 - Are you living for yourself, or for someone else’s approval?

@@ -43,13 +43,13 @@ Don’t let your dreams fade away because of people you’ll never meet. Focus o
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Most haters are strangers whose opinions don’t matter.
 - Focus on positive feedback and support.
 - Take breaks when needed to protect your mental space.
 - Practice ignoring negativity—it gets easier with time.
 
-*Ask Yourself:*
+## Reflection
 - Are you letting strangers decide how you feel about your work?
 - What could you achieve if you only listened to those who support you?
 - How can you protect your dreams from outside negativity?

@@ -55,20 +55,20 @@ This is your challenge: for one week, pick something meaningful each day, focus 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Make a list of 5–15 things you care about.
 - Each evening, randomly pick one and focus on it for 30–60 minutes.
 - Share your work, ask for feedback, and improve.
 - After a week, refresh your list and repeat.
 - Focus on one thing at a time for better results.
 
-*Actions List:*
+## Action Steps
 - Write your list tonight.
 - Set a timer for your daily task.
 - Share your progress with someone you trust.
 - Reflect after a week: What changed? What did you learn?
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I’ve always wanted to try, but never started?
 - Who can I ask for honest feedback on my progress?
 - How can I make this challenge a regular part of my life?

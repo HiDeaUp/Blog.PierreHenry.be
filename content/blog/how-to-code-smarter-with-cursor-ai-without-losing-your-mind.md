@@ -91,7 +91,3 @@ Submitting apps is way easier with tools like Expo. I just run a command to buil
 - **Stay in control.** Use AI as a tool, not a crutch. Your job is to think, not just execute.
 - **“With AI, you can almost code blindfolded—but don’t let it make you blind.”**
 - **“AI is moving from junior to senior engineer status fast. Be ready to level up your own role.”**
-
----
-### Kicker:  
-AI is your new coding partner—just don’t let it do all the thinking for you.

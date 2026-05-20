@@ -39,14 +39,14 @@ The key is to find your own soul rituals—those little habits that bring you co
 ![Photo by Chelsea Gates](https://images.unsplash.com/photo-1591228127791-8e2eaef098d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGhhYml0cyUyMG1pbmRmdWxuZXNzJTIwZGFpbHklMjByaXR1YWxzfGVufDB8MHx8fDE3NDg1MTgwMzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Rituals Boost Your Mood Without Stress")
 *How Small Daily Rituals Boost Your Mood Without Stress - Photo by [Chelsea Gates](https://unsplash.com/@chelseacgates) on [Unsplash](https://unsplash.com/photos/person-in-blue-shorts-sitting-on-beach-shore-during-daytime-n8L1VYaypcw)*
 
-*TL;DR*  
+## Key Takeaways
 - Soul rituals are small, positive habits that support your well-being.  
 - They bring comfort, freedom, gratitude, or spirituality to your day.  
 - Unlike negative compulsions, soul rituals lift you up and help you grow.  
 - Find one or two simple rituals you enjoy and do them regularly.  
 - Examples: morning coffee, evening shortbread, a daily walk, reading before bed.
 
-*Ask Yourself*  
+## Reflection
 - What small habit brings you comfort or joy every day?  
 - Are there rituals in your life that drain your energy instead of boosting it?  
 - How can you create a new positive ritual that fits your daily routine?

@@ -49,20 +49,20 @@ Change is possible. Work on your mindset, your positivity, and how you organize 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Doing nothing is the biggest risk.
 - One small decision can change your life.
 - Take action, even if you’re afraid.
 - Learn from every experience, good or bad.
 - Your mindset and attitude shape your opportunities.
 
-*Actions List:*
+## Action Steps
 - Try something new this week, even if it’s small.
 - Reflect on a recent mistake—what did you learn?
 - Adjust your posture and see how people respond.
 - Plan ahead to reduce daily stress.
 
-*Ask Yourself:*
+## Reflection
 - What’s one action you’ve been putting off?
 - How can you turn a recent setback into a lesson?
 - Are you open to new opportunities, or are you stuck in old habits?

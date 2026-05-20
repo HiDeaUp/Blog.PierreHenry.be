@@ -51,14 +51,14 @@ So, take care of your environment, take care of yourself, and don’t be afraid 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Getting hooked on work or tasks is easy, but balance is key.
 - Good sleep and regular routines are essential for well-being.
 - Your environment shapes your motivation and success—improve it, even in small ways.
 - Reward yourself for achievements to stay motivated.
 - Disconnecting and taking breaks helps you go further in the long run.
 
-*Ask Yourself:*
+## Reflection
 - Are you letting work or other tasks take over your life?
 - What small changes can you make to your environment to feel better?
 - How can you reward yourself for your efforts?

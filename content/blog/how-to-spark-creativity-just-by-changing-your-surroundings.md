@@ -41,13 +41,13 @@ If you want to go further in your creative journey, or just want to improve your
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment has a big impact on your well-being and creativity.
 - Find places that give you peace or spark new ideas.
 - Write down your thoughts and questions to help you grow.
 - Small changes in your surroundings can lead to big changes in your life.
 
-*Ask Yourself:*
+## Reflection
 - Where do you feel most inspired or at peace?
 - What small change can you make to your environment today?
 - When was the last time a place gave you a new idea?

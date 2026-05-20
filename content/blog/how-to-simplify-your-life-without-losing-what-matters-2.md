@@ -34,15 +34,15 @@ What’s fascinating is how much lighter and more productive you feel when you l
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Focus on the essentials and remove the rest.
 - Simplification helps you move faster and achieve more.
 - Keep only what truly matters in your projects and daily life.
 
-**Actions List**
+## Action Steps
 - Identify what’s truly important in your day.
 - Eliminate tasks, tools, or steps that don’t add real value.
 - Regularly review and cut out the unnecessary.
 
-*What about you?*
+## Reflection
 *Are you holding on to things, tasks, or habits that don’t serve you? What could you simplify today to make space for what matters most?*

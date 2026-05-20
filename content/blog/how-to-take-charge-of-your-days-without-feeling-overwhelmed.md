@@ -41,20 +41,20 @@ I’ve struggled with this myself, and I know how heavy it can feel. But it’s 
 ![Worthy of Love | Instagram: @timmossholder](https://images.unsplash.com/photo-1508175749578-259ded3db070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwYWN0aW9uJTIwcGxhbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTMxMDIxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Your Days Without Feeling Overwhelmed")
 *How to Take Charge of Your Days Without Feeling Overwhelmed - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/you-are-worthy-of-love-sign-beside-tree-and-road-SR8ByN6xY3k)*
 
-*TL;DR:*
+## Key Takeaways
 - Life is a container of time—don’t let it evaporate.
 - Take charge by organizing your days around what matters most.
 - Start with the big rocks (important tasks), then fill in the rest.
 - Don’t procrastinate—do the hardest thing first.
 - Step by step, you’ll go further than you think.
 
-*Actions List:*
+## Action Steps
 - Identify your “big rocks” for tomorrow morning.
 - Make a simple plan: what will you do first, second, third?
 - Repeat your actions every day to build discipline.
 - Remind yourself: time is precious—use it wisely.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one thing I keep putting off that I could do first tomorrow?
 - Am I filling my days with sand or with rocks?
 - How can I make my path more pleasant, step by step?

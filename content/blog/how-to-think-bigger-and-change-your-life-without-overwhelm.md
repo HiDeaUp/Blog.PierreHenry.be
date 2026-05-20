@@ -32,12 +32,12 @@ When you know exactly what you want and why, every small action becomes a step t
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Set a clear, long-term vision for your life.
 - Break it down into small, daily goals.
 - Spend a little time each day working toward what matters.
 - Avoid wasting time on things that don’t add value.
 - Progress comes from consistency and clarity.
 
-**Ask Yourself**
+## Reflection
 *What is the bigger vision for your life? Are your daily actions building the future you want, or are you just filling time?*

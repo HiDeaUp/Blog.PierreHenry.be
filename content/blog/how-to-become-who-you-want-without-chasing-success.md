@@ -45,17 +45,17 @@ So, from the bottom of my heart, I wish you all the best. Go for it. I know you�
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Becoming who you want to be starts with your mindset, not chasing success.
 - Change your habits and daily actions—they add up over time.
 - Don’t just think or plan: act on your ideas.
 - Your life is yours. Make choices that move you closer to the life you want.
 
-*Actions List:*
+## Action Steps
 - Reflect on your daily habits—what small change can you make today?
 - Decide on one idea to act on this week.
 - Remember: progress is made step by step, not all at once.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can do today that my future self will thank me for?
 - Am I acting on my ideas, or just thinking about them?

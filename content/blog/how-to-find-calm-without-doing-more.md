@@ -32,7 +32,7 @@ So, do less. Do it better. And you'll feel calmer and more at peace.
 
 ---
 
-**TL;DR**
+## Key Takeaways
 - Rest and peace are essential, not optional.
 - Doing more doesn't mean doing better.
 - Set a regular bedtime and stick to it.
@@ -42,12 +42,12 @@ So, do less. Do it better. And you'll feel calmer and more at peace.
 ![Medical](https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwcmVsYXhhdGlvbiUyMHRlY2huaXF1ZXMlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0ODU5Mzc2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Doing More")
 *How to Find Calm Without Doing More - Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80) on [Unsplash](https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA)*
 
-**Actions List**
+## Action Steps
 - Choose a fixed bedtime and keep it.
 - Cut down your to-do list—prioritize what matters.
 - Stop multitasking; do one thing at a time, and do it well.
 
-**Ask Yourself**
+## Reflection
 - What can you remove from your daily routine to make space for rest?
 - Are you sacrificing sleep for tasks that don't really matter?
 - How would your life change if you focused on quality over quantity?

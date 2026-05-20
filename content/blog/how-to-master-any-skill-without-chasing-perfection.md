@@ -43,13 +43,13 @@ If you want to impress yourself and others, remember: it’s not about being per
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Repetition is the real path to quality.
 - Don’t aim for perfection from the start; focus on doing the work, again and again.
 - Small daily improvements add up to big results over time.
 - Studies show that quantity leads to quality, not the other way around.
 
-*Ask Yourself:*
+## Reflection
 - What skill could you improve by practicing a little every day?
 - Are you holding yourself back by aiming for perfection instead of progress?
 - What small step can you take today to get better than you were yesterday?

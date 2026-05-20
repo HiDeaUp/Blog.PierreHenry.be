@@ -47,14 +47,14 @@ The point is, being incredible isn’t about grand gestures or impressing the wo
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Being incredible is about you, not others.
 - Compare yourself only to your past self, not to others.
 - Create a personal manifesto to guide your life.
 - Make self-improvement a daily routine, just like showering or brushing your teeth.
 - Small, daily steps matter more than big, rare actions.
 
-*Ask Yourself:*
+## Reflection
 - What does being incredible mean to you?
 - What small habit can you add to your day to build your own “empire”?
 - Have you ever written your own manifesto or set of personal rules?

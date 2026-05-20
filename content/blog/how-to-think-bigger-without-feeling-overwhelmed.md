@@ -41,19 +41,19 @@ I truly wish you all the best as you work towards your goals and find fulfillmen
 ![Photo by Jean-Pierre Momot](https://images.unsplash.com/photo-1665354559195-e0ac45c217f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwdmlzaW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBiaWclMjB0aGlua2luZ3xlbnwwfDB8fHwxNzU2NTI2NTEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger Without Feeling Overwhelmed")
 *How to Think Bigger Without Feeling Overwhelmed - Photo by [Jean-Pierre Momot](https://unsplash.com/@superflegmon) on [Unsplash](https://unsplash.com/photos/a-green-insect-on-a-rock-ilsudP4kdfc)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - A big vision gives your life direction and meaning.
 - Break your vision into small, daily goals to make progress.
 - Clarity about what you want helps you focus your time and energy.
 - Your passion and reasons for your goals are what keep you moving forward.
 
-**Actions List**
+## Action Steps
 - Define your long-term vision as clearly as possible.
 - Set small, daily goals that move you closer to your vision.
 - Reflect each morning and evening on what you want to achieve.
 - Notice your progress and celebrate small wins.
 
-**Ask Yourself**
+## Reflection
 - *What is the big vision I have for my life?*
 - *What small step can I take today to get closer to it?*
 - *Am I spending my time on what truly matters to me?*

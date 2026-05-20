@@ -49,14 +49,14 @@ Who you spend time with matters too. The people you talk to, the content you con
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Stop comparing your life to others; focus on your own progress.
 - Take small steps toward your goals, and let the compound effect work for you.
 - Every action counts, both positive and negative.
 - Surround yourself with people and content that help you grow.
 - Be mindful of your daily habits—they shape your future.
 
-*Ask Yourself:*
+## Reflection
 - Are you measuring your progress against your own past, or someone else’s highlight reel?
 - What small step can you take today to move closer to your goal?
 - Are your daily habits helping or hurting your long-term happiness?

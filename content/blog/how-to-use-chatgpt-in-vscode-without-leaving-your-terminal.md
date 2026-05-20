@@ -90,13 +90,3 @@ const tagsArray = tagsString.split(','); // ['ai', 'fastify', 'chatgpt']
 > “Imagination is the only limit here.”
 
 > “Life is beautiful when your tools work with you, not against you.”
-
----
-🤔 [Learn more about me on Dev.to](https://dev.to/pierre)  
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years  
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)
-
----
-
-### Kicker:  
-**AI isn’t just for chat—let it write, review, and improve your codebase right inside your favorite tools.**

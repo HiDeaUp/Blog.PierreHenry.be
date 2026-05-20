@@ -55,7 +55,7 @@ Try this method for a month—21 to 28 days. Give it a real shot, then look back
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Plan your week every Sunday, listing tasks by priority.*
 - *Wake up earlier to tackle your most important tasks first.*
 - *Align weekly actions with monthly and yearly goals.*
@@ -63,7 +63,7 @@ Try this method for a month—21 to 28 days. Give it a real shot, then look back
 - *Review your progress every week and adjust as needed.*
 - *Concentrate on the 20% of tasks that bring 80% of results.*
 
-*Ask Yourself:*
+## Reflection
 - *What is my number one priority this week?*
 - *Are my daily actions moving me closer to my long-term goals?*
 - *Am I spending time on what truly matters, or just on busywork?*

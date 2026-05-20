@@ -71,13 +71,13 @@ When you feel lost, remember that your vision is your light in the distance. You
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 1. *Your vision is your long-term guide, even if it’s unclear.*
 2. *Daily goals are specific and measurable steps toward your vision.*
 3. *Consistency is the secret to making progress.*
 4. *When you feel lost, focus on your vision and set small goals to keep moving.*
 
-*Ask Yourself:*
+## Reflection
 - *What is your vision for the future?*
 - *What small goal can you set today to move closer to that vision?*
 - *How can you stay consistent, even when motivation fades?*

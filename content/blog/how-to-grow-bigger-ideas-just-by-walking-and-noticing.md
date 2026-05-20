@@ -43,17 +43,17 @@ So, next time you’re out and about, pay attention. Notice the café behind you
 ![2010 was a boon year for these butterflies in my garden. I had a dozen chrysalis in all manner of morphs at any one time. In this image you can see the new green chrysalis coloration, one that’s about ready to emerge (the clear one), and a butterfly that’s already come out. They will hang for hours and dry their wings and are, in fact, quite fragile.](https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjdXJpb3NpdHklMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODc0NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Bigger Ideas Just by Walking and Noticing")
 *How to Grow Bigger Ideas Just by Walking and Noticing - Photo by [Suzanne D. Williams](https://unsplash.com/@scw1217) on [Unsplash](https://unsplash.com/photos/three-pupas-VMKBFR6r_jg)*
 
-*TL;DR:*
+## Key Takeaways
 - Use your daily life as a chance to grow.
 - Stay curious about everything, even things that seem unrelated.
 - Make connections between what you see and what you want to achieve.
 - Take action now—don’t wait for the “perfect” moment.
 
-*Actions List:*
+## Action Steps
 - Look around you and pick one thing to learn more about today.
 - Reach out to someone who inspires you, even if it’s just to say hello.
 - Try making a new connection between two unrelated things in your life.
 
-*Ask Yourself:*
+## Reflection
 - What’s something around you right now that could inspire your next step?
 - How can you turn your curiosity into action today?

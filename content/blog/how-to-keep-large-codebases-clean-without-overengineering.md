@@ -68,11 +68,3 @@ The main thing I’ve learned? **Don’t stay where you’re not valued.** Find 
 > “Always look at your code from last year. That’s how you see how far you’ve come.”
 
 > “Don’t stay in a company where people aren’t nice to you or don’t treat you fairly. You only get one life.”
-
----
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
-
-### Kicker:  
-Stay curious, keep improving, and don’t forget—your happiness at work matters as much as your code.

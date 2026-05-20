@@ -59,7 +59,7 @@ Your job is to constantly ask yourself: how can I make my brand so inspiring tha
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 1. Treat your brand like your own child—give it your full attention and devotion.
 2. Make your brand contagious by living and breathing your mission everywhere.
 3. Interview users regularly to understand their needs and improve your service.
@@ -67,7 +67,7 @@ Your job is to constantly ask yourself: how can I make my brand so inspiring tha
 5. Create a manifesto that sets your company apart.
 6. Aim for a brand so strong that users become your biggest defenders.
 
-*Ask Yourself:*
+## Reflection
 - Are you truly living your brand every day?
 - What makes your brand unique and contagious?
 - How can you make your users feel like your brand is theirs too?

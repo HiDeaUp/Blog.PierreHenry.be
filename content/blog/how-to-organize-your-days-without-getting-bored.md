@@ -66,21 +66,21 @@ The best time to take action is today. Don’t put off what you want to do. Your
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Treat your days like a system—use templates and routines that you can adapt.
 - Focus on what matters today, not tomorrow.
 - Small rewards and breaks help keep you motivated.
 - Discipline isn’t about restriction; it’s about creating more freedom.
 - Keep adapting your system as your life and goals change.
 
-*Actions List:*
+## Action Steps
 - Identify the three most important things to do today.
 - Create or update a simple daily template for your tasks.
 - Schedule small breaks and rewards.
 - Try a breathing exercise during your next break.
 - Reflect regularly on what’s working and what isn’t.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you can systematize in your day right now?
 - How can you make your daily routine more enjoyable?
 - Are you putting off something important that you could start today?

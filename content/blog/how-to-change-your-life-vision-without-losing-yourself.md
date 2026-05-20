@@ -45,14 +45,14 @@ If you want to go even further in improving your daily life, I recommend keeping
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - A clear life vision shapes your daily decisions and long-term happiness.
 - Balance your professional and personal goals for a fulfilling life.
 - Identify what truly brings you joy and make it a bigger part of your routine.
 - Time is more valuable than money—spend it wisely.
 - Use a journal to clarify your vision and track your growth.
 
-*Ask Yourself:*
+## Reflection
 - What does your ideal life look like in five or ten years?
 - Are your daily actions moving you closer to that vision?
 - What small changes can you make today to enjoy your life more?

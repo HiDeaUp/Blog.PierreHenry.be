@@ -63,14 +63,14 @@ Start today. Don’t give yourself exceptions, because one exception leads to an
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Consistency and daily habits are powerful tools for progress.
 - Deep work in the morning leads to better results in less time.
 - Reduce decision fatigue by simplifying your routine.
 - Focus your energy on what matters most.
 - Don’t wait—start building your habits today.
 
-*Ask Yourself:*
+## Reflection
 - What’s one habit you can start doing every morning?
 - How can you reduce the number of small decisions you make each day?
 - Are you giving yourself enough time for deep, focused work?

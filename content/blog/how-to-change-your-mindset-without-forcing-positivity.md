@@ -43,7 +43,7 @@ Changing your mindset isn’t about ignoring problems. It’s about seeing them 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Your perception shapes your reality and your reactions.*
 - *Small mindset shifts can remove mental blocks and help you move forward.*
 - *Focus on what really matters instead of getting stuck on perfection or old habits.*

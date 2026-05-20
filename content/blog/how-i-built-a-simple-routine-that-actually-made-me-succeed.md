@@ -67,7 +67,7 @@ The best time to act is always now. Don’t put off what you know you need to do
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 - Stabilize your sleep schedule—energy is everything.
 - Identify the one task each day that will have the biggest impact.

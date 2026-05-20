@@ -34,7 +34,7 @@ These small rituals are not just about relaxation—they are about creating a sp
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Make time for yourself, even if it’s just a few minutes.
 - Practice activities that help you release negative energy, like sports or meditation.
 - Create peaceful rituals, such as reading or writing by the fire, to end your day calmly.
@@ -42,11 +42,11 @@ These small rituals are not just about relaxation—they are about creating a sp
 ![Photo by Markus Winkler](https://images.unsplash.com/photo-1695548487486-ef0f2b059762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjB3ZWxsLWJlaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY2MzU0MjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good in Your Skin Without Changing Yourself")
 *How to Feel Good in Your Skin Without Changing Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-paper-that-reads-parental-self-care-dK_TmVvSyHU)*
 
-*Actions List:*
+## Action Steps
 - Set aside a daily moment just for you.
 - Try a new hobby or revisit an old one that brings you joy.
 - Create a cozy space at home for relaxation.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly took a moment for yourself?
 - What simple ritual could you add to your day to feel more at peace?

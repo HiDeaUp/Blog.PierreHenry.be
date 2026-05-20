@@ -45,17 +45,17 @@ One thing at a time. That’s the basic rule. It will change your life, and it w
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Focus on one task at a time—don’t let yourself get scattered.
 - Finish what you start before moving on.
 - Turn off notifications and resist the urge to multitask.
 - This simple discipline will help you accomplish more and feel less overwhelmed.
 
-*Actions List:*
+## Action Steps
 - Next time you feel pulled in many directions, pause and ask: What was I doing?
 - Commit to finishing your current task before starting another.
 - Try disabling notifications for a day and notice the difference.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly focused on just one thing?
 - What could you achieve if you stopped multitasking for a week?

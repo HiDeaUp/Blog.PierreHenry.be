@@ -37,13 +37,13 @@ The real secret? You don’t have to settle for a life that feels “just okay.�
 ![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBiZWF1dGlmdWwlMjBsaWZlJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY1MTg2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Measure a Beautiful Life Without Chasing Success")
 *How to Measure a Beautiful Life Without Chasing Success - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Happiness is the real measure of a beautiful life.
 - If you’re not fulfilled, you’re losing precious days.
 - Take charge, question your habits, and build a life you love.
 - You deserve a life that feels 100% yours.
 
-*Ask Yourself:*
+## Reflection
 - Are you truly present in your own life?
 - What would your days look like if you loved every moment?
 - What’s one small change you can make today to move closer to your beautiful life?

@@ -50,19 +50,19 @@ If you apply this approach—prioritizing what matters, taking real breaks, and 
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Take intentional breaks (“slowdowns”) to clear your mind and reset your focus.
 - Use a productivity matrix to sort tasks by urgency and importance.
 - Don’t let urgent but unimportant tasks take over your day.
 - Real progress comes from focusing on what matters, not just what’s urgent.
 
-*Actions List:*
+## Action Steps
 - Schedule at least one real break in your day.
 - List your tasks and sort them using the urgent/important matrix.
 - Say no to at least one unimportant urgent task this week.
 - Notice how you feel after a proper slowdown.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you took a real break, just for yourself?
 - Are you spending your days on what’s urgent, or what’s truly important?
 - What could change if you made slowdowns a regular part of your routine?

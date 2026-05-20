@@ -37,10 +37,10 @@ Your environment is not just a backdrop. It's a source of energy, comfort, and i
 ![Settee XiHu](https://images.unsplash.com/photo-1626261471733-f0980eada71b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwbGVhc2FudCUyMGVudmlyb25tZW50JTIwd2VsbGJlaW5nJTIwbW9vZHxlbnwwfDB8fHwxNzU2NTI1NDczfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood by Curating Your Space")
 *How to Boost Your Mood by Curating Your Space - Photo by [Lin Lone](https://unsplash.com/@linlone) on [Unsplash](https://unsplash.com/photos/brown-wooden-bench-near-body-of-water-during-daytime-KWKoKF3s6Xc)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Surround yourself with things you love to feel better every day.
 - Notice what environments make you happy and bring those elements into your home.
 - Small changes in your space can have a big impact on your mood and energy.
 
-**Ask Yourself**
+## Reflection
 *What little things could you add or change in your space to make it feel more like you? What places inspire you, and how can you bring that feeling home?*

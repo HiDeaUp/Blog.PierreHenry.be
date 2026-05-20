@@ -144,11 +144,3 @@ If you have questions or suggestions, let me know! I’m always happy to hear fe
 > “Minimum effort for maximum impact—that’s the goal of a good MVP. But with MCP, it’s all about making your API machine-consumable and easy to integrate.”
 
 > “If you want to build something useful, start small, keep it clean, and iterate fast.”
-
----
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
-
-### Kicker:  
-MCP servers are surprisingly easy to set up—give it a try and see how much data you can boost!

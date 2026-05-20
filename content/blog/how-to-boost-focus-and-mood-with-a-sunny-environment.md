@@ -43,14 +43,14 @@ A string of happy days adds up to a happy life. That’s the real goal, and it�
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment has a huge impact on your mood and productivity.
 - You don’t need to spend a lot; focus on arranging your space to feel cozy and welcoming.
 - Nature and a good neighborhood can boost your creativity and energy.
 - Set the right temperature and lighting at home for better rest and well-being.
 - Balance your days with different activities for a happier life.
 
-*Ask Yourself:*
+## Reflection
 - Does your current environment help you feel good and get things done?
 - What small changes could you make to your space to feel more at home?
 - How can you add more nature or balance to your daily routine?

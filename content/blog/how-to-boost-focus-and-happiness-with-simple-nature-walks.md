@@ -45,14 +45,14 @@ This exercise is simple, but it’s incredibly important for your personal growt
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Use walks in nature as a tool for mental clarity and happiness.
 - Focus on the present moment and observe your surroundings.
 - Let nature help you break negative cycles and boost your energy.
 - Treat every walk as a chance to spark creativity and new ideas.
 - Concentration and mindfulness during walks can improve your productivity.
 
-*Ask Yourself:*
+## Reflection
 - How often do you truly notice your surroundings during a walk?
 - What small changes can you make to turn your next walk into a moment of mindfulness?
 - How could regular walks in nature help you with your current goals or challenges?

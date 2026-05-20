@@ -37,12 +37,12 @@ Learning from other cultures is not just about copying what you see. It is about
 ![Photo by Global Residence Index](https://images.unsplash.com/photo-1655722724170-b3ab67a48791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjdWx0dXJhbCUyMGV4Y2hhbmdlJTIwcGVyc29uYWwlMjBncm93dGglMjB0cmF2ZWx8ZW58MHwwfHx8MTc1NjYzMzY1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How Experiencing Other Cultures Boosts Creativity Without Leaving Home")
 *How Experiencing Other Cultures Boosts Creativity Without Leaving Home - Photo by [Global Residence Index](https://unsplash.com/@globalresidenceindex) on [Unsplash](https://unsplash.com/photos/map-9l0N1zyo_sA)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Pay attention to small cultural differences when you travel.
 - Stay curious and open to new ways of doing things.
 - Use what you learn to spark creativity and personal growth.
 - Ask yourself: What can I learn from others that I can use in my own life?
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you learned something valuable from another culture?
 - What habits or ideas from other countries could help you feel better or progress faster?

@@ -47,19 +47,19 @@ Ask yourself: what can I do today to make my day brighter, to boost my happiness
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Life is meant to be simple and enjoyable.
 - Every moment is unique and will never come again.
 - Focus on the present and appreciate the small things.
 - Your perception shapes your experience.
 - Make each day count by doing something that brings you joy.
 
-*Actions List:*
+## Action Steps
 - Notice the little pleasures around you today.
 - Try something new, even if it’s small.
 - Ask yourself each morning: what can I do today to make my life better?
 
-*Ask Yourself:*
+## Reflection
 - Am I truly present in my daily life?
 - What small joys am I overlooking right now?
 - How can I make today a beautiful day?

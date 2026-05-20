@@ -34,13 +34,13 @@ Imagine your surroundings as the foundation for your personal growth. With the r
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment shapes your mindset and growth.
 - Avoid toxic influences and seek out positive people and places.
 - Life is short—make every week count.
 - Treat your surroundings as fertile soil for your happiness and success.
 
-*Ask Yourself:*
+## Reflection
 - Are you in an environment that helps you grow?
 - Who are the five people you spend the most time with?
 - What small change can you make today to improve your surroundings?

@@ -37,14 +37,14 @@ If you keep questioning yourself in this gentle way, you’ll see everything shi
 ![Photo by Baron](https://images.unsplash.com/photo-1613501055693-221fdd15ee47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBkYWlseSUyMGV2YWx1YXRpb24lMjBldmVuaW5nJTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NTIxMDgyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Evening Walks Boost Happiness Without Extra Effort")
 *How Evening Walks Boost Happiness Without Extra Effort - Photo by [Baron](https://unsplash.com/@barons_world_of_classics) on [Unsplash](https://unsplash.com/photos/black-car-side-mirror-with-a-view-of-a-gray-field-under-blue-sky-during-daytime-JeoNEXidZoQ)*
 
-*Key Takeaways:*
+## Key Takeaways
 - Take a few minutes each evening to reflect on your day.
 - Rate your happiness or fulfillment and think about how to improve it.
 - Write down what worked and what didn’t, then review it the next morning.
 - Make small, steady changes to your routine.
 - Over time, these steps will help you build the life you want.
 
-*Ask Yourself:*
+## Reflection
 - How did I feel about today?
 - What could I do differently tomorrow?
 - Am I moving closer to the life I want?

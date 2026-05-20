@@ -51,7 +51,7 @@ So, enjoy your life. Savor the small moments. I believe in you—believe in your
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - The best gift you can give yourself is peace and happiness—enjoying the present and living with dignity.
 - Don’t wait for the perfect moment; start living well now.
 - Stand out from the crowd by finding smarter ways to do things.
@@ -59,7 +59,7 @@ So, enjoy your life. Savor the small moments. I believe in you—believe in your
 - Self-knowledge and letting go of attachments are keys to happiness.
 - Review and adjust your days to get closer to your ideal life.
 
-*Ask Yourself:*
+## Reflection
 - What small pleasure can you give yourself today?
 - Are you living for yourself, or for others’ expectations?
 - What’s one thing you can do differently to stand out and live better?

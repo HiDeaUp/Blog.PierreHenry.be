@@ -41,16 +41,16 @@ The best moment to take action is always today. Don’t put off what you can do 
 ![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNzk1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action on Your Dreams Without Waiting Forever")
 *How to Take Action on Your Dreams Without Waiting Forever - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Comfort can keep you stuck, even when you want change.
 - Only by acting can you know what truly suits you.
 - Trying and failing is better than never knowing.
 - The best time to act is now.
 
-**Actions List**
+## Action Steps
 - Identify one thing you want to change or try.
 - Take a small step toward it today.
 - Reflect on what you learn from the experience.
 
-*What about you?*
+## Reflection
 *What’s one thing you’ve always wanted to do, but haven’t tried yet? What’s stopping you from taking the first step today?*

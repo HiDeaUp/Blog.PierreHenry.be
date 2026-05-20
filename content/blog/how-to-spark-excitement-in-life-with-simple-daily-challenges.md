@@ -35,15 +35,15 @@ These small, personal challenges are like little sparks that keep your days live
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Find small challenges in your daily life that are based on your passions.
 - Push yourself to improve in things you already enjoy.
 - These mini-challenges make your days more exciting and fulfilling.
 
-**Actions List**
+## Action Steps
 - Identify one thing you love doing.
 - Set a small, clear challenge related to it.
 - Track your progress and celebrate your wins.
 
-*What about you?*
+## Reflection
 *What small challenge can you set for yourself today? How will you make your days more sparkling?*

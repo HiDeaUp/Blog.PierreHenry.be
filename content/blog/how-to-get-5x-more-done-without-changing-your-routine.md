@@ -45,13 +45,13 @@ Of course, there will always be some distractions—people passing by, a bit of 
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 - Changing your environment can boost your productivity and happiness.
 - Public spaces offer a unique blend of focus and comfort.
 - Smart lighting and music can help you create the right mood at home.
 - The goal isn’t to work more, but to work smarter and with more energy.
 
-### **Actions List**
+## Action Steps
 - Try working in a new place this week—a café, park, or library.
 - Experiment with smart lighting or playlists to set the mood at home.
 - Notice how your energy and focus change in different environments.

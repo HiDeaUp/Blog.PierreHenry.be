@@ -32,13 +32,13 @@ There are times, though, when listening to others is wise. If someone has real e
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Instinct is built from experience and knowledge.
 - The world changes, so keep learning and updating your skills.
 - Trust your own decisions and take responsibility for them.
 - Listen to others only when they truly understand your situation.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you trusted your gut and it paid off?
 - Are you making decisions for yourself, or for others?
 - Who do you trust enough to take advice from?

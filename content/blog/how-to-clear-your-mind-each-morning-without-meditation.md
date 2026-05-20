@@ -45,5 +45,5 @@ I’m right here with you, cheering you on. Life moves quickly, and it’s too s
 
 ---
 
-*What about you?*  
+## Reflection
 *How do you start your mornings? Are you ready to try a little brain gymnastics and see the difference it makes?*

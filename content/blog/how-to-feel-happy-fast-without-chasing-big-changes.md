@@ -39,13 +39,13 @@ So, what I wish for you is simple: start now. Look for what you can do to feel b
 ![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBwb3NpdGl2ZSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NTQxOTQxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happy Fast Without Chasing Big Changes")
 *How to Feel Happy Fast Without Chasing Big Changes - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Happiness makes everything easier and brighter.
 - When you’re happy, you’re more open to new opportunities and trust others more.
 - Most people are kind—don’t let fear or unhappiness close you off.
 - Start today: do one thing that makes you feel good.
 
-*Ask Yourself:*
+## Reflection
 - What small action can you take right now to feel a bit happier?
 - Are you letting a mental fog keep you from enjoying the present?
 - How would your life change if you trusted others a little more?

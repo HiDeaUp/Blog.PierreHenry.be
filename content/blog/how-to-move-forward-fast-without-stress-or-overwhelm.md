@@ -45,20 +45,20 @@ This changed everything for me. I’m sure it will change everything for you, to
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Have a clear, defined plan for your goal.
 - Visualize your success and focus only on that.
 - Don’t juggle too many projects—choose one and give it your all.
 - Change your environment to boost focus.
 - Remove distractions and decision fatigue by sticking to one task at a time.
 
-*Actions List:*
+## Action Steps
 - Write down your main goal for the next 2-3 months.
 - Cut out extra projects and distractions.
 - Set up a focused work session in a new environment.
 - Use tools (like noise-canceling headphones) to help you concentrate.
 
-*Ask Yourself:*
+## Reflection
 - What is the one thing you want to achieve in the next three months?
 - Are you spreading yourself too thin with too many projects?
 - How can you change your environment to help you focus?

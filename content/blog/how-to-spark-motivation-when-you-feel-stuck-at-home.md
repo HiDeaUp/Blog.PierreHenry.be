@@ -39,12 +39,12 @@ Motivation isn’t always about waiting for inspiration to strike. Sometimes, it
 ![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2ODUyNTEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Motivation When You Feel Stuck at Home")
 *How to Spark Motivation When You Feel Stuck at Home - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Physical activity, even a short jog, can boost your energy and motivation.*
 - *Changing your environment helps separate work from relaxation and increases focus.*
 - *Listening to inspiring people can give you the push you need to get started.*
 
-*Ask Yourself:*
+## Reflection
 - *What small action could you take right now to spark your motivation?*
 - *Is there a place outside your home where you feel more productive?*
 - *Who inspires you to take action when you feel stuck?*

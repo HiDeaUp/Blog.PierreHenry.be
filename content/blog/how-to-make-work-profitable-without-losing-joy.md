@@ -41,14 +41,14 @@ I know it's not always simple, but I'm rooting for you. If you want to go even f
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Enjoying your work makes every day better.
 - Change your environment or routine to make tasks more pleasant.
 - Avoid saying "I'll try"—commit to doing.
 - Break tasks into smaller parts and spread them throughout the day.
 - Use your imagination to find new ways to work.
 
-*Ask Yourself:*
+## Reflection
 - What small change could make your work more enjoyable today?
 - Are you committing to your goals, or just "trying"?
 - How can you shift your perspective to see your tasks in a new light?

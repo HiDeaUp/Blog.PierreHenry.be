@@ -47,19 +47,19 @@ We all deserve a life we enjoy. The journey is what counts. If the path is beaut
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your environment and the people around you have a huge impact on your motivation and happiness.
 - Find places and routines that make you feel good and help you do your best work.
 - Don’t wait for the perfect moment—take action now, even if it’s a small step.
 - Time is limited. Spend it on what truly matters to you.
 
-*Actions List:*
+## Action Steps
 - Identify what kind of environment boosts your mood and productivity.
 - Try working from new places—cafés, libraries, or even hotel lobbies.
 - Surround yourself with people who inspire and support you.
 - Start today, even if it’s just a small change.
 
-*Ask Yourself:*
+## Reflection
 - What small change can I make today to feel more energized and fulfilled?
 - Am I spending my time on things that truly matter to me?
 - Who or what in my environment is lifting me up—or holding me back?

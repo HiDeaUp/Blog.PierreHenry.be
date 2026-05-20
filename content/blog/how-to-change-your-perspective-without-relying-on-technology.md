@@ -51,21 +51,21 @@ People who stand out are those who know their field well and innovate in it. Tha
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - The way you see things shapes your reactions and your future.
 - Invest in yourself—don’t just rely on technology.
 - Use tools to grow, not to become dependent.
 - Organize your day for balance and meaning, not just busyness.
 - Focus on what really matters, not just doing more.
 
-*Actions List:*
+## Action Steps
 - Ask yourself how you can use your imagination today.
 - Learn something new that challenges you.
 - Use technology as a tool, not a crutch.
 - Structure your day for both productivity and happiness.
 - Choose to act, not just react.
 
-*Ask Yourself:*
+## Reflection
 - Are you the actor in your life, or just following the crowd?
 - What’s one thing you can do today to move from passive to active?
 - How can you use your unique perspective to stand out?

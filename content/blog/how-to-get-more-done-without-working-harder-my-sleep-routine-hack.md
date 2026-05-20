@@ -44,7 +44,7 @@ I talk about this in my book, *Le succès n’est pas loin* (“Success Is Not F
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 
 ![If you feel the desire to write a book, what would it be about?](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjB3b3JrJTIwc21hcnRlcnxlbnwwfDB8fHwxNzQ5Mzc5NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Working Harder: My Sleep Routine Hack")
 *How to Get More Done Without Working Harder: My Sleep Routine Hack - Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-npxXWgQ33ZQ)*

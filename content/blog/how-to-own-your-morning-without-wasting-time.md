@@ -43,17 +43,17 @@ Remember, the best time to take action is today. Not tomorrow, not later—right
 ![Hopeful Horizons](https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzMjU0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Own Your Morning Without Wasting Time")
 *How to Own Your Morning Without Wasting Time - Photo by [Dawid Zawiła](https://unsplash.com/@davealmine) on [Unsplash](https://unsplash.com/photos/trees-under-cloudy-sky-during-sunset--G3rw6Y02D0)*
 
-*TL;DR:*
+## Key Takeaways
 - Use your mornings for yourself before giving your time to others.
 - Even ten minutes a day adds up to real progress.
 - Choose one thing you want to learn or do, and start today.
 - Progress brings pride and new opportunities.
 
-*Actions List:*
+## Action Steps
 - Move your body or play a motivating song in the morning.
 - Pick your top two or three tasks and do them first.
 - Invest a few minutes each day in learning or creating something for yourself.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can start today that my future self will thank me for?
 - How can I use my mornings to build something meaningful for myself?

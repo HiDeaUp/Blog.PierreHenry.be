@@ -69,21 +69,21 @@ This is the message I wish I’d heard ten years ago. Don’t wait for the perfe
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Stabilize your sleep schedule for more energy.
 - Focus on the one task that will make the biggest difference.
 - Do your most important work when your energy is highest.
 - Treat your time like it’s valuable—because it is.
 - Fill your day with “big rocks,” not just sand.
 
-*Actions List:*
+## Action Steps
 - Set a regular bedtime and wake-up time.
 - Review your to-do list and pick the one task that matters most.
 - Do that task first, when you have the most energy.
 - Delegate or delay less important tasks.
 - Avoid screens and emails before bed.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one thing you could do today that would have the biggest impact on your life?
 - Are you filling your days with sand or with rocks?
 - When do you have the most energy, and how are you using it?

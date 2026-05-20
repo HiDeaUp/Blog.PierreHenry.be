@@ -43,11 +43,11 @@ I sometimes joke that maybe I have a bit of amnesia myself, forgetting things he
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Invent a new identity for yourself as if you’ve already succeeded.*
 - *Act as if you’re already the expert or professional you want to become.*
 - *This mindset shift helps break down mental barriers and limiting beliefs.*
 
-*Ask Yourself:*
+## Reflection
 - *What would you do differently if you believed you were already the person you want to become?*
 - *Which mental barriers are holding you back right now?*

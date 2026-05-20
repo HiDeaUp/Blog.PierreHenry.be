@@ -41,16 +41,16 @@ Taking care of people “aux petits oignons,” as we say in French, means looki
 ![Photo by Yuriy Vertikov](https://images.unsplash.com/photo-1747589416327-e4286002a55b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxraW5kbmVzcyUyMHNtYWxsJTIwZ2VzdHVyZXMlMjBodW1hbiUyMGludGVyYWN0aW9ufGVufDB8MHx8fDE3NTU0MjIyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Kinder Without Changing Your Whole Routine")
 *How to Be Kinder Without Changing Your Whole Routine - Photo by [Yuriy Vertikov](https://unsplash.com/@noa69) on [Unsplash](https://unsplash.com/photos/squirrel-eats-a-nut-offered-by-a-hand-XtFw31yQyJY)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Small gestures and attention to detail make all the difference.
 - Kindness creates a mirror effect—what you give, you often receive.
 - Treat everyone with care, as if they were family.
 - Even a few seconds of genuine attention can change someone’s day.
 
-**Actions List**
+## Action Steps
 - Notice the little things: offer help, a smile, or a kind word.
 - Always aim for quality in your interactions, no matter the situation.
 - Make it a habit to ask about someone’s day or offer a thoughtful gesture.
 
-*What about you?*
+## Reflection
 *How can you add a touch of kindness to your daily interactions? When was the last time a small gesture made your day?*

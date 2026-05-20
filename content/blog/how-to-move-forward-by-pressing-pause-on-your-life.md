@@ -45,14 +45,14 @@ I want you to succeed because it is worth it. Life is short, so go for it. Take 
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Take time to pause and reflect on what you truly want.
 - Do not let others’ expectations decide your path.
 - Experience often matters more than titles or degrees.
 - Taking breaks and changing your environment can help you see things more clearly.
 - Life is too short to waste on choices that do not excite you.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you paused to think about your real goals?
 - Are you following your own desires, or someone else’s expectations?
 - What small step can you take today to move closer to the life you want?

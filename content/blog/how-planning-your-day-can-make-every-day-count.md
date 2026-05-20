@@ -36,7 +36,7 @@ If you’re motivated, you’ll see real change. Everything you need to start is
 
 ---
 
-### TL;DR
+## Key Takeaways
 - Planning your routines makes a huge difference.
 - Even 10-15 minutes daily can lead to big progress over time.
 - Live intentionally by knowing what you want to achieve in the long run.

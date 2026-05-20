@@ -49,20 +49,20 @@ It takes practice. You won’t get rid of your mental load overnight. But by bei
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Mental pollution builds up from daily stress, frustration, and overthinking.
 - Simple activities like walking, exercising, or spending time with pets can help clear your mind.
 - Letting go of the mental load allows you to see life’s beauty and regain creativity.
 - Practice is key—mental clarity comes with time and awareness.
 
-*Actions List:*
+## Action Steps
 - Take a walk or do light exercise daily.
 - Spend time with a pet or in nature.
 - Try meditation or yoga to relax your mind.
 - Avoid checking messages or emails during your downtime.
 - Notice when mental fog appears and gently let it go.
 
-*Ask Yourself:*
+## Reflection
 - What small habit can I start today to clear my mind?
 - When was the last time I truly relaxed and let go of my mental load?
 - How does mental pollution affect my creativity and mood?

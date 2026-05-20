@@ -34,12 +34,12 @@ By sticking to your daily routine, you start to move closer to your vision and y
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - A clear vision for the medium term helps you decide what to do each day.
 - Consistency is more important than intensity—never break the chain of your habits.
 - Daily actions, even small ones, keep you motivated and moving toward your dream.
 
-*Ask Yourself:*
+## Reflection
 - What is the one thing I can do today that brings me closer to my vision?
 - Am I letting exceptions break my chain of progress?
 - How can I make my daily actions non-negotiable?

@@ -47,20 +47,20 @@ The fewer decisions you make, the better your decisions will be. When your brain
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Hesitation drains your energy and wastes time.
 - The more decisions you make, the lower the quality of your choices.
 - Simplify your life by reducing daily decisions (like what to wear or eat).
 - Give yourself a short time limit to decide, or set a default option.
 - If you’re unsure, write it down and revisit after a week—most urges fade.
 
-*Actions List:*
+## Action Steps
 - Limit your daily choices where possible.
 - Use a notebook or app to “cool off” impulsive decisions.
 - Set a five-minute timer for non-critical decisions.
 - Notice when you’re stuck in doubt and break the cycle by acting.
 
-*Ask Yourself:*
+## Reflection
 - How many small decisions are wearing you out each day?
 - What choices can you automate or eliminate?
 - Are you letting doubt hold you back from moving forward?

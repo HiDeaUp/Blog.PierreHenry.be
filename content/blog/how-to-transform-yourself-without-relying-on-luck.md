@@ -39,14 +39,14 @@ Transformation is about small, consistent steps. It’s about what you do every 
 ![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU2NjQxODA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Yourself Without Relying on Luck")
 *How to Transform Yourself Without Relying on Luck - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
 
-*Key Takeaways:*
+## Key Takeaways
 - Build daily habits that support your goals.
 - Never break the chain—consistency is everything.
 - Feed your body and mind with quality input.
 - Learn every day and apply what you learn.
 - Surround yourself with people and content that inspire you.
 
-*Ask Yourself:*
+## Reflection
 - What small habit can you start today that will move you closer to your goal?
 - Are you protecting your routine, or letting exceptions creep in?
 - What are you feeding your mind and body right now?

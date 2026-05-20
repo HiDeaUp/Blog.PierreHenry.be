@@ -45,18 +45,18 @@ So, as you move forward, remember: it’s not about how you start, but how you k
 ![Photo by Kobe Kian Clata](https://images.unsplash.com/photo-1734668486909-4637ecd66408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBzdHJlbmd0aCUyMGRpc2NpcGxpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU2MDI2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay on Track When Motivation Disappears")
 *How to Stay on Track When Motivation Disappears - Photo by [Kobe Kian Clata](https://unsplash.com/@kobe007) on [Unsplash](https://unsplash.com/photos/a-couple-of-men-working-out-in-a-gym-dMorWMdiZsk)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Motivation fades, but routines last.
 - Small daily actions add up to big results over time.
 - Discipline and regularity are more important than bursts of energy.
 - Focus on finishing, not just starting.
 
-*Actions List:*
+## Action Steps
 - Set a simple daily routine for your main goal.
 - Track your progress, even if it’s just ten minutes a day.
 - When motivation drops, rely on your habits to keep you moving.
 
-*Ask Yourself:*
+## Reflection
 - What small step can I take today toward my goal?
 - Am I relying too much on motivation instead of building habits?
 - How can I make my routine easier to stick to, even on tough days?

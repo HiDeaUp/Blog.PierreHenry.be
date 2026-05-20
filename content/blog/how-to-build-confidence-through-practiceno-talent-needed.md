@@ -39,13 +39,13 @@ Don’t give up. Don’t burn your bridges and walk away just because it feels s
 ![Photo by Nando García](https://images.unsplash.com/photo-1618676156034-df5979d43c7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmFjdGljZSUyMHByb2dyZXNzJTIwbWFzdGVyeXxlbnwwfDB8fHwxNzU2NjMyNzc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Confidence Through Practice—No Talent Needed")
 *How to Build Confidence Through Practice—No Talent Needed - Photo by [Nando García](https://unsplash.com/@masklim) on [Unsplash](https://unsplash.com/photos/man-in-white-dress-shirt-and-black-pants-sitting-on-black-leather-armchair-qBJZUtmkPJ4)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Practice is the real path to progress and confidence.
 - Regular, daily effort—even just ten minutes—adds up quickly.
 - Don’t pressure yourself to be perfect; focus on steady improvement.
 - Others will notice your growth, and your confidence will follow.
 
-*Ask Yourself:*
+## Reflection
 - What skill or habit could you improve with just ten minutes a day?
 - Where could you be in a month if you started today?
 - What’s stopping you from taking that first small step?

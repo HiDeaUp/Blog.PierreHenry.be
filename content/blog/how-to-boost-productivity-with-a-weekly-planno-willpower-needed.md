@@ -33,18 +33,18 @@ With these two lists—what you want to do, and what you want to stop doing—yo
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Set a clear, specific goal for your week.
 - Break your goal into daily habits you can repeat.
 - Make a list of habits you want to stop.
 - Stick to your plan for one week and see the difference.
 
-*Actions List:*
+## Action Steps
 - Tonight, write down your weekly goal.
 - List the daily actions that will get you there.
 - Identify and avoid habits that hold you back.
 
-*Ask Yourself:*
+## Reflection
 - What is one thing you want to achieve by next Sunday?
 - Which habits help you, and which ones hurt your progress?
 - Are you ready to commit to your best week yet?

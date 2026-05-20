@@ -48,5 +48,5 @@ That’s the mindset that makes you unstoppable. It’s about always looking for
 - Look for one thing you can improve, no matter how small.
 - When you face a setback, see it as a chance to grow.
 
-### *What About You?*
+## Reflection
 *Are you using your past as an excuse, or as a springboard? What’s one challenge you can turn into your greatest asset?*

@@ -41,7 +41,7 @@ For me, these are not just breaks. They are essential. They help me step back, r
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 - Make time every day for small moments just for you.
 - Enjoy simple pleasures: a hot drink, a walk, healthy food, or just quiet time.

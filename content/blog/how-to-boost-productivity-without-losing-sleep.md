@@ -40,16 +40,16 @@ If you want to feel recharged and ready for anything, make sleep a priority. You
 ![Medical](https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbGVlcCUyMGhlYWx0aCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzQ5NDA3MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity Without Losing Sleep")
 *How to Boost Productivity Without Losing Sleep - Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80) on [Unsplash](https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA)*
 
-*TL;DR:*
+## Key Takeaways
 - Skipping sleep to do more actually makes you less productive.
 - Going to bed and waking up at the same time is key.
 - Everyone’s sleep needs are different—listen to your body.
 
-*Actions List:*
+## Action Steps
 - Try setting a regular bedtime and wake-up time.
 - Notice how your mood and focus change with better sleep.
 - Reflect on your own sleep habits: Are you helping or hurting yourself?
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you felt truly rested?
 - Are you sacrificing sleep for things that could wait until tomorrow?

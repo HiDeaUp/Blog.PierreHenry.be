@@ -75,7 +75,7 @@ Sometimes, we’re blind to what’s possible. We tell ourselves life is hard, o
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Believe in your decisions and projects—confidence changes everything.
 - Focus on what you want, not on what you want to avoid.
 - Doubt is your enemy; replace it with positive affirmations and self-talk.
@@ -83,14 +83,14 @@ Sometimes, we’re blind to what’s possible. We tell ourselves life is hard, o
 - Life is simpler than it seems; most problems are small in the grand scheme.
 - Your only real limit is the one you set in your own mind.
 
-*Actions List:*
+## Action Steps
 - Start each day by identifying your top priority.
 - End each week with a quick review: Are you happy with your progress?
 - Replace negative self-talk with positive affirmations.
 - Create a vision board or write down your personal mottos.
 - Remember: Your dreams are worth chasing—don’t let doubt win.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one thing I can do today to move closer to my goal?
 - Am I letting doubt or negative self-talk hold me back?
 - What would my life look like if I truly believed in myself?

@@ -43,19 +43,19 @@ Life is a path. If the path is pleasant, you don’t even worry about where it l
 ![Photo by Jeremy Beck](https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNoYW5nZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc0OTMwMTIyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Your Life Without Waiting for Change")
 *How to Take Charge of Your Life Without Waiting for Change - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)*
 
-*TL;DR:*
+## Key Takeaways
 - Life is a container of time—don’t let it evaporate.
 - Start your day with the most important tasks (“big rocks”).
 - Discipline and regularity are your best friends.
 - Don’t procrastinate—do the hard thing first.
 - The goal is simple: be happy, starting now.
 
-*Actions List:*
+## Action Steps
 - Identify your “big rocks” for tomorrow morning.
 - Set a simple routine and stick to it.
 - Remind yourself daily: time is precious.
 
-*Ask Yourself:*
+## Reflection
 - What’s the “frog” you keep avoiding?
 - Are you filling your days with sand or rocks?
 - What’s one thing you can do today to take charge of your life?

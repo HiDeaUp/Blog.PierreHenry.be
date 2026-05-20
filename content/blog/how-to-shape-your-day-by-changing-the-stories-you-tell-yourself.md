@@ -49,13 +49,13 @@ If you live near the beach, maybe you want to swim every morning. Would that boo
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Imagine your perfect day, from morning to night.
 - Write down each step of this dream day.
 - Live it out, even just for one day.
 - Reflect on how it made you feel and what you learned about yourself.
 
-*Ask Yourself:*
+## Reflection
 - What would my ideal day look like if I could design it from scratch?
 - Which parts of my current routine truly make me happy?
 - What small changes can I make to bring more joy into my daily life?

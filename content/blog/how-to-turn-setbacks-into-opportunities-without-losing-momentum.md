@@ -55,7 +55,7 @@ Success is also about taking care of your body. Good sleep, healthy food, and a 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - See every setback as a lesson or a new chance.
 - Learn from everyone, no matter who they are.
 - Set goals that are bigger than you think possible.
@@ -63,14 +63,14 @@ Success is also about taking care of your body. Good sleep, healthy food, and a 
 - Look for hidden ways to grow or earn in your current work.
 - Take care of your health and routines.
 
-*Actions List:*
+## Action Steps
 - Next time something goes wrong, ask yourself what you can learn.
 - Reach out to someone new this week and see what you can learn from them.
 - Write down one big goal that scares you a little.
 - List three things you can improve in your daily routine.
 - Think of one new way to use your skills or business.
 
-*Ask Yourself:*
+## Reflection
 - What’s one setback I can turn into an opportunity today?
 - Who around me could teach me something new?
 - Am I setting my goals high enough?

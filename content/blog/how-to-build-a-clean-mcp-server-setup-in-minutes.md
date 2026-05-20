@@ -101,11 +101,4 @@ That’s it. It’s a really simple API, but it’s built specifically for my MC
 - “All code is guilty until proven innocent.” (Robert C. Martin)
 
 ---
-
-🔥 Follow my [AI & tech journey on Substack](https://substack.com/@pierrehenry)  
-🤔 [Learn more about me on Dev.to](https://dev.to/pierre)
-
----
-
-#### Kicker:  
-A clean architecture makes your server easier to maintain, extend, and debug—don’t underestimate the power of simplicity.
+#

@@ -32,7 +32,7 @@ When you start each day with this mindset, you’re not just hoping for good thi
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Expressing your happiness makes you feel better and attracts new opportunities.
 - Positive affirmations can shift your mindset and put you ahead of your old self.
 - Life is short—love yourself and see each day as a chance to build something new.
@@ -40,11 +40,11 @@ When you start each day with this mindset, you’re not just hoping for good thi
 ![Photo by Jeremy Beck](https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwaGFwcGluZXNzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzQ5MzExNzEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Manifest Happiness Without Forcing Positivity")
 *How to Manifest Happiness Without Forcing Positivity - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)*
 
-*Actions List:*
+## Action Steps
 - Start your day with a positive affirmation.
 - Smile at yourself in the mirror.
 - Welcome new opportunities, even if they feel a bit scary.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you can do today to show your happiness?
 - How can you remind yourself that every day is a new opportunity?

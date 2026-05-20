@@ -72,7 +72,7 @@ If I had learned these things ten years ago, I would have saved so much time and
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Break your work into focused sprints for clarity and peace of mind.
 - Use tools like Forest to block distractions and reward focus.
 - Create a balanced day with real breaks and a regular sleep schedule.
@@ -80,14 +80,14 @@ If I had learned these things ten years ago, I would have saved so much time and
 - Teach what you learn to reinforce your own understanding.
 - Productivity should improve your life, not take it over.
 
-**Actions List**
+## Action Steps
 - Try a sprint-based work session today (start with 55 minutes).
 - Find a calm environment that helps you focus.
 - Set a regular bedtime and wake-up time for a week.
 - Avoid checking emails or messages during breaks.
 - Share something you’ve learned with someone else.
 
-**Ask Yourself**
+## Reflection
 - Are you working in a way that supports your well-being?
 - What small changes could you make to protect your focus and energy?
 - How can you bring more respect and balance into your daily routine?

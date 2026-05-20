@@ -36,14 +36,14 @@ Remember, the key is to keep your vision clear and take consistent, small steps.
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Define your goal clearly and visualize it every day.
 - Focus on the result, not the process.
 - Use a vision board as a daily reminder.
 - Take one small action each day toward your goal.
 - Set a deadline to give yourself direction.
 
-*Ask Yourself:*
+## Reflection
 - What is the one thing I can do today to get closer to my goal?
 - Where can I place a daily reminder of my vision?
 - Am I focusing on the end result or getting lost in the process?

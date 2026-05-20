@@ -41,13 +41,13 @@ The real message here is to start uprooting the negative things in your mind, ju
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Notice and remove negative thoughts and limiting beliefs.
 - Set clear, simple goals for your day.
 - Treat your mind like a garden—clear out what doesn’t help you grow.
 - Small steps every day lead to bigger changes over time.
 
-*Ask Yourself:*
+## Reflection
 - What old beliefs are holding you back right now?
 - What’s one small goal you can set for today?
 - How can you start clearing out negativity from your daily routine?

@@ -45,12 +45,12 @@ Remember, success is not far away. I’m 100% with you. I know you can succeed, 
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Tranquility and safe spaces are essential for real growth and happiness.
 - Sharing your safe space and what you’re learning with others helps everyone grow.
 - Rereading meaningful books or revisiting good memories can boost your mood and energy.
 - The best investment is in your own knowledge, well-being, and environment.
 - Don’t wait—take action now to create the life you want.
 
-**Ask Yourself**
+## Reflection
 *What does your safe space look like? How can you make your environment support your growth and happiness? What’s one thing you can do today to invest in yourself?*

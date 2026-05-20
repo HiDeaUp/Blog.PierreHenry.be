@@ -49,7 +49,7 @@ The only real limit is the one you set in your mind. Once you realize this, you 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Trust your decisions and believe in your projects.
 - Focus your energy on what you want, not what you don’t.
 - Replace doubt with positive affirmations and clear vision.
@@ -57,14 +57,14 @@ The only real limit is the one you set in your mind. Once you realize this, you 
 - Keep life simple; most problems are smaller than they seem.
 - Your only real limits are the ones you set for yourself.
 
-*Actions List:*
+## Action Steps
 - Start each day by reminding yourself of your goals.
 - End each week with a quick review: What went well? What can improve?
 - Create a vision board or write down your personal mottos.
 - Replace negative self-talk with positive affirmations.
 - Identify your top priority for the day and focus on it.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can do today to move closer to my dream?
 - Am I focusing on what I want, or what I want to avoid?
 - What limits am I setting for myself that I can let go of?

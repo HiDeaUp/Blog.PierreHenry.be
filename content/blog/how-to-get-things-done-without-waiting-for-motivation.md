@@ -34,7 +34,7 @@ If I have time for these things, I also have time to invest in myself. I have ti
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Don’t wait for motivation; build habits that carry you through.
 - Routines are your safety net when emotions and moods fail you.
 - Make time for yourself by making self-care part of your daily routine.
@@ -42,11 +42,11 @@ If I have time for these things, I also have time to invest in myself. I have ti
 ![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaGFiaXRzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTUzODU0MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Things Done Without Waiting for Motivation")
 *How to Get Things Done Without Waiting for Motivation - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
 
-*Actions List:*
+## Action Steps
 - Identify one small habit you can add to your morning routine.
 - Stick to it, even when you don’t feel like it.
 - Notice how your habits support you on tough days.
 
-*Ask Yourself:*
+## Reflection
 - What’s one routine you could start today that would make your life better?
 - Are you letting your mood decide your actions, or are your habits leading the way?

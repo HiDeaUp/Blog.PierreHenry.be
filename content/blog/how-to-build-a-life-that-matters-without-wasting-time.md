@@ -41,14 +41,14 @@ Don’t put off what you want to do. If you start today, in twenty years you’l
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Take real breaks to reflect on what you truly want.
 - Don’t let others’ expectations decide your path.
 - Experience is often more valuable than titles or degrees.
 - Life is too short to waste on things that don’t excite you.
 - The best time to act is now.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you paused to question your direction?
 - Are you pursuing your own goals, or someone else’s?
 - What small step can you take today to move closer to what you really want?

@@ -38,7 +38,7 @@ So, take a step back. Ask yourself if your current path is really what you want.
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 ![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTY1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Your Goals Faster Without Stress")
 *How to Achieve Your Goals Faster Without Stress - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*

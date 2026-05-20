@@ -48,13 +48,13 @@ So, wherever you are, enjoy the moment. Don’t wait for the “perfect” time 
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 - Internal motivation brings more joy and better results than external motivation.
 - If a task feels tedious, try to make it more enjoyable or meaningful—or find a way to avoid it.
 - Teaching what you learn helps you remember and grow.
 - The best time to start is always now.
 
-*Ask Yourself:*
+## Reflection
 - What tasks in your life are driven by internal motivation? Which ones are only for external rewards?
 - How can you make your daily work more enjoyable?
 - What’s one thing you can start today that excites you?

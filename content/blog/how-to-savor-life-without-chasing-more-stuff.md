@@ -100,7 +100,7 @@ Even ten minutes a day adds up. If you spend ten minutes a day learning Italian,
 
 ---
 
-*What about you?*
+## Reflection
 - Are you living for experiences or just collecting things?
 - What’s one small step you can take today toward a dream?
 - How can you make your daily routine more intentional?

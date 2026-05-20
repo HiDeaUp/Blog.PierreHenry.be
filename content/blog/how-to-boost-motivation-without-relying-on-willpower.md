@@ -44,18 +44,18 @@ The best time to take action is now. Start improving your environment and your h
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Your environment has a huge impact on your motivation and inspiration.
 - Change your surroundings to boost your energy and creativity.
 - Find places that make you feel good—nature, coworking spaces, libraries.
 - Take action now; the best time to start is today.
 
-*Actions List:*
+## Action Steps
 - Identify one thing you can change in your workspace to make it more inspiring.
 - Try working in a new location this week—outside, in a café, or a library.
 - Make a playlist that lifts your mood and use it when you need a boost.
 
-*Ask Yourself:*
+## Reflection
 - Where do you feel most inspired and motivated?
 - What’s one small change you can make to your environment today?
 - Are you surrounding yourself with people who push you forward?

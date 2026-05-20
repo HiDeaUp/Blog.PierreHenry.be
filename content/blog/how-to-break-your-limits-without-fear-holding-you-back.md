@@ -37,13 +37,13 @@ It all comes down to how you see success. Your mindset shapes your reality. The 
 ![Photo by Troy T](https://images.unsplash.com/photo-1566489734063-c270b76d1943?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmaWVsZCUyMG9mJTIwdmlzaW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBsaW1pdGluZyUyMGJlbGllZnN8ZW58MHwwfHx8MTc1NjY0MjIxMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Your Limits Without Fear Holding You Back")
 *How to Break Your Limits Without Fear Holding You Back - Photo by [Troy T](https://unsplash.com/@ttcollect) on [Unsplash](https://unsplash.com/photos/person-near-yellow-sunflowers-HC-OyFhuh2A)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Limiting beliefs are often self-imposed and invisible.
 - Visualizing your success makes your goals feel closer and more achievable.
 - A clear plan and daily action bridge the gap between where you are and where you want to be.
 - Your mindset is the foundation of your reality.
 
-*Ask Yourself:*
+## Reflection
 - What invisible barriers have you set for yourself?
 - How would your life change if you believed you could succeed?
 - What is one step you can take today to move closer to your goal?

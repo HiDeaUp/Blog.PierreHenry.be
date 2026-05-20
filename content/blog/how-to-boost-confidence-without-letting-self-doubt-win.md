@@ -49,7 +49,7 @@ Life is short. It’s better to live a life you love 100% than to always want mo
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 - Feeling not good enough is normal, but don’t let it stop you.
 - Most limits are self-imposed—challenge them.
 - Try something new every day to build your confidence.

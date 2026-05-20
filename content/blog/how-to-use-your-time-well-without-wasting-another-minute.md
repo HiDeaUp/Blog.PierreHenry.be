@@ -49,7 +49,7 @@ The truth is, every minute you spend is a choice. You can choose to invest in yo
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - Are you investing your time in things that matter to you, or just passing it on to others?
 - What small change can you make today to use your time better?
 - After learning something new, do you actually use it to improve your life?

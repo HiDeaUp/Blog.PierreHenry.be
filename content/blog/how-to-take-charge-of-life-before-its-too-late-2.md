@@ -64,7 +64,7 @@ Your life is precious, and your time is limited. You have your own train to catc
 - *Take regular pauses to reflect on how you’re spending your time.*
 - *Stop doing things just to please others—prioritize your own happiness.*
 
-### *What About You?*
+## Reflection
 
 - *What simple moment can you enjoy today?*
 - *What’s one change you can make to live more fully, starting now?*

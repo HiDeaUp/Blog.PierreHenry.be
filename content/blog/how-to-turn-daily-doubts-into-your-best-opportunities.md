@@ -41,16 +41,16 @@ If you feel like you’re repeating yourself or things aren’t moving fast enou
 ![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvYmplY3Rpb25zJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1Mjc4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Daily Doubts Into Your Best Opportunities")
 *How to Turn Daily Doubts Into Your Best Opportunities - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Objections are normal—use them as signals to try new approaches.
 - Iteration is your best friend: improve a little every day.
 - Use time limits and sprints to boost your efficiency.
 - Don’t settle for yesterday’s version of yourself.
 
-**Actions List**
+## Action Steps
 - Next time you face an objection, brainstorm at least two new ways to tackle it.
 - Set a timer for your next task and treat it like a sprint.
 - At the end of each day, ask yourself: “How can I do this better tomorrow?”
 
-*What about you?*
+## Reflection
 *What’s one objection you faced today, and how could you turn it into an opportunity for growth?*

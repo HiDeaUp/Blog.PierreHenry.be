@@ -36,14 +36,14 @@ This simple approach—setting a weekly goal, breaking it into daily actions, an
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus on what you truly love and appreciate.
 - Set clear weekly goals.
 - Break your goal into daily steps.
 - Start each day with a small action, ideally in the morning.
 - Small, consistent progress leads to big results.
 
-*Ask Yourself:*
+## Reflection
 - What is one thing you want to achieve this week?
 - How can you break it down into daily steps?
 - What can you do tomorrow morning to get started?

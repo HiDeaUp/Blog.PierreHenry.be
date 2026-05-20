@@ -32,13 +32,13 @@ But when you feel fulfilled and truly at ease, that’s when the right decisions
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Make time for simple pleasures; they boost your well-being.
 - Feeling good helps you make better choices.
 - True happiness comes from being comfortable with yourself.
 - The best decisions are made when you’re fulfilled, not when you’re struggling.
 
-*Ask Yourself:*
+## Reflection
 - What small joys can you add to your week to feel better?
 - Are you making decisions from a place of happiness or stress?
 - How can you become the example of happiness for those around you?

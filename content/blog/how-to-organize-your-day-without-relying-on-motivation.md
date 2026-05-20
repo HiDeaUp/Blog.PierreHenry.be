@@ -65,20 +65,20 @@ It’s simple, but it works. You don’t need to overhaul your life overnight. J
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Rate your day every evening and review what worked and what didn’t.
 - Set a simple, actionable plan for tomorrow, aligned with your long-term goals.
 - Start your day with your most important task, even if it’s just 10 minutes.
 - Check in with your plan throughout the day and adjust as needed.
 - Small, daily improvements add up to big changes over time.
 
-*Actions List:*
+## Action Steps
 - Tonight, rate your day and jot down what you’d like to improve.
 - Write a short plan for tomorrow—keep it simple.
 - Tomorrow morning, do your key task first.
 - Repeat, and watch your days get better.
 
-*Ask Yourself:*
+## Reflection
 - What’s one small thing I can do tomorrow to make my day better than today?
 - Am I building my days around my long-term goals, or just reacting to what comes up?
 - What’s stopping me from starting with just 10 minutes?

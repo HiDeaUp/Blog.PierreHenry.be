@@ -39,11 +39,11 @@ One important thing: don’t just try to do this—do it. The word “try” sen
 ![Download Mega Bundle 5,000+ awesome stock photos with commercial license With 16 categories | Perfect for websites, ads and marketing campaigns in South Asian countries. Get access at 50% discount on www.fotos.pk](https://images.unsplash.com/photo-1659354219145-dedd2324698e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb29kJTIwdGFzdGUlMjBjdWxpbmFyeSUyMGV4cGVyaWVuY2V8ZW58MHwwfHx8MTc1NjUxNDQzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How Tasting New Things Can Change Your Life")
 *How Tasting New Things Can Change Your Life - Photo by [Fotos](https://unsplash.com/@fotospk) on [Unsplash](https://unsplash.com/photos/a-man-wearing-a-chefs-hat-and-standing-in-front-of-a-yellow-background-TatpkrN4bHo)*
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Tasting new foods is a metaphor for seeking new experiences.
 - Traveling and meeting new people opens your mind and teaches you unexpected lessons.
 - New experiences can make you more productive and lead to opportunities you never imagined.
 - Don’t just try—do it. Believe in your ability to change and grow.
 
-**Ask Yourself**
+## Reflection
 *What new experience could you taste today? Where could curiosity take you if you let it?*

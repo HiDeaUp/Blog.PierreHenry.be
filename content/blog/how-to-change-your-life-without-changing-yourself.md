@@ -70,21 +70,21 @@ If your environment or the people around you are holding you back, it’s time t
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - The spaces you spend time in shape your mood, creativity, and ability to reflect.
 - Choose open, inspiring environments—nature and a good view work wonders.
 - Make time daily to step back, decompress, and ask yourself what really matters.
 - Don’t let comfort or social pressure dictate your life; choose what fits you.
 - The people around you influence your path—choose wisely.
 
-*Actions List:*
+## Action Steps
 - Find a spot that inspires you and make it your daily retreat.
 - Add plants or a view to your home if you can.
 - Take a walk in nature or read in a quiet place.
 - Reflect each evening: What went well? What needs to change?
 - Surround yourself with people who support your growth.
 
-*Ask Yourself:*
+## Reflection
 - Is your environment helping or hindering your happiness?
 - Are you living a life that feels right for you, or one shaped by others?
 - What small change can you make today to feel more inspired?

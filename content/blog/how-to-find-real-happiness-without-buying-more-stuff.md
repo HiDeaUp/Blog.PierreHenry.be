@@ -45,18 +45,18 @@ So here’s my invitation to you: start putting your money and your time into ex
 ![Pothos in white container](https://images.unsplash.com/photo-1599067897079-aedd464866d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwbGVzc29ucyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluaW1hbGlzbXxlbnwwfDB8fHwxNzU1NTc4MjkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Buying More Stuff")
 *How to Find Real Happiness Without Buying More Stuff - Photo by [Kelsey Brown](https://unsplash.com/@kelseybrownart) on [Unsplash](https://unsplash.com/photos/green-plant-in-white-pot-Tv_3OvF2EBM)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Buying more stuff rarely brings lasting happiness.
 - Experiences and memories are worth more than objects.
 - Investing in adventures and new experiences makes you richer in life.
 - The more you experience, the more energy and freedom you gain.
 
-*Actions List:*
+## Action Steps
 - Look at where your money goes—could you spend more on experiences?
 - Make a list of adventures or dreams you want to try.
 - Start with one small experience this month—see how it feels.
 
-*Ask Yourself:*
+## Reflection
 - What’s one experience you’ve always wanted to try?
 - Are you filling your life with things, or with memories?
 - How could you create more freedom and joy in your everyday life?

@@ -41,18 +41,18 @@ We all need challenges and new missions in life. Without them, we stagnate—and
 ![Hopeful Horizons](https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTMzNTUzNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Day for Yourself Without Morning Stress")
 *How to Start Your Day for Yourself Without Morning Stress - Photo by [Dawid Zawiła](https://unsplash.com/@davealmine) on [Unsplash](https://unsplash.com/photos/trees-under-cloudy-sky-during-sunset--G3rw6Y02D0)*
 
-*TL;DR:*
+## Key Takeaways
 - Start your day with a simple routine that energizes you.
 - Invest at least ten minutes in yourself before anything else.
 - Small daily actions lead to big results over time.
 - Seek out new skills and challenges to keep life interesting.
 
-*Actions List:*
+## Action Steps
 - Move your body in the morning—stretch, walk, or dance.
 - Choose one thing to work on for yourself each day.
 - Reflect on what new skill or knowledge could open doors for you.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can do for myself before the day begins?
 - Which skill, if I learned it, would change my life?
 - Am I moving forward, or am I standing still?

@@ -44,13 +44,13 @@ Don’t be afraid to make a few mistakes. It’s better to be the person who tri
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - It’s normal to feel awkward in social situations.
 - Having a few key phrases ready can help you start conversations.
 - Making mistakes is better than staying silent.
 - Practice makes social interactions easier over time.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you held back from joining a conversation?
 - What simple phrase could you use next time to break the ice?
 - Are you willing to risk a little awkwardness to make a real connection?

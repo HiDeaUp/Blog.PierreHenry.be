@@ -47,12 +47,12 @@ So, don’t put off what you want to do. Start today. Decide what kind of life y
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Start a small personal project—don’t wait for the perfect moment.
 - Passive learning isn’t enough; practice and action are what matter.
 - Every project, no matter how small, helps you build skills and confidence.
 - Over time, these projects can become sources of income or even new careers.
 - Commitment and daily action are the real secrets to progress.
 
-**Ask Yourself**
+## Reflection
 *What small project could you start today? What’s stopping you from taking the first step? How could daily action change your future?*

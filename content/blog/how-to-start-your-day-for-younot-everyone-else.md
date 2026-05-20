@@ -46,12 +46,12 @@ So, what’s your mission today? What’s the one thing you can do to invest in 
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 - Start your day by doing something for yourself, even if it’s just ten minutes.
 - Use movement or music to give yourself energy in the morning.
 - Small daily actions add up to big results over time.
 - Challenge and progress are what keep life interesting.
 - Don’t wait for the “perfect” moment—the best time to start is now.
 
-### **Ask Yourself**
+## Reflection
 *What’s one thing you can do for yourself tomorrow morning, before anything else? What skill or project have you been putting off that could open new doors for you?*

@@ -58,7 +58,7 @@ I hope these ideas help you. If you want to go even further, I have a lot of tra
 
 ---
 
-### TL;DR
+## Key Takeaways
 
 - Change your environment to boost energy.
 - Use music and atmosphere to recreate inspiring vibes.

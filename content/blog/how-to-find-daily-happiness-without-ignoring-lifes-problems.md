@@ -41,18 +41,18 @@ So, the next time life throws you a curveball, try to see it as a chance to lear
 ![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2aXR5JTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4NDY5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Ignoring Life’s Problems")
 *How to Find Daily Happiness Without Ignoring Life’s Problems - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Positivity is a choice that changes how you experience life.
 - Taking responsibility for your reactions helps you grow.
 - Blaming others keeps you stuck; looking for solutions moves you forward.
 - Gratitude for the basics—health, safety, being alive—brings real happiness.
 
-*Actions List:*
+## Action Steps
 - Next time something goes wrong, ask: “What can I do differently?”
 - Notice when you start blaming others, and shift to finding solutions.
 - Each day, list three things you’re grateful for.
 
-*Ask Yourself:*
+## Reflection
 - How do I usually react when things don’t go my way?
 - What’s one small change I can make to see setbacks differently?
 - Am I focusing more on problems or on what I can control?

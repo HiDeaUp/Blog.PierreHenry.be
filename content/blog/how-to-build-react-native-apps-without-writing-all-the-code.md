@@ -96,10 +96,4 @@ Submitting an app with Expo is super handy. You just run the build and submit co
 
 ---
 
-🤔 [Learn more about me on Dev.to](https://dev.to/pierre)  
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years
-
----
-
-### Kicker:  
-AI isn’t just changing how we code—it’s changing what it means to be a developer.
+🤔 [Learn more about me on Dev.to](https://dev.to/pierre)

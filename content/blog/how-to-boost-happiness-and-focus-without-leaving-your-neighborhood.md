@@ -53,19 +53,19 @@ Creativity often comes from connecting two things that didn’t seem related bef
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Use walks in nature to boost your mood, focus, and creativity.
 - Pay attention to your surroundings; be present.
 - Let nature clear your mind and help you concentrate.
 - Every walk is a chance to make new connections and spark new ideas.
 
-*Actions List:*
+## Action Steps
 - Plan a walk in nature this week—alone or with someone you care about.
 - During your walk, focus on what you see, hear, and feel.
 - Notice how you feel before and after your walk.
 - Try to spot something new each time.
 
-*Ask Yourself:*
+## Reflection
 - How can I make nature walks a regular part of my routine?
 - What new ideas or feelings come up when I’m present in nature?
 - Am I using my time outdoors to recharge, or am I stuck in my thoughts?

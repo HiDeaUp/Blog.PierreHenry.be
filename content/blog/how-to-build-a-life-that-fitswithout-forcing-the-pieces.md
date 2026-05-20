@@ -41,18 +41,18 @@ If you want to go even further, think about how you can become the designer of y
 ![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjYzNDI5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Fits—Without Forcing the Pieces")
 *How to Build a Life That Fits—Without Forcing the Pieces - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Build your days like a puzzle, choosing pieces that bring you joy and balance.
 - A fulfilling day often includes a mix of physical, mental, social, and personal activities.
 - True happiness comes from living a life that feels right for you, not just one that looks good to others.
 - Regularly check in with yourself and adjust your “puzzle pieces” as you grow.
 
-*Actions List:*
+## Action Steps
 - Reflect on what makes your days feel complete.
 - Try adding or removing activities to find your own balance.
 - Spend time with people who matter to you.
 
-*Ask Yourself:*
+## Reflection
 - What are the pieces of your perfect day?
 - Which parts of your routine truly make you happy?
 - How can you design your life to fit you better?

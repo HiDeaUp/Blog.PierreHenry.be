@@ -47,19 +47,19 @@ Let content inspire you, then close the app and get moving. Use that spark to tr
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Notice which habits and environments are holding you back.
 - Surround yourself with people and places that support your goals.
 - Don’t just consume inspiring content—let it push you to act.
 - Remember: You deserve an environment that helps you grow.
 
-*Actions List:*
+## Action Steps
 - Take a moment to reflect on your daily habits and surroundings.
 - Identify one thing you can change this week to support your happiness.
 - Say no to people-pleasing and yes to your own well-being.
 - Use inspiring content as a trigger to take real steps forward.
 
-*Ask Yourself:*
+## Reflection
 - Are your habits and environment helping or hurting your progress?
 - Who are the five people you spend the most time with?
 - What’s one small change you can make today to move closer to your goals?

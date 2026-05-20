@@ -47,13 +47,13 @@ Think of your life like a ship. If the captain doesn’t know where the ship is 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Have a clear vision for your life and set concrete goals.
 - Break your goals into daily actions and stick to them.
 - Set deadlines. Time is limited—use it wisely.
 - Treat every hour as valuable. Don’t drift, steer your own ship.
 
-*Ask Yourself:*
+## Reflection
 - What do I really want to achieve in the next month?
 - Am I planning my days, or just letting them happen?
 - How can I make my time count, starting today?

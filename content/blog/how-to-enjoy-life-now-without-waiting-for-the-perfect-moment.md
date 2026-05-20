@@ -45,17 +45,17 @@ You deserve to live fully, right now. Don’t let worries about the future steal
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Stop waiting for the “right” time or enough money—those moments rarely come.
 - Enjoy where you are, right now, and make space for your dreams.
 - Set clear boundaries for your time and stick to them.
 - Remember: Life is shorter than you think. Don’t let it pass you by.
 
-*Actions List:*
+## Action Steps
 - Practice being present, even in small moments.
 - Set a daily reminder to leave work on time.
 - Take one small step toward a dream you’ve been putting off.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing you keep postponing for “later”?
 - How can you enjoy your current moment more, starting today?

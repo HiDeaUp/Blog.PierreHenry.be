@@ -67,7 +67,7 @@ Sometimes, your environment is what’s holding you back. Change your surroundin
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 
 - The spaces you spend time in can lift you up or hold you back.
 - Choose open, inspiring places—nature and light matter.

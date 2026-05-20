@@ -49,6 +49,3 @@ I hope this was helpful. It’s honestly a game-changer for speeding up the bori
 > “That’s important for a nice looking icon, you know.”
 
 > “You can really use it for so many different purposes.”
-
----
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years

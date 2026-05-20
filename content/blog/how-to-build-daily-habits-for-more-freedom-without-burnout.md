@@ -58,7 +58,7 @@ I also use positive affirmations and reminders to keep myself on track. Simple p
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - What habits are holding you back right now?
 - Which small action could you add to your routine to move closer to your goals?
 - How can you make your good habits as automatic as brushing your teeth?

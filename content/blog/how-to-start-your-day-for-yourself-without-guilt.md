@@ -51,7 +51,7 @@ So, what’s your mission for today? What can you do, even for just ten minutes,
 
 ---
 
-*What about you?*
+## Reflection
 - *What’s one thing you could do for yourself tomorrow morning?*
 - *Which skill or habit would open new doors for you if you started today?*
 - *Are you letting your days slip away, or are you making them count?*

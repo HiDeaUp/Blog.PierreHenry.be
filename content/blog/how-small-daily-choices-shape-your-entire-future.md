@@ -54,18 +54,18 @@ If you only do one thing today, make it something that turns an ordinary day int
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Your daily actions quietly shape your future—start today, not tomorrow.*
 - *A clear vision and small, positive steps add up to big changes over time.*
 - *Your environment and mindset matter; keep them positive and focused.*
 - *Avoid mental overload—clarity leads to action.*
 - *Ask yourself: What can I do today to make myself proud?*
 
-*Actions List:*
+## Action Steps
 - *Write down one thing you want to achieve today.*
 - *Take one small action toward your goal, no matter how simple.*
 - *Reflect each evening: Did I do something today that moves me forward?*
 
-*What About You?*
+## Reflection
 - *What’s the one action you can take today that your future self will thank you for?*
 - *Are you letting your environment or mindset hold you back? How can you change that?*

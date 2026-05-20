@@ -41,18 +41,18 @@ We’ve all had moments of success, even small ones. The secret is to keep produ
 ![Photo by Marija Zaric](https://images.unsplash.com/photo-1598476793884-0e7afd57b92e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcmlnaW5hbGl0eSUyMGNyZWF0aXZpdHklMjBzZWxmLWV4cHJlc3Npb258ZW58MHwwfHx8MTc1NjUxNDExNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Original Work Without Imitating Others")
 *How to Create Original Work Without Imitating Others - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/red-and-white-no-smoking-sign-FrGQr9eQcVM)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Your most powerful projects come from your own unique energy, not imitation.
 - Don’t let the fear of not being ready stop you—start, and learn as you go.
 - Practice and repetition lead to mastery, not endless preparation.
 - Keep track of your failures and successes to avoid repeating mistakes and to build on what works.
 
-*Actions List:*
+## Action Steps
 - Start your project, even if you don’t feel 100% ready.
 - Keep a “failures” and “successes” log to review before each new project.
 - Focus on quantity and iteration over perfection.
 
-*Ask Yourself:*
+## Reflection
 - What project have you been putting off because you feel unprepared?
 - Are you learning, or just avoiding starting?
 - What’s one small step you can take today to move your idea forward?

@@ -41,13 +41,13 @@ So, next time you feel scattered, remember: choose one thing that matters, check
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Focus your energy on one important thing at a time.
 - Match your tasks to your current energy level.
 - If you need more energy, move your body or listen to uplifting music.
 - Small changes in your routine can make a big difference in how you feel and what you achieve.
 
-*Ask Yourself:*
+## Reflection
 - What is the one thing today that truly matters to you?
 - How can you adjust your tasks to fit your energy right now?
 - What song always puts you in a good mood?

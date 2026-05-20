@@ -51,12 +51,12 @@ Remember, you’ve done your part. Now, let life take its course. Focus on what 
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - *Negativity can easily take over your day if you let it.*
 - *Simple breathing exercises and changing your environment can help break the cycle.*
 - *Focus on what you can control, and let go of what you can’t.*
 - *Don’t let stress from one thing ruin your whole day or relationships.*
 
-*Ask Yourself:*
+## Reflection
 - *What small step can you take today to break the cycle of negativity?*
 - *Are you focusing on things you can control, or are you letting worry about the unknown take over?*

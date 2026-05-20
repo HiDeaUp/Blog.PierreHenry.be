@@ -66,7 +66,6 @@ So next time you’re about to ship something, ask yourself: am I just doing wha
 **“We can build amazing, extremely scalable software, but we need to have that eagerness to challenge ourselves and pay it forward.”**
 
 ---
-🤖 Get inspired by [open-source projects I've built](https://github.com/pH-7) over the years  
 🤔 [Learn more about me on Dev.to](https://dev.to/pierre)
 
 ---

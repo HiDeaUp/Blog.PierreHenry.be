@@ -59,7 +59,7 @@ It’s also important to set three main priorities for your day. Accept that you
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - When do I feel most focused and creative during the day?
 - What habits can I build to make my days smoother?
 - Am I setting realistic priorities, or am I trying to do too much?

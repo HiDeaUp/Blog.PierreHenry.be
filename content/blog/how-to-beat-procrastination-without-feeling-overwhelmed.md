@@ -43,13 +43,13 @@ The trick is to make the first step so small that it feels like nothing. That wa
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Take one small step every day toward your goal.
 - Make the first step so easy you can’t say no.
 - Small actions add up to big results over time.
 - Don’t wait for the perfect moment—start with what you have, where you are.
 
-*Ask Yourself:*
+## Reflection
 - What is one tiny step you can take today toward your goal?
 - How can you make starting so easy that you can’t avoid it?
 - Where in your life can you apply the “small steps” method?

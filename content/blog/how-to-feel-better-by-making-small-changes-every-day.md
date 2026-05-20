@@ -39,13 +39,13 @@ The goal is not to be perfect. The goal is to improve, little by little. When yo
 ![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTk5ODY5MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Better by Making Small Changes Every Day")
 *How to Feel Better by Making Small Changes Every Day - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Excellence is about small, daily improvements.
 - Reflecting on your day helps you see what works and what doesn’t.
 - Change your actions if you want your life to change.
 - Focus on maximizing what makes you happy and minimizing what doesn’t.
 
-*Ask Yourself:*
+## Reflection
 - What is one small thing I can do differently today to feel better?
 - Am I repeating habits that no longer serve me?
 - How can I make time each day to reflect and improve?

@@ -45,17 +45,17 @@ If you feel like your job is eating up all your time and happiness, try to find 
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Break big tasks into small, manageable steps
 - Focus on the present task, not the whole mountain ahead
 - Take real breaks, even if others don’t
 - Don’t just follow the crowd—find what works for you
 - Your mindset can change how you feel about your job
 
-**Actions List**
+## Action Steps
 - Tomorrow, pick one small task and focus only on that
 - Schedule a real break for yourself—coffee, walk, or lunch
 - Ask yourself if you’re following others’ routines or your own
 
-*What about you?*
+## Reflection
 *Are you making your work harder than it needs to be? What small change could make your day better?*

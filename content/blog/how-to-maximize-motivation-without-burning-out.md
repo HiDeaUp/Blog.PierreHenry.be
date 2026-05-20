@@ -44,19 +44,19 @@ Don’t put off what you want to do. The best time to act is now. Start somethin
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Internal motivation comes from doing what you love; external motivation is about outside rewards.
 - Make tasks easier to start by changing your environment or breaking them down.
 - If you dislike a task, see if you can avoid, automate, or delegate it.
 - Teaching what you learn helps you remember and grow.
 - The best time to start is now.
 
-*Actions List:*
+## Action Steps
 - Identify what truly motivates you.
 - Adjust your environment to make tasks more enjoyable.
 - Share your knowledge with others to reinforce your learning.
 
-*Ask Yourself:*
+## Reflection
 - What tasks do you do for yourself, and which for others?
 - How can you make your daily work more enjoyable?
 - What’s stopping you from starting today?

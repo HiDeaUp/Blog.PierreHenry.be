@@ -67,7 +67,7 @@ There are activities that can help you create the mood you want. For me, having 
 
 ---
 
-### *TL;DR*
+## Key Takeaways
 
 - Frustration is normal, but you don’t have to let it control your day.
 - Simple breathing exercises (4-7-8 or 4-4-4) can help you calm down fast.

@@ -46,7 +46,7 @@ More awesome freebies here: https://firmbee.com/freebiesun](https://images.unspl
 
 ---
 
-*TL;DR:*
+## Key Takeaways
 - Design your own life by selling what you know.
 - Focus on one thing at a time—don’t get distracted.
 - Finish what you start, even if it’s small.
@@ -54,14 +54,14 @@ More awesome freebies here: https://firmbee.com/freebiesun](https://images.unspl
 - Solve real problems for people, and fall in love with the problem.
 - The best time to start is now.
 
-*Actions List:*
+## Action Steps
 - Identify your skill or passion.
 - Test your idea with a small course or service.
 - Research where your audience is.
 - Focus and finish what you start.
 - Take action every day, even if it’s just 30 minutes.
 
-*Ask Yourself:*
+## Reflection
 - What skill do people always ask me for help with?
 - What problem do I want to solve for others?
 - Am I ready to start today, even in a small way?

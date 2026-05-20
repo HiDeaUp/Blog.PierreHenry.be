@@ -42,7 +42,7 @@ Life is short. Every hour wasted is an hour you’ll never get back. So why not 
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 ![Photo by byquincy](https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRlYWQlMjB0aW1lfGVufDB8MHx8fDE3NTYwMDg2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done on Your Commute Without Extra Stress")
 *How to Get More Done on Your Commute Without Extra Stress - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)*

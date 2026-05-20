@@ -47,14 +47,14 @@ Sometimes, the solution is as simple as moving to a new place. Some rooms just d
 
 ---
 
-*Key Takeaways:*
+## Key Takeaways
 1. Your environment has a huge impact on your energy and motivation.
 2. Build habits and routines that make your goals automatic.
 3. Remove barriers to starting tasks—make it easy for yourself.
 4. Don’t blame yourself for low energy; sometimes it’s the space, not you.
 5. Stay open to changing your surroundings and routines for better results.
 
-*Ask Yourself:*
+## Reflection
 - Is my environment helping or hurting my energy?
 - What small changes can I make to my space or routine today?
 - Am I making it easy enough to start the things I want to do?

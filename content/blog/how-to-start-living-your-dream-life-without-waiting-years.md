@@ -49,17 +49,17 @@ Bit by bit, you’ll build your dream life. That’s what matters most.
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Imagine your ideal day and write it down.
 - Add one new thing to your life each week that excites you.
 - Let go of habits or routines that don’t serve you.
 - Test new places, hobbies, or routines before making big changes.
 - Progress comes from small, steady steps.
 
-**Actions List**
+## Action Steps
 - Spend an hour this week imagining your dream day.
 - Make two lists: what to add, and what to stop.
 - Try one new thing tomorrow that brings you closer to your dream life.
 
-*What about you?*
+## Reflection
 *What is one thing you can start doing tomorrow to move closer to your dream life? What’s holding you back from making that first small change?*

@@ -42,7 +42,7 @@ That’s why it’s so important to prioritize your important tasks. Make time f
 
 ---
 
-### TL;DR
+## Key Takeaways
 
 ![Medical](https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBicmVha3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0OTMxODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus Without Working Longer Hours?")
 *How to Boost Focus Without Working Longer Hours? - Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80) on [Unsplash](https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA)*

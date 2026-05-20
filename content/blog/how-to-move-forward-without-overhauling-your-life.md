@@ -41,14 +41,14 @@ I truly wish you the best. Take action, don’t wait for the perfect moment. I�
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Notice what you want to change in your life.
 - Sit down, reflect, and write out possible actions.
 - Start with small, practical steps—like a new morning routine or batch cooking.
 - Taking action is the only way to move forward.
 - Don’t wait for tomorrow; begin today.
 
-*Ask Yourself:*
+## Reflection
 - What’s one thing I can change today to improve my daily life?
 - Am I willing to take action instead of just wishing for things to be different?
 - What small step can I take right now?

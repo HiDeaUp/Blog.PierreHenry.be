@@ -38,7 +38,7 @@ Self-questioning isn’t about making yourself feel bad. It’s about giving you
 
 ---
 
-### **TL;DR / Key Takeaways**
+## Key Takeaways
 
 ![Winter at sea via a mirror](https://images.unsplash.com/photo-1722917617363-3d706e50a709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMGludHJvc3BlY3Rpb258ZW58MHwwfHx8MTc1NjYzODQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Question Yourself Without Overthinking It")
 *How to Question Yourself Without Overthinking It - Photo by [Long (lTiga) Nguyen](https://unsplash.com/@l333) on [Unsplash](https://unsplash.com/photos/a-round-mirror-sitting-on-the-side-of-a-tree-RMr8n34uiUU)*
@@ -50,7 +50,7 @@ Self-questioning isn’t about making yourself feel bad. It’s about giving you
 
 ---
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly questioned your choices?
 - What is one thing you want to change in your life right now?
 - Are you asking yourself the right questions, or just going in circles?

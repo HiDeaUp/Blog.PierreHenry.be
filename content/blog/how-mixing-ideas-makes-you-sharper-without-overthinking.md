@@ -56,7 +56,7 @@ The goal isn’t to be original for the sake of it. The goal is to make things w
 - *Set yourself a time or space limit to force creative solutions.*
 - *Ask yourself: What can I remove from my routine to make it simpler and more effective?*
 
-### *What About You?*
+## Reflection
 
 - *How can you turn your daily challenges into creative games?*
 - *What’s one thing you could do differently today to make your life easier?*

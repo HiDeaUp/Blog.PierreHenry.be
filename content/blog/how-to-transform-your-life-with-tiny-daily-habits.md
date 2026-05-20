@@ -46,21 +46,21 @@ All these small changes add up. By tracking your habits, creating positive envir
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Write down three things each day you want to improve or enjoy
 - After a week, choose three habits to stop and make them personal rules
 - Use positive self-talk in front of the mirror to boost confidence
 - Recreate environments that make you feel good with music and small rituals
 - Break your day into 90-minute blocks for better focus and energy
 
-*Actions List:*
+## Action Steps
 - Start a daily improvement notebook or digital list
 - Try a new playlist or radio station to set the mood at home
 - Set up your breakfast table the night before for a welcoming morning
 - Use a timer to switch activities every 90 minutes
 - Practice positive affirmations daily
 
-*Ask Yourself:*
+## Reflection
 - What three things can I do today to feel better and improve myself?
 - Which habits are holding me back, and how can I replace them?
 - How can I make my environment more supportive and enjoyable?

@@ -57,19 +57,19 @@ Sometimes, we’re blind to what’s possible. We tell ourselves life is hard, o
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Believe in your projects and your ability to achieve them.
 - Focus your energy on what you want, not on what you don’t want.
 - Replace negative self-talk with positive affirmations.
 - Review your progress regularly and celebrate good days.
 - Remember: your limits are mostly in your mind.
 
-*Actions List:*
+## Action Steps
 - Start each day by stating your main goal out loud.
 - End each week with a quick review: What went well? What can improve?
 - Create a vision board or write down your affirmations and repeat them daily.
 
-*Ask Yourself:*
+## Reflection
 - What’s the one thing I can do today to move closer to my goal?
 - Am I letting doubt or negative thoughts hold me back?
 - What would my life look like if I truly believed in myself?

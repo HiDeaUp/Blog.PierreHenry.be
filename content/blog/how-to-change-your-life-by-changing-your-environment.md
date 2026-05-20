@@ -41,11 +41,11 @@ So, take a moment to look around. Notice the places you spend your time. Are the
 
 ---
 
-**TL;DR / Key Takeaways**
+## Key Takeaways
 - Your environment has a huge impact on your mood, motivation, and long-term vision.
 - Choose places that recharge you and make you feel good.
 - Even small changes in your surroundings can help you move forward.
 - Don’t wait for the perfect place or time—start making changes today.
 
-**Ask Yourself**
+## Reflection
 *Are the places you spend your time helping you grow, or holding you back? What small change can you make in your environment today to feel more energized and inspired?*

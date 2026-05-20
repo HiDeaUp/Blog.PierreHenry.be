@@ -39,13 +39,13 @@ That’s the real power of good organization and breaking things down. It’s no
 ![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjQ1MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done by Breaking Tasks Into Small Steps")
 *How to Get More Done by Breaking Tasks Into Small Steps - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Productivity is about knowing what to do, setting a clear outcome, and giving yourself a time limit.
 - Break big tasks into smaller, manageable steps to reduce overwhelm.
 - Starting is easier when you focus on the next small step, not the whole mountain.
 - Organize your day ahead of time to make progress feel natural.
 
-*Ask Yourself:*
+## Reflection
 - What big project have you been putting off because it feels too overwhelming?
 - How can you break it down into smaller steps you can tackle today?
 - What’s one thing you can do right now, in the next thirty minutes, to move forward?

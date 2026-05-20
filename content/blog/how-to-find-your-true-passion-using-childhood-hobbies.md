@@ -39,13 +39,13 @@ For me, the goal was never about making money from my childhood films. I just wa
 ![August](https://images.unsplash.com/photo-1663603802893-31b5bb707402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjaGlsZGhvb2QlMjBwYXNzaW9ucyUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTg4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your True Passion Using Childhood Hobbies")
 *How to Find Your True Passion Using Childhood Hobbies - Photo by [Mihail Tregubov](https://unsplash.com/@tregubov) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-a-field-of-wheat-PEdApsWAN1s)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Think back to what you loved doing between ages 8 and 13.
 - Childhood passions often point to what will fulfill you as an adult.
 - Don’t worry about money or recognition at first—focus on what brings you joy.
 - There are many ways to turn your old interests into something meaningful today.
 
-*Ask Yourself:*
+## Reflection
 - What did you love doing before anyone told you what you “should” do?
 - How can you bring a piece of that childhood joy into your adult life?
 - Are you ignoring a passion because it doesn’t seem practical?

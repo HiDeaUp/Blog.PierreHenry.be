@@ -51,7 +51,7 @@ Life is short. Start living well today, not tomorrow. The best moment to act is 
 ![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGxpZmUlMjBnb2Fsc3xlbnwwfDB8fHwxNzU3NzU0NTc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "Stop Waiting: Start Living Your Dream Life or Stay Stuck")
 *Stop Waiting: Start Living Your Dream Life or Stay Stuck - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
 
-*Key Takeaways:*
+## Key Takeaways
 
 - *Your daily habits shape your life. Change them if they don’t serve you.*
 - *Don’t wait for the perfect moment—start now, even if it feels imperfect.*
@@ -59,7 +59,7 @@ Life is short. Start living well today, not tomorrow. The best moment to act is 
 - *Compare yourself only to who you were yesterday.*
 - *Small steps lead to big changes over time.*
 
-*Ask Yourself:*
+## Reflection
 
 1. *What is one habit I can change today to feel better tomorrow?*
 2. *Am I waiting for a perfect moment that will never come?*

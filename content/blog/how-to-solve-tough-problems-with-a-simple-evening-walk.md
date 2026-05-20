@@ -39,13 +39,13 @@ If you try this meditative walk, I wish you the best. Give yourself permission t
 ![Photo by THLT LCX](https://images.unsplash.com/photo-1611071496337-9882cd6c0e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZWRpdGF0aXZlJTIwd2FsayUyMGV2ZW5pbmclMjByaXR1YWwlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTExNTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Solve Tough Problems With a Simple Evening Walk")
 *How to Solve Tough Problems With a Simple Evening Walk - Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com/photos/gray-concrete-buddha-statue-during-daytime-bxlB513KSQ8)*
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Try walking in the evening or early morning when it’s quiet.
 - Use this time to think about a problem you want to solve.
 - Let your thoughts flow naturally as you walk.
 - You may find new ideas or solutions by giving yourself this space.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you gave yourself real time to think?
 - What problem could you bring with you on your next walk?
 - How might a simple walk change your perspective?

@@ -41,14 +41,14 @@ What matters most is building habits that carry you, even when motivation fades.
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Success comes from clear intention and daily planning.
 - Habits are stronger than motivation; build routines that support your goals.
 - Small, consistent actions create big results over time.
 - Reward yourself when you reach milestones to stay motivated.
 - The consequences of inaction are just as real as the rewards of progress.
 
-*Ask Yourself:*
+## Reflection
 - What daily habit can you start tomorrow to move closer to your goal?
 - How can you reward yourself for reaching your next milestone?
 - Are you relying on motivation, or are you building habits that last?

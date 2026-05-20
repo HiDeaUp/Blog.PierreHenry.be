@@ -56,6 +56,6 @@ Life is shorter than we think. If we don’t take time for these sweet breaks, w
 - Try changing your setting to create new memories.
 - Share your favorite sweet breaks with someone.
 
-### *What About You?*
+## Reflection
 
 *What simple pleasure can you add to your day this week? How might a small change in your routine help you feel more present and relaxed?*

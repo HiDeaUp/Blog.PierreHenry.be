@@ -55,7 +55,7 @@ There are countless ways to lighten your mental load. I can’t cover them all h
 
 ---
 
-*TL;DR / Key Takeaways:*
+## Key Takeaways
 - Take regular breaks from notifications and obligations.
 - Schedule “blank” time just for yourself—no guilt.
 - Ask for help and consider outsourcing tasks if possible.
@@ -63,13 +63,13 @@ There are countless ways to lighten your mental load. I can’t cover them all h
 - Use simple tools to organize your tasks and projects.
 - Prioritize your happiness above all else.
 
-*Actions List:*
+## Action Steps
 - Block out a weekend or even a few hours just for yourself.
 - Try a new task management app to organize your life.
 - Talk to your loved ones about your need for personal time.
 - Look for small ways to simplify your daily routine.
 
-*Ask Yourself:*
+## Reflection
 - When was the last time you truly disconnected?
 - What’s one thing you could delegate or let go of this week?
 - Are you making your happiness a priority, or just getting by?
