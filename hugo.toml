@@ -1,0 +1,29 @@
+baseURL = "https://blog.pierrehenry.be/"
+theme = "hugo-bearblog"
+
+title = "blog.pierrehenry.be"
+author = "Pierre-Henry Soria"
+copyright = "Copyright © 2026, Pierre-Henry Soria."
+locale = "en-US"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  blog = "/blog/:slug/"
+
+[params]
+  description = "English writing on tech, digital nomad work, money, wealth, productivity, time management, time blocking, and entrepreneurship."
+  title = "blog.pierrehenry.be"
+  hideMadeWithLine = true
+  enablePostNavigator = true
+  dateFormat = "2006-01-02"
+
+[markup]
+  [markup.highlight]
+    style = "friendly"
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
