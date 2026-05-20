@@ -5,9 +5,9 @@ date = "2025-08-24T14:16:57.193499"
 draft = false
 description = "There’s something special about taking a break just for yourself. Today, for example, I treated myself to a little snack: triple cream brie and kombucha. Living in Australia, the cheese brands are..."
 summary = "There’s something special about taking a break just for yourself. Today, for example, I treated myself to a little snack: triple cream brie and kombucha. Living in Australia, the cheese brands are..."
-tags = ["mindfulness", "personal growth", "productivity", "self-care", "self-date", "solitude", "tasks"]
+tags = ["mindfulness", "personal growth", "productivity", "self-care", "self-date", "self-transcendence", "solitude", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Pourquoi avoir un \"DATE\" avec toi-même ? 💙"
 source_medium = "https://medium.com/@phenrysay/cf7505bdd996"
 +++

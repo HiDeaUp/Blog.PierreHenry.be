@@ -5,9 +5,9 @@ date = "2025-08-20T07:15:21.597079"
 draft = false
 description = "Have you ever noticed how easy it is to fall into the same routines, day after day? We cook the same meals, walk the same streets, and use the same hand for every task without thinking twice. But w..."
 summary = "Have you ever noticed how easy it is to fall into the same routines, day after day? We cook the same meals, walk the same streets, and use the same hand for every task without thinking twice. But w..."
-tags = ["creativity", "daily habits", "mindfulness", "new experiences", "personal growth", "productivity", "tasks", "tech"]
+tags = ["creativity", "daily habits", "mindfulness", "new experiences", "personal growth", "productivity", "self-transcendence", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "tasks", "productivity"]
+priority_topics = ["tech", "self-transcendence", "tasks", "productivity"]
 original_title = "Élaborer sa créativité en réalisant de nouvelles choses"
 source_medium = "https://medium.com/@phenrysay/3b94a678ea3b"
 +++

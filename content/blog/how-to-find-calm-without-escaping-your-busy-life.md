@@ -5,9 +5,9 @@ date = "2025-08-25T19:11:21.489573"
 draft = false
 description = "Sometimes, life feels like a whirlwind. Stress piles up, tasks never seem to end, and before you know it, you’re no longer present. You’re not really here. You’re just running from one thing to the..."
 summary = "Sometimes, life feels like a whirlwind. Stress piles up, tasks never seem to end, and before you know it, you’re no longer present. You’re not really here. You’re just running from one thing to the..."
-tags = ["mindfulness", "productivity", "relaxation", "stress relief", "tasks", "wellness", "zen"]
+tags = ["mindfulness", "productivity", "relaxation", "self-transcendence", "stress relief", "tasks", "wellness", "zen"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Moments zen. Pourquoi & Comment ?"
 source_medium = "https://medium.com/@phenrysay/7796e937b8a5"
 +++

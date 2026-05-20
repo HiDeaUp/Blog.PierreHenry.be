@@ -5,9 +5,9 @@ date = "2025-08-19T14:26:33.802096"
 draft = false
 description = "Do you ever feel like stress is always there, lurking in the background? Notifications keep popping up, messages demand your attention, and there’s always something else to do. The list of obligati..."
 summary = "Do you ever feel like stress is always there, lurking in the background? Notifications keep popping up, messages demand your attention, and there’s always something else to do. The list of obligati..."
-tags = ["mental load", "mindfulness", "money", "productivity", "self-care", "stress relief", "tasks", "time management", "wellbeing"]
+tags = ["mental load", "mindfulness", "money", "productivity", "self-care", "self-transcendence", "stress relief", "tasks", "time management", "wellbeing"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment soulager les charges mentales ?"
 source_medium = "https://medium.com/@phenrysay/11ddfe28ec7f"
 +++

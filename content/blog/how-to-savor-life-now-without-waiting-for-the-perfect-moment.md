@@ -5,9 +5,9 @@ date = "2025-05-31T06:29:19.134646"
 draft = false
 description = "Life deserves to be lived to the fullest, every single day. Too often, we tell ourselves that we need to save money, to be careful, to wait for the right moment. Of course, saving is important. But..."
 summary = "Life deserves to be lived to the fullest, every single day. Too often, we tell ourselves that we need to save money, to be careful, to wait for the right moment. Of course, saving is important. But..."
-tags = ["enjoy life", "live in the moment", "mindfulness", "money", "personal growth", "seize the day", "tasks"]
+tags = ["enjoy life", "live in the moment", "mindfulness", "money", "personal growth", "seize the day", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "CROQUER LA VIE À PLEINES DENTS – LE GUIDE POUR VIVRE PLEINEMENT CHAQUE JOUR"
 source_medium = "https://medium.com/@phenrysay/552561f66e92"
 +++

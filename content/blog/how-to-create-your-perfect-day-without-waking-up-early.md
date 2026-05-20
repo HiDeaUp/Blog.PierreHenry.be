@@ -5,9 +5,9 @@ date = "2025-08-19T17:41:43.035320"
 draft = false
 description = "What if I told you that having a perfect day isn’t about luck, but about a small, powerful habit you can start tonight? I want to share a simple trick I use every evening that has helped me live a..."
 summary = "What if I told you that having a perfect day isn’t about luck, but about a small, powerful habit you can start tonight? I want to share a simple trick I use every evening that has helped me live a..."
-tags = ["daily habits", "evening routine", "happiness", "productivity", "self improvement", "tasks", "tech", "visualization"]
+tags = ["daily habits", "evening routine", "happiness", "productivity", "self improvement", "self-transcendence", "tasks", "tech", "visualization"]
 priority = true
-priority_topics = ["tech", "tasks", "productivity"]
+priority_topics = ["tech", "self-transcendence", "tasks", "productivity"]
 original_title = "Comment se créer une journée PARFAITE 🎉"
 source_medium = "https://medium.com/@phenrysay/7a5f8db8e2aa"
 +++

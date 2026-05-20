@@ -5,9 +5,9 @@ date = "2025-08-25T18:34:07.208645"
 draft = false
 description = "Have you ever noticed how easy it is to lose sight of what you truly want to achieve? You start with a clear goal, full of energy and excitement. But soon, distractions creep in. Trends shift, new..."
 summary = "Have you ever noticed how easy it is to lose sight of what you truly want to achieve? You start with a clear goal, full of energy and excitement. But soon, distractions creep in. Trends shift, new..."
-tags = ["determination", "focus", "motivation", "personal growth", "productivity", "success", "tasks", "time management"]
+tags = ["determination", "focus", "motivation", "personal growth", "productivity", "self-transcendence", "success", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Pourquoi la détermination change tout ? 💫"
 source_medium = "https://medium.com/@phenrysay/883d7f93a81e"
 +++

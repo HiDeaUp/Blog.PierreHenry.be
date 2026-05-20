@@ -5,9 +5,9 @@ date = "2025-08-17T22:35:02.913846"
 draft = false
 description = "Have you ever noticed how, when you lack motivation, your days seem to slip away? You go to bed late, wake up even later, and drift through the hours without a clear purpose. It’s as if life is pas..."
 summary = "Have you ever noticed how, when you lack motivation, your days seem to slip away? You go to bed late, wake up even later, and drift through the hours without a clear purpose. It’s as if life is pas..."
-tags = ["daily habits", "finding purpose", "motivation", "personal growth", "self-improvement", "tasks"]
+tags = ["daily habits", "finding purpose", "motivation", "personal growth", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "MOTIVATION: CE QUE TU AS BESOINS D’ENTENDRE"
 source_medium = "https://medium.com/@phenrysay/38a710e23a96"
 +++

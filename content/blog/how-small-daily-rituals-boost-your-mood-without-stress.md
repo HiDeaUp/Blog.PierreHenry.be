@@ -5,7 +5,9 @@ date = "2025-05-29T21:27:12.209172"
 draft = false
 description = "When we talk about rituals, we often think of big ceremonies or strict routines. But there’s a gentler side to rituals—small, positive habits that bring comfort, freedom, gratitude, or even a touch..."
 summary = "When we talk about rituals, we often think of big ceremonies or strict routines. But there’s a gentler side to rituals—small, positive habits that bring comfort, freedom, gratitude, or even a touch..."
-tags = ["daily rituals", "mindfulness", "personal growth", "positive habits", "well-being"]
+tags = ["daily rituals", "mindfulness", "personal growth", "positive habits", "self-transcendence", "well-being"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Les rituels de pensée : je t'explique comment progresser avec la positivité"
 source_medium = "https://medium.com/@phenrysay/94d560b20b21"
 +++

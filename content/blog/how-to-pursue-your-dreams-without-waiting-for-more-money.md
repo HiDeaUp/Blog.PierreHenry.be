@@ -5,9 +5,9 @@ date = "2025-08-30T12:04:56.235663"
 draft = false
 description = "When we talk about dreams and big projects, money always seems to come up. Many people believe that if only they had enough money, they could finally buy that house, travel the world, or start the..."
 summary = "When we talk about dreams and big projects, money always seems to come up. Many people believe that if only they had enough money, they could finally buy that house, travel the world, or start the..."
-tags = ["dreams", "entrepreneurship", "goal setting", "money", "motivation", "nomad", "personal growth", "self improvement", "tasks"]
+tags = ["dreams", "entrepreneurship", "goal setting", "money", "motivation", "nomad", "personal growth", "self improvement"]
 priority = true
-priority_topics = ["nomad", "money", "tasks", "entrepreneurship"]
+priority_topics = ["nomad", "money", "entrepreneurship"]
 original_title = "Peut-on réaliser ses rêves ?"
 source_medium = "https://medium.com/@phenrysay/6fb74c2704ed"
 +++

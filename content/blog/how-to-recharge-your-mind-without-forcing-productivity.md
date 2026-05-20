@@ -5,9 +5,9 @@ date = "2025-08-30T08:21:08.477383"
 draft = false
 description = "Mental lightness is something we often overlook. We tend to underestimate the power of a real break—a moment to let our minds breathe, to simply rest. Whether it’s a short nap, a tenminute pause ly..."
 summary = "Mental lightness is something we often overlook. We tend to underestimate the power of a real break—a moment to let our minds breathe, to simply rest. Whether it’s a short nap, a tenminute pause ly..."
-tags = ["entrepreneurship", "mental health", "mindfulness", "money", "nomad", "productivity", "self-care", "simplicity", "stress relief", "tasks"]
+tags = ["entrepreneurship", "mental health", "mindfulness", "money", "nomad", "productivity", "self-care", "self-transcendence", "simplicity", "stress relief", "tasks"]
 priority = true
-priority_topics = ["nomad", "money", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Comment rendre tout plus simple & léger 🌤"
 source_medium = "https://medium.com/@phenrysay/d7fe602c75df"
 +++

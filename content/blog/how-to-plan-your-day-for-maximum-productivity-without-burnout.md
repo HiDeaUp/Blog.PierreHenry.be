@@ -5,9 +5,9 @@ date = "2025-08-22T20:36:39.856103"
 draft = false
 description = "Having a clear vision for each day is one of the most powerful habits you can build. When you know exactly what you want to achieve, your day takes on a new sense of purpose. This clarity helps you..."
 summary = "Having a clear vision for each day is one of the most powerful habits you can build. When you know exactly what you want to achieve, your day takes on a new sense of purpose. This clarity helps you..."
-tags = ["daily planning", "entrepreneurship", "goal setting", "habit building", "life optimization", "money", "productivity", "tasks", "time management"]
+tags = ["daily planning", "entrepreneurship", "goal setting", "habit building", "life optimization", "money", "productivity", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "Rendre son quotidien optimal"
 source_medium = "https://medium.com/@phenrysay/ba21d16695e5"
 +++

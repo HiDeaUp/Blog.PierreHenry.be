@@ -5,9 +5,9 @@ date = "2025-08-17T17:32:16.524008"
 draft = false
 description = "There are days when you wake up and, for no clear reason, your energy just isn’t there. You might have made a solid todo list the night before, full of things you want to achieve, but when morning..."
 summary = "There are days when you wake up and, for no clear reason, your energy just isn’t there. You might have made a solid todo list the night before, full of things you want to achieve, but when morning..."
-tags = ["gratitude", "mental health", "mindfulness", "money", "positive thinking", "resilience", "tasks"]
+tags = ["gratitude", "mental health", "mindfulness", "money", "positive thinking", "resilience", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "Comment cultiver la gratitude même dans les moments difficiles"
 source_medium = "https://medium.com/@phenrysay/41bdd8fbb032"
 +++

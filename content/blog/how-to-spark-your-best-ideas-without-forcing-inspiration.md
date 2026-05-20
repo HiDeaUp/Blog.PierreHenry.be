@@ -5,9 +5,9 @@ date = "2025-08-17T19:33:25.317259"
 draft = false
 description = "There’s a special place I like to visit—a bay with a wide, open view. Even when the weather turns gray and the clouds roll in, the scenery never fails to inspire me. There’s something about the spa..."
 summary = "There’s a special place I like to visit—a bay with a wide, open view. Even when the weather turns gray and the clouds roll in, the scenery never fails to inspire me. There’s something about the spa..."
-tags = ["creativity", "dream day", "entrepreneurship", "happiness", "inspiration", "nature", "productivity", "tasks"]
+tags = ["creativity", "dream day", "entrepreneurship", "happiness", "inspiration", "nature", "productivity", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Comment construire sa journée de rêve... ?"
 source_medium = "https://medium.com/@phenrysay/159e66aba409"
 +++

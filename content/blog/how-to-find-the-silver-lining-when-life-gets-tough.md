@@ -5,9 +5,9 @@ date = "2025-08-24T15:04:49.607498"
 draft = false
 description = "Life often feels like a mix of ups and downs. Sometimes, you find yourself stuck in a rough patch, thinking there’s nothing good left to hold onto. But here’s something I’ve learned: no matter how..."
 summary = "Life often feels like a mix of ups and downs. Sometimes, you find yourself stuck in a rough patch, thinking there’s nothing good left to hold onto. But here’s something I’ve learned: no matter how..."
-tags = ["mental health", "mindfulness", "optimism", "positivity", "productivity", "self care", "tasks"]
+tags = ["mental health", "mindfulness", "optimism", "positivity", "productivity", "self care", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Il y a toujours du positif dans l’air 🎉"
 source_medium = "https://medium.com/@phenrysay/74f1edd4288f"
 +++

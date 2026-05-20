@@ -5,7 +5,9 @@ date = "2025-08-24T13:51:51.471906"
 draft = false
 description = "Every day, we face countless choices. Sometimes we hesitate, unsure whether to buy that online course or those new shoes. This hesitation, this constant “maybe,” is more than just a small pause—it’..."
 summary = "Every day, we face countless choices. Sometimes we hesitate, unsure whether to buy that online course or those new shoes. This hesitation, this constant “maybe,” is more than just a small pause—it’..."
-tags = ["cognitive overload", "decision-making", "hesitation", "mental energy", "self-improvement"]
+tags = ["cognitive overload", "decision-making", "hesitation", "mental energy", "self-improvement", "self-transcendence"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Pourquoi la prise de décisions peut être néfaste ?"
 source_medium = "https://medium.com/@phenrysay/9fdf7cfb4d54"
 +++

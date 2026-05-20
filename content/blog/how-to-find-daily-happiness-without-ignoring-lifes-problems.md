@@ -5,7 +5,9 @@ date = "2025-08-17T08:51:35.408095"
 draft = false
 description = "Positivity changes everything. It’s not just a nice idea—it’s a real force that shapes how we experience the world. There are always different ways to see what happens to us. Yes, sometimes things..."
 summary = "Positivity changes everything. It’s not just a nice idea—it’s a real force that shapes how we experience the world. There are always different ways to see what happens to us. Yes, sometimes things..."
-tags = ["mindset", "personal growth", "perspective", "positivity", "self-improvement"]
+tags = ["mindset", "personal growth", "perspective", "positivity", "self-improvement", "self-transcendence"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Vers une vie plus épanouie : Change ta perception du quotidien"
 source_medium = "https://medium.com/@phenrysay/a5f466bc7429"
 +++

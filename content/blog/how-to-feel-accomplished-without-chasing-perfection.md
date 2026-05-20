@@ -5,9 +5,9 @@ date = "2025-08-31T21:11:34.697310"
 draft = false
 description = "Satisfaction is one of those feelings we all crave. Being satisfied with yourself, feeling accomplished, and being able to say, “I’m happy with what I did today,” is a wonderful milestone. It’s not..."
 summary = "Satisfaction is one of those feelings we all crave. Being satisfied with yourself, feeling accomplished, and being able to say, “I’m happy with what I did today,” is a wonderful milestone. It’s not..."
-tags = ["happiness", "motivation", "personal growth", "satisfaction", "self-improvement", "tasks"]
+tags = ["happiness", "motivation", "personal growth", "satisfaction", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Comment gagner en satisfaction ?"
 source_medium = "https://medium.com/@phenrysay/949be9dc0e27"
 +++

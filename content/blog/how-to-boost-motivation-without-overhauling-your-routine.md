@@ -5,9 +5,9 @@ date = "2025-08-30T08:55:41.974687"
 draft = false
 description = "Motivation is not just a buzzword. It is the fuel that gets you out of bed in the morning, helps you focus on your work, and keeps you moving forward even when your mind starts to wander. We all kn..."
 summary = "Motivation is not just a buzzword. It is the fuel that gets you out of bed in the morning, helps you focus on your work, and keeps you moving forward even when your mind starts to wander. We all kn..."
-tags = ["daily habits", "money", "motivation", "personal development", "productivity", "self-improvement", "tasks", "time management"]
+tags = ["daily habits", "money", "motivation", "personal development", "productivity", "self-improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment ajouter de la motivation dans son quotidien"
 source_medium = "https://medium.com/@phenrysay/5dd0b6ff9e44"
 +++

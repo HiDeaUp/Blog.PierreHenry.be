@@ -5,9 +5,9 @@ date = "2025-08-18T17:54:38.811303"
 draft = false
 description = "We all have projects, dreams, and things we want to achieve. Some of us are more ambitious than others, but ambition is a deeply personal thing. It’s important not to compare your ambition to someo..."
 summary = "We all have projects, dreams, and things we want to achieve. Some of us are more ambitious than others, but ambition is a deeply personal thing. It’s important not to compare your ambition to someo..."
-tags = ["happiness", "life purpose", "mindset", "money", "personal growth", "self-improvement", "tasks"]
+tags = ["happiness", "life purpose", "mindset", "money", "personal growth", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "REGARDE CECI SI TU N’EST PAS 100% HEUREUX DANS TA VIE"
 source_medium = "https://medium.com/@phenrysay/b89bd92d2513"
 +++

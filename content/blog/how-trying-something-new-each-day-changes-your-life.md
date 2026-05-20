@@ -5,9 +5,9 @@ date = "2025-08-24T16:10:11.377997"
 draft = false
 description = "Moving towards new horizons is what I want to share with you today. Every day is a chance to try something different, to step into a world that might feel a little unfamiliar. Maybe today is the da..."
 summary = "Moving towards new horizons is what I want to share with you today. Every day is a chance to try something different, to step into a world that might feel a little unfamiliar. Maybe today is the da..."
-tags = ["embracing change", "entrepreneurship", "mindset", "money", "new experiences", "personal growth", "self improvement", "tasks"]
+tags = ["embracing change", "entrepreneurship", "mindset", "money", "new experiences", "personal growth", "self improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Nouvelle façon de penser💡"
 source_medium = "https://medium.com/@phenrysay/d9bb8448b852"
 +++

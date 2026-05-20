@@ -5,9 +5,9 @@ date = "2025-08-31T21:59:33.802155"
 draft = false
 description = "Many people spend their days chasing after someone else’s idea of happiness. But what if the real secret is to build a life that’s unique to you—a lifestyle where you feel at home, no matter where..."
 summary = "Many people spend their days chasing after someone else’s idea of happiness. But what if the real secret is to build a life that’s unique to you—a lifestyle where you feel at home, no matter where..."
-tags = ["fulfillment", "lifestyle", "personal growth", "simplicity", "tasks", "well-being"]
+tags = ["fulfillment", "lifestyle", "personal growth", "self-transcendence", "simplicity", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Être épanoui dans sa vie en toute simplicité"
 source_medium = "https://medium.com/@phenrysay/ed26a2f8c7de"
 +++

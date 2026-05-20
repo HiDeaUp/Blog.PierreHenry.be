@@ -5,9 +5,9 @@ date = "2025-08-31T21:49:00.949319"
 draft = false
 description = "Have you ever wondered who you really are, or what truly brings you joy? Many of us drift through life, caught in routines that feel more like existing than living. We go to work, maybe as freelanc..."
 summary = "Have you ever wondered who you really are, or what truly brings you joy? Many of us drift through life, caught in routines that feel more like existing than living. We go to work, maybe as freelanc..."
-tags = ["breaking routine", "life purpose", "personal growth", "productivity", "self-discovery", "self-realization"]
+tags = ["breaking routine", "life purpose", "personal growth", "productivity", "self-discovery", "self-realization", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "🤗 La réalisation de soi ✨ Comment faire ?"
 source_medium = "https://medium.com/@phenrysay/2d8129802d73"
 +++

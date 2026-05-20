@@ -5,9 +5,9 @@ date = "2025-08-30T08:59:28.327737"
 draft = false
 description = "Have you ever noticed how the space around you can change your mood, your thoughts, even your sense of self? Today, I want to talk about wellbeing and personal growth, and how much your environment..."
 summary = "Have you ever noticed how the space around you can change your mood, your thoughts, even your sense of self? Today, I want to talk about wellbeing and personal growth, and how much your environment..."
-tags = ["creativity", "environment", "mindfulness", "money", "personal growth", "well-being"]
+tags = ["creativity", "environment", "mindfulness", "money", "personal growth", "self-transcendence", "well-being"]
 priority = true
-priority_topics = ["money"]
+priority_topics = ["money", "self-transcendence"]
 original_title = "Bien-être par l’environnement 🤗"
 source_medium = "https://medium.com/@phenrysay/1ce2b1b9eed6"
 +++

@@ -5,9 +5,9 @@ date = "2025-06-08T05:47:37.754240"
 draft = false
 description = "There’s something powerful about giving yourself a reward after finishing a task. I’ve been using this principle for a while now, and it’s changed the way I work and live. Let me share how I do it,..."
 summary = "There’s something powerful about giving yourself a reward after finishing a task. I’ve been using this principle for a while now, and it’s changed the way I work and live. Let me share how I do it,..."
-tags = ["entrepreneurship", "money", "motivation", "personal development", "productivity", "self-improvement", "simplicity", "tasks", "time blocking"]
+tags = ["entrepreneurship", "money", "motivation", "personal development", "productivity", "self-improvement", "self-transcendence", "simplicity", "tasks", "time blocking"]
 priority = true
-priority_topics = ["money", "tasks", "productivity", "time blocking", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity", "time blocking", "entrepreneurship"]
 original_title = "Simplicité & Réussite: Ma toute nouvelle manière de simplifier ma vie."
 source_medium = "https://medium.com/@phenrysay/064bb36b9a8a"
 +++

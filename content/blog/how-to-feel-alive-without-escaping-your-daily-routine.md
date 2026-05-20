@@ -5,9 +5,9 @@ date = "2025-08-21T07:59:57.974840"
 draft = false
 description = "Organic Focus is clean and sharp. Blended with Vanilla Beam, Clementine, Rosemary, and Cinnamon, it's designed to take away distractions. Focus is the blend to use when you need to get things done."
 summary = "Organic Focus is clean and sharp. Blended with Vanilla Beam, Clementine, Rosemary, and Cinnamon, it's designed to take away distractions. Focus is the blend to use when you need to get things done."
-tags = ["living in the present", "mindfulness", "money", "productivity", "relaxation", "stress relief", "tasks", "wealth", "wellbeing"]
+tags = ["living in the present", "mindfulness", "money", "productivity", "relaxation", "self-transcendence", "stress relief", "tasks", "wealth", "wellbeing"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "RELAXATION. BIEN VIVRE. COMMENT SE RELAXER ?"
 source_medium = "https://medium.com/@phenrysay/b775990b3fd6"
 +++

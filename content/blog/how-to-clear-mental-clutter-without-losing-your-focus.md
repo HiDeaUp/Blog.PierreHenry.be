@@ -5,9 +5,9 @@ date = "2025-08-24T14:00:50.868147"
 draft = false
 description = "Have you ever noticed how a single outside event can completely throw off your productivity? One unexpected message or notification can fill your mind with mental clutter, making it almost impossib..."
 summary = "Have you ever noticed how a single outside event can completely throw off your productivity? One unexpected message or notification can fill your mind with mental clutter, making it almost impossib..."
-tags = ["focus", "mental clarity", "mindfulness", "productivity", "taking action", "tasks"]
+tags = ["focus", "mental clarity", "mindfulness", "productivity", "self-transcendence", "taking action", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment agir dans sa vie ?"
 source_medium = "https://medium.com/@phenrysay/99a9444dd64b"
 +++

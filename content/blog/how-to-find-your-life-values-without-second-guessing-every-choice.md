@@ -5,9 +5,9 @@ date = "2025-08-25T17:42:32.834852"
 draft = false
 description = "Setting your values is one of the most important things you can do for yourself. Whether it’s about your professional life or your personal relationships, knowing what truly matters to you makes ev..."
 summary = "Setting your values is one of the most important things you can do for yourself. Whether it’s about your professional life or your personal relationships, knowing what truly matters to you makes ev..."
-tags = ["core beliefs", "entrepreneurship", "finding purpose", "life values", "money", "personal growth", "self-discovery", "time management"]
+tags = ["core beliefs", "entrepreneurship", "finding purpose", "life values", "money", "personal growth", "self-discovery", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["money", "time management", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "time management", "entrepreneurship"]
 original_title = "Comment trouver ses VALEURS DE VIE ?"
 source_medium = "https://medium.com/@phenrysay/e8a025ad4a38"
 +++

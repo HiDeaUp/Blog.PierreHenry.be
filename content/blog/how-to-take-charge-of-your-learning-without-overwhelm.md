@@ -5,9 +5,9 @@ date = "2025-08-19T23:13:11.251545"
 draft = false
 description = "Have you ever noticed that the knowledge you want is actually within everyone’s reach? That’s something I want you to realize. The real difference comes from having a study plan—a clear roadmap for..."
 summary = "Have you ever noticed that the knowledge you want is actually within everyone’s reach? That’s something I want you to realize. The real difference comes from having a study plan—a clear roadmap for..."
-tags = ["learning strategies", "money", "personal projects", "productivity", "self-development", "study planner", "tasks", "wealth"]
+tags = ["learning strategies", "money", "personal projects", "productivity", "self-development", "self-transcendence", "study planner", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "Pourquoi un Study Planner peut te servir pour ton activité ?"
 source_medium = "https://medium.com/@phenrysay/85f9a2131c04"
 +++

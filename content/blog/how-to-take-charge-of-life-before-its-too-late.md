@@ -5,9 +5,9 @@ date = "2025-08-17T18:44:33.078908"
 draft = false
 description = "Most of us underestimate one simple fact: life has an end. It stops one day, sometimes without warning. Yet, we plan and react as if we’ll be here forever, as if tomorrow is always guaranteed. But..."
 summary = "Most of us underestimate one simple fact: life has an end. It stops one day, sometimes without warning. Yet, we plan and react as if we’ll be here forever, as if tomorrow is always guaranteed. But..."
-tags = ["life purpose", "living in the moment", "mindfulness", "money", "mortality", "nomad", "personal growth", "productivity", "tech"]
+tags = ["life purpose", "living in the moment", "mindfulness", "money", "mortality", "nomad", "personal growth", "productivity", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "nomad", "money", "productivity"]
+priority_topics = ["tech", "nomad", "money", "self-transcendence", "productivity"]
 original_title = "VÉRITÉ: Prendre sa vie en main. La vie peut s'arrêter à tout moment"
 source_medium = "https://medium.com/@phenrysay/1345ae27bdde"
 +++

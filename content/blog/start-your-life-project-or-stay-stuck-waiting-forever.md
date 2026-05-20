@@ -5,9 +5,9 @@ date = "2026-01-12T20:28:09.843097"
 draft = false
 description = "Building something for yourself is one of the most rewarding things you can do. It could be a small, cozy project, something that gives you a sense of comfort and pride, or something that pushes yo..."
 summary = "Building something for yourself is one of the most rewarding things you can do. It could be a small, cozy project, something that gives you a sense of comfort and pride, or something that pushes yo..."
-tags = ["entrepreneurship", "goal setting", "life project", "motivation", "personal development", "productivity", "success tips", "tasks"]
+tags = ["entrepreneurship", "goal setting", "life project", "motivation", "personal development", "productivity", "self-transcendence", "success tips", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Bâtir un projet de vie. Ce que ceux qui réussissent on déjà compris …"
 source_medium = "https://medium.com/@phenrysay/b5424826a937"
 source_youtube = "https://www.youtube.com/watch?v=wScvzhSWF-0"

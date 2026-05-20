@@ -5,9 +5,9 @@ date = "2025-08-19T07:48:20.694703"
 draft = false
 description = "What’s the real secret to feeling good? It’s simpler than you think: do things that bring you joy. That’s it. But as simple as it sounds, it’s often the hardest thing to put into practice. Life get..."
 summary = "What’s the real secret to feeling good? It’s simpler than you think: do things that bring you joy. That’s it. But as simple as it sounds, it’s often the hardest thing to put into practice. Life get..."
-tags = ["energy boost", "mindfulness", "motivation", "nomad", "productivity", "self-care", "tasks", "wellness"]
+tags = ["energy boost", "mindfulness", "motivation", "nomad", "productivity", "self-care", "self-transcendence", "tasks", "wellness"]
 priority = true
-priority_topics = ["nomad", "tasks", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "tasks", "productivity"]
 original_title = "Recharge ton Énergie en 5 MINUTES 🔥"
 source_medium = "https://medium.com/@phenrysay/701eaaf09ee5"
 +++

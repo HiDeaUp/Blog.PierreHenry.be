@@ -5,9 +5,9 @@ date = "2025-08-25T19:28:45.299281"
 draft = false
 description = "Sometimes, it feels impossible to find real pleasure in what we do, especially when our daily routine starts to feel like a neverending loop. Maybe you’re stuck in a job you don’t like, or you feel..."
 summary = "Sometimes, it feels impossible to find real pleasure in what we do, especially when our daily routine starts to feel like a neverending loop. Maybe you’re stuck in a job you don’t like, or you feel..."
-tags = ["finding joy", "life satisfaction", "mindfulness", "money", "personal growth", "pleasure", "tasks", "time management"]
+tags = ["finding joy", "life satisfaction", "mindfulness", "money", "personal growth", "pleasure", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["money", "time management", "tasks"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks"]
 original_title = "Peut-on trouver le pur plaisir ? 🤔"
 source_medium = "https://medium.com/@phenrysay/e734d928d840"
 +++

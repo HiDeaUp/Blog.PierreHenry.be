@@ -5,9 +5,9 @@ date = "2025-08-17T17:47:18.994941"
 draft = false
 description = "Have you ever noticed how your energy shifts when you work somewhere new? Today, I want to share the surprising benefits of working in public places—like a café, a library, or even a quiet park ben..."
 summary = "Have you ever noticed how your energy shifts when you work somewhere new? Today, I want to share the surprising benefits of working in public places—like a café, a library, or even a quiet park ben..."
-tags = ["creativity", "entrepreneurship", "focus", "money", "productivity", "public spaces", "wealth", "work environment"]
+tags = ["creativity", "entrepreneurship", "focus", "money", "productivity", "public spaces", "self-transcendence", "wealth", "work environment"]
 priority = true
-priority_topics = ["money", "wealth", "productivity", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "⏳ La Technique Cachée Qui Te Rend 5x Plus Productif ! ⚡️"
 source_medium = "https://medium.com/@phenrysay/0067639c6343"
 +++

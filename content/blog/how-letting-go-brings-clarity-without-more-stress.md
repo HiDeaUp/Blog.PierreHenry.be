@@ -5,9 +5,9 @@ date = "2025-08-19T23:30:36.521079"
 draft = false
 description = "Stress is everywhere. It creeps in at work, at home, and even in the smallest details—like noticing a speck of dust and suddenly feeling tense. Sometimes, it’s the noise outside, the rush of cars,..."
 summary = "Stress is everywhere. It creeps in at work, at home, and even in the smallest details—like noticing a speck of dust and suddenly feeling tense. Sometimes, it’s the noise outside, the rush of cars,..."
-tags = ["freedom", "happiness", "letting go", "productivity", "stress management", "tasks", "well-being"]
+tags = ["freedom", "happiness", "letting go", "productivity", "self-transcendence", "stress management", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Bonheur, liberté… Comment être gagnant ?"
 source_medium = "https://medium.com/@phenrysay/3daac3e55974"
 +++

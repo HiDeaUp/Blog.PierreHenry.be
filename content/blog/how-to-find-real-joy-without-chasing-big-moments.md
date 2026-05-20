@@ -5,9 +5,9 @@ date = "2025-08-20T07:03:48.764078"
 draft = false
 description = "Recently, I found myself in a small haven of peace—a Japanese garden in Canberra, right by the river. The place is stunning, with its calm waters and perfectly maintained paths. I checked my map to..."
 summary = "Recently, I found myself in a small haven of peace—a Japanese garden in Canberra, right by the river. The place is stunning, with its calm waters and perfectly maintained paths. I checked my map to..."
-tags = ["finding joy", "living in the present", "mental clarity", "mindfulness", "simple pleasures", "tasks"]
+tags = ["finding joy", "living in the present", "mental clarity", "mindfulness", "self-transcendence", "simple pleasures", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Tout le monde a tort. La vérité sur les plaisirs du présent"
 source_medium = "https://medium.com/@phenrysay/3116668d2c0f"
 +++

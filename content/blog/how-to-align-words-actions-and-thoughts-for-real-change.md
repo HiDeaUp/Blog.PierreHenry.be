@@ -5,9 +5,9 @@ date = "2025-08-17T18:18:13.759826"
 draft = false
 description = "Paying attention to what we say, what we do, and even what we think is more important than we often realize. Our thoughts, our actions, and our words are not just reflections of who we are—they sha..."
 summary = "Paying attention to what we say, what we do, and even what we think is more important than we often realize. Our thoughts, our actions, and our words are not just reflections of who we are—they sha..."
-tags = ["communication skills", "daily life", "mindfulness", "personal growth", "productivity", "self-improvement"]
+tags = ["communication skills", "daily life", "mindfulness", "personal growth", "productivity", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Comment mieux réagir dans la vie quotidienne ?"
 source_medium = "https://medium.com/@phenrysay/ee53f94d7c5e"
 +++

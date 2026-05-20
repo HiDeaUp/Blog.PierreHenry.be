@@ -5,9 +5,9 @@ date = "2025-08-25T18:43:28.374788"
 draft = false
 description = "Have you ever wondered if you could design your life the way an architect designs a building? Imagine shaping your days with intention, making each one stronger, more enjoyable, and more productive..."
 summary = "Have you ever wondered if you could design your life the way an architect designs a building? Imagine shaping your days with intention, making each one stronger, more enjoyable, and more productive..."
-tags = ["daily routine", "entrepreneurship", "intentional living", "life design", "personal development", "productivity", "self improvement", "tasks", "time management"]
+tags = ["daily routine", "entrepreneurship", "intentional living", "life design", "personal development", "productivity", "self improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "Peut-on architecturer sa vie ?"
 source_medium = "https://medium.com/@phenrysay/c7f6b42e4c2f"
 +++

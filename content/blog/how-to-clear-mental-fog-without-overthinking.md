@@ -5,9 +5,9 @@ date = "2025-08-24T14:44:57.113429"
 draft = false
 description = "Mental fog is something we all experience. It’s that heavy feeling in your head, the weight you carry from everyday stress, frustration, or even anger. Sometimes, it’s just the result of a tough da..."
 summary = "Mental fog is something we all experience. It’s that heavy feeling in your head, the weight you carry from everyday stress, frustration, or even anger. Sometimes, it’s just the result of a tough da..."
-tags = ["mental clarity", "mental health", "mindfulness", "productivity", "stress relief", "well-being"]
+tags = ["mental clarity", "mental health", "mindfulness", "productivity", "self-transcendence", "stress relief", "well-being"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Pollution Mentale : comment s'en libérer"
 source_medium = "https://medium.com/@phenrysay/6eb1791eb9f8"
 +++

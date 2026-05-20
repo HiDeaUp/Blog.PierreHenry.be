@@ -5,9 +5,9 @@ date = "2025-08-19T22:32:02.059355"
 draft = false
 description = "Stress creeps in from all sides. It could be work, the noise outside, fast cars, or even a disagreement with someone close. Sometimes, it’s just a cloud of worries about money or the endless todo l..."
 summary = "Stress creeps in from all sides. It could be work, the noise outside, fast cars, or even a disagreement with someone close. Sometimes, it’s just a cloud of worries about money or the endless todo l..."
-tags = ["calmness", "mindfulness", "money", "productivity", "stress relief", "tasks", "time management", "tranquility", "wellbeing"]
+tags = ["calmness", "mindfulness", "money", "productivity", "self-transcendence", "stress relief", "tasks", "time management", "tranquility", "wellbeing"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Tranquillité & Apaisement. Ce qu'il faut faire"
 source_medium = "https://medium.com/@phenrysay/984b011e10f9"
 +++

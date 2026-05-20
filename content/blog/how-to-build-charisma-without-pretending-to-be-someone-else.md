@@ -5,7 +5,9 @@ date = "2025-09-10T10:04:33.130169"
 draft = false
 description = "Having a charisma that inspires is more than just a nice trait. It starts with a simple act: looking at yourself in the mirror and asking, “What kind of charisma do I want to have? What kind of per..."
 summary = "Having a charisma that inspires is more than just a nice trait. It starts with a simple act: looking at yourself in the mirror and asking, “What kind of charisma do I want to have? What kind of per..."
-tags = ["charisma", "confidence", "inspiration", "personal development", "self-improvement"]
+tags = ["charisma", "confidence", "inspiration", "personal development", "self-improvement", "self-transcendence"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Travailler sur son charisme 🚀"
 source_medium = "https://medium.com/@phenrysay/5b4b2468e0bb"
 +++

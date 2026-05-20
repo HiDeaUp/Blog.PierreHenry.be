@@ -5,7 +5,9 @@ date = "2025-08-31T21:17:10.220835"
 draft = false
 description = "Living in the present is not just a nice idea—it is essential if you want to feel good about your life and know where you are heading. When you are truly in the present, you stop carrying the weigh..."
 summary = "Living in the present is not just a nice idea—it is essential if you want to feel good about your life and know where you are heading. When you are truly in the present, you stop carrying the weigh..."
-tags = ["living in the moment", "mindfulness", "present moment", "self-awareness", "wellbeing"]
+tags = ["living in the moment", "mindfulness", "present moment", "self-awareness", "self-transcendence", "wellbeing"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Comment vivre au présent ✨"
 source_medium = "https://medium.com/@phenrysay/8177da702e36"
 +++

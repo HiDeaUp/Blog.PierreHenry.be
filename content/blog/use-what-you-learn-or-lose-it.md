@@ -5,9 +5,9 @@ date = "2025-08-31T22:04:59.897327"
 draft = false
 description = "Have you ever noticed how easy it is to get lost in a sea of information? We read book after book, bingewatch online courses, listen to podcasts, and fill our heads with advice. But here’s the trut..."
 summary = "Have you ever noticed how easy it is to get lost in a sea of information? We read book after book, bingewatch online courses, listen to podcasts, and fill our heads with advice. But here’s the trut..."
-tags = ["knowledge application", "personal development", "practical learning", "productivity", "self-improvement", "taking action", "tasks"]
+tags = ["knowledge application", "personal development", "practical learning", "productivity", "self-improvement", "self-transcendence", "taking action", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Mettre en application se que tu apprends 🚀"
 source_medium = "https://medium.com/@phenrysay/94ba05ba1cd1"
 +++

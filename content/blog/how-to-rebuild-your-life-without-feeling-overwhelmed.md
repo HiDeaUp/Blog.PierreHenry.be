@@ -5,9 +5,9 @@ date = "2025-08-19T14:31:43.980452"
 draft = false
 description = "Rebuilding your future, rebuilding your life—these ideas might sound huge, even overwhelming. But I want to share something personal and practical about this topic, because for a long time, I felt..."
 summary = "Rebuilding your future, rebuilding your life—these ideas might sound huge, even overwhelming. But I want to share something personal and practical about this topic, because for a long time, I felt..."
-tags = ["happiness", "life hacks", "money", "personal growth", "self-improvement", "tasks", "time management"]
+tags = ["happiness", "life hacks", "money", "personal growth", "self-improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["money", "time management", "tasks"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks"]
 original_title = "Passer du temps pour faire ce qui nous fait plaisir. Le hack pour 2025"
 source_medium = "https://medium.com/@phenrysay/519b3bcb5318"
 +++

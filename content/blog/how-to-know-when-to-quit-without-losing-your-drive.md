@@ -5,9 +5,9 @@ date = "2025-08-19T23:30:10.298232"
 draft = false
 description = "Persistence is often praised as the key to success. We hear it everywhere: never give up, keep pushing, stay the course. But there’s a side to persistence that’s rarely discussed—the moment when it..."
 summary = "Persistence is often praised as the key to success. We hear it everywhere: never give up, keep pushing, stay the course. But there’s a side to persistence that’s rarely discussed—the moment when it..."
-tags = ["decision making", "letting go", "persistence", "personal growth", "productivity", "self-awareness"]
+tags = ["decision making", "letting go", "persistence", "personal growth", "productivity", "self-awareness", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Comment ne plus rentrer dans le piège de la persévérance ?"
 source_medium = "https://medium.com/@phenrysay/d2841d270c7e"
 +++

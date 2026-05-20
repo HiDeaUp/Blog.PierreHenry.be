@@ -5,9 +5,9 @@ date = "2025-08-31T21:28:49.105734"
 draft = false
 description = "When was the last time you really stopped and questioned yourself—not just out of habit, but with real intention? Most of us rush through our days, rarely pausing to reflect on our actions or choic..."
 summary = "When was the last time you really stopped and questioned yourself—not just out of habit, but with real intention? Most of us rush through our days, rarely pausing to reflect on our actions or choic..."
-tags = ["introspection", "mindfulness", "personal growth", "productivity", "self-improvement", "self-reflection", "tasks"]
+tags = ["introspection", "mindfulness", "personal growth", "productivity", "self-improvement", "self-reflection", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment se remettre en question?"
 source_medium = "https://medium.com/@phenrysay/8a1ab94cd66f"
 +++

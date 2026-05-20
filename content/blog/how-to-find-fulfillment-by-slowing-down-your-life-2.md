@@ -5,9 +5,9 @@ date = "2025-08-22T20:21:11.956411"
 draft = false
 description = "Have you ever watched a mail carrier zip by in their little car, moving quickly from one stop to the next? It’s almost funny how fast they go, focused on their route, never really stopping to take..."
 summary = "Have you ever watched a mail carrier zip by in their little car, moving quickly from one stop to the next? It’s almost funny how fast they go, focused on their route, never really stopping to take..."
-tags = ["intentional living", "life fulfillment", "mindfulness", "money", "personal growth", "self-improvement", "tasks"]
+tags = ["intentional living", "life fulfillment", "mindfulness", "money", "personal growth", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "CRÉATION D’UNE VIE QUI TE PARLE"
 source_medium = "https://medium.com/@phenrysay/1d0a25d74177"
 +++

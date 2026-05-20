@@ -5,9 +5,9 @@ date = "2025-08-25T17:39:23.876847"
 draft = false
 description = "As the sun sets, it’s a perfect moment to pause and reflect on what happiness really means. Too often, we get caught up in chasing success, more money, better degrees, or the approval of friends an..."
 summary = "As the sun sets, it’s a perfect moment to pause and reflect on what happiness really means. Too often, we get caught up in chasing success, more money, better degrees, or the approval of friends an..."
-tags = ["happiness", "life purpose", "mindfulness", "money", "productivity", "self-reflection", "success", "tasks"]
+tags = ["happiness", "life purpose", "mindfulness", "money", "productivity", "self-reflection", "self-transcendence", "success", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity"]
 original_title = "Ce que tu rates sur le bonheur"
 source_medium = "https://medium.com/@phenrysay/64237aa90a6f"
 +++

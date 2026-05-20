@@ -5,9 +5,9 @@ date = "2025-08-17T18:59:21.592886"
 draft = false
 description = "We all want to be happier, more productive, and more fulfilled. But too often, we get caught up in what I call the “rat race”—always running after more: more achievements, more money, more recognit..."
 summary = "We all want to be happier, more productive, and more fulfilled. But too often, we get caught up in what I call the “rat race”—always running after more: more achievements, more money, more recognit..."
-tags = ["habits", "life transformation", "mindfulness", "money", "productivity", "rat race", "self improvement", "time management", "wealth"]
+tags = ["habits", "life transformation", "mindfulness", "money", "productivity", "rat race", "self improvement", "self-transcendence", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "productivity"]
 original_title = "Les Habitudes a savoir pour transformer votre vie dès ce soir"
 source_medium = "https://medium.com/@phenrysay/c099dce9ab29"
 +++

@@ -5,9 +5,9 @@ date = "2025-06-09T00:45:05.587386"
 draft = false
 description = "Anger is often seen as something negative, something to avoid or suppress. But what if, instead of letting anger destroy you or your surroundings, you could use it as a tool to build the life you w..."
 summary = "Anger is often seen as something negative, something to avoid or suppress. But what if, instead of letting anger destroy you or your surroundings, you could use it as a tool to build the life you w..."
-tags = ["anger management", "emotional intelligence", "personal growth", "self improvement", "success strategies", "tasks"]
+tags = ["anger management", "emotional intelligence", "personal growth", "self improvement", "self-transcendence", "success strategies", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Utilisation de la colère à son avantage pour réussir davantage - Le guide de celui qui réussit"
 source_medium = "https://medium.com/@phenrysay/838cf0fda50e"
 +++

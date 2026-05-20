@@ -5,9 +5,9 @@ date = "2025-06-08T06:42:32.415618"
 draft = false
 description = "When motivation lights up our positive energy, it feels like we can do anything. But motivation is closely tied to what we actually accomplish. When it’s missing, we don’t feel like doing much at a..."
 summary = "When motivation lights up our positive energy, it feels like we can do anything. But motivation is closely tied to what we actually accomplish. When it’s missing, we don’t feel like doing much at a..."
-tags = ["habits", "motivation", "personal growth", "productivity", "self-improvement", "tasks"]
+tags = ["habits", "motivation", "personal growth", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment Déclencher Une Motivation Inébranlable ?"
 source_medium = "https://medium.com/@phenrysay/f30b668b993e"
 +++

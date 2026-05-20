@@ -5,9 +5,9 @@ date = "2025-08-24T16:06:13.757885"
 draft = false
 description = "There’s something powerful about investing yourself completely in every project, every conversation, every small task you take on. It’s not just about being involved; it’s about being all in, every..."
 summary = "There’s something powerful about investing yourself completely in every project, every conversation, every small task you take on. It’s not just about being involved; it’s about being all in, every..."
-tags = ["being present", "life philosophy", "mindfulness", "money", "personal growth", "productivity", "self-improvement", "tasks", "time management", "wealth"]
+tags = ["being present", "life philosophy", "mindfulness", "money", "personal growth", "productivity", "self-improvement", "self-transcendence", "tasks", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "S'investir à 100% dans sa vie méthode de l'instant précieux"
 source_medium = "https://medium.com/@phenrysay/9e6c812bfe8b"
 +++

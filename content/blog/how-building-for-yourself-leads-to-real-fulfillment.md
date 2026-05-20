@@ -5,9 +5,9 @@ date = "2025-08-30T11:33:56.414941"
 draft = false
 description = "Have you ever felt the urge to create something just for yourself? Maybe you’ve dreamed of starting an investment fund, launching a startup, writing a book, or designing a course—maybe even a progr..."
 summary = "Have you ever felt the urge to create something just for yourself? Maybe you’ve dreamed of starting an investment fund, launching a startup, writing a book, or designing a course—maybe even a progr..."
-tags = ["entrepreneurship", "goal setting", "money", "motivation", "personal development", "productivity", "self achievement", "self improvement", "tech", "time management"]
+tags = ["entrepreneurship", "goal setting", "money", "motivation", "personal development", "productivity", "self achievement", "self improvement", "self-transcendence", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "money", "time management", "productivity", "entrepreneurship"]
+priority_topics = ["tech", "money", "self-transcendence", "time management", "productivity", "entrepreneurship"]
 original_title = "Bâtir des réalisations personnelles ✨"
 source_medium = "https://medium.com/@phenrysay/4d34bc0e787e"
 +++

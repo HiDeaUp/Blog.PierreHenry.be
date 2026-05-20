@@ -5,7 +5,9 @@ date = "2025-08-30T11:51:24.846669"
 draft = false
 description = "Happiness is a topic I talk about every day. It might sound a bit repetitive or even silly at first, but let’s be honest: happiness is the most beautiful thing in life. Think about it—life is like..."
 summary = "Happiness is a topic I talk about every day. It might sound a bit repetitive or even silly at first, but let’s be honest: happiness is the most beautiful thing in life. Think about it—life is like..."
-tags = ["beautiful life", "happiness", "life purpose", "philosophy", "wellbeing"]
+tags = ["beautiful life", "happiness", "life purpose", "philosophy", "self-transcendence", "wellbeing"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Pourquoi Une Belle Vie ?"
 source_medium = "https://medium.com/@phenrysay/1d196bcbd132"
 +++

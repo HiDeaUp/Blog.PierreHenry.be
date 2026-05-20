@@ -5,9 +5,9 @@ date = "2025-08-30T10:27:56.010741"
 draft = false
 description = "Selfconfidence is one of those things everyone talks about, but few people really feel deep down. After a run, catching my breath, I realized how much energy and drive come from believing in yourse..."
 summary = "Selfconfidence is one of those things everyone talks about, but few people really feel deep down. After a run, catching my breath, I realized how much energy and drive come from believing in yourse..."
-tags = ["mental strength", "mindset", "personal development", "productivity", "self-confidence", "self-improvement"]
+tags = ["mental strength", "mindset", "personal development", "productivity", "self-confidence", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Une CONFIANCE hors-norme 😱"
 source_medium = "https://medium.com/@phenrysay/ac0198fd2e08"
 +++

@@ -5,9 +5,9 @@ date = "2026-01-12T20:17:59.302703"
 draft = false
 description = "I spend a lot of my time creating web applications and software. Solving problems through code is something I truly enjoy. But when I step back and look at my life, I realize my purpose goes much d..."
 summary = "I spend a lot of my time creating web applications and software. Solving problems through code is something I truly enjoy. But when I step back and look at my life, I realize my purpose goes much d..."
-tags = ["happiness", "money", "motivation", "personal-growth", "productivity", "self-improvement", "success", "tasks", "tech"]
+tags = ["happiness", "money", "motivation", "personal-growth", "productivity", "self-improvement", "self-transcendence", "success", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "money", "tasks", "productivity"]
+priority_topics = ["tech", "money", "self-transcendence", "tasks", "productivity"]
 original_title = "Devenir le héro de sa vie #réussite #succès"
 source_medium = "https://medium.com/@phenrysay/adabc2f260f6"
 source_youtube = "https://www.youtube.com/watch?v=v-7VTEj5TiY"

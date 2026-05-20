@@ -5,9 +5,9 @@ date = "2025-08-24T15:32:54.477341"
 draft = false
 description = "When was the last time you truly challenged yourself? Not just going through the motions, but setting a real challenge that made you feel alive? Pushing yourself, even just a little, changes everyt..."
 summary = "When was the last time you truly challenged yourself? Not just going through the motions, but setting a real challenge that made you feel alive? Pushing yourself, even just a little, changes everyt..."
-tags = ["misconceptions", "motivation", "personal growth", "self-improvement", "success", "tasks"]
+tags = ["misconceptions", "motivation", "personal growth", "self-improvement", "self-transcendence", "success", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Réussite facile. Pourquoi tout le monde à faux ?"
 source_medium = "https://medium.com/@phenrysay/177aab565127"
 +++

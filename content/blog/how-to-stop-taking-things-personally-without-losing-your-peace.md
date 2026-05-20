@@ -5,9 +5,9 @@ date = "2025-08-30T08:33:00.528016"
 draft = false
 description = "Have you ever noticed how often we put ourselves at the center of every story? It’s almost automatic. Someone honks their car horn and we assume it’s directed at us. We catch a stranger’s angry gla..."
 summary = "Have you ever noticed how often we put ourselves at the center of every story? It’s almost automatic. Someone honks their car horn and we assume it’s directed at us. We catch a stranger’s angry gla..."
-tags = ["emotional intelligence", "mental health", "nomad", "personal growth", "perspective", "productivity", "self-awareness"]
+tags = ["emotional intelligence", "mental health", "nomad", "personal growth", "perspective", "productivity", "self-awareness", "self-transcendence"]
 priority = true
-priority_topics = ["nomad", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "productivity"]
 original_title = "Tu n’es pas le centre du monde 🛑"
 source_medium = "https://medium.com/@phenrysay/c42c37f329c4"
 +++

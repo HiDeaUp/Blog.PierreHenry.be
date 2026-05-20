@@ -5,9 +5,9 @@ date = "2025-08-24T15:19:36.054638"
 draft = false
 description = "Many of us wake up on weekends feeling a bit lost. There’s no real plan, so we get up later than usual, have breakfast, and then drift through the morning. We scroll online, do some random searches..."
 summary = "Many of us wake up on weekends feeling a bit lost. There’s no real plan, so we get up later than usual, have breakfast, and then drift through the morning. We scroll online, do some random searches..."
-tags = ["happiness tips", "joyful living", "life secrets", "morning routine", "productivity", "self-improvement", "tasks"]
+tags = ["happiness tips", "joyful living", "life secrets", "morning routine", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "SECRETS d'une vie JOYEUSE 🤫"
 source_medium = "https://medium.com/@phenrysay/8c8ff8625212"
 +++

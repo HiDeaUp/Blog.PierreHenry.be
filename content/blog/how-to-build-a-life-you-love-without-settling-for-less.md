@@ -5,9 +5,9 @@ date = "2025-09-03T08:20:29.943378"
 draft = false
 description = "How often do you find yourself dreading Monday mornings? Maybe you wake up, sigh, and think, “Here we go again.” You drag yourself to a job that doesn’t excite you, and by the end of the day, you f..."
 summary = "How often do you find yourself dreading Monday mornings? Maybe you wake up, sigh, and think, “Here we go again.” You drag yourself to a job that doesn’t excite you, and by the end of the day, you f..."
-tags = ["entrepreneurship", "happiness", "life satisfaction", "money", "motivation", "nomad", "personal fulfillment", "self-improvement", "tasks", "tech"]
+tags = ["entrepreneurship", "happiness", "life satisfaction", "money", "motivation", "nomad", "personal fulfillment", "self-improvement", "self-transcendence", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "nomad", "money", "tasks", "entrepreneurship"]
+priority_topics = ["tech", "nomad", "money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Peut-on avoir une vie kiffante ?"
 source_medium = "https://medium.com/@phenrysay/e6bdfced1d99"
 +++

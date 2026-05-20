@@ -5,9 +5,9 @@ date = "2025-08-30T09:35:39.757753"
 draft = false
 description = "Happiness is something we all crave. It feels natural and essential for our personal growth. When we’re not happy, when we feel undervalued or out of place, it’s like a plant that hasn’t been water..."
 summary = "Happiness is something we all crave. It feels natural and essential for our personal growth. When we’re not happy, when we feel undervalued or out of place, it’s like a plant that hasn’t been water..."
-tags = ["happiness", "joy", "personal growth", "philosophy of life", "productivity", "well-being"]
+tags = ["happiness", "joy", "personal growth", "philosophy of life", "productivity", "self-transcendence", "well-being"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Vivre selon la philosophie du BONHEUR"
 source_medium = "https://medium.com/@phenrysay/68349939f843"
 +++

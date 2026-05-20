@@ -5,7 +5,9 @@ date = "2025-08-25T18:38:07.897027"
 draft = false
 description = "What exactly is a “soul ritual”? These are small, positive habits that you repeat every day. They’re not negative routines that hold you back or slow your growth. Instead, they’re the little things..."
 summary = "What exactly is a “soul ritual”? These are small, positive habits that you repeat every day. They’re not negative routines that hold you back or slow your growth. Instead, they’re the little things..."
-tags = ["daily rituals", "mood improvement", "positive habits", "self-care", "wellbeing"]
+tags = ["daily rituals", "mood improvement", "positive habits", "self-care", "self-transcendence", "wellbeing"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Les rituels qui rendent bien ! 😌"
 source_medium = "https://medium.com/@phenrysay/42b42075652a"
 +++

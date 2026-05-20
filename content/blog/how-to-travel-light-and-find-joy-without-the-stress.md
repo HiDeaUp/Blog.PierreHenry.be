@@ -5,9 +5,9 @@ date = "2025-08-19T14:22:23.237798"
 draft = false
 description = "Traveling brings a mix of excitement and a bit of fear, especially when you step into new environments. Right now, I’m in Kuala Lumpur, Malaysia, just passing through the airport before heading to..."
 summary = "Traveling brings a mix of excitement and a bit of fear, especially when you step into new environments. Right now, I’m in Kuala Lumpur, Malaysia, just passing through the airport before heading to..."
-tags = ["entrepreneurship", "lifestyle", "mindfulness", "nomad", "personal growth", "simplicity", "travel"]
+tags = ["entrepreneurship", "lifestyle", "mindfulness", "nomad", "personal growth", "self-transcendence", "simplicity", "travel"]
 priority = true
-priority_topics = ["nomad", "entrepreneurship"]
+priority_topics = ["nomad", "self-transcendence", "entrepreneurship"]
 original_title = "Vie KIFFANTE, tout en voyageant? Facile ou Challengeant ?"
 source_medium = "https://medium.com/@phenrysay/9e34b11ed0e5"
 +++

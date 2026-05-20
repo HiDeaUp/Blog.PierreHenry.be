@@ -5,9 +5,9 @@ date = "2025-08-30T09:29:15.554106"
 draft = false
 description = "Concentration is more than just a skill; it is a way of living that shapes our happiness. When you focus fully on what you want to achieve, you give yourself the best chance to feel fulfilled. The..."
 summary = "Concentration is more than just a skill; it is a way of living that shapes our happiness. When you focus fully on what you want to achieve, you give yourself the best chance to feel fulfilled. The..."
-tags = ["concentration", "focus", "happiness", "mindfulness", "personal growth", "productivity", "time management"]
+tags = ["concentration", "focus", "happiness", "mindfulness", "personal growth", "productivity", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Focus qui mène au Bonheur. Quoi faire ?"
 source_medium = "https://medium.com/@phenrysay/0292bce797b3"
 +++

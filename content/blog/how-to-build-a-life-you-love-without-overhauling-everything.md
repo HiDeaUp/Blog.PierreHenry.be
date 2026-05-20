@@ -5,9 +5,9 @@ date = "2025-08-30T14:04:36.695975"
 draft = false
 description = "Have you ever felt like you’re just drifting through your days, caught up in routines, without a clear idea of where you’re heading? It’s easy to get lost in the daily grind, living from one day to..."
 summary = "Have you ever felt like you’re just drifting through your days, caught up in routines, without a clear idea of where you’re heading? It’s easy to get lost in the daily grind, living from one day to..."
-tags = ["life balance", "mindfulness", "productivity", "relaxation", "self improvement", "simple living", "tasks", "time management"]
+tags = ["life balance", "mindfulness", "productivity", "relaxation", "self improvement", "self-transcendence", "simple living", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Une vie relaxante 😌"
 source_medium = "https://medium.com/@phenrysay/2dd3d486f22c"
 +++

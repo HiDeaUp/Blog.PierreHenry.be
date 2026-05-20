@@ -5,9 +5,9 @@ date = "2026-01-12T20:38:05.752089"
 draft = false
 description = "There are days when everything feels a bit off. You wake up, and even though you made a solid todo list the night before, your energy just isn’t there. You feel low, maybe even a little lost. You t..."
 summary = "There are days when everything feels a bit off. You wake up, and even though you made a solid todo list the night before, your energy just isn’t there. You feel low, maybe even a little lost. You t..."
-tags = ["difficult times", "gratitude", "mindfulness", "money", "positivity", "self-care", "tasks"]
+tags = ["difficult times", "gratitude", "mindfulness", "money", "positivity", "self-care", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "Comment NOURRIR sa GRATITUDE même en période DIFFICILE​​​​​​​​​​​​​​​​"
 source_medium = "https://medium.com/@phenrysay/0d717ae14c2c"
 source_youtube = "https://www.youtube.com/watch?v=_UTjRt1NH38"

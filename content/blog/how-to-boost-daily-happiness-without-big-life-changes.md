@@ -5,7 +5,9 @@ date = "2025-08-19T14:54:08.996590"
 draft = false
 description = "When was the last time you truly relaxed? Not just sitting on the couch scrolling through your phone, but actually taking a moment for yourself—maybe with a hot chocolate, a few biscuits, or a quie..."
 summary = "When was the last time you truly relaxed? Not just sitting on the couch scrolling through your phone, but actually taking a moment for yourself—maybe with a hot chocolate, a few biscuits, or a quie..."
-tags = ["happiness", "mindfulness", "relaxation", "self-care", "well-being"]
+tags = ["happiness", "mindfulness", "relaxation", "self-care", "self-transcendence", "well-being"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "La vérité sur le bien-être"
 source_medium = "https://medium.com/@phenrysay/14356ec455be"
 +++

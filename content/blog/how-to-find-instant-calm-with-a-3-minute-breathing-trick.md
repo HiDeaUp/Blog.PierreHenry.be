@@ -5,9 +5,9 @@ date = "2025-08-17T22:58:59.794293"
 draft = false
 description = "Feeling good is not just a luxury—it’s a necessity. True wellbeing starts with simple moments of calm and rest. Even in the middle of a city street, when there are few people around, I find these p..."
 summary = "Feeling good is not just a luxury—it’s a necessity. True wellbeing starts with simple moments of calm and rest. Even in the middle of a city street, when there are few people around, I find these p..."
-tags = ["breathing exercises", "happiness", "mindfulness", "productivity", "self-care", "tasks", "well-being"]
+tags = ["breathing exercises", "happiness", "mindfulness", "productivity", "self-care", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "DEVENIR ÉPANOUIE : LA RECETTE DU BONHEUR"
 source_medium = "https://medium.com/@phenrysay/5c71dcafa087"
 +++

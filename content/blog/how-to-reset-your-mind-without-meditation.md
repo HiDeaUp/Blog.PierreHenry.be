@@ -5,9 +5,9 @@ date = "2025-08-30T10:56:45.245937"
 draft = false
 description = "Let’s talk about mental gymnastics. You might think I’m about to suggest memory games or brain teasers, but that’s not where I’m going. The mental gymnastics I’m talking about is all about challeng..."
 summary = "Let’s talk about mental gymnastics. You might think I’m about to suggest memory games or brain teasers, but that’s not where I’m going. The mental gymnastics I’m talking about is all about challeng..."
-tags = ["clarity", "mental health", "mental routines", "mindfulness", "productivity", "self-improvement"]
+tags = ["clarity", "mental health", "mental routines", "mindfulness", "productivity", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Faire le ménage de ton cerveau 😶‍🌫️"
 source_medium = "https://medium.com/@phenrysay/a66adca55574"
 +++

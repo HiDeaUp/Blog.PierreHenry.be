@@ -5,9 +5,9 @@ date = "2025-08-30T10:51:34.405336"
 draft = false
 description = "Have you ever noticed how your mind races when you try to think about too many things at once? It’s like juggling hundreds of balls, and instead of feeling productive, you end up scattered, stresse..."
 summary = "Have you ever noticed how your mind races when you try to think about too many things at once? It’s like juggling hundreds of balls, and instead of feeling productive, you end up scattered, stresse..."
-tags = ["focus", "mental clarity", "mindfulness", "productivity", "tasks", "thought organization", "time management"]
+tags = ["focus", "mental clarity", "mindfulness", "productivity", "self-transcendence", "tasks", "thought organization", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Bien structurer ses pensées 🚀"
 source_medium = "https://medium.com/@phenrysay/2d2c171fbd0b"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-30T11:28:51.519083"
 draft = false
 description = "](https://images.unsplash.com/photo1603205431143ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBrbm93bGVkZ2UlMjBhY3F1aXNpdGl..."
 summary = "](https://images.unsplash.com/photo1603205431143ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBrbm93bGVkZ2UlMjBhY3F1aXNpdGl..."
-tags = ["effective learning", "knowledge acquisition", "learning strategies", "lifelong learning", "personal development", "productivity", "time management"]
+tags = ["effective learning", "knowledge acquisition", "learning strategies", "lifelong learning", "personal development", "productivity", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Comment s'approprier des nouvelles connaissances ?"
 source_medium = "https://medium.com/@phenrysay/fc4095db7c2f"
 +++

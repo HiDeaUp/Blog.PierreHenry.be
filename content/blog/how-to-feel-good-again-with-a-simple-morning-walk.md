@@ -5,7 +5,9 @@ date = "2025-08-24T13:48:52.925991"
 draft = false
 description = "This morning, I found myself at Elisabeth Bay in Sydney. It’s a popular spot, and for good reason. Unlike the nearby marina, which is packed with boats and doesn’t really have a beach, Elisabeth Ba..."
 summary = "This morning, I found myself at Elisabeth Bay in Sydney. It’s a popular spot, and for good reason. Unlike the nearby marina, which is packed with boats and doesn’t really have a beach, Elisabeth Ba..."
-tags = ["daily routine", "lifestyle change", "mindfulness", "self-improvement", "well-being"]
+tags = ["daily routine", "lifestyle change", "mindfulness", "self-improvement", "self-transcendence", "well-being"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Comment changer son quotidien ?☀️"
 source_medium = "https://medium.com/@phenrysay/ed144d6586e9"
 +++

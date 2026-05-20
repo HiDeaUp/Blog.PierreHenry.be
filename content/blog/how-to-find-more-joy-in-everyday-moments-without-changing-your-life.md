@@ -5,9 +5,9 @@ date = "2025-08-30T12:27:22.400494"
 draft = false
 description = "What if the secret to a happier life was simply to pay more attention to the little things that bring us joy? It’s easy to overlook the power of our daily pleasures, but learning to notice, increas..."
 summary = "What if the secret to a happier life was simply to pay more attention to the little things that bring us joy? It’s easy to overlook the power of our daily pleasures, but learning to notice, increas..."
-tags = ["daily joy", "happiness", "mindfulness", "money", "self-care", "wellbeing"]
+tags = ["daily joy", "happiness", "mindfulness", "money", "self-care", "self-transcendence", "wellbeing"]
 priority = true
-priority_topics = ["money"]
+priority_topics = ["money", "self-transcendence"]
 original_title = "🚀 Viser ses plaisirs du quotidien 🎯"
 source_medium = "https://medium.com/@phenrysay/1402e88fd606"
 +++

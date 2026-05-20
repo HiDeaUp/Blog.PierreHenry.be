@@ -5,9 +5,9 @@ date = "2025-08-25T18:14:16.616085"
 draft = false
 description = "Have you ever stood somewhere breathtaking and felt a surge of inspiration, a sudden urge to do more, to become more? That’s exactly what happened to me as I found myself in front of the Sydney Ope..."
 summary = "Have you ever stood somewhere breathtaking and felt a surge of inspiration, a sudden urge to do more, to become more? That’s exactly what happened to me as I found myself in front of the Sydney Ope..."
-tags = ["challenge-yourself", "entrepreneurship", "inspiration", "money", "motivation", "personal-growth", "productivity", "self-improvement", "tasks"]
+tags = ["challenge-yourself", "entrepreneurship", "inspiration", "money", "motivation", "personal-growth", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Challenges toi et dépasses toi ! 🚀"
 source_medium = "https://medium.com/@phenrysay/f71e39a88128"
 +++

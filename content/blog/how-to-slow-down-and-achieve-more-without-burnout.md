@@ -5,9 +5,9 @@ date = "2025-08-30T13:27:10.675883"
 draft = false
 description = "Taking time to rest is not just a luxury—it is essential. Slowing down simply means allowing yourself to appreciate the present moment and really listen to what is happening around you. The more we..."
 summary = "Taking time to rest is not just a luxury—it is essential. Slowing down simply means allowing yourself to appreciate the present moment and really listen to what is happening around you. The more we..."
-tags = ["mental health", "mindfulness", "personal growth", "rest", "self-care", "tasks"]
+tags = ["mental health", "mindfulness", "personal growth", "rest", "self-care", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Comment prendre du recul facilement 💥 #agir  #bienêtre"
 source_medium = "https://medium.com/@phenrysay/e2bc7695dc55"
 +++

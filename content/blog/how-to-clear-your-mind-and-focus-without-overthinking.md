@@ -5,9 +5,9 @@ date = "2025-08-20T07:33:59.508967"
 draft = false
 description = "Having a clear vision for your life is more important than most people realize. When you know where you are headed, you stop drifting and start living with intention. Focusing your energy on your v..."
 summary = "Having a clear vision for your life is more important than most people realize. When you know where you are headed, you stop drifting and start living with intention. Focusing your energy on your v..."
-tags = ["daily habits", "focus", "mental clarity", "money", "personal growth", "productivity", "success strategies", "tasks", "tech", "wealth"]
+tags = ["daily habits", "focus", "mental clarity", "money", "personal growth", "productivity", "self-transcendence", "success strategies", "tasks", "tech", "wealth"]
 priority = true
-priority_topics = ["tech", "money", "wealth", "tasks", "productivity"]
+priority_topics = ["tech", "money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "SE LIBÉRER DE LA POLLUTION MENTALE – POUR AGIR ET RÉUSSIR SANS FREINS"
 source_medium = "https://medium.com/@phenrysay/a6ada72e1fef"
 +++

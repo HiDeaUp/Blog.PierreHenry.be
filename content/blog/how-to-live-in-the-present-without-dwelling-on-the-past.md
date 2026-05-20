@@ -5,9 +5,9 @@ date = "2025-08-24T13:52:50.519866"
 draft = false
 description = "Living in the present is not just a nice idea; it is the only reality we truly have. The present is real, sacred, and deserves to be enjoyed fully. Too often, we get stuck replaying old conversatio..."
 summary = "Living in the present is not just a nice idea; it is the only reality we truly have. The present is real, sacred, and deserves to be enjoyed fully. Too often, we get stuck replaying old conversatio..."
-tags = ["living in the present", "mindfulness", "personal growth", "productivity", "self-care", "well-being"]
+tags = ["living in the present", "mindfulness", "personal growth", "productivity", "self-care", "self-transcendence", "well-being"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Construire un présent durable 💪"
 source_medium = "https://medium.com/@phenrysay/114fe3fa8687"
 +++

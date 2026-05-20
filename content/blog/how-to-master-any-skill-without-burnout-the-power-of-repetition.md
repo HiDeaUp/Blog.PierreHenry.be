@@ -5,9 +5,9 @@ date = "2025-08-30T10:28:51.198474"
 draft = false
 description = "One of the most underrated ways to truly learn something for the long haul is repetition. Spaced and repeated practice helps you remember and improve much more than any crash course or bingelearnin..."
 summary = "One of the most underrated ways to truly learn something for the long haul is repetition. Spaced and repeated practice helps you remember and improve much more than any crash course or bingelearnin..."
-tags = ["learning", "mastery", "practice", "productivity", "repetition", "self-improvement", "tasks", "tech"]
+tags = ["learning", "mastery", "practice", "productivity", "repetition", "self-improvement", "self-transcendence", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "tasks", "productivity"]
+priority_topics = ["tech", "self-transcendence", "tasks", "productivity"]
 original_title = "La force de la répétition 💪"
 source_medium = "https://medium.com/@phenrysay/bf83690e53a3"
 +++

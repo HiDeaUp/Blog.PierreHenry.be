@@ -5,9 +5,9 @@ date = "2025-08-31T19:15:49.929543"
 draft = false
 description = "Sitting on my balcony, soaking in the sun and the view, I can’t help but think about freedom. Many people dream of traveling the world, but often feel limited by their passport or where they come f..."
 summary = "Sitting on my balcony, soaking in the sun and the view, I can’t help but think about freedom. Many people dream of traveling the world, but often feel limited by their passport or where they come f..."
-tags = ["comparison", "entrepreneurship", "freedom", "mindfulness", "money", "nomad", "personal growth", "productivity", "self-improvement", "tasks"]
+tags = ["comparison", "entrepreneurship", "freedom", "mindfulness", "money", "nomad", "personal growth", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["nomad", "money", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Vivre une vie libre"
 source_medium = "https://medium.com/@phenrysay/e3b72f09b1d4"
 +++

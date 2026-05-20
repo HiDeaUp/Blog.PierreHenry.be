@@ -5,9 +5,9 @@ date = "2025-08-30T13:57:53.718547"
 draft = false
 description = "Have you ever wondered what your perfect day would look like? Not just a dream vacation, but a regular day that feels just right for you. The truth is, you can create your own version of a perfect..."
 summary = "Have you ever wondered what your perfect day would look like? Not just a dream vacation, but a regular day that feels just right for you. The truth is, you can create your own version of a perfect..."
-tags = ["daily joy", "ideal life", "life design", "personal happiness", "self improvement", "tasks", "time management"]
+tags = ["daily joy", "ideal life", "life design", "personal happiness", "self improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks"]
+priority_topics = ["self-transcendence", "time management", "tasks"]
 original_title = "Une vie idéale ☀️"
 source_medium = "https://medium.com/@phenrysay/fa93bdd0deb9"
 +++

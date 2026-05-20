@@ -5,9 +5,9 @@ date = "2025-08-30T12:54:24.925873"
 draft = false
 description = "Standing out from the crowd is more than just a buzzword. It’s about showing your true colors, your unique character, and letting people recognize you for who you really are. Whether it’s the way y..."
 summary = "Standing out from the crowd is more than just a buzzword. It’s about showing your true colors, your unique character, and letting people recognize you for who you really are. Whether it’s the way y..."
-tags = ["authenticity", "confidence", "entrepreneurship", "individuality", "personal-growth", "self-expression", "tech"]
+tags = ["authenticity", "confidence", "entrepreneurship", "individuality", "personal-growth", "self-expression", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "entrepreneurship"]
+priority_topics = ["tech", "self-transcendence", "entrepreneurship"]
 original_title = "Comment se distinguer de la masse ?"
 source_medium = "https://medium.com/@phenrysay/ce29cfa29a2b"
 +++

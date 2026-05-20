@@ -5,9 +5,9 @@ date = "2025-06-09T02:10:12.331230"
 draft = false
 description = "When you become a freelancer or start your own business, the first feeling is freedom. No boss, no fixed hours, no one telling you what to do. It sounds perfect. But here’s the truth I learned from..."
 summary = "When you become a freelancer or start your own business, the first feeling is freedom. No boss, no fixed hours, no one telling you what to do. It sounds perfect. But here’s the truth I learned from..."
-tags = ["entrepreneurship", "freelancing", "money", "motivation", "productivity", "self-discipline", "tasks", "work-life balance"]
+tags = ["entrepreneurship", "freelancing", "money", "motivation", "productivity", "self-discipline", "self-transcendence", "tasks", "work-life balance"]
 priority = true
-priority_topics = ["money", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "La SEULE leçon que j'ai découverte sur la DISCIPLINE en tant que Freelance"
 source_medium = "https://medium.com/@phenrysay/9b89de7b2c04"
 +++

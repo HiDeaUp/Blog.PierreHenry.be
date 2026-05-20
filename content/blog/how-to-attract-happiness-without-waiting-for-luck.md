@@ -5,9 +5,9 @@ date = "2025-08-17T18:41:26.784417"
 draft = false
 description = "Happiness isn’t just something you wish for or hope will fall into your lap. It’s not about crossing your fingers and waiting for good things to happen. Real happiness comes from the habits you bui..."
 summary = "Happiness isn’t just something you wish for or hope will fall into your lap. It’s not about crossing your fingers and waiting for good things to happen. Real happiness comes from the habits you bui..."
-tags = ["daily routines", "happiness", "mindset", "positive habits", "productivity", "time management", "wellbeing"]
+tags = ["daily routines", "happiness", "mindset", "positive habits", "productivity", "self-transcendence", "time management", "wellbeing"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Comment attirer le bonheur vers soi ?"
 source_medium = "https://medium.com/@phenrysay/980206b7a868"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-19T23:33:15.921851"
 draft = false
 description = "Walking is one of those simple pleasures that often gets overlooked. Yet, it’s a habit that can do so much more than just get your body moving. When you make walking a part of your daily routine, y..."
 summary = "Walking is one of those simple pleasures that often gets overlooked. Yet, it’s a habit that can do so much more than just get your body moving. When you make walking a part of your daily routine, y..."
-tags = ["daily routine", "healthy habits", "mental health", "mindfulness", "nomad", "tasks", "walking"]
+tags = ["daily routine", "healthy habits", "mental health", "mindfulness", "nomad", "self-transcendence", "tasks", "walking"]
 priority = true
-priority_topics = ["nomad", "tasks"]
+priority_topics = ["nomad", "self-transcendence", "tasks"]
 original_title = "Se créer une routine de marche 🚶"
 source_medium = "https://medium.com/@phenrysay/1cf06ff4cdf8"
 +++

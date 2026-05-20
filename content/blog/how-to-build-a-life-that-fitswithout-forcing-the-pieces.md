@@ -5,9 +5,9 @@ date = "2025-08-31T19:58:16.175501"
 draft = false
 description = "Have you ever noticed how some days just feel right? Everything seems to fall into place, like the last piece of a puzzle finally clicking in. That sense of satisfaction, of having lived a balanced..."
 summary = "Have you ever noticed how some days just feel right? Everything seems to fall into place, like the last piece of a puzzle finally clicking in. That sense of satisfaction, of having lived a balanced..."
-tags = ["authenticity", "life design", "personal growth", "productivity", "self improvement", "tasks", "time management", "wellbeing"]
+tags = ["authenticity", "life design", "personal growth", "productivity", "self improvement", "self-transcendence", "tasks", "time management", "wellbeing"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "DESIGNER la VIE qui te VRAIMENT 🥳"
 source_medium = "https://medium.com/@phenrysay/e71f32d820c3"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T19:04:30.881570"
 draft = false
 description = "As the sun sets over the bay, I find myself reflecting on the importance of having a project—something meaningful to work on, day after day. Whether you’re a student, an employee, living with famil..."
 summary = "As the sun sets over the bay, I find myself reflecting on the importance of having a project—something meaningful to work on, day after day. Whether you’re a student, an employee, living with famil..."
-tags = ["goal setting", "life projects", "personal development", "productivity", "quick success", "self fulfillment", "tasks"]
+tags = ["goal setting", "life projects", "personal development", "productivity", "quick success", "self fulfillment", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment construire des projets de vie pour RÉUSSIR VITE 🚊"
 source_medium = "https://medium.com/@phenrysay/48e3b0f04595"
 +++

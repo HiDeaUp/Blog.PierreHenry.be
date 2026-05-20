@@ -5,9 +5,9 @@ date = "2025-08-30T08:52:58.473400"
 draft = false
 description = "Have you ever noticed how thinking about wonderful moments from your past can instantly lift your mood? Sometimes, all it takes is a quiet moment of reflection to bring back those feelings of happi..."
 summary = "Have you ever noticed how thinking about wonderful moments from your past can instantly lift your mood? Sometimes, all it takes is a quiet moment of reflection to bring back those feelings of happi..."
-tags = ["joy", "mindfulness", "mood enhancement", "pleasure", "positive thinking", "productivity"]
+tags = ["joy", "mindfulness", "mood enhancement", "pleasure", "positive thinking", "productivity", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Comment se procurer du plaisir sur demande ? 💫"
 source_medium = "https://medium.com/@phenrysay/ae4e6bf2bc4e"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T18:52:29.682827"
 draft = false
 description = "We often forget that life has an end. We plan our days and make decisions as if our time is unlimited. But the truth is, life does stop one day. When you really understand this, you start making wi..."
 summary = "We often forget that life has an end. We plan our days and make decisions as if our time is unlimited. But the truth is, life does stop one day. When you really understand this, you start making wi..."
-tags = ["happiness", "life lessons", "mindfulness", "money", "perception", "personal growth", "tech"]
+tags = ["happiness", "life lessons", "mindfulness", "money", "perception", "personal growth", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "money"]
+priority_topics = ["tech", "money", "self-transcendence"]
 original_title = "Redéfinir ses perceptions pour mieux vivre"
 source_medium = "https://medium.com/@phenrysay/ad207ebaef74"
 +++

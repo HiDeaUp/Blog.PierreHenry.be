@@ -5,9 +5,9 @@ date = "2025-08-18T18:11:56.786416"
 draft = false
 description = "Have you ever met someone and thought, “Wow, I wish I could be like them”? Maybe it wasn’t about wanting their life, but something about their presence drew you in. They seemed to shine, not becaus..."
 summary = "Have you ever met someone and thought, “Wow, I wish I could be like them”? Maybe it wasn’t about wanting their life, but something about their presence drew you in. They seemed to shine, not becaus..."
-tags = ["authenticity", "entrepreneurship", "inspiration", "money", "motivation", "personal growth", "self-improvement"]
+tags = ["authenticity", "entrepreneurship", "inspiration", "money", "motivation", "personal growth", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["money", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "entrepreneurship"]
 original_title = "Comment s’inspirer et inspirer les autres (tout en devenant meilleur chaque jour)"
 source_medium = "https://medium.com/@phenrysay/79fa3336041e"
 +++

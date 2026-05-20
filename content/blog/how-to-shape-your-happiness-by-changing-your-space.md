@@ -5,9 +5,9 @@ date = "2025-08-19T22:47:36.501816"
 draft = false
 description = "Have you ever noticed how your mood shifts when you step into a place you love? Maybe it’s a cozy café, a stylish hotel lobby, or a restaurant with just the right atmosphere. Suddenly, you feel ins..."
 summary = "Have you ever noticed how your mood shifts when you step into a place you love? Maybe it’s a cozy café, a stylish hotel lobby, or a restaurant with just the right atmosphere. Suddenly, you feel ins..."
-tags = ["environment", "happiness", "lifestyle changes", "mindset", "money", "positive energy"]
+tags = ["environment", "happiness", "lifestyle changes", "mindset", "money", "positive energy", "self-transcendence"]
 priority = true
-priority_topics = ["money"]
+priority_topics = ["money", "self-transcendence"]
 original_title = "Comment attirer l'énergie voulue"
 source_medium = "https://medium.com/@phenrysay/8419df608663"
 +++

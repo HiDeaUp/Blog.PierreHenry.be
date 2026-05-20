@@ -5,9 +5,9 @@ date = "2025-08-30T09:30:22.290424"
 draft = false
 description = "Have you ever noticed how some people seem to savor every bit of their life, while others just go through the motions? There’s a real difference between doing things well and doing them both well a..."
 summary = "Have you ever noticed how some people seem to savor every bit of their life, while others just go through the motions? There’s a real difference between doing things well and doing them both well a..."
-tags = ["fulfillment", "joy", "living fully", "mindfulness", "personal growth", "productivity", "tasks", "time management"]
+tags = ["fulfillment", "joy", "living fully", "mindfulness", "personal growth", "productivity", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment avoir une vie que tu dévore à pleine dents ? 🦷"
 source_medium = "https://medium.com/@phenrysay/a1db3b3205c2"
 +++

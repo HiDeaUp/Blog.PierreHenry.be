@@ -5,9 +5,9 @@ date = "2025-08-17T08:56:34.224206"
 draft = false
 description = "Being passionate about what you do—loving and enjoying every little thing you create—starts with simply doing something you like. That’s the heart of it. A passion project, or a passion you turn in..."
 summary = "Being passionate about what you do—loving and enjoying every little thing you create—starts with simply doing something you like. That’s the heart of it. A passion project, or a passion you turn in..."
-tags = ["career advice", "entrepreneurship", "money", "motivation", "passion", "personal growth", "tasks", "wealth", "work-life balance"]
+tags = ["career advice", "entrepreneurship", "money", "motivation", "passion", "personal growth", "self-transcendence", "tasks", "wealth", "work-life balance"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "VIVRE DE SA PASSION NE DOIT PAS ÊTRE DIFFICILE"
 source_medium = "https://medium.com/@phenrysay/fd0ad52909a3"
 +++

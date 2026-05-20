@@ -5,9 +5,9 @@ date = "2025-08-17T08:41:38.370562"
 draft = false
 description = "Have you ever found yourself just standing around, waiting for the tram or the bus, staring into space or scrolling aimlessly through your phone? Most of us do it without thinking. But what if thos..."
 summary = "Have you ever found yourself just standing around, waiting for the tram or the bus, staring into space or scrolling aimlessly through your phone? Most of us do it without thinking. But what if thos..."
-tags = ["mindfulness", "productivity", "self-improvement", "success tips", "tasks", "time management"]
+tags = ["mindfulness", "productivity", "self-improvement", "self-transcendence", "success tips", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment est-ce que j’utilise mon taux de manière smart?Et qu’est-ce que toi tu dois savoir #réussite"
 source_medium = "https://medium.com/@phenrysay/288fb891267b"
 +++

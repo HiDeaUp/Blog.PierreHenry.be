@@ -5,9 +5,9 @@ date = "2025-08-31T18:05:14.706958"
 draft = false
 description = "For many people, the weekend is a sacred pause. After a week of hard work, Friday afternoon brings a sense of relief. The thought of going home, doing things you love, and simply relaxing is someth..."
 summary = "For many people, the weekend is a sacred pause. After a week of hard work, Friday afternoon brings a sense of relief. The thought of going home, doing things you love, and simply relaxing is someth..."
-tags = ["enjoyment", "happiness", "lifestyle tips", "money", "productivity", "tech", "wealth", "weekly routine", "work-life balance"]
+tags = ["enjoyment", "happiness", "lifestyle tips", "money", "productivity", "self-transcendence", "tech", "wealth", "weekly routine", "work-life balance"]
 priority = true
-priority_topics = ["tech", "money", "wealth", "productivity"]
+priority_topics = ["tech", "money", "wealth", "self-transcendence", "productivity"]
 original_title = "Comment rendre le cycle des semaine agréable ?"
 source_medium = "https://medium.com/@phenrysay/6c409757788e"
 +++

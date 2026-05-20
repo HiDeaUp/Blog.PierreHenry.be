@@ -5,9 +5,9 @@ date = "2025-08-24T16:03:36.606639"
 draft = false
 description = "Have you ever noticed how easy it is to let your day slip away, scattered between notifications, endless scrolling, and halfhearted conversations? There’s a simple idea that can change the way you..."
 summary = "Have you ever noticed how easy it is to let your day slip away, scattered between notifications, endless scrolling, and halfhearted conversations? There’s a simple idea that can change the way you..."
-tags = ["intentional living", "life balance", "mindfulness", "productivity", "quality time", "tasks", "tech", "time blocking", "time management", "well-being"]
+tags = ["intentional living", "life balance", "mindfulness", "productivity", "quality time", "self-transcendence", "tasks", "tech", "time blocking", "time management", "well-being"]
 priority = true
-priority_topics = ["tech", "time management", "tasks", "productivity", "time blocking"]
+priority_topics = ["tech", "self-transcendence", "time management", "tasks", "productivity", "time blocking"]
 original_title = "Le Quality Time. Comment profiter d’une vie de qualité ?"
 source_medium = "https://medium.com/@phenrysay/d7325b68f480"
 +++

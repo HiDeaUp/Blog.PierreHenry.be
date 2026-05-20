@@ -5,9 +5,9 @@ date = "2025-12-30T16:17:54.522138"
 draft = false
 description = "Let’s talk about something that’s honestly a gamechanger for anyone working with Claude’s code features: creating your own agents. If you’re not using custom agents yet, you’re missing out on a mas..."
 summary = "Let’s talk about something that’s honestly a gamechanger for anyone working with Claude’s code features: creating your own agents. If you’re not using custom agents yet, you’re missing out on a mas..."
-tags = ["ai tools", "claude ai", "code agents", "developer productivity", "productivity", "software development", "tasks", "tech"]
+tags = ["ai tools", "claude ai", "code agents", "developer productivity", "productivity", "self-transcendence", "software development", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "tasks", "productivity"]
+priority_topics = ["tech", "self-transcendence", "tasks", "productivity"]
 original_title = "Claude Code Agents Are Changing Everything for Developers #AI"
 source_medium = "https://medium.com/@phenrysay/94096eadbf61"
 +++

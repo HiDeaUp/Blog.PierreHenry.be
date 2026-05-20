@@ -5,9 +5,9 @@ date = "2025-08-22T20:26:52.167502"
 draft = false
 description = "When you start looking at life with a longterm perspective, something magical happens. You begin to prepare for your future in a way that feels both exciting and meaningful. Imagine yourself five y..."
 summary = "When you start looking at life with a longterm perspective, something magical happens. You begin to prepare for your future in a way that feels both exciting and meaningful. Imagine yourself five y..."
-tags = ["future planning", "long-term mindset", "personal development", "positive thinking", "productivity", "self improvement", "time management"]
+tags = ["future planning", "long-term mindset", "personal development", "positive thinking", "productivity", "self improvement", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Pensées positives. Comment durer sur le long terme ?"
 source_medium = "https://medium.com/@phenrysay/934be48a31b9"
 +++

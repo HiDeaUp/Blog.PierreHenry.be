@@ -5,9 +5,9 @@ date = "2025-09-03T08:37:47.462940"
 draft = false
 description = "Having a clear vision for your life is not just a nice idea—it’s essential. Whether it’s about your daily routine, your year ahead, or even just the next few months, knowing where you’re headed mak..."
 summary = "Having a clear vision for your life is not just a nice idea—it’s essential. Whether it’s about your daily routine, your year ahead, or even just the next few months, knowing where you’re headed mak..."
-tags = ["clarity", "goal setting", "life vision", "personal development", "productivity", "self-improvement", "tasks"]
+tags = ["clarity", "goal setting", "life vision", "personal development", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Pourquoi se construire une vision précise ? 🤔"
 source_medium = "https://medium.com/@phenrysay/b0a0dca27e30"
 +++

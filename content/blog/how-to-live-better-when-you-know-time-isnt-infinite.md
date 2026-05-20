@@ -5,9 +5,9 @@ date = "2025-08-17T18:39:37.170624"
 draft = false
 description = "Most of us go through life as if it will never end. We plan, we react, and we fill our days with routines, rarely stopping to remember that our time here is limited. But the truth is, life does hav..."
 summary = "Most of us go through life as if it will never end. We plan, we react, and we fill our days with routines, rarely stopping to remember that our time here is limited. But the truth is, life does hav..."
-tags = ["entrepreneurship", "happiness", "life perspective", "mindfulness", "money", "nomad", "self-improvement", "tech", "time management"]
+tags = ["entrepreneurship", "happiness", "life perspective", "mindfulness", "money", "nomad", "self-improvement", "self-transcendence", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "nomad", "money", "time management", "entrepreneurship"]
+priority_topics = ["tech", "nomad", "money", "self-transcendence", "time management", "entrepreneurship"]
 original_title = "Redéfinir ses perceptions pour mieux vivre"
 source_medium = "https://medium.com/@phenrysay/f0c1f5771b85"
 +++

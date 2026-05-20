@@ -5,9 +5,9 @@ date = "2025-08-17T18:24:21.615518"
 draft = false
 description = "Let’s talk honestly about certain jobs and how we see them. This isn’t a criticism—just my personal take, and maybe it’ll make you see things differently."
 summary = "Let’s talk honestly about certain jobs and how we see them. This isn’t a criticism—just my personal take, and maybe it’ll make you see things differently."
-tags = ["career advice", "executive assistant", "job titles", "money", "professional growth", "tasks", "workplace roles"]
+tags = ["career advice", "executive assistant", "job titles", "money", "professional growth", "self-transcendence", "tasks", "workplace roles"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "Es-tu assistante de direction... ? Alors, tu passes à côté de quelque chose"
 source_medium = "https://medium.com/@phenrysay/f1dfcca073d5"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T09:23:39.776662"
 draft = false
 description = "Negativity is something we all face. Maybe it comes from work—a manager, a colleague, or even someone you admire. Sometimes, it’s just a stranger at the supermarket who treats you badly, or a disag..."
 summary = "Negativity is something we all face. Maybe it comes from work—a manager, a colleague, or even someone you admire. Sometimes, it’s just a stranger at the supermarket who treats you badly, or a disag..."
-tags = ["coping strategies", "emotional resilience", "money", "negativity", "self-improvement", "stress management", "tasks"]
+tags = ["coping strategies", "emotional resilience", "money", "negativity", "self-improvement", "self-transcendence", "stress management", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "CE QUE JE FAIS EXACTEMENT après avoir reçu de la négativité"
 source_medium = "https://medium.com/@phenrysay/f3f237c353f4"
 +++

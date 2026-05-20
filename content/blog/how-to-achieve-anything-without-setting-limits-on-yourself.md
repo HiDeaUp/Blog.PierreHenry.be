@@ -5,9 +5,9 @@ date = "2025-09-10T10:03:19.110626"
 draft = false
 description = "Have you ever stopped to consider that the only thing truly holding you back is yourself? The idea that everything is possible isn’t just a catchy phrase—it’s a reality waiting for you to claim it...."
 summary = "Have you ever stopped to consider that the only thing truly holding you back is yourself? The idea that everything is possible isn’t just a catchy phrase—it’s a reality waiting for you to claim it...."
-tags = ["inspiration", "mindset", "motivation", "personal-growth", "productivity", "self-improvement", "tasks"]
+tags = ["inspiration", "mindset", "motivation", "personal-growth", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Tout est possible: La vie est la tienne !"
 source_medium = "https://medium.com/@phenrysay/b7e25427b713"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-21T08:03:55.452335"
 draft = false
 description = "We all have our own values. What truly matters is building a life and working on projects that align with those values. Too often, we find ourselves doing things that don’t feel right, things that..."
 summary = "We all have our own values. What truly matters is building a life and working on projects that align with those values. Too often, we find ourselves doing things that don’t feel right, things that..."
-tags = ["authenticity", "happiness", "life purpose", "personal values", "productivity", "self-discovery", "tasks"]
+tags = ["authenticity", "happiness", "life purpose", "personal values", "productivity", "self-discovery", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "C’est quoi tes valeurs ?"
 source_medium = "https://medium.com/@phenrysay/dd5d1f23735c"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T18:53:23.448292"
 draft = false
 description = "Success isn’t always about doing more. Sometimes, it’s about doing less—but doing it better. Today, I want to share the method that has helped me achieve more in less time, and why I believe it can..."
 summary = "Success isn’t always about doing more. Sometimes, it’s about doing less—but doing it better. Today, I want to share the method that has helped me achieve more in less time, and why I believe it can..."
-tags = ["money", "morning routine", "personal development", "productivity", "sleep habits", "success strategies", "tasks", "time management", "wealth"]
+tags = ["money", "morning routine", "personal development", "productivity", "self-transcendence", "sleep habits", "success strategies", "tasks", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "*SIMPLE MAIS EFFICACE* TOUTE MA STRATÉGIE DE RÉUSSITE !"
 source_medium = "https://medium.com/@phenrysay/8fe0e5dd8dfd"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-19T22:48:18.475981"
 draft = false
 description = "Have you ever noticed how easy it is to drift away from what really matters to you? We all have dreams, passions, and things that are close to our hearts. Yet, life’s routine, work demands, or soci..."
 summary = "Have you ever noticed how easy it is to drift away from what really matters to you? We all have dreams, passions, and things that are close to our hearts. Yet, life’s routine, work demands, or soci..."
-tags = ["life success", "motivation", "personal values", "productivity", "self-improvement", "tasks", "well-being"]
+tags = ["life success", "motivation", "personal values", "productivity", "self-improvement", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Méthode pour une vie réussie 🤗"
 source_medium = "https://medium.com/@phenrysay/73d21768275e"
 +++

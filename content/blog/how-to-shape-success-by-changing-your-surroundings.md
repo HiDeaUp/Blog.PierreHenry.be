@@ -5,9 +5,9 @@ date = "2025-08-25T17:44:44.741345"
 draft = false
 description = "When you think about success, you might picture hard work, discipline, or even luck. But there’s something we often overlook: the power of our environment. Right now, as I look around at the Christ..."
 summary = "When you think about success, you might picture hard work, discipline, or even luck. But there’s something we often overlook: the power of our environment. Right now, as I look around at the Christ..."
-tags = ["environment", "happiness", "motivation", "personal development", "productivity", "success", "time management"]
+tags = ["environment", "happiness", "motivation", "personal development", "productivity", "self-transcendence", "success", "time management"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Bâtir un univers de vie pour RÉUSSIR davantage"
 source_medium = "https://medium.com/@phenrysay/192656b81d42"
 +++

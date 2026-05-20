@@ -5,9 +5,9 @@ date = "2025-08-31T18:07:44.584711"
 draft = false
 description = "Have you ever noticed how much your surroundings influence your mood and decisions? The secret to a fulfilling life often lies in creating a space where you can truly feel at ease, a place that let..."
 summary = "Have you ever noticed how much your surroundings influence your mood and decisions? The secret to a fulfilling life often lies in creating a space where you can truly feel at ease, a place that let..."
-tags = ["environment", "fulfillment", "happiness", "personal growth", "time management", "well-being"]
+tags = ["environment", "fulfillment", "happiness", "personal growth", "self-transcendence", "time management", "well-being"]
 priority = true
-priority_topics = ["time management"]
+priority_topics = ["self-transcendence", "time management"]
 original_title = "Se créer une perle de vie"
 source_medium = "https://medium.com/@phenrysay/b46817f21bb5"
 +++

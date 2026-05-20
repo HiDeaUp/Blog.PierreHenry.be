@@ -5,9 +5,9 @@ date = "2025-08-30T13:55:15.351017"
 draft = false
 description = "What does it mean to accomplish something truly meaningful? It’s not just about ticking off a todo list or reaching a milestone at work. It’s about doing something that matters deeply to you, somet..."
 summary = "What does it mean to accomplish something truly meaningful? It’s not just about ticking off a todo list or reaching a milestone at work. It’s about doing something that matters deeply to you, somet..."
-tags = ["entrepreneurship", "life achievement", "long-term goals", "meaningful success", "money", "motivation", "nomad", "personal growth", "tasks"]
+tags = ["entrepreneurship", "life achievement", "long-term goals", "meaningful success", "money", "motivation", "nomad", "personal growth", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["nomad", "money", "tasks", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Accomplir une réalisation de vie 💥"
 source_medium = "https://medium.com/@phenrysay/249c562e96a6"
 +++

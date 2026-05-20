@@ -5,9 +5,9 @@ date = "2025-08-30T08:40:49.589497"
 draft = false
 description = "Have you ever noticed how much lighter life feels when you cut out the clutter? When you simplify everything, from your morning routine to the things you own, life itself becomes simple. There’s no..."
 summary = "Have you ever noticed how much lighter life feels when you cut out the clutter? When you simplify everything, from your morning routine to the things you own, life itself becomes simple. There’s no..."
-tags = ["decluttering", "lifestyle", "minimalism", "productivity", "simplicity", "wellbeing"]
+tags = ["decluttering", "lifestyle", "minimalism", "productivity", "self-transcendence", "simplicity", "wellbeing"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "La magie de la simplicité de la vie"
 source_medium = "https://medium.com/@phenrysay/ae46cc4d82fd"
 +++

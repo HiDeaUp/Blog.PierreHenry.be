@@ -5,9 +5,9 @@ date = "2025-08-22T20:59:47.376847"
 draft = false
 description = "There’s a mindset that stands apart from the usual “top 1%” mentality. It’s not about being the best overnight or chasing perfection. Instead, it’s about making a conscious effort to be just 1% bet..."
 summary = "There’s a mindset that stands apart from the usual “top 1%” mentality. It’s not about being the best overnight or chasing perfection. Instead, it’s about making a conscious effort to be just 1% bet..."
-tags = ["daily habits", "goal setting", "incremental progress", "personal growth", "productivity", "self-improvement"]
+tags = ["daily habits", "goal setting", "incremental progress", "personal growth", "productivity", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Comment changer sa vie en progressant d’1% par jour ?"
 source_medium = "https://medium.com/@phenrysay/bbf6475e8968"
 +++

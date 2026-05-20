@@ -5,9 +5,9 @@ date = "2025-08-24T14:46:13.526894"
 draft = false
 description = "Have you ever felt stuck in your own life? Maybe you have a steady job, but you feel boxed in. You need to ask for permission just to take a day off. Your salary has a ceiling, and no matter how ha..."
 summary = "Have you ever felt stuck in your own life? Maybe you have a steady job, but you feel boxed in. You need to ask for permission just to take a day off. Your salary has a ceiling, and no matter how ha..."
-tags = ["entrepreneurship", "finding purpose", "freedom", "life redesign", "money", "nomad", "personal growth", "self improvement"]
+tags = ["entrepreneurship", "finding purpose", "freedom", "life redesign", "money", "nomad", "personal growth", "self improvement", "self-transcendence"]
 priority = true
-priority_topics = ["nomad", "money", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "entrepreneurship"]
 original_title = "Vivre la vie que tu espérais tellement …."
 source_medium = "https://medium.com/@phenrysay/e8bd72b0d082"
 +++

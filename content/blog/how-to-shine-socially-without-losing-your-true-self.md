@@ -5,9 +5,9 @@ date = "2025-08-17T18:03:33.116643"
 draft = false
 description = "Expressing what we like—and what bothers us—should be normal. Yet, in society, we often hold back. We’re taught from a young age not to say things that might hurt others, even if we mean well. This..."
 summary = "Expressing what we like—and what bothers us—should be normal. Yet, in society, we often hold back. We’re taught from a young age not to say things that might hurt others, even if we mean well. This..."
-tags = ["authenticity", "communication", "productivity", "relationships", "self-improvement", "social skills", "tech"]
+tags = ["authenticity", "communication", "productivity", "relationships", "self-improvement", "self-transcendence", "social skills", "tech"]
 priority = true
-priority_topics = ["tech", "productivity"]
+priority_topics = ["tech", "self-transcendence", "productivity"]
 original_title = "RAYONNER EN SOCIÉTÉ : le guide ultime pour s'épanouir dans toutes vos relations"
 source_medium = "https://medium.com/@phenrysay/29ef48b9f73e"
 +++

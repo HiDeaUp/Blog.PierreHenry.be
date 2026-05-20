@@ -5,9 +5,9 @@ date = "2025-08-17T09:17:37.449096"
 draft = false
 description = "There are days when everything feels a bit off. You wake up, and despite your best intentions, your energy is low. Maybe you even made a solid todo list the night before, determined to conquer the..."
 summary = "There are days when everything feels a bit off. You wake up, and despite your best intentions, your energy is low. Maybe you even made a solid todo list the night before, determined to conquer the..."
-tags = ["gratitude", "mental health", "positivity", "resilience", "self-care", "tasks"]
+tags = ["gratitude", "mental health", "positivity", "resilience", "self-care", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Comment cultiver la gratitude même dans les moments difficiles ..."
 source_medium = "https://medium.com/@phenrysay/db045c0f1e26"
 +++

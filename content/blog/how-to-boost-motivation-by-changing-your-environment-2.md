@@ -5,9 +5,9 @@ date = "2025-08-19T23:18:52.547352"
 draft = false
 description = "Have you ever noticed how some places make you feel more alive, more creative, or simply more motivated? There’s a kind of magic in the right environment, a boost that can turn even the most routin..."
 summary = "Have you ever noticed how some places make you feel more alive, more creative, or simply more motivated? There’s a kind of magic in the right environment, a boost that can turn even the most routin..."
-tags = ["environment", "motivation", "personal development", "productivity", "tasks", "wellbeing"]
+tags = ["environment", "motivation", "personal development", "productivity", "self-transcendence", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment les environnements peuvent transformer nos vies ?"
 source_medium = "https://medium.com/@phenrysay/31510211ccf8"
 +++

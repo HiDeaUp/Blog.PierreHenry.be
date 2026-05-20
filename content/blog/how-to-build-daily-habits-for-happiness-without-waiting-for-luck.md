@@ -5,9 +5,9 @@ date = "2025-08-17T17:54:22.948116"
 draft = false
 description = "When we talk about happiness, it’s easy to imagine it as something that just happens to us, like a stroke of luck or a blessing we have to pray for. But real happiness isn’t about waiting for mirac..."
 summary = "When we talk about happiness, it’s easy to imagine it as something that just happens to us, like a stroke of luck or a blessing we have to pray for. But real happiness isn’t about waiting for mirac..."
-tags = ["daily habits", "entrepreneurship", "happiness", "intentional living", "money", "nomad", "positive mindset", "productivity", "self-improvement", "time management"]
+tags = ["daily habits", "entrepreneurship", "happiness", "intentional living", "money", "nomad", "positive mindset", "productivity", "self-improvement", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["nomad", "money", "time management", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "time management", "productivity", "entrepreneurship"]
 original_title = "Comment attirer le BONHEUR ? (être heureux plus facilement)"
 source_medium = "https://medium.com/@phenrysay/bbd3a3a273b7"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-19T22:22:51.914801"
 draft = false
 description = "Sitting on my balcony, enjoying a beautiful view and the warmth of the sun, I started thinking about freedom. Many of us dream of traveling the world, believing that others have it easier because o..."
 summary = "Sitting on my balcony, enjoying a beautiful view and the warmth of the sun, I started thinking about freedom. Many of us dream of traveling the world, believing that others have it easier because o..."
-tags = ["comparison", "entrepreneurship", "mindfulness", "money", "nomad", "personal growth", "perspective", "productivity", "self-improvement"]
+tags = ["comparison", "entrepreneurship", "mindfulness", "money", "nomad", "personal growth", "perspective", "productivity", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["nomad", "money", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Est-ce que l'herbe est vraiment plus verte chez le voisin ?"
 source_medium = "https://medium.com/@phenrysay/2df6692bf95b"
 +++

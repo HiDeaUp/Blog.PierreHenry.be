@@ -5,9 +5,9 @@ date = "2025-08-25T18:24:49.812501"
 draft = false
 description = "Have you ever noticed how easy it is to sit back and watch videos, documentaries, or even inspiring stories, yet never actually do anything with what you’ve learned? It’s comfortable. You’re on you..."
 summary = "Have you ever noticed how easy it is to sit back and watch videos, documentaries, or even inspiring stories, yet never actually do anything with what you’ve learned? It’s comfortable. You’re on you..."
-tags = ["active learning", "motivational", "nomad", "practical application", "productivity", "self-improvement", "take action"]
+tags = ["active learning", "motivational", "nomad", "practical application", "productivity", "self-improvement", "self-transcendence", "take action"]
 priority = true
-priority_topics = ["nomad", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "productivity"]
 original_title = "Vas-y ! Passe à l'action avec l'active learning !💡"
 source_medium = "https://medium.com/@phenrysay/57bee45084b6"
 +++

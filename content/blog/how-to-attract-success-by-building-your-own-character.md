@@ -5,9 +5,9 @@ date = "2025-08-19T13:48:09.487654"
 draft = false
 description = "When you want to create something meaningful online—whether it’s an information product, a business, or simply sharing your ideas—it’s not just about what you offer. It’s about who you are, or more..."
 summary = "When you want to create something meaningful online—whether it’s an information product, a business, or simply sharing your ideas—it’s not just about what you offer. It’s about who you are, or more..."
-tags = ["authenticity", "entrepreneurship", "online presence", "personal branding", "productivity", "self-improvement", "success strategies"]
+tags = ["authenticity", "entrepreneurship", "online presence", "personal branding", "productivity", "self-improvement", "self-transcendence", "success strategies"]
 priority = true
-priority_topics = ["productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Se reconstruire: La méthode FAST pour attirer succès & sérénité"
 source_medium = "https://medium.com/@phenrysay/e101333f0d2a"
 +++

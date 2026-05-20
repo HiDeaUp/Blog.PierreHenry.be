@@ -5,9 +5,9 @@ date = "2025-06-09T01:50:05.560786"
 draft = false
 description = "Life offers us countless paths, but at every turn, we face two main choices: the one that comes from within, and the one that comes from outside. There’s the choice that truly belongs to you—the on..."
 summary = "Life offers us countless paths, but at every turn, we face two main choices: the one that comes from within, and the one that comes from outside. There’s the choice that truly belongs to you—the on..."
-tags = ["external influence", "life choices", "money", "personal fulfillment", "self-growth", "toxic environment", "wealth"]
+tags = ["external influence", "life choices", "money", "personal fulfillment", "self-growth", "self-transcendence", "toxic environment", "wealth"]
 priority = true
-priority_topics = ["money", "wealth"]
+priority_topics = ["money", "wealth", "self-transcendence"]
 original_title = "Comment ne plus se laisser couler par un environnement de vie néfaste"
 source_medium = "https://medium.com/@phenrysay/6501431ffd35"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-30T14:26:17.191013"
 draft = false
 description = "Remember the first time you saw the ocean, or maybe the first time you spotted a guinea pig or a hamster? Those moments as a child, when everything felt new and exciting, are precious. As adults, w..."
 summary = "Remember the first time you saw the ocean, or maybe the first time you spotted a guinea pig or a hamster? Those moments as a child, when everything felt new and exciting, are precious. As adults, w..."
-tags = ["childlike wonder", "enthusiasm", "entrepreneurship", "everyday life", "mindfulness", "positivity"]
+tags = ["childlike wonder", "enthusiasm", "entrepreneurship", "everyday life", "mindfulness", "positivity", "self-transcendence"]
 priority = true
-priority_topics = ["entrepreneurship"]
+priority_topics = ["self-transcendence", "entrepreneurship"]
 original_title = "Comment s’enthousiasmer dans chaque moment ☕️"
 source_medium = "https://medium.com/@phenrysay/7dc052e90769"
 +++

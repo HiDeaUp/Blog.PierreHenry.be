@@ -5,9 +5,9 @@ date = "2025-08-17T08:45:41.245497"
 draft = false
 description = "What does it mean to want a dream lifestyle? For many, it’s not just about money or comfort. It’s about building a life that excites us, a life where we can live from our passions, our knowledge, a..."
 summary = "What does it mean to want a dream lifestyle? For many, it’s not just about money or comfort. It’s about building a life that excites us, a life where we can live from our passions, our knowledge, a..."
-tags = ["dream lifestyle", "life design", "money", "passion", "personal empowerment", "productivity", "self-actualization"]
+tags = ["dream lifestyle", "life design", "money", "passion", "personal empowerment", "productivity", "self-actualization", "self-transcendence"]
 priority = true
-priority_topics = ["money", "productivity"]
+priority_topics = ["money", "self-transcendence", "productivity"]
 original_title = "POURQUOI VEUT-ON TOUS UN LIFESTYLE DE RÊVE ?"
 source_medium = "https://medium.com/@phenrysay/0718a557f0f7"
 +++

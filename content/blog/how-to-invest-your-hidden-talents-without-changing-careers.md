@@ -5,9 +5,9 @@ date = "2025-08-24T13:50:08.065944"
 draft = false
 description = "We all have different potential. Each of us learns in our own way, and we all have unique skills waiting to be put to good use. Investing your potential is not just about using what you already kno..."
 summary = "We all have different potential. Each of us learns in our own way, and we all have unique skills waiting to be put to good use. Investing your potential is not just about using what you already kno..."
-tags = ["entrepreneurship", "money", "personal-development", "self-improvement", "skills-growth", "talent-investment", "time management", "unlock-potential", "wealth"]
+tags = ["entrepreneurship", "money", "personal-development", "self-improvement", "self-transcendence", "skills-growth", "talent-investment", "time management", "unlock-potential", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "entrepreneurship"]
 original_title = "Comment investir ses connaissances ? 💸"
 source_medium = "https://medium.com/@phenrysay/c5733ee37e52"
 +++

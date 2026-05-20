@@ -5,9 +5,9 @@ date = "2025-08-24T14:59:45.639555"
 draft = false
 description = "Many people go through life as if they’re passengers on a train: wake up, go to work, come home, sleep, repeat. They don’t really have projects of their own, and they don’t make decisions to change..."
 summary = "Many people go through life as if they’re passengers on a train: wake up, go to work, come home, sleep, repeat. They don’t really have projects of their own, and they don’t make decisions to change..."
-tags = ["life choices", "money", "motivation", "personal growth", "productivity", "self-empowerment", "taking control", "time management"]
+tags = ["life choices", "money", "motivation", "personal growth", "productivity", "self-empowerment", "self-transcendence", "taking control", "time management"]
 priority = true
-priority_topics = ["money", "time management", "productivity"]
+priority_topics = ["money", "self-transcendence", "time management", "productivity"]
 original_title = "Pourquoi devenir un acteur de sa vie 💪"
 source_medium = "https://medium.com/@phenrysay/6747b8758ab7"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T08:50:36.311942"
 draft = false
 description = "Reinvention is essential. It’s not just about chasing new opportunities or changing for the sake of it. It’s about staying awake to what life brings, and not getting stuck in routines that might wo..."
 summary = "Reinvention is essential. It’s not just about chasing new opportunities or changing for the sake of it. It’s about staying awake to what life brings, and not getting stuck in routines that might wo..."
-tags = ["entrepreneurship", "inner peace", "mindfulness", "nomad", "personal growth", "reinvention", "simple living", "tasks"]
+tags = ["entrepreneurship", "inner peace", "mindfulness", "nomad", "personal growth", "reinvention", "self-transcendence", "simple living", "tasks"]
 priority = true
-priority_topics = ["nomad", "tasks", "entrepreneurship"]
+priority_topics = ["nomad", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "COMMENT JE VIS EN TRANQUILLITÉ – CE QUI M’A VRAIMENT APPORTÉ LA PAIX"
 source_medium = "https://medium.com/@phenrysay/11bf728444eb"
 +++

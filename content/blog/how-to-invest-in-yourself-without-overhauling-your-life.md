@@ -5,9 +5,9 @@ date = "2025-08-17T18:20:17.928294"
 draft = false
 description = "Investing in yourself starts with knowing what’s truly good for you. It’s not just about eating healthy food or having a balanced diet—though that’s important. It’s also about building a daily rout..."
 summary = "Investing in yourself starts with knowing what’s truly good for you. It’s not just about eating healthy food or having a balanced diet—though that’s important. It’s also about building a daily rout..."
-tags = ["daily habits", "entrepreneurship", "goal setting", "money", "personal development", "productivity", "self-awareness", "self-improvement", "tasks", "tech", "time management", "wealth"]
+tags = ["daily habits", "entrepreneurship", "goal setting", "money", "personal development", "productivity", "self-awareness", "self-improvement", "self-transcendence", "tasks", "tech", "time management", "wealth"]
 priority = true
-priority_topics = ["tech", "money", "wealth", "time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["tech", "money", "wealth", "self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "Mieux se connaître pour pouvoir investir sur soi 💪"
 source_medium = "https://medium.com/@phenrysay/660032d71128"
 +++

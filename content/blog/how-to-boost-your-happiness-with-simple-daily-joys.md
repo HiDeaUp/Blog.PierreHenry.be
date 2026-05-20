@@ -5,9 +5,9 @@ date = "2025-09-03T08:17:56.763761"
 draft = false
 description = "We often think happiness is something grand, something that arrives only with big achievements or major life changes. But the truth is, happiness is built from small moments—tiny sparks of joy that..."
 summary = "We often think happiness is something grand, something that arrives only with big achievements or major life changes. But the truth is, happiness is built from small moments—tiny sparks of joy that..."
-tags = ["everyday joy", "happiness", "mindfulness", "simple pleasures", "tasks", "wellbeing"]
+tags = ["everyday joy", "happiness", "mindfulness", "self-transcendence", "simple pleasures", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Création de MOMENTS de bonheur ☺️"
 source_medium = "https://medium.com/@phenrysay/a78e27401f2b"
 +++

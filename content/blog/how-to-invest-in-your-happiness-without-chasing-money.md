@@ -5,9 +5,9 @@ date = "2025-08-24T15:59:38.435024"
 draft = false
 description = "When we talk about investing, most people think of money or maybe time. But what about investing in your own happiness and fulfillment? The projects you care about, the dreams you’ve held onto for..."
 summary = "When we talk about investing, most people think of money or maybe time. But what about investing in your own happiness and fulfillment? The projects you care about, the dreams you’ve held onto for..."
-tags = ["fulfillment", "goal achievement", "happiness", "money", "personal growth", "productivity", "self-investment", "tasks", "wealth"]
+tags = ["fulfillment", "goal achievement", "happiness", "money", "personal growth", "productivity", "self-investment", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "Comment réussir à accomplir ses désires"
 source_medium = "https://medium.com/@phenrysay/1314cc272b33"
 +++

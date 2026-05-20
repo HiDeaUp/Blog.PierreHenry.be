@@ -5,9 +5,9 @@ date = "2025-08-25T18:28:53.688296"
 draft = false
 description = "When you look at what makes a day truly satisfying, three things stand out: motivation, energy, and rest. These are not just nicetohaves; they are the foundation for a wellbalanced life. Science ba..."
 summary = "When you look at what makes a day truly satisfying, three things stand out: motivation, energy, and rest. These are not just nicetohaves; they are the foundation for a wellbalanced life. Science ba..."
-tags = ["energy", "happiness", "motivation", "rest", "tasks", "wellbeing"]
+tags = ["energy", "happiness", "motivation", "rest", "self-transcendence", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Motivation du Bonheur 🥹"
 source_medium = "https://medium.com/@phenrysay/362fcf840feb"
 +++

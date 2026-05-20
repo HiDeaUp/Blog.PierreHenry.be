@@ -5,9 +5,9 @@ date = "2025-08-30T08:51:36.226493"
 draft = false
 description = "Traveling often reminds me how important it is to feed your mind with the right content. Right now, I’m in a hotel, searching for a new apartment. My current home is in Adelaide, but I had to come..."
 summary = "Traveling often reminds me how important it is to feed your mind with the right content. Right now, I’m in a hotel, searching for a new apartment. My current home is in Adelaide, but I had to come..."
-tags = ["entrepreneurship", "mental-health", "mindfulness", "nomad", "personal-growth", "productivity", "self-improvement", "success", "time management"]
+tags = ["entrepreneurship", "mental-health", "mindfulness", "nomad", "personal-growth", "productivity", "self-improvement", "self-transcendence", "success", "time management"]
 priority = true
-priority_topics = ["nomad", "time management", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "self-transcendence", "time management", "productivity", "entrepreneurship"]
 original_title = "Comment réussir en suivant des règles simples …"
 source_medium = "https://medium.com/@phenrysay/bc045156eb6a"
 +++

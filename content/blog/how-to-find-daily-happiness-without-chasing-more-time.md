@@ -5,9 +5,9 @@ date = "2025-08-19T14:51:36.302206"
 draft = false
 description = "What does it really mean to live a happy life? The ancient Greeks had a simple answer: happiness is living a life without worries. A life free from trouble and stress. Of course, we’d all love that..."
 summary = "What does it really mean to live a happy life? The ancient Greeks had a simple answer: happiness is living a life without worries. A life free from trouble and stress. Of course, we’d all love that..."
-tags = ["happiness", "life philosophy", "mindfulness", "productivity", "tasks", "time management", "wellbeing"]
+tags = ["happiness", "life philosophy", "mindfulness", "productivity", "self-transcendence", "tasks", "time management", "wellbeing"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Bonheur NON TEMPS, expliqué à ma Granny"
 source_medium = "https://medium.com/@phenrysay/596cfa5b6ccb"
 +++

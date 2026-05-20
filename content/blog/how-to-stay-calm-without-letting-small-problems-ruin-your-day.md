@@ -5,9 +5,9 @@ date = "2025-08-17T19:23:26.599726"
 draft = false
 description = "Sometimes, negativity and stress sneak up on us. It might be because of work, a tough boss, or even a colleague—someone you respect, whose words can sting. Maybe it’s a stranger in a supermarket wh..."
 summary = "Sometimes, negativity and stress sneak up on us. It might be because of work, a tough boss, or even a colleague—someone you respect, whose words can sting. Maybe it’s a stranger in a supermarket wh..."
-tags = ["coping strategies", "emotional well-being", "mindfulness", "money", "productivity", "self-care", "stress relief", "tasks"]
+tags = ["coping strategies", "emotional well-being", "mindfulness", "money", "productivity", "self-care", "self-transcendence", "stress relief", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity"]
 original_title = "Mon remède pour se calmer en douceur"
 source_medium = "https://medium.com/@phenrysay/4374109f92c2"
 +++

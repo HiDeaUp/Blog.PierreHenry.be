@@ -5,9 +5,9 @@ date = "2025-08-30T12:58:08.606094"
 draft = false
 description = "When we think about happiness, many of us imagine it as a race. We picture a long track where the winners are those who collect the most degrees, land the highestpaying jobs, and climb to the most..."
 summary = "When we think about happiness, many of us imagine it as a race. We picture a long track where the winners are those who collect the most degrees, land the highestpaying jobs, and climb to the most..."
-tags = ["entrepreneurship", "happiness", "life purpose", "mindset", "money", "motivation", "success"]
+tags = ["entrepreneurship", "happiness", "life purpose", "mindset", "money", "motivation", "self-transcendence", "success"]
 priority = true
-priority_topics = ["money", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "entrepreneurship"]
 original_title = "Comment vivre une vie enthousiasmante ? 💥"
 source_medium = "https://medium.com/@phenrysay/2652b8635f3a"
 +++

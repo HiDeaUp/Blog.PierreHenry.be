@@ -5,9 +5,9 @@ date = "2025-08-19T14:43:52.953995"
 draft = false
 description = "Let’s get straight to the point: having a purpose in life and keeping your enthusiasm high is not just a “nice to have”—it’s the fuel that keeps you moving forward, even when things get tough. You’..."
 summary = "Let’s get straight to the point: having a purpose in life and keeping your enthusiasm high is not just a “nice to have”—it’s the fuel that keeps you moving forward, even when things get tough. You’..."
-tags = ["choc method", "enthusiasm", "money", "motivation", "positive mindset", "self-improvement", "tasks"]
+tags = ["choc method", "enthusiasm", "money", "motivation", "positive mindset", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "La méthode CHOC pour exploser ton enthousiasme !"
 source_medium = "https://medium.com/@phenrysay/4dccebcd15f2"
 +++

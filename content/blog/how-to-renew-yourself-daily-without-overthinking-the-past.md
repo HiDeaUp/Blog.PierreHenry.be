@@ -5,9 +5,9 @@ date = "2025-08-31T17:54:27.403524"
 draft = false
 description = "Renewing yourself every day is not just a nice idea—it is essential. I found myself in a shopping center, thinking about how easy it is to get lost in worries and forget to live in the present. Our..."
 summary = "Renewing yourself every day is not just a nice idea—it is essential. I found myself in a shopping center, thinking about how easy it is to get lost in worries and forget to live in the present. Our..."
-tags = ["focus", "mindfulness", "personal growth", "present moment", "productivity", "self-renewal"]
+tags = ["focus", "mindfulness", "personal growth", "present moment", "productivity", "self-renewal", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Comment se concentrer sur le présent ?"
 source_medium = "https://medium.com/@phenrysay/ad781784c6db"
 +++

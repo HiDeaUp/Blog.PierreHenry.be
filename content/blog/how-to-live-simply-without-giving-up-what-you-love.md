@@ -5,7 +5,9 @@ date = "2025-08-24T15:14:11.564749"
 draft = false
 description = "Living simply is not about giving up on your dreams or settling for less. It is about finding peace in your daily life, feeling useful, and doing something you genuinely love. The real challenge is..."
 summary = "Living simply is not about giving up on your dreams or settling for less. It is about finding peace in your daily life, feeling useful, and doing something you genuinely love. The real challenge is..."
-tags = ["intentional living", "life balance", "minimalism", "simple living", "wellbeing"]
+tags = ["intentional living", "life balance", "minimalism", "self-transcendence", "simple living", "wellbeing"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Vivre SIMPLEMENT - COMMENT FAIRE ?"
 source_medium = "https://medium.com/@phenrysay/5497c5ee4321"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-30T10:52:57.987576"
 draft = false
 description = "Let’s talk about feelings. Not the kind you see in movies, but those real, everyday emotions that sometimes hit you out of nowhere. Maybe you wake up feeling a bit off, or sadness creeps in for no..."
 summary = "Let’s talk about feelings. Not the kind you see in movies, but those real, everyday emotions that sometimes hit you out of nowhere. Maybe you wake up feeling a bit off, or sadness creeps in for no..."
-tags = ["emotional intelligence", "entrepreneurship", "mental health", "personal growth", "productivity", "self-awareness", "sensitivity", "tasks", "time management"]
+tags = ["emotional intelligence", "entrepreneurship", "mental health", "personal growth", "productivity", "self-awareness", "self-transcendence", "sensitivity", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "Secret sur les sentiments"
 source_medium = "https://medium.com/@phenrysay/4b49e7b99804"
 +++

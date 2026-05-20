@@ -5,9 +5,9 @@ date = "2025-08-19T23:01:35.608971"
 draft = false
 description = "Happiness is often found in the small pleasures of life. Feeling good and truly enjoying each moment is more important than we tend to realize. Too often, we get stuck thinking about the past, abou..."
 summary = "Happiness is often found in the small pleasures of life. Feeling good and truly enjoying each moment is more important than we tend to realize. Too often, we get stuck thinking about the past, abou..."
-tags = ["conscious living", "enjoying life", "entrepreneurship", "happiness", "living in the present", "mindfulness", "money", "productivity"]
+tags = ["conscious living", "enjoying life", "entrepreneurship", "happiness", "living in the present", "mindfulness", "money", "productivity", "self-transcendence"]
 priority = true
-priority_topics = ["money", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Comment SAVOURER la vie au lieu de la SUBIR ?"
 source_medium = "https://medium.com/@phenrysay/5a1f3fdf12ef"
 +++

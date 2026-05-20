@@ -5,9 +5,9 @@ date = "2025-08-24T14:34:10.602396"
 draft = false
 description = "Setting challenges for yourself can truly change your life. When you create your own goals, even small ones, you add a spark to your daily routine. It’s like adding a pinch of salt and pepper to a..."
 summary = "Setting challenges for yourself can truly change your life. When you create your own goals, even small ones, you add a spark to your daily routine. It’s like adding a pinch of salt and pepper to a..."
-tags = ["challenge yourself", "goal setting", "motivation", "personal growth", "productivity", "self-improvement"]
+tags = ["challenge yourself", "goal setting", "motivation", "personal growth", "productivity", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Se dépasser facilement... Vraiment ?"
 source_medium = "https://medium.com/@phenrysay/660869236d47"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T08:40:43.838356"
 draft = false
 description = "When you live and breathe your brand, it becomes more than just a business. It’s like your own child—something you care for, think about, and nurture every single day. That’s how I feel about my Sa..."
 summary = "When you live and breathe your brand, it becomes more than just a business. It’s like your own child—something you care for, think about, and nurture every single day. That’s how I feel about my Sa..."
-tags = ["brand building", "entrepreneurship", "marketing offer", "saas", "sales strategy", "tech"]
+tags = ["brand building", "entrepreneurship", "marketing offer", "saas", "sales strategy", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "entrepreneurship"]
+priority_topics = ["tech", "self-transcendence", "entrepreneurship"]
 original_title = "VENTE : Je FAIS une offre pour mon SaaS devant toi !"
 source_medium = "https://medium.com/@phenrysay/205256217d21"
 +++

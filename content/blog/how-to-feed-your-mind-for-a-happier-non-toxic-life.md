@@ -5,9 +5,9 @@ date = "2025-08-30T08:18:07.686460"
 draft = false
 description = "Have you ever thought about life as a kind of nourishment? Just like our bodies need food, our minds and souls need new things to keep moving forward. Every time you learn something new, you give y..."
 summary = "Have you ever thought about life as a kind of nourishment? Just like our bodies need food, our minds and souls need new things to keep moving forward. Every time you learn something new, you give y..."
-tags = ["lifelong learning", "mental well-being", "money", "non-toxic lifestyle", "personal growth", "self-improvement", "wealth"]
+tags = ["lifelong learning", "mental well-being", "money", "non-toxic lifestyle", "personal growth", "self-improvement", "self-transcendence", "wealth"]
 priority = true
-priority_topics = ["money", "wealth"]
+priority_topics = ["money", "wealth", "self-transcendence"]
 original_title = "Une vie non-toxique ? Une vie qui t’élève ?"
 source_medium = "https://medium.com/@phenrysay/cc642f3f925f"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-18T08:44:13.312695"
 draft = false
 description = "Feeling at peace is something we all need. Tranquility isn’t just a luxury—it’s a real necessity. When we’re calm, rested, and safe, we can recharge our energy and give the best of ourselves. This..."
 summary = "Feeling at peace is something we all need. Tranquility isn’t just a luxury—it’s a real necessity. When we’re calm, rested, and safe, we can recharge our energy and give the best of ourselves. This..."
-tags = ["emotional safety", "mental well-being", "money", "personal growth", "productivity", "safe spaces", "supportive environments", "wealth"]
+tags = ["emotional safety", "mental well-being", "money", "personal growth", "productivity", "safe spaces", "self-transcendence", "supportive environments", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "productivity"]
 original_title = "je dévoile la puissance des lieux qui nous font avancer (les Safe Spaces)"
 source_medium = "https://medium.com/@phenrysay/8a5ec5017785"
 +++

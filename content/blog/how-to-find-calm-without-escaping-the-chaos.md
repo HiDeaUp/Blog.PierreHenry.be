@@ -5,9 +5,9 @@ date = "2025-08-18T20:43:07.999184"
 draft = false
 description = "There are moments when you just need to let go. I love the idea of letting go, of slowing down. Today, I’m sitting in a beautiful bay—Elizabeth Bay Park, to be exact. The weather is perfect, spring..."
 summary = "There are moments when you just need to let go. I love the idea of letting go, of slowing down. Today, I’m sitting in a beautiful bay—Elizabeth Bay Park, to be exact. The weather is perfect, spring..."
-tags = ["mental health", "mindfulness", "money", "productivity", "relaxation", "self-care", "stress management", "tasks"]
+tags = ["mental health", "mindfulness", "money", "productivity", "relaxation", "self-care", "self-transcendence", "stress management", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity"]
 original_title = "Comment se détendre rapidement (même quand tout s’agite autour de toi)"
 source_medium = "https://medium.com/@phenrysay/71b7b0824ab4"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-20T12:19:33.846183"
 draft = false
 description = "Today, I want to share a few small adventures and observations that might seem trivial at first, but actually hold a lot of meaning. Right now, I’m sitting in my coworking space, where I stumbled u..."
 summary = "Today, I want to share a few small adventures and observations that might seem trivial at first, but actually hold a lot of meaning. Right now, I’m sitting in my coworking space, where I stumbled u..."
-tags = ["everyday life", "inspiration", "joy", "mindfulness", "nomad", "simple pleasures", "time management"]
+tags = ["everyday life", "inspiration", "joy", "mindfulness", "nomad", "self-transcendence", "simple pleasures", "time management"]
 priority = true
-priority_topics = ["nomad", "time management"]
+priority_topics = ["nomad", "self-transcendence", "time management"]
 original_title = "S'inspirer des petites choses qui nous entourent"
 source_medium = "https://medium.com/@phenrysay/a246deec2297"
 +++

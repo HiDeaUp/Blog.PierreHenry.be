@@ -5,9 +5,9 @@ date = "2025-06-08T20:20:41.860221"
 draft = false
 description = "Have you ever noticed how hard it is to actually feel good in the present moment? We often talk about wellbeing as if it’s some distant goal, but the real secret is much simpler: being present, rig..."
 summary = "Have you ever noticed how hard it is to actually feel good in the present moment? We often talk about wellbeing as if it’s some distant goal, but the real secret is much simpler: being present, rig..."
-tags = ["entrepreneurship", "living in the present", "mental health", "mindfulness", "money", "self-improvement", "well-being"]
+tags = ["entrepreneurship", "living in the present", "mental health", "mindfulness", "money", "self-improvement", "self-transcendence", "well-being"]
 priority = true
-priority_topics = ["money", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "entrepreneurship"]
 original_title = "CHOC: CE QU'ON NE TE DIT PAS SUR LE BIEN-ÊTRE"
 source_medium = "https://medium.com/@phenrysay/7b673db3173d"
 +++

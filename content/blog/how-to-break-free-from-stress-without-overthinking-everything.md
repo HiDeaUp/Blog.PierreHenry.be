@@ -5,9 +5,9 @@ date = "2025-08-25T18:46:04.135448"
 draft = false
 description = "Stress is something we all know too well. As I sit here in Sydney airport, I’m reminded of how important it is to take a moment to relax, especially when life feels overwhelming. Stress doesn’t jus..."
 summary = "Stress is something we all know too well. As I sit here in Sydney airport, I’m reminded of how important it is to take a moment to relax, especially when life feels overwhelming. Stress doesn’t jus..."
-tags = ["mindfulness", "nomad", "productivity", "relaxation", "self care", "stress relief", "tasks", "wellbeing"]
+tags = ["mindfulness", "nomad", "productivity", "relaxation", "self care", "self-transcendence", "stress relief", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["nomad", "tasks", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "tasks", "productivity"]
 original_title = "Relaxation & Bien-être ! 😊"
 source_medium = "https://medium.com/@phenrysay/f0546b26f08f"
 +++

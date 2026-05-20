@@ -5,9 +5,9 @@ date = "2025-08-31T21:46:22.924242"
 draft = false
 description = "Finding ways to relax in daily life is not just a luxury—it’s a necessity. Let me share a simple trick that has helped me unwind, especially when work stress starts to pile up."
 summary = "Finding ways to relax in daily life is not just a luxury—it’s a necessity. Let me share a simple trick that has helped me unwind, especially when work stress starts to pile up."
-tags = ["lifestyle", "mindfulness", "productivity", "relaxation", "selfcare", "stressrelief"]
+tags = ["lifestyle", "mindfulness", "productivity", "relaxation", "self-transcendence", "selfcare", "stressrelief"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Une vie plus relaxante 😌"
 source_medium = "https://medium.com/@phenrysay/a000a439e2cf"
 +++

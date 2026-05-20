@@ -5,9 +5,9 @@ date = "2025-08-17T08:57:39.077792"
 draft = false
 description = "Living well isn’t about chasing big dreams or waiting for the perfect moment. It’s about feeling truly alive, right here and now. That sensation of being present, of saying to yourself, “I am livin..."
 summary = "Living well isn’t about chasing big dreams or waiting for the perfect moment. It’s about feeling truly alive, right here and now. That sensation of being present, of saying to yourself, “I am livin..."
-tags = ["daily habits", "life control", "mindfulness", "personal growth", "productivity", "self-improvement", "tasks"]
+tags = ["daily habits", "life control", "mindfulness", "personal growth", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "ON PEUT TOUS BIEN VIVRE. COMMENT REPRENDRE LE CONTRÔLE DE SA VIE ?"
 source_medium = "https://medium.com/@phenrysay/7b25fe48328e"
 +++

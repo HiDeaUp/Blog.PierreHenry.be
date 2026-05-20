@@ -5,9 +5,9 @@ date = "2025-08-19T23:25:08.536330"
 draft = false
 description = "The story of the hare and the tortoise is more than just a childhood fable. It holds a powerful lesson for anyone running a business, freelancing, coaching, or building something meaningful. Many p..."
 summary = "The story of the hare and the tortoise is more than just a childhood fable. It holds a powerful lesson for anyone running a business, freelancing, coaching, or building something meaningful. Many p..."
-tags = ["business lessons", "consistency", "entrepreneurship", "motivation", "productivity", "storytelling", "success principles"]
+tags = ["business lessons", "consistency", "entrepreneurship", "motivation", "productivity", "self-transcendence", "storytelling", "success principles"]
 priority = true
-priority_topics = ["productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "productivity", "entrepreneurship"]
 original_title = "SUCCÈS: Principe du lièvre et de la tortue 🐢"
 source_medium = "https://medium.com/@phenrysay/55fafe4aec72"
 +++

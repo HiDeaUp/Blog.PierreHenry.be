@@ -5,9 +5,9 @@ date = "2025-06-01T12:16:16.393735"
 draft = false
 description = "Have you ever noticed how much you can learn just by being curious about the world around you? Today, I want to talk about something simple but powerful: using your everyday walks, your daily momen..."
 summary = "Have you ever noticed how much you can learn just by being curious about the world around you? Today, I want to talk about something simple but powerful: using your everyday walks, your daily momen..."
-tags = ["creativity", "curiosity", "mindfulness", "money", "personal growth", "self-improvement", "tasks", "wealth"]
+tags = ["creativity", "curiosity", "mindfulness", "money", "personal growth", "self-improvement", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks"]
 original_title = "ET SI LA CURIOSITÉ ÉTAIT LA CLÉ DE L’EXCELLENCE ?"
 source_medium = "https://medium.com/@phenrysay/3bdda25258b2"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-31T22:14:14.876580"
 draft = false
 description = "Feeling good every day is not just a dream. It is something you can actually create for yourself. I am writing this from the street where I live. My apartment is just a few steps away, and I wanted..."
 summary = "Feeling good every day is not just a dream. It is something you can actually create for yourself. I am writing this from the street where I live. My apartment is just a few steps away, and I wanted..."
-tags = ["authentic living", "entrepreneurship", "life design", "money", "personal growth", "productivity", "self-improvement", "tech", "wellbeing"]
+tags = ["authentic living", "entrepreneurship", "life design", "money", "personal growth", "productivity", "self-improvement", "self-transcendence", "tech", "wellbeing"]
 priority = true
-priority_topics = ["tech", "money", "productivity", "entrepreneurship"]
+priority_topics = ["tech", "money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Avoir une vie qui te parle 🌴"
 source_medium = "https://medium.com/@phenrysay/392e0f96f741"
 +++

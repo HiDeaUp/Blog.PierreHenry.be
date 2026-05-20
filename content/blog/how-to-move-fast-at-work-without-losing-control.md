@@ -5,9 +5,9 @@ date = "2025-08-30T08:50:13.682337"
 draft = false
 description = "Today, a scooter gave me quite a scare. It zipped by so quickly that it made me reflect on how speed shapes our daily lives and work. Let’s talk about the importance of acting fast and what it can..."
 summary = "Today, a scooter gave me quite a scare. It zipped by so quickly that it made me reflect on how speed shapes our daily lives and work. Let’s talk about the importance of acting fast and what it can..."
-tags = ["efficiency", "money", "productivity", "quick execution", "speed", "tasks", "tech", "workplace"]
+tags = ["efficiency", "money", "productivity", "quick execution", "self-transcendence", "speed", "tasks", "tech", "workplace"]
 priority = true
-priority_topics = ["tech", "money", "tasks", "productivity"]
+priority_topics = ["tech", "money", "self-transcendence", "tasks", "productivity"]
 original_title = "La rapidité d’exécution 🚀"
 source_medium = "https://medium.com/@phenrysay/ed04e367cfb8"
 +++

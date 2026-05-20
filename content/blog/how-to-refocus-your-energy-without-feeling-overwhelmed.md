@@ -5,9 +5,9 @@ date = "2025-08-30T08:16:50.250671"
 draft = false
 description = "Have you ever felt like your energy is all over the place? Like you want to do everything at once, but end up doing nothing at all? This is a common trap. The truth is, focusing your energy on one..."
 summary = "Have you ever felt like your energy is all over the place? Like you want to do everything at once, but end up doing nothing at all? This is a common trap. The truth is, focusing your energy on one..."
-tags = ["energy management", "focus", "productivity", "self-care", "tasks", "wellness"]
+tags = ["energy management", "focus", "productivity", "self-care", "self-transcendence", "tasks", "wellness"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment recentrer son énergie 💡"
 source_medium = "https://medium.com/@phenrysay/ee8389a73fa3"
 +++

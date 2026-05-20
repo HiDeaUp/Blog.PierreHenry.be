@@ -5,9 +5,9 @@ date = "2025-08-18T21:06:50.410082"
 draft = false
 description = "We all know the feeling: a head full of worries, endless todo lists, and mental clutter that just keeps piling up. It’s like carrying a heavy bag everywhere you go. At some point, it gets so overwh..."
 summary = "We all know the feeling: a head full of worries, endless todo lists, and mental clutter that just keeps piling up. It’s like carrying a heavy bag everywhere you go. At some point, it gets so overwh..."
-tags = ["brain training", "meditation", "mental clarity", "mindfulness", "productivity", "stress relief", "tasks"]
+tags = ["brain training", "meditation", "mental clarity", "mindfulness", "productivity", "self-transcendence", "stress relief", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Méditation Express : Comment Faire le Vide & Renforcer votre Gymnastique Cérébrale"
 source_medium = "https://medium.com/@phenrysay/6be2871ae5b0"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-19T14:49:01.335580"
 draft = false
 description = "Living well and living elegantly—there’s a world of difference between the two. It’s something I keep repeating, but it’s true: when you start to appreciate the little things, your whole experience..."
 summary = "Living well and living elegantly—there’s a world of difference between the two. It’s something I keep repeating, but it’s true: when you start to appreciate the little things, your whole experience..."
-tags = ["appreciation", "art of living", "elegant living", "lifestyle", "mindfulness", "money", "tasks", "wealth"]
+tags = ["appreciation", "art of living", "elegant living", "lifestyle", "mindfulness", "money", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks"]
 original_title = "Peut-on vivre de manière élégante ?"
 source_medium = "https://medium.com/@phenrysay/a4ccd4e55c9b"
 +++

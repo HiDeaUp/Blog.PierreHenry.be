@@ -5,9 +5,9 @@ date = "2025-08-30T14:16:35.112379"
 draft = false
 description = "What does it mean to live a life that lifts you up? It’s not about chasing some distant dream or following a strict formula. It’s about feeling at home in your own skin, waking up and thinking, “Ye..."
 summary = "What does it mean to live a life that lifts you up? It’s not about chasing some distant dream or following a strict formula. It’s about feeling at home in your own skin, waking up and thinking, “Ye..."
-tags = ["habit building", "life design", "nomad", "personal growth", "productivity", "self-discovery", "tasks", "wellbeing"]
+tags = ["habit building", "life design", "nomad", "personal growth", "productivity", "self-discovery", "self-transcendence", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["nomad", "tasks", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "tasks", "productivity"]
 original_title = "Comment se créer une vie qui nous porte …?"
 source_medium = "https://medium.com/@phenrysay/c9e7e7756fc7"
 +++

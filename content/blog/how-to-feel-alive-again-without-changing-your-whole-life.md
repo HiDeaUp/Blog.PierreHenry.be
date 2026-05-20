@@ -5,9 +5,9 @@ date = "2025-08-30T08:36:45.881953"
 draft = false
 description = "Have you ever noticed how much your surroundings affect your mood and energy? The feeling of wellbeing, the sense of being cared for, and the quiet comfort of safety all start with the environment..."
 summary = "Have you ever noticed how much your surroundings affect your mood and energy? The feeling of wellbeing, the sense of being cared for, and the quiet comfort of safety all start with the environment..."
-tags = ["happiness", "mindfulness", "money", "personal growth", "self-improvement", "well-being"]
+tags = ["happiness", "mindfulness", "money", "personal growth", "self-improvement", "self-transcendence", "well-being"]
 priority = true
-priority_topics = ["money"]
+priority_topics = ["money", "self-transcendence"]
 original_title = "Comment re-découvrir la vie ? La méthode prêt à l'emploi 🚀"
 source_medium = "https://medium.com/@phenrysay/48775e475a3a"
 +++

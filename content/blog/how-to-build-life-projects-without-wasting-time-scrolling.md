@@ -5,9 +5,9 @@ date = "2025-08-17T17:57:24.115622"
 draft = false
 description = "Have you ever come home after a long day—whether you’re a student, an employee, living with family, a partner, roommates, or even alone—and found yourself wondering, “What should I do now?” Maybe y..."
 summary = "Have you ever come home after a long day—whether you’re a student, an employee, living with family, a partner, roommates, or even alone—and found yourself wondering, “What should I do now?” Maybe y..."
-tags = ["fulfillment", "life goals", "long-term planning", "personal development", "success strategies", "tech", "time management"]
+tags = ["fulfillment", "life goals", "long-term planning", "personal development", "self-transcendence", "success strategies", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "time management"]
+priority_topics = ["tech", "self-transcendence", "time management"]
 original_title = "Comment construire des projets de vie pour RÉUSSIR VITE 🚊"
 source_medium = "https://medium.com/@phenrysay/153de884fac3"
 +++

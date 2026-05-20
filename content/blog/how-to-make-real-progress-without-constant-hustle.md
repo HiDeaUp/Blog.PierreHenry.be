@@ -5,9 +5,9 @@ date = "2025-08-24T14:14:20.199551"
 draft = false
 description = "Have you ever noticed how rare it is to spend real time alone, just with yourself? Not scrolling, not replying to messages, not even thinking about your todo list—just being there, present, maybe w..."
 summary = "Have you ever noticed how rare it is to spend real time alone, just with yourself? Not scrolling, not replying to messages, not even thinking about your todo list—just being there, present, maybe w..."
-tags = ["mindfulness", "personal growth", "present moment", "productivity", "seizing opportunities", "self-reflection", "tasks"]
+tags = ["mindfulness", "personal growth", "present moment", "productivity", "seizing opportunities", "self-reflection", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment saisir les opportunités du présent⏰"
 source_medium = "https://medium.com/@phenrysay/204fd29c2c6f"
 +++

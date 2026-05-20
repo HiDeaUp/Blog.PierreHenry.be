@@ -5,9 +5,9 @@ date = "2025-08-30T09:09:00.774272"
 draft = false
 description = "My kitchen is a bit messy today. There are too many things lying around, and I realize that even small clutter can take up space in your mind. When you keep everything tucked away in cupboards, you..."
 summary = "My kitchen is a bit messy today. There are too many things lying around, and I realize that even small clutter can take up space in your mind. When you keep everything tucked away in cupboards, you..."
-tags = ["mindfulness", "money", "productivity", "relaxation", "self-care", "simplicity", "tech", "wellbeing"]
+tags = ["mindfulness", "money", "productivity", "relaxation", "self-care", "self-transcendence", "simplicity", "tech", "wellbeing"]
 priority = true
-priority_topics = ["tech", "money", "productivity"]
+priority_topics = ["tech", "money", "self-transcendence", "productivity"]
 original_title = "Création de moments de lâcher prise ☺️"
 source_medium = "https://medium.com/@phenrysay/c9f7a0f14064"
 +++

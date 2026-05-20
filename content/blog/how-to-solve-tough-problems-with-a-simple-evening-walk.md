@@ -5,9 +5,9 @@ date = "2025-08-30T09:53:15.646281"
 draft = false
 description = "Walking is often seen as just a way to get some exercise and feel good. But there is another kind of walk that I want to share with you—a meditative walk, or what I like to call a walk for meditati..."
 summary = "Walking is often seen as just a way to get some exercise and feel good. But there is another kind of walk that I want to share with you—a meditative walk, or what I like to call a walk for meditati..."
-tags = ["entrepreneurship", "evening ritual", "meditative walk", "mindfulness", "problem solving", "productivity", "walking meditation"]
+tags = ["entrepreneurship", "evening ritual", "meditative walk", "mindfulness", "problem solving", "productivity", "self-transcendence", "walking meditation"]
 priority = true
-priority_topics = ["productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Une marche méditatoire"
 source_medium = "https://medium.com/@phenrysay/247c959ec90b"
 +++

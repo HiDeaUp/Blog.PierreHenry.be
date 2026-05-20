@@ -5,9 +5,9 @@ date = "2025-08-19T21:44:29.168004"
 draft = false
 description = "When you hear the word “work,” what comes to mind? For many, it’s something heavy, a burden, even a kind of torture. That’s not just a feeling—historically, the Latin word for work, tripalium, actu..."
 summary = "When you hear the word “work,” what comes to mind? For many, it’s something heavy, a burden, even a kind of torture. That’s not just a feeling—historically, the Latin word for work, tripalium, actu..."
-tags = ["frictionless living", "meaningful work", "money", "nomad", "passion projects", "personal fulfillment", "productivity", "work-life balance"]
+tags = ["frictionless living", "meaningful work", "money", "nomad", "passion projects", "personal fulfillment", "productivity", "self-transcendence", "work-life balance"]
 priority = true
-priority_topics = ["nomad", "money", "productivity"]
+priority_topics = ["nomad", "money", "self-transcendence", "productivity"]
 original_title = "Une Vie Rêvée sans friction 🛑"
 source_medium = "https://medium.com/@phenrysay/3c4f7ce49f40"
 +++

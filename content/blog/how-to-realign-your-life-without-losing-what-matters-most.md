@@ -5,9 +5,9 @@ date = "2025-08-31T21:43:37.758184"
 draft = false
 description = "Everyone has their own vision of what makes life meaningful. We all have things that matter to us, dreams we want to chase, and values we hold close. But sometimes, we drift away from these core va..."
 summary = "Everyone has their own vision of what makes life meaningful. We all have things that matter to us, dreams we want to chase, and values we hold close. But sometimes, we drift away from these core va..."
-tags = ["life balance", "motivation", "personal growth", "success", "time management", "wellbeing"]
+tags = ["life balance", "motivation", "personal growth", "self-transcendence", "success", "time management", "wellbeing"]
 priority = true
-priority_topics = ["time management"]
+priority_topics = ["self-transcendence", "time management"]
 original_title = "Les clés d’une vie réussie"
 source_medium = "https://medium.com/@phenrysay/08b9cb1387e6"
 +++

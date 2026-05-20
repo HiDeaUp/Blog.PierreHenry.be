@@ -5,9 +5,9 @@ date = "2025-08-17T09:20:37.502692"
 draft = false
 description = "Have you ever wondered why you feel stuck, even when you have big dreams and good intentions? The answer is often much simpler than we think. It’s not about having the perfect plan or waiting for t..."
 summary = "Have you ever wondered why you feel stuck, even when you have big dreams and good intentions? The answer is often much simpler than we think. It’s not about having the perfect plan or waiting for t..."
-tags = ["habits", "money", "morning routine", "motivation", "personal growth", "productivity", "self-improvement", "time management", "wealth"]
+tags = ["habits", "money", "morning routine", "motivation", "personal growth", "productivity", "self-improvement", "self-transcendence", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "productivity"]
 original_title = "DÉCOUVRE POURQUOI TU N'Y ARRIVES PAS (et comment rendre tes journées stimulantes) !"
 source_medium = "https://medium.com/@phenrysay/7d708580ae41"
 +++

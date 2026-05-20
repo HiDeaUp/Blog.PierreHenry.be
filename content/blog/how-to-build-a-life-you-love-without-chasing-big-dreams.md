@@ -5,9 +5,9 @@ date = "2025-08-30T13:41:55.175730"
 draft = false
 description = "Have you ever thought about what it really means to build a life you love? It’s not just about chasing big dreams or ticking off goals. Sometimes, the first step is as simple as living in a place t..."
 summary = "Have you ever thought about what it really means to build a life you love? It’s not just about chasing big dreams or ticking off goals. Sometimes, the first step is as simple as living in a place t..."
-tags = ["entrepreneurship", "life choices", "meaningful life", "personal growth", "purpose", "self-development"]
+tags = ["entrepreneurship", "life choices", "meaningful life", "personal growth", "purpose", "self-development", "self-transcendence"]
 priority = true
-priority_topics = ["entrepreneurship"]
+priority_topics = ["self-transcendence", "entrepreneurship"]
 original_title = "Construite quelque chose qui a du sens pour toi 💥"
 source_medium = "https://medium.com/@phenrysay/45556b18ac8d"
 +++

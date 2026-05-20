@@ -5,7 +5,9 @@ date = "2025-08-30T08:22:18.658596"
 draft = false
 description = "Charisma is something truly unique. It’s what makes you different, what sets you apart from the crowd. Think of it as a kind of magic—not the kind with hats and rabbits, but the kind that makes peo..."
 summary = "Charisma is something truly unique. It’s what makes you different, what sets you apart from the crowd. Think of it as a kind of magic—not the kind with hats and rabbits, but the kind that makes peo..."
-tags = ["charisma", "confidence", "personal development", "self improvement", "standing out"]
+tags = ["charisma", "confidence", "personal development", "self improvement", "self-transcendence", "standing out"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Le Charisme 🚀"
 source_medium = "https://medium.com/@phenrysay/438725ffac0c"
 +++

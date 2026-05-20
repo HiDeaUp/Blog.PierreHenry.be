@@ -5,9 +5,9 @@ date = "2025-06-08T07:12:25.585098"
 draft = false
 description = "Life has a way of reminding us that nothing is handed to us on a silver platter. If you want things to change, you have to take responsibility for your actions. It’s easy to blame others, the weath..."
 summary = "Life has a way of reminding us that nothing is handed to us on a silver platter. If you want things to change, you have to take responsibility for your actions. It’s easy to blame others, the weath..."
-tags = ["accountability", "mindset shift", "personal growth", "personal responsibility", "self-awareness", "time management"]
+tags = ["accountability", "mindset shift", "personal growth", "personal responsibility", "self-awareness", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["time management"]
+priority_topics = ["self-transcendence", "time management"]
 original_title = "Comment être conscient que les choses ne se passent pas comme prévu"
 source_medium = "https://medium.com/@phenrysay/a98546e220b3"
 +++

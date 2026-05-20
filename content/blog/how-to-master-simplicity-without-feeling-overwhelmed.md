@@ -5,9 +5,9 @@ date = "2025-08-30T11:04:43.601102"
 draft = false
 description = "Have you ever noticed how complicated life feels when your mind is juggling too many thoughts at once? I want to talk about the power of thinking simply—about focusing on things that aren’t complic..."
 summary = "Have you ever noticed how complicated life feels when your mind is juggling too many thoughts at once? I want to talk about the power of thinking simply—about focusing on things that aren’t complic..."
-tags = ["focus", "mindfulness", "productivity", "self-improvement", "simplicity", "tasks"]
+tags = ["focus", "mindfulness", "productivity", "self-improvement", "self-transcendence", "simplicity", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment reprendre la maîtrise sur les choses simples ?"
 source_medium = "https://medium.com/@phenrysay/9d5ca5f3a24c"
 +++

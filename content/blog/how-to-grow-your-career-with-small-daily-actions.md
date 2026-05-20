@@ -5,9 +5,9 @@ date = "2025-08-22T20:24:19.479363"
 draft = false
 description = "When you wake up each morning, you’re handed a fresh opportunity. Every day is a blank page to learn something new, create something meaningful, and invest in yourself. This isn’t just about big le..."
 summary = "When you wake up each morning, you’re handed a fresh opportunity. Every day is a blank page to learn something new, create something meaningful, and invest in yourself. This isn’t just about big le..."
-tags = ["career development", "daily habits", "money", "motivation", "nomad", "personal growth", "self improvement", "tasks", "tech", "wealth"]
+tags = ["career development", "daily habits", "money", "motivation", "nomad", "personal growth", "self improvement", "self-transcendence", "tasks", "tech", "wealth"]
 priority = true
-priority_topics = ["tech", "nomad", "money", "wealth", "tasks"]
+priority_topics = ["tech", "nomad", "money", "wealth", "self-transcendence", "tasks"]
 original_title = "Les progrès pour élever sa carrière"
 source_medium = "https://medium.com/@phenrysay/36b333d51fca"
 +++

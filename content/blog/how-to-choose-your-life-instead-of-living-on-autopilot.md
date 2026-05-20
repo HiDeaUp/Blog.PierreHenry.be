@@ -5,9 +5,9 @@ date = "2025-08-20T12:07:50.404728"
 draft = false
 description = "Have you ever stopped to wonder if the life you’re living is really yours? Not just the one you ended up with, but the one you would choose if you could start fresh? Redefining yourself is more tha..."
 summary = "Have you ever stopped to wonder if the life you’re living is really yours? Not just the one you ended up with, but the one you would choose if you could start fresh? Redefining yourself is more tha..."
-tags = ["intentional living", "life choices", "mindfulness", "nomad", "personal growth", "self-discovery"]
+tags = ["intentional living", "life choices", "mindfulness", "nomad", "personal growth", "self-discovery", "self-transcendence"]
 priority = true
-priority_topics = ["nomad"]
+priority_topics = ["nomad", "self-transcendence"]
 original_title = "Comment se (re)découvrir ? VIE par DÉFAUT VS vie CHOISIE"
 source_medium = "https://medium.com/@phenrysay/8e8a40af3083"
 +++

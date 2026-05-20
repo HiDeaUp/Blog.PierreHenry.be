@@ -5,9 +5,9 @@ date = "2025-08-24T16:04:56.234850"
 draft = false
 description = "Have you ever noticed how certain places seem to trigger specific actions or moods? I realized this when I started working from different cafés. Each spot became linked to a particular task. For ex..."
 summary = "Have you ever noticed how certain places seem to trigger specific actions or moods? I realized this when I started working from different cafés. Each spot became linked to a particular task. For ex..."
-tags = ["environment", "money", "motivation", "perseverance", "productivity", "self-improvement", "tasks"]
+tags = ["environment", "money", "motivation", "perseverance", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity"]
 original_title = "Comment persévérer ? Façon LIBRE"
 source_medium = "https://medium.com/@phenrysay/d61dc2ddbe86"
 +++

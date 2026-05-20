@@ -5,9 +5,9 @@ date = "2025-08-22T20:29:54.615493"
 draft = false
 description = "Living simply is one of the most powerful ways to transform your daily life. When you reorganize your routine around simplicity, everything changes. Your perception of life shifts, and you start bu..."
 summary = "Living simply is one of the most powerful ways to transform your daily life. When you reorganize your routine around simplicity, everything changes. Your perception of life shifts, and you start bu..."
-tags = ["lifestyle", "minimalism", "money", "nomad", "productivity", "self-improvement", "simplicity", "tasks", "time management", "wellness"]
+tags = ["lifestyle", "minimalism", "money", "nomad", "productivity", "self-improvement", "self-transcendence", "simplicity", "tasks", "time management", "wellness"]
 priority = true
-priority_topics = ["nomad", "money", "time management", "tasks", "productivity"]
+priority_topics = ["nomad", "money", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "La vérité sur la simplicité 🙏"
 source_medium = "https://medium.com/@phenrysay/0020e3c12ae3"
 +++

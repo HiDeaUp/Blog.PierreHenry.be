@@ -5,9 +5,9 @@ date = "2025-08-20T09:16:49.437727"
 draft = false
 description = "Taking care of yourself does not always mean big changes. Sometimes, it is about finding small moments in your day to pause and breathe. These little breaks can make a real difference in how you fe..."
 summary = "Taking care of yourself does not always mean big changes. Sometimes, it is about finding small moments in your day to pause and breathe. These little breaks can make a real difference in how you fe..."
-tags = ["breathing exercises", "calm", "happiness", "productivity", "self-care", "time management", "wellness"]
+tags = ["breathing exercises", "calm", "happiness", "productivity", "self-care", "self-transcendence", "time management", "wellness"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Bien se sentir avec la respiration magique"
 source_medium = "https://medium.com/@phenrysay/869b5c56ec80"
 +++

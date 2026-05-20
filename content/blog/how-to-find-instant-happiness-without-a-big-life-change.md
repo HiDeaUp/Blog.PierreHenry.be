@@ -5,9 +5,9 @@ date = "2025-08-25T19:12:59.820261"
 draft = false
 description = "Have you ever noticed how sometimes happiness feels out of reach? We push through our days, feeling frustrated or stuck, thinking we need a big change—a vacation, a break, or even a whole new envir..."
 summary = "Have you ever noticed how sometimes happiness feels out of reach? We push through our days, feeling frustrated or stuck, thinking we need a big change—a vacation, a break, or even a whole new envir..."
-tags = ["daily joy", "happiness", "mindfulness", "productivity", "self-care", "small moments", "tasks", "tech"]
+tags = ["daily joy", "happiness", "mindfulness", "productivity", "self-care", "self-transcendence", "small moments", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "tasks", "productivity"]
+priority_topics = ["tech", "self-transcendence", "tasks", "productivity"]
 original_title = "Bonheur instantané ⏰"
 source_medium = "https://medium.com/@phenrysay/a8097f5d1141"
 +++

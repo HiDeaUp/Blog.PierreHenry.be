@@ -5,9 +5,9 @@ date = "2025-08-18T21:02:53.244572"
 draft = false
 description = "When we talk about “soul rituals,” we’re not diving into anything mystical or complicated. These are simply small, positive habits—tiny actions you repeat every day that bring you comfort, joy, or..."
 summary = "When we talk about “soul rituals,” we’re not diving into anything mystical or complicated. These are simply small, positive habits—tiny actions you repeat every day that bring you comfort, joy, or..."
-tags = ["daily habits", "personal growth", "positive rituals", "positivity", "productivity", "well-being"]
+tags = ["daily habits", "personal growth", "positive rituals", "positivity", "productivity", "self-transcendence", "well-being"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Rituels positifs qui positivent : je t'explique comment progresser avec la positivité mise en action"
 source_medium = "https://medium.com/@phenrysay/5fce8ffdb40d"
 +++

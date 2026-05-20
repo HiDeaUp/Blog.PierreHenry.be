@@ -5,7 +5,9 @@ date = "2025-08-25T18:18:02.277503"
 draft = false
 description = "Taking pleasure in life is not just a luxury; it is a necessity. Giving yourself permission to enjoy small moments, to think about yourself, and to take short breaks for peace and quiet can make a..."
 summary = "Taking pleasure in life is not just a luxury; it is a necessity. Giving yourself permission to enjoy small moments, to think about yourself, and to take short breaks for peace and quiet can make a..."
-tags = ["enjoyment", "mindfulness", "self-care", "simple pleasures", "wellbeing"]
+tags = ["enjoyment", "mindfulness", "self-care", "self-transcendence", "simple pleasures", "wellbeing"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Se créer des moments de VRAI PLAISIR 😊"
 source_medium = "https://medium.com/@phenrysay/6216a59a31dc"
 +++

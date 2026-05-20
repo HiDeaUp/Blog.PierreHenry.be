@@ -5,9 +5,9 @@ date = "2025-08-24T15:00:51.271270"
 draft = false
 description = "Life is not something to be endured. It is not a burden to carry or a routine to sleepwalk through. The real beauty of life lies in simplicity and in the choices we make every day. If there are thi..."
 summary = "Life is not something to be endured. It is not a burden to carry or a routine to sleepwalk through. The real beauty of life lies in simplicity and in the choices we make every day. If there are thi..."
-tags = ["beautiful life", "life choices", "mindfulness", "proactive living", "productivity", "simplicity", "tasks"]
+tags = ["beautiful life", "life choices", "mindfulness", "proactive living", "productivity", "self-transcendence", "simplicity", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Le principe d’une belle vie"
 source_medium = "https://medium.com/@phenrysay/50874e732c63"
 +++

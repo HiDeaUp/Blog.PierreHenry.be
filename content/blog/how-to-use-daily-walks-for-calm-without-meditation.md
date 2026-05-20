@@ -5,9 +5,9 @@ date = "2025-08-30T12:15:37.504585"
 draft = false
 description = "Taking a walk is one of those simple things we often overlook. Yet, it can be a powerful tool for selfreflection and personal growth. I want to share how I use walks, especially at the end of the d..."
 summary = "Taking a walk is one of those simple things we often overlook. Yet, it can be a powerful tool for selfreflection and personal growth. I want to share how I use walks, especially at the end of the d..."
-tags = ["mental health", "personal growth", "productivity", "self-care", "walking", "well-being"]
+tags = ["mental health", "personal growth", "productivity", "self-care", "self-transcendence", "walking", "well-being"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Utiliser les promenades pour son bien-être"
 source_medium = "https://medium.com/@phenrysay/fbf1a4e76881"
 +++

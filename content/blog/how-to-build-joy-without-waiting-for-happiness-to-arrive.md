@@ -5,9 +5,9 @@ date = "2025-08-19T22:58:53.419433"
 draft = false
 description = "Most people think joy is something that just happens to us, like a sudden burst of sunshine on a cloudy day. But what if joy could be manufactured? What if, instead of waiting for happiness to show..."
 summary = "Most people think joy is something that just happens to us, like a sudden burst of sunshine on a cloudy day. But what if joy could be manufactured? What if, instead of waiting for happiness to show..."
-tags = ["emotional wellbeing", "happiness", "joy", "positive mindset", "productivity", "self-improvement", "time management"]
+tags = ["emotional wellbeing", "happiness", "joy", "positive mindset", "productivity", "self-improvement", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Comment manufacturer la joie !!!!!"
 source_medium = "https://medium.com/@phenrysay/9d9e003ae211"
 +++

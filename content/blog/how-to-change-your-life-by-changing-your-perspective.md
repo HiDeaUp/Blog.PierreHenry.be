@@ -5,9 +5,9 @@ date = "2025-08-17T18:50:32.242666"
 draft = false
 description = "Have you ever noticed how two people can experience the exact same event, yet walk away with completely different feelings about it? This is one of the most fascinating things about being human. Ou..."
 summary = "Have you ever noticed how two people can experience the exact same event, yet walk away with completely different feelings about it? This is one of the most fascinating things about being human. Ou..."
-tags = ["individual experience", "mindset", "perception", "personal growth", "self-awareness", "tasks", "tech"]
+tags = ["individual experience", "mindset", "perception", "personal growth", "self-awareness", "self-transcendence", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "tasks"]
+priority_topics = ["tech", "self-transcendence", "tasks"]
 original_title = "Les perceptions de notre vie peut tout changer"
 source_medium = "https://medium.com/@phenrysay/32e06713e96b"
 +++

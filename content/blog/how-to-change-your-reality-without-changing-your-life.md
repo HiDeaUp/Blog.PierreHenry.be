@@ -5,9 +5,9 @@ date = "2025-08-30T08:10:11.058943"
 draft = false
 description = "Have you ever noticed how your mood and outlook can shift just by changing your surroundings or what you focus on? Let’s talk about psychology, and more specifically, how you can change your interp..."
 summary = "Have you ever noticed how your mood and outlook can shift just by changing your surroundings or what you focus on? Let’s talk about psychology, and more specifically, how you can change your interp..."
-tags = ["cognitive-bias", "mindset", "money", "perception", "productivity", "psychology", "reality"]
+tags = ["cognitive-bias", "mindset", "money", "perception", "productivity", "psychology", "reality", "self-transcendence"]
 priority = true
-priority_topics = ["money", "productivity"]
+priority_topics = ["money", "self-transcendence", "productivity"]
 original_title = "Perception de la Réalité"
 source_medium = "https://medium.com/@phenrysay/fabefc4e1b5f"
 +++

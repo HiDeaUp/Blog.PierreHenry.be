@@ -5,9 +5,9 @@ date = "2025-08-24T15:07:31.515040"
 draft = false
 description = "Mental strength is the foundation for achieving anything meaningful. Often, what keeps us from moving forward are not external obstacles, but the invisible barriers we build for ourselves. These se..."
 summary = "Mental strength is the foundation for achieving anything meaningful. Often, what keeps us from moving forward are not external obstacles, but the invisible barriers we build for ourselves. These se..."
-tags = ["mental strength", "mindset", "motivation", "personal growth", "productivity", "self-improvement"]
+tags = ["mental strength", "mindset", "motivation", "personal growth", "productivity", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Se renouveler. Travailler sur son mental"
 source_medium = "https://medium.com/@phenrysay/9f1a54f13b86"
 +++

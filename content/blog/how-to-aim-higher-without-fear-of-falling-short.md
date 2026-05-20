@@ -5,9 +5,9 @@ date = "2025-08-30T09:46:34.668466"
 draft = false
 description = "Mental strength is not just about enduring tough times. It’s about always looking further, dreaming bigger, and daring to be more ambitious. If you want to succeed and go far, it’s better to aim fo..."
 summary = "Mental strength is not just about enduring tough times. It’s about always looking further, dreaming bigger, and daring to be more ambitious. If you want to succeed and go far, it’s better to aim fo..."
-tags = ["ambition", "mental strength", "motivation", "personal growth", "productivity", "success"]
+tags = ["ambition", "mental strength", "motivation", "personal growth", "productivity", "self-transcendence", "success"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "La puissance de la force mentale 💪"
 source_medium = "https://medium.com/@phenrysay/4b0d6c3f8856"
 +++

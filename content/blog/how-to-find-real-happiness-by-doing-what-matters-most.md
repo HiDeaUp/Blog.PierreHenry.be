@@ -5,9 +5,9 @@ date = "2025-08-20T12:14:20.453591"
 draft = false
 description = "What really makes us happy? For me, it’s not just about feeling good or chasing vague dreams. It’s about achieving real things, setting concrete goals, and seeing them through. Over time, I’ve real..."
 summary = "What really makes us happy? For me, it’s not just about feeling good or chasing vague dreams. It’s about achieving real things, setting concrete goals, and seeing them through. Over time, I’ve real..."
-tags = ["happiness", "life lessons", "mindfulness", "personal growth", "productivity", "self improvement", "time management"]
+tags = ["happiness", "life lessons", "mindfulness", "personal growth", "productivity", "self improvement", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Lessons de vie. Ce que j'aurais voulu savoir plus tôt !"
 source_medium = "https://medium.com/@phenrysay/477d48694369"
 +++

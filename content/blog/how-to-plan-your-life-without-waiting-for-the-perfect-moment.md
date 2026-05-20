@@ -5,9 +5,9 @@ date = "2025-08-19T22:32:01.903842"
 draft = false
 description = "Planning your life might sound like a big, complicated task, but it really comes down to something much simpler: having a daily routine that guides you, every single day, from Monday to Sunday. Thi..."
 summary = "Planning your life might sound like a big, complicated task, but it really comes down to something much simpler: having a daily routine that guides you, every single day, from Monday to Sunday. Thi..."
-tags = ["daily routine", "entrepreneurship", "goal setting", "life planning", "productivity", "self improvement", "tasks", "time management"]
+tags = ["daily routine", "entrepreneurship", "goal setting", "life planning", "productivity", "self improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "Comment mieux planifier notre vie ?"
 source_medium = "https://medium.com/@phenrysay/1afd68eaf476"
 +++

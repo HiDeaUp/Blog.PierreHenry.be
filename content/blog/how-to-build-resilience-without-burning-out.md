@@ -5,9 +5,9 @@ date = "2025-08-28T10:06:52.383399"
 draft = false
 description = "Resilience is not just about bouncing back from setbacks. It is the quiet force that keeps you moving toward what you want, step by step, even when the results are not immediate. Being resilient me..."
 summary = "Resilience is not just about bouncing back from setbacks. It is the quiet force that keeps you moving toward what you want, step by step, even when the results are not immediate. Being resilient me..."
-tags = ["joy of life", "mental health", "money", "personal growth", "resilience", "time management", "wealth", "wellbeing"]
+tags = ["joy of life", "mental health", "money", "personal growth", "resilience", "self-transcendence", "time management", "wealth", "wellbeing"]
 priority = true
-priority_topics = ["money", "wealth", "time management"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management"]
 original_title = "BULLE D'OXYGÈNE: COMMENT RETROUVER TON SOUFFLE & TA JOIE DE VIVRE"
 source_medium = "https://medium.com/@phenrysay/2bb9ca4c95ba"
 +++

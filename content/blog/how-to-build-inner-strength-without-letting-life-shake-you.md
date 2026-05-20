@@ -5,9 +5,9 @@ date = "2025-08-20T07:32:49.201103"
 draft = false
 description = "Solidifying your psychology is a fascinating topic. At first, it might sound a bit unusual, but what does it really mean to strengthen your mind? In truth, building up your psychology is an investm..."
 summary = "Solidifying your psychology is a fascinating topic. At first, it might sound a bit unusual, but what does it really mean to strengthen your mind? In truth, building up your psychology is an investm..."
-tags = ["emotional resilience", "life balance", "mental well-being", "personal growth", "productivity", "self-fulfillment", "tasks", "tech"]
+tags = ["emotional resilience", "life balance", "mental well-being", "personal growth", "productivity", "self-fulfillment", "self-transcendence", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "tasks", "productivity"]
+priority_topics = ["tech", "self-transcendence", "tasks", "productivity"]
 original_title = "L'Art de Solidifier son Épanouissement : Construire des Bases Durables pour une Vie Équilibrée"
 source_medium = "https://medium.com/@phenrysay/e29e684f160b"
 +++

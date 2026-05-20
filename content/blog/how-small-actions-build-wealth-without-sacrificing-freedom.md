@@ -5,9 +5,9 @@ date = "2025-08-19T08:36:40.631888"
 draft = false
 description = "Money. We all like earning it, but our reasons are different. For some, money means freedom: not having to check prices at the supermarket, being able to travel, or simply not having to deprive our..."
 summary = "Money. We all like earning it, but our reasons are different. For some, money means freedom: not having to check prices at the supermarket, being able to travel, or simply not having to deprive our..."
-tags = ["entrepreneurship", "financial freedom", "mindset", "money", "nomad", "personal development", "small actions", "tasks", "tech", "wealth"]
+tags = ["entrepreneurship", "financial freedom", "mindset", "money", "nomad", "personal development", "self-transcendence", "small actions", "tasks", "tech", "wealth"]
 priority = true
-priority_topics = ["tech", "nomad", "money", "wealth", "tasks", "entrepreneurship"]
+priority_topics = ["tech", "nomad", "money", "wealth", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Richesse / les GESTES qui font vraiment la DIFFÉRENCE"
 source_medium = "https://medium.com/@phenrysay/12addd58f30f"
 +++

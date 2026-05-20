@@ -5,9 +5,9 @@ date = "2025-08-24T14:55:31.802321"
 draft = false
 description = "There’s something deeply satisfying about making beautiful things. Whether it’s every day or just on weekends, taking time to create something that truly brings you joy can change your life in ways..."
 summary = "There’s something deeply satisfying about making beautiful things. Whether it’s every day or just on weekends, taking time to create something that truly brings you joy can change your life in ways..."
-tags = ["art", "creativity", "entrepreneurship", "joy", "money", "personal-growth", "self-improvement", "tasks", "wealth"]
+tags = ["art", "creativity", "entrepreneurship", "joy", "money", "personal-growth", "self-improvement", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Pourquoi réaliser de belles choses ...?"
 source_medium = "https://medium.com/@phenrysay/9ae1bf5702d7"
 +++

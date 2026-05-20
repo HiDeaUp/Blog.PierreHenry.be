@@ -5,9 +5,9 @@ date = "2025-08-17T17:24:19.673232"
 draft = false
 description = "Resilience is often misunderstood. Many think it means stubbornly chasing after something that doesn’t work. But real resilience is different. It’s about believing in what you want to achieve, even..."
 summary = "Resilience is often misunderstood. Many think it means stubbornly chasing after something that doesn’t work. But real resilience is different. It’s about believing in what you want to achieve, even..."
-tags = ["happiness", "mindfulness", "money", "personal growth", "resilience", "self-improvement", "wealth"]
+tags = ["happiness", "mindfulness", "money", "personal growth", "resilience", "self-improvement", "self-transcendence", "wealth"]
 priority = true
-priority_topics = ["money", "wealth"]
+priority_topics = ["money", "wealth", "self-transcendence"]
 original_title = "Mieux vivre / création d'une bulle d'oxygène pour être plus heureux"
 source_medium = "https://medium.com/@phenrysay/a807be018d65"
 +++

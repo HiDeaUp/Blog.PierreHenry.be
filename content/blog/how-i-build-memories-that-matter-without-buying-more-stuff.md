@@ -5,9 +5,9 @@ date = "2025-08-20T07:41:53.214532"
 draft = false
 description = "When I think about what truly matters in life, I always come back to one thing: investing in experiences. Life experiences are what count the most. Instead of spending money on random gadgets or th..."
 summary = "When I think about what truly matters in life, I always come back to one thing: investing in experiences. Life experiences are what count the most. Instead of spending money on random gadgets or th..."
-tags = ["life experiences", "memories", "minimalism", "money", "nomad", "personal growth", "productivity", "time management", "value of experiences", "wealth"]
+tags = ["life experiences", "memories", "minimalism", "money", "nomad", "personal growth", "productivity", "self-transcendence", "time management", "value of experiences", "wealth"]
 priority = true
-priority_topics = ["nomad", "money", "wealth", "time management", "productivity"]
+priority_topics = ["nomad", "money", "wealth", "self-transcendence", "time management", "productivity"]
 original_title = "Comment je construis mes expériences de vie ? ⚡️"
 source_medium = "https://medium.com/@phenrysay/1384d415383a"
 +++

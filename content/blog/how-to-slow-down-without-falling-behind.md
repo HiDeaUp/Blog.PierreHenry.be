@@ -5,9 +5,9 @@ date = "2025-08-24T11:06:05.016589"
 draft = false
 description = "Rest. It sounds simple, but how often do we really allow ourselves to pause? Today, I found myself in a park, surrounded by people, and it struck me how important it is to rest—even in public space..."
 summary = "Rest. It sounds simple, but how often do we really allow ourselves to pause? Today, I found myself in a park, surrounded by people, and it struck me how important it is to rest—even in public space..."
-tags = ["entrepreneurship", "life balance", "mental health", "mindfulness", "self-care", "taking a break", "tasks", "time management"]
+tags = ["entrepreneurship", "life balance", "mental health", "mindfulness", "self-care", "self-transcendence", "taking a break", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "entrepreneurship"]
+priority_topics = ["self-transcendence", "time management", "tasks", "entrepreneurship"]
 original_title = "Comment souffler ? Prendre du recul dans sa vie"
 source_medium = "https://medium.com/@phenrysay/ee759beeed59"
 +++

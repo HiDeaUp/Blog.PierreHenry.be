@@ -5,9 +5,9 @@ date = "2025-06-08T12:17:28.541466"
 draft = false
 description = "There’s something magical about the endofyear holidays. Streets light up, people gather, and there’s a feeling in the air that invites us to celebrate. But what if we didn’t need a special occasion..."
 summary = "There’s something magical about the endofyear holidays. Streets light up, people gather, and there’s a feeling in the air that invites us to celebrate. But what if we didn’t need a special occasion..."
-tags = ["enjoying life", "happiness", "mindfulness", "nomad", "positive living", "simple pleasures", "tasks"]
+tags = ["enjoying life", "happiness", "mindfulness", "nomad", "positive living", "self-transcendence", "simple pleasures", "tasks"]
 priority = true
-priority_topics = ["nomad", "tasks"]
+priority_topics = ["nomad", "self-transcendence", "tasks"]
 original_title = "PROFITER DE LA VIE. Ça peut être plus simple que l’on pense…"
 source_medium = "https://medium.com/@phenrysay/952f517d25ac"
 +++

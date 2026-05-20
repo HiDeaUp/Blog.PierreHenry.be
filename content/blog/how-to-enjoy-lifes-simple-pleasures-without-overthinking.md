@@ -5,9 +5,9 @@ date = "2025-08-25T19:10:05.009434"
 draft = false
 description = "Taking pleasure in life is not just a luxury—it’s a necessity. Giving yourself permission to enjoy small moments, to think about yourself, and to take little breaks is essential. These pauses, thes..."
 summary = "Taking pleasure in life is not just a luxury—it’s a necessity. Giving yourself permission to enjoy small moments, to think about yourself, and to take little breaks is essential. These pauses, thes..."
-tags = ["enjoy life", "happiness", "mindfulness", "simple pleasures", "tasks", "wellbeing"]
+tags = ["enjoy life", "happiness", "mindfulness", "self-transcendence", "simple pleasures", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Moments 100% bonheur 🎉 Comment ?"
 source_medium = "https://medium.com/@phenrysay/3c126447d976"
 +++

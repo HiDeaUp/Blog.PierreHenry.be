@@ -5,9 +5,9 @@ date = "2025-08-19T23:31:59.857282"
 draft = false
 description = "Productivity is a word we hear everywhere. People talk about it as if it’s the only thing that matters. But what about happiness? I love being productive. When I get a lot done in a day, I feel alm..."
 summary = "Productivity is a word we hear everywhere. People talk about it as if it’s the only thing that matters. But what about happiness? I love being productive. When I get a lot done in a day, I feel alm..."
-tags = ["entrepreneurship", "happiness", "money", "nomad", "personal development", "productivity", "self-improvement", "tasks", "work-life balance"]
+tags = ["entrepreneurship", "happiness", "money", "nomad", "personal development", "productivity", "self-improvement", "self-transcendence", "tasks", "work-life balance"]
 priority = true
-priority_topics = ["nomad", "money", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Mon avis sur la productivité"
 source_medium = "https://medium.com/@phenrysay/09ae24636e5f"
 +++

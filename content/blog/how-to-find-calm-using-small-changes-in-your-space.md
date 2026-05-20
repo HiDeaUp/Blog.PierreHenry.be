@@ -5,9 +5,9 @@ date = "2025-08-20T12:30:19.232786"
 draft = false
 description = "Feeling relaxed in your own environment is more important than most people realize. The space you live and work in can completely change the direction of your life. When you feel good, healthy, and..."
 summary = "Feeling relaxed in your own environment is more important than most people realize. The space you live and work in can completely change the direction of your life. When you feel good, healthy, and..."
-tags = ["environment", "lifestyle", "peace of mind", "productivity", "relaxation", "tasks", "wellbeing"]
+tags = ["environment", "lifestyle", "peace of mind", "productivity", "relaxation", "self-transcendence", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Utiliser l’environnement pour s’apaiser ☺️ #succès"
 source_medium = "https://medium.com/@phenrysay/ce0cb71b1298"
 +++

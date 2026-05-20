@@ -5,9 +5,9 @@ date = "2025-08-24T16:24:55.827997"
 draft = false
 description = "Inspiration is not just a lofty idea reserved for philosophers. It is something you can bring into your daily life, and it starts with the way you express yourself. When you talk with others, your..."
 summary = "Inspiration is not just a lofty idea reserved for philosophers. It is something you can bring into your daily life, and it starts with the way you express yourself. When you talk with others, your..."
-tags = ["inspiration", "passion", "personal growth", "reinvention", "self-expression", "tasks"]
+tags = ["inspiration", "passion", "personal growth", "reinvention", "self-expression", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "🎨 Se réinventer: Pourquoi ?"
 source_medium = "https://medium.com/@phenrysay/2d746ff28584"
 +++

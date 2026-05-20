@@ -5,9 +5,9 @@ date = "2025-08-17T22:55:13.334737"
 draft = false
 description = "We all have so many things we could do, so many things we could accomplish. That’s the beauty of life—it offers us endless possibilities and opportunities to act, to make our dreams real. Each day..."
 summary = "We all have so many things we could do, so many things we could accomplish. That’s the beauty of life—it offers us endless possibilities and opportunities to act, to make our dreams real. Each day..."
-tags = ["goal setting", "life purpose", "motivation", "personal growth", "self-improvement", "tasks"]
+tags = ["goal setting", "life purpose", "motivation", "personal growth", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "ACCOMPLIR : Pourquoi n'arrives-tu pas à réaliser ce qui te tient à cœur ?"
 source_medium = "https://medium.com/@phenrysay/a7e58683e5f0"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T17:56:16.213612"
 draft = false
 description = "When was the last time you truly felt at ease in your own space? Not just physically comfortable, but genuinely at peace with your life, your choices, and the direction you’re heading? Many people..."
 summary = "When was the last time you truly felt at ease in your own space? Not just physically comfortable, but genuinely at peace with your life, your choices, and the direction you’re heading? Many people..."
-tags = ["authentic living", "life purpose", "money", "personal growth", "productivity", "regret prevention", "self-discovery"]
+tags = ["authentic living", "life purpose", "money", "personal growth", "productivity", "regret prevention", "self-discovery", "self-transcendence"]
 priority = true
-priority_topics = ["money", "productivity"]
+priority_topics = ["money", "self-transcendence", "productivity"]
 original_title = "Comment Créer une Vie Authentique Sans Compromis ni Regrets (CE QUE PERSONNE NE T'A DIT)"
 source_medium = "https://medium.com/@phenrysay/2f27c65acf7f"
 +++

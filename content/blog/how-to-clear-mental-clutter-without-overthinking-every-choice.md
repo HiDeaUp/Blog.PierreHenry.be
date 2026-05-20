@@ -5,9 +5,9 @@ date = "2025-08-19T22:44:20.299508"
 draft = false
 description = "Every day, we face a flood of small decisions that clutter our minds. Whether it’s replying to a message from someone you met at a seminar, a friendly chat at the airport, or even choosing what to..."
 summary = "Every day, we face a flood of small decisions that clutter our minds. Whether it’s replying to a message from someone you met at a seminar, a friendly chat at the airport, or even choosing what to..."
-tags = ["decision fatigue", "focus", "mental clarity", "nomad", "overthinking", "productivity", "tasks", "time management"]
+tags = ["decision fatigue", "focus", "mental clarity", "nomad", "overthinking", "productivity", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["nomad", "time management", "tasks", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment vaincre les décisions qui nous prennent la tête ?"
 source_medium = "https://medium.com/@phenrysay/76f7f6ce7dfc"
 +++

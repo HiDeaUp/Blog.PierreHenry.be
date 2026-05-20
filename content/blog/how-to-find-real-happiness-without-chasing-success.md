@@ -5,9 +5,9 @@ date = "2025-08-31T20:13:04.618970"
 draft = false
 description = "Many people spend their lives chasing what they think is success. For most, that means having a lot of money, driving the best cars, getting the highest degrees, landing the top jobs, or building a..."
 summary = "Many people spend their lives chasing what they think is success. For most, that means having a lot of money, driving the best cars, getting the highest degrees, landing the top jobs, or building a..."
-tags = ["daily life", "entrepreneurship", "happiness", "mindfulness", "money", "nomad", "productivity", "success", "wellbeing"]
+tags = ["daily life", "entrepreneurship", "happiness", "mindfulness", "money", "nomad", "productivity", "self-transcendence", "success", "wellbeing"]
 priority = true
-priority_topics = ["nomad", "money", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Ajout de bonheur au quotidien💥"
 source_medium = "https://medium.com/@phenrysay/8bf3fe4235af"
 +++

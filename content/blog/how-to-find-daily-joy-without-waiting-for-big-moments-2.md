@@ -5,7 +5,9 @@ date = "2025-08-30T10:58:05.621936"
 draft = false
 description = "Have you ever thought about what truly brings you pleasure? Not the big, rare events, but the small things that make your day feel a bit brighter. Sometimes, we forget about the little passions or..."
 summary = "Have you ever thought about what truly brings you pleasure? Not the big, rare events, but the small things that make your day feel a bit brighter. Sometimes, we forget about the little passions or..."
-tags = ["daily joy", "mental health", "mindfulness", "self-care", "wellness"]
+tags = ["daily joy", "mental health", "mindfulness", "self-care", "self-transcendence", "wellness"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Prendre des breaks douceurs 🤗"
 source_medium = "https://medium.com/@phenrysay/d2257fdf0ff3"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-24T10:56:49.963695"
 draft = false
 description = "Have you ever watched a mail carrier zip by in their little car, moving quickly from one stop to the next? It’s a simple scene, but it made me think about how we often rush through our own lives, a..."
 summary = "Have you ever watched a mail carrier zip by in their little car, moving quickly from one stop to the next? It’s a simple scene, but it made me think about how we often rush through our own lives, a..."
-tags = ["life transformation", "mindfulness", "personal growth", "productivity", "self fulfillment", "slow living", "tasks"]
+tags = ["life transformation", "mindfulness", "personal growth", "productivity", "self fulfillment", "self-transcendence", "slow living", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "CRÉATION D’UNE VIE QUI TE PARLE ENFIN"
 source_medium = "https://medium.com/@phenrysay/fd248f2a03fe"
 +++

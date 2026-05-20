@@ -5,9 +5,9 @@ date = "2025-08-31T21:35:34.623799"
 draft = false
 description = "Have you ever found yourself starting a new project with excitement, buying all the supplies, and then, after a few weeks, letting it fade away? Maybe you wanted to try mosaic art, so you bought ti..."
 summary = "Have you ever found yourself starting a new project with excitement, buying all the supplies, and then, after a few weeks, letting it fade away? Maybe you wanted to try mosaic art, so you bought ti..."
-tags = ["focus", "life investment", "money", "productivity", "project management", "single-tasking", "wealth"]
+tags = ["focus", "life investment", "money", "productivity", "project management", "self-transcendence", "single-tasking", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "productivity"]
 original_title = "Son énergie sur un investissement de vie à la fois ?"
 source_medium = "https://medium.com/@phenrysay/c7afe37fb54c"
 +++

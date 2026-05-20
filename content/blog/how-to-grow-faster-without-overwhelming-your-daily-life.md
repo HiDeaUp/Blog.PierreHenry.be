@@ -5,9 +5,9 @@ date = "2025-08-17T18:55:27.977959"
 draft = false
 description = "When you truly invest yourself in something you love, something you believe in, it’s the greatest gift you can give yourself. For me, continuous learning isn’t just a buzzword—it’s a way of life. L..."
 summary = "When you truly invest yourself in something you love, something you believe in, it’s the greatest gift you can give yourself. For me, continuous learning isn’t just a buzzword—it’s a way of life. L..."
-tags = ["continuous learning", "growth mindset", "lifelong learning", "money", "personal growth", "productivity", "self-improvement", "tech", "wealth"]
+tags = ["continuous learning", "growth mindset", "lifelong learning", "money", "personal growth", "productivity", "self-improvement", "self-transcendence", "tech", "wealth"]
 priority = true
-priority_topics = ["tech", "money", "wealth", "productivity"]
+priority_topics = ["tech", "money", "wealth", "self-transcendence", "productivity"]
 original_title = "COMMENT UTILISER L'APPRENTISSAGE CONTINU POUR ACCÉLÉRER TA COURBE DE CROISSANCE"
 source_medium = "https://medium.com/@phenrysay/f2559d1c0565"
 +++

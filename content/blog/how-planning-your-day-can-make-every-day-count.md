@@ -5,9 +5,9 @@ date = "2025-05-29T20:32:15.021161"
 draft = false
 description = "The goal is to go far and do well—that’s what everyone should aim for. When you wake up in the morning, you might still feel a bit tired or not fully ready, but the key is having a plan of action...."
 summary = "The goal is to go far and do well—that’s what everyone should aim for. When you wake up in the morning, you might still feel a bit tired or not fully ready, but the key is having a plan of action...."
-tags = ["daily goals", "money", "personal productivity", "productivity", "routine planning", "self-discipline", "tasks", "time management", "wealth"]
+tags = ["daily goals", "money", "personal productivity", "productivity", "routine planning", "self-discipline", "self-transcendence", "tasks", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "GAGNER EN CLERTÉ: PLANIFIER SES ROUTINES"
 source_medium = "https://medium.com/@phenrysay/8679a73abe59"
 +++

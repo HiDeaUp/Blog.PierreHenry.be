@@ -5,9 +5,9 @@ date = "2025-08-19T17:17:46.307964"
 draft = false
 description = "Feeling good in your life and comfortable in your own skin isn’t easy. In fact, it can be really tough. We’re all sensitive to so many things—what others think of us, what we said in a conversation..."
 summary = "Feeling good in your life and comfortable in your own skin isn’t easy. In fact, it can be really tough. We’re all sensitive to so many things—what others think of us, what we said in a conversation..."
-tags = ["emotional well-being", "freedom", "mental health", "personal growth", "productivity", "self-acceptance"]
+tags = ["emotional well-being", "freedom", "mental health", "personal growth", "productivity", "self-acceptance", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Peut-on gagner en liberté ?"
 source_medium = "https://medium.com/@phenrysay/214c39e4807b"
 +++

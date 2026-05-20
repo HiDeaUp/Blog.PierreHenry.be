@@ -5,9 +5,9 @@ date = "2025-08-17T09:05:36.021057"
 draft = false
 description = "We often talk about the “laws of nature,” but what does that really mean for us as humans? At its core, it’s about psychology—our feelings, our instincts, and the way we react emotionally to the wo..."
 summary = "We often talk about the “laws of nature,” but what does that really mean for us as humans? At its core, it’s about psychology—our feelings, our instincts, and the way we react emotionally to the wo..."
-tags = ["decision making", "emotional intelligence", "personal boundaries", "psychology", "self-awareness", "tasks", "tech"]
+tags = ["decision making", "emotional intelligence", "personal boundaries", "psychology", "self-awareness", "self-transcendence", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "tasks"]
+priority_topics = ["tech", "self-transcendence", "tasks"]
 original_title = "COMMENT NE PLUS SE LAISSER FAIRE ? CE QUE TU FAIS A-T-IL DU SENS ?"
 source_medium = "https://medium.com/@phenrysay/4077a5058d82"
 +++

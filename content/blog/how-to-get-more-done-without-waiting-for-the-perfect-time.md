@@ -5,9 +5,9 @@ date = "2025-08-17T18:47:25.530796"
 draft = false
 description = "Have you ever looked at someone and thought, “Wow, this person really inspires me. They seem to have it all together. I wish I could live like that”? Maybe you’ve even wanted to start a project, la..."
 summary = "Have you ever looked at someone and thought, “Wow, this person really inspires me. They seem to have it all together. I wish I could live like that”? Maybe you’ve even wanted to start a project, la..."
-tags = ["entrepreneurship", "motivation", "prioritization", "productivity", "time management", "work-life balance"]
+tags = ["entrepreneurship", "motivation", "prioritization", "productivity", "self-transcendence", "time management", "work-life balance"]
 priority = true
-priority_topics = ["time management", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "time management", "productivity", "entrepreneurship"]
 original_title = "Comment Accomplir : Accomplir plus tout en TRAVAILLANT MOINS"
 source_medium = "https://medium.com/@phenrysay/b3c9e5813ada"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-30T11:24:32.724226"
 draft = false
 description = "Have you ever found yourself with a long list of things to do, only to push them off until tomorrow? You tell yourself, “I’ll get to it later,” but when tomorrow comes, your motivation has faded. T..."
 summary = "Have you ever found yourself with a long list of things to do, only to push them off until tomorrow? You tell yourself, “I’ll get to it later,” but when tomorrow comes, your motivation has faded. T..."
-tags = ["commitment", "getting things done", "motivation", "productivity", "self-improvement", "tasks", "time management"]
+tags = ["commitment", "getting things done", "motivation", "productivity", "self-improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Le principe du YES! Je le fais ! #productivité #agir"
 source_medium = "https://medium.com/@phenrysay/1e0fffe0ad24"
 +++

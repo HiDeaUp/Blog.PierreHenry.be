@@ -5,9 +5,9 @@ date = "2025-08-24T10:56:30.929142"
 draft = false
 description = "Taking a walk in nature is much more than just a way to stretch your legs. It can be a powerful tool for improving your mental wellbeing, happiness, and even your success in life. The way you appro..."
 summary = "Taking a walk in nature is much more than just a way to stretch your legs. It can be a powerful tool for improving your mental wellbeing, happiness, and even your success in life. The way you appro..."
-tags = ["creativity", "focus", "happiness", "mental well-being", "nature walks", "productivity"]
+tags = ["creativity", "focus", "happiness", "mental well-being", "nature walks", "productivity", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "RÉUSSIR DANS LA VIE: Utiliser les balades en nature"
 source_medium = "https://medium.com/@phenrysay/ad362a6b1672"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-31T22:00:59.019414"
 draft = false
 description = "Have you ever wondered why some people seem to get so much more out of their day than others? We all have the same 24 hours, yet the difference in what we achieve can be huge. The secret often lies..."
 summary = "Have you ever wondered why some people seem to get so much more out of their day than others? We all have the same 24 hours, yet the difference in what we achieve can be huge. The secret often lies..."
-tags = ["habits", "money", "motivation", "personal growth", "productivity", "self-improvement", "tasks", "wealth"]
+tags = ["habits", "money", "motivation", "personal growth", "productivity", "self-improvement", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "Comment devenir meilleur ? 🥇"
 source_medium = "https://medium.com/@phenrysay/1110fbbe1147"
 +++

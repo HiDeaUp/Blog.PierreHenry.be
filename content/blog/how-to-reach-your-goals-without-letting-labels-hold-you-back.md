@@ -5,9 +5,9 @@ date = "2025-06-07T16:09:24.633672"
 draft = false
 description = "Perseverance. It’s a word we hear all the time, but do we really understand how much it can change our lives? Let’s talk about how sticking with something—even when you feel like you’re not good at..."
 summary = "Perseverance. It’s a word we hear all the time, but do we really understand how much it can change our lives? Let’s talk about how sticking with something—even when you feel like you’re not good at..."
-tags = ["money", "motivation", "overcoming-impostor-syndrome", "perseverance", "personal-growth", "self-improvement", "tasks"]
+tags = ["money", "motivation", "overcoming-impostor-syndrome", "perseverance", "personal-growth", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "La persévérance peut tout changer – Comment elle m'a propulsé vers mes projets."
 source_medium = "https://medium.com/@phenrysay/517e3374896a"
 +++

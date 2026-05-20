@@ -5,9 +5,9 @@ date = "2025-08-31T20:11:51.548779"
 draft = false
 description = "Have you ever found yourself making a small mistake that could have easily been avoided? I know I have. Let me share a story that perfectly illustrates how a moment of carelessness can lead to a cl..."
 summary = "Have you ever found yourself making a small mistake that could have easily been avoided? I know I have. Let me share a story that perfectly illustrates how a moment of carelessness can lead to a cl..."
-tags = ["clumsiness", "habits", "mindfulness", "money", "self-improvement", "tasks", "tips"]
+tags = ["clumsiness", "habits", "mindfulness", "money", "self-improvement", "self-transcendence", "tasks", "tips"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "Comment être moins maladroit ?😜"
 source_medium = "https://medium.com/@phenrysay/f8c2efb95cc7"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-30T14:01:51.330096"
 draft = false
 description = "Having a bigger vision for your life is not just about dreaming. It’s about seeing beyond your current situation and daring to imagine what you truly want to achieve. When you allow yourself to thi..."
 summary = "Having a bigger vision for your life is not just about dreaming. It’s about seeing beyond your current situation and daring to imagine what you truly want to achieve. When you allow yourself to thi..."
-tags = ["big thinking", "entrepreneurship", "goal setting", "life vision", "money", "nomad", "personal growth", "productivity", "self improvement"]
+tags = ["big thinking", "entrepreneurship", "goal setting", "life vision", "money", "nomad", "personal growth", "productivity", "self improvement", "self-transcendence"]
 priority = true
-priority_topics = ["nomad", "money", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Une grande vision de la vie 🎉"
 source_medium = "https://medium.com/@phenrysay/aac6968cbcac"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-30T13:52:38.796397"
 draft = false
 description = "Productivity is not just about doing more. It’s about understanding yourself and how you spend your days. Many people think that getting more done means cramming as many tasks as possible into thei..."
 summary = "Productivity is not just about doing more. It’s about understanding yourself and how you spend your days. Many people think that getting more done means cramming as many tasks as possible into thei..."
-tags = ["burnout prevention", "productivity", "self-awareness", "tasks", "time management", "work smarter"]
+tags = ["burnout prevention", "productivity", "self-awareness", "self-transcendence", "tasks", "time management", "work smarter"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Réaliser beaucoup plus. Astuces de productivité"
 source_medium = "https://medium.com/@phenrysay/74ae514c80f7"
 +++

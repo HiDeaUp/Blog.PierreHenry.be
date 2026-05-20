@@ -5,9 +5,9 @@ date = "2025-08-19T23:00:05.120509"
 draft = false
 description = "For over a decade, I’ve been living the freelance and entrepreneurial life. My journey started in Manchester, then London, before moving to Ireland, New Zealand, and finally settling in Australia...."
 summary = "For over a decade, I’ve been living the freelance and entrepreneurial life. My journey started in Manchester, then London, before moving to Ireland, New Zealand, and finally settling in Australia...."
-tags = ["career advice", "entrepreneurship", "freelancing", "life lessons", "money", "personal growth", "productivity"]
+tags = ["career advice", "entrepreneurship", "freelancing", "life lessons", "money", "personal growth", "productivity", "self-transcendence"]
 priority = true
-priority_topics = ["money", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Mes SECRETS. Ce que j’ai raté pendant 12 ans de ma vie 🥹"
 source_medium = "https://medium.com/@phenrysay/068adbb4a952"
 +++

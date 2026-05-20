@@ -5,9 +5,9 @@ date = "2025-08-19T21:36:02.597923"
 draft = false
 description = "Sharing your passion—what you truly love—can change your life in ways you might not expect. When you share your dreams, your ambitions, and the things that inspire you, you’re not just creating con..."
 summary = "Sharing your passion—what you truly love—can change your life in ways you might not expect. When you share your dreams, your ambitions, and the things that inspire you, you’re not just creating con..."
-tags = ["entrepreneurship", "finding fulfillment", "life purpose", "money", "passion", "personal growth", "productivity", "tasks", "wealth"]
+tags = ["entrepreneurship", "finding fulfillment", "life purpose", "money", "passion", "personal growth", "productivity", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Vivre de sa passion 🤗 Les clés 🔑"
 source_medium = "https://medium.com/@phenrysay/10422b05c835"
 +++

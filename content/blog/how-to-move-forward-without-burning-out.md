@@ -5,9 +5,9 @@ date = "2025-08-31T19:46:15.803682"
 draft = false
 description = "Have you ever felt like your mind is frozen, just like a computer that suddenly stops responding? You keep pushing, doing more, working harder, and before you know it, you’re stuck in the same old..."
 summary = "Have you ever felt like your mind is frozen, just like a computer that suddenly stops responding? You keep pushing, doing more, working harder, and before you know it, you’re stuck in the same old..."
-tags = ["goal setting", "mindfulness", "personal growth", "self-reflection", "taking action", "tasks"]
+tags = ["goal setting", "mindfulness", "personal growth", "self-reflection", "self-transcendence", "taking action", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Remise en question #agir #objectif #amélioration"
 source_medium = "https://medium.com/@phenrysay/95c74086172e"
 +++

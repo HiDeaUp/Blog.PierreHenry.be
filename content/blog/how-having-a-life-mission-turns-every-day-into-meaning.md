@@ -5,9 +5,9 @@ date = "2025-08-19T14:47:30.266488"
 draft = false
 description = "Have you ever thought about what you truly want to accomplish in your life? Not just a simple goal or a project, but a real mission—something that gives your days a sense of direction and purpose...."
 summary = "Have you ever thought about what you truly want to accomplish in your life? Not just a simple goal or a project, but a real mission—something that gives your days a sense of direction and purpose...."
-tags = ["goal setting", "life purpose", "meaningful living", "money", "personal mission", "self development", "tasks", "wealth"]
+tags = ["goal setting", "life purpose", "meaningful living", "money", "personal mission", "self development", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks"]
 original_title = "Bâtir une mission de vie"
 source_medium = "https://medium.com/@phenrysay/a78c142444d9"
 +++

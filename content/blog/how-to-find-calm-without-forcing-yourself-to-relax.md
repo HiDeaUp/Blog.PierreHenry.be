@@ -5,9 +5,9 @@ date = "2025-08-25T17:52:44.593709"
 draft = false
 description = "Finding calm is not just about feeling good. It is about being able to think clearly, make better decisions, and truly experience life as it happens. Stress comes at us from all sides—work, noise,..."
 summary = "Finding calm is not just about feeling good. It is about being able to think clearly, make better decisions, and truly experience life as it happens. Stress comes at us from all sides—work, noise,..."
-tags = ["calm", "clear thinking", "letting go", "mental well-being", "mindfulness", "money", "productivity", "tasks"]
+tags = ["calm", "clear thinking", "letting go", "mental well-being", "mindfulness", "money", "productivity", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity"]
 original_title = "Ce que tu DOIS SAVOIR sur l'apaisement"
 source_medium = "https://medium.com/@phenrysay/5895e2353aad"
 +++

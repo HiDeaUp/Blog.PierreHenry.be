@@ -5,9 +5,9 @@ date = "2025-08-20T07:39:19.557146"
 draft = false
 description = "Every day, we’re surrounded by things that demand our attention. There’s always something urgent to do—taking out the trash, paying bills online, cleaning up last night’s dishes, vacuuming, or mopp..."
 summary = "Every day, we’re surrounded by things that demand our attention. There’s always something urgent to do—taking out the trash, paying bills online, cleaning up last night’s dishes, vacuuming, or mopp..."
-tags = ["entrepreneurship", "happiness", "prioritization", "productivity", "tasks", "time management", "urgent vs important"]
+tags = ["entrepreneurship", "happiness", "prioritization", "productivity", "self-transcendence", "tasks", "time management", "urgent vs important"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "Importance des priorités: Urgent VS Important"
 source_medium = "https://medium.com/@phenrysay/68d4dc7a35c7"
 +++

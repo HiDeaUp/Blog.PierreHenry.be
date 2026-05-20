@@ -5,9 +5,9 @@ date = "2025-08-19T23:12:11.888233"
 draft = false
 description = "Happiness is often found in the small pleasures of life. Feeling good and making the most of each moment is more important than we sometimes realize. Too often, we get stuck thinking about the past..."
 summary = "Happiness is often found in the small pleasures of life. Feeling good and making the most of each moment is more important than we sometimes realize. Too often, we get stuck thinking about the past..."
-tags = ["entrepreneurship", "happiness", "life advice", "living in the moment", "mindfulness", "money", "personal growth", "productivity", "wealth"]
+tags = ["entrepreneurship", "happiness", "life advice", "living in the moment", "mindfulness", "money", "personal growth", "productivity", "self-transcendence", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "productivity", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Ce qu’il faut faire pour vivre chaque jour comme si c'était le dernier (sans regrets !)"
 source_medium = "https://medium.com/@phenrysay/18da9633f8a1"
 +++

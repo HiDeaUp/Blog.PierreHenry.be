@@ -5,9 +5,9 @@ date = "2025-08-18T22:30:50.236598"
 draft = false
 description = "Have you ever noticed how your environment can instantly change your mood? Today, I’m sitting in the changing rooms of a spa—a place designed for relaxation. It’s part of the Langham hotel chain, k..."
 summary = "Have you ever noticed how your environment can instantly change your mood? Today, I’m sitting in the changing rooms of a spa—a place designed for relaxation. It’s part of the Langham hotel chain, k..."
-tags = ["emotional wellbeing", "mental health", "mindfulness", "productivity", "self-care", "stress relief"]
+tags = ["emotional wellbeing", "mental health", "mindfulness", "productivity", "self-care", "self-transcendence", "stress relief"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Se libérer de la pollution mentale 🤩"
 source_medium = "https://medium.com/@phenrysay/bb01f141da4d"
 +++

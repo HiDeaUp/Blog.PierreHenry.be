@@ -5,9 +5,9 @@ date = "2025-08-18T20:46:43.772903"
 draft = false
 description = "When I talk about a \"protected space,\" I mean something very simple but powerful. At home, when I need to concentrate on my computer, I make sure to remove every possible distraction. I turn off al..."
 summary = "When I talk about a \"protected space,\" I mean something very simple but powerful. At home, when I need to concentrate on my computer, I make sure to remove every possible distraction. I turn off al..."
-tags = ["concentration", "deep work", "distraction-free", "focus", "productivity", "tasks"]
+tags = ["concentration", "deep work", "distraction-free", "focus", "productivity", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "FOCUS: Se construire un espace protégé #efficacité"
 source_medium = "https://medium.com/@phenrysay/2a410b8377b2"
 +++

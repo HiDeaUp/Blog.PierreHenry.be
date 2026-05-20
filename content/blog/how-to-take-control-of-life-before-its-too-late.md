@@ -5,9 +5,9 @@ date = "2025-08-20T09:15:38.648160"
 draft = false
 description = "Have you ever stopped to think about how unpredictable life really is? We never know when it will end. One day, everything just stops. That’s why it’s so important to get on the path of your own li..."
 summary = "Have you ever stopped to think about how unpredictable life really is? We never know when it will end. One day, everything just stops. That’s why it’s so important to get on the path of your own li..."
-tags = ["life advice", "living in the moment", "mindfulness", "mortality", "productivity", "self reflection", "tasks"]
+tags = ["life advice", "living in the moment", "mindfulness", "mortality", "productivity", "self reflection", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "La vie peut s’arrêter à tout moment. Ce qu’il faut savoir"
 source_medium = "https://medium.com/@phenrysay/35c3de4fa852"
 +++

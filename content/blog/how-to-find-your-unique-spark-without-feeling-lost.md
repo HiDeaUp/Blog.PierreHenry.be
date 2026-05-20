@@ -5,9 +5,9 @@ date = "2025-08-30T12:21:01.319588"
 draft = false
 description = "Have you ever thought about what makes you unique? Not just your personality, but that one thing you do or love that sets you apart. I’ve been reflecting on this idea of specificity, and I believe..."
 summary = "Have you ever thought about what makes you unique? Not just your personality, but that one thing you do or love that sets you apart. I’ve been reflecting on this idea of specificity, and I believe..."
-tags = ["finding-your-passion", "individuality", "personal-growth", "productivity", "self-discovery", "tasks", "uniqueness"]
+tags = ["finding-your-passion", "individuality", "personal-growth", "productivity", "self-discovery", "self-transcendence", "tasks", "uniqueness"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "C’est quoi ta spécificité …? 🧐"
 source_medium = "https://medium.com/@phenrysay/5e0eca3a559f"
 +++

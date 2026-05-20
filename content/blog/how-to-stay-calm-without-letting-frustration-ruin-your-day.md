@@ -5,7 +5,9 @@ date = "2025-06-08T12:07:29.348372"
 draft = false
 description = "Mental pollution affects us all. Sometimes, it sneaks up on us right when we’re enjoying ourselves. Maybe you’re having a nice meal at a restaurant, and suddenly, something unexpected happens—a mes..."
 summary = "Mental pollution affects us all. Sometimes, it sneaks up on us right when we’re enjoying ourselves. Maybe you’re having a nice meal at a restaurant, and suddenly, something unexpected happens—a mes..."
-tags = ["emotional resilience", "frustration management", "mental well-being", "mindfulness", "stress reduction"]
+tags = ["emotional resilience", "frustration management", "mental well-being", "mindfulness", "self-transcendence", "stress reduction"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Ne plus se laisser envahir par les frustrations"
 source_medium = "https://medium.com/@phenrysay/b3ffad5909a1"
 +++

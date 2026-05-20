@@ -5,9 +5,9 @@ date = "2025-08-17T19:26:27.983019"
 draft = false
 description = "Most of us live as if our time is unlimited. We plan, we postpone, we put off what matters, thinking there will always be more days, more chances. But the truth is, life does end. One day, it will..."
 summary = "Most of us live as if our time is unlimited. We plan, we postpone, we put off what matters, thinking there will always be more days, more chances. But the truth is, life does end. One day, it will..."
-tags = ["carpe diem", "life advice", "making choices", "mindfulness", "money", "nomad", "personal growth", "tech"]
+tags = ["carpe diem", "life advice", "making choices", "mindfulness", "money", "nomad", "personal growth", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "nomad", "money"]
+priority_topics = ["tech", "nomad", "money", "self-transcendence"]
 original_title = "VÉRITÉ La vie peut s'arrêter à tout moment — il prendre sa vie en main maintenant"
 source_medium = "https://medium.com/@phenrysay/bac5b2633303"
 +++

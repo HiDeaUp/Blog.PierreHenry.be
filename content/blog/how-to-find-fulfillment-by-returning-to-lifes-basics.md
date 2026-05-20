@@ -5,9 +5,9 @@ date = "2025-08-19T21:52:07.873020"
 draft = false
 description = "We often talk about wellbeing and fulfillment as if they are distant goals, but sometimes, we feel more overwhelmed than content. There are days when pressure seems to weigh on us from every direct..."
 summary = "We often talk about wellbeing and fulfillment as if they are distant goals, but sometimes, we feel more overwhelmed than content. There are days when pressure seems to weigh on us from every direct..."
-tags = ["fulfillment", "life fundamentals", "productivity", "simplicity", "stress management", "well-being"]
+tags = ["fulfillment", "life fundamentals", "productivity", "self-transcendence", "simplicity", "stress management", "well-being"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Comment revenir aux fondamentaux de la vie ..."
 source_medium = "https://medium.com/@phenrysay/35088942e3e8"
 +++

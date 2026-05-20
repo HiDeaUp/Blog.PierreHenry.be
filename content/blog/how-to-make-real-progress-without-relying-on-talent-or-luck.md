@@ -5,9 +5,9 @@ date = "2025-06-08T08:52:32.396310"
 draft = false
 description = "Have you ever noticed how easy it is to get pulled in a thousand directions at once? Maybe you’re sitting in a café, or doing your shopping, and suddenly your mind is racing: I need to do this, I h..."
 summary = "Have you ever noticed how easy it is to get pulled in a thousand directions at once? Maybe you’re sitting in a café, or doing your shopping, and suddenly your mind is racing: I need to do this, I h..."
-tags = ["distraction", "focus", "mindfulness", "productivity", "success habits", "tasks"]
+tags = ["distraction", "focus", "mindfulness", "productivity", "self-transcendence", "success habits", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Le point commun des gens qui réussissent mieux que les autres ?"
 source_medium = "https://medium.com/@phenrysay/45bc3810b98e"
 +++

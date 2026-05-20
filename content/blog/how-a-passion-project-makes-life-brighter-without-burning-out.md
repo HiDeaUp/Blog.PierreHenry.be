@@ -5,9 +5,9 @@ date = "2025-08-31T20:08:47.099078"
 draft = false
 description = "What really makes life exciting? For me, it’s having a passion project. Passion is not just a hobby or something to fill your free time. It’s what gets you out of bed in the morning, what makes you..."
 summary = "What really makes life exciting? For me, it’s having a passion project. Passion is not just a hobby or something to fill your free time. It’s what gets you out of bed in the morning, what makes you..."
-tags = ["entrepreneurship", "life purpose", "money", "motivation", "passion project", "personal growth", "productivity", "self improvement", "tasks"]
+tags = ["entrepreneurship", "life purpose", "money", "motivation", "passion project", "personal growth", "productivity", "self improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "AVOIR UN PROJET PASSION. JE T'EXPLIQUE !"
 source_medium = "https://medium.com/@phenrysay/f9ba3003a27e"
 +++

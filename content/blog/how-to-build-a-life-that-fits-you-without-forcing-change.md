@@ -5,9 +5,9 @@ date = "2025-08-30T13:26:03.934906"
 draft = false
 description = "Finding harmony in life is not just about chasing happiness or success. It is about aligning yourself with what truly suits you, and creating an environment that supports your wellbeing. When you a..."
 summary = "Finding harmony in life is not just about chasing happiness or success. It is about aligning yourself with what truly suits you, and creating an environment that supports your wellbeing. When you a..."
-tags = ["environment", "harmonious living", "life balance", "personal growth", "productivity", "wellbeing"]
+tags = ["environment", "harmonious living", "life balance", "personal growth", "productivity", "self-transcendence", "wellbeing"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Comment faire pour avoir une vie harmonieuse ?"
 source_medium = "https://medium.com/@phenrysay/af03acbdf91c"
 +++

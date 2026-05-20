@@ -5,9 +5,9 @@ date = "2025-08-24T15:56:51.776847"
 draft = false
 description = "Have you ever found yourself in a conversation, only to realize later that you missed the chance to ask an important question or said something you wish you could take back? It’s a common experienc..."
 summary = "Have you ever found yourself in a conversation, only to realize later that you missed the chance to ask an important question or said something you wish you could take back? It’s a common experienc..."
-tags = ["active listening", "communication", "mindset", "personal growth", "productivity", "self-awareness", "tasks", "tech"]
+tags = ["active listening", "communication", "mindset", "personal growth", "productivity", "self-awareness", "self-transcendence", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "tasks", "productivity"]
+priority_topics = ["tech", "self-transcendence", "tasks", "productivity"]
 original_title = "Le Mindset Réfléchi: Pourquoi & Comment ? 🤔"
 source_medium = "https://medium.com/@phenrysay/76bee8052a05"
 +++

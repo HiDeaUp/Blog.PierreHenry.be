@@ -5,9 +5,9 @@ date = "2025-08-24T11:23:25.203433"
 draft = false
 description = "Have you ever noticed how some of your best ideas come to you in the shower, or when you’re soaking in a warm bath? There’s something about these quiet moments that helps your mind wander freely an..."
 summary = "Have you ever noticed how some of your best ideas come to you in the shower, or when you’re soaking in a warm bath? There’s something about these quiet moments that helps your mind wander freely an..."
-tags = ["entrepreneurship", "meditative walking", "mental clarity", "mindfulness", "problem solving", "productivity", "wellness"]
+tags = ["entrepreneurship", "meditative walking", "mental clarity", "mindfulness", "problem solving", "productivity", "self-transcendence", "wellness"]
 priority = true
-priority_topics = ["productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Le principe de la marche méditatoire 👌"
 source_medium = "https://medium.com/@phenrysay/1c2a80f60dd3"
 +++

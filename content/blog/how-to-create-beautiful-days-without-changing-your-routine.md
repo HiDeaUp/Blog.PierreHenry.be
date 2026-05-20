@@ -5,9 +5,9 @@ date = "2025-08-30T09:18:23.209314"
 draft = false
 description = "There are moments in life when everything feels calm and peaceful. For me, these moments often happen during early morning walks along the esplanade at Baie Elisabeth, where I live. The world is st..."
 summary = "There are moments in life when everything feels calm and peaceful. For me, these moments often happen during early morning walks along the esplanade at Baie Elisabeth, where I live. The world is st..."
-tags = ["daily habits", "entrepreneurship", "happiness", "mindfulness", "morning rituals", "productivity", "tasks", "tech", "time management", "wellbeing"]
+tags = ["daily habits", "entrepreneurship", "happiness", "mindfulness", "morning rituals", "productivity", "self-transcendence", "tasks", "tech", "time management", "wellbeing"]
 priority = true
-priority_topics = ["tech", "time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["tech", "self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "Comment se créer de belles journées"
 source_medium = "https://medium.com/@phenrysay/26b997f58ad5"
 +++

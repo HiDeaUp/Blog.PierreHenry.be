@@ -5,9 +5,9 @@ date = "2025-08-30T13:32:33.570947"
 draft = false
 description = "Have you ever noticed how we always make time for conversations with others, but rarely for ourselves? We fill our calendars with meetings and catchups: a chat with Marianne, a call with JeanPierre..."
 summary = "Have you ever noticed how we always make time for conversations with others, but rarely for ourselves? We fill our calendars with meetings and catchups: a chat with Marianne, a call with JeanPierre..."
-tags = ["mental habits", "money", "personal growth", "productivity", "self-awareness", "self-communication", "self-reflection", "tasks", "time management", "wealth"]
+tags = ["mental habits", "money", "personal growth", "productivity", "self-awareness", "self-communication", "self-reflection", "self-transcendence", "tasks", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment mieux COMMUNIQUER avec soi même ?"
 source_medium = "https://medium.com/@phenrysay/2022f3171084"
 +++

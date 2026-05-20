@@ -5,9 +5,9 @@ date = "2025-08-25T18:03:38.066543"
 draft = false
 description = "Having a vision for your life changes everything. When you know exactly where you want to go, when you have a clear idea of who you want to become in five or ten years, your daily decisions start t..."
 summary = "Having a vision for your life changes everything. When you know exactly where you want to go, when you have a clear idea of who you want to become in five or ten years, your daily decisions start t..."
-tags = ["entrepreneurship", "future planning", "goal setting", "life purpose", "money", "nomad", "personal vision", "self-improvement", "tasks", "tech", "time management"]
+tags = ["entrepreneurship", "future planning", "goal setting", "life purpose", "money", "nomad", "personal vision", "self-improvement", "self-transcendence", "tasks", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "nomad", "money", "time management", "tasks", "entrepreneurship"]
+priority_topics = ["tech", "nomad", "money", "self-transcendence", "time management", "tasks", "entrepreneurship"]
 original_title = "Ton futur, tu le vois comment ?"
 source_medium = "https://medium.com/@phenrysay/cbe2bb6d2922"
 +++

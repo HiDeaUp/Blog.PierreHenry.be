@@ -5,7 +5,9 @@ date = "2025-08-17T08:48:37.843278"
 draft = false
 description = "Mental pollution is something we all face. It sneaks up on us, often when we least expect it. Maybe you’re enjoying a nice meal at a restaurant, and suddenly, something goes wrong. The food isn’t w..."
 summary = "Mental pollution is something we all face. It sneaks up on us, often when we least expect it. Maybe you’re enjoying a nice meal at a restaurant, and suddenly, something goes wrong. The food isn’t w..."
-tags = ["emotional well-being", "mental health", "mindfulness", "self-care", "stress management"]
+tags = ["emotional well-being", "mental health", "mindfulness", "self-care", "self-transcendence", "stress management"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "RESPIRE : DÉLIVRE TON ESPRIT DES POISONS INVISIBLES QUI ENCHAÎNENT TA PENSÉE"
 source_medium = "https://medium.com/@phenrysay/62203e092569"
 +++

@@ -5,9 +5,9 @@ date = "2025-06-08T02:41:48.784320"
 draft = false
 description = "There’s something special about having a project that makes you want to get out of bed in the morning. Not just any project, but one that brings you real pleasure over time—a longterm project that..."
 summary = "There’s something special about having a project that makes you want to get out of bed in the morning. Not just any project, but one that brings you real pleasure over time—a longterm project that..."
-tags = ["entrepreneurship", "joy", "life purpose", "meaningful work", "money", "motivation", "personal projects", "tech"]
+tags = ["entrepreneurship", "joy", "life purpose", "meaningful work", "money", "motivation", "personal projects", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "money", "entrepreneurship"]
+priority_topics = ["tech", "money", "self-transcendence", "entrepreneurship"]
 original_title = "CE QUE J'IGNORAIS : QUI D'AUTRE VEUT DES PROJETS QUI REVITALISENT NOS VIES ?"
 source_medium = "https://medium.com/@phenrysay/e1f0711206ca"
 +++

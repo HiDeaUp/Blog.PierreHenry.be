@@ -5,9 +5,9 @@ date = "2025-08-30T11:47:36.312680"
 draft = false
 description = "Have you ever thought about your day as a complete life in itself? Imagine waking up every morning and treating the next 24 hours as if they were your only shot at living. This idea, which some phi..."
 summary = "Have you ever thought about your day as a complete life in itself? Imagine waking up every morning and treating the next 24 hours as if they were your only shot at living. This idea, which some phi..."
-tags = ["daily habits", "mindfulness", "money", "nomad", "personal growth", "productivity", "tasks", "time management"]
+tags = ["daily habits", "mindfulness", "money", "nomad", "personal growth", "productivity", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["nomad", "money", "time management", "tasks", "productivity"]
+priority_topics = ["nomad", "money", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment utiliser tout le potentiel de ses journées ?"
 source_medium = "https://medium.com/@phenrysay/674fd092e7bb"
 +++

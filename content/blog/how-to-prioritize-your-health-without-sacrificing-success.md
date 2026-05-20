@@ -5,9 +5,9 @@ date = "2025-08-30T13:10:08.837287"
 draft = false
 description = "When you think about what truly matters in life, it’s easy to get caught up in the daily grind. Many people believe that working more, earning more, and hustling harder is the only way to get ahead..."
 summary = "When you think about what truly matters in life, it’s easy to get caught up in the daily grind. Many people believe that working more, earning more, and hustling harder is the only way to get ahead..."
-tags = ["entrepreneurship", "health", "life balance", "money", "personal development", "productivity", "self-care", "tasks", "well-being"]
+tags = ["entrepreneurship", "health", "life balance", "money", "personal development", "productivity", "self-care", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["money", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Privilégier sa santé avant tout 👀"
 source_medium = "https://medium.com/@phenrysay/96995e4d2f34"
 +++

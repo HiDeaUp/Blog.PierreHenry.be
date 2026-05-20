@@ -5,9 +5,9 @@ date = "2025-08-19T14:50:37.877378"
 draft = false
 description = "We all have countless paths we could take in life. But there’s one truth we often forget: life is much shorter than we think. We act as if time is unlimited, as if we have endless days ahead to do..."
 summary = "We all have countless paths we could take in life. But there’s one truth we often forget: life is much shorter than we think. We act as if time is unlimited, as if we have endless days ahead to do..."
-tags = ["entrepreneurship", "life advice", "money", "motivation", "personal growth", "priorities", "productivity", "self improvement", "tasks", "tech", "time management"]
+tags = ["entrepreneurship", "life advice", "money", "motivation", "personal growth", "priorities", "productivity", "self improvement", "self-transcendence", "tasks", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "money", "time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["tech", "money", "self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "Pourquoi faut-il redéfinir ses priorités ? Mes secrets que je ne partage JAMAIS"
 source_medium = "https://medium.com/@phenrysay/8cb94fc126d5"
 +++

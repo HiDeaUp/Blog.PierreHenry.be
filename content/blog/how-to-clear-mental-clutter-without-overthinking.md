@@ -5,9 +5,9 @@ date = "2025-08-30T12:12:52.902532"
 draft = false
 description = "We often talk about simplicity as owning fewer things, living with less, and cutting out the clutter in our homes. But what about the clutter in our minds? The truth is, keeping your thoughts simpl..."
 summary = "We often talk about simplicity as owning fewer things, living with less, and cutting out the clutter in our homes. But what about the clutter in our minds? The truth is, keeping your thoughts simpl..."
-tags = ["mental decluttering", "mindfulness", "minimalism", "productivity", "tasks", "thought management", "well-being"]
+tags = ["mental decluttering", "mindfulness", "minimalism", "productivity", "self-transcendence", "tasks", "thought management", "well-being"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment ne plus se laisser encombrer par ses pensées"
 source_medium = "https://medium.com/@phenrysay/8464666bd14e"
 +++

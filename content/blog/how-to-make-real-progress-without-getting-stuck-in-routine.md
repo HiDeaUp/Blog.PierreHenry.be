@@ -5,9 +5,9 @@ date = "2025-08-30T08:19:38.653879"
 draft = false
 description = "Many of us want to grow and reach new heights. We dream of pushing ourselves further, building a future that feels bigger and brighter. Yet, so often, we find ourselves stuck in the same routines...."
 summary = "Many of us want to grow and reach new heights. We dream of pushing ourselves further, building a future that feels bigger and brighter. Yet, so often, we find ourselves stuck in the same routines...."
-tags = ["entrepreneurship", "goal setting", "money", "motivation", "personal growth", "productivity", "progress", "self-improvement"]
+tags = ["entrepreneurship", "goal setting", "money", "motivation", "personal growth", "productivity", "progress", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["money", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Comment tendre vers la progression ?🚀"
 source_medium = "https://medium.com/@phenrysay/b0b081e43b60"
 +++

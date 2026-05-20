@@ -5,7 +5,9 @@ date = "2025-08-24T11:11:27.984104"
 draft = false
 description = "If there’s one thing that keeps life interesting, it’s having a longterm vision. Thinking ahead and having one, two, or even three ongoing projects is a real game changer. Alternating between diffe..."
 summary = "If there’s one thing that keeps life interesting, it’s having a longterm vision. Thinking ahead and having one, two, or even three ongoing projects is a real game changer. Alternating between diffe..."
-tags = ["daily habits", "happiness", "life satisfaction", "passion projects", "wellbeing"]
+tags = ["daily habits", "happiness", "life satisfaction", "passion projects", "self-transcendence", "wellbeing"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Quelles sont les choses quotidiennes qui rendent heureuses ?"
 source_medium = "https://medium.com/@phenrysay/04af0c4a706b"
 +++

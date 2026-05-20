@@ -5,9 +5,9 @@ date = "2025-08-19T14:55:42.363716"
 draft = false
 description = "Sad days happen to all of us. Sometimes, it’s because of bad news, or maybe things just aren’t going the way we hoped. No one is spared from sadness. We all face moments when life feels unfair, con..."
 summary = "Sad days happen to all of us. Sometimes, it’s because of bad news, or maybe things just aren’t going the way we hoped. No one is spared from sadness. We all face moments when life feels unfair, con..."
-tags = ["coping strategies", "emotional resilience", "mental health", "motivation", "overcoming sadness", "tasks"]
+tags = ["coping strategies", "emotional resilience", "mental health", "motivation", "overcoming sadness", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Comment remonter quand la tristesse nous paralyse ?"
 source_medium = "https://medium.com/@phenrysay/25688848394e"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T19:41:25.251686"
 draft = false
 description = "Mental clutter is something we all face. That heavy feeling in your head, the endless todo lists, the sense that you’re always behind. For a long time, I struggled with this too. But then I found a..."
 summary = "Mental clutter is something we all face. That heavy feeling in your head, the endless todo lists, the sense that you’re always behind. For a long time, I struggled with this too. But then I found a..."
-tags = ["decluttering", "entrepreneurship", "focus", "mental clarity", "productivity", "simplification", "tasks", "time blocking", "time management"]
+tags = ["decluttering", "entrepreneurship", "focus", "mental clarity", "productivity", "self-transcendence", "simplification", "tasks", "time blocking", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity", "time blocking", "entrepreneurship"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity", "time blocking", "entrepreneurship"]
 original_title = "Comment surpasser l'encombrement cérébral ?"
 source_medium = "https://medium.com/@phenrysay/e0ebcf3db11a"
 +++

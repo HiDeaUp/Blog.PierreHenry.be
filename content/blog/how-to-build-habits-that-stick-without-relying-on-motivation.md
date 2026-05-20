@@ -5,9 +5,9 @@ date = "2025-08-22T20:41:59.143311"
 draft = false
 description = "When you have a routine that sticks, everything becomes easier. You no longer need to rely on bursts of motivation to move forward with your projects. Instead, your actions become automatic. Each m..."
 summary = "When you have a routine that sticks, everything becomes easier. You no longer need to rely on bursts of motivation to move forward with your projects. Instead, your actions become automatic. Each m..."
-tags = ["entrepreneurship", "habit building", "money", "motivation", "personal development", "productivity", "self improvement", "success strategies", "wealth"]
+tags = ["entrepreneurship", "habit building", "money", "motivation", "personal development", "productivity", "self improvement", "self-transcendence", "success strategies", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "productivity", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Comment ne plus échouer ? Le système que j’ai construit"
 source_medium = "https://medium.com/@phenrysay/235999b975b5"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-30T10:31:17.035332"
 draft = false
 description = "Have you ever noticed how your surroundings shape your mood, your productivity, and even your creativity? Today, I want to share some thoughts about the power of a sunny, pleasant environment. As I..."
 summary = "Have you ever noticed how your surroundings shape your mood, your productivity, and even your creativity? Today, I want to share some thoughts about the power of a sunny, pleasant environment. As I..."
-tags = ["creativity", "mood", "productivity", "sunny environment", "tasks", "well-being"]
+tags = ["creativity", "mood", "productivity", "self-transcendence", "sunny environment", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Environnement ensoleillé = Bien-être?"
 source_medium = "https://medium.com/@phenrysay/80676fddf9ac"
 +++

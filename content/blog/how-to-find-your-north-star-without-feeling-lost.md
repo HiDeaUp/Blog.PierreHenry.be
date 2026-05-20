@@ -5,9 +5,9 @@ date = "2025-08-24T16:22:17.845777"
 draft = false
 description = "There is a quote that has always stuck with me: “Living without a goal is like sailing without a compass.” Josh Waitzkin said it best. If you don’t know where you’re going, you’re just drifting, lo..."
 summary = "There is a quote that has always stuck with me: “Living without a goal is like sailing without a compass.” Josh Waitzkin said it best. If you don’t know where you’re going, you’re just drifting, lo..."
-tags = ["entrepreneurship", "goal setting", "life direction", "motivation", "personal development", "productivity", "self-awareness", "tasks", "time management"]
+tags = ["entrepreneurship", "goal setting", "life direction", "motivation", "personal development", "productivity", "self-awareness", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "L'importance de savoir ce que tu veux"
 source_medium = "https://medium.com/@phenrysay/c69dc45120ef"
 +++

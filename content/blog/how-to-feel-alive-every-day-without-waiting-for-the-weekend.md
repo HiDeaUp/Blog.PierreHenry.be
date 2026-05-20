@@ -5,9 +5,9 @@ date = "2025-08-30T10:43:20.007107"
 draft = false
 description = "Have you ever wondered why some days feel full of life, while others seem to drag on? Most people wait for Friday night or the weekend to feel good, but what if you could feel great every day, no m..."
 summary = "Have you ever wondered why some days feel full of life, while others seem to drag on? Most people wait for Friday night or the weekend to feel good, but what if you could feel great every day, no m..."
-tags = ["daily happiness", "life hacks", "mindfulness", "motivation", "nomad", "productivity", "self-improvement", "tasks", "time management"]
+tags = ["daily happiness", "life hacks", "mindfulness", "motivation", "nomad", "productivity", "self-improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["nomad", "time management", "tasks", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Se créer des journées sensationnelles 👌"
 source_medium = "https://medium.com/@phenrysay/f84f1fe340f5"
 +++

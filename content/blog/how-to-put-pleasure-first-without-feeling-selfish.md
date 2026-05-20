@@ -5,9 +5,9 @@ date = "2025-08-24T13:46:15.001027"
 draft = false
 description = "Many people go through life taking things far too seriously. We make choices that don’t really make us happy or fulfilled, and this has a huge impact on our sense of wellbeing. The way we organize..."
 summary = "Many people go through life taking things far too seriously. We make choices that don’t really make us happy or fulfilled, and this has a huge impact on our sense of wellbeing. The way we organize..."
-tags = ["happiness", "life balance", "money", "personal fulfillment", "productivity", "self-care", "tasks", "time management", "wealth", "well-being"]
+tags = ["happiness", "life balance", "money", "personal fulfillment", "productivity", "self-care", "self-transcendence", "tasks", "time management", "wealth", "well-being"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Vivre en prenant plaisir"
 source_medium = "https://medium.com/@phenrysay/a1b495086b4b"
 +++

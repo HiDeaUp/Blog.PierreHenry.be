@@ -5,7 +5,9 @@ date = "2025-08-30T14:27:31.271181"
 draft = false
 description = "Perseverance is the number one key to moving forward and creating things that truly matter to you. The more you challenge yourself, the more you’ll build something meaningful. The further you push,..."
 summary = "Perseverance is the number one key to moving forward and creating things that truly matter to you. The more you challenge yourself, the more you’ll build something meaningful. The further you push,..."
-tags = ["motivation", "perseverance", "persistence", "self-improvement", "success"]
+tags = ["motivation", "perseverance", "persistence", "self-improvement", "self-transcendence", "success"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Persévérance absolue 💪"
 source_medium = "https://medium.com/@phenrysay/c11a5d6c6d5b"
 +++

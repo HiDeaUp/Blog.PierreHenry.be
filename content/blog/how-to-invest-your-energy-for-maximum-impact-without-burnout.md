@@ -5,9 +5,9 @@ date = "2025-08-30T11:14:10.563851"
 draft = false
 description = "Every day, we have a limited amount of time and energy. The way we choose to invest these resources shapes what we get out of life. You can spend a whole day doing many things, but not all of them..."
 summary = "Every day, we have a limited amount of time and energy. The way we choose to invest these resources shapes what we get out of life. You can spend a whole day doing many things, but not all of them..."
-tags = ["money", "personal development", "prioritization", "productivity", "self-investment", "tasks", "time management", "wealth"]
+tags = ["money", "personal development", "prioritization", "productivity", "self-investment", "self-transcendence", "tasks", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Faut-il s’investir ?"
 source_medium = "https://medium.com/@phenrysay/cb7bc04cc3ef"
 +++

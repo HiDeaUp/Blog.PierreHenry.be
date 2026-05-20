@@ -5,9 +5,9 @@ date = "2025-08-30T13:38:02.266872"
 draft = false
 description = "Finding calm is not just a luxury; it is a necessity. When you feel calm and rested, everything changes. Stress, pressure, and lack of time can cloud your mind, making it hard to get things done. I..."
 summary = "Finding calm is not just a luxury; it is a necessity. When you feel calm and rested, everything changes. Stress, pressure, and lack of time can cloud your mind, making it hard to get things done. I..."
-tags = ["emotional regulation", "entrepreneurship", "mindfulness", "money", "peace of mind", "productivity", "self-calming", "stress management"]
+tags = ["emotional regulation", "entrepreneurship", "mindfulness", "money", "peace of mind", "productivity", "self-calming", "self-transcendence", "stress management"]
 priority = true
-priority_topics = ["money", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Comment se calmer sur demande ?"
 source_medium = "https://medium.com/@phenrysay/d85ccd5c485e"
 +++

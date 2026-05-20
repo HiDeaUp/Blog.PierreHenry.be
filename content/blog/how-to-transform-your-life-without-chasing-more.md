@@ -5,9 +5,9 @@ date = "2025-06-07T23:46:03.037322"
 draft = false
 description = "We often find ourselves caught in what I call the “rat race”—always striving to achieve more, to earn more, to collect more diplomas, to land that prestigious job, or to work for a company with a b..."
 summary = "We often find ourselves caught in what I call the “rat race”—always striving to achieve more, to earn more, to collect more diplomas, to land that prestigious job, or to work for a company with a b..."
-tags = ["daily habits", "mindfulness", "productivity", "rat race", "self improvement", "time management", "work life balance"]
+tags = ["daily habits", "mindfulness", "productivity", "rat race", "self improvement", "self-transcendence", "time management", "work life balance"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Les habitudes qui TRANSFORMERONT ton quotidien"
 source_medium = "https://medium.com/@phenrysay/91a17b38dcdf"
 +++

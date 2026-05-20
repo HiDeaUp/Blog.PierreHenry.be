@@ -5,9 +5,9 @@ date = "2025-08-30T13:36:50.644421"
 draft = false
 description = "When we talk about personal nourishment, it’s not just about food or exercise. It’s about feeding your wellbeing, your soul, and your true self. This is essential, because the way you see things—wh..."
 summary = "When we talk about personal nourishment, it’s not just about food or exercise. It’s about feeding your wellbeing, your soul, and your true self. This is essential, because the way you see things—wh..."
-tags = ["mental health", "mindfulness", "positive thinking", "productivity", "self-improvement", "tasks", "well-being"]
+tags = ["mental health", "mindfulness", "positive thinking", "productivity", "self-improvement", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "La technique du nourrissage positif du cerveau"
 source_medium = "https://medium.com/@phenrysay/328512e5f7d3"
 +++

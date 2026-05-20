@@ -5,9 +5,9 @@ date = "2025-08-17T17:30:29.552470"
 draft = false
 description = "Stress and negativity sneak into our lives from all directions. Maybe it’s a tough day at work, a manager who’s hard to please, or even a colleague whose opinion matters to you. Sometimes, it’s a f..."
 summary = "Stress and negativity sneak into our lives from all directions. Maybe it’s a tough day at work, a manager who’s hard to please, or even a colleague whose opinion matters to you. Sometimes, it’s a f..."
-tags = ["coping strategies", "emotional wellbeing", "mindfulness", "money", "productivity", "self-care", "stress management", "tasks"]
+tags = ["coping strategies", "emotional wellbeing", "mindfulness", "money", "productivity", "self-care", "self-transcendence", "stress management", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity"]
 original_title = "Mon remède pour se calmer (en douceur)"
 source_medium = "https://medium.com/@phenrysay/1ee5e3a02fcd"
 +++

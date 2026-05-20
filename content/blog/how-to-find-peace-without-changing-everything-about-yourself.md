@@ -5,9 +5,9 @@ date = "2025-06-07T16:14:15.291161"
 draft = false
 description = "Reinvention is not just a buzzword—it’s a way of living that keeps life fresh and meaningful. It’s easy to get comfortable with what works, whether it’s your job, your personal style, or even your..."
 summary = "Reinvention is not just a buzzword—it’s a way of living that keeps life fresh and meaningful. It’s easy to get comfortable with what works, whether it’s your job, your personal style, or even your..."
-tags = ["entrepreneurship", "money", "peaceful living", "personal growth", "reinvention", "self-improvement", "tasks", "tranquility"]
+tags = ["entrepreneurship", "money", "peaceful living", "personal growth", "reinvention", "self-improvement", "self-transcendence", "tasks", "tranquility"]
 priority = true
-priority_topics = ["money", "tasks", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Comment vivre en tranquillité (facilement) ?"
 source_medium = "https://medium.com/@phenrysay/8c5d2be4a401"
 +++

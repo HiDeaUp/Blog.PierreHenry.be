@@ -5,9 +5,9 @@ date = "2025-08-30T14:19:34.528198"
 draft = false
 description = "Finding moments that truly make you happy is essential for your personal growth. It’s not just about chasing big dreams or waiting for the next holiday. The real magic happens when you learn to cre..."
 summary = "Finding moments that truly make you happy is essential for your personal growth. It’s not just about chasing big dreams or waiting for the next holiday. The real magic happens when you learn to cre..."
-tags = ["daily joy", "happiness", "mindfulness", "productivity", "self-care", "tasks", "well-being"]
+tags = ["daily joy", "happiness", "mindfulness", "productivity", "self-care", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Passer de BONS moments 😌"
 source_medium = "https://medium.com/@phenrysay/66c8d621993c"
 +++

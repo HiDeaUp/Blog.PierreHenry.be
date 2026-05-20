@@ -5,9 +5,9 @@ date = "2025-08-20T07:07:20.762310"
 draft = false
 description = "Personal fulfillment isn’t just a buzzword—it’s the foundation of a life you truly enjoy. But how do you actually become fulfilled? The answer is both simple and deeply personal: you need to identi..."
 summary = "Personal fulfillment isn’t just a buzzword—it’s the foundation of a life you truly enjoy. But how do you actually become fulfilled? The answer is both simple and deeply personal: you need to identi..."
-tags = ["happiness", "life satisfaction", "personal fulfillment", "self-improvement", "time management", "well-being"]
+tags = ["happiness", "life satisfaction", "personal fulfillment", "self-improvement", "self-transcendence", "time management", "well-being"]
 priority = true
-priority_topics = ["time management"]
+priority_topics = ["self-transcendence", "time management"]
 original_title = "Les étapes pour être épanoui dans la vie"
 source_medium = "https://medium.com/@phenrysay/5d8bfd4041ed"
 +++

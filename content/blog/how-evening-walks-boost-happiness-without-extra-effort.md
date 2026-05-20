@@ -5,9 +5,9 @@ date = "2025-08-30T12:31:25.616294"
 draft = false
 description = "Taking a walk at the end of the day is more than just a way to stretch your legs. It’s a moment to pause and reflect on what you’ve accomplished, what went well, and what could have been better. I..."
 summary = "Taking a walk at the end of the day is more than just a way to stretch your legs. It’s a moment to pause and reflect on what you’ve accomplished, what went well, and what could have been better. I..."
-tags = ["daily evaluation", "evening routine", "happiness tips", "personal growth", "productivity", "self-reflection"]
+tags = ["daily evaluation", "evening routine", "happiness tips", "personal growth", "productivity", "self-reflection", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Évaluer ses journées, étape après étape 👣"
 source_medium = "https://medium.com/@phenrysay/4f48c92b469f"
 +++

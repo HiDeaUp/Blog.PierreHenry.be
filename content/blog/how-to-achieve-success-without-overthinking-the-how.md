@@ -5,9 +5,9 @@ date = "2025-09-10T10:19:13.812022"
 draft = false
 description = "When it comes to success, having a detailed plan is not just helpful, it’s essential. The first step is to know exactly why you want to achieve your goal. The “why” is your driving force. Don’t get..."
 summary = "When it comes to success, having a detailed plan is not just helpful, it’s essential. The first step is to know exactly why you want to achieve your goal. The “why” is your driving force. Don’t get..."
-tags = ["goal setting", "motivation", "personal development", "planning", "productivity", "success", "tasks", "time management"]
+tags = ["goal setting", "motivation", "personal development", "planning", "productivity", "self-transcendence", "success", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Aller vers son succès - Plan de réussite"
 source_medium = "https://medium.com/@phenrysay/f9e10f5bdffc"
 +++

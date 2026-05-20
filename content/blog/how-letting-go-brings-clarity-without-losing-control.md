@@ -5,9 +5,9 @@ date = "2025-08-20T12:16:53.557199"
 draft = false
 description = "Stress is everywhere. It sneaks in at work, at home, even in the smallest details—like noticing a speck of dust and suddenly feeling tense. Sometimes, it’s the rush of cars outside, the constant no..."
 summary = "Stress is everywhere. It sneaks in at work, at home, even in the smallest details—like noticing a speck of dust and suddenly feeling tense. Sometimes, it’s the rush of cars outside, the constant no..."
-tags = ["letting go", "mindfulness", "personal growth", "productivity", "self-improvement", "stress management", "tasks"]
+tags = ["letting go", "mindfulness", "personal growth", "productivity", "self-improvement", "self-transcendence", "stress management", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Ce que j'ai appris sur le lâcher-prise (et ce qui va changer pour toi)"
 source_medium = "https://medium.com/@phenrysay/c802c92bab9f"
 +++

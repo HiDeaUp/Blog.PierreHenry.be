@@ -5,9 +5,9 @@ date = "2025-08-22T20:35:29.470694"
 draft = false
 description = "Sitting on my balcony, enjoying a beautiful view and the warmth of the sun, I found myself reflecting on a question that nags at many of us: Why does it always seem like others have it better? Why..."
 summary = "Sitting on my balcony, enjoying a beautiful view and the warmth of the sun, I found myself reflecting on a question that nags at many of us: Why does it always seem like others have it better? Why..."
-tags = ["entrepreneurship", "life lessons", "mindfulness", "money", "nomad", "personal growth", "perspective", "productivity", "self-comparison"]
+tags = ["entrepreneurship", "life lessons", "mindfulness", "money", "nomad", "personal growth", "perspective", "productivity", "self-comparison", "self-transcendence"]
 priority = true
-priority_topics = ["nomad", "money", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "L'herbe est-elle plus verte chez le voisin ? Mon expérience"
 source_medium = "https://medium.com/@phenrysay/78115fd6daeb"
 +++

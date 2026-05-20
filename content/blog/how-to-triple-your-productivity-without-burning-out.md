@@ -5,9 +5,9 @@ date = "2025-08-18T18:04:21.269646"
 draft = false
 description = "Whether you’re a freelancer, running your own business, or just starting out on a new project, the excitement is real. You want to jump in, get your hands dirty, and make things happen. But very qu..."
 summary = "Whether you’re a freelancer, running your own business, or just starting out on a new project, the excitement is real. You want to jump in, get your hands dirty, and make things happen. But very qu..."
-tags = ["entrepreneurship", "money", "motivation", "overwhelm", "prioritization", "productivity", "tasks", "tech", "time management"]
+tags = ["entrepreneurship", "money", "motivation", "overwhelm", "prioritization", "productivity", "self-transcendence", "tasks", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "money", "time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["tech", "money", "self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "LA TECHNIQUE SECRÈTE pour TRIPLER en PRODUCTIVITÉ (même si tu es SUBMERGÉ) 🚀⏰"
 source_medium = "https://medium.com/@phenrysay/423188053edf"
 +++

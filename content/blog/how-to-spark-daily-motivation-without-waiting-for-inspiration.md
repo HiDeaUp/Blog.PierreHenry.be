@@ -5,9 +5,9 @@ date = "2025-08-24T16:15:40.691158"
 draft = false
 description = "Have you ever wondered what really gets you out of bed with a smile, ready to take on the world? That feeling of excitement, the drive that pushes you to reach new heights, is not just for special..."
 summary = "Have you ever wondered what really gets you out of bed with a smile, ready to take on the world? That feeling of excitement, the drive that pushes you to reach new heights, is not just for special..."
-tags = ["happiness", "joy", "morning routine", "motivation", "self-improvement", "tasks"]
+tags = ["happiness", "joy", "morning routine", "motivation", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Bonheur Express 🚀"
 source_medium = "https://medium.com/@phenrysay/fb39314a1440"
 +++

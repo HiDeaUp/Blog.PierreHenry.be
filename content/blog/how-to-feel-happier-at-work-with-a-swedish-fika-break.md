@@ -5,9 +5,9 @@ date = "2025-08-30T14:03:16.723363"
 draft = false
 description = "When was the last time you truly paused in your day—not just to scroll through your phone or gulp down a coffee, but to actually stop, breathe, and connect with someone? The Swedish tradition of fi..."
 summary = "When was the last time you truly paused in your day—not just to scroll through your phone or gulp down a coffee, but to actually stop, breathe, and connect with someone? The Swedish tradition of fi..."
-tags = ["coffee break", "entrepreneurship", "fika", "mindfulness", "productivity", "swedish culture", "tasks", "work-life balance"]
+tags = ["coffee break", "entrepreneurship", "fika", "mindfulness", "productivity", "self-transcendence", "swedish culture", "tasks", "work-life balance"]
 priority = true
-priority_topics = ["tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "La magie de la pause Fika ☕️"
 source_medium = "https://medium.com/@phenrysay/8c097800d19a"
 +++

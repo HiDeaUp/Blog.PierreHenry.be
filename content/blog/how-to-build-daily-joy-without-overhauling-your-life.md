@@ -5,9 +5,9 @@ date = "2025-08-20T12:12:51.125296"
 draft = false
 description = "Taking care of yourself is not just a luxury; it is a necessity. I want to share how I bring relaxation and wellbeing into my daily routine, and how you can do the same. It is about creating small..."
 summary = "Taking care of yourself is not just a luxury; it is a necessity. I want to share how I bring relaxation and wellbeing into my daily routine, and how you can do the same. It is about creating small..."
-tags = ["daily habits", "personal growth", "productivity", "relaxation", "self-care", "wellness"]
+tags = ["daily habits", "personal growth", "productivity", "relaxation", "self-care", "self-transcendence", "wellness"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Être bien. Je balance mon SYSTÈME entier !"
 source_medium = "https://medium.com/@phenrysay/49356f0fee94"
 +++

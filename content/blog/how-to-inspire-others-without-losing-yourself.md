@@ -5,9 +5,9 @@ date = "2025-08-17T17:39:16.970484"
 draft = false
 description = "Have you ever met someone and thought, “Wow, I wish I could be like that”? Maybe it wasn’t about looks or romance, but something about them drew you in. They had a certain presence, a way of being..."
 summary = "Have you ever met someone and thought, “Wow, I wish I could be like that”? Maybe it wasn’t about looks or romance, but something about them drew you in. They had a certain presence, a way of being..."
-tags = ["authenticity", "entrepreneurship", "inspiration", "motivation", "personal growth", "role models"]
+tags = ["authenticity", "entrepreneurship", "inspiration", "motivation", "personal growth", "role models", "self-transcendence"]
 priority = true
-priority_topics = ["entrepreneurship"]
+priority_topics = ["self-transcendence", "entrepreneurship"]
 original_title = "Trouver son inspiration. Inspirer les autres tout en devenant meilleur"
 source_medium = "https://medium.com/@phenrysay/3a8c02ec4d83"
 +++

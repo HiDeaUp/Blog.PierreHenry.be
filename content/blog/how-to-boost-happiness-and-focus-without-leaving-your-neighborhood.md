@@ -5,9 +5,9 @@ date = "2025-06-08T00:40:22.094791"
 draft = false
 description = "When was the last time you took a walk in nature—not just to get somewhere, but to really be there? Many people see a walk as just a way to stretch their legs or pass the time. But what if every wa..."
 summary = "When was the last time you took a walk in nature—not just to get somewhere, but to really be there? Many people see a walk as just a way to stretch their legs or pass the time. But what if every wa..."
-tags = ["creativity", "mindfulness", "money", "nature walks", "personal success", "productivity", "tasks", "well-being"]
+tags = ["creativity", "mindfulness", "money", "nature walks", "personal success", "productivity", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["money", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity"]
 original_title = "Utiliser les balades dans la nature pour réussir davantage dans la vie"
 source_medium = "https://medium.com/@phenrysay/530aad8e0ca9"
 +++

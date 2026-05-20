@@ -5,9 +5,9 @@ date = "2025-08-25T19:03:29.959868"
 draft = false
 description = "Have you ever paused for a moment and asked yourself, “What do I really want to do?” Not just what you have to do, but what truly excites you? Taking a step back from the daily rush is not just abo..."
 summary = "Have you ever paused for a moment and asked yourself, “What do I really want to do?” Not just what you have to do, but what truly excites you? Taking a step back from the daily rush is not just abo..."
-tags = ["finding-purpose", "life-balance", "mindfulness", "nomad", "personal-growth", "productivity", "self-reflection", "tasks", "tech", "time management"]
+tags = ["finding-purpose", "life-balance", "mindfulness", "nomad", "personal-growth", "productivity", "self-reflection", "self-transcendence", "tasks", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "nomad", "time management", "tasks", "productivity"]
+priority_topics = ["tech", "nomad", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment prendre du recul dans sa vie ?"
 source_medium = "https://medium.com/@phenrysay/546b11054a84"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-24T11:22:10.790604"
 draft = false
 description = "Positivity is not just a feelgood word. When you focus on something positive, your mind instantly brings up a positive image. This message goes straight to your brain and lifts your mood. If you do..."
 summary = "Positivity is not just a feelgood word. When you focus on something positive, your mind instantly brings up a positive image. This message goes straight to your brain and lifts your mood. If you do..."
-tags = ["daily routine", "mindfulness", "personal growth", "positivity", "productivity", "self-improvement", "tech"]
+tags = ["daily routine", "mindfulness", "personal growth", "positivity", "productivity", "self-improvement", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "productivity"]
+priority_topics = ["tech", "self-transcendence", "productivity"]
 original_title = "5 minutes par jour. Transformer son épanouissement"
 source_medium = "https://medium.com/@phenrysay/cadc33cdb0cf"
 +++

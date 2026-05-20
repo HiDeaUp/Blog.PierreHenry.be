@@ -5,9 +5,9 @@ date = "2025-08-31T19:38:17.755015"
 draft = false
 description = "When was the last time you truly appreciated what you ate? Not just eating to fill up, but really savoring every bite, letting the flavors linger, and feeling grateful for the moment. For me, chees..."
 summary = "When was the last time you truly appreciated what you ate? Not just eating to fill up, but really savoring every bite, letting the flavors linger, and feeling grateful for the moment. For me, chees..."
-tags = ["food therapy", "happiness", "meditation", "mindful eating", "money", "productivity", "wellness"]
+tags = ["food therapy", "happiness", "meditation", "mindful eating", "money", "productivity", "self-transcendence", "wellness"]
 priority = true
-priority_topics = ["money", "productivity"]
+priority_topics = ["money", "self-transcendence", "productivity"]
 original_title = "Nourriture, thérapie du bonheur ?"
 source_medium = "https://medium.com/@phenrysay/a3ea49c04ec1"
 +++

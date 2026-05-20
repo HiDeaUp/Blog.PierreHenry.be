@@ -5,9 +5,9 @@ date = "2025-08-25T18:30:09.564268"
 draft = false
 description = "Sleep debt is a silent problem that most of us carry without even realizing it. Over the years, our sleeping habits have changed a lot. If you look back to the 80s and 90s, people used to sleep mor..."
 summary = "Sleep debt is a silent problem that most of us carry without even realizing it. Over the years, our sleeping habits have changed a lot. If you look back to the 80s and 90s, people used to sleep mor..."
-tags = ["productivity", "restoration", "sleep debt", "sleep habits", "sleep health", "time management", "wellness"]
+tags = ["productivity", "restoration", "self-transcendence", "sleep debt", "sleep habits", "sleep health", "time management", "wellness"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Dettes de sommeil 😴"
 source_medium = "https://medium.com/@phenrysay/2077935b4ce0"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-19T22:21:25.185563"
 draft = false
 description = "Every day, we’re surrounded by things that seem urgent. There’s always a bill to pay, dishes from last night to wash, or the trash to take out. Living in an apartment building, I have to drop my ga..."
 summary = "Every day, we’re surrounded by things that seem urgent. There’s always a bill to pay, dishes from last night to wash, or the trash to take out. Living in an apartment building, I have to drop my ga..."
-tags = ["entrepreneurship", "life balance", "mental health", "money", "personal growth", "prioritization", "self-care", "tasks", "time management"]
+tags = ["entrepreneurship", "life balance", "mental health", "money", "personal growth", "prioritization", "self-care", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "entrepreneurship"]
 original_title = "L'importance des priorités"
 source_medium = "https://medium.com/@phenrysay/93dce19add7d"
 +++

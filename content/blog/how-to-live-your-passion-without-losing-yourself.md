@@ -5,9 +5,9 @@ date = "2025-08-24T16:07:33.263184"
 draft = false
 description = "Living with passion is a wonderful thing. It brings energy, excitement, and a sense of purpose to our days. But sometimes, passion can take up so much space that it crowds out everything else. I kn..."
 summary = "Living with passion is a wonderful thing. It brings energy, excitement, and a sense of purpose to our days. But sometimes, passion can take up so much space that it crowds out everything else. I kn..."
-tags = ["entrepreneurship", "life balance", "passion", "personal growth", "purpose", "tasks", "wellbeing"]
+tags = ["entrepreneurship", "life balance", "passion", "personal growth", "purpose", "self-transcendence", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["tasks", "entrepreneurship"]
+priority_topics = ["self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Comment vivre sa passion... ?"
 source_medium = "https://medium.com/@phenrysay/f8f28b61d8a4"
 +++

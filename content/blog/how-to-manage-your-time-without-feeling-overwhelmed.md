@@ -5,9 +5,9 @@ date = "2025-08-24T16:33:22.372874"
 draft = false
 description = "Most of us live days that look pretty similar: work, studies, chores, and the feeling that there’s never quite enough time. I was reflecting on this while working on a university assessment, and it..."
 summary = "Most of us live days that look pretty similar: work, studies, chores, and the feeling that there’s never quite enough time. I was reflecting on this while working on a university assessment, and it..."
-tags = ["daily habits", "mindfulness", "money", "productivity", "self-improvement", "tasks", "time management"]
+tags = ["daily habits", "mindfulness", "money", "productivity", "self-improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Apprendre à mieux gérer son temps"
 source_medium = "https://medium.com/@phenrysay/cc7a69eda08e"
 +++

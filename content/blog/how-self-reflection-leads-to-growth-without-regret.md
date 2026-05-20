@@ -5,9 +5,9 @@ date = "2025-08-31T21:07:38.289145"
 draft = false
 description = "Questioning yourself is one of the most important habits you can develop. When you regularly take a step back and examine your choices, you give yourself a real chance to grow. It’s not always easy..."
 summary = "Questioning yourself is one of the most important habits you can develop. When you regularly take a step back and examine your choices, you give yourself a real chance to grow. It’s not always easy..."
-tags = ["introspection", "mindfulness", "personal growth", "productivity", "self-improvement", "self-reflection", "tasks", "time management"]
+tags = ["introspection", "mindfulness", "personal growth", "productivity", "self-improvement", "self-reflection", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Pourquoi faut-il se remettre en question ?"
 source_medium = "https://medium.com/@phenrysay/02d5fe40b396"
 +++

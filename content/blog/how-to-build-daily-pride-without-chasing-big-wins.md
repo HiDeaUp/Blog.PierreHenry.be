@@ -5,9 +5,9 @@ date = "2025-08-24T14:03:32.691102"
 draft = false
 description = "There’s something truly magical about ending your day with a sense of pride. That feeling when you look back and think, “Wow, I’m really glad I did that today.” It’s not just about big achievements..."
 summary = "There’s something truly magical about ending your day with a sense of pride. That feeling when you look back and think, “Wow, I’m really glad I did that today.” It’s not just about big achievements..."
-tags = ["daily habits", "mindset", "money", "motivation", "personal growth", "self-improvement", "tasks"]
+tags = ["daily habits", "mindset", "money", "motivation", "personal growth", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "Comment créer des fiertés ?🚀"
 source_medium = "https://medium.com/@phenrysay/ccc11b437621"
 +++

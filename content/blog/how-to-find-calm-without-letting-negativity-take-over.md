@@ -5,9 +5,9 @@ date = "2025-08-17T09:26:51.214085"
 draft = false
 description = "Negativity and stress are part of life. Whether it’s at work, from a boss or a colleague you care about, or even just a random person at the supermarket who treats you poorly, negativity finds its..."
 summary = "Negativity and stress are part of life. Whether it’s at work, from a boss or a colleague you care about, or even just a random person at the supermarket who treats you poorly, negativity finds its..."
-tags = ["emotional wellbeing", "mental health", "negativity", "productivity", "self-soothing", "stress management", "tasks"]
+tags = ["emotional wellbeing", "mental health", "negativity", "productivity", "self-soothing", "self-transcendence", "stress management", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment S’apaiser ? CE QUE JE FAIS EXACTEMENT après avoir eu de la négativité"
 source_medium = "https://medium.com/@phenrysay/c09dfb75c64b"
 +++

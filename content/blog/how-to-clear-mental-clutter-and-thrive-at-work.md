@@ -5,9 +5,9 @@ date = "2025-08-24T13:59:39.152404"
 draft = false
 description = "Feeling good at work isn’t always easy. Sometimes, you find yourself lost, unfocused, and weighed down by mental clutter. This mental load can be a real obstacle, keeping you from doing your best a..."
 summary = "Feeling good at work isn’t always easy. Sometimes, you find yourself lost, unfocused, and weighed down by mental clutter. This mental load can be a real obstacle, keeping you from doing your best a..."
-tags = ["mental clarity", "money", "personal transformation", "productivity", "self-improvement", "tasks", "thriving at work", "time management", "workplace success"]
+tags = ["mental clarity", "money", "personal transformation", "productivity", "self-improvement", "self-transcendence", "tasks", "thriving at work", "time management", "workplace success"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Se transformer pour réussir durablement 💪"
 source_medium = "https://medium.com/@phenrysay/bf67fd56ab2a"
 +++

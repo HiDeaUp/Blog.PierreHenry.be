@@ -5,9 +5,9 @@ date = "2025-08-17T17:22:22.935813"
 draft = false
 description = "Life deserves to be enjoyed fully. Too often, we get caught up in saving money, worrying about the future, or waiting for the “right” moment to finally relax and be happy. While being careful with..."
 summary = "Life deserves to be enjoyed fully. Too often, we get caught up in saving money, worrying about the future, or waiting for the “right” moment to finally relax and be happy. While being careful with..."
-tags = ["daily happiness", "enjoying life", "living in the present", "mindfulness", "money", "simple habits", "tasks"]
+tags = ["daily happiness", "enjoying life", "living in the present", "mindfulness", "money", "self-transcendence", "simple habits", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "Mes Habitudes SIMPLES pour Être Heureux au Quotidien !"
 source_medium = "https://medium.com/@phenrysay/474b9c497609"
 +++

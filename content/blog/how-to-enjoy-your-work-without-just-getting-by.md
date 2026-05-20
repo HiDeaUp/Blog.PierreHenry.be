@@ -5,9 +5,9 @@ date = "2025-08-31T17:59:52.315121"
 draft = false
 description = "Too often, we let life slip by without really enjoying it. We get stuck in routines, moving from one day to the next, barely noticing that we’re not actually loving our lives. Days pass, and if you..."
 summary = "Too often, we let life slip by without really enjoying it. We get stuck in routines, moving from one day to the next, barely noticing that we’re not actually loving our lives. Days pass, and if you..."
-tags = ["career fulfillment", "entrepreneurship", "finding joy", "meaningful work", "tasks", "tech", "time management", "work satisfaction", "work-life balance"]
+tags = ["career fulfillment", "entrepreneurship", "finding joy", "meaningful work", "self-transcendence", "tasks", "tech", "time management", "work satisfaction", "work-life balance"]
 priority = true
-priority_topics = ["tech", "time management", "tasks", "entrepreneurship"]
+priority_topics = ["tech", "self-transcendence", "time management", "tasks", "entrepreneurship"]
 original_title = "Prendre plaisir avec son boulot (pour du vrai !)"
 source_medium = "https://medium.com/@phenrysay/66e2a8892d63"
 +++

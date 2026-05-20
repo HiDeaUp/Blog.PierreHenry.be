@@ -5,7 +5,9 @@ date = "2025-08-24T15:24:54.663798"
 draft = false
 description = "Today, as I sit in a lovely little park in Sydney, I want to share some thoughts about getting back in shape and why a good lifestyle is so important for everyone. We often hear about the basics: s..."
 summary = "Today, as I sit in a lovely little park in Sydney, I want to share some thoughts about getting back in shape and why a good lifestyle is so important for everyone. We often hear about the basics: s..."
-tags = ["habits", "healthy lifestyle", "routine", "self-improvement", "wellness"]
+tags = ["habits", "healthy lifestyle", "routine", "self-improvement", "self-transcendence", "wellness"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Une bonne hygiène de vie 🚀"
 source_medium = "https://medium.com/@phenrysay/6a060b066e30"
 +++

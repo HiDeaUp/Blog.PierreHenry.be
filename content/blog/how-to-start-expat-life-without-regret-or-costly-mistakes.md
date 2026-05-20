@@ -5,9 +5,9 @@ date = "2025-06-09T03:50:07.922584"
 draft = false
 description = "Starting a new life as an expat is more than just changing your address. It’s about living with passion, doing what you really want, and sometimes, building something from scratch. Many people drea..."
 summary = "Starting a new life as an expat is more than just changing your address. It’s about living with passion, doing what you really want, and sometimes, building something from scratch. Many people drea..."
-tags = ["digital nomad", "entrepreneurship", "expat life", "living abroad", "money", "nomad", "productivity", "remote work", "tech"]
+tags = ["digital nomad", "entrepreneurship", "expat life", "living abroad", "money", "nomad", "productivity", "remote work", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "nomad", "money", "productivity", "entrepreneurship"]
+priority_topics = ["tech", "nomad", "money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "VÉRITÉS CHOC: Vie d'expat avant de faire le grand saut ! 🌍"
 source_medium = "https://medium.com/@phenrysay/876b5c2f97a1"
 +++

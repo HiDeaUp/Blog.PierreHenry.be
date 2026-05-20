@@ -5,9 +5,9 @@ date = "2025-08-30T12:41:14.396093"
 draft = false
 description = "Life is full of ups and downs. Sometimes, it feels like you’re walking along just fine, and suddenly, you hit a wall. It could be a small setback, like a harsh comment you didn’t expect, or somethi..."
 summary = "Life is full of ups and downs. Sometimes, it feels like you’re walking along just fine, and suddenly, you hit a wall. It could be a small setback, like a harsh comment you didn’t expect, or somethi..."
-tags = ["entrepreneurship", "happiness", "mental health", "money", "nomad", "positivity", "productivity", "resilience", "self-improvement", "wealth"]
+tags = ["entrepreneurship", "happiness", "mental health", "money", "nomad", "positivity", "productivity", "resilience", "self-improvement", "self-transcendence", "wealth"]
 priority = true
-priority_topics = ["nomad", "money", "wealth", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "wealth", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Méthode du Bonheur™ 🤩"
 source_medium = "https://medium.com/@phenrysay/24ae5c5a79c6"
 +++

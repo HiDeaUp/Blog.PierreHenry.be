@@ -5,9 +5,9 @@ date = "2025-08-18T21:22:51.626022"
 draft = false
 description = "Motivation is like a spark that fuels our positive energy. But let’s be honest: when motivation is missing, everything feels pointless. We start asking ourselves, “Why should I even bother? I don’t..."
 summary = "Motivation is like a spark that fuels our positive energy. But let’s be honest: when motivation is missing, everything feels pointless. We start asking ourselves, “Why should I even bother? I don’t..."
-tags = ["goal-setting", "motivation", "personal-development", "productivity", "self-improvement", "tasks"]
+tags = ["goal-setting", "motivation", "personal-development", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "COMMENT TROUVER UNE MOTIVATION QUI NE TE LÂCHE PLUS"
 source_medium = "https://medium.com/@phenrysay/fcf179fb9230"
 +++

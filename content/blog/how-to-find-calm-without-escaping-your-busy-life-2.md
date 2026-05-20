@@ -5,9 +5,9 @@ date = "2025-08-30T08:54:12.595178"
 draft = false
 description = "When everything around you feels stressful, it’s easy to forget that you can still find moments of calm. The world keeps spinning, tasks pile up, and suddenly, you realize you’re no longer present...."
 summary = "When everything around you feels stressful, it’s easy to forget that you can still find moments of calm. The world keeps spinning, tasks pile up, and suddenly, you realize you’re no longer present...."
-tags = ["inner peace", "mindfulness", "self-care", "stress relief", "tasks", "well-being"]
+tags = ["inner peace", "mindfulness", "self-care", "self-transcendence", "stress relief", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Se construire des instants de tranquillité & paix"
 source_medium = "https://medium.com/@phenrysay/c6b0f6fdb4b6"
 +++

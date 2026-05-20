@@ -5,9 +5,9 @@ date = "2025-08-24T14:54:11.621101"
 draft = false
 description = "There’s something powerful about learning something new and putting it into practice right away. When you act on what you learn, it sticks in your mind much more deeply. The information gets reinfo..."
 summary = "There’s something powerful about learning something new and putting it into practice right away. When you act on what you learn, it sticks in your mind much more deeply. The information gets reinfo..."
-tags = ["active learning", "experiential learning", "learning strategies", "nomad", "practical application", "productivity", "take action"]
+tags = ["active learning", "experiential learning", "learning strategies", "nomad", "practical application", "productivity", "self-transcendence", "take action"]
 priority = true
-priority_topics = ["nomad", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "productivity"]
 original_title = "Vas y ! Passe à l'action avec l’Active Learning 💡"
 source_medium = "https://medium.com/@phenrysay/2cb9a196068a"
 +++

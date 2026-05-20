@@ -5,9 +5,9 @@ date = "2025-08-17T09:10:38.915559"
 draft = false
 description = "Living a life where you feel honest with yourself, where you feel good and in harmony with what you do, is something many of us quietly crave. Yet, so often, we end up living against our own grain...."
 summary = "Living a life where you feel honest with yourself, where you feel good and in harmony with what you do, is something many of us quietly crave. Yet, so often, we end up living against our own grain...."
-tags = ["authentic living", "mindfulness", "personal growth", "self-discovery", "tasks", "well-being"]
+tags = ["authentic living", "mindfulness", "personal growth", "self-discovery", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Comment vivre selon tes besoins et te sentir vraiment bien"
 source_medium = "https://medium.com/@phenrysay/78a46d21cef4"
 +++

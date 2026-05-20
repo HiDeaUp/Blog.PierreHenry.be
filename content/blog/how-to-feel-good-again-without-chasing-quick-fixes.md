@@ -5,9 +5,9 @@ date = "2025-08-17T19:02:20.860239"
 draft = false
 description = "Feeling good isn’t just about chasing pleasure or ticking off boxes on a todo list. It’s about being someone who loves to share, who enjoys learning, and who builds their energy around curiosity. W..."
 summary = "Feeling good isn’t just about chasing pleasure or ticking off boxes on a todo list. It’s about being someone who loves to share, who enjoys learning, and who builds their energy around curiosity. W..."
-tags = ["curiosity", "happiness", "money", "nomad", "personal growth", "self-improvement", "tasks", "tech", "wealth", "well-being"]
+tags = ["curiosity", "happiness", "money", "nomad", "personal growth", "self-improvement", "self-transcendence", "tasks", "tech", "wealth", "well-being"]
 priority = true
-priority_topics = ["tech", "nomad", "money", "wealth", "tasks"]
+priority_topics = ["tech", "nomad", "money", "wealth", "self-transcendence", "tasks"]
 original_title = "Comment bien se sentir (je t’explique TOUT LE POURQUOI)"
 source_medium = "https://medium.com/@phenrysay/9c6a5a71e885"
 +++

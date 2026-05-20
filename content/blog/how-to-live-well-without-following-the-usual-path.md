@@ -5,9 +5,9 @@ date = "2025-08-19T15:00:58.430887"
 draft = false
 description = "Living well is simply about living a life that you enjoy—a life shaped by your own choices and moods. It sounds simple, but it often means you need to reorganize your life and have a clear vision o..."
 summary = "Living well is simply about living a life that you enjoy—a life shaped by your own choices and moods. It sounds simple, but it often means you need to reorganize your life and have a clear vision o..."
-tags = ["dream life", "life choices", "living well", "money", "personal fulfillment", "productivity", "self-improvement", "tech", "time management"]
+tags = ["dream life", "life choices", "living well", "money", "personal fulfillment", "productivity", "self-improvement", "self-transcendence", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "money", "time management", "productivity"]
+priority_topics = ["tech", "money", "self-transcendence", "time management", "productivity"]
 original_title = "Est-ce facile de vivre une vie rêvée ? Si oui, comment ?"
 source_medium = "https://medium.com/@phenrysay/24dc37fd1d00"
 +++

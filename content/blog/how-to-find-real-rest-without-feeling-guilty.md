@@ -5,9 +5,9 @@ date = "2025-08-17T18:49:27.802014"
 draft = false
 description = "There are moments in life when we all crave a break—a real pause, not just a quick distraction. I often find myself reflecting on this while sitting in a beautiful place, like the Elizabeth Bay Par..."
 summary = "There are moments in life when we all crave a break—a real pause, not just a quick distraction. I often find myself reflecting on this while sitting in a beautiful place, like the Elizabeth Bay Par..."
-tags = ["mental health", "mindfulness", "productivity", "relaxation", "self-care", "tasks", "work life balance"]
+tags = ["mental health", "mindfulness", "productivity", "relaxation", "self-care", "self-transcendence", "tasks", "work life balance"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "QUAND PEUT-ON ENFIN SE DÉTENDRE ?"
 source_medium = "https://medium.com/@phenrysay/7077691b4c96"
 +++

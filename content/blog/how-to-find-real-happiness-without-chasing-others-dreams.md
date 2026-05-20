@@ -5,9 +5,9 @@ date = "2025-08-24T15:35:34.994589"
 draft = false
 description = "Many of us grow up surrounded by the idea that success and happiness are tightly linked to certain achievements. We’re told that getting the best grades, earning the top degrees, and landing a pres..."
 summary = "Many of us grow up surrounded by the idea that success and happiness are tightly linked to certain achievements. We’re told that getting the best grades, earning the top degrees, and landing a pres..."
-tags = ["happiness", "life goals", "money", "personal fulfillment", "productivity", "pursuit of happiness", "self-discovery"]
+tags = ["happiness", "life goals", "money", "personal fulfillment", "productivity", "pursuit of happiness", "self-discovery", "self-transcendence"]
 priority = true
-priority_topics = ["money", "productivity"]
+priority_topics = ["money", "self-transcendence", "productivity"]
 original_title = "Comment se procurer un bonheur désiré?"
 source_medium = "https://medium.com/@phenrysay/61a2b515ceb5"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-24T14:08:48.363149"
 draft = false
 description = "Sometimes, thinking differently is all you need to get back on track. We often find ourselves struggling to gather our thoughts, especially when stress creeps in. Stress can be a real obstacle, mak..."
 summary = "Sometimes, thinking differently is all you need to get back on track. We often find ourselves struggling to gather our thoughts, especially when stress creeps in. Stress can be a real obstacle, mak..."
-tags = ["goal setting", "mental clarity", "productivity", "self improvement", "stress management"]
+tags = ["goal setting", "mental clarity", "productivity", "self improvement", "self-transcendence", "stress management"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Réussir ses Objectifs à Vitesse Éclair ! ⚡"
 source_medium = "https://medium.com/@phenrysay/68757fdb09a1"
 +++

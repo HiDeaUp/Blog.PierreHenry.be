@@ -5,9 +5,9 @@ date = "2025-08-17T19:51:25.458980"
 draft = false
 description = "Have you ever noticed how two people can experience the exact same event, yet walk away with completely different feelings about it? This isn’t just a quirk of personality—it’s a deep truth about h..."
 summary = "Have you ever noticed how two people can experience the exact same event, yet walk away with completely different feelings about it? This isn’t just a quirk of personality—it’s a deep truth about h..."
-tags = ["behavior", "individuality", "perception", "personal growth", "self-awareness", "tasks", "tech"]
+tags = ["behavior", "individuality", "perception", "personal growth", "self-awareness", "self-transcendence", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "tasks"]
+priority_topics = ["tech", "self-transcendence", "tasks"]
 original_title = "Mieux AGIR et ACCOMPLIR en déchiffrant nos actions"
 source_medium = "https://medium.com/@phenrysay/360bb965269d"
 +++

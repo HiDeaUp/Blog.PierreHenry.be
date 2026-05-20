@@ -5,9 +5,9 @@ date = "2025-08-31T21:54:39.009663"
 draft = false
 description = "Most people go through life as if they’re just ticking off days on a calendar, waiting for something to happen. But life isn’t meant to be endured. It’s meant to be devoured, savored, and remembere..."
 summary = "Most people go through life as if they’re just ticking off days on a calendar, waiting for something to happen. But life isn’t meant to be endured. It’s meant to be devoured, savored, and remembere..."
-tags = ["chasing sensations", "life experiences", "living fully", "memorable life", "personal growth", "productivity", "tasks", "time blocking", "time management"]
+tags = ["chasing sensations", "life experiences", "living fully", "memorable life", "personal growth", "productivity", "self-transcendence", "tasks", "time blocking", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity", "time blocking"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity", "time blocking"]
 original_title = "Comment avoir une vie à sensation"
 source_medium = "https://medium.com/@phenrysay/619ec0c3f7f8"
 +++

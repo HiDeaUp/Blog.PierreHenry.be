@@ -5,9 +5,9 @@ date = "2025-08-22T20:32:37.807086"
 draft = false
 description = "Productivity always wins. When you’re productive and do things in an organized way, you’re not just busy—you’re moving forward with purpose. Being productive is really about knowing what to do, set..."
 summary = "Productivity always wins. When you’re productive and do things in an organized way, you’re not just busy—you’re moving forward with purpose. Being productive is really about knowing what to do, set..."
-tags = ["organization", "personal development", "productivity", "superpower", "task management", "tasks", "time management"]
+tags = ["organization", "personal development", "productivity", "self-transcendence", "superpower", "task management", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Peut-on utiliser la productivité comme super pouvoir ?"
 source_medium = "https://medium.com/@phenrysay/fe8ea14ef0c1"
 +++

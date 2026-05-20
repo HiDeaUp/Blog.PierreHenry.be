@@ -5,7 +5,9 @@ date = "2025-08-17T19:13:17.025938"
 draft = false
 description = "There’s something almost magical about taking a walk after lunch. It’s a small ritual I cherish: just a short stroll around my neighborhood, right after I finish eating. This simple habit makes me..."
 summary = "There’s something almost magical about taking a walk after lunch. It’s a small ritual I cherish: just a short stroll around my neighborhood, right after I finish eating. This simple habit makes me..."
-tags = ["daily habits", "energy boost", "mindfulness", "stress relief", "walking benefits"]
+tags = ["daily habits", "energy boost", "mindfulness", "self-transcendence", "stress relief", "walking benefits"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Tu vas ENFIN retrouver ton énergie avec cette marche #productivité #motivation"
 source_medium = "https://medium.com/@phenrysay/3502e74c13c5"
 +++

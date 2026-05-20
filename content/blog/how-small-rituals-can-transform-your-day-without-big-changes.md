@@ -5,9 +5,9 @@ date = "2025-08-18T17:58:23.454912"
 draft = false
 description = "We often talk about big changes when we want to improve our lives, but sometimes, it’s the smallest habits that make the biggest difference. I want to share with you the idea of “Soul Rituals”—thos..."
 summary = "We often talk about big changes when we want to improve our lives, but sometimes, it’s the smallest habits that make the biggest difference. I want to share with you the idea of “Soul Rituals”—thos..."
-tags = ["daily habits", "mindfulness", "personal growth", "self-care", "success routine", "time management"]
+tags = ["daily habits", "mindfulness", "personal growth", "self-care", "self-transcendence", "success routine", "time management"]
 priority = true
-priority_topics = ["time management"]
+priority_topics = ["self-transcendence", "time management"]
 original_title = "Ma routine du succès : comment réinventer ses journées"
 source_medium = "https://medium.com/@phenrysay/fba4e155a13a"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-31T20:02:23.679253"
 draft = false
 description = "If you’ve ever wondered how Swedes manage to balance hard work with a sense of calm, the answer might be found in a simple tradition: the fika break. Fika is more than just a coffee break. It’s a c..."
 summary = "If you’ve ever wondered how Swedes manage to balance hard work with a sense of calm, the answer might be found in a simple tradition: the fika break. Fika is more than just a coffee break. It’s a c..."
-tags = ["coffee break", "fika", "productivity", "sweden", "wellbeing", "work-life balance"]
+tags = ["coffee break", "fika", "productivity", "self-transcendence", "sweden", "wellbeing", "work-life balance"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Le plaisir des pauses détentes Fika 🇸🇪"
 source_medium = "https://medium.com/@phenrysay/ee8204978a58"
 +++

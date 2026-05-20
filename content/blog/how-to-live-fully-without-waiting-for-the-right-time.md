@@ -5,9 +5,9 @@ date = "2025-06-08T21:31:05.365736"
 draft = false
 description = "Life deserves to be enjoyed to the fullest. Yet, so often, we find ourselves holding back, telling ourselves we need to save money, be careful, or wait for the right moment. Saving is important, of..."
 summary = "Life deserves to be enjoyed to the fullest. Yet, so often, we find ourselves holding back, telling ourselves we need to save money, be careful, or wait for the right moment. Saving is important, of..."
-tags = ["carpe diem", "life balance", "living fully", "mindfulness", "money", "personal growth"]
+tags = ["carpe diem", "life balance", "living fully", "mindfulness", "money", "personal growth", "self-transcendence"]
 priority = true
-priority_topics = ["money"]
+priority_topics = ["money", "self-transcendence"]
 original_title = "Être à 100% dans tous les projets de sa vie"
 source_medium = "https://medium.com/@phenrysay/6f7c9a2c4899"
 +++

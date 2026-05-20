@@ -5,9 +5,9 @@ date = "2025-08-18T18:07:56.530891"
 draft = false
 description = "Have you ever noticed how having a project or a clear goal can completely change your mood and energy? This morning, I was building apps on my phone. That sense of purpose—waking up and knowing exa..."
 summary = "Have you ever noticed how having a project or a clear goal can completely change your mood and energy? This morning, I was building apps on my phone. That sense of purpose—waking up and knowing exa..."
-tags = ["emotional intelligence", "goal setting", "money", "motivation", "polyphasic sleep", "productivity", "tasks", "wealth"]
+tags = ["emotional intelligence", "goal setting", "money", "motivation", "polyphasic sleep", "productivity", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "Comment Utiliser Tes Émotions pour Réaliser des Exploits"
 source_medium = "https://medium.com/@phenrysay/41823cfc1842"
 +++

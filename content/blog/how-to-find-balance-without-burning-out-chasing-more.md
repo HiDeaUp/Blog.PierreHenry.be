@@ -5,9 +5,9 @@ date = "2025-06-08T07:02:22.679919"
 draft = false
 description = "We often feel like we always have to do more. There’s this constant pressure to be productive, to keep pushing, to never stop. It’s as if we’re always running after something, and it’s never enough..."
 summary = "We often feel like we always have to do more. There’s this constant pressure to be productive, to keep pushing, to never stop. It’s as if we’re always running after something, and it’s never enough..."
-tags = ["happiness", "mental health", "productivity", "self-care", "tasks", "time management", "work-life balance"]
+tags = ["happiness", "mental health", "productivity", "self-care", "self-transcendence", "tasks", "time management", "work-life balance"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "L’importance d’avoir une vie équilibrée"
 source_medium = "https://medium.com/@phenrysay/83e9d495cd31"
 +++

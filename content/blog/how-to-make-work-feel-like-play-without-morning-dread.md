@@ -5,9 +5,9 @@ date = "2026-01-12T19:58:11.014882"
 draft = false
 description = "There’s a special moment in the morning when you’re about to start your day’s work. Maybe you’ve made yourself a cup of tea, your computer is ready, and you feel set to be productive. But have you..."
 summary = "There’s a special moment in the morning when you’re about to start your day’s work. Maybe you’ve made yourself a cup of tea, your computer is ready, and you feel set to be productive. But have you..."
-tags = ["flow state", "morning routine", "productivity", "tasks", "work mindset", "workflow"]
+tags = ["flow state", "morning routine", "productivity", "self-transcendence", "tasks", "work mindset", "workflow"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Entrer dans le FLOW de TRAVAIL DÈS LE DÉPART"
 source_medium = "https://medium.com/@phenrysay/1ab88d906b5e"
 source_youtube = "https://www.youtube.com/watch?v=_ZEhP-xJf3Q"

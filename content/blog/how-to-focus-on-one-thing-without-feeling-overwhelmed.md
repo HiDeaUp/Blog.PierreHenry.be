@@ -5,9 +5,9 @@ date = "2025-08-30T12:28:43.983431"
 draft = false
 description = "Have you ever found yourself sitting in a café or waiting in line, and suddenly your mind starts racing with a thousand thoughts? You remember you need to reply to a message, answer an email, call..."
 summary = "Have you ever found yourself sitting in a café or waiting in line, and suddenly your mind starts racing with a thousand thoughts? You remember you need to reply to a message, answer an email, call..."
-tags = ["distraction", "focus", "mindfulness", "productivity", "single-tasking", "tasks"]
+tags = ["distraction", "focus", "mindfulness", "productivity", "self-transcendence", "single-tasking", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment ne plus se laisser distraire ? 🫢"
 source_medium = "https://medium.com/@phenrysay/3a286af6f70e"
 +++

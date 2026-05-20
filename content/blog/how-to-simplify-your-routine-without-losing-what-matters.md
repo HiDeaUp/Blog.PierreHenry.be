@@ -5,9 +5,9 @@ date = "2025-08-19T14:30:19.789733"
 draft = false
 description = "Living a simple life, free from unnecessary complexity, is one of the most powerful ways to move forward quickly. When you simplify your daily routine from start to finish, you make it much easier..."
 summary = "Living a simple life, free from unnecessary complexity, is one of the most powerful ways to move forward quickly. When you simplify your daily routine from start to finish, you make it much easier..."
-tags = ["daily routine", "entrepreneurship", "life success", "minimalism", "productivity", "self improvement", "simplicity", "tasks"]
+tags = ["daily routine", "entrepreneurship", "life success", "minimalism", "productivity", "self improvement", "self-transcendence", "simplicity", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "La simplicité : le secret caché pour réussir sa vie avant qu'il ne soit trop tard !"
 source_medium = "https://medium.com/@phenrysay/ed8dec4cc163"
 +++

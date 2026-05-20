@@ -5,9 +5,9 @@ date = "2025-08-17T17:27:15.420080"
 draft = false
 description = "Walking today, I started thinking about how simple sessions of wandering—just taking a walk—can actually help you grow. When you invest in yourself, when you put time and energy into your own devel..."
 summary = "Walking today, I started thinking about how simple sessions of wandering—just taking a walk—can actually help you grow. When you invest in yourself, when you put time and energy into your own devel..."
-tags = ["curiosity", "inspiration", "mindfulness", "money", "personal growth", "self-improvement", "tasks", "wealth"]
+tags = ["curiosity", "inspiration", "mindfulness", "money", "personal growth", "self-improvement", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks"]
 original_title = "Utilise ta curiosité pour grandir et exceller dans sa vie"
 source_medium = "https://medium.com/@phenrysay/6dda36bd1298"
 +++

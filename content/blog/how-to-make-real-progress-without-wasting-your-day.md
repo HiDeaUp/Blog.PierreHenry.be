@@ -5,9 +5,9 @@ date = "2025-08-28T10:08:55.735247"
 draft = false
 description = "Making progress each day is critical. When you move forward, accomplish things, and see real results, your days start to have meaning. But not everything you do in a day actually matters. The key i..."
 summary = "Making progress each day is critical. When you move forward, accomplish things, and see real results, your days start to have meaning. But not everything you do in a day actually matters. The key i..."
-tags = ["efficiency", "goal setting", "productivity", "self improvement", "tasks", "time management"]
+tags = ["efficiency", "goal setting", "productivity", "self improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment progresser dans ses journées efficacement ? Méthode Éclair"
 source_medium = "https://medium.com/@phenrysay/c729aeca8acd"
 +++

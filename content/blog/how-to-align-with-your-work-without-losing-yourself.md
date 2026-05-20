@@ -5,9 +5,9 @@ date = "2025-08-25T18:31:27.674217"
 draft = false
 description = "Finding alignment in what you do is not just a nice idea—it’s the foundation for a life that feels right. When you’re truly in sync with your projects, your goals, and what you love, everything sta..."
 summary = "Finding alignment in what you do is not just a nice idea—it’s the foundation for a life that feels right. When you’re truly in sync with your projects, your goals, and what you love, everything sta..."
-tags = ["authenticity", "life balance", "personal growth", "self-alignment", "self-care", "tasks"]
+tags = ["authenticity", "life balance", "personal growth", "self-alignment", "self-care", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Comment s’aligner avec ce que l’on fait 💫"
 source_medium = "https://medium.com/@phenrysay/3d786353e5f5"
 +++

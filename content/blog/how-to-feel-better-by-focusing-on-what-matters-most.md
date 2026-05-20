@@ -5,9 +5,9 @@ date = "2025-08-25T17:56:44.556971"
 draft = false
 description = "Concentration is more than just a skill; it’s a way to shape your day and your wellbeing. When you focus fully on what truly matters to you, you give yourself the best chance to feel good and fulfi..."
 summary = "Concentration is more than just a skill; it’s a way to shape your day and your wellbeing. When you focus fully on what truly matters to you, you give yourself the best chance to feel good and fulfi..."
-tags = ["focus", "mental health", "prioritization", "productivity", "time management", "well-being"]
+tags = ["focus", "mental health", "prioritization", "productivity", "self-transcendence", "time management", "well-being"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Le Focus pour mieux se Sentir. Ce que j’ai appris"
 source_medium = "https://medium.com/@phenrysay/db7c3525ae1a"
 +++

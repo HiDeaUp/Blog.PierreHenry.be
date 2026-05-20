@@ -5,9 +5,9 @@ date = "2025-08-30T11:03:26.769373"
 draft = false
 description = "Growing your vision of life is not just a nice idea. It is the foundation for everything you want to achieve. When you allow yourself to think bigger, you open the door to new possibilities. But dr..."
 summary = "Growing your vision of life is not just a nice idea. It is the foundation for everything you want to achieve. When you allow yourself to think bigger, you open the door to new possibilities. But dr..."
-tags = ["entrepreneurship", "goal setting", "money", "motivation", "nomad", "personal growth", "productivity", "self-improvement", "vision"]
+tags = ["entrepreneurship", "goal setting", "money", "motivation", "nomad", "personal growth", "productivity", "self-improvement", "self-transcendence", "vision"]
 priority = true
-priority_topics = ["nomad", "money", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Comment voir plus grand ? 🚀"
 source_medium = "https://medium.com/@phenrysay/0a6c86853dad"
 +++

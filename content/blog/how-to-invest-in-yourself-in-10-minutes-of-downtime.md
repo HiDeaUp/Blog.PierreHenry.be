@@ -5,9 +5,9 @@ date = "2025-08-17T17:26:17.081533"
 draft = false
 description = "Have you ever noticed how much time we spend just waiting? Waiting for the bus, waiting for a friend, standing in line, or sitting in a café with nothing urgent to do. Most of us let these moments..."
 summary = "Have you ever noticed how much time we spend just waiting? Waiting for the bus, waiting for a friend, standing in line, or sitting in a café with nothing urgent to do. Most of us let these moments..."
-tags = ["downtime productivity", "entrepreneurship", "mindfulness", "money", "personal growth", "productivity", "self-improvement", "tasks", "time management", "wealth"]
+tags = ["downtime productivity", "entrepreneurship", "mindfulness", "money", "personal growth", "productivity", "self-improvement", "self-transcendence", "tasks", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "Investissement sur soi. La nouvelle façon d'utiliser les temps morts ⏰"
 source_medium = "https://medium.com/@phenrysay/aa69edfc08ed"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T17:42:22.737038"
 draft = false
 description = "What if the best gift you could ever give yourself wasn’t something you could buy, but something you could feel? Peace and happiness—these are the treasures that matter most. They’re not about gran..."
 summary = "What if the best gift you could ever give yourself wasn’t something you could buy, but something you could feel? Peace and happiness—these are the treasures that matter most. They’re not about gran..."
-tags = ["happiness", "living in the present", "mindfulness", "money", "peace", "self-care"]
+tags = ["happiness", "living in the present", "mindfulness", "money", "peace", "self-care", "self-transcendence"]
 priority = true
-priority_topics = ["money"]
+priority_topics = ["money", "self-transcendence"]
 original_title = "Paix et bonheur : le cadeau le plus précieux que nous puissions nous offrir"
 source_medium = "https://medium.com/@phenrysay/b5305bf9908e"
 +++

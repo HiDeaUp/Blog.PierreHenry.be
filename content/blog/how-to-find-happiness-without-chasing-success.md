@@ -5,9 +5,9 @@ date = "2025-08-31T22:15:39.880258"
 draft = false
 description = "Many people believe that living a good life means chasing after success. We often think it’s about grabbing the biggest opportunities, getting the best degrees, landing the top jobs, and earning th..."
 summary = "Many people believe that living a good life means chasing after success. We often think it’s about grabbing the biggest opportunities, getting the best degrees, landing the top jobs, and earning th..."
-tags = ["entrepreneurship", "happiness", "life fulfillment", "money", "personal growth", "self-improvement", "success", "tasks"]
+tags = ["entrepreneurship", "happiness", "life fulfillment", "money", "personal growth", "self-improvement", "self-transcendence", "success", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Une vie épanouie… 🙃"
 source_medium = "https://medium.com/@phenrysay/8e13b93dc5cf"
 +++

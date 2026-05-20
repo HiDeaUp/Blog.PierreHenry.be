@@ -5,9 +5,9 @@ date = "2025-08-19T21:55:57.583537"
 draft = false
 description = "Happiness is something we all want. It’s natural, and it’s essential for feeling fulfilled. When we’re not happy, when we feel undervalued or uneasy, it’s like a plant that hasn’t been watered or d..."
 summary = "Happiness is something we all want. It’s natural, and it’s essential for feeling fulfilled. When we’re not happy, when we feel undervalued or uneasy, it’s like a plant that hasn’t been watered or d..."
-tags = ["happiness", "mental well-being", "overthinking", "philosophy", "productivity", "self-improvement"]
+tags = ["happiness", "mental well-being", "overthinking", "philosophy", "productivity", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "La philosophie du bonheur 😊"
 source_medium = "https://medium.com/@phenrysay/ccb68f84f442"
 +++

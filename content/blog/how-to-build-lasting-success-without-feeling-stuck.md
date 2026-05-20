@@ -5,9 +5,9 @@ date = "2025-08-25T18:35:42.071851"
 draft = false
 description = "](https://images.unsplash.com/photo1603205431143ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGVhcm5pbmclMjBzdHJhdGVnaWV..."
 summary = "](https://images.unsplash.com/photo1603205431143ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGVhcm5pbmclMjBzdHJhdGVnaWV..."
-tags = ["entrepreneurship", "growth mindset", "learning strategies", "money", "personal development", "productivity", "self-improvement", "success"]
+tags = ["entrepreneurship", "growth mindset", "learning strategies", "money", "personal development", "productivity", "self-improvement", "self-transcendence", "success"]
 priority = true
-priority_topics = ["money", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Construire sa réussite. Pourquoi apprendre différemment ?"
 source_medium = "https://medium.com/@phenrysay/6d372065af78"
 +++

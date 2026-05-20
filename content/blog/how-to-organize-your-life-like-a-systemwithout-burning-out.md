@@ -5,9 +5,9 @@ date = "2025-08-17T19:01:28.963180"
 draft = false
 description = "Have you ever thought about your days as if they were a system—a kind of engine that keeps you moving forward? Imagine using templates, not just for documents or emails, but for your life. Template..."
 summary = "Have you ever thought about your days as if they were a system—a kind of engine that keeps you moving forward? Imagine using templates, not just for documents or emails, but for your life. Template..."
-tags = ["daily routines", "habit building", "life organization", "productivity", "systems thinking", "tasks", "time management"]
+tags = ["daily routines", "habit building", "life organization", "productivity", "self-transcendence", "systems thinking", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment réorganiser sa vie comme un SYSTÈME ?"
 source_medium = "https://medium.com/@phenrysay/2d84abce6da6"
 +++

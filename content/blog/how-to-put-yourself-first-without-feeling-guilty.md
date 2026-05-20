@@ -5,9 +5,9 @@ date = "2025-08-24T13:56:54.296091"
 draft = false
 description = "We all have dreams and projects we want to bring to life. Maybe it’s launching your own startup, changing your lifestyle, or simply living the life you always imagined. Yet, days, months, and even..."
 summary = "We all have dreams and projects we want to bring to life. Maybe it’s launching your own startup, changing your lifestyle, or simply living the life you always imagined. Yet, days, months, and even..."
-tags = ["goal setting", "life design", "motivation", "nomad", "personal development", "productivity", "self improvement", "tasks", "time management"]
+tags = ["goal setting", "life design", "motivation", "nomad", "personal development", "productivity", "self improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["nomad", "time management", "tasks", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Des journées sur mesure 👌"
 source_medium = "https://medium.com/@phenrysay/0c7bf035ecde"
 +++

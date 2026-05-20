@@ -5,9 +5,9 @@ date = "2025-08-18T21:55:02.098951"
 draft = false
 description = "Feeling at ease with your environment—truly in tune with the place you are—can change everything. When you feel good in the space around you, when the atmosphere fits you, everything else seems to..."
 summary = "Feeling at ease with your environment—truly in tune with the place you are—can change everything. When you feel good in the space around you, when the atmosphere fits you, everything else seems to..."
-tags = ["environment", "harmony", "mindfulness", "money", "personal growth", "productivity", "wealth", "wellbeing"]
+tags = ["environment", "harmony", "mindfulness", "money", "personal growth", "productivity", "self-transcendence", "wealth", "wellbeing"]
 priority = true
-priority_topics = ["money", "wealth", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "productivity"]
 original_title = "Comment se sentir en harmonie avec l'environnement dans lequel on est ...?"
 source_medium = "https://medium.com/@phenrysay/6fbc42e87370"
 +++

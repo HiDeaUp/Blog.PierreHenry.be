@@ -5,9 +5,9 @@ date = "2025-08-20T12:24:01.347362"
 draft = false
 description = "Have you ever thought about having a real meeting with yourself? Not just a quick checkin, but a dedicated moment, like you would with your best friend or a trusted colleague. It might sound a bit..."
 summary = "Have you ever thought about having a real meeting with yourself? Not just a quick checkin, but a dedicated moment, like you would with your best friend or a trusted colleague. It might sound a bit..."
-tags = ["personal growth", "productivity", "self-improvement", "self-reflection", "success habits", "tasks", "time management", "weekly ritual"]
+tags = ["personal growth", "productivity", "self-improvement", "self-reflection", "self-transcendence", "success habits", "tasks", "time management", "weekly ritual"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Discussions qui mènent au SUCCÈS"
 source_medium = "https://medium.com/@phenrysay/083dbe1b69c7"
 +++

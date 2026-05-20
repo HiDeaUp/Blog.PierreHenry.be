@@ -5,9 +5,9 @@ date = "2025-08-20T12:15:35.256114"
 draft = false
 description = "Success often feels like a secret recipe, but looking back, I realize it comes down to three essential keys. These are not just theories—they are the very things that either propelled me forward or..."
 summary = "Success often feels like a secret recipe, but looking back, I realize it comes down to three essential keys. These are not just theories—they are the very things that either propelled me forward or..."
-tags = ["personal growth", "productivity", "self-improvement", "success", "tasks", "time management"]
+tags = ["personal growth", "productivity", "self-improvement", "self-transcendence", "success", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Facteurs déterminants pour réussir : Ce qui m'a fait perdre le plus de temps"
 source_medium = "https://medium.com/@phenrysay/56083b9aba62"
 +++

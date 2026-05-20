@@ -5,9 +5,9 @@ date = "2025-08-17T17:37:27.015370"
 draft = false
 description = "Expressing what we like—and what bothers us—should be normal. Yet, in society, we often hold back. We learn from a young age that saying things that might hurt others, even if we mean well, isn’t r..."
 summary = "Expressing what we like—and what bothers us—should be normal. Yet, in society, we often hold back. We learn from a young age that saying things that might hurt others, even if we mean well, isn’t r..."
-tags = ["communication", "emotional intelligence", "personal development", "productivity", "self-improvement", "social skills"]
+tags = ["communication", "emotional intelligence", "personal development", "productivity", "self-improvement", "self-transcendence", "social skills"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Comment maîtriser l'art de l'épanouissement en société ?"
 source_medium = "https://medium.com/@phenrysay/8d7f953cd7c0"
 +++

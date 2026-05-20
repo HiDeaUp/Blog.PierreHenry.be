@@ -5,9 +5,9 @@ date = "2025-08-25T18:07:33.541814"
 draft = false
 description = "Have you ever wondered how to create a life you actually enjoy? The answer lies in building your own story, shaping adventures, and making memories that matter. Living well is not about chasing end..."
 summary = "Have you ever wondered how to create a life you actually enjoy? The answer lies in building your own story, shaping adventures, and making memories that matter. Living well is not about chasing end..."
-tags = ["fulfillment", "life advice", "meaningful living", "money", "personal growth", "productivity", "tasks", "wealth", "wellbeing"]
+tags = ["fulfillment", "life advice", "meaningful living", "money", "personal growth", "productivity", "self-transcendence", "tasks", "wealth", "wellbeing"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "Peut-on bien vivre ? Explication dans cette vidéo !"
 source_medium = "https://medium.com/@phenrysay/fb5d9bae3541"
 +++

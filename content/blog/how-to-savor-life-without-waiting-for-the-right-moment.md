@@ -5,9 +5,9 @@ date = "2025-08-18T21:15:03.804603"
 draft = false
 description = "Life deserves to be lived to the fullest. Too often, we tell ourselves we need to save money, to be careful, to wait for the right moment. Of course, saving is important. But money comes and goes...."
 summary = "Life deserves to be lived to the fullest. Too often, we tell ourselves we need to save money, to be careful, to wait for the right moment. Of course, saving is important. But money comes and goes...."
-tags = ["life advice", "live fully", "mindfulness", "money", "productivity", "seize the day", "tasks", "well-being"]
+tags = ["life advice", "live fully", "mindfulness", "money", "productivity", "seize the day", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["money", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity"]
 original_title = "Croquer la vie pleine dents. Voici le manuel de vie qui va te permettre de t'aider à mieux vivre"
 source_medium = "https://medium.com/@phenrysay/e75ef9f6d5cf"
 +++

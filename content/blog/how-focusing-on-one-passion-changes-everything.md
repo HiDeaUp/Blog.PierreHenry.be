@@ -5,9 +5,9 @@ date = "2025-08-30T08:46:14.273186"
 draft = false
 description = "Have you ever felt so drawn to something that it takes over your thoughts, day and night? That’s what I want to talk about today: a gripping passion, the kind that doesn’t just fill your free time..."
 summary = "Have you ever felt so drawn to something that it takes over your thoughts, day and night? That’s what I want to talk about today: a gripping passion, the kind that doesn’t just fill your free time..."
-tags = ["focus", "life purpose", "motivation", "passion", "personal growth", "productivity"]
+tags = ["focus", "life purpose", "motivation", "passion", "personal growth", "productivity", "self-transcendence"]
 priority = true
-priority_topics = ["productivity"]
+priority_topics = ["self-transcendence", "productivity"]
 original_title = "Le secret de la vie … 🤫"
 source_medium = "https://medium.com/@phenrysay/9ffc9ba6ba09"
 +++

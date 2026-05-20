@@ -5,9 +5,9 @@ date = "2025-08-20T07:36:43.685100"
 draft = false
 description = "Have you ever wondered what it would feel like to truly live each day on your own terms? For the past two or three years, I’ve made a small but powerful habit part of my daily routine. Every mornin..."
 summary = "Have you ever wondered what it would feel like to truly live each day on your own terms? For the past two or three years, I’ve made a small but powerful habit part of my daily routine. Every mornin..."
-tags = ["daily habits", "happiness", "money", "morning rituals", "personal growth", "productivity", "self-improvement", "tasks", "tech"]
+tags = ["daily habits", "happiness", "money", "morning rituals", "personal growth", "productivity", "self-improvement", "self-transcendence", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "money", "tasks", "productivity"]
+priority_topics = ["tech", "money", "self-transcendence", "tasks", "productivity"]
 original_title = "Vivre ses journées à sa façon"
 source_medium = "https://medium.com/@phenrysay/8be9090f2635"
 +++

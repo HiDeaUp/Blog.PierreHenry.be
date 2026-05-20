@@ -5,9 +5,9 @@ date = "2025-08-24T13:58:14.150269"
 draft = false
 description = "We all want to live well. We all want to savor life, to truly taste each moment. But sometimes, we get lost. Sometimes, we don’t really know where we’re headed, or if the things we’re doing are the..."
 summary = "We all want to live well. We all want to savor life, to truly taste each moment. But sometimes, we get lost. Sometimes, we don’t really know where we’re headed, or if the things we’re doing are the..."
-tags = ["life enjoyment", "mindfulness", "personal growth", "self-discovery", "tasks", "well-being"]
+tags = ["life enjoyment", "mindfulness", "personal growth", "self-discovery", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Comment savourer une vie magnifique ? Est-ce faisable ?"
 source_medium = "https://medium.com/@phenrysay/e9c26de1e144"
 +++

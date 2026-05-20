@@ -5,9 +5,9 @@ date = "2025-08-31T21:39:33.883703"
 draft = false
 description = "Anger is a powerful force. Most of us have felt it rise up in moments when things go wrong, when someone crosses a line, or when we feel cheated. The usual advice is to calm down, to avoid saying t..."
 summary = "Anger is a powerful force. Most of us have felt it rise up in moments when things go wrong, when someone crosses a line, or when we feel cheated. The usual advice is to calm down, to avoid saying t..."
-tags = ["anger management", "emotional intelligence", "entrepreneurship", "money", "motivation", "nomad", "personal growth", "self-improvement", "tasks"]
+tags = ["anger management", "emotional intelligence", "entrepreneurship", "money", "motivation", "nomad", "personal growth", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["nomad", "money", "tasks", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Capturer son énergie colérique à son avantage"
 source_medium = "https://medium.com/@phenrysay/8fac7fd288eb"
 +++

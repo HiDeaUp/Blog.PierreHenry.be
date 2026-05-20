@@ -5,9 +5,9 @@ date = "2025-08-31T19:41:12.478146"
 draft = false
 description = "Sitting on my balcony, soaking in the sun and the view, I can’t help but reflect on what freedom really means. Many people dream of traveling the world, but often feel limited by their circumstance..."
 summary = "Sitting on my balcony, soaking in the sun and the view, I can’t help but reflect on what freedom really means. Many people dream of traveling the world, but often feel limited by their circumstance..."
-tags = ["comparison", "entrepreneurship", "life reflections", "mindfulness", "money", "nomad", "personal freedom", "productivity", "self-acceptance"]
+tags = ["comparison", "entrepreneurship", "life reflections", "mindfulness", "money", "nomad", "personal freedom", "productivity", "self-acceptance", "self-transcendence"]
 priority = true
-priority_topics = ["nomad", "money", "productivity", "entrepreneurship"]
+priority_topics = ["nomad", "money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "🎉 Vivre une vie (enfin) libre 🎯"
 source_medium = "https://medium.com/@phenrysay/82a840a6c3d9"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-30T14:05:54.723058"
 draft = false
 description = "Finding inspiration in many things throughout your day is more than just a nice habit—it’s essential for your personal growth, happiness, and building a better future. Drawing from what surrounds u..."
 summary = "Finding inspiration in many things throughout your day is more than just a nice habit—it’s essential for your personal growth, happiness, and building a better future. Drawing from what surrounds u..."
-tags = ["future", "inspiration", "mindfulness", "nomad", "personal growth", "self improvement"]
+tags = ["future", "inspiration", "mindfulness", "nomad", "personal growth", "self improvement", "self-transcendence"]
 priority = true
-priority_topics = ["nomad"]
+priority_topics = ["nomad", "self-transcendence"]
 original_title = "La clé de la multitude 💥"
 source_medium = "https://medium.com/@phenrysay/e06dff0d946d"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T09:21:34.227345"
 draft = false
 description = "We all want to accomplish something meaningful. Beyond our regular jobs, there’s often a need for a mission—a project or hobby that gives us a sense of purpose. It’s not always about money. Sometim..."
 summary = "We all want to accomplish something meaningful. Beyond our regular jobs, there’s often a need for a mission—a project or hobby that gives us a sense of purpose. It’s not always about money. Sometim..."
-tags = ["dreams", "goal setting", "money", "passion projects", "personal mission", "self-improvement", "tasks"]
+tags = ["dreams", "goal setting", "money", "passion projects", "personal mission", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "VISER GRAND POUR RÉALISER TES RÊVES – VOICI CE QUI M’A AIDÉ"
 source_medium = "https://medium.com/@phenrysay/9aad556b31db"
 +++

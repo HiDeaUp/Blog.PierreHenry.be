@@ -5,9 +5,9 @@ date = "2025-08-30T09:42:36.383494"
 draft = false
 description = "Stress is something we all know too well. Sometimes, it creeps in as worry, and other times, it feels like a heavy weight from past experiences. This stress can freeze us, making it hard to do even..."
 summary = "Stress is something we all know too well. Sometimes, it creeps in as worry, and other times, it feels like a heavy weight from past experiences. This stress can freeze us, making it hard to do even..."
-tags = ["anxiety relief", "coping strategies", "entrepreneurship", "mental health", "productivity", "self-care", "stress management", "tasks"]
+tags = ["anxiety relief", "coping strategies", "entrepreneurship", "mental health", "productivity", "self-care", "self-transcendence", "stress management", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Comment diminuer son stress ? 😣"
 source_medium = "https://medium.com/@phenrysay/109f31bf8153"
 +++

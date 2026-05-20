@@ -5,7 +5,9 @@ date = "2025-08-24T15:10:11.939448"
 draft = false
 description = "Taking time for yourself is not just a luxury; it is a real necessity for your wellbeing. Imagine a moment in your day when you pause, make yourself a hot chocolate, grab a few biscuits, and simply..."
 summary = "Taking time for yourself is not just a luxury; it is a real necessity for your wellbeing. Imagine a moment in your day when you pause, make yourself a hot chocolate, grab a few biscuits, and simply..."
-tags = ["daily rituals", "mindfulness", "relaxation", "self-care", "well-being"]
+tags = ["daily rituals", "mindfulness", "relaxation", "self-care", "self-transcendence", "well-being"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Comment prendre du bon temps pour soi ? 😊"
 source_medium = "https://medium.com/@phenrysay/80a4591262cb"
 +++

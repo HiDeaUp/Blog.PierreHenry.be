@@ -5,9 +5,9 @@ date = "2025-08-30T10:59:42.110210"
 draft = false
 description = "When you draw inspiration naturally, when you feel good in your daily life, everything else tends to fall into place. There’s a wellknown phrase in English: Everything will be fine. It’s something..."
 summary = "When you draw inspiration naturally, when you feel good in your daily life, everything else tends to fall into place. There’s a wellknown phrase in English: Everything will be fine. It’s something..."
-tags = ["inspiration", "life lessons", "mindfulness", "money", "personal growth", "productivity", "tech", "wealth", "wellbeing"]
+tags = ["inspiration", "life lessons", "mindfulness", "money", "personal growth", "productivity", "self-transcendence", "tech", "wealth", "wellbeing"]
 priority = true
-priority_topics = ["tech", "money", "wealth", "productivity"]
+priority_topics = ["tech", "money", "wealth", "self-transcendence", "productivity"]
 original_title = "L’inspiration qui détourne 🚀"
 source_medium = "https://medium.com/@phenrysay/d82b6c04959c"
 +++

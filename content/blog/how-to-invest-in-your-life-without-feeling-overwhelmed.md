@@ -5,9 +5,9 @@ date = "2025-08-24T16:18:14.607298"
 draft = false
 description = "Investing in your daily life is not just important, it is essential. The more you pour yourself into something and let it become your main focus, the more your success will revolve around it. When..."
 summary = "Investing in your daily life is not just important, it is essential. The more you pour yourself into something and let it become your main focus, the more your success will revolve around it. When..."
-tags = ["focus", "fulfillment", "life investment", "money", "personal development", "productivity", "self improvement", "tasks", "time management", "wealth"]
+tags = ["focus", "fulfillment", "life investment", "money", "personal development", "productivity", "self improvement", "self-transcendence", "tasks", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment investir dans sa vie ? (j'explique TOUT)"
 source_medium = "https://medium.com/@phenrysay/58a91045472d"
 +++

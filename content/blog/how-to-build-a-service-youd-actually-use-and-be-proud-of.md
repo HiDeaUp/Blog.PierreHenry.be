@@ -5,9 +5,9 @@ date = "2025-08-30T08:00:02.355456"
 draft = false
 description = "Creating a service that truly stands out is not about chasing every feature or trying to please everyone. The real recipe is much simpler: build something you’re genuinely proud of, something you’d..."
 summary = "Creating a service that truly stands out is not about chasing every feature or trying to please everyone. The real recipe is much simpler: build something you’re genuinely proud of, something you’d..."
-tags = ["entrepreneurship", "product development", "productivity", "service design", "side business", "startup advice", "time management"]
+tags = ["entrepreneurship", "product development", "productivity", "self-transcendence", "service design", "side business", "startup advice", "time management"]
 priority = true
-priority_topics = ["time management", "productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "time management", "productivity", "entrepreneurship"]
 original_title = "PROPOSER UN SERVICE QUI DÉCHIRE ! VOICI CE QUE JE TE PROPOSE POUR TON SIDE-BUSINESS"
 source_medium = "https://medium.com/@phenrysay/02aefdbd6693"
 +++

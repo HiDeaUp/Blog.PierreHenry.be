@@ -5,9 +5,9 @@ date = "2025-08-25T18:58:39.115135"
 draft = false
 description = "When people talk about investing, they usually mean money, knowledge, or maybe even energy. But how often do we talk about investing in our own happiness and fulfillment? The truth is, the level of..."
 summary = "When people talk about investing, they usually mean money, knowledge, or maybe even energy. But how often do we talk about investing in our own happiness and fulfillment? The truth is, the level of..."
-tags = ["fulfillment", "habits", "money", "personal development", "productivity", "self-investment", "success", "time management", "wealth"]
+tags = ["fulfillment", "habits", "money", "personal development", "productivity", "self-investment", "self-transcendence", "success", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "productivity"]
 original_title = "INVESTIR SON ÉPANOUISSEMENT"
 source_medium = "https://medium.com/@phenrysay/8c93e4e30e6b"
 +++

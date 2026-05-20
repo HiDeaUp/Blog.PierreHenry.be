@@ -5,9 +5,9 @@ date = "2025-08-24T14:19:32.454082"
 draft = false
 description = "We all want a life that feels right for us. We dream of doing meaningful things, building something solid, and feeling truly fulfilled. Yet, there are moments when we feel lost. Maybe you want to s..."
 summary = "We all want a life that feels right for us. We dream of doing meaningful things, building something solid, and feeling truly fulfilled. Yet, there are moments when we feel lost. Maybe you want to s..."
-tags = ["entrepreneurship", "fulfillment", "life purpose", "meaningful living", "money", "personal growth", "productivity", "self improvement"]
+tags = ["entrepreneurship", "fulfillment", "life purpose", "meaningful living", "money", "personal growth", "productivity", "self improvement", "self-transcendence"]
 priority = true
-priority_topics = ["money", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Comment vivre une vie épanouie ?"
 source_medium = "https://medium.com/@phenrysay/701adcfc395f"
 +++

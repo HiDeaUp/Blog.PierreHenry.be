@@ -5,9 +5,9 @@ date = "2025-08-21T15:48:00.596211"
 draft = false
 description = "Being efficient every day starts with having a routine—a clear action plan you follow daily, almost like a template. When you repeat this plan day after day, it becomes a habit. Over time, it turns..."
 summary = "Being efficient every day starts with having a routine—a clear action plan you follow daily, almost like a template. When you repeat this plan day after day, it becomes a habit. Over time, it turns..."
-tags = ["efficiency", "productivity", "routine", "self improvement", "tasks", "time management"]
+tags = ["efficiency", "productivity", "routine", "self improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "EFFICACITÉ: LA STRUCTURE EXACTE POUR FAIRE MIEUX PLUS RAPIDEMENT"
 source_medium = "https://medium.com/@phenrysay/f47c534c7b37"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-17T18:22:31.048768"
 draft = false
 description = "Have you ever noticed how certain places make you feel lighter, more inspired, or simply at peace? The environments we choose to spend time in are much more than a backdrop to our lives—they can be..."
 summary = "Have you ever noticed how certain places make you feel lighter, more inspired, or simply at peace? The environments we choose to spend time in are much more than a backdrop to our lives—they can be..."
-tags = ["entrepreneurship", "environment", "habits", "mindfulness", "personal growth", "well-being"]
+tags = ["entrepreneurship", "environment", "habits", "mindfulness", "personal growth", "self-transcendence", "well-being"]
 priority = true
-priority_topics = ["entrepreneurship"]
+priority_topics = ["self-transcendence", "entrepreneurship"]
 original_title = "Transformer sa vie en utilisant les lieux comme piliers pour s'élever"
 source_medium = "https://medium.com/@phenrysay/372222fb00cf"
 +++

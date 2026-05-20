@@ -5,9 +5,9 @@ date = "2025-08-24T15:26:12.376110"
 draft = false
 description = "Have you ever thought about becoming the architect of your own days? Not just letting time slip by, but actually designing your daily life with care and intention. This idea is simple, but it can c..."
 summary = "Have you ever thought about becoming the architect of your own days? Not just letting time slip by, but actually designing your daily life with care and intention. This idea is simple, but it can c..."
-tags = ["daily routine", "life design", "personal development", "productivity", "tasks", "time management"]
+tags = ["daily routine", "life design", "personal development", "productivity", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment architecturer ses journées"
 source_medium = "https://medium.com/@phenrysay/7e475e0148de"
 +++

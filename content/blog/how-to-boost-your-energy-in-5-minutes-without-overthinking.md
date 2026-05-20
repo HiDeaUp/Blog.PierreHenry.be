@@ -5,9 +5,9 @@ date = "2025-06-08T06:27:25.114170"
 draft = false
 description = "The real secret to feeling good is surprisingly simple: do things that make you happy. That’s it. But let’s be honest, it’s not always easy to put this into practice. There’s always something else..."
 summary = "The real secret to feeling good is surprisingly simple: do things that make you happy. That’s it. But let’s be honest, it’s not always easy to put this into practice. There’s always something else..."
-tags = ["energy boost", "mindfulness", "morning routine", "nomad", "productivity", "productivity tips", "tasks", "wellness"]
+tags = ["energy boost", "mindfulness", "morning routine", "nomad", "productivity", "productivity tips", "self-transcendence", "tasks", "wellness"]
 priority = true
-priority_topics = ["nomad", "tasks", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "tasks", "productivity"]
 original_title = "Recharge ton Énergie en 5 Minutes : Deviens Dynamique dès Maintenant !"
 source_medium = "https://medium.com/@phenrysay/92ae01350b3e"
 +++

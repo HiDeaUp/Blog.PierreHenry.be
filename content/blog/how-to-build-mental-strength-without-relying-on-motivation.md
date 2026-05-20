@@ -5,9 +5,9 @@ date = "2025-09-10T10:01:48.536497"
 draft = false
 description = "Mental strength is a gamechanger. Waking up with a clear sense of purpose, knowing exactly what you want to achieve or what you want to change in your daily routine, can transform everything. It’s..."
 summary = "Mental strength is a gamechanger. Waking up with a clear sense of purpose, knowing exactly what you want to achieve or what you want to change in your daily routine, can transform everything. It’s..."
-tags = ["mental strength", "mindset", "morning routine", "motivation", "personal development", "tech"]
+tags = ["mental strength", "mindset", "morning routine", "motivation", "personal development", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech"]
+priority_topics = ["tech", "self-transcendence"]
 original_title = "☀️ Force Mental 💪"
 source_medium = "https://medium.com/@phenrysay/bd6c64f06085"
 +++

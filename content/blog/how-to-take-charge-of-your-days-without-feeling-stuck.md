@@ -5,9 +5,9 @@ date = "2025-08-17T18:16:17.313716"
 draft = false
 description = "Have you ever felt like your life is just slipping away, day after day, without you really doing anything about it? Maybe you feel stuck, unhappy, and you don’t see many options for change. If you..."
 summary = "Have you ever felt like your life is just slipping away, day after day, without you really doing anything about it? Maybe you feel stuck, unhappy, and you don’t see many options for change. If you..."
-tags = ["life planning", "money", "motivation", "productivity", "self-improvement", "tasks", "time management"]
+tags = ["life planning", "money", "motivation", "productivity", "self-improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment éviter de perdre du temps ?"
 source_medium = "https://medium.com/@phenrysay/41ebd2a2ce4a"
 +++

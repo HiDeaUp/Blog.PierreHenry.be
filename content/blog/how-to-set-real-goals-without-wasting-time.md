@@ -5,9 +5,9 @@ date = "2025-08-17T18:14:14.141010"
 draft = false
 description = "Have you ever found yourself busy all day, yet feeling like you haven’t accomplished anything meaningful? There’s a simple reason for this: most people don’t know exactly what they want to achieve...."
 summary = "Have you ever found yourself busy all day, yet feeling like you haven’t accomplished anything meaningful? There’s a simple reason for this: most people don’t know exactly what they want to achieve...."
-tags = ["goal setting", "personal development", "productivity", "success strategies", "tasks", "time management"]
+tags = ["goal setting", "personal development", "productivity", "self-transcendence", "success strategies", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Créer des objectifs efficaces. Ma méthode spéciale pour réussir"
 source_medium = "https://medium.com/@phenrysay/63d65a565a07"
 +++

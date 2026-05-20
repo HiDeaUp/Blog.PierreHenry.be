@@ -5,9 +5,9 @@ date = "2025-08-19T23:21:17.390420"
 draft = false
 description = "Having a vision is not just about dreaming big. It is about building something that lasts, something that grows with you over time. A good vision is simple, yet it allows you to set new goals as yo..."
 summary = "Having a vision is not just about dreaming big. It is about building something that lasts, something that grows with you over time. A good vision is simple, yet it allows you to set new goals as yo..."
-tags = ["life direction", "personal growth", "productivity", "purpose", "self-improvement", "tasks", "time management", "vision"]
+tags = ["life direction", "personal growth", "productivity", "purpose", "self-improvement", "self-transcendence", "tasks", "time management", "vision"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Vision : Pourquoi Trouver Sa Raison d'Être ?"
 source_medium = "https://medium.com/@phenrysay/6e5c46585d77"
 +++

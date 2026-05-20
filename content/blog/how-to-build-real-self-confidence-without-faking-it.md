@@ -5,7 +5,9 @@ date = "2025-08-30T09:16:46.124984"
 draft = false
 description = "Selfconfidence is not just a buzzword. It is the foundation of personal growth and wellbeing. When you feel good about yourself, you open the door to bigger dreams and greater achievements. The mor..."
 summary = "Selfconfidence is not just a buzzword. It is the foundation of personal growth and wellbeing. When you feel good about yourself, you open the door to bigger dreams and greater achievements. The mor..."
-tags = ["fulfillment", "life design", "personal growth", "self-confidence", "well-being"]
+tags = ["fulfillment", "life design", "personal growth", "self-confidence", "self-transcendence", "well-being"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Une vie qui te ressemble ✨"
 source_medium = "https://medium.com/@phenrysay/9ce87e182309"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-22T20:27:19.803429"
 draft = false
 description = "Taking care of your personal energy is more important than most people realize. Throughout the day, our energy levels go up and down. Sometimes, we feel so drained that we lose all motivation. It’s..."
 summary = "Taking care of your personal energy is more important than most people realize. Throughout the day, our energy levels go up and down. Sometimes, we feel so drained that we lose all motivation. It’s..."
-tags = ["energy", "motivation", "personal development", "productivity", "self-care", "tasks", "wellness"]
+tags = ["energy", "motivation", "personal development", "productivity", "self-care", "self-transcendence", "tasks", "wellness"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment changer son état d'énergie ?"
 source_medium = "https://medium.com/@phenrysay/6fe4818874a0"
 +++

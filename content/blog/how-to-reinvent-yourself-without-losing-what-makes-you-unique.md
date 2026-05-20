@@ -5,9 +5,9 @@ date = "2025-06-08T05:37:23.458442"
 draft = false
 description = "Reinvention is not just a buzzword—it’s a way of living that keeps you awake to new opportunities and helps you grow. It’s easy to get stuck in routines, especially when your current methods or per..."
 summary = "Reinvention is not just a buzzword—it’s a way of living that keeps you awake to new opportunities and helps you grow. It’s easy to get stuck in routines, especially when your current methods or per..."
-tags = ["mindfulness", "money", "nomad", "personal growth", "reinvention", "self-improvement", "success habits", "tasks"]
+tags = ["mindfulness", "money", "nomad", "personal growth", "reinvention", "self-improvement", "self-transcendence", "success habits", "tasks"]
 priority = true
-priority_topics = ["nomad", "money", "tasks"]
+priority_topics = ["nomad", "money", "self-transcendence", "tasks"]
 original_title = "Comment se réinventer ? Mon “Success Loop”"
 source_medium = "https://medium.com/@phenrysay/628ee08448c5"
 +++

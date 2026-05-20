@@ -5,9 +5,9 @@ date = "2025-08-25T19:15:30.322023"
 draft = false
 description = "There are days when happiness feels out of reach. We go through the motions, feeling unfulfilled or frustrated, often because we’re stuck on something or desperate to finish a task. Instead of list..."
 summary = "There are days when happiness feels out of reach. We go through the motions, feeling unfulfilled or frustrated, often because we’re stuck on something or desperate to finish a task. Instead of list..."
-tags = ["happiness", "instant joy", "mindfulness", "nomad", "self-improvement", "tasks", "time management", "wellbeing"]
+tags = ["happiness", "instant joy", "mindfulness", "nomad", "self-improvement", "self-transcendence", "tasks", "time management", "wellbeing"]
 priority = true
-priority_topics = ["nomad", "time management", "tasks"]
+priority_topics = ["nomad", "self-transcendence", "time management", "tasks"]
 original_title = "Bonheur RAPIDE™ Les Secrets ✨"
 source_medium = "https://medium.com/@phenrysay/17b5f44ea32d"
 +++

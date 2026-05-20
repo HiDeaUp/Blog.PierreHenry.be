@@ -5,9 +5,9 @@ date = "2025-08-31T21:58:11.511203"
 draft = false
 description = "Have you ever noticed how some people wake up on Monday mornings with the same energy and excitement most of us reserve for Friday afternoons? The secret often lies in having a passion project—a sm..."
 summary = "Have you ever noticed how some people wake up on Monday mornings with the same energy and excitement most of us reserve for Friday afternoons? The secret often lies in having a passion project—a sm..."
-tags = ["challenges", "entrepreneurship", "money", "motivation", "passion projects", "personal growth", "tasks", "wealth", "work-life balance"]
+tags = ["challenges", "entrepreneurship", "money", "motivation", "passion projects", "personal growth", "self-transcendence", "tasks", "wealth", "work-life balance"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "C’est quoi ton projet-passion ? 🍰"
 source_medium = "https://medium.com/@phenrysay/ca0f6efdd6eb"
 +++

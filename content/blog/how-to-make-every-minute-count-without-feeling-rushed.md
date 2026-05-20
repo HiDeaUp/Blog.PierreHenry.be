@@ -5,9 +5,9 @@ date = "2025-09-10T10:12:27.131693"
 draft = false
 description = "Time is like a train. It never waits. It doesn’t pause for anyone, and if you miss it, you can’t buy back those lost minutes. There’s no way to rewind or stretch out the day. We all have the same 2..."
 summary = "Time is like a train. It never waits. It doesn’t pause for anyone, and if you miss it, you can’t buy back those lost minutes. There’s no way to rewind or stretch out the day. We all have the same 2..."
-tags = ["appreciation", "living in the moment", "mindfulness", "present moment", "productivity", "tasks", "time management"]
+tags = ["appreciation", "living in the moment", "mindfulness", "present moment", "productivity", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Importance du présent ⏰"
 source_medium = "https://medium.com/@phenrysay/9a1df7fb0243"
 +++

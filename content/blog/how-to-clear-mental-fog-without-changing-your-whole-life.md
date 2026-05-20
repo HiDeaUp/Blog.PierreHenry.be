@@ -5,9 +5,9 @@ date = "2025-08-18T17:48:03.250326"
 draft = false
 description = "Mental pollution is something we all deal with, even if we don’t always notice it. Sometimes, it sneaks up on us during what should be a pleasant moment. Maybe you’re enjoying a meal at a restauran..."
 summary = "Mental pollution is something we all deal with, even if we don’t always notice it. Sometimes, it sneaks up on us during what should be a pleasant moment. Maybe you’re enjoying a meal at a restauran..."
-tags = ["emotional wellbeing", "mental clarity", "mental detox", "mindfulness", "money", "stress management"]
+tags = ["emotional wellbeing", "mental clarity", "mental detox", "mindfulness", "money", "self-transcendence", "stress management"]
 priority = true
-priority_topics = ["money"]
+priority_topics = ["money", "self-transcendence"]
 original_title = "Détox Mentale : Comment Éliminer les Toxines Invisibles qui Paralysent Votre Pensée ?"
 source_medium = "https://medium.com/@phenrysay/8e981e252a62"
 +++

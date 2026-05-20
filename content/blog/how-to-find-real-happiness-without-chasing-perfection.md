@@ -5,9 +5,9 @@ date = "2025-09-03T08:27:21.723654"
 draft = false
 description = "What does it really mean to have a fulfilling life? This question comes up again and again, and for good reason. I believe the purpose of life is to be fulfilled, to be happy, and to live a life th..."
 summary = "What does it really mean to have a fulfilling life? This question comes up again and again, and for good reason. I believe the purpose of life is to be fulfilled, to be happy, and to live a life th..."
-tags = ["entrepreneurship", "fulfillment", "happiness", "life purpose", "money", "personal growth", "tasks", "wellbeing"]
+tags = ["entrepreneurship", "fulfillment", "happiness", "life purpose", "money", "personal growth", "self-transcendence", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["money", "tasks", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Comment Avoir Une Vie Épanouie ✨"
 source_medium = "https://medium.com/@phenrysay/33014bc2f02d"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-31T19:30:22.593486"
 draft = false
 description = "Have you ever noticed how quickly the weekend slips away? You wake up, maybe it's already 9 or 10 in the morning. Sure, it's Saturday or Sunday, and you don't have to work. But time flies. Suddenly..."
 summary = "Have you ever noticed how quickly the weekend slips away? You wake up, maybe it's already 9 or 10 in the morning. Sure, it's Saturday or Sunday, and you don't have to work. But time flies. Suddenly..."
-tags = ["entrepreneurship", "goal setting", "morning routine", "motivation", "productivity", "purpose", "tech"]
+tags = ["entrepreneurship", "goal setting", "morning routine", "motivation", "productivity", "purpose", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "productivity", "entrepreneurship"]
+priority_topics = ["tech", "self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Avoir un but spécifique dans ses journées 🚀"
 source_medium = "https://medium.com/@phenrysay/642587538cdc"
 +++

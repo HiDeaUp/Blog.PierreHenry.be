@@ -5,9 +5,9 @@ date = "2025-08-20T12:10:17.313404"
 draft = false
 description = "Living a life that feels truly yours starts with how you see your days and what you do with them. It’s not just about what you achieve, but how you shape your habits and routines. Having a clear vi..."
 summary = "Living a life that feels truly yours starts with how you see your days and what you do with them. It’s not just about what you achieve, but how you shape your habits and routines. Having a clear vi..."
-tags = ["habit building", "life management", "mindset shift", "money", "personal growth", "productivity", "self-improvement", "tasks", "tech", "wealth"]
+tags = ["habit building", "life management", "mindset shift", "money", "personal growth", "productivity", "self-improvement", "self-transcendence", "tasks", "tech", "wealth"]
 priority = true
-priority_topics = ["tech", "money", "wealth", "tasks", "productivity"]
+priority_topics = ["tech", "money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "Comment se réapproprier sa vie ?"
 source_medium = "https://medium.com/@phenrysay/ae91903a0de9"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-25T19:22:06.686570"
 draft = false
 description = "Finding motivation isn’t always about grand gestures or big changes. Sometimes, it’s about the small, quiet moments you give yourself before the day really begins. Having a calm morning routine, ev..."
 summary = "Finding motivation isn’t always about grand gestures or big changes. Sometimes, it’s about the small, quiet moments you give yourself before the day really begins. Having a calm morning routine, ev..."
-tags = ["daily habits", "entrepreneurship", "money", "morning routine", "motivation", "personal growth", "self-improvement", "time management"]
+tags = ["daily habits", "entrepreneurship", "money", "morning routine", "motivation", "personal growth", "self-improvement", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["money", "time management", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "time management", "entrepreneurship"]
 original_title = "Se sentir motivé. Quel est le secret ?"
 source_medium = "https://medium.com/@phenrysay/fb1c35aa87e8"
 +++

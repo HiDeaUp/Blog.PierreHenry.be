@@ -5,9 +5,9 @@ date = "2025-08-31T19:22:24.083436"
 draft = false
 description = "When we talk about vision, most people think of big dreams and longterm goals. But there’s another kind of vision that can be just as powerful: the shortterm vision. This is the kind of vision that..."
 summary = "When we talk about vision, most people think of big dreams and longterm goals. But there’s another kind of vision that can be just as powerful: the shortterm vision. This is the kind of vision that..."
-tags = ["daily habits", "personal fulfillment", "productive vision", "productivity", "self-improvement", "short-term goals", "tasks"]
+tags = ["daily habits", "personal fulfillment", "productive vision", "productivity", "self-improvement", "self-transcendence", "short-term goals", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Qu’est ce que la Vision Productive"
 source_medium = "https://medium.com/@phenrysay/a35712bc8549"
 +++

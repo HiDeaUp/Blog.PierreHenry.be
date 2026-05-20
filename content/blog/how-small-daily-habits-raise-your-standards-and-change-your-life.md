@@ -5,9 +5,9 @@ date = "2025-08-19T23:17:26.549203"
 draft = false
 description = "Have you ever wondered why some people seem to have it all together, while others drift through their days without direction? The answer often lies in the small, daily choices we make—especially th..."
 summary = "Have you ever wondered why some people seem to have it all together, while others drift through their days without direction? The answer often lies in the small, daily choices we make—especially th..."
-tags = ["daily habits", "life transformation", "motivation", "personal growth", "productivity", "self-improvement", "tasks", "time management"]
+tags = ["daily habits", "life transformation", "motivation", "personal growth", "productivity", "self-improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Deviens la MEILLEURE VERSION de toi-même ! Les clés d'une vie pleinement épanouie"
 source_medium = "https://medium.com/@phenrysay/3ac091c5b359"
 +++

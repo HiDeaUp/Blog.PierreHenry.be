@@ -5,7 +5,9 @@ date = "2025-06-07T23:35:35.298047"
 draft = false
 description = "Have you ever noticed how certain places instantly make you feel lighter, more creative, or simply at peace? Our environment is more than just a backdrop to our lives—it can be a real source of ene..."
 summary = "Have you ever noticed how certain places instantly make you feel lighter, more creative, or simply at peace? Our environment is more than just a backdrop to our lives—it can be a real source of ene..."
-tags = ["environment", "inspiration", "mindfulness", "personal growth", "well-being"]
+tags = ["environment", "inspiration", "mindfulness", "personal growth", "self-transcendence", "well-being"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Transformer sa vie en utilisant les lieux et l'environnement comme piliers pour s'élever"
 source_medium = "https://medium.com/@phenrysay/bf8b4a3708c2"
 +++

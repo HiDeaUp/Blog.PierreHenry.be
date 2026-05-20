@@ -5,9 +5,9 @@ date = "2025-08-31T18:06:34.608608"
 draft = false
 description = "Learning how to relax is essential for regaining energy and feeling good again. It’s a bit like reaching the end of a long walk—maybe you’ve walked for hours, even fifty kilometers in a day and a n..."
 summary = "Learning how to relax is essential for regaining energy and feeling good again. It’s a bit like reaching the end of a long walk—maybe you’ve walked for hours, even fifty kilometers in a day and a n..."
-tags = ["entrepreneurship", "mindfulness", "productivity", "relaxation", "self-care", "stress relief", "wellness"]
+tags = ["entrepreneurship", "mindfulness", "productivity", "relaxation", "self-care", "self-transcendence", "stress relief", "wellness"]
 priority = true
-priority_topics = ["productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Session de relaxation ENSEMBLE™"
 source_medium = "https://medium.com/@phenrysay/61454ddec13c"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-25T19:17:02.204236"
 draft = false
 description = "Let’s talk about vision. Not the kind you need glasses for, but the kind that gives your life direction. There’s something powerful about waking up with a plan, knowing exactly what you want to ach..."
 summary = "Let’s talk about vision. Not the kind you need glasses for, but the kind that gives your life direction. There’s something powerful about waking up with a plan, knowing exactly what you want to ach..."
-tags = ["goal setting", "life control", "motivation", "personal development", "productivity", "tasks", "time management", "vision"]
+tags = ["goal setting", "life control", "motivation", "personal development", "productivity", "self-transcendence", "tasks", "time management", "vision"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment reprendre contrôle de sa vie …?"
 source_medium = "https://medium.com/@phenrysay/6356b577171a"
 +++

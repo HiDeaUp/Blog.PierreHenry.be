@@ -5,9 +5,9 @@ date = "2025-06-08T03:21:59.494510"
 draft = false
 description = "Have you ever noticed how hard it is to truly enjoy the present? We often hear about the importance of “living in the moment,” but putting it into practice is another story. Let me share what I’ve..."
 summary = "Have you ever noticed how hard it is to truly enjoy the present? We often hear about the importance of “living in the moment,” but putting it into practice is another story. Let me share what I’ve..."
-tags = ["happiness", "living in the present", "mindfulness", "money", "personal experience", "tasks", "well-being"]
+tags = ["happiness", "living in the present", "mindfulness", "money", "personal experience", "self-transcendence", "tasks", "well-being"]
 priority = true
-priority_topics = ["money", "tasks"]
+priority_topics = ["money", "self-transcendence", "tasks"]
 original_title = "Ce qu'on ne te dit pas sur le bien-être : Mon retour d'expérience sincère"
 source_medium = "https://medium.com/@phenrysay/17100d23c342"
 +++

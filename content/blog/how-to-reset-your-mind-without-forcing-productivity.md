@@ -5,9 +5,9 @@ date = "2025-08-30T12:51:37.376632"
 draft = false
 description = "There are days when energy and enthusiasm seem to vanish. You reach a point where you just can’t keep going, even though you know you once loved what you were doing. I remember my years as a freela..."
 summary = "There are days when energy and enthusiasm seem to vanish. You reach a point where you just can’t keep going, even though you know you once loved what you were doing. I remember my years as a freela..."
-tags = ["mental health", "mindfulness", "money", "nature therapy", "nomad", "productivity", "rest", "self-care"]
+tags = ["mental health", "mindfulness", "money", "nature therapy", "nomad", "productivity", "rest", "self-care", "self-transcendence"]
 priority = true
-priority_topics = ["nomad", "money", "productivity"]
+priority_topics = ["nomad", "money", "self-transcendence", "productivity"]
 original_title = "Allègement mental"
 source_medium = "https://medium.com/@phenrysay/bcd2ea3dfb71"
 +++

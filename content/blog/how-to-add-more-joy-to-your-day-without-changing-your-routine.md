@@ -5,9 +5,9 @@ date = "2025-08-24T16:23:45.883195"
 draft = false
 description = "Have you ever noticed how a single happy moment can turn a dull day into something special? Sometimes, all it takes is a little intention to sprinkle more joy into our lives. Let me share a simple..."
 summary = "Have you ever noticed how a single happy moment can turn a dull day into something special? Sometimes, all it takes is a little intention to sprinkle more joy into our lives. Let me share a simple..."
-tags = ["daily rituals", "happiness", "mindfulness", "money", "positivity", "wellbeing"]
+tags = ["daily rituals", "happiness", "mindfulness", "money", "positivity", "self-transcendence", "wellbeing"]
 priority = true
-priority_topics = ["money"]
+priority_topics = ["money", "self-transcendence"]
 original_title = "🎁 La méthode d'ajout de bonheurs 🤗"
 source_medium = "https://medium.com/@phenrysay/73a6a4e8a043"
 +++

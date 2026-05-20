@@ -5,9 +5,9 @@ date = "2025-08-17T18:46:15.039926"
 draft = false
 description = "Feeling happy, feeling good—this is what we all want, isn’t it? At the end of the day, the real goal in life is to be happy. When happiness is there, everything else seems to fall into place. But w..."
 summary = "Feeling happy, feeling good—this is what we all want, isn’t it? At the end of the day, the real goal in life is to be happy. When happiness is there, everything else seems to fall into place. But w..."
-tags = ["emotional wellness", "entrepreneurship", "happiness", "mental health", "money", "positive mindset", "tasks", "wellbeing"]
+tags = ["emotional wellness", "entrepreneurship", "happiness", "mental health", "money", "positive mindset", "self-transcendence", "tasks", "wellbeing"]
 priority = true
-priority_topics = ["money", "tasks", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Peut on se sentir PLUS HEUREUX ?"
 source_medium = "https://medium.com/@phenrysay/b8b2e5b1cb22"
 +++

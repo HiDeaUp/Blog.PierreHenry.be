@@ -5,9 +5,9 @@ date = "2025-08-30T11:46:15.680929"
 draft = false
 description = "How often do you ask yourself how you really feel? Not the usual small talk at the bakery or on the bus, but a genuine checkin. We’re all used to the automatic “I’m fine” when someone asks how we a..."
 summary = "How often do you ask yourself how you really feel? Not the usual small talk at the bakery or on the bus, but a genuine checkin. We’re all used to the automatic “I’m fine” when someone asks how we a..."
-tags = ["honest-questions", "mental-health", "personal-growth", "self-awareness", "self-reflection", "tasks"]
+tags = ["honest-questions", "mental-health", "personal-growth", "self-awareness", "self-reflection", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Questions importantes à se poser ⚠️"
 source_medium = "https://medium.com/@phenrysay/2c100fa40d17"
 +++

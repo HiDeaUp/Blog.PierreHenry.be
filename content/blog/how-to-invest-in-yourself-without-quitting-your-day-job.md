@@ -5,9 +5,9 @@ date = "2025-08-20T07:11:32.843837"
 draft = false
 description = "When you start something for yourself—whether it’s a side business, a personal project, or a passion you want to turn into something more—you’re making an investment. Not just of money, but of your..."
 summary = "When you start something for yourself—whether it’s a side business, a personal project, or a passion you want to turn into something more—you’re making an investment. Not just of money, but of your..."
-tags = ["entrepreneurship", "money", "passion projects", "personal development", "productivity", "self investment", "side hustle", "time management", "wealth"]
+tags = ["entrepreneurship", "money", "passion projects", "personal development", "productivity", "self investment", "self-transcendence", "side hustle", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "productivity", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "productivity", "entrepreneurship"]
 original_title = "Vivre de sa passion. Mon avis"
 source_medium = "https://medium.com/@phenrysay/82e68dd14dd9"
 +++

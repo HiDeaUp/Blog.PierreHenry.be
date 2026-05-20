@@ -5,7 +5,9 @@ date = "2025-08-30T11:00:53.632517"
 draft = false
 description = "Sometimes, life throws obstacles in our path that seem impossible to overcome. You might find yourself facing a challenge so big that you can’t see any way out. Disappointment creeps in, and you wo..."
 summary = "Sometimes, life throws obstacles in our path that seem impossible to overcome. You might find yourself facing a challenge so big that you can’t see any way out. Disappointment creeps in, and you wo..."
-tags = ["mindset shift", "motivation", "overcoming obstacles", "personal growth", "self-improvement"]
+tags = ["mindset shift", "motivation", "overcoming obstacles", "personal growth", "self-improvement", "self-transcendence"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Surmonter les obstacles de la vie …"
 source_medium = "https://medium.com/@phenrysay/ecd2e6058446"
 +++

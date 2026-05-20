@@ -5,9 +5,9 @@ date = "2025-08-31T21:26:11.424095"
 draft = false
 description = "Sometimes, starting a task feels like climbing a mountain. You know you need to do it, whether it’s for your freelance work, your business, or just to keep your life running smoothly. Yet, there ar..."
 summary = "Sometimes, starting a task feels like climbing a mountain. You know you need to do it, whether it’s for your freelance work, your business, or just to keep your life running smoothly. Yet, there ar..."
-tags = ["daily tasks", "entrepreneurship", "getting started", "money", "motivation", "productivity", "self-improvement", "tasks"]
+tags = ["daily tasks", "entrepreneurship", "getting started", "money", "motivation", "productivity", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["money", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Démarrage de tâches quotidiennes 🥞"
 source_medium = "https://medium.com/@phenrysay/ec96c0d18bac"
 +++

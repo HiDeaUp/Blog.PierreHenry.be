@@ -5,9 +5,9 @@ date = "2025-08-30T13:28:30.065575"
 draft = false
 description = "Resilience is often praised as a key strength, but it is not always easy to put into practice. The idea of pushing through challenges sounds good, but it demands real effort and energy. Achieving y..."
 summary = "Resilience is often praised as a key strength, but it is not always easy to put into practice. The idea of pushing through challenges sounds good, but it demands real effort and energy. Achieving y..."
-tags = ["achievement", "motivation", "personal growth", "resilience", "success strategies", "tasks"]
+tags = ["achievement", "motivation", "personal growth", "resilience", "self-transcendence", "success strategies", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Être résilient dans ses accomplissements 💪"
 source_medium = "https://medium.com/@phenrysay/7771aa94c370"
 +++

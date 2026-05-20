@@ -5,7 +5,9 @@ date = "2025-08-25T18:44:41.797808"
 draft = false
 description = "When was the last time you really paid attention to your surroundings? Not just passing through a park or glancing at a tree from your window, but truly letting nature shape your thoughts. Nature i..."
 summary = "When was the last time you really paid attention to your surroundings? Not just passing through a park or glancing at a tree from your window, but truly letting nature shape your thoughts. Nature i..."
-tags = ["life perspective", "mindfulness", "nature", "personal growth", "wellbeing"]
+tags = ["life perspective", "mindfulness", "nature", "personal growth", "self-transcendence", "wellbeing"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Comment la nature peut bouleverser la vision de vie"
 source_medium = "https://medium.com/@phenrysay/de6e145fb854"
 +++

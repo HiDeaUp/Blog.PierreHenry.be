@@ -5,9 +5,9 @@ date = "2025-08-17T08:55:35.273475"
 draft = false
 description = "Investing yourself in a project is never as easy as it seems at the beginning. At first, there’s this wild energy, a bit like an excited puppy. You’re eager to start, full of ideas, and you can’t w..."
 summary = "Investing yourself in a project is never as easy as it seems at the beginning. At first, there’s this wild energy, a bit like an excited puppy. You’re eager to start, full of ideas, and you can’t w..."
-tags = ["commitment", "money", "motivation", "perseverance", "personal investment", "self-improvement", "wealth"]
+tags = ["commitment", "money", "motivation", "perseverance", "personal investment", "self-improvement", "self-transcendence", "wealth"]
 priority = true
-priority_topics = ["money", "wealth"]
+priority_topics = ["money", "wealth", "self-transcendence"]
 original_title = "CE QUE PERSONNE NE DÉVOILE SUR L’INVESTISSEMENT PERSONNEL"
 source_medium = "https://medium.com/@phenrysay/2085ef96f19a"
 +++

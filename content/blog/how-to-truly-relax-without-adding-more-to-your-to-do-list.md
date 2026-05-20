@@ -5,9 +5,9 @@ date = "2025-08-17T18:37:21.520535"
 draft = false
 description = "What makes a day truly relaxing? How can we change our routine so that, by the end of the day, we feel genuinely at ease—light as a feather, content, and proud of how we spent our time?"
 summary = "What makes a day truly relaxing? How can we change our routine so that, by the end of the day, we feel genuinely at ease—light as a feather, content, and proud of how we spent our time?"
-tags = ["mindfulness", "productivity", "relaxation", "self-care", "stress relief", "tasks", "wellness"]
+tags = ["mindfulness", "productivity", "relaxation", "self-care", "self-transcendence", "stress relief", "tasks", "wellness"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "La détente:  Comment arriver à se détendre"
 source_medium = "https://medium.com/@phenrysay/eb20e4d7ce40"
 +++

@@ -5,9 +5,9 @@ date = "2025-08-22T21:00:52.491635"
 draft = false
 description = "Accomplishing something small every day can move you forward in ways you might not expect. When you have a clear goal and make sure each day includes a step toward it, you’re not just passing time—..."
 summary = "Accomplishing something small every day can move you forward in ways you might not expect. When you have a clear goal and make sure each day includes a step toward it, you’re not just passing time—..."
-tags = ["daily habits", "goal setting", "mindfulness", "money", "nomad", "personal growth", "self improvement", "tasks", "time management", "wealth"]
+tags = ["daily habits", "goal setting", "mindfulness", "money", "nomad", "personal growth", "self improvement", "self-transcendence", "tasks", "time management", "wealth"]
 priority = true
-priority_topics = ["nomad", "money", "wealth", "time management", "tasks"]
+priority_topics = ["nomad", "money", "wealth", "self-transcendence", "time management", "tasks"]
 original_title = "Vie Choisie... Ce que tu rates... 🙈"
 source_medium = "https://medium.com/@phenrysay/cebb3d2de4ae"
 +++

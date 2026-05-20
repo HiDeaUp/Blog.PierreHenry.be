@@ -5,9 +5,9 @@ date = "2025-08-24T16:11:36.093900"
 draft = false
 description = "When you spend your days working—whether as an employee, a freelancer, or simply following a hobby that brings in some income—it's important to find pleasure in what you do. If you enjoy your work,..."
 summary = "When you spend your days working—whether as an employee, a freelancer, or simply following a hobby that brings in some income—it's important to find pleasure in what you do. If you enjoy your work,..."
-tags = ["career development", "methodology", "money", "passion", "productivity", "profitable work", "tasks", "time management", "work-life balance"]
+tags = ["career development", "methodology", "money", "passion", "productivity", "profitable work", "self-transcendence", "tasks", "time management", "work-life balance"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "productivity"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Une passion lucrative.  La methode complete"
 source_medium = "https://medium.com/@phenrysay/6184b68939e6"
 +++

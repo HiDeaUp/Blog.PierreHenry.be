@@ -5,7 +5,9 @@ date = "2025-08-31T20:22:37.022486"
 draft = false
 description = "Have you ever noticed how often people ask, “How are you?” It’s such a simple question, yet it carries a lot of meaning. Most of the time, we answer with a quick “I’m fine,” even if things aren’t g..."
 summary = "Have you ever noticed how often people ask, “How are you?” It’s such a simple question, yet it carries a lot of meaning. Most of the time, we answer with a quick “I’m fine,” even if things aren’t g..."
-tags = ["emotional well-being", "human connection", "life principles", "meaningful communication", "small gestures"]
+tags = ["emotional well-being", "human connection", "life principles", "meaningful communication", "self-transcendence", "small gestures"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Les Principes & Réalité de la Vie 🚀"
 source_medium = "https://medium.com/@phenrysay/ecff6540497f"
 +++

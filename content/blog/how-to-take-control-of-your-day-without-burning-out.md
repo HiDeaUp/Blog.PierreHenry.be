@@ -5,9 +5,9 @@ date = "2025-08-22T20:52:49.237664"
 draft = false
 description = "Have you ever found yourself waking up already tired, with a headache, feeling like you’re always behind? Maybe you’re constantly running after your todo list, never seeing the end of it. This feel..."
 summary = "Have you ever found yourself waking up already tired, with a headache, feeling like you’re always behind? Maybe you’re constantly running after your todo list, never seeing the end of it. This feel..."
-tags = ["daily organization", "productivity", "productivity tips", "stress reduction", "tasks", "time management", "work-life balance"]
+tags = ["daily organization", "productivity", "productivity tips", "self-transcendence", "stress reduction", "tasks", "time management", "work-life balance"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "L’organisation du quotidien. Ce que tu dois ABSOLUMENT savoir"
 source_medium = "https://medium.com/@phenrysay/bd799875ac6f"
 +++

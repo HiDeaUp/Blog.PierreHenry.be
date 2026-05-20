@@ -5,9 +5,9 @@ date = "2025-06-08T07:42:23.882568"
 draft = false
 description = "Have you ever noticed how the way you start your morning sets the tone for your entire day? There’s something powerful about jumping in, moving your body, and giving yourself a boost of energy righ..."
 summary = "Have you ever noticed how the way you start your morning sets the tone for your entire day? There’s something powerful about jumping in, moving your body, and giving yourself a boost of energy righ..."
-tags = ["money", "morning routine", "motivation", "personal transformation", "productivity", "self-improvement", "tasks", "wealth"]
+tags = ["money", "morning routine", "motivation", "personal transformation", "productivity", "self-improvement", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "Se transformer pour accomplir ses tâches avec plus de facilité"
 source_medium = "https://medium.com/@phenrysay/cd75a547b4ff"
 +++

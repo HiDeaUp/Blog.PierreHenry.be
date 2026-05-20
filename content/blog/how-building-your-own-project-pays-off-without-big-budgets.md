@@ -5,9 +5,9 @@ date = "2025-08-18T22:11:09.170687"
 draft = false
 description = "Building something from scratch—a project, a tool, an app—this is the first real investment you can make in yourself. It’s not about money or status. It’s about giving yourself a reason to get up i..."
 summary = "Building something from scratch—a project, a tool, an app—this is the first real investment you can make in yourself. It’s not about money or status. It’s about giving yourself a reason to get up i..."
-tags = ["entrepreneurship", "money", "motivation", "personal projects", "self-improvement", "software development", "tasks", "tech"]
+tags = ["entrepreneurship", "money", "motivation", "personal projects", "self-improvement", "self-transcendence", "software development", "tasks", "tech"]
 priority = true
-priority_topics = ["tech", "money", "tasks", "entrepreneurship"]
+priority_topics = ["tech", "money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Démarre un projet qui te motive ! Regarde ceci si tu veux que je t'aide"
 source_medium = "https://medium.com/@phenrysay/3fd65c5d626b"
 +++

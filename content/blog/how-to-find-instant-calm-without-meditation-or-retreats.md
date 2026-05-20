@@ -5,7 +5,9 @@ date = "2025-08-30T13:08:37.821253"
 draft = false
 description = "Finding calm doesn’t always mean booking a retreat or meditating for hours. Sometimes, it’s as simple as taking a short break in a quiet park before a stressful meeting. This morning, I found mysel..."
 summary = "Finding calm doesn’t always mean booking a retreat or meditating for hours. Sometimes, it’s as simple as taking a short break in a quiet park before a stressful meeting. This morning, I found mysel..."
-tags = ["instant calm", "mental health", "mindfulness", "self care", "stress relief"]
+tags = ["instant calm", "mental health", "mindfulness", "self care", "self-transcendence", "stress relief"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "Se que personne ne vous dit sur l’apaisement instantanée"
 source_medium = "https://medium.com/@phenrysay/86f1c07ee5c9"
 +++

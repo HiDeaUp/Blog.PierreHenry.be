@@ -5,9 +5,9 @@ date = "2025-08-17T19:43:21.970763"
 draft = false
 description = "There are a few simple keys that can really make a difference—not just in achieving success, but in finding real happiness and fulfillment. After all, isn’t the point of life to be happy? Here’s wh..."
 summary = "There are a few simple keys that can really make a difference—not just in achieving success, but in finding real happiness and fulfillment. After all, isn’t the point of life to be happy? Here’s wh..."
-tags = ["entrepreneurship", "fulfillment", "goal setting", "money", "motivation", "personal success", "productivity", "self-improvement", "tasks", "wealth"]
+tags = ["entrepreneurship", "fulfillment", "goal setting", "money", "motivation", "personal success", "productivity", "self-improvement", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity", "entrepreneurship"]
 original_title = "Ce que je ferais à nouveau pour exceller"
 source_medium = "https://medium.com/@phenrysay/39ece408cd93"
 +++

@@ -5,9 +5,9 @@ date = "2025-09-03T08:29:56.755483"
 draft = false
 description = "Every day, we face a flood of small decisions that can easily take over our thoughts. These decisions, whether trivial or important, create mental clutter. They make us less productive, less presen..."
 summary = "Every day, we face a flood of small decisions that can easily take over our thoughts. These decisions, whether trivial or important, create mental clutter. They make us less productive, less presen..."
-tags = ["decision fatigue", "focus", "mental clarity", "overthinking", "productivity", "time management"]
+tags = ["decision fatigue", "focus", "mental clarity", "overthinking", "productivity", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["time management", "productivity"]
+priority_topics = ["self-transcendence", "time management", "productivity"]
 original_title = "Vaincre les décisions qui prennent la tête ?"
 source_medium = "https://medium.com/@phenrysay/5ab0acd6b3ca"
 +++

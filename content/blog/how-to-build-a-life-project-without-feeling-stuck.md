@@ -5,9 +5,9 @@ date = "2025-08-25T17:50:15.020375"
 draft = false
 description = "Have you ever woken up on a Saturday, Sunday, or even a Wednesday and felt like your days are all the same? Maybe you sense that your life is stuck on repeat, that you’re not really building anythi..."
 summary = "Have you ever woken up on a Saturday, Sunday, or even a Wednesday and felt like your days are all the same? Maybe you sense that your life is stuck on repeat, that you’re not really building anythi..."
-tags = ["goal setting", "life planning", "life project", "money", "motivation", "personal development", "time management", "wealth"]
+tags = ["goal setting", "life planning", "life project", "money", "motivation", "personal development", "self-transcendence", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management"]
 original_title = "Comment construire son projet de vie ?"
 source_medium = "https://medium.com/@phenrysay/abfe23d3959b"
 +++

@@ -5,9 +5,9 @@ date = "2025-06-09T00:10:08.546448"
 draft = false
 description = "Have you ever thought about your day as a system—a kind of engine that keeps you moving forward? That’s what I want to share with you today: the idea of treating your days like a system, using temp..."
 summary = "Have you ever thought about your day as a system—a kind of engine that keeps you moving forward? That’s what I want to share with you today: the idea of treating your days like a system, using temp..."
-tags = ["daily planning", "habit building", "productivity", "systems thinking", "tasks", "time management"]
+tags = ["daily planning", "habit building", "productivity", "self-transcendence", "systems thinking", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Comment organiser ses journées comme un système ?"
 source_medium = "https://medium.com/@phenrysay/a04ab1c101c6"
 +++

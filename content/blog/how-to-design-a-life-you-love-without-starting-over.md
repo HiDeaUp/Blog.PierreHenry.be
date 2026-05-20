@@ -5,9 +5,9 @@ date = "2025-08-31T19:52:09.223175"
 draft = false
 description = "Have you ever wondered how to create the life you really want? Not just a life that looks good on paper, but one you genuinely enjoy living. Sometimes, you might feel comfortable in your own skin,..."
 summary = "Have you ever wondered how to create the life you really want? Not just a life that looks good on paper, but one you genuinely enjoy living. Sometimes, you might feel comfortable in your own skin,..."
-tags = ["dream life", "happiness", "life design", "money", "personal fulfillment", "productivity", "self improvement"]
+tags = ["dream life", "happiness", "life design", "money", "personal fulfillment", "productivity", "self improvement", "self-transcendence"]
 priority = true
-priority_topics = ["money", "productivity"]
+priority_topics = ["money", "self-transcendence", "productivity"]
 original_title = "Avoir une vie que l'on KIFFE. Possible ou pas ?"
 source_medium = "https://medium.com/@phenrysay/14bff280e61b"
 +++

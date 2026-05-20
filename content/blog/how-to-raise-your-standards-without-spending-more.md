@@ -5,9 +5,9 @@ date = "2025-08-19T14:52:51.269303"
 draft = false
 description = "Improving your standards of living isn’t about luxury or showing off. It’s about the small routines and habits you choose every day to make your life better. Standards of living are the little thin..."
 summary = "Improving your standards of living isn’t about luxury or showing off. It’s about the small routines and habits you choose every day to make your life better. Standards of living are the little thin..."
-tags = ["daily habits", "lifestyle", "money", "personal growth", "self-improvement", "wealth"]
+tags = ["daily habits", "lifestyle", "money", "personal growth", "self-improvement", "self-transcendence", "wealth"]
 priority = true
-priority_topics = ["money", "wealth"]
+priority_topics = ["money", "wealth", "self-transcendence"]
 original_title = "Élève ses STANDARDS de vie pour devenir RICHE ?"
 source_medium = "https://medium.com/@phenrysay/b2d1c5f201ec"
 +++

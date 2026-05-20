@@ -5,9 +5,9 @@ date = "2025-08-31T22:13:00.299405"
 draft = false
 description = "What if happiness was not some distant goal, but something you could create for yourself, right now, with a few small changes? Personal fulfillment is not as complicated as it seems. The real trick..."
 summary = "What if happiness was not some distant goal, but something you could create for yourself, right now, with a few small changes? Personal fulfillment is not as complicated as it seems. The real trick..."
-tags = ["daily habits", "happiness", "money", "positive mindset", "self-improvement", "time management", "wellbeing"]
+tags = ["daily habits", "happiness", "money", "positive mindset", "self-improvement", "self-transcendence", "time management", "wellbeing"]
 priority = true
-priority_topics = ["money", "time management"]
+priority_topics = ["money", "self-transcendence", "time management"]
 original_title = "Comment rendre sa journées instantanément HEUREUSE ?"
 source_medium = "https://medium.com/@phenrysay/0890e86d0350"
 +++

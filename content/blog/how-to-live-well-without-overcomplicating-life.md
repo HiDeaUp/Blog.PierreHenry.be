@@ -5,9 +5,9 @@ date = "2025-08-30T12:47:24.418169"
 draft = false
 description = "Have you ever noticed how we tend to make life more complicated than it really is? We often believe that life should be a struggle, that suffering is part of the deal. But what if that’s not true?..."
 summary = "Have you ever noticed how we tend to make life more complicated than it really is? We often believe that life should be a struggle, that suffering is part of the deal. But what if that’s not true?..."
-tags = ["life lessons", "mindfulness", "perspective", "productivity", "simplicity", "tasks", "well-being"]
+tags = ["life lessons", "mindfulness", "perspective", "productivity", "self-transcendence", "simplicity", "tasks", "well-being"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "La vie est plus simple que sa perception"
 source_medium = "https://medium.com/@phenrysay/3d3fa2511af3"
 +++

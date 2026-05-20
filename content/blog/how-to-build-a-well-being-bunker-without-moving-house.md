@@ -5,9 +5,9 @@ date = "2025-08-17T23:23:09.200932"
 draft = false
 description = "](https://images.unsplash.com/photo16032060045213946a574d626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBtZW50YWwlMjBoZWF..."
 summary = "](https://images.unsplash.com/photo16032060045213946a574d626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBtZW50YWwlMjBoZWF..."
-tags = ["entrepreneurship", "environment design", "mental health", "money", "personal growth", "self-care", "wealth", "well-being"]
+tags = ["entrepreneurship", "environment design", "mental health", "money", "personal growth", "self-care", "self-transcendence", "wealth", "well-being"]
 priority = true
-priority_topics = ["money", "wealth", "entrepreneurship"]
+priority_topics = ["money", "wealth", "self-transcendence", "entrepreneurship"]
 original_title = "JE ME SUIS CRÉÉ MON BUNKER DE BIEN-ÊTRE !!!"
 source_medium = "https://medium.com/@phenrysay/13e13e43662c"
 +++

@@ -5,9 +5,9 @@ date = "2025-05-29T21:31:17.996436"
 draft = false
 description = "We often carry a heavy load of worries and mental clutter that piles up in our heads. This buildup can become so overwhelming that it stops us from doing anything at all. Every day, we tell ourselv..."
 summary = "We often carry a heavy load of worries and mental clutter that piles up in our heads. This buildup can become so overwhelming that it stops us from doing anything at all. Every day, we tell ourselv..."
-tags = ["mental clarity", "mental wellness", "mindfulness", "present moment", "productivity", "stress relief", "tasks"]
+tags = ["mental clarity", "mental wellness", "mindfulness", "present moment", "productivity", "self-transcendence", "stress relief", "tasks"]
 priority = true
-priority_topics = ["tasks", "productivity"]
+priority_topics = ["self-transcendence", "tasks", "productivity"]
 original_title = "Comment faire le vide. La gymnastique cérébrale"
 source_medium = "https://medium.com/@phenrysay/6acc53e64f03"
 +++

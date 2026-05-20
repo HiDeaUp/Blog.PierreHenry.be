@@ -5,9 +5,9 @@ date = "2025-08-30T09:10:11.465649"
 draft = false
 description = "Most of us go through our days thinking the same way, over and over. We rarely stop to question it. It just feels normal. But what if there are better ways to think, better ways to interact, and be..."
 summary = "Most of us go through our days thinking the same way, over and over. We rarely stop to question it. It just feels normal. But what if there are better ways to think, better ways to interact, and be..."
-tags = ["cognitive habits", "critical thinking", "mindfulness", "reflection", "self-improvement", "tech"]
+tags = ["cognitive habits", "critical thinking", "mindfulness", "reflection", "self-improvement", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech"]
+priority_topics = ["tech", "self-transcendence"]
 original_title = "Comment réfléchir intelligemment ?🪄"
 source_medium = "https://medium.com/@phenrysay/fc88aa049579"
 +++

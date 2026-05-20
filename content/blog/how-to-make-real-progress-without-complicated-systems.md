@@ -5,9 +5,9 @@ date = "2025-08-17T18:15:16.294906"
 draft = false
 description = "If you want to make real progress and see your life move forward, you need to use the right levers. One of the most powerful is having a clear action plan—a way to track your progress every day. Th..."
 summary = "If you want to make real progress and see your life move forward, you need to use the right levers. One of the most powerful is having a clear action plan—a way to track your progress every day. Th..."
-tags = ["daily habits", "goal setting", "money", "productivity", "self-improvement", "tasks", "time management", "wealth"]
+tags = ["daily habits", "goal setting", "money", "productivity", "self-improvement", "self-transcendence", "tasks", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Ne plus gaspiller son temps !"
 source_medium = "https://medium.com/@phenrysay/1681d5287441"
 +++

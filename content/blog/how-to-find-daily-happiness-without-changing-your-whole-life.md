@@ -5,9 +5,9 @@ date = "2025-08-30T10:54:16.277902"
 draft = false
 description = "Taking a moment to reflect on what truly feels good for you can change everything. Imagine sitting quietly, maybe on a bench somewhere, and asking yourself: “Is what I’m doing today really good for..."
 summary = "Taking a moment to reflect on what truly feels good for you can change everything. Imagine sitting quietly, maybe on a bench somewhere, and asking yourself: “Is what I’m doing today really good for..."
-tags = ["happiness", "lifestyle change", "mindfulness", "personal growth", "productivity", "self-reflection", "tasks", "time management"]
+tags = ["happiness", "lifestyle change", "mindfulness", "personal growth", "productivity", "self-reflection", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Bonne Réflexion"
 source_medium = "https://medium.com/@phenrysay/cc237c00e158"
 +++

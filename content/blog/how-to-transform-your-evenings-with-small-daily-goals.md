@@ -5,9 +5,9 @@ date = "2025-08-30T10:33:57.563563"
 draft = false
 description = "Every day, we need goals. Not just the big, lifechanging ones, but small, daily targets that give our routine a sense of purpose. Yet, many evenings slip by without meaning. We scroll through socia..."
 summary = "Every day, we need goals. Not just the big, lifechanging ones, but small, daily targets that give our routine a sense of purpose. Yet, many evenings slip by without meaning. We scroll through socia..."
-tags = ["daily goals", "goal setting", "motivation", "personal development", "self improvement", "tasks"]
+tags = ["daily goals", "goal setting", "motivation", "personal development", "self improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Quels sont tes buts et objectifs que tu voudrais faire ?"
 source_medium = "https://medium.com/@phenrysay/280c5adab0d8"
 +++

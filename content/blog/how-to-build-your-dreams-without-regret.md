@@ -5,9 +5,9 @@ date = "2025-08-24T15:34:12.798138"
 draft = false
 description = "Have you ever thought about what you might regret at the end of your life? For many, the answer is simple: not having chased the dreams that truly mattered. Designing your own life, building and ac..."
 summary = "Have you ever thought about what you might regret at the end of your life? For many, the answer is simple: not having chased the dreams that truly mattered. Designing your own life, building and ac..."
-tags = ["dreams", "entrepreneurship", "goal setting", "money", "motivation", "personal development", "productivity", "self-improvement", "tasks", "time management"]
+tags = ["dreams", "entrepreneurship", "goal setting", "money", "motivation", "personal development", "productivity", "self-improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["money", "time management", "tasks", "productivity", "entrepreneurship"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks", "productivity", "entrepreneurship"]
 original_title = "(Comment) créer ses rêves ?🎉"
 source_medium = "https://medium.com/@phenrysay/877402a017d1"
 +++

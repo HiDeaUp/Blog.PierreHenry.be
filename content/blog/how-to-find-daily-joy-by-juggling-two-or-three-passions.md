@@ -5,9 +5,9 @@ date = "2025-08-30T09:40:06.123229"
 draft = false
 description = "Longterm vision is more than just a buzzword. When you look ahead and set your sights on a project—or even two or three—you give yourself a reason to stay curious, to keep searching, and to fill yo..."
 summary = "Longterm vision is more than just a buzzword. When you look ahead and set your sights on a project—or even two or three—you give yourself a reason to stay curious, to keep searching, and to fill yo..."
-tags = ["daily happiness", "joy", "life improvement", "passion projects", "time management", "well-being"]
+tags = ["daily happiness", "joy", "life improvement", "passion projects", "self-transcendence", "time management", "well-being"]
 priority = true
-priority_topics = ["time management"]
+priority_topics = ["self-transcendence", "time management"]
 original_title = "Les choses quotidiennes qui rendent heureux 🎉"
 source_medium = "https://medium.com/@phenrysay/d38408ea18e9"
 +++

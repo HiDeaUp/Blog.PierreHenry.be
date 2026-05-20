@@ -5,9 +5,9 @@ date = "2025-08-31T21:10:24.446342"
 draft = false
 description = "There’s something special about walking by the river at night. The world slows down, the city’s usual noise fades, and you’re left with the gentle sounds of frogs and the occasional bird. In these..."
 summary = "There’s something special about walking by the river at night. The world slows down, the city’s usual noise fades, and you’re left with the gentle sounds of frogs and the occasional bird. In these..."
-tags = ["creativity", "inspiration", "mindfulness", "night walks", "productivity", "self-reflection", "tech", "time management"]
+tags = ["creativity", "inspiration", "mindfulness", "night walks", "productivity", "self-reflection", "self-transcendence", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "time management", "productivity"]
+priority_topics = ["tech", "self-transcendence", "time management", "productivity"]
 original_title = "Balades de nuit créatives 🌕"
 source_medium = "https://medium.com/@phenrysay/b5b24d12665a"
 +++

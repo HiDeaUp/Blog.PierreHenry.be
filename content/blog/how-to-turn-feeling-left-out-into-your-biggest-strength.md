@@ -5,9 +5,9 @@ date = "2025-08-18T20:34:44.144604"
 draft = false
 description = "Have you ever felt like you’re on the outside looking in? Maybe you’ve found yourself standing at the edge of your social circle, feeling a bit rejected or simply not part of the group. When that h..."
 summary = "Have you ever felt like you’re on the outside looking in? Maybe you’ve found yourself standing at the edge of your social circle, feeling a bit rejected or simply not part of the group. When that h..."
-tags = ["limiting beliefs", "overcoming rejection", "personal growth", "perspective shift", "self-worth", "tasks"]
+tags = ["limiting beliefs", "overcoming rejection", "personal growth", "perspective shift", "self-transcendence", "self-worth", "tasks"]
 priority = true
-priority_topics = ["tasks"]
+priority_topics = ["self-transcendence", "tasks"]
 original_title = "Ces CROYANCES qui te FREINENT (et pourquoi tu n’es PAS le CENTRE du monde)"
 source_medium = "https://medium.com/@phenrysay/bce570717e35"
 +++

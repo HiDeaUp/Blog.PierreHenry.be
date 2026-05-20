@@ -5,7 +5,9 @@ date = "2025-08-20T07:25:27.441867"
 draft = false
 description = "Paying attention to what we say, what we do, and even what we think is more important than we often realize. Our thoughts, actions, and words not only reflect who we are, but they also shape us ove..."
 summary = "Paying attention to what we say, what we do, and even what we think is more important than we often realize. Our thoughts, actions, and words not only reflect who we are, but they also shape us ove..."
-tags = ["daily life", "emotional intelligence", "mindfulness", "personal development", "self-improvement"]
+tags = ["daily life", "emotional intelligence", "mindfulness", "personal development", "self-improvement", "self-transcendence"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "COMMENT MIEUX RÉAGIR DANS LA VIE QUOTIDIENNE ?"
 source_medium = "https://medium.com/@phenrysay/8eea05529117"
 +++

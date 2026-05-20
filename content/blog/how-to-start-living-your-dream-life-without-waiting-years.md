@@ -5,9 +5,9 @@ date = "2025-08-25T19:23:26.138250"
 draft = false
 description = "Have you ever wondered what it would feel like to wake up every morning excited for the day ahead? Imagine if Mondays felt just as thrilling as a Saturday adventure. The secret to a life you love i..."
 summary = "Have you ever wondered what it would feel like to wake up every morning excited for the day ahead? Imagine if Mondays felt just as thrilling as a Saturday adventure. The secret to a life you love i..."
-tags = ["dream life", "inspiration", "life improvement", "motivation", "nomad", "personal development", "productivity", "time management"]
+tags = ["dream life", "inspiration", "life improvement", "motivation", "nomad", "personal development", "productivity", "self-transcendence", "time management"]
 priority = true
-priority_topics = ["nomad", "time management", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "time management", "productivity"]
 original_title = "Comment vivre une vie rêvée ✨"
 source_medium = "https://medium.com/@phenrysay/c58e9ecdb3ce"
 +++

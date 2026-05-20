@@ -5,9 +5,9 @@ date = "2025-08-19T17:13:28.960697"
 draft = false
 description = "What does it really mean to live a fulfilled life? Is it about chasing endless excitement, or is there something deeper that brings lasting satisfaction? I want to share a simple truth: the secret..."
 summary = "What does it really mean to live a fulfilled life? Is it about chasing endless excitement, or is there something deeper that brings lasting satisfaction? I want to share a simple truth: the secret..."
-tags = ["environment", "intentional living", "life satisfaction", "nomad", "personal growth", "productivity", "values"]
+tags = ["environment", "intentional living", "life satisfaction", "nomad", "personal growth", "productivity", "self-transcendence", "values"]
 priority = true
-priority_topics = ["nomad", "productivity"]
+priority_topics = ["nomad", "self-transcendence", "productivity"]
 original_title = "Vivre selon ses valeurs. Par où commencer ?"
 source_medium = "https://medium.com/@phenrysay/2967fb2be2dc"
 +++

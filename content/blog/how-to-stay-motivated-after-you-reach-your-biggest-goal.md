@@ -5,9 +5,9 @@ date = "2025-08-24T15:55:34.022246"
 draft = false
 description = "Have you ever poured your heart and soul into a project, a business, or a big exam? Maybe you trained like an Olympic athlete, or spent months, even years, preparing for a major milestone. Every da..."
 summary = "Have you ever poured your heart and soul into a project, a business, or a big exam? Maybe you trained like an Olympic athlete, or spent months, even years, preparing for a major milestone. Every da..."
-tags = ["dreams", "entrepreneurship", "goal setting", "motivation", "personal growth", "self-improvement", "tasks"]
+tags = ["dreams", "entrepreneurship", "goal setting", "motivation", "personal growth", "self-improvement", "self-transcendence", "tasks"]
 priority = true
-priority_topics = ["tasks", "entrepreneurship"]
+priority_topics = ["self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Pourquoi il faut toujours avoir des rêves en cours"
 source_medium = "https://medium.com/@phenrysay/36ccced3a23e"
 +++

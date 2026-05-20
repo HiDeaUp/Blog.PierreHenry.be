@@ -5,9 +5,9 @@ date = "2025-08-19T14:36:52.238022"
 draft = false
 description = "Have you ever felt like you’re not quite good enough compared to where you want to be? For me, this feeling is almost constant. When I look at people who are truly exceptional in their fields, I re..."
 summary = "Have you ever felt like you’re not quite good enough compared to where you want to be? For me, this feeling is almost constant. When I look at people who are truly exceptional in their fields, I re..."
-tags = ["challenge-yourself", "comfort-zone", "motivation", "personal-growth", "productivity", "self-improvement", "tech"]
+tags = ["challenge-yourself", "comfort-zone", "motivation", "personal-growth", "productivity", "self-improvement", "self-transcendence", "tech"]
 priority = true
-priority_topics = ["tech", "productivity"]
+priority_topics = ["tech", "self-transcendence", "productivity"]
 original_title = "Se challenger : Les raisons derrière nos dépassements"
 source_medium = "https://medium.com/@phenrysay/ae7d0c779d53"
 +++

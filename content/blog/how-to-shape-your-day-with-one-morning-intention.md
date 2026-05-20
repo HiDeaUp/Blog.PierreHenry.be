@@ -5,9 +5,9 @@ date = "2025-06-08T23:45:41.498251"
 draft = false
 description = "Setting an intention for the day is more than just a trendy selfhelp tip—it’s a small act that can completely change how you experience your life. I recently read a book by an Australian author who..."
 summary = "Setting an intention for the day is more than just a trendy selfhelp tip—it’s a small act that can completely change how you experience your life. I recently read a book by an Australian author who..."
-tags = ["affirmations", "entrepreneurship", "mindset", "morning routine", "positive intention", "productivity", "self-improvement"]
+tags = ["affirmations", "entrepreneurship", "mindset", "morning routine", "positive intention", "productivity", "self-improvement", "self-transcendence"]
 priority = true
-priority_topics = ["productivity", "entrepreneurship"]
+priority_topics = ["self-transcendence", "productivity", "entrepreneurship"]
 original_title = "Pourquoi je pose une intention positive sur ma journée"
 source_medium = "https://medium.com/@phenrysay/033a37130e56"
 +++

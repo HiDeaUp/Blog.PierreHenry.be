@@ -5,9 +5,9 @@ date = "2025-08-17T09:01:44.369144"
 draft = false
 description = "If you’ve ever wondered how some people seem to fit so much into their days, you’re not alone. I often get asked, “How do you manage to do so many things?” The truth is, I’m not superhuman. I’m jus..."
 summary = "If you’ve ever wondered how some people seem to fit so much into their days, you’re not alone. I often get asked, “How do you manage to do so many things?” The truth is, I’m not superhuman. I’m jus..."
-tags = ["nomad", "personal development", "productivity", "self-improvement", "tasks", "tech", "time management", "work-life balance"]
+tags = ["nomad", "personal development", "productivity", "self-improvement", "self-transcendence", "tasks", "tech", "time management", "work-life balance"]
 priority = true
-priority_topics = ["tech", "nomad", "time management", "tasks", "productivity"]
+priority_topics = ["tech", "nomad", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "Réflexion sur la vie. Je dévoile TOUT"
 source_medium = "https://medium.com/@phenrysay/99e14c77f099"
 +++

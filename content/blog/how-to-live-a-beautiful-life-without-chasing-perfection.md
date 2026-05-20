@@ -5,7 +5,9 @@ date = "2025-08-17T09:18:33.767375"
 draft = false
 description = "Having a beautiful life is simply about living a life that fills you up. It’s about having a life you love, a life you adore, a life you truly enjoy. That’s what I wish for you: the most beautiful..."
 summary = "Having a beautiful life is simply about living a life that fills you up. It’s about having a life you love, a life you adore, a life you truly enjoy. That’s what I wish for you: the most beautiful..."
-tags = ["beautiful life", "happiness", "life meaning", "personal fulfillment", "self-love"]
+tags = ["beautiful life", "happiness", "life meaning", "personal fulfillment", "self-love", "self-transcendence"]
+priority = true
+priority_topics = ["self-transcendence"]
 original_title = "C’est qui réellement, avoir une belle vie ?"
 source_medium = "https://medium.com/@phenrysay/3a895f20ba5f"
 +++

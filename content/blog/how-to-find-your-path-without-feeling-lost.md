@@ -5,9 +5,9 @@ date = "2025-08-31T21:47:48.701406"
 draft = false
 description = "Feeling good about yourself and finding peace are not just nicetohaves. They are the foundation for a fantastic life. If you want to be on the right path, you need to know where you’re going. Too m..."
 summary = "Feeling good about yourself and finding peace are not just nicetohaves. They are the foundation for a fantastic life. If you want to be on the right path, you need to know where you’re going. Too m..."
-tags = ["finding direction", "life purpose", "mental wellbeing", "money", "personal growth", "self-discovery"]
+tags = ["finding direction", "life purpose", "mental wellbeing", "money", "personal growth", "self-discovery", "self-transcendence"]
 priority = true
-priority_topics = ["money"]
+priority_topics = ["money", "self-transcendence"]
 original_title = "Quoi faire dans sa vie ? 🙃"
 source_medium = "https://medium.com/@phenrysay/254314784587"
 +++

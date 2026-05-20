@@ -5,9 +5,9 @@ date = "2025-09-13T19:09:39.042669"
 draft = false
 description = "Have you ever noticed how easy it is to drift through your days, following routines that no longer serve you? We often organize our lives in ways that feel natural, but if we look closer, we might..."
 summary = "Have you ever noticed how easy it is to drift through your days, following routines that no longer serve you? We often organize our lives in ways that feel natural, but if we look closer, we might..."
-tags = ["life goals", "mindset", "motivation", "personal development", "productivity", "self-improvement", "tasks", "time management"]
+tags = ["life goals", "mindset", "motivation", "personal development", "productivity", "self-improvement", "self-transcendence", "tasks", "time management"]
 priority = true
-priority_topics = ["time management", "tasks", "productivity"]
+priority_topics = ["self-transcendence", "time management", "tasks", "productivity"]
 original_title = "La vérité crue pour atteindre la vie de tes rêves (sans bullshit)"
 source_medium = "https://medium.com/@phenrysay/f6f95d392bac"
 +++

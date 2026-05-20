@@ -5,9 +5,9 @@ date = "2025-08-24T15:08:53.646344"
 draft = false
 description = "Have you ever wondered if you’re really making the most of your time? Not just in terms of getting things done, but also in how fulfilled and happy you feel at the end of the day? There’s a simple..."
 summary = "Have you ever wondered if you’re really making the most of your time? Not just in terms of getting things done, but also in how fulfilled and happy you feel at the end of the day? There’s a simple..."
-tags = ["daily habits", "happiness", "productivity", "self improvement", "tasks", "tech", "time management"]
+tags = ["daily habits", "happiness", "productivity", "self improvement", "self-transcendence", "tasks", "tech", "time management"]
 priority = true
-priority_topics = ["tech", "time management", "tasks", "productivity"]
+priority_topics = ["tech", "self-transcendence", "time management", "tasks", "productivity"]
 original_title = "La question qui OPTIMISE notre temps 🤯"
 source_medium = "https://medium.com/@phenrysay/cc3bb78f3e2d"
 +++

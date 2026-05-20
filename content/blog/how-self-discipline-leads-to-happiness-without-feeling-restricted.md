@@ -5,9 +5,9 @@ date = "2025-08-25T18:15:46.319414"
 draft = false
 description = "When we think about happiness, selfdiscipline might not be the first thing that comes to mind. Yet, there’s a deep connection between the two. Many people see discipline as a restriction, but in re..."
 summary = "When we think about happiness, selfdiscipline might not be the first thing that comes to mind. Yet, there’s a deep connection between the two. Many people see discipline as a restriction, but in re..."
-tags = ["fulfillment", "happiness", "mental well-being", "money", "personal development", "productivity", "self-discipline", "time management", "wealth"]
+tags = ["fulfillment", "happiness", "mental well-being", "money", "personal development", "productivity", "self-discipline", "self-transcendence", "time management", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "time management", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "time management", "productivity"]
 original_title = "Autodiscipline: Le secret du bonheur ?"
 source_medium = "https://medium.com/@phenrysay/00139332b9a0"
 +++

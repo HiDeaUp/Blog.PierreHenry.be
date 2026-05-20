@@ -5,9 +5,9 @@ date = "2025-08-17T18:04:23.270566"
 draft = false
 description = "Life deserves to be enjoyed fully, every single day. Too often, we tell ourselves that we need to save money, that it’s important to be careful with our finances. Of course, money matters. But mone..."
 summary = "Life deserves to be enjoyed fully, every single day. Too often, we tell ourselves that we need to save money, that it’s important to be careful with our finances. Of course, money matters. But mone..."
-tags = ["excellence", "mindfulness", "money", "personal growth", "success", "tasks", "time management"]
+tags = ["excellence", "mindfulness", "money", "personal growth", "self-transcendence", "success", "tasks", "time management"]
 priority = true
-priority_topics = ["money", "time management", "tasks"]
+priority_topics = ["money", "self-transcendence", "time management", "tasks"]
 original_title = "Le Code Secret de l'Excellence : Réussis dans tous tes projets !"
 source_medium = "https://medium.com/@phenrysay/897866989e33"
 +++

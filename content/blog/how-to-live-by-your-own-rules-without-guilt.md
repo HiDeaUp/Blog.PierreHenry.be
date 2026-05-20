@@ -5,9 +5,9 @@ date = "2025-08-22T20:33:55.612682"
 draft = false
 description = "Living by your own choices means taking responsibility for your decisions and commitments. Many of us, shaped by our upbringing and environment, often feel indebted or obligated to give our time to..."
 summary = "Living by your own choices means taking responsibility for your decisions and commitments. Many of us, shaped by our upbringing and environment, often feel indebted or obligated to give our time to..."
-tags = ["decision making", "freedom", "independence", "money", "personal growth", "productivity", "self-reliance", "tasks", "wealth"]
+tags = ["decision making", "freedom", "independence", "money", "personal growth", "productivity", "self-reliance", "self-transcendence", "tasks", "wealth"]
 priority = true
-priority_topics = ["money", "wealth", "tasks", "productivity"]
+priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity"]
 original_title = "Comment ne plus dépendre des autres ?"
 source_medium = "https://medium.com/@phenrysay/922a9686acf5"
 +++
