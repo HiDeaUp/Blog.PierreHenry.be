@@ -47,6 +47,12 @@ PRIORITY_TOPICS = {
         "wealth", "rich", "invest", "investing", "assets", "capital", "financial freedom",
         "net worth", "lifestyle inflation",
     },
+    "self-transcendence": {
+        "self transcendence", "self-transcendence", "self realization", "self-realization",
+        "meaning", "purpose", "inner peace", "mindfulness", "gratitude", "presence",
+        "fulfillment", "fulfilment", "higher self", "spiritual growth", "transcendence",
+        "self awareness", "self-awareness",
+    },
     "time management": {
         "time management", "schedule", "scheduling", "calendar", "plan your week", "weekly plan",
         "daily plan", "priorities", "priority", "organize", "organise", "planning",

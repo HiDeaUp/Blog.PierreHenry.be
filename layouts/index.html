@@ -7,7 +7,7 @@
 
   {{ if gt (len $priorityPosts) 0 }}
   <h2>Priority Reads</h2>
-  <p>Start here for the topics with the strongest emphasis across the archive: tech, nomad work, money, wealth, time management, tasks, productivity, time blocking, and entrepreneurship.</p>
+  <p>Start here for the topics with the strongest emphasis across the archive: tech, nomad work, money, wealth, self-transcendence, time management, tasks, productivity, time blocking, and entrepreneurship.</p>
   <ul class="blog-posts">
     {{ range first 18 ($priorityPosts.ByDate.Reverse) }}
     <li>
@@ -26,7 +26,7 @@
 
   <h2>Explore by Topic</h2>
   <p>
-    {{ range $topic := slice "tech" "nomad" "money" "wealth" "time management" "tasks" "productivity" "time blocking" "entrepreneurship" }}
+    {{ range $topic := slice "tech" "nomad" "money" "wealth" "self-transcendence" "time management" "tasks" "productivity" "time blocking" "entrepreneurship" }}
     {{ with $.Site.GetPage (printf "/tags/%s" ($topic | urlize)) }}
     <a href="{{ .RelPermalink }}">#{{ $topic }}</a>&nbsp;
     {{ end }}
