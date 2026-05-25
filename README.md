@@ -1,6 +1,6 @@
 # blog.pierrehenry.be
 
-Minimal Hugo site for blog.pierrehenry.be, built with the [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) theme.
+Minimal Hugo site for blog.pierrehenry.be, using the fantastic clean and [minimalist](https://medium.com/pierrewriter/%EF%B8%8Fim-a-minimalist-for-years-why-i-m-freaking-love-it-2f9f8ac8041) [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) theme.
 
 ## What This Repo Contains
 
