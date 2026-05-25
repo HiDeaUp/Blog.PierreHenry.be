@@ -12,8 +12,7 @@ original_title = "Les 130 heures d’apprentissage 🤝"
 source_medium = "https://medium.com/@phenrysay/2b35a0a9ad78"
 +++
 
-![Photo by Joachim Schnürle](https://images.unsplash.com/photo-1716840646010-e5622fd6683d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Big Goals in 130 Hours Without Burnout")
-*How to Achieve Big Goals in 130 Hours Without Burnout - Photo by [Joachim Schnürle](https://unsplash.com/@joa70) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-arrows-GYpv7oh1G_A)*
+{{< figure src="https://images.unsplash.com/photo-1716840646010-e5622fd6683d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="How to Achieve Big Goals in 130 Hours Without Burnout" title="How to Achieve Big Goals in 130 Hours Without Burnout" caption="How to Achieve Big Goals in 130 Hours Without Burnout - Photo by Joachim Schnürle on Unsplash" link="https://images.unsplash.com/photo-1716840646010-e5622fd6683d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" >}}
 
 Have you ever wondered how to finally achieve those big goals you keep putting off? There’s a simple, structured plan that can help you get there, and it’s all about focused, consistent effort. I call it the 130-Hour Rule. It’s not a magic formula, but a practical approach that has worked for me and many others.
 
@@ -29,8 +28,7 @@ Let’s say you want to open a business in Costa Rica. For 2.5 hours each day, y
 
 The key is discipline. Every day, you know exactly what you need to do. Set a timer for 2.5 hours—no more, no less. At the end of each session, ask yourself: What did I accomplish today? What concrete result did I achieve? This daily outcome is essential. It keeps you on track and helps you see real progress.
 
-![Photo by kimny](https://images.unsplash.com/photo-1654344490041-c64b9d1aaae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Big Goals in 130 Hours Without Burnout")
-*How to Achieve Big Goals in 130 Hours Without Burnout - Photo by [kimny](https://unsplash.com/@kimny) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-set-of-stairs-N7d1Onb4QLQ)*
+{{< figure src="https://images.unsplash.com/photo-1654344490041-c64b9d1aaae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="How to Achieve Big Goals in 130 Hours Without Burnout" title="How to Achieve Big Goals in 130 Hours Without Burnout" caption="How to Achieve Big Goals in 130 Hours Without Burnout - Photo by kimny on Unsplash" link="https://images.unsplash.com/photo-1654344490041-c64b9d1aaae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" >}}
 
 ## Prepare and Reflect
 
@@ -52,8 +50,7 @@ If you want to master something or simply get back on track, this focused time w
 
 ## Make It Your Own
 
-![Photo by Ben Kim](https://images.unsplash.com/photo-1657453771637-03218b02db46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Big Goals in 130 Hours Without Burnout")
-*How to Achieve Big Goals in 130 Hours Without Burnout - Photo by [Ben Kim](https://unsplash.com/@justive_) on [Unsplash](https://unsplash.com/photos/a-set-of-stairs-DWhu0dbbxvg)*
+{{< figure src="https://images.unsplash.com/photo-1657453771637-03218b02db46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="How to Achieve Big Goals in 130 Hours Without Burnout" title="How to Achieve Big Goals in 130 Hours Without Burnout" caption="How to Achieve Big Goals in 130 Hours Without Burnout - Photo by Ben Kim on Unsplash" link="https://images.unsplash.com/photo-1657453771637-03218b02db46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" >}}
 
 You don’t have to follow my plan exactly. Adapt it to your life and your goals. The most important thing is to commit to daily action and keep your focus clear. If you want to balance your days better or create healthier routines, this approach will help you get there.
 
