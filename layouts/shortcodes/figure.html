@@ -1,0 +1,10 @@
+<figure>
+  {{- if .Get "link" -}}
+    <a href="{{ .Get "link" }}" target="_blank" rel="noopener">
+  {{- end -}}
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" title="{{ .Get "title" }}" loading="lazy" />
+  {{- if .Get "link" -}}</a>{{- end -}}
+  {{- if .Get "caption" -}}
+    <figcaption class="image-caption">{{ .Get "caption" }}</figcaption>
+  {{- end -}}
+</figure>
