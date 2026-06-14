@@ -22,9 +22,9 @@ source_youtube = "https://www.youtube.com/watch?v=7YS-vxZSM4c"
 
 I have decided to put all my energy into one single project, with full attention. Nowhere else. This means putting some projects on hold. It is not always easy to make these calls, but sometimes you have to divide your life into chapters.
 
-> The successful warrior is the average man, with laser-like focus. 
+> *The successful warrior is the average man, with laser-like focus.*
 >
-— Bruce Lee
+> — Bruce Lee
 
 This is not about abandoning what has been already built. On the contrary, it's about moving forward. I am genuinely proud of all existing created projects. They are not tied to trends or technologies that fade after a year. They are built to be useful whenever you come back to them.
 
@@ -36,7 +36,7 @@ You might wonder why doing it?
 
 Been there publishing something every single day for quite some time now. Still, there comes a point where repeating the same thing no longer brings new results.
 
-> Insanity is doing the same thing over and over again and expecting different results. 
+> *Insanity is doing the same thing over and over again and expecting different results.*
 > 
 > — Albert Einstein
 
@@ -48,7 +48,7 @@ All the videos I have published stay available. I made them with the idea that y
 
 Use this time to focus on your own growth. Sometimes having a clear set of resources helps you cut the noise and go deeper into what actually matters.
 
-> Sometimes you have to take a step back to move forward. 
+> *Sometimes you have to take a step back to move forward.*
 > 
 > — Anonymous
 
