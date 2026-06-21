@@ -1,7 +1,7 @@
 {{- /* Enhanced SEO and social meta tags */ -}}
 <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-<meta name="author" content="{{ .Site.Author }}">
+<meta name="author" content="{{ .Site.Params.author }}">
 
 <!-- Open Graph -->
 <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
