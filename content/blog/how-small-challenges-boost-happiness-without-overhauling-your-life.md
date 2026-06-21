@@ -12,8 +12,7 @@ original_title = "Une vision positive de la vie 😊"
 source_medium = "https://medium.com/@phenrysay/4636a4a28d19"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2aXR5JTIwaGFwcGluZXNzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI3MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Challenges Boost Happiness Without Overhauling Your Life")
-*How Small Challenges Boost Happiness Without Overhauling Your Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2aXR5JTIwaGFwcGluZXNzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI3MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How Small Challenges Boost Happiness Without Overhauling Your Life" caption="How Small Challenges Boost Happiness Without Overhauling Your Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Sometimes, the simplest way to feel happier is to look at life from a different angle. We all have the power to change our perspective, not by forcing ourselves to be someone else, but by welcoming what makes us unique and organizing our days around what brings us joy.
 
@@ -21,8 +20,7 @@ Adding a touch of positivity to your daily routine can make a real difference. W
 
 Think about what makes you feel good. Maybe it's a hobby, a walk after work, or learning something new. When you come back to these activities, you feel calm and content. This is the kind of challenge you should add to your life: something that fits naturally into your day and gives you a sense of progress.
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2aXR5JTIwaGFwcGluZXNzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI3MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Challenges Boost Happiness Without Overhauling Your Life")
-*How Small Challenges Boost Happiness Without Overhauling Your Life - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2aXR5JTIwaGFwcGluZXNzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI3MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How Small Challenges Boost Happiness Without Overhauling Your Life" caption="How Small Challenges Boost Happiness Without Overhauling Your Life - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 By planning these small, personal challenges, you start to see your days differently. You know what you're working toward, and each completed challenge boosts your sense of accomplishment. Over time, this builds your confidence and makes you happier, day after day.
 

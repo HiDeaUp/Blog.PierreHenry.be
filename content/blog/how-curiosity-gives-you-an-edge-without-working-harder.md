@@ -12,8 +12,7 @@ original_title = "Clé insoupçonnée du succès : Découvre le pouvoir caché d
 source_medium = "https://medium.com/@phenrysay/ccf87848f29f"
 +++
 
-![Photo by Andrew Heald](https://images.unsplash.com/photo-1647664039415-8a9e23c010f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjdXJpb3NpdHklMjBzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTE3MzgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Curiosity Gives You an Edge Without Working Harder")
-*How Curiosity Gives You an Edge Without Working Harder - Photo by [Andrew Heald](https://unsplash.com/@aheald25) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-person-on-a-skateboard-NFH4eQocHE8)*
+{{< figure src="https://images.unsplash.com/photo-1647664039415-8a9e23c010f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjdXJpb3NpdHklMjBzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTE3MzgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a person on a" title="How Curiosity Gives You an Edge Without Working Harder" caption="How Curiosity Gives You an Edge Without Working Harder - Photo by [Andrew Heald](https://unsplash.com/@aheald25) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-person-on-a-skateboard-NFH4eQocHE8)" >}}
 
 Curiosity is often underestimated, yet it’s one of the most powerful drivers of success. When you’re curious, you naturally want to learn, to discover new things, and to push yourself further. This mindset gives you a real head start—an advantage that most people overlook.
 
@@ -23,8 +22,7 @@ It’s not always about inventing something completely new. Sometimes, it’s ab
 
 For example, if you struggle to wake up early, don’t just accept it. Ask yourself why. Is it your sleep quality? Your environment? Maybe your room is too dark in the morning. Simple changes, like simulating sunrise with a special lamp, can help. There are even smart devices and trackers that monitor your sleep and wake you up at the right time, without disturbing others. These tools exist because someone was curious enough to ask, “How can mornings be better?”
 
-![Photo by H&CO](https://images.unsplash.com/photo-1562911920-b71679650b17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjdXJpb3NpdHklMjBzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTE3MzgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Curiosity Gives You an Edge Without Working Harder")
-*How Curiosity Gives You an Edge Without Working Harder - Photo by [H&CO](https://unsplash.com/@hngstrm) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-person-on-a-skateboard-oSAE-2NVx6I)*
+{{< figure src="https://images.unsplash.com/photo-1562911920-b71679650b17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjdXJpb3NpdHklMjBzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTE3MzgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a person on a oSAE 2NVx6I" title="How Curiosity Gives You an Edge Without Working Harder" caption="How Curiosity Gives You an Edge Without Working Harder - Photo by [H&CO](https://unsplash.com/@hngstrm) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-person-on-a-skateboard-oSAE-2NVx6I)" >}}
 
 Curiosity isn’t just about gadgets or productivity hacks. It’s about feeding your desire to learn—always searching for what the majority ignores. Take speed reading, for example. It’s a skill that can give you an edge simply because you’re willing to try something different.
 
@@ -42,8 +40,7 @@ The truth is, if you keep doing what you’ve always done, you’ll keep getting
 > 
 > — William Arthur Ward
 
-![Photo by Jackie Alexander](https://images.unsplash.com/photo-1687575635411-078c62c44d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjdXJpb3NpdHklMjBzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTE3MzgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Curiosity Gives You an Edge Without Working Harder")
-*How Curiosity Gives You an Edge Without Working Harder - Photo by [Jackie Alexander](https://unsplash.com/@jac_kie_co) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-chain-link-fence-Dg5Eobc3zVs)*
+{{< figure src="https://images.unsplash.com/photo-1687575635411-078c62c44d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjdXJpb3NpdHklMjBzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTE3MzgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a chain link fence" title="How Curiosity Gives You an Edge Without Working Harder" caption="How Curiosity Gives You an Edge Without Working Harder - Photo by [Jackie Alexander](https://unsplash.com/@jac_kie_co) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-chain-link-fence-Dg5Eobc3zVs)" >}}
 
 ---
 

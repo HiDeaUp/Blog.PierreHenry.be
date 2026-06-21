@@ -12,8 +12,7 @@ original_title = "Avoir le mental pour réussir un objectif long terme"
 source_medium = "https://medium.com/@phenrysay/e168fcfcd91b"
 +++
 
-![Photo by Miquel Parera](https://images.unsplash.com/photo-1607075694157-a88e9b2f5992?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwbG9uZy10ZXJtJTIwZ29hbHMlMjBtZW50YWwlMjBiYXJyaWVyc3xlbnwwfDB8fHwxNzU1NjA0ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Mental Limits Without Forcing Motivation")
-*How to Break Mental Limits Without Forcing Motivation - Photo by [Miquel Parera](https://unsplash.com/@miquel_parera_mila) on [Unsplash](https://unsplash.com/photos/yellow-and-black-pedestrian-line-yTy-52zDYjM)*
+{{< figure src="https://images.unsplash.com/photo-1607075694157-a88e9b2f5992?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwbG9uZy10ZXJtJTIwZ29hbHMlMjBtZW50YWwlMjBiYXJyaWVyc3xlbnwwfDB8fHwxNzU1NjA0ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow and black line yTy 52zDYjM" title="How to Break Mental Limits Without Forcing Motivation" caption="How to Break Mental Limits Without Forcing Motivation - Photo by [Miquel Parera](https://unsplash.com/@miquel_parera_mila) on [Unsplash](https://unsplash.com/photos/yellow-and-black-pedestrian-line-yTy-52zDYjM)" >}}
 
 Have you ever felt like your own thoughts are holding you back? Sometimes, without even noticing, our mindset becomes our biggest obstacle. We carry around negative thoughts, limiting beliefs, and mental barriers that quietly shape what we think is possible. These limits aren’t always real—they’re often built over time by our upbringing, culture, environment, or even religion. But the truth is, the only real limits are the ones we create for ourselves.
 
@@ -27,8 +26,7 @@ If you want something badly enough—even if it seems impossible, even if everyo
 
 One of the most important things you can do is to visualize yourself having already reached your goal. Picture it clearly: where you’ll be in a year, how it will feel, what your life will look like. Then, work backwards. If you see yourself at the finish line in a year, what steps did you take to get there? Rewind the journey, step by step, until you’re back at today. This helps you build a real action plan.
 
-![Photo by Lukas Robertson](https://images.unsplash.com/photo-1546801226-104a8000e041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwbG9uZy10ZXJtJTIwZ29hbHMlMjBtZW50YWwlMjBiYXJyaWVyc3xlbnwwfDB8fHwxNzU1NjA0ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Mental Limits Without Forcing Motivation")
-*How to Break Mental Limits Without Forcing Motivation - Photo by [Lukas Robertson](https://unsplash.com/@sheetstothewind) on [Unsplash](https://unsplash.com/photos/red-brick-wall-covered-in-white-paint-JX-Ufc_fZj0)*
+{{< figure src="https://images.unsplash.com/photo-1546801226-104a8000e041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwbG9uZy10ZXJtJTIwZ29hbHMlMjBtZW50YWwlMjBiYXJyaWVyc3xlbnwwfDB8fHwxNzU1NjA0ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Red brick wall covered in white paint JX" title="How to Break Mental Limits Without Forcing Motivation" caption="How to Break Mental Limits Without Forcing Motivation - Photo by [Lukas Robertson](https://unsplash.com/@sheetstothewind) on [Unsplash](https://unsplash.com/photos/red-brick-wall-covered-in-white-paint-JX-Ufc_fZj0)" >}}
 
 But don’t get overwhelmed by the whole process. If you look at everything you need to do all at once, it’s easy to get discouraged. Instead, focus on one week at a time. Every Sunday, review what went well and what didn’t. Make small improvements. Over time, these tiny steps add up to big results.
 
@@ -52,8 +50,7 @@ So, make it a habit to say “yes” to opportunities, to keep your energy up, a
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwbG9uZy10ZXJtJTIwZ29hbHMlMjBtZW50YWwlMjBiYXJyaWVyc3xlbnwwfDB8fHwxNzU1NjA0ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Mental Limits Without Forcing Motivation")
-*How to Break Mental Limits Without Forcing Motivation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)*
+{{< figure src="https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwbG9uZy10ZXJtJTIwZ29hbHMlMjBtZW50YWwlMjBiYXJyaWVyc3xlbnwwfDB8fHwxNzU1NjA0ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word mind" title="How to Break Mental Limits Without Forcing Motivation" caption="How to Break Mental Limits Without Forcing Motivation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Se sentir bien dans sa peau"
 source_medium = "https://medium.com/@phenrysay/12c07fa69f75"
 +++
 
-![A man stood at the bridge with an umbrella to protect him from the sun.](https://images.unsplash.com/photo-1683090565349-4d3a9451e7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjB3ZWxsYmVpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM5ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Rewards Make Ordinary Days Feel Special")
-*How Small Rewards Make Ordinary Days Feel Special - Photo by [Azaz Ahmad](https://unsplash.com/@azaz08) on [Unsplash](https://unsplash.com/photos/a-person-holding-an-umbrella-in-front-of-the-sun-dqhTQwiFSXA)*
+{{< figure src="https://images.unsplash.com/photo-1683090565349-4d3a9451e7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjB3ZWxsYmVpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM5ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man stood at the bridge with an umbrella to protect him from the sun." title="How Small Rewards Make Ordinary Days Feel Special" caption="How Small Rewards Make Ordinary Days Feel Special - Photo by [Azaz Ahmad](https://unsplash.com/@azaz08) on [Unsplash](https://unsplash.com/photos/a-person-holding-an-umbrella-in-front-of-the-sun-dqhTQwiFSXA)" >}}
 
 Have you ever noticed how some days just seem to drag on? You wake up, look at your schedule, and nothing stands out. There’s no excitement, no spark—just another day to get through. Maybe you have a dinner with friends or a birthday party coming up, and those moments feel special. But on most days, it’s easy to feel like you’re just going through the motions.
 
@@ -23,8 +22,7 @@ One thing that helps is creating little projects or rewards for yourself. These 
 
 It’s the same if you’re writing a book. Picture your book already published, sitting on a shelf. Imagine that feeling of pride. Visualizing the end goal can be a powerful motivator. And along the way, don’t forget to celebrate the small steps. Maybe after a productive morning, you take yourself out for a coffee or a cold drink. These little moments of joy can make a big difference.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjB3ZWxsYmVpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM5ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Rewards Make Ordinary Days Feel Special")
-*How Small Rewards Make Ordinary Days Feel Special - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjB3ZWxsYmVpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM5ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How Small Rewards Make Ordinary Days Feel Special" caption="How Small Rewards Make Ordinary Days Feel Special - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Another important part of feeling good is checking in with yourself. Take a moment to notice where you are and how you feel. Right now, I’m enjoying the warmth and the view, and it reminds me to appreciate the present. There was a time when I saw every day as just another ordinary day. But once I started setting personal challenges and rewards, my perspective changed. Now, I see each day as a chance to build something beautiful, to create memories, and to enjoy life more deeply.
 
@@ -42,8 +40,7 @@ When you start to see your days this way, everything changes. You begin to savor
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695548487486-ef0f2b059762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjB3ZWxsYmVpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM5ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Rewards Make Ordinary Days Feel Special")
-*How Small Rewards Make Ordinary Days Feel Special - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-paper-that-reads-parental-self-care-dK_TmVvSyHU)*
+{{< figure src="https://images.unsplash.com/photo-1695548487486-ef0f2b059762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjB3ZWxsYmVpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM5ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A with a paper that reads self care" title="How Small Rewards Make Ordinary Days Feel Special" caption="How Small Rewards Make Ordinary Days Feel Special - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-paper-that-reads-parental-self-care-dK_TmVvSyHU)" >}}
 
 - *Find small rewards to brighten your day, even if it’s just a coffee or a walk.*
 - *Set personal challenges and celebrate your progress, no matter how small.*

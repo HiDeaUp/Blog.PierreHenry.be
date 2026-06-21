@@ -12,8 +12,7 @@ original_title = "Détox Mentale : Comment Éliminer les Toxines Invisibles qui 
 source_medium = "https://medium.com/@phenrysay/8e981e252a62"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740645581682-bc1e8e37b0f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBkZXRveCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NTUwMzI4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Fog Without Changing Your Whole Life")
-*How to Clear Mental Fog Without Changing Your Whole Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-anxiety-on-a-table-P9FiNJhDXBc)*
+{{< figure src="https://images.unsplash.com/photo-1740645581682-bc1e8e37b0f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBkZXRveCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NTUwMzI4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word anxiety on a table" title="How to Clear Mental Fog Without Changing Your Whole Life" caption="How to Clear Mental Fog Without Changing Your Whole Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-anxiety-on-a-table-P9FiNJhDXBc)" >}}
 
 Mental pollution is something we all deal with, even if we don’t always notice it. Sometimes, it sneaks up on us during what should be a pleasant moment. Maybe you’re enjoying a meal at a restaurant, and suddenly, something goes wrong—a wrong order, a cold dish, or a mistake on the bill. Frustration creeps in, and what was supposed to be a nice evening is now overshadowed by disappointment.
 
@@ -23,8 +22,7 @@ It’s easy to let these little setbacks ruin our mood. Sometimes, we can’t fi
 
 The real challenge is to enjoy the present moment, to make the most of what’s happening right now, even when things don’t go as planned. Our days will never unfold exactly as we imagined—there are always outside factors to deal with. The hardest part is managing those surprises and reminding ourselves that we’re here to have a good time, to create happy memories, even if some things go wrong.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBkZXRveCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NTUwMzI4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Fog Without Changing Your Whole Life")
-*How to Clear Mental Fog Without Changing Your Whole Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBkZXRveCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NTUwMzI4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Clear Mental Fog Without Changing Your Whole Life" caption="How to Clear Mental Fog Without Changing Your Whole Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 Mental pollution can take many forms: anger, stress, sadness, or even a deep discomfort that gives us a headache and stops us from enjoying the rest of our day. So, what can we do about it?
 
@@ -40,8 +38,7 @@ It’s important to manage your mood and the tension inside you. Pay attention t
 > *“You can’t stop the waves, but you can learn to surf.”*  
 — Jon Kabat-Zinn
 
-![Photo by Peter Burdon](https://images.unsplash.com/photo-1620231278649-837e9564d673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBkZXRveCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NTUwMzI4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Fog Without Changing Your Whole Life")
-*How to Clear Mental Fog Without Changing Your Whole Life - Photo by [Peter Burdon](https://unsplash.com/@peterburdon) on [Unsplash](https://unsplash.com/photos/white-and-black-printed-paper-j0f73nsn7Mo)*
+{{< figure src="https://images.unsplash.com/photo-1620231278649-837e9564d673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBkZXRveCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NTUwMzI4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black printed paper" title="How to Clear Mental Fog Without Changing Your Whole Life" caption="How to Clear Mental Fog Without Changing Your Whole Life - Photo by [Peter Burdon](https://unsplash.com/@peterburdon) on [Unsplash](https://unsplash.com/photos/white-and-black-printed-paper-j0f73nsn7Mo)" >}}
 
 ---
 

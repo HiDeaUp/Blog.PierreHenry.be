@@ -12,8 +12,7 @@ original_title = "COMMENT MIEUX RÉAGIR DANS LA VIE QUOTIDIENNE ?"
 source_medium = "https://medium.com/@phenrysay/8eea05529117"
 +++
 
-![Photo by Matt Busse](https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBsaWZlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTYzODcyNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Align Words and Actions Without Losing Yourself")
-*How to Align Words and Actions Without Losing Yourself - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)*
+{{< figure src="https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBsaWZlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTYzODcyNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on top of a rock next to the ocean" title="How to Align Words and Actions Without Losing Yourself" caption="How to Align Words and Actions Without Losing Yourself - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)" >}}
 
 Paying attention to what we say, what we do, and even what we think is more important than we often realize. Our thoughts, actions, and words not only reflect who we are, but they also shape us over time. If we speak poorly, our personality will start to mirror that negativity. On the other hand, if we speak kindly or act with a positive mindset, we begin to reflect those qualities as well.
 
@@ -23,9 +22,7 @@ We are, in many ways, our behavior. To succeed, we first need to change how we a
 
 Sometimes, these habits come from our upbringing or from small verbal tics we’ve picked up along the way. For example, if you want to become a professional speaker, you need to work on your speech and presence. Many things need to line up for us to succeed, but once we start paying attention to these details, success becomes much more straightforward.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBsaWZlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTYzODcyNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Align Words and Actions Without Losing Yourself")
-*How to Align Words and Actions Without Losing Yourself - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBsaWZlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTYzODcyNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Align Words and Actions Without Losing Yourself" caption="How to Align Words and Actions Without Losing Yourself - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 — Aristotle
@@ -43,8 +40,7 @@ Sometimes, these habits come from our upbringing or from small verbal tics we’
 
 ## Action Steps
 
-![guy sits cross-legged on the beach and meditates, the wide sea in the background](https://images.unsplash.com/photo-1630406866478-a2fca6070d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBsaWZlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTYzODcyNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Align Words and Actions Without Losing Yourself")
-*How to Align Words and Actions Without Losing Yourself - Photo by [Benjamin Wedemeyer](https://unsplash.com/@benjaminwedemeyer) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-beach-during-sunset-NBYz3bQVMIo)*
+{{< figure src="https://images.unsplash.com/photo-1630406866478-a2fca6070d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBsaWZlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTYzODcyNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="guy sits cross-legged on the beach and meditates, the wide sea in the background" title="How to Align Words and Actions Without Losing Yourself" caption="How to Align Words and Actions Without Losing Yourself - Photo by [Benjamin Wedemeyer](https://unsplash.com/@benjaminwedemeyer) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-beach-during-sunset-NBYz3bQVMIo)" >}}
 
 - *Notice your habits—are they helping or holding you back?*
 - *Practice speaking and acting in ways that match your ambitions.*

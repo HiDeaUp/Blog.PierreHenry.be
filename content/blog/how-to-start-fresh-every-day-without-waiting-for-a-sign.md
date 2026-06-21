@@ -12,8 +12,7 @@ original_title = "CE QUE LES AUTRES FONT DÉJÀ : CHAQUE JOUR EST UNE NOUVELLE O
 source_medium = "https://medium.com/@phenrysay/f79354d60e4b"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4Mzg2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Fresh Every Day Without Waiting for a Sign")
-*How to Start Fresh Every Day Without Waiting for a Sign - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4Mzg2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Start Fresh Every Day Without Waiting for a Sign" caption="How to Start Fresh Every Day Without Waiting for a Sign - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 What do you want to achieve today? Every morning is a new chance to do something different, something that matters to you. I see each day I wake up as a new opportunity—a spark, a moment to create, to move closer to what I want, and to feel that “wow” inside. That sense of satisfaction, that happiness, doesn’t have to come from some huge project. Sometimes, it’s just ten minutes invested in yourself. It’s about doing something you’ve dreamed of, even if it seems hard or you can’t see the way forward.
 
@@ -23,8 +22,7 @@ Without a goal, life can feel like driving a car with no destination—just wand
 
 So, what will you do today? Even if it’s just ten minutes, invest in yourself. Sometimes, I step out onto my balcony and look at the world—even with all the buildings, I realize how small I am in the universe. My problems are tiny in the grand scheme of things. But I, like everyone else, have the chance to do something big. I can act in my life instead of just letting life happen to me. I can do something that makes me proud—not to impress others, but to impress myself, to be the hero of my own story.
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4Mzg2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Fresh Every Day Without Waiting for a Sign")
-*How to Start Fresh Every Day Without Waiting for a Sign - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4Mzg2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Start Fresh Every Day Without Waiting for a Sign" caption="How to Start Fresh Every Day Without Waiting for a Sign - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 There’s a quote I love that captures this idea perfectly:
 
@@ -44,8 +42,7 @@ If you’re always competing, always out of breath, where’s the joy? Life is a
 
 If you do something for just ten minutes a day, that’s seventy minutes a week, four and a half hours a month. That’s a lot of time, even if it doesn’t seem like it at first. We always say we don’t have time, but we do. It’s about acting in your life instead of making excuses and letting life pass you by.
 
-![Photo by Courtney Cantu](https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4Mzg2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Fresh Every Day Without Waiting for a Sign")
-*How to Start Fresh Every Day Without Waiting for a Sign - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)*
+{{< figure src="https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4Mzg2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of the ground" title="How to Start Fresh Every Day Without Waiting for a Sign" caption="How to Start Fresh Every Day Without Waiting for a Sign - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)" >}}
 
 ---
 

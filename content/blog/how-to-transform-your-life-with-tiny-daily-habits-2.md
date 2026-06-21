@@ -12,8 +12,7 @@ original_title = "La méthode MAGIQUE de l'amélioration progressive"
 source_medium = "https://medium.com/@phenrysay/c689a7b3b644"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHByb2dyZXNzaXZlJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjExMDEyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Tiny Daily Habits")
-*How to Transform Your Life With Tiny Daily Habits - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)*
+{{< figure src="https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHByb2dyZXNzaXZlJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjExMDEyNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word next to blue flowers" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)" >}}
 
 Improvement is not about making huge leaps overnight. It’s about those small, steady steps you take every single day. Think about your daily habits: taking a shower, brushing your teeth, or even eating. You don’t question whether you should do them or not—they’re automatic. They’re so deeply rooted in your routine that you do them without thinking.
 
@@ -25,8 +24,7 @@ For example, I live in Adelaide. If I wanted to become a tour guide here, I’d 
 
 After a while, maybe I’d build a website or a community, or offer my services to a big tourist group or the city’s tourism office. Just 15 minutes a day adds up. After a month, that’s over four hours of focused work—almost four and a half hours, to be exact. Even if you’re only researching, that’s a huge amount of time well spent.
 
-![Photo by Akash Ravuri](https://images.unsplash.com/photo-1698298802651-e56d5cc81f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHByb2dyZXNzaXZlJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjExMDEyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Tiny Daily Habits")
-*How to Transform Your Life With Tiny Daily Habits - Photo by [Akash Ravuri](https://unsplash.com/@akashravuri) on [Unsplash](https://unsplash.com/photos/a-person-stacking-rocks-on-top-of-each-other-HgvHofatRk0)*
+{{< figure src="https://images.unsplash.com/photo-1698298802651-e56d5cc81f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHByb2dyZXNzaXZlJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjExMDEyNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person rocks on top of each other" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Akash Ravuri](https://unsplash.com/@akashravuri) on [Unsplash](https://unsplash.com/photos/a-person-stacking-rocks-on-top-of-each-other-HgvHofatRk0)" >}}
 
 Think about it: taking a shower, getting undressed, waiting for the water to heat up, washing, drying off—it all takes more than 15 minutes. We all have time to improve our lives, even if it’s just a quarter of an hour a day. If you want to become an expert in something, give yourself that daily quarter of an hour. There are no excuses. It’s just a habit to build.
 
@@ -47,8 +45,7 @@ I truly believe this, from the bottom of my heart. That’s why I’m sharing it
 - *Just 15 minutes a day can add up to hours of valuable learning each month.*
 - *Make improvement as automatic as brushing your teeth.*
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1634252701528-769062298807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHByb2dyZXNzaXZlJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjExMDEyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Tiny Daily Habits")
-*How to Transform Your Life With Tiny Daily Habits - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-picture-frame-with-the-word-emporer-spelled-in-scrabble-Q6m52fJ9pqw)*
+{{< figure src="https://images.unsplash.com/photo-1634252701528-769062298807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHByb2dyZXNzaXZlJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjExMDEyNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A picture frame with the word emporer spelled in" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-picture-frame-with-the-word-emporer-spelled-in-scrabble-Q6m52fJ9pqw)" >}}
 
 ## Action Steps
 

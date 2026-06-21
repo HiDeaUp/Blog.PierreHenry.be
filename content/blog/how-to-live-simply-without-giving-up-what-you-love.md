@@ -12,8 +12,7 @@ original_title = "Vivre SIMPLEMENT - COMMENT FAIRE ?"
 source_medium = "https://medium.com/@phenrysay/5497c5ee4321"
 +++
 
-![Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel](https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwbGlmZSUyMGJhbGFuY2V8ZW58MHwwfHx8MTc1NjAxMjQ1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Simply Without Giving Up What You Love")
-*How to Live Simply Without Giving Up What You Love - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)*
+{{< figure src="https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwbGlmZSUyMGJhbGFuY2V8ZW58MHwwfHx8MTc1NjAxMjQ1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel" title="How to Live Simply Without Giving Up What You Love" caption="How to Live Simply Without Giving Up What You Love - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)" >}}
 
 Living simply is not about giving up on your dreams or settling for less. It is about finding peace in your daily life, feeling useful, and doing something you genuinely love. The real challenge is to reconnect with what makes you feel alive, to find that passion that lifts you up and gives meaning to your days.
 
@@ -23,8 +22,7 @@ Once you have found that spark, the next step is to ask yourself how you can bri
 
 Let me give you a personal example. When I was a kid, before I started worrying about what my classmates thought, I was obsessed with Playmobil. I would spend hours playing with them, both in the garden and inside the house. It was more than a passion—it was almost an obsession. Now, as an adult, I sell collectible Playmobil sets on a specialized Shopify site. It is a real passion, and it works because I am deeply invested in it. I have managed to turn something I loved as a child into a job that excites me every day.
 
-![Photo by Ember Navarro](https://images.unsplash.com/photo-1624304314520-8acb626f91f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwbGlmZSUyMGJhbGFuY2V8ZW58MHwwfHx8MTc1NjAxMjQ1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Simply Without Giving Up What You Love")
-*How to Live Simply Without Giving Up What You Love - Photo by [Ember Navarro](https://unsplash.com/@ember_n) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-on-brown-wooden-table-5CnQ4cPCQps)*
+{{< figure src="https://images.unsplash.com/photo-1624304314520-8acb626f91f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwbGlmZSUyMGJhbGFuY2V8ZW58MHwwfHx8MTc1NjAxMjQ1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="White ceramic mug on brown wooden table" title="How to Live Simply Without Giving Up What You Love" caption="How to Live Simply Without Giving Up What You Love - Photo by [Ember Navarro](https://unsplash.com/@ember_n) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-on-brown-wooden-table-5CnQ4cPCQps)" >}}
 
 I suggest you try to find a passion like this for yourself. Sometimes it takes time, but when you find it, everything becomes obvious. Do not put it off. Tonight, take a sheet of paper and write down the things that excite you, the things you love. List the reasons and criteria that matter most to you. This exercise will help you see what truly drives you.
 
@@ -38,8 +36,7 @@ We all deserve to have a passion project. We all deserve to love our lives. I wi
 > _Happiness is not something ready made. It comes from your own actions._
 —Dalai Lama
 
-![A Minimal Black shelf styled with vases and books](https://images.unsplash.com/photo-1707920439664-406c5f9498ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwbGlmZSUyMGJhbGFuY2V8ZW58MHwwfHx8MTc1NjAxMjQ1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Simply Without Giving Up What You Love")
-*How to Live Simply Without Giving Up What You Love - Photo by [Taru Goyal](https://unsplash.com/@tarugoyal) on [Unsplash](https://unsplash.com/photos/a-shelf-with-two-vases-and-a-lamp-on-it-1GdYuu3cM_w)*
+{{< figure src="https://images.unsplash.com/photo-1707920439664-406c5f9498ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwbGlmZSUyMGJhbGFuY2V8ZW58MHwwfHx8MTc1NjAxMjQ1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A Minimal Black shelf styled with vases and books" title="How to Live Simply Without Giving Up What You Love" caption="How to Live Simply Without Giving Up What You Love - Photo by [Taru Goyal](https://unsplash.com/@tarugoyal) on [Unsplash](https://unsplash.com/photos/a-shelf-with-two-vases-and-a-lamp-on-it-1GdYuu3cM_w)" >}}
 
 ---
 

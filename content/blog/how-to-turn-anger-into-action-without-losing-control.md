@@ -12,8 +12,7 @@ original_title = "Capturer son énergie colérique à son avantage"
 source_medium = "https://medium.com/@phenrysay/8fac7fd288eb"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2NDAzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Anger Into Action Without Losing Control")
-*How to Turn Anger Into Action Without Losing Control - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2NDAzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Turn Anger Into Action Without Losing Control" caption="How to Turn Anger Into Action Without Losing Control - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 Anger is a powerful force. Most of us have felt it rise up in moments when things go wrong, when someone crosses a line, or when we feel cheated. The usual advice is to calm down, to avoid saying things we might regret. But what if, instead of letting anger take over or trying to suppress it, we could use it as a source of energy to do something positive?
 
@@ -25,8 +24,7 @@ This wasn’t something I had planned. I was just a backpacker, enjoying my holi
 
 Anger gives us energy. If we let it, it can push us to do things we might not have done otherwise. Think about when your bank charges you extra fees by mistake, or even closes your account. That kind of anger can make you move mountains to get your money back. Or when someone owes you money and refuses to pay. Suddenly, you have all the motivation in the world to take action.
 
-![Just Mad](https://images.unsplash.com/photo-1503525537183-c84679c9147f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2NDAzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Anger Into Action Without Losing Control")
-*How to Turn Anger Into Action Without Losing Control - Photo by [Andre Hunter](https://unsplash.com/@dre0316) on [Unsplash](https://unsplash.com/photos/yellow-and-black-smiley-wall-art-vm2cwMEiUFA)*
+{{< figure src="https://images.unsplash.com/photo-1503525537183-c84679c9147f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2NDAzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Just Mad" title="How to Turn Anger Into Action Without Losing Control" caption="How to Turn Anger Into Action Without Losing Control - Photo by [Andre Hunter](https://unsplash.com/@dre0316) on [Unsplash](https://unsplash.com/photos/yellow-and-black-smiley-wall-art-vm2cwMEiUFA)" >}}
 
 But here’s the funny thing: if someone told you to spend half an hour a day building a side project or learning a new skill, you might not feel the same drive. Anger, when it hits, gives us a burst of energy that we rarely find elsewhere.
 
@@ -44,8 +42,7 @@ The trick is to catch that energy and use it for something good. Don’t let it 
 
 ## Key Takeaways
 
-![Photo by Noah Buscher](https://images.unsplash.com/photo-1575914802699-2f46321fac4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2NDAzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Anger Into Action Without Losing Control")
-*How to Turn Anger Into Action Without Losing Control - Photo by [Noah Buscher](https://unsplash.com/@noahbuscher) on [Unsplash](https://unsplash.com/photos/womans-face-photograph-txHP_Xkwjeo)*
+{{< figure src="https://images.unsplash.com/photo-1575914802699-2f46321fac4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2NDAzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Womans face" title="How to Turn Anger Into Action Without Losing Control" caption="How to Turn Anger Into Action Without Losing Control - Photo by [Noah Buscher](https://unsplash.com/@noahbuscher) on [Unsplash](https://unsplash.com/photos/womans-face-photograph-txHP_Xkwjeo)" >}}
 
 - Anger can be a powerful source of energy if you channel it into positive action.
 - Use moments of frustration as motivation to start something new or fix a problem.

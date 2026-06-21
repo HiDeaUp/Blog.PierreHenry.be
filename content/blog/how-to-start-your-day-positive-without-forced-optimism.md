@@ -12,8 +12,7 @@ original_title = "Pourquoi je pose une INTENTION POSITIVE chaque matin ? Ma rép
 source_medium = "https://medium.com/@phenrysay/27e1986fb32f"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Day Positive Without Forced Optimism")
-*How to Start Your Day Positive Without Forced Optimism - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Start Your Day Positive Without Forced Optimism" caption="How to Start Your Day Positive Without Forced Optimism - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Setting an intention for the day might sound like a small thing, but it can completely change how you experience your life. I recently read a book by an Australian author who talks about the importance of intention, especially as part of a morning routine. She calls it the “Health Morning Routine,” and her advice is simple: start your day by telling yourself, “Today is going to be a beautiful day.” Or even better, “Today is already a beautiful day.”
 
@@ -29,8 +28,7 @@ Everything comes down to perception. If you see things the right way, you’ll n
 
 The author also suggests doing some light stretching or energy movements in the morning. If you can, step outside and get some sunlight. Even a few minutes of sun can help you wake up and get moving. And don’t forget a big glass of water—at room temperature if possible. I talk about this in my book, “Le succès n’est pas loin.” I recommend drinking two glasses of water when you wake up, about fifteen minutes before eating. You can even skip breakfast if that works for you. The idea that breakfast is the most important meal isn’t always true; it depends on your body and your habits.
 
-![Photo by Binti Malu](https://images.unsplash.com/photo-1665598215450-95f3d46d91e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Day Positive Without Forced Optimism")
-*How to Start Your Day Positive Without Forced Optimism - Photo by [Binti Malu](https://unsplash.com/@bintimalu) on [Unsplash](https://unsplash.com/photos/a-sign-with-glasses-on-it-hxt8qHOW61Y)*
+{{< figure src="https://images.unsplash.com/photo-1665598215450-95f3d46d91e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign with glasses on it" title="How to Start Your Day Positive Without Forced Optimism" caption="How to Start Your Day Positive Without Forced Optimism - Photo by [Binti Malu](https://unsplash.com/@bintimalu) on [Unsplash](https://unsplash.com/photos/a-sign-with-glasses-on-it-hxt8qHOW61Y)" >}}
 
 Waiting a bit before eating helps your body flush out toxins that build up overnight. This simple habit can help reduce the risk of illnesses like heart disease. I also suggest paying attention to what you eat in the morning, afternoon, and evening—something I cover in detail in my book.
 
@@ -52,8 +50,7 @@ The best time to take action is always now. Today is the day.
 
 ---
 
-![I’m trying to be more regular with uploading so I am going to give myself a theme every week and flatly the hell out of it! If you don’t practice you don’t get any better so this weeks theme is Quote!](https://images.unsplash.com/photo-1546015018-f0f7c1cabf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Day Positive Without Forced Optimism")
-*How to Start Your Day Positive Without Forced Optimism - Photo by [Sincerely Media](https://unsplash.com/@sincerelymedia) on [Unsplash](https://unsplash.com/photos/brown-eyeglasses-and-latte-on-top-of-joy-comes-in-the-morning-note-ESWmqUtGe3M)*
+{{< figure src="https://images.unsplash.com/photo-1546015018-f0f7c1cabf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown and latte on top of joy comes in the morning note" title="How to Start Your Day Positive Without Forced Optimism" caption="How to Start Your Day Positive Without Forced Optimism - Photo by [Sincerely Media](https://unsplash.com/@sincerelymedia) on [Unsplash](https://unsplash.com/photos/brown-eyeglasses-and-latte-on-top-of-joy-comes-in-the-morning-note-ESWmqUtGe3M)" >}}
 
 ## Key Takeaways
 

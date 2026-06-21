@@ -12,8 +12,7 @@ original_title = "Comment construire sa journée de rêve... ?"
 source_medium = "https://medium.com/@phenrysay/159e66aba409"
 +++
 
-![Photo by Wolfgang Hasselmann](https://images.unsplash.com/photo-1731416202617-6c5709e325ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGRheSUyMGluc3BpcmF0aW9uJTIwbmF0dXJlfGVufDB8MHx8fDE3NTU0MjMyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Your Best Ideas Without Forcing Inspiration")
-*How to Spark Your Best Ideas Without Forcing Inspiration - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/three-trees-in-a-purple-field-under-a-cloudy-sky-xyXOKks-QwQ)*
+{{< figure src="https://images.unsplash.com/photo-1731416202617-6c5709e325ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGRheSUyMGluc3BpcmF0aW9uJTIwbmF0dXJlfGVufDB8MHx8fDE3NTU0MjMyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Three trees in a purple field under a cloudy sky xyXOKks QwQ" title="How to Spark Your Best Ideas Without Forcing Inspiration" caption="How to Spark Your Best Ideas Without Forcing Inspiration - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/three-trees-in-a-purple-field-under-a-cloudy-sky-xyXOKks-QwQ)" >}}
 
 There’s a special place I like to visit—a bay with a wide, open view. Even when the weather turns gray and the clouds roll in, the scenery never fails to inspire me. There’s something about the space, the fresh air, and the presence of nature—especially this one magnificent tree I love—that fills me with happiness and a deep sense of satisfaction. It’s hard to put into words, but being there makes me feel whole, joyful, and at peace.
 
@@ -29,8 +28,7 @@ It’s normal to feel weighed down by mental clutter. We all have feelings, and 
 
 —Anonymous
 
-![Photo by Wolfgang Hasselmann](https://images.unsplash.com/photo-1739353524516-c3518546e486?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGRheSUyMGluc3BpcmF0aW9uJTIwbmF0dXJlfGVufDB8MHx8fDE3NTU0MjMyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Your Best Ideas Without Forcing Inspiration")
-*How to Spark Your Best Ideas Without Forcing Inspiration - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/a-picture-of-a-road-with-trees-and-clouds-in-the-background-WMhlQAGtGhk)*
+{{< figure src="https://images.unsplash.com/photo-1739353524516-c3518546e486?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGRheSUyMGluc3BpcmF0aW9uJTIwbmF0dXJlfGVufDB8MHx8fDE3NTU0MjMyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A picture of a road with trees and clouds in the" title="How to Spark Your Best Ideas Without Forcing Inspiration" caption="How to Spark Your Best Ideas Without Forcing Inspiration - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/a-picture-of-a-road-with-trees-and-clouds-in-the-background-WMhlQAGtGhk)" >}}
 
 Don’t put off what you want to do. The best moment is always now. Take action, even if it’s a small step. When you act, you learn. You can even track your moods and the actions you take, and you’ll see real changes in your life.
 
@@ -52,8 +50,7 @@ So, today, do something for yourself. Take action. Inaction is the worst thing y
 
 —Zoey Sayward
 
-![Photo by Wolfgang Hasselmann](https://images.unsplash.com/photo-1705263045157-1b5dd1f5f182?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGRheSUyMGluc3BpcmF0aW9uJTIwbmF0dXJlfGVufDB8MHx8fDE3NTU0MjMyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Your Best Ideas Without Forcing Inspiration")
-*How to Spark Your Best Ideas Without Forcing Inspiration - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/a-field-with-trees-and-a-stream-running-through-it-kxFMf2NOPkQ)*
+{{< figure src="https://images.unsplash.com/photo-1705263045157-1b5dd1f5f182?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGRheSUyMGluc3BpcmF0aW9uJTIwbmF0dXJlfGVufDB8MHx8fDE3NTU0MjMyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A field with trees and a stream running through it" title="How to Spark Your Best Ideas Without Forcing Inspiration" caption="How to Spark Your Best Ideas Without Forcing Inspiration - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/a-field-with-trees-and-a-stream-running-through-it-kxFMf2NOPkQ)" >}}
 
 ---
 

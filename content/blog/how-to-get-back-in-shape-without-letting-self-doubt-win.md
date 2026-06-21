@@ -12,8 +12,7 @@ original_title = "Remise en forme ... 😊 TU PEUX LE FAIRE"
 source_medium = "https://medium.com/@phenrysay/cd11c623f476"
 +++
 
-![Photo by Sandra Seitamaa](https://images.unsplash.com/photo-1602611001078-4512cf999d27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMGZpdG5lc3MlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTYwMTE3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Back in Shape Without Letting Self-Doubt Win")
-*How to Get Back in Shape Without Letting Self-Doubt Win - Photo by [Sandra Seitamaa](https://unsplash.com/@seitamaaphotography) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-shorts-doing-exercise-l9Z19qt576c)*
+{{< figure src="https://images.unsplash.com/photo-1602611001078-4512cf999d27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMGZpdG5lc3MlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTYwMTE3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black shorts doing" title="How to Get Back in Shape Without Letting Self-Doubt Win" caption="How to Get Back in Shape Without Letting Self-Doubt Win - Photo by [Sandra Seitamaa](https://unsplash.com/@seitamaaphotography) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-shorts-doing-exercise-l9Z19qt576c)" >}}
 
 When you feel lost or unsettled, getting back in shape—both physically and mentally—can be the turning point that puts you back on track. Mental conditioning is not just about positive thinking; it’s about the way you see yourself, the limits you believe you have, and the stories you keep telling yourself about what’s possible. These limits are, by definition, limiting. They shape how you interpret your surroundings and the events in your life. Over time, you condition yourself to see the world in a certain way, and this has a huge impact on your life.
 
@@ -27,8 +26,7 @@ These self-imposed limits are directly tied to the life you end up living. Don�
 
 The only real limit is the one you set in your mind. There are no others. That’s why I love to remind myself—and you—that everything is possible if you truly want it. Some people roll their eyes at that, but I’m a huge fan of this idea. If you want something intensely enough, you’ll get it. Otherwise, you’ll keep telling yourself you could do this or that, but nothing will change unless you really want it, deep down.
 
-![loading a weight ](https://images.unsplash.com/photo-1600677396406-6319104611bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMGZpdG5lc3MlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTYwMTE3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Back in Shape Without Letting Self-Doubt Win")
-*How to Get Back in Shape Without Letting Self-Doubt Win - Photo by [Nigel Msipa](https://unsplash.com/@nigelm23) on [Unsplash](https://unsplash.com/photos/man-in-gray-crew-neck-t-shirt-holding-gray-round-mirror-lREjkc9DeRA)*
+{{< figure src="https://images.unsplash.com/photo-1600677396406-6319104611bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMGZpdG5lc3MlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTYwMTE3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="loading a weight" title="How to Get Back in Shape Without Letting Self-Doubt Win" caption="How to Get Back in Shape Without Letting Self-Doubt Win - Photo by [Nigel Msipa](https://unsplash.com/@nigelm23) on [Unsplash](https://unsplash.com/photos/man-in-gray-crew-neck-t-shirt-holding-gray-round-mirror-lREjkc9DeRA)" >}}
 
 People often say, “I didn’t have time to do this, I was too busy.” But if something is your number one priority, you’ll find the time. Everything else will come second. You have to be honest with yourself about what matters most. Sometimes, we don’t want to admit our real priorities. We say we don’t have time, but it’s really about what we choose to put first.
 
@@ -48,8 +46,7 @@ Here’s an exercise: be aware of your limits. Notice the invisible fences you�
 
 ---
 
-![5 KG Dumbbell weight](https://images.unsplash.com/photo-1638536534782-6c7cf0802d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMGZpdG5lc3MlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTYwMTE3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Back in Shape Without Letting Self-Doubt Win")
-*How to Get Back in Shape Without Letting Self-Doubt Win - Photo by [VD Photography](https://unsplash.com/@vdphotography) on [Unsplash](https://unsplash.com/photos/a-pair-of-black-dumbs-sitting-on-top-of-each-other-iOO4HtfjpvE)*
+{{< figure src="https://images.unsplash.com/photo-1638536534782-6c7cf0802d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMGZpdG5lc3MlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTYwMTE3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="5 KG Dumbbell weight" title="How to Get Back in Shape Without Letting Self-Doubt Win" caption="How to Get Back in Shape Without Letting Self-Doubt Win - Photo by [VD Photography](https://unsplash.com/@vdphotography) on [Unsplash](https://unsplash.com/photos/a-pair-of-black-dumbs-sitting-on-top-of-each-other-iOO4HtfjpvE)" >}}
 
 ## Key Takeaways
 

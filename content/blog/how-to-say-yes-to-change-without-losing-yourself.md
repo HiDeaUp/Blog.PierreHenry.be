@@ -12,8 +12,7 @@ original_title = "Comment réinventer son quotidien pour réussir ?"
 source_medium = "https://medium.com/@phenrysay/d90e6904e08a"
 +++
 
-![Photo by David Walker | Walker Design Co.](https://images.unsplash.com/photo-1553374402-559e8b431161?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwY2hhbmdlJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTE5NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Say Yes to Change Without Losing Yourself")
-*How to Say Yes to Change Without Losing Yourself - Photo by [David Walker | Walker Design Co.](https://unsplash.com/@walkerdesignco) on [Unsplash](https://unsplash.com/photos/white-text-bP0q3tTTHS4)*
+{{< figure src="https://images.unsplash.com/photo-1553374402-559e8b431161?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwY2hhbmdlJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTE5NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White text" title="How to Say Yes to Change Without Losing Yourself" caption="How to Say Yes to Change Without Losing Yourself - Photo by [David Walker | Walker Design Co.](https://unsplash.com/@walkerdesignco) on [Unsplash](https://unsplash.com/photos/white-text-bP0q3tTTHS4)" >}}
 
 Life never stands still. The way we live, work, and connect with others keeps shifting. New tools appear, our habits evolve, and sometimes we even find ourselves in new places, with new routines. It’s tempting to cling to what we know, to old habits that once worked. But holding on too tightly can slow us down and make us miss out on better ways of living.
 
@@ -23,9 +22,7 @@ But here’s the thing: when we resist change just because it’s unfamiliar, we
 
 For example, adapting quickly at work can open doors to promotions or make your job easier. Sometimes, new tools or rules come along, and if you’re open to them, you’ll find it much simpler to keep up. If you move to a new country and keep calculating prices in your old currency, you’ll only make life harder for yourself. The same goes for adapting to new office cultures or dress codes. If you stay rigid, you’ll feel out of place while others move on.
 
-![Donate now to help me continue my passion
-https://www.paypal.com/donate/?hosted_button_id=PXL22FU4LMVG6](https://images.unsplash.com/photo-1650484543054-bf97b2a8330d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwY2hhbmdlJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTE5NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Say Yes to Change Without Losing Yourself")
-*How to Say Yes to Change Without Losing Yourself - Photo by [Road Ahead](https://unsplash.com/@roadahead_2223) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-scrabble-type-word-that-says-change-gupzVv09Vv8)*
+{{< figure src="https://images.unsplash.com/photo-1650484543054-bf97b2a8330d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwY2hhbmdlJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTE5NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Donate now to help me continue my passion https://www.paypal.com/donate/?hosted_button_id=PXL22FU4LMVG6" title="How to Say Yes to Change Without Losing Yourself" caption="How to Say Yes to Change Without Losing Yourself - Photo by [Road Ahead](https://unsplash.com/@roadahead_2223) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-scrabble-type-word-that-says-change-gupzVv09Vv8)" >}}
 
 It’s perfectly natural to be cautious about change. After all, not every new thing is better. But if a change is genuinely good, why not jump in with both feet? Life is short, and the risks of trying something new are often much smaller than we imagine.
 
@@ -43,8 +40,7 @@ So, say yes to new things. Try out better ways of doing what you already do. Lif
 
 ---
 
-![The word change illuminated in white and reflected on a tiled floor.](https://images.unsplash.com/photo-1631286434951-caa3dcab4d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwY2hhbmdlJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTE5NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Say Yes to Change Without Losing Yourself")
-*How to Say Yes to Change Without Losing Yourself - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-change-5RjdYvDRNpA)*
+{{< figure src="https://images.unsplash.com/photo-1631286434951-caa3dcab4d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwY2hhbmdlJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTE5NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="The word change illuminated in white and reflected on a tiled floor." title="How to Say Yes to Change Without Losing Yourself" caption="How to Say Yes to Change Without Losing Yourself - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-change-5RjdYvDRNpA)" >}}
 
 ## Key Takeaways
 

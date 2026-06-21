@@ -12,8 +12,7 @@ original_title = "💡 Un mental pas comme les autres"
 source_medium = "https://medium.com/@phenrysay/97dc6cae1692"
 +++
 
-![Photo by Kobe Kian Clata](https://images.unsplash.com/photo-1734668484998-c943d1fcb48a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBzdHJlbmd0aCUyMGRpc2NpcGxpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU2MDI2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay on Track When Motivation Disappears")
-*How to Stay on Track When Motivation Disappears - Photo by [Kobe Kian Clata](https://unsplash.com/@kobe007) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-bench-in-a-gym-NAhfqSQZc4Q)*
+{{< figure src="https://images.unsplash.com/photo-1734668484998-c943d1fcb48a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBzdHJlbmd0aCUyMGRpc2NpcGxpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU2MDI2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a bench in a gym" title="How to Stay on Track When Motivation Disappears" caption="How to Stay on Track When Motivation Disappears - Photo by [Kobe Kian Clata](https://unsplash.com/@kobe007) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-bench-in-a-gym-NAhfqSQZc4Q)" >}}
 
 Mental strength is often seen as the secret ingredient behind every big achievement. That burning desire to accomplish something, the drive that pushes us to act with determination—it's what sets the stage for success. When we start a new project or chase a goal, our energy is high, and motivation seems endless. But as the days go by—three weeks, four weeks, maybe a month later—that spark begins to fade. The excitement wears off, and suddenly, what felt easy now feels like a chore.
 
@@ -23,8 +22,7 @@ Here’s where discipline and routine come in. Building a routine and sticking t
 
 The ability to finish what you start is what separates those who succeed from those who don’t. That’s why routines matter so much. Motivation is temporary, but habits are what last. When you have good habits, you can keep moving forward, even when you don’t feel like it. Whether it’s two hours a day, one hour, or even just ten minutes—those small, regular efforts add up. Ten minutes a day might not seem like much, but by the end of the week, that’s seventy minutes. Over a year or two, it becomes a huge amount of progress, all because you stuck to a routine.
 
-![Photo by Kobe Kian Clata](https://images.unsplash.com/photo-1734668489555-6a9b99e45451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBzdHJlbmd0aCUyMGRpc2NpcGxpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU2MDI2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay on Track When Motivation Disappears")
-*How to Stay on Track When Motivation Disappears - Photo by [Kobe Kian Clata](https://unsplash.com/@kobe007) on [Unsplash](https://unsplash.com/photos/a-man-standing-next-to-a-barbell-in-a-gym-susgOMqjCFc)*
+{{< figure src="https://images.unsplash.com/photo-1734668489555-6a9b99e45451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBzdHJlbmd0aCUyMGRpc2NpcGxpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU2MDI2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man next to a barbell in a gym" title="How to Stay on Track When Motivation Disappears" caption="How to Stay on Track When Motivation Disappears - Photo by [Kobe Kian Clata](https://unsplash.com/@kobe007) on [Unsplash](https://unsplash.com/photos/a-man-standing-next-to-a-barbell-in-a-gym-susgOMqjCFc)" >}}
 
 In any project, it’s the routine and the regularity that count. You can’t rely on motivation or bursts of energy. Our moods go up and down, and that’s normal. Sometimes life gets in the way—personal issues, work problems, or just a bad day. All of this weighs on our minds and can distract us from our goals. Distractions are everywhere, and they pull us away from what matters.
 
@@ -42,8 +40,7 @@ So, as you move forward, remember: it’s not about how you start, but how you k
 
 ---
 
-![Photo by Kobe Kian Clata](https://images.unsplash.com/photo-1734668486909-4637ecd66408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBzdHJlbmd0aCUyMGRpc2NpcGxpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU2MDI2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay on Track When Motivation Disappears")
-*How to Stay on Track When Motivation Disappears - Photo by [Kobe Kian Clata](https://unsplash.com/@kobe007) on [Unsplash](https://unsplash.com/photos/a-couple-of-men-working-out-in-a-gym-dMorWMdiZsk)*
+{{< figure src="https://images.unsplash.com/photo-1734668486909-4637ecd66408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBzdHJlbmd0aCUyMGRpc2NpcGxpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU2MDI2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A couple of men working out in a gym" title="How to Stay on Track When Motivation Disappears" caption="How to Stay on Track When Motivation Disappears - Photo by [Kobe Kian Clata](https://unsplash.com/@kobe007) on [Unsplash](https://unsplash.com/photos/a-couple-of-men-working-out-in-a-gym-dMorWMdiZsk)" >}}
 
 ## Key Takeaways
 - Motivation fades, but routines last.

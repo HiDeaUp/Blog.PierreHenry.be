@@ -12,8 +12,7 @@ original_title = "Augmenter son état de bonheur … 🥹"
 source_medium = "https://medium.com/@phenrysay/4adcbe8bd79c"
 +++
 
-![On this picture, it looks like I have my feet in the void... It's a very classic photo from Ryten, Norway, for which people even queue up to take it! In reality, there is a rock underneath, making this picture totally safe. But you mustn't say so... ](https://images.unsplash.com/photo-1660549074494-68d507ae0790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NjM1MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Status")
-*How to Find Real Happiness Without Chasing Status - Photo by [Benoît Deschasaux](https://unsplash.com/@benowa) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-rock-overlooking-a-body-of-water-_wbzYUDfyXg)*
+{{< figure src="https://images.unsplash.com/photo-1660549074494-68d507ae0790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NjM1MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person sitting on a rock a body of water" title="How to Find Real Happiness Without Chasing Status" caption="How to Find Real Happiness Without Chasing Status - Photo by [Benoît Deschasaux](https://unsplash.com/@benowa) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-rock-overlooking-a-body-of-water-_wbzYUDfyXg)" >}}
 
 When we talk about success, most people picture luxury yachts, endless diplomas, or a collection of shiny achievements. But is that really what success means? I want to share a different perspective—one that focuses on happiness, not just money or status.
 
@@ -23,8 +22,7 @@ So, how do you reach that kind of happiness? It starts with getting to know your
 
 For example, look back at yesterday. Did you feel good? What happened that made you feel that way? Maybe you had a great conversation, faced an exciting challenge, or simply enjoyed a healthy meal. The trick is to spot these moments and repeat them as often as possible.
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NjM1MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Status")
-*How to Find Real Happiness Without Chasing Status - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NjM1MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Real Happiness Without Chasing Status" caption="How to Find Real Happiness Without Chasing Status - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 You can do the same with your weeks or even special times in your life. Ask yourself: What was happening? Who were you with? Where were you? Was it the environment, the people, or the type of activity? Once you know, you can try to recreate those conditions.
 
@@ -42,8 +40,7 @@ The point is, happiness isn’t about chasing big, flashy goals. It’s about sm
 
 ---
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NjM1MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Status")
-*How to Find Real Happiness Without Chasing Status - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NjM1MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find Real Happiness Without Chasing Status" caption="How to Find Real Happiness Without Chasing Status - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 ## Key Takeaways
 

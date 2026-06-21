@@ -12,8 +12,7 @@ original_title = "Création d'une vie PARFAITE: Je partage mes 10 ans d'expér
 source_medium = "https://medium.com/@phenrysay/73bdf63d5de2"
 +++
 
-![Happy neon sign hip](https://images.unsplash.com/photo-1580640611343-3f53b12a5b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTQxOTY4Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Happy Life Without Chasing Perfection")
-*How to Build a Happy Life Without Chasing Perfection - Photo by [Stan B](https://unsplash.com/@stanislas1) on [Unsplash](https://unsplash.com/photos/red-love-neon-light-signage-F7m0W7QLP1s)*
+{{< figure src="https://images.unsplash.com/photo-1580640611343-3f53b12a5b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTQxOTY4Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy neon sign hip" title="How to Build a Happy Life Without Chasing Perfection" caption="How to Build a Happy Life Without Chasing Perfection - Photo by [Stan B](https://unsplash.com/@stanislas1) on [Unsplash](https://unsplash.com/photos/red-love-neon-light-signage-F7m0W7QLP1s)" >}}
 
 Today was a good day. I got a lot done, and I felt genuinely happy. I spent time working on my project, 1 Snap, an app that lets you scan your meals and drinks—basically, everything you put into your body. It uses artificial intelligence to help you track your food, see your nutrition scores, and even mark your favorites. Every time I release a new version, I see real progress. That feeling of moving forward, of building something meaningful, is something I’m proud of.
 
@@ -39,8 +38,7 @@ These rituals build your self-esteem and confidence. For example, you might say,
 
 Pride rituals are intentional practices to strengthen your self-confidence. They help you focus on your values and strengths, and they make you more successful and unique. Celebrate your achievements, big or small. Write them down, share them with loved ones, and take time to feel proud.
 
-![The Book of Happy](https://images.unsplash.com/photo-1459369510627-9efbee1e6051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTQxOTY4Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Happy Life Without Chasing Perfection")
-*How to Build a Happy Life Without Chasing Perfection - Photo by [Josh Felise](https://unsplash.com/@jfelise) on [Unsplash](https://unsplash.com/photos/person-holding-happy-by-alex-lemon-book-yIMy3ERBc3o)*
+{{< figure src="https://images.unsplash.com/photo-1459369510627-9efbee1e6051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTQxOTY4Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="The Book of Happy" title="How to Build a Happy Life Without Chasing Perfection" caption="How to Build a Happy Life Without Chasing Perfection - Photo by [Josh Felise](https://unsplash.com/@jfelise) on [Unsplash](https://unsplash.com/photos/person-holding-happy-by-alex-lemon-book-yIMy3ERBc3o)" >}}
 
 > _“The only person you should try to be better than is the person you were yesterday.”_  
 > — Anonymous
@@ -70,8 +68,7 @@ I used to do this every two hours—pause, reflect, and ask myself if I was happ
 
 ## It’s All About the Frame
 
-![Admiration | Instagram: @timmossholder](https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTQxOTY4Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Happy Life Without Chasing Perfection")
-*How to Build a Happy Life Without Chasing Perfection - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)*
+{{< figure src="https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTQxOTY4Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Admiration | Instagram: @timmossholder" title="How to Build a Happy Life Without Chasing Perfection" caption="How to Build a Happy Life Without Chasing Perfection - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)" >}}
 
 One thing I’ve learned from living in Australia is that changing the environment works better than punishing people. For example, instead of threatening fines for not picking up after your dog, they just provide bags everywhere. The parks stay clean, and people do the right thing. It’s the same in life: change your environment, and your habits will follow.
 

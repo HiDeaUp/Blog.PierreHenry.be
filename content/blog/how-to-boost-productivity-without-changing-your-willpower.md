@@ -12,8 +12,7 @@ original_title = "PRODUCTIVITÉ EXTRÊME - Comment changer sa productivité ?"
 source_medium = "https://medium.com/@phenrysay/ecbfe132ec08"
 +++
 
-![The most powerful word in the world pops up everywhere. Ironically, this is on Sandown Pier on the Isle of Wight (UK) — a place that has not changed for 30 years.](https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0JTIwY2hhbmdlfGVufDB8MHx8fDE3NDkzMjIwNDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity WITHOUT Changing Your Willpower")
-*How to Boost Productivity WITHOUT Changing Your Willpower - Photo by [Ross Findon](https://unsplash.com/@rossfindon) on [Unsplash](https://unsplash.com/photos/change-neon-light-signage-mG28olYFgHI)*
+{{< figure src="https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0JTIwY2hhbmdlfGVufDB8MHx8fDE3NDkzMjIwNDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="The most powerful word in the world pops up everywhere. Ironically, this is on Sandown Pier on the Isle of Wight (UK) — a place that has not changed for 30 years." title="How to Boost Productivity WITHOUT Changing Your Willpower" caption="How to Boost Productivity WITHOUT Changing Your Willpower - Photo by [Ross Findon](https://unsplash.com/@rossfindon) on [Unsplash](https://unsplash.com/photos/change-neon-light-signage-mG28olYFgHI)" >}}
 
 Getting interested in productivity is great. Many of us read books, watch videos, and take courses on how to be more productive. But here’s the catch: after a few days—or sometimes even just a few hours—we rarely put those tips into practice. We slip right back into our old habits. Why does this happen?
 
@@ -26,8 +25,7 @@ Think of it this way: your environment is like the water for a fish. No matter h
 
 If you want to boost your productivity, your environment is the number one thing to look at. Don’t fall into the trap of thinking you’re doomed or that you’ll never change. That’s just an excuse. Even if you live in a tiny apartment, there are always things you can change to make your space work better for you. Sometimes, it’s as simple as reducing noise or clutter.
 
-![There were many short lived pop-up thunderstorms on this day. This one produced a microburst which I was lucky enough to catch on camera. ](https://images.unsplash.com/photo-1561470508-fd4df1ed90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0JTIwY2hhbmdlfGVufDB8MHx8fDE3NDkzMjIwNDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity WITHOUT Changing Your Willpower")
-*How to Boost Productivity WITHOUT Changing Your Willpower - Photo by [NOAA](https://unsplash.com/@noaa) on [Unsplash](https://unsplash.com/photos/microburst-thunderstorm-Led9c1SSNFo)*
+{{< figure src="https://images.unsplash.com/photo-1561470508-fd4df1ed90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0JTIwY2hhbmdlfGVufDB8MHx8fDE3NDkzMjIwNDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="There were many short lived pop-up thunderstorms on this day. This one produced a microburst which I was lucky enough to catch on camera." title="How to Boost Productivity WITHOUT Changing Your Willpower" caption="How to Boost Productivity WITHOUT Changing Your Willpower - Photo by [NOAA](https://unsplash.com/@noaa) on [Unsplash](https://unsplash.com/photos/microburst-thunderstorm-Led9c1SSNFo)" >}}
 
 Noise is a big one. Some people are more sensitive to it than others. The key is to know yourself. If you’re always blaming yourself for being distracted, maybe it’s not just you—it’s your environment. Learning to talk to yourself, to really listen to what you need, can help you spot what’s holding you back.
 
@@ -45,8 +43,7 @@ I’ve been interested in productivity for over 12 years. It’s a topic I love,
 > *“The best time to plant a tree was twenty years ago. The second best time is now.”*  
 > — Chinese Proverb
 
-![life is a succession of choices, what is yours?](https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0JTIwY2hhbmdlfGVufDB8MHx8fDE3NDkzMjIwNDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity WITHOUT Changing Your Willpower")
-*How to Boost Productivity WITHOUT Changing Your Willpower - Photo by [Javier Allegue Barros](https://unsplash.com/@soymeraki) on [Unsplash](https://unsplash.com/photos/silhouette-of-road-signage-during-golden-hour-C7B-ExXpOIE)*
+{{< figure src="https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0JTIwY2hhbmdlfGVufDB8MHx8fDE3NDkzMjIwNDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="life is a succession of choices, what is yours?" title="How to Boost Productivity WITHOUT Changing Your Willpower" caption="How to Boost Productivity WITHOUT Changing Your Willpower - Photo by [Javier Allegue Barros](https://unsplash.com/@soymeraki) on [Unsplash](https://unsplash.com/photos/silhouette-of-road-signage-during-golden-hour-C7B-ExXpOIE)" >}}
 
 ---
 

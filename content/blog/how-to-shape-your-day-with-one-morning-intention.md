@@ -12,8 +12,7 @@ original_title = "Pourquoi je pose une intention positive sur ma journée"
 source_medium = "https://medium.com/@phenrysay/033a37130e56"
 +++
 
-![Photo by bruce mars](https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5MzkwMzQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Day With One Morning Intention")
-*How to Shape Your Day With One Morning Intention - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)*
+{{< figure src="https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5MzkwMzQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on white bed while" title="How to Shape Your Day With One Morning Intention" caption="How to Shape Your Day With One Morning Intention - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)" >}}
 
 Setting an intention for the day is more than just a trendy self-help tip—it’s a small act that can completely change how you experience your life. I recently read a book by an Australian author who talks about the power of intention, especially as part of a morning routine. She calls it the “health morning routine,” and it’s all about starting your day with purpose.
 
@@ -25,8 +24,7 @@ That’s also why I often spend time in beautiful places—hotels, Airbnbs with 
 
 But intention isn’t just about words or music. It’s also about visualizing your ideal day. Take a moment to picture what would make today exceptional. Ask yourself, “What’s the one thing that, if I do it, I’ll be really proud of myself?” Focus on that one thing and give it your all.
 
-![Photo by David Mao](https://images.unsplash.com/photo-1422433555807-2559a27433bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5MzkwMzQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Day With One Morning Intention")
-*How to Shape Your Day With One Morning Intention - Photo by [David Mao](https://unsplash.com/@itsdavo) on [Unsplash](https://unsplash.com/photos/green-ceramic-mug-on-wooden-desk-m0l5J8Lqnzo)*
+{{< figure src="https://images.unsplash.com/photo-1422433555807-2559a27433bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5MzkwMzQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green ceramic mug on wooden desk" title="How to Shape Your Day With One Morning Intention" caption="How to Shape Your Day With One Morning Intention - Photo by [David Mao](https://unsplash.com/@itsdavo) on [Unsplash](https://unsplash.com/photos/green-ceramic-mug-on-wooden-desk-m0l5J8Lqnzo)" >}}
 
 Vision boards are another tool I use. They help you keep your long-term goals in sight, while daily goals keep you moving forward. Reviewing your vision board and your goals each morning can help you stay on track.
 
@@ -45,8 +43,7 @@ So, listen to your body. There’s a lot of advice out there, but what matters m
 > *“Your perception determines your reality. Change your perception, and you change your world.”*  
 > — Anonymous
 
-![Hopeful Horizons](https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5MzkwMzQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Day With One Morning Intention")
-*How to Shape Your Day With One Morning Intention - Photo by [Dawid Zawiła](https://unsplash.com/@davealmine) on [Unsplash](https://unsplash.com/photos/trees-under-cloudy-sky-during-sunset--G3rw6Y02D0)*
+{{< figure src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGludGVudGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5MzkwMzQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Hopeful Horizons" title="How to Shape Your Day With One Morning Intention" caption="How to Shape Your Day With One Morning Intention - Photo by [Dawid Zawiła](https://unsplash.com/@davealmine) on [Unsplash](https://unsplash.com/photos/trees-under-cloudy-sky-during-sunset--G3rw6Y02D0)" >}}
 
 > *“The difference between a good day and a bad day is your attitude.”*  
 > — Dennis S. Brown

@@ -12,8 +12,7 @@ original_title = "Comment se créer une vie passionnante ?"
 source_medium = "https://medium.com/@phenrysay/7c1ccc9620e2"
 +++
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMjQxMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Excites You Without Burning Out")
-*How to Build a Life That Excites You Without Burning Out - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMjQxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Build a Life That Excites You Without Burning Out" caption="How to Build a Life That Excites You Without Burning Out - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 Do you ever feel the urge to learn something new—something that excites you, something that makes you feel alive? As humans, we have a natural drive to push our limits, to discover new knowledge, and to open doors that lead us to new heights. This desire often comes from wanting to become someone we admire, to reach a certain position, or to gain recognition in our field.
 
@@ -25,8 +24,7 @@ It’s great to do something you love, but if it doesn’t bring value to others
 
 Staying curious and hungry to learn is a real goldmine. Don’t underestimate the power of intellectual curiosity. I recommend always being alert to what’s happening around you. Maybe even keep a list of things you want to research—a “why list,” not just a to-do list. Isaac Newton, who discovered the law of gravity, talked about his own “why list”—a list of questions that made him curious. Over time, you can connect the dots between your questions and find new ideas.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMjQxMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Excites You Without Burning Out")
-*How to Build a Life That Excites You Without Burning Out - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMjQxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Build a Life That Excites You Without Burning Out" caption="How to Build a Life That Excites You Without Burning Out - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 There are plenty of tools to help you organize your learning. You can use the Wikipedia app offline, or apps like Raindrop, Pocket, or Instapaper to save articles and websites for later. Note-taking apps like Apple Notes, Microsoft OneNote, or Google Keep are great for storing your thoughts and research. Even voice recording apps like Just Press Record can help you capture ideas on the go.
 
@@ -50,8 +48,7 @@ The key is to stay curious, keep learning, and use your time wisely. That’s ho
 - Stay curious and keep a “why list” of things you want to understand.
 - Use tools to organize your research and ideas.
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMjQxMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Excites You Without Burning Out")
-*How to Build a Life That Excites You Without Burning Out - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMjQxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Build a Life That Excites You Without Burning Out" caption="How to Build a Life That Excites You Without Burning Out - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 ## Action Steps
 

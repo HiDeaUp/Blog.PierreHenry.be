@@ -12,8 +12,7 @@ original_title = "La puissance de respecter ces 3 priorités du moment"
 source_medium = "https://medium.com/@phenrysay/b529d407c9b7"
 +++
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NjA3MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Priorities Without Waiting for Tomorrow")
-*How to Live Your Priorities Without Waiting for Tomorrow - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NjA3MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Live Your Priorities Without Waiting for Tomorrow" caption="How to Live Your Priorities Without Waiting for Tomorrow - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 Every day, I hear people say, “Tomorrow, I’ll start writing my book. Tomorrow, I’ll launch my business. Tomorrow, I’ll join the gym. Tomorrow, I’ll travel the world.” The list goes on—saving for a house, creating a video course, changing jobs. But for most, tomorrow never arrives. There’s always something in the way: not enough money, not enough time, family obligations, or simply the feeling that it’s not the right moment.
 
@@ -29,8 +28,7 @@ During that time, I lived simply—buying fresh fruit and vegetables, taking the
 
 You never know what will happen in a few weeks, months, or years. Life gets busier, not easier. We often think, “After this, I’ll have more time.” But that’s rarely true. Projects always take longer than expected, and even when you work late into the night, there’s always more to do.
 
-![Photo by faizan khan](https://images.unsplash.com/photo-1635267065514-00dd006878a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NjA3MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Priorities Without Waiting for Tomorrow")
-*How to Live Your Priorities Without Waiting for Tomorrow - Photo by [faizan khan](https://unsplash.com/@faizankhan3545) on [Unsplash](https://unsplash.com/photos/a-green-alarm-clock-sitting-on-top-of-a-table-eT1gMuQJlSI)*
+{{< figure src="https://images.unsplash.com/photo-1635267065514-00dd006878a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NjA3MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A green alarm clock sitting on top of a table" title="How to Live Your Priorities Without Waiting for Tomorrow" caption="How to Live Your Priorities Without Waiting for Tomorrow - Photo by [faizan khan](https://unsplash.com/@faizankhan3545) on [Unsplash](https://unsplash.com/photos/a-green-alarm-clock-sitting-on-top-of-a-table-eT1gMuQJlSI)" >}}
 
 It’s important to recognize your limits and understand that time is finite. The key is to prioritize what truly brings you joy. Start with what makes you feel good, what gives you positive energy. Life is beautiful and deserves to be enjoyed fully.
 
@@ -52,8 +50,7 @@ I also recommend the book *The One Thing*. It’s a great read if you want to ge
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, slow down, don't rush, less haste more speed, rush, panic, do not panic, relax, breathe, concentrate, ](https://images.unsplash.com/photo-1620905789653-5bc13d0e8fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NjA3MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Priorities Without Waiting for Tomorrow")
-*How to Live Your Priorities Without Waiting for Tomorrow - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4Rvi7ybXmGo)*
+{{< figure src="https://images.unsplash.com/photo-1620905789653-5bc13d0e8fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NjA3MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Live Your Priorities Without Waiting for Tomorrow" caption="How to Live Your Priorities Without Waiting for Tomorrow - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4Rvi7ybXmGo)" >}}
 
 ## Key Takeaways
 

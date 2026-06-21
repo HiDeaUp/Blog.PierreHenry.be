@@ -12,8 +12,7 @@ original_title = "La vie peut s’arrêter à tout moment. Ce qu’il faut savoi
 source_medium = "https://medium.com/@phenrysay/35c3de4fa852"
 +++
 
-![A young boy looking at the mountain view on the top of Katzbegi mountain.](https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwYWR2aWNlJTIwbW9ydGFsaXR5JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTY0NTMzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Life Before It’s Too Late")
-*How to Take Control of Life Before It’s Too Late - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)*
+{{< figure src="https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwYWR2aWNlJTIwbW9ydGFsaXR5JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTY0NTMzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A young boy looking at the mountain view on the top of Katzbegi mountain." title="How to Take Control of Life Before It’s Too Late" caption="How to Take Control of Life Before It’s Too Late - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)" >}}
 
 Have you ever stopped to think about how unpredictable life really is? We never know when it will end. One day, everything just stops. That’s why it’s so important to get on the path of your own life and take control. Don’t let life just happen to you. Be the main character in your own story.
 
@@ -27,9 +26,7 @@ Don’t put off what you want to do today. The best time to start was yesterday.
 
 Everyone is capable of doing what they want. You just have to want it enough. If you’re obsessed with an idea or a goal, you can make it happen. Everything is possible. Of course, we often think that bad news only happens to others. We hear about someone getting sick or passing away young and think, “That won’t happen to me.” But the truth is, we have no idea.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwYWR2aWNlJTIwbW9ydGFsaXR5JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTY0NTMzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Life Before It’s Too Late")
-*How to Take Control of Life Before It’s Too Late - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwYWR2aWNlJTIwbW9ydGFsaXR5JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTY0NTMzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Take Control of Life Before It’s Too Late" caption="How to Take Control of Life Before It’s Too Late - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 So, focus on your dreams. Think about the things you would regret if you were on your deathbed. Do them now. There’s no point in waiting. The best moment is right now.
 
@@ -48,8 +45,7 @@ You also need to get to know yourself better. Most of us don’t spend enough ti
 
 Remember, the only real limits are the ones you set for yourself. By pushing your boundaries and stepping out of your comfort zone, you can create a life that matches what you truly want.
 
-![Photo by Natanael Vieira](https://images.unsplash.com/photo-1586009721006-9e0a727b590e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwYWR2aWNlJTIwbW9ydGFsaXR5JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTY0NTMzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Life Before It’s Too Late")
-*How to Take Control of Life Before It’s Too Late - Photo by [Natanael Vieira](https://unsplash.com/@natanaelvieir) on [Unsplash](https://unsplash.com/photos/man-in-white-t-shirt-sitting-on-rock-formation-near-body-of-water-during-daytime-AJoRUFDT1IM)*
+{{< figure src="https://images.unsplash.com/photo-1586009721006-9e0a727b590e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwYWR2aWNlJTIwbW9ydGFsaXR5JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTY0NTMzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in white t shirt sitting on rock near body of water during daytime" title="How to Take Control of Life Before It’s Too Late" caption="How to Take Control of Life Before It’s Too Late - Photo by [Natanael Vieira](https://unsplash.com/@natanaelvieir) on [Unsplash](https://unsplash.com/photos/man-in-white-t-shirt-sitting-on-rock-formation-near-body-of-water-during-daytime-AJoRUFDT1IM)" >}}
 
 ---
 

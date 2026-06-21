@@ -12,8 +12,7 @@ original_title = "Comment S’apaiser ? CE QUE JE FAIS EXACTEMENT après avoir e
 source_medium = "https://medium.com/@phenrysay/c09dfb75c64b"
 +++
 
-![Photo by Mink Mingle](https://images.unsplash.com/photo-1546440765-e7e3c881b5fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXNvb3RoaW5nJTIwbmVnYXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1Mzg2ODA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Letting Negativity Take Over")
-*How to Find Calm Without Letting Negativity Take Over - Photo by [Mink Mingle](https://unsplash.com/@minkmingle) on [Unsplash](https://unsplash.com/photos/woman-waving-her-hands-during-golden-hour-tXeTUbu9cFg)*
+{{< figure src="https://images.unsplash.com/photo-1546440765-e7e3c881b5fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXNvb3RoaW5nJTIwbmVnYXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1Mzg2ODA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman waving her hands during golden hour" title="How to Find Calm Without Letting Negativity Take Over" caption="How to Find Calm Without Letting Negativity Take Over - Photo by [Mink Mingle](https://unsplash.com/@minkmingle) on [Unsplash](https://unsplash.com/photos/woman-waving-her-hands-during-golden-hour-tXeTUbu9cFg)" >}}
 
 Negativity and stress are part of life. Whether it’s at work, from a boss or a colleague you care about, or even just a random person at the supermarket who treats you poorly, negativity finds its way in. Sometimes, it’s a disagreement with someone close—your parents, your kids, your partner. You want to do things differently for once, but the other person insists it always goes your way. Suddenly, you’re accused of being selfish, even though you usually give in. That sense of injustice stings, and it adds to your mental load.
 
@@ -30,8 +29,7 @@ Stress can feel overwhelming, like a weight on your chest. But remind yourself: 
 > _The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience._
 > —Eleanor Roosevelt
 
-![Dreamer portrait the back.](https://images.unsplash.com/photo-1483507793184-3ad22c13c190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXNvb3RoaW5nJTIwbmVnYXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1Mzg2ODA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Letting Negativity Take Over")
-*How to Find Calm Without Letting Negativity Take Over - Photo by [Larm Rmah](https://unsplash.com/@larm) on [Unsplash](https://unsplash.com/photos/woman-wearing-red-shirt-with-white-flower-on-back-NiHWeIgI-tc)*
+{{< figure src="https://images.unsplash.com/photo-1483507793184-3ad22c13c190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXNvb3RoaW5nJTIwbmVnYXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1Mzg2ODA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Dreamer portrait the back." title="How to Find Calm Without Letting Negativity Take Over" caption="How to Find Calm Without Letting Negativity Take Over - Photo by [Larm Rmah](https://unsplash.com/@larm) on [Unsplash](https://unsplash.com/photos/woman-wearing-red-shirt-with-white-flower-on-back-NiHWeIgI-tc)" >}}
 
 Devour life. Find the things you love—those little “cherries on the cake.” Give yourself rewards for completing tasks, even small ones. That’s what keeps you motivated. Life is beautiful and deserves to be lived fully. Start devouring it today, because life won’t wait for you. Time is like a train that never stops. If you don’t get on now, your share of time gets smaller every day.
 
@@ -53,8 +51,7 @@ If you make space to think about what you want to build, what matters to you, an
 
 ---
 
-![Photo by Alexey Demidov](https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXNvb3RoaW5nJTIwbmVnYXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1Mzg2ODA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Letting Negativity Take Over")
-*How to Find Calm Without Letting Negativity Take Over - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)*
+{{< figure src="https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXNvb3RoaW5nJTIwbmVnYXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1Mzg2ODA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a dock looking at a lake" title="How to Find Calm Without Letting Negativity Take Over" caption="How to Find Calm Without Letting Negativity Take Over - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)" >}}
 
 ## Key Takeaways
 

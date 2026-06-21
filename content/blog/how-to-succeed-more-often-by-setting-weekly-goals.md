@@ -12,8 +12,7 @@ original_title = "Les objectifs qui motivent 🚀 Comment mieux réussir"
 source_medium = "https://medium.com/@phenrysay/7de5216c471d"
 +++
 
-![Photo by BENCE BOROS](https://images.unsplash.com/photo-1546248449-bd928a6effe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb2FsJTIwc2V0dGluZyUyMG1vdGl2YXRpb24lMjB3ZWVrbHklMjBnb2Fsc3xlbnwwfDB8fHwxNzU2NjM5OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed More Often by Setting Weekly Goals")
-*How to Succeed More Often by Setting Weekly Goals - Photo by [BENCE BOROS](https://unsplash.com/@benceboros) on [Unsplash](https://unsplash.com/photos/black-e-book-reader-beside-open-book-sc7ivPcb7e4)*
+{{< figure src="https://images.unsplash.com/photo-1546248449-bd928a6effe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb2FsJTIwc2V0dGluZyUyMG1vdGl2YXRpb24lMjB3ZWVrbHklMjBnb2Fsc3xlbnwwfDB8fHwxNzU2NjM5OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black e book reader beside open book" title="How to Succeed More Often by Setting Weekly Goals" caption="How to Succeed More Often by Setting Weekly Goals - Photo by [BENCE BOROS](https://unsplash.com/@benceboros) on [Unsplash](https://unsplash.com/photos/black-e-book-reader-beside-open-book-sc7ivPcb7e4)" >}}
 
 Setting goals is something we all hear about, but how often do we actually write them down and make them fit our real lives? I’ve noticed that my own goals change from week to week. One week, I might be focused on launching a new project with friends; the next, I’m working on a web app or considering a new job opportunity. Life moves quickly, and new events and opportunities constantly shift our priorities.
 
@@ -29,8 +28,7 @@ Think of it like building a house brick by brick. Each week, you lay down anothe
 
 ## Make Your Goals Concrete
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb2FsJTIwc2V0dGluZyUyMG1vdGl2YXRpb24lMjB3ZWVrbHklMjBnb2Fsc3xlbnwwfDB8fHwxNzU2NjM5OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed More Often by Setting Weekly Goals")
-*How to Succeed More Often by Setting Weekly Goals - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb2FsJTIwc2V0dGluZyUyMG1vdGl2YXRpb24lMjB3ZWVrbHklMjBnb2Fsc3xlbnwwfDB8fHwxNzU2NjM5OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Succeed More Often by Setting Weekly Goals" caption="How to Succeed More Often by Setting Weekly Goals - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 A goal isn’t just something you want to do—it needs a clear result. For example, if your goal is to launch an online course, ask yourself: What do I want to achieve? Maybe it’s earning a certain amount of money, or growing your email list by a set number of people. The key is to define what success looks like, so you know when you’ve reached it.
 
@@ -56,8 +54,7 @@ The real secret is to do a little bit every day. If you write one page a day, yo
 
 ## Take Action—Every Day Counts
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMG1vdGl2YXRpb24lMjB3ZWVrbHklMjBnb2Fsc3xlbnwwfDB8fHwxNzU2NjM5OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed More Often by Setting Weekly Goals")
-*How to Succeed More Often by Setting Weekly Goals - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMG1vdGl2YXRpb24lMjB3ZWVrbHklMjBnb2Fsc3xlbnwwfDB8fHwxNzU2NjM5OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Succeed More Often by Setting Weekly Goals" caption="How to Succeed More Often by Setting Weekly Goals - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
 We all have different goals, but the most important thing is to act. Get up in the morning and do something that moves you closer to your goal. Every day counts. It’s the small, steady steps that lead to real progress.
 

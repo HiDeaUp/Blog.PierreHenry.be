@@ -12,8 +12,7 @@ original_title = "CE QUE J'AI COMMENCÉ À FAIRE CHAQUE MATIN ☀️"
 source_medium = "https://medium.com/@phenrysay/fb8542b8906b"
 +++
 
-![Photo by Sincerely Media](https://images.unsplash.com/photo-1687421790556-a95bcdc1315b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZXMlMjBtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MzY3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Doing Less Each Week Helped Me Achieve More")
-*How Doing Less Each Week Helped Me Achieve More - Photo by [Sincerely Media](https://unsplash.com/@sincerelymedia) on [Unsplash](https://unsplash.com/photos/a-tablet-and-a-cup-of-coffee-on-a-bed-swFY6TYEeJg)*
+{{< figure src="https://images.unsplash.com/photo-1687421790556-a95bcdc1315b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZXMlMjBtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MzY3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tablet and a cup of coffee on a bed" title="How Doing Less Each Week Helped Me Achieve More" caption="How Doing Less Each Week Helped Me Achieve More - Photo by [Sincerely Media](https://unsplash.com/@sincerelymedia) on [Unsplash](https://unsplash.com/photos/a-tablet-and-a-cup-of-coffee-on-a-bed-swFY6TYEeJg)" >}}
 
 Living a simple life doesn’t mean doing nothing. It means creating a life where you actually accomplish things—on your own terms. Too often, we get caught up in trying to do too much, chasing endless to-do lists and piling up projects that never really matter. The result? We end up with a mountain of low-quality work and nothing we’re truly proud of.
 
@@ -21,8 +20,7 @@ But what if you set yourself just two goals a week? Yes, only two. For example, 
 
 This approach gives you more time to think. You avoid burnout. You stop hating what you do because the pressure is gone. You have more space to breathe, to focus, and to actually enjoy the process. Most importantly, you can put real care into what you create. Quality always beats quantity.
 
-![Photo by Sincerely Media](https://images.unsplash.com/photo-1687421790558-f3e27c43991c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZXMlMjBtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MzY3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Doing Less Each Week Helped Me Achieve More")
-*How Doing Less Each Week Helped Me Achieve More - Photo by [Sincerely Media](https://unsplash.com/@sincerelymedia) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-and-a-tablet-on-a-bed-_xhDRg3ruf0)*
+{{< figure src="https://images.unsplash.com/photo-1687421790558-f3e27c43991c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZXMlMjBtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MzY3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cup of coffee and a tablet on a bed" title="How Doing Less Each Week Helped Me Achieve More" caption="How Doing Less Each Week Helped Me Achieve More - Photo by [Sincerely Media](https://unsplash.com/@sincerelymedia) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-and-a-tablet-on-a-bed-_xhDRg3ruf0)" >}}
 
 When you focus on doing fewer things, but doing them well, you start to see the difference. You’re not just busy—you’re building something that matters.
 

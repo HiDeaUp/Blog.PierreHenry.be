@@ -12,8 +12,7 @@ original_title = "La méthode CHOC pour exploser ton enthousiasme !"
 source_medium = "https://medium.com/@phenrysay/4dccebcd15f2"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRodXNpYXNtJTIwcG9zaXRpdmUlMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc4NjMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Enthusiasm Without Burning Out")
-*How to Boost Enthusiasm Without Burning Out - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRodXNpYXNtJTIwcG9zaXRpdmUlMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc4NjMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Boost Enthusiasm Without Burning Out" caption="How to Boost Enthusiasm Without Burning Out - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Let’s get straight to the point: having a purpose in life and keeping your enthusiasm high is not just a “nice to have”—it’s the fuel that keeps you moving forward, even when things get tough. You’ve probably noticed that when you’re positive and excited about something, you naturally find more energy, more motivation, and even more creative ways to get things done. On the other hand, when negativity creeps in, it’s easy to fall into the trap of putting things off, making excuses, and watching the weeks and years slip by without real progress. That’s when frustration and self-doubt start to take over.
 
@@ -29,8 +28,7 @@ When you’re enthusiastic, you attract positive people. Smile, be kind, and you
 
 One practical tip: start tracking your mood. There are apps for this, or you can simply use a notebook. Rate your mood from 0 to 20 each day, note what you’re doing, and see what patterns emerge. You’ll quickly spot which activities lift you up and which ones drag you down. This helps you avoid what drains you and do more of what brings you happiness.
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRodXNpYXNtJTIwcG9zaXRpdmUlMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc4NjMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Enthusiasm Without Burning Out")
-*How to Boost Enthusiasm Without Burning Out - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRodXNpYXNtJTIwcG9zaXRpdmUlMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc4NjMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Boost Enthusiasm Without Burning Out" caption="How to Boost Enthusiasm Without Burning Out - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 Of course, not everything can be fun. For example, I don’t love mowing the lawn, but I found a way to enjoy it by listening to inspiring podcasts and audiobooks while I work. Suddenly, a boring chore becomes a chance to learn from people like Brian Tracy or Napoleon Hill. It’s all about turning a negative into a positive.
 
@@ -54,8 +52,7 @@ Even when things go wrong, there’s something to learn. Maybe you failed at som
 >
 > — Chinese Proverb
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRodXNpYXNtJTIwcG9zaXRpdmUlMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc4NjMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Enthusiasm Without Burning Out")
-*How to Boost Enthusiasm Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRodXNpYXNtJTIwcG9zaXRpdmUlMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc4NjMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Boost Enthusiasm Without Burning Out" caption="How to Boost Enthusiasm Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 ## The Best Time Is Always Now
 

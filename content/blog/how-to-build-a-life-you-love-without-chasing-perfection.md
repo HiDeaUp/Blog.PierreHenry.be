@@ -12,8 +12,7 @@ original_title = "Comment se créer une vie qui nous porte …?"
 source_medium = "https://medium.com/@phenrysay/c9e7e7756fc7"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1638866412550-d0a9040c6cfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjUyNzM5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Chasing Perfection")
-*How to Build a Life You Love Without Chasing Perfection - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-that-says-life-next-to-a-bouquet-of-flowers-4zMgrY348F0)*
+{{< figure src="https://images.unsplash.com/photo-1638866412550-d0a9040c6cfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjUyNzM5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block that says life next to a bouquet of flowers" title="How to Build a Life You Love Without Chasing Perfection" caption="How to Build a Life You Love Without Chasing Perfection - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-that-says-life-next-to-a-bouquet-of-flowers-4zMgrY348F0)" >}}
 
 What does it mean to live a life that lifts you up? It’s not about chasing some distant dream or following a strict formula. It’s about feeling at home in your own skin, waking up and thinking, “Yes, this is the kind of life where I feel good, where I feel carried along.” Let’s look at a few simple ideas to help you create a life that truly fits you.
 
@@ -30,8 +29,7 @@ Notifications, constant messages, and endless tabs can scatter your attention. Y
 > *Wherever you are, be all there.*
 > — Jim Elliot
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjUyNzM5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Chasing Perfection")
-*How to Build a Life You Love Without Chasing Perfection - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
+{{< figure src="https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjUyNzM5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface WpoS C209uk" title="How to Build a Life You Love Without Chasing Perfection" caption="How to Build a Life You Love Without Chasing Perfection - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)" >}}
 
 #### Balance Your Day
 
@@ -53,8 +51,7 @@ Don’t forget to carve out moments just for you. Whether it’s a walk while li
 
 Right now, I’m in the middle of moving to Sydney. I’m staying in a hotel in a lively neighborhood, and even here, I try to keep my space simple and my days balanced. Moving can be distracting, with so many things to do and places to see, but sticking to these habits helps me stay grounded and feel good, no matter where I am.
 
-![Photo by Maria Oswalt](https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjUyNzM5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Chasing Perfection")
-*How to Build a Life You Love Without Chasing Perfection - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)*
+{{< figure src="https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjUyNzM5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow life printed balloon" title="How to Build a Life You Love Without Chasing Perfection" caption="How to Build a Life You Love Without Chasing Perfection - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)" >}}
 
 ---
 

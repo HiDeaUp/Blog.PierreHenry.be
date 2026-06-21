@@ -12,8 +12,7 @@ original_title = "Comment se reconstruire pour mieux vivre ?"
 source_medium = "https://medium.com/@phenrysay/0b1498799186"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Rebuild Your Life With Clear Long-Term Goals")
-*How to Rebuild Your Life With Clear Long-Term Goals - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Rebuild Your Life With Clear Long-Term Goals" caption="How to Rebuild Your Life With Clear Long-Term Goals - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Investing in your life means having a long-term plan. When you know exactly where you want to go, everything becomes clearer. For example, maybe in a year you want to reach a certain salary. In three years, you might dream of living in Switzerland with a net income of 5,500 euros per month. In five years, perhaps you see yourself owning a house by the beach. Or maybe in six years, you want to buy a home because it finally feels right. When you lay out your goals like this, everything starts to connect.
 
@@ -23,8 +22,7 @@ One practical tip is to keep track of your goals and progress. You can use a spr
 
 On my Trello board, for example, I have columns for "Start," "In Progress," "Completed," and "Results." Sometimes, you do things that don't bring much progress toward your main goal, so it's good to review and reflect. Every Sunday, I do a quick retrospective to see if I'm getting closer to or further from my well-defined goal. Whether your dream is to live in Switzerland, Australia, Austria, or to become a French teacher in Costa Rica or Japan, the process is the same. Maybe you want to start a cheese farm in Switzerland or open a chocolate shop in Brussels. Whatever your dream, break it down into steps and check your progress every 20 days or so.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Rebuild Your Life With Clear Long-Term Goals")
-*How to Rebuild Your Life With Clear Long-Term Goals - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Rebuild Your Life With Clear Long-Term Goals" caption="How to Rebuild Your Life With Clear Long-Term Goals - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Ask yourself, "Am I where I wanted to be?" If it's February, will you reach your goal by August? Sometimes you'll move faster, sometimes you'll fall behind because life always brings surprises. That's normal. The key is to adjust and keep moving forward. This way, you bend your path toward success much more easily.
 
@@ -40,8 +38,7 @@ Planning your goal is essential. Don't put off what you want to do today. Start 
 
 ## Key Takeaways
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Rebuild Your Life With Clear Long-Term Goals")
-*How to Rebuild Your Life With Clear Long-Term Goals - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Rebuild Your Life With Clear Long-Term Goals" caption="How to Rebuild Your Life With Clear Long-Term Goals - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 - *Set clear, specific long-term goals.*
 - *Break your goals into smaller, weekly or monthly tasks.*

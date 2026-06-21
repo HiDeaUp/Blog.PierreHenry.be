@@ -12,8 +12,7 @@ original_title = "La routine du succès 🍌"
 source_medium = "https://medium.com/@phenrysay/7d49b8e9556a"
 +++
 
-![Photo by Paul White](https://images.unsplash.com/photo-1630344745808-5a8dc0eb4362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHMlMjByb3V0aW5lfGVufDB8MHx8fDE3NTYwMTUwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Success Routine Without Chasing Trophies")
-*How to Build a Success Routine Without Chasing Trophies - Photo by [Paul White](https://unsplash.com/@paulwhiteplaytowin) on [Unsplash](https://unsplash.com/photos/man-in-gray-hoodie-jacket-pEUuwxkBOOg)*
+{{< figure src="https://images.unsplash.com/photo-1630344745808-5a8dc0eb4362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHMlMjByb3V0aW5lfGVufDB8MHx8fDE3NTYwMTUwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in gray hoodie jacket" title="How to Build a Success Routine Without Chasing Trophies" caption="How to Build a Success Routine Without Chasing Trophies - Photo by [Paul White](https://unsplash.com/@paulwhiteplaytowin) on [Unsplash](https://unsplash.com/photos/man-in-gray-hoodie-jacket-pEUuwxkBOOg)" >}}
 
 When we talk about success, we often imagine big achievements: diplomas, high-paying jobs, or building a company that takes over the world. But what if real success is simply about doing things that make you happy, just for you? Not for the race, not for the rules of society, not to be the best or to impress anyone. Just for the simple joy of it.
 
@@ -21,8 +20,7 @@ Think about the small things you want to do. Maybe you want to try theater, join
 
 This idea is called habit stacking. You take a habit that’s already part of your day, like having breakfast or taking a shower, and you add a new habit right after it. Over time, this new habit becomes just as natural as the old one. The goal is to choose habits that make you feel good, that help you grow, and that bring you peace. Even if the rest of your day goes wrong, you’ll know you did something for yourself.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHMlMjByb3V0aW5lfGVufDB8MHx8fDE3NTYwMTUwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Success Routine Without Chasing Trophies")
-*How to Build a Success Routine Without Chasing Trophies - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHMlMjByb3V0aW5lfGVufDB8MHx8fDE3NTYwMTUwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Build a Success Routine Without Chasing Trophies" caption="How to Build a Success Routine Without Chasing Trophies - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 It’s also important to spend time alone, to check in with yourself. Maybe you sit in a café, not really talking to yourself out loud, but just thinking, maybe writing a bit, reflecting on what you want to do next year. What new version of yourself do you want to create? What new habit or routine do you want to start? Maybe you want to write a book, start a theater group, coach others, or learn something completely new like ceramics or typography.
 
@@ -38,9 +36,7 @@ Your main job is to enjoy what you love, whether it’s theater, piano, ceramics
 >
 > — Albert Schweitzer
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, make this the day, don't hesitate, procrastination, decision time, nocrastination, make the jump, exercise, new start, discipline, now is the time, just do it, make the change, diet, weight loss, walk, new leaf, turn over a new leaf, life change, stuck in a rut, move on, 
-](https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHMlMjByb3V0aW5lfGVufDB8MHx8fDE3NTYwMTUwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Success Routine Without Chasing Trophies")
-*How to Build a Success Routine Without Chasing Trophies - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)*
+{{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHMlMjByb3V0aW5lfGVufDB8MHx8fDE3NTYwMTUwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How to Build a Success Routine Without Chasing Trophies" caption="How to Build a Success Routine Without Chasing Trophies - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 
 ---
 

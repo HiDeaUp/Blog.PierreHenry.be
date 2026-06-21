@@ -12,8 +12,7 @@ original_title = "Comment construire des actions durables ?"
 source_medium = "https://medium.com/@phenrysay/a8e649514de2"
 +++
 
-![Photo by Akash Ravuri](https://images.unsplash.com/photo-1698298802651-e56d5cc81f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGJ1aWxkaW5nJTIwc3VzdGFpbmFibGUlMjBhY3Rpb25zJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTE0Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Habits Without Overwhelm")
-*How to Build Lasting Habits Without Overwhelm - Photo by [Akash Ravuri](https://unsplash.com/@akashravuri) on [Unsplash](https://unsplash.com/photos/a-person-stacking-rocks-on-top-of-each-other-HgvHofatRk0)*
+{{< figure src="https://images.unsplash.com/photo-1698298802651-e56d5cc81f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGJ1aWxkaW5nJTIwc3VzdGFpbmFibGUlMjBhY3Rpb25zJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTE0Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person rocks on top of each other" title="How to Build Lasting Habits Without Overwhelm" caption="How to Build Lasting Habits Without Overwhelm - Photo by [Akash Ravuri](https://unsplash.com/@akashravuri) on [Unsplash](https://unsplash.com/photos/a-person-stacking-rocks-on-top-of-each-other-HgvHofatRk0)" >}}
 
 Have you ever wondered why some people seem to get so much done, while others are always stuck at the starting line? The answer is not about working harder or longer. It’s about building actions that last, one step at a time.
 
@@ -23,8 +22,7 @@ I’ve noticed, both in my own life and by observing others, that happy people u
 
 What if you made a plan for the next three months? Every day, you’d spend those twenty minutes on actions that move you closer to your goals. Each week, you’d adjust your actions a little, making sure you’re always moving forward. Even if something unexpected happens—like dropping a bottle of coconut water—you get right back to your twenty minutes.
 
-![Photo by Adiptalk](https://images.unsplash.com/photo-1635479551123-0abe7e732e96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGJ1aWxkaW5nJTIwc3VzdGFpbmFibGUlMjBhY3Rpb25zJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTE0Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Habits Without Overwhelm")
-*How to Build Lasting Habits Without Overwhelm - Photo by [Adiptalk](https://unsplash.com/@adiptaagung_w) on [Unsplash](https://unsplash.com/photos/a-colorful-wall-with-a-sign-that-says-habitt-on-it-3cfQVjVUnaI)*
+{{< figure src="https://images.unsplash.com/photo-1635479551123-0abe7e732e96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGJ1aWxkaW5nJTIwc3VzdGFpbmFibGUlMjBhY3Rpb25zJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTE0Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wall with a sign that says habitt on it" title="How to Build Lasting Habits Without Overwhelm" caption="How to Build Lasting Habits Without Overwhelm - Photo by [Adiptalk](https://unsplash.com/@adiptaagung_w) on [Unsplash](https://unsplash.com/photos/a-colorful-wall-with-a-sign-that-says-habitt-on-it-3cfQVjVUnaI)" >}}
 
 The key is to make sure your actions are in line with what you want to achieve. It’s important to have a clear vision for your life. Ask yourself, “What do I absolutely want to accomplish?” Be specific. If you know exactly what you want, and you take small steps every day, you will get there.
 
@@ -42,8 +40,7 @@ That’s why just twenty minutes, every day, really matters. It triggers a compo
 >
 > — Robert Collier
 
-![Photo by Andrea Sánchez](https://images.unsplash.com/photo-1622227876140-d848d750ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGJ1aWxkaW5nJTIwc3VzdGFpbmFibGUlMjBhY3Rpb25zJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTE0Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Habits Without Overwhelm")
-*How to Build Lasting Habits Without Overwhelm - Photo by [Andrea Sánchez](https://unsplash.com/@andyspidey) on [Unsplash](https://unsplash.com/photos/green-leaf-on-persons-face-1Z9kF1QesXI)*
+{{< figure src="https://images.unsplash.com/photo-1622227876140-d848d750ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGJ1aWxkaW5nJTIwc3VzdGFpbmFibGUlMjBhY3Rpb25zJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTE0Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leaf on persons face" title="How to Build Lasting Habits Without Overwhelm" caption="How to Build Lasting Habits Without Overwhelm - Photo by [Andrea Sánchez](https://unsplash.com/@andyspidey) on [Unsplash](https://unsplash.com/photos/green-leaf-on-persons-face-1Z9kF1QesXI)" >}}
 
 ---
 

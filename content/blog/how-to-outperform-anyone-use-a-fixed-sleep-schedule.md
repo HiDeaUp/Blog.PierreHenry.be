@@ -12,8 +12,7 @@ original_title = "Routine SIMPLE, pour tous les jours ma méthode pour dépass
 source_medium = "https://medium.com/@phenrysay/9debcfb2d6b4"
 +++
 
-![Photo by Solving Healthcare](https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMHJvdXRpbmUlMjBzbGVlcCUyMHNjaGVkdWxlJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MzU3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Outperform Anyone: Use a Fixed Sleep Schedule")
-*How to Outperform Anyone: Use a Fixed Sleep Schedule - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)*
+{{< figure src="https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMHJvdXRpbmUlMjBzbGVlcCUyMHNjaGVkdWxlJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MzU3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man laying in bed with a clock on top of him nqr6 Ix22EQ" title="How to Outperform Anyone: Use a Fixed Sleep Schedule" caption="How to Outperform Anyone: Use a Fixed Sleep Schedule - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)" >}}
 
 When people talk about routines, they often think of complicated morning rituals or endless to-do lists. But the real game-changer is much simpler: being consistent, especially with your sleep. This is the one habit that can quietly put you ahead of everyone else, no matter your starting point.
 
@@ -27,8 +26,7 @@ Personally, since I work from home, I can take a quick nap during my lunch break
 
 Letting yourself make an exception just once—sleeping in because it’s the weekend, for example—makes it much harder to keep your rhythm. Your body’s clock gets confused, and the next morning is tougher. If you allow yourself one exception, it’s easy to let a second, third, or fourth one slip in. Suddenly, your routine is gone.
 
-![Time flies](https://images.unsplash.com/photo-1651862488140-56cc66c978ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJvdXRpbmUlMjBzbGVlcCUyMHNjaGVkdWxlJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MzU3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Outperform Anyone: Use a Fixed Sleep Schedule")
-*How to Outperform Anyone: Use a Fixed Sleep Schedule - Photo by [Frankie](https://unsplash.com/@tillsunrise) on [Unsplash](https://unsplash.com/photos/a-clock-on-a-shelf-bWwtQHUrfJ0)*
+{{< figure src="https://images.unsplash.com/photo-1651862488140-56cc66c978ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJvdXRpbmUlMjBzbGVlcCUyMHNjaGVkdWxlJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MzU3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time flies" title="How to Outperform Anyone: Use a Fixed Sleep Schedule" caption="How to Outperform Anyone: Use a Fixed Sleep Schedule - Photo by [Frankie](https://unsplash.com/@tillsunrise) on [Unsplash](https://unsplash.com/photos/a-clock-on-a-shelf-bWwtQHUrfJ0)" >}}
 
 The trick is to never allow exceptions. If you’re tired, take a nap or go to bed earlier, but never wake up later than your usual time. This is the only way to keep your body and mind sharp.
 
@@ -48,8 +46,7 @@ Keeping a regular sleep schedule isn’t just about feeling productive. It’s a
 > _“Success is nothing more than a few simple disciplines, practiced every day.”_  
 > — Jim Rohn
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1540416822568-edab9487db77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMHJvdXRpbmUlMjBzbGVlcCUyMHNjaGVkdWxlJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MzU3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Outperform Anyone: Use a Fixed Sleep Schedule")
-*How to Outperform Anyone: Use a Fixed Sleep Schedule - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/round-black-alarm-clock-displaying-312-TbHMgvOBhIQ)*
+{{< figure src="https://images.unsplash.com/photo-1540416822568-edab9487db77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMHJvdXRpbmUlMjBzbGVlcCUyMHNjaGVkdWxlJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MzU3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Round black alarm clock 312" title="How to Outperform Anyone: Use a Fixed Sleep Schedule" caption="How to Outperform Anyone: Use a Fixed Sleep Schedule - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/round-black-alarm-clock-displaying-312-TbHMgvOBhIQ)" >}}
 
 ## How to Stick to Your Routine
 

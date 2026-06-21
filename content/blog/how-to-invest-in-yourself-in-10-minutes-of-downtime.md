@@ -12,8 +12,7 @@ original_title = "Investissement sur soi. La nouvelle façon d'utiliser les temp
 source_medium = "https://medium.com/@phenrysay/aa69edfc08ed"
 +++
 
-![My favorite spot where the time's always 4:20](https://images.unsplash.com/photo-1597618844260-7285218f9010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkb3dudGltZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE1NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself in 10 Minutes of Downtime")
-*How to Invest in Yourself in 10 Minutes of Downtime - Photo by [Jeff W](https://unsplash.com/@fortheloveofsmoke) on [Unsplash](https://unsplash.com/photos/white-and-brown-alarm-clock-at-10-00-3FAwK6UujtM)*
+{{< figure src="https://images.unsplash.com/photo-1597618844260-7285218f9010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkb3dudGltZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE1NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="My favorite spot where the time's always 4:20" title="How to Invest in Yourself in 10 Minutes of Downtime" caption="How to Invest in Yourself in 10 Minutes of Downtime - Photo by [Jeff W](https://unsplash.com/@fortheloveofsmoke) on [Unsplash](https://unsplash.com/photos/white-and-brown-alarm-clock-at-10-00-3FAwK6UujtM)" >}}
 
 Have you ever noticed how much time we spend just waiting? Waiting for the bus, waiting for a friend, standing in line, or sitting in a café with nothing urgent to do. Most of us let these moments slip by, scrolling through our news feeds or letting our minds wander into negative thoughts. But what if these little pockets of time could become your best tool for personal growth?
 
@@ -25,8 +24,7 @@ When you find yourself with ten or twenty minutes to spare, you have a choice. Y
 
 Instead of scrolling aimlessly or waiting without purpose, I try to create something, test a new idea, or simply reflect on how I can improve. Even a quick brainstorming session over a coffee can spark new solutions or help me see opportunities I might have missed.
 
-![Young blond woman is sitting in office working with computer. She is tired after long day at work.](https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkb3dudGltZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE1NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself in 10 Minutes of Downtime")
-*How to Invest in Yourself in 10 Minutes of Downtime - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)*
+{{< figure src="https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkb3dudGltZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE1NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Young blond woman is sitting in office working with computer. She is tired after long day at work." title="How to Invest in Yourself in 10 Minutes of Downtime" caption="How to Invest in Yourself in 10 Minutes of Downtime - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)" >}}
 
 ## Leverage Every Spare Minute
 
@@ -44,8 +42,7 @@ Life is short. If we don’t seize these small opportunities, they slip away, an
 > _“You are the sum of your habits. What you do in your spare moments shapes your future.”_
 > — James Clear
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkb3dudGltZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE1NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself in 10 Minutes of Downtime")
-*How to Invest in Yourself in 10 Minutes of Downtime - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkb3dudGltZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE1NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Invest in Yourself in 10 Minutes of Downtime" caption="How to Invest in Yourself in 10 Minutes of Downtime - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 ---
 

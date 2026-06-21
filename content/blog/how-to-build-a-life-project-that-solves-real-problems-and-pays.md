@@ -12,8 +12,7 @@ original_title = "BÂTIS TON PROJET DE VIE : JE TE MONTRE TOUTES LES ÉTAPES"
 source_medium = "https://medium.com/@phenrysay/1bbcf85736fb"
 +++
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506064-9da2afbbc6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcGxhbm5pbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvamVjdCUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTQzNTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life Project That Solves Real Problems (and Pays)")
-*How to Build a Life Project That Solves Real Problems (and Pays) - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-writing-on-it-A43t7VD3ZAA)*
+{{< figure src="https://images.unsplash.com/photo-1689896506064-9da2afbbc6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcGxhbm5pbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvamVjdCUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTQzNTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a piece of paper with writing on it" title="How to Build a Life Project That Solves Real Problems (and Pays)" caption="How to Build a Life Project That Solves Real Problems (and Pays) - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-writing-on-it-A43t7VD3ZAA)" >}}
 
 When you think about building a life project, it’s easy to get excited about the possibilities. But before you jump into the technical details or dream about making money, there’s one question you need to ask yourself: *Why are you doing this?*
 
@@ -31,8 +30,7 @@ I’m not the world’s best Go programmer, but I had a lot of fun building this
 
 When I launched Mil Snap on Product Hunt, I was surprised by the positive response. Even the founder of Product Hunt left a comment. That gave me a real boost. But not every launch is a hit. Sometimes you get lots of attention, sometimes not. It’s a bit like posting videos on YouTube—some take off, others don’t.
 
-![Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background](https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcGxhbm5pbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvamVjdCUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTQzNTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life Project That Solves Real Problems (and Pays)")
-*How to Build a Life Project That Solves Real Problems (and Pays) - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)*
+{{< figure src="https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcGxhbm5pbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvamVjdCUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTQzNTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background" title="How to Build a Life Project That Solves Real Problems (and Pays)" caption="How to Build a Life Project That Solves Real Problems (and Pays) - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)" >}}
 
 One thing I learned: if you want traction, you have to talk about your project everywhere—email, social media, and so on. And if you’re selling subscriptions through the Apple Store, be ready for a lot of paperwork. Apple asks for tons of documents, and it takes time to get your account approved. But if your company makes less than a million a year, you can join their Small Business Program and pay a lower commission (15% instead of 30%).
 
@@ -58,8 +56,7 @@ Maybe your project isn’t an app. Maybe it’s a service, a website, or somethi
 >
 > — Peter Drucker
 
-![Photo by 1Click](https://images.unsplash.com/photo-1622988766425-8ecbae9cef6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcGxhbm5pbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvamVjdCUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTQzNTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life Project That Solves Real Problems (and Pays)")
-*How to Build a Life Project That Solves Real Problems (and Pays) - Photo by [1Click](https://unsplash.com/@1clickaf) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-planning-tomorrow-today-AsYSVoAxOhw)*
+{{< figure src="https://images.unsplash.com/photo-1622988766425-8ecbae9cef6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcGxhbm5pbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvamVjdCUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTQzNTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that says today" title="How to Build a Life Project That Solves Real Problems (and Pays)" caption="How to Build a Life Project That Solves Real Problems (and Pays) - Photo by [1Click](https://unsplash.com/@1clickaf) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-planning-tomorrow-today-AsYSVoAxOhw)" >}}
 
 > *If you’re not solving your own problem, you’ll never truly understand your users.*
 >

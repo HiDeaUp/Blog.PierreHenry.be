@@ -12,8 +12,7 @@ original_title = "TON ATTITUDE, C'EST TA REPRÉSENTATION DE CE QUE LES GENS PER�
 source_medium = "https://medium.com/@phenrysay/725dee9b2b6f"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdHRpdHVkZSUyMHNlbGYtcGVyY2VwdGlvbiUyMHBlcnNvbmFsJTIwYnJhbmRpbmd8ZW58MHwwfHx8MTc1NTYzODkxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Attitude Without Faking Confidence")
-*How to Shape Your Attitude Without Faking Confidence - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdHRpdHVkZSUyMHNlbGYtcGVyY2VwdGlvbiUyMHBlcnNvbmFsJTIwYnJhbmRpbmd8ZW58MHwwfHx8MTc1NTYzODkxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Shape Your Attitude Without Faking Confidence" caption="How to Shape Your Attitude Without Faking Confidence - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Attitude is one of those things that can change everything. It’s not just about being cheerful or polite. It’s about how you handle the unexpected, how you stand when life throws you a curveball, and how you show up when things don’t go as planned. Every day brings surprises. Sometimes, our plans fall apart. What really counts is how we react in those moments.
 
@@ -23,8 +22,7 @@ I was walking by a building that caught my eye. There’s something about its ar
 
 When you have a good attitude, people notice. They remember if you’re always on time, if you stand by your word, and if you show confidence—even when you’re not sure of the answer. Nobody has all the answers. Things change, new facts come to light, and what’s true today might not be true tomorrow. Science itself is always evolving. But showing a certain confidence, even when you’re not completely sure, puts people at ease. Most people don’t like uncertainty. If you’re always hesitating, always saying “I don’t know,” it makes others uneasy.
 
-![I AM BOLD](https://images.unsplash.com/photo-1512242712282-774a8bc0d9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdHRpdHVkZSUyMHNlbGYtcGVyY2VwdGlvbiUyMHBlcnNvbmFsJTIwYnJhbmRpbmd8ZW58MHwwfHx8MTc1NTYzODkxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Attitude Without Faking Confidence")
-*How to Shape Your Attitude Without Faking Confidence - Photo by [Steve Harvey](https://unsplash.com/@trommelkopf) on [Unsplash](https://unsplash.com/photos/i-am-bold-neon-signage-at-night-time-SoZ3b8LLOdo)*
+{{< figure src="https://images.unsplash.com/photo-1512242712282-774a8bc0d9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdHRpdHVkZSUyMHNlbGYtcGVyY2VwdGlvbiUyMHBlcnNvbmFsJTIwYnJhbmRpbmd8ZW58MHwwfHx8MTc1NTYzODkxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="I AM BOLD" title="How to Shape Your Attitude Without Faking Confidence" caption="How to Shape Your Attitude Without Faking Confidence - Photo by [Steve Harvey](https://unsplash.com/@trommelkopf) on [Unsplash](https://unsplash.com/photos/i-am-bold-neon-signage-at-night-time-SoZ3b8LLOdo)" >}}
 
 Think about someone who says, “Tomorrow we’ll do this. The sun sets at 9:28 PM.” Even if it’s actually 9:30 PM, and even though sunset times change throughout the year, that certainty is reassuring. It’s not about being stubborn or refusing to learn. It’s about having a steady attitude that gives others confidence.
 
@@ -42,8 +40,7 @@ I love the change of seasons. Watching the leaves fall reminds me that change is
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, i am, jesus, god, jehovah, jhwh, yahweh, john 8, ](https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdHRpdHVkZSUyMHNlbGYtcGVyY2VwdGlvbiUyMHBlcnNvbmFsJTIwYnJhbmRpbmd8ZW58MHwwfHx8MTc1NTYzODkxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Attitude Without Faking Confidence")
-*How to Shape Your Attitude Without Faking Confidence - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-8OLfV5F9nO4)*
+{{< figure src="https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdHRpdHVkZSUyMHNlbGYtcGVyY2VwdGlvbiUyMHBlcnNvbmFsJTIwYnJhbmRpbmd8ZW58MHwwfHx8MTc1NTYzODkxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter t letter" title="How to Shape Your Attitude Without Faking Confidence" caption="How to Shape Your Attitude Without Faking Confidence - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-8OLfV5F9nO4)" >}}
 
 ## Key Takeaways
 

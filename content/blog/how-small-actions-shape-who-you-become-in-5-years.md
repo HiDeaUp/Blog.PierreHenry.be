@@ -12,8 +12,7 @@ original_title = "Devenir la meilleure version de soi-même"
 source_medium = "https://medium.com/@phenrysay/c7be6623abe0"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU1NTg3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Actions Shape Who You Become in 5 Years")
-*How Small Actions Shape Who You Become in 5 Years - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU1NTg3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How Small Actions Shape Who You Become in 5 Years" caption="How Small Actions Shape Who You Become in 5 Years - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 There’s a simple idea that has changed my life: taking action. It sounds basic, but it’s the difference between moving forward and staying stuck. Even something as small as cleaning your phone screen can be a positive step. When you do something, especially something good, you improve your environment and your mindset.
 
@@ -31,8 +30,7 @@ Some activities instantly boost your mood and energy. Listening to your favorite
 
 The more you fill your days with these positive triggers, the more they become part of your routine. Over time, you’ll feel more energetic and confident, and you’ll be much more likely to reach your goals in three or five years. Every day, you’re building habits that support the person you want to become.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU1NTg3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Actions Shape Who You Become in 5 Years")
-*How Small Actions Shape Who You Become in 5 Years - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU1NTg3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How Small Actions Shape Who You Become in 5 Years" caption="How Small Actions Shape Who You Become in 5 Years - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 > _“The best way to get something done is to begin.”_  
 > — Unknown
@@ -58,8 +56,7 @@ For me, waking up early is precious. Those quiet hours in the morning are just f
 
 The real goal is to wake up naturally, without an alarm, at the same time every day. That way, you’re not jolted out of deep sleep, and you start your day feeling rested and ready. It’s all about rhythm and consistency.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU1NTg3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Actions Shape Who You Become in 5 Years")
-*How Small Actions Shape Who You Become in 5 Years - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU1NTg3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How Small Actions Shape Who You Become in 5 Years" caption="How Small Actions Shape Who You Become in 5 Years - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
 > — Robert Collier

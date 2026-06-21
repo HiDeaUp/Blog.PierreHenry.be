@@ -10,8 +10,7 @@ original_title = "On se crée une vie illimitée sur mesure 🥂"
 source_medium = "https://medium.com/@phenrysay/32d7539832ce"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaW1pdGxlc3MlMjBsaXZpbmclMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtZGVzaWdufGVufDB8MHx8fDE3NTY1MTc0MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design a Limitless Life Without Waiting for Permission")
-*How to Design a Limitless Life Without Waiting for Permission - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaW1pdGxlc3MlMjBsaXZpbmclMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtZGVzaWdufGVufDB8MHx8fDE3NTY1MTc0MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Design a Limitless Life Without Waiting for Permission" caption="How to Design a Limitless Life Without Waiting for Permission - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 There’s something magical about creating things. Not just making stuff for the sake of it, but really shaping your life, drawing inspiration from your surroundings, and realizing that you can do far more than you ever imagined. We all have this hidden ability to climb mountains, reach for the moon, and do things that once seemed impossible. So why do only a handful of people actually do it?
 
@@ -26,8 +25,7 @@ Think of life like a field with no fences, or like a sandbox where anything is p
 > _The only limits in life are the ones you make in your mind._
 > —Anonymous
 
-![Isolated young tree with root plant](https://images.unsplash.com/photo-1590241884933-0b9913523bd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaW1pdGxlc3MlMjBsaXZpbmclMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtZGVzaWdufGVufDB8MHx8fDE3NTY1MTc0MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design a Limitless Life Without Waiting for Permission")
-*How to Design a Limitless Life Without Waiting for Permission - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/green-palm-tree-on-brown-rock-in-the-middle-of-the-sea-7yb4N-1fM1k)*
+{{< figure src="https://images.unsplash.com/photo-1590241884933-0b9913523bd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaW1pdGxlc3MlMjBsaXZpbmclMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtZGVzaWdufGVufDB8MHx8fDE3NTY1MTc0MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Isolated young tree with root plant" title="How to Design a Limitless Life Without Waiting for Permission" caption="How to Design a Limitless Life Without Waiting for Permission - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/green-palm-tree-on-brown-rock-in-the-middle-of-the-sea-7yb4N-1fM1k)" >}}
 
 I spend my days and nights sharing everything I know because it’s my mission. Helping others is what makes me feel alive. You should find what makes you feel alive, too. When you do, you can design your life without limits. Everything is possible if you want it badly enough. That kind of intense desire opens doors you never knew existed.
 
@@ -49,8 +47,7 @@ So, what’s the point? Raise your limits. If you want to go further, start now.
 
 ---
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaW1pdGxlc3MlMjBsaXZpbmclMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtZGVzaWdufGVufDB8MHx8fDE3NTY1MTc0MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design a Limitless Life Without Waiting for Permission")
-*How to Design a Limitless Life Without Waiting for Permission - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaW1pdGxlc3MlMjBsaXZpbmclMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtZGVzaWdufGVufDB8MHx8fDE3NTY1MTc0MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Design a Limitless Life Without Waiting for Permission" caption="How to Design a Limitless Life Without Waiting for Permission - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 ## Key Takeaways
 

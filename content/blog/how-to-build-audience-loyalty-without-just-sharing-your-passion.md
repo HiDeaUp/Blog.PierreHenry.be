@@ -12,8 +12,7 @@ original_title = "Comment fidéliser ton audience ? Ce que tu risques de rater"
 source_medium = "https://medium.com/@phenrysay/24c3a7488818"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1675856899175-de4dada137c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdWRpZW5jZSUyMGVuZ2FnZW1lbnQlMjBicmFuZCUyMGxveWFsdHklMjBjb250ZW50JTIwY3JlYXRpb258ZW58MHwwfHx8MTc1NTU3ODQ1NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Audience Loyalty Without Just Sharing Your Passion")
-*How to Build Audience Loyalty Without Just Sharing Your Passion - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-person-taking-a-picture-with-a-cell-phone-M4al6qmb7gQ)*
+{{< figure src="https://images.unsplash.com/photo-1675856899175-de4dada137c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdWRpZW5jZSUyMGVuZ2FnZW1lbnQlMjBicmFuZCUyMGxveWFsdHklMjBjb250ZW50JTIwY3JlYXRpb258ZW58MHwwfHx8MTc1NTU3ODQ1NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person taking a picture with a cell phone" title="How to Build Audience Loyalty Without Just Sharing Your Passion" caption="How to Build Audience Loyalty Without Just Sharing Your Passion - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-person-taking-a-picture-with-a-cell-phone-M4al6qmb7gQ)" >}}
 
 Building real loyalty with your audience makes all the difference. It’s not enough to simply share your passion with the world—even if you believe, deep down, that everyone should know about it. The real magic happens when you create a movement around your cause, something that goes beyond just sharing. It’s about gathering people who care as much as you do, and turning them into a community—a small family, even—centered around what you love.
 
@@ -21,8 +20,7 @@ The first and most important step is to offer content of the highest quality. Th
 
 Once you’ve built this community around your passion or your cause, something interesting happens. You can start to offer products—maybe a course, maybe a workshop. And here’s where the difference really shows. People who are passionate about your content, who see the value you bring, are naturally much more likely to buy what you offer. They think, “Wow, the value this person gives for free is already incredible. I feel a bit indebted, and I can only imagine how good their paid content must be.” They trust you. They know you’re knowledgeable, that you’re a professional. So, they’re ready to invest in what you create.
 
-![Photo by Noralí Nayla](https://images.unsplash.com/photo-1588979657147-951e081c7e25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdWRpZW5jZSUyMGVuZ2FnZW1lbnQlMjBicmFuZCUyMGxveWFsdHklMjBjb250ZW50JTIwY3JlYXRpb258ZW58MHwwfHx8MTc1NTU3ODQ1NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Audience Loyalty Without Just Sharing Your Passion")
-*How to Build Audience Loyalty Without Just Sharing Your Passion - Photo by [Noralí Nayla](https://unsplash.com/@noralinayla) on [Unsplash](https://unsplash.com/photos/people-watching-concert-during-night-time-_u0d-ooDEk0)*
+{{< figure src="https://images.unsplash.com/photo-1588979657147-951e081c7e25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdWRpZW5jZSUyMGVuZ2FnZW1lbnQlMjBicmFuZCUyMGxveWFsdHklMjBjb250ZW50JTIwY3JlYXRpb258ZW58MHwwfHx8MTc1NTU3ODQ1NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="People concert during night time _u0d ooDEk0" title="How to Build Audience Loyalty Without Just Sharing Your Passion" caption="How to Build Audience Loyalty Without Just Sharing Your Passion - Photo by [Noralí Nayla](https://unsplash.com/@noralinayla) on [Unsplash](https://unsplash.com/photos/people-watching-concert-during-night-time-_u0d-ooDEk0)" >}}
 
 This is the path I wish for you: first, build loyalty with your audience. Then, and only then, think about monetizing. Loyalty comes first; monetization follows.
 
@@ -38,8 +36,7 @@ This is the path I wish for you: first, build loyalty with your audience. Then, 
 
 ---
 
-![Over the shoulder shot of a red-haired woman reading a book at a cafe, at a wooden table, with a fancy white pen and black notebook nearby. ](https://images.unsplash.com/photo-1607702706617-c1bb25e1d5e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdWRpZW5jZSUyMGVuZ2FnZW1lbnQlMjBicmFuZCUyMGxveWFsdHklMjBjb250ZW50JTIwY3JlYXRpb258ZW58MHwwfHx8MTc1NTU3ODQ1NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Audience Loyalty Without Just Sharing Your Passion")
-*How to Build Audience Loyalty Without Just Sharing Your Passion - Photo by [Melanie Deziel](https://unsplash.com/@storyfuel) on [Unsplash](https://unsplash.com/photos/person-holding-white-and-red-card-g3nAK4QJb_8)*
+{{< figure src="https://images.unsplash.com/photo-1607702706617-c1bb25e1d5e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdWRpZW5jZSUyMGVuZ2FnZW1lbnQlMjBicmFuZCUyMGxveWFsdHklMjBjb250ZW50JTIwY3JlYXRpb258ZW58MHwwfHx8MTc1NTU3ODQ1NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Over the shoulder shot of a red-haired woman reading a book at a cafe, at a wooden table, with a fancy white pen and black notebook nearby." title="How to Build Audience Loyalty Without Just Sharing Your Passion" caption="How to Build Audience Loyalty Without Just Sharing Your Passion - Photo by [Melanie Deziel](https://unsplash.com/@storyfuel) on [Unsplash](https://unsplash.com/photos/person-holding-white-and-red-card-g3nAK4QJb_8)" >}}
 
 ## Key Takeaways
 - Build a movement, not just an audience.

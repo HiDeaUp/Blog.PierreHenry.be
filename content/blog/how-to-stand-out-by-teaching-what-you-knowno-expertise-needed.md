@@ -12,8 +12,7 @@ original_title = "Comment devenir un INFOPRENEUR"
 source_medium = "https://medium.com/@phenrysay/c0826db20d71"
 +++
 
-![Work on notebook](https://images.unsplash.com/photo-1484807352052-23338990c6c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjB0ZWFjaGluZyUyMGtub3dsZWRnZSUyMHNoYXJpbmd8ZW58MHwwfHx8MTc0OTQxNDU5OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out by Teaching What You Know—No Expertise Needed")
-*How to Stand Out by Teaching What You Know—No Expertise Needed - Photo by [Sergey Zolkin](https://unsplash.com/@szolkin) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-using-macbook-_UeY8aTI6d0)*
+{{< figure src="https://images.unsplash.com/photo-1484807352052-23338990c6c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjB0ZWFjaGluZyUyMGtub3dsZWRnZSUyMHNoYXJpbmd8ZW58MHwwfHx8MTc0OTQxNDU5OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Work on notebook" title="How to Stand Out by Teaching What You Know—No Expertise Needed" caption="How to Stand Out by Teaching What You Know—No Expertise Needed - Photo by [Sergey Zolkin](https://unsplash.com/@szolkin) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-using-macbook-_UeY8aTI6d0)" >}}
 
 Have you ever thought about sharing what you know—your skills, your knowledge, your experiences—with others? Whether it’s through online courses, training videos, books, meetups, or even one-on-one sessions, passing on what you’ve learned is one of the most powerful things you can do. Let me tell you why.
 
@@ -23,8 +22,7 @@ Second, teaching forces you to organize your thoughts. When you prepare to expla
 
 There’s another big benefit: memory. When you teach what you’ve just learned, you reinforce it in your mind. The act of explaining helps you remember it for much longer. A year, two years, even three years down the line, you’ll find that the information sticks with you much better than if you’d just kept it to yourself. If you don’t teach it, knowledge tends to fade away, and you might have to relearn it all over again.
 
-![Tattooed woman with laptop](https://images.unsplash.com/photo-1485217988980-11786ced9454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjB0ZWFjaGluZyUyMGtub3dsZWRnZSUyMHNoYXJpbmd8ZW58MHwwfHx8MTc0OTQxNDU5OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out by Teaching What You Know—No Expertise Needed")
-*How to Stand Out by Teaching What You Know—No Expertise Needed - Photo by [Brooke Cagle](https://unsplash.com/@brookecagle) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-brown-wooden-chair-while-using-silver-laptop-computer-in-room-WHWYBmtn3_0)*
+{{< figure src="https://images.unsplash.com/photo-1485217988980-11786ced9454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjB0ZWFjaGluZyUyMGtub3dsZWRnZSUyMHNoYXJpbmd8ZW58MHwwfHx8MTc0OTQxNDU5OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tattooed woman with laptop" title="How to Stand Out by Teaching What You Know—No Expertise Needed" caption="How to Stand Out by Teaching What You Know—No Expertise Needed - Photo by [Brooke Cagle](https://unsplash.com/@brookecagle) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-brown-wooden-chair-while-using-silver-laptop-computer-in-room-WHWYBmtn3_0)" >}}
 
 But perhaps the most surprising thing about teaching is how it changes how others see you. When you share your knowledge, you automatically become an expert in the eyes of others. It’s like stepping onto a stage—even if it’s just a metaphorical one. You can introduce yourself as an author, a trainer, or a specialist in your field. Sometimes, you might even be one of the first to teach a new topic. The first people who taught about Bitcoin or the Metaverse, for example, quickly became known as experts.
 
@@ -40,8 +38,7 @@ So, if you’re learning something new today, teach it. If you’re reading a bo
 
 ---
 
-![Woman teaching a class. There's a whiteboard in the background.](https://images.unsplash.com/photo-1664382953518-4a664ab8a8c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjB0ZWFjaGluZyUyMGtub3dsZWRnZSUyMHNoYXJpbmd8ZW58MHwwfHx8MTc0OTQxNDU5OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out by Teaching What You Know—No Expertise Needed")
-*How to Stand Out by Teaching What You Know—No Expertise Needed - Photo by [Centre for Ageing Better](https://unsplash.com/@ageing_better) on [Unsplash](https://unsplash.com/photos/a-person-writing-on-a-whiteboard-cPyO3GEYjZ4)*
+{{< figure src="https://images.unsplash.com/photo-1664382953518-4a664ab8a8c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjB0ZWFjaGluZyUyMGtub3dsZWRnZSUyMHNoYXJpbmd8ZW58MHwwfHx8MTc0OTQxNDU5OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman teaching a class. There's a whiteboard in the background." title="How to Stand Out by Teaching What You Know—No Expertise Needed" caption="How to Stand Out by Teaching What You Know—No Expertise Needed - Photo by [Centre for Ageing Better](https://unsplash.com/@ageing_better) on [Unsplash](https://unsplash.com/photos/a-person-writing-on-a-whiteboard-cPyO3GEYjZ4)" >}}
 
 ## Key Takeaways
 - Teaching what you know boosts your confidence and sense of purpose.

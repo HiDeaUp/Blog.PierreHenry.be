@@ -12,8 +12,7 @@ original_title = "MIEUX VIVRE: Mes leçons pour vivre HEUREUX ! 🤩🥳"
 source_medium = "https://medium.com/@phenrysay/c890bd87b92e"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTU1ODg1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Every Day Without Chasing More")
-*How to Feel Happier Every Day Without Chasing More - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTU1ODg1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Feel Happier Every Day Without Chasing More" caption="How to Feel Happier Every Day Without Chasing More - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Living your life the way you want, simply and happily, is not just a dream—it's a practice. Too often, we chase after more, always pushing ourselves, always trying to do better, to achieve more. But in this constant race, we sometimes forget to ask ourselves: *Am I actually happy?* *Do I feel good today?*
 
@@ -29,8 +28,7 @@ Another thing that makes a huge difference is your environment. Right now, I’m
 
 In Sydney, for example, whenever they have to remove a tree, they put up a sign explaining why and what kind of tree will replace it. It’s about transparency and respect for nature. Nature is so important for your happiness and well-being. If you live in a city where trees just disappear overnight, it feels wrong. But when you know what’s happening and see new trees being planted, it feels right. It’s a small thing, but it matters.
 
-![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTU1ODg1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Every Day Without Chasing More")
-*How to Feel Happier Every Day Without Chasing More - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
+{{< figure src="https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTU1ODg1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball" title="How to Feel Happier Every Day Without Chasing More" caption="How to Feel Happier Every Day Without Chasing More - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)" >}}
 
 Your surroundings, the places you spend your time, really help you feel good. Choose good environments whenever you can. Even if you’re working hard, being in a place that inspires you will make a difference.
 
@@ -55,8 +53,7 @@ So, take action. Don’t just watch videos or read articles passively. Do someth
 - Nature and architecture matter for your well-being.
 - Don’t wait for the “perfect” moment. Start now.
 
-![Smiley ball in hand.](https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTU1ODg1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Every Day Without Chasing More")
-*How to Feel Happier Every Day Without Chasing More - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)*
+{{< figure src="https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTU1ODg1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball in hand." title="How to Feel Happier Every Day Without Chasing More" caption="How to Feel Happier Every Day Without Chasing More - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)" >}}
 
 ---
 

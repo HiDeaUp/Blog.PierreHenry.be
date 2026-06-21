@@ -12,8 +12,7 @@ original_title = "Une passion nichée 🐕"
 source_medium = "https://medium.com/@phenrysay/1bd7c3c3565e"
 +++
 
-![A small child in the park](https://images.unsplash.com/photo-1600369206595-8f158de0c217?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjaGlsZGhvb2QlMjBwYXNzaW9ucyUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTg4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your True Passion Using Childhood Hobbies")
-*How to Find Your True Passion Using Childhood Hobbies - Photo by [Jonas Smith](https://unsplash.com/@jonassmith) on [Unsplash](https://unsplash.com/photos/girl-in-white-shirt-and-black-pants-standing-on-green-grass-field-during-daytime-wS1bl9Qdr4Q)*
+{{< figure src="https://images.unsplash.com/photo-1600369206595-8f158de0c217?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjaGlsZGhvb2QlMjBwYXNzaW9ucyUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTg4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small child in the park" title="How to Find Your True Passion Using Childhood Hobbies" caption="How to Find Your True Passion Using Childhood Hobbies - Photo by [Jonas Smith](https://unsplash.com/@jonassmith) on [Unsplash](https://unsplash.com/photos/girl-in-white-shirt-and-black-pants-standing-on-green-grass-field-during-daytime-wS1bl9Qdr4Q)" >}}
 
 When I was a kid, I loved filming. I had a camera when I was about 12 or 13, one of those with the little tapes you had to insert. Later, I got another camera, and I remember taking it to Disneyland with my parents. I filmed the train and captured lots of scenes. I also went to Malta with my mom to visit my sister, and I filmed there too, even if the footage wasn’t great. Eventually, I upgraded to an HD camera with a hard drive. Now, I make videos regularly.
 
@@ -21,8 +20,7 @@ It’s funny to look back and realize that what I enjoyed as a child is still a 
 
 I encourage you to think back to what you used to do between the ages of 8 and 13. Maybe you liked making animated films, or you were into video games. Today, there are so many ways to turn those interests into something meaningful. You could work in the gaming industry, stream your gameplay on Twitch, or even create music for video games if you also enjoy music. There are countless paths you can take, even if some are more challenging than others.
 
-![Child in the countryside](https://images.unsplash.com/photo-1532609588595-283771b64ae5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjaGlsZGhvb2QlMjBwYXNzaW9ucyUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTg4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your True Passion Using Childhood Hobbies")
-*How to Find Your True Passion Using Childhood Hobbies - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/boy-walking-on-the-field-c2AhUZ2cYtA)*
+{{< figure src="https://images.unsplash.com/photo-1532609588595-283771b64ae5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjaGlsZGhvb2QlMjBwYXNzaW9ucyUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTg4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Child in the countryside" title="How to Find Your True Passion Using Childhood Hobbies" caption="How to Find Your True Passion Using Childhood Hobbies - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/boy-walking-on-the-field-c2AhUZ2cYtA)" >}}
 
 If you’re struggling to find your passion or a fulfilling activity, looking back at what you enjoyed as a child is a great place to start. At that age, you weren’t yet influenced by your classmates or society’s expectations. Your interests were pure and honest.
 
@@ -36,8 +34,7 @@ For me, the goal was never about making money from my childhood films. I just wa
 
 ---
 
-![August](https://images.unsplash.com/photo-1663603802893-31b5bb707402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjaGlsZGhvb2QlMjBwYXNzaW9ucyUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTg4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your True Passion Using Childhood Hobbies")
-*How to Find Your True Passion Using Childhood Hobbies - Photo by [Mihail Tregubov](https://unsplash.com/@tregubov) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-a-field-of-wheat-PEdApsWAN1s)*
+{{< figure src="https://images.unsplash.com/photo-1663603802893-31b5bb707402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjaGlsZGhvb2QlMjBwYXNzaW9ucyUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTg4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="August" title="How to Find Your True Passion Using Childhood Hobbies" caption="How to Find Your True Passion Using Childhood Hobbies - Photo by [Mihail Tregubov](https://unsplash.com/@tregubov) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-a-field-of-wheat-PEdApsWAN1s)" >}}
 
 ## Key Takeaways
 - Think back to what you loved doing between ages 8 and 13.

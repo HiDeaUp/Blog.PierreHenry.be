@@ -12,8 +12,7 @@ original_title = "Freelance: Ma façon d’être focus EXTRÊMEMENT￼ facilemen
 source_medium = "https://medium.com/@phenrysay/532ccce44f05"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODgzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How I Stay Focused Anywhere—Even in a Noisy Airport")
-*How I Stay Focused Anywhere—Even in a Noisy Airport - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODgzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How I Stay Focused Anywhere—Even in a Noisy Airport" caption="How I Stay Focused Anywhere—Even in a Noisy Airport - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 When you work for yourself, especially as a freelancer or digital nomad, the way you organize your days has to be flexible. Every day is different. One day you’re in a quiet apartment, the next you’re stuck in a noisy airport with nowhere to sit. But the work still needs to get done.
 
@@ -31,8 +30,7 @@ When I’m in a waiting line, I might upload photos, brainstorm ideas, or just l
 
 Take Kuala Lumpur, for example. I’m here now, but last week I was in Bangkok. Bangkok is loud—motorbikes everywhere, constant noise, and pollution. I even wear a mask for the air. It’s a big change from Australia, where I’m from. There, everything is organized, clean, and quiet—even in Sydney. In these chaotic places, you have to find your own way to get back on track.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODgzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How I Stay Focused Anywhere—Even in a Noisy Airport")
-*How I Stay Focused Anywhere—Even in a Noisy Airport - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODgzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How I Stay Focused Anywhere—Even in a Noisy Airport" caption="How I Stay Focused Anywhere—Even in a Noisy Airport - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ## Managing Your Energy, Not Just Your Time
 
@@ -56,8 +54,7 @@ Travel comes with its own set of challenges—noise, delays, people calling out 
 
 ## Key Takeaways
 
-![time flies](https://images.unsplash.com/photo-1494506111877-98a309cf0a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODgzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How I Stay Focused Anywhere—Even in a Noisy Airport")
-*How I Stay Focused Anywhere—Even in a Noisy Airport - Photo by [Amin Salehi](https://unsplash.com/@aminsalehi) on [Unsplash](https://unsplash.com/photos/round-grey-stainless-steel-analog-clock-displaying-322-_e2BZT4c7xk)*
+{{< figure src="https://images.unsplash.com/photo-1494506111877-98a309cf0a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODgzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="time flies" title="How I Stay Focused Anywhere—Even in a Noisy Airport" caption="How I Stay Focused Anywhere—Even in a Noisy Airport - Photo by [Amin Salehi](https://unsplash.com/@aminsalehi) on [Unsplash](https://unsplash.com/photos/round-grey-stainless-steel-analog-clock-displaying-322-_e2BZT4c7xk)" >}}
 
 - Organize your tasks and notes whenever you get a free moment, even in noisy places.
 - Use music, movement, or small rituals to manage your energy and mood.

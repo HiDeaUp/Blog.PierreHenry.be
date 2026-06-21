@@ -12,8 +12,7 @@ original_title = "Connect ChatGPT to Your Terminal & VSCode in 5 Minutes!"
 source_medium = "https://medium.com/@phenrysay/9263e841174c"
 +++
 
-![C plus plus code in an coloured editor square strongly foreshortened](https://images.unsplash.com/photo-1568716353609-12ddc5c67f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDaGF0R1BUJTIwVlNDb2RlJTIwVGVybWluYWx8ZW58MHwwfHx8MTc2NzA0NTEyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use ChatGPT in VSCode Without Leaving Your Terminal")
-*How to Use ChatGPT in VSCode Without Leaving Your Terminal - Photo by [Patrick Martin](https://unsplash.com/@patrickmmartin) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-code-on-it-UMlT0bviaek)*
+{{< figure src="https://images.unsplash.com/photo-1568716353609-12ddc5c67f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDaGF0R1BUJTIwVlNDb2RlJTIwVGVybWluYWx8ZW58MHwwfHx8MTc2NzA0NTEyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="C plus plus code in an coloured editor square strongly foreshortened" title="How to Use ChatGPT in VSCode Without Leaving Your Terminal" caption="How to Use ChatGPT in VSCode Without Leaving Your Terminal - Photo by [Patrick Martin](https://unsplash.com/@patrickmmartin) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-code-on-it-UMlT0bviaek)" >}}
 
 Alright, let’s get straight into something I’m genuinely excited about. I’ve been working on my MCP project, and I wanted to take my MCP server up a notch. You know how it goes: you build something, it works, but then you get that itch—what if I could make it even better?
 
@@ -35,8 +34,7 @@ So, I installed the extension. Now, I can add Visual Studio Code to the ChatGPT 
 
 Now, with just the MCP server open, I told ChatGPT: “Bring the improvements into the MCP server codebase. Test them. Only add relevant changes—no irrelevant stuff. Only the important, accurate improvements.” Sent it off.
 
-![Photo by Growtika](https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDaGF0R1BUJTIwVlNDb2RlJTIwVGVybWluYWx8ZW58MHwwfHx8MTc2NzA0NTEyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use ChatGPT in VSCode Without Leaving Your Terminal")
-*How to Use ChatGPT in VSCode Without Leaving Your Terminal - Photo by [Growtika](https://unsplash.com/@growtika) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-FQ3lFA4Zi58)*
+{{< figure src="https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDaGF0R1BUJTIwVlNDb2RlJTIwVGVybWluYWx8ZW58MHwwfHx8MTc2NzA0NTEyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A on a desk" title="How to Use ChatGPT in VSCode Without Leaving Your Terminal" caption="How to Use ChatGPT in VSCode Without Leaving Your Terminal - Photo by [Growtika](https://unsplash.com/@growtika) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-FQ3lFA4Zi58)" >}}
 
 Honestly, this was my first time integrating ChatGPT with my codebase like this, and I wanted to do it live. It’s just more fun to discover things together, right?
 
@@ -69,8 +67,7 @@ fastify.get('/health', async (request, reply) => {
 });
 ```
 
-![Photo by Chris Stein](https://images.unsplash.com/photo-1701099153587-6f28b448ff0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDaGF0R1BUJTIwVlNDb2RlJTIwVGVybWluYWx8ZW58MHwwfHx8MTc2NzA0NTEyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use ChatGPT in VSCode Without Leaving Your Terminal")
-*How to Use ChatGPT in VSCode Without Leaving Your Terminal - Photo by [Chris Stein](https://unsplash.com/@chris_s3tudios) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-sign-with-numbers-on-it-RntP-d2cxys)*
+{{< figure src="https://images.unsplash.com/photo-1701099153587-6f28b448ff0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDaGF0R1BUJTIwVlNDb2RlJTIwVGVybWluYWx8ZW58MHwwfHx8MTc2NzA0NTEyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a sign with numbers on it RntP d2cxys" title="How to Use ChatGPT in VSCode Without Leaving Your Terminal" caption="How to Use ChatGPT in VSCode Without Leaving Your Terminal - Photo by [Chris Stein](https://unsplash.com/@chris_s3tudios) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-sign-with-numbers-on-it-RntP-d2cxys)" >}}
 
 And for splitting tags:
 

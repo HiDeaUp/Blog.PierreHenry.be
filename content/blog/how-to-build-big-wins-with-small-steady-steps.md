@@ -12,8 +12,7 @@ original_title = "Méthode - Gagner sa vie en vendant une solution à un problè
 source_medium = "https://medium.com/@phenrysay/98ebc0d12396"
 +++
 
-![Photo by Simone Daino](https://images.unsplash.com/photo-1575671883877-71e6519c7570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTYwMTAzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Big Wins With Small, Steady Steps")
-*How to Build Big Wins With Small, Steady Steps - Photo by [Simone Daino](https://unsplash.com/@simonedaino95) on [Unsplash](https://unsplash.com/photos/business-people-store-OR1tCZzoHio)*
+{{< figure src="https://images.unsplash.com/photo-1575671883877-71e6519c7570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTYwMTAzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="People store" title="How to Build Big Wins With Small, Steady Steps" caption="How to Build Big Wins With Small, Steady Steps - Photo by [Simone Daino](https://unsplash.com/@simonedaino95) on [Unsplash](https://unsplash.com/photos/business-people-store-OR1tCZzoHio)" >}}
 
 When we think about progress, we often imagine giant leaps or overnight success. But the truth is, the most impressive achievements are usually built step by step, through what I call granular progress. This means moving forward little by little, day after day, until you reach something much bigger than you ever thought possible.
 
@@ -25,8 +24,7 @@ But how do you start? Begin by setting a simple goal. Focus on one thing you wan
 
 The best way to create a nearly perfect product is to find a problem that is not only painful but also urgent. Why urgent? Because people are willing to pay much more when a problem needs to be solved right now. If a business is on the verge of bankruptcy and has only three days to turn things around, the owner will be ready to pay for a solution that can save the company. If you’re confident your solution can really help, you’ll have no trouble selling it.
 
-![Photo by Slidebean](https://images.unsplash.com/photo-1590103514226-48facf4657fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTYwMTAzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Big Wins With Small, Steady Steps")
-*How to Build Big Wins With Small, Steady Steps - Photo by [Slidebean](https://unsplash.com/@slidebean) on [Unsplash](https://unsplash.com/photos/person-writing-on-white-paper-HH7OwIClUsY)*
+{{< figure src="https://images.unsplash.com/photo-1590103514226-48facf4657fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTYwMTAzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person writing on white paper" title="How to Build Big Wins With Small, Steady Steps" caption="How to Build Big Wins With Small, Steady Steps - Photo by [Slidebean](https://unsplash.com/@slidebean) on [Unsplash](https://unsplash.com/photos/person-writing-on-white-paper-HH7OwIClUsY)" >}}
 
 Finding the right problem isn’t always easy. It can take time. But once you find it, you can shape your solution and generate real value. The most rewarding part is helping others. Of course, your price should reflect the value you provide, but it should always be less than the value your solution brings. If your price matches or exceeds the value, people will walk away. So, set a fair price, but don’t sell yourself short. Focus on a niche where the problem is both painful and urgent. Even if you charge five thousand euros, if your solution saves a business, that amount is nothing compared to what’s at stake.
 
@@ -46,8 +44,7 @@ One more thing: it’s even better if you’re also a user of your own solution.
 
 ## Key Takeaways
 
-![All businesses open as usual.](https://images.unsplash.com/photo-1674340768466-2f1f32c2eb0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTYwMTAzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Big Wins With Small, Steady Steps")
-*How to Build Big Wins With Small, Steady Steps - Photo by [Randy Laybourne](https://unsplash.com/@randylaybourne) on [Unsplash](https://unsplash.com/photos/a-sign-that-is-on-the-side-of-the-road-coyF-lTeWOI)*
+{{< figure src="https://images.unsplash.com/photo-1674340768466-2f1f32c2eb0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTYwMTAzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="All businesses open as usual." title="How to Build Big Wins With Small, Steady Steps" caption="How to Build Big Wins With Small, Steady Steps - Photo by [Randy Laybourne](https://unsplash.com/@randylaybourne) on [Unsplash](https://unsplash.com/photos/a-sign-that-is-on-the-side-of-the-road-coyF-lTeWOI)" >}}
 
 - *Small, consistent actions lead to big results over time.*
 - *Find a problem that is both painful and urgent—people pay more for urgent solutions.*

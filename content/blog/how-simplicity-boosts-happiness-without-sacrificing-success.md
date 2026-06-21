@@ -12,8 +12,7 @@ original_title = "Moins tu as, plus tu es heureux : voici pourquoi ça marche vr
 source_medium = "https://medium.com/@phenrysay/fd80817b819e"
 +++
 
-![Photo by Kara Eads](https://images.unsplash.com/photo-1545165375-8be534459875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU1NTE1NDcwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Simplicity Boosts Happiness Without Sacrificing Success")
-*How Simplicity Boosts Happiness Without Sacrificing Success - Photo by [Kara Eads](https://unsplash.com/@karaeads) on [Unsplash](https://unsplash.com/photos/happiness-jar-FR5EGjy3ITo)*
+{{< figure src="https://images.unsplash.com/photo-1545165375-8be534459875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU1NTE1NDcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Jar" title="How Simplicity Boosts Happiness Without Sacrificing Success" caption="How Simplicity Boosts Happiness Without Sacrificing Success - Photo by [Kara Eads](https://unsplash.com/@karaeads) on [Unsplash](https://unsplash.com/photos/happiness-jar-FR5EGjy3ITo)" >}}
 
 Let’s talk about simplicity. It’s funny how, in life, we often love to complicate things for ourselves. Even when we start with something simple—a straightforward business idea, a new project, or just organizing our home—we have this urge to add more. We think, “What if I do this? Or that? Maybe I should add this extra feature?” Before we know it, we’re jumping down rabbit holes, piling on layers that weren’t needed in the first place.
 
@@ -31,8 +30,7 @@ This reminds me of scenes from “The Social Network,” where people are always
 
 Ask yourself: What do you really want in life? Sometimes, we chase challenges just to prove something to ourselves. And that’s good—everyone needs a challenge. But it’s also important to know your limits and recognize when you’ve done enough. It’s okay to pause, to say, “I’ve achieved this, I’m happy with it, now I’ll move on to something else.”
 
-![Photo by Barbora Polednová](https://images.unsplash.com/photo-1546422401-68b415cbf8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU1NTE1NDcwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Simplicity Boosts Happiness Without Sacrificing Success")
-*How Simplicity Boosts Happiness Without Sacrificing Success - Photo by [Barbora Polednová](https://unsplash.com/@barborapoledn) on [Unsplash](https://unsplash.com/photos/woman-smiling-face-surrounded-by-flowers-dY7Q-sl77L4)*
+{{< figure src="https://images.unsplash.com/photo-1546422401-68b415cbf8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU1NTE1NDcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman smiling face by flowers dY7Q sl77L4" title="How Simplicity Boosts Happiness Without Sacrificing Success" caption="How Simplicity Boosts Happiness Without Sacrificing Success - Photo by [Barbora Polednová](https://unsplash.com/@barborapoledn) on [Unsplash](https://unsplash.com/photos/woman-smiling-face-surrounded-by-flowers-dY7Q-sl77L4)" >}}
 
 Simplicity in thinking is powerful. You can say, “I’ve done this, I loved it, now I’ll try something new,” without feeling the need to complicate your life with things you don’t need. Just because you can afford a high-end sports car or the latest computer doesn’t mean you have to buy it. Every new thing you add brings new complexity by definition. Even a giant home cinema setup—do you really need it, or would it be simpler to just go to the movies?
 
@@ -54,8 +52,7 @@ So, focus on what’s essential. Ask yourself what you really want—not for the
 > *“Our life is frittered away by detail… simplify, simplify.”*  
 — Henry David Thoreau
 
-![Photo by KAi'S PHOTOGRAPHY](https://images.unsplash.com/photo-1709714058195-2119a07b9446?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU1NTE1NDcwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Simplicity Boosts Happiness Without Sacrificing Success")
-*How Simplicity Boosts Happiness Without Sacrificing Success - Photo by [KAi'S PHOTOGRAPHY](https://unsplash.com/@kaigabriel42) on [Unsplash](https://unsplash.com/photos/a-red-building-with-two-windows-that-have-pots-and-panes-in-them-bYZ5NiaIlzs)*
+{{< figure src="https://images.unsplash.com/photo-1709714058195-2119a07b9446?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU1NTE1NDcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A red with two windows that have pots and panes in them" title="How Simplicity Boosts Happiness Without Sacrificing Success" caption="How Simplicity Boosts Happiness Without Sacrificing Success - Photo by [KAi'S PHOTOGRAPHY](https://unsplash.com/@kaigabriel42) on [Unsplash](https://unsplash.com/photos/a-red-building-with-two-windows-that-have-pots-and-panes-in-them-bYZ5NiaIlzs)" >}}
 
 ---
 

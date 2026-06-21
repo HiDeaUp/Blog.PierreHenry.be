@@ -12,8 +12,7 @@ original_title = "Se satisfaire facilement …"
 source_medium = "https://medium.com/@phenrysay/5361e702dc04"
 +++
 
-![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1613770285091-80925deca5b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXNhdGlzZmFjdGlvbiUyMHNtYWxsJTIwd2lucyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMzM5Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Proud Every Day Without Big Achievements")
-*How to Feel Proud Every Day Without Big Achievements - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/white-and-pink-letter-blocks-HagrRtz_t-c)*
+{{< figure src="https://images.unsplash.com/photo-1613770285091-80925deca5b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXNhdGlzZmFjdGlvbiUyMHNtYWxsJTIwd2lucyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMzM5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and pink letter blocks c" title="How to Feel Proud Every Day Without Big Achievements" caption="How to Feel Proud Every Day Without Big Achievements - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/white-and-pink-letter-blocks-HagrRtz_t-c)" >}}
 
 Satisfaction is a quiet but powerful feeling. When you’re satisfied with yourself, when you can look at your day and say, “I’m happy with what I did,” it’s like reaching a small milestone. These moments of satisfaction are important because they show you’re moving forward, even if it’s just a little bit at a time.
 
@@ -23,8 +22,7 @@ Instead of beating yourself up for not doing enough, try to see each day as a ne
 
 This approach isn’t about grand gestures. It’s about small, meaningful actions. Maybe you didn’t achieve everything you wanted today, and that’s okay. What matters is what you choose to do next. Ask yourself, “What could I do tomorrow that would make me proud?” That’s the real key to satisfaction—doing something, however small, that turns into pride.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXNhdGlzZmFjdGlvbiUyMHNtYWxsJTIwd2lucyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMzM5Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Proud Every Day Without Big Achievements")
-*How to Feel Proud Every Day Without Big Achievements - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXNhdGlzZmFjdGlvbiUyMHNtYWxsJTIwd2lucyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMzM5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Feel Proud Every Day Without Big Achievements" caption="How to Feel Proud Every Day Without Big Achievements - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 There’s a classic idea from Brian Tracy’s book, “Eat That Frog!” He suggests starting your day by tackling the hardest or most unpleasant task first. Imagine you have to swallow a big, slimy frog. The longer you stare at it, the worse it gets. But if you just do it right away, it’s over, and you can move on with your day. The satisfaction you get from finishing that tough task early is real. It frees you up to enjoy the rest of your day, knowing you’ve already done the hardest part.
 
@@ -42,8 +40,7 @@ So, if you want to feel more satisfied, focus on these small wins. Each day, do 
 
 ## Key Takeaways
 
-![Happy Heart Concept](https://images.unsplash.com/photo-1624887009213-040347b804c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXNhdGlzZmFjdGlvbiUyMHNtYWxsJTIwd2lucyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMzM5Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Proud Every Day Without Big Achievements")
-*How to Feel Proud Every Day Without Big Achievements - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/red-and-yellow-smiley-balloon-hQNFPZK8F80)*
+{{< figure src="https://images.unsplash.com/photo-1624887009213-040347b804c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXNhdGlzZmFjdGlvbiUyMHNtYWxsJTIwd2lucyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMzM5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Concept" title="How to Feel Proud Every Day Without Big Achievements" caption="How to Feel Proud Every Day Without Big Achievements - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/red-and-yellow-smiley-balloon-hQNFPZK8F80)" >}}
 
 - *Satisfaction comes from small, daily achievements.*
 - *Treat each day as a new beginning—a “mini life.”*

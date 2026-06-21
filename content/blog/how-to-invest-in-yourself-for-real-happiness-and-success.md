@@ -12,8 +12,7 @@ original_title = "INVESTIR SON ÉPANOUISSEMENT"
 source_medium = "https://medium.com/@phenrysay/8c93e4e30e6b"
 +++
 
-![Photo by micheile henderson](https://images.unsplash.com/photo-1579621970588-a35d0e7ab9b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbnZlc3RtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYxMTIzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself for Real Happiness and Success")
-*How to Invest in Yourself for Real Happiness and Success - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/green-plant-in-clear-glass-cup-SoT4-mZhyhE)*
+{{< figure src="https://images.unsplash.com/photo-1579621970588-a35d0e7ab9b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbnZlc3RtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYxMTIzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant in clear glass cup SoT4 mZhyhE" title="How to Invest in Yourself for Real Happiness and Success" caption="How to Invest in Yourself for Real Happiness and Success - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/green-plant-in-clear-glass-cup-SoT4-mZhyhE)" >}}
 
 When people talk about investing, they usually mean money, knowledge, or maybe even energy. But how often do we talk about investing in our own happiness and fulfillment? The truth is, the level of satisfaction you feel in your projects—whether it’s a new passion, a dream you’ve been chasing for years, or just something you want to tick off your list—depends a lot on the habits and routines you build, and the environment you create for yourself.
 
@@ -33,8 +32,7 @@ So, set up your space to make good choices easier. Remove temptations, surround 
 
 ## Focus and Finishing What You Start
 
-![A red Bible with the words "New Testament" in gold foil from the Good Publishing Company.](https://images.unsplash.com/photo-1619795845966-99642098b462?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbnZlc3RtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYxMTIzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself for Real Happiness and Success")
-*How to Invest in Yourself for Real Happiness and Success - Photo by [Tim Wildsmith](https://unsplash.com/@timwildsmith) on [Unsplash](https://unsplash.com/photos/red-book-on-brown-wooden-table-I3vtE40igbE)*
+{{< figure src="https://images.unsplash.com/photo-1619795845966-99642098b462?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbnZlc3RtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYxMTIzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A red Bible with the words &quot;New Testament&quot; in gold foil from the Good Publishing Company." title="How to Invest in Yourself for Real Happiness and Success" caption="How to Invest in Yourself for Real Happiness and Success - Photo by [Tim Wildsmith](https://unsplash.com/@timwildsmith) on [Unsplash](https://unsplash.com/photos/red-book-on-brown-wooden-table-I3vtE40igbE)" >}}
 
 Another key is concentration. Many people love starting new things but struggle to finish them. The trick is to add challenges that keep you motivated—especially challenges that come from within. Perseverance is important, but so is finding ways to make the journey interesting for yourself.
 
@@ -61,8 +59,7 @@ When your mood is low, put on your headphones and listen to people who inspire y
 
 Take time to step back and reflect on your life. Ask yourself if you’re doing what you love, or if you need to change your approach. Sometimes, a simple walk or a coffee break is all you need to get perspective and adjust your path.
 
-![Photo by 金 运](https://images.unsplash.com/photo-1579227113447-f1e32cc6bd42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbnZlc3RtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYxMTIzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself for Real Happiness and Success")
-*How to Invest in Yourself for Real Happiness and Success - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-xhqUamhJaMI)*
+{{< figure src="https://images.unsplash.com/photo-1579227113447-f1e32cc6bd42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbnZlc3RtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYxMTIzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant" title="How to Invest in Yourself for Real Happiness and Success" caption="How to Invest in Yourself for Real Happiness and Success - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-xhqUamhJaMI)" >}}
 
 > *Happiness is not something ready made. It comes from your own actions.*
 > — Dalai Lama

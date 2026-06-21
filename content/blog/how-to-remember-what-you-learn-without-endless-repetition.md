@@ -12,8 +12,7 @@ original_title = "L’apprentissage à feedback 🔁"
 source_medium = "https://medium.com/@phenrysay/becb4f3116c4"
 +++
 
-![Photo by Brett Jordan](https://images.unsplash.com/photo-1556030366-ace48a370886?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Remember What You Learn Without Endless Repetition")
-*How to Remember What You Learn Without Endless Repetition - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-group-of-letters-that-spell-out-the-word-real-BfViPzWiW_g)*
+{{< figure src="https://images.unsplash.com/photo-1556030366-ace48a370886?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of letters that spell out the word real" title="How to Remember What You Learn Without Endless Repetition" caption="How to Remember What You Learn Without Endless Repetition - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-group-of-letters-that-spell-out-the-word-real-BfViPzWiW_g)" >}}
 
 Have you ever noticed how easy it is to forget what you learned just a day or two ago? Maybe you spent twenty minutes memorizing Japanese words, or you tried to master a new programming language, only to realize later that most of it slipped away. This is where the power of feedback-based learning comes in—a simple, daily habit that can change the way you remember and use new knowledge.
 
@@ -25,8 +24,7 @@ This process isn’t just for languages. Whether you’re gardening, learning to
 
 ## Weekly Reviews: The Next Level
 
-![A woman writing the word "relevant" next to a sticky note with a hashtag on it](https://images.unsplash.com/photo-1676276376282-fe8118ee0afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Remember What You Learn Without Endless Repetition")
-*How to Remember What You Learn Without Endless Repetition - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-woman-writing-on-a-white-board-with-a-marker-mrS65fiGFeA)*
+{{< figure src="https://images.unsplash.com/photo-1676276376282-fe8118ee0afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman writing the word &quot;relevant&quot; next to a sticky note with a hashtag on it" title="How to Remember What You Learn Without Endless Repetition" caption="How to Remember What You Learn Without Endless Repetition - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-woman-writing-on-a-white-board-with-a-marker-mrS65fiGFeA)" >}}
 
 At the end of each week, do a bigger review. Look back at everything you learned over the past seven days. Which parts are still clear? Which ones feel vague or fuzzy? Focus on the areas that need more work. This weekly check-in helps you spot gaps before they become forgotten knowledge.
 
@@ -44,8 +42,7 @@ Teaching is not just about helping others. It’s about making sure you truly un
 >
 > — Pierre Loichet
 
-![Female software engineer uses whiteboard](https://images.unsplash.com/photo-1580894740397-0946742deb4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Remember What You Learn Without Endless Repetition")
-*How to Remember What You Learn Without Endless Repetition - Photo by [ThisisEngineering](https://unsplash.com/@thisisengineering) on [Unsplash](https://unsplash.com/photos/woman-writing-on-white-paper-4dR9LmMzhT0)*
+{{< figure src="https://images.unsplash.com/photo-1580894740397-0946742deb4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Female software engineer uses whiteboard" title="How to Remember What You Learn Without Endless Repetition" caption="How to Remember What You Learn Without Endless Repetition - Photo by [ThisisEngineering](https://unsplash.com/@thisisengineering) on [Unsplash](https://unsplash.com/photos/woman-writing-on-white-paper-4dR9LmMzhT0)" >}}
 
 ## Make Learning a Game
 

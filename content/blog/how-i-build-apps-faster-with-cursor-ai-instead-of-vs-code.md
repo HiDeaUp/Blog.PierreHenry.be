@@ -12,8 +12,7 @@ original_title = "Building an app with Cursor: Reasons I use Cursor AI over VS C
 source_medium = "https://medium.com/@phenrysay/03292da11e25"
 +++
 
-![Photo by Team Nocoloco](https://images.unsplash.com/photo-1642132652935-d750e2014719?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDdXJzb3IlMjBBSSUyMGFwcCUyMGRldmVsb3BtZW50JTIwVlMlMjBDb2RlJTIwYWx0ZXJuYXRpdmV8ZW58MHwwfHx8MTc2NzEwMTU1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How I Build Apps Faster With Cursor AI Instead of VS Code")
-*How I Build Apps Faster With Cursor AI Instead of VS Code - Photo by [Team Nocoloco](https://unsplash.com/@teamnocoloco) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-web-page-on-it-LWFdfx-5oEE)*
+{{< figure src="https://images.unsplash.com/photo-1642132652935-d750e2014719?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDdXJzb3IlMjBBSSUyMGFwcCUyMGRldmVsb3BtZW50JTIwVlMlMjBDb2RlJTIwYWx0ZXJuYXRpdmV8ZW58MHwwfHx8MTc2NzEwMTU1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A screen with a web page on it LWFdfx 5oEE" title="How I Build Apps Faster With Cursor AI Instead of VS Code" caption="How I Build Apps Faster With Cursor AI Instead of VS Code - Photo by [Team Nocoloco](https://unsplash.com/@teamnocoloco) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-web-page-on-it-LWFdfx-5oEE)" >}}
 
 Let me walk you through something I genuinely enjoy about working with Cursor: it just gets out of my way and does things for me. For example, when I’m building an app, Cursor will automatically try to execute the right program. So, if I’m working on an iOS app, it’ll run `npm run ios` and fire up the emulator without me having to fiddle around. Same deal for Android. That’s a feature I really appreciate, because honestly, I don’t want to spend time on boilerplate stuff like launching emulators.
 
@@ -38,8 +37,7 @@ and waited for the iOS emulator to spin up. This time, the app loaded as expecte
 
 I wanted the app to show sleep statistics—like, if I slept from 6 to 9, it should tell me how much sleep I got, and display stats for today as well as the whole week (Monday to Sunday). Turns out, Cursor’s AI was smart enough to already have some of that logic in place. Sometimes I doubt it, but then I check and, yeah, it’s already there. That’s pretty cool.
 
-![Photo by Safar Safarov](https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDdXJzb3IlMjBBSSUyMGFwcCUyMGRldmVsb3BtZW50JTIwVlMlMjBDb2RlJTIwYWx0ZXJuYXRpdmV8ZW58MHwwfHx8MTc2NzEwMTU1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How I Build Apps Faster With Cursor AI Instead of VS Code")
-*How I Build Apps Faster With Cursor AI Instead of VS Code - Photo by [Safar Safarov](https://unsplash.com/@safarslife) on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c)*
+{{< figure src="https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDdXJzb3IlMjBBSSUyMGFwcCUyMGRldmVsb3BtZW50JTIwVlMlMjBDb2RlJTIwYWx0ZXJuYXRpdmV8ZW58MHwwfHx8MTc2NzEwMTU1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Turned on macbook pro" title="How I Build Apps Faster With Cursor AI Instead of VS Code" caption="How I Build Apps Faster With Cursor AI Instead of VS Code - Photo by [Safar Safarov](https://unsplash.com/@safarslife) on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c)" >}}
 
 I also started thinking about adding a widget to display today’s stats on the home screen. I’m not sure if that’s possible on Android, but it’s something I want to explore further.
 
@@ -73,8 +71,7 @@ Sometimes you’ll hit permission issues when deploying. If that happens, just t
 
 ---
 
-![monitor showing mobile layout in android studio](https://images.unsplash.com/photo-1604536264507-020ce894daf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDdXJzb3IlMjBBSSUyMGFwcCUyMGRldmVsb3BtZW50JTIwVlMlMjBDb2RlJTIwYWx0ZXJuYXRpdmV8ZW58MHwwfHx8MTc2NzEwMTU1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How I Build Apps Faster With Cursor AI Instead of VS Code")
-*How I Build Apps Faster With Cursor AI Instead of VS Code - Photo by [Muhammad Rosyid Izzulkhaq](https://unsplash.com/@rsdiz) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-pBTggy2z2do)*
+{{< figure src="https://images.unsplash.com/photo-1604536264507-020ce894daf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDdXJzb3IlMjBBSSUyMGFwcCUyMGRldmVsb3BtZW50JTIwVlMlMjBDb2RlJTIwYWx0ZXJuYXRpdmV8ZW58MHwwfHx8MTc2NzEwMTU1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="monitor showing mobile layout in android studio" title="How I Build Apps Faster With Cursor AI Instead of VS Code" caption="How I Build Apps Faster With Cursor AI Instead of VS Code - Photo by [Muhammad Rosyid Izzulkhaq](https://unsplash.com/@rsdiz) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-pBTggy2z2do)" >}}
 
 ## Key Takeaways
 

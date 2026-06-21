@@ -12,8 +12,7 @@ original_title = "Bien se sentir avec la respiration magique"
 source_medium = "https://medium.com/@phenrysay/869b5c56ec80"
 +++
 
-![Breathe Amsterdam, @ Kimpton De Witt Amsterdam](https://images.unsplash.com/photo-1507120410856-1f35574c3b45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxicmVhdGhpbmclMjBleGVyY2lzZXMlMjB3ZWxsbmVzcyUyMGNhbG18ZW58MHwwfHx8MTc1NTY0NTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier in Minutes With Magic Breathing")
-*How to Feel Happier in Minutes With Magic Breathing - Photo by [Fabian Møller](https://unsplash.com/@fabimoe) on [Unsplash](https://unsplash.com/photos/pink-breathe-neon-sign-gI7zgb80QWY)*
+{{< figure src="https://images.unsplash.com/photo-1507120410856-1f35574c3b45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxicmVhdGhpbmclMjBleGVyY2lzZXMlMjB3ZWxsbmVzcyUyMGNhbG18ZW58MHwwfHx8MTc1NTY0NTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe Amsterdam, @ Kimpton De Witt Amsterdam" title="How to Feel Happier in Minutes With Magic Breathing" caption="How to Feel Happier in Minutes With Magic Breathing - Photo by [Fabian Møller](https://unsplash.com/@fabimoe) on [Unsplash](https://unsplash.com/photos/pink-breathe-neon-sign-gI7zgb80QWY)" >}}
 
 Taking care of yourself does not always mean big changes. Sometimes, it is about finding small moments in your day to pause and breathe. These little breaks can make a real difference in how you feel, both in your body and your mind.
 
@@ -21,8 +20,7 @@ One of the best ways to reset during a busy day is to schedule a few short relax
 
 My favorite exercise is a simple breathing technique. Here is how you can do it:
 
-![Photo by Eduardo Rocha e Silva](https://images.unsplash.com/photo-1564029476-c16c3f973e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxicmVhdGhpbmclMjBleGVyY2lzZXMlMjB3ZWxsbmVzcyUyMGNhbG18ZW58MHwwfHx8MTc1NTY0NTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier in Minutes With Magic Breathing")
-*How to Feel Happier in Minutes With Magic Breathing - Photo by [Eduardo Rocha e Silva](https://unsplash.com/@headim) on [Unsplash](https://unsplash.com/photos/pink-breathe-neon-light-_6xbgepHi9s)*
+{{< figure src="https://images.unsplash.com/photo-1564029476-c16c3f973e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxicmVhdGhpbmclMjBleGVyY2lzZXMlMjB3ZWxsbmVzcyUyMGNhbG18ZW58MHwwfHx8MTc1NTY0NTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Pink breathe neon light" title="How to Feel Happier in Minutes With Magic Breathing" caption="How to Feel Happier in Minutes With Magic Breathing - Photo by [Eduardo Rocha e Silva](https://unsplash.com/@headim) on [Unsplash](https://unsplash.com/photos/pink-breathe-neon-light-_6xbgepHi9s)" >}}
 
 1. Breathe in through your nose, letting your belly and chest fill with air.
 2. Hold your breath for two seconds.
@@ -43,8 +41,7 @@ Breathing exercises are not just about relaxation. They help you reconnect with 
 
 ## Key Takeaways
 
-![Photo by Asal Mshk](https://images.unsplash.com/photo-1633177872136-1e9aa7a21345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxicmVhdGhpbmclMjBleGVyY2lzZXMlMjB3ZWxsbmVzcyUyMGNhbG18ZW58MHwwfHx8MTc1NTY0NTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier in Minutes With Magic Breathing")
-*How to Feel Happier in Minutes With Magic Breathing - Photo by [Asal Mshk](https://unsplash.com/@asalmashkoori) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-log-in-a-field-Az_BZGS7HmA)*
+{{< figure src="https://images.unsplash.com/photo-1633177872136-1e9aa7a21345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxicmVhdGhpbmclMjBleGVyY2lzZXMlMjB3ZWxsbmVzcyUyMGNhbG18ZW58MHwwfHx8MTc1NTY0NTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a log in a field" title="How to Feel Happier in Minutes With Magic Breathing" caption="How to Feel Happier in Minutes With Magic Breathing - Photo by [Asal Mshk](https://unsplash.com/@asalmashkoori) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-log-in-a-field-Az_BZGS7HmA)" >}}
 
 - *Take three to five short breathing breaks each day.*
 - *Focus on slow, deep breaths and being present.*

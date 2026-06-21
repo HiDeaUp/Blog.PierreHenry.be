@@ -12,9 +12,7 @@ original_title = "Pourquoi faut-il redéfinir ses priorités ? Mes secrets que j
 source_medium = "https://medium.com/@phenrysay/8cb94fc126d5"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live your best life, one life, yolo, carpe diem, mindfulness, do not waste time, just do it, move on, let it go, 
-](https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmlvcml0aWVzJTIwbGlmZSUyMGFkdmljZSUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc5MDM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Redefine Your Priorities Before Time Runs Out")
-*How to Redefine Your Priorities Before Time Runs Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)*
+{{< figure src="https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmlvcml0aWVzJTIwbGlmZSUyMGFkdmljZSUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc5MDM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile that says live your best life" title="How to Redefine Your Priorities Before Time Runs Out" caption="How to Redefine Your Priorities Before Time Runs Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)" >}}
 
 ### Life’s Too Short to Wait
 
@@ -36,9 +34,7 @@ It’s not just about doing more for the sake of productivity. What’s the poin
 
 Take time to sit down, maybe with a coffee, and ask yourself: “Do I like how my day went? Am I living in a way that feels right to me?” Don’t let yourself be influenced by what others do, especially if it doesn’t fit your life or culture. Make sure your actions are aligned with what makes you feel good.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, quote, words, type, typography, design, layout, go for it, action, just do it, yolo, carpe diem, if not now when, impetus, initiative, self starter, 
-](https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmlvcml0aWVzJTIwbGlmZSUyMGFkdmljZSUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc5MDM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Redefine Your Priorities Before Time Runs Out")
-*How to Redefine Your Priorities Before Time Runs Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-i-and-i-love-you-letter-MHS7g_q-6mE)*
+{{< figure src="https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmlvcml0aWVzJTIwbGlmZSUyMGFkdmljZSUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc5MDM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter i and i love you letter MHS7g_q 6mE" title="How to Redefine Your Priorities Before Time Runs Out" caption="How to Redefine Your Priorities Before Time Runs Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-i-and-i-love-you-letter-MHS7g_q-6mE)" >}}
 
 Remember, every small effort counts. There’s a saying I love:
 
@@ -60,8 +56,7 @@ Stay curious. The world is full of opportunities, but you have to go after them.
 
 In the end, life is about doing what fills you up and keeps you moving forward. Don’t wait for the perfect moment—it doesn’t exist. The only time you have is now.
 
-![Worry less message on paper with cutout letters](https://images.unsplash.com/photo-1607827448452-6fda561309d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmlvcml0aWVzJTIwbGlmZSUyMGFkdmljZSUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc5MDM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Redefine Your Priorities Before Time Runs Out")
-*How to Redefine Your Priorities Before Time Runs Out - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-and-black-i-am-a-good-girl-card-514dv0uzWwk)*
+{{< figure src="https://images.unsplash.com/photo-1607827448452-6fda561309d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmlvcml0aWVzJTIwbGlmZSUyMGFkdmljZSUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc5MDM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Worry less message on paper with cutout letters" title="How to Redefine Your Priorities Before Time Runs Out" caption="How to Redefine Your Priorities Before Time Runs Out - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-and-black-i-am-a-good-girl-card-514dv0uzWwk)" >}}
 
 ---
 

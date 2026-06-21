@@ -12,8 +12,7 @@ original_title = "Comment Utiliser Tes Émotions pour Réaliser des Exploits"
 source_medium = "https://medium.com/@phenrysay/41823cfc1842"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTUwNDQ3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Emotions for Motivation Without Burnout")
-*How to Use Your Emotions for Motivation Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTUwNDQ3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Use Your Emotions for Motivation Without Burnout" caption="How to Use Your Emotions for Motivation Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 Have you ever noticed how having a project or a clear goal can completely change your mood and energy? This morning, I was building apps on my phone. That sense of purpose—waking up and knowing exactly what you want to do—gives you a huge boost. It’s like a shot of motivation straight to the heart.
 
@@ -23,8 +22,7 @@ One of the apps I’m working on tracks my sleep. It’s simple: if I don’t to
 
 When you have projects that motivate you, everything changes. You’re alert, your mind is bubbling with thoughts, and you feel alive. It’s like having a mountain to climb—without that, how can you expect to feel driven? If you’re lying in bed with nothing to look forward to, it’s hard to get moving. But when you have a goal, something you really want to achieve, that’s what makes you come alive.
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTUwNDQ3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Emotions for Motivation Without Burnout")
-*How to Use Your Emotions for Motivation Without Burnout - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTUwNDQ3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Use Your Emotions for Motivation Without Burnout" caption="How to Use Your Emotions for Motivation Without Burnout - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 I keep an old book with me, even though I don’t read it anymore. I bought it in 2016, and it’s a bit outdated now, but just having it nearby sparks my subconscious. The title alone reminds me of success and big dreams. Sometimes I nap with the book on my chest, and when I wake up, I have new ideas for apps I want to create. The book acts as a trigger, waking up my creativity and pushing me to act.
 
@@ -40,8 +38,7 @@ Don’t worry about where the path leads. If the journey is beautiful, you don�
 
 So, think about it: what project could you start today? What would make you feel excited to wake up tomorrow? The best time to invest in yourself and start something meaningful is today.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTUwNDQ3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Emotions for Motivation Without Burnout")
-*How to Use Your Emotions for Motivation Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)*
+{{< figure src="https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTUwNDQ3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word love on a wooden surface" title="How to Use Your Emotions for Motivation Without Burnout" caption="How to Use Your Emotions for Motivation Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)" >}}
 
 ---
 

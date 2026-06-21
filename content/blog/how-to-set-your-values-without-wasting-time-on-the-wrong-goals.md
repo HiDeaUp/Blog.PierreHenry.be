@@ -12,8 +12,7 @@ original_title = "Fxer ses valeurs pour accomplir davantage !"
 source_medium = "https://medium.com/@phenrysay/7053761d31d7"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdmFsdWVzJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUyNzQyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Set Your Values Without Wasting Time on the Wrong Goals")
-*How to Set Your Values Without Wasting Time on the Wrong Goals - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdmFsdWVzJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUyNzQyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Set Your Values Without Wasting Time on the Wrong Goals" caption="How to Set Your Values Without Wasting Time on the Wrong Goals - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Setting your values is one of the most important steps you can take, whether it’s for your professional life or your personal journey. Knowing what you stand for helps you make better choices, saves you time, and keeps you from chasing after things that don’t fit who you are.
 
@@ -23,8 +22,7 @@ This approach also works if you’re starting a business. Think of your values a
 
 But it’s not just about values. Setting clear goals for your success is just as important. It’s about being able to say, “In six months, I want to reach this point.” Maybe you want to earn a certain income, achieve a milestone in martial arts, or land a specific job. For example, I have a friend who started a new program in Paris and San Francisco. She set a clear goal: within a year and a half, she wanted to find a job in a certain field, in a certain type of company, with a specific salary. She planned her routine, figured out how to negotiate her pay, and took action every day. Her passion and focus made all the difference.
 
-![Innovation project with the management team of a very big and important customer in 2019.](https://images.unsplash.com/photo-1626239912118-062676ce2b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdmFsdWVzJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUyNzQyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Set Your Values Without Wasting Time on the Wrong Goals")
-*How to Set Your Values Without Wasting Time on the Wrong Goals - Photo by [FORTYTWO](https://unsplash.com/@byfortytwo) on [Unsplash](https://unsplash.com/photos/yellow-sticky-notes-on-white-and-red-polka-dot-textile-aftBTy8_sAU)*
+{{< figure src="https://images.unsplash.com/photo-1626239912118-062676ce2b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdmFsdWVzJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUyNzQyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Innovation project with the management team of a very big and important customer in 2019." title="How to Set Your Values Without Wasting Time on the Wrong Goals" caption="How to Set Your Values Without Wasting Time on the Wrong Goals - Photo by [FORTYTWO](https://unsplash.com/@byfortytwo) on [Unsplash](https://unsplash.com/photos/yellow-sticky-notes-on-white-and-red-polka-dot-textile-aftBTy8_sAU)" >}}
 
 Too often, we don’t set enough goals or we don’t make them clear enough. But having a plan for your values and your success is crucial. When you know exactly what you want to achieve and why it matters to you, you move faster toward the person you want to become.
 
@@ -38,8 +36,7 @@ If you want to make this real, write your values and your goals down. Use a note
 
 ---
 
-![White board with company values written on sticky notes](https://images.unsplash.com/photo-1676276383599-478e31770aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdmFsdWVzJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUyNzQyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Set Your Values Without Wasting Time on the Wrong Goals")
-*How to Set Your Values Without Wasting Time on the Wrong Goals - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-white-board-with-post-it-notes-written-on-it-1Hl8D2qJYuA)*
+{{< figure src="https://images.unsplash.com/photo-1676276383599-478e31770aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdmFsdWVzJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUyNzQyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="White board with company values written on sticky notes" title="How to Set Your Values Without Wasting Time on the Wrong Goals" caption="How to Set Your Values Without Wasting Time on the Wrong Goals - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-white-board-with-post-it-notes-written-on-it-1Hl8D2qJYuA)" >}}
 
 ## Key Takeaways
 - *Set clear values for yourself, both at work and in your personal life.*

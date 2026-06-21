@@ -12,8 +12,7 @@ original_title = "Comment s’élever pour réussir ? 🏆"
 source_medium = "https://medium.com/@phenrysay/fc3dd686a2e6"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjQ2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Every Week Without Overwhelm")
-*How to Succeed Every Week Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjQ2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Succeed Every Week Without Overwhelm" caption="How to Succeed Every Week Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 If you want to truly grow and become a better version of yourself, the secret lies in small, consistent steps. It's not about grand gestures or sudden transformations. Instead, it's about setting clear weekly goals and sticking to them every single day.
 
@@ -23,8 +22,7 @@ For me, regular means daily. If you want to improve, you need to show up for you
 
 At the end of each week, take a moment to look back. Reflect on how things went. Did you meet your goals? What worked, and what didn't? This weekly retrospective is your chance to adjust and plan for the next week. Ask yourself what you can do differently to get even closer to your best self.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjQ2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Every Week Without Overwhelm")
-*How to Succeed Every Week Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjQ2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Succeed Every Week Without Overwhelm" caption="How to Succeed Every Week Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Improvement is not about competing with others, but about becoming better than you were yesterday. Each week is a new opportunity to move forward, to learn, and to grow. The journey is about steady, daily effort and honest reflection.
 
@@ -46,8 +44,7 @@ Improvement is not about competing with others, but about becoming better than y
 - Reflect at the end of each week and adjust for the next.
 - Focus on becoming better than you were yesterday.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjQ2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Every Week Without Overwhelm")
-*How to Succeed Every Week Without Overwhelm - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjQ2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Succeed Every Week Without Overwhelm" caption="How to Succeed Every Week Without Overwhelm - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 ## Action Steps
 

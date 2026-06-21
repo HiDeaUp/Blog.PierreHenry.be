@@ -12,8 +12,7 @@ original_title = "⏳ La Technique Cachée Qui Te Rend 5x Plus Productif ! ⚡�
 source_medium = "https://medium.com/@phenrysay/18a4b050174a"
 +++
 
-![Photo by Alonso Rebolledo Arellano](https://images.unsplash.com/photo-1669161180234-5dd613285833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0MjE4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get 5x More Done Without Changing Your Routine")
-*How to Get 5x More Done Without Changing Your Routine - Photo by [Alonso Rebolledo Arellano](https://unsplash.com/@alonsiu) on [Unsplash](https://unsplash.com/photos/a-person-lying-on-the-floor-d2rDR6XYK48)*
+{{< figure src="https://images.unsplash.com/photo-1669161180234-5dd613285833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0MjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person lying on the floor" title="How to Get 5x More Done Without Changing Your Routine" caption="How to Get 5x More Done Without Changing Your Routine - Photo by [Alonso Rebolledo Arellano](https://unsplash.com/@alonsiu) on [Unsplash](https://unsplash.com/photos/a-person-lying-on-the-floor-d2rDR6XYK48)" >}}
 
 Have you ever noticed how your mood and productivity shift when you work somewhere new? Today, I want to share the simple joy and surprising power of working in public spaces—like a café table, just as I am right now.
 
@@ -23,8 +22,7 @@ Think of yourself as a plant. When you’re in the right soil, you thrive. The s
 
 Time is precious. Life is short, and time is like a train that never stops. If you work slowly or without energy, you’re not just losing productivity—you’re losing life itself. But when you’re in a new environment that gives you energy, you get more done, you’re more focused, and you enter that deep state of flow where great work happens. The trick isn’t to work more, but to work smarter. Your environment is a tool you can shape to your advantage.
 
-![Photo by wu yi](https://images.unsplash.com/photo-1732023987881-b9495d8c2613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0MjE4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get 5x More Done Without Changing Your Routine")
-*How to Get 5x More Done Without Changing Your Routine - Photo by [wu yi](https://unsplash.com/@takeshi2) on [Unsplash](https://unsplash.com/photos/a-group-of-people-walking-up-and-down-stairs-nb92K0u27zQ)*
+{{< figure src="https://images.unsplash.com/photo-1732023987881-b9495d8c2613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0MjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of people walking up and down stairs" title="How to Get 5x More Done Without Changing Your Routine" caption="How to Get 5x More Done Without Changing Your Routine - Photo by [wu yi](https://unsplash.com/@takeshi2) on [Unsplash](https://unsplash.com/photos/a-group-of-people-walking-up-and-down-stairs-nb92K0u27zQ)" >}}
 
 You can even create this productive atmosphere at home. Playlists, specific lighting, and smart bulbs can all help set the mood. For example, TP-Link smart bulbs or Philips Hue lights let you adjust the brightness and color to match your energy. In the morning, you can set the lights to gradually brighten, helping you wake up gently. In the evening, switch to a warm red or yellow light to signal to your brain that it’s time to wind down. It’s a bit like using “night mode” on your phone or computer—these small changes can make a big difference.
 
@@ -40,8 +38,7 @@ Of course, there will always be some distractions—people passing by, a bit of 
 > _“You don’t have to work more to achieve more. You just have to work smarter.”_  
 > — Pierre
 
-![Photo by Julio Lopez](https://images.unsplash.com/photo-1732173200786-137e314dd10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0MjE4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get 5x More Done Without Changing Your Routine")
-*How to Get 5x More Done Without Changing Your Routine - Photo by [Julio Lopez](https://unsplash.com/@juliolopez) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-table-with-a-laptop-piW050SrpWY)*
+{{< figure src="https://images.unsplash.com/photo-1732173200786-137e314dd10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0MjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a table with a laptop" title="How to Get 5x More Done Without Changing Your Routine" caption="How to Get 5x More Done Without Changing Your Routine - Photo by [Julio Lopez](https://unsplash.com/@juliolopez) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-table-with-a-laptop-piW050SrpWY)" >}}
 
 ---
 

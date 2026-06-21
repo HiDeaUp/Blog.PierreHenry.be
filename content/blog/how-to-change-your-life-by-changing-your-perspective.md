@@ -12,8 +12,7 @@ original_title = "Les perceptions de notre vie peut tout changer"
 source_medium = "https://medium.com/@phenrysay/32e06713e96b"
 +++
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU0MjA2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life by Changing Your Perspective")
-*How to Change Your Life by Changing Your Perspective - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU0MjA2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Change Your Life by Changing Your Perspective" caption="How to Change Your Life by Changing Your Perspective - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 Have you ever noticed how two people can experience the exact same event, yet walk away with completely different feelings about it? This is one of the most fascinating things about being human. Our perceptions—how we see and interpret what happens to us—are unique, shaped by our past, our upbringing, our culture, and even the people around us. And that’s not just interesting; it’s powerful. It means that the way you see your life can truly change everything.
 
@@ -25,8 +24,7 @@ It’s like we’re all wearing different glasses, each tinted by our own experi
 
 This difference doesn’t just apply to childhood. It follows us into adulthood, shaping how we see our achievements, our failures, and even our happiness. Sometimes, we let ourselves be influenced by what we see online—comparing our insides to other people’s outsides. But no one ever shows the full picture, not even those who claim to be completely honest. And honestly, it’s impossible to share every thought, every feeling, every moment, even with the people closest to us.
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU0MjA2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life by Changing Your Perspective")
-*How to Change Your Life by Changing Your Perspective - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU0MjA2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Change Your Life by Changing Your Perspective" caption="How to Change Your Life by Changing Your Perspective - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 We forget the pain of hard times, like the struggle of getting a degree, and then tell our kids to do the same, forgetting how tough it really was. We chase after distinctions and awards, but in the end, most employers never even ask to see our diplomas, let alone care about our grades. So, who are we really doing it for? Ourselves? Our egos?
 
@@ -44,8 +42,7 @@ At the end of each day, write down how you felt, what went well, what you want t
 >
 > — Dalai Lama
 
-![Photo by Jaime Dantas](https://images.unsplash.com/photo-1604803778321-0424dabac230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU0MjA2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life by Changing Your Perspective")
-*How to Change Your Life by Changing Your Perspective - Photo by [Jaime Dantas](https://unsplash.com/@jaimedantas) on [Unsplash](https://unsplash.com/photos/yellow-and-green-flower-on-brown-stick--DL5tN5SWPo)*
+{{< figure src="https://images.unsplash.com/photo-1604803778321-0424dabac230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU0MjA2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow and green flower on brown stick" title="How to Change Your Life by Changing Your Perspective" caption="How to Change Your Life by Changing Your Perspective - Photo by [Jaime Dantas](https://unsplash.com/@jaimedantas) on [Unsplash](https://unsplash.com/photos/yellow-and-green-flower-on-brown-stick--DL5tN5SWPo)" >}}
 
 > *We don’t see things as they are, we see them as we are.*
 >

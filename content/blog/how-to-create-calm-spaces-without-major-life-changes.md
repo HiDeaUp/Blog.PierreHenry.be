@@ -12,8 +12,7 @@ original_title = "Une vie plus relaxante 😌"
 source_medium = "https://medium.com/@phenrysay/a000a439e2cf"
 +++
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBzZWxmY2FyZXxlbnwwfDB8fHwxNzU2NjQwNzc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Calm Spaces Without Major Life Changes")
-*How to Create Calm Spaces Without Major Life Changes - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBzZWxmY2FyZXxlbnwwfDB8fHwxNzU2NjQwNzc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Create Calm Spaces Without Major Life Changes" caption="How to Create Calm Spaces Without Major Life Changes - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 Finding ways to relax in daily life is not just a luxury—it’s a necessity. Let me share a simple trick that has helped me unwind, especially when work stress starts to pile up.
 
@@ -25,8 +24,7 @@ It’s also important not to let intrusive thoughts take over. Whenever a negati
 
 Meditation is another tool I use. It allows me to channel my energy and attention onto one thing—like my breath. Instead of letting my mind wander in all directions, I train it to stay put. This strengthens my mental discipline. Too often, we let negative thoughts come and go as they please, cluttering our minds. But for our well-being, it’s better to tell these thoughts to leave. One thing at a time. If a thought tries to take over, I firmly ask it to step aside. I want relaxation, not more chaos.
 
-![Photo by Sam Bhattacharyya](https://images.unsplash.com/photo-1655970580622-4a547789c850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBzZWxmY2FyZXxlbnwwfDB8fHwxNzU2NjQwNzc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Calm Spaces Without Major Life Changes")
-*How to Create Calm Spaces Without Major Life Changes - Photo by [Sam Bhattacharyya](https://unsplash.com/@samoz) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-wearing-headphones-jNtsMxWZeko)*
+{{< figure src="https://images.unsplash.com/photo-1655970580622-4a547789c850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBzZWxmY2FyZXxlbnwwfDB8fHwxNzU2NjQwNzc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a table wearing" title="How to Create Calm Spaces Without Major Life Changes" caption="How to Create Calm Spaces Without Major Life Changes - Photo by [Sam Bhattacharyya](https://unsplash.com/@samoz) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-wearing-headphones-jNtsMxWZeko)" >}}
 
 This approach won’t change your life overnight, but with daily practice, focusing on one thing at a time and refusing to entertain every passing thought, you’ll notice a real shift. It’s like being a bouncer for your own mind—if a thought doesn’t belong, show it the door.
 
@@ -42,8 +40,7 @@ Taking small breaks, like grabbing a coffee or hot chocolate, can also help you 
 
 ---
 
-![Photo by Li Yang](https://images.unsplash.com/photo-1657526666357-6dfea90134bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBzZWxmY2FyZXxlbnwwfDB8fHwxNzU2NjQwNzc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Calm Spaces Without Major Life Changes")
-*How to Create Calm Spaces Without Major Life Changes - Photo by [Li Yang](https://unsplash.com/@ly0ns) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-grass-by-a-tent-YT4bV5ZIKRY)*
+{{< figure src="https://images.unsplash.com/photo-1657526666357-6dfea90134bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBzZWxmY2FyZXxlbnwwfDB8fHwxNzU2NjQwNzc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person sitting on grass by a tent" title="How to Create Calm Spaces Without Major Life Changes" caption="How to Create Calm Spaces Without Major Life Changes - Photo by [Li Yang](https://unsplash.com/@ly0ns) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-grass-by-a-tent-YT4bV5ZIKRY)" >}}
 
 ## Key Takeaways
 

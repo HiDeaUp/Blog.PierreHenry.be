@@ -12,8 +12,7 @@ original_title = "Les progrès pour élever sa carrière"
 source_medium = "https://medium.com/@phenrysay/36b333d51fca"
 +++
 
-![Photo by Jodie Cook](https://images.unsplash.com/photo-1671774637925-c11dd0051b60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1ODI1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Career With Small Daily Actions")
-*How to Grow Your Career With Small Daily Actions - Photo by [Jodie Cook](https://unsplash.com/@jodiecook) on [Unsplash](https://unsplash.com/photos/a-pile-of-books-sitting-on-top-of-a-table-7yP7fdYOIEM)*
+{{< figure src="https://images.unsplash.com/photo-1671774637925-c11dd0051b60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1ODI1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A pile of books sitting on top of a table" title="How to Grow Your Career With Small Daily Actions" caption="How to Grow Your Career With Small Daily Actions - Photo by [Jodie Cook](https://unsplash.com/@jodiecook) on [Unsplash](https://unsplash.com/photos/a-pile-of-books-sitting-on-top-of-a-table-7yP7fdYOIEM)" >}}
 
 When you wake up each morning, you’re handed a fresh opportunity. Every day is a blank page to learn something new, create something meaningful, and invest in yourself. This isn’t just about big leaps; it’s about the steady, quiet progress that builds over time.
 
@@ -23,8 +22,7 @@ It’s easy to get caught up in beautiful photos or catchy headlines, but the re
 
 For those in roles like product owner, there are books dedicated to writing better user stories or organizing tasks in tools like Jira. You don’t need to read a whole chapter at once. Even ten or fifteen minutes a day is enough. The key is to reflect on what you’ve learned, write it down, and then share it with others. Teaching is a powerful way to reinforce your own understanding and make the knowledge stick.
 
-![Flatlay books including the E-myth, Ten Year Career, Anything You Want and Rich Dad Poor Dad.](https://images.unsplash.com/photo-1680501906410-c4c550dc4fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1ODI1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Career With Small Daily Actions")
-*How to Grow Your Career With Small Daily Actions - Photo by [Jodie Cook](https://unsplash.com/@jodiecook) on [Unsplash](https://unsplash.com/photos/a-bunch-of-books-that-are-on-a-table-5TMNRiwBHEg)*
+{{< figure src="https://images.unsplash.com/photo-1680501906410-c4c550dc4fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1ODI1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Flatlay books including the E-myth, Ten Year Career, Anything You Want and Rich Dad Poor Dad." title="How to Grow Your Career With Small Daily Actions" caption="How to Grow Your Career With Small Daily Actions - Photo by [Jodie Cook](https://unsplash.com/@jodiecook) on [Unsplash](https://unsplash.com/photos/a-bunch-of-books-that-are-on-a-table-5TMNRiwBHEg)" >}}
 
 This habit of daily iteration—reading, reflecting, writing, and sharing—slowly transforms you. You become a better version of yourself, one small step at a time.
 
@@ -40,8 +38,7 @@ If you want to go further, consider how you structure your day. Vary your activi
 
 ## Key Takeaways
 
-![Life in a small pot](https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1ODI1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Career With Small Daily Actions")
-*How to Grow Your Career With Small Daily Actions - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)*
+{{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1ODI1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Grow Your Career With Small Daily Actions" caption="How to Grow Your Career With Small Daily Actions - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
 - Every day is a new chance to learn and grow.
 - Reflect on what you consume—don’t just scroll or read passively.

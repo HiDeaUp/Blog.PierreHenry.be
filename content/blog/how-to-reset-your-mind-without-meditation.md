@@ -12,8 +12,7 @@ original_title = "Faire le ménage de ton cerveau 😶‍🌫️"
 source_medium = "https://medium.com/@phenrysay/a66adca55574"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724407-9084cb5b43ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMHJvdXRpbmVzfGVufDB8MHx8fDE3NTY1MTU0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Meditation")
-*How to Reset Your Mind Without Meditation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-mindfulness-on-a-wooden-surface-lI9c6wG0E-8)*
+{{< figure src="https://images.unsplash.com/photo-1704969724407-9084cb5b43ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMHJvdXRpbmVzfGVufDB8MHx8fDE3NTY1MTU0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word on a wooden surface 8" title="How to Reset Your Mind Without Meditation" caption="How to Reset Your Mind Without Meditation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-mindfulness-on-a-wooden-surface-lI9c6wG0E-8)" >}}
 
 Let’s talk about mental gymnastics. You might think I’m about to suggest memory games or brain teasers, but that’s not where I’m going. The mental gymnastics I’m talking about is all about challenging yourself in a different way. Think of it as a morning stretch, but for your mind.
 
@@ -21,8 +20,7 @@ Just like you might stretch your arms, neck, or back when you wake up, you can d
 
 Start your day by asking yourself: What positive thoughts can I focus on today? What good things can I bring to mind? It’s a bit like feeding your body with fresh fruit juice in the morning. You’re giving your brain the right fuel to start on a good note. Sweep away the bad vibes and negative thoughts. Imagine throwing them away, flushing them out, and then stepping into your day with a clear head.
 
-![Photo by Marcel Strauß](https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMHJvdXRpbmVzfGVufDB8MHx8fDE3NTY1MTU0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Meditation")
-*How to Reset Your Mind Without Meditation - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)*
+{{< figure src="https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMHJvdXRpbmVzfGVufDB8MHx8fDE3NTY1MTU0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of the word mental health" title="How to Reset Your Mind Without Meditation" caption="How to Reset Your Mind Without Meditation - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)" >}}
 
 This simple routine is the best way to start your day. I’m right there with you, cheering you on. If you want to go even further in improving your life, there are always more ways to grow. But even this small act—choosing to focus on the good and letting go of the bad—can make a real difference.
 
@@ -36,8 +34,7 @@ Life moves so quickly. It’s too short to let your mind get polluted by negativ
 
 ---
 
-![Photo by Marcel Strauß](https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMHJvdXRpbmVzfGVufDB8MHx8fDE3NTY1MTU0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Meditation")
-*How to Reset Your Mind Without Meditation - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/text-fzqxoFJytiE)*
+{{< figure src="https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMHJvdXRpbmVzfGVufDB8MHx8fDE3NTY1MTU0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Reset Your Mind Without Meditation" caption="How to Reset Your Mind Without Meditation - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/text-fzqxoFJytiE)" >}}
 
 ## Key Takeaways
 - Start your day by clearing out negative thoughts.

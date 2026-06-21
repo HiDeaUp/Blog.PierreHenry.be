@@ -12,8 +12,7 @@ original_title = "Les outils à ton service pour DEVANCER tout le monde !"
 source_medium = "https://medium.com/@phenrysay/c596e9ff8b7d"
 +++
 
-![Photo by Brad](https://images.unsplash.com/photo-1568226189232-d4baf2b86437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0ZWNobm9sb2d5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjA1NzYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Phone to Get Ahead Without Wasting Time")
-*How to Use Your Phone to Get Ahead Without Wasting Time - Photo by [Brad](https://unsplash.com/@minimdesignco) on [Unsplash](https://unsplash.com/photos/tables-near-wall-nuyvBODqQ3U)*
+{{< figure src="https://images.unsplash.com/photo-1568226189232-d4baf2b86437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0ZWNobm9sb2d5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjA1NzYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tables near wall" title="How to Use Your Phone to Get Ahead Without Wasting Time" caption="How to Use Your Phone to Get Ahead Without Wasting Time - Photo by [Brad](https://unsplash.com/@minimdesignco) on [Unsplash](https://unsplash.com/photos/tables-near-wall-nuyvBODqQ3U)" >}}
 
 We often forget just how much our tools shape our lives. Take your phone, for example. It’s not just a device for calls or texts. It’s your camera, your calendar, your alarm clock, your business manager, and your personal assistant all rolled into one. Every day, we rely on it for so many things—checking emails, sending messages, snapping photos, posting on social media, running a business, searching for information, and even learning new things.
 
@@ -23,8 +22,7 @@ One app I use helps me check the quality of the food I eat. I just scan the barc
 
 For example, you could create a course on how to use a popular tool like Notion or S3. Or you could help people promote their services and build their brand on platforms like Instagram or TikTok. These platforms aren’t just for fun—they’re powerful tools for learning, growing, and reaching more people.
 
-![Photo by Deniz Demirci](https://images.unsplash.com/photo-1632809681273-ff9a04a71e1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0ZWNobm9sb2d5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjA1NzYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Phone to Get Ahead Without Wasting Time")
-*How to Use Your Phone to Get Ahead Without Wasting Time - Photo by [Deniz Demirci](https://unsplash.com/@ddography) on [Unsplash](https://unsplash.com/photos/a-young-boy-sitting-in-front-of-a-laptop-computer-nkz4t5rEf7A)*
+{{< figure src="https://images.unsplash.com/photo-1632809681273-ff9a04a71e1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0ZWNobm9sb2d5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjA1NzYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A young boy sitting in front of a laptop" title="How to Use Your Phone to Get Ahead Without Wasting Time" caption="How to Use Your Phone to Get Ahead Without Wasting Time - Photo by [Deniz Demirci](https://unsplash.com/@ddography) on [Unsplash](https://unsplash.com/photos/a-young-boy-sitting-in-front-of-a-laptop-computer-nkz4t5rEf7A)" >}}
 
 The possibilities are endless. You can create so much in your day just by using the right tools. That’s what I suggest you do: take a closer look at what you use, how you use it, and what you could do differently. Sometimes, a small change in your toolkit can make a huge difference in your life.
 
@@ -46,8 +44,7 @@ The possibilities are endless. You can create so much in your day just by using 
 - Small changes in your toolkit can lead to big changes in your life.
 - Consider creating or teaching about tools that have helped you.
 
-![Photo by Augusto Lopes](https://images.unsplash.com/photo-1612736232022-691d6243202b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0ZWNobm9sb2d5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjA1NzYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Phone to Get Ahead Without Wasting Time")
-*How to Use Your Phone to Get Ahead Without Wasting Time - Photo by [Augusto Lopes](https://unsplash.com/@fromaugusto) on [Unsplash](https://unsplash.com/photos/black-office-rolling-chair-near-white-wooden-desk-gfPux1tJqOw)*
+{{< figure src="https://images.unsplash.com/photo-1612736232022-691d6243202b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0ZWNobm9sb2d5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjA1NzYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black office rolling chair near white wooden desk" title="How to Use Your Phone to Get Ahead Without Wasting Time" caption="How to Use Your Phone to Get Ahead Without Wasting Time - Photo by [Augusto Lopes](https://unsplash.com/@fromaugusto) on [Unsplash](https://unsplash.com/photos/black-office-rolling-chair-near-white-wooden-desk-gfPux1tJqOw)" >}}
 
 ## Action Steps
 

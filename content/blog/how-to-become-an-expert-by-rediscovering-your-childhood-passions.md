@@ -10,8 +10,7 @@ original_title = "Comment devenir un expert ?"
 source_medium = "https://medium.com/@phenrysay/76a5fb699f47"
 +++
 
-![Photo by Christina @ wocintechchat.com](https://images.unsplash.com/photo-1573496130141-209d200cebd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleHBlcnRpc2UlMjBwcm9mZXNzaW9uYWwlMjBkZXZlbG9wbWVudCUyMGNhcmVlciUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become an Expert by Rediscovering Your Childhood Passions")
-*How to Become an Expert by Rediscovering Your Childhood Passions - Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com/photos/two-women-in-suits-standing-beside-wall-swi1DGRCshQ)*
+{{< figure src="https://images.unsplash.com/photo-1573496130141-209d200cebd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleHBlcnRpc2UlMjBwcm9mZXNzaW9uYWwlMjBkZXZlbG9wbWVudCUyMGNhcmVlciUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two women in suits beside wall" title="How to Become an Expert by Rediscovering Your Childhood Passions" caption="How to Become an Expert by Rediscovering Your Childhood Passions - Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com/photos/two-women-in-suits-standing-beside-wall-swi1DGRCshQ)" >}}
 
 Have you ever wondered how to truly become an expert in a specific field? Not just someone who knows a little, but the person everyone turns to for advice. The answer might be simpler than you think, and it starts with looking back at your own story.
 
@@ -19,8 +18,7 @@ Think about when you were between 9 and 12 years old. This is a special age, rig
 
 For me, I was obsessed with Playmobil. I could spend hours playing, building stories, and creating worlds. Now, if I decided to sell collectible Playmobil sets on a platform like Shopify, I know I would wake up excited every morning. That passion would drive me, and I would want to keep going, learning, and sharing.
 
-![Photo by Van Tay Media](https://images.unsplash.com/photo-1565688527174-775059ac429c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleHBlcnRpc2UlMjBwcm9mZXNzaW9uYWwlMjBkZXZlbG9wbWVudCUyMGNhcmVlciUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become an Expert by Rediscovering Your Childhood Passions")
-*How to Become an Expert by Rediscovering Your Childhood Passions - Photo by [Van Tay Media](https://unsplash.com/@vantaymedia) on [Unsplash](https://unsplash.com/photos/man-and-two-women-sitting-beside-brown-wooden-table-close-up-photography-Dx6lpoMAG-Y)*
+{{< figure src="https://images.unsplash.com/photo-1565688527174-775059ac429c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleHBlcnRpc2UlMjBwcm9mZXNzaW9uYWwlMjBkZXZlbG9wbWVudCUyMGNhcmVlciUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man and two women sitting beside brown wooden table close up Y" title="How to Become an Expert by Rediscovering Your Childhood Passions" caption="How to Become an Expert by Rediscovering Your Childhood Passions - Photo by [Van Tay Media](https://unsplash.com/@vantaymedia) on [Unsplash](https://unsplash.com/photos/man-and-two-women-sitting-beside-brown-wooden-table-close-up-photography-Dx6lpoMAG-Y)" >}}
 
 Your childhood passion might be something else. Maybe you loved drawing, fixing things, or dancing. The important thing is to ask yourself: What did I love doing before anyone told me what was cool or useful?
 
@@ -36,8 +34,7 @@ We all have a unique field that fits us perfectly. The trick is to look for it, 
 >
 > — Albert Schweitzer
 
-![Photo by Sebastian Herrmann](https://images.unsplash.com/flagged/photo-1551135049-83f3419ef05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleHBlcnRpc2UlMjBwcm9mZXNzaW9uYWwlMjBkZXZlbG9wbWVudCUyMGNhcmVlciUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become an Expert by Rediscovering Your Childhood Passions")
-*How to Become an Expert by Rediscovering Your Childhood Passions - Photo by [Sebastian Herrmann](https://unsplash.com/@officestock) on [Unsplash](https://unsplash.com/photos/four-men-sitting-at-desk-talking-6jAq8MkbULo)*
+{{< figure src="https://images.unsplash.com/flagged/photo-1551135049-83f3419ef05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleHBlcnRpc2UlMjBwcm9mZXNzaW9uYWwlMjBkZXZlbG9wbWVudCUyMGNhcmVlciUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Four men sitting at desk talking" title="How to Become an Expert by Rediscovering Your Childhood Passions" caption="How to Become an Expert by Rediscovering Your Childhood Passions - Photo by [Sebastian Herrmann](https://unsplash.com/@officestock) on [Unsplash](https://unsplash.com/photos/four-men-sitting-at-desk-talking-6jAq8MkbULo)" >}}
 
 ---
 

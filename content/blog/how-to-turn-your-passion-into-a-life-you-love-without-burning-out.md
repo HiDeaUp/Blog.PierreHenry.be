@@ -12,8 +12,7 @@ original_title = "Vivre de sa passion 🤗 Les clés 🔑"
 source_medium = "https://medium.com/@phenrysay/10422b05c835"
 +++
 
-![Young professional working on his laptop](https://images.unsplash.com/photo-1576849058607-da9d05480027?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDMzNjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Your Passion Into a Life You Love Without Burning Out")
-*How to Turn Your Passion Into a Life You Love Without Burning Out - Photo by [Medienstürmer](https://unsplash.com/@medienstuermer) on [Unsplash](https://unsplash.com/photos/man-wearing-white-sweatshirt-using-laptop-computer-sitting-on-sofa-chair-YcJupWm1PhQ)*
+{{< figure src="https://images.unsplash.com/photo-1576849058607-da9d05480027?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDMzNjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Young professional working on his laptop" title="How to Turn Your Passion Into a Life You Love Without Burning Out" caption="How to Turn Your Passion Into a Life You Love Without Burning Out - Photo by [Medienstürmer](https://unsplash.com/@medienstuermer) on [Unsplash](https://unsplash.com/photos/man-wearing-white-sweatshirt-using-laptop-computer-sitting-on-sofa-chair-YcJupWm1PhQ)" >}}
 
 Sharing your passion—what you truly love—can change your life in ways you might not expect. When you share your dreams, your ambitions, and the things that inspire you, you’re not just creating content or building a business. You’re building something lasting, something that grows with you. This is the real difference between just working and living from your passion.
 
@@ -23,8 +22,7 @@ If you’re not sure what your hobbies or strengths are, ask your friends. Ask t
 
 When you wake up on Monday morning and realize you get to work on your passion, it changes everything. The more you live in your passion, the more you grow, and the more freedom you gain—especially financial freedom to do what truly makes you happy.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDMzNjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Your Passion Into a Life You Love Without Burning Out")
-*How to Turn Your Passion Into a Life You Love Without Burning Out - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)*
+{{< figure src="https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDMzNjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word passion" title="How to Turn Your Passion Into a Life You Love Without Burning Out" caption="How to Turn Your Passion Into a Life You Love Without Burning Out - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)" >}}
 
 But there’s a common fear: what if your passion becomes just another job? What if it turns into a burden, with deadlines and commitments, especially if you’re freelancing or creating content to earn a living? It’s true—if you push too hard, you risk burning out. That’s why it’s important to keep a healthy balance. Limit yourself to 7 or 8 hours a day, no more. Otherwise, even your passion can start to feel like a prison.
 
@@ -42,8 +40,7 @@ Getting started is often the hardest part. Sometimes, you just need to force you
 
 At the end of the day, it’s up to you to take action. No one else can do it for you. If you believe in yourself and know you’re motivated, you’re already halfway there. The best moment to start is always today—not tomorrow.
 
-![Photo by Kashawn Hernandez](https://images.unsplash.com/photo-1609800380385-a0d9c8ceae5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDMzNjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Your Passion Into a Life You Love Without Burning Out")
-*How to Turn Your Passion Into a Life You Love Without Burning Out - Photo by [Kashawn Hernandez](https://unsplash.com/@galacticfantastic) on [Unsplash](https://unsplash.com/photos/white-string-lights-on-street-during-night-time-4a7-WStchn0)*
+{{< figure src="https://images.unsplash.com/photo-1609800380385-a0d9c8ceae5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDMzNjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White string lights on street during night time 4a7 WStchn0" title="How to Turn Your Passion Into a Life You Love Without Burning Out" caption="How to Turn Your Passion Into a Life You Love Without Burning Out - Photo by [Kashawn Hernandez](https://unsplash.com/@galacticfantastic) on [Unsplash](https://unsplash.com/photos/white-string-lights-on-street-during-night-time-4a7-WStchn0)" >}}
 
 ---
 

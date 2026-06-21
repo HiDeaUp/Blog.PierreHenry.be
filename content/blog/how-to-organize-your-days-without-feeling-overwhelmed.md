@@ -12,8 +12,7 @@ original_title = "Ce que tu rates sur l'organisation de tes journées"
 source_medium = "https://medium.com/@phenrysay/b9a3fa66d1c8"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1OTk4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Days Without Feeling Overwhelmed")
-*How to Organize Your Days Without Feeling Overwhelmed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1OTk4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Organize Your Days Without Feeling Overwhelmed" caption="How to Organize Your Days Without Feeling Overwhelmed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Sometimes, life feels like a tangled mess. Our minds get crowded with too many thoughts, worries, and distractions. This mental clutter can come from disorder, from replaying the same thoughts over and over, or simply from not having a clear plan for our days. Maybe your sleep schedule is all over the place. You go to bed at different times, wake up at random hours, and the weather doesn’t help either. For me, the heat and humidity of summer in my city really throw me off. I used to live somewhere much drier, and I forgot how much humidity can mess with your head and your routines.
 
@@ -23,8 +22,7 @@ What I want to share is how to break out of this cycle. The key is to improve yo
 
 So, what can you do? Start by building good habits into your day. Wake up at the same time. Have a light breakfast. Most importantly, get to know yourself. For example, I know that if I lie down on my couch when I’m tired, I’ll probably fall asleep and lose hours of my evening. I also know that if I go to a buffet, my curiosity will get the best of me, and I’ll end up eating way too much. I love trying new foods from all over the world, but I always regret it when I overeat and feel sluggish afterward.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1OTk4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Days Without Feeling Overwhelmed")
-*How to Organize Your Days Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1OTk4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Organize Your Days Without Feeling Overwhelmed" caption="How to Organize Your Days Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Learning about yourself is crucial. We all repeat our mistakes, but being aware of them is the first step to changing. When you feel heavy and tired, it affects your whole day, your mood, and your productivity. Organizing your tasks and activities in a way that fits your real needs makes a huge difference.
 
@@ -42,8 +40,7 @@ The point is, you need to find what works for you and keep improving your routin
 >
 > — Dalai Lama
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1OTk4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Days Without Feeling Overwhelmed")
-*How to Organize Your Days Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1OTk4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Organize Your Days Without Feeling Overwhelmed" caption="How to Organize Your Days Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 Remember, the goal isn’t just to get more done—it’s to build a life that feels good to live. When you organize your days around what matters to you, you’ll find more energy, clarity, and satisfaction.
 

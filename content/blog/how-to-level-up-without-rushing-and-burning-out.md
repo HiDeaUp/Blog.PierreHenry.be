@@ -12,8 +12,7 @@ original_title = "Passe au Niveau Supérieur : Mes Vrais Secrets pour Réussir (
 source_medium = "https://medium.com/@phenrysay/b429ed9c3584"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZm9jdXN8ZW58MHwwfHx8MTc1NTQyMTUzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Level Up Without Rushing and Burning Out")
-*How to Level Up Without Rushing and Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZm9jdXN8ZW58MHwwfHx8MTc1NTQyMTUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Level Up Without Rushing and Burning Out" caption="How to Level Up Without Rushing and Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Many people feel an urge to rush to the next step. Even when they know it’s not always rational or justified, they want to go faster, skip ahead, and as a result, often miss important steps or don’t do them well enough.
 
@@ -31,8 +30,7 @@ So, as a freelancer, ask yourself: what’s my MVP? What’s the smallest, most 
 
 I love coming to places surrounded by nature. Even on cloudy days, the view inspires me. Being in the right environment sparks creativity and new ideas. Just like a tree grows better in fertile soil, we grow faster and stronger in the right surroundings. In some countries, it’s simply easier to succeed because the environment is more supportive. The people around us and the place we live in shape our success, even if it’s indirect.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZm9jdXN8ZW58MHwwfHx8MTc1NTQyMTUzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Level Up Without Rushing and Burning Out")
-*How to Level Up Without Rushing and Burning Out - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZm9jdXN8ZW58MHwwfHx8MTc1NTQyMTUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Level Up Without Rushing and Burning Out" caption="How to Level Up Without Rushing and Burning Out - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 The same goes for raising funds. Money can speed things up, giving you a head start. If you move faster, you’re ahead of your competitors, and your success will be bigger because you’re already in the future while others are stuck in the present or past.
 
@@ -58,8 +56,7 @@ Start today. Life won’t wait for you. If your path is beautiful, you won’t e
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZm9jdXN8ZW58MHwwfHx8MTc1NTQyMTUzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Level Up Without Rushing and Burning Out")
-*How to Level Up Without Rushing and Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZm9jdXN8ZW58MHwwfHx8MTc1NTQyMTUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Level Up Without Rushing and Burning Out" caption="How to Level Up Without Rushing and Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 ## Key Takeaways
 

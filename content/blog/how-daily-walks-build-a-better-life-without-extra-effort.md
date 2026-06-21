@@ -10,8 +10,7 @@ original_title = "Utiliser les promenades comme un Investissement Personnel"
 source_medium = "https://medium.com/@phenrysay/4ab9a71a4b55"
 +++
 
-![Photo by Hans Ott](https://images.unsplash.com/photo-1653476972145-5e582a507606?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3YWxraW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLXJlZmxlY3Rpb258ZW58MHwwfHx8MTc1NTQxNjA1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Walks Build a Better Life Without Extra Effort")
-*How Daily Walks Build a Better Life Without Extra Effort - Photo by [Hans Ott](https://unsplash.com/@hansott) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-path-in-the-woods-oRzWl7KTb-s)*
+{{< figure src="https://images.unsplash.com/photo-1653476972145-5e582a507606?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3YWxraW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLXJlZmxlY3Rpb258ZW58MHwwfHx8MTc1NTQxNjA1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person walking down a path in the woods s" title="How Daily Walks Build a Better Life Without Extra Effort" caption="How Daily Walks Build a Better Life Without Extra Effort - Photo by [Hans Ott](https://unsplash.com/@hansott) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-path-in-the-woods-oRzWl7KTb-s)" >}}
 
 Have you ever noticed how a walk at the end of the day can feel like a reset button? Not just for your body, but for your mind and your sense of direction. I want to share how I use walks as a tool for personal growth, and why this small habit might just be the most underrated investment you can make in yourself.
 
@@ -19,8 +18,7 @@ After work, when the day is winding down, I like to take a walk. It’s not abou
 
 For me, it’s usually around 7 p.m., after the office is closed and the world is a little quieter. As I walk, I check in with myself: How fulfilled do I feel? How happy am I, really? I might rate my happiness at a 6 out of 10. Then I ask, what could have made it an 8? What small thing could I change tomorrow?
 
-![Photo by alex geerts](https://images.unsplash.com/photo-1574985163277-3fa01bfffc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLXJlZmxlY3Rpb258ZW58MHwwfHx8MTc1NTQxNjA1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Walks Build a Better Life Without Extra Effort")
-*How Daily Walks Build a Better Life Without Extra Effort - Photo by [alex geerts](https://unsplash.com/@alexgeerts) on [Unsplash](https://unsplash.com/photos/woman-in-red-top-walking-on-beach-_4CqNN233S0)*
+{{< figure src="https://images.unsplash.com/photo-1574985163277-3fa01bfffc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLXJlZmxlY3Rpb258ZW58MHwwfHx8MTc1NTQxNjA1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in red top walking on beach" title="How Daily Walks Build a Better Life Without Extra Effort" caption="How Daily Walks Build a Better Life Without Extra Effort - Photo by [alex geerts](https://unsplash.com/@alexgeerts) on [Unsplash](https://unsplash.com/photos/woman-in-red-top-walking-on-beach-_4CqNN233S0)" >}}
 
 I jot down a few notes—nothing fancy, just honest thoughts. The next morning, I read them and try to avoid the things that dragged my mood down the day before. Maybe I spent too much time on something that didn’t matter. Maybe I wasn’t as productive as I could have been, or maybe I was, but I could have chosen a better way to spend my energy.
 
@@ -36,8 +34,7 @@ If you keep asking yourself, “How can I make today just a little better than y
 
 ---
 
-![Photo by Raj Vachhani](https://images.unsplash.com/photo-1721068061687-7a9873a34cac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLXJlZmxlY3Rpb258ZW58MHwwfHx8MTc1NTQxNjA1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Walks Build a Better Life Without Extra Effort")
-*How Daily Walks Build a Better Life Without Extra Effort - Photo by [Raj Vachhani](https://unsplash.com/@rajvachhani) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-the-middle-of-a-street-with-their-reflection-in-a-puddle-wP7k-3_qomI)*
+{{< figure src="https://images.unsplash.com/photo-1721068061687-7a9873a34cac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLXJlZmxlY3Rpb258ZW58MHwwfHx8MTc1NTQxNjA1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person in the middle of a street with their in a puddle wP7k 3_qomI" title="How Daily Walks Build a Better Life Without Extra Effort" caption="How Daily Walks Build a Better Life Without Extra Effort - Photo by [Raj Vachhani](https://unsplash.com/@rajvachhani) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-the-middle-of-a-street-with-their-reflection-in-a-puddle-wP7k-3_qomI)" >}}
 
 ## Key Takeaways
 - Use daily walks to reflect on your day and your happiness.

@@ -12,8 +12,7 @@ original_title = "S’investir dans sa vie en passant à l’action !"
 source_medium = "https://medium.com/@phenrysay/5cbc634d7869"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNzk1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action on Your Dreams Without Waiting Forever")
-*How to Take Action on Your Dreams Without Waiting Forever - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNzk1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Take Action on Your Dreams Without Waiting Forever" caption="How to Take Action on Your Dreams Without Waiting Forever - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever noticed how easy it is to dream about a different life, a new job, or living in another city, yet so hard to actually make it happen? Many people I meet talk about wanting change. They want to move, start something new, or simply break out of their routine. But when it comes down to it, comfort holds them back.
 
@@ -21,8 +20,7 @@ It’s not that they don’t have dreams or goals. They do. But the daily routin
 
 What’s interesting is that we can’t really judge what’s best for us—or for anyone else—until we’ve tried it ourselves. Each of us sees life differently. Our experiences, our feelings, and our needs are unique. That’s why it’s so important to make our own choices and learn from them.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNzk1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action on Your Dreams Without Waiting Forever")
-*How to Take Action on Your Dreams Without Waiting Forever - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNzk1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Take Action on Your Dreams Without Waiting Forever" caption="How to Take Action on Your Dreams Without Waiting Forever - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Let’s say you’re thinking about moving to Sydney. You like your current life, your friends, your job, and your apartment. But Sydney keeps calling to you. Why not try it? Move there for a month. If you don’t like it, you can always come back. At least you’ll know for sure. You’ll have your own opinion, based on real experience, not just imagination.
 
@@ -38,8 +36,7 @@ The best moment to take action is always today. Don’t put off what you can do 
 
 ---
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNzk1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action on Your Dreams Without Waiting Forever")
-*How to Take Action on Your Dreams Without Waiting Forever - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNzk1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Take Action on Your Dreams Without Waiting Forever" caption="How to Take Action on Your Dreams Without Waiting Forever - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 ## Key Takeaways
 - Comfort can keep you stuck, even when you want change.

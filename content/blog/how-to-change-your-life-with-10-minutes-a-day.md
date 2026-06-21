@@ -12,9 +12,7 @@ original_title = "LES ACTIONS DANS SA VIE 💥"
 source_medium = "https://medium.com/@phenrysay/d12021e012bd"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, make this the day, don't hesitate, procrastination, decision time, nocrastination, make the jump, exercise, new start, discipline, now is the time, just do it, make the change, diet, weight loss, walk, new leaf, turn over a new leaf, life change, stuck in a rut, move on, 
-](https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NTYwMTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With 10 Minutes a Day")
-*How to Change Your Life With 10 Minutes a Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)*
+{{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NTYwMTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How to Change Your Life With 10 Minutes a Day" caption="How to Change Your Life With 10 Minutes a Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 
 ### Small steps, big changes.
 
@@ -40,8 +38,7 @@ Every choice, even the small ones, shapes your future. Sometimes you might not k
 
 ## Turning Dreams Into Reality
 
-![Photo by David Walker | Walker Design Co.](https://images.unsplash.com/photo-1553374402-559e8b431161?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NTYwMTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With 10 Minutes a Day")
-*How to Change Your Life With 10 Minutes a Day - Photo by [David Walker | Walker Design Co.](https://unsplash.com/@walkerdesignco) on [Unsplash](https://unsplash.com/photos/white-text-bP0q3tTTHS4)*
+{{< figure src="https://images.unsplash.com/photo-1553374402-559e8b431161?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NTYwMTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White text" title="How to Change Your Life With 10 Minutes a Day" caption="How to Change Your Life With 10 Minutes a Day - Photo by [David Walker | Walker Design Co.](https://unsplash.com/@walkerdesignco) on [Unsplash](https://unsplash.com/photos/white-text-bP0q3tTTHS4)" >}}
 
 Maybe you dream of studying law, taking a gap year, or even going to space. These are big goals, but they all start with a single step. Take Mark Shuttleworth, the founder of Ubuntu. He wasn't an astronaut—he was a computer guy from South Africa. Yet, he became the first South African in space. He made a plan, learned from others, and took action every day toward his goal.
 
@@ -67,8 +64,7 @@ Your posture, the way you speak to yourself, and your thoughts all matter. Avoid
 >
 > — Lao Tzu
 
-![The word change illuminated in white and reflected on a tiled floor.](https://images.unsplash.com/photo-1631286434951-caa3dcab4d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NTYwMTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With 10 Minutes a Day")
-*How to Change Your Life With 10 Minutes a Day - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-change-5RjdYvDRNpA)*
+{{< figure src="https://images.unsplash.com/photo-1631286434951-caa3dcab4d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NTYwMTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="The word change illuminated in white and reflected on a tiled floor." title="How to Change Your Life With 10 Minutes a Day" caption="How to Change Your Life With 10 Minutes a Day - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-change-5RjdYvDRNpA)" >}}
 
 ---
 

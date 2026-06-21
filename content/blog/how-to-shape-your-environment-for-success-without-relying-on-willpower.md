@@ -12,8 +12,7 @@ original_title = "Ne LÂCHE RIEN : tes ACTIONS QUOTIDIENNES vers la RÉUSSITE"
 source_medium = "https://medium.com/@phenrysay/e136c9c258b9"
 +++
 
-![Photo by Paul White](https://images.unsplash.com/photo-1630344745808-5a8dc0eb4362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwZGFpbHklMjBoYWJpdHMlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU1Nzc2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Environment for Success Without Relying on Willpower")
-*How to Shape Your Environment for Success Without Relying on Willpower - Photo by [Paul White](https://unsplash.com/@paulwhiteplaytowin) on [Unsplash](https://unsplash.com/photos/man-in-gray-hoodie-jacket-pEUuwxkBOOg)*
+{{< figure src="https://images.unsplash.com/photo-1630344745808-5a8dc0eb4362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwZGFpbHklMjBoYWJpdHMlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU1Nzc2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in gray hoodie jacket" title="How to Shape Your Environment for Success Without Relying on Willpower" caption="How to Shape Your Environment for Success Without Relying on Willpower - Photo by [Paul White](https://unsplash.com/@paulwhiteplaytowin) on [Unsplash](https://unsplash.com/photos/man-in-gray-hoodie-jacket-pEUuwxkBOOg)" >}}
 
 When we get interested in productivity, we often start by reading, learning, and soaking up advice. We watch videos, read books, and maybe even take courses on how to get more done. But here’s the catch: after a few days—or sometimes even a few hours—we slip back into our old habits. The advice we just learned fades away, and we find ourselves right back where we started.
 
@@ -27,8 +26,7 @@ But here’s the good news: you’re not stuck. It’s easier than you think to 
 
 One trick I love is talking to myself out loud. Developers have a funny habit called “rubber duck debugging”—they explain their problem to a little yellow duck on their desk, and often, just saying it out loud helps them find the solution. You can do the same for your habits. If you’re struggling to get started in the morning, talk it through. Maybe you’ll realize your breakfast is too sugary and it’s making you tired. Or maybe you notice you’re always going to bed at different times, and that’s why you’re not feeling rested.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwZGFpbHklMjBoYWJpdHMlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU1Nzc2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Environment for Success Without Relying on Willpower")
-*How to Shape Your Environment for Success Without Relying on Willpower - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwZGFpbHklMjBoYWJpdHMlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU1Nzc2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Shape Your Environment for Success Without Relying on Willpower" caption="How to Shape Your Environment for Success Without Relying on Willpower - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 If you set a regular bedtime, you’ll see a big difference in your energy and productivity. Small changes like this add up. The key is to notice what’s really going on and be honest with yourself.
 
@@ -50,8 +48,7 @@ Remember, the best time to take action is now. Don’t wait for the perfect mome
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwZGFpbHklMjBoYWJpdHMlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU1Nzc2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Environment for Success Without Relying on Willpower")
-*How to Shape Your Environment for Success Without Relying on Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwZGFpbHklMjBoYWJpdHMlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU1Nzc2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Shape Your Environment for Success Without Relying on Willpower" caption="How to Shape Your Environment for Success Without Relying on Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 - Your environment shapes your habits more than your willpower does.
 - Small changes in your surroundings can boost your productivity.

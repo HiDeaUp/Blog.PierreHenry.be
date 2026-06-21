@@ -12,8 +12,7 @@ original_title = "Ce que tu rates sur le bonheur"
 source_medium = "https://medium.com/@phenrysay/64237aa90a6f"
 +++
 
-![Tiles with Be Happy written on them.](https://images.unsplash.com/photo-1621276892125-4ff725a7a01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLXJlZmxlY3Rpb24lMjBsaWZlJTIwcHVycG9zZXxlbnwwfDB8fHwxNzU2MTA3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Success")
-*How to Find Real Happiness Without Chasing Success - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/white-and-blue-wooden-wall-decor-gtKrFGD6NZg)*
+{{< figure src="https://images.unsplash.com/photo-1621276892125-4ff725a7a01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLXJlZmxlY3Rpb24lMjBsaWZlJTIwcHVycG9zZXxlbnwwfDB8fHwxNzU2MTA3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles with Be Happy written on them." title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/white-and-blue-wooden-wall-decor-gtKrFGD6NZg)" >}}
 
 As the sun sets, it’s a perfect moment to pause and reflect on what happiness really means. Too often, we get caught up in chasing success, more money, better degrees, or the approval of friends and family. We forget to look inward and ask ourselves what truly matters to us.
 
@@ -21,8 +20,7 @@ Real happiness starts with knowing yourself. It’s easy to overlook your own va
 
 The more you question yourself, the more you’ll discover what makes you happy. This self-awareness is the first step toward a free and fulfilling life. Once you know what you enjoy, you can focus on repeating those things as much as possible. The more you fill your days with what you love, the happier you’ll become.
 
-![smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679](https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLXJlZmxlY3Rpb24lMjBsaWZlJTIwcHVycG9zZXxlbnwwfDB8fHwxNzU2MTA3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Success")
-*How to Find Real Happiness Without Chasing Success - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)*
+{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLXJlZmxlY3Rpb24lMjBsaWZlJTIwcHVycG9zZXxlbnwwfDB8fHwxNzU2MTA3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
 
 A happy life isn’t about grand achievements. It’s about a collection of days where you feel good, fulfilled, and at peace with yourself. For me, that’s what a beautiful life looks like. It’s a life with few constraints, where you don’t constantly compare yourself to others or feel jealous. It’s about surrounding yourself with people who aren’t toxic, who aren’t out to bring you down, but who inspire you to become the person you want to be.
 
@@ -35,8 +33,7 @@ So, it’s important to know yourself and choose your circle wisely. Surround yo
 > *You are only as good as the people you surround yourself with.*
 > — Unknown
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLXJlZmxlY3Rpb24lMjBsaWZlJTIwcHVycG9zZXxlbnwwfDB8fHwxNzU2MTA3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Success")
-*How to Find Real Happiness Without Chasing Success - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)*
+{{< figure src="https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLXJlZmxlY3Rpb24lMjBsaWZlJTIwcHVycG9zZXxlbnwwfDB8fHwxNzU2MTA3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow card with the words be the creator of your own" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)" >}}
 
 ---
 

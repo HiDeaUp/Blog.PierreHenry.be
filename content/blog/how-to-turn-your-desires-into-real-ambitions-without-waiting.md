@@ -12,8 +12,7 @@ original_title = "Transformer ses envies pour atteindre ses ambitions ?"
 source_medium = "https://medium.com/@phenrysay/e6597b5ca216"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjAxOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Your Desires Into Real Ambitions Without Waiting")
-*How to Turn Your Desires Into Real Ambitions Without Waiting - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjAxOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Turn Your Desires Into Real Ambitions Without Waiting" caption="How to Turn Your Desires Into Real Ambitions Without Waiting - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 What does it mean to grow, to become greater in your own life? It starts with having a clear vision—a real sense of what you want to achieve. That’s what I call greatness. When you wake up in the morning, ask yourself: What am I going to do today? What will I accomplish? How can I change my days, and my life, to get closer to the life I dream of?
 
@@ -23,8 +22,7 @@ A simple habit that can change everything is to do a weekly review—maybe every
 
 Right now, I’m sitting in a cozy café in Seoul. I’m here for a few weeks, just exploring the city. I love it—there are so many coffee shops, and the people are incredibly kind and respectful. This place inspires me to talk about growing, about figuring out what’s right for you.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjAxOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Your Desires Into Real Ambitions Without Waiting")
-*How to Turn Your Desires Into Real Ambitions Without Waiting - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjAxOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Turn Your Desires Into Real Ambitions Without Waiting" caption="How to Turn Your Desires Into Real Ambitions Without Waiting - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Let’s say you want to travel the world, move to Korea, learn Korean, become a pro surfer, play basketball at a high level, or even see an NBA game in the US. What do you need to do? What can you start doing right now? Maybe you could start saving a little money each week to make it happen.
 
@@ -39,8 +37,7 @@ There’s no perfect moment. The best time is now. There’s a famous Chinese pr
 
 If you had planted that tree 20 years ago, it would be tall and beautiful today. But if you plant it now, in 20 years, you’ll have a wonderful tree. It’s the same with your life. You need to act. The best time to grow is today—not tomorrow, not the day after, but now.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjAxOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Your Desires Into Real Ambitions Without Waiting")
-*How to Turn Your Desires Into Real Ambitions Without Waiting - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NjAxOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Turn Your Desires Into Real Ambitions Without Waiting" caption="How to Turn Your Desires Into Real Ambitions Without Waiting - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 I believe in you. Go for it. Grow. We grow together. And if you want to go even further, I invite you to check out my self-help book, listen to my podcast with El, or join my private mailing list for more personal tips and support.
 

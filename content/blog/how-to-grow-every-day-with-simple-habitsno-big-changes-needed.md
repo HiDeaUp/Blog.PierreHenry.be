@@ -12,8 +12,7 @@ original_title = "Mes facteurs clés pour grandir 🤐"
 source_medium = "https://medium.com/@phenrysay/44333b2cabab"
 +++
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTcyNzM2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Day With Simple Habits—No Big Changes Needed")
-*How to Grow Every Day With Simple Habits—No Big Changes Needed - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTcyNzM2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Grow Every Day With Simple Habits—No Big Changes Needed" caption="How to Grow Every Day With Simple Habits—No Big Changes Needed - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 Growing as a person is not about grand gestures or sudden changes. It is about having a clear strategy and sticking to it, day after day. The real secret lies in building routines that become second nature. When you have a plan for your days and weeks, you set yourself up for success, almost on autopilot.
 
@@ -25,8 +24,7 @@ One of the most important things I have learned is that consistency pays off. Wh
 
 Having a plan is essential. At the start of each week, I list out everything I want to accomplish. Every evening, I take a moment to look back at my day and see how things went. Then, in the morning, I review my top five or ten tasks for the day. This simple routine gives me two things: the confidence that I will get things done, and the momentum to keep moving forward. When you hesitate, your days fill up with doubt. As the saying goes, doubt is the cancer of the mind. It is better to put doubt aside and let your plan guide you.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTcyNzM2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Day With Simple Habits—No Big Changes Needed")
-*How to Grow Every Day With Simple Habits—No Big Changes Needed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTcyNzM2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Grow Every Day With Simple Habits—No Big Changes Needed" caption="How to Grow Every Day With Simple Habits—No Big Changes Needed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 ## No Days Off: Why Regularity Matters
 
@@ -46,8 +44,7 @@ Another habit that has helped me is keeping a notebook by my bed. Before I go to
 
 ## Final Thoughts
 
-![Photo by Tu Tran Anh](https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTcyNzM2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Day With Simple Habits—No Big Changes Needed")
-*How to Grow Every Day With Simple Habits—No Big Changes Needed - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)*
+{{< figure src="https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTcyNzM2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a bench with plants growing out of it" title="How to Grow Every Day With Simple Habits—No Big Changes Needed" caption="How to Grow Every Day With Simple Habits—No Big Changes Needed - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)" >}}
 
 Growth is not about being perfect. It is about showing up, planning your days, and letting small habits build into something bigger. Trust your routines, keep your ideas close, and remember that every day is a new chance to move forward.
 

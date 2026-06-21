@@ -12,8 +12,7 @@ original_title = "How to Master GitHub Copilot AI and Become a Better Curious En
 source_medium = "https://medium.com/@phenrysay/5e307d5d286a"
 +++
 
-![Photo by Thomas Fore](https://images.unsplash.com/photo-1711322161199-9258364e0be8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHaXRIdWIlMjBDb3BpbG90JTIwRWxlY3Ryb25KUyUyMGRlYnVnZ2luZ3xlbnwwfDB8fHwxNzY3MDk4ODU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Debug ElectronJS Apps Using Copilot Without Getting Stuck")
-*How to Debug ElectronJS Apps Using Copilot Without Getting Stuck - Photo by [Thomas Fore](https://unsplash.com/@tomfromnm) on [Unsplash](https://unsplash.com/photos/a-hot-air-balloon-with-a-piece-of-luggage-inside-of-it-D9OKItZ0BZ8)*
+{{< figure src="https://images.unsplash.com/photo-1711322161199-9258364e0be8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHaXRIdWIlMjBDb3BpbG90JTIwRWxlY3Ryb25KUyUyMGRlYnVnZ2luZ3xlbnwwfDB8fHwxNzY3MDk4ODU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A hot air balloon with a piece of luggage inside of it" title="How to Debug ElectronJS Apps Using Copilot Without Getting Stuck" caption="How to Debug ElectronJS Apps Using Copilot Without Getting Stuck - Photo by [Thomas Fore](https://unsplash.com/@tomfromnm) on [Unsplash](https://unsplash.com/photos/a-hot-air-balloon-with-a-piece-of-luggage-inside-of-it-D9OKItZ0BZ8)" >}}
 
 Alright, let’s get into it. I want to walk you through a project I’ve been building—a desktop app using ElectronJS. Not the latest Electron, by the way. I’m on version 25, and I think Electron is up to 31 now, but honestly, that’s not the point. This isn’t about Electron versions. This is about how I use AI, specifically GitHub Copilot and GPT-4.1, to debug and improve my workflow as a software engineer.
 
@@ -38,8 +37,7 @@ npm start
 
 If the UI looks wrong (like toggles turning into checkboxes), I check the diff. If Copilot removed a ton of code, that’s a red flag. I’ll just revert and try a more focused prompt.
 
-![Photo by Matias Luge](https://images.unsplash.com/photo-1663422468271-dc79caa4b02f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxHaXRIdWIlMjBDb3BpbG90JTIwRWxlY3Ryb25KUyUyMGRlYnVnZ2luZ3xlbnwwfDB8fHwxNzY3MDk4ODU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Debug ElectronJS Apps Using Copilot Without Getting Stuck")
-*How to Debug ElectronJS Apps Using Copilot Without Getting Stuck - Photo by [Matias Luge](https://unsplash.com/@matiasluge) on [Unsplash](https://unsplash.com/photos/a-person-using-a-tool-vf6xZRgewTQ)*
+{{< figure src="https://images.unsplash.com/photo-1663422468271-dc79caa4b02f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxHaXRIdWIlMjBDb3BpbG90JTIwRWxlY3Ryb25KUyUyMGRlYnVnZ2luZ3xlbnwwfDB8fHwxNzY3MDk4ODU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person using a tool" title="How to Debug ElectronJS Apps Using Copilot Without Getting Stuck" caption="How to Debug ElectronJS Apps Using Copilot Without Getting Stuck - Photo by [Matias Luge](https://unsplash.com/@matiasluge) on [Unsplash](https://unsplash.com/photos/a-person-using-a-tool-vf6xZRgewTQ)" >}}
 
 #### Chasing Down a JS Error
 
@@ -65,8 +63,7 @@ There’s also the toolset for custom chat models. You can create files for spec
 
 Here’s a mindset tip: if AI doesn’t give you the answer you want, don’t blame the AI. Ask yourself what you could have done differently. Maybe your prompt wasn’t clear enough. If you always blame the tool, you’ll never improve as an engineer. Take responsibility, refine your prompts, and keep iterating.
 
-![Boeing 747 interior cockpit](https://images.unsplash.com/photo-1723345505144-7c34cb5c64b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxHaXRIdWIlMjBDb3BpbG90JTIwRWxlY3Ryb25KUyUyMGRlYnVnZ2luZ3xlbnwwfDB8fHwxNzY3MDk4ODU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Debug ElectronJS Apps Using Copilot Without Getting Stuck")
-*How to Debug ElectronJS Apps Using Copilot Without Getting Stuck - Photo by [Theo Wilden](https://unsplash.com/@twilden) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-control-panel-in-a-plane-izwGOc5v_0k)*
+{{< figure src="https://images.unsplash.com/photo-1723345505144-7c34cb5c64b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxHaXRIdWIlMjBDb3BpbG90JTIwRWxlY3Ryb25KUyUyMGRlYnVnZ2luZ3xlbnwwfDB8fHwxNzY3MDk4ODU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Boeing 747 interior cockpit" title="How to Debug ElectronJS Apps Using Copilot Without Getting Stuck" caption="How to Debug ElectronJS Apps Using Copilot Without Getting Stuck - Photo by [Theo Wilden](https://unsplash.com/@twilden) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-control-panel-in-a-plane-izwGOc5v_0k)" >}}
 
 ### Wrapping Up: Iteration and Progress
 

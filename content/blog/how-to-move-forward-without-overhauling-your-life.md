@@ -12,8 +12,7 @@ original_title = "Réussir en allant de l’avant 💪"
 source_medium = "https://medium.com/@phenrysay/83f63bb44c91"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Overhauling Your Life")
-*How to Move Forward Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Move Forward Without Overhauling Your Life" caption="How to Move Forward Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Too often, we find ourselves stuck in routines that drain us. Maybe you wake up feeling tired, dissatisfied with your day, or simply not fulfilled. You might think your lifestyle isn’t perfect, that you work too much, or that you’re not truly happy. It’s easy to complain, to wish things were different, or to imagine a better life. But how often do we actually take steps to improve what bothers us?
 
@@ -21,8 +20,7 @@ The truth is, complaining without making changes only adds more negativity to yo
 
 Ask yourself: What could I do differently? Maybe you need a new routine. Try getting up earlier, grabbing a coffee and a croissant at your favorite café, and using that time to work on something you want to learn. Make a list of skills you’d like to develop or things you want to change. If you’re thinking about switching jobs, write down what that would involve. Maybe you need to update your resume or ask a friend for advice.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Overhauling Your Life")
-*How to Move Forward Without Overhauling Your Life - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Move Forward Without Overhauling Your Life" caption="How to Move Forward Without Overhauling Your Life - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Sometimes, it’s about making small adjustments at home. If you want to cook more but your kitchen isn’t inspiring, consider getting new utensils or trying batch cooking. Spend Sunday afternoons preparing meals for the week, freeze them in portions, and you’ll have healthy food ready to go. This simple change can help you feel better, eat healthier, and even reduce stress.
 
@@ -36,8 +34,7 @@ There are always things you can do to improve your daily life, but the most impo
 
 I truly wish you the best. Take action, don’t wait for the perfect moment. I’m with you, cheering you on every step of the way.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Overhauling Your Life")
-*How to Move Forward Without Overhauling Your Life - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Move Forward Without Overhauling Your Life" caption="How to Move Forward Without Overhauling Your Life - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 ---
 

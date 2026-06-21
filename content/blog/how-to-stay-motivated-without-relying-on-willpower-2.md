@@ -12,8 +12,7 @@ original_title = "Simplicité & Réussite, ce que tu ne sais pas encore la tou
 source_medium = "https://medium.com/@phenrysay/389b40b4def7"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2ltcGxpY2l0eSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NTIwNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated Without Relying on Willpower")
-*How to Stay Motivated Without Relying on Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2ltcGxpY2l0eSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NTIwNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Stay Motivated Without Relying on Willpower" caption="How to Stay Motivated Without Relying on Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 When it comes to motivation, most people think of big goals, strict routines, or endless willpower. But what if the real secret to getting things done was much simpler? I want to share a personal method that’s helped me finish projects, stay focused, and actually enjoy the process: the principle of rewards.
 
@@ -23,8 +22,7 @@ This isn’t just about food. For bigger projects, I set bigger rewards. For ins
 
 Deadlines are just as important. Without them, motivation fades. It’s too easy to say, “I’ll do it tomorrow,” and then push it off again and again. But if you set a clear deadline—say, “I have to finish this in X days”—and tie it to a reward, you suddenly have a reason to push through. I know people who finish a training session and then treat themselves to a cold beer. In hot, humid places, that’s a real pleasure.
 
-![My current desk setup as of 2016. I am a wedding and portrait photographer and have always believed the space you do work in has a big impact on the quality and kind of work you complete. I have been refining my workspace since I was in high school and I am really happy where it is now!](https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2ltcGxpY2l0eSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NTIwNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated Without Relying on Willpower")
-*How to Stay Motivated Without Relying on Willpower - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)*
+{{< figure src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2ltcGxpY2l0eSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NTIwNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Silver imac with and inside room KE0nC8 58MQ" title="How to Stay Motivated Without Relying on Willpower" caption="How to Stay Motivated Without Relying on Willpower - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)" >}}
 
 Right now, I’m in Australia, where coffee culture is huge. I used to live in Sydney, where wine is more the thing, like in France. Here, you can grab a glass of wine with friends or enjoy a meal out. But what really helps is working in a place that feels good. I love being surrounded by nature, with trees and open space, and a view of the bay. Looking out at that view, I feel like anything is possible. If you really want something, you’ll find a way to make it happen.
 
@@ -44,8 +42,7 @@ All of this—rewards, deadlines, environment—works together to create trigger
 
 So, next time you’re struggling to finish something, try this: set a clear deadline, promise yourself a reward, and put yourself in an environment that helps you focus. You’ll be surprised at how much you can get done.
 
-![Photo by Amr Taha™](https://images.unsplash.com/photo-1679601613231-96ac28d7c661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2ltcGxpY2l0eSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NTIwNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated Without Relying on Willpower")
-*How to Stay Motivated Without Relying on Willpower - Photo by [Amr Taha™](https://unsplash.com/@amr_taha) on [Unsplash](https://unsplash.com/photos/a-desk-with-a-keyboard-mouse-and-monitor-on-it-gfzBA9LO5dg)*
+{{< figure src="https://images.unsplash.com/photo-1679601613231-96ac28d7c661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2ltcGxpY2l0eSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NTIwNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A desk with a mouse and monitor on it" title="How to Stay Motivated Without Relying on Willpower" caption="How to Stay Motivated Without Relying on Willpower - Photo by [Amr Taha™](https://unsplash.com/@amr_taha) on [Unsplash](https://unsplash.com/photos/a-desk-with-a-keyboard-mouse-and-monitor-on-it-gfzBA9LO5dg)" >}}
 
 ---
 

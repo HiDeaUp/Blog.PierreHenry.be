@@ -12,8 +12,7 @@ original_title = "Pourquoi se compliquer la vie 🫤"
 source_medium = "https://medium.com/@phenrysay/65104f5ae5b4"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwb3ZlcnRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA3NDMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life Without Missing Out on What Matters")
-*How to Simplify Life Without Missing Out on What Matters - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/brown-its-simple-scrabble-tiles-oHVdj31R3F4)*
+{{< figure src="https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwb3ZlcnRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA3NDMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown its simple tiles" title="How to Simplify Life Without Missing Out on What Matters" caption="How to Simplify Life Without Missing Out on What Matters - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/brown-its-simple-scrabble-tiles-oHVdj31R3F4)" >}}
 
 We often make life harder than it needs to be. Whether it’s in our daily routines, decision-making, or even when starting a business, we tend to overcomplicate things that could be simple. This habit shows up everywhere: we want to have every tool, every gadget, every possible solution—even before we actually need them.
 
@@ -27,8 +26,7 @@ The best approach is to use the tool you know best, preferably the simplest one.
 
 I’ve fallen into this trap myself. I’ve spent a lot of money and, more importantly, lost a lot of time chasing after new tools, thinking they’d be better. Most of the time, they weren’t. The lesson I learned is that the best tool is the one you actually use and enjoy.
 
-![Photo by Leo_Visions](https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwb3ZlcnRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA3NDMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life Without Missing Out on What Matters")
-*How to Simplify Life Without Missing Out on What Matters - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)*
+{{< figure src="https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwb3ZlcnRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA3NDMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A rock in a body of water with a sky in the" title="How to Simplify Life Without Missing Out on What Matters" caption="How to Simplify Life Without Missing Out on What Matters - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)" >}}
 
 This idea goes beyond apps and business. It applies to your whole life. If you live simply, with only what you need, things get easier. For example, if you limit yourself to three shirts, three pairs of pants, and one computer, you avoid the headache of managing too much stuff. When you get a new computer, give away or recycle the old one. Otherwise, you’ll end up with files scattered across devices, wasting time trying to remember where you stored something.
 
@@ -46,8 +44,7 @@ Minimalism isn’t just about owning less. It’s about making your life lighter
 
 ## Key Takeaways
 
-![Female hand showing camera filter.](https://images.unsplash.com/photo-1676335834780-b087d202e18a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwb3ZlcnRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA3NDMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life Without Missing Out on What Matters")
-*How to Simplify Life Without Missing Out on What Matters - Photo by [Fast Glass FX](https://unsplash.com/@fastglassfx) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-magnifying-glass-over-a-body-of-water-h18xeG416NM)*
+{{< figure src="https://images.unsplash.com/photo-1676335834780-b087d202e18a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwb3ZlcnRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA3NDMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Female hand showing camera filter." title="How to Simplify Life Without Missing Out on What Matters" caption="How to Simplify Life Without Missing Out on What Matters - Photo by [Fast Glass FX](https://unsplash.com/@fastglassfx) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-magnifying-glass-over-a-body-of-water-h18xeG416NM)" >}}
 
 - We often make things more complicated than they need to be.
 - Focus on what’s essential before adding more tools or processes.

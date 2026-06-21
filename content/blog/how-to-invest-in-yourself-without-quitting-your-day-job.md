@@ -12,8 +12,7 @@ original_title = "Vivre de sa passion. Mon avis"
 source_medium = "https://medium.com/@phenrysay/82e68dd14dd9"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcGFzc2lvbiUyMHByb2plY3RzJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjM3ODkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Quitting Your Day Job")
-*How to Invest in Yourself Without Quitting Your Day Job - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)*
+{{< figure src="https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcGFzc2lvbiUyMHByb2plY3RzJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjM3ODkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word passion" title="How to Invest in Yourself Without Quitting Your Day Job" caption="How to Invest in Yourself Without Quitting Your Day Job - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)" >}}
 
 When you start something for yourself—whether it’s a side business, a personal project, or a passion you want to turn into something more—you’re making an investment. Not just of money, but of your time, your knowledge, and your energy. Think of it like putting your savings in a bank, except here, you’re investing your skills and ideas into something that belongs to you.
 
@@ -25,8 +24,7 @@ I’ve written about this before—how teaching reinforces your brain. When you 
 
 Having a side project is not just about making extra money. It’s about not putting all your eggs in one basket. If you only focus on your 9-to-5 job, you’re limiting yourself. I know what it’s like to work long hours—sometimes from 8 in the morning until 7 at night, even on weekends. In some places, like the UK, the legal workweek is 48 hours, not 35 or 36. That’s a lot of time spent working for someone else.
 
-![Photo by Kashawn Hernandez](https://images.unsplash.com/photo-1609800380385-a0d9c8ceae5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcGFzc2lvbiUyMHByb2plY3RzJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjM3ODkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Quitting Your Day Job")
-*How to Invest in Yourself Without Quitting Your Day Job - Photo by [Kashawn Hernandez](https://unsplash.com/@galacticfantastic) on [Unsplash](https://unsplash.com/photos/white-string-lights-on-street-during-night-time-4a7-WStchn0)*
+{{< figure src="https://images.unsplash.com/photo-1609800380385-a0d9c8ceae5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcGFzc2lvbiUyMHByb2plY3RzJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjM3ODkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White string lights on street during night time 4a7 WStchn0" title="How to Invest in Yourself Without Quitting Your Day Job" caption="How to Invest in Yourself Without Quitting Your Day Job - Photo by [Kashawn Hernandez](https://unsplash.com/@galacticfantastic) on [Unsplash](https://unsplash.com/photos/white-string-lights-on-street-during-night-time-4a7-WStchn0)" >}}
 
 So, what can you do? Start by building a routine around learning. Ask yourself: What do I want to learn? What do I want to achieve? What skills do I want to develop? The more you learn, the more connections you make, and the more doors open for you. You’ll be able to make better decisions, see new opportunities, and grow in ways you never expected.
 
@@ -43,8 +41,7 @@ It’s the same with your projects and your passions. If you start now, you’ll
 
 ## Key Takeaways
 
-![A group of South Africans with diabetes brainstorm ideas on diabetes advocacy](https://images.unsplash.com/photo-1683200517782-717f1792fa58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcGFzc2lvbiUyMHByb2plY3RzJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjM3ODkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Quitting Your Day Job")
-*How to Invest in Yourself Without Quitting Your Day Job - Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-yQ4smaPYgnw)*
+{{< figure src="https://images.unsplash.com/photo-1683200517782-717f1792fa58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcGFzc2lvbiUyMHByb2plY3RzJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjM3ODkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of South Africans with diabetes brainstorm ideas on diabetes advocacy" title="How to Invest in Yourself Without Quitting Your Day Job" caption="How to Invest in Yourself Without Quitting Your Day Job - Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-yQ4smaPYgnw)" >}}
 
 - Invest your time and skills in something that belongs to you, not just your employer.
 - Teaching and sharing your knowledge helps you learn better and remember more.

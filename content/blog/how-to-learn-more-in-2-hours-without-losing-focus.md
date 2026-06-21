@@ -12,8 +12,7 @@ original_title = "Apprentissage en 2h ⏰"
 source_medium = "https://medium.com/@phenrysay/b8d3cb3032a3"
 +++
 
-![study](https://images.unsplash.com/photo-1650525218265-d6fef4ada666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzZWQlMjBzdHVkeXxlbnwwfDB8fHwxNzU2MTEyODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn More in 2 Hours Without Losing Focus")
-*How to Learn More in 2 Hours Without Losing Focus - Photo by [Roman Kraft](https://unsplash.com/@romankraft) on [Unsplash](https://unsplash.com/photos/a-yellow-background-with-the-word-study-spelled-out-F0EipXnkeE4)*
+{{< figure src="https://images.unsplash.com/photo-1650525218265-d6fef4ada666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzZWQlMjBzdHVkeXxlbnwwfDB8fHwxNzU2MTEyODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="study" title="How to Learn More in 2 Hours Without Losing Focus" caption="How to Learn More in 2 Hours Without Losing Focus - Photo by [Roman Kraft](https://unsplash.com/@romankraft) on [Unsplash](https://unsplash.com/photos/a-yellow-background-with-the-word-study-spelled-out-F0EipXnkeE4)" >}}
 
 Finding the right way to learn or work can be a real challenge, especially when your environment is full of distractions. I know this struggle well. There was a time when I lived in Dublin, sharing a small apartment with several people. Three of us squeezed into one room, two girls in another, and the longest-staying person got the only private room. Privacy was rare, and focusing on studying or working was even harder.
 
@@ -23,8 +22,7 @@ The real key is to block out those two hours. I use a simple timer app on my pho
 
 This habit has changed everything for me. Without it, I’d always find something else to do. There’s always another distraction waiting. But with a timer and a clear goal, I get into a flow state. If you can, use noise-canceling headphones. Mine are from Bose, but any good pair will do. They help block out the world, especially in public places.
 
-![Photo by Vince Veras](https://images.unsplash.com/photo-1599319980787-d850b3c8f9b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzZWQlMjBzdHVkeXxlbnwwfDB8fHwxNzU2MTEyODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn More in 2 Hours Without Losing Focus")
-*How to Learn More in 2 Hours Without Losing Focus - Photo by [Vince Veras](https://unsplash.com/@vinceveras) on [Unsplash](https://unsplash.com/photos/black-and-white-round-analog-wall-clock-G1lR5-cMdAQ)*
+{{< figure src="https://images.unsplash.com/photo-1599319980787-d850b3c8f9b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzZWQlMjBzdHVkeXxlbnwwfDB8fHwxNzU2MTEyODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and white round analog wall clock G1lR5 cMdAQ" title="How to Learn More in 2 Hours Without Losing Focus" caption="How to Learn More in 2 Hours Without Losing Focus - Photo by [Vince Veras](https://unsplash.com/@vinceveras) on [Unsplash](https://unsplash.com/photos/black-and-white-round-analog-wall-clock-G1lR5-cMdAQ)" >}}
 
 One thing I love about working in places where I don’t know the language is that I’m less likely to get distracted by conversations. Even in Seoul, you’ll hear some English or French now and then, but mostly, it’s just a gentle background hum.
 
@@ -46,8 +44,7 @@ If you stick to this method, you’ll see real progress. You’ll be more produc
 - *Reward yourself after completing your session to stay motivated.*
 - *Noise-canceling headphones can help you stay in the zone, especially in public places.*
 
-![Photo by Avery Evans](https://images.unsplash.com/photo-1604872423159-61ef082dab75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzZWQlMjBzdHVkeXxlbnwwfDB8fHwxNzU2MTEyODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn More in 2 Hours Without Losing Focus")
-*How to Learn More in 2 Hours Without Losing Focus - Photo by [Avery Evans](https://unsplash.com/@averye457) on [Unsplash](https://unsplash.com/photos/person-in-gray-shirt-using-macbook-pro-v-0eLg0SrYU)*
+{{< figure src="https://images.unsplash.com/photo-1604872423159-61ef082dab75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzZWQlMjBzdHVkeXxlbnwwfDB8fHwxNzU2MTEyODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person in gray shirt using macbook pro v" title="How to Learn More in 2 Hours Without Losing Focus" caption="How to Learn More in 2 Hours Without Losing Focus - Photo by [Avery Evans](https://unsplash.com/@averye457) on [Unsplash](https://unsplash.com/photos/person-in-gray-shirt-using-macbook-pro-v-0eLg0SrYU)" >}}
 
 ## Action Steps
 

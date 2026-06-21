@@ -12,8 +12,7 @@ original_title = "Comment mieux planifier notre vie ?"
 source_medium = "https://medium.com/@phenrysay/1afd68eaf476"
 +++
 
-![Photo by 2H Media](https://images.unsplash.com/photo-1657040298726-7189d3090d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMHJvdXRpbmUlMjBsaWZlJTIwcGxhbm5pbmclMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA2NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Life Without Waiting for the Perfect Moment")
-*How to Plan Your Life Without Waiting for the Perfect Moment - Photo by [2H Media](https://unsplash.com/@2hmedia) on [Unsplash](https://unsplash.com/photos/text-CI42rRp-dLc)*
+{{< figure src="https://images.unsplash.com/photo-1657040298726-7189d3090d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMHJvdXRpbmUlMjBsaWZlJTIwcGxhbm5pbmclMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA2NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text CI42rRp dLc" title="How to Plan Your Life Without Waiting for the Perfect Moment" caption="How to Plan Your Life Without Waiting for the Perfect Moment - Photo by [2H Media](https://unsplash.com/@2hmedia) on [Unsplash](https://unsplash.com/photos/text-CI42rRp-dLc)" >}}
 
 Planning your life might sound like a big, complicated task, but it really comes down to something much simpler: having a daily routine that guides you, every single day, from Monday to Sunday. This routine isn’t just about ticking boxes or following a strict schedule. It’s about giving yourself a clear path, so you’re not wandering in the fog, unsure of where you’re going. When you plan your days like this, you move forward with purpose, and you reach your goals much faster.
 
@@ -25,8 +24,7 @@ This is how you build expertise: by planning your days, having a clear vision of
 
 It’s easy to think, “I’ll start tomorrow,” or “I’ll wait for the right moment.” But the truth is, the right moment never comes. There’s a famous Chinese proverb that says:
 
-![Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background](https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJvdXRpbmUlMjBsaWZlJTIwcGxhbm5pbmclMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA2NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Life Without Waiting for the Perfect Moment")
-*How to Plan Your Life Without Waiting for the Perfect Moment - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)*
+{{< figure src="https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJvdXRpbmUlMjBsaWZlJTIwcGxhbm5pbmclMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA2NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background" title="How to Plan Your Life Without Waiting for the Perfect Moment" caption="How to Plan Your Life Without Waiting for the Perfect Moment - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)" >}}
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*
 > — Chinese Proverb
@@ -45,8 +43,7 @@ Having a daily routine and a clear learning plan changes everything. It gives yo
 - *Be an active learner: apply what you learn, get feedback, and improve.*
 - *Step by step, you can become an expert in anything you care about.*
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMHJvdXRpbmUlMjBsaWZlJTIwcGxhbm5pbmclMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA2NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Life Without Waiting for the Perfect Moment")
-*How to Plan Your Life Without Waiting for the Perfect Moment - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMHJvdXRpbmUlMjBsaWZlJTIwcGxhbm5pbmclMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA2NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Plan Your Life Without Waiting for the Perfect Moment" caption="How to Plan Your Life Without Waiting for the Perfect Moment - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 ## Action Steps
 - *Pick one thing you want to improve or achieve.*

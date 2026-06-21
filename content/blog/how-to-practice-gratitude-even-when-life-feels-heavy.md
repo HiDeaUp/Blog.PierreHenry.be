@@ -13,9 +13,7 @@ source_medium = "https://medium.com/@phenrysay/0d717ae14c2c"
 source_youtube = "https://www.youtube.com/watch?v=_UTjRt1NH38"
 +++
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxncmF0aXR1ZGUlMjBtaW5kZnVsbmVzcyUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc2ODIyMTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Practice Gratitude Even When Life Feels Heavy")
-*How to Practice Gratitude Even When Life Feels Heavy - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxncmF0aXR1ZGUlMjBtaW5kZnVsbmVzcyUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc2ODIyMTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Practice Gratitude Even When Life Feels Heavy" caption="How to Practice Gratitude Even When Life Feels Heavy - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 #### A gentle reminder that gratitude is a daily practice, not just a feeling.
 
@@ -36,8 +34,7 @@ Without this habit of remembering and appreciating the good, it’s easy to feel
 
 Here are a few simple ways to keep your gratitude alive, even when things are tough:
 
-![If you like my work, please support me: paypal.me/viktorforgacs](https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxncmF0aXR1ZGUlMjBtaW5kZnVsbmVzcyUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc2ODIyMTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Practice Gratitude Even When Life Feels Heavy")
-*How to Practice Gratitude Even When Life Feels Heavy - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)*
+{{< figure src="https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxncmF0aXR1ZGUlMjBtaW5kZnVsbmVzcyUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc2ODIyMTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="If you like my work, please support me: paypal.me/viktorforgacs" title="How to Practice Gratitude Even When Life Feels Heavy" caption="How to Practice Gratitude Even When Life Feels Heavy - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)" >}}
 
 #### 1. Write Down Good Moments
 
@@ -58,8 +55,7 @@ How you hold yourself affects how you feel. Stand up straight, stretch, or do a 
 
 When you practice gratitude, you give yourself the energy to take the next step, even when things are hard. It’s not about ignoring your problems or pretending everything is perfect. It’s about remembering that you’ve already had good moments and that you can have more. This simple practice can help you feel less stuck and more hopeful.
 
-![Photo by THLT LCX](https://images.unsplash.com/photo-1611071496337-9882cd6c0e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxncmF0aXR1ZGUlMjBtaW5kZnVsbmVzcyUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc2ODIyMTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Practice Gratitude Even When Life Feels Heavy")
-*How to Practice Gratitude Even When Life Feels Heavy - Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com/photos/gray-concrete-buddha-statue-during-daytime-bxlB513KSQ8)*
+{{< figure src="https://images.unsplash.com/photo-1611071496337-9882cd6c0e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxncmF0aXR1ZGUlMjBtaW5kZnVsbmVzcyUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc2ODIyMTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Gray buddha statue during daytime" title="How to Practice Gratitude Even When Life Feels Heavy" caption="How to Practice Gratitude Even When Life Feels Heavy - Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com/photos/gray-concrete-buddha-statue-during-daytime-bxlB513KSQ8)" >}}
 
 > *The more you praise and celebrate your life, the more there is in life to celebrate.*  
 > — Oprah Winfrey

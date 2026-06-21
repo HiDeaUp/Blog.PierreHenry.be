@@ -12,8 +12,7 @@ original_title = "Une nouvelle vie ? La carte au trésor 🗺️"
 source_medium = "https://medium.com/@phenrysay/f878175d6d0c"
 +++
 
-![Discover Word](https://images.unsplash.com/photo-1673515335978-8cc55e3e9e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwY2hhbmdlcyUyMHNlbGYlMjBkaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2ODUyMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Redraw Your Path When Passion Feels Like a Job")
-*How to Redraw Your Path When Passion Feels Like a Job - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-discovery-spelled-with-scrabble-letters-on-a-wooden-surface-8246ckwp_i8)*
+{{< figure src="https://images.unsplash.com/photo-1673515335978-8cc55e3e9e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwY2hhbmdlcyUyMHNlbGYlMjBkaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2ODUyMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Discover Word" title="How to Redraw Your Path When Passion Feels Like a Job" caption="How to Redraw Your Path When Passion Feels Like a Job - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-discovery-spelled-with-scrabble-letters-on-a-wooden-surface-8246ckwp_i8)" >}}
 
 Life isn’t always easy. Sometimes, it feels complicated, and you find yourself stuck, unsure of which way to go. You might wonder, “How do I move forward? Why can’t I see another option?” Maybe you enjoy cooking, programming, or taking care of people. These are your passions. But when a passion becomes a job, especially one forced into strict schedules, it can lose its spark.
 
@@ -25,8 +24,7 @@ Let’s sit together for a moment. Picture us side by side, just talking. Someti
 
 You might say, “But I need a few more days to think.” I get it. It’s not easy to just drop everything and start over. But sometimes, you can “fake it till you make it.” Maybe you keep your apartment, buy a plane ticket, and try out a new life for a while. If you like it, you can say goodbye to your old place for good. If not, you can always come back. Don’t let things like a lease or job stop you. If you need to, quit your job, use your remaining vacation days, and go. Your health and happiness matter more than any sick leave or work obligation.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwY2hhbmdlcyUyMHNlbGYlMjBkaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2ODUyMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Redraw Your Path When Passion Feels Like a Job")
-*How to Redraw Your Path When Passion Feels Like a Job - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwY2hhbmdlcyUyMHNlbGYlMjBkaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2ODUyMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Redraw Your Path When Passion Feels Like a Job" caption="How to Redraw Your Path When Passion Feels Like a Job - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 If you’re not happy at work, it’s okay to take a step back. Ask yourself: is this really the job I want? Or is there something else out there for me? If you’re even asking these questions, it means you have doubts. That’s a sign to look for another path or at least rethink your current one.
 
@@ -44,8 +42,7 @@ There are always ways to try new things. This gives you a preview of whether a d
 > _“You are never too old to set another goal or to dream a new dream.”_
 > — C.S. Lewis
 
-![ブロック塀に咲く可憐な花](https://images.unsplash.com/photo-1747809467090-07744a38f797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwY2hhbmdlcyUyMHNlbGYlMjBkaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2ODUyMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Redraw Your Path When Passion Feels Like a Job")
-*How to Redraw Your Path When Passion Feels Like a Job - Photo by [Buddy AN](https://unsplash.com/@stbuddyp) on [Unsplash](https://unsplash.com/photos/a-delicate-flower-blooms-in-a-stone-crevice-hO0DkJYE9lg)*
+{{< figure src="https://images.unsplash.com/photo-1747809467090-07744a38f797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwY2hhbmdlcyUyMHNlbGYlMjBkaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2ODUyMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="ブロック塀に咲く可憐な花" title="How to Redraw Your Path When Passion Feels Like a Job" caption="How to Redraw Your Path When Passion Feels Like a Job - Photo by [Buddy AN](https://unsplash.com/@stbuddyp) on [Unsplash](https://unsplash.com/photos/a-delicate-flower-blooms-in-a-stone-crevice-hO0DkJYE9lg)" >}}
 
 ---
 

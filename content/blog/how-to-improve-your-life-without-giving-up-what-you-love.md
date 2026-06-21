@@ -12,8 +12,7 @@ original_title = "Comment améliorer son quotidien sans faire de sacrifices ?"
 source_medium = "https://medium.com/@phenrysay/504a7c6e97a6"
 +++
 
-![Photo by Look Studio](https://images.unsplash.com/photo-1713812358703-461b6b55e5b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlc3R5bGUlMjB0aXBzfGVufDB8MHx8fDE3NTU4NTg2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Improve Your Life Without Giving Up What You Love")
-*How to Improve Your Life Without Giving Up What You Love - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-at-a-table-eating-a-pastry-Z4ZbVi4Ks_k)*
+{{< figure src="https://images.unsplash.com/photo-1713812358703-461b6b55e5b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlc3R5bGUlMjB0aXBzfGVufDB8MHx8fDE3NTU4NTg2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting at a table eating a pastry" title="How to Improve Your Life Without Giving Up What You Love" caption="How to Improve Your Life Without Giving Up What You Love - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-at-a-table-eating-a-pastry-Z4ZbVi4Ks_k)" >}}
 
 Many of us spend a lot of time turning over the same thoughts, replaying past mistakes, and wondering what could have been. We get stuck in these mental loops, thinking, “If only I had done this differently.” But what’s the real point of this? It drains your time, your energy, and your mental space. Instead of making a real change in your life, you end up stuck in the past, missing out on what you could be doing today.
 
@@ -25,8 +24,7 @@ It’s easy to fall into the trap of thinking, “This is just how I am, I can�
 
 Even small decisions, like what you drink, can have a big impact. If you choose water over soda or alcohol, you’ll feel healthier and more in control. The same goes for the content you consume online. You become what you consume, both physically and mentally. If you fill your life with junk, you’ll start to see yourself that way. But if you make better choices, you’ll start to see yourself differently.
 
-![Photo by Taylor Heery](https://images.unsplash.com/photo-1595871561397-7f946e695bc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlc3R5bGUlMjB0aXBzfGVufDB8MHx8fDE3NTU4NTg2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Improve Your Life Without Giving Up What You Love")
-*How to Improve Your Life Without Giving Up What You Love - Photo by [Taylor Heery](https://unsplash.com/@taylorheeryphoto) on [Unsplash](https://unsplash.com/photos/a-notepad-pen-fruit-and-a-charger-on-a-table-LKRze0JbwhQ)*
+{{< figure src="https://images.unsplash.com/photo-1595871561397-7f946e695bc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlc3R5bGUlMjB0aXBzfGVufDB8MHx8fDE3NTU4NTg2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A notepad pen fruit and a charger on a table" title="How to Improve Your Life Without Giving Up What You Love" caption="How to Improve Your Life Without Giving Up What You Love - Photo by [Taylor Heery](https://unsplash.com/@taylorheeryphoto) on [Unsplash](https://unsplash.com/photos/a-notepad-pen-fruit-and-a-charger-on-a-table-LKRze0JbwhQ)" >}}
 
 Sometimes, it’s hard to know what the right action is. You might search for a long time before you realize, “If I just do this one thing every day, I’ll get where I want to go.” Being stuck in a fog of bad habits can feel like being trapped in a basement. The longer you stay there, the harder it is to see what’s possible.
 
@@ -46,8 +44,7 @@ So, don’t put off what you want to do. Don’t make excuses about time or mone
 
 ---
 
-![Morning jog in the countryside](https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlc3R5bGUlMjB0aXBzfGVufDB8MHx8fDE3NTU4NTg2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Improve Your Life Without Giving Up What You Love")
-*How to Improve Your Life Without Giving Up What You Love - Photo by [Emma Simpson](https://unsplash.com/@esdesignisms) on [Unsplash](https://unsplash.com/photos/woman-walking-on-pathway-during-daytime-mNGaaLeWEp0)*
+{{< figure src="https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBsaWZlc3R5bGUlMjB0aXBzfGVufDB8MHx8fDE3NTU4NTg2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Morning jog in the countryside" title="How to Improve Your Life Without Giving Up What You Love" caption="How to Improve Your Life Without Giving Up What You Love - Photo by [Emma Simpson](https://unsplash.com/@esdesignisms) on [Unsplash](https://unsplash.com/photos/woman-walking-on-pathway-during-daytime-mNGaaLeWEp0)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Comment surpasser l'ENCOMBREMENT CÉRÉBRAL ? CE QUE D'AUTRES 
 source_medium = "https://medium.com/@phenrysay/4322826119d6"
 +++
 
-![People think depression is sadness. People think depression is crying. People think depression is dressing in black. But people are wrong. Depression is the constant feeling of being numb. Being numb to emotions. Being numb to life. You wake up in the morning just to go back to bed again.](https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXMlMjB0ZWNobmlxdWVzfGVufDB8MHx8fDE3NDkzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter WITHOUT Burning Out")
-*How to Clear Mental Clutter WITHOUT Burning Out - Photo by [Sydney Latham](https://unsplash.com/@slphotography) on [Unsplash](https://unsplash.com/photos/person-holding-white-printer-paper-fZ2hMpHIrbI)*
+{{< figure src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXMlMjB0ZWNobmlxdWVzfGVufDB8MHx8fDE3NDkzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding white printer paper" title="How to Clear Mental Clutter WITHOUT Burning Out" caption="How to Clear Mental Clutter WITHOUT Burning Out - Photo by [Sydney Latham](https://unsplash.com/@slphotography) on [Unsplash](https://unsplash.com/photos/person-holding-white-printer-paper-fZ2hMpHIrbI)" >}}
 
 Mental clutter is something we all deal with. That constant feeling of having too much on your mind, too many things to do, and not enough time or energy to handle it all. For years, I struggled with this myself, both in my personal and professional life. But I want to share with you a method that completely changed the way I think, work, and live. It’s not about doing less, but about doing more of what matters—and doing it better.
 
@@ -29,8 +28,7 @@ This is also known as the 80/20 rule: 20% of your actions bring 80% of your resu
 
 At the end of each day, review what you did. Which tasks did you enjoy? Which ones felt like a waste? How can you make tomorrow a better, more impactful day? This daily review helps you avoid repeating the same mistakes and wasting years on things that don’t move you forward.
 
-![Boys Get Sad Too](https://images.unsplash.com/photo-1584636633449-6135be6c4169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXMlMjB0ZWNobmlxdWVzfGVufDB8MHx8fDE3NDkzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter WITHOUT Burning Out")
-*How to Clear Mental Clutter WITHOUT Burning Out - Photo by [Nathan McDine](https://unsplash.com/@nathanmcdine) on [Unsplash](https://unsplash.com/photos/black-and-white-printed-shirt-M1gMpG4QkHk)*
+{{< figure src="https://images.unsplash.com/photo-1584636633449-6135be6c4169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXMlMjB0ZWNobmlxdWVzfGVufDB8MHx8fDE3NDkzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Boys Get Sad Too" title="How to Clear Mental Clutter WITHOUT Burning Out" caption="How to Clear Mental Clutter WITHOUT Burning Out - Photo by [Nathan McDine](https://unsplash.com/@nathanmcdine) on [Unsplash](https://unsplash.com/photos/black-and-white-printed-shirt-M1gMpG4QkHk)" >}}
 
 > *“Insanity is doing the same thing over and over again and expecting different results.”*
 >
@@ -56,8 +54,7 @@ It’s important to be persistent, but not stubborn. If something clearly isn’
 >
 > —Thomas Jefferson
 
-![Shot made while filming for yesHEis project](https://images.unsplash.com/photo-1493836512294-502baa1986e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXMlMjB0ZWNobmlxdWVzfGVufDB8MHx8fDE3NDkzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter WITHOUT Burning Out")
-*How to Clear Mental Clutter WITHOUT Burning Out - Photo by [Nik Shuliahin 💛💙](https://unsplash.com/@tjump) on [Unsplash](https://unsplash.com/photos/a-man-holds-his-head-while-sitting-on-a-sofa-BuNWp1bL0nc)*
+{{< figure src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXMlMjB0ZWNobmlxdWVzfGVufDB8MHx8fDE3NDkzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Shot made while filming for yesHEis project" title="How to Clear Mental Clutter WITHOUT Burning Out" caption="How to Clear Mental Clutter WITHOUT Burning Out - Photo by [Nik Shuliahin 💛💙](https://unsplash.com/@tjump) on [Unsplash](https://unsplash.com/photos/a-man-holds-his-head-while-sitting-on-a-sofa-BuNWp1bL0nc)" >}}
 
 ## Listen to Yourself, Not Just to Others
 

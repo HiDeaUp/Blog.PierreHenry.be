@@ -12,8 +12,7 @@ original_title = "VIE D'EXPAT : VÉRITÉS CHOC avant de faire le grand saut ! 
 source_medium = "https://medium.com/@phenrysay/549a102ef7cc"
 +++
 
-![Photo by Global Residence Index](https://images.unsplash.com/photo-1655722724170-b3ab67a48791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZWxvY2F0aW9uJTIwdGlwc3xlbnwwfDB8fHwxNzU1NDIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Expat Life Without Losing Yourself")
-*How to Start Expat Life Without Losing Yourself - Photo by [Global Residence Index](https://unsplash.com/@globalresidenceindex) on [Unsplash](https://unsplash.com/photos/map-9l0N1zyo_sA)*
+{{< figure src="https://images.unsplash.com/photo-1655722724170-b3ab67a48791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZWxvY2F0aW9uJTIwdGlwc3xlbnwwfDB8fHwxNzU1NDIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Map" title="How to Start Expat Life Without Losing Yourself" caption="How to Start Expat Life Without Losing Yourself - Photo by [Global Residence Index](https://unsplash.com/@globalresidenceindex) on [Unsplash](https://unsplash.com/photos/map-9l0N1zyo_sA)" >}}
 
 Starting a new life abroad is a dream for many. The idea of living passionately, fully invested in what you want, is tempting. But before you pack your bags, it’s important to know that the expat life isn’t for everyone—and that’s not a bad thing. Let’s get real about what it means to build a life elsewhere, especially if you want to make it on your own terms.
 
@@ -42,8 +41,7 @@ Start with a small, clear niche. If you try to talk to everyone, you’ll reach 
 
 People want to follow real people, not anonymous corporations. Show your face, share your ups and downs, and be honest. That’s how you stand out from the thousands of competitors who all look and sound the same.
 
-![Photo by Gonzalo Gutierrez](https://images.unsplash.com/photo-1636820244971-12a80c62c88f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZWxvY2F0aW9uJTIwdGlwc3xlbnwwfDB8fHwxNzU1NDIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Expat Life Without Losing Yourself")
-*How to Start Expat Life Without Losing Yourself - Photo by [Gonzalo Gutierrez](https://unsplash.com/@gonza658) on [Unsplash](https://unsplash.com/photos/a-person-is-writing-on-a-map-with-a-pencil-PyrgPNDQUz4)*
+{{< figure src="https://images.unsplash.com/photo-1636820244971-12a80c62c88f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZWxvY2F0aW9uJTIwdGlwc3xlbnwwfDB8fHwxNzU1NDIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person is writing on a map with a pencil" title="How to Start Expat Life Without Losing Yourself" caption="How to Start Expat Life Without Losing Yourself - Photo by [Gonzalo Gutierrez](https://unsplash.com/@gonza658) on [Unsplash](https://unsplash.com/photos/a-person-is-writing-on-a-map-with-a-pencil-PyrgPNDQUz4)" >}}
 
 Your mission and your message should be clear and consistent. If you say “get moving, do sports,” but you don’t believe it or live it yourself, people will notice. Speak from the heart. Be the ambassador of your cause.
 
@@ -75,8 +73,7 @@ Life changes, and so will your goals. Accept that what you want at 25 might not 
 
 Don’t be afraid to fail. Every mistake is a lesson. If you try two businesses, one will always do better than the other. That doesn’t mean the other was a waste—it’s part of the process. The only real failure is not learning from your mistakes.
 
-![Photo by Global Residence Index](https://images.unsplash.com/photo-1654163600133-452eb7274426?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZWxvY2F0aW9uJTIwdGlwc3xlbnwwfDB8fHwxNzU1NDIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Expat Life Without Losing Yourself")
-*How to Start Expat Life Without Losing Yourself - Photo by [Global Residence Index](https://unsplash.com/@globalresidenceindex) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-passport-over-a-map-wOj5HTw2YMc)*
+{{< figure src="https://images.unsplash.com/photo-1654163600133-452eb7274426?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZWxvY2F0aW9uJTIwdGlwc3xlbnwwfDB8fHwxNzU1NDIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A hand holding a over a map" title="How to Start Expat Life Without Losing Yourself" caption="How to Start Expat Life Without Losing Yourself - Photo by [Global Residence Index](https://unsplash.com/@globalresidenceindex) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-passport-over-a-map-wOj5HTw2YMc)" >}}
 
 Remember Murphy’s Law: if something can go wrong, it will. Take smart risks, but don’t let fear stop you. If you believe in your idea, go for it.
 

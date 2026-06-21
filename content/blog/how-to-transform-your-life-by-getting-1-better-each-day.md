@@ -12,8 +12,7 @@ original_title = "Comment devenir le meilleur en transformant ses habitudes"
 source_medium = "https://medium.com/@phenrysay/21171e6c0a2f"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, i am, jesus, god, jehovah, jhwh, yahweh, john 8, ](https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYwMDY5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life by Getting 1% Better Each Day")
-*How to Transform Your Life by Getting 1% Better Each Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-8OLfV5F9nO4)*
+{{< figure src="https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYwMDY5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter t letter" title="How to Transform Your Life by Getting 1% Better Each Day" caption="How to Transform Your Life by Getting 1% Better Each Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-8OLfV5F9nO4)" >}}
 
 Improvement is not just a buzzword for entrepreneurs, employees, or freelancers. It is a daily practice, a way of thinking about every action you take. The real transformation happens when you decide to become just 1% better each day. This small, steady progress is what sets apart those who simply work from those who truly grow.
 
@@ -21,8 +20,7 @@ The key is to have a plan—a real, active learning plan. This means you do not 
 
 This approach forces you to think about how you use your time. Time management is not about cramming more into your day. It is about making sure what you do actually matters. Sometimes, we spend hours on things that do not really move us forward. The trick is to focus on the few actions that make the biggest difference. Forget about chasing perfection. Ignore the tasks that do not add real value. Otherwise, your days will be packed, but your results will be empty.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYwMDY5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life by Getting 1% Better Each Day")
-*How to Transform Your Life by Getting 1% Better Each Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYwMDY5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Transform Your Life by Getting 1% Better Each Day" caption="How to Transform Your Life by Getting 1% Better Each Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Always aim for what truly counts. Focus on what brings the most impact—the effect you want to see by the end of your day. Ask yourself: What do I want to become? What will make the real difference? Put your energy into those things, and you will see your learning curve speed up.
 
@@ -38,8 +36,7 @@ If you want to go even deeper into how you learn and grow, I have put together r
 
 ---
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYwMDY5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life by Getting 1% Better Each Day")
-*How to Transform Your Life by Getting 1% Better Each Day - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYwMDY5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Transform Your Life by Getting 1% Better Each Day" caption="How to Transform Your Life by Getting 1% Better Each Day - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 ## Key Takeaways
 - *Aim to be 1% better every day.*

@@ -12,8 +12,7 @@ original_title = "CE QUI M’A PERMIS DE RÉUSSIR AUTREMENT (ET DURABLEMENT)"
 source_medium = "https://medium.com/@phenrysay/793e861c80bc"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsYXN0aW5nJTIwc3VjY2VzcyUyMHNsb3clMjBwcm9kdWN0aXZpdHklMjBzdGFydHVwJTIwYWR2aWNlfGVufDB8MHx8fDE3NTU1MTY0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Doing Less Leads to More Success (Without Burning Out)")
-*How Doing Less Leads to More Success (Without Burning Out) - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsYXN0aW5nJTIwc3VjY2VzcyUyMHNsb3clMjBwcm9kdWN0aXZpdHklMjBzdGFydHVwJTIwYWR2aWNlfGVufDB8MHx8fDE3NTU1MTY0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How Doing Less Leads to More Success (Without Burning Out)" caption="How Doing Less Leads to More Success (Without Burning Out) - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Many people feel the urge to rush to the next step. Even when they know it’s not always logical or justified, they still want to go faster and skip ahead. But by doing so, they end up missing important steps or not doing them well enough.
 
@@ -29,8 +28,7 @@ Here’s a real-world example. OpenAI, the company behind ChatGPT, is known for 
 
 As a freelancer, this mindset is even more important. Your reputation is everything. If you try to offer too many features and none of them work well, you’ll get bad reviews. It’s better to offer just one feature, but make it the best experience possible. That’s how you stand out.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsYXN0aW5nJTIwc3VjY2VzcyUyMHNsb3clMjBwcm9kdWN0aXZpdHklMjBzdGFydHVwJTIwYWR2aWNlfGVufDB8MHx8fDE3NTU1MTY0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Doing Less Leads to More Success (Without Burning Out)")
-*How Doing Less Leads to More Success (Without Burning Out) - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsYXN0aW5nJTIwc3VjY2VzcyUyMHNsb3clMjBwcm9kdWN0aXZpdHklMjBzdGFydHVwJTIwYWR2aWNlfGVufDB8MHx8fDE3NTU1MTY0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How Doing Less Leads to More Success (Without Burning Out)" caption="How Doing Less Leads to More Success (Without Burning Out) - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 > *“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”*  
 — Antoine de Saint-Exupéry
@@ -54,8 +52,7 @@ For me, the goal in life is to be happy. If you want something, go for it now. T
 
 And if your path is beautiful, you won’t even care where it leads—you’ll just enjoy the journey.
 
-![Photo by Ángel Navarro](https://images.unsplash.com/photo-1662076717703-e7a00400eb96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsYXN0aW5nJTIwc3VjY2VzcyUyMHNsb3clMjBwcm9kdWN0aXZpdHklMjBzdGFydHVwJTIwYWR2aWNlfGVufDB8MHx8fDE3NTU1MTY0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Doing Less Leads to More Success (Without Burning Out)")
-*How Doing Less Leads to More Success (Without Burning Out) - Photo by [Ángel Navarro](https://unsplash.com/@navarrovisuals) on [Unsplash](https://unsplash.com/photos/a-rectangular-object-with-a-light-on-it-CDUR1aiMuYo)*
+{{< figure src="https://images.unsplash.com/photo-1662076717703-e7a00400eb96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsYXN0aW5nJTIwc3VjY2VzcyUyMHNsb3clMjBwcm9kdWN0aXZpdHklMjBzdGFydHVwJTIwYWR2aWNlfGVufDB8MHx8fDE3NTU1MTY0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A object with a light on it" title="How Doing Less Leads to More Success (Without Burning Out)" caption="How Doing Less Leads to More Success (Without Burning Out) - Photo by [Ángel Navarro](https://unsplash.com/@navarrovisuals) on [Unsplash](https://unsplash.com/photos/a-rectangular-object-with-a-light-on-it-CDUR1aiMuYo)" >}}
 
 ---
 

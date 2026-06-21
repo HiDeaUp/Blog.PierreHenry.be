@@ -12,8 +12,7 @@ original_title = "Atteindre ses objectifs en un temps record ! ⏰"
 source_medium = "https://medium.com/@phenrysay/603688aa86f2"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTY1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Your Goals Faster Without Stress")
-*How to Achieve Your Goals Faster Without Stress - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTY1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Achieve Your Goals Faster Without Stress" caption="How to Achieve Your Goals Faster Without Stress - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Sometimes, thinking differently is all it takes to make real progress. Many of us struggle to gather our thoughts, especially when stress gets in the way. Stress is a powerful obstacle. It clouds our minds, scatters our ideas, and slows down our decisions and actions.
 
@@ -23,8 +22,7 @@ Another effective trick is to spend a moment with your cat, if you have one. Str
 
 When stress and negative thoughts pile up, imagine flushing them away. Picture your intrusive thoughts going down the toilet, never to return. This mental image helps you get rid of the negativity that drags you down and keeps you stuck in a bad mood.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTY1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Your Goals Faster Without Stress")
-*How to Achieve Your Goals Faster Without Stress - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTY1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Achieve Your Goals Faster Without Stress" caption="How to Achieve Your Goals Faster Without Stress - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Once you clear your mind, you can start moving forward. Do things that bring you joy. Take time to think strategically about your life. We don’t reflect enough on whether what we do every day truly makes us happy or matches our real desires. Too often, we live day by day without stepping back to see the bigger picture.
 
@@ -40,8 +38,7 @@ So, take a step back. Ask yourself if your current path is really what you want.
 
 ## Key Takeaways
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTY1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Your Goals Faster Without Stress")
-*How to Achieve Your Goals Faster Without Stress - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTY1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Achieve Your Goals Faster Without Stress" caption="How to Achieve Your Goals Faster Without Stress - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 - Stress scatters your thoughts and slows your progress.
 - Simple breathing exercises or spending time with a pet can help clear your mind.

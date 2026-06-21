@@ -12,8 +12,7 @@ original_title = "Mijoter et générer des idées à la volée SANS Y PASSER des
 source_medium = "https://medium.com/@phenrysay/98c4c43669e1"
 +++
 
-![Artist’s Desk](https://images.unsplash.com/photo-1490186969638-fe0c8aea80bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwcHJpbmNpcGxlfGVufDB8MHx8fDE3NDkzMTcyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Generate Creative Ideas WITHOUT Forcing Brainstorming")
-*How to Generate Creative Ideas WITHOUT Forcing Brainstorming - Photo by [Ella Jardim](https://unsplash.com/@daniellajardim) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-makeup-brush-and-pencil-and-pens-beside-pink-and-purple-flowers-A51hrcFHT-Y)*
+{{< figure src="https://images.unsplash.com/photo-1490186969638-fe0c8aea80bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwcHJpbmNpcGxlfGVufDB8MHx8fDE3NDkzMTcyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Artist’s Desk" title="How to Generate Creative Ideas WITHOUT Forcing Brainstorming" caption="How to Generate Creative Ideas WITHOUT Forcing Brainstorming - Photo by [Ella Jardim](https://unsplash.com/@daniellajardim) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-makeup-brush-and-pencil-and-pens-beside-pink-and-purple-flowers-A51hrcFHT-Y)" >}}
 
 Have you ever noticed how some of your best ideas come to you when you’re not even trying? There’s a reason for that. Today, I want to share the principle of “marination” — not in the kitchen, but in your mind.
 
@@ -32,8 +31,7 @@ This method works especially well for writing, but you can use it for any creati
 - Dim the lights, grab a notebook, and write down your ideas.
 - Ask yourself: How could I combine these ideas? What new connections can I make? What would happen if I mixed three or five of them together?
 
-![Man looking at sketches](https://images.unsplash.com/photo-1497048679117-1a29644559e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwcHJpbmNpcGxlfGVufDB8MHx8fDE3NDkzMTcyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Generate Creative Ideas WITHOUT Forcing Brainstorming")
-*How to Generate Creative Ideas WITHOUT Forcing Brainstorming - Photo by [Rachael Gorjestani](https://unsplash.com/@rachaelgorjestani) on [Unsplash](https://unsplash.com/photos/person-holding-book-with-sketch-X6CZGpJBi8U)*
+{{< figure src="https://images.unsplash.com/photo-1497048679117-1a29644559e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwcHJpbmNpcGxlfGVufDB8MHx8fDE3NDkzMTcyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man looking at sketches" title="How to Generate Creative Ideas WITHOUT Forcing Brainstorming" caption="How to Generate Creative Ideas WITHOUT Forcing Brainstorming - Photo by [Rachael Gorjestani](https://unsplash.com/@rachaelgorjestani) on [Unsplash](https://unsplash.com/photos/person-holding-book-with-sketch-X6CZGpJBi8U)" >}}
 
 You’re not looking for a finished product yet. You’re just letting your mind stew on these combinations, like a dish that needs time to cook.
 
@@ -57,8 +55,7 @@ Letting your ideas simmer gives your subconscious time to work. You’re not for
 
 Creativity is essential. It’s not just about coming up with new things — it’s about finding clever solutions, building good habits, and even improving your health and daily routines. I talk about all of this in my book, from creativity and brainstorming to memory, branding, philosophy, and morning routines.
 
-![An important part of my art is iteration. Pushing to get a better version, refining over and over until it’s something that I’m satisfied with.](https://images.unsplash.com/photo-1498075702571-ecb018f3752d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwcHJpbmNpcGxlfGVufDB8MHx8fDE3NDkzMTcyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Generate Creative Ideas WITHOUT Forcing Brainstorming")
-*How to Generate Creative Ideas WITHOUT Forcing Brainstorming - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/person-lettering-on-tracing-paper-using-mechanical-pencil-o2TRWThve_I)*
+{{< figure src="https://images.unsplash.com/photo-1498075702571-ecb018f3752d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwcHJpbmNpcGxlfGVufDB8MHx8fDE3NDkzMTcyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="An important part of my art is iteration. Pushing to get a better version, refining over and over until it’s something that I’m satisfied with." title="How to Generate Creative Ideas WITHOUT Forcing Brainstorming" caption="How to Generate Creative Ideas WITHOUT Forcing Brainstorming - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/person-lettering-on-tracing-paper-using-mechanical-pencil-o2TRWThve_I)" >}}
 
 ---
 

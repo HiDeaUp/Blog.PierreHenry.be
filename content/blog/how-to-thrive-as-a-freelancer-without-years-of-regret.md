@@ -12,8 +12,7 @@ original_title = "Mes SECRETS. Ce que j’ai raté pendant 12 ans de ma vie 🥹
 source_medium = "https://medium.com/@phenrysay/068adbb4a952"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMGxpZmUlMjBsZXNzb25zJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjA4NDAzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Thrive as a Freelancer Without Years of Regret")
-*How to Thrive as a Freelancer Without Years of Regret - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)*
+{{< figure src="https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMGxpZmUlMjBsZXNzb25zJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjA4NDAzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Thrive as a Freelancer Without Years of Regret" caption="How to Thrive as a Freelancer Without Years of Regret - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)" >}}
 
 For over a decade, I’ve been living the freelance and entrepreneurial life. My journey started in Manchester, then London, before moving to Ireland, New Zealand, and finally settling in Australia. Along the way, I’ve worn many hats: founder, open-source contributor, employee in fast-moving startups, and more. Each role taught me something new, but if I could go back, there are a few lessons I wish I’d learned much earlier.
 
@@ -29,8 +28,7 @@ One thing I’ve learned is that you never want to be the smartest person in the
 
 ## The Little Extras Matter
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live the dream, plan ahead, dream, plan then do, work for your dreams, do not give up, keep going, never give up, live life, live intentionally, intentionality, mindfulness, yolo, carpe diem, seize the day, ](https://images.unsplash.com/photo-1631373846797-b2fcc157ca77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMGxpZmUlMjBsZXNzb25zJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjA4NDAzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Thrive as a Freelancer Without Years of Regret")
-*How to Thrive as a Freelancer Without Years of Regret - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SndamMqiBD0)*
+{{< figure src="https://images.unsplash.com/photo-1631373846797-b2fcc157ca77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMGxpZmUlMjBsZXNzb25zJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjA4NDAzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Thrive as a Freelancer Without Years of Regret" caption="How to Thrive as a Freelancer Without Years of Regret - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SndamMqiBD0)" >}}
 
 Let me give you a simple example. I recently visited a dermatologist in Australia. It cost $200, which is much more than the usual $60 or $70. But here’s the difference: the appointment lasted 40 minutes, not five. The doctor explained everything, took detailed photos, and gave me access to a portal where I can track changes in my skin over time. They use advanced tools and take the time to make sure nothing is missed.
 
@@ -51,8 +49,7 @@ I talk about this a lot in my self-help book, but it’s worth repeating: always
 
 ## Don’t Wait—Start Now
 
-![Unknown Destination](https://images.unsplash.com/photo-1657781328616-ac5fd9f77041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMGxpZmUlMjBsZXNzb25zJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjA4NDAzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Thrive as a Freelancer Without Years of Regret")
-*How to Thrive as a Freelancer Without Years of Regret - Photo by [Firosnv. Photography](https://unsplash.com/@firosnv) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-stump-yr6WkYdPZIs)*
+{{< figure src="https://images.unsplash.com/photo-1657781328616-ac5fd9f77041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMGxpZmUlMjBsZXNzb25zJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjA4NDAzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Unknown Destination" title="How to Thrive as a Freelancer Without Years of Regret" caption="How to Thrive as a Freelancer Without Years of Regret - Photo by [Firosnv. Photography](https://unsplash.com/@firosnv) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-stump-yr6WkYdPZIs)" >}}
 
 The best time to take action is today. Don’t put off what you want to do. Go for it. I’m cheering you on, and I believe you deserve to succeed.
 

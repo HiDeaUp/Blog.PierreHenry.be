@@ -12,8 +12,7 @@ original_title = "Comment savourer une vie magnifique ? Est-ce faisable ?"
 source_medium = "https://medium.com/@phenrysay/e9c26de1e144"
 +++
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZW5qb3ltZW50JTIwbWluZGZ1bG5lc3MlMjBzZWxmLWRpc2NvdmVyeXxlbnwwfDB8fHwxNzU2MDA3ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life When You Don’t Know What’s Next")
-*How to Enjoy Life When You Don’t Know What’s Next - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZW5qb3ltZW50JTIwbWluZGZ1bG5lc3MlMjBzZWxmLWRpc2NvdmVyeXxlbnwwfDB8fHwxNzU2MDA3ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Enjoy Life When You Don’t Know What’s Next" caption="How to Enjoy Life When You Don’t Know What’s Next - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 We all want to live well. We all want to savor life, to truly taste each moment. But sometimes, we get lost. Sometimes, we don’t really know where we’re headed, or if the things we’re doing are the right ones. When you’re lost, when you’re in a moment of doubt, it’s like standing on a line between total confidence and total uncertainty. Most people live right there, in that space between believing in themselves and doubting everything.
 
@@ -21,8 +20,7 @@ There are times when doubt takes over a little more, and suddenly you find yours
 
 Stagnation is never good. When you’re stuck, you’re not really living. You end up repeating the same things you’ve always done. If you’re not happy with your life, this only makes things worse. You become less present, it’s harder to get started, and reaching the next level feels almost impossible. You’re not fully present, but you’re not completely checked out either. You’re just stuck in the middle, uncertain about your past choices and unsure about your future ones.
 
-![Esta foto la tomé en las inmediaciones del Cabo de Trafalgar. Estaba trabajando en un reportaje sobre los pescadores de pesca artesanal que todavía resisten en la provincia de Cádiz. Me pasaba todo el día acompañándolos en sus labores de pesca en alta mar, y por la tarde me encantaba pasear por todos los maravillosos rincones que esconden las costa de Cádiz. Foto por Susana Girón.](https://images.unsplash.com/photo-1726589198058-c030ee4a1385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZW5qb3ltZW50JTIwbWluZGZ1bG5lc3MlMjBzZWxmLWRpc2NvdmVyeXxlbnwwfDB8fHwxNzU2MDA3ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life When You Don’t Know What’s Next")
-*How to Enjoy Life When You Don’t Know What’s Next - Photo by [Cervezas Alhambra](https://unsplash.com/@cervezasalhambra) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-on-top-of-a-cliff-next-to-the-ocean-srySsiSWUp8)*
+{{< figure src="https://images.unsplash.com/photo-1726589198058-c030ee4a1385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZW5qb3ltZW50JTIwbWluZGZ1bG5lc3MlMjBzZWxmLWRpc2NvdmVyeXxlbnwwfDB8fHwxNzU2MDA3ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of people sitting on top of a cliff next to the ocean" title="How to Enjoy Life When You Don’t Know What’s Next" caption="How to Enjoy Life When You Don’t Know What’s Next - Photo by [Cervezas Alhambra](https://unsplash.com/@cervezasalhambra) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-on-top-of-a-cliff-next-to-the-ocean-srySsiSWUp8)" >}}
 
 When your days are spoiled by doubt, it puts a heavy, useless weight on your shoulders. So, how do you stop doubting? The answer is to look on the bright side, to think big, and to remember that there is always hope. Sure, you might have a lot of worries in your daily life, but worrying solves nothing. Instead, create something. Do something. Connect with the right people. Build something new and put your doubts away for now. Move forward. Run instead of standing still. Don’t tell yourself you’ve already lost the race. Even if you didn’t win last time, keep going. Keep practicing, keep moving, because next time, you might win.
 
@@ -38,8 +36,7 @@ That’s the mindset: keep moving, keep trying, keep learning. The past is over.
 > *“Doubt kills more dreams than failure ever will.”*  
 — Suzy Kassem
 
-![Photo by Emrecan Dora](https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZW5qb3ltZW50JTIwbWluZGZ1bG5lc3MlMjBzZWxmLWRpc2NvdmVyeXxlbnwwfDB8fHwxNzU2MDA3ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life When You Don’t Know What’s Next")
-*How to Enjoy Life When You Don’t Know What’s Next - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)*
+{{< figure src="https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZW5qb3ltZW50JTIwbWluZGZ1bG5lc3MlMjBzZWxmLWRpc2NvdmVyeXxlbnwwfDB8fHwxNzU2MDA3ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a log in the woods Zi" title="How to Enjoy Life When You Don’t Know What’s Next" caption="How to Enjoy Life When You Don’t Know What’s Next - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)" >}}
 
 ---
 

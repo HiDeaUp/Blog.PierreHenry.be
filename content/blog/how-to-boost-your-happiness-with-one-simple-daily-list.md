@@ -12,8 +12,7 @@ original_title = "Mettre du bonheur boostant dans son quotidien #agir #productiv
 source_medium = "https://medium.com/@phenrysay/64df65c5b56c"
 +++
 
-![In frame - a cup with the quotes " Happiness is having a younger brother who is taller than you".](https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1Njg1Mjc1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness With One Simple Daily List")
-*How to Boost Your Happiness With One Simple Daily List - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)*
+{{< figure src="https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1Njg1Mjc1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="In frame - a cup with the quotes &quot; Happiness is having a younger brother who is taller than you&quot;." title="How to Boost Your Happiness With One Simple Daily List" caption="How to Boost Your Happiness With One Simple Daily List - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)" >}}
 
 Everyone faces those moments when life feels a bit repetitive. The daily grind, chores, and routines can sometimes weigh us down. It’s easy to get stuck in the same loop, feeling like the fun parts of life are always on hold. But what if you could add a spark of happiness to your day, even when things feel a bit dull?
 
@@ -23,8 +22,7 @@ The best way to make this happen is to keep a list. It could be on your phone, i
 
 When you find yourself with a bit of free time or when you feel stuck in a rut, pick something from your list and do it. You’ll notice that you feel more energized and positive. This small boost can help you tackle the less enjoyable tasks with a better attitude. It’s like giving yourself a little reward, which in turn makes it easier to get through the chores and routines.
 
-![mug with happiness](https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1Njg1Mjc1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness With One Simple Daily List")
-*How to Boost Your Happiness With One Simple Daily List - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)*
+{{< figure src="https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1Njg1Mjc1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="mug with happiness" title="How to Boost Your Happiness With One Simple Daily List" caption="How to Boost Your Happiness With One Simple Daily List - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)" >}}
 
 By focusing on these small moments of pleasure, you’ll find that you’re more fulfilled and happier overall. It’s not about ignoring the boring parts of life, but about balancing them with things that make you feel good. Over time, this habit can make a real difference in your mood and your outlook.
 
@@ -45,8 +43,7 @@ By focusing on these small moments of pleasure, you’ll find that you’re more
 - Use these moments to recharge and make daily chores easier.
 - Balance routine with pleasure to feel more fulfilled.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1Njg1Mjc1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness With One Simple Daily List")
-*How to Boost Your Happiness With One Simple Daily List - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1Njg1Mjc1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Boost Your Happiness With One Simple Daily List" caption="How to Boost Your Happiness With One Simple Daily List - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 ## Action Steps
 

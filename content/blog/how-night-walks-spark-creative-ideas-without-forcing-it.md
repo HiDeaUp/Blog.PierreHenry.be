@@ -10,8 +10,7 @@ original_title = "Les réflexions nocturnes 🌙"
 source_medium = "https://medium.com/@phenrysay/33bc82dfc43f"
 +++
 
-![Photo by Gunnar Ridderström](https://images.unsplash.com/photo-1580846530649-cd0410b19994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuaWdodHRpbWUlMjByZWZsZWN0aW9uJTIwd2Fsa2luZ3xlbnwwfDB8fHwxNzU2MDE0NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Night Walks Spark Creative Ideas Without Forcing It")
-*How Night Walks Spark Creative Ideas Without Forcing It - Photo by [Gunnar Ridderström](https://unsplash.com/@gunnarridder) on [Unsplash](https://unsplash.com/photos/people-walking-on-street-during-night-time-3A4IYUOmmI4)*
+{{< figure src="https://images.unsplash.com/photo-1580846530649-cd0410b19994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuaWdodHRpbWUlMjByZWZsZWN0aW9uJTIwd2Fsa2luZ3xlbnwwfDB8fHwxNzU2MDE0NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="People walking on street during night time" title="How Night Walks Spark Creative Ideas Without Forcing It" caption="How Night Walks Spark Creative Ideas Without Forcing It - Photo by [Gunnar Ridderström](https://unsplash.com/@gunnarridder) on [Unsplash](https://unsplash.com/photos/people-walking-on-street-during-night-time-3A4IYUOmmI4)" >}}
 
 There’s something special about taking a walk at night. As I wandered down the quiet streets of Potts Point and Elizabeth Bay, I realized how these nighttime strolls always spark new ideas. Every time I step outside, I stumble upon thoughts and little gems I would never find sitting at my desk, staring at a blank wall, or even at my kitchen table.
 
@@ -21,8 +20,7 @@ Going outside, especially at night, gives your mind permission to make new conne
 
 Tonight, I’m walking by the bay. It’s peaceful, almost soothing. Taking a walk like this in the evening, before heading home, helps you step back from your day. The streets are quieter, the world slows down, and you can think more clearly. It’s the perfect time for a personal brainstorming session. You start to ask yourself, “Is what I’m doing really working? Could I do things differently?” You get a chance to see your life from a new point of view.
 
-![Jessie and Neon](https://images.unsplash.com/photo-1511403935992-aa75549d296c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuaWdodHRpbWUlMjByZWZsZWN0aW9uJTIwd2Fsa2luZ3xlbnwwfDB8fHwxNzU2MDE0NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Night Walks Spark Creative Ideas Without Forcing It")
-*How Night Walks Spark Creative Ideas Without Forcing It - Photo by [Alex Perz](https://unsplash.com/@adventureregistry) on [Unsplash](https://unsplash.com/photos/woman-standing-beside-neon-lights-V7YLyTDQN_k)*
+{{< figure src="https://images.unsplash.com/photo-1511403935992-aa75549d296c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuaWdodHRpbWUlMjByZWZsZWN0aW9uJTIwd2Fsa2luZ3xlbnwwfDB8fHwxNzU2MDE0NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Jessie and Neon" title="How Night Walks Spark Creative Ideas Without Forcing It" caption="How Night Walks Spark Creative Ideas Without Forcing It - Photo by [Alex Perz](https://unsplash.com/@adventureregistry) on [Unsplash](https://unsplash.com/photos/woman-standing-beside-neon-lights-V7YLyTDQN_k)" >}}
 
 This habit helps in two big ways. First, it leads to better decisions. If you’ve been feeling stuck or lost in a fog, a simple walk can clear your mind. You start to see things more sharply and make smarter choices. Sometimes, you realize that what you did today wasn’t ideal, or maybe tomorrow could be better if you tried something new.
 
@@ -40,8 +38,7 @@ Walking at night is like giving yourself a mini retrospective. You replay your d
 
 ## Key Takeaways
 
-![Photo by Lucia Sorrentino](https://images.unsplash.com/photo-1700934389466-793a3a090bc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuaWdodHRpbWUlMjByZWZsZWN0aW9uJTIwd2Fsa2luZ3xlbnwwfDB8fHwxNzU2MDE0NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Night Walks Spark Creative Ideas Without Forcing It")
-*How Night Walks Spark Creative Ideas Without Forcing It - Photo by [Lucia Sorrentino](https://unsplash.com/@lucia_sorrentino) on [Unsplash](https://unsplash.com/photos/a-bicycle-parked-next-to-a-pole-in-front-of-a-carousel-xiLf6SImHNA)*
+{{< figure src="https://images.unsplash.com/photo-1700934389466-793a3a090bc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuaWdodHRpbWUlMjByZWZsZWN0aW9uJTIwd2Fsa2luZ3xlbnwwfDB8fHwxNzU2MDE0NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A bicycle parked next to a pole in front of a" title="How Night Walks Spark Creative Ideas Without Forcing It" caption="How Night Walks Spark Creative Ideas Without Forcing It - Photo by [Lucia Sorrentino](https://unsplash.com/@lucia_sorrentino) on [Unsplash](https://unsplash.com/photos/a-bicycle-parked-next-to-a-pole-in-front-of-a-carousel-xiLf6SImHNA)" >}}
 
 - *Night walks help spark new ideas and fresh thinking.*
 - *Changing your environment, even for a short time, can break mental blocks.*

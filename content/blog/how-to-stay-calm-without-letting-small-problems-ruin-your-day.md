@@ -12,8 +12,7 @@ original_title = "Mon remède pour se calmer en douceur"
 source_medium = "https://medium.com/@phenrysay/4374109f92c2"
 +++
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjByZWxpZWYlMjBlbW90aW9uYWwlMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MjI2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm Without Letting Small Problems Ruin Your Day")
-*How to Stay Calm Without Letting Small Problems Ruin Your Day - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjByZWxpZWYlMjBlbW90aW9uYWwlMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MjI2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Stay Calm Without Letting Small Problems Ruin Your Day" caption="How to Stay Calm Without Letting Small Problems Ruin Your Day - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 Sometimes, negativity and stress sneak up on us. It might be because of work, a tough boss, or even a colleague—someone you respect, whose words can sting. Maybe it’s a stranger in a supermarket who treats you poorly, or a disagreement with your partner, your parents, or your kids. Suddenly, you feel misunderstood, maybe even accused of being selfish or stubborn, when all you wanted was something a little different for once.
 
@@ -25,8 +24,7 @@ The most important thing we have is the present moment. No one knows when their 
 
 Life is short. We waste so much energy on problems that, compared to the universe, are just specks of dust. Instead, why not look at the life in front of you and ask yourself how you can enjoy it differently? Maybe you can set up little routines or triggers that help you make the most of your day. Maybe you can finally do something you’ve been putting off.
 
-![Photo by Look Studio](https://images.unsplash.com/photo-1713865471942-9551458f612f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjByZWxpZWYlMjBlbW90aW9uYWwlMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MjI2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm Without Letting Small Problems Ruin Your Day")
-*How to Stay Calm Without Letting Small Problems Ruin Your Day - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-a-cup-of-coffee-3GOfXlhkpxQ)*
+{{< figure src="https://images.unsplash.com/photo-1713865471942-9551458f612f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjByZWxpZWYlMjBlbW90aW9uYWwlMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MjI2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a couch with a cup of coffee" title="How to Stay Calm Without Letting Small Problems Ruin Your Day" caption="How to Stay Calm Without Letting Small Problems Ruin Your Day - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-a-cup-of-coffee-3GOfXlhkpxQ)" >}}
 
 When you shift your focus to what you can do right now to make your life sweeter, you start living in the present. You build your life, brick by brick, even if it’s just for ten minutes a day. Over time, you create something solid—a fortress, a monument to the life you deserve.
 
@@ -47,8 +45,7 @@ Distractions are everywhere—phones, computers, notifications, news, other peop
 > _You will never find time for anything. If you want time, you must make it._
 > — Charles Buxton
 
-![Photo by Khai Vern](https://images.unsplash.com/photo-1591116086913-e1a32e93027f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjByZWxpZWYlMjBlbW90aW9uYWwlMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MjI2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm Without Letting Small Problems Ruin Your Day")
-*How to Stay Calm Without Letting Small Problems Ruin Your Day - Photo by [Khai Vern](https://unsplash.com/@khaivern) on [Unsplash](https://unsplash.com/photos/woman-in-white-knit-sweater-sitting-on-brown-wooden-seat-aySmaTpUkzo)*
+{{< figure src="https://images.unsplash.com/photo-1591116086913-e1a32e93027f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjByZWxpZWYlMjBlbW90aW9uYWwlMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MjI2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white knit sweater sitting on brown wooden seat" title="How to Stay Calm Without Letting Small Problems Ruin Your Day" caption="How to Stay Calm Without Letting Small Problems Ruin Your Day - Photo by [Khai Vern](https://unsplash.com/@khaivern) on [Unsplash](https://unsplash.com/photos/woman-in-white-knit-sweater-sitting-on-brown-wooden-seat-aySmaTpUkzo)" >}}
 
 When you start thinking this way, you’ll have more energy and use your time much better. That’s how you grow, achieve big things, and build a life that feels right for you.
 

@@ -12,8 +12,7 @@ original_title = "Comment faire le vide. La gymnastique cérébrale"
 source_medium = "https://medium.com/@phenrysay/6acc53e64f03"
 +++
 
-![Boys Get Sad Too](https://images.unsplash.com/photo-1584636633449-6135be6c4169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGNsYXJpdHklMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc0ODUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind Without Getting Overwhelmed")
-*How to Clear Your Mind Without Getting Overwhelmed - Photo by [Nathan McDine](https://unsplash.com/@nathanmcdine) on [Unsplash](https://unsplash.com/photos/black-and-white-printed-shirt-M1gMpG4QkHk)*
+{{< figure src="https://images.unsplash.com/photo-1584636633449-6135be6c4169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGNsYXJpdHklMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc0ODUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Boys Get Sad Too" title="How to Clear Your Mind Without Getting Overwhelmed" caption="How to Clear Your Mind Without Getting Overwhelmed - Photo by [Nathan McDine](https://unsplash.com/@nathanmcdine) on [Unsplash](https://unsplash.com/photos/black-and-white-printed-shirt-M1gMpG4QkHk)" >}}
 
 We often carry a heavy load of worries and mental clutter that piles up in our heads. This buildup can become so overwhelming that it stops us from doing anything at all. Every day, we tell ourselves, “I have so much to do next week,” but today is today. The key is to empty the room—meaning, clear your mind as if you were clearing a physical space—and focus only on the present moment.
 
@@ -23,8 +22,7 @@ The trick is not to say, “Oh, there’s still this and that to do,” over and
 
 We all know that feeling: tomorrow there’s this, the day after there’s that, and then you have to be here or there, book a flight, catch another flight, nonstop. It never ends. When that happens, you’re stuck in place instead of moving forward.
 
-![Man meditating near water. ](https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGNsYXJpdHklMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc0ODUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind Without Getting Overwhelmed")
-*How to Clear Your Mind Without Getting Overwhelmed - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)*
+{{< figure src="https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGNsYXJpdHklMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc0ODUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man meditating near water." title="How to Clear Your Mind Without Getting Overwhelmed" caption="How to Clear Your Mind Without Getting Overwhelmed - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)" >}}
 
 So, what do you do? You empty the room. You clear your mind and focus on the now. Instead of letting all those mental burdens invade you, you put them outside your head. Imagine throwing them in the trash. I actually have a trash bin right in front of me, and I picture myself tossing those worries in there.
 
@@ -36,8 +34,7 @@ Life is about taking one step after another. One step leads to the next, and tho
 
 I wish you all the best from the bottom of my heart. Go for it—I’m 100% with you.
 
-![Photo by Chelsea Gates](https://images.unsplash.com/photo-1591228127791-8e2eaef098d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGNsYXJpdHklMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc0ODUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind Without Getting Overwhelmed")
-*How to Clear Your Mind Without Getting Overwhelmed - Photo by [Chelsea Gates](https://unsplash.com/@chelseacgates) on [Unsplash](https://unsplash.com/photos/person-in-blue-shorts-sitting-on-beach-shore-during-daytime-n8L1VYaypcw)*
+{{< figure src="https://images.unsplash.com/photo-1591228127791-8e2eaef098d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGNsYXJpdHklMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc0ODUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person in blue shorts sitting on beach shore during daytime" title="How to Clear Your Mind Without Getting Overwhelmed" caption="How to Clear Your Mind Without Getting Overwhelmed - Photo by [Chelsea Gates](https://unsplash.com/@chelseacgates) on [Unsplash](https://unsplash.com/photos/person-in-blue-shorts-sitting-on-beach-shore-during-daytime-n8L1VYaypcw)" >}}
 
 ---
 

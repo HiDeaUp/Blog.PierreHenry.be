@@ -12,8 +12,7 @@ original_title = "Rendre son quotidien optimal"
 source_medium = "https://medium.com/@phenrysay/ba21d16695e5"
 +++
 
-![Photo by 1Click](https://images.unsplash.com/photo-1622988766425-8ecbae9cef6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbGlmZSUyMG9wdGltaXphdGlvbnxlbnwwfDB8fHwxNzU1ODU4OTk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Day for Maximum Productivity Without Burnout")
-*How to Plan Your Day for Maximum Productivity Without Burnout - Photo by [1Click](https://unsplash.com/@1clickaf) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-planning-tomorrow-today-AsYSVoAxOhw)*
+{{< figure src="https://images.unsplash.com/photo-1622988766425-8ecbae9cef6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbGlmZSUyMG9wdGltaXphdGlvbnxlbnwwfDB8fHwxNzU1ODU4OTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that says today" title="How to Plan Your Day for Maximum Productivity Without Burnout" caption="How to Plan Your Day for Maximum Productivity Without Burnout - Photo by [1Click](https://unsplash.com/@1clickaf) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-planning-tomorrow-today-AsYSVoAxOhw)" >}}
 
 Having a clear vision for each day is one of the most powerful habits you can build. When you know exactly what you want to achieve, your day takes on a new sense of purpose. This clarity helps you move forward, avoid distractions, and actually get things done.
 
@@ -25,8 +24,7 @@ For example, on Monday, you might focus on writing, research, or publishing a bo
 
 By giving each day a focus, you make progress in all areas of your life. Having a physical or digital page for each day helps you stay disciplined. You can export your plan as a PDF, print it, or use apps like GoodNotes or Notability to write directly on your phone or tablet. These templates become your daily guide.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, work, rest, play, live, whole life, life balance, enjoy life, carpe diem, yolo, mindfulness, learn, enjoy, work life balance, embrace life, optimism, real life, books, reading, literature, bibliophile, study, learn, ](https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbGlmZSUyMG9wdGltaXphdGlvbnxlbnwwfDB8fHwxNzU1ODU4OTk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Day for Maximum Productivity Without Burnout")
-*How to Plan Your Day for Maximum Productivity Without Burnout - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)*
+{{< figure src="https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbGlmZSUyMG9wdGltaXphdGlvbnxlbnwwfDB8fHwxNzU1ODU4OTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile with words that spell out work rest play live" title="How to Plan Your Day for Maximum Productivity Without Burnout" caption="How to Plan Your Day for Maximum Productivity Without Burnout - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)" >}}
 
 The night before, review your plan for the next day. Visualize what you want to achieve. This mental preparation makes it easier to start strong in the morning. If you have bigger dreams or long-term goals, create systems and routines to move toward them. Study people who have already succeeded in your field—read biographies, watch interviews and documentaries, and spend time every evening learning from those who inspire you.
 
@@ -48,8 +46,7 @@ By building these habits, you create a structure that supports your ambitions. S
 - Learn from those who have already succeeded in your field.
 - Build routines and systems that support your long-term goals.
 
-![Photo by 1Click](https://images.unsplash.com/photo-1622988766397-6679659b5e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbGlmZSUyMG9wdGltaXphdGlvbnxlbnwwfDB8fHwxNzU1ODU4OTk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Day for Maximum Productivity Without Burnout")
-*How to Plan Your Day for Maximum Productivity Without Burnout - Photo by [1Click](https://unsplash.com/@1clickaf) on [Unsplash](https://unsplash.com/photos/text-8wUOqMhNzBo)*
+{{< figure src="https://images.unsplash.com/photo-1622988766397-6679659b5e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbGlmZSUyMG9wdGltaXphdGlvbnxlbnwwfDB8fHwxNzU1ODU4OTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Plan Your Day for Maximum Productivity Without Burnout" caption="How to Plan Your Day for Maximum Productivity Without Burnout - Photo by [1Click](https://unsplash.com/@1clickaf) on [Unsplash](https://unsplash.com/photos/text-8wUOqMhNzBo)" >}}
 
 ## Action Steps
 

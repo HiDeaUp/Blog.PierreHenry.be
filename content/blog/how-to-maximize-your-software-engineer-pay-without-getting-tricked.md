@@ -12,8 +12,7 @@ original_title = "This is what you should know as a software engineer? (MONEY TA
 source_medium = "https://medium.com/@phenrysay/3255565ee70a"
 +++
 
-![Business partners handsome young men are meeting outdoors in city shaking hands greeting saying hello enjoying partnership and cooperation. People and job concept.](https://images.unsplash.com/photo-1758599543129-5269a8f29e68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwc2FsYXJ5JTIwbmVnb3RpYXRpb24lMjBqb2IlMjBiZW5lZml0c3xlbnwwfDB8fHwxNzY3MjQ3MTExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Maximize Your Software Engineer Pay Without Getting Tricked")
-*How to Maximize Your Software Engineer Pay Without Getting Tricked - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/two-businessmen-shaking-hands-outside-modern-building-7TpOlUnBMYk)*
+{{< figure src="https://images.unsplash.com/photo-1758599543129-5269a8f29e68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwc2FsYXJ5JTIwbmVnb3RpYXRpb24lMjBqb2IlMjBiZW5lZml0c3xlbnwwfDB8fHwxNzY3MjQ3MTExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Business partners handsome young men are meeting outdoors in city shaking hands greeting saying hello enjoying partnership and cooperation. People and job concept." title="How to Maximize Your Software Engineer Pay Without Getting Tricked" caption="How to Maximize Your Software Engineer Pay Without Getting Tricked - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/two-businessmen-shaking-hands-outside-modern-building-7TpOlUnBMYk)" >}}
 
 Alright, let’s get straight into it. I want to share some tips and tricks that every software engineer should know when you’re about to get hired. I’m talking about the stuff that actually matters when you’re signing that contract—salary, benefits, negotiation, and all the sneaky details that can catch you off guard.
 
@@ -29,8 +28,7 @@ But be careful. That relocation bonus is usually a one-time thing, and you’ll 
 
 Here’s another thing: sometimes companies include your pension fund in your salary. So they’ll say, “Your salary is X amount,” but that number already includes the pension fund. If the company has to pay, say, 15% into your pension, that’s 15% less for you. It’s not always obvious, so double-check how they calculate your total compensation.
 
-![Businessman in suit and tie is meeting friendly male business partner outside shaking hands smiling talking. Communication, youth and teamwork concept.](https://images.unsplash.com/photo-1758599543278-32d9d073941e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwc2FsYXJ5JTIwbmVnb3RpYXRpb24lMjBqb2IlMjBiZW5lZml0c3xlbnwwfDB8fHwxNzY3MjQ3MTExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Maximize Your Software Engineer Pay Without Getting Tricked")
-*How to Maximize Your Software Engineer Pay Without Getting Tricked - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/two-businessmen-shaking-hands-outside-modern-building-hoBlV3lpevI)*
+{{< figure src="https://images.unsplash.com/photo-1758599543278-32d9d073941e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwc2FsYXJ5JTIwbmVnb3RpYXRpb24lMjBqb2IlMjBiZW5lZml0c3xlbnwwfDB8fHwxNzY3MjQ3MTExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Businessman in suit and tie is meeting friendly male business partner outside shaking hands smiling talking. Communication, youth and teamwork concept." title="How to Maximize Your Software Engineer Pay Without Getting Tricked" caption="How to Maximize Your Software Engineer Pay Without Getting Tricked - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/two-businessmen-shaking-hands-outside-modern-building-hoBlV3lpevI)" >}}
 
 ## Equity and Stock Options: Ask or Miss Out
 
@@ -54,8 +52,7 @@ One last thing: don’t get too excited too quickly. The position, the work-life
 - Ask about equity or stock options (ISOP/ESOP)—if you don’t, you probably won’t get them.
 - Don’t accept a high workload for a low salary. Know your worth.
 
-![Business partners smiling men are shaking hands making deal standing outdoors in the city expressing trust and happiness because of successful collaboration.](https://images.unsplash.com/photo-1758599543152-a73184816eba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwc2FsYXJ5JTIwbmVnb3RpYXRpb24lMjBqb2IlMjBiZW5lZml0c3xlbnwwfDB8fHwxNzY3MjQ3MTExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Maximize Your Software Engineer Pay Without Getting Tricked")
-*How to Maximize Your Software Engineer Pay Without Getting Tricked - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/two-businessmen-shaking-hands-outside-modern-building-AIdnnF7oKws)*
+{{< figure src="https://images.unsplash.com/photo-1758599543152-a73184816eba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwc2FsYXJ5JTIwbmVnb3RpYXRpb24lMjBqb2IlMjBiZW5lZml0c3xlbnwwfDB8fHwxNzY3MjQ3MTExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Business partners smiling men are shaking hands making deal standing outdoors in the city expressing trust and happiness because of successful collaboration." title="How to Maximize Your Software Engineer Pay Without Getting Tricked" caption="How to Maximize Your Software Engineer Pay Without Getting Tricked - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/two-businessmen-shaking-hands-outside-modern-building-AIdnnF7oKws)" >}}
 
 > “If you don’t ask, you don’t get. Simple as that.”
 

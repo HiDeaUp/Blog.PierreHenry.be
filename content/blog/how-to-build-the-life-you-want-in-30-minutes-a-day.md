@@ -12,8 +12,7 @@ original_title = "Comment prendre sa vie en main 🖐️"
 source_medium = "https://medium.com/@phenrysay/af57cf0ae884"
 +++
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MDU5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build the Life You Want in 30 Minutes a Day")
-*How to Build the Life You Want in 30 Minutes a Day - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MDU5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Build the Life You Want in 30 Minutes a Day" caption="How to Build the Life You Want in 30 Minutes a Day - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 Have you ever caught yourself saying, “I just don’t have time”? Maybe you’re busy, always running from one thing to the next, but deep down, you know there’s something you want to do for yourself. Maybe you want to learn a new skill, start a project, or simply do something that makes you happy. The truth is, no matter how packed your schedule is, you always have at least half an hour to dedicate to something that matters to you.
 
@@ -25,8 +24,7 @@ The key is to start. Pick something you truly want to do for yourself. It doesn�
 
 Here’s a simple plan: write down what you want to achieve by the end of the week. Give yourself a clear, measurable goal and a deadline. Then, each day, spend ten to thirty minutes working toward it. At the end of the week, check your progress. Next week, set a new goal. This steady, daily effort creates a snowball effect. Little by little, you’ll see real change.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MDU5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build the Life You Want in 30 Minutes a Day")
-*How to Build the Life You Want in 30 Minutes a Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MDU5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build the Life You Want in 30 Minutes a Day" caption="How to Build the Life You Want in 30 Minutes a Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 > _The best time to plant a tree was twenty years ago. The second best time is now._
 >
@@ -47,8 +45,7 @@ If you want to build a life that makes you happy, start today. Make a plan, take
 - Make your goal a priority, write it down, and break it into daily steps.
 - Small, regular efforts add up to big results over time.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MDU5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build the Life You Want in 30 Minutes a Day")
-*How to Build the Life You Want in 30 Minutes a Day - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MDU5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Build the Life You Want in 30 Minutes a Day" caption="How to Build the Life You Want in 30 Minutes a Day - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ## Action Steps
 

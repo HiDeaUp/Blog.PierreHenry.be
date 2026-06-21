@@ -12,8 +12,7 @@ original_title = "L’habitude FOCUS hebdomadière qui change des vies !"
 source_medium = "https://medium.com/@phenrysay/d372a278c35a"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdHMlMjBwcm9kdWN0aXZpdHklMjBjcmVhdGl2aXR5fGVufDB8MHx8fDE3NTY1MjYzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Week With One Simple Sunday Habit")
-*How to Transform Your Week With One Simple Sunday Habit - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdHMlMjBwcm9kdWN0aXZpdHklMjBjcmVhdGl2aXR5fGVufDB8MHx8fDE3NTY1MjYzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Transform Your Week With One Simple Sunday Habit" caption="How to Transform Your Week With One Simple Sunday Habit - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Building something meaningful in your daily life often starts with small, steady habits. Imagine dedicating a set time every week to a project or a skill you care about. For me, Sunday mornings are sacred. I spend about an hour and a half in the botanical garden, sometimes learning something new, sometimes working on a side business I want to grow, or even writing a book to build my reputation as an author.
 
@@ -25,8 +24,7 @@ So, pick a spot where you know you’ll spend one or two hours every week, fully
 
 I’m not a big fan of search engines for this reason. They throw too many options at you, and it’s easy to get lost. That’s why I recommend using AI chat tools instead. You ask your question, get a clear answer, and move on. It’s much more productive.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdHMlMjBwcm9kdWN0aXZpdHklMjBjcmVhdGl2aXR5fGVufDB8MHx8fDE3NTY1MjYzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Week With One Simple Sunday Habit")
-*How to Transform Your Week With One Simple Sunday Habit - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdHMlMjBwcm9kdWN0aXZpdHklMjBjcmVhdGl2aXR5fGVufDB8MHx8fDE3NTY1MjYzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Transform Your Week With One Simple Sunday Habit" caption="How to Transform Your Week With One Simple Sunday Habit - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Try this: every Sunday, go to a place that feels a little special to you. Even if it’s not perfect, make it your own. For me, Saint-Denis isn’t exactly a dream destination, but the garden there is wonderful and makes a big difference in my week.
 
@@ -42,8 +40,7 @@ Try this: every Sunday, go to a place that feels a little special to you. Even i
 
 ## Key Takeaways
 
-![Photo by HamZa NOUASRIA](https://images.unsplash.com/photo-1613579837498-8bacefa78f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdHMlMjBwcm9kdWN0aXZpdHklMjBjcmVhdGl2aXR5fGVufDB8MHx8fDE3NTY1MjYzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Week With One Simple Sunday Habit")
-*How to Transform Your Week With One Simple Sunday Habit - Photo by [HamZa NOUASRIA](https://unsplash.com/@hamza01nsr) on [Unsplash](https://unsplash.com/photos/white-and-red-ceramic-mug-LSxzFxsDqo4)*
+{{< figure src="https://images.unsplash.com/photo-1613579837498-8bacefa78f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdHMlMjBwcm9kdWN0aXZpdHklMjBjcmVhdGl2aXR5fGVufDB8MHx8fDE3NTY1MjYzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and red ceramic mug" title="How to Transform Your Week With One Simple Sunday Habit" caption="How to Transform Your Week With One Simple Sunday Habit - Photo by [HamZa NOUASRIA](https://unsplash.com/@hamza01nsr) on [Unsplash](https://unsplash.com/photos/white-and-red-ceramic-mug-LSxzFxsDqo4)" >}}
 
 - *Set aside a fixed time each week for a personal project or learning.*
 - *Choose an environment that inspires you—nature works wonders.*

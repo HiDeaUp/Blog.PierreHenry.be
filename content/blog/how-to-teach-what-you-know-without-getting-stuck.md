@@ -12,8 +12,7 @@ original_title = "Comment réexpliquer son sujet … Pourquoi c’est si diffici
 source_medium = "https://medium.com/@phenrysay/e3eaa3cbd81b"
 +++
 
-![Photo by David Geneugelijk](https://images.unsplash.com/photo-1744809482817-9a9d4fc280af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0ZWFjaGluZyUyMGNvbW11bmljYXRpb24lMjBlZHVjYXRpb258ZW58MHwwfHx8MTc1NTM4NTcyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Teach What You Know Without Getting Stuck")
-*How to Teach What You Know Without Getting Stuck - Photo by [David Geneugelijk](https://unsplash.com/@davidgeneugelijk) on [Unsplash](https://unsplash.com/photos/a-teacher-instructs-students-in-a-classroom-CXa6E3krENE)*
+{{< figure src="https://images.unsplash.com/photo-1744809482817-9a9d4fc280af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0ZWFjaGluZyUyMGNvbW11bmljYXRpb24lMjBlZHVjYXRpb258ZW58MHwwfHx8MTc1NTM4NTcyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A teacher in a" title="How to Teach What You Know Without Getting Stuck" caption="How to Teach What You Know Without Getting Stuck - Photo by [David Geneugelijk](https://unsplash.com/@davidgeneugelijk) on [Unsplash](https://unsplash.com/photos/a-teacher-instructs-students-in-a-classroom-CXa6E3krENE)" >}}
 
 Have you ever tried to teach something you thought you knew inside out, only to find yourself stumbling over your words, struggling to make things clear? That’s exactly what happened to me recently. I was working on a new course about marketing, and I realized I wasn’t as good at explaining things as I thought. It made me wonder: why is it so difficult to re-explain a subject, even when you’re passionate and knowledgeable about it?
 
@@ -29,8 +28,7 @@ Some people are naturally methodical, like historians or mathematicians, who lov
 
 After my marketing lesson, I felt pretty bad about myself. But then I realized: it’s normal. If you’re creating your first course or trying to explain something new, you’ll probably feel the same way. The key is not to judge yourself too harshly. I try not to watch my own courses just to criticize myself. I watch them to improve, not to feel miserable. Negativity only drags us down and destroys our confidence. What we really want is to feel good about ourselves, to be confident, and to enjoy what we’re doing.
 
-![Photo by Md Mahdi](https://images.unsplash.com/photo-1591204999554-fc2388a2aca6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0ZWFjaGluZyUyMGNvbW11bmljYXRpb24lMjBlZHVjYXRpb258ZW58MHwwfHx8MTc1NTM4NTcyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Teach What You Know Without Getting Stuck")
-*How to Teach What You Know Without Getting Stuck - Photo by [Md Mahdi](https://unsplash.com/@mahdi17) on [Unsplash](https://unsplash.com/photos/a-book-sitting-on-top-of-a-table-next-to-a-cup-of-coffee-uatFj9XREB8)*
+{{< figure src="https://images.unsplash.com/photo-1591204999554-fc2388a2aca6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0ZWFjaGluZyUyMGNvbW11bmljYXRpb24lMjBlZHVjYXRpb258ZW58MHwwfHx8MTc1NTM4NTcyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A book sitting on top of a table next to a cup of coffee" title="How to Teach What You Know Without Getting Stuck" caption="How to Teach What You Know Without Getting Stuck - Photo by [Md Mahdi](https://unsplash.com/@mahdi17) on [Unsplash](https://unsplash.com/photos/a-book-sitting-on-top-of-a-table-next-to-a-cup-of-coffee-uatFj9XREB8)" >}}
 
 > _The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge._
 > — Stephen Hawking
@@ -53,8 +51,7 @@ If you want to get better, the best time to start is now. Don’t put off what y
 
 ---
 
-![Photo by Md Mahdi](https://images.unsplash.com/photo-1591202928585-ae660165f73c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0ZWFjaGluZyUyMGNvbW11bmljYXRpb24lMjBlZHVjYXRpb258ZW58MHwwfHx8MTc1NTM4NTcyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Teach What You Know Without Getting Stuck")
-*How to Teach What You Know Without Getting Stuck - Photo by [Md Mahdi](https://unsplash.com/@mahdi17) on [Unsplash](https://unsplash.com/photos/a-close-up-of-food-on-a-table-P0oWNdF7rQ8)*
+{{< figure src="https://images.unsplash.com/photo-1591202928585-ae660165f73c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0ZWFjaGluZyUyMGNvbW11bmljYXRpb24lMjBlZHVjYXRpb258ZW58MHwwfHx8MTc1NTM4NTcyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of food on a table" title="How to Teach What You Know Without Getting Stuck" caption="How to Teach What You Know Without Getting Stuck - Photo by [Md Mahdi](https://unsplash.com/@mahdi17) on [Unsplash](https://unsplash.com/photos/a-close-up-of-food-on-a-table-P0oWNdF7rQ8)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Système pour ne pas laisser le temps filer entre nos mains"
 source_medium = "https://medium.com/@phenrysay/bb9a58ee2a83"
 +++
 
-![This 3D artwork presents a playful and modern take on the classic alarm clock, blending functionality with creativity. The vibrant blue and yellow color scheme evokes energy and optimism, complemented by stylized stationery elements to highlight themes of productivity and time management. Ideal for use in educational visuals, branding, or creative digital projects.](https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NTU2MDY0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Four Days Off Feel Like a Week Without Regret")
-*How to Make Four Days Off Feel Like a Week Without Regret - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)*
+{{< figure src="https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NTU2MDY0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A blue alarm clock with a yellow face" title="How to Make Four Days Off Feel Like a Week Without Regret" caption="How to Make Four Days Off Feel Like a Week Without Regret - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)" >}}
 
 Have you ever started a day off with the best intentions, only to realize by the afternoon that the hours have vanished? This happens to me, especially during long weekends or public holidays. You think, “Great, I have four days off. I’ll get so much done!” But then Friday comes, and before you know it, it’s already Monday night, and you’re left wondering what happened.
 
@@ -25,8 +24,7 @@ If you let your days evaporate like this, you’ll always feel like you’re run
 
 Your life is the most important thing. If your family or friends ask you for something in the morning, it’s okay to say no and focus on your own priorities. There will always be unexpected things that pop up, but if you don’t protect your time, you’ll end up with a mental load that weighs you down.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NTU2MDY0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Four Days Off Feel Like a Week Without Regret")
-*How to Make Four Days Off Feel Like a Week Without Regret - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NTU2MDY0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Make Four Days Off Feel Like a Week Without Regret" caption="How to Make Four Days Off Feel Like a Week Without Regret - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Brian Tracy calls this “eating the frog.” If you had to eat a disgusting frog, the more you think about it, the worse it gets. But if you do it first thing in the morning, it’s over, and you can move on. The same goes for your most important or difficult tasks. Do them first, and you’ll feel lighter for the rest of the day.
 
@@ -44,8 +42,7 @@ The best moment to take action is today, not tomorrow. Don’t put off what matt
 
 ## Key Takeaways
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NTU2MDY0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Four Days Off Feel Like a Week Without Regret")
-*How to Make Four Days Off Feel Like a Week Without Regret - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NTU2MDY0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Four Days Off Feel Like a Week Without Regret" caption="How to Make Four Days Off Feel Like a Week Without Regret - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 - *Plan your day the night before and write down your top priorities.*
 - *Use your mornings for the most important or challenging tasks.*

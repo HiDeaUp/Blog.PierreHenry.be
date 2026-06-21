@@ -12,8 +12,7 @@ original_title = "La rapidité d’exécution 🚀"
 source_medium = "https://medium.com/@phenrysay/ed04e367cfb8"
 +++
 
-![Photo by Fiqih Alfarish](https://images.unsplash.com/photo-1710905281966-c19083942790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzcGVlZCUyMHByb2R1Y3Rpdml0eSUyMHdvcmtwbGFjZXxlbnwwfDB8fHwxNzU2NTA3ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Fast at Work Without Losing Control")
-*How to Move Fast at Work Without Losing Control - Photo by [Fiqih Alfarish](https://unsplash.com/@fiqihalfarish) on [Unsplash](https://unsplash.com/photos/an-empty-office-space-with-desks-and-chairs-pU0XbVsDBzw)*
+{{< figure src="https://images.unsplash.com/photo-1710905281966-c19083942790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzcGVlZCUyMHByb2R1Y3Rpdml0eSUyMHdvcmtwbGFjZXxlbnwwfDB8fHwxNzU2NTA3ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="An empty office space with desks and chairs" title="How to Move Fast at Work Without Losing Control" caption="How to Move Fast at Work Without Losing Control - Photo by [Fiqih Alfarish](https://unsplash.com/@fiqihalfarish) on [Unsplash](https://unsplash.com/photos/an-empty-office-space-with-desks-and-chairs-pU0XbVsDBzw)" >}}
 
 Today, a scooter gave me quite a scare. It zipped by so quickly that it made me reflect on how speed shapes our daily lives and work. Let’s talk about the importance of acting fast and what it can do for you.
 
@@ -25,8 +24,7 @@ When you learn to act quickly and manage your time well, everything changes. The
 
 Tonight, as I sit in the park at midnight, I realize how much I’ve done today. I finished three training sessions, worked my regular job from 8 to 6, shot five promotional videos, kept writing my book, cooked, went shopping, walked, chatted with my mom for almost two hours, texted my girlfriend, and now I’m recording this message. I even had time to chat with people at my coworking space and wander around the supermarket. It’s been a full day, and I feel great about it.
 
-![Photo by Nubelson Fernandes](https://images.unsplash.com/photo-1660722130895-21f0c850dc12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzcGVlZCUyMHByb2R1Y3Rpdml0eSUyMHdvcmtwbGFjZXxlbnwwfDB8fHwxNzU2NTA3ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Fast at Work Without Losing Control")
-*How to Move Fast at Work Without Losing Control - Photo by [Nubelson Fernandes](https://unsplash.com/@nublson) on [Unsplash](https://unsplash.com/photos/a-desk-with-a-computer-and-a-chair-in-a-room-2nHdjIqGDck)*
+{{< figure src="https://images.unsplash.com/photo-1660722130895-21f0c850dc12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzcGVlZCUyMHByb2R1Y3Rpdml0eSUyMHdvcmtwbGFjZXxlbnwwfDB8fHwxNzU2NTA3ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A desk with a and a chair in a room" title="How to Move Fast at Work Without Losing Control" caption="How to Move Fast at Work Without Losing Control - Photo by [Nubelson Fernandes](https://unsplash.com/@nublson) on [Unsplash](https://unsplash.com/photos/a-desk-with-a-computer-and-a-chair-in-a-room-2nHdjIqGDck)" >}}
 
 Accomplishing a lot gives you a sense of pride and fulfillment. It changes your life. The more you achieve, the more you learn, and the more opportunities you create for yourself. You can add new skills to your resume and open doors to new jobs. It’s all upside.
 
@@ -44,8 +42,7 @@ But one thing is certain: getting things done changes everything. It’s an amaz
 
 ---
 
-![The image depicts a modern, open-plan office with a clean and organized layout. The workspace features multiple desks equipped with computers and ergonomic chairs. The desks are separated by low dividers, creating individual workstations while maintaining an open and collaborative environment. Overhead lighting and large windows provide ample illumination, enhancing the bright and airy atmosphere of the office. The decor includes minimalistic elements with a few potted plants adding a touch of greenery. The overall design emphasizes functionality and comfort, making it a conducive environment](https://images.unsplash.com/photo-1718220216044-006f43e3a9b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzcGVlZCUyMHByb2R1Y3Rpdml0eSUyMHdvcmtwbGFjZXxlbnwwfDB8fHwxNzU2NTA3ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Fast at Work Without Losing Control")
-*How to Move Fast at Work Without Losing Control - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/an-office-with-a-lot-of-desks-and-chairs-pYlBAu3de0w)*
+{{< figure src="https://images.unsplash.com/photo-1718220216044-006f43e3a9b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzcGVlZCUyMHByb2R1Y3Rpdml0eSUyMHdvcmtwbGFjZXxlbnwwfDB8fHwxNzU2NTA3ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="An office with a lot of desks and chairs" title="How to Move Fast at Work Without Losing Control" caption="How to Move Fast at Work Without Losing Control - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/an-office-with-a-lot-of-desks-and-chairs-pYlBAu3de0w)" >}}
 
 ## Key Takeaways
 

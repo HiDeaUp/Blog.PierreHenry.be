@@ -12,8 +12,7 @@ original_title = "Richesse / les GESTES qui font vraiment la DIFFÉRENCE"
 source_medium = "https://medium.com/@phenrysay/12addd58f30f"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695548303341-ec8cd2d50844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWFsdGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTU2NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Actions Build Wealth Without Sacrificing Freedom")
-*How Small Actions Build Wealth Without Sacrificing Freedom - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-says-mindful-parenting-hTELFR6P8FE)*
+{{< figure src="https://images.unsplash.com/photo-1695548303341-ec8cd2d50844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWFsdGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTU2NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that says mindful" title="How Small Actions Build Wealth Without Sacrificing Freedom" caption="How Small Actions Build Wealth Without Sacrificing Freedom - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-says-mindful-parenting-hTELFR6P8FE)" >}}
 
 Money. We all like earning it, but our reasons are different. For some, money means freedom: not having to check prices at the supermarket, being able to travel, or simply not having to deprive ourselves. Of course, deprivation can be a challenge, but it can also be a way to live more simply. Some people, when they have no limits, end up doing anything and everything. So, I’m not saying money is good or bad. What matters is being prepared for it—especially if you’ve never had much before. If you’ve learned to manage your money well, if you didn’t grow up with a silver spoon, it’s easier to keep your spending in check even as you earn more.
 
@@ -27,9 +26,7 @@ Think about shopping malls. You’ll find the same stores everywhere, sometimes 
 
 So, competition just means there’s a need. You can stand out. What matters is your approach, your knowledge, and your strategy—especially how you attract future customers. If you’re a freelancer, say in data science, what can you offer that others can’t? On platforms like Malt or Comet, everyone looks at prices, but also at profiles. Why would a company choose you over someone else? Maybe you reply faster, are more professional, have a better portfolio, or even just a better profile photo.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, type, typography, design, layout, transform wounds into wisdom, wisdom, life, live life, move on, don't give up, transformation, life, growth, mindfulness, 
-](https://images.unsplash.com/photo-1607000975735-011d084e559c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWFsdGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTU2NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Actions Build Wealth Without Sacrificing Freedom")
-*How Small Actions Build Wealth Without Sacrificing Freedom - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-6LSpoSyrnHA)*
+{{< figure src="https://images.unsplash.com/photo-1607000975735-011d084e559c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWFsdGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTU2NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How Small Actions Build Wealth Without Sacrificing Freedom" caption="How Small Actions Build Wealth Without Sacrificing Freedom - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-6LSpoSyrnHA)" >}}
 
 First impressions matter. Like judging a book by its cover, people make snap decisions based on what they see first. If you’re visiting an apartment and the building looks terrible from the outside, you might not even go in—even if the inside is beautiful. It’s the same for your online presence. On YouTube, the thumbnail is the first thing people see, then the title. On LinkedIn or Twitter, your profile photo is front and center. For me, I use a yellow background—it stands out and works well for conversions.
 
@@ -49,8 +46,7 @@ In the end, the goal is to be happy. We only have one life, so go for it.
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992877-de3689c1fb58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWFsdGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTU2NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Actions Build Wealth Without Sacrificing Freedom")
-*How Small Actions Build Wealth Without Sacrificing Freedom - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-xACzJ6ZsoyQ)*
+{{< figure src="https://images.unsplash.com/photo-1695370992877-de3689c1fb58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWFsdGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTU2NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How Small Actions Build Wealth Without Sacrificing Freedom" caption="How Small Actions Build Wealth Without Sacrificing Freedom - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-xACzJ6ZsoyQ)" >}}
 
 - Money brings freedom, but managing it well is key.
 - Everyone has unique value to offer—find yours and don’t overcomplicate things.

@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/b77d30828ba4"
 source_youtube = "https://www.youtube.com/watch?v=gxVAvm1YdBg"
 +++
 
-![fluid,fluid art,abstract,abstract art,abstract background,abstract dark,texture,texture background,texture wall,texture paper,background,background image,background design,background texture,pattern,pattern background,patterns and textures,wall,wall background,wall art,wall painting,background for pc,background for web,background for website,full hd wallpaper,full screen wallpaper,full hd,full screen,full color,full colour,full colours](https://images.unsplash.com/photo-1724331340768-4d1fe9f11aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2RlJTIwb3JnYW5pemF0aW9uJTIwcmVwb3NpdG9yeSUyMHN0cnVjdHVyZSUyMGZvbGRlciUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc2Nzg3MzE4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Code Folders Without Losing Your Mind")
-*How to Organize Code Folders Without Losing Your Mind - Photo by [BoliviaInteligente](https://unsplash.com/@boliviainteligente) on [Unsplash](https://unsplash.com/photos/a-computer-generated-image-of-a-computer-tower-O3qYNyl9xIU)*
+{{< figure src="https://images.unsplash.com/photo-1724331340768-4d1fe9f11aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2RlJTIwb3JnYW5pemF0aW9uJTIwcmVwb3NpdG9yeSUyMHN0cnVjdHVyZSUyMGZvbGRlciUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc2Nzg3MzE4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A image of a tower" title="How to Organize Code Folders Without Losing Your Mind" caption="How to Organize Code Folders Without Losing Your Mind - Photo by [BoliviaInteligente](https://unsplash.com/@boliviainteligente) on [Unsplash](https://unsplash.com/photos/a-computer-generated-image-of-a-computer-tower-O3qYNyl9xIU)" >}}
 
 Alright, let’s get straight to it. I’ve been in the industry for over 12 years, and if there’s one thing I’ve seen everywhere—startups, big companies, you name it—it’s that everyone eventually lands on the same basic convention for organizing code on their local machines. It’s not rocket science, but it’s one of those things that, if you get it right, makes your life (and your teammates’ lives) way easier.
 
@@ -44,8 +43,7 @@ On Windows, you don’t get that alphabetical bonus, but the principle is the sa
 
 You might notice that files like `README` and `LICENSE` are in uppercase. That’s not just for style points. Historically, uppercase filenames show up first in directory listings, especially on Unix-like systems. That way, the important stuff stands out. Same logic applies to your main folders.
 
-![Photo by Bernd 📷 Dittrich](https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb2RlJTIwb3JnYW5pemF0aW9uJTIwcmVwb3NpdG9yeSUyMHN0cnVjdHVyZSUyMGZvbGRlciUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc2Nzg3MzE4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Code Folders Without Losing Your Mind")
-*How to Organize Code Folders Without Losing Your Mind - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)*
+{{< figure src="https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb2RlJTIwb3JnYW5pemF0aW9uJTIwcmVwb3NpdG9yeSUyMHN0cnVjdHVyZSUyMGZvbGRlciUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc2Nzg3MzE4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A screen with a bunch of lines on it" title="How to Organize Code Folders Without Losing Your Mind" caption="How to Organize Code Folders Without Losing Your Mind - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)" >}}
 
 ## Alternatives: `projects`, `www`, and the Old School
 
@@ -101,8 +99,7 @@ And if you’re dealing with microservices, just add more folders inside the pro
 
 ## A Note on Shared Packages
 
-![A fun shot while working late at night](https://images.unsplash.com/photo-1518818608552-195ed130cdf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb2RlJTIwb3JnYW5pemF0aW9uJTIwcmVwb3NpdG9yeSUyMHN0cnVjdHVyZSUyMGZvbGRlciUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc2Nzg3MzE4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Code Folders Without Losing Your Mind")
-*How to Organize Code Folders Without Losing Your Mind - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/smiling-man-showing-sticky-note-with-code-illustration-pMnw5BSZYsA)*
+{{< figure src="https://images.unsplash.com/photo-1518818608552-195ed130cdf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb2RlJTIwb3JnYW5pemF0aW9uJTIwcmVwb3NpdG9yeSUyMHN0cnVjdHVyZSUyMGZvbGRlciUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc2Nzg3MzE4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A fun shot while working late at night" title="How to Organize Code Folders Without Losing Your Mind" caption="How to Organize Code Folders Without Losing Your Mind - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/smiling-man-showing-sticky-note-with-code-illustration-pMnw5BSZYsA)" >}}
 
 You might have shared components or packages used across projects. I usually keep those inside the relevant project folder, or if they’re truly global, maybe a `shared` or `libs` folder at the top level. Just make sure you know where to find them.
 

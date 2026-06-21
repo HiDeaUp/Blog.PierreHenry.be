@@ -12,8 +12,7 @@ original_title = "Utiliser la COLÈRE à son avantage pour RÉUSSIR mieux que l
 source_medium = "https://medium.com/@phenrysay/3db9b8a32492"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Anger for Growth Without Losing Control")
-*How to Use Anger for Growth Without Losing Control - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Use Anger for Growth Without Losing Control" caption="How to Use Anger for Growth Without Losing Control - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Anger is often seen as something destructive—a force that can make us say or do things we regret, like smashing a phone or tossing a laptop out the window. But what if, instead of letting anger destroy us, we could use it to build something better?
 
@@ -29,8 +28,7 @@ Think about it—every time you get angry about a setback, a missed opportunity,
 
 A life that feels right to you, that matches who you are and what you stand for. That’s the real goal. It’s not about being perfect or pleasing everyone. It’s about being true to yourself and showing up as the best version of you.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Anger for Growth Without Losing Control")
-*How to Use Anger for Growth Without Losing Control - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Use Anger for Growth Without Losing Control" caption="How to Use Anger for Growth Without Losing Control - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 ## The Key Ingredient: Self-Knowledge
 
@@ -52,8 +50,7 @@ Sometimes people say this is being narcissistic, but it’s not. It’s about kn
 
 ## Proactivity Changes Everything
 
-![Photo by Priscilla Du Preez 🇨🇦](https://images.unsplash.com/photo-1573412930091-cc65eb8f537d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Anger for Growth Without Losing Control")
-*How to Use Anger for Growth Without Losing Control - Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-floor-wearing-brown-dress-VzqEavUGnss)*
+{{< figure src="https://images.unsplash.com/photo-1573412930091-cc65eb8f537d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on floor wearing brown dress" title="How to Use Anger for Growth Without Losing Control" caption="How to Use Anger for Growth Without Losing Control - Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-floor-wearing-brown-dress-VzqEavUGnss)" >}}
 
 The real difference comes when you become proactive. Use that bubbling energy to create, to act, to move forward. Whether it’s a project, a new habit, or just a small step, being proactive turns anger into progress.
 

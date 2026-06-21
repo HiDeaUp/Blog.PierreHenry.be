@@ -12,8 +12,7 @@ original_title = "L'impact stratégique des pauses sur votre performance"
 source_medium = "https://medium.com/@phenrysay/ba6aa17e2761"
 +++
 
-![healing hands](https://images.unsplash.com/photo-1515377905703-c4788e51af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBicmVha3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0OTMxODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus Without Working Longer Hours?")
-*How to Boost Focus Without Working Longer Hours? - Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/photos/person-holding-amber-glass-bottle-0MoF-Fe0w0A)*
+{{< figure src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBicmVha3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0OTMxODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="healing hands" title="How to Boost Focus Without Working Longer Hours?" caption="How to Boost Focus Without Working Longer Hours? - Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/photos/person-holding-amber-glass-bottle-0MoF-Fe0w0A)" >}}
 
 Today, as I sit in a coffee shop enjoying a simple cup of coffee, I notice something clever: they offer a “happy hour” between 2:30 and 3:30 PM. During this time, coffee is cheaper, and the place feels a bit more relaxed. I snapped a photo to remember this little detail, because it’s not just about saving a few coins—it’s about the idea behind it.
 
@@ -25,8 +24,7 @@ The problem is, urgent tasks keep popping up. Someone asks for a document “as 
 
 Let’s talk about priorities. I often refer to a productivity framework—the Eisenhower Matrix—which helps you sort tasks by urgency and importance. Here’s how it works:
 
-![Put together all of my favorite eats on one plate. Because, as much as I adore the kids homemade pancakes, a bowl of fresh fruit is what I really want for Mother’s Day.](https://images.unsplash.com/photo-1494390248081-4e521a5940db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBicmVha3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0OTMxODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus Without Working Longer Hours?")
-*How to Boost Focus Without Working Longer Hours? - Photo by [Brooke Lark](https://unsplash.com/@brookelark) on [Unsplash](https://unsplash.com/photos/black-and-red-cherries-on-white-bowl-nTZOILVZuOg)*
+{{< figure src="https://images.unsplash.com/photo-1494390248081-4e521a5940db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBicmVha3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0OTMxODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Put together all of my favorite eats on one plate. Because, as much as I adore the kids homemade pancakes, a bowl of fresh fruit is what I really want for Mother’s Day." title="How to Boost Focus Without Working Longer Hours?" caption="How to Boost Focus Without Working Longer Hours? - Photo by [Brooke Lark](https://unsplash.com/@brookelark) on [Unsplash](https://unsplash.com/photos/black-and-red-cherries-on-white-bowl-nTZOILVZuOg)" >}}
 
 - **Not urgent but important:** Plan these and stick to your plan.
 - **Not important:** Let these go. They’re not worth your time.
@@ -44,8 +42,7 @@ That’s why it’s so important to prioritize your important tasks. Make time f
 
 ## Key Takeaways
 
-![Medical](https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBicmVha3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0OTMxODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus Without Working Longer Hours?")
-*How to Boost Focus Without Working Longer Hours? - Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80) on [Unsplash](https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA)*
+{{< figure src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBicmVha3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0OTMxODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Medical" title="How to Boost Focus Without Working Longer Hours?" caption="How to Boost Focus Without Working Longer Hours? - Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80) on [Unsplash](https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA)" >}}
 
 - Take intentional breaks to clear your mind and reduce stress.
 - Focus on important tasks, not just urgent ones.

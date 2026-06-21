@@ -12,8 +12,7 @@ original_title = "Bien réagir aux événements"
 source_medium = "https://medium.com/@phenrysay/a04a54b828e4"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwcm9ibGVtJTIwc29sdmluZyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAxMDQ1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future by Changing Your Reaction")
-*How to Shape Your Future by Changing Your Reaction - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwcm9ibGVtJTIwc29sdmluZyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAxMDQ1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Shape Your Future by Changing Your Reaction" caption="How to Shape Your Future by Changing Your Reaction - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 When something unexpected happens, the way you react is often more important than the event itself. How you interpret and handle a problem will shape what happens next, and even your long-term success.
 
@@ -25,8 +24,7 @@ It’s also important not to let your ego get in the way. If you realize your fi
 
 Many people want a different life, but they don’t change anything about what they do. How can you expect a new outcome if you keep repeating the same actions? Change starts with action and decision-making.
 
-!["Gran cabeza habitada". Krebs Helga.](https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwcm9ibGVtJTIwc29sdmluZyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAxMDQ1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future by Changing Your Reaction")
-*How to Shape Your Future by Changing Your Reaction - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)*
+{{< figure src="https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwcm9ibGVtJTIwc29sdmluZyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAxMDQ1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="&quot;Gran cabeza habitada&quot;. Krebs Helga." title="How to Shape Your Future by Changing Your Reaction" caption="How to Shape Your Future by Changing Your Reaction - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)" >}}
 
 Whenever something happens, ask yourself: What can I do differently? What will I change today? Learn from your mistakes, but also from your successes. People often say you should learn from your errors, but it’s just as important to study what went right. If you succeed at something, figure out why, and see if you can repeat it.
 
@@ -44,8 +42,7 @@ As I continue my walk in Sydney, I want to remind you: how you interpret and res
 > *The only real mistake is the one from which we learn nothing.*
 > — Henry Ford
 
-![Photo by Lukas Robertson](https://images.unsplash.com/photo-1546801226-104a8000e041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwcm9ibGVtJTIwc29sdmluZyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAxMDQ1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future by Changing Your Reaction")
-*How to Shape Your Future by Changing Your Reaction - Photo by [Lukas Robertson](https://unsplash.com/@sheetstothewind) on [Unsplash](https://unsplash.com/photos/red-brick-wall-covered-in-white-paint-JX-Ufc_fZj0)*
+{{< figure src="https://images.unsplash.com/photo-1546801226-104a8000e041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwcm9ibGVtJTIwc29sdmluZyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAxMDQ1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Red brick wall covered in white paint JX" title="How to Shape Your Future by Changing Your Reaction" caption="How to Shape Your Future by Changing Your Reaction - Photo by [Lukas Robertson](https://unsplash.com/@sheetstothewind) on [Unsplash](https://unsplash.com/photos/red-brick-wall-covered-in-white-paint-JX-Ufc_fZj0)" >}}
 
 ---
 

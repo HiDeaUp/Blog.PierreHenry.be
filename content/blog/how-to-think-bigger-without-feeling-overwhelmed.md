@@ -12,8 +12,7 @@ original_title = "Une grande vision de la vie 🎉"
 source_medium = "https://medium.com/@phenrysay/aac6968cbcac"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632556719027-a2e7fa84d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwdmlzaW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBiaWclMjB0aGlua2luZ3xlbnwwfDB8fHwxNzU2NTI2NTEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger Without Feeling Overwhelmed")
-*How to Think Bigger Without Feeling Overwhelmed - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-spelling-the-word-w-is-down-on-top-of-a-QnRDKNbKl9k)*
+{{< figure src="https://images.unsplash.com/photo-1632556719027-a2e7fa84d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwdmlzaW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBiaWclMjB0aGlua2luZ3xlbnwwfDB8fHwxNzU2NTI2NTEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A word the word w is down on top of a" title="How to Think Bigger Without Feeling Overwhelmed" caption="How to Think Bigger Without Feeling Overwhelmed - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-spelling-the-word-w-is-down-on-top-of-a-QnRDKNbKl9k)" >}}
 
 Having a bigger vision for your life is not just about dreaming. It’s about seeing beyond your current situation and daring to imagine what you truly want to achieve. When you allow yourself to think big, you open the door to new possibilities. But the real magic happens when you break down those big dreams into small, daily goals.
 
@@ -21,8 +20,7 @@ Every morning and evening, if you dedicate even half an hour to working on your 
 
 Waking up without a plan is like wasting your most precious resource: time. When you don’t know what you want, you end up spending your energy on things that don’t matter to you. But if you start your day knowing exactly what you want to accomplish, you know where to focus your energy. You know why you’re making an effort, and you can see how each action brings you closer to your vision.
 
-![Photo by Albert Moreno](https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwdmlzaW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBiaWclMjB0aGlua2luZ3xlbnwwfDB8fHwxNzU2NTI2NTEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger Without Feeling Overwhelmed")
-*How to Think Bigger Without Feeling Overwhelmed - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)*
+{{< figure src="https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwdmlzaW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBiaWclMjB0aGlua2luZ3xlbnwwfDB8fHwxNzU2NTI2NTEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on brown soil" title="How to Think Bigger Without Feeling Overwhelmed" caption="How to Think Bigger Without Feeling Overwhelmed - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)" >}}
 
 Maybe your dream is to save enough money to build a house, start a business, travel the world, or create something meaningful. Your reasons might be personal pride, a desire to change the world, or simply because it’s your passion. The important thing is that your vision drives you. That’s what matters most.
 
@@ -38,8 +36,7 @@ I truly wish you all the best as you work towards your goals and find fulfillmen
 
 ---
 
-![Photo by Jean-Pierre Momot](https://images.unsplash.com/photo-1665354559195-e0ac45c217f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwdmlzaW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBiaWclMjB0aGlua2luZ3xlbnwwfDB8fHwxNzU2NTI2NTEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger Without Feeling Overwhelmed")
-*How to Think Bigger Without Feeling Overwhelmed - Photo by [Jean-Pierre Momot](https://unsplash.com/@superflegmon) on [Unsplash](https://unsplash.com/photos/a-green-insect-on-a-rock-ilsudP4kdfc)*
+{{< figure src="https://images.unsplash.com/photo-1665354559195-e0ac45c217f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwdmlzaW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBiaWclMjB0aGlua2luZ3xlbnwwfDB8fHwxNzU2NTI2NTEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A green insect on a rock" title="How to Think Bigger Without Feeling Overwhelmed" caption="How to Think Bigger Without Feeling Overwhelmed - Photo by [Jean-Pierre Momot](https://unsplash.com/@superflegmon) on [Unsplash](https://unsplash.com/photos/a-green-insect-on-a-rock-ilsudP4kdfc)" >}}
 
 ## Key Takeaways
 - A big vision gives your life direction and meaning.

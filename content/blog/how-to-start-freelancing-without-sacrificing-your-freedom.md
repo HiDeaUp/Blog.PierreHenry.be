@@ -12,8 +12,7 @@ original_title = "Comment démarrer son activité de freelance ?"
 source_medium = "https://medium.com/@phenrysay/add4877d4f37"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653212883728-f4cc35b19c4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGRldmVsb3BtZW50JTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU2MzcxNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Freelancing Without Sacrificing Your Freedom")
-*How to Start Freelancing Without Sacrificing Your Freedom - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-UsG7z9TAZdc)*
+{{< figure src="https://images.unsplash.com/photo-1653212883728-f4cc35b19c4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGRldmVsb3BtZW50JTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU2MzcxNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a piece of paper on it" title="How to Start Freelancing Without Sacrificing Your Freedom" caption="How to Start Freelancing Without Sacrificing Your Freedom - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-UsG7z9TAZdc)" >}}
 
 Building a freelance career isn’t just about working for yourself—it’s about designing a life that fits you, not the other way around. When your freelance activity starts to pay off, your motivation shifts. You feel more fulfilled because you’re living for yourself, shaping your days around your needs, and raising your standards for what life can be.
 
@@ -27,8 +26,7 @@ Of course, the hardest part is getting started. It’s easy to say, “That soun
 
 Start by identifying your “acquisition channel”—the place where your potential audience hangs out. This could be TikTok, Instagram, Facebook, Twitter (or X), or LinkedIn. Pick the one that fits you best.
 
-![Now Hiring](https://images.unsplash.com/photo-1753104429187-64c23ec2adaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGRldmVsb3BtZW50JTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU2MzcxNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Freelancing Without Sacrificing Your Freedom")
-*How to Start Freelancing Without Sacrificing Your Freedom - Photo by [Nathan Sack](https://unsplash.com/@natepics) on [Unsplash](https://unsplash.com/photos/a-now-hiring-sign-hangs-in-a-store-window-UQ716eQauSw)*
+{{< figure src="https://images.unsplash.com/photo-1753104429187-64c23ec2adaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGRldmVsb3BtZW50JTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU2MzcxNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Now Hiring" title="How to Start Freelancing Without Sacrificing Your Freedom" caption="How to Start Freelancing Without Sacrificing Your Freedom - Photo by [Nathan Sack](https://unsplash.com/@natepics) on [Unsplash](https://unsplash.com/photos/a-now-hiring-sign-hangs-in-a-store-window-UQ716eQauSw)" >}}
 
 Then, create content that speaks to your audience. Share what you do, what you know, and what you’re building. Don’t be afraid to build in public—show your process, your wins, your mistakes. This transparency builds trust. People start to see your skills and believe in what you offer.
 
@@ -47,8 +45,7 @@ Personally, I treat my workspaces and tools as my second brain—a way to organi
 
 One thing I’ve learned: when you share valuable knowledge, it’s important to keep it special. If everyone has access, it loses its uniqueness. That’s why I keep my workshops and resources limited. If you’re interested, the best time is always now—otherwise, the opportunity might be gone.
 
-![Job Application](https://images.unsplash.com/photo-1653038417332-6db0ff9d4bfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGRldmVsb3BtZW50JTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU2MzcxNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Freelancing Without Sacrificing Your Freedom")
-*How to Start Freelancing Without Sacrificing Your Freedom - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-job-application-printed-on-it-XKKuY4ottJ0)*
+{{< figure src="https://images.unsplash.com/photo-1653038417332-6db0ff9d4bfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGRldmVsb3BtZW50JTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU2MzcxNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Job Application" title="How to Start Freelancing Without Sacrificing Your Freedom" caption="How to Start Freelancing Without Sacrificing Your Freedom - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-job-application-printed-on-it-XKKuY4ottJ0)" >}}
 
 In the end, what matters most is taking action. I’m convinced you can succeed, but it’s up to you to make the move. The journey is worth it, and the life you want is closer than you think.
 

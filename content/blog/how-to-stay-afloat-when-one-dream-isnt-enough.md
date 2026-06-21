@@ -12,8 +12,7 @@ original_title = "Avoir une bouée de secours 🛟"
 source_medium = "https://medium.com/@phenrysay/4abf2ddde349"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHJlc2lsaWVuY2UlMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTk5ODIxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Afloat When One Dream Isn’t Enough")
-*How to Stay Afloat When One Dream Isn’t Enough - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHJlc2lsaWVuY2UlMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTk5ODIxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Stay Afloat When One Dream Isn’t Enough" caption="How to Stay Afloat When One Dream Isn’t Enough - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Have you ever had a project or a dream you wanted to start, but something held you back? Maybe you want to travel the world, move to another country, buy a farm, or build a business from scratch. These dreams are exciting, but what happens if you put all your energy into just one idea and it doesn’t work out? If you have nothing else to hold on to, you might feel like you’re drowning.
 
@@ -23,8 +22,7 @@ For some, the lifeline is a loving partner who supports you no matter what. Mayb
 
 It’s not just about money or achievements. Sometimes, your lifeline is a past success that proves you’re capable. When you collect small wins in different areas of your life, you’re less afraid of failing. You know that if one thing goes wrong, you still have other parts of your life that are going well.
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHJlc2lsaWVuY2UlMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTk5ODIxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Afloat When One Dream Isn’t Enough")
-*How to Stay Afloat When One Dream Isn’t Enough - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHJlc2lsaWVuY2UlMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTk5ODIxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How to Stay Afloat When One Dream Isn’t Enough" caption="How to Stay Afloat When One Dream Isn’t Enough - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 The real secret is balance. If you have a few things in your life that are going really well, you can give your all to your new project without fear. If it doesn’t work out, it will hurt, but you’ll recover. That’s what I want to share with you: always look for balance in what you do. If you have nothing else and you’re unhappy with your life, putting everything into one risky project can make failure even more painful.
 
@@ -40,8 +38,7 @@ This applies to everything, whether you want to start a business, get a degree, 
 
 ---
 
-![Flower on the asphalt](https://images.unsplash.com/photo-1593338952121-2e39d38fc3b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHJlc2lsaWVuY2UlMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTk5ODIxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Afloat When One Dream Isn’t Enough")
-*How to Stay Afloat When One Dream Isn’t Enough - Photo by [Elisa Calvet B.](https://unsplash.com/@elisa_cb) on [Unsplash](https://unsplash.com/photos/green-plant-on-gray-concrete-floor-3rNYHBsAnvw)*
+{{< figure src="https://images.unsplash.com/photo-1593338952121-2e39d38fc3b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHJlc2lsaWVuY2UlMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTk5ODIxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Flower on the asphalt" title="How to Stay Afloat When One Dream Isn’t Enough" caption="How to Stay Afloat When One Dream Isn’t Enough - Photo by [Elisa Calvet B.](https://unsplash.com/@elisa_cb) on [Unsplash](https://unsplash.com/photos/green-plant-on-gray-concrete-floor-3rNYHBsAnvw)" >}}
 
 ## Key Takeaways
 

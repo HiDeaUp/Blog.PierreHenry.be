@@ -12,8 +12,7 @@ original_title = "C’est quoi ta spécificité …? 🧐"
 source_medium = "https://medium.com/@phenrysay/5e0eca3a559f"
 +++
 
-![flowers in the hair](https://images.unsplash.com/photo-1576269656736-ebe91760fe2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx1bmlxdWVuZXNzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjUyMDQ1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Unique Spark Without Feeling Lost")
-*How to Find Your Unique Spark Without Feeling Lost - Photo by [Anastasiia Pyvovarova](https://unsplash.com/@tiny_shelter) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-white-petaled-flower-uuYUbTM6WFU)*
+{{< figure src="https://images.unsplash.com/photo-1576269656736-ebe91760fe2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx1bmlxdWVuZXNzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjUyMDQ1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="flowers in the hair" title="How to Find Your Unique Spark Without Feeling Lost" caption="How to Find Your Unique Spark Without Feeling Lost - Photo by [Anastasiia Pyvovarova](https://unsplash.com/@tiny_shelter) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-white-petaled-flower-uuYUbTM6WFU)" >}}
 
 Have you ever thought about what makes you unique? Not just your personality, but that one thing you do or love that sets you apart. I’ve been reflecting on this idea of specificity, and I believe it’s one of the most important keys to living a fulfilling life.
 
@@ -23,8 +22,7 @@ You should have your own unique spark too. Maybe it’s cooking—perhaps you lo
 
 When you work a regular job, you might not feel like you’re changing the world. But when you have a unique spark—even if it’s just a hobby—it can inspire others. My mother, for example, loves drawing. She’s really talented, and when she introduces herself, she proudly says she loves to draw. That passion inspires people around her.
 
-![Photo by Vitalii Onyshchuk](https://images.unsplash.com/photo-1711990416792-9f7346695873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx1bmlxdWVuZXNzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjUyMDQ1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Unique Spark Without Feeling Lost")
-*How to Find Your Unique Spark Without Feeling Lost - Photo by [Vitalii Onyshchuk](https://unsplash.com/@true_zuzu) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-flower-in-front-of-a-waterfall-yccSe6Al1zg)*
+{{< figure src="https://images.unsplash.com/photo-1711990416792-9f7346695873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx1bmlxdWVuZXNzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjUyMDQ1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a flower in front of a" title="How to Find Your Unique Spark Without Feeling Lost" caption="How to Find Your Unique Spark Without Feeling Lost - Photo by [Vitalii Onyshchuk](https://unsplash.com/@true_zuzu) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-flower-in-front-of-a-waterfall-yccSe6Al1zg)" >}}
 
 Personally, I have several interests, but my main focus is personal growth and the art of living well. I also love animals and the color red, and I feel lucky to live in what I think is the most beautiful country in the world: Australia. I could have chosen to focus on nature preservation or being a tour guide in the outback, but I decided that my main specificity is personal development. It’s both my work and my passion. I’m also an engineer, but I always introduce myself through my love for personal growth.
 
@@ -42,8 +40,7 @@ If you want to go even further in your personal growth and improve your life, I�
 
 ---
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx1bmlxdWVuZXNzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjUyMDQ1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Unique Spark Without Feeling Lost")
-*How to Find Your Unique Spark Without Feeling Lost - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx1bmlxdWVuZXNzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjUyMDQ1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Find Your Unique Spark Without Feeling Lost" caption="How to Find Your Unique Spark Without Feeling Lost - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ## Key Takeaways
 

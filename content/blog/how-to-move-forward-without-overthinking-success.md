@@ -12,8 +12,7 @@ original_title = "Une vie qui te porte loin ! 🎉"
 source_medium = "https://medium.com/@phenrysay/4d47908a7de2"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjY0MDUzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Overthinking Success")
-*How to Move Forward Without Overthinking Success - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)*
+{{< figure src="https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjY0MDUzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word love on a wooden surface" title="How to Move Forward Without Overthinking Success" caption="How to Move Forward Without Overthinking Success - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)" >}}
 
 Success is a word we hear all the time. People talk about organizing their days better, getting more done, and living a happier life. But when it comes down to actually doing the things we need to do, it’s not always so easy. We often want to do more, feel better, and be happier, but how do we really make that happen? It sounds simple, but it’s not always straightforward.
 
@@ -29,8 +28,7 @@ Spend a week tracking your energy and productivity. Use a simple notes app or ev
 
 Now, when you plan your day, match your most important task to your best time. If it’s a mental task, do it when your mind is clear. If it’s something physical, save it for when your body feels strong.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjY0MDUzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Overthinking Success")
-*How to Move Forward Without Overthinking Success - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjY0MDUzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Move Forward Without Overthinking Success" caption="How to Move Forward Without Overthinking Success - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 ## Create Your Own Productive Space
 
@@ -53,8 +51,7 @@ When you do this, you’ll find yourself moving forward much faster, and you’l
 *“Success is the sum of small efforts, repeated day in and day out.”*  
 — Robert Collier
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjY0MDUzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Overthinking Success")
-*How to Move Forward Without Overthinking Success - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjY0MDUzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Move Forward Without Overthinking Success" caption="How to Move Forward Without Overthinking Success - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 *“The key is not to prioritize what’s on your schedule, but to schedule your priorities.”*  
 — Stephen R. Covey

@@ -12,8 +12,7 @@ original_title = "Comment diminuer son stress ? 😣"
 source_medium = "https://medium.com/@phenrysay/109f31bf8153"
 +++
 
-![Photo by Angelina Sarycheva](https://images.unsplash.com/photo-1713428856048-d52b6474b5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwYW54aWV0eSUyMHJlbGllZiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTEwOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reduce Stress Without Letting Anxiety Stop You")
-*How to Reduce Stress Without Letting Anxiety Stop You - Photo by [Angelina Sarycheva](https://unsplash.com/@oxalife) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-the-floor-with-a-laptop-vFefVZLzQYU)*
+{{< figure src="https://images.unsplash.com/photo-1713428856048-d52b6474b5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwYW54aWV0eSUyMHJlbGllZiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTEwOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on the floor with a laptop" title="How to Reduce Stress Without Letting Anxiety Stop You" caption="How to Reduce Stress Without Letting Anxiety Stop You - Photo by [Angelina Sarycheva](https://unsplash.com/@oxalife) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-the-floor-with-a-laptop-vFefVZLzQYU)" >}}
 
 Stress is something we all know too well. Sometimes, it creeps in as worry, and other times, it feels like a heavy weight from past experiences. This stress can freeze us, making it hard to do even the things we once wanted. Often, it’s a single event that triggers this anxiety, and suddenly, our minds start spinning stories—usually the worst-case scenarios.
 
@@ -23,8 +22,7 @@ If you want something different in your life, you have to do something different
 
 So, how do you move forward when stress is holding you back? First, ask yourself what you can do to protect yourself if things don’t go as planned. For example, if you want to start a business but worry about the risks, maybe you can team up with someone else. That way, you share the responsibility, and it’s not all on your shoulders.
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1628657772654-3812001a84fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwYW54aWV0eSUyMHJlbGllZiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTEwOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reduce Stress Without Letting Anxiety Stop You")
-*How to Reduce Stress Without Letting Anxiety Stop You - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/yellow-and-black-lego-blocks-II1HU_N91eE)*
+{{< figure src="https://images.unsplash.com/photo-1628657772654-3812001a84fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwYW54aWV0eSUyMHJlbGllZiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTEwOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow and black lego blocks" title="How to Reduce Stress Without Letting Anxiety Stop You" caption="How to Reduce Stress Without Letting Anxiety Stop You - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/yellow-and-black-lego-blocks-II1HU_N91eE)" >}}
 
 It’s important to be clear with your partner. Sign agreements, put everything in writing, and make sure you’re both on the same page. If things go wrong, you’ll have a plan. This isn’t just about business. It’s about any big step in life. Always think ahead and protect yourself, but don’t let fear stop you from moving.
 
@@ -44,8 +42,7 @@ When you do this, two things happen. First, you act much faster. Second, you fee
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, press stop, rest, stop, reenergise, sabbath, think, halt, ](https://images.unsplash.com/photo-1638344956078-0705a88ff1f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwYW54aWV0eSUyMHJlbGllZiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTEwOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reduce Stress Without Letting Anxiety Stop You")
-*How to Reduce Stress Without Letting Anxiety Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-set-of-wooden-blocks-spelling-press-and-stop-4RfVYMOPQUw)*
+{{< figure src="https://images.unsplash.com/photo-1638344956078-0705a88ff1f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwYW54aWV0eSUyMHJlbGllZiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTEwOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A set of wooden blocks press and stop" title="How to Reduce Stress Without Letting Anxiety Stop You" caption="How to Reduce Stress Without Letting Anxiety Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-set-of-wooden-blocks-spelling-press-and-stop-4RfVYMOPQUw)" >}}
 
 - Stress and anxiety often stop us from chasing our dreams.
 - If you want change, you need to act, even if you’re scared.

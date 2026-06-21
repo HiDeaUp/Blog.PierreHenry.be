@@ -12,8 +12,7 @@ original_title = "Comment être heureux. Se construire une vie incroyable"
 source_medium = "https://medium.com/@phenrysay/ef46e3e6350c"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1OTgwOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Feeling Stuck")
-*How to Build a Life You Love Without Feeling Stuck - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1OTgwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Build a Life You Love Without Feeling Stuck" caption="How to Build a Life You Love Without Feeling Stuck - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Building an incredible, even idyllic life can feel complicated. Sometimes, we just don’t know where to start. Maybe you feel lost, tired, or stuck in a job you don’t like. The classic nine-to-five can drain your energy, especially if you work even longer hours or dislike your environment. You might feel trapped, unsure how to improve your situation.
 
@@ -25,8 +24,7 @@ The third key is clarity. You need to know what you want to achieve. If you’re
 
 Imagine asking a taxi driver to take you “nowhere” or “anywhere but the sea.” He won’t know where to go. Or if you tell your GPS, “anywhere but space,” it can’t help you. The same goes for your goals and projects. Without clarity, you can’t make real progress.
 
-![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1OTgwOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Feeling Stuck")
-*How to Build a Life You Love Without Feeling Stuck - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
+{{< figure src="https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1OTgwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball" title="How to Build a Life You Love Without Feeling Stuck" caption="How to Build a Life You Love Without Feeling Stuck - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)" >}}
 
 You need to move forward, achieve things, and set goals to build the life you dream of. If you live in a fog, complain about your life, and do nothing, your life will reflect that negativity. Instead of complaining, act. There’s a saying: don’t just endure your life, be the main character in it. Be active in your daily life, not just a spectator.
 
@@ -42,8 +40,7 @@ The best time to take action is today. There’s no point in putting off what yo
 
 ---
 
-![Smiley ball in hand.](https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1OTgwOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Feeling Stuck")
-*How to Build a Life You Love Without Feeling Stuck - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)*
+{{< figure src="https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1OTgwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball in hand." title="How to Build a Life You Love Without Feeling Stuck" caption="How to Build a Life You Love Without Feeling Stuck - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)" >}}
 
 ## Key Takeaways
 

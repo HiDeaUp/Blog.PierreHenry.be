@@ -12,8 +12,7 @@ original_title = "Le secret des Safe Spaces"
 source_medium = "https://medium.com/@phenrysay/55737b401604"
 +++
 
-![Photo by Veronica](https://images.unsplash.com/photo-1734837198362-03200283379d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzYWZlJTIwc3BhY2VzJTIwZm9jdXMlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTYwODE5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Focus Without Escaping the Real World")
-*How to Find Focus Without Escaping the Real World - Photo by [Veronica](https://unsplash.com/@nika1010) on [Unsplash](https://unsplash.com/photos/a-yellow-sign-that-says-safe-place-on-it-QPdNsPD2yu8)*
+{{< figure src="https://images.unsplash.com/photo-1734837198362-03200283379d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzYWZlJTIwc3BhY2VzJTIwZm9jdXMlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTYwODE5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow sign that says safe place on it" title="How to Find Focus Without Escaping the Real World" caption="How to Find Focus Without Escaping the Real World - Photo by [Veronica](https://unsplash.com/@nika1010) on [Unsplash](https://unsplash.com/photos/a-yellow-sign-that-says-safe-place-on-it-QPdNsPD2yu8)" >}}
 
 Have you ever wondered why you feel so scattered when you try to work in a busy café, or why your mind jumps at every little noise or notification? It’s not just you—this is a part of being human. Our brains are wired to be alert to our surroundings, always on the lookout for something that might need our attention. Long ago, this helped us survive. Today, it just means we’re constantly distracted.
 
@@ -21,8 +20,7 @@ A *safe space*—or a protected environment—is a place where you can finally l
 
 When you’re in a regular place, like a café terrace in Paris, you might think you’re focused. But half your attention is always somewhere else: on the sounds, the movements, the people walking by, or the notifications on your phone. Even if you try to ignore them, your mind is still on alert, ready to react.
 
-![S A F E letter tiles](https://images.unsplash.com/photo-1586739050530-2fddeb1770d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzYWZlJTIwc3BhY2VzJTIwZm9jdXMlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTYwODE5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Focus Without Escaping the Real World")
-*How to Find Focus Without Escaping the Real World - Photo by [Clarissa Watson](https://unsplash.com/@issaphotography) on [Unsplash](https://unsplash.com/photos/brown-and-black-letter-b-letter-2gzfzR13DOQ)*
+{{< figure src="https://images.unsplash.com/photo-1586739050530-2fddeb1770d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzYWZlJTIwc3BhY2VzJTIwZm9jdXMlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTYwODE5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="S A F E letter tiles" title="How to Find Focus Without Escaping the Real World" caption="How to Find Focus Without Escaping the Real World - Photo by [Clarissa Watson](https://unsplash.com/@issaphotography) on [Unsplash](https://unsplash.com/photos/brown-and-black-letter-b-letter-2gzfzR13DOQ)" >}}
 
 But in a safe space—where you know you’re truly secure and no one will disturb you—your attention is 100% on what you’re doing. You become more productive, you make fewer mistakes, and the quality of your work goes up. It’s not magic; it’s just how our brains work best.
 
@@ -38,8 +36,7 @@ Give yourself this gift. Set up your own protected spot, turn off notifications,
 
 ---
 
-![Mental Health](https://images.unsplash.com/photo-1604480132736-44c188fe4d20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzYWZlJTIwc3BhY2VzJTIwZm9jdXMlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTYwODE5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Focus Without Escaping the Real World")
-*How to Find Focus Without Escaping the Real World - Photo by [Total Shape](https://unsplash.com/@totalshape) on [Unsplash](https://unsplash.com/photos/the-word-mental-health-spelled-with-scrabbles-next-to-a-green-leaf-Ianw4RdVuoo)*
+{{< figure src="https://images.unsplash.com/photo-1604480132736-44c188fe4d20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzYWZlJTIwc3BhY2VzJTIwZm9jdXMlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTYwODE5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health" title="How to Find Focus Without Escaping the Real World" caption="How to Find Focus Without Escaping the Real World - Photo by [Total Shape](https://unsplash.com/@totalshape) on [Unsplash](https://unsplash.com/photos/the-word-mental-health-spelled-with-scrabbles-next-to-a-green-leaf-Ianw4RdVuoo)" >}}
 
 ## Key Takeaways
 - A safe space is a protected environment where you can focus without interruptions.

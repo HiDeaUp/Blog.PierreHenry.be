@@ -12,9 +12,7 @@ original_title = "Comment agir dans sa vie ?"
 source_medium = "https://medium.com/@phenrysay/99a9444dd64b"
 +++
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBtaW5kZnVsbmVzcyUyMHRha2luZyUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDA4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Losing Your Focus")
-*How to Clear Mental Clutter Without Losing Your Focus - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBtaW5kZnVsbmVzcyUyMHRha2luZyUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDA4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Clear Mental Clutter Without Losing Your Focus" caption="How to Clear Mental Clutter Without Losing Your Focus - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ### When Distractions Take Over, What Do You Do?
 
@@ -30,8 +28,7 @@ So, how do you clear your mind? The answer is simple: throw out these mental pol
 
 Time lost to overthinking is time lost from your life. We only get one life, so why waste it letting your time slip away? Instead, act right away. Be proactive. When you have the chance to move forward or do something meaningful, take it. Life won’t wait for you. If you stay stuck in a fog of overthinking and mental overload, you’ll wake up one day and realize it’s too late to act.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBtaW5kZnVsbmVzcyUyMHRha2luZyUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDA4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Losing Your Focus")
-*How to Clear Mental Clutter Without Losing Your Focus - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBtaW5kZnVsbmVzcyUyMHRha2luZyUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDA4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Clear Mental Clutter Without Losing Your Focus" caption="How to Clear Mental Clutter Without Losing Your Focus - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Don’t just let life happen to you—start taking action. Life is full of opportunities, but you need to be disciplined to make the most of them. There’s a saying:
 
@@ -45,8 +42,7 @@ So, take this advice to heart. Your life is yours to shape. The best time to act
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992947-ece92da51cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBtaW5kZnVsbmVzcyUyMHRha2luZyUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDA4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Losing Your Focus")
-*How to Clear Mental Clutter Without Losing Your Focus - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-bWBWXiCoLvs)*
+{{< figure src="https://images.unsplash.com/photo-1695370992947-ece92da51cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBtaW5kZnVsbmVzcyUyMHRha2luZyUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDA4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Clear Mental Clutter Without Losing Your Focus" caption="How to Clear Mental Clutter Without Losing Your Focus - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-bWBWXiCoLvs)" >}}
 
 ## Key Takeaways
 - *Don’t let outside distractions pollute your mind and steal your time.*

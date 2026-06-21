@@ -12,8 +12,7 @@ original_title = "L'herbe est-elle plus verte chez le voisin ? Mon expérience"
 source_medium = "https://medium.com/@phenrysay/78115fd6daeb"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbXBhcmlzb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU4NTg5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Comparing Yourself Without Feeling Left Behind")
-*How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbXBhcmlzb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU4NTg5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Stop Comparing Yourself Without Feeling Left Behind" caption="How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Sitting on my balcony, enjoying a beautiful view and the warmth of the sun, I found myself reflecting on a question that nags at many of us: Why does it always seem like others have it better? Why do we keep thinking the grass is greener elsewhere?
 
@@ -27,8 +26,7 @@ Think of life as climbing a mountain. Each step brings you closer to the top. If
 
 Every action you take is like a domino. The more you do, the more you can do. But the biggest mistake people make is comparing their insides to other people’s outsides. You see only what others choose to show, not their struggles or setbacks. This comparison is not only unfair, it’s impossible. You might have made huge progress in the last few days or weeks, but if you keep focusing on others, you’ll miss your own achievements.
 
-![vaporboyz aesthetics](https://images.unsplash.com/photo-1538788036057-a9cb02471974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbXBhcmlzb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU4NTg5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Comparing Yourself Without Feeling Left Behind")
-*How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Kaci Kellman](https://unsplash.com/@kacikellman) on [Unsplash](https://unsplash.com/photos/white-mask-beside-plants-Jo02isHutFo)*
+{{< figure src="https://images.unsplash.com/photo-1538788036057-a9cb02471974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbXBhcmlzb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU4NTg5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="vaporboyz aesthetics" title="How to Stop Comparing Yourself Without Feeling Left Behind" caption="How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Kaci Kellman](https://unsplash.com/@kacikellman) on [Unsplash](https://unsplash.com/photos/white-mask-beside-plants-Jo02isHutFo)" >}}
 
 The real secret is the power of small, consistent actions—the compound effect. There’s a great book about this by Darren Hardy. The idea is simple: small changes, repeated over time, lead to big results. If you cut 300 calories a day, you’ll see a huge difference after a year. The same goes for reducing sugar. At first, you won’t notice much, but after a year, you’ll feel better, sleep better, and be less stressed. On the flip side, if you indulge in cake and wine every night, the negative effects add up just as quickly.
 
@@ -48,8 +46,7 @@ In the end, everything is possible if you want it enough. I truly believe you ca
 
 ---
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbXBhcmlzb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU4NTg5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Comparing Yourself Without Feeling Left Behind")
-*How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbXBhcmlzb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU4NTg5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Stop Comparing Yourself Without Feeling Left Behind" caption="How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 ## Key Takeaways
 

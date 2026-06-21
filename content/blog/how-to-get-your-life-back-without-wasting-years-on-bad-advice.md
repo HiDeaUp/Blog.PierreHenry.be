@@ -12,8 +12,7 @@ original_title = "PERDRE 4 ANS DE TA VIE. VOICI CE QUE LES AUTRES FONT QUI NE FO
 source_medium = "https://medium.com/@phenrysay/a6a760142b42"
 +++
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGVmZmVjdGl2ZW5lc3N8ZW58MHwwfHx8MTc1NTYzODg0N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Your Life Back Without Wasting Years on Bad Advice")
-*How to Get Your Life Back Without Wasting Years on Bad Advice - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGVmZmVjdGl2ZW5lc3N8ZW58MHwwfHx8MTc1NTYzODg0N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Get Your Life Back Without Wasting Years on Bad Advice" caption="How to Get Your Life Back Without Wasting Years on Bad Advice - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 Productivity is a word we hear everywhere, but what really matters is effectiveness. Many people spend years following advice that simply doesn’t work. Let’s break down what truly makes a difference, based on my own experience and what I’ve seen work for others.
 
@@ -41,8 +40,7 @@ Go to bed and wake up at the same time every day. This simple habit changes ever
 
 After your first 80-90 minute work session in the morning, treat yourself to a breakfast you love. This small reward makes it easier to start your day strong and stick to your routine.
 
-![Close-up of an analogic wristwatch.](https://images.unsplash.com/photo-1696430257997-470acf236b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGVmZmVjdGl2ZW5lc3N8ZW58MHwwfHx8MTc1NTYzODg0N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Your Life Back Without Wasting Years on Bad Advice")
-*How to Get Your Life Back Without Wasting Years on Bad Advice - Photo by [Agê Barros](https://unsplash.com/@agebarros) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-watch-with-a-black-background-526hb8GKvB8)*
+{{< figure src="https://images.unsplash.com/photo-1696430257997-470acf236b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGVmZmVjdGl2ZW5lc3N8ZW58MHwwfHx8MTc1NTYzODg0N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Close-up of an analogic wristwatch." title="How to Get Your Life Back Without Wasting Years on Bad Advice" caption="How to Get Your Life Back Without Wasting Years on Bad Advice - Photo by [Agê Barros](https://unsplash.com/@agebarros) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-watch-with-a-black-background-526hb8GKvB8)" >}}
 
 ## Cut Out Digital Distractions
 
@@ -75,8 +73,7 @@ Set a timer when making choices—five, ten, or twenty minutes depending on the 
 
 Don’t hesitate to automate repetitive tasks. Use AI tools to save time where possible. Always know what you’ll do next after finishing a task, so you don’t end up mindlessly scrolling on your phone.
 
-![This 3D artwork presents a playful and modern take on the classic alarm clock, blending functionality with creativity. The vibrant blue and yellow color scheme evokes energy and optimism, complemented by stylized stationery elements to highlight themes of productivity and time management. Ideal for use in educational visuals, branding, or creative digital projects.](https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGVmZmVjdGl2ZW5lc3N8ZW58MHwwfHx8MTc1NTYzODg0N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Your Life Back Without Wasting Years on Bad Advice")
-*How to Get Your Life Back Without Wasting Years on Bad Advice - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)*
+{{< figure src="https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGVmZmVjdGl2ZW5lc3N8ZW58MHwwfHx8MTc1NTYzODg0N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A blue alarm clock with a yellow face" title="How to Get Your Life Back Without Wasting Years on Bad Advice" caption="How to Get Your Life Back Without Wasting Years on Bad Advice - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)" >}}
 
 ## Protect Your Time Like Gold
 

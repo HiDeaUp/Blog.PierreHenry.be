@@ -12,8 +12,7 @@ original_title = "Nouvelle façon de penser💡"
 source_medium = "https://medium.com/@phenrysay/d9bb8448b852"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG5ldyUyMGV4cGVyaWVuY2VzJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE1ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Trying Something New Each Day Changes Your Life")
-*How Trying Something New Each Day Changes Your Life - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG5ldyUyMGV4cGVyaWVuY2VzJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE1ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How Trying Something New Each Day Changes Your Life" caption="How Trying Something New Each Day Changes Your Life - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Moving towards new horizons is what I want to share with you today. Every day is a chance to try something different, to step into a world that might feel a little unfamiliar. Maybe today is the day you start a new project, or you finally do something that scares you a bit. Perhaps you decide to visit a coffee shop or a restaurant you’ve never been to before. Maybe you go to a cocktail bar, alone or with someone, even if you’ve always felt a bit shy or hesitant about it.
 
@@ -25,9 +24,7 @@ One idea that has always stuck with me is this quote:
 >
 > — Søren Kierkegaard
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG5ldyUyMGV4cGVyaWVuY2VzJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE1ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Trying Something New Each Day Changes Your Life")
-*How Trying Something New Each Day Changes Your Life - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG5ldyUyMGV4cGVyaWVuY2VzJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE1ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How Trying Something New Each Day Changes Your Life" caption="How Trying Something New Each Day Changes Your Life - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 This line sums up so much. When you dare to do something new, you might feel off balance for a moment. But if you never dare, you risk losing out on life itself. So, do something new every day. Try something that makes you a little nervous. It could open doors you never imagined, spark new ideas, or give you that sudden realization: “Yes, this is what I’ve wanted to do all along.”
 
@@ -41,8 +38,7 @@ I truly wish you all the best as you try new things and stretch your comfort zon
 
 ## Key Takeaways
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG5ldyUyMGV4cGVyaWVuY2VzJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE1ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Trying Something New Each Day Changes Your Life")
-*How Trying Something New Each Day Changes Your Life - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG5ldyUyMGV4cGVyaWVuY2VzJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE1ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How Trying Something New Each Day Changes Your Life" caption="How Trying Something New Each Day Changes Your Life - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 - *Try something new every day, even if it feels a bit scary.*
 - *Stretch your comfort zone instead of staying in it.*

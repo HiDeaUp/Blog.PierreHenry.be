@@ -12,8 +12,7 @@ original_title = "Des difficultés ? Ce n'est pas de ta faute. Découvre comment
 source_medium = "https://medium.com/@phenrysay/946c5b684b3a"
 +++
 
-![Photo by Meg Jenson](https://images.unsplash.com/photo-1659200735270-69e942ae88b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1Mzg0NDU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mornings Without Extra Time or Stress")
-*How to Boost Your Mornings Without Extra Time or Stress - Photo by [Meg Jenson](https://unsplash.com/@megjenson) on [Unsplash](https://unsplash.com/photos/a-plate-of-food-sitting-on-top-of-a-wooden-table-0XQOCC1TVUo)*
+{{< figure src="https://images.unsplash.com/photo-1659200735270-69e942ae88b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1Mzg0NDU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A plate of food sitting on top of a wooden table" title="How to Boost Your Mornings Without Extra Time or Stress" caption="How to Boost Your Mornings Without Extra Time or Stress - Photo by [Meg Jenson](https://unsplash.com/@megjenson) on [Unsplash](https://unsplash.com/photos/a-plate-of-food-sitting-on-top-of-a-wooden-table-0XQOCC1TVUo)" >}}
 
 We all have those mornings when getting started feels impossible. The weight of yesterday, the endless to-do lists, and the feeling that you’re already behind before the day even begins. But what if I told you that the way you start your morning can completely change the course of your day—and even your life?
 
@@ -27,8 +26,7 @@ The key is to claim your mornings as your own. This is your time, your opportuni
 
 Imagine this: if you spend just 10 minutes a day on something important to you, by the end of the week, you’ll have dedicated 70 minutes to your growth. That’s more than an hour—a full lesson, or the beginnings of a new skill. Maybe it’s learning a language, practicing singing, building software, or mastering a new tool. Every small step adds up.
 
-![Flatlay with cup of coffee and lemons in scarf](https://images.unsplash.com/photo-1594779718805-b233af659e4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1Mzg0NDU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mornings Without Extra Time or Stress")
-*How to Boost Your Mornings Without Extra Time or Stress - Photo by [Leohoho](https://unsplash.com/@leohoho) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-with-coffee-fKbNjTir4kY)*
+{{< figure src="https://images.unsplash.com/photo-1594779718805-b233af659e4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1Mzg0NDU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Flatlay with cup of coffee and lemons in scarf" title="How to Boost Your Mornings Without Extra Time or Stress" caption="How to Boost Your Mornings Without Extra Time or Stress - Photo by [Leohoho](https://unsplash.com/@leohoho) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-with-coffee-fKbNjTir4kY)" >}}
 
 What’s more, the knowledge and skills you build can open doors you never expected. Maybe you’ll discover a rare skill that’s in high demand. Maybe you’ll find a new source of pride in yourself. The point is, these small investments in yourself pay off—not just for you, but for those around you.
 
@@ -48,8 +46,7 @@ So here’s your mission: Find one thing you can do today to invest in yourself.
 
 ---
 
-![Miniscus in recovery](https://images.unsplash.com/photo-1692263054377-1239439186c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1Mzg0NDU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mornings Without Extra Time or Stress")
-*How to Boost Your Mornings Without Extra Time or Stress - Photo by [Alan Cheung](https://unsplash.com/@alancheung) on [Unsplash](https://unsplash.com/photos/a-woman-laying-on-the-floor-in-front-of-a-window-J-KBNoOHnNM)*
+{{< figure src="https://images.unsplash.com/photo-1692263054377-1239439186c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1Mzg0NDU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Miniscus in recovery" title="How to Boost Your Mornings Without Extra Time or Stress" caption="How to Boost Your Mornings Without Extra Time or Stress - Photo by [Alan Cheung](https://unsplash.com/@alancheung) on [Unsplash](https://unsplash.com/photos/a-woman-laying-on-the-floor-in-front-of-a-window-J-KBNoOHnNM)" >}}
 
 ## Key Takeaways
 

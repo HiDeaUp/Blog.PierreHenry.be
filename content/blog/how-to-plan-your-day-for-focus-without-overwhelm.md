@@ -12,8 +12,7 @@ original_title = "Stratégies pour ses actions"
 source_medium = "https://medium.com/@phenrysay/11fe8669684b"
 +++
 
-![This 3D artwork presents a playful and modern take on the classic alarm clock, blending functionality with creativity. The vibrant blue and yellow color scheme evokes energy and optimism, complemented by stylized stationery elements to highlight themes of productivity and time management. Ideal for use in educational visuals, branding, or creative digital projects.](https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBwbGFubmluZyUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTYxMTM1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Day for Focus Without Overwhelm")
-*How to Plan Your Day for Focus Without Overwhelm - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)*
+{{< figure src="https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBwbGFubmluZyUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTYxMTM1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A blue alarm clock with a yellow face" title="How to Plan Your Day for Focus Without Overwhelm" caption="How to Plan Your Day for Focus Without Overwhelm - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)" >}}
 
 When it comes to getting things done, having a clear strategy is essential. I was recently sitting in a shopping mall, about to enjoy a plate of vegan pesto pasta, and it struck me how much of our productivity depends on how we set up our days. It’s not just about having a to-do list, but about creating a real plan that protects your focus and helps you get the most out of your time.
 
@@ -23,8 +22,7 @@ The trick is to plan your key tasks the night before or early in the morning. Wr
 
 I recommend setting aside time for this kind of strategic pause on Tuesdays or Wednesdays. These are usually the days when our minds are sharpest and we’re most productive. Fridays, on the other hand, are better for simply carrying out your plans, since by then your brain is often tired and less creative. Mondays can also be tough, as it takes a while to get back into the rhythm, and Saturdays are rarely good for deep thinking.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBwbGFubmluZyUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTYxMTM1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Day for Focus Without Overwhelm")
-*How to Plan Your Day for Focus Without Overwhelm - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBwbGFubmluZyUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTYxMTM1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Plan Your Day for Focus Without Overwhelm" caption="How to Plan Your Day for Focus Without Overwhelm - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 So, use the middle of the week to reflect and plan. Think about how you can improve your routine, and write down what really matters. Ask yourself if each task is truly worth your time. This is when you should be strategic, looking for ways to make your week better and deciding where your energy will have the most impact.
 
@@ -44,8 +42,7 @@ The key is to give your best where it counts and not spread yourself too thin. W
 
 ## Key Takeaways
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBwbGFubmluZyUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTYxMTM1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Day for Focus Without Overwhelm")
-*How to Plan Your Day for Focus Without Overwhelm - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBwbGFubmluZyUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTYxMTM1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Plan Your Day for Focus Without Overwhelm" caption="How to Plan Your Day for Focus Without Overwhelm - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 - *Plan your key tasks the night before or early in the morning.*
 - *Use Tuesdays and Wednesdays for strategic thinking and planning.*

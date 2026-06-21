@@ -12,8 +12,7 @@ original_title = "S'organiser quand on est un nomade digital [Guide 2025]"
 source_medium = "https://medium.com/@phenrysay/9f4fc21ef876"
 +++
 
-![Instagram Rules social media marketing book flatlay on desk, with iPhone, journal notebook, Kindle, pink sparkly notebook and MacBook Air laptop in rose gold. ](https://images.unsplash.com/photo-1620313926202-159eb90ec94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwbm9tYWQlMjByZW1vdGUlMjB3b3JrJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1ODczODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad")
-*How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad - Photo by [Jodie Cook](https://unsplash.com/@jodiecook) on [Unsplash](https://unsplash.com/photos/green-and-yellow-book-beside-white-computer-keyboard-pqt5JEKRJaw)*
+{{< figure src="https://images.unsplash.com/photo-1620313926202-159eb90ec94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwbm9tYWQlMjByZW1vdGUlMjB3b3JrJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1ODczODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Instagram Rules social media marketing book flatlay on desk, with iPhone, journal notebook, Kindle, pink sparkly notebook and MacBook Air laptop in rose gold." title="How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad" caption="How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad - Photo by [Jodie Cook](https://unsplash.com/@jodiecook) on [Unsplash](https://unsplash.com/photos/green-and-yellow-book-beside-white-computer-keyboard-pqt5JEKRJaw)" >}}
 
 Traveling and working at the same time is a whole different ball game. If you’re an entrepreneur, freelancer, or digital nomad, you know that every day brings a new environment—and that means your way of organizing yourself has to adapt constantly.
 
@@ -25,8 +24,7 @@ Recently, I was in Kuala Lumpur, Malaysia, after spending time in Bangkok, Thail
 
 For me, that means using music, dancing in place to boost my dopamine, taking a cold shower, going for a jog, or hitting the gym. If I need to calm down, I’ll take a hot shower, get a massage (they’re really affordable in some countries), find a cozy spot, or meditate. Sometimes, I’ll go to a sauna or jacuzzi—anything that helps me relax or recharge, depending on what I need.
 
-![A focused software developer immersed in coding and UI/UX design on a multi-monitor setup. The ambient lighting and tech aesthetics reflect a modern home office environment, capturing the essence of remote work, productivity, and digital creativity.](https://images.unsplash.com/photo-1744555270794-6d378b9e7cd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaWdpdGFsJTIwbm9tYWQlMjByZW1vdGUlMjB3b3JrJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1ODczODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad")
-*How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad - Photo by [Ilham Malik](https://unsplash.com/@ilhamalic) on [Unsplash](https://unsplash.com/photos/a-person-works-on-computer-with-multiple-monitors-WbLJd4M88I8)*
+{{< figure src="https://images.unsplash.com/photo-1744555270794-6d378b9e7cd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaWdpdGFsJTIwbm9tYWQlMjByZW1vdGUlMjB3b3JrJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1ODczODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person works on with" title="How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad" caption="How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad - Photo by [Ilham Malik](https://unsplash.com/@ilhamalic) on [Unsplash](https://unsplash.com/photos/a-person-works-on-computer-with-multiple-monitors-WbLJd4M88I8)" >}}
 
 The key is to create the mood you need, even if you’re not feeling it at first. You can manufacture motivation by repeating certain rituals or doing a small task beforehand. If you need energy, go for a run or take a cold shower. If you need to relax and think, read, hit the sauna, or get a massage. These little routines help a lot, even when you’re on the move.
 
@@ -50,8 +48,7 @@ And here’s something important: No matter where you are, even if there’s no 
 
 ---
 
-![Young woman lying on couch doing laptop work while working from home](https://images.unsplash.com/photo-1698891667843-f63ce45c696c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaWdpdGFsJTIwbm9tYWQlMjByZW1vdGUlMjB3b3JrJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1ODczODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad")
-*How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad - Photo by [Resume Genius](https://unsplash.com/@resumegenius) on [Unsplash](https://unsplash.com/photos/a-woman-laying-on-a-couch-using-a-laptop-computer-HIOB5lCMOdM)*
+{{< figure src="https://images.unsplash.com/photo-1698891667843-f63ce45c696c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaWdpdGFsJTIwbm9tYWQlMjByZW1vdGUlMjB3b3JrJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1ODczODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Young woman lying on couch doing laptop work while working from home" title="How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad" caption="How to Stay Productive Anywhere Without Losing Focus as a Digital Nomad - Photo by [Resume Genius](https://unsplash.com/@resumegenius) on [Unsplash](https://unsplash.com/photos/a-woman-laying-on-a-couch-using-a-laptop-computer-HIOB5lCMOdM)" >}}
 
 ## Action Steps
 

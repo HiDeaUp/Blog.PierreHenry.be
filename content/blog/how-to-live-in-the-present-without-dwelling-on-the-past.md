@@ -12,8 +12,7 @@ original_title = "Construire un présent durable 💪"
 source_medium = "https://medium.com/@phenrysay/114fe3fa8687"
 +++
 
-![Meditation pose ](https://images.unsplash.com/photo-1611800065908-233b597db552?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjAwNzU2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live in the Present Without Dwelling on the Past")
-*How to Live in the Present Without Dwelling on the Past - Photo by [Shashi Chaturvedula](https://unsplash.com/@thephotographermom) on [Unsplash](https://unsplash.com/photos/woman-in-white-tank-top-holding-black-chopsticks-FjYwhowyp6k)*
+{{< figure src="https://images.unsplash.com/photo-1611800065908-233b597db552?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjAwNzU2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Meditation pose" title="How to Live in the Present Without Dwelling on the Past" caption="How to Live in the Present Without Dwelling on the Past - Photo by [Shashi Chaturvedula](https://unsplash.com/@thephotographermom) on [Unsplash](https://unsplash.com/photos/woman-in-white-tank-top-holding-black-chopsticks-FjYwhowyp6k)" >}}
 
 Living in the present is not just a nice idea; it is the only reality we truly have. The present is real, sacred, and deserves to be enjoyed fully. Too often, we get stuck replaying old conversations or worrying about things that have already happened. Sometimes, we even let negative thoughts take over, pulling us away from what is happening right in front of us.
 
@@ -25,8 +24,7 @@ Of course, there is nothing wrong with enjoying good memories. Reminiscing about
 
 The same goes for the future. It is easy to fall into the trap of worrying about what might happen. But the future does not exist yet. The best way to shape your future is to make good choices now, to build the life you want step by step.
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjAwNzU2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live in the Present Without Dwelling on the Past")
-*How to Live in the Present Without Dwelling on the Past - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjAwNzU2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Live in the Present Without Dwelling on the Past" caption="How to Live in the Present Without Dwelling on the Past - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 I once wrote a note to myself:
 
@@ -42,8 +40,7 @@ Living in the present lets you build your future and create more memories worth 
 
 — Leo Buscaglia
 
-![Photo by Emrecan Dora](https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjAwNzU2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live in the Present Without Dwelling on the Past")
-*How to Live in the Present Without Dwelling on the Past - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)*
+{{< figure src="https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjAwNzU2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a log in the woods Zi" title="How to Live in the Present Without Dwelling on the Past" caption="How to Live in the Present Without Dwelling on the Past - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)" >}}
 
 > *Yesterday is history, tomorrow is a mystery, today is a gift. That is why it is called the present.*
 

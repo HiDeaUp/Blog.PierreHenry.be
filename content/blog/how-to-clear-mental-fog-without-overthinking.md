@@ -12,8 +12,7 @@ original_title = "Pollution Mentale : comment s'en libérer"
 source_medium = "https://medium.com/@phenrysay/6eb1791eb9f8"
 +++
 
-![Photo by Leandra Rieger](https://images.unsplash.com/photo-1648128095220-e3a26333f22c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MDEwNjk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Fog Without Overthinking")
-*How to Clear Mental Fog Without Overthinking - Photo by [Leandra Rieger](https://unsplash.com/@leandrarieger) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-gf08gm2quEk)*
+{{< figure src="https://images.unsplash.com/photo-1648128095220-e3a26333f22c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MDEwNjk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a table" title="How to Clear Mental Fog Without Overthinking" caption="How to Clear Mental Fog Without Overthinking - Photo by [Leandra Rieger](https://unsplash.com/@leandrarieger) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-gf08gm2quEk)" >}}
 
 Mental fog is something we all experience. It’s that heavy feeling in your head, the weight you carry from everyday stress, frustration, or even anger. Sometimes, it’s just the result of a tough day, a difficult conversation, or the stress that builds up without you even noticing. This mental load can make you feel like you’re living in a thick fog, unable to see clearly or move forward with ease.
 
@@ -25,8 +24,7 @@ That’s why it’s so important to let go at the end of the day. Find a way to 
 
 If walking isn’t your thing, try petting your cat or dog, going for a swim, hitting the gym, or doing some simple exercises. These activities help you let off steam and relax. You’ll feel much better afterward.
 
-![Photo by Angelina Sarycheva](https://images.unsplash.com/photo-1713428856048-d52b6474b5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MDEwNjk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Fog Without Overthinking")
-*How to Clear Mental Fog Without Overthinking - Photo by [Angelina Sarycheva](https://unsplash.com/@oxalife) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-the-floor-with-a-laptop-vFefVZLzQYU)*
+{{< figure src="https://images.unsplash.com/photo-1713428856048-d52b6474b5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MDEwNjk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on the floor with a laptop" title="How to Clear Mental Fog Without Overthinking" caption="How to Clear Mental Fog Without Overthinking - Photo by [Angelina Sarycheva](https://unsplash.com/@oxalife) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-the-floor-with-a-laptop-vFefVZLzQYU)" >}}
 
 I encourage you to try these simple exercises. Take time to relax and look at the events in your life differently. Instead of putting up mental barriers, see the possibilities that are open to you. Mental load limits us. It drags us down. But when you free yourself from this weight, you can breathe again and notice the good things in life.
 
@@ -44,8 +42,7 @@ It takes practice. You won’t get rid of your mental load overnight. But by bei
 > *The greatest weapon against stress is our ability to choose one thought over another.*  
 — William James
 
-![thinking quietly at the beach](https://images.unsplash.com/photo-1650862199267-ddd6106b56bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MDEwNjk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Fog Without Overthinking")
-*How to Clear Mental Fog Without Overthinking - Photo by [Chris Riggs](https://unsplash.com/@bigrig) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-dock-looking-out-at-the-water-10tIQt1BDSw)*
+{{< figure src="https://images.unsplash.com/photo-1650862199267-ddd6106b56bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MDEwNjk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="thinking quietly at the beach" title="How to Clear Mental Fog Without Overthinking" caption="How to Clear Mental Fog Without Overthinking - Photo by [Chris Riggs](https://unsplash.com/@bigrig) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-dock-looking-out-at-the-water-10tIQt1BDSw)" >}}
 
 ---
 

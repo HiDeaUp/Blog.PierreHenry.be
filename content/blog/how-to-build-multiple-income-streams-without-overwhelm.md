@@ -12,8 +12,7 @@ original_title = "Comment diversifier ses revenues ? Par où commencer ?"
 source_medium = "https://medium.com/@phenrysay/565d6a7c6916"
 +++
 
-![Rupee, Indian, India, Money, Bank Note, Bill, Business, Gandhi, Wealth, Currency, Note, Asia, Asian Bank, Banking, Finance, Investment, Rupees, Monetary, Pay, Payment, Profit, Rich, Savings,](https://images.unsplash.com/photo-1569602518783-f2003aebc672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmNvbWUlMjBkaXZlcnNpZmljYXRpb24lMjBtdWx0aXBsZSUyMGluY29tZSUyMHN0cmVhbXMlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3MzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Multiple Income Streams Without Overwhelm")
-*How to Build Multiple Income Streams Without Overwhelm - Photo by [rupixen](https://unsplash.com/@rupixen) on [Unsplash](https://unsplash.com/photos/rolled-four-indian-rupee-banknotes-fhY1hvNwRo4)*
+{{< figure src="https://images.unsplash.com/photo-1569602518783-f2003aebc672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmNvbWUlMjBkaXZlcnNpZmljYXRpb24lMjBtdWx0aXBsZSUyMGluY29tZSUyMHN0cmVhbXMlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3MzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Rolled four indian rupee" title="How to Build Multiple Income Streams Without Overwhelm" caption="How to Build Multiple Income Streams Without Overwhelm - Photo by [rupixen](https://unsplash.com/@rupixen) on [Unsplash](https://unsplash.com/photos/rolled-four-indian-rupee-banknotes-fhY1hvNwRo4)" >}}
 
 When you’re in business, it’s not always easy to see where you can go or how far you can push your limits. Imagine you’ve just launched a startup, registered your company, or started a side project. Maybe you’re an employee, or perhaps you’re a digital nomad. Either way, you want to diversify your income. You want more than one source of money, and you’re wondering where to start.
 
@@ -25,8 +24,7 @@ Another way to diversify your income is to focus on one thing at a time. Yes, yo
 
 Once you’ve got your first project going, you might want to create a service or another product. Buying and selling online is easier than ever, thanks to sites like Flippa and others. You can also look into investments, like buying stocks or ETFs (trackers). There are plenty of platforms out there. I used Interactive Brokers for a while, but there are many options. Just do a quick search online and you’ll find what you need. In France, you can use platforms like Vard, and in other countries, there are similar services.
 
-![Photo by 金 运](https://images.unsplash.com/photo-1579227114496-27346f474519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmNvbWUlMjBkaXZlcnNpZmljYXRpb24lMjBtdWx0aXBsZSUyMGluY29tZSUyMHN0cmVhbXMlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3MzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Multiple Income Streams Without Overwhelm")
-*How to Build Multiple Income Streams Without Overwhelm - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-R2qc9qGVFWI)*
+{{< figure src="https://images.unsplash.com/photo-1579227114496-27346f474519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmNvbWUlMjBkaXZlcnNpZmljYXRpb24lMjBtdWx0aXBsZSUyMGluY29tZSUyMHN0cmVhbXMlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3MzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant" title="How to Build Multiple Income Streams Without Overwhelm" caption="How to Build Multiple Income Streams Without Overwhelm - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-R2qc9qGVFWI)" >}}
 
 Monetizing your content isn’t limited to podcasts. You can also create and sell online courses on platforms like Udemy or privately through sites like Podia. The key is to have a way for people to find you—a channel where your future clients can discover your work.
 
@@ -48,8 +46,7 @@ In the end, anyone can diversify their income. The important thing is to ask you
 - Use online platforms to buy, sell, or invest.
 - Make sure people can find your work—build a channel for discovery.
 
-![Economy market euro cash exchange Romanian currency lei. Financial charts business analytics.](https://images.unsplash.com/photo-1734942718935-4f08020d70c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmNvbWUlMjBkaXZlcnNpZmljYXRpb24lMjBtdWx0aXBsZSUyMGluY29tZSUyMHN0cmVhbXMlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3MzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Multiple Income Streams Without Overwhelm")
-*How to Build Multiple Income Streams Without Overwhelm - Photo by [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) on [Unsplash](https://unsplash.com/photos/a-bunch-of-money-sitting-on-top-of-a-table-7tym9MfVNzw)*
+{{< figure src="https://images.unsplash.com/photo-1734942718935-4f08020d70c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmNvbWUlMjBkaXZlcnNpZmljYXRpb24lMjBtdWx0aXBsZSUyMGluY29tZSUyMHN0cmVhbXMlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3MzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Economy market euro cash exchange Romanian currency lei. Financial charts business analytics." title="How to Build Multiple Income Streams Without Overwhelm" caption="How to Build Multiple Income Streams Without Overwhelm - Photo by [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) on [Unsplash](https://unsplash.com/photos/a-bunch-of-money-sitting-on-top-of-a-table-7tym9MfVNzw)" >}}
 
 ## Action Steps
 

@@ -12,8 +12,7 @@ original_title = "La vérité sur le bien-être"
 source_medium = "https://medium.com/@phenrysay/14356ec455be"
 +++
 
-![Meditate](https://images.unsplash.com/photo-1706657112092-4f620e1f2cbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Daily Happiness Without Big Life Changes")
-*How to Boost Daily Happiness Without Big Life Changes - Photo by [Dust & Pixels](https://unsplash.com/@chandu029) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-meditation-on-it-niS4Tw40Ylc)*
+{{< figure src="https://images.unsplash.com/photo-1706657112092-4f620e1f2cbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Meditate" title="How to Boost Daily Happiness Without Big Life Changes" caption="How to Boost Daily Happiness Without Big Life Changes - Photo by [Dust & Pixels](https://unsplash.com/@chandu029) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-meditation-on-it-niS4Tw40Ylc)" >}}
 
 When was the last time you truly relaxed? Not just sitting on the couch scrolling through your phone, but actually taking a moment for yourself—maybe with a hot chocolate, a few biscuits, or a quiet walk outside. These small breaks are more important than we think. They’re not just about comfort; they’re about building a life that feels good, day after day.
 
@@ -23,8 +22,7 @@ You might find joy in walking through the countryside or a city park, listening 
 
 These moments aren’t wasted time. They help you step back, recharge, and see your day with fresh eyes. They’re like little islands of happiness scattered throughout your routine. And the best part? They’re yours. You choose them, you create them, and you benefit from them.
 
-![Photo by bruce mars](https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Daily Happiness Without Big Life Changes")
-*How to Boost Daily Happiness Without Big Life Changes - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)*
+{{< figure src="https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on white bed while" title="How to Boost Daily Happiness Without Big Life Changes" caption="How to Boost Daily Happiness Without Big Life Changes - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)" >}}
 
 > _Happiness is not something ready made. It comes from your own actions._
 > — Dalai Lama
@@ -42,8 +40,7 @@ If you want to go further, you can always look for ways to deepen these habits. 
 - *Simple pleasures—like a walk, a snack, or quiet reflection—can boost your happiness.*
 - *Break your day into short sessions of self-care to recharge and gain perspective.*
 
-![Pharma Hemp Complex CBD bath bombs are made with 100mgs of CBD each. Perfect for relaxing at the end of a long day.](https://images.unsplash.com/photo-1577403349502-058e4a149b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Daily Happiness Without Big Life Changes")
-*How to Boost Daily Happiness Without Big Life Changes - Photo by [Pharma Hemp Complex](https://unsplash.com/@pharmahempcomplex) on [Unsplash](https://unsplash.com/photos/purple-and-brown-labeled-box-59qoKToSLOQ)*
+{{< figure src="https://images.unsplash.com/photo-1577403349502-058e4a149b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pharma Hemp Complex CBD bath bombs are made with 100mgs of CBD each. Perfect for relaxing at the end of a long day." title="How to Boost Daily Happiness Without Big Life Changes" caption="How to Boost Daily Happiness Without Big Life Changes - Photo by [Pharma Hemp Complex](https://unsplash.com/@pharmahempcomplex) on [Unsplash](https://unsplash.com/photos/purple-and-brown-labeled-box-59qoKToSLOQ)" >}}
 
 ## Action Steps
 

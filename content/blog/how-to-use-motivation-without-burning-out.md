@@ -12,8 +12,7 @@ original_title = "Comment utiliser sa motivation à bon escient : interne et ext
 source_medium = "https://medium.com/@phenrysay/50157c38bd4b"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTY4OTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Motivation Without Burning Out")
-*How to Use Motivation Without Burning Out - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTY4OTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Use Motivation Without Burning Out" caption="How to Use Motivation Without Burning Out - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Motivation is a word we hear all the time, but few of us really stop to think about what it means for our daily lives. There’s a big difference between internal and external motivation, and understanding this can change the way you approach your work, your projects, and even your free time.
 
@@ -25,9 +24,7 @@ It’s important to know what motivates you, because we all have moments when we
 
 One way to make things easier is to optimize your environment or your routine. For example, I used to record my videos at home, indoors. It wasn’t as enjoyable. Now, I film by the bay, and even though the weather changes, I find much more pleasure in the process. The motivation is both internal (I enjoy making the videos) and external (I’m building my reputation and expertise).
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, move more, move, more, exercise, health, healthy lifestyle, step out, walk, get out of your seat, stop sitting, lazy, couch potato,
-](https://images.unsplash.com/photo-1603812079237-c3ec68eb9933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTY4OTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Motivation Without Burning Out")
-*How to Use Motivation Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-7_hT9sWPJ-A)*
+{{< figure src="https://images.unsplash.com/photo-1603812079237-c3ec68eb9933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTY4OTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter t letter A" title="How to Use Motivation Without Burning Out" caption="How to Use Motivation Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-7_hT9sWPJ-A)" >}}
 
 But when a task is only externally motivated, it’s worth asking if you can avoid it altogether, automate it, or delegate it. Life is too short to spend it doing things you don’t like. You want to be the actor in your own life, not just a spectator. We often inherit the idea that work has to be painful, but that’s not true anymore. We live in a time where it’s easier than ever to work for yourself, to choose what you want to do. Sometimes, all you need is a laptop and an internet connection, and you can enjoy your surroundings while you work.
 
@@ -47,8 +44,7 @@ So, don’t put off what you want to do. The best time to take action is now. En
 
 ---
 
-![Photo by Enric Moreu](https://images.unsplash.com/photo-1633942794721-be30e9546378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTY4OTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Motivation Without Burning Out")
-*How to Use Motivation Without Burning Out - Photo by [Enric Moreu](https://unsplash.com/@enric_moreu) on [Unsplash](https://unsplash.com/photos/a-painting-with-words-written-on-it-QrqVPirk-_A)*
+{{< figure src="https://images.unsplash.com/photo-1633942794721-be30e9546378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTY4OTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A with words written on it _A" title="How to Use Motivation Without Burning Out" caption="How to Use Motivation Without Burning Out - Photo by [Enric Moreu](https://unsplash.com/@enric_moreu) on [Unsplash](https://unsplash.com/photos/a-painting-with-words-written-on-it-QrqVPirk-_A)" >}}
 
 ## Key Takeaways
 

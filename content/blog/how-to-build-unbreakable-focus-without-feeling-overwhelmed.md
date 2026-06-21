@@ -12,8 +12,7 @@ original_title = "Un focus d'accomplissement d'acier.  Méthode Traditionnelle"
 source_medium = "https://medium.com/@phenrysay/fb1c8984049c"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMHRyYWRpdGlvbmFsJTIwbWV0aG9kfGVufDB8MHx8fDE3NTYxMTEzMzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Unbreakable Focus Without Feeling Overwhelmed")
-*How to Build Unbreakable Focus Without Feeling Overwhelmed - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMHRyYWRpdGlvbmFsJTIwbWV0aG9kfGVufDB8MHx8fDE3NTYxMTEzMzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Build Unbreakable Focus Without Feeling Overwhelmed" caption="How to Build Unbreakable Focus Without Feeling Overwhelmed - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 When you feel overwhelmed by a big task, the first thing to do is to stop and change your perspective. Instead of focusing on the long and winding road ahead, picture the final result. Imagine how you will feel once you have accomplished your goal. You might feel proud, fulfilled, and happy. This vision of success will give you the energy to get started and keep going.
 
@@ -27,8 +26,7 @@ So, tackle one thing at a time. Don’t look at the mountain of tasks waiting fo
 
 Another powerful tool is routine. If you do something every day, no matter your mood or motivation, it becomes a habit. Motivation fades, but habits last. A good habit is like a positive addiction. You do it automatically, without thinking, just like brushing your teeth. You don’t ask yourself if you feel like brushing your teeth—you just do it. That’s the same mindset you need for your important tasks, whether it’s work, studying, or even going to the gym.
 
-![While out and about at a music festival, snapped this while enjoy some good tunes!](https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMHRyYWRpdGlvbmFsJTIwbWV0aG9kfGVufDB8MHx8fDE3NTYxMTEzMzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Unbreakable Focus Without Feeling Overwhelmed")
-*How to Build Unbreakable Focus Without Feeling Overwhelmed - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)*
+{{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMHRyYWRpdGlvbmFsJTIwbWV0aG9kfGVufDB8MHx8fDE3NTYxMTEzMzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Build Unbreakable Focus Without Feeling Overwhelmed" caption="How to Build Unbreakable Focus Without Feeling Overwhelmed - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
 Even if you only have 10 or 15 minutes, use that time well. Take a short break for coffee or to pet your cat, but avoid checking your messages. Even a neutral message can steal your attention, making you feel you need to reply, which adds mental clutter and pulls you away from your main task. Keep your breaks simple and focused, then get back to work.
 
@@ -50,8 +48,7 @@ Stay focused. I’m cheering for you. Choose a space that works for you, keep di
 >
 > — James Clear
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMHRyYWRpdGlvbmFsJTIwbWV0aG9kfGVufDB8MHx8fDE3NTYxMTEzMzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Unbreakable Focus Without Feeling Overwhelmed")
-*How to Build Unbreakable Focus Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMHRyYWRpdGlvbmFsJTIwbWV0aG9kfGVufDB8MHx8fDE3NTYxMTEzMzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Build Unbreakable Focus Without Feeling Overwhelmed" caption="How to Build Unbreakable Focus Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ---
 

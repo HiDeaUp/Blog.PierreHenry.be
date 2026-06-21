@@ -12,9 +12,7 @@ original_title = "Se transformer pour réussir durablement 💪"
 source_medium = "https://medium.com/@phenrysay/bf67fd56ab2a"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, type, typography, design, layout, transform wounds into wisdom, wisdom, life, live life, move on, don't give up, transformation, life, growth, mindfulness, 
-](https://images.unsplash.com/photo-1607000975735-011d084e559c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMHRyYW5zZm9ybWF0aW9uJTIwbWVudGFsJTIwY2xhcml0eSUyMHdvcmtwbGFjZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjAwNzk3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter and Thrive at Work")
-*How to Clear Mental Clutter and Thrive at Work - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-6LSpoSyrnHA)*
+{{< figure src="https://images.unsplash.com/photo-1607000975735-011d084e559c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMHRyYW5zZm9ybWF0aW9uJTIwbWVudGFsJTIwY2xhcml0eSUyMHdvcmtwbGFjZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjAwNzk3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Clear Mental Clutter and Thrive at Work" caption="How to Clear Mental Clutter and Thrive at Work - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-6LSpoSyrnHA)" >}}
 
 ### When your mind feels heavy, transformation is possible.
 
@@ -38,8 +36,7 @@ When anxiety hits, try the 4-7-8 breathing technique. Breathe in through your no
 
 ## Focus on the Good
 
-![Photo by alvaro ortiz](https://images.unsplash.com/photo-1560930997-0694471b425b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMHRyYW5zZm9ybWF0aW9uJTIwbWVudGFsJTIwY2xhcml0eSUyMHdvcmtwbGFjZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjAwNzk3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter and Thrive at Work")
-*How to Clear Mental Clutter and Thrive at Work - Photo by [alvaro ortiz](https://unsplash.com/@furilo) on [Unsplash](https://unsplash.com/photos/silhouette-photography-of-man-sFjMDft1W9k)*
+{{< figure src="https://images.unsplash.com/photo-1560930997-0694471b425b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMHRyYW5zZm9ybWF0aW9uJTIwbWVudGFsJTIwY2xhcml0eSUyMHdvcmtwbGFjZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjAwNzk3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of man" title="How to Clear Mental Clutter and Thrive at Work" caption="How to Clear Mental Clutter and Thrive at Work - Photo by [alvaro ortiz](https://unsplash.com/@furilo) on [Unsplash](https://unsplash.com/photos/silhouette-photography-of-man-sFjMDft1W9k)" >}}
 
 Another trick: think about something positive that happened recently. Maybe a nice dinner with someone you care about, or any moment that filled you with love or joy. Focusing on these memories can instantly lift your mood and help you get back to your tasks with a better mindset. When you feel good, you do better work. It’s as simple as that.
 
@@ -61,8 +58,7 @@ If you have a huge task, break it down into smaller parts. If your goal is to ea
 
 Sometimes, your environment or the people around you aren’t supportive enough. Choose your surroundings and your company wisely. Even inviting inspiring people into your life virtually—through videos, talks, or audiobooks—can make a huge difference. Learn as much as you can in the area you want to excel in.
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMHRyYW5zZm9ybWF0aW9uJTIwbWVudGFsJTIwY2xhcml0eSUyMHdvcmtwbGFjZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjAwNzk3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter and Thrive at Work")
-*How to Clear Mental Clutter and Thrive at Work - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMHRyYW5zZm9ybWF0aW9uJTIwbWVudGFsJTIwY2xhcml0eSUyMHdvcmtwbGFjZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjAwNzk3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Clear Mental Clutter and Thrive at Work" caption="How to Clear Mental Clutter and Thrive at Work - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*
 >

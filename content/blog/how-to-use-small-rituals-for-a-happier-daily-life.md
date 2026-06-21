@@ -12,8 +12,7 @@ original_title = "Comment prendre avantage des traditions ?"
 source_medium = "https://medium.com/@phenrysay/7b7d491d651a"
 +++
 
-![Photo by Ashwini Chaudhary(Monty)](https://images.unsplash.com/photo-1576470188704-277a8734ad62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0cmFkaXRpb25zJTIwcml0dWFscyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTY1MTM4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Small Rituals for a Happier Daily Life")
-*How to Use Small Rituals for a Happier Daily Life - Photo by [Ashwini Chaudhary(Monty)](https://unsplash.com/@suicide_chewbacca) on [Unsplash](https://unsplash.com/photos/man-grilling-on-grill-plate-MgD2_l-X_f4)*
+{{< figure src="https://images.unsplash.com/photo-1576470188704-277a8734ad62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0cmFkaXRpb25zJTIwcml0dWFscyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTY1MTM4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man on grill plate MgD2_l X_f4" title="How to Use Small Rituals for a Happier Daily Life" caption="How to Use Small Rituals for a Happier Daily Life - Photo by [Ashwini Chaudhary(Monty)](https://unsplash.com/@suicide_chewbacca) on [Unsplash](https://unsplash.com/photos/man-grilling-on-grill-plate-MgD2_l-X_f4)" >}}
 
 Traditions are everywhere in our lives, even if we don’t always notice them. They can be as simple as a Sunday meal, a yearly trip, or a small daily habit. Sometimes, we follow them because we enjoy them. Other times, it’s just what we’re used to, something that feels like the foundation of who we are.
 
@@ -23,8 +22,7 @@ Traditions aren’t always about big events. They can be as small as offering bi
 
 For a long time, I had a personal tradition of spending two weekends a month as a hermit. I would check into a hotel or an Airbnb, isolate myself, and focus on creating. I wrote, published open source projects, and worked on things I couldn’t do during the busy workweek. It was a sacred time for me, and even though I do it less now, I still remember how important it was for my well-being.
 
-![Photo by Sunny Singh](https://images.unsplash.com/photo-1577635435084-473af1d5ea45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0cmFkaXRpb25zJTIwcml0dWFscyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTY1MTM4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Small Rituals for a Happier Daily Life")
-*How to Use Small Rituals for a Happier Daily Life - Photo by [Sunny Singh](https://unsplash.com/@sunnyrashmi) on [Unsplash](https://unsplash.com/photos/man-cooking-food-in-a-bonfire-Cxyahx4XrPc)*
+{{< figure src="https://images.unsplash.com/photo-1577635435084-473af1d5ea45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0cmFkaXRpb25zJTIwcml0dWFscyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTY1MTM4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man cooking food in a bonfire" title="How to Use Small Rituals for a Happier Daily Life" caption="How to Use Small Rituals for a Happier Daily Life - Photo by [Sunny Singh](https://unsplash.com/@sunnyrashmi) on [Unsplash](https://unsplash.com/photos/man-cooking-food-in-a-bonfire-Cxyahx4XrPc)" >}}
 
 Traditions can be about food, too. In my family, Sunday meant steak tartare with fries, or sometimes a roast with mustard and red berries. Maybe for you, it’s something completely different. The point is, these rituals bring people together. They create a sense of belonging and continuity.
 
@@ -40,8 +38,7 @@ If you let a tradition slip just once, it’s easy for it to disappear altogethe
 > _Sometimes the smallest rituals are the ones that make us feel most at home in the world._
 — Anonymous
 
-![Photo by SAYAK SARKAR](https://images.unsplash.com/photo-1551979122-3a33d9391335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0cmFkaXRpb25zJTIwcml0dWFscyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTY1MTM4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Small Rituals for a Happier Daily Life")
-*How to Use Small Rituals for a Happier Daily Life - Photo by [SAYAK SARKAR](https://unsplash.com/@mithai) on [Unsplash](https://unsplash.com/photos/burning-coconut-husk-on-brass-colored-pot-LHCdZtJaDTk)*
+{{< figure src="https://images.unsplash.com/photo-1551979122-3a33d9391335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0cmFkaXRpb25zJTIwcml0dWFscyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTY1MTM4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Burning coconut husk on brass colored pot" title="How to Use Small Rituals for a Happier Daily Life" caption="How to Use Small Rituals for a Happier Daily Life - Photo by [SAYAK SARKAR](https://unsplash.com/@mithai) on [Unsplash](https://unsplash.com/photos/burning-coconut-husk-on-brass-colored-pot-LHCdZtJaDTk)" >}}
 
 So, what traditions do you want to keep, or start, in your own life? Take a moment to think about it. The right rituals can bring comfort, joy, and a sense of meaning, no matter where you are or how busy life gets.
 

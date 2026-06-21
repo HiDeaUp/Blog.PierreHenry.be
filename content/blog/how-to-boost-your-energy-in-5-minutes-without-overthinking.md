@@ -12,8 +12,7 @@ original_title = "Recharge ton Énergie en 5 Minutes : Deviens Dynamique dès 
 source_medium = "https://medium.com/@phenrysay/92ae01350b3e"
 +++
 
-![healing hands](https://images.unsplash.com/photo-1515377905703-c4788e51af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBib29zdCUyMHByb2R1Y3Rpdml0eSUyMHRpcHMlMjB3ZWxsbmVzc3xlbnwwfDB8fHwxNzQ5MzI4MDQzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy in 5 Minutes Without Overthinking")
-*How to Boost Your Energy in 5 Minutes Without Overthinking - Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/photos/person-holding-amber-glass-bottle-0MoF-Fe0w0A)*
+{{< figure src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBib29zdCUyMHByb2R1Y3Rpdml0eSUyMHRpcHMlMjB3ZWxsbmVzc3xlbnwwfDB8fHwxNzQ5MzI4MDQzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="healing hands" title="How to Boost Your Energy in 5 Minutes Without Overthinking" caption="How to Boost Your Energy in 5 Minutes Without Overthinking - Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/photos/person-holding-amber-glass-bottle-0MoF-Fe0w0A)" >}}
 
 The real secret to feeling good is surprisingly simple: do things that make you happy. That’s it. But let’s be honest, it’s not always easy to put this into practice. There’s always something else demanding our attention—social pressure, distractions, or just the endless to-do list. It becomes hard to focus, to be truly present, and to do things just for ourselves—things that bring us joy without frustration.
 
@@ -23,8 +22,7 @@ Take creating a course, for example. If I work on it in the morning, it’s alwa
 
 The same goes for solving problems. Recently, I had a technical issue with my software—a DNS certificate problem that affected all my subdomains. At night, I was stuck and frustrated. But after a good night’s sleep, I woke up full of energy and found the solution right away. Sometimes, just stepping back—taking a walk, clearing your head—helps you see things differently. Suddenly, the answer appears.
 
-![Photo by Chelsea shapouri](https://images.unsplash.com/photo-1556760544-74068565f05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjBib29zdCUyMHByb2R1Y3Rpdml0eSUyMHRpcHMlMjB3ZWxsbmVzc3xlbnwwfDB8fHwxNzQ5MzI4MDQzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy in 5 Minutes Without Overthinking")
-*How to Boost Your Energy in 5 Minutes Without Overthinking - Photo by [Chelsea shapouri](https://unsplash.com/@primal_harmony) on [Unsplash](https://unsplash.com/photos/votive-candle-r40EYKVyutI)*
+{{< figure src="https://images.unsplash.com/photo-1556760544-74068565f05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjBib29zdCUyMHByb2R1Y3Rpdml0eSUyMHRpcHMlMjB3ZWxsbmVzc3xlbnwwfDB8fHwxNzQ5MzI4MDQzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Votive candle" title="How to Boost Your Energy in 5 Minutes Without Overthinking" caption="How to Boost Your Energy in 5 Minutes Without Overthinking - Photo by [Chelsea shapouri](https://unsplash.com/@primal_harmony) on [Unsplash](https://unsplash.com/photos/votive-candle-r40EYKVyutI)" >}}
 
 Life works the same way. Sometimes, we don’t know why things aren’t going well. We get stuck, and we don’t understand why we’re not moving forward. Just taking a moment to reflect, to step back and ask, “Is there a better way to do this?”—that can change everything. Most of the time, the answer is yes. There is a better way.
 
@@ -40,8 +38,7 @@ You deserve a great life. I believe in you 100%. Go for it—take action. The be
 > *“Sometimes the solution appears when you simply step back and breathe.”*  
 > — Anonymous
 
-![Follow my Instagram @karsten.wuerth](https://images.unsplash.com/photo-1451847251646-8a6c0dd1510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjBib29zdCUyMHByb2R1Y3Rpdml0eSUyMHRpcHMlMjB3ZWxsbmVzc3xlbnwwfDB8fHwxNzQ5MzI4MDQzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy in 5 Minutes Without Overthinking")
-*How to Boost Your Energy in 5 Minutes Without Overthinking - Photo by [Karsten Würth](https://unsplash.com/@karsten_wuerth) on [Unsplash](https://unsplash.com/photos/white-windmills-on-green-grass-field-under-white-clouds-and-blue-sky-ZKWgoRUYuMk)*
+{{< figure src="https://images.unsplash.com/photo-1451847251646-8a6c0dd1510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjBib29zdCUyMHByb2R1Y3Rpdml0eSUyMHRpcHMlMjB3ZWxsbmVzc3xlbnwwfDB8fHwxNzQ5MzI4MDQzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Follow my Instagram @karsten.wuerth" title="How to Boost Your Energy in 5 Minutes Without Overthinking" caption="How to Boost Your Energy in 5 Minutes Without Overthinking - Photo by [Karsten Würth](https://unsplash.com/@karsten_wuerth) on [Unsplash](https://unsplash.com/photos/white-windmills-on-green-grass-field-under-white-clouds-and-blue-sky-ZKWgoRUYuMk)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Comment Transformer Sa Vie En Modifiant DURABLEMENT & FACILEME
 source_medium = "https://medium.com/@phenrysay/b62eebeb2c17"
 +++
 
-![The word change illuminated in white and reflected on a tiled floor.](https://images.unsplash.com/photo-1631286434951-caa3dcab4d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9uJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMDY3N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Procrastinating Without Forcing Yourself to Suffer")
-*How to Stop Procrastinating Without Forcing Yourself to Suffer - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-change-5RjdYvDRNpA)*
+{{< figure src="https://images.unsplash.com/photo-1631286434951-caa3dcab4d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9uJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMDY3N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="The word change illuminated in white and reflected on a tiled floor." title="How to Stop Procrastinating Without Forcing Yourself to Suffer" caption="How to Stop Procrastinating Without Forcing Yourself to Suffer - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-change-5RjdYvDRNpA)" >}}
 
 Have you ever wondered why some tasks feel like a joy, while others seem to drain every bit of energy from you? The answer lies in understanding the difference between internal and external motivation. This simple idea can change the way you approach your work, your goals, and even your happiness.
 
@@ -23,8 +22,7 @@ External motivation, on the other hand, is when you do something for a reward th
 
 Knowing the difference is important, because it helps explain why we often put things off. When a task feels too tedious or unpleasant, it’s usually because we haven’t made it enjoyable or meaningful enough for ourselves. There’s friction at the start, and that’s when procrastination sneaks in.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740645580467-57444f093646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9uJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMDY3N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Procrastinating Without Forcing Yourself to Suffer")
-*How to Stop Procrastinating Without Forcing Yourself to Suffer - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-change-on-a-table-wVODnQtbFsM)*
+{{< figure src="https://images.unsplash.com/photo-1740645580467-57444f093646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9uJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMDY3N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A block change on a table" title="How to Stop Procrastinating Without Forcing Yourself to Suffer" caption="How to Stop Procrastinating Without Forcing Yourself to Suffer - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-change-on-a-table-wVODnQtbFsM)" >}}
 
 For example, I used to record my videos indoors. It was fine, but not very enjoyable. Now, I film by the bay, where the sun is shining and the view is beautiful. I look forward to it, and the whole process feels lighter. Even though there’s still an external motivation—I want to build my reputation and share my expertise—the internal motivation is stronger because I genuinely enjoy what I’m doing.
 
@@ -40,9 +38,7 @@ One simple trick I use to remember what I learn is to teach it to others. Explai
 >
 > — Pierre
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, quote, words, type, typography, design, layout, be the change, proactive, activism, make a difference, don't just sit there, make a change, global warming, black lives matter, personal responsibility, responsibility, with great power comes great responsibility, 
-](https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9uJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMDY3N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Procrastinating Without Forcing Yourself to Suffer")
-*How to Stop Procrastinating Without Forcing Yourself to Suffer - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-JD0D-lReHFE)*
+{{< figure src="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9uJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMDY3N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface JD0D lReHFE" title="How to Stop Procrastinating Without Forcing Yourself to Suffer" caption="How to Stop Procrastinating Without Forcing Yourself to Suffer - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-JD0D-lReHFE)" >}}
 
 So, wherever you are, enjoy the moment. Don’t wait for the “perfect” time to start. Begin today, with something that excites you, and see where it leads. You might even find that you’re building your reputation, your skills, and your happiness at the same time.
 

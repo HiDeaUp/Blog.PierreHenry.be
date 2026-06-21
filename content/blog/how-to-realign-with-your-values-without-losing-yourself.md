@@ -12,8 +12,7 @@ original_title = "Méthode pour une vie réussie 🤗"
 source_medium = "https://medium.com/@phenrysay/73d21768275e"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjB2YWx1ZXMlMjBsaWZlJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU1NjA3Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Realign With Your Values Without Losing Yourself")
-*How to Realign With Your Values Without Losing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
+{{< figure src="https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjB2YWx1ZXMlMjBsaWZlJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU1NjA3Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface WpoS C209uk" title="How to Realign With Your Values Without Losing Yourself" caption="How to Realign With Your Values Without Losing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)" >}}
 
 Have you ever noticed how easy it is to drift away from what really matters to you? We all have dreams, passions, and things that are close to our hearts. Yet, life’s routine, work demands, or social pressure can slowly push us off track. Before we know it, we’re living a life that doesn’t feel like our own. We might even realize, sometimes too late, that we’re not truly happy or fulfilled.
 
@@ -27,8 +26,7 @@ When you decide to stop doing what you dislike and return to what feels right, y
 
 ## Stand Tall—Literally and Figuratively
 
-![Photo by Guillaume de Germain](https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjB2YWx1ZXMlMjBsaWZlJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU1NjA3Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Realign With Your Values Without Losing Yourself")
-*How to Realign With Your Values Without Losing Yourself - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)*
+{{< figure src="https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjB2YWx1ZXMlMjBsaWZlJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU1NjA3Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man under orange sky" title="How to Realign With Your Values Without Losing Yourself" caption="How to Realign With Your Values Without Losing Yourself - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)" >}}
 
 It’s also important to adopt the posture of the person you want to become. If you want more confidence, stand with confidence. Your posture affects your mindset and your character. Practicing good posture—shoulders back, standing straight—can make a real difference. It’s not just about how others see you, but how you see yourself.
 
@@ -50,9 +48,7 @@ You’ll see that this changes everything. It’s one of the best keys to a happ
 >
 > — Dalai Lama
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live your best life, one life, yolo, carpe diem, mindfulness, do not waste time, just do it, move on, let it go, 
-](https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjB2YWx1ZXMlMjBsaWZlJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU1NjA3Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Realign With Your Values Without Losing Yourself")
-*How to Realign With Your Values Without Losing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)*
+{{< figure src="https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjB2YWx1ZXMlMjBsaWZlJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU1NjA3Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile that says live your best life" title="How to Realign With Your Values Without Losing Yourself" caption="How to Realign With Your Values Without Losing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)" >}}
 
 ---
 

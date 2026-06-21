@@ -12,8 +12,7 @@ original_title = "Motivation Durable : Comment Transformer Ta Vie Dès Maintena
 source_medium = "https://medium.com/@phenrysay/5ed08fbd256c"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Motivation Without Forcing Yourself")
-*How to Find Real Motivation Without Forcing Yourself - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Find Real Motivation Without Forcing Yourself" caption="How to Find Real Motivation Without Forcing Yourself - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Motivation is a word we hear everywhere, but have you ever stopped to ask yourself what truly moves you? There’s a big difference between internal and external motivation, and understanding this can change the way you approach your daily life.
 
@@ -23,8 +22,7 @@ External motivation, on the other hand, is when you do something for a reward th
 
 Why does this matter? Because we all have moments when we put things off, when we procrastinate. Often, it’s because the task feels too tedious, or we haven’t made it easy enough to start. There’s friction. For example, I used to record my videos indoors, and it just wasn’t enjoyable. Now, I film by the bay, under the sun, and I actually look forward to it. Even though there’s an external motivation—building my reputation and expertise—the internal motivation is there too, because I genuinely enjoy the process.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Motivation Without Forcing Yourself")
-*How to Find Real Motivation Without Forcing Yourself - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Find Real Motivation Without Forcing Yourself" caption="How to Find Real Motivation Without Forcing Yourself - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 But if your motivation is only external, it’s worth asking: is there a way to avoid the task altogether? Could you automate it, or delegate it to someone else? Life is too short to spend it doing things you dislike, just to get by. You want to be the main character in your own life, not just a spectator.
 
@@ -42,8 +40,7 @@ So, don’t wait for the perfect moment. The best time to take action is now. En
 > 
 > — Pierre
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Motivation Without Forcing Yourself")
-*How to Find Real Motivation Without Forcing Yourself - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Find Real Motivation Without Forcing Yourself" caption="How to Find Real Motivation Without Forcing Yourself - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 ---
 

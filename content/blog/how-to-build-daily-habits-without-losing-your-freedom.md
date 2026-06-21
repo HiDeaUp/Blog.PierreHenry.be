@@ -12,8 +12,7 @@ original_title = "Routine en mode auto-pilot. Efficacité & Réussite"
 source_medium = "https://medium.com/@phenrysay/d54fe5868ad8"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwaGFiaXRzJTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU2MDEyOTM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits Without Losing Your Freedom")
-*How to Build Daily Habits Without Losing Your Freedom - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwaGFiaXRzJTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU2MDEyOTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Build Daily Habits Without Losing Your Freedom" caption="How to Build Daily Habits Without Losing Your Freedom - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 A routine is more than just a schedule. It’s the invisible guide that shapes your day, repeating itself from morning to night. When you build a life around routines, you set yourself up to accomplish what truly matters. The secret ingredient? Discipline. There’s a famous saying: *Discipline equals freedom.* The more disciplined you are, the more freedom you create for yourself down the line.
 
@@ -25,8 +24,7 @@ Sometimes, these habits are as simple as eating unhealthy food. You know it’s 
 
 On the flip side, healthier routines create a positive cycle. Eat better, move more, and you’ll feel more energetic and fulfilled. You’ll get more done, which gives you even more energy and motivation. This is the virtuous circle you want to create. When you feel good, you say yes to more opportunities, and life seems to smile back at you. Luck isn’t something that just happens; you have to go out and create it. When you’re happy and fulfilled, you naturally attract more good things.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, embrace routine, routine, regimen, discipline, grind, chores, ordinary, get things done, empty what is full, fill what is empty,  ](https://images.unsplash.com/photo-1634545580395-316c38f794ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwaGFiaXRzJTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU2MDEyOTM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits Without Losing Your Freedom")
-*How to Build Daily Habits Without Losing Your Freedom - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-that-says-embrace-routine-on-a-white-background-CLUAe_iI6qs)*
+{{< figure src="https://images.unsplash.com/photo-1634545580395-316c38f794ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwaGFiaXRzJTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU2MDEyOTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A word that says embrace routine on a white" title="How to Build Daily Habits Without Losing Your Freedom" caption="How to Build Daily Habits Without Losing Your Freedom - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-that-says-embrace-routine-on-a-white-background-CLUAe_iI6qs)" >}}
 
 Setting up routines is key to making progress without having to rely on willpower alone. For example, if you want to read every morning, set your Kindle or book next to your breakfast spot the night before. That way, when you sit down, it’s right there, ready to go. The same goes for writing. I use a Freewrite device, which is distraction-free and perfect for drafting. No internet, just pure writing. If you prefer, you can use a Remarkable tablet or even a regular notebook. The point is to tie your desired habit to an existing routine, like writing while you have your morning coffee or evening hot chocolate.
 
@@ -48,8 +46,7 @@ Sometimes, little reminders help. I use apps to keep track of what I want to do 
 
 ## Key Takeaways
 
-![Photo by Badhon Ebrahim](https://images.unsplash.com/photo-1538865314643-9a6bcc43a12b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwaGFiaXRzJTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU2MDEyOTM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits Without Losing Your Freedom")
-*How to Build Daily Habits Without Losing Your Freedom - Photo by [Badhon Ebrahim](https://unsplash.com/@badhon_ebrahim) on [Unsplash](https://unsplash.com/photos/round-green-clock-tSVgsCfWW2M)*
+{{< figure src="https://images.unsplash.com/photo-1538865314643-9a6bcc43a12b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwaGFiaXRzJTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU2MDEyOTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Round green clock" title="How to Build Daily Habits Without Losing Your Freedom" caption="How to Build Daily Habits Without Losing Your Freedom - Photo by [Badhon Ebrahim](https://unsplash.com/@badhon_ebrahim) on [Unsplash](https://unsplash.com/photos/round-green-clock-tSVgsCfWW2M)" >}}
 
 - Routines free you from relying on motivation or mood.
 - Good habits compound over time, making you better and happier.

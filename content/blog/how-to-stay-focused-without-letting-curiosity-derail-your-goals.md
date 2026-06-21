@@ -12,8 +12,7 @@ original_title = "CE QU’IL FAUT FAIRE POUR ENTRETENIR LE CERCLE DE LA RÉUSSIT
 source_medium = "https://medium.com/@phenrysay/fe6f447bc4fd"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1Mzg2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Focused Without Letting Curiosity Derail Your Goals")
-*How to Stay Focused Without Letting Curiosity Derail Your Goals - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1Mzg2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Stay Focused Without Letting Curiosity Derail Your Goals" caption="How to Stay Focused Without Letting Curiosity Derail Your Goals - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 A few years ago, I had a realization that cost me a lot of time. I want you to be aware of it, because it might save you years of wandering in circles.
 
@@ -27,8 +26,7 @@ But here’s the thing: I didn’t get into programming and computers because of
 
 It’s so easy to lose focus. It’s so easy to want to do too many things at once. The truth is, we only have one day at a time. We can’t do everything. If you want to be good at something, you have to focus on one thing.
 
-![Nah](https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1Mzg2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Focused Without Letting Curiosity Derail Your Goals")
-*How to Stay Focused Without Letting Curiosity Derail Your Goals - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)*
+{{< figure src="https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1Mzg2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman right fist" title="How to Stay Focused Without Letting Curiosity Derail Your Goals" caption="How to Stay Focused Without Letting Curiosity Derail Your Goals - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)" >}}
 
 I’m naturally curious. Some people say that’s a strength. For me, it’s a weakness, because it makes it hard to concentrate. Curiosity is great, but you also need focus. Sometimes I have so many ideas that I try to do everything at once, and by the end of the day, I haven’t done anything concrete.
 
@@ -48,8 +46,7 @@ It’s important to surround yourself with positive people. If you can’t do it
 > *If you chase two rabbits, you will not catch either one.*
 > — Russian proverb
 
-![While out and about at a music festival, snapped this while enjoy some good tunes!](https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1Mzg2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Focused Without Letting Curiosity Derail Your Goals")
-*How to Stay Focused Without Letting Curiosity Derail Your Goals - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)*
+{{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1Mzg2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Stay Focused Without Letting Curiosity Derail Your Goals" caption="How to Stay Focused Without Letting Curiosity Derail Your Goals - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
 Stay focused. Choose one thing. Give yourself a clear goal and a deadline. Value your time. Feed your mind with positive things and people. That’s how you keep the circle of success alive.
 

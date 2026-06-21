@@ -12,8 +12,7 @@ original_title = "Le principe du self-questionnement 😶‍🌫️"
 source_medium = "https://medium.com/@phenrysay/c209a35a1434"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXF1ZXN0aW9uaW5nJTIwc2VsZi1jb2FjaGluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1Njg1MjU5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Coach Yourself to Better Decisions Without Outside Advice")
-*How to Coach Yourself to Better Decisions Without Outside Advice - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXF1ZXN0aW9uaW5nJTIwc2VsZi1jb2FjaGluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1Njg1MjU5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Coach Yourself to Better Decisions Without Outside Advice" caption="How to Coach Yourself to Better Decisions Without Outside Advice - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Have you ever noticed how we often look for answers outside ourselves, when sometimes the most powerful solutions come from within? Self-questioning is a simple yet powerful tool that can help you move forward, make better decisions, and even coach yourself to success.
 
@@ -25,8 +24,7 @@ You don’t need a duck. It could be anything—a toy, a plant, or even just you
 
 Let’s say you launched a new product page, but only a few people visited. Imagine yourself as a visitor: Would you like your own page? Would you buy your product? If you were a customer, how would you find this product? What keywords would you use on Google? Where do your potential clients spend their time online? Are you advertising in the right place?
 
-![Just an aware, present woman re-birthing/re-creating her own world anew with the power of conscious intent, aligned action, passion and creativity ... Life is/as art from the heart ❤️💃☀️📷😻](https://images.unsplash.com/photo-1675654567595-e0db4fb40017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXF1ZXN0aW9uaW5nJTIwc2VsZi1jb2FjaGluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1Njg1MjU5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Coach Yourself to Better Decisions Without Outside Advice")
-*How to Coach Yourself to Better Decisions Without Outside Advice - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-help-your-self-NiOhazjVVCA)*
+{{< figure src="https://images.unsplash.com/photo-1675654567595-e0db4fb40017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXF1ZXN0aW9uaW5nJTIwc2VsZi1jb2FjaGluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1Njg1MjU5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a sign that says help your self" title="How to Coach Yourself to Better Decisions Without Outside Advice" caption="How to Coach Yourself to Better Decisions Without Outside Advice - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-help-your-self-NiOhazjVVCA)" >}}
 
 By questioning yourself like this, you can spot mistakes and find new ideas. Maybe your customers are on Facebook, not TikTok. So why spend time and money on TikTok ads? The right questions help you move faster and smarter.
 
@@ -49,8 +47,7 @@ Once you get into the habit of self-questioning, you can coach yourself. Make a 
 - *You can coach yourself by making this a daily habit.*
 - *Try talking your problems out loud—even to a toy or object—if it helps you think clearly.*
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXF1ZXN0aW9uaW5nJTIwc2VsZi1jb2FjaGluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1Njg1MjU5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Coach Yourself to Better Decisions Without Outside Advice")
-*How to Coach Yourself to Better Decisions Without Outside Advice - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXF1ZXN0aW9uaW5nJTIwc2VsZi1jb2FjaGluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1Njg1MjU5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Coach Yourself to Better Decisions Without Outside Advice" caption="How to Coach Yourself to Better Decisions Without Outside Advice - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 ## Action Steps
 

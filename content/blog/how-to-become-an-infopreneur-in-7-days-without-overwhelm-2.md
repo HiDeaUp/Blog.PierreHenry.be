@@ -12,8 +12,7 @@ original_title = "Deviens un infopreneur en 7 jours ! Comment ?"
 source_medium = "https://medium.com/@phenrysay/b2240b555522"
 +++
 
-![Learn Online Words](https://images.unsplash.com/photo-1673515335586-f9f662c01482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjBjb3Vyc2VzJTIwa25vd2xlZGdlJTIwc2hhcmluZ3xlbnwwfDB8fHwxNzU2MDEyMjkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become an Infopreneur in 7 Days Without Overwhelm")
-*How to Become an Infopreneur in 7 Days Without Overwhelm - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/a-wooden-table-with-scrabble-tiles-spelling-learn-online-mE6ihqJsahk)*
+{{< figure src="https://images.unsplash.com/photo-1673515335586-f9f662c01482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjBjb3Vyc2VzJTIwa25vd2xlZGdlJTIwc2hhcmluZ3xlbnwwfDB8fHwxNzU2MDEyMjkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Learn Online Words" title="How to Become an Infopreneur in 7 Days Without Overwhelm" caption="How to Become an Infopreneur in 7 Days Without Overwhelm - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/a-wooden-table-with-scrabble-tiles-spelling-learn-online-mE6ihqJsahk)" >}}
 
 Have you ever thought about sharing what you know with others? Whether it’s through online courses, training videos, or even one-on-one sessions, passing on your knowledge is more important than you might think.
 
@@ -21,8 +20,7 @@ When you teach, the first thing you’ll notice is a real sense of satisfaction.
 
 But it’s not just about feeling good. Teaching forces you to organize your thoughts. It’s like watering a plant—the information in your head becomes clearer and more structured. When you prepare to explain something, you have to make it simple and understandable. This process helps you see what you really know and what you still need to work on.
 
-![Photo by Gabriella Clare Marino](https://images.unsplash.com/photo-1614899417406-e6f8485cd279?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjBjb3Vyc2VzJTIwa25vd2xlZGdlJTIwc2hhcmluZ3xlbnwwfDB8fHwxNzU2MDEyMjkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become an Infopreneur in 7 Days Without Overwhelm")
-*How to Become an Infopreneur in 7 Days Without Overwhelm - Photo by [Gabriella Clare Marino](https://unsplash.com/@gabiontheroad) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-on-white-table-3ZCkDB5B_6g)*
+{{< figure src="https://images.unsplash.com/photo-1614899417406-e6f8485cd279?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjBjb3Vyc2VzJTIwa25vd2xlZGdlJTIwc2hhcmluZ3xlbnwwfDB8fHwxNzU2MDEyMjkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White ceramic mug on white table" title="How to Become an Infopreneur in 7 Days Without Overwhelm" caption="How to Become an Infopreneur in 7 Days Without Overwhelm - Photo by [Gabriella Clare Marino](https://unsplash.com/@gabiontheroad) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-on-white-table-3ZCkDB5B_6g)" >}}
 
 Another benefit is that you start to be seen as an expert. Even if you’re not the only one who knows about a topic, being the person who teaches it puts you in a different light. Think about the first people who taught about Bitcoin or cryptocurrencies. They became well-known, not just because they knew the topic, but because they were the first to share it widely. The same goes for any new subject—if you’re among the first to teach it, you’re instantly seen as a leader.
 
@@ -40,8 +38,7 @@ So, if you’re learning something new today, don’t keep it to yourself. Write
 
 ---
 
-![Learn word](https://images.unsplash.com/photo-1673515334386-2b24073bb22f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjBjb3Vyc2VzJTIwa25vd2xlZGdlJTIwc2hhcmluZ3xlbnwwfDB8fHwxNzU2MDEyMjkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become an Infopreneur in 7 Days Without Overwhelm")
-*How to Become an Infopreneur in 7 Days Without Overwhelm - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-spelled-with-scrabble-letters-on-a-wooden-table-IQSy7cU5BxQ)*
+{{< figure src="https://images.unsplash.com/photo-1673515334386-2b24073bb22f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmZvcHJlbmV1cnNoaXAlMjBvbmxpbmUlMjBjb3Vyc2VzJTIwa25vd2xlZGdlJTIwc2hhcmluZ3xlbnwwfDB8fHwxNzU2MDEyMjkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Learn word" title="How to Become an Infopreneur in 7 Days Without Overwhelm" caption="How to Become an Infopreneur in 7 Days Without Overwhelm - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-spelled-with-scrabble-letters-on-a-wooden-table-IQSy7cU5BxQ)" >}}
 
 ## Key Takeaways
 - Teaching what you know boosts your confidence and helps you organize your thoughts.

@@ -12,8 +12,7 @@ original_title = "La vérité sur le freelance. Ce que tu dois savoir avant de d
 source_medium = "https://medium.com/@phenrysay/fabc9798f845"
 +++
 
-![Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel](https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGFkdmljZSUyMHJlbW90ZSUyMHdvcmt8ZW58MHwwfHx8MTc0OTQxNzMwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed at Freelancing Without Burning Out")
-*How to Succeed at Freelancing Without Burning Out - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw)*
+{{< figure src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGFkdmljZSUyMHJlbW90ZSUyMHdvcmt8ZW58MHwwfHx8MTc0OTQxNzMwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel" title="How to Succeed at Freelancing Without Burning Out" caption="How to Succeed at Freelancing Without Burning Out - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw)" >}}
 
 After spending years as a freelancer, I’ve gathered some experiences that I wish someone had shared with me at the start. My journey began over a decade ago, creating my own company in Manchester, UK, then moving to London, and later living in Ireland, New Zealand, and now Australia. Each place brought its own lessons, not just about work, but about people, culture, and what really makes a difference in this line of work.
 
@@ -25,8 +24,7 @@ Working with someone toxic or unpleasant can ruin your days. Some people are mor
 
 That’s why team experiences—meals, offsite events, and even small gatherings—make a big difference. In our small company of about 14 or 15 people, we can still do these things. When we grow to 50, it might not be possible anymore, so we make the most of it now.
 
-![Desktop after work](https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGFkdmljZSUyMHJlbW90ZSUyMHdvcmt8ZW58MHwwfHx8MTc0OTQxNzMwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed at Freelancing Without Burning Out")
-*How to Succeed at Freelancing Without Burning Out - Photo by [Luca Bravo](https://unsplash.com/@lucabravo) on [Unsplash](https://unsplash.com/photos/apple-macbook-beside-computer-mouse-on-table-9l_326FISzk)*
+{{< figure src="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGFkdmljZSUyMHJlbW90ZSUyMHdvcmt8ZW58MHwwfHx8MTc0OTQxNzMwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Desktop after work" title="How to Succeed at Freelancing Without Burning Out" caption="How to Succeed at Freelancing Without Burning Out - Photo by [Luca Bravo](https://unsplash.com/@lucabravo) on [Unsplash](https://unsplash.com/photos/apple-macbook-beside-computer-mouse-on-table-9l_326FISzk)" >}}
 
 The same goes for the service you offer your clients. Whether you’re a freelancer or a small startup, look for the little things that make a big difference. Create magical moments for your clients. Make them feel like they’re entering a special world when they work with you. That’s what will make them choose you over someone else. When clients know your values and commitments, they know what to expect—and they’re often willing to pay more for a unique, reliable experience.
 
@@ -44,8 +42,7 @@ The best time to take action is now. Don’t put off what you want to do. Go for
 > *“If the path is beautiful, don’t ask where it leads. Just enjoy the walk.”*  
 > —Anonymous
 
-![Taking notes at coffee time](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGFkdmljZSUyMHJlbW90ZSUyMHdvcmt8ZW58MHwwfHx8MTc0OTQxNzMwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed at Freelancing Without Burning Out")
-*How to Succeed at Freelancing Without Burning Out - Photo by [Lauren Mancke](https://unsplash.com/@laurenmancke) on [Unsplash](https://unsplash.com/photos/turned-off-macbook-pro-beside-white-ceramic-mug-filled-with-coffee-aOC7TSLb1o8)*
+{{< figure src="https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMGNhcmVlciUyMGFkdmljZSUyMHJlbW90ZSUyMHdvcmt8ZW58MHwwfHx8MTc0OTQxNzMwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Taking notes at coffee time" title="How to Succeed at Freelancing Without Burning Out" caption="How to Succeed at Freelancing Without Burning Out - Photo by [Lauren Mancke](https://unsplash.com/@laurenmancke) on [Unsplash](https://unsplash.com/photos/turned-off-macbook-pro-beside-white-ceramic-mug-filled-with-coffee-aOC7TSLb1o8)" >}}
 
 ---
 

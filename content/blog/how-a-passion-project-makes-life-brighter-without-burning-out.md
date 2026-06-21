@@ -12,8 +12,7 @@ original_title = "AVOIR UN PROJET PASSION. JE T'EXPLIQUE !"
 source_medium = "https://medium.com/@phenrysay/f9ba3003a27e"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How a Passion Project Makes Life Brighter Without Burning Out")
-*How a Passion Project Makes Life Brighter Without Burning Out - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)*
+{{< figure src="https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word passion" title="How a Passion Project Makes Life Brighter Without Burning Out" caption="How a Passion Project Makes Life Brighter Without Burning Out - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)" >}}
 
 What really makes life exciting? For me, it’s having a passion project. Passion is not just a hobby or something to fill your free time. It’s what gets you out of bed in the morning, what makes your heart beat faster, and what brings real happiness into your days.
 
@@ -23,8 +22,7 @@ When you have a passion, your days become more interesting and you feel happier.
 
 Of course, passions change over time. That’s completely normal. Think about what you loved as a child—chances are, your interests have shifted as you’ve grown. If you’re following me now, you’re probably an adult, and it’s natural for your passions and your passion projects to evolve as you do.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How a Passion Project Makes Life Brighter Without Burning Out")
-*How a Passion Project Makes Life Brighter Without Burning Out - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How a Passion Project Makes Life Brighter Without Burning Out" caption="How a Passion Project Makes Life Brighter Without Burning Out - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Maybe your job is your passion, or maybe you’ve created your own work around what you love. Even then, things will change with time. You might need to buy new domain names, use different online platforms, or even create separate accounts to keep your projects organized. For example, if you teach online, you might start with one platform and later open another account to separate your different interests.
 
@@ -40,8 +38,7 @@ That’s why it’s smart to keep your passion projects clear and organized. Cre
 >
 > — Steve Jobs
 
-![Photo by Courtney Cantu](https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How a Passion Project Makes Life Brighter Without Burning Out")
-*How a Passion Project Makes Life Brighter Without Burning Out - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)*
+{{< figure src="https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of the ground" title="How a Passion Project Makes Life Brighter Without Burning Out" caption="How a Passion Project Makes Life Brighter Without Burning Out - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)" >}}
 
 ---
 

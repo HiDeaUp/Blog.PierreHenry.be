@@ -12,8 +12,7 @@ original_title = "Les décisions éclaires qui mènent au succès 💥"
 source_medium = "https://medium.com/@phenrysay/2e9c08eeba49"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjB0aXBzJTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTYxMTAzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Better Choices Without Overthinking")
-*How to Make Better Choices Without Overthinking - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)*
+{{< figure src="https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjB0aXBzJTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTYxMTAzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says great minds alike" title="How to Make Better Choices Without Overthinking" caption="How to Make Better Choices Without Overthinking - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)" >}}
 
 We often make life much harder than it needs to be. When faced with choices, our minds tend to complicate things. We overthink, we hesitate, and the more we analyze, the more our brains invent problems that keep us stuck. Instead of moving forward, we freeze, telling ourselves, “Maybe it’s not the right choice. Maybe I should just stick to my routine.” But if you keep doing what you’ve always done, don’t expect your life to change.
 
@@ -21,8 +20,7 @@ Change only happens when you make a decision, even if it feels risky or uncomfor
 
 Imagine you’re considering a big move: maybe a new job that excites you, or a master’s degree in a foreign country. Sure, it might be expensive. You might wonder if the diploma is really worth it. But deep down, you want the experience. If you wait too long, life will pile on new responsibilities—maybe a family, maybe kids—and the window will close. Saying “not this year” can easily turn into “not ever.”
 
-![Taken at the very top of New Zealand.](https://images.unsplash.com/photo-1627686068712-36aca204758d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjB0aXBzJTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTYxMTAzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Better Choices Without Overthinking")
-*How to Make Better Choices Without Overthinking - Photo by [Joshua Harris](https://unsplash.com/@j_harris_391) on [Unsplash](https://unsplash.com/photos/a-pole-with-a-bunch-of-yellow-street-signs-on-it-BwH31YGYXho)*
+{{< figure src="https://images.unsplash.com/photo-1627686068712-36aca204758d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjB0aXBzJTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTYxMTAzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Taken at the very top of New Zealand." title="How to Make Better Choices Without Overthinking" caption="How to Make Better Choices Without Overthinking - Photo by [Joshua Harris](https://unsplash.com/@j_harris_391) on [Unsplash](https://unsplash.com/photos/a-pole-with-a-bunch-of-yellow-street-signs-on-it-BwH31YGYXho)" >}}
 
 We waste so much time hesitating. Every moment spent stuck in indecision is a moment of life lost. Sometimes, you just have to move forward. Ask yourself: Will this bring me something valuable? Maybe it’s a new skill, a higher salary, or simply the joy of learning something you care about. If the answer is yes, go for it. Trust your gut.
 
@@ -38,9 +36,7 @@ Right now, I’m in Sydney, near the Opera House. I could set a timer on my watc
 > _“The cost of not following your heart is spending the rest of your life wishing you had.”_
 > — J. Paulsen
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, think the best, think, the, best, optimism, positive thinking, don't worry, mither, don't mither, 
-](https://images.unsplash.com/photo-1603812079345-2fec46ae21b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjB0aXBzJTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTYxMTAzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Better Choices Without Overthinking")
-*How to Make Better Choices Without Overthinking - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-KZC6LjGhrco)*
+{{< figure src="https://images.unsplash.com/photo-1603812079345-2fec46ae21b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjB0aXBzJTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTYxMTAzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Make Better Choices Without Overthinking" caption="How to Make Better Choices Without Overthinking - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-KZC6LjGhrco)" >}}
 
 ---
 

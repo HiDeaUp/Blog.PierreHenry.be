@@ -12,8 +12,7 @@ original_title = "MIEUX VIVRE. LA VOIE POUR TROUVER SON IDENTITÉ"
 source_medium = "https://medium.com/@phenrysay/586e51713a51"
 +++
 
-![Photo by Trésor Kande](https://images.unsplash.com/photo-1728296944282-b63727064e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWlkZW50aXR5JTIwYXV0aGVudGljaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NjAyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Yourself Without Fearing What Others Think")
-*How to Be Yourself Without Fearing What Others Think - Photo by [Trésor Kande](https://unsplash.com/@travyskande) on [Unsplash](https://unsplash.com/photos/a-woman-taking-a-picture-of-herself-in-a-mirror-7WnIJemwFf0)*
+{{< figure src="https://images.unsplash.com/photo-1728296944282-b63727064e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWlkZW50aXR5JTIwYXV0aGVudGljaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NjAyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman taking a picture of herself in a mirror" title="How to Be Yourself Without Fearing What Others Think" caption="How to Be Yourself Without Fearing What Others Think - Photo by [Trésor Kande](https://unsplash.com/@travyskande) on [Unsplash](https://unsplash.com/photos/a-woman-taking-a-picture-of-herself-in-a-mirror-7WnIJemwFf0)" >}}
 
 Finding your true identity in life can feel like a real challenge. Many of us struggle to develop a personality that’s truly our own. Often, it’s the fear of being judged by others that holds us back. We worry that if we don’t fit in, people will reject us. Sometimes, we even fear that our own family might turn away if we show our real selves. So, we end up living in someone else’s skin, not our own. That’s the heart of the problem.
 
@@ -25,8 +24,7 @@ But let’s be honest: moving isn’t always the answer. Changing your location 
 
 Remember, this is your life. Why live someone else’s version of it? Our time here is limited. The more time you waste living for others, the more of your own life you lose. People say time is money, but it’s much more than that. Time is life. If you lose time, you lose your own life. That’s the real tragedy.
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWlkZW50aXR5JTIwYXV0aGVudGljaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NjAyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Yourself Without Fearing What Others Think")
-*How to Be Yourself Without Fearing What Others Think - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWlkZW50aXR5JTIwYXV0aGVudGljaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NjAyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Be Yourself Without Fearing What Others Think" caption="How to Be Yourself Without Fearing What Others Think - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 So, protect your time. It’s more precious than any diamond or gem. Please, live your life according to your own choices. That’s what matters most.
 
@@ -44,8 +42,7 @@ The point is, you can invite positive people into your life, even if it’s just
 >
 > — Anonymous
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWlkZW50aXR5JTIwYXV0aGVudGljaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NjAyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Yourself Without Fearing What Others Think")
-*How to Be Yourself Without Fearing What Others Think - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWlkZW50aXR5JTIwYXV0aGVudGljaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NjAyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to Be Yourself Without Fearing What Others Think" caption="How to Be Yourself Without Fearing What Others Think - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 > *The worst that can happen when you show your true self is usually nothing at all.*
 >

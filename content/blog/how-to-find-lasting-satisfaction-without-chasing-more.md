@@ -12,8 +12,7 @@ original_title = "CHEMIN DE VIE: SE DÉLIVRER DE LA RAT RACE, AUGMENTER SATISFAC
 source_medium = "https://medium.com/@phenrysay/373eedd08ae8"
 +++
 
-![Rat Reflection](https://images.unsplash.com/photo-1667835153964-3801049e5bf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwd2VsbC1iZWluZyUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc1NTUyMDk4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Lasting Satisfaction Without Chasing More")
-*How to Find Lasting Satisfaction Without Chasing More - Photo by [Patrick Kalkman](https://unsplash.com/@kalkie) on [Unsplash](https://unsplash.com/photos/a-squirrel-eating-a-nut-WSG7DwLxX6o)*
+{{< figure src="https://images.unsplash.com/photo-1667835153964-3801049e5bf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwd2VsbC1iZWluZyUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc1NTUyMDk4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Rat Reflection" title="How to Find Lasting Satisfaction Without Chasing More" caption="How to Find Lasting Satisfaction Without Chasing More - Photo by [Patrick Kalkman](https://unsplash.com/@kalkie) on [Unsplash](https://unsplash.com/photos/a-squirrel-eating-a-nut-WSG7DwLxX6o)" >}}
 
 What does it mean to be satisfied with your life? We all have our own level of satisfaction, and it’s different for everyone. It’s important not to feel completely satisfied after your very first achievement—otherwise, where would the motivation come from to keep moving forward? If you rest on your laurels too soon, you might stop growing. But the opposite is just as dangerous: if you’re never satisfied, always chasing more money, more houses, more cars, you’ll never feel fulfilled. You’ll always want more, and that hunger will follow you to the end of your days.
 
@@ -25,8 +24,7 @@ Personally, I’m lucky. I get along very well with my mother, my partner, and I
 
 Then comes the question: what’s next? What’s your path in life? If the path itself is beautiful, you don’t even need to ask where it leads—you just enjoy walking it. The real exercise is learning to savor the present. For me, I enjoy my family, my partner, my pet, my colleagues. I love making these videos, helping others live better. I have what I’d call an ideal life, but it took a lot of searching to understand what happiness really means.
 
-![Photo by Nikolett Emmert](https://images.unsplash.com/photo-1720002788376-9331f5ed3cb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwd2VsbC1iZWluZyUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc1NTUyMDk4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Lasting Satisfaction Without Chasing More")
-*How to Find Lasting Satisfaction Without Chasing More - Photo by [Nikolett Emmert](https://unsplash.com/@niki_emmert) on [Unsplash](https://unsplash.com/photos/a-couple-of-rat-eating-a-piece-of-bread-wLQboz1vkOk)*
+{{< figure src="https://images.unsplash.com/photo-1720002788376-9331f5ed3cb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwd2VsbC1iZWluZyUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc1NTUyMDk4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A couple of rat eating a piece of bread" title="How to Find Lasting Satisfaction Without Chasing More" caption="How to Find Lasting Satisfaction Without Chasing More - Photo by [Nikolett Emmert](https://unsplash.com/@niki_emmert) on [Unsplash](https://unsplash.com/photos/a-couple-of-rat-eating-a-piece-of-bread-wLQboz1vkOk)" >}}
 
 Happiness is also a matter of perception. Sometimes, we can’t bring ourselves to say, “Yes, this is good, I like this.” We always see the flaws, what’s missing, what could be better. That constant dissatisfaction can help us improve, but if we never allow ourselves to be happy with what we have, we end up frustrated. And frustration brings negative energy into our lives.
 
@@ -46,8 +44,7 @@ If the path of life is pleasant, you don’t worry about where it leads. You sim
 >
 > — Pierre
 
-![A roof rat peeks out between the railroad ties.](https://images.unsplash.com/photo-1624065935544-f9189e7ccda3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwd2VsbC1iZWluZyUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc1NTUyMDk4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Lasting Satisfaction Without Chasing More")
-*How to Find Lasting Satisfaction Without Chasing More - Photo by [Joshua J. Cotten](https://unsplash.com/@jcotten) on [Unsplash](https://unsplash.com/photos/gray-mouse-on-brown-wooden-surface-QNaBO0oHeyo)*
+{{< figure src="https://images.unsplash.com/photo-1624065935544-f9189e7ccda3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwd2VsbC1iZWluZyUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc1NTUyMDk4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A roof rat peeks out between the railroad ties." title="How to Find Lasting Satisfaction Without Chasing More" caption="How to Find Lasting Satisfaction Without Chasing More - Photo by [Joshua J. Cotten](https://unsplash.com/@jcotten) on [Unsplash](https://unsplash.com/photos/gray-mouse-on-brown-wooden-surface-QNaBO0oHeyo)" >}}
 
 ---
 

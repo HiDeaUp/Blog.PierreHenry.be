@@ -12,8 +12,7 @@ original_title = "Comment enlever des frustrations de sa tête"
 source_medium = "https://medium.com/@phenrysay/2438d789d520"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, press stop, rest, stop, reenergise, sabbath, think, halt, ](https://images.unsplash.com/photo-1638344956078-0705a88ff1f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc1NzQ2MzM5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Letting Frustration Linger")
-*How to Reset Your Mind Without Letting Frustration Linger - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-set-of-wooden-blocks-spelling-press-and-stop-4RfVYMOPQUw)*
+{{< figure src="https://images.unsplash.com/photo-1638344956078-0705a88ff1f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc1NzQ2MzM5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A set of wooden blocks press and stop" title="How to Reset Your Mind Without Letting Frustration Linger" caption="How to Reset Your Mind Without Letting Frustration Linger - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-set-of-wooden-blocks-spelling-press-and-stop-4RfVYMOPQUw)" >}}
 
 We all know those moments when frustration takes over. Maybe you made a mistake, wasted ten minutes, half an hour, or even two hours. Sometimes, a conversation with someone leaves you feeling drained and annoyed. That frustration can stick around, coloring your mood and making it hard to move on.
 
@@ -21,8 +20,7 @@ What can you do to shake off that negative energy? The answer is to wipe the sla
 
 Physical activity is one of the best ways to break the cycle. Going for a run or doing any kind of exercise helps you forget about what’s bothering you. The movement and focus on your body can clear your head. If exercise isn’t your thing, try meditation. Even a few minutes can help you let go of frustration.
 
-![A man sitting in front of window blinds](https://images.unsplash.com/photo-1747276361323-0c9b1fe43109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc1NzQ2MzM5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Letting Frustration Linger")
-*How to Reset Your Mind Without Letting Frustration Linger - Photo by [Adam Custer](https://unsplash.com/@f0xtr0t_1) on [Unsplash](https://unsplash.com/photos/a-silhouetted-person-appears-worried-and-alone-S1HZVue0heU)*
+{{< figure src="https://images.unsplash.com/photo-1747276361323-0c9b1fe43109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc1NzQ2MzM5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in front of window blinds" title="How to Reset Your Mind Without Letting Frustration Linger" caption="How to Reset Your Mind Without Letting Frustration Linger - Photo by [Adam Custer](https://unsplash.com/@f0xtr0t_1) on [Unsplash](https://unsplash.com/photos/a-silhouetted-person-appears-worried-and-alone-S1HZVue0heU)" >}}
 
 Cooking is another great option. Preparing a good meal or even just chopping vegetables can be surprisingly calming. Painting or any creative activity works too. The key is to get into your own bubble, fully absorbed in what you’re doing, so you stop ruminating on what went wrong.
 
@@ -38,8 +36,7 @@ The main idea is to do something radically different from what caused your frust
 
 ---
 
-![Photo by Towfiqu barbhuiya](https://images.unsplash.com/photo-1628088061640-9924940abb99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc1NzQ2MzM5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Letting Frustration Linger")
-*How to Reset Your Mind Without Letting Frustration Linger - Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/photos/man-in-blue-dress-shirt-UXAPylyDWlw)*
+{{< figure src="https://images.unsplash.com/photo-1628088061640-9924940abb99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWZ8ZW58MHwwfHx8MTc1NzQ2MzM5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in blue dress shirt" title="How to Reset Your Mind Without Letting Frustration Linger" caption="How to Reset Your Mind Without Letting Frustration Linger - Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/photos/man-in-blue-dress-shirt-UXAPylyDWlw)" >}}
 
 ## Key Takeaways
 - When frustration hits, change your activity to reset your mood.

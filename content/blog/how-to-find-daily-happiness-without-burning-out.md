@@ -12,8 +12,7 @@ original_title = "Motivation du Bonheur 🥹"
 source_medium = "https://medium.com/@phenrysay/362fcf840feb"
 +++
 
-![Live Colorfully [ IG: @clay.banks ]](https://images.unsplash.com/photo-1488137881216-5bea4b9bac2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtb3RpdmF0aW9uJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Burning Out")
-*How to Find Daily Happiness Without Burning Out - Photo by [Clay Banks](https://unsplash.com/@claybanks) on [Unsplash](https://unsplash.com/photos/live-colorfully-neon-signage-9UBQwEYCAbg)*
+{{< figure src="https://images.unsplash.com/photo-1488137881216-5bea4b9bac2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtb3RpdmF0aW9uJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Live Colorfully [ IG: @clay.banks ]" title="How to Find Daily Happiness Without Burning Out" caption="How to Find Daily Happiness Without Burning Out - Photo by [Clay Banks](https://unsplash.com/@claybanks) on [Unsplash](https://unsplash.com/photos/live-colorfully-neon-signage-9UBQwEYCAbg)" >}}
 
 When you look at what makes a day truly satisfying, three things stand out: motivation, energy, and rest. These are not just nice-to-haves; they are the foundation for a well-balanced life. Science backs this up, but more importantly, you can feel the difference when you get them right. Yet, so many of us drift through our days on autopilot, stuck in routines that don’t serve us. The good news is, making a change is much simpler than it seems.
 
@@ -27,8 +26,7 @@ Music can also help. Create a playlist of songs that energize you. Play it when 
 
 Another trick is to get your body moving. Jump in place, do a quick exercise, or even use a mini trampoline. Physical movement wakes up your energy and lifts your mood.
 
-![Don't Worry Be Happy](https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtb3RpdmF0aW9uJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Burning Out")
-*How to Find Daily Happiness Without Burning Out - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)*
+{{< figure src="https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtb3RpdmF0aW9uJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Don't Worry Be Happy" title="How to Find Daily Happiness Without Burning Out" caption="How to Find Daily Happiness Without Burning Out - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)" >}}
 
 ## Rest: The Forgotten Pillar
 
@@ -52,9 +50,7 @@ At the end of each day, take a moment to reflect. Was today a good day? What wen
 >
 > — Walt Disney
 
-![Daily motivation in the office - Do more of what makes you happy!
-](https://images.unsplash.com/photo-1650513737590-4a00deeddc7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtb3RpdmF0aW9uJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Burning Out")
-*How to Find Daily Happiness Without Burning Out - Photo by [dlxmedia.hu](https://unsplash.com/@dlxmedia) on [Unsplash](https://unsplash.com/photos/a-white-shelf-with-a-black-and-white-poster-and-a-potted-plant-52AgXRhDaPI)*
+{{< figure src="https://images.unsplash.com/photo-1650513737590-4a00deeddc7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtb3RpdmF0aW9uJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Daily motivation in the office - Do more of what makes you happy!" title="How to Find Daily Happiness Without Burning Out" caption="How to Find Daily Happiness Without Burning Out - Photo by [dlxmedia.hu](https://unsplash.com/@dlxmedia) on [Unsplash](https://unsplash.com/photos/a-white-shelf-with-a-black-and-white-poster-and-a-potted-plant-52AgXRhDaPI)" >}}
 
 ---
 

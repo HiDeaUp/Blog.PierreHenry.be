@@ -12,8 +12,7 @@ original_title = "ET SI TA VIE DEVENAIT PASSIONNANTE – POUR DE VRAI ?"
 source_medium = "https://medium.com/@phenrysay/92d4c47ca38d"
 +++
 
-![Photo by Guillaume de Germain](https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG92ZXJjb21pbmclMjBkb3VidCUyMGxpdmluZyUyMHdpdGglMjBwYXNzaW9ufGVufDB8MHx8fDE3NTU2NTcxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Life Exciting Without Second-Guessing Yourself")
-*How to Make Life Exciting Without Second-Guessing Yourself - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)*
+{{< figure src="https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG92ZXJjb21pbmclMjBkb3VidCUyMGxpdmluZyUyMHdpdGglMjBwYXNzaW9ufGVufDB8MHx8fDE3NTU2NTcxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man under orange sky" title="How to Make Life Exciting Without Second-Guessing Yourself" caption="How to Make Life Exciting Without Second-Guessing Yourself - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)" >}}
 
 We all want to enjoy life, to savor every moment, to feel that spark of excitement in our daily routine. But sometimes, we lose our way. There are days when we don’t know where we’re heading, or if the choices we’re making are the right ones. When you’re lost, when doubt settles in, it’s like standing on a line between total confidence and complete uncertainty. Most people live somewhere on that line, not fully sure, not completely lost, but always wavering.
 
@@ -23,8 +22,7 @@ Being stuck means you’re not fully present, but you’re not completely absent
 
 So, how do you stop doubting? The answer is to look for the positive, to think bigger, to believe that hope is possible. Yes, life brings its share of worries, but worrying solves nothing. Instead, create something. Take action. Connect with the right people. Build something new. Put your doubts aside for now and move forward. Run instead of standing still. Don’t tell yourself you’ve already lost the race. If you didn’t win this time, keep going. Keep practicing. The next time, you might win. And if not, keep going anyway. Be the kind of person who doesn’t give up.
 
-![Young woman in the Anza Borrego Desert.](https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG92ZXJjb21pbmclMjBkb3VidCUyMGxpdmluZyUyMHdpdGglMjBwYXNzaW9ufGVufDB8MHx8fDE3NTU2NTcxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Life Exciting Without Second-Guessing Yourself")
-*How to Make Life Exciting Without Second-Guessing Yourself - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)*
+{{< figure src="https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG92ZXJjb21pbmclMjBkb3VidCUyMGxpdmluZyUyMHdpdGglMjBwYXNzaW9ufGVufDB8MHx8fDE3NTU2NTcxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Young woman in the Anza Borrego Desert." title="How to Make Life Exciting Without Second-Guessing Yourself" caption="How to Make Life Exciting Without Second-Guessing Yourself - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)" >}}
 
 Persistence pays off. Even if you didn’t win the last race, you have another chance. Always look for the next opportunity. Ask yourself what else you can do, how you can land on your feet after a setback. The past is done. Instead of asking, “Why did this happen?” or “Why did I do that?”—which is just mental rumination—focus on what you can do next time to avoid repeating the same mistake.
 
@@ -42,8 +40,7 @@ Always ask yourself: What can I do better now? How can I improve? How can I keep
 
 ## Key Takeaways
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG92ZXJjb21pbmclMjBkb3VidCUyMGxpdmluZyUyMHdpdGglMjBwYXNzaW9ufGVufDB8MHx8fDE3NTU2NTcxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Life Exciting Without Second-Guessing Yourself")
-*How to Make Life Exciting Without Second-Guessing Yourself - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG92ZXJjb21pbmclMjBkb3VidCUyMGxpdmluZyUyMHdpdGglMjBwYXNzaW9ufGVufDB8MHx8fDE3NTU2NTcxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Make Life Exciting Without Second-Guessing Yourself" caption="How to Make Life Exciting Without Second-Guessing Yourself - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 - Doubt can freeze you in place and drain the joy from your days.
 - Worrying solves nothing; action and creation are the antidotes.

@@ -12,8 +12,7 @@ original_title = "Comment GRAVIR les étapes vers la réussite ?"
 source_medium = "https://medium.com/@phenrysay/09eb9680ff16"
 +++
 
-![Photo by Alex Hudson](https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc0OTQwODU5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Getting Stuck in Old Habits")
-*How to Make Progress Without Getting Stuck in Old Habits - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)*
+{{< figure src="https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc0OTQwODU5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiling man holding cup and using" title="How to Make Progress Without Getting Stuck in Old Habits" caption="How to Make Progress Without Getting Stuck in Old Habits - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)" >}}
 
 If there’s one thing that has truly changed my life, it’s the habit of questioning myself and always being on the lookout for new solutions. This mindset has completely transformed not just the way I organize my days, but also how I approach challenges—especially as a freelancer, independent worker, or entrepreneur.
 
@@ -21,8 +20,7 @@ When you work for yourself, you can’t afford to get stuck in the same old patt
 
 Let me give you a simple example. Imagine you have a table and a couch in your living room. You might think, “I can’t buy new furniture because there’s no space.” But maybe you don’t actually need that table anymore. Maybe you could give it to a neighbor, even if it cost you money. Or you could sell it. The point isn’t about furniture—it’s about not letting excuses hold you back.
 
-![…breathe! For a full size digital copy (6000x4000px RAW+JPG) of this file, or a high quality print, please contact me via instagram: @timothy.j.g, or email: tim@goedhart-lin.nl That file would be free to use for any means except direct reselling (copywrite is included in metadata). When using this free image online: please tag, credit and if you want, follow me on Instagram.](https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc0OTQwODU5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Getting Stuck in Old Habits")
-*How to Make Progress Without Getting Stuck in Old Habits - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)*
+{{< figure src="https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc0OTQwODU5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe neon signage" title="How to Make Progress Without Getting Stuck in Old Habits" caption="How to Make Progress Without Getting Stuck in Old Habits - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)" >}}
 
 There are always ways to move forward. Don’t stop yourself just because things aren’t perfect. If you keep doing what you’ve always done, don’t expect your life to change. You have to keep looking for new solutions if you want a life that truly suits you—a life you enjoy and that reflects who you are.
 
@@ -36,8 +34,7 @@ The real difference comes from being proactive. Instead of waiting for things to
 
 ---
 
-![Photo by Alisa Anton](https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc0OTQwODU5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Getting Stuck in Old Habits")
-*How to Make Progress Without Getting Stuck in Old Habits - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)*
+{{< figure src="https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc0OTQwODU5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of gel candle on board beside pillow u_z0X yrJIE" title="How to Make Progress Without Getting Stuck in Old Habits" caption="How to Make Progress Without Getting Stuck in Old Habits - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)" >}}
 
 ## Key Takeaways
 - Always question yourself and look for new solutions.

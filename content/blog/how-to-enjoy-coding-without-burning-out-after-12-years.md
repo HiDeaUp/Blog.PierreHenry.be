@@ -12,8 +12,7 @@ original_title = "12 Years in, Here’s How I Finally Enjoy My Work"
 source_medium = "https://medium.com/@phenrysay/b41c9a6576c6"
 +++
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjB3b3JrJTIwc2F0aXNmYWN0aW9ufGVufDB8MHx8fDE3NjcwNTYyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Coding Without Burning Out After 12 Years")
-*How to Enjoy Coding Without Burning Out After 12 Years - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjB3b3JrJTIwc2F0aXNmYWN0aW9ufGVufDB8MHx8fDE3NjcwNTYyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="How to Enjoy Coding Without Burning Out After 12 Years" caption="How to Enjoy Coding Without Burning Out After 12 Years - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 Let’s get real for a second: if you want to actually enjoy your job as a software engineer, you have to manage your time well. I’m not talking about some productivity guru nonsense. I mean, if you’re always distracted, you’ll feel like you’re not good enough and you won’t see any real progress. That’s just how it is.
 
@@ -27,8 +26,7 @@ It’s like eating junk pizza every day. You think it’s normal until you try r
 
 Some engineers love big monitors. I get it. Those curved screens are awesome. It’s like looking into a fish tank—huge, immersive, and it actually helps you focus. Sure, it costs money, but if it makes you happier and more productive, it’s worth it. Most companies will even chip in for a good monitor or a nice chair. Standing desks? Game changer.
 
-![Photo by Nguyen Dang Hoang Nhu](https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjB3b3JrJTIwc2F0aXNmYWN0aW9ufGVufDB8MHx8fDE3NjcwNTYyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Coding Without Burning Out After 12 Years")
-*How to Enjoy Coding Without Burning Out After 12 Years - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)*
+{{< figure src="https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjB3b3JrJTIwc2F0aXNmYWN0aW9ufGVufDB8MHx8fDE3NjcwNTYyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy in blue t shirt sitting on black office rolling chair in front of F" title="How to Enjoy Coding Without Burning Out After 12 Years" caption="How to Enjoy Coding Without Burning Out After 12 Years - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)" >}}
 
 And if you need to, go to a co-working space. Even if you have to pay for it yourself, if it makes your workday more enjoyable, it’s worth every cent. Health isn’t just about your body. It’s about being happy and positive, too. We work 40, 50, sometimes 60 hours a week. Those hours add up. If you’re not happy, you’ll be slower, less motivated, and you won’t be able to give 100 percent.
 
@@ -46,8 +44,7 @@ Having a personal career path is crucial. Know where you want to go. Otherwise, 
 
 ---
 
-![A smiling man wearing glasses and a green jacket works at his computer in a modern office filled with screens, creating a vibrant and productive tech workspace atmosphere.](https://images.unsplash.com/photo-1737575655055-e3967cbefd03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjB3b3JrJTIwc2F0aXNmYWN0aW9ufGVufDB8MHx8fDE3NjcwNTYyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Coding Without Burning Out After 12 Years")
-*How to Enjoy Coding Without Burning Out After 12 Years - Photo by [litoon dev](https://unsplash.com/@litoondev) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-front-of-a-computer-monitor-4uLggtgBBCo)*
+{{< figure src="https://images.unsplash.com/photo-1737575655055-e3967cbefd03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjB3b3JrJTIwc2F0aXNmYWN0aW9ufGVufDB8MHx8fDE3NjcwNTYyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A smiling man wearing glasses and a green jacket works at his computer in a modern office filled with screens, creating a vibrant and productive tech workspace atmosphere." title="How to Enjoy Coding Without Burning Out After 12 Years" caption="How to Enjoy Coding Without Burning Out After 12 Years - Photo by [litoon dev](https://unsplash.com/@litoondev) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-front-of-a-computer-monitor-4uLggtgBBCo)" >}}
 
 ## Key Takeaways
 

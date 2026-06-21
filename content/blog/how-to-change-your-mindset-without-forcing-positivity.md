@@ -12,8 +12,7 @@ original_title = "Qui d'autre veut changer son mindset néfaste ? Cela a tout ch
 source_medium = "https://medium.com/@phenrysay/fd0b65a868eb"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTcyNzE3MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Mindset Without Forcing Positivity")
-*How to Change Your Mindset Without Forcing Positivity - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)*
+{{< figure src="https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTcyNzE3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says great minds alike" title="How to Change Your Mindset Without Forcing Positivity" caption="How to Change Your Mindset Without Forcing Positivity - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)" >}}
 
 Changing the way we see things is like putting on a new pair of glasses. Suddenly, the world looks different. Every single thing we notice is connected to who we are, our personality, our upbringing, and especially our past experiences. The way we react to events is shaped by our unique set of values. What shocks one person might not even faze another. Something that feels like the end of the world to someone might be just a minor annoyance to someone else.
 
@@ -21,8 +20,7 @@ Our perception can hold us back. Sometimes, it feels like dragging a heavy ball 
 
 But not everyone reacts the same way. Imagine crossing the street outside the crosswalk and a car honks at you. One person might feel attacked and get upset, while another might see it as the driver looking out for their safety. There are countless ways to interpret the same situation.
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTcyNzE3MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Mindset Without Forcing Positivity")
-*How to Change Your Mindset Without Forcing Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTcyNzE3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Change Your Mindset Without Forcing Positivity" caption="How to Change Your Mindset Without Forcing Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Take another example: you go to a restaurant and the server isn’t friendly. You could think, “They hate their job,” or you could give them a compliment and see them light up with a smile. Or you might decide the place is terrible and respond with the same attitude you received. The way you choose to react can change the whole experience.
 
@@ -36,8 +34,7 @@ There’s always something to prioritize. Sometimes, you want to stick with what
 > *“Change the way you look at things and the things you look at change.”*  
 — Wayne Dyer
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740560052676-239e0f8b1fc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTcyNzE3MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Mindset Without Forcing Positivity")
-*How to Change Your Mindset Without Forcing Positivity - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-block-that-says-thought-E6P_bUs3WNQ)*
+{{< figure src="https://images.unsplash.com/photo-1740560052676-239e0f8b1fc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTcyNzE3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a block that says thought" title="How to Change Your Mindset Without Forcing Positivity" caption="How to Change Your Mindset Without Forcing Positivity - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-block-that-says-thought-E6P_bUs3WNQ)" >}}
 
 Changing your mindset isn’t about ignoring problems. It’s about seeing them differently, so you can act in a way that actually moves you forward. The way you interpret your daily experiences can either weigh you down or help you grow. The choice is yours.
 

@@ -12,8 +12,7 @@ original_title = "Secret sur les sentiments"
 source_medium = "https://medium.com/@phenrysay/4b49e7b99804"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZW5zaXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTE1MTc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Sensitivity Into Your Secret Strength")
-*How to Turn Sensitivity Into Your Secret Strength - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZW5zaXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTE1MTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Turn Sensitivity Into Your Secret Strength" caption="How to Turn Sensitivity Into Your Secret Strength - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 Let’s talk about feelings. Not the kind you see in movies, but those real, everyday emotions that sometimes hit you out of nowhere. Maybe you wake up feeling a bit off, or sadness creeps in for no clear reason. It happens to all of us. Life is meant to be lived fully, to be enjoyed, and to be used for all the things you want to do. There’s so much you can change and so much you can impact, if you really want to.
 
@@ -23,8 +22,7 @@ Or maybe you want to start a popcorn food truck, selling cheese popcorn on a bus
 
 But here’s the thing: feelings can get in the way. You have to separate your business life from your personal life. If something fails, it’s not the end of the world. It’s not you. You learn from your mistakes and keep moving forward.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704793602305-78afd16cc043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZW5zaXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTE1MTc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Sensitivity Into Your Secret Strength")
-*How to Turn Sensitivity Into Your Secret Strength - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-sympathy-on-a-wooden-surface-Bri-gOu1X20)*
+{{< figure src="https://images.unsplash.com/photo-1704793602305-78afd16cc043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZW5zaXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTE1MTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word on a wooden surface Bri gOu1X20" title="How to Turn Sensitivity Into Your Secret Strength" caption="How to Turn Sensitivity Into Your Secret Strength - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-sympathy-on-a-wooden-surface-Bri-gOu1X20)" >}}
 
 We’re all sensitive, in our own way. Sometimes, that sensitivity slows us down or makes us dwell on things longer than we should. It can even make us weaker, just because we feel things more deeply than others. Sometimes, we’re sensitive for our loved ones, or even for people we barely know. And that’s where it gets tricky.
 
@@ -41,8 +39,7 @@ If you take anything from this, let it be this: we’re all sensitive, and that�
 > _“Sensitivity is not a weakness. It’s the ability to feel deeply, to notice what others miss, and to turn pain into growth.”_
 — Anonymous
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740645580543-c02585143b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZW5zaXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTE1MTc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Sensitivity Into Your Secret Strength")
-*How to Turn Sensitivity Into Your Secret Strength - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-empathhy-on-a-table--q8MdTL2998)*
+{{< figure src="https://images.unsplash.com/photo-1740645580543-c02585143b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZW5zaXRpdml0eSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTE1MTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word on a table" title="How to Turn Sensitivity Into Your Secret Strength" caption="How to Turn Sensitivity Into Your Secret Strength - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-empathhy-on-a-table--q8MdTL2998)" >}}
 
 > _“Don’t let someone who doesn’t know your story write your ending.”_
 — Unknown

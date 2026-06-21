@@ -12,8 +12,7 @@ original_title = "Peut-on vraiment se dépasser ? Mon avis définitif"
 source_medium = "https://medium.com/@phenrysay/07ebe4193006"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Surpass Yourself Without Ignoring Past Successes")
-*How to Surpass Yourself Without Ignoring Past Successes - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Surpass Yourself Without Ignoring Past Successes" caption="How to Surpass Yourself Without Ignoring Past Successes - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Surpassing yourself is more than a motivational slogan—it’s a way of living that keeps you moving forward, always reaching for something greater. When you push your limits, you’re not just settling for what you’ve already achieved. You’re asking yourself: “Is this really all I can do? Could I go further?” It’s not about dismissing your past successes, but about recognizing that there’s always room for more, for better, for growth.
 
@@ -25,8 +24,7 @@ But it’s not just about content. It’s about impact. What you do should make 
 
 It’s so easy to drift away from your goals. Maybe you start your day with a plan, but then you break your routine, lose your focus, and forget what you set out to do. That’s the trap: distractions everywhere, the “shiny object syndrome” where something new always seems more interesting than what you’re working on. Suddenly, your own project feels boring, and you’re tempted to jump ship.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Surpass Yourself Without Ignoring Past Successes")
-*How to Surpass Yourself Without Ignoring Past Successes - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Surpass Yourself Without Ignoring Past Successes" caption="How to Surpass Yourself Without Ignoring Past Successes - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 But the real secret is consistency. Stick with what you’re doing. Be persistent, even when it feels repetitive. That’s what changes everything. If you keep your routine—wake up at the same time, work on your priorities first thing, stay disciplined—you’ll go much further than you think.
 
@@ -46,8 +44,7 @@ And don’t forget: big tasks are just a series of small steps. Break them down.
 >
 > — Vincent Van Gogh
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Surpass Yourself Without Ignoring Past Successes")
-*How to Surpass Yourself Without Ignoring Past Successes - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Surpass Yourself Without Ignoring Past Successes" caption="How to Surpass Yourself Without Ignoring Past Successes - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 ---
 

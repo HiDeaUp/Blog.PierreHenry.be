@@ -12,8 +12,7 @@ original_title = "Comment je construis mes expériences de vie ? ⚡️"
 source_medium = "https://medium.com/@phenrysay/1384d415383a"
 +++
 
-![Photo by Vitalii Onyshchuk](https://images.unsplash.com/photo-1711990416792-9f7346695873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1lbW9yaWVzfGVufDB8MHx8fDE3NTU2Mzk3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How I Build Memories That Matter Without Buying More Stuff")
-*How I Build Memories That Matter Without Buying More Stuff - Photo by [Vitalii Onyshchuk](https://unsplash.com/@true_zuzu) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-flower-in-front-of-a-waterfall-yccSe6Al1zg)*
+{{< figure src="https://images.unsplash.com/photo-1711990416792-9f7346695873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1lbW9yaWVzfGVufDB8MHx8fDE3NTU2Mzk3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a flower in front of a" title="How I Build Memories That Matter Without Buying More Stuff" caption="How I Build Memories That Matter Without Buying More Stuff - Photo by [Vitalii Onyshchuk](https://unsplash.com/@true_zuzu) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-flower-in-front-of-a-waterfall-yccSe6Al1zg)" >}}
 
 When I think about what truly matters in life, I always come back to one thing: investing in experiences. Life experiences are what count the most. Instead of spending money on random gadgets or things that just end up lying around, I focus on what brings real value to my life.
 
@@ -23,8 +22,7 @@ Instead, I put aside 5, 10, or even 20 percent of my income into a separate bank
 
 What does that look like? It could be traveling, spending a weekend at a five-star hotel with a great spa and jacuzzi, or simply treating yourself to something special that creates memories. The key is to spend on experiences, not things that will just clutter your life. Sure, buying something new feels exciting at first, but after a day or two, we often forget about it. Experiences, on the other hand, stay with us forever.
 
-![Dreamer portrait the back.](https://images.unsplash.com/photo-1483507793184-3ad22c13c190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1lbW9yaWVzfGVufDB8MHx8fDE3NTU2Mzk3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How I Build Memories That Matter Without Buying More Stuff")
-*How I Build Memories That Matter Without Buying More Stuff - Photo by [Larm Rmah](https://unsplash.com/@larm) on [Unsplash](https://unsplash.com/photos/woman-wearing-red-shirt-with-white-flower-on-back-NiHWeIgI-tc)*
+{{< figure src="https://images.unsplash.com/photo-1483507793184-3ad22c13c190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1lbW9yaWVzfGVufDB8MHx8fDE3NTU2Mzk3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Dreamer portrait the back." title="How I Build Memories That Matter Without Buying More Stuff" caption="How I Build Memories That Matter Without Buying More Stuff - Photo by [Larm Rmah](https://unsplash.com/@larm) on [Unsplash](https://unsplash.com/photos/woman-wearing-red-shirt-with-white-flower-on-back-NiHWeIgI-tc)" >}}
 
 Think about a trip to Antarctica, a journey to Costa Rica, or even taking a language course in another country. It could be a cooking class in your own city, learning Italian cuisine, or anything else that gives you a sense of immersion. Investing in experiences is the real key.
 
@@ -40,8 +38,7 @@ I've noticed something important: people who struggle financially often spend th
 
 ## Key Takeaways
 
-![Photo by Dawn Lio](https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1lbW9yaWVzfGVufDB8MHx8fDE3NTU2Mzk3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How I Build Memories That Matter Without Buying More Stuff")
-*How I Build Memories That Matter Without Buying More Stuff - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)*
+{{< figure src="https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1lbW9yaWVzfGVufDB8MHx8fDE3NTU2Mzk3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden log with yellow flower" title="How I Build Memories That Matter Without Buying More Stuff" caption="How I Build Memories That Matter Without Buying More Stuff - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)" >}}
 
 - Spend less on things, more on experiences that create lasting memories.
 - Set aside a percentage of your income just for life experiences.

@@ -12,8 +12,7 @@ original_title = "La technique du nourrissage positif du cerveau"
 source_medium = "https://medium.com/@phenrysay/328512e5f7d3"
 +++
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMHRoaW5raW5nJTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI1MDA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feed Your Mind for a Happier Life Without Toxic Positivity")
-*How to Feed Your Mind for a Happier Life Without Toxic Positivity - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMHRoaW5raW5nJTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI1MDA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Feed Your Mind for a Happier Life Without Toxic Positivity" caption="How to Feed Your Mind for a Happier Life Without Toxic Positivity - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 When we talk about personal nourishment, it’s not just about food or exercise. It’s about feeding your well-being, your soul, and your true self. This is essential, because the way you see things—whether you focus on the positive or the negative—changes everything. If you always see the glass as half full, your whole world shifts.
 
@@ -27,8 +26,7 @@ Personal nourishment means feeding your soul. It’s about knowing yourself—yo
 
 It’s also about being open-minded. Don’t judge others just because they’re different. Everyone has their own background and way of seeing the world. What’s normal for you might be strange for someone else, and vice versa. If we all made the effort to see things from another person’s perspective, the world would be a much better place. Misunderstandings often happen because we’re stuck in our own way of thinking. Sometimes, someone’s bad mood has nothing to do with you at all.
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMHRoaW5raW5nJTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI1MDA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feed Your Mind for a Happier Life Without Toxic Positivity")
-*How to Feed Your Mind for a Happier Life Without Toxic Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMHRoaW5raW5nJTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI1MDA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Feed Your Mind for a Happier Life Without Toxic Positivity" caption="How to Feed Your Mind for a Happier Life Without Toxic Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Open-mindedness lifts us up. It helps us stay one step ahead and support each other. If you want to succeed at something, surround yourself with people who have already done it. If you want to be a famous actor, live with people in the film industry. If you want to launch a startup, join a co-living space or a “hacker house” with others who share your goals. Even if you don’t talk to millionaires, just living around them lets you observe their routines and energy, and you start to pick up their habits.
 
@@ -48,8 +46,7 @@ So, keep nourishing your mind and soul. Stay positive, stay open, and keep learn
 
 ---
 
-![Mental Health](https://images.unsplash.com/photo-1604480132736-44c188fe4d20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMHRoaW5raW5nJTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI1MDA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feed Your Mind for a Happier Life Without Toxic Positivity")
-*How to Feed Your Mind for a Happier Life Without Toxic Positivity - Photo by [Total Shape](https://unsplash.com/@totalshape) on [Unsplash](https://unsplash.com/photos/the-word-mental-health-spelled-with-scrabbles-next-to-a-green-leaf-Ianw4RdVuoo)*
+{{< figure src="https://images.unsplash.com/photo-1604480132736-44c188fe4d20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMHRoaW5raW5nJTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI1MDA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health" title="How to Feed Your Mind for a Happier Life Without Toxic Positivity" caption="How to Feed Your Mind for a Happier Life Without Toxic Positivity - Photo by [Total Shape](https://unsplash.com/@totalshape) on [Unsplash](https://unsplash.com/photos/the-word-mental-health-spelled-with-scrabbles-next-to-a-green-leaf-Ianw4RdVuoo)" >}}
 
 ## Key Takeaways
 

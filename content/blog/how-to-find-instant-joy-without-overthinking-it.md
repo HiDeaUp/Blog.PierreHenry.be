@@ -12,8 +12,7 @@ original_title = "Bonheur RAPIDE™ Les Secrets ✨"
 source_medium = "https://medium.com/@phenrysay/17b5f44ea32d"
 +++
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBpbnN0YW50JTIwam95JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzMyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Instant Joy Without Overthinking It")
-*How to Find Instant Joy Without Overthinking It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBpbnN0YW50JTIwam95JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzMyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Find Instant Joy Without Overthinking It" caption="How to Find Instant Joy Without Overthinking It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 There are days when happiness feels out of reach. We go through the motions, feeling unfulfilled or frustrated, often because we’re stuck on something or desperate to finish a task. Instead of listening to ourselves and recognizing the need for a break, we push on. But what if the secret to instant happiness is much simpler than we think?
 
@@ -25,8 +24,7 @@ It’s important to pause and ask yourself: What do I want to do today? What do 
 
 If I told you I ate 10 kilos of fries last year, you might not believe me, but it’s possible. We don’t keep track, so we don’t know. Even in the short term, could you tell me how many coffees you’ve had in the last three weeks? Probably not. But if you took a photo of each one, you’d know exactly. This kind of tracking can help you improve your diet and, by extension, your mood and health.
 
-![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBpbnN0YW50JTIwam95JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzMyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Instant Joy Without Overthinking It")
-*How to Find Instant Joy Without Overthinking It - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
+{{< figure src="https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBpbnN0YW50JTIwam95JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzMyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball" title="How to Find Instant Joy Without Overthinking It" caption="How to Find Instant Joy Without Overthinking It - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)" >}}
 
 Our food choices affect more than just our bodies—they influence our concentration, our reactions, and even our tempers. Sometimes, being irritable or moody is linked to what we eat, especially if we’re consuming too much sugar. If I asked you how many chocolate bars you’ve had in the past month, would you know? Probably not. But with photos, you could track it all, securely and privately, over years. This can help you make better choices and even assist your doctor in understanding your habits.
 
@@ -46,8 +44,7 @@ So, take a moment to reflect. Are you truly present, or just going through the m
 
 ---
 
-![Click the smile](https://images.unsplash.com/photo-1689659700109-db8a16a7da0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBpbnN0YW50JTIwam95JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzMyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Instant Joy Without Overthinking It")
-*How to Find Instant Joy Without Overthinking It - Photo by [Kash Tandon](https://unsplash.com/@kashtandon) on [Unsplash](https://unsplash.com/photos/a-yellow-smiley-face-ball-sitting-on-a-table-YKFamgSv9lA)*
+{{< figure src="https://images.unsplash.com/photo-1689659700109-db8a16a7da0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBpbnN0YW50JTIwam95JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzMyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Click the smile" title="How to Find Instant Joy Without Overthinking It" caption="How to Find Instant Joy Without Overthinking It - Photo by [Kash Tandon](https://unsplash.com/@kashtandon) on [Unsplash](https://unsplash.com/photos/a-yellow-smiley-face-ball-sitting-on-a-table-YKFamgSv9lA)" >}}
 
 ## Key Takeaways
 

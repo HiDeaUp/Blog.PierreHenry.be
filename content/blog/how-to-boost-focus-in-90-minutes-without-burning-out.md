@@ -12,8 +12,7 @@ original_title = "Connaître son cycle de productivité 🎯"
 source_medium = "https://medium.com/@phenrysay/685af318e250"
 +++
 
-![Photo by Axel Visoso](https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBicmFpbiUyMGN5Y2xlcyUyMHdvcmslMjBoYWJpdHN8ZW58MHwwfHx8MTc1NjAwNjg1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus in 90 Minutes Without Burning Out")
-*How to Boost Focus in 90 Minutes Without Burning Out - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)*
+{{< figure src="https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBicmFpbiUyMGN5Y2xlcyUyMHdvcmslMjBoYWJpdHN8ZW58MHwwfHx8MTc1NjAwNjg1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of person holding alarm clock" title="How to Boost Focus in 90 Minutes Without Burning Out" caption="How to Boost Focus in 90 Minutes Without Burning Out - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)" >}}
 
 Most people don’t realize that the brain operates in cycles, much like our sleep patterns. Just as sleep is divided into 90-minute cycles, our productivity during the day follows a similar rhythm. If you want to get more done without burning out, it makes sense to divide your workday into focused sprints of about 90 minutes each.
 
@@ -25,8 +24,7 @@ Personally, I love grabbing a flat white with oat milk during my breaks. Sometim
 
 Aim for two to four of these 90-minute sprints each day. That adds up to about three to six hours of deep, focused work. It might not sound like much compared to a full day, but the quality of your output will skyrocket. During each sprint, immerse yourself completely in the task at hand. Forget about your phone, messages, or anything else. If you need the internet, limit your access to only what’s necessary. Tools like Screen Time on Mac or certain browser extensions can help you block distracting sites and keep you on track.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBicmFpbiUyMGN5Y2xlcyUyMHdvcmslMjBoYWJpdHN8ZW58MHwwfHx8MTc1NjAwNjg1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus in 90 Minutes Without Burning Out")
-*How to Boost Focus in 90 Minutes Without Burning Out - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBicmFpbiUyMGN5Y2xlcyUyMHdvcmslMjBoYWJpdHN8ZW58MHwwfHx8MTc1NjAwNjg1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Boost Focus in 90 Minutes Without Burning Out" caption="How to Boost Focus in 90 Minutes Without Burning Out - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 You can even hide suggested videos on YouTube with extensions, so you’re not tempted to click away. Some people create a separate user account on their computer for work, but I find that a bit cumbersome. What really matters is discipline. As the saying goes, *discipline equals freedom*. When you’re disciplined, you gain the freedom to achieve what you truly want.
 
@@ -44,8 +42,7 @@ The key is consistency. The more you stick to your cycles, the easier it becomes
 
 ## Key Takeaways
 
-![Alarm clock friends situation with hand](https://images.unsplash.com/photo-1495364141860-b0d03eccd065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBicmFpbiUyMGN5Y2xlcyUyMHdvcmslMjBoYWJpdHN8ZW58MHwwfHx8MTc1NjAwNjg1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus in 90 Minutes Without Burning Out")
-*How to Boost Focus in 90 Minutes Without Burning Out - Photo by [Lukas Blazek](https://unsplash.com/@goumbik) on [Unsplash](https://unsplash.com/photos/person-holding-white-mini-bell-alarmclock-UAvYasdkzq8)*
+{{< figure src="https://images.unsplash.com/photo-1495364141860-b0d03eccd065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBicmFpbiUyMGN5Y2xlcyUyMHdvcmslMjBoYWJpdHN8ZW58MHwwfHx8MTc1NjAwNjg1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Alarm clock friends situation with hand" title="How to Boost Focus in 90 Minutes Without Burning Out" caption="How to Boost Focus in 90 Minutes Without Burning Out - Photo by [Lukas Blazek](https://unsplash.com/@goumbik) on [Unsplash](https://unsplash.com/photos/person-holding-white-mini-bell-alarmclock-UAvYasdkzq8)" >}}
 
 - *Work in 90-minute focused sprints, followed by 10–15 minute real breaks.*
 - *Avoid mental clutter during breaks—no messages, emails, or notifications.*

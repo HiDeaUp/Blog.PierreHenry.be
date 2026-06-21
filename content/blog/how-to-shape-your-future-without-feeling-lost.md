@@ -12,8 +12,7 @@ original_title = "Ton futur, tu le vois comment ?"
 source_medium = "https://medium.com/@phenrysay/cbe2bb6d2922"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmdXR1cmUlMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjEwOTAxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Without Feeling Lost")
-*How to Shape Your Future Without Feeling Lost - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmdXR1cmUlMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjEwOTAxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Shape Your Future Without Feeling Lost" caption="How to Shape Your Future Without Feeling Lost - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Having a vision for your life changes everything. When you know exactly where you want to go, when you have a clear idea of who you want to become in five or ten years, your daily decisions start to align with that future. It’s not just about setting goals; it’s about picturing yourself, your identity, and the person you want to grow into.
 
@@ -23,8 +22,7 @@ This approach isn’t just for your career. If you’re building a startup, havi
 
 Life is too short to just go through the motions. You should love your life and live it to the fullest. The way to do that is by creating a lifestyle that matches your values and what you enjoy. The more you identify what truly makes you happy, the more you can bring those things into your daily routine.
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506064-9da2afbbc6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmdXR1cmUlMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjEwOTAxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Without Feeling Lost")
-*How to Shape Your Future Without Feeling Lost - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-writing-on-it-A43t7VD3ZAA)*
+{{< figure src="https://images.unsplash.com/photo-1689896506064-9da2afbbc6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmdXR1cmUlMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjEwOTAxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a piece of paper with writing on it" title="How to Shape Your Future Without Feeling Lost" caption="How to Shape Your Future Without Feeling Lost - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-writing-on-it-A43t7VD3ZAA)" >}}
 
 For example, maybe you realize that spending all day in front of a computer isn’t healthy or enjoyable. Striking a balance between work and personal life is much more pleasant. You might decide to add more exercise or travel to your life. Personally, travel is a real passion for me. Sometimes, spending extra money to fly business class on long trips is worth it because it makes the experience so much better. On a ten-hour flight, I find I’m much more productive and comfortable, which makes a difference.
 
@@ -37,8 +35,7 @@ If you want to go even further in improving your daily life, I recommend keeping
 
 ---
 
-![Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background](https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdXR1cmUlMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjEwOTAxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Without Feeling Lost")
-*How to Shape Your Future Without Feeling Lost - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)*
+{{< figure src="https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdXR1cmUlMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjEwOTAxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background" title="How to Shape Your Future Without Feeling Lost" caption="How to Shape Your Future Without Feeling Lost - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)" >}}
 
 ## Key Takeaways
 - Having a clear vision for your future shapes your daily choices.

@@ -12,9 +12,7 @@ original_title = "Comment saisir les opportunités du présent⏰"
 source_medium = "https://medium.com/@phenrysay/204fd29c2c6f"
 +++
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMHNlbGYtcmVmbGVjdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYwMDg4NTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Constant Hustle")
-*How to Make Real Progress Without Constant Hustle - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMHNlbGYtcmVmbGVjdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYwMDg4NTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Make Real Progress Without Constant Hustle" caption="How to Make Real Progress Without Constant Hustle - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ### Sometimes, the best way forward is to pause.
 
@@ -36,8 +34,7 @@ We don’t give ourselves enough empty moments. We’re always pushing, always c
 
 Just thinking about your future goals, about what you want to create, is important. Sometimes we focus only on setting goals, but we forget to rest. Even two or three times a week, spending half an hour alone in a café can make a difference. I sometimes spend an hour, but not too much—too much of anything can ruin the joy.
 
-![Photo by Alexey Demidov](https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMHNlbGYtcmVmbGVjdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYwMDg4NTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Constant Hustle")
-*How to Make Real Progress Without Constant Hustle - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)*
+{{< figure src="https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMHNlbGYtcmVmbGVjdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYwMDg4NTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a dock looking at a lake" title="How to Make Real Progress Without Constant Hustle" caption="How to Make Real Progress Without Constant Hustle - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)" >}}
 
 During these moments, avoid distractions. Don’t check your texts or emails, even if it’s tempting. If you do, you’ll want to reply, and your mind will be pulled away. This is not the time for messaging. It’s a time for pure disconnection, the old-fashioned kind. Try it three or four times. The first time might not feel special, but after a few tries, you’ll notice a real shift. You’ll feel lighter, more at ease, and ready to bounce back.
 
@@ -60,8 +57,7 @@ Some people chase money or recognition just to get praise from others. They migh
 
 Now is the right time to change, to spend time on yourself, to do things for you. I believe in you. Success isn’t about one big achievement—it’s about having many happy days. That’s a successful life.
 
-![Photo by Leo_Visions](https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMHNlbGYtcmVmbGVjdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYwMDg4NTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Constant Hustle")
-*How to Make Real Progress Without Constant Hustle - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)*
+{{< figure src="https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMHNlbGYtcmVmbGVjdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYwMDg4NTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A rock in a body of water with a sky in the" title="How to Make Real Progress Without Constant Hustle" caption="How to Make Real Progress Without Constant Hustle - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)" >}}
 
 > _Happiness is not something ready made. It comes from your own actions._
 > — Dalai Lama

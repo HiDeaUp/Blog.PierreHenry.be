@@ -12,8 +12,7 @@ original_title = "Travailler sur son charisme 🚀"
 source_medium = "https://medium.com/@phenrysay/5b4b2468e0bb"
 +++
 
-![Photo by White Malaki](https://images.unsplash.com/photo-1642670777453-0b5c6c7b4f77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTc0NjI2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Charisma Without Pretending to Be Someone Else")
-*How to Build Charisma Without Pretending to Be Someone Else - Photo by [White Malaki](https://unsplash.com/@malakiwhite17) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-in-a-suit-and-headphones-iuwJHKambKI)*
+{{< figure src="https://images.unsplash.com/photo-1642670777453-0b5c6c7b4f77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTc0NjI2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of a man in a suit and" title="How to Build Charisma Without Pretending to Be Someone Else" caption="How to Build Charisma Without Pretending to Be Someone Else - Photo by [White Malaki](https://unsplash.com/@malakiwhite17) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-in-a-suit-and-headphones-iuwJHKambKI)" >}}
 
 Having a charisma that inspires is more than just a nice trait. It starts with a simple act: looking at yourself in the mirror and asking, “What kind of charisma do I want to have? What kind of person would I be proud to become?” Many of us wander through life in a bit of a fog, not really sure who we want to be. We don’t always ask ourselves the right questions, or we avoid questioning ourselves at all.
 
@@ -23,9 +22,7 @@ You might find yourself drawn to a particular actor or actress. Maybe you think,
 
 This process is ongoing. Think of it as a continuous learning curve. Every day, ask yourself: What should I do today? How should I stand? Shoulders back, good posture. How do I speak? How do I dress? What does my environment look like? Who are my friends? Set reminders for yourself. For example, remind yourself to stand tall. At first, you might walk with perfect posture, but after five or ten minutes, you slip back into old habits. The same goes for speaking. Maybe you start out sounding confident, but soon your voice returns to its usual tone.
 
-![Konica EFJ
-Fomapan 100](https://images.unsplash.com/photo-1651457178842-aa894704baac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTc0NjI2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Charisma Without Pretending to Be Someone Else")
-*How to Build Charisma Without Pretending to Be Someone Else - Photo by [Qian Shawn](https://unsplash.com/@dejavusq) on [Unsplash](https://unsplash.com/photos/a-person-lying-on-the-ground-ygW1V1JxnqA)*
+{{< figure src="https://images.unsplash.com/photo-1651457178842-aa894704baac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTc0NjI2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Konica EFJ Fomapan 100" title="How to Build Charisma Without Pretending to Be Someone Else" caption="How to Build Charisma Without Pretending to Be Someone Else - Photo by [Qian Shawn](https://unsplash.com/@dejavusq) on [Unsplash](https://unsplash.com/photos/a-person-lying-on-the-ground-ygW1V1JxnqA)" >}}
 
 That’s why reminders are important. They help you stay on track and remember where you want to go. Bit by bit, you shape yourself into the person you want to be.
 
@@ -47,8 +44,7 @@ That’s why reminders are important. They help you stay on track and remember w
 - Use daily reminders to help build new habits in posture, speech, and presence.
 - Progress is gradual, but every small step counts.
 
-![Photo by Geraldine Lewa](https://images.unsplash.com/photo-1470570094674-ab1a362724c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTc0NjI2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Charisma Without Pretending to Be Someone Else")
-*How to Build Charisma Without Pretending to Be Someone Else - Photo by [Geraldine Lewa](https://unsplash.com/@geraldine_lewa) on [Unsplash](https://unsplash.com/photos/person-standing-showing-back-c8-Dsz9BI5M)*
+{{< figure src="https://images.unsplash.com/photo-1470570094674-ab1a362724c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTc0NjI2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person showing back c8" title="How to Build Charisma Without Pretending to Be Someone Else" caption="How to Build Charisma Without Pretending to Be Someone Else - Photo by [Geraldine Lewa](https://unsplash.com/@geraldine_lewa) on [Unsplash](https://unsplash.com/photos/person-standing-showing-back-c8-Dsz9BI5M)" >}}
 
 ---
 

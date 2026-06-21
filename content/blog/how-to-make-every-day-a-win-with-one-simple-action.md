@@ -12,8 +12,7 @@ original_title = "La chose NUMÉRO UNE À RÉALISER 🏆"
 source_medium = "https://medium.com/@phenrysay/4adc1ef80450"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTYwNzUzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day a Win With One Simple Action")
-*How to Make Every Day a Win With One Simple Action - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTYwNzUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Make Every Day a Win With One Simple Action" caption="How to Make Every Day a Win With One Simple Action - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 What is the one thing you want to accomplish today? Not a list of endless tasks, but that single, meaningful action that, if done, would make your day feel like a true success. Imagine finishing your day and thinking, “Yes, I did it. Today was fantastic.” That’s the feeling I want you to aim for.
 
@@ -21,8 +20,7 @@ The idea is simple: pick one thing that really matters to you. It could be somet
 
 Write this one thing down. Use a notebook, a journal, your phone, or an app like Things 3. The earlier you do it, the better. If you wait until later in the day, life will get in the way. Emergencies pop up, family needs your attention, or you simply get tired. If you have kids, a partner, or a busy household, you know how quickly the day can slip away. That’s why I recommend doing your “one thing” in the morning, before anything else. Once it’s done, you’ve already won the day.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTYwNzUzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day a Win With One Simple Action")
-*How to Make Every Day a Win With One Simple Action - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTYwNzUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Every Day a Win With One Simple Action" caption="How to Make Every Day a Win With One Simple Action - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Sometimes, your “one thing” might only take ten minutes, like a short meditation. Other times, it could take an hour. The point is to do something for yourself—something that matters. If you get that done, you can feel good about the rest of your day, no matter what else happens.
 
@@ -35,9 +33,7 @@ Don’t put off what matters most. There’s an old Chinese proverb that says th
 > *The best time to plant a tree was twenty years ago. The second-best time is now.*
 > — Chinese Proverb
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, make this the day, don't hesitate, procrastination, decision time, nocrastination, make the jump, exercise, new start, discipline, now is the time, just do it, make the change, diet, weight loss, walk, new leaf, turn over a new leaf, life change, stuck in a rut, move on, 
-](https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTYwNzUzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day a Win With One Simple Action")
-*How to Make Every Day a Win With One Simple Action - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)*
+{{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTYwNzUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How to Make Every Day a Win With One Simple Action" caption="How to Make Every Day a Win With One Simple Action - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 
 ---
 

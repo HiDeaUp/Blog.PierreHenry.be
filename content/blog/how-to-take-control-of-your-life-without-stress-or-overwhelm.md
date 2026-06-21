@@ -12,8 +12,7 @@ original_title = "DEVENIR L’EXPERT DE SA VIE"
 source_medium = "https://medium.com/@phenrysay/8f25568ac9a2"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBsaWZlJTIwc2tpbGxzfGVufDB8MHx8fDE3NTUzODUxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Your Life Without Stress or Overwhelm")
-*How to Take Control of Your Life Without Stress or Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBsaWZlJTIwc2tpbGxzfGVufDB8MHx8fDE3NTUzODUxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Take Control of Your Life Without Stress or Overwhelm" caption="How to Take Control of Your Life Without Stress or Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 What does it really mean to grow and become better in your daily life? For me, it’s about becoming more skilled at what you do, feeling more at peace, and not letting stress run your days. The Greeks had a word for happiness that meant living a calm life, free from constant worries and fears. Happiness, after all, is just a mood—like sadness. But a calm life, where you invest in yourself and control your actions, is something deeper and more lasting.
 
@@ -39,8 +38,7 @@ Use tools like Pomodoro timers and task managers (I use Things 3) to track your 
 
 Give talks, host webinars, or create online courses. This builds your credibility and helps you become known in your field. Publishing a book—even a short one—on platforms like Amazon KDP can also boost your reputation. If it fits your area, join a professional association and add it to your LinkedIn or business card. These steps help you build your “assets”—the things you own and control, like your time and your work.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBsaWZlJTIwc2tpbGxzfGVufDB8MHx8fDE3NTUzODUxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Your Life Without Stress or Overwhelm")
-*How to Take Control of Your Life Without Stress or Overwhelm - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBsaWZlJTIwc2tpbGxzfGVufDB8MHx8fDE3NTUzODUxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Take Control of Your Life Without Stress or Overwhelm" caption="How to Take Control of Your Life Without Stress or Overwhelm - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 > _Time is our most precious asset. How you spend it shapes your life._
 > — Pierre
@@ -71,8 +69,7 @@ Try working in 90-minute sprints, fully immersed in your task. Turn off notifica
 
 ## Use AI and Other Tools
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBsaWZlJTIwc2tpbGxzfGVufDB8MHx8fDE3NTUzODUxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Your Life Without Stress or Overwhelm")
-*How to Take Control of Your Life Without Stress or Overwhelm - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBsaWZlJTIwc2tpbGxzfGVufDB8MHx8fDE3NTUzODUxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Take Control of Your Life Without Stress or Overwhelm" caption="How to Take Control of Your Life Without Stress or Overwhelm - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 Don’t hesitate to use artificial intelligence and other tools to help you. They can save you time and make your work easier.
 

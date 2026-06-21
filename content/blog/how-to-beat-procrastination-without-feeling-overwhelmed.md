@@ -12,8 +12,7 @@ original_title = "L’ASTUCE TOUTE SIMPLE POUR NE PLUS PROCRASTINER"
 source_medium = "https://medium.com/@phenrysay/6f48813e798a"
 +++
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjM4NzUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat Procrastination Without Feeling Overwhelmed")
-*How to Beat Procrastination Without Feeling Overwhelmed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjM4NzUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Beat Procrastination Without Feeling Overwhelmed" caption="How to Beat Procrastination Without Feeling Overwhelmed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Have you ever felt overwhelmed by a big goal? Maybe you wanted to learn a new language, write a book, or just keep your home tidy. The problem is, when you look at the whole mountain, it feels impossible to climb. But what if you only had to take one small step at a time?
 
@@ -21,8 +20,7 @@ This is the idea behind the “small steps” method. Instead of telling yoursel
 
 For example, you might decide to learn a few new words in a foreign language for ten minutes. Or you might watch a short training video for ten minutes. After a week, that’s already seventy minutes. After a month, it adds up to hours. It’s a lot more than you think.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjM4NzUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat Procrastination Without Feeling Overwhelmed")
-*How to Beat Procrastination Without Feeling Overwhelmed - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjM4NzUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Beat Procrastination Without Feeling Overwhelmed" caption="How to Beat Procrastination Without Feeling Overwhelmed - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Right now, as I wait for the tram with my suitcase, I’m using this time to share my thoughts. It’s just a little video, but it’s something. That’s what matters most—a little bit, every day.
 
@@ -38,8 +36,7 @@ The trick is to make the first step so small that it feels like nothing. That wa
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
 — Robert Collier
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1627850650793-3f8d5231ee19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjM4NzUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat Procrastination Without Feeling Overwhelmed")
-*How to Beat Procrastination Without Feeling Overwhelmed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-with-red-manicure-holding-purple-paper-32aK4c8Iekc)*
+{{< figure src="https://images.unsplash.com/photo-1627850650793-3f8d5231ee19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjM4NzUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person with red holding purple paper" title="How to Beat Procrastination Without Feeling Overwhelmed" caption="How to Beat Procrastination Without Feeling Overwhelmed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-with-red-manicure-holding-purple-paper-32aK4c8Iekc)" >}}
 
 ---
 

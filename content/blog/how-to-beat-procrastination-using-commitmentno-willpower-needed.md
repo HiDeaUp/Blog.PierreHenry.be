@@ -12,8 +12,7 @@ original_title = "Éviter de procrastiner avec le principe d’engagement + Les 
 source_medium = "https://medium.com/@phenrysay/47057a12c1bc"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat Procrastination Using Commitment—No Willpower Needed")
-*How to Beat Procrastination Using Commitment—No Willpower Needed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Beat Procrastination Using Commitment—No Willpower Needed" caption="How to Beat Procrastination Using Commitment—No Willpower Needed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Procrastination is a sneaky trap, especially when you work for yourself or from home. It’s easy to push things to later, start your day late, and end up feeling like you never have time for yourself. This creates a vicious cycle that’s hard to break. But what if the real problem is a lack of commitment—not to others, but to yourself?
 
@@ -35,8 +34,7 @@ If you keep your goals to yourself, you’re more likely to procrastinate. Shari
 
 Here are some tools that help me stay productive and keep my commitments:
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat Procrastination Using Commitment—No Willpower Needed")
-*How to Beat Procrastination Using Commitment—No Willpower Needed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Beat Procrastination Using Commitment—No Willpower Needed" caption="How to Beat Procrastination Using Commitment—No Willpower Needed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 ### 1. **Toggl**
 
@@ -64,8 +62,7 @@ This might sound odd, but it works. Write out a contract with yourself (or even 
 > _“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”_
 > — Will Durant
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat Procrastination Using Commitment—No Willpower Needed")
-*How to Beat Procrastination Using Commitment—No Willpower Needed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Beat Procrastination Using Commitment—No Willpower Needed" caption="How to Beat Procrastination Using Commitment—No Willpower Needed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 ## The Real Secret: Manufacture Your Own Pressure
 

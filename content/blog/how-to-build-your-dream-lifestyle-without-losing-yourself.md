@@ -12,8 +12,7 @@ original_title = "POURQUOI VEUT-ON TOUS UN LIFESTYLE DE RÊVE ?"
 source_medium = "https://medium.com/@phenrysay/0718a557f0f7"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live the dream, plan ahead, dream, plan then do, work for your dreams, do not give up, keep going, never give up, live life, live intentionally, intentionality, mindfulness, yolo, carpe diem, seize the day, ](https://images.unsplash.com/photo-1631373846797-b2fcc157ca77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGxpZmVzdHlsZSUyMHBlcnNvbmFsJTIwZW1wb3dlcm1lbnQlMjBsaWZlJTIwZGVzaWdufGVufDB8MHx8fDE3NTUzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Dream Lifestyle Without Losing Yourself")
-*How to Build Your Dream Lifestyle Without Losing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SndamMqiBD0)*
+{{< figure src="https://images.unsplash.com/photo-1631373846797-b2fcc157ca77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGxpZmVzdHlsZSUyMHBlcnNvbmFsJTIwZW1wb3dlcm1lbnQlMjBsaWZlJTIwZGVzaWdufGVufDB8MHx8fDE3NTUzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build Your Dream Lifestyle Without Losing Yourself" caption="How to Build Your Dream Lifestyle Without Losing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SndamMqiBD0)" >}}
 
 What does it mean to want a dream lifestyle? For many, it’s not just about money or comfort. It’s about building a life that excites us, a life where we can live from our passions, our knowledge, and what we love to create. It’s about being the architect and ambassador of our own existence, taking the wheel instead of letting life just happen to us.
 
@@ -27,8 +26,7 @@ Everything is possible if you truly want it. If you want something badly enough,
 
 Your posture, your language, and the way you carry yourself all play a role in your success. We often don’t realize it, but we become what we consume. If you sigh all the time, if you surround yourself with negative people, it affects you. If you can’t find positive people around you, invite them into your life virtually—watch talks, read books, follow those who inspire you. But don’t compare your insides to their outsides. Compare yourself to who you were yesterday, and keep your eyes on your vision for the next ten years.
 
-![Photo by Kelli Stirrett](https://images.unsplash.com/photo-1509308180650-5b27e7e80d05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGxpZmVzdHlsZSUyMHBlcnNvbmFsJTIwZW1wb3dlcm1lbnQlMjBsaWZlJTIwZGVzaWdufGVufDB8MHx8fDE3NTUzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Dream Lifestyle Without Losing Yourself")
-*How to Build Your Dream Lifestyle Without Losing Yourself - Photo by [Kelli Stirrett](https://unsplash.com/@keelhaul_kelli) on [Unsplash](https://unsplash.com/photos/let-your-dreams-set-sail-quote-GRPqpy7CMK4)*
+{{< figure src="https://images.unsplash.com/photo-1509308180650-5b27e7e80d05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGxpZmVzdHlsZSUyMHBlcnNvbmFsJTIwZW1wb3dlcm1lbnQlMjBsaWZlJTIwZGVzaWdufGVufDB8MHx8fDE3NTUzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Let your dreams set sail quote" title="How to Build Your Dream Lifestyle Without Losing Yourself" caption="How to Build Your Dream Lifestyle Without Losing Yourself - Photo by [Kelli Stirrett](https://unsplash.com/@keelhaul_kelli) on [Unsplash](https://unsplash.com/photos/let-your-dreams-set-sail-quote-GRPqpy7CMK4)" >}}
 
 One powerful idea I want to share is the Serenity Prayer. It goes like this:  
 > *Grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.*  
@@ -49,8 +47,7 @@ No matter where you are, no matter the obstacles, everything is possible if you 
 
 ## Key Takeaways
 
-![dream](https://images.unsplash.com/photo-1636411813189-45ef2f7e7082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGxpZmVzdHlsZSUyMHBlcnNvbmFsJTIwZW1wb3dlcm1lbnQlMjBsaWZlJTIwZGVzaWdufGVufDB8MHx8fDE3NTUzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Dream Lifestyle Without Losing Yourself")
-*How to Build Your Dream Lifestyle Without Losing Yourself - Photo by [stefan moertl](https://unsplash.com/@shmdsgn) on [Unsplash](https://unsplash.com/photos/a-hand-reaching-for-a-cloud-of-cotton-on-a-purple-background-2_m8xL20MSI)*
+{{< figure src="https://images.unsplash.com/photo-1636411813189-45ef2f7e7082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGxpZmVzdHlsZSUyMHBlcnNvbmFsJTIwZW1wb3dlcm1lbnQlMjBsaWZlJTIwZGVzaWdufGVufDB8MHx8fDE3NTUzODQzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="dream" title="How to Build Your Dream Lifestyle Without Losing Yourself" caption="How to Build Your Dream Lifestyle Without Losing Yourself - Photo by [stefan moertl](https://unsplash.com/@shmdsgn) on [Unsplash](https://unsplash.com/photos/a-hand-reaching-for-a-cloud-of-cotton-on-a-purple-background-2_m8xL20MSI)" >}}
 
 - You are the architect of your own life—take the wheel.
 - Your future self should be your biggest inspiration.

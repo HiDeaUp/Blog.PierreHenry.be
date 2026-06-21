@@ -12,8 +12,7 @@ original_title = "DÉCOUVRE POURQUOI TU N'Y ARRIVES PAS (et comment rendre tes j
 source_medium = "https://medium.com/@phenrysay/7d708580ae41"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW9ybmluZyUyMHJvdXRpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTUzODY0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Morning Count Without Overhauling Your Life")
-*How to Make Every Morning Count Without Overhauling Your Life - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW9ybmluZyUyMHJvdXRpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTUzODY0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Make Every Morning Count Without Overhauling Your Life" caption="How to Make Every Morning Count Without Overhauling Your Life - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Have you ever wondered why you feel stuck, even when you have big dreams and good intentions? The answer is often much simpler than we think. It’s not about having the perfect plan or waiting for the right moment. It’s about starting, giving yourself a boost in the morning, and making yourself your own priority—at least for a little while each day.
 
@@ -31,8 +30,7 @@ Maybe you’re thinking, “I don’t have time.” But even ten minutes a day c
 
 It’s not about doing everything at once. It’s about doing something, every day, for yourself. Over time, these small investments add up and can open doors you never saw before.
 
-![Books and coffee](https://images.unsplash.com/photo-1589221475596-7133b597dc21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW9ybmluZyUyMHJvdXRpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTUzODY0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Morning Count Without Overhauling Your Life")
-*How to Make Every Morning Count Without Overhauling Your Life - Photo by [Debby Hudson](https://unsplash.com/@hudsoncrafted) on [Unsplash](https://unsplash.com/photos/white-paper-beside-white-ceramic-mug-RbzUpePwH4A)*
+{{< figure src="https://images.unsplash.com/photo-1589221475596-7133b597dc21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW9ybmluZyUyMHJvdXRpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTUzODY0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Books and coffee" title="How to Make Every Morning Count Without Overhauling Your Life" caption="How to Make Every Morning Count Without Overhauling Your Life - Photo by [Debby Hudson](https://unsplash.com/@hudsoncrafted) on [Unsplash](https://unsplash.com/photos/white-paper-beside-white-ceramic-mug-RbzUpePwH4A)" >}}
 
 ## Invest in Rare Knowledge and New Skills
 
@@ -54,8 +52,7 @@ So, make it your mission today to find that thing you want to invest in. What kn
 
 ---
 
-![I’m trying to be more regular with uploading so I am going to give myself a theme every week and flatly the hell out of it! If you don’t practice you don’t get any better so this weeks theme is Quote!](https://images.unsplash.com/photo-1546015018-f0f7c1cabf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW9ybmluZyUyMHJvdXRpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTUzODY0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Morning Count Without Overhauling Your Life")
-*How to Make Every Morning Count Without Overhauling Your Life - Photo by [Sincerely Media](https://unsplash.com/@sincerelymedia) on [Unsplash](https://unsplash.com/photos/brown-eyeglasses-and-latte-on-top-of-joy-comes-in-the-morning-note-ESWmqUtGe3M)*
+{{< figure src="https://images.unsplash.com/photo-1546015018-f0f7c1cabf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW9ybmluZyUyMHJvdXRpbmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTUzODY0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown and latte on top of joy comes in the morning note" title="How to Make Every Morning Count Without Overhauling Your Life" caption="How to Make Every Morning Count Without Overhauling Your Life - Photo by [Sincerely Media](https://unsplash.com/@sincerelymedia) on [Unsplash](https://unsplash.com/photos/brown-eyeglasses-and-latte-on-top-of-joy-comes-in-the-morning-note-ESWmqUtGe3M)" >}}
 
 ## Key Takeaways
 

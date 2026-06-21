@@ -12,8 +12,7 @@ original_title = "Comment passer outre ses phobies ?"
 source_medium = "https://medium.com/@phenrysay/abee0c7521c4"
 +++
 
-![https://www.havenofear.live/](https://images.unsplash.com/photo-1629772263201-341186d77793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwaG9iaWFzJTIwb3ZlcmNvbWluZyUyMGZlYXJzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI2MTkzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Face Your Fears Without Feeling Overwhelmed")
-*How to Face Your Fears Without Feeling Overwhelmed - Photo by [Dylan Hunter](https://unsplash.com/@dylhunter) on [Unsplash](https://unsplash.com/photos/white-and-black-computer-keyboard-7OjhYoNjpBo)*
+{{< figure src="https://images.unsplash.com/photo-1629772263201-341186d77793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwaG9iaWFzJTIwb3ZlcmNvbWluZyUyMGZlYXJzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI2MTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="https://www.havenofear.live/" title="How to Face Your Fears Without Feeling Overwhelmed" caption="How to Face Your Fears Without Feeling Overwhelmed - Photo by [Dylan Hunter](https://unsplash.com/@dylhunter) on [Unsplash](https://unsplash.com/photos/white-and-black-computer-keyboard-7OjhYoNjpBo)" >}}
 
 We all have fears that hold us back. Sometimes, these fears are so strong they feel like walls we can’t climb. Whether it’s the fear of heights, spiders, or speaking in public, these phobias can be paralyzing. But there’s a practical way to break through them, and it starts with three simple questions: What, Why, and How.
 
@@ -29,8 +28,7 @@ Finally, figure out *how* you’ll get there. This is where fear often creeps in
 
 Let’s talk about fear. It can be so strong that it stops us in our tracks. But there’s a simple technique to overcome it: gradual exposure. I first heard about this from a wild Australian surfer who explained that the best way to conquer your fear is to practice facing it, little by little.
 
-![https://www.havenofear.live/](https://images.unsplash.com/photo-1629596233085-5afb30509f41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwaG9iaWFzJTIwb3ZlcmNvbWluZyUyMGZlYXJzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI2MTkzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Face Your Fears Without Feeling Overwhelmed")
-*How to Face Your Fears Without Feeling Overwhelmed - Photo by [Dylan Hunter](https://unsplash.com/@dylhunter) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-that-says-have-no-fear-on-it-IVr-MaXMHaI)*
+{{< figure src="https://images.unsplash.com/photo-1629596233085-5afb30509f41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwaG9iaWFzJTIwb3ZlcmNvbWluZyUyMGZlYXJzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI2MTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="https://www.havenofear.live/" title="How to Face Your Fears Without Feeling Overwhelmed" caption="How to Face Your Fears Without Feeling Overwhelmed - Photo by [Dylan Hunter](https://unsplash.com/@dylhunter) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-that-says-have-no-fear-on-it-IVr-MaXMHaI)" >}}
 
 If you’re afraid of drowning, the ocean, or even sharks, the best way to overcome that fear is to gently expose yourself to it, step by step. Start by visualizing what scares you. For example, if you’re afraid of spiders, begin by watching short documentaries or videos about them—just a few minutes a week. Gradually increase the time you spend watching these videos.
 
@@ -52,8 +50,7 @@ The more you practice facing your fear, the less power it has over you. Experien
 
 ---
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwaG9iaWFzJTIwb3ZlcmNvbWluZyUyMGZlYXJzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI2MTkzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Face Your Fears Without Feeling Overwhelmed")
-*How to Face Your Fears Without Feeling Overwhelmed - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwaG9iaWFzJTIwb3ZlcmNvbWluZyUyMGZlYXJzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI2MTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Face Your Fears Without Feeling Overwhelmed" caption="How to Face Your Fears Without Feeling Overwhelmed - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 ## Key Takeaways
 

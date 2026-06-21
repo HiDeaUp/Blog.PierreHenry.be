@@ -12,8 +12,7 @@ original_title = "Hygiene d'organisation automatique - Comment ça marche ?"
 source_medium = "https://medium.com/@phenrysay/c0a992132f3e"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU0MjIyMzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Habits Without Relying on Motivation")
-*How to Build Lasting Habits Without Relying on Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU0MjIyMzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Build Lasting Habits Without Relying on Motivation" caption="How to Build Lasting Habits Without Relying on Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever told yourself, “Next Saturday, I’ll finally start writing my book,” or “I’ll set aside three hours to learn Spanish before my move to Costa Rica”? Maybe you want to improve your English before moving to Australia, or pick up some Norwegian for a new adventure. The plan sounds good in your head, but then life gets in the way. Obligations pile up, and you keep pushing your goals to tomorrow, and then the next day, and the next. Before you know it, guilt creeps in, and you feel miserable for not following through.
 
@@ -25,8 +24,7 @@ Now, make these sessions part of your calendar. Set recurring reminders. Persona
 
 Think of these sessions as projects or folders in your task manager. For example, create a project called “Learn Spanish” or “Write Book.” Set the task to repeat every week, or even every day if you prefer shorter sessions. The key is regularity.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU0MjIyMzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Habits Without Relying on Motivation")
-*How to Build Lasting Habits Without Relying on Motivation - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU0MjIyMzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Build Lasting Habits Without Relying on Motivation" caption="How to Build Lasting Habits Without Relying on Motivation - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 This approach frees you from the pressure of motivation. You don’t have to wake up and wonder, “Should I do it today?” It’s just part of your routine, like brushing your teeth or taking a shower. You know exactly how much time you need each week, and you stick to it. No more guilt, no more endless postponing.
 
@@ -46,8 +44,7 @@ The best part? Once your routine is set, you don’t have to think about it. You
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, work, rest, play, live, whole life, life balance, enjoy life, carpe diem, yolo, mindfulness, learn, enjoy, work life balance, embrace life, optimism, real life, books, reading, literature, bibliophile, study, learn, ](https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU0MjIyMzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Habits Without Relying on Motivation")
-*How to Build Lasting Habits Without Relying on Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)*
+{{< figure src="https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU0MjIyMzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile with words that spell out work rest play live" title="How to Build Lasting Habits Without Relying on Motivation" caption="How to Build Lasting Habits Without Relying on Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)" >}}
 
 - Don’t rely on motivation—build routines.
 - Break your goals into small, regular sessions.

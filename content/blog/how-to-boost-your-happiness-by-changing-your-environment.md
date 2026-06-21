@@ -12,8 +12,7 @@ original_title = "Peut-on bien vivre par son environnement ?"
 source_medium = "https://medium.com/@phenrysay/eeec00035425"
 +++
 
-![Photo by Alessandro Sicari](https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYyNzQzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness by Changing Your Environment")
-*How to Boost Your Happiness by Changing Your Environment - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)*
+{{< figure src="https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYyNzQzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green sweater" title="How to Boost Your Happiness by Changing Your Environment" caption="How to Boost Your Happiness by Changing Your Environment - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)" >}}
 
 Have you ever dreamed of a life that feels easy, peaceful, and in harmony with who you are? A life that supports you, carries you forward, and feels like it’s flowing with you, not against you? Many people say they feel like life is something they have to endure. But I’ve always thought, why should we just put up with life? Shouldn’t life lift us up and help us reach our dreams?
 
@@ -25,8 +24,7 @@ Auckland and Wellington in New Zealand are also lovely, even if the shops close 
 
 Of course, not everyone can just pack up and move to a new country. But if you’re stuck in a place that doesn’t support you, and you have even a little flexibility, consider a change. There are many countries in Asia, for example, where the cost of living is low. I haven’t been to Asia yet, but I know there are options. If you’re in Oceania—New Zealand or Australia—the quality of life is incredible. I’d love to visit New Caledonia one day, even if it’s just for a trip.
 
-![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYyNzQzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness by Changing Your Environment")
-*How to Boost Your Happiness by Changing Your Environment - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
+{{< figure src="https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYyNzQzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball" title="How to Boost Your Happiness by Changing Your Environment" caption="How to Boost Your Happiness by Changing Your Environment - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)" >}}
 
 For me, working in IT, remote work is possible, although sometimes the internet can be slow in certain places. But I still prefer English-speaking countries. Even though I’m speaking to you in French, I feel most natural in English-speaking environments. It’s just who I am.
 
@@ -45,8 +43,7 @@ Don’t expect your life to change if you keep doing the same things. You have t
 
 ---
 
-![Photo by Richard Burlton](https://images.unsplash.com/photo-1623181863085-31c69d427d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYyNzQzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness by Changing Your Environment")
-*How to Boost Your Happiness by Changing Your Environment - Photo by [Richard Burlton](https://unsplash.com/@richardworks) on [Unsplash](https://unsplash.com/photos/a-smiley-face-ball-sitting-in-the-grass-2y8_JeFi_Hs)*
+{{< figure src="https://images.unsplash.com/photo-1623181863085-31c69d427d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYyNzQzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A smiley face ball sitting in the grass" title="How to Boost Your Happiness by Changing Your Environment" caption="How to Boost Your Happiness by Changing Your Environment - Photo by [Richard Burlton](https://unsplash.com/@richardworks) on [Unsplash](https://unsplash.com/photos/a-smiley-face-ball-sitting-in-the-grass-2y8_JeFi_Hs)" >}}
 
 ## Key Takeaways
 

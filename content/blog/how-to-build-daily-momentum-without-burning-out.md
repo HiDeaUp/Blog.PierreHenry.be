@@ -12,8 +12,7 @@ original_title = "La dynamique de vie ✨"
 source_medium = "https://medium.com/@phenrysay/b5e98028d273"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1710529965209-5a9a355518ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZHluYW1pY3MlMjBkYWlseSUyMG1vbWVudHVtJTIwc21hbGwlMjBhY3Rpb25zfGVufDB8MHx8fDE3NTY1MTQzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Momentum Without Burning Out")
-*How to Build Daily Momentum Without Burning Out - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-picture-of-a-sign-that-says-moment-KYyj2DrjRnw)*
+{{< figure src="https://images.unsplash.com/photo-1710529965209-5a9a355518ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZHluYW1pY3MlMjBkYWlseSUyMG1vbWVudHVtJTIwc21hbGwlMjBhY3Rpb25zfGVufDB8MHx8fDE3NTY1MTQzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A picture of a sign that says moment" title="How to Build Daily Momentum Without Burning Out" caption="How to Build Daily Momentum Without Burning Out - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-picture-of-a-sign-that-says-moment-KYyj2DrjRnw)" >}}
 
 Have you ever noticed how some days just flow, one thing after another, almost like dominoes falling? That’s the power of life’s dynamic rhythm. When you set up your day so that each action naturally leads to the next, everything seems to move faster and with more energy. Let me share how this works in real life and how you can use it to boost your own days.
 
@@ -25,8 +24,7 @@ What’s important here is not the specific tasks, but how each one connects to 
 
 One method I use is called time boxing. I break my work into blocks—usually 90 minutes of focused effort, followed by a 10-15 minute break. If a task takes longer than 90 minutes, I stop and move it to the next day. I set a timer, and when it rings, I move on, even if I haven’t finished. This keeps me from running late and ensures I don’t let one task eat up time meant for something else.
 
-![Street art is a great way to express yourself and to move. Cheers!](https://images.unsplash.com/photo-1602149153635-e81b4cf7b447?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZHluYW1pY3MlMjBkYWlseSUyMG1vbWVudHVtJTIwc21hbGwlMjBhY3Rpb25zfGVufDB8MHx8fDE3NTY1MTQzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Momentum Without Burning Out")
-*How to Build Daily Momentum Without Burning Out - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/black-and-white-happy-birthday-signage-101ISKUn_IM)*
+{{< figure src="https://images.unsplash.com/photo-1602149153635-e81b4cf7b447?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZHluYW1pY3MlMjBkYWlseSUyMG1vbWVudHVtJTIwc21hbGwlMjBhY3Rpb25zfGVufDB8MHx8fDE3NTY1MTQzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Street art is a great way to express yourself and to move. Cheers!" title="How to Build Daily Momentum Without Burning Out" caption="How to Build Daily Momentum Without Burning Out - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/black-and-white-happy-birthday-signage-101ISKUn_IM)" >}}
 
 It’s tempting to keep going—just five more minutes, right? But if you do that, you’ll end up late for everything else. Time boxing forces you to respect your own schedule. If you don’t finish, jot down what’s left on a sticky note or record it on your phone, then move on. This way, you give each part of your day the value it deserves.
 
@@ -48,8 +46,7 @@ When you organize your day like this, you’ll notice a new kind of satisfaction
 
 If you want to go further with your productivity and daily fulfillment, I encourage you to try this approach. It’s simple, but it can change everything.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, seize the day, seize the moment, carpe diem, carpe momentum, yolo, opportunity, mindfulness, optimism, ](https://images.unsplash.com/photo-1642061038293-44afdf1de124?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZHluYW1pY3MlMjBkYWlseSUyMG1vbWVudHVtJTIwc21hbGwlMjBhY3Rpb25zfGVufDB8MHx8fDE3NTY1MTQzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Momentum Without Burning Out")
-*How to Build Daily Momentum Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-seize-the-moment-aDPBRtPwrsY)*
+{{< figure src="https://images.unsplash.com/photo-1642061038293-44afdf1de124?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZHluYW1pY3MlMjBkYWlseSUyMG1vbWVudHVtJTIwc21hbGwlMjBhY3Rpb25zfGVufDB8MHx8fDE3NTY1MTQzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word seize the moment" title="How to Build Daily Momentum Without Burning Out" caption="How to Build Daily Momentum Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-seize-the-moment-aDPBRtPwrsY)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "La Puissance de Prendre des Notes pour YouTube 📝"
 source_medium = "https://medium.com/@phenrysay/ec9eeb48460c"
 +++
 
-![.](https://images.unsplash.com/photo-1646446890195-a5f18c0e9666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxub3RlLXRha2luZyUyMFlvdVR1YmUlMjBjb250ZW50JTIwY3JlYXRpdml0eXxlbnwwfDB8fHwxNzU2NTIxNzI2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Taking Notes Makes You More Creative and Alert")
-*How Taking Notes Makes You More Creative and Alert - Photo by [Collabstr](https://unsplash.com/@collabstr) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-bed-nJQBpeZIwk8)*
+{{< figure src="https://images.unsplash.com/photo-1646446890195-a5f18c0e9666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxub3RlLXRha2luZyUyMFlvdVR1YmUlMjBjb250ZW50JTIwY3JlYXRpdml0eXxlbnwwfDB8fHwxNzU2NTIxNzI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A laptop sitting on top of a bed" title="How Taking Notes Makes You More Creative and Alert" caption="How Taking Notes Makes You More Creative and Alert - Photo by [Collabstr](https://unsplash.com/@collabstr) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-bed-nJQBpeZIwk8)" >}}
 
 Taking notes is a small act that can have a big impact on your life. It’s not just about writing things down. It’s about being more present, more curious, and more creative. When you get into the habit of taking notes, you start to notice the world around you in a different way. Your attention sharpens. You become more alert to details, sounds, and ideas that most people miss.
 
@@ -21,8 +20,7 @@ Instead of letting your phone distract you with endless notifications and random
 
 This reminds me of Isaac Newton and his famous “white list.” Newton kept a list of questions and thoughts that fascinated him. People often talk about the apple falling on his head as the moment he discovered gravity, but the real story is deeper. Newton’s habit of writing down his questions helped him make connections between ideas. That’s how he came up with the law of gravity. He didn’t just wait for inspiration to strike. He built it, note by note.
 
-![Photo by Kelly Sikkema](https://images.unsplash.com/photo-1694878982232-b4a5ead0b4e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxub3RlLXRha2luZyUyMFlvdVR1YmUlMjBjb250ZW50JTIwY3JlYXRpdml0eXxlbnwwfDB8fHwxNzU2NTIxNzI2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Taking Notes Makes You More Creative and Alert")
-*How Taking Notes Makes You More Creative and Alert - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-paper-cut-out-of-a-play-button-QKTPzDuvvOA)*
+{{< figure src="https://images.unsplash.com/photo-1694878982232-b4a5ead0b4e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxub3RlLXRha2luZyUyMFlvdVR1YmUlMjBjb250ZW50JTIwY3JlYXRpdml0eXxlbnwwfDB8fHwxNzU2NTIxNzI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A paper cut out of a play button" title="How Taking Notes Makes You More Creative and Alert" caption="How Taking Notes Makes You More Creative and Alert - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-paper-cut-out-of-a-play-button-QKTPzDuvvOA)" >}}
 
 > *“You can’t connect the dots looking forward; you can only connect them looking backwards.”*  
 — Steve Jobs
@@ -38,8 +36,7 @@ For example, think about the modern keyboard. It combines the feel of an old typ
 
 So, next time you’re out and about, bring a notebook. Write down what catches your attention. Ask questions. Make connections. You never know where your notes might lead you.
 
-![Get in the Flow | Instagram: @timmossholder](https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxub3RlLXRha2luZyUyMFlvdVR1YmUlMjBjb250ZW50JTIwY3JlYXRpdml0eXxlbnwwfDB8fHwxNzU2NTIxNzI2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Taking Notes Makes You More Creative and Alert")
-*How Taking Notes Makes You More Creative and Alert - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)*
+{{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxub3RlLXRha2luZyUyMFlvdVR1YmUlMjBjb250ZW50JTIwY3JlYXRpdml0eXxlbnwwfDB8fHwxNzU2NTIxNzI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How Taking Notes Makes You More Creative and Alert" caption="How Taking Notes Makes You More Creative and Alert - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Pensées négatives : comment arriver à les éviter ?"
 source_medium = "https://medium.com/@phenrysay/05efad0cb2ba"
 +++
 
-![If you like my work, please support me: paypal.me/viktorforgacs](https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shift Your Mindset Without Falling Into Negativity")
-*How to Shift Your Mindset Without Falling Into Negativity - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)*
+{{< figure src="https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="If you like my work, please support me: paypal.me/viktorforgacs" title="How to Shift Your Mindset Without Falling Into Negativity" caption="How to Shift Your Mindset Without Falling Into Negativity - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)" >}}
 
 When things go wrong, it’s easy to think you’re unlucky or that nothing ever works out for you. But the truth is, so much of what happens in life comes down to your mindset. If you keep a positive attitude and trust yourself, you set off a chain reaction. You’ll smile more, say yes to new opportunities, and attract the kind of life you want.
 
@@ -23,8 +22,7 @@ Your body language matters too. The way you carry yourself, the way you speak, e
 
 Some people always feel like life is against them. Maybe their bag gets stolen, then their hotel isn’t what they expected, then they get charged extra at checkout, and then their email account gets suspended. It feels like everything is going wrong, and they start to believe that nothing will ever go right for them. This is a vicious cycle. The more negativity you add, the more you notice things going wrong.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shift Your Mindset Without Falling Into Negativity")
-*How to Shift Your Mindset Without Falling Into Negativity - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)*
+{{< figure src="https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says great minds alike" title="How to Shift Your Mindset Without Falling Into Negativity" caption="How to Shift Your Mindset Without Falling Into Negativity - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)" >}}
 
 But here’s the thing: coincidences happen. What matters is how you respond. Even when things aren’t going well, staying positive is your best tool. Positivity helps you stay on track, feel good about yourself, and keep moving forward. Instead of thinking, “Everything is against me,” ask yourself, “How could I have avoided this? What can I learn?” Sometimes, things are out of your control, but your attitude is always yours to choose.
 
@@ -41,8 +39,7 @@ Try going a whole day without saying anything negative. Don’t complain, don’
 > *“Whether you think you can, or you think you can’t—you’re right.”*  
 — Henry Ford
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shift Your Mindset Without Falling Into Negativity")
-*How to Shift Your Mindset Without Falling Into Negativity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Shift Your Mindset Without Falling Into Negativity" caption="How to Shift Your Mindset Without Falling Into Negativity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 > *“The mind is everything. What you think, you become.”*  
 — Buddha

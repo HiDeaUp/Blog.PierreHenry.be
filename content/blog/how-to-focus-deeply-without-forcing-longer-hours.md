@@ -12,8 +12,7 @@ original_title = "Focus DEEP - Comment ça fonctionne ?"
 source_medium = "https://medium.com/@phenrysay/e053811f5646"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWVwJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHklMjBpc29sYXRpb258ZW58MHwwfHx8MTc1NTYwNjMyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus Deeply Without Forcing Longer Hours")
-*How to Focus Deeply Without Forcing Longer Hours - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWVwJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHklMjBpc29sYXRpb258ZW58MHwwfHx8MTc1NTYwNjMyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Focus Deeply Without Forcing Longer Hours" caption="How to Focus Deeply Without Forcing Longer Hours - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Finding deep focus is not just about working harder, but about creating the right environment and habits that let you dive into your tasks without distraction. Let me share how I approach ultra-deep focus, and why it can change the way you work.
 
@@ -27,8 +26,7 @@ But you don’t need a fancy pod to benefit from this idea. You can create your 
 
 One thing I always recommend is working in focused sprints. For me, 90 minutes is the sweet spot. After that, take a real break—about fifteen minutes. During this time, don’t check your emails or messages. The problem with reading messages is that they take up mental space, even if you don’t reply right away. Suddenly, your mind is filled with reminders of things you need to do, and you lose your focus.
 
-![While out and about at a music festival, snapped this while enjoy some good tunes!](https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWVwJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHklMjBpc29sYXRpb258ZW58MHwwfHx8MTc1NTYwNjMyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus Deeply Without Forcing Longer Hours")
-*How to Focus Deeply Without Forcing Longer Hours - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)*
+{{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWVwJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHklMjBpc29sYXRpb258ZW58MHwwfHx8MTc1NTYwNjMyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Focus Deeply Without Forcing Longer Hours" caption="How to Focus Deeply Without Forcing Longer Hours - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
 Instead, use your break to relax. Play with your dog or cat, go for a short walk, or just sit quietly. Avoid talking to family or friends during this time, even if the conversation is positive. Any new topic can add mental weight and pull you away from your task.
 
@@ -46,8 +44,7 @@ One trick that works well is habit stacking. Attach a new habit to an existing o
 
 Planning doesn’t stop at your daily schedule. Take time to plan your week and even your month. Set a clear goal for the week, then break it down into daily actions. For example, if your goal is to write more, decide what kind of articles you want to write, and schedule time for them each day. I use different tools for writing—sometimes a simple text editor, sometimes my iPad. The tool matters less than having a clear plan for what you want to achieve.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWVwJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHklMjBpc29sYXRpb258ZW58MHwwfHx8MTc1NTYwNjMyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus Deeply Without Forcing Longer Hours")
-*How to Focus Deeply Without Forcing Longer Hours - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWVwJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHklMjBpc29sYXRpb258ZW58MHwwfHx8MTc1NTYwNjMyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Focus Deeply Without Forcing Longer Hours" caption="How to Focus Deeply Without Forcing Longer Hours - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
 — Robert Collier

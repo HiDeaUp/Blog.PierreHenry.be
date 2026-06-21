@@ -10,8 +10,7 @@ original_title = "Feng Shui : Transformez votre intérieur, révolutionnez votre
 source_medium = "https://medium.com/@phenrysay/5280493005e1"
 +++
 
-![Design smartphone definition](https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBkZXNpZ24lMjBlbmVyZ3klMjBmbG93fGVufDB8MHx8fDE3NDkzOTMzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Home Without Moving a Single Wall")
-*How to Transform Your Home Without Moving a Single Wall - Photo by [Edho Pratama](https://unsplash.com/@edhogilangpratama) on [Unsplash](https://unsplash.com/photos/close-up-photo-black-android-smartphone-T6fDN60bMWY)*
+{{< figure src="https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBkZXNpZ24lMjBlbmVyZ3klMjBmbG93fGVufDB8MHx8fDE3NDkzOTMzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Design smartphone definition" title="How to Transform Your Home Without Moving a Single Wall" caption="How to Transform Your Home Without Moving a Single Wall - Photo by [Edho Pratama](https://unsplash.com/@edhogilangpratama) on [Unsplash](https://unsplash.com/photos/close-up-photo-black-android-smartphone-T6fDN60bMWY)" >}}
 
 Feng Shui is often seen as a mysterious art, but at its core, it’s about living in harmony with your environment. Many people think it’s just about where you put your furniture or how you arrange your windows, but it goes much deeper. The way your home is organized can have a real impact on your mind, your health, and even your happiness—often in ways you can’t see.
 
@@ -37,8 +36,7 @@ The same goes for your desk. If you work with an open door behind you, you might
 
 ## Energy, Security, and Instinct
 
-![Small house on an autumn’s day](https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBkZXNpZ24lMjBlbmVyZ3klMjBmbG93fGVufDB8MHx8fDE3NDkzOTMzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Home Without Moving a Single Wall")
-*How to Transform Your Home Without Moving a Single Wall - Photo by [Scott Webb](https://unsplash.com/@scottwebb) on [Unsplash](https://unsplash.com/photos/white-house-under-maple-trees-1ddol8rgUH8)*
+{{< figure src="https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBkZXNpZ24lMjBlbmVyZ3klMjBmbG93fGVufDB8MHx8fDE3NDkzOTMzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Small house on an autumn’s day" title="How to Transform Your Home Without Moving a Single Wall" caption="How to Transform Your Home Without Moving a Single Wall - Photo by [Scott Webb](https://unsplash.com/@scottwebb) on [Unsplash](https://unsplash.com/photos/white-house-under-maple-trees-1ddol8rgUH8)" >}}
 
 An open door behind you, even if you think it’s no big deal, can make you feel unsafe. Part of your brain is always on alert, using up energy and making it hard to fully relax. This is a survival instinct—being aware of what’s behind you.
 
@@ -68,8 +66,7 @@ Not everyone can change their home’s architecture, but small adjustments can m
 
 If your bedroom has an ensuite bathroom, make sure there’s a clear separation between the sleeping area and the bathing area. Don’t put a bathtub in the bedroom itself—keep spaces for rest and self-care distinct.
 
-![Follow my Instagram @karsten.wuerth](https://images.unsplash.com/photo-1451847251646-8a6c0dd1510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBkZXNpZ24lMjBlbmVyZ3klMjBmbG93fGVufDB8MHx8fDE3NDkzOTMzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Home Without Moving a Single Wall")
-*How to Transform Your Home Without Moving a Single Wall - Photo by [Karsten Würth](https://unsplash.com/@karsten_wuerth) on [Unsplash](https://unsplash.com/photos/white-windmills-on-green-grass-field-under-white-clouds-and-blue-sky-ZKWgoRUYuMk)*
+{{< figure src="https://images.unsplash.com/photo-1451847251646-8a6c0dd1510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBkZXNpZ24lMjBlbmVyZ3klMjBmbG93fGVufDB8MHx8fDE3NDkzOTMzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Follow my Instagram @karsten.wuerth" title="How to Transform Your Home Without Moving a Single Wall" caption="How to Transform Your Home Without Moving a Single Wall - Photo by [Karsten Würth](https://unsplash.com/@karsten_wuerth) on [Unsplash](https://unsplash.com/photos/white-windmills-on-green-grass-field-under-white-clouds-and-blue-sky-ZKWgoRUYuMk)" >}}
 
 ## Trust Your Instincts
 

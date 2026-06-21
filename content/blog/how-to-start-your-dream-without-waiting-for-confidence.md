@@ -12,8 +12,7 @@ original_title = "Démarre ton rêve aujourd’hui ! 🌎 Comment ?"
 source_medium = "https://medium.com/@phenrysay/441f7e4f3036"
 +++
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG92ZXJjb21pbmctZmVhcnxlbnwwfDB8fHwxNzU2NTEzNDk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Dream Without Waiting for Confidence")
-*How to Start Your Dream Without Waiting for Confidence - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG92ZXJjb21pbmctZmVhcnxlbnwwfDB8fHwxNzU2NTEzNDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Start Your Dream Without Waiting for Confidence" caption="How to Start Your Dream Without Waiting for Confidence - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 Many of us have dreams and goals. Maybe you want to launch a start-up, start a partnership, or open a small restaurant. But there’s something that holds us back: confidence. We often don’t see ourselves actually doing the thing we dream about. It feels out of reach, so days, months, and even years go by, and nothing changes.
 
@@ -21,8 +20,7 @@ Here’s the truth: there will never be a perfect moment. Waiting for the stars 
 
 You will make mistakes. That’s not just normal—it’s the only way forward. Mistakes are not disasters. They are simply signs that you are trying, searching, and learning. If you want to avoid mistakes completely, you’d have to stay in bed all day, every day, for your whole life. But that’s actually the biggest mistake of all.
 
-![Man climbing during summer](https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG92ZXJjb21pbmctZmVhcnxlbnwwfDB8fHwxNzU2NTEzNDk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Dream Without Waiting for Confidence")
-*How to Start Your Dream Without Waiting for Confidence - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)*
+{{< figure src="https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG92ZXJjb21pbmctZmVhcnxlbnwwfDB8fHwxNzU2NTEzNDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man climbing during summer" title="How to Start Your Dream Without Waiting for Confidence" caption="How to Start Your Dream Without Waiting for Confidence - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)" >}}
 
 Doing nothing is the only real failure. When you take action, you’re not making mistakes—you’re learning. If something doesn’t work out as planned, it’s not a failure. It’s a lesson. For example, if you start a business and it doesn’t make enough money, you might have to close it. That’s not a mistake. You tried, you learned, and maybe the business model wasn’t right. So you pivot. You try a new idea.
 
@@ -38,8 +36,7 @@ The important thing is to keep going, to keep learning, and to keep trying. That
 > _You don’t have to be great to start, but you have to start to be great._
 — Zig Ziglar
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG92ZXJjb21pbmctZmVhcnxlbnwwfDB8fHwxNzU2NTEzNDk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Dream Without Waiting for Confidence")
-*How to Start Your Dream Without Waiting for Confidence - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG92ZXJjb21pbmctZmVhcnxlbnwwfDB8fHwxNzU2NTEzNDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Start Your Dream Without Waiting for Confidence" caption="How to Start Your Dream Without Waiting for Confidence - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 ---
 

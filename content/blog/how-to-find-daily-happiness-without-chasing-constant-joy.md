@@ -10,8 +10,7 @@ original_title = "COMMENT PROFITER DE LA VIE : CE QUE D’AUTRES ONT DÉJÀ DÉC
 source_medium = "https://medium.com/@phenrysay/7f9daac49ae8"
 +++
 
-![Photo by Jimmy Liu](https://images.unsplash.com/photo-1752021751208-e4e9c24138d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBqb2llJTIwZGUlMjB2aXZyZSUyMGFuY2llbnQlMjBHcmVlayUyMHBoaWxvc29waHl8ZW58MHwwfHx8MTc1NTQyMjk3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Chasing Constant Joy")
-*How to Find Daily Happiness Without Chasing Constant Joy - Photo by [Jimmy Liu](https://unsplash.com/@jimmyliu) on [Unsplash](https://unsplash.com/photos/statue-of-plato-with-the-greek-flag-KUTFlxBl5s0)*
+{{< figure src="https://images.unsplash.com/photo-1752021751208-e4e9c24138d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBqb2llJTIwZGUlMjB2aXZyZSUyMGFuY2llbnQlMjBHcmVlayUyMHBoaWxvc29waHl8ZW58MHwwfHx8MTc1NTQyMjk3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Statue of plato with the greek flag" title="How to Find Daily Happiness Without Chasing Constant Joy" caption="How to Find Daily Happiness Without Chasing Constant Joy - Photo by [Jimmy Liu](https://unsplash.com/@jimmyliu) on [Unsplash](https://unsplash.com/photos/statue-of-plato-with-the-greek-flag-KUTFlxBl5s0)" >}}
 
 What does it really mean to have *joie de vivre*—that zest for life everyone seems to want? We all dream of waking up happy, feeling good about our days, and being excited about our projects. But happiness isn’t just about feeling cheerful all the time. There are days when you’ll be happier, and others when you’ll feel sad, frustrated, or even angry. That’s normal. But if your life, as a whole, feels happy, that’s what truly matters.
 
@@ -25,8 +24,7 @@ Of course, to get there, you need to make changes. You need to question yourself
 
 ## Don’t Get Stuck in the “Always Better” Trap
 
-![Photo by ANI SEBASTIAN](https://images.unsplash.com/photo-1749316039073-8c4f7e346df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBqb2llJTIwZGUlMjB2aXZyZSUyMGFuY2llbnQlMjBHcmVlayUyMHBoaWxvc29waHl8ZW58MHwwfHx8MTc1NTQyMjk3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Chasing Constant Joy")
-*How to Find Daily Happiness Without Chasing Constant Joy - Photo by [ANI SEBASTIAN](https://unsplash.com/@anibastian) on [Unsplash](https://unsplash.com/photos/statue-of-socrates-in-front-of-a-greek-flag-LDQvf5vbyf0)*
+{{< figure src="https://images.unsplash.com/photo-1749316039073-8c4f7e346df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBqb2llJTIwZGUlMjB2aXZyZSUyMGFuY2llbnQlMjBHcmVlayUyMHBoaWxvc29waHl8ZW58MHwwfHx8MTc1NTQyMjk3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Statue of in front of a greek flag" title="How to Find Daily Happiness Without Chasing Constant Joy" caption="How to Find Daily Happiness Without Chasing Constant Joy - Photo by [ANI SEBASTIAN](https://unsplash.com/@anibastian) on [Unsplash](https://unsplash.com/photos/statue-of-socrates-in-front-of-a-greek-flag-LDQvf5vbyf0)" >}}
 
 It’s good to want to improve, but don’t fall into the trap of always chasing “better, better, better” and never being satisfied. It’s important to step back, calm down, and be mindful. Appreciate what’s around you. Look in the mirror and say something positive to yourself. If you didn’t like your day, imagine you’re talking to your best friend. What would you say? Sometimes, just talking to yourself helps you see things more clearly.
 
@@ -46,8 +44,7 @@ Sometimes, someone says something hurtful, even a stranger on the street, and it
 
 Talk to yourself as if you were your best friend. Sometimes, you’ll find the answers you need just by saying things out loud. There’s nothing wrong with this—it helps. Developers use the “rubber duck” method for a reason! Sometimes, people are just clumsy with their words, or you misunderstand their intentions. It happens. Words can be tricky, and we all interpret them differently based on our past and our culture.
 
-![Arco de Adriano ](https://images.unsplash.com/photo-1620642018674-7917f763d07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBqb2llJTIwZGUlMjB2aXZyZSUyMGFuY2llbnQlMjBHcmVlayUyMHBoaWxvc29waHl8ZW58MHwwfHx8MTc1NTQyMjk3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Chasing Constant Joy")
-*How to Find Daily Happiness Without Chasing Constant Joy - Photo by [Sergio García](https://unsplash.com/@sergio76garcia) on [Unsplash](https://unsplash.com/photos/brown-concrete-pillar-surrounded-by-green-trees-under-white-sky-during-daytime-mTHftXuwPjk)*
+{{< figure src="https://images.unsplash.com/photo-1620642018674-7917f763d07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBqb2llJTIwZGUlMjB2aXZyZSUyMGFuY2llbnQlMjBHcmVlayUyMHBoaWxvc29waHl8ZW58MHwwfHx8MTc1NTQyMjk3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Arco de Adriano" title="How to Find Daily Happiness Without Chasing Constant Joy" caption="How to Find Daily Happiness Without Chasing Constant Joy - Photo by [Sergio García](https://unsplash.com/@sergio76garcia) on [Unsplash](https://unsplash.com/photos/brown-concrete-pillar-surrounded-by-green-trees-under-white-sky-during-daytime-mTHftXuwPjk)" >}}
 
 So, keep moving forward. Live a beautiful life. You deserve it. Life is short, and every day is a new chance to do something different. Don’t let negative thoughts or other people’s bad moods hold you back. If the journey of life is pleasant, you don’t need to worry about where it leads. Just enjoy the moment.
 

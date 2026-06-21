@@ -12,8 +12,7 @@ original_title = "Comment vivre une vie heureuse & réussie 🍾"
 source_medium = "https://medium.com/@phenrysay/fec200d2dd00"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwcG9zaXRpdmUlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NzQ2MzMxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Success With Simple Daily Habits")
-*How to Boost Happiness and Success With Simple Daily Habits - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwcG9zaXRpdmUlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NzQ2MzMxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Boost Happiness and Success With Simple Daily Habits" caption="How to Boost Happiness and Success With Simple Daily Habits - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Happiness and success are not just about big achievements or luck. They are built on small, daily choices that shape our mood, energy, and the way we see the world. Here are some practical ideas that have helped me, and I believe they can make a real difference for you too.
 
@@ -33,8 +32,7 @@ This isn’t just about feeling good for yourself. When you radiate positive ene
 
 Physical activity is essential, but it doesn’t have to be intense or complicated. Sometimes, just a quick walk or a few stretches can make a big difference. The key is to vary your activities. If you spend all day at your computer, your mind and body get stuck in a rut. Changing your environment, even for a few minutes, can refresh your mind and boost your mood.
 
-![Happy neon sign hip](https://images.unsplash.com/photo-1580640611343-3f53b12a5b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwcG9zaXRpdmUlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NzQ2MzMxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Success With Simple Daily Habits")
-*How to Boost Happiness and Success With Simple Daily Habits - Photo by [Stan B](https://unsplash.com/@stanislas1) on [Unsplash](https://unsplash.com/photos/red-love-neon-light-signage-F7m0W7QLP1s)*
+{{< figure src="https://images.unsplash.com/photo-1580640611343-3f53b12a5b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwcG9zaXRpdmUlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NzQ2MzMxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy neon sign hip" title="How to Boost Happiness and Success With Simple Daily Habits" caption="How to Boost Happiness and Success With Simple Daily Habits - Photo by [Stan B](https://unsplash.com/@stanislas1) on [Unsplash](https://unsplash.com/photos/red-love-neon-light-signage-F7m0W7QLP1s)" >}}
 
 ## Watch Your Words and Thoughts
 
@@ -60,8 +58,7 @@ Posture matters. Standing or sitting up straight not only helps your body, but i
 
 ## Let Go of What You Can’t Control
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwcG9zaXRpdmUlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NzQ2MzMxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Success With Simple Daily Habits")
-*How to Boost Happiness and Success With Simple Daily Habits - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwcG9zaXRpdmUlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NzQ2MzMxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Boost Happiness and Success With Simple Daily Habits" caption="How to Boost Happiness and Success With Simple Daily Habits - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 Finally, remember that not everything is in your hands. There will always be things happening around you that you can’t change. The best you can do is focus on your own actions and reactions. Let go of the rest.
 

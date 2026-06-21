@@ -10,15 +10,13 @@ original_title = "Petits efforts pour grands résultats !💪"
 source_medium = "https://medium.com/@phenrysay/7299026d110e"
 +++
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBtaWNyby1jaGFuZ2VzfGVufDB8MHx8fDE3NTY1MjU3ODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Big Results With Tiny Daily Habits")
-*How to Get Big Results With Tiny Daily Habits - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBtaWNyby1jaGFuZ2VzfGVufDB8MHx8fDE3NTY1MjU3ODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Get Big Results With Tiny Daily Habits" caption="How to Get Big Results With Tiny Daily Habits - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 Imagine making small improvements every day. It’s a bit like what compounding interest does to your savings. Over time, the little things you do add up and can completely change your life. If you spend just 20 minutes, half an hour, or even an hour each day working on something, after six months, a year, or two years, you’ll see a real difference.
 
 The key is to have a clear vision of what you want to achieve in a year. Once you know your goal, commit to spending at least 15 minutes every single day on it. No skipping days, not even weekends. Why? Because breaks make it much harder to start again. Monday mornings become a struggle if you’ve taken the weekend off. Consistency is what makes progress almost automatic.
 
-![lisbon, run, stair steps, man running, sport](https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBtaWNyby1jaGFuZ2VzfGVufDB8MHx8fDE3NTY1MjU3ODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Big Results With Tiny Daily Habits")
-*How to Get Big Results With Tiny Daily Habits - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)*
+{{< figure src="https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBtaWNyby1jaGFuZ2VzfGVufDB8MHx8fDE3NTY1MjU3ODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="lisbon, run, stair steps, man running, sport" title="How to Get Big Results With Tiny Daily Habits" caption="How to Get Big Results With Tiny Daily Habits - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)" >}}
 
 This approach isn’t about working harder, but about working steadily. The magic comes from not stopping. Even when you don’t feel like it, even when you’re tired, just do your 15 minutes. Over time, these small efforts pile up and create results that seem huge compared to the effort you put in each day.
 

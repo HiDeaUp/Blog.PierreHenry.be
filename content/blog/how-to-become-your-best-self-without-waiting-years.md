@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/01f321f5bdad"
 source_youtube = "https://www.youtube.com/watch?v=hL_8yx7sBG0"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBwb3NpdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzY4MjIxMjAxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Your Best Self Without Waiting Years")
-*How to Become Your Best Self Without Waiting Years - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBwb3NpdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzY4MjIxMjAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Become Your Best Self Without Waiting Years" caption="How to Become Your Best Self Without Waiting Years - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Have you ever looked at yourself and thought, “I’m proud of who I’ve become”? Maybe you’ve felt that spark of satisfaction, that sense of “Yes, this is exactly who I wanted to be.” But for many, as the months and years slip by, there’s a nagging feeling that life hasn’t quite gone the way we hoped. Sometimes, we hear our parents or grandparents say they never got to live the life they truly wanted. They followed the path set by society, felt the weight of expectations, and missed out on making their own choices. That’s a heavy realization. It’s sad because we only get one shot at life. There’s no rewind button, no way to leap back and try again.
 
@@ -36,8 +35,7 @@ Every day, I make it a point to take initiative. It’s not always easy to stay 
 
 Designing this app took a lot of thought. I wanted it to be simple and easy to use. If there’s too much friction, no one will use it. Imagine you have a hot plate of spaghetti in front of you. You want to eat, not mess around with a complicated app. That’s why clarity and simplicity matter so much.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBwb3NpdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzY4MjIxMjAxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Your Best Self Without Waiting Years")
-*How to Become Your Best Self Without Waiting Years - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBwb3NpdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzY4MjIxMjAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Become Your Best Self Without Waiting Years" caption="How to Become Your Best Self Without Waiting Years - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 ### Don’t Get Lost in Distractions
 
@@ -68,8 +66,7 @@ Here are five habits that can truly change everything:
 5. **Celebrate Small Wins**  
    Every step forward counts. Take time to appreciate your progress, no matter how small.
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBwb3NpdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzY4MjIxMjAxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Your Best Self Without Waiting Years")
-*How to Become Your Best Self Without Waiting Years - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBwb3NpdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzY4MjIxMjAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Become Your Best Self Without Waiting Years" caption="How to Become Your Best Self Without Waiting Years - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 ### Keep Your Happiness High
 

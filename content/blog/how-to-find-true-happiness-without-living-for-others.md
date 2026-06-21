@@ -12,8 +12,7 @@ original_title = "Tu te sens perdu ? Découvre comment retrouver le bonheur !"
 source_medium = "https://medium.com/@phenrysay/836f69833f37"
 +++
 
-![Photo by Hoi An Photographer](https://images.unsplash.com/photo-1621559369496-52b171b2979d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MjM5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find True Happiness Without Living for Others")
-*How to Find True Happiness Without Living for Others - Photo by [Hoi An Photographer](https://unsplash.com/@hoianphotographer) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-sunset-6Y5OBluh7pc)*
+{{< figure src="https://images.unsplash.com/photo-1621559369496-52b171b2979d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MjM5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on rock during sunset" title="How to Find True Happiness Without Living for Others" caption="How to Find True Happiness Without Living for Others - Photo by [Hoi An Photographer](https://unsplash.com/@hoianphotographer) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-sunset-6Y5OBluh7pc)" >}}
 
 For a long time, I often felt unhappy. I didn’t feel comfortable in my own skin, and it seemed like I was living my life for others, not for myself. Maybe you know what I mean. Sometimes, we do things because of social pressure, because we want to be seen in a good light, or simply because it’s the path others have chosen for us. But deep down, that path doesn’t fit us. It doesn’t match our personality, and it just doesn’t feel right.
 
@@ -23,8 +22,7 @@ Sometimes, that means leaving—leaving your country, your city, your job. Yes, 
 
 The same goes for starting a business. It’s a lot of stress and sleepless nights, but if you love it, if it pushes you to grow, if it excites you and makes you feel alive, then you should do it. On the other hand, some people just aren’t built for that kind of life. For them, happiness is a simple, peaceful life without worries. And that’s perfectly fine too.
 
-![Photo by ERNEST TARASOV](https://images.unsplash.com/photo-1622025461168-fc655a9f1512?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MjM5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find True Happiness Without Living for Others")
-*How to Find True Happiness Without Living for Others - Photo by [ERNEST TARASOV](https://unsplash.com/@rictrsv) on [Unsplash](https://unsplash.com/photos/man-in-black-tank-top-wearing-black-sunglasses-3ZseimgoVQQ)*
+{{< figure src="https://images.unsplash.com/photo-1622025461168-fc655a9f1512?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MjM5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black tank top wearing black" title="How to Find True Happiness Without Living for Others" caption="How to Find True Happiness Without Living for Others - Photo by [ERNEST TARASOV](https://unsplash.com/@rictrsv) on [Unsplash](https://unsplash.com/photos/man-in-black-tank-top-wearing-black-sunglasses-3ZseimgoVQQ)" >}}
 
 We’re all different. Some people handle stress better than others. Some people don’t worry much, while others do. We each grew up in different families, with different personalities. Sure, we can change a little, improve ourselves, but at the end of the day, we are who we are. We can’t become someone completely different. We always come back to our true selves.
 
@@ -39,8 +37,7 @@ Teaching is another way I’ve found to grow. When you teach something you’ve 
 
 So, whether you choose to go on your own journey or find guidance, remember that happiness comes from living your own life, not the life others expect from you.
 
-![Alone man in Hundredth band merch sitting on rocks of coast of Mediterranean sea and looking on horizon](https://images.unsplash.com/photo-1622201408758-b1379bcbfd86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MjM5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find True Happiness Without Living for Others")
-*How to Find True Happiness Without Living for Others - Photo by [iam_os](https://unsplash.com/@iam_os) on [Unsplash](https://unsplash.com/photos/man-in-white-shirt-sitting-on-rock-by-the-sea-during-daytime-c-iHiIjVo7g)*
+{{< figure src="https://images.unsplash.com/photo-1622201408758-b1379bcbfd86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MjM5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alone man in Hundredth band merch sitting on rocks of coast of Mediterranean sea and looking on horizon" title="How to Find True Happiness Without Living for Others" caption="How to Find True Happiness Without Living for Others - Photo by [iam_os](https://unsplash.com/@iam_os) on [Unsplash](https://unsplash.com/photos/man-in-white-shirt-sitting-on-rock-by-the-sea-during-daytime-c-iHiIjVo7g)" >}}
 
 ---
 

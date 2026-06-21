@@ -12,8 +12,7 @@ original_title = "Ce qu’il te faut pour une vie RÉUSSIE"
 source_medium = "https://medium.com/@phenrysay/601ade3ce196"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2VsZi1jb25maWRlbmNlJTIwbGlmZSUyMHRpcHN8ZW58MHwwfHx8MTc1NjAwNzY2MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Successful Life Without Overcomplicating It")
-*How to Build a Successful Life Without Overcomplicating It - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2VsZi1jb25maWRlbmNlJTIwbGlmZSUyMHRpcHN8ZW58MHwwfHx8MTc1NjAwNzY2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Build a Successful Life Without Overcomplicating It" caption="How to Build a Successful Life Without Overcomplicating It - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 When it comes to building a life that feels truly successful, there’s one thing that stands above all else: confidence in your own decisions and projects. Every day, you have things you want to achieve. It’s not just important, it’s essential to step out of your comfort zone and focus on these projects. Trusting in what you’re doing changes everything.
 
@@ -27,8 +26,7 @@ Doubt is the enemy of progress. If you doubt yourself, you reflect that doubt in
 
 Replace negativity with positive thoughts and actions. Stop saying things that hold you back, like “I’m not smart,” “I’m tired,” or “I’m fed up.” These thoughts build mental barriers and put you in the opposite state of mind from where you want to be. Instead, tell yourself, “I am smart, I am attractive, I will succeed, I know I’m on the path to success.” This kind of self-talk puts you in the right mindset for success.
 
-![Photo by Tony Chen](https://images.unsplash.com/photo-1727060591686-54444c494c46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1jb25maWRlbmNlJTIwbGlmZSUyMHRpcHN8ZW58MHwwfHx8MTc1NjAwNzY2MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Successful Life Without Overcomplicating It")
-*How to Build a Successful Life Without Overcomplicating It - Photo by [Tony Chen](https://unsplash.com/@tony1218) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-cement-wall-zrpoQovq2qM)*
+{{< figure src="https://images.unsplash.com/photo-1727060591686-54444c494c46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1jb25maWRlbmNlJTIwbGlmZSUyMHRpcHN8ZW58MHwwfHx8MTc1NjAwNzY2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on top of a cement wall" title="How to Build a Successful Life Without Overcomplicating It" caption="How to Build a Successful Life Without Overcomplicating It - Photo by [Tony Chen](https://unsplash.com/@tony1218) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-cement-wall-zrpoQovq2qM)" >}}
 
 A good life is simple: it’s about having control over your own life. When you’re disciplined, you create a beautiful life. A successful life is just a collection of good days—days that bring you joy. If you have many pleasant days, you’ve succeeded.
 
@@ -46,8 +44,7 @@ Our limits are often self-imposed. If you want to succeed, you have to let go of
 
 Sometimes, we’re blind to what’s possible. We tell ourselves life is hard, or we can’t do something because of this or that. But positive affirmations and personal mottos help you build the right mindset. If you repeat them daily, you start to live on the path to lasting success. Your subconscious will reflect what you want to achieve.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2VsZi1jb25maWRlbmNlJTIwbGlmZSUyMHRpcHN8ZW58MHwwfHx8MTc1NjAwNzY2MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Successful Life Without Overcomplicating It")
-*How to Build a Successful Life Without Overcomplicating It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2VsZi1jb25maWRlbmNlJTIwbGlmZSUyMHRpcHN8ZW58MHwwfHx8MTc1NjAwNzY2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Build a Successful Life Without Overcomplicating It" caption="How to Build a Successful Life Without Overcomplicating It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 > *The only limits in your life are those you set yourself.*
 > — Anonymous

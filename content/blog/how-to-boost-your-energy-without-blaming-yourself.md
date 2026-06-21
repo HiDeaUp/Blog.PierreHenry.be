@@ -12,8 +12,7 @@ original_title = "Mon avis pour exceller dans sa vie..."
 source_medium = "https://medium.com/@phenrysay/170463c42b26"
 +++
 
-![There were many short lived pop-up thunderstorms on this day. This one produced a microburst which I was lucky enough to catch on camera. ](https://images.unsplash.com/photo-1561470508-fd4df1ed90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMwMjExN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Blaming Yourself")
-*How to Boost Your Energy Without Blaming Yourself - Photo by [NOAA](https://unsplash.com/@noaa) on [Unsplash](https://unsplash.com/photos/microburst-thunderstorm-Led9c1SSNFo)*
+{{< figure src="https://images.unsplash.com/photo-1561470508-fd4df1ed90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMwMjExN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="There were many short lived pop-up thunderstorms on this day. This one produced a microburst which I was lucky enough to catch on camera." title="How to Boost Your Energy Without Blaming Yourself" caption="How to Boost Your Energy Without Blaming Yourself - Photo by [NOAA](https://unsplash.com/@noaa) on [Unsplash](https://unsplash.com/photos/microburst-thunderstorm-Led9c1SSNFo)" >}}
 
 Have you ever found yourself feeling tired, drained, or just a bit off, and wondered what’s wrong with you? It’s easy to blame ourselves for not being productive enough, for feeling lazy, or for not getting things done. But what if the real problem isn’t you at all? What if it’s your environment?
 
@@ -23,8 +22,7 @@ Changing your environment—even something as simple as moving to a brighter roo
 
 Habits and routines play a big role here. Motivation comes and goes, but habits stick around. When something becomes a habit, you do it on autopilot—like brushing your teeth or taking a shower. You don’t question it, you just do it. The same can be true for exercise, writing, or learning something new. The trick is to make starting as easy as possible.
 
-![…breathe! For a full size digital copy (6000x4000px RAW+JPG) of this file, or a high quality print, please contact me via instagram: @timothy.j.g, or email: tim@goedhart-lin.nl That file would be free to use for any means except direct reselling (copywrite is included in metadata). When using this free image online: please tag, credit and if you want, follow me on Instagram.](https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMwMjExN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Blaming Yourself")
-*How to Boost Your Energy Without Blaming Yourself - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)*
+{{< figure src="https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMwMjExN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe neon signage" title="How to Boost Your Energy Without Blaming Yourself" caption="How to Boost Your Energy Without Blaming Yourself - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)" >}}
 
 For example, if you want to write more, leave your laptop open with your writing program ready to go. If you want to jog in the morning, put your running clothes and shoes next to your bed. If you want to use your exercise bike, keep it in plain sight. By making it easier to start, you remove the little barriers that slow you down.
 
@@ -40,9 +38,7 @@ Sometimes, the answer really is to change your environment. Some places just dra
 > *“Don’t adapt to the energy in the room. Influence the energy in the room.”*  
 > — Unknown
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMwMjExN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Blaming Yourself")
-*How to Boost Your Energy Without Blaming Yourself - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMwMjExN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Boost Your Energy Without Blaming Yourself" caption="How to Boost Your Energy Without Blaming Yourself - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ---
 

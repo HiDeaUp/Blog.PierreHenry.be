@@ -12,8 +12,7 @@ original_title = "Tu es en train de te faire piéger par la Rat Race 🐀"
 source_medium = "https://medium.com/@phenrysay/e5cd88c815a6"
 +++
 
-![Photo by Nikolett Emmert](https://images.unsplash.com/photo-1720002788376-9331f5ed3cb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyYXQlMjByYWNlJTIwbGlmZSUyMHNhdGlzZmFjdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTQyMzYyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the Rat Race Without Losing Yourself")
-*How to Escape the Rat Race Without Losing Yourself - Photo by [Nikolett Emmert](https://unsplash.com/@niki_emmert) on [Unsplash](https://unsplash.com/photos/a-couple-of-rat-eating-a-piece-of-bread-wLQboz1vkOk)*
+{{< figure src="https://images.unsplash.com/photo-1720002788376-9331f5ed3cb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyYXQlMjByYWNlJTIwbGlmZSUyMHNhdGlzZmFjdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTQyMzYyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A couple of rat eating a piece of bread" title="How to Escape the Rat Race Without Losing Yourself" caption="How to Escape the Rat Race Without Losing Yourself - Photo by [Nikolett Emmert](https://unsplash.com/@niki_emmert) on [Unsplash](https://unsplash.com/photos/a-couple-of-rat-eating-a-piece-of-bread-wLQboz1vkOk)" >}}
 
 Let’s talk about the rat race—the endless loop where you always feel you have to do more, achieve more, and be more. It’s easy to fall into this trap, and it doesn’t matter if you’re an employee, a freelancer, or even an entrepreneur. The rat race is everywhere, just wearing different clothes.
 
@@ -29,8 +28,7 @@ Even outside of work, the pressure continues. You’re expected to start a famil
 
 All these expectations come with a price—literally and emotionally. You work more to afford the house, the car, the lifestyle. But is this really living? Or are you just running in circles, sacrificing your time and happiness for things that don’t truly matter to you?
 
-![Photo by Kalyan Sak](https://images.unsplash.com/photo-1644916149879-98a11c3a8d73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyYXQlMjByYWNlJTIwbGlmZSUyMHNhdGlzZmFjdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTQyMzYyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the Rat Race Without Losing Yourself")
-*How to Escape the Rat Race Without Losing Yourself - Photo by [Kalyan Sak](https://unsplash.com/@kalyansak) on [Unsplash](https://unsplash.com/photos/a-white-rat-sitting-on-top-of-a-wooden-table-6N8apSPm6Ak)*
+{{< figure src="https://images.unsplash.com/photo-1644916149879-98a11c3a8d73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyYXQlMjByYWNlJTIwbGlmZSUyMHNhdGlzZmFjdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTQyMzYyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A white rat sitting on top of a wooden table" title="How to Escape the Rat Race Without Losing Yourself" caption="How to Escape the Rat Race Without Losing Yourself - Photo by [Kalyan Sak](https://unsplash.com/@kalyansak) on [Unsplash](https://unsplash.com/photos/a-white-rat-sitting-on-top-of-a-wooden-table-6N8apSPm6Ak)" >}}
 
 ## Life Can Change in an Instant
 
@@ -54,8 +52,7 @@ If you’re not happy with your daily life, it’s up to you to change it. Don�
 
 Time is the one thing you can never get back. Money comes and goes, but lost time is gone forever. Don’t put off your dreams, thinking you’ll have more time or money later. There will always be new expenses, new problems, new reasons to wait. The best moment is now.
 
-![White Albino Rat](https://images.unsplash.com/photo-1580015879387-a6a5be9aae3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyYXQlMjByYWNlJTIwbGlmZSUyMHNhdGlzZmFjdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTQyMzYyMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the Rat Race Without Losing Yourself")
-*How to Escape the Rat Race Without Losing Yourself - Photo by [May](https://unsplash.com/@firecloak) on [Unsplash](https://unsplash.com/photos/white-mouse-on-pink-textile-1rn98OLW7pM)*
+{{< figure src="https://images.unsplash.com/photo-1580015879387-a6a5be9aae3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyYXQlMjByYWNlJTIwbGlmZSUyMHNhdGlzZmFjdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTQyMzYyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="White Albino Rat" title="How to Escape the Rat Race Without Losing Yourself" caption="How to Escape the Rat Race Without Losing Yourself - Photo by [May](https://unsplash.com/@firecloak) on [Unsplash](https://unsplash.com/photos/white-mouse-on-pink-textile-1rn98OLW7pM)" >}}
 
 If the weather is bad where you are, maybe you can take a trip somewhere sunny. If your partner doesn’t want to join, maybe you go alone and come back refreshed. The point is, don’t keep postponing your happiness. Even small changes can bring more joy to your life.
 

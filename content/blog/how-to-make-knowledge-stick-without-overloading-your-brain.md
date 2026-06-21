@@ -12,10 +12,7 @@ original_title = "Comment s'approprier des nouvelles connaissances ?"
 source_medium = "https://medium.com/@phenrysay/fc4095db7c2f"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, i am still learning, learning, learn, study, life study, always learning, world student, student of life,
-
-](https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBrbm93bGVkZ2UlMjBhY3F1aXNpdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNzMyOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Knowledge Stick Without Overloading Your Brain")
-*How to Make Knowledge Stick Without Overloading Your Brain - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)*
+{{< figure src="https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBrbm93bGVkZ2UlMjBhY3F1aXNpdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNzMyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table w7sIj M5Xyc" title="How to Make Knowledge Stick Without Overloading Your Brain" caption="How to Make Knowledge Stick Without Overloading Your Brain - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)" >}}
 
 ### Get Ahead by Owning What You Learn
 
@@ -33,8 +30,7 @@ Once you have your list, connect the dots. Link your notes and actions together.
 
 ## Go Beyond the Obvious Sources
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live, learn, love, life, live life, live learn love, keep learning, stay open, holistic, mindfulness, loving, learning, living, ](https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBrbm93bGVkZ2UlMjBhY3F1aXNpdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNzMyOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Knowledge Stick Without Overloading Your Brain")
-*How to Make Knowledge Stick Without Overloading Your Brain - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)*
+{{< figure src="https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBrbm93bGVkZ2UlMjBhY3F1aXNpdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNzMyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Make Knowledge Stick Without Overloading Your Brain" caption="How to Make Knowledge Stick Without Overloading Your Brain - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)" >}}
 
 When you want to become an expert, don’t just rely on the internet. Sometimes, online information is too general or shallow, especially for very specific topics. For example, if I want to learn about Adelaide, I might go to the State Library of South Australia. There, I can find rare or exclusive information that isn’t easily found online. Talking to librarians can open doors to archives and hidden gems about the city.
 
@@ -56,8 +52,7 @@ Sometimes, the best sources are not the most obvious ones. Don’t underestimate
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, listen, learn, love, listen learn love, counselling, counseling, counselor, counsellor, therapy, help, depression, trouble, ](https://images.unsplash.com/photo-1615044806063-cf09a17b1a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBrbm93bGVkZ2UlMjBhY3F1aXNpdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNzMyOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Knowledge Stick Without Overloading Your Brain")
-*How to Make Knowledge Stick Without Overloading Your Brain - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-dTtwulMKkZE)*
+{{< figure src="https://images.unsplash.com/photo-1615044806063-cf09a17b1a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBrbm93bGVkZ2UlMjBhY3F1aXNpdGlvbiUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNzMyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Make Knowledge Stick Without Overloading Your Brain" caption="How to Make Knowledge Stick Without Overloading Your Brain - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-dTtwulMKkZE)" >}}
 
 ---
 * Have a clear plan for what you want to learn each week.

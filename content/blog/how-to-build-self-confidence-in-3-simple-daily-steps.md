@@ -12,8 +12,7 @@ original_title = "Pratiquer sa confiance en soi au quotidien 💥"
 source_medium = "https://medium.com/@phenrysay/45c25d327e07"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY1MjM3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Confidence in 3 Simple Daily Steps")
-*How to Build Self-Confidence in 3 Simple Daily Steps - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY1MjM3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Build Self-Confidence in 3 Simple Daily Steps" caption="How to Build Self-Confidence in 3 Simple Daily Steps - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Self-confidence is not something you’re born with. It’s a skill you can practice, just like any other. Here are three practical tips to help you build your confidence, day after day.
 
@@ -27,8 +26,7 @@ If you usually watch mindless reality TV, try switching to documentaries, podcas
 
 Never underestimate the power of a good night’s sleep. Rest is essential for your confidence. When you’re well-rested, you have more energy, and positive energy creates a virtuous cycle. The better you feel, the more you enjoy your life, and the more confident you become. It’s as if everything falls into place.
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY1MjM3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Confidence in 3 Simple Daily Steps")
-*How to Build Self-Confidence in 3 Simple Daily Steps - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY1MjM3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Build Self-Confidence in 3 Simple Daily Steps" caption="How to Build Self-Confidence in 3 Simple Daily Steps - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 On the other hand, if you’re exhausted and unhappy, it’s much harder to stand up for yourself or believe in your ideas. So, take care of your sleep and your overall well-being. It’s a foundation for self-confidence.
 
@@ -50,8 +48,7 @@ The key is to keep practicing. Speak up, stand tall, and take action, even if it
 
 ---
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY1MjM3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Confidence in 3 Simple Daily Steps")
-*How to Build Self-Confidence in 3 Simple Daily Steps - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY1MjM3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to Build Self-Confidence in 3 Simple Daily Steps" caption="How to Build Self-Confidence in 3 Simple Daily Steps - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Le manuel d'une vie réussie"
 source_medium = "https://medium.com/@phenrysay/37f1b163c062"
 +++
 
-![Photo by Hermes Rivera](https://images.unsplash.com/photo-1570726388406-af62044eee24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWJlbGllZiUyMGRlY2lzaW9uJTIwbWFraW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTYwNTI5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Trust Your Choices Without Second-Guessing Yourself")
-*How to Trust Your Choices Without Second-Guessing Yourself - Photo by [Hermes Rivera](https://unsplash.com/@hermez777) on [Unsplash](https://unsplash.com/photos/man-wearing-black-jacket-looking-at-forest-eiwTlEhhLJo)*
+{{< figure src="https://images.unsplash.com/photo-1570726388406-af62044eee24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWJlbGllZiUyMGRlY2lzaW9uJTIwbWFraW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTYwNTI5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man wearing black jacket looking at forest" title="How to Trust Your Choices Without Second-Guessing Yourself" caption="How to Trust Your Choices Without Second-Guessing Yourself - Photo by [Hermes Rivera](https://unsplash.com/@hermez777) on [Unsplash](https://unsplash.com/photos/man-wearing-black-jacket-looking-at-forest-eiwTlEhhLJo)" >}}
 
 Believing in your own decisions and projects is not just important—it’s essential. Every day, we start things, we make choices, and we dream about what we want to achieve. But the real difference between those who move forward and those who stay stuck is simple: confidence in what you’re doing.
 
@@ -31,8 +30,7 @@ When you know what to do, you move forward. Doubt, on the other hand, is like a 
 
 That’s why it’s so important to repeat positive things to yourself. Use affirmations. Visualize your success. Make a vision board if you want. Replace negative thoughts with positive ones. Stop saying things that hold you back, like “I’m not smart,” “I’m tired,” or “I can’t do this.” These words build mental walls that keep you from moving forward.
 
-![Lone man on cliff edge looking down onto Lake Windermere ](https://images.unsplash.com/photo-1601198809779-74ad5583198d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWJlbGllZiUyMGRlY2lzaW9uJTIwbWFraW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTYwNTI5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Trust Your Choices Without Second-Guessing Yourself")
-*How to Trust Your Choices Without Second-Guessing Yourself - Photo by [Jonny Gios](https://unsplash.com/@supergios) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-standing-on-rock-formation-under-cloudy-sky-during-daytime-ltS9LgLayLQ)*
+{{< figure src="https://images.unsplash.com/photo-1601198809779-74ad5583198d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWJlbGllZiUyMGRlY2lzaW9uJTIwbWFraW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTYwNTI5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Lone man on cliff edge looking down onto Lake Windermere" title="How to Trust Your Choices Without Second-Guessing Yourself" caption="How to Trust Your Choices Without Second-Guessing Yourself - Photo by [Jonny Gios](https://unsplash.com/@supergios) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-standing-on-rock-formation-under-cloudy-sky-during-daytime-ltS9LgLayLQ)" >}}
 
 Instead, tell yourself, “I am smart. I am good-looking. I will succeed. I am on the path to success.” These words put you in the right mindset for achieving your goals.
 
@@ -60,8 +58,7 @@ When you feel worried or afraid, replace that feeling with calm. Swap doubt for 
 
 ## Your Only Real Limit Is in Your Mind
 
-![Photo by alvaro ortiz](https://images.unsplash.com/photo-1560930997-0694471b425b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWJlbGllZiUyMGRlY2lzaW9uJTIwbWFraW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTYwNTI5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Trust Your Choices Without Second-Guessing Yourself")
-*How to Trust Your Choices Without Second-Guessing Yourself - Photo by [alvaro ortiz](https://unsplash.com/@furilo) on [Unsplash](https://unsplash.com/photos/silhouette-photography-of-man-sFjMDft1W9k)*
+{{< figure src="https://images.unsplash.com/photo-1560930997-0694471b425b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWJlbGllZiUyMGRlY2lzaW9uJTIwbWFraW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTYwNTI5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of man" title="How to Trust Your Choices Without Second-Guessing Yourself" caption="How to Trust Your Choices Without Second-Guessing Yourself - Photo by [alvaro ortiz](https://unsplash.com/@furilo) on [Unsplash](https://unsplash.com/photos/silhouette-photography-of-man-sFjMDft1W9k)" >}}
 
 We often think life is harder than it is. But most of our limits are self-made. If you want to succeed, you have to break free from these mental chains. Your success depends on how you see things and, above all, on the mindset you build for yourself.
 

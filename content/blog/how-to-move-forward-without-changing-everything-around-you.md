@@ -12,8 +12,7 @@ original_title = "Tu Stagnes ? Voici les Signaux QUI CHANGENT TOUT (Et Te Font A
 source_medium = "https://medium.com/@phenrysay/85e28eb052b9"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTEzMDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Changing Everything Around You")
-*How to Move Forward Without Changing Everything Around You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTEzMDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Move Forward Without Changing Everything Around You" caption="How to Move Forward Without Changing Everything Around You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever wondered what it really takes to feel happy and fulfilled in your life? It’s a bit like a plant: give it the right soil, and it grows tall and blooms. We’re not so different. When we find the right elements for ourselves, we start to thrive.
 
@@ -25,8 +24,7 @@ One of the biggest boosts you can give yourself is to find an environment that l
 
 Sometimes, the answer isn’t to move permanently, but simply to travel more. A change of scenery, even for a short while, can do wonders. Today, for example, the weather isn’t great, so I’m inside to avoid the noise and heat. But even then, I know that being in a place that feels good to me helps me recharge.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTEzMDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Changing Everything Around You")
-*How to Move Forward Without Changing Everything Around You - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTEzMDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Move Forward Without Changing Everything Around You" caption="How to Move Forward Without Changing Everything Around You - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 So, if you feel like you’re stagnating, pay attention to your environment. Is it helping you grow, or holding you back? Don’t be afraid to look for places and people that make you feel alive. Sometimes, that’s all it takes to get moving again.
 
@@ -47,8 +45,7 @@ So, if you feel like you’re stagnating, pay attention to your environment. Is 
 - Sometimes, a change of scenery or routine is all you need.
 - Don’t wait for the “perfect” time. Start making changes now.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTEzMDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Changing Everything Around You")
-*How to Move Forward Without Changing Everything Around You - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTEzMDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Move Forward Without Changing Everything Around You" caption="How to Move Forward Without Changing Everything Around You - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ## Action Steps
 

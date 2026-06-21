@@ -12,8 +12,7 @@ original_title = "Devenir une version RICHE de soi même méthode Australienne
 source_medium = "https://medium.com/@phenrysay/f18503b565c2"
 +++
 
-![Sunny day in the beautiful city of Sydney. This skyline is an unforgettable view against the blue water. ](https://images.unsplash.com/photo-1589460668152-a3cc7f6a756e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBBdXN0cmFsaWFuJTIwbWV0aG9kfGVufDB8MHx8fDE3NTUzODU2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Rich in a Weekend—Without Chasing Money")
-*How to Get Rich in a Weekend—Without Chasing Money - Photo by [Jordy Chapman](https://unsplash.com/@chapmanjordy) on [Unsplash](https://unsplash.com/photos/man-in-black-and-white-striped-shirt-wearing-black-sunglasses-looking-at-city-buildings-during-daytime--R3hkObGklw)*
+{{< figure src="https://images.unsplash.com/photo-1589460668152-a3cc7f6a756e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBBdXN0cmFsaWFuJTIwbWV0aG9kfGVufDB8MHx8fDE3NTUzODU2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Sunny day in the beautiful city of Sydney. This skyline is an unforgettable view against the blue water." title="How to Get Rich in a Weekend—Without Chasing Money" caption="How to Get Rich in a Weekend—Without Chasing Money - Photo by [Jordy Chapman](https://unsplash.com/@chapmanjordy) on [Unsplash](https://unsplash.com/photos/man-in-black-and-white-striped-shirt-wearing-black-sunglasses-looking-at-city-buildings-during-daytime--R3hkObGklw)" >}}
 
 When people talk about getting rich, the conversation usually turns to money. But what if the real wealth starts with you? Investing in yourself—your skills, your health, your life experiences—can be the simplest way to gain more in the long run, even if you’re not making a fortune right now.
 
@@ -29,8 +28,7 @@ Gates used to disappear for a week with nothing but notebooks and pens. No elect
 
 I’ve done this myself, many times. I’m a big fan of what I call “hermit weekends.” You just go somewhere quiet, away from the city, maybe to the mountains or by the sea. Right now, I’m sitting by a bay—Elizabeth Bay, to be exact. The weather changes quickly here, but the place stays beautiful. I’ve even swum in this bay (though you have to watch out for sharks—someone got bitten recently, but thankfully survived). The point is, the place is peaceful, and that’s what matters.
 
-![Photo by Brooke Cagle](https://images.unsplash.com/photo-1601935033900-059813f9abfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBBdXN0cmFsaWFuJTIwbWV0aG9kfGVufDB8MHx8fDE3NTUzODU2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Rich in a Weekend—Without Chasing Money")
-*How to Get Rich in a Weekend—Without Chasing Money - Photo by [Brooke Cagle](https://unsplash.com/@brookecagle) on [Unsplash](https://unsplash.com/photos/man-in-brown-and-white-plaid-button-up-shirt-standing-on-brown-rock-during-daytime-u3ZuB0dreO0)*
+{{< figure src="https://images.unsplash.com/photo-1601935033900-059813f9abfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBBdXN0cmFsaWFuJTIwbWV0aG9kfGVufDB8MHx8fDE3NTUzODU2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in brown and white plaid button up shirt on brown rock during daytime" title="How to Get Rich in a Weekend—Without Chasing Money" caption="How to Get Rich in a Weekend—Without Chasing Money - Photo by [Brooke Cagle](https://unsplash.com/@brookecagle) on [Unsplash](https://unsplash.com/photos/man-in-brown-and-white-plaid-button-up-shirt-standing-on-brown-rock-during-daytime-u3ZuB0dreO0)" >}}
 
 ## Give Yourself Permission to Do Nothing
 
@@ -52,8 +50,7 @@ If you’re not happy, ask yourself: What can I do right now? The answer is your
 > _“You are the answer. The answer is you.”_  
 > — Pierre
 
-![Photo by BehindTheTmuna](https://images.unsplash.com/photo-1736109991426-ba1eff60b1db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBBdXN0cmFsaWFuJTIwbWV0aG9kfGVufDB8MHx8fDE3NTUzODU2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Rich in a Weekend—Without Chasing Money")
-*How to Get Rich in a Weekend—Without Chasing Money - Photo by [BehindTheTmuna](https://unsplash.com/@behindthetmuna) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-wsUylzS6JJs)*
+{{< figure src="https://images.unsplash.com/photo-1736109991426-ba1eff60b1db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBBdXN0cmFsaWFuJTIwbWV0aG9kfGVufDB8MHx8fDE3NTUzODU2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on top of a rock next to the ocean" title="How to Get Rich in a Weekend—Without Chasing Money" caption="How to Get Rich in a Weekend—Without Chasing Money - Photo by [BehindTheTmuna](https://unsplash.com/@behindthetmuna) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-wsUylzS6JJs)" >}}
 
 So, what can you do tonight, or this weekend, to start becoming the richer version of yourself?
 

@@ -12,8 +12,7 @@ original_title = "Change ton Monde Intérieur pour Explorer de Nouveaux Horizons
 source_medium = "https://medium.com/@phenrysay/221e0c029a18"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGNvbWZvcnQlMjB6b25lJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTUzNDU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stretch Your Comfort Zone Without Feeling Overwhelmed")
-*How to Stretch Your Comfort Zone Without Feeling Overwhelmed - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGNvbWZvcnQlMjB6b25lJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTUzNDU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Stretch Your Comfort Zone Without Feeling Overwhelmed" caption="How to Stretch Your Comfort Zone Without Feeling Overwhelmed - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Have you ever thought about doing something new today? Maybe you’re starting a project, trying something that scares you a little, or simply going to a coffee shop or restaurant you’ve never visited before. Perhaps you’ve wanted to go to a cocktail bar, alone or with someone, but felt too shy or unsure. Today is the day to stretch your comfort zone and try something different.
 
@@ -23,8 +22,7 @@ Every day is a chance to do something new. I invite you to make it a habit: do o
 >
 > — Søren Kierkegaard
 
-![Life in a small pot](https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGNvbWZvcnQlMjB6b25lJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTUzNDU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stretch Your Comfort Zone Without Feeling Overwhelmed")
-*How to Stretch Your Comfort Zone Without Feeling Overwhelmed - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)*
+{{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGNvbWZvcnQlMjB6b25lJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTUzNDU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Stretch Your Comfort Zone Without Feeling Overwhelmed" caption="How to Stretch Your Comfort Zone Without Feeling Overwhelmed - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
 This quote rings so true. When you dare, you might feel off balance for a moment. But if you never dare, you risk losing your life’s spark. So, do something new every day. It could open doors to new opportunities. Maybe you’ll get fresh ideas, or you’ll realize, “This is what I’ve wanted to do for years.” Sometimes, trying something new gives you that “aha” moment—a sudden realization that feels just right.
 
@@ -38,8 +36,7 @@ By stretching your comfort zone, you’ll find it easier to try new things. The 
 
 So, I wish you all the best as you try new things. Remember, every small step counts. You never know what you might discover about yourself or the world around you.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGNvbWZvcnQlMjB6b25lJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTUzNDU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stretch Your Comfort Zone Without Feeling Overwhelmed")
-*How to Stretch Your Comfort Zone Without Feeling Overwhelmed - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGNvbWZvcnQlMjB6b25lJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTUzNDU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Stretch Your Comfort Zone Without Feeling Overwhelmed" caption="How to Stretch Your Comfort Zone Without Feeling Overwhelmed - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 ---
 

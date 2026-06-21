@@ -12,8 +12,7 @@ original_title = "Ce que personne nous dit sur la productivité 🤫"
 source_medium = "https://medium.com/@phenrysay/cccf2bfc36e5"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUyMTQ5MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity Without Forcing Yourself to Focus")
-*How to Boost Productivity Without Forcing Yourself to Focus - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUyMTQ5MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Boost Productivity Without Forcing Yourself to Focus" caption="How to Boost Productivity Without Forcing Yourself to Focus - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever noticed how your attention seems to wander everywhere except where you need it most? You sit down to work, but your mind jumps from unfinished tasks to past conversations, or maybe that email you received earlier keeps nagging at you. Instead of focusing fully on your current task, only a small part of your attention is actually present. The rest is scattered, making it hard to get anything done well.
 
@@ -29,8 +28,7 @@ Meditation is an excellent way to train your brain to focus. Even just a couple 
 
 There’s a funny paradox here. When you try to think about nothing, all sorts of thoughts rush in. But if you allow yourself to think about anything, suddenly your mind quiets down. The trick is to accept the thoughts, let them pass, and gently return your focus.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUyMTQ5MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity Without Forcing Yourself to Focus")
-*How to Boost Productivity Without Forcing Yourself to Focus - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUyMTQ5MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Boost Productivity Without Forcing Yourself to Focus" caption="How to Boost Productivity Without Forcing Yourself to Focus - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ## Move Your Body, Clear Your Mind
 
@@ -52,8 +50,7 @@ And when you’re working, remember to turn off notifications—email, phone, ev
 > _“The mind is a wonderful servant, but a terrible master.”_  
 — Robin Sharma
 
-![Team Klarket Agency ](https://images.unsplash.com/photo-1613579917953-d35e6b72d32b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUyMTQ5MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity Without Forcing Yourself to Focus")
-*How to Boost Productivity Without Forcing Yourself to Focus - Photo by [HamZa NOUASRIA](https://unsplash.com/@hamza01nsr) on [Unsplash](https://unsplash.com/photos/white-and-red-ceramic-mug-h8CYq5InIAI)*
+{{< figure src="https://images.unsplash.com/photo-1613579917953-d35e6b72d32b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUyMTQ5MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Team Klarket Agency" title="How to Boost Productivity Without Forcing Yourself to Focus" caption="How to Boost Productivity Without Forcing Yourself to Focus - Photo by [HamZa NOUASRIA](https://unsplash.com/@hamza01nsr) on [Unsplash](https://unsplash.com/photos/white-and-red-ceramic-mug-h8CYq5InIAI)" >}}
 
 ---
 

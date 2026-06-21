@@ -12,8 +12,7 @@ original_title = "Visibilité GAGNANTE : L’unique stratégie pour percer quand
 source_medium = "https://medium.com/@phenrysay/68629a411922"
 +++
 
-![Online word](https://images.unsplash.com/photo-1673515335188-79a859a375fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjB2aXNpYmlsaXR5JTIwcGVyc29uYWwlMjBicmFuZGluZyUyMGNvbnRlbnQlMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU1NTc3NDUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Noticed Online Without Shouting Into the Void")
-*How to Get Noticed Online Without Shouting Into the Void - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-online-spelled-with-scrabble-letters-on-a-wooden-table-C76OaGvb68U)*
+{{< figure src="https://images.unsplash.com/photo-1673515335188-79a859a375fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjB2aXNpYmlsaXR5JTIwcGVyc29uYWwlMjBicmFuZGluZyUyMGNvbnRlbnQlMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU1NTc3NDUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Online word" title="How to Get Noticed Online Without Shouting Into the Void" caption="How to Get Noticed Online Without Shouting Into the Void - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-online-spelled-with-scrabble-letters-on-a-wooden-table-C76OaGvb68U)" >}}
 
 Have you ever felt like you’re invisible online? You put out content, you share your ideas, you try to show the world you’re here, but it’s as if you’re stuck in a cave. No one sees you, no one buys your products, no one reaches out. It’s frustrating. You start to wonder: what’s the point?
 
@@ -25,8 +24,7 @@ That feeling of being alone in your cave can get heavy. Sometimes, I feel it too
 
 Perseverance is good, but if you keep doing things the same way, don’t expect different results. If you always use the same tools, the same methods, you’ll likely stay stuck. It’s not enough to just keep going. You have to step back, ask yourself what’s not working, and try something new.
 
-![Photo by Hank Paul](https://images.unsplash.com/photo-1645658043538-fc2bb1702cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvbmxpbmUlMjB2aXNpYmlsaXR5JTIwcGVyc29uYWwlMjBicmFuZGluZyUyMGNvbnRlbnQlMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU1NTc3NDUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Noticed Online Without Shouting Into the Void")
-*How to Get Noticed Online Without Shouting Into the Void - Photo by [Hank Paul](https://unsplash.com/@henrypaulphotography) on [Unsplash](https://unsplash.com/photos/a-man-holding-a-book-that-says-designing-brand-identity-wKw5nxOxIZQ)*
+{{< figure src="https://images.unsplash.com/photo-1645658043538-fc2bb1702cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvbmxpbmUlMjB2aXNpYmlsaXR5JTIwcGVyc29uYWwlMjBicmFuZGluZyUyMGNvbnRlbnQlMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU1NTc3NDUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man holding a book that says brand" title="How to Get Noticed Online Without Shouting Into the Void" caption="How to Get Noticed Online Without Shouting Into the Void - Photo by [Hank Paul](https://unsplash.com/@henrypaulphotography) on [Unsplash](https://unsplash.com/photos/a-man-holding-a-book-that-says-designing-brand-identity-wKw5nxOxIZQ)" >}}
 
 Every day, try a new approach. Each time you do something different, you open the door to new results. If you keep repeating what doesn’t work, it’s a sign there’s a better way out there. Every new attempt is a chance for success.
 
@@ -43,8 +41,7 @@ Maybe you have a dream, a goal, or even just a simple wish. Whatever it is, you 
 
 ## Don’t Wait—Start Now
 
-![pink yellow background with book and glasses flat lay with the space of text](https://images.unsplash.com/photo-1589278559722-342a6be88017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvbmxpbmUlMjB2aXNpYmlsaXR5JTIwcGVyc29uYWwlMjBicmFuZGluZyUyMGNvbnRlbnQlMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU1NTc3NDUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Noticed Online Without Shouting Into the Void")
-*How to Get Noticed Online Without Shouting Into the Void - Photo by [noslifactory](https://unsplash.com/@noslifactory) on [Unsplash](https://unsplash.com/photos/black-framed-eyeglasses-on-white-paper-BU3UzrjbOK8)*
+{{< figure src="https://images.unsplash.com/photo-1589278559722-342a6be88017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvbmxpbmUlMjB2aXNpYmlsaXR5JTIwcGVyc29uYWwlMjBicmFuZGluZyUyMGNvbnRlbnQlMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU1NTc3NDUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="pink yellow background with book and glasses flat lay with the space of text" title="How to Get Noticed Online Without Shouting Into the Void" caption="How to Get Noticed Online Without Shouting Into the Void - Photo by [noslifactory](https://unsplash.com/@noslifactory) on [Unsplash](https://unsplash.com/photos/black-framed-eyeglasses-on-white-paper-BU3UzrjbOK8)" >}}
 
 The best time to act is always now. There’s no point in putting off what you want to do. Start today, even if it’s just a small step. Sometimes, you need to give yourself a little push—jump in place, do something physical to get your energy up. When you move your body, you shift your mood and get into the right mindset to begin.
 

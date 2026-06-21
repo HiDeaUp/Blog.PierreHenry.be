@@ -12,8 +12,7 @@ original_title = "Pourquoi posséder moins t’apporte plus"
 source_medium = "https://medium.com/@phenrysay/1eaa5cb0fda7"
 +++
 
-![Simplicity](https://images.unsplash.com/photo-1511389026070-a14ae610a1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGRlY2x1dHRlcmluZ3xlbnwwfDB8fHwxNzU1NDE2NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Out of Life Without Adding More Stuff")
-*How to Get More Out of Life Without Adding More Stuff - Photo by [Liana Mikah](https://unsplash.com/@lianamikah) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-cabinet-HstwCJX0jT4)*
+{{< figure src="https://images.unsplash.com/photo-1511389026070-a14ae610a1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGRlY2x1dHRlcmluZ3xlbnwwfDB8fHwxNzU1NDE2NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Simplicity" title="How to Get More Out of Life Without Adding More Stuff" caption="How to Get More Out of Life Without Adding More Stuff - Photo by [Liana Mikah](https://unsplash.com/@lianamikah) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-cabinet-HstwCJX0jT4)" >}}
 
 Let’s talk about simplicity. It’s funny how, in life, we often make things more complicated than they need to be. We crave challenges, we want to push ourselves, and even when we start with something simple—like a straightforward business idea—we can’t help but add layers. “What if I do this? Or that?” Suddenly, we’re jumping down rabbit holes, piling on features, options, and decisions.
 
@@ -29,8 +28,7 @@ The real challenge is learning to say no. To ask ourselves, “Do I really need 
 
 This reminds me of scenes from *The Social Network*—students up early, always striving for more. It’s the same with money, fame, or success. We always want the next thing, the next level. But sometimes, it’s okay to say, “I’ve done enough. I’m happy with what I’ve created. Now, I’ll move on to something else.”
 
-![Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel](https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGRlY2x1dHRlcmluZ3xlbnwwfDB8fHwxNzU1NDE2NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Out of Life Without Adding More Stuff")
-*How to Get More Out of Life Without Adding More Stuff - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)*
+{{< figure src="https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGRlY2x1dHRlcmluZ3xlbnwwfDB8fHwxNzU1NDE2NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel" title="How to Get More Out of Life Without Adding More Stuff" caption="How to Get More Out of Life Without Adding More Stuff - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)" >}}
 
 Having this mindset—being able to say, “I’ve enjoyed this, now I’ll do something new”—makes all the difference. Just because you can afford a sports car or the latest gadget doesn’t mean you should buy it. Every new thing adds complexity, even something as simple as a big TV. Maybe it’s better to go to the cinema instead of bringing the cinema home and dealing with all the hassle.
 
@@ -54,8 +52,7 @@ See your accomplishments as steps, not as reasons to complicate your life. Somet
 
 So, take a moment to refocus on what’s essential. Ask yourself what you really want—not for show, not for others, but for you.
 
-![Flyer mockup](https://images.unsplash.com/photo-1717994818193-266ff93e3396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGRlY2x1dHRlcmluZ3xlbnwwfDB8fHwxNzU1NDE2NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Out of Life Without Adding More Stuff")
-*How to Get More Out of Life Without Adding More Stuff - Photo by [ichwar -](https://unsplash.com/@ilmuktigraphic) on [Unsplash](https://unsplash.com/photos/a-tall-white-object-stands-against-a-tan-wall-0Mlqt7NuUBE)*
+{{< figure src="https://images.unsplash.com/photo-1717994818193-266ff93e3396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGRlY2x1dHRlcmluZ3xlbnwwfDB8fHwxNzU1NDE2NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Flyer mockup" title="How to Get More Out of Life Without Adding More Stuff" caption="How to Get More Out of Life Without Adding More Stuff - Photo by [ichwar -](https://unsplash.com/@ilmuktigraphic) on [Unsplash](https://unsplash.com/photos/a-tall-white-object-stands-against-a-tan-wall-0Mlqt7NuUBE)" >}}
 
 ---
 

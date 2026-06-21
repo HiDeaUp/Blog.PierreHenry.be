@@ -12,8 +12,7 @@ original_title = "La routine qui te mène à la réussite ⚡️"
 source_medium = "https://medium.com/@phenrysay/d761cfdb6671"
 +++
 
-![Time flies](https://images.unsplash.com/photo-1651862488140-56cc66c978ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzbGVlcCUyMHNjaGVkdWxlfGVufDB8MHx8fDE3NTU1NTQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Waking Up at the Same Time Every Day Boosts Success")
-*How Waking Up at the Same Time Every Day Boosts Success - Photo by [Frankie](https://unsplash.com/@tillsunrise) on [Unsplash](https://unsplash.com/photos/a-clock-on-a-shelf-bWwtQHUrfJ0)*
+{{< figure src="https://images.unsplash.com/photo-1651862488140-56cc66c978ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzbGVlcCUyMHNjaGVkdWxlfGVufDB8MHx8fDE3NTU1NTQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time flies" title="How Waking Up at the Same Time Every Day Boosts Success" caption="How Waking Up at the Same Time Every Day Boosts Success - Photo by [Frankie](https://unsplash.com/@tillsunrise) on [Unsplash](https://unsplash.com/photos/a-clock-on-a-shelf-bWwtQHUrfJ0)" >}}
 
 When we talk about routines, most people think of endless to-do lists or strict schedules. But the real secret to success often lies in something much simpler: being consistent, especially with your sleep.
 
@@ -29,8 +28,7 @@ But no matter what, I always woke up at the same time. I never let myself make e
 
 Winter mornings can be tough. It’s cold, you’re tired, and if your partner is still sleeping, it’s tempting to crawl back into bed. But I remind myself: I know what’s good for me. I get up, maybe head to a café, and start my day. If I sleep in, I feel like my whole day is wasted. And once you allow yourself to break the rule “just this once,” it becomes easier to do it again and again. Before you know it, your routine is gone.
 
-![Photo by Solving Healthcare](https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzbGVlcCUyMHNjaGVkdWxlfGVufDB8MHx8fDE3NTU1NTQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Waking Up at the Same Time Every Day Boosts Success")
-*How Waking Up at the Same Time Every Day Boosts Success - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)*
+{{< figure src="https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzbGVlcCUyMHNjaGVkdWxlfGVufDB8MHx8fDE3NTU1NTQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man laying in bed with a clock on top of him nqr6 Ix22EQ" title="How Waking Up at the Same Time Every Day Boosts Success" caption="How Waking Up at the Same Time Every Day Boosts Success - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)" >}}
 
 There’s no room for exceptions. If you’re exhausted, take a nap or go to bed earlier, but never wake up later. This is for your own good.
 
@@ -52,8 +50,7 @@ I wrote about this in my book, *Success Is Not Far Away*. I started writing it f
 *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
 — Will Durant
 
-![Photo by De an Sun](https://images.unsplash.com/photo-1607856647955-3b566cac6f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzbGVlcCUyMHNjaGVkdWxlfGVufDB8MHx8fDE3NTU1NTQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Waking Up at the Same Time Every Day Boosts Success")
-*How Waking Up at the Same Time Every Day Boosts Success - Photo by [De an Sun](https://unsplash.com/@andyadcon) on [Unsplash](https://unsplash.com/photos/silver-and-white-analog-watch-1OarTWhAmrs)*
+{{< figure src="https://images.unsplash.com/photo-1607856647955-3b566cac6f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzbGVlcCUyMHNjaGVkdWxlfGVufDB8MHx8fDE3NTU1NTQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Silver and white analog watch" title="How Waking Up at the Same Time Every Day Boosts Success" caption="How Waking Up at the Same Time Every Day Boosts Success - Photo by [De an Sun](https://unsplash.com/@andyadcon) on [Unsplash](https://unsplash.com/photos/silver-and-white-analog-watch-1OarTWhAmrs)" >}}
 
 ---
 

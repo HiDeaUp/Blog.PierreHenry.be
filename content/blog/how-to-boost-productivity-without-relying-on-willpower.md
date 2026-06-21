@@ -12,8 +12,7 @@ original_title = "DÉCUPLE ta PRODUCTIVITÉ avec MA RÈGLE"
 source_medium = "https://medium.com/@phenrysay/588c248f93fa"
 +++
 
-![There were many short lived pop-up thunderstorms on this day. This one produced a microburst which I was lucky enough to catch on camera. ](https://images.unsplash.com/photo-1561470508-fd4df1ed90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5Mzc1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity WITHOUT Relying on Willpower")
-*How to Boost Productivity WITHOUT Relying on Willpower - Photo by [NOAA](https://unsplash.com/@noaa) on [Unsplash](https://unsplash.com/photos/microburst-thunderstorm-Led9c1SSNFo)*
+{{< figure src="https://images.unsplash.com/photo-1561470508-fd4df1ed90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5Mzc1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="There were many short lived pop-up thunderstorms on this day. This one produced a microburst which I was lucky enough to catch on camera." title="How to Boost Productivity WITHOUT Relying on Willpower" caption="How to Boost Productivity WITHOUT Relying on Willpower - Photo by [NOAA](https://unsplash.com/@noaa) on [Unsplash](https://unsplash.com/photos/microburst-thunderstorm-Led9c1SSNFo)" >}}
 
 Getting interested in productivity is great. Many of us read, watch videos, and learn all sorts of tips to get more done. But here’s the catch: after a few days—or sometimes even a few hours—we stop applying what we learned. We slip right back into our old habits. Why? Because our environment pulls us back, often without us even noticing.
 
@@ -23,8 +22,7 @@ We often underestimate how much our surroundings influence us. It’s like a fis
 
 Even our life expectancy is tied to our environment. If you live somewhere polluted or noisy, your health suffers. The same goes for your productivity. If your environment is full of distractions or bad habits, your ability to focus and get things done drops.
 
-![My current desk setup as of 2016. I am a wedding and portrait photographer and have always believed the space you do work in has a big impact on the quality and kind of work you complete. I have been refining my workspace since I was in high school and I am really happy where it is now!](https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5Mzc1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity WITHOUT Relying on Willpower")
-*How to Boost Productivity WITHOUT Relying on Willpower - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)*
+{{< figure src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5Mzc1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Silver imac with and inside room KE0nC8 58MQ" title="How to Boost Productivity WITHOUT Relying on Willpower" caption="How to Boost Productivity WITHOUT Relying on Willpower - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)" >}}
 
 But here’s the good news: you’re not stuck. Even if you live in a tiny apartment, there are always things you can change. Maybe it’s rearranging your desk, reducing noise, or setting up a small corner just for work. Sometimes, it’s as simple as realizing that certain foods or sleep habits are dragging you down.
 
@@ -42,8 +40,7 @@ The main idea is this: your environment is the number one factor in your product
 
 If you want to go deeper, I’ve spent over 12 years studying this topic. There’s so much more to say than fits in a short article. But start with your environment. Notice what’s around you. Make small changes. And remember: the best time to act is now, not later.
 
-![Support my mission by buying me a coffee: ko-fi.com/bramnaus :)](https://images.unsplash.com/photo-1485988412941-77a35537dae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5Mzc1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity WITHOUT Relying on Willpower")
-*How to Boost Productivity WITHOUT Relying on Willpower - Photo by [Bram Naus](https://unsplash.com/@bramnaus) on [Unsplash](https://unsplash.com/photos/silver-macbook-beside-space-gray-iphone-6-and-clear-drinking-glass-on-brown-wooden-top-n8Qb1ZAkK88)*
+{{< figure src="https://images.unsplash.com/photo-1485988412941-77a35537dae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5Mzc1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Support my mission by buying me a coffee: ko-fi.com/bramnaus :)" title="How to Boost Productivity WITHOUT Relying on Willpower" caption="How to Boost Productivity WITHOUT Relying on Willpower - Photo by [Bram Naus](https://unsplash.com/@bramnaus) on [Unsplash](https://unsplash.com/photos/silver-macbook-beside-space-gray-iphone-6-and-clear-drinking-glass-on-brown-wooden-top-n8Qb1ZAkK88)" >}}
 
 ---
 

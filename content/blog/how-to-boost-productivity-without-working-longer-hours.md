@@ -12,8 +12,7 @@ original_title = "Travailler moins, accomplir plus : Le système de productivit�
 source_medium = "https://medium.com/@phenrysay/b822491566eb"
 +++
 
-![Photo by Solving Healthcare](https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NTU0MTY2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity WITHOUT Working Longer Hours")
-*How to Boost Productivity WITHOUT Working Longer Hours - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)*
+{{< figure src="https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NTU0MTY2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man laying in bed with a clock on top of him nqr6 Ix22EQ" title="How to Boost Productivity WITHOUT Working Longer Hours" caption="How to Boost Productivity WITHOUT Working Longer Hours - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)" >}}
 
 When it comes to productivity, people often look for complex systems or fancy tools. But the truth is, one of the most powerful habits you can build is simple: keep a regular routine, especially for your sleep. This means going to bed and waking up at the same time every day—yes, even on weekends.
 
@@ -27,8 +26,7 @@ I remember working in a big office tower that had showers in the basement. It wa
 
 Allowing yourself an exception—just one morning to sleep in—can throw off your whole rhythm. Your body’s internal clock gets confused, and it becomes much harder to get up at your usual time the next day. If you let yourself make one exception, it’s easy to make a second, then a third, and before you know it, your routine is gone.
 
-![Exhausted young lady sleeping on laptop at work resting after hard day](https://images.unsplash.com/photo-1713946598572-3d88fcc00291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NTU0MTY2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity WITHOUT Working Longer Hours")
-*How to Boost Productivity WITHOUT Working Longer Hours - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-laying-her-head-on-a-laptop-Gm20F6kiEhw)*
+{{< figure src="https://images.unsplash.com/photo-1713946598572-3d88fcc00291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NTU0MTY2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Exhausted young lady sleeping on laptop at work resting after hard day" title="How to Boost Productivity WITHOUT Working Longer Hours" caption="How to Boost Productivity WITHOUT Working Longer Hours - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-laying-her-head-on-a-laptop-Gm20F6kiEhw)" >}}
 
 Even on weekends, keep your wake-up time. Over time, you’ll notice that you start waking up naturally, sometimes even five minutes before your alarm. In winter, it’s tempting to stay in bed, especially if your partner is still sleeping. But remind yourself: you know what’s good for you. Get up, go to a café, and start your day. For me, if I wake up late, I feel like my whole day is wasted. It’s much harder to get back on track if you allow yourself to break the routine.
 
@@ -50,8 +48,7 @@ I wrote about this in my book, *Le succès n’est pas loin*. I started writing 
 
 ---
 
-![Photo by Nubelson Fernandes](https://images.unsplash.com/photo-1647942678345-ab6f2c006546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NTU0MTY2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity WITHOUT Working Longer Hours")
-*How to Boost Productivity WITHOUT Working Longer Hours - Photo by [Nubelson Fernandes](https://unsplash.com/@nublson) on [Unsplash](https://unsplash.com/photos/a-man-sleeping-on-a-bed-next-to-a-stack-of-books-9ZctxFWyslk)*
+{{< figure src="https://images.unsplash.com/photo-1647942678345-ab6f2c006546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NTU0MTY2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man on a bed next to a stack of books" title="How to Boost Productivity WITHOUT Working Longer Hours" caption="How to Boost Productivity WITHOUT Working Longer Hours - Photo by [Nubelson Fernandes](https://unsplash.com/@nublson) on [Unsplash](https://unsplash.com/photos/a-man-sleeping-on-a-bed-next-to-a-stack-of-books-9ZctxFWyslk)" >}}
 
 ## Key Takeaways
 

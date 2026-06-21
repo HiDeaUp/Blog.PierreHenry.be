@@ -12,8 +12,7 @@ original_title = "Claude Code Agents Are Changing Everything for Developers #AI"
 source_medium = "https://medium.com/@phenrysay/94096eadbf61"
 +++
 
-![Photo by Daniil Komov](https://images.unsplash.com/photo-1763568258388-25a20ddd8a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDbGF1ZGUlMjBBSSUyMGNvZGUlMjBhZ2VudHMlMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code Faster With Claude Agents Without Extra Hassle")
-*How to Code Faster With Claude Agents Without Extra Hassle - Photo by [Daniil Komov](https://unsplash.com/@dkomow) on [Unsplash](https://unsplash.com/photos/laptop-screen-displaying-code-with-a-small-octopus-toy-SbRnEcFKMn4)*
+{{< figure src="https://images.unsplash.com/photo-1763568258388-25a20ddd8a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDbGF1ZGUlMjBBSSUyMGNvZGUlMjBhZ2VudHMlMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Laptop screen code with a small octopus toy" title="How to Code Faster With Claude Agents Without Extra Hassle" caption="How to Code Faster With Claude Agents Without Extra Hassle - Photo by [Daniil Komov](https://unsplash.com/@dkomow) on [Unsplash](https://unsplash.com/photos/laptop-screen-displaying-code-with-a-small-octopus-toy-SbRnEcFKMn4)" >}}
 
 Let’s talk about something that’s honestly a game-changer for anyone working with Claude’s code features: creating your own agents. If you’re not using custom agents yet, you’re missing out on a massive productivity boost.
 
@@ -31,8 +30,7 @@ Here’s how I do it. I recommend having a dedicated agent for each major task. 
 - **Review agent**: This one’s for code reviews. It checks for style, best practices, whatever you want.
 - **Rethink agent**: This is my favorite. It goes back and asks, “Did we really do this the best way?” It’s like a second brain that’s not afraid to challenge your first draft.
 
-![Photo by Van Tay Media](https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDbGF1ZGUlMjBBSSUyMGNvZGUlMjBhZ2VudHMlMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code Faster With Claude Agents Without Extra Hassle")
-*How to Code Faster With Claude Agents Without Extra Hassle - Photo by [Van Tay Media](https://unsplash.com/@vantaymedia) on [Unsplash](https://unsplash.com/photos/man-in-black-shirt-using-laptop-computer-and-flat-screen-monitor--S2-AKdWQoQ)*
+{{< figure src="https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDbGF1ZGUlMjBBSSUyMGNvZGUlMjBhZ2VudHMlMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black shirt using laptop and flat screen monitor S2 AKdWQoQ" title="How to Code Faster With Claude Agents Without Extra Hassle" caption="How to Code Faster With Claude Agents Without Extra Hassle - Photo by [Van Tay Media](https://unsplash.com/@vantaymedia) on [Unsplash](https://unsplash.com/photos/man-in-black-shirt-using-laptop-computer-and-flat-screen-monitor--S2-AKdWQoQ)" >}}
 
 You can keep going. If you have a repetitive task, make an agent for it. The point is, you don’t want one general-purpose agent trying to do everything. Specialize.
 
@@ -55,8 +53,7 @@ This approach makes you way more efficient. You’re not wasting time re-explain
 
 If you want to be super productive, start thinking in terms of agents. Build your own little team. Trust me, it’s worth it.
 
-![React code example](https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDbGF1ZGUlMjBBSSUyMGNvZGUlMjBhZ2VudHMlMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code Faster With Claude Agents Without Extra Hassle")
-*How to Code Faster With Claude Agents Without Extra Hassle - Photo by [Ferenc Almasi](https://unsplash.com/@flowforfrank) on [Unsplash](https://unsplash.com/photos/text-c8h0n7fSTqs)*
+{{< figure src="https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDbGF1ZGUlMjBBSSUyMGNvZGUlMjBhZ2VudHMlMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="React code example" title="How to Code Faster With Claude Agents Without Extra Hassle" caption="How to Code Faster With Claude Agents Without Extra Hassle - Photo by [Ferenc Almasi](https://unsplash.com/@flowforfrank) on [Unsplash](https://unsplash.com/photos/text-c8h0n7fSTqs)" >}}
 
 ---
 

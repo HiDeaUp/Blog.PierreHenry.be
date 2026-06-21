@@ -12,8 +12,7 @@ original_title = "Réussir en changeant son mindset 🧠"
 source_medium = "https://medium.com/@phenrysay/f4e1717d8537"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMzgxMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed by Adopting a New Identity Without Self-Doubt")
-*How to Succeed by Adopting a New Identity Without Self-Doubt - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMzgxMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Succeed by Adopting a New Identity Without Self-Doubt" caption="How to Succeed by Adopting a New Identity Without Self-Doubt - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 We all have those mental barriers, those limiting beliefs that whisper, “This isn’t for you,” or “You’re just not good enough at this.” They creep in and hold us back from trying, from daring, from becoming who we want to be. But what if there was a simple trick to sweep those barriers aside?
 
@@ -21,8 +20,7 @@ Here’s a powerful idea: invent a new identity for yourself, as if you were alr
 
 Let’s say you want to become a great public speaker. Instead of thinking, “I’m not good at this,” picture yourself as someone who already gives amazing speeches. Act as if you’re that person. Feel what it’s like to be them. This isn’t about faking it in a shallow way, but about letting your mind accept a new possibility.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMzgxMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed by Adopting a New Identity Without Self-Doubt")
-*How to Succeed by Adopting a New Identity Without Self-Doubt - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMzgxMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Succeed by Adopting a New Identity Without Self-Doubt" caption="How to Succeed by Adopting a New Identity Without Self-Doubt - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 Here’s a little story to show how this works. Imagine you’ve had an accident and lost your memory. You wake up in the hospital, and you don’t remember your name, your past, or anything about yourself. The doctor comes in and tells you, “You were a professional pianist,” or, “You were a famous singer.” Even if it’s not true, you might start to believe it. You might think, “Well, I guess I should play the piano again,” or, “I should sing.” If the doctor says, “You were a CEO of a big company,” you might feel like you need to get back to business.
 
@@ -38,8 +36,7 @@ I sometimes joke that maybe I have a bit of amnesia myself, forgetting things he
 > *“Act as if what you do makes a difference. It does.”*  
 — William James
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMzgxMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed by Adopting a New Identity Without Self-Doubt")
-*How to Succeed by Adopting a New Identity Without Self-Doubt - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)*
+{{< figure src="https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMzgxMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word mind" title="How to Succeed by Adopting a New Identity Without Self-Doubt" caption="How to Succeed by Adopting a New Identity Without Self-Doubt - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)" >}}
 
 ---
 

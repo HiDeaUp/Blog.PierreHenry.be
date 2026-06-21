@@ -12,8 +12,7 @@ original_title = "Ce qu'on ne t'a jamais dit pour vraiment réussir dans la vie"
 source_medium = "https://medium.com/@phenrysay/082eadada523"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Success Without Forcing More Willpower")
-*How to Boost Your Success Without Forcing More Willpower - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Boost Your Success Without Forcing More Willpower" caption="How to Boost Your Success Without Forcing More Willpower - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Have you ever felt drained, tired, or just a bit “off” for no clear reason? Maybe you blame yourself, thinking you’re lazy or not motivated enough. But what if the real problem isn’t you at all, but the environment around you?
 
@@ -29,8 +28,7 @@ Motivation comes and goes, but habits stick. Think about brushing your teeth or 
 
 The same goes for exercise, writing, or learning. If you want to build a new habit, make it as easy as possible to start. For example, if you want to write every morning, leave your laptop open to your writing app the night before. If you want to jog, set out your running clothes and shoes by your bed. The fewer obstacles between you and the task, the more likely you are to do it.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Success Without Forcing More Willpower")
-*How to Boost Your Success Without Forcing More Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Boost Your Success Without Forcing More Willpower" caption="How to Boost Your Success Without Forcing More Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 ## Remove Friction, Remove Excuses
 
@@ -54,8 +52,7 @@ Don’t be afraid to accept that your environment might be working against you. 
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Success Without Forcing More Willpower")
-*How to Boost Your Success Without Forcing More Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Boost Your Success Without Forcing More Willpower" caption="How to Boost Your Success Without Forcing More Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 ## Key Takeaways
 

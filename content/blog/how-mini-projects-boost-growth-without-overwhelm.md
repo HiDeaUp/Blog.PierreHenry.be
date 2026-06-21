@@ -12,9 +12,7 @@ original_title = "POURQUOI investir dans des mini-projets ?🤫"
 source_medium = "https://medium.com/@phenrysay/4c97024d49bd"
 +++
 
-![User Journey Map is also known as Customer Journey Map is a a visualization of the process that a person goes through in order to accomplish a goal visualization of a user/ customer using your product or service.  
-In its basic form, journey mapping starts by compiling a series of user actions into a timeline. Next, the timeline is fleshed out with user thoughts and emotions in order to create a narrative. This narrative is condensed and polished, ultimately leading to a visualization. ](https://images.unsplash.com/photo-1586863065451-6a82fa7e81b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pLXByb2plY3RzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwY2hhbGxlbmdlc3xlbnwwfDB8fHwxNzU3NDYxNzE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Mini-Projects Boost Growth Without Overwhelm")
-*How Mini-Projects Boost Growth Without Overwhelm - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/person-holding-yellow-sticky-notes-1V5zGGTYXVc)*
+{{< figure src="https://images.unsplash.com/photo-1586863065451-6a82fa7e81b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pLXByb2plY3RzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwY2hhbGxlbmdlc3xlbnwwfDB8fHwxNzU3NDYxNzE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding yellow sticky notes" title="How Mini-Projects Boost Growth Without Overwhelm" caption="How Mini-Projects Boost Growth Without Overwhelm - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/person-holding-yellow-sticky-notes-1V5zGGTYXVc)" >}}
 
 ### The Secret Power of Small Projects
 
@@ -32,8 +30,7 @@ This simple approach helps me learn more and improve my recipe each time. It’s
 
 Think about it: showering, getting undressed, washing, drying off, and getting dressed again easily takes half an hour. We never say, “I don’t have time to shower tonight.” We make time. The same goes for your mini-project. If you do it every day, you’ll get better, feel more confident, and see real progress. Step by step, you’ll get closer to your goal, whether it’s a better tart, a new product, or a long-held dream.
 
-![Design Sprint is a design methodology that is carried out within 5 days to answer a variety of critical business questions through the process of design, prototyping, and testing concepts to potential target users directly. This method was first conceived by Jake Knapp at Google Venture and has now been implemented in hundreds of companies from various vertical industries.](https://images.unsplash.com/photo-1585913161203-695a3ac93b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pLXByb2plY3RzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwY2hhbGxlbmdlc3xlbnwwfDB8fHwxNzU3NDYxNzE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Mini-Projects Boost Growth Without Overwhelm")
-*How Mini-Projects Boost Growth Without Overwhelm - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/man-in-black-framed-eyeglasses-holding-purple-and-white-box-pGP_YudMyAM)*
+{{< figure src="https://images.unsplash.com/photo-1585913161203-695a3ac93b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pLXByb2plY3RzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwY2hhbGxlbmdlc3xlbnwwfDB8fHwxNzU3NDYxNzE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black framed holding purple and white box" title="How Mini-Projects Boost Growth Without Overwhelm" caption="How Mini-Projects Boost Growth Without Overwhelm - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/man-in-black-framed-eyeglasses-holding-purple-and-white-box-pGP_YudMyAM)" >}}
 
 For me, it’s about perfecting those little almond pastries. I don’t bake every single day—otherwise, my waistline would suffer—but I share my creations with friends and colleagues. Each time, I tweak the recipe, try new ingredients, and see what works. Sometimes, the baking itself takes longer than thirty minutes, but the important part is the daily commitment.
 
@@ -51,8 +48,7 @@ If you have a passion or a project in mind, I encourage you to give it a try. Se
 
 ## Key Takeaways
 
-![Medium shot of project planning done on a whiteboard with sticky notes by columns](https://images.unsplash.com/photo-1677506048148-0c914dd8197b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pLXByb2plY3RzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwY2hhbGxlbmdlc3xlbnwwfDB8fHwxNzU3NDYxNzE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Mini-Projects Boost Growth Without Overwhelm")
-*How Mini-Projects Boost Growth Without Overwhelm - Photo by [Paymo](https://unsplash.com/@paymo) on [Unsplash](https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-JXyY3jRV9oI)*
+{{< figure src="https://images.unsplash.com/photo-1677506048148-0c914dd8197b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pLXByb2plY3RzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwY2hhbGxlbmdlc3xlbnwwfDB8fHwxNzU3NDYxNzE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Medium shot of project planning done on a whiteboard with sticky notes by columns" title="How Mini-Projects Boost Growth Without Overwhelm" caption="How Mini-Projects Boost Growth Without Overwhelm - Photo by [Paymo](https://unsplash.com/@paymo) on [Unsplash](https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-JXyY3jRV9oI)" >}}
 
 - *Pick a mini-project that excites you, no matter how small.*
 - *Dedicate just 30 minutes a day to it—no more, no less.*

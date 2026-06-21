@@ -12,8 +12,7 @@ original_title = "Le Charisme 🚀"
 source_medium = "https://medium.com/@phenrysay/438725ffac0c"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740817747847-7ec5008593cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdGFuZGluZyUyMG91dHxlbnwwfDB8fHwxNzU2NTA2MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out With Charisma Without Pretending")
-*How to Stand Out With Charisma Without Pretending - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-change-on-a-table-5OANmYyN9_U)*
+{{< figure src="https://images.unsplash.com/photo-1740817747847-7ec5008593cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdGFuZGluZyUyMG91dHxlbnwwfDB8fHwxNzU2NTA2MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block change on a table" title="How to Stand Out With Charisma Without Pretending" caption="How to Stand Out With Charisma Without Pretending - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-change-on-a-table-5OANmYyN9_U)" >}}
 
 Charisma is something truly unique. It’s what makes you different, what sets you apart from the crowd. Think of it as a kind of magic—not the kind with hats and rabbits, but the kind that makes people notice you, remember you, and want to be around you. Charisma is that special touch that lets you become the person you want to be, simply by being different.
 
@@ -21,8 +20,7 @@ What’s fascinating about charisma is how it changes everything. The way you sp
 
 Your posture matters too. Standing tall, holding yourself with confidence, and having a style that’s your own—these things play a huge role. But above all, what really counts is your singularity. It’s not about what you wear or whether it’s considered beautiful or not. What matters is your uniqueness, the way you represent yourself.
 
-![Download Mega Bundle 5,000+ awesome stock photos with commercial license With 16 categories | Perfect for websites, ads and marketing campaigns in South Asian countries. Get access at 50% discount on www.fotos.pk](https://images.unsplash.com/photo-1659353221237-6a1cfb73fd90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdGFuZGluZyUyMG91dHxlbnwwfDB8fHwxNzU2NTA2MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out With Charisma Without Pretending")
-*How to Stand Out With Charisma Without Pretending - Photo by [Fotos](https://unsplash.com/@fotospk) on [Unsplash](https://unsplash.com/photos/a-man-in-a-suit-Td_4ipIH0nQ)*
+{{< figure src="https://images.unsplash.com/photo-1659353221237-6a1cfb73fd90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdGFuZGluZyUyMG91dHxlbnwwfDB8fHwxNzU2NTA2MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man in a suit" title="How to Stand Out With Charisma Without Pretending" caption="How to Stand Out With Charisma Without Pretending - Photo by [Fotos](https://unsplash.com/@fotospk) on [Unsplash](https://unsplash.com/photos/a-man-in-a-suit-Td_4ipIH0nQ)" >}}
 
 So, how do you become someone who stands out? The answer is simple: be yourself. Stay true to your values and let them shape your character. In our generation, this has never been more important. Don’t try to blend in with the crowd or follow the herd. Be the blue sheep, the pink elephant—anything but ordinary. Positive distinction is what will help you rise to the next level, to reach the goals you’re aiming for.
 
@@ -36,8 +34,7 @@ If you join this group, you’ll find yourself pushed to the front of the stage.
 > *Don’t be afraid to stand out. The world remembers those who dare to be different.*
 — Unknown
 
-![The most powerful word in the world pops up everywhere. Ironically, this is on Sandown Pier on the Isle of Wight (UK) — a place that has not changed for 30 years.](https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdGFuZGluZyUyMG91dHxlbnwwfDB8fHwxNzU2NTA2MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out With Charisma Without Pretending")
-*How to Stand Out With Charisma Without Pretending - Photo by [Ross Findon](https://unsplash.com/@rossfindon) on [Unsplash](https://unsplash.com/photos/change-neon-light-signage-mG28olYFgHI)*
+{{< figure src="https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdGFuZGluZyUyMG91dHxlbnwwfDB8fHwxNzU2NTA2MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="The most powerful word in the world pops up everywhere. Ironically, this is on Sandown Pier on the Isle of Wight (UK) — a place that has not changed for 30 years." title="How to Stand Out With Charisma Without Pretending" caption="How to Stand Out With Charisma Without Pretending - Photo by [Ross Findon](https://unsplash.com/@rossfindon) on [Unsplash](https://unsplash.com/photos/change-neon-light-signage-mG28olYFgHI)" >}}
 
 ---
 

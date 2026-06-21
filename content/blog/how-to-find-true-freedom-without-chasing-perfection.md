@@ -12,8 +12,7 @@ original_title = "Comment GRANDIR et être LIBRE ? Ce qui ne marche pas"
 source_medium = "https://medium.com/@phenrysay/139642f518b7"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGZyZWVkb20lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwODU1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find True Freedom Without Chasing Perfection")
-*How to Find True Freedom Without Chasing Perfection - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGZyZWVkb20lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwODU1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Find True Freedom Without Chasing Perfection" caption="How to Find True Freedom Without Chasing Perfection - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Imagine feeling completely free, as if you could run anywhere across a vast meadow. There are no fences, no rivers blocking your path. You are simply free in the grass, free in the open field, able to run without limits. The only thing you see is the horizon. In that moment, there are no boundaries. This sense of freedom brings happiness, because there are no limits—at least, none except the ones we create for ourselves.
 
@@ -23,8 +22,7 @@ But when it comes to your own creations and achievements, you have to believe in
 
 We all love freedom. If there are no limits, if nothing holds us back, it’s like that famous story of the elephant. In India, baby elephants are tied to a small stake with a rope. As babies, they don’t have the strength to break free. They try to escape, but the stake holds them back. As they grow into adults, they become strong enough to easily pull the stake out of the ground. But they don’t even try, because they’ve learned since childhood that it’s impossible. This belief becomes part of their reality.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGZyZWVkb20lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwODU1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find True Freedom Without Chasing Perfection")
-*How to Find True Freedom Without Chasing Perfection - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGZyZWVkb20lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwODU1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Find True Freedom Without Chasing Perfection" caption="How to Find True Freedom Without Chasing Perfection - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Our own limits often come from our upbringing. We’re told certain things, or we grow up in a specific environment or culture. We see everyone around us thinking the same way, so we assume that’s how everyone in the world thinks. But that’s not true at all. To change, you need to challenge yourself, travel, and realize that things are possible. Push yourself to do things you once thought were impossible. Tell yourself there’s no plan B, because plan B is just a distraction.
 
@@ -42,8 +40,7 @@ Every day is a new chance to start fresh. Look in the mirror and tell yourself, 
 
 ## Key Takeaways
 
-![Photo by Adél Grőber](https://images.unsplash.com/photo-1661661335103-02112f111278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGZyZWVkb20lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwODU1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find True Freedom Without Chasing Perfection")
-*How to Find True Freedom Without Chasing Perfection - Photo by [Adél Grőber](https://unsplash.com/@ninszi) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-nsY8bsLxVs8)*
+{{< figure src="https://images.unsplash.com/photo-1661661335103-02112f111278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGZyZWVkb20lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwODU1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of the ground" title="How to Find True Freedom Without Chasing Perfection" caption="How to Find True Freedom Without Chasing Perfection - Photo by [Adél Grőber](https://unsplash.com/@ninszi) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-nsY8bsLxVs8)" >}}
 
 - *The only real limits are the ones you set for yourself.*
 - *Your beliefs are shaped by your upbringing, but you can change them.*

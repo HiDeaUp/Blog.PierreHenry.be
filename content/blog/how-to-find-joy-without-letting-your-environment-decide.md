@@ -12,8 +12,7 @@ original_title = "Raisonnement de vie pour kiffer sa vie méthode 100%"
 source_medium = "https://medium.com/@phenrysay/2d8bc1906325"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU2NjI2OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joy Without Letting Your Environment Decide")
-*How to Find Joy Without Letting Your Environment Decide - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU2NjI2OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Joy Without Letting Your Environment Decide" caption="How to Find Joy Without Letting Your Environment Decide - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Have you ever noticed how often we get stuck in patterns of thinking that don’t serve us? Sometimes, we hit a wall, obsessing over something that just won’t happen, simply because our mindset is trapped. It could be the people around us, the culture we grew up in, or even the education we received. All these things can go against what we truly want.
 
@@ -25,8 +24,7 @@ The tray incident is just a small example, but it shows how the environment can 
 
 But sometimes, that’s not enough. Sometimes, you need to take a bigger step—move somewhere new, even if just for a month. Try it for three or four weeks. Often, it’s worth it. You can make a list of pros and cons, write it all down, and see what really matters to you.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU2NjI2OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joy Without Letting Your Environment Decide")
-*How to Find Joy Without Letting Your Environment Decide - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU2NjI2OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find Joy Without Letting Your Environment Decide" caption="How to Find Joy Without Letting Your Environment Decide - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 Of course, it’s not always easy. Maybe your family is important, or your partner can’t move, or you have kids. But even for children, a better environment can mean a better future. If you know your current situation isn’t right for you, it’s likely not right for them either. Better to fix the problem sooner than wait and hope things will magically improve. Usually, nothing changes unless you act.
 
@@ -46,8 +44,7 @@ Ask yourself: is comfort your top priority, or is it a new, different life? Some
 
 ---
 
-![Photo by Katja Anokhina](https://images.unsplash.com/photo-1683639056113-7d65f6b51697?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU2NjI2OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joy Without Letting Your Environment Decide")
-*How to Find Joy Without Letting Your Environment Decide - Photo by [Katja Anokhina](https://unsplash.com/@katjaano) on [Unsplash](https://unsplash.com/photos/a-yellow-smiley-face-sign-with-a-blue-sky-in-the-background-9ShY7nfFcpk)*
+{{< figure src="https://images.unsplash.com/photo-1683639056113-7d65f6b51697?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU2NjI2OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow smiley face sign with a blue sky in the" title="How to Find Joy Without Letting Your Environment Decide" caption="How to Find Joy Without Letting Your Environment Decide - Photo by [Katja Anokhina](https://unsplash.com/@katjaano) on [Unsplash](https://unsplash.com/photos/a-yellow-smiley-face-sign-with-a-blue-sky-in-the-background-9ShY7nfFcpk)" >}}
 
 ## Key Takeaways
 

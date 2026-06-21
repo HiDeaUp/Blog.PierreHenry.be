@@ -12,8 +12,7 @@ original_title = "Pourquoi tout prend toujours plus de temps ?"
 source_medium = "https://medium.com/@phenrysay/0a999a2d8bbe"
 +++
 
-![time flies](https://images.unsplash.com/photo-1494506111877-98a309cf0a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMFBhcmtpbnNvbiUyN3MlMjBMYXd8ZW58MHwwfHx8MTc1NTYwOTg1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Tasks Faster Without Falling Into Parkinson’s Law")
-*How to Finish Tasks Faster Without Falling Into Parkinson’s Law - Photo by [Amin Salehi](https://unsplash.com/@aminsalehi) on [Unsplash](https://unsplash.com/photos/round-grey-stainless-steel-analog-clock-displaying-322-_e2BZT4c7xk)*
+{{< figure src="https://images.unsplash.com/photo-1494506111877-98a309cf0a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMFBhcmtpbnNvbiUyN3MlMjBMYXd8ZW58MHwwfHx8MTc1NTYwOTg1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="time flies" title="How to Finish Tasks Faster Without Falling Into Parkinson’s Law" caption="How to Finish Tasks Faster Without Falling Into Parkinson’s Law - Photo by [Amin Salehi](https://unsplash.com/@aminsalehi) on [Unsplash](https://unsplash.com/photos/round-grey-stainless-steel-analog-clock-displaying-322-_e2BZT4c7xk)" >}}
 
 Have you ever noticed that the more time you give yourself to finish something, the longer it actually takes? This isn’t just your imagination. It’s a real phenomenon, and it’s something that affects almost everyone, whether you’re working on a school assignment, a work project, or even a personal goal.
 
@@ -25,8 +24,7 @@ This is why it’s so important to set clear deadlines for yourself. Without a f
 
 Life isn’t just about one task. There are always other things waiting for your attention. If you let one job take up all your time, you’ll never get to the rest. That’s why understanding and applying Parkinson’s Law can make such a difference. It helps you focus, set boundaries, and move on to what matters next.
 
-![Photo by byquincy](https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMFBhcmtpbnNvbiUyN3MlMjBMYXd8ZW58MHwwfHx8MTc1NTYwOTg1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Tasks Faster Without Falling Into Parkinson’s Law")
-*How to Finish Tasks Faster Without Falling Into Parkinson’s Law - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)*
+{{< figure src="https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMFBhcmtpbnNvbiUyN3MlMjBMYXd8ZW58MHwwfHx8MTc1NTYwOTg1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a clock on a wall" title="How to Finish Tasks Faster Without Falling Into Parkinson’s Law" caption="How to Finish Tasks Faster Without Falling Into Parkinson’s Law - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)" >}}
 
 > _Work expands so as to fill the time available for its completion._
 > — Cyril Northcote Parkinson
@@ -44,8 +42,7 @@ The key is to keep questioning your routines and always look for better ways to 
 - *Remember that life is full of tasks—don’t let one take over everything.*
 - *Apply Parkinson’s Law to stay focused and productive.*
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMFBhcmtpbnNvbiUyN3MlMjBMYXd8ZW58MHwwfHx8MTc1NTYwOTg1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Tasks Faster Without Falling Into Parkinson’s Law")
-*How to Finish Tasks Faster Without Falling Into Parkinson’s Law - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMFBhcmtpbnNvbiUyN3MlMjBMYXd8ZW58MHwwfHx8MTc1NTYwOTg1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Finish Tasks Faster Without Falling Into Parkinson’s Law" caption="How to Finish Tasks Faster Without Falling Into Parkinson’s Law - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "DÉVORER LA VIE: Ma méthode que je dévoilée, ENFIN !"
 source_medium = "https://medium.com/@phenrysay/873e20fbe732"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1jb2FjaGluZyUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape a Life You Love Without Living on Autopilot")
-*How to Shape a Life You Love Without Living on Autopilot - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1jb2FjaGluZyUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Shape a Life You Love Without Living on Autopilot" caption="How to Shape a Life You Love Without Living on Autopilot - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Living simply, calmly, and in a way that matches your own goals is not just about routines or ticking boxes. It’s about creating days that feel easy and joyful, thanks to the way you organize your life. Sometimes, we live on autopilot or get stuck in habits that don’t really serve us. Maybe it’s because we’re surrounded by people whose ambitions or habits are the opposite of ours, or maybe it’s just the mood of the place we live in. Over time, we become the average of the three, four, or five people we spend the most time with. Our environment shapes us—sometimes more than we realize.
 
@@ -27,8 +26,7 @@ Some people say, “I’m happy where I am.” But have you tried anything else?
 
 For example, I once worked in Paris, but the company was so international that it didn’t feel truly French. The same goes for the UK—I’ve worked in Manchester, London, and Scotland, and each place is different. Even within Switzerland, working for a French-speaking company is not the same as working for a German-speaking one, or one near the Italian border. These differences matter.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1jb2FjaGluZyUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape a Life You Love Without Living on Autopilot")
-*How to Shape a Life You Love Without Living on Autopilot - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1jb2FjaGluZyUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Shape a Life You Love Without Living on Autopilot" caption="How to Shape a Life You Love Without Living on Autopilot - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 The point is, you need to find the environment where you can grow best. Nothing is set in stone. You don’t have to do something forever just because you try it now. Moving to Switzerland doesn’t mean you’ll die there. Life is full of changes. I’ve met people from all over—New Caledonia, French Guiana, Iceland, Canada—and each experience has taught me something new.
 
@@ -50,8 +48,7 @@ Every day, I try to check in with myself. Every two hours, I pause and ask: Am I
 
 The goal of life is to be happy. Not to collect degrees or impress people you don’t even like. Sometimes, we try to impress others or just go with the flow, without really thinking. But it’s worth taking a step back and asking: Is this really what I want?
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1jb2FjaGluZyUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape a Life You Love Without Living on Autopilot")
-*How to Shape a Life You Love Without Living on Autopilot - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1jb2FjaGluZyUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Shape a Life You Love Without Living on Autopilot" caption="How to Shape a Life You Love Without Living on Autopilot - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 You never know what tomorrow will bring. So act now, and enjoy life as much as you can. I believe in you—so believe in yourself, too.
 

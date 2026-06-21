@@ -12,8 +12,7 @@ original_title = "CHANCE : EST-IL POSSIBLE DE PROVOQUER LA CHANCE ?"
 source_medium = "https://medium.com/@phenrysay/774036126e90"
 +++
 
-![Photo by Jan Antonin Kolar](https://images.unsplash.com/photo-1568622462875-e8bf271ca830?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsdWNrJTIwZGVjaXNpb24lMjBtYWtpbmclMjBvcHBvcnR1bml0eXxlbnwwfDB8fHwxNzU1Mzg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Your Own Luck Without Waiting for Fate")
-*How to Create Your Own Luck Without Waiting for Fate - Photo by [Jan Antonin Kolar](https://unsplash.com/@jankolar) on [Unsplash](https://unsplash.com/photos/wrapped-tree-in-monochrome-photo-ikmnMipkzLA)*
+{{< figure src="https://images.unsplash.com/photo-1568622462875-e8bf271ca830?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsdWNrJTIwZGVjaXNpb24lMjBtYWtpbmclMjBvcHBvcnR1bml0eXxlbnwwfDB8fHwxNzU1Mzg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Wrapped tree in photo" title="How to Create Your Own Luck Without Waiting for Fate" caption="How to Create Your Own Luck Without Waiting for Fate - Photo by [Jan Antonin Kolar](https://unsplash.com/@jankolar) on [Unsplash](https://unsplash.com/photos/wrapped-tree-in-monochrome-photo-ikmnMipkzLA)" >}}
 
 When we talk about luck and opportunity, most people imagine some mysterious force that decides who gets ahead and who doesn’t. But if you look closer, you’ll see that what we call “luck” is often just the result of making the right decisions at the right time. Sure, a little bit of luck helps, but it’s not the whole story.
 
@@ -27,8 +26,7 @@ If you only make bad decisions, it doesn’t matter how smart you are. Bad decis
 
 Think of life as a pile of choices, like stacking Lego bricks. Each good choice lifts you higher. But one bad decision can make the whole thing collapse, like a house of cards. That’s why you need to practice making decisions and learn to spot opportunities.
 
-![Photo by Yunshuo Qu](https://images.unsplash.com/photo-1735486228446-a3bf0c050d73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsdWNrJTIwZGVjaXNpb24lMjBtYWtpbmclMjBvcHBvcnR1bml0eXxlbnwwfDB8fHwxNzU1Mzg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Your Own Luck Without Waiting for Fate")
-*How to Create Your Own Luck Without Waiting for Fate - Photo by [Yunshuo Qu](https://unsplash.com/@yunshuoqu) on [Unsplash](https://unsplash.com/photos/a-red-and-white-sign-that-says-good-luck-HCasODZHG6c)*
+{{< figure src="https://images.unsplash.com/photo-1735486228446-a3bf0c050d73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsdWNrJTIwZGVjaXNpb24lMjBtYWtpbmclMjBvcHBvcnR1bml0eXxlbnwwfDB8fHwxNzU1Mzg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A red and white sign that says good luck" title="How to Create Your Own Luck Without Waiting for Fate" caption="How to Create Your Own Luck Without Waiting for Fate - Photo by [Yunshuo Qu](https://unsplash.com/@yunshuoqu) on [Unsplash](https://unsplash.com/photos/a-red-and-white-sign-that-says-good-luck-HCasODZHG6c)" >}}
 
 Sometimes, luck is about being in the right place at the right time. But you can help luck along by being open-minded, saying yes to new things, and putting yourself out there. Go to meetups, coworking spaces, and events. Get out of your comfort zone. Smile, say hello, and talk about your ideas. The more you do this, the more you increase your chances of being “lucky.”
 
@@ -52,8 +50,7 @@ Small talk might seem pointless, but it’s actually a decision—a choice to be
 
 ---
 
-![Photo by Edward Howell](https://images.unsplash.com/photo-1597737413237-57dffb6f6b6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsdWNrJTIwZGVjaXNpb24lMjBtYWtpbmclMjBvcHBvcnR1bml0eXxlbnwwfDB8fHwxNzU1Mzg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Your Own Luck Without Waiting for Fate")
-*How to Create Your Own Luck Without Waiting for Fate - Photo by [Edward Howell](https://unsplash.com/@edwardhowellphotography) on [Unsplash](https://unsplash.com/photos/text-cMGg7PyBcOg)*
+{{< figure src="https://images.unsplash.com/photo-1597737413237-57dffb6f6b6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsdWNrJTIwZGVjaXNpb24lMjBtYWtpbmclMjBvcHBvcnR1bml0eXxlbnwwfDB8fHwxNzU1Mzg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Create Your Own Luck Without Waiting for Fate" caption="How to Create Your Own Luck Without Waiting for Fate - Photo by [Edward Howell](https://unsplash.com/@edwardhowellphotography) on [Unsplash](https://unsplash.com/photos/text-cMGg7PyBcOg)" >}}
 
 ## Action Steps
 

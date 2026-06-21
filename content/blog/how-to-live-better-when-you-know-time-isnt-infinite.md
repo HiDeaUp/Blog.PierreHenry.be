@@ -12,8 +12,7 @@ original_title = "Redéfinir ses perceptions pour mieux vivre"
 source_medium = "https://medium.com/@phenrysay/f0c1f5771b85"
 +++
 
-![Photo by Nawartha Nirmal](https://images.unsplash.com/photo-1578791867313-02f5fac3cdf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBwZXJzcGVjdGl2ZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxOTk3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Better When You Know Time Isn’t Infinite")
-*How to Live Better When You Know Time Isn’t Infinite - Photo by [Nawartha Nirmal](https://unsplash.com/@nirnawa) on [Unsplash](https://unsplash.com/photos/man-sitting-on-the-mountain-cliff-photograph-8ebsVy48DMA)*
+{{< figure src="https://images.unsplash.com/photo-1578791867313-02f5fac3cdf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBwZXJzcGVjdGl2ZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxOTk3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man sitting on the cliff" title="How to Live Better When You Know Time Isn’t Infinite" caption="How to Live Better When You Know Time Isn’t Infinite - Photo by [Nawartha Nirmal](https://unsplash.com/@nirnawa) on [Unsplash](https://unsplash.com/photos/man-sitting-on-the-mountain-cliff-photograph-8ebsVy48DMA)" >}}
 
 Most of us go through life as if it will never end. We plan, we react, and we fill our days with routines, rarely stopping to remember that our time here is limited. But the truth is, life does have an end. When we finally accept this, our decisions become wiser, and we start to enjoy the simple moments—the ones that truly matter.
 
@@ -30,8 +29,7 @@ We spend so much time working jobs we don’t like, especially when we’re youn
 
 Working for a company is fine, but sacrificing your life for a fixed salary, especially without any real stake in the business, is rarely worth it. I once worked over 70 hours a week for a company. Sure, I earned more, but was it worth the trade-off? The real message here is to enjoy the moments you have. Don’t deprive yourself. Money comes and goes, but time only goes.
 
-![A young boy looking at the mountain view on the top of Katzbegi mountain.](https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBwZXJzcGVjdGl2ZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxOTk3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Better When You Know Time Isn’t Infinite")
-*How to Live Better When You Know Time Isn’t Infinite - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)*
+{{< figure src="https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBwZXJzcGVjdGl2ZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxOTk3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A young boy looking at the mountain view on the top of Katzbegi mountain." title="How to Live Better When You Know Time Isn’t Infinite" caption="How to Live Better When You Know Time Isn’t Infinite - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)" >}}
 
 We often make poor choices because we act as if life is endless. But if tomorrow were your last day, what would you regret? For me, it’s not about missing out on the latest phone or gadget. It’s about missing out on experiences—traveling to Antarctica, seeing Greenland, living life fully. The things we own won’t matter in the end; it’s the memories and experiences that stay with us.
 
@@ -59,8 +57,7 @@ Your life is precious, and your time is limited. You don’t owe anyone your tim
 - Avoid living to please others at the expense of your own happiness.
 - Regularly reflect on how you spend your time and make changes as needed.
 
-![Photo by Alexey Demidov](https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBwZXJzcGVjdGl2ZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxOTk3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Better When You Know Time Isn’t Infinite")
-*How to Live Better When You Know Time Isn’t Infinite - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)*
+{{< figure src="https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBwZXJzcGVjdGl2ZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxOTk3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a dock looking at a lake" title="How to Live Better When You Know Time Isn’t Infinite" caption="How to Live Better When You Know Time Isn’t Infinite - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)" >}}
 
 ---
 

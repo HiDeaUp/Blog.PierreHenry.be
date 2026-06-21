@@ -12,8 +12,7 @@ original_title = "Pourquoi sous-estime-t-on notre corps ?"
 source_medium = "https://medium.com/@phenrysay/18e10f053657"
 +++
 
-![Photo by the blowup](https://images.unsplash.com/photo-1617710501559-858f449528e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxib2R5JTIwYXdhcmVuZXNzJTIwc2VsZi1jYXJlJTIwaGVhbHRoJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU2MTA4MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Care for Your Body Before It’s Too Late")
-*How to Care for Your Body Before It’s Too Late - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/white-and-black-no-smoking-sign-uniYYjZOejc)*
+{{< figure src="https://images.unsplash.com/photo-1617710501559-858f449528e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxib2R5JTIwYXdhcmVuZXNzJTIwc2VsZi1jYXJlJTIwaGVhbHRoJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU2MTA4MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black no smoking sign" title="How to Care for Your Body Before It’s Too Late" caption="How to Care for Your Body Before It’s Too Late - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/white-and-black-no-smoking-sign-uniYYjZOejc)" >}}
 
 When was the last time you truly thought about your body—not just how it looks, but what it does for you every single day? Most of us take our bodies for granted. We eat poorly, stay up too late, drink too much, and sometimes treat our health as if it’s replaceable. But the truth is, we only get one body, and it’s the only real possession we can never swap out.
 
@@ -31,8 +30,7 @@ When I was younger, I drank a lot. I went out to clubs and bars, thinking it was
 
 Your body is your most valuable possession. You can’t trade it in for a new one. There’s no backup, no spare. If you treat it badly, you pay the price. That’s why it’s so important to respect yourself and take care of your health. If you don’t, you’re making a bad investment in your own future.
 
-![Woman colouring her hair in a white tiled bathroom](https://images.unsplash.com/photo-1665791566609-fd7e5a832c96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxib2R5JTIwYXdhcmVuZXNzJTIwc2VsZi1jYXJlJTIwaGVhbHRoJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU2MTA4MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Care for Your Body Before It’s Too Late")
-*How to Care for Your Body Before It’s Too Late - Photo by [Anthony Wade](https://unsplash.com/@wadeybha) on [Unsplash](https://unsplash.com/photos/a-person-is-getting-the-hair-done-dYBDInxioQI)*
+{{< figure src="https://images.unsplash.com/photo-1665791566609-fd7e5a832c96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxib2R5JTIwYXdhcmVuZXNzJTIwc2VsZi1jYXJlJTIwaGVhbHRoJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU2MTA4MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman colouring her hair in a white tiled bathroom" title="How to Care for Your Body Before It’s Too Late" caption="How to Care for Your Body Before It’s Too Late - Photo by [Anthony Wade](https://unsplash.com/@wadeybha) on [Unsplash](https://unsplash.com/photos/a-person-is-getting-the-hair-done-dYBDInxioQI)" >}}
 
 I love the saying in English:  
 > *Our body is the greatest piece of real estate we ever own.*
@@ -55,8 +53,7 @@ Just having a healthy lifestyle can boost your productivity, help you remember t
 
 — Jim Rohn
 
-![Photo by The Worthy Goods](https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxib2R5JTIwYXdhcmVuZXNzJTIwc2VsZi1jYXJlJTIwaGVhbHRoJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU2MTA4MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Care for Your Body Before It’s Too Late")
-*How to Care for Your Body Before It’s Too Late - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)*
+{{< figure src="https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxib2R5JTIwYXdhcmVuZXNzJTIwc2VsZi1jYXJlJTIwaGVhbHRoJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU2MTA4MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of white boxes with black text on a wooden surface" title="How to Care for Your Body Before It’s Too Late" caption="How to Care for Your Body Before It’s Too Late - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)" >}}
 
 > *Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy.*
 

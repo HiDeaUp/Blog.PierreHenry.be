@@ -12,8 +12,7 @@ original_title = "Transformer sa vie en utilisant les lieux et l'environnement c
 source_medium = "https://medium.com/@phenrysay/bf8b4a3708c2"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMwMzMzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Mind Without Changing Your Routine")
-*How to Shape Your Mind Without Changing Your Routine - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMwMzMzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Shape Your Mind Without Changing Your Routine" caption="How to Shape Your Mind Without Changing Your Routine - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Have you ever noticed how certain places instantly make you feel lighter, more creative, or simply at peace? Our environment is more than just a backdrop to our lives—it can be a real source of energy, inspiration, and clarity. I want to share how I use my surroundings, not just as scenery, but as a tool to recharge and take a step back from the daily rush.
 
@@ -33,8 +32,7 @@ I like to make a little ritual out of it—maybe a cup of hot tea, or a snack I 
 
 I also use an app called MealSnap to keep track of what I eat. It even gives you health scores for your snacks. It’s a small thing, but it helps me stay mindful about my choices.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMwMzMzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Mind Without Changing Your Routine")
-*How to Shape Your Mind Without Changing Your Routine - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMwMzMzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Shape Your Mind Without Changing Your Routine" caption="How to Shape Your Mind Without Changing Your Routine - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 ## Getting Used to Comfort—and Not Taking It for Granted
 
@@ -60,8 +58,7 @@ And it’s not just about places—it’s about people, too. The people around y
 
 Don’t let society or your family decide what your life should look like. What worked for them might not work for you. We’re all different, with our own needs for freedom and happiness. Take the time to figure out what you really want, and don’t be afraid to make changes—even if it means stepping away from the life others expect of you.
 
-![Man meditating near water. ](https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMwMzMzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Mind Without Changing Your Routine")
-*How to Shape Your Mind Without Changing Your Routine - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)*
+{{< figure src="https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMwMzMzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man meditating near water." title="How to Shape Your Mind Without Changing Your Routine" caption="How to Shape Your Mind Without Changing Your Routine - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)" >}}
 
 Sometimes, your environment is what’s holding you back. Change your surroundings, and you might find it easier to change your life.
 

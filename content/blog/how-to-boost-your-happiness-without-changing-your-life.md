@@ -12,8 +12,7 @@ original_title = "Peut-on améliorer son bonheur ?"
 source_medium = "https://medium.com/@phenrysay/5d884169ece8"
 +++
 
-![May true love live in your heart](https://images.unsplash.com/photo-1668570649756-30641807bafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MTY2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness Without Changing Your Life")
-*How to Boost Your Happiness Without Changing Your Life - Photo by [Emmanuel Phaeton](https://unsplash.com/@emmanuelphaeton) on [Unsplash](https://unsplash.com/photos/a-bunch-of-locks-on-a-chain-ss6-DV1haCY)*
+{{< figure src="https://images.unsplash.com/photo-1668570649756-30641807bafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MTY2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="May true love live in your heart" title="How to Boost Your Happiness Without Changing Your Life" caption="How to Boost Your Happiness Without Changing Your Life - Photo by [Emmanuel Phaeton](https://unsplash.com/@emmanuelphaeton) on [Unsplash](https://unsplash.com/photos/a-bunch-of-locks-on-a-chain-ss6-DV1haCY)" >}}
 
 Feeling good is not just a luxury; it is a necessity. Every day, we are surrounded by sensations that can either lift us up or weigh us down. The way we feel, whether relaxed or tense, often depends on the environment we live in and the little choices we make.
 
@@ -23,8 +22,7 @@ When I lived in Paris, the stress was even more intense. Paris is a beautiful ci
 
 That is why it is so important to create a joyful and pleasant environment for yourself at home. Your space should make you feel good and help you recharge. Without this, it becomes much harder to think positively, to be creative, and to see the bigger picture. It is essential to ask yourself simple questions: What am I going to do tomorrow? What will I do this afternoon? Where will I go? If you do not have these small plans, you can easily feel lost, unsure of where you are going or what you want. This is when things can start to go wrong, because your environment is not supporting you.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MTY2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness Without Changing Your Life")
-*How to Boost Your Happiness Without Changing Your Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MTY2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Boost Your Happiness Without Changing Your Life" caption="How to Boost Your Happiness Without Changing Your Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 Working on your environment is key. Take a moment to look at where you are and think about what you can improve in your daily life. In the end, a beautiful life is made up of many beautiful days. That is what matters most.
 
@@ -47,8 +45,7 @@ I am with you, truly, and I hope these thoughts help you. Wishing you a wonderfu
 - Small daily plans help you feel more in control and positive.
 - A good life is built from many good days.
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MTY2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness Without Changing Your Life")
-*How to Boost Your Happiness Without Changing Your Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MTY2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Boost Your Happiness Without Changing Your Life" caption="How to Boost Your Happiness Without Changing Your Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 ## Action Steps
 

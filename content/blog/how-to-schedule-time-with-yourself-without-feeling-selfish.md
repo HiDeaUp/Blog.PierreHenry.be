@@ -12,8 +12,7 @@ original_title = "Comment mieux COMMUNIQUER avec soi même ?"
 source_medium = "https://medium.com/@phenrysay/2022f3171084"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbW11bmljYXRpb24lMjBzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NTI0NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Schedule Time With Yourself Without Feeling Selfish")
-*How to Schedule Time With Yourself Without Feeling Selfish - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbW11bmljYXRpb24lMjBzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NTI0NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Schedule Time With Yourself Without Feeling Selfish" caption="How to Schedule Time With Yourself Without Feeling Selfish - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Have you ever noticed how we always make time for conversations with others, but rarely for ourselves? We fill our calendars with meetings and catch-ups: a chat with Marianne, a call with Jean-Pierre, a coffee with Arnaud. But if you saw “meeting with myself” in someone’s agenda, it might seem odd. Yet, this is one of the most important appointments you could ever make.
 
@@ -23,8 +22,7 @@ We often tell ourselves, “Yes, I should spend more time on personal growth. I 
 
 This is why I want to encourage you to set aside at least one hour a week for yourself. Treat it like a date with yourself—a time invested in your own personal growth. Use this time to look at where you can invest in yourself, what you can do for your own well-being, and how you can become more focused. Reading a book about focus is great, but if you never make time to apply what you learn, it’s like throwing the book away.
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbW11bmljYXRpb24lMjBzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NTI0NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Schedule Time With Yourself Without Feeling Selfish")
-*How to Schedule Time With Yourself Without Feeling Selfish - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbW11bmljYXRpb24lMjBzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NTI0NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to Schedule Time With Yourself Without Feeling Selfish" caption="How to Schedule Time With Yourself Without Feeling Selfish - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 Think strategically and long-term. Ask yourself: What can I do next week? What can I change in my days or my week to become a new, improved version of myself? Always look at yourself and ask: Am I better today than I was yesterday? Will I be better tomorrow than I am today?
 
@@ -40,8 +38,7 @@ Think of this as a little reminder, like a booster shot, to help you remember wh
 > _Knowing yourself is the beginning of all wisdom._
 — Aristotle
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbW11bmljYXRpb24lMjBzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NTI0NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Schedule Time With Yourself Without Feeling Selfish")
-*How to Schedule Time With Yourself Without Feeling Selfish - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbW11bmljYXRpb24lMjBzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NTI0NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Schedule Time With Yourself Without Feeling Selfish" caption="How to Schedule Time With Yourself Without Feeling Selfish - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 ---
 

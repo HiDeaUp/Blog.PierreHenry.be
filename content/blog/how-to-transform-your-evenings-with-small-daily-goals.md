@@ -12,8 +12,7 @@ original_title = "Quels sont tes buts et objectifs que tu voudrais faire ?"
 source_medium = "https://medium.com/@phenrysay/280c5adab0d8"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGdvYWxzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY1MTQwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Evenings With Small Daily Goals")
-*How to Transform Your Evenings With Small Daily Goals - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGdvYWxzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY1MTQwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Transform Your Evenings With Small Daily Goals" caption="How to Transform Your Evenings With Small Daily Goals - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Every day, we need goals. Not just the big, life-changing ones, but small, daily targets that give our routine a sense of purpose. Yet, many evenings slip by without meaning. We scroll through social media, wander around the internet, chat with friends, and suddenly the night is over. It wasn’t a bad evening, but it wasn’t the kind of night that leaves you feeling proud or satisfied either.
 
@@ -23,8 +22,7 @@ Let’s say you want to write a book. Instead of dreaming about finishing it in 
 
 That’s why I want to create books, video courses, or even short YouTube videos about topics where I want to become an expert. Instead of wasting the evening, I can do something that makes me happy and proud. It’s important to do things that make you feel satisfied with yourself.
 
-![Innovation project with the management team of a very big and important customer in 2019.](https://images.unsplash.com/photo-1626239912118-062676ce2b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGdvYWxzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY1MTQwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Evenings With Small Daily Goals")
-*How to Transform Your Evenings With Small Daily Goals - Photo by [FORTYTWO](https://unsplash.com/@byfortytwo) on [Unsplash](https://unsplash.com/photos/yellow-sticky-notes-on-white-and-red-polka-dot-textile-aftBTy8_sAU)*
+{{< figure src="https://images.unsplash.com/photo-1626239912118-062676ce2b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGdvYWxzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY1MTQwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Innovation project with the management team of a very big and important customer in 2019." title="How to Transform Your Evenings With Small Daily Goals" caption="How to Transform Your Evenings With Small Daily Goals - Photo by [FORTYTWO](https://unsplash.com/@byfortytwo) on [Unsplash](https://unsplash.com/photos/yellow-sticky-notes-on-white-and-red-polka-dot-textile-aftBTy8_sAU)" >}}
 
 So, ask yourself: What could I do today that would make me proud? What could I do that would make me happy? If you can answer that, you’re already halfway there.
 
@@ -42,8 +40,7 @@ So tonight, try spending half an hour, or even just ten minutes, on something th
 > 
 > — Lao Tzu
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGdvYWxzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY1MTQwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Evenings With Small Daily Goals")
-*How to Transform Your Evenings With Small Daily Goals - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGdvYWxzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY1MTQwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Transform Your Evenings With Small Daily Goals" caption="How to Transform Your Evenings With Small Daily Goals - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 ---
 

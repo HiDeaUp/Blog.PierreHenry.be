@@ -12,8 +12,7 @@ original_title = "Secret que j'aurais voulu connaître à 16 ans pour réussir �
 source_medium = "https://medium.com/@phenrysay/fb64d881c73a"
 +++
 
-![Photo by Axel Visoso](https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action in 5 Seconds Without Waiting for Motivation")
-*How to Take Action in 5 Seconds Without Waiting for Motivation - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)*
+{{< figure src="https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of person holding alarm clock" title="How to Take Action in 5 Seconds Without Waiting for Motivation" caption="How to Take Action in 5 Seconds Without Waiting for Motivation - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)" >}}
 
 There’s a tiny productivity principle I rely on every day, and it’s so simple you might overlook it. It’s the timer principle. Here’s how it works: whenever you’re about to do something you don’t feel like doing—especially when the task still feels like a mountain—you set a timer for five seconds. That’s it. Five seconds before you start, you count down: five, four, three, two, one… and you go. No thinking, no negotiating with yourself. You just do it.
 
@@ -23,8 +22,7 @@ Sometimes, even getting out of bed feels impossible. I use a five-minute timer f
 
 Our environment is powerful—it can either help us act or keep us stuck. That’s why the timer principle is so useful. It helps you get started, even when you really don’t want to. You can use it for anything: five minutes to wake up, five minutes to start studying, five seconds to launch into a task you’re avoiding.
 
-![monochrome vintage clock](https://images.unsplash.com/19/clock.JPG?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action in 5 Seconds Without Waiting for Motivation")
-*How to Take Action in 5 Seconds Without Waiting for Motivation - Photo by [petradr](https://unsplash.com/@petradr) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-analog-clock-8hgm6mKK04U)*
+{{< figure src="https://images.unsplash.com/19/clock.JPG?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="monochrome vintage clock" title="How to Take Action in 5 Seconds Without Waiting for Motivation" caption="How to Take Action in 5 Seconds Without Waiting for Motivation - Photo by [petradr](https://unsplash.com/@petradr) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-analog-clock-8hgm6mKK04U)" >}}
 
 Right now, I’m finishing a master’s in Data Science at James University. Every time I need to start working, I set a timer—sometimes for seconds, sometimes for minutes. I use whatever tool is handy: my phone, Siri, or just the built-in clock app. The key is to have the timer ready at all times. If it’s buried in a folder or hard to find, you’ll lose time and motivation. I keep my clock app on my home screen, always within reach. For Android, it’s the same idea—put your timer app where you can get to it fast.
 
@@ -42,8 +40,7 @@ I use my workshops and courses to reinforce what I learn, to make information cl
 
 Remember: your life belongs to you. Time is like a train that never stops. The best moment to act is now. So go for it—count down, start the timer, and move forward.
 
-![Photo by - Kenny](https://images.unsplash.com/photo-1747103837537-0c07eb07e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action in 5 Seconds Without Waiting for Motivation")
-*How to Take Action in 5 Seconds Without Waiting for Motivation - Photo by [- Kenny](https://unsplash.com/@kennyzhang29) on [Unsplash](https://unsplash.com/photos/a-clock-is-attached-to-a-tree-by-the-street-iD-eyB7uxO4)*
+{{< figure src="https://images.unsplash.com/photo-1747103837537-0c07eb07e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock is to a tree by the street iD" title="How to Take Action in 5 Seconds Without Waiting for Motivation" caption="How to Take Action in 5 Seconds Without Waiting for Motivation - Photo by [- Kenny](https://unsplash.com/@kennyzhang29) on [Unsplash](https://unsplash.com/photos/a-clock-is-attached-to-a-tree-by-the-street-iD-eyB7uxO4)" >}}
 
 ---
 

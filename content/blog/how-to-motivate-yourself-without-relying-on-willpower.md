@@ -12,8 +12,7 @@ original_title = "Développe-toi Grâce aux Récompenses. Je te dévoile TOUT"
 source_medium = "https://medium.com/@phenrysay/e00e381f0ea0"
 +++
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLW1vdGl2YXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHJld2FyZHN8ZW58MHwwfHx8MTc1NTM4NTg5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Motivate Yourself Without Relying on Willpower")
-*How to Motivate Yourself Without Relying on Willpower - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLW1vdGl2YXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHJld2FyZHN8ZW58MHwwfHx8MTc1NTM4NTg5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Motivate Yourself Without Relying on Willpower" caption="How to Motivate Yourself Without Relying on Willpower - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 Motivation isn’t always about grand visions or endless willpower. Sometimes, it’s as simple as promising yourself a good cup of coffee after finishing a tough task. Let me share how I use rewards—what I call “reward triggers”—to keep myself moving forward, even when the finish line feels far away.
 
@@ -27,8 +26,7 @@ This isn’t just about food. The point is to have something to look forward to,
 
 A reward without a deadline is just a wish. If you don’t set a clear date, you’ll keep pushing things off—“I’ll do it tomorrow, or maybe the day after.” But when you have a deadline, suddenly there’s urgency. If I want that iPhone, I need to hit my target by a certain day. It’s the same with smaller tasks: if I want my coffee before the café closes at 3 PM, I have to finish my work before then.
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLW1vdGl2YXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHJld2FyZHN8ZW58MHwwfHx8MTc1NTM4NTg5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Motivate Yourself Without Relying on Willpower")
-*How to Motivate Yourself Without Relying on Willpower - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLW1vdGl2YXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHJld2FyZHN8ZW58MHwwfHx8MTc1NTM4NTg5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Motivate Yourself Without Relying on Willpower" caption="How to Motivate Yourself Without Relying on Willpower - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 This approach is sometimes called “time boxing.” I’ll unplug my laptop and challenge myself to finish before the battery runs out. It’s a simple box of time, and it keeps me focused.
 
@@ -50,8 +48,7 @@ Some people have a network, a community, or resources. Others start from scratch
 >
 > — Pierre
 
-![Having coffee while journaling on a moody winter day](https://images.unsplash.com/photo-1638406369881-992bc3e1132f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLW1vdGl2YXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHJld2FyZHN8ZW58MHwwfHx8MTc1NTM4NTg5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Motivate Yourself Without Relying on Willpower")
-*How to Motivate Yourself Without Relying on Willpower - Photo by [Rashtravardhan Kataria](https://unsplash.com/@almostfilmmaker) on [Unsplash](https://unsplash.com/photos/a-red-book-with-the-words-you-are-your-only-limit-next-to-a-cup-of-P0ORu93aMF0)*
+{{< figure src="https://images.unsplash.com/photo-1638406369881-992bc3e1132f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLW1vdGl2YXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHJld2FyZHN8ZW58MHwwfHx8MTc1NTM4NTg5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Having coffee while journaling on a moody winter day" title="How to Motivate Yourself Without Relying on Willpower" caption="How to Motivate Yourself Without Relying on Willpower - Photo by [Rashtravardhan Kataria](https://unsplash.com/@almostfilmmaker) on [Unsplash](https://unsplash.com/photos/a-red-book-with-the-words-you-are-your-only-limit-next-to-a-cup-of-P0ORu93aMF0)" >}}
 
 ## Make Your Tasks Easier
 

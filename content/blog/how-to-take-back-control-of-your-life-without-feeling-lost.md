@@ -12,8 +12,7 @@ original_title = "Comment reprendre contrôle de sa vie …?"
 source_medium = "https://medium.com/@phenrysay/6356b577171a"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNvbnRyb2wlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTEzNDIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Back Control of Your Life Without Feeling Lost")
-*How to Take Back Control of Your Life Without Feeling Lost - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNvbnRyb2wlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTEzNDIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Take Back Control of Your Life Without Feeling Lost" caption="How to Take Back Control of Your Life Without Feeling Lost - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Let’s talk about vision. Not the kind you need glasses for, but the kind that gives your life direction. There’s something powerful about waking up with a plan, knowing exactly what you want to achieve. When you don’t have that, life feels like walking through fog. You wake up, do a bit of this, a bit of that, maybe go to work, but without a plan, you’re just moving forward without really getting anywhere.
 
@@ -23,8 +22,7 @@ But imagine starting your week with a clear challenge. For example, you decide t
 
 This approach works for anything. Maybe you want to reach a certain level in a foreign language. You use apps like Duolingo or Busuu, or maybe you dream of full immersion. So you book your plane ticket tonight, or ask your manager if you can take two weeks off or work remotely. You spend your evenings researching the best language schools, and by the weekend, you’ve chosen one. You sign up for conversation practice with native speakers online. Step by step, you move closer to your goal, because you have a clear vision.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNvbnRyb2wlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTEzNDIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Back Control of Your Life Without Feeling Lost")
-*How to Take Back Control of Your Life Without Feeling Lost - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
+{{< figure src="https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNvbnRyb2wlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTEzNDIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface WpoS C209uk" title="How to Take Back Control of Your Life Without Feeling Lost" caption="How to Take Back Control of Your Life Without Feeling Lost - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)" >}}
 
 The same goes for writing a book, launching a course, or even getting into cryptocurrency mining. You buy your equipment, set up your accounts, and start learning. You give yourself a deadline—three months, for example—and you organize your time around that. You know exactly what you’re working toward and why.
 
@@ -42,8 +40,7 @@ Think of your life like a ship. If the captain doesn’t know where the ship is 
 >
 > — Charles Buxton
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695473507872-86e4bf8ba305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNvbnRyb2wlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTEzNDIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Back Control of Your Life Without Feeling Lost")
-*How to Take Back Control of Your Life Without Feeling Lost - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-paper-that-reads-parental-self-care-EFiOlm-WKvY)*
+{{< figure src="https://images.unsplash.com/photo-1695473507872-86e4bf8ba305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNvbnRyb2wlMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTEzNDIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A with a paper that reads self care EFiOlm WKvY" title="How to Take Back Control of Your Life Without Feeling Lost" caption="How to Take Back Control of Your Life Without Feeling Lost - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-paper-that-reads-parental-self-care-EFiOlm-WKvY)" >}}
 
 ---
 

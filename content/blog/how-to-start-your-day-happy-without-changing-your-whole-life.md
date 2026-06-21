@@ -12,8 +12,7 @@ original_title = "Vivre une belle vie. Pourquoi est-ce si difficile ?"
 source_medium = "https://medium.com/@phenrysay/4d354656c3cb"
 +++
 
-![mug with happiness](https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwbW9ybmluZyUyMHJvdXRpbmVzJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTU1MjEyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Day Happy Without Changing Your Whole Life")
-*How to Start Your Day Happy Without Changing Your Whole Life - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)*
+{{< figure src="https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwbW9ybmluZyUyMHJvdXRpbmVzJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTU1MjEyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="mug with happiness" title="How to Start Your Day Happy Without Changing Your Whole Life" caption="How to Start Your Day Happy Without Changing Your Whole Life - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)" >}}
 
 Have you ever noticed how the smallest things can set the tone for your entire day? Maybe it’s that first sip of coffee, the smell of a fresh croissant, or the comfort of a simple breakfast. These little rituals aren’t just habits—they’re the foundation of your well-being.
 
@@ -29,8 +28,7 @@ For example, if you love kiwis or bananas, why not blend them into a smoothie? I
 
 One way to get better at this is to track your happiness. After you enjoy a moment, ask yourself: On a scale from 0 to 10, how much did I enjoy this? What could have made it even better? Are there other things I could add to my day to make it not just good, but amazing?
 
-![Photo by Amanda Lins](https://images.unsplash.com/photo-1559709451-1b5dc3c0038c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwbW9ybmluZyUyMHJvdXRpbmVzJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTU1MjEyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Day Happy Without Changing Your Whole Life")
-*How to Start Your Day Happy Without Changing Your Whole Life - Photo by [Amanda Lins](https://unsplash.com/@amandalins) on [Unsplash](https://unsplash.com/photos/woman-wearing-pink-top-while-holding-mug-MwYWBv1Arpw)*
+{{< figure src="https://images.unsplash.com/photo-1559709451-1b5dc3c0038c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwbW9ybmluZyUyMHJvdXRpbmVzJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTU1MjEyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman wearing pink top while holding mug" title="How to Start Your Day Happy Without Changing Your Whole Life" caption="How to Start Your Day Happy Without Changing Your Whole Life - Photo by [Amanda Lins](https://unsplash.com/@amandalins) on [Unsplash](https://unsplash.com/photos/woman-wearing-pink-top-while-holding-mug-MwYWBv1Arpw)" >}}
 
 By paying attention to these details, you’ll slowly improve your happiness and boost your positive energy. The better you feel, the more positive energy you’ll share with others. It’s contagious—your good mood can lift up the people around you.
 
@@ -50,8 +48,7 @@ This is why it’s so important to take care of your own well-being. When you fe
 
 ---
 
-![Photo by Julian Hochgesang](https://images.unsplash.com/photo-1454916286212-0ea211dc68d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwbW9ybmluZyUyMHJvdXRpbmVzJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTU1MjEyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Day Happy Without Changing Your Whole Life")
-*How to Start Your Day Happy Without Changing Your Whole Life - Photo by [Julian Hochgesang](https://unsplash.com/@julianhochgesang) on [Unsplash](https://unsplash.com/photos/green-and-white-mug-pgVvMfsv8EM)*
+{{< figure src="https://images.unsplash.com/photo-1454916286212-0ea211dc68d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwbW9ybmluZyUyMHJvdXRpbmVzJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTU1MjEyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green and white mug" title="How to Start Your Day Happy Without Changing Your Whole Life" caption="How to Start Your Day Happy Without Changing Your Whole Life - Photo by [Julian Hochgesang](https://unsplash.com/@julianhochgesang) on [Unsplash](https://unsplash.com/photos/green-and-white-mug-pgVvMfsv8EM)" >}}
 
 ## Key Takeaways
 

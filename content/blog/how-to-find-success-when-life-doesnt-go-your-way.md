@@ -11,11 +11,11 @@ source_medium = "https://medium.com/@phenrysay/5ca64b1bfd35"
 source_youtube = "https://www.youtube.com/watch?v=W63s9WccYdo"
 +++
 
-![Man in grey shirt standing on grass field during daytime - Photo by DISRUPTIVO on Unsplash](https://images.unsplash.com/photo-1593369141076-00e271665354?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw1fHxIb3clMjB0byUyMEZpbmQlMjBTdWNjZXNzJTIwV2hlbiUyMExpZmUlMjBEb2VzbiVFMiU4MCU5OXQlMjBHbyUyMFlvdXIlMjBXYXl8ZW58MHwwfHx8MTc3NDA1MTIwNHww&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1593369141076-00e271665354?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw1fHxIb3clMjB0byUyMEZpbmQlMjBTdWNjZXNzJTIwV2hlbiUyMExpZmUlMjBEb2VzbiVFMiU4MCU5OXQlMjBHbyUyMFlvdXIlMjBXYXl8ZW58MHwwfHx8MTc3NDA1MTIwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in grey shirt standing on grass field during daytime - Photo by DISRUPTIVO on Unsplash" >}}
 
 **Sometimes, life’s twists are exactly what we need.**
 
-![A man standing on top of a mountain with a telescope - Photo by Vusala Abdullayeva on Unsplash](https://images.unsplash.com/photo-1673261576405-1bfefcc799c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw2fHxIb3clMjB0byUyMEZpbmQlMjBTdWNjZXNzJTIwV2hlbiUyMExpZmUlMjBEb2VzbiVFMiU4MCU5OXQlMjBHbyUyMFlvdXIlMjBXYXl8ZW58MHwwfHx8MTc3NDA1MTIwNHww&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1673261576405-1bfefcc799c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw2fHxIb3clMjB0byUyMEZpbmQlMjBTdWNjZXNzJTIwV2hlbiUyMExpZmUlMjBEb2VzbiVFMiU4MCU5OXQlMjBHbyUyMFlvdXIlMjBXYXl8ZW58MHwwfHx8MTc3NDA1MTIwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man standing on top of a mountain with a telescope - Photo by Vusala Abdullayeva on Unsplash" >}}
 
 Comforting yourself is, above all, about redefining who you are. It’s about saying to yourself, “Alright, this didn’t work out. That should have gone differently, but it didn’t go my way. Things didn’t turn out as I hoped.” But in the end, that’s just how it is. There’s nothing you can do about it except move forward.
 

@@ -12,8 +12,7 @@ original_title = "Comment changer notre rapport au temps ?"
 source_medium = "https://medium.com/@phenrysay/f1cd5243710b"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2MDAwOTIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Hour Count Without Burning Out")
-*How to Make Every Hour Count Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2MDAwOTIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Make Every Hour Count Without Burning Out" caption="How to Make Every Hour Count Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Most of us share the same daily routine. We wake up, go about our tasks, and try to squeeze in as much as possible before the day ends. Whether you’re a student, a professional, or someone juggling multiple roles, the challenge is always the same: how do we make the most of our time?
 
@@ -35,8 +34,7 @@ Sending a text or scrolling through your feed might feel like you’re doing som
 
 This brings me to the Pareto Principle: 80% of your results come from 20% of your efforts. The key is to focus on the activities that bring the most value, both for yourself and for others. If you spend your time on things that don’t matter, you’ll look back and wonder where your life went.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2MDAwOTIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Hour Count Without Burning Out")
-*How to Make Every Hour Count Without Burning Out - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2MDAwOTIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Every Hour Count Without Burning Out" caption="How to Make Every Hour Count Without Burning Out - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Delegate or eliminate tasks that don’t add value or that you don’t enjoy. If you’re a dentist, for example, don’t spend a whole week every year doing your own accounting just because you want control. Hire an expert. Yes, it costs money, but it frees up your time to do what you’re best at—and what brings you joy and real value. In the long run, this approach will make you richer, not just in money but in time and satisfaction.
 
@@ -62,8 +60,7 @@ The biggest barrier to changing your relationship with time is in your head. We�
 
 Vision boards can help. Put up pictures of the life you want, the places you want to live, the things you want to achieve. Remind yourself why you’re making these efforts, especially when things get tough.
 
-![Photo by Chirayu Trivedi](https://images.unsplash.com/photo-1584684324795-2ecfed685c4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2MDAwOTIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Hour Count Without Burning Out")
-*How to Make Every Hour Count Without Burning Out - Photo by [Chirayu Trivedi](https://unsplash.com/@rc820) on [Unsplash](https://unsplash.com/photos/black-round-analog-wall-clock-o2_uimSZCQU)*
+{{< figure src="https://images.unsplash.com/photo-1584684324795-2ecfed685c4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2MDAwOTIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black round analog wall clock" title="How to Make Every Hour Count Without Burning Out" caption="How to Make Every Hour Count Without Burning Out - Photo by [Chirayu Trivedi](https://unsplash.com/@rc820) on [Unsplash](https://unsplash.com/photos/black-round-analog-wall-clock-o2_uimSZCQU)" >}}
 
 > *Daring is losing your balance for a moment. Not daring is losing your life.*
 > 

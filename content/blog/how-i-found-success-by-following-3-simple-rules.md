@@ -12,8 +12,7 @@ original_title = "Mes 3 clés du succès (celles qui ont tout changé pour moi)"
 source_medium = "https://medium.com/@phenrysay/20dd0dfe54e2"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NTUxOTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Found Success by Following 3 Simple Rules")
-*How I Found Success by Following 3 Simple Rules - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NTUxOTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How I Found Success by Following 3 Simple Rules" caption="How I Found Success by Following 3 Simple Rules - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Success is often painted as a mysterious formula, a secret recipe that only a few seem to know. But after years of coaching, mentoring, and simply observing people from all walks of life—close friends, distant contacts, and everyone in between—I’ve realized that the real keys are much simpler than we think. Here are the three principles that have made the biggest difference for me, and that I see again and again in the stories of those who truly move forward.
 
@@ -33,8 +32,7 @@ Being open doesn’t mean saying yes to everything. It means being willing to li
 
 The second key is to believe that things work out as they should. If someone rejects your idea, if you don’t get the job, if your visa application is denied, or if a relationship ends—tell yourself that it was meant to be this way. Don’t let failure or disappointment feed your mind with negativity. Instead, see it as a sign that the future has something else in store for you.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NTUxOTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Found Success by Following 3 Simple Rules")
-*How I Found Success by Following 3 Simple Rules - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)*
+{{< figure src="https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NTUxOTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface SNJ1O2 b0IE" title="How I Found Success by Following 3 Simple Rules" caption="How I Found Success by Following 3 Simple Rules - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)" >}}
 
 Of course, this isn’t always easy. It takes resilience and a bit of self-reflection. Sometimes, you need to admit your own part in what happened. But the important thing is to keep moving forward, not to dwell on what went wrong. The next chapter is waiting.
 
@@ -58,8 +56,7 @@ Remember, discipline is freedom. The more you respect your own time, the more yo
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NTUxOTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Found Success by Following 3 Simple Rules")
-*How I Found Success by Following 3 Simple Rules - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NTUxOTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How I Found Success by Following 3 Simple Rules" caption="How I Found Success by Following 3 Simple Rules - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 - Stay open to new opportunities, even if they seem unimportant at first.
 - Trust that setbacks are part of the journey and move on quickly.

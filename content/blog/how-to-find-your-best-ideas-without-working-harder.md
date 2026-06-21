@@ -12,8 +12,7 @@ original_title = "Pourquoi les pauses peut tout changer dans ton succès ? Tu va
 source_medium = "https://medium.com/@phenrysay/7c7faae1959c"
 +++
 
-![Take a Break](https://images.unsplash.com/photo-1649452942945-cd20ccdbb1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0NzU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Best Ideas Without Working Harder")
-*How to Find Your Best Ideas Without Working Harder - Photo by [Glenn Diaz](https://unsplash.com/@glenndiaz) on [Unsplash](https://unsplash.com/photos/a-notebook-with-some-writing-on-it-next-to-a-keyboard-HsGOS6CxOK8)*
+{{< figure src="https://images.unsplash.com/photo-1649452942945-cd20ccdbb1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0NzU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Take a Break" title="How to Find Your Best Ideas Without Working Harder" caption="How to Find Your Best Ideas Without Working Harder - Photo by [Glenn Diaz](https://unsplash.com/@glenndiaz) on [Unsplash](https://unsplash.com/photos/a-notebook-with-some-writing-on-it-next-to-a-keyboard-HsGOS6CxOK8)" >}}
 
 This afternoon, I found myself in a cozy coffee shop, enjoying a cup of coffee during their “Happy Hour.” Between 2:30 and 3:30 pm, coffee is cheaper—a small detail, but it made me smile. I snapped a photo of the sign, thinking about how these little pauses, these “slowdowns,” are more than just a treat. They’re a way to breathe, to step back, and to clear out the mental clutter that builds up during the day.
 
@@ -30,8 +29,7 @@ This is where the concept of priorities comes in. I often talk about this in my 
 
 Here’s the key: what’s important for you is rarely urgent, and what’s urgent is rarely important. Urgent things are usually external demands—paying bills, cleaning the kitchen, picking up groceries. Yes, they need to be done, but nobody’s life depends on whether you run out of milk today. Urgent tasks are like mushrooms: as soon as you deal with one, another pops up. It never ends.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0NzU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Best Ideas Without Working Harder")
-*How to Find Your Best Ideas Without Working Harder - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0NzU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Find Your Best Ideas Without Working Harder" caption="How to Find Your Best Ideas Without Working Harder - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 That’s why it’s so important to focus on your truly important tasks. If you don’t, you’ll spend your days chasing after urgent things, never making progress on what really matters to you.
 
@@ -51,8 +49,7 @@ The best time to take action is always now. Don’t put off what you know you ne
 
 ## Key Takeaways
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0NzU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Best Ideas Without Working Harder")
-*How to Find Your Best Ideas Without Working Harder - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBmb2N1c3xlbnwwfDB8fHwxNzU1Mzg0NzU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Find Your Best Ideas Without Working Harder" caption="How to Find Your Best Ideas Without Working Harder - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 - Taking intentional breaks helps clear your mind and refocus on what matters.
 - Urgent tasks will always multiply—prioritize what’s truly important to you.

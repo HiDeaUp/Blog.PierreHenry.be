@@ -12,8 +12,7 @@ original_title = "Comment s’inspirer et inspirer les autres (tout en devenant 
 source_medium = "https://medium.com/@phenrysay/79fa3336041e"
 +++
 
-![Dreamy nature.](https://images.unsplash.com/photo-1699981369134-616be2352cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnNwaXJhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTYzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Inspire Others by Being Yourself—No Imitation Needed")
-*How to Inspire Others by Being Yourself—No Imitation Needed - Photo by [Aditi Gogoi](https://unsplash.com/@ikomapz) on [Unsplash](https://unsplash.com/photos/a-bird-flying-in-the-air-over-a-forest-_ZkUvytMzAI)*
+{{< figure src="https://images.unsplash.com/photo-1699981369134-616be2352cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnNwaXJhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTYzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Dreamy nature." title="How to Inspire Others by Being Yourself—No Imitation Needed" caption="How to Inspire Others by Being Yourself—No Imitation Needed - Photo by [Aditi Gogoi](https://unsplash.com/@ikomapz) on [Unsplash](https://unsplash.com/photos/a-bird-flying-in-the-air-over-a-forest-_ZkUvytMzAI)" >}}
 
 Have you ever met someone and thought, “Wow, I wish I could be like them”? Maybe it wasn’t about wanting their life, but something about their presence drew you in. They seemed to shine, not because they were perfect, but because they were genuine. That’s the kind of inspiration that sticks with us. It’s not about copying someone else, but about finding what makes you unique and letting it show.
 
@@ -25,8 +24,7 @@ Charisma plays a big part in this. When you have a bit of charisma, your confide
 
 As you keep doing this, you start to build your own “brand.” People recognize you for who you are and for the values you stand for. That’s powerful. Nobody wants to be just another face in the crowd, blending in like a spoonful of soup or a pot of yogurt. You want to say what you think, without being mean or trying to please everyone.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnNwaXJhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTYzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Inspire Others by Being Yourself—No Imitation Needed")
-*How to Inspire Others by Being Yourself—No Imitation Needed - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnNwaXJhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTYzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Inspire Others by Being Yourself—No Imitation Needed" caption="How to Inspire Others by Being Yourself—No Imitation Needed - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Kindness matters. Being mean for no reason doesn’t last. It’s usually a sign of immaturity. Instead, be mature. Stand up for what you believe is right. Defend people who have been treated unfairly. Support causes that matter to you. That’s how you live a meaningful life.
 
@@ -44,8 +42,7 @@ In the end, being yourself is the best way to inspire others. Show your values, 
 
 ## Key Takeaways
 
-![Backwards Man in Front of the ocean.](https://images.unsplash.com/photo-1565722053355-338bbe03c2d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnNwaXJhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTYzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Inspire Others by Being Yourself—No Imitation Needed")
-*How to Inspire Others by Being Yourself—No Imitation Needed - Photo by [Paul Kapischka](https://unsplash.com/@kapischka) on [Unsplash](https://unsplash.com/photos/grayscale-photography-of-man-walking-on-shore-wYJNTNmKI_Q)*
+{{< figure src="https://images.unsplash.com/photo-1565722053355-338bbe03c2d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnNwaXJhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTYzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Backwards Man in Front of the ocean." title="How to Inspire Others by Being Yourself—No Imitation Needed" caption="How to Inspire Others by Being Yourself—No Imitation Needed - Photo by [Paul Kapischka](https://unsplash.com/@kapischka) on [Unsplash](https://unsplash.com/photos/grayscale-photography-of-man-walking-on-shore-wYJNTNmKI_Q)" >}}
 
 - Inspiration starts with being true to yourself.
 - Don’t copy others—show your own values and uniqueness.

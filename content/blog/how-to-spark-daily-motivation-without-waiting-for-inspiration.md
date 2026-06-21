@@ -12,8 +12,7 @@ original_title = "Bonheur Express 🚀"
 source_medium = "https://medium.com/@phenrysay/fb39314a1440"
 +++
 
-![Photo by Samantha Gades](https://images.unsplash.com/photo-1504812725317-0fb0450d8e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaGFwcGluZXNzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxNjEzN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Daily Motivation Without Waiting for Inspiration")
-*How to Spark Daily Motivation Without Waiting for Inspiration - Photo by [Samantha Gades](https://unsplash.com/@srosinger3997) on [Unsplash](https://unsplash.com/photos/woman-holding-white-mug-while-lying-on-bed-RJl-ZYWCs7M)*
+{{< figure src="https://images.unsplash.com/photo-1504812725317-0fb0450d8e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaGFwcGluZXNzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxNjEzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman holding white mug while lying on bed RJl ZYWCs7M" title="How to Spark Daily Motivation Without Waiting for Inspiration" caption="How to Spark Daily Motivation Without Waiting for Inspiration - Photo by [Samantha Gades](https://unsplash.com/@srosinger3997) on [Unsplash](https://unsplash.com/photos/woman-holding-white-mug-while-lying-on-bed-RJl-ZYWCs7M)" >}}
 
 Have you ever wondered what really gets you out of bed with a smile, ready to take on the world? That feeling of excitement, the drive that pushes you to reach new heights, is not just for special occasions. It’s possible to feel this way every day, and I want to share how you can make it your new normal.
 
@@ -29,9 +28,7 @@ A minimalist space helps too. When your surroundings are simple and tidy, with o
 
 Another trick is to use triggers that put you in the right mood. Music is a powerful tool. I often listen to playlists that match the energy I want for the day. For example, Jonathan Antoine’s opera songs can create an uplifting atmosphere. The right music in the morning fills you with positive energy and sets the tone for the hours ahead.
 
-![Daily motivation in the office - Do more of what makes you happy!
-](https://images.unsplash.com/photo-1650513737590-4a00deeddc7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaGFwcGluZXNzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxNjEzN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Daily Motivation Without Waiting for Inspiration")
-*How to Spark Daily Motivation Without Waiting for Inspiration - Photo by [dlxmedia.hu](https://unsplash.com/@dlxmedia) on [Unsplash](https://unsplash.com/photos/a-white-shelf-with-a-black-and-white-poster-and-a-potted-plant-52AgXRhDaPI)*
+{{< figure src="https://images.unsplash.com/photo-1650513737590-4a00deeddc7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaGFwcGluZXNzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxNjEzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Daily motivation in the office - Do more of what makes you happy!" title="How to Spark Daily Motivation Without Waiting for Inspiration" caption="How to Spark Daily Motivation Without Waiting for Inspiration - Photo by [dlxmedia.hu](https://unsplash.com/@dlxmedia) on [Unsplash](https://unsplash.com/photos/a-white-shelf-with-a-black-and-white-poster-and-a-potted-plant-52AgXRhDaPI)" >}}
 
 Lighting matters as well. There are sunrise simulation lamps that gradually brighten your room, making it easier to wake up gently. I’ve found these lamps on Amazon for about 40 to 50 euros, and they make a real difference. At night, make sure your room is completely dark by closing the blinds. This helps you sleep better, and in the morning, the gradual light wakes you up naturally.
 
@@ -52,8 +49,7 @@ Before big moments, create a ritual to boost your energy. Tony Robbins, for exam
 
 Remember how you felt as a child before your birthday or the holidays? That pure excitement is still inside you. The key is to find ways to bring it back every morning. Life is too short not to live it at 300%. Fill your days with energy, curiosity, and joy—just like when you were a kid.
 
-![In frame - a cup with the quotes " Happiness is having a younger brother who is taller than you".](https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaGFwcGluZXNzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxNjEzN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Daily Motivation Without Waiting for Inspiration")
-*How to Spark Daily Motivation Without Waiting for Inspiration - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)*
+{{< figure src="https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaGFwcGluZXNzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxNjEzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="In frame - a cup with the quotes &quot; Happiness is having a younger brother who is taller than you&quot;." title="How to Spark Daily Motivation Without Waiting for Inspiration" caption="How to Spark Daily Motivation Without Waiting for Inspiration - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Ajout de bonheur au quotidien💥"
 source_medium = "https://medium.com/@phenrysay/8bf3fe4235af"
 +++
 
-![In frame - a cup with the quotes " Happiness is having a younger brother who is taller than you".](https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMGxpZmUlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY2MzUxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Success")
-*How to Find Real Happiness Without Chasing Success - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)*
+{{< figure src="https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMGxpZmUlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY2MzUxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="In frame - a cup with the quotes &quot; Happiness is having a younger brother who is taller than you&quot;." title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)" >}}
 
 Many people spend their lives chasing what they think is success. For most, that means having a lot of money, driving the best cars, getting the highest degrees, landing the top jobs, or building and selling startups for huge sums. The dream is to own the most beautiful houses, maybe even several, scattered around the world. But in this race, something important gets lost: actually enjoying life and feeling well.
 
@@ -23,8 +22,7 @@ You don’t need a mountain of cash sitting in your bank account, gathering dust
 
 So, how do you get there? Start by finding a hobby or passion that you can turn into a source of income. Maybe you teach, offer a service, or do some coaching. For example, I sell my courses on a platform called Podia. It’s not about having the most students or the highest ratings. If you focus only on numbers, you’ll end up in another race, always chasing more and enjoying less.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMGxpZmUlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY2MzUxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Success")
-*How to Find Real Happiness Without Chasing Success - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMGxpZmUlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY2MzUxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 Instead, think about what makes you feel good. Maybe you only need a few clients or students to live well. There are many platforms out there, and you can even host your own courses. Podia works well and isn’t too expensive, especially if you sign up during Black Friday when they offer discounts. That way, you can keep your costs down and renew at a lower price each year.
 
@@ -42,8 +40,7 @@ In the end, success isn’t about having the most money or the biggest company. 
 
 ---
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMGxpZmUlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY2MzUxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Success")
-*How to Find Real Happiness Without Chasing Success - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMGxpZmUlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY2MzUxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "CE QUE CETTE INSPIRATION A PROVOQUER SUR MA RÉUSSITE. ET CE Q
 source_medium = "https://medium.com/@phenrysay/4db50b559a02"
 +++
 
-![the man listens to music](https://images.unsplash.com/photo-1689357641081-bafacc1edb53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnNwaXJhdGlvbiUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBtdXNpYyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTM4NTQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Inspiration Without Waiting for Motivation")
-*How to Find Daily Inspiration Without Waiting for Motivation - Photo by [Anna Keibalo](https://unsplash.com/@anyutakejbalo) on [Unsplash](https://unsplash.com/photos/a-man-wearing-headphones-standing-in-a-field-nlPEozXmbJE)*
+{{< figure src="https://images.unsplash.com/photo-1689357641081-bafacc1edb53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnNwaXJhdGlvbiUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBtdXNpYyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTM4NTQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="the man listens to music" title="How to Find Daily Inspiration Without Waiting for Motivation" caption="How to Find Daily Inspiration Without Waiting for Motivation - Photo by [Anna Keibalo](https://unsplash.com/@anyutakejbalo) on [Unsplash](https://unsplash.com/photos/a-man-wearing-headphones-standing-in-a-field-nlPEozXmbJE)" >}}
 
 Inspiration is a strange thing. Sometimes, it hits you out of nowhere and gives you the energy to go far—much farther than you thought possible. I want to share how inspiration has shaped my own success, and more importantly, how you can use it to shape yours.
 
@@ -31,8 +30,7 @@ The next thing that makes a huge difference is your physiology—how you stand, 
 
 Here’s how it works: I look in the mirror and say things like, “Today will be an amazing day,” or “I’m going to crush it and find lots of opportunities.” Just saying these things out loud changes everything. It’s about repeating positive thoughts until you start to believe them.
 
-![Guitarist](https://images.unsplash.com/photo-1525204016358-717c1c37382f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnNwaXJhdGlvbiUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBtdXNpYyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTM4NTQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Inspiration Without Waiting for Motivation")
-*How to Find Daily Inspiration Without Waiting for Motivation - Photo by [Jacek Dylag](https://unsplash.com/@dylu) on [Unsplash](https://unsplash.com/photos/man-playing-guitar-inside-room-DUrdHDn81mk)*
+{{< figure src="https://images.unsplash.com/photo-1525204016358-717c1c37382f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnNwaXJhdGlvbiUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBtdXNpYyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTM4NTQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Guitarist" title="How to Find Daily Inspiration Without Waiting for Motivation" caption="How to Find Daily Inspiration Without Waiting for Motivation - Photo by [Jacek Dylag](https://unsplash.com/@dylu) on [Unsplash](https://unsplash.com/photos/man-playing-guitar-inside-room-DUrdHDn81mk)" >}}
 
 I even keep notes on my computer with these affirmations. I call them “pride rituals.” They’re intentional practices to boost confidence and self-esteem. The idea is to focus on your strengths, your qualities, your wins—everything that makes you unique.
 
@@ -56,8 +54,7 @@ All these little rituals—music, self-talk, celebrating wins, and even watching
 > _“Success is not the key to happiness. Happiness is the key to success.”_
 > — Albert Schweitzer
 
-![Live Music graffiti sign](https://images.unsplash.com/photo-1464676015774-81a71be95929?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnNwaXJhdGlvbiUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBtdXNpYyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTM4NTQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Inspiration Without Waiting for Motivation")
-*How to Find Daily Inspiration Without Waiting for Motivation - Photo by [Clem Onojeghuo](https://unsplash.com/@clemono) on [Unsplash](https://unsplash.com/photos/brown-and-black-wooden-wall-decor-8GMCkGBvARw)*
+{{< figure src="https://images.unsplash.com/photo-1464676015774-81a71be95929?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnNwaXJhdGlvbiUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBtdXNpYyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTM4NTQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Live Music graffiti sign" title="How to Find Daily Inspiration Without Waiting for Motivation" caption="How to Find Daily Inspiration Without Waiting for Motivation - Photo by [Clem Onojeghuo](https://unsplash.com/@clemono) on [Unsplash](https://unsplash.com/photos/brown-and-black-wooden-wall-decor-8GMCkGBvARw)" >}}
 
 ---
 

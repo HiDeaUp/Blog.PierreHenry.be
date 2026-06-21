@@ -12,8 +12,7 @@ original_title = "Stratégie de vie …"
 source_medium = "https://medium.com/@phenrysay/771858d863c7"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632556719027-a2e7fa84d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwc3RyYXRlZ3klMjBjbGFyaXR5JTIwdmlzaW9ufGVufDB8MHx8fDE3NTY2MzQzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create a Clear Life Plan Without Feeling Overwhelmed")
-*How to Create a Clear Life Plan Without Feeling Overwhelmed - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-spelling-the-word-w-is-down-on-top-of-a-QnRDKNbKl9k)*
+{{< figure src="https://images.unsplash.com/photo-1632556719027-a2e7fa84d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwc3RyYXRlZ3klMjBjbGFyaXR5JTIwdmlzaW9ufGVufDB8MHx8fDE3NTY2MzQzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A word the word w is down on top of a" title="How to Create a Clear Life Plan Without Feeling Overwhelmed" caption="How to Create a Clear Life Plan Without Feeling Overwhelmed - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-spelling-the-word-w-is-down-on-top-of-a-QnRDKNbKl9k)" >}}
 
 Having a simple set of rules or a plan is more important than most people think. When you want to move forward in life, when you want to go far, you need a clear and precise vision of where you want to go. The more detailed your vision, the easier it becomes to know exactly what steps to take.
 
@@ -23,8 +22,7 @@ Let’s say you wake up and just go through the motions. You see the day ahead, 
 
 Writing down your plan, even something as simple as “I’ll write this, then I’ll do that, maybe I’ll use my computer, maybe I’ll do something else,” helps you know exactly where you’re going. When you have a clear vision for your day, and you know what you want to achieve before you even get out of bed, everything becomes simpler.
 
-![Camera lens reflection on the beach 🏖 ☀️](https://images.unsplash.com/photo-1647556268873-53f5028804fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwc3RyYXRlZ3klMjBjbGFyaXR5JTIwdmlzaW9ufGVufDB8MHx8fDE3NTY2MzQzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create a Clear Life Plan Without Feeling Overwhelmed")
-*How to Create a Clear Life Plan Without Feeling Overwhelmed - Photo by [CARTER SAUNDERS](https://unsplash.com/@cdsaunders04) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-magnifying-glass-looking-at-a-beach-WOzQM2qwjFY)*
+{{< figure src="https://images.unsplash.com/photo-1647556268873-53f5028804fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwc3RyYXRlZ3klMjBjbGFyaXR5JTIwdmlzaW9ufGVufDB8MHx8fDE3NTY2MzQzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Camera lens reflection on the beach 🏖 ☀️" title="How to Create a Clear Life Plan Without Feeling Overwhelmed" caption="How to Create a Clear Life Plan Without Feeling Overwhelmed - Photo by [CARTER SAUNDERS](https://unsplash.com/@cdsaunders04) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-magnifying-glass-looking-at-a-beach-WOzQM2qwjFY)" >}}
 
 Just by imagining your day unfolding, you set things in motion. Your day will flow naturally, almost automatically. The more you live in a fog, the less you define things, the harder everything becomes. But when everything is specific and organized in your mind, when you know exactly what you’ll do, one thing after another, everything falls into place.
 
@@ -42,8 +40,7 @@ So, don’t live in a blur. Always try to have the clearest idea possible. I tru
 
 ---
 
-![view from my side mirror](https://images.unsplash.com/photo-1568064846520-81e2a40fdc46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwc3RyYXRlZ3klMjBjbGFyaXR5JTIwdmlzaW9ufGVufDB8MHx8fDE3NTY2MzQzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create a Clear Life Plan Without Feeling Overwhelmed")
-*How to Create a Clear Life Plan Without Feeling Overwhelmed - Photo by [Eissa Ahmad](https://unsplash.com/@shot_by_eissa) on [Unsplash](https://unsplash.com/photos/gray-asphalt-road-PqFFEz9mm0Q)*
+{{< figure src="https://images.unsplash.com/photo-1568064846520-81e2a40fdc46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwc3RyYXRlZ3klMjBjbGFyaXR5JTIwdmlzaW9ufGVufDB8MHx8fDE3NTY2MzQzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="view from my side mirror" title="How to Create a Clear Life Plan Without Feeling Overwhelmed" caption="How to Create a Clear Life Plan Without Feeling Overwhelmed - Photo by [Eissa Ahmad](https://unsplash.com/@shot_by_eissa) on [Unsplash](https://unsplash.com/photos/gray-asphalt-road-PqFFEz9mm0Q)" >}}
 
 ## Key Takeaways
 

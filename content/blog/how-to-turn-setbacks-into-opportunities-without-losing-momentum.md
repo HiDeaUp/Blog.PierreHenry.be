@@ -12,8 +12,7 @@ original_title = "Mindset de réussite 🏆 Clés pour Réussir"
 source_medium = "https://medium.com/@phenrysay/6aaf6ab52953"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU3NDYyOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Setbacks Into Opportunities Without Losing Momentum")
-*How to Turn Setbacks Into Opportunities Without Losing Momentum - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU3NDYyOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How to Turn Setbacks Into Opportunities Without Losing Momentum" caption="How to Turn Setbacks Into Opportunities Without Losing Momentum - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 Success is not just about talent or luck. It’s about the way you see the world and how you react to what happens to you. People who seem to succeed at everything they do often share a few simple habits and ways of thinking. Here’s what I’ve learned about building a winning mindset, and how you can use these ideas to move forward, no matter where you start.
 
@@ -27,8 +26,7 @@ Every person you meet has something to teach you, no matter their background, ag
 
 ## Think Bigger Than Your Limits
 
-![Photo by Richie Lai Cheong](https://images.unsplash.com/photo-1661681010889-edc18b619970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU3NDYyOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Setbacks Into Opportunities Without Losing Momentum")
-*How to Turn Setbacks Into Opportunities Without Losing Momentum - Photo by [Richie Lai Cheong](https://unsplash.com/@richie_slai) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-rocks-XaLMpvz5i0g)*
+{{< figure src="https://images.unsplash.com/photo-1661681010889-edc18b619970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU3NDYyOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of rocks" title="How to Turn Setbacks Into Opportunities Without Losing Momentum" caption="How to Turn Setbacks Into Opportunities Without Losing Momentum - Photo by [Richie Lai Cheong](https://unsplash.com/@richie_slai) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-rocks-XaLMpvz5i0g)" >}}
 
 Set goals that are bigger than what you think you can achieve. Most limits exist only in your mind. If you keep going and believe in yourself, you’ll be surprised at what you can accomplish. Of course, it’s important to know when to change direction if something truly isn’t working, but persistence and self-confidence are essential for real progress.
 
@@ -47,8 +45,7 @@ Success is also about taking care of your body. Good sleep, healthy food, and a 
 > _Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful._
 — Albert Schweitzer
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU3NDYyOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Setbacks Into Opportunities Without Losing Momentum")
-*How to Turn Setbacks Into Opportunities Without Losing Momentum - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU3NDYyOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How to Turn Setbacks Into Opportunities Without Losing Momentum" caption="How to Turn Setbacks Into Opportunities Without Losing Momentum - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 > _Opportunities are usually disguised as hard work, so most people don’t recognize them._
 — Ann Landers

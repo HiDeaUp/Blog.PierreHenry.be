@@ -12,8 +12,7 @@ original_title = "Le Focus pour mieux se Sentir. Ce que j’ai appris"
 source_medium = "https://medium.com/@phenrysay/db7c3525ae1a"
 +++
 
-![Nah](https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHdlbGwtYmVpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjEwODYwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Better by Focusing on What Matters Most")
-*How to Feel Better by Focusing on What Matters Most - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)*
+{{< figure src="https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHdlbGwtYmVpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjEwODYwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman right fist" title="How to Feel Better by Focusing on What Matters Most" caption="How to Feel Better by Focusing on What Matters Most - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)" >}}
 
 Concentration is more than just a skill; it’s a way to shape your day and your well-being. When you focus fully on what truly matters to you, you give yourself the best chance to feel good and fulfilled. The more you can immerse yourself in the things that count, the more you’ll notice a positive shift in your mood and satisfaction.
 
@@ -25,8 +24,7 @@ These priorities are like ingredients for happiness. If I skip them, I feel less
 
 ## My Personal Ingredients for a Good Day
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHdlbGwtYmVpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjEwODYwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Better by Focusing on What Matters Most")
-*How to Feel Better by Focusing on What Matters Most - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHdlbGwtYmVpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjEwODYwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Feel Better by Focusing on What Matters Most" caption="How to Feel Better by Focusing on What Matters Most - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Let me share a few of my own essentials:
 
@@ -50,8 +48,7 @@ Of course, your priorities might not be the same as mine. We’re all different.
 
 ## Make Your Happiness a Habit
 
-![While out and about at a music festival, snapped this while enjoy some good tunes!](https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHdlbGwtYmVpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjEwODYwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Better by Focusing on What Matters Most")
-*How to Feel Better by Focusing on What Matters Most - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)*
+{{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHdlbGwtYmVpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjEwODYwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Feel Better by Focusing on What Matters Most" caption="How to Feel Better by Focusing on What Matters Most - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
 Take a moment to think about what truly matters to you. Write those things down. Make them a part of your daily or weekly routine. You’ll notice the difference in how you feel, almost right away.
 

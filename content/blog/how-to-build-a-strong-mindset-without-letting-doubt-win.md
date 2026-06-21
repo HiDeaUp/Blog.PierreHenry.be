@@ -12,8 +12,7 @@ original_title = "RÉUSSITE: Le bon MINDSET 🏆"
 source_medium = "https://medium.com/@phenrysay/cc68db4cda3f"
 +++
 
-![Crossing into the light](https://images.unsplash.com/photo-1573200686389-17ffa1384644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NjAxNjc3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Strong Mindset Without Letting Doubt Win")
-*How to Build a Strong Mindset Without Letting Doubt Win - Photo by [Mahdi Dastmard](https://unsplash.com/@mahdigp) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-5B8Pw-t9_Wo)*
+{{< figure src="https://images.unsplash.com/photo-1573200686389-17ffa1384644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NjAxNjc3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Crossing into the light" title="How to Build a Strong Mindset Without Letting Doubt Win" caption="How to Build a Strong Mindset Without Letting Doubt Win - Photo by [Mahdi Dastmard](https://unsplash.com/@mahdigp) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-5B8Pw-t9_Wo)" >}}
 
 Have you ever noticed how your own thoughts can sometimes hold you back? Without even realizing it, we often let our mindset drag us down. We carry negative beliefs, invisible barriers, and mental cages that limit what we think we can achieve. These limits are not always real—they are often built over time by our upbringing, culture, environment, or even religion. The truth is, the only real limit is the one we set for ourselves.
 
@@ -25,8 +24,7 @@ You don’t always need to meet these people in person. Virtual conferences, cur
 
 Another key is to have a clear vision. Picture yourself having already achieved your goal. See yourself succeeding, and believe that it’s possible. When you have a concrete vision—when you can say, “In one year, I’ll be there”—you can focus on what you need to do this week, today, and even right now. Every Sunday, take a moment to look back at your week. What went well? What didn’t? Use these reflections to make small improvements. Over time, these tiny steps will take you much further than you ever imagined.
 
-![If you like my work, please support me: paypal.me/viktorforgacs](https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NjAxNjc3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Strong Mindset Without Letting Doubt Win")
-*How to Build a Strong Mindset Without Letting Doubt Win - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)*
+{{< figure src="https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NjAxNjc3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="If you like my work, please support me: paypal.me/viktorforgacs" title="How to Build a Strong Mindset Without Letting Doubt Win" caption="How to Build a Strong Mindset Without Letting Doubt Win - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)" >}}
 
 Feel the satisfaction and well-being that comes from achieving your goals. Maybe you have a long list of things to do, but remember: one thing at a time. Today is for today’s tasks. Tomorrow will take care of itself. By moving forward step by step, you’ll get closer to your own version of success.
 
@@ -42,8 +40,7 @@ When you feel good, you think better and achieve more. Positivity creates a virt
 
 ---
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NjAxNjc3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Strong Mindset Without Letting Doubt Win")
-*How to Build a Strong Mindset Without Letting Doubt Win - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)*
+{{< figure src="https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NjAxNjc3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says great minds alike" title="How to Build a Strong Mindset Without Letting Doubt Win" caption="How to Build a Strong Mindset Without Letting Doubt Win - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)" >}}
 
 ## Key Takeaways
 

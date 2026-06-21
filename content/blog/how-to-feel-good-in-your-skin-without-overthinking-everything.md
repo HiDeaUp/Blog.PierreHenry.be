@@ -12,8 +12,7 @@ original_title = "Peut-on gagner en liberté ?"
 source_medium = "https://medium.com/@phenrysay/214c39e4807b"
 +++
 
-![@viktoriia.kudinska](https://images.unsplash.com/photo-1611596665399-733f0a70c33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWFjY2VwdGFuY2UlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTg3ODY0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good in Your Skin Without Overthinking Everything")
-*How to Feel Good in Your Skin Without Overthinking Everything - Photo by [AnimGraph Lab](https://unsplash.com/@dimitryzub) on [Unsplash](https://unsplash.com/photos/woman-with-red-lipstick-and-black-mascara-tfAWQQWZX50)*
+{{< figure src="https://images.unsplash.com/photo-1611596665399-733f0a70c33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWFjY2VwdGFuY2UlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTg3ODY0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="@viktoriia.kudinska" title="How to Feel Good in Your Skin Without Overthinking Everything" caption="How to Feel Good in Your Skin Without Overthinking Everything - Photo by [AnimGraph Lab](https://unsplash.com/@dimitryzub) on [Unsplash](https://unsplash.com/photos/woman-with-red-lipstick-and-black-mascara-tfAWQQWZX50)" >}}
 
 Feeling good in your life and comfortable in your own skin isn’t easy. In fact, it can be really tough. We’re all sensitive to so many things—what others think of us, what we said in a conversation, worries about the future, regrets about the past. Sometimes, after talking with someone, you keep replaying the conversation in your head, thinking, “Maybe I should have said this instead,” or “Why did I say that?” It’s a never-ending cycle. The more you do it, the more it becomes a habit.
 
@@ -27,8 +26,7 @@ Here’s a simple trick: exercise. I’ve noticed that going for a run in the mo
 
 Eating well matters, too. If you’re always eating chips and sweets, your mood won’t be great. But if you eat fruits, vegetables, nuts—even if you’re not a huge fan—it’s so much better for your health and happiness. What you eat really does affect your mind.
 
-![we walked by this wall at the funfair and while we watches people having fun i captured this picture.](https://images.unsplash.com/photo-1510423011867-b42552d52e07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWFjY2VwdGFuY2UlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTg3ODY0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good in Your Skin Without Overthinking Everything")
-*How to Feel Good in Your Skin Without Overthinking Everything - Photo by [Lili Kovac](https://unsplash.com/@lilschk) on [Unsplash](https://unsplash.com/photos/reflection-of-woman-leaning-against-wall-PFjmzTQ47Z0)*
+{{< figure src="https://images.unsplash.com/photo-1510423011867-b42552d52e07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWFjY2VwdGFuY2UlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTg3ODY0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="we walked by this wall at the funfair and while we watches people having fun i captured this picture." title="How to Feel Good in Your Skin Without Overthinking Everything" caption="How to Feel Good in Your Skin Without Overthinking Everything - Photo by [Lili Kovac](https://unsplash.com/@lilschk) on [Unsplash](https://unsplash.com/photos/reflection-of-woman-leaning-against-wall-PFjmzTQ47Z0)" >}}
 
 So, my advice: eat well, get up early, and exercise in the morning—ideally before breakfast, so you don’t feel heavy. It’s like when you drink a lot and then try to run—you feel the liquid sloshing around, and it’s not pleasant. You want to feel light and energetic.
 
@@ -50,8 +48,7 @@ You’ll also see when you felt your worst. Maybe it was always in the morning, 
 
 ## Key Takeaways
 
-![Photo by Amy Tran](https://images.unsplash.com/photo-1519249174918-cbed328f8b8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWFjY2VwdGFuY2UlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTg3ODY0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good in Your Skin Without Overthinking Everything")
-*How to Feel Good in Your Skin Without Overthinking Everything - Photo by [Amy Tran](https://unsplash.com/@avcreations) on [Unsplash](https://unsplash.com/photos/person-in-gray-hoodie-sitting-on-picnic-table-staring-at-the-fog-during-daytime-nHRjqkRIuTE)*
+{{< figure src="https://images.unsplash.com/photo-1519249174918-cbed328f8b8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWFjY2VwdGFuY2UlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTg3ODY0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person in gray hoodie sitting on picnic table staring at the fog during daytime" title="How to Feel Good in Your Skin Without Overthinking Everything" caption="How to Feel Good in Your Skin Without Overthinking Everything - Photo by [Amy Tran](https://unsplash.com/@avcreations) on [Unsplash](https://unsplash.com/photos/person-in-gray-hoodie-sitting-on-picnic-table-staring-at-the-fog-during-daytime-nHRjqkRIuTE)" >}}
 
 - The more you focus on negative thoughts, the easier they come—but you can train your brain to focus on the positive.
 - Simple habits like getting up early, exercising, eating well, and keeping your space clean really do help you feel better.

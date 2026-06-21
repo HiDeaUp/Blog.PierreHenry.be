@@ -12,8 +12,7 @@ original_title = "Starting from Scratch: Create an Entire App Using Claude Code"
 source_medium = "https://medium.com/@phenrysay/ccf87304c285"
 +++
 
-![Photo by Team Nocoloco](https://images.unsplash.com/photo-1642132652935-d750e2014719?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDbGF1ZGUlMjBDb2RlJTIwYXBwJTIwZGV2ZWxvcG1lbnQlMjBGbHV0dGVyfGVufDB8MHx8fDE3NjcwNDk5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Coffee Shop App Using Claude Code Without Hassle")
-*How to Build a Coffee Shop App Using Claude Code Without Hassle - Photo by [Team Nocoloco](https://unsplash.com/@teamnocoloco) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-web-page-on-it-LWFdfx-5oEE)*
+{{< figure src="https://images.unsplash.com/photo-1642132652935-d750e2014719?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDbGF1ZGUlMjBDb2RlJTIwYXBwJTIwZGV2ZWxvcG1lbnQlMjBGbHV0dGVyfGVufDB8MHx8fDE3NjcwNDk5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A screen with a web page on it LWFdfx 5oEE" title="How to Build a Coffee Shop App Using Claude Code Without Hassle" caption="How to Build a Coffee Shop App Using Claude Code Without Hassle - Photo by [Team Nocoloco](https://unsplash.com/@teamnocoloco) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-web-page-on-it-LWFdfx-5oEE)" >}}
 
 Alright, let's get into it. Today, I'm walking you through how I built a complete online ordering app for a coffee shop using Claude Code (CL Code). If you haven't played with CL Code yet, or maybe you're more into OpenAI's Codex, this is a good chance to see how it stacks up for a real project. We'll also touch on the CL Code VS Code extension, which is super handy if you want to work in a nice GUI but still leverage Claude's AI muscle.
 
@@ -37,8 +36,7 @@ Here's the brief I gave to CL Code:
 
 I love how you can just describe what you want, and CL Code gets to work. You can literally watch your tokens burn as it thinks, but it's worth it.
 
-![Photo by appshunter.io](https://images.unsplash.com/photo-1730817403292-bd746d0c4af3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDbGF1ZGUlMjBDb2RlJTIwYXBwJTIwZGV2ZWxvcG1lbnQlMjBGbHV0dGVyfGVufDB8MHx8fDE3NjcwNDk5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Coffee Shop App Using Claude Code Without Hassle")
-*How to Build a Coffee Shop App Using Claude Code Without Hassle - Photo by [appshunter.io](https://unsplash.com/@appshunter) on [Unsplash](https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-wooden-table-9-vmVGPOxhQ)*
+{{< figure src="https://images.unsplash.com/photo-1730817403292-bd746d0c4af3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDbGF1ZGUlMjBDb2RlJTIwYXBwJTIwZGV2ZWxvcG1lbnQlMjBGbHV0dGVyfGVufDB8MHx8fDE3NjcwNDk5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cell phone sitting on top of a wooden table 9" title="How to Build a Coffee Shop App Using Claude Code Without Hassle" caption="How to Build a Coffee Shop App Using Claude Code Without Hassle - Photo by [appshunter.io](https://unsplash.com/@appshunter) on [Unsplash](https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-wooden-table-9-vmVGPOxhQ)" >}}
 
 ## Coffee Menu Research (and a Bit of Fun)
 
@@ -66,8 +64,7 @@ I initialized a Git repo, added a `.gitignore` (CL Code can generate a solid one
 
 ## Running and Testing the App
 
-![monitor showing mobile layout in android studio](https://images.unsplash.com/photo-1604536264507-020ce894daf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDbGF1ZGUlMjBDb2RlJTIwYXBwJTIwZGV2ZWxvcG1lbnQlMjBGbHV0dGVyfGVufDB8MHx8fDE3NjcwNDk5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Coffee Shop App Using Claude Code Without Hassle")
-*How to Build a Coffee Shop App Using Claude Code Without Hassle - Photo by [Muhammad Rosyid Izzulkhaq](https://unsplash.com/@rsdiz) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-pBTggy2z2do)*
+{{< figure src="https://images.unsplash.com/photo-1604536264507-020ce894daf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDbGF1ZGUlMjBDb2RlJTIwYXBwJTIwZGV2ZWxvcG1lbnQlMjBGbHV0dGVyfGVufDB8MHx8fDE3NjcwNDk5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="monitor showing mobile layout in android studio" title="How to Build a Coffee Shop App Using Claude Code Without Hassle" caption="How to Build a Coffee Shop App Using Claude Code Without Hassle - Photo by [Muhammad Rosyid Izzulkhaq](https://unsplash.com/@rsdiz) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-pBTggy2z2do)" >}}
 
 With dependencies installed, you can run the app on iOS or Android. I only had Xcode set up, so I stuck to iOS for now. If you want to run on Android, just install Android Studio.
 

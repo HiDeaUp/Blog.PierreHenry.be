@@ -10,8 +10,7 @@ original_title = "S’inspirer de ses émotions. La méthode !"
 source_medium = "https://medium.com/@phenrysay/5d5c4849eec0"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUyMDY3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Emotions for Daily Inspiration Without Losing Control")
-*How to Use Your Emotions for Daily Inspiration Without Losing Control - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUyMDY3Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Use Your Emotions for Daily Inspiration Without Losing Control" caption="How to Use Your Emotions for Daily Inspiration Without Losing Control - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 Emotions are powerful forces. Sometimes, they take over, and we lose control. In those moments, we might say things we do not mean or miss out on being truly present. Instead of enjoying what surrounds us, we get swept away by feelings we do not fully understand.
 
@@ -19,8 +18,7 @@ But what if we could use our emotions as a source of inspiration, rather than le
 
 It is not about pushing emotions aside or pretending they do not exist. It is about being with yourself, calming down, and staying grounded. When you notice a strong emotion, acknowledge it. Say to yourself, “Okay, this is what I am feeling. What can I learn from it?” This simple step helps you stay in control, rather than letting emotions take the wheel.
 
-!["Gran cabeza habitada". Krebs Helga.](https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUyMDY3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Emotions for Daily Inspiration Without Losing Control")
-*How to Use Your Emotions for Daily Inspiration Without Losing Control - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)*
+{{< figure src="https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUyMDY3Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="&quot;Gran cabeza habitada&quot;. Krebs Helga." title="How to Use Your Emotions for Daily Inspiration Without Losing Control" caption="How to Use Your Emotions for Daily Inspiration Without Losing Control - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)" >}}
 
 Imagine yourself as the pilot of your own emotions. You are in charge. The emotions are passengers, not the driver. Sometimes, you might need to let them out, or even flush them away if they do not serve you. But you remain the one steering the course.
 
@@ -34,8 +32,7 @@ This way of living does not happen overnight. It takes practice and patience. Th
 
 ---
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUyMDY3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Your Emotions for Daily Inspiration Without Losing Control")
-*How to Use Your Emotions for Daily Inspiration Without Losing Control - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUyMDY3Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to Use Your Emotions for Daily Inspiration Without Losing Control" caption="How to Use Your Emotions for Daily Inspiration Without Losing Control - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 ## Key Takeaways
 - Emotions are dynamic and can take over if we let them.

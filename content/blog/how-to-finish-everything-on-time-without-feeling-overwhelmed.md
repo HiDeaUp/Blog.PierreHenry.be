@@ -12,8 +12,7 @@ original_title = "Comment avoir un focus d’accomplissement pour TOUT finir en 
 source_medium = "https://medium.com/@phenrysay/a5f74c4aa583"
 +++
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Everything On Time Without Feeling Overwhelmed")
-*How to Finish Everything On Time Without Feeling Overwhelmed - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Finish Everything On Time Without Feeling Overwhelmed" caption="How to Finish Everything On Time Without Feeling Overwhelmed - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 Stress can sometimes feel like a heavy weight pressing down on your shoulders. You know those days when you look at your to-do list and it just seems endless? Exams, work, chores, emails—everything piles up, and suddenly you feel paralyzed. You want to tell your stress to go away, but it just sticks around, making it hard to know where to start.
 
@@ -23,8 +22,7 @@ So, what’s the way out? The first step is to stop and picture the end result. 
 
 The next key is to do one thing at a time. Pick a single task or theme for the day. If you have an exam to prepare for, focus only on that until it’s done. Once you finish, you’ll have more time and energy for other things. Trying to do everything at once only leads to mistakes and more stress. It’s a vicious cycle, but you can break it by sticking to one thing at a time.
 
-![Photo by Axel Visoso](https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Everything On Time Without Feeling Overwhelmed")
-*How to Finish Everything On Time Without Feeling Overwhelmed - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)*
+{{< figure src="https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of person holding alarm clock" title="How to Finish Everything On Time Without Feeling Overwhelmed" caption="How to Finish Everything On Time Without Feeling Overwhelmed - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)" >}}
 
 Don’t let the mountain of tasks ahead distract you. It’s like scrolling through a long list of exam questions—if you keep looking ahead, you’ll just get overwhelmed. Take it question by question, task by task. When you finish one, move on to the next. That’s how you make real progress.
 
@@ -42,8 +40,7 @@ The main thing is to stay focused, do one thing at a time, and create the right 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
 — Robert Collier
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Everything On Time Without Feeling Overwhelmed")
-*How to Finish Everything On Time Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Finish Everything On Time Without Feeling Overwhelmed" caption="How to Finish Everything On Time Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ---
 

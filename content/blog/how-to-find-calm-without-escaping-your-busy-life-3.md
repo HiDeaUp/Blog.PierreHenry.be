@@ -12,8 +12,7 @@ original_title = "Se libérer de la pollution mentale 🤩"
 source_medium = "https://medium.com/@phenrysay/bb01f141da4d"
 +++
 
-![Photo by Leandra Rieger](https://images.unsplash.com/photo-1648128095220-e3a26333f22c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTIwMjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping Your Busy Life")
-*How to Find Calm Without Escaping Your Busy Life - Photo by [Leandra Rieger](https://unsplash.com/@leandrarieger) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-gf08gm2quEk)*
+{{< figure src="https://images.unsplash.com/photo-1648128095220-e3a26333f22c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTIwMjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a table" title="How to Find Calm Without Escaping Your Busy Life" caption="How to Find Calm Without Escaping Your Busy Life - Photo by [Leandra Rieger](https://unsplash.com/@leandrarieger) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-gf08gm2quEk)" >}}
 
 Have you ever noticed how your environment can instantly change your mood? Today, I’m sitting in the changing rooms of a spa—a place designed for relaxation. It’s part of the Langham hotel chain, known for its calm atmosphere. Whether you’re in Sydney, Melbourne, or even other countries, these places have a way of making you feel at peace the moment you walk in. Here, overlooking the water at Darling Harbour, it’s easy to let your mind rest and your thoughts flow freely.
 
@@ -25,8 +24,7 @@ The truth is, most of these fears are out of our control. We hear about nuclear 
 
 A peaceful mind is like a clean workspace—it lets you create, build, and have a real impact on your life and the lives of others. When you free yourself from mental pollution, you’re no longer weighed down by constant worry. You’re free to think, to act, and to live fully.
 
-![Photo by Angelina Sarycheva](https://images.unsplash.com/photo-1713428856048-d52b6474b5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTIwMjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping Your Busy Life")
-*How to Find Calm Without Escaping Your Busy Life - Photo by [Angelina Sarycheva](https://unsplash.com/@oxalife) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-the-floor-with-a-laptop-vFefVZLzQYU)*
+{{< figure src="https://images.unsplash.com/photo-1713428856048-d52b6474b5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTIwMjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on the floor with a laptop" title="How to Find Calm Without Escaping Your Busy Life" caption="How to Find Calm Without Escaping Your Busy Life - Photo by [Angelina Sarycheva](https://unsplash.com/@oxalife) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-the-floor-with-a-laptop-vFefVZLzQYU)" >}}
 
 Sometimes, finding this peace means making big changes. For some of us, that might mean moving to a new country—Australia, New Zealand, small islands like Guadeloupe or New Caledonia, or even places like Fiji or Costa Rica. These places can help you step outside the noise and pressure of the world and finally live in the present. You can build something real, without a distorted view of reality shaped by the media or the people around you.
 
@@ -48,8 +46,7 @@ Living with a clear mind isn’t always easy. It might mean leaving behind famil
 - Sometimes, finding peace means making big changes, even moving to a new place.
 - A calm mind lets you create, grow, and live more fully.
 
-![thinking quietly at the beach](https://images.unsplash.com/photo-1650862199267-ddd6106b56bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTIwMjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping Your Busy Life")
-*How to Find Calm Without Escaping Your Busy Life - Photo by [Chris Riggs](https://unsplash.com/@bigrig) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-dock-looking-out-at-the-water-10tIQt1BDSw)*
+{{< figure src="https://images.unsplash.com/photo-1650862199267-ddd6106b56bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTIwMjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="thinking quietly at the beach" title="How to Find Calm Without Escaping Your Busy Life" caption="How to Find Calm Without Escaping Your Busy Life - Photo by [Chris Riggs](https://unsplash.com/@bigrig) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-dock-looking-out-at-the-water-10tIQt1BDSw)" >}}
 
 ## Action Steps
 

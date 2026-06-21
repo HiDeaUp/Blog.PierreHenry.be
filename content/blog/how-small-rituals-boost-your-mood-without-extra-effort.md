@@ -12,8 +12,7 @@ original_title = "Les rituels qui rendent bien ! 😌"
 source_medium = "https://medium.com/@phenrysay/42b42075652a"
 +++
 
-![Photo by 光术 山影](https://images.unsplash.com/photo-1667013245920-c9f3518866ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMHJpdHVhbHMlMjBwb3NpdGl2ZSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU2MTExMDg2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Rituals Boost Your Mood Without Extra Effort")
-*How Small Rituals Boost Your Mood Without Extra Effort - Photo by [光术 山影](https://unsplash.com/@mrtiger) on [Unsplash](https://unsplash.com/photos/a-person-sitting-in-a-field--OCzJxjvFAM)*
+{{< figure src="https://images.unsplash.com/photo-1667013245920-c9f3518866ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMHJpdHVhbHMlMjBwb3NpdGl2ZSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU2MTExMDg2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person sitting in a field" title="How Small Rituals Boost Your Mood Without Extra Effort" caption="How Small Rituals Boost Your Mood Without Extra Effort - Photo by [光术 山影](https://unsplash.com/@mrtiger) on [Unsplash](https://unsplash.com/photos/a-person-sitting-in-a-field--OCzJxjvFAM)" >}}
 
 What exactly is a “soul ritual”? These are small, positive habits that you repeat every day. They’re not negative routines that hold you back or slow your growth. Instead, they’re the little things that bring you comfort, a sense of freedom, gratitude, or even a touch of spirituality.
 
@@ -25,8 +24,7 @@ This idea of rituals isn’t new. Take Queen Elizabeth II, for example. She had 
 
 Another one of her rituals was having tea at exactly five o’clock. She never missed it. That’s the thing about rituals: they’re often done with the same regularity as a religious practice. Most people have one or two that they stick to every day, not dozens. It’s about quality, not quantity.
 
-![Photo by THLT LCX](https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJpdHVhbHMlMjBwb3NpdGl2ZSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU2MTExMDg2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Rituals Boost Your Mood Without Extra Effort")
-*How Small Rituals Boost Your Mood Without Extra Effort - Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com/photos/woman-in-brown-knit-sweater-holding-brown-ceramic-cup-VsI_74zRzAo)*
+{{< figure src="https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJpdHVhbHMlMjBwb3NpdGl2ZSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU2MTExMDg2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in brown knit sweater holding brown ceramic cup" title="How Small Rituals Boost Your Mood Without Extra Effort" caption="How Small Rituals Boost Your Mood Without Extra Effort - Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com/photos/woman-in-brown-knit-sweater-holding-brown-ceramic-cup-VsI_74zRzAo)" >}}
 
 Maybe your ritual is drinking a glass of milk every morning, or listening to the radio while you eat breakfast. These are the things that make you feel good, the things you’d miss if you stopped doing them.
 
@@ -44,8 +42,7 @@ The beauty of these rituals is that they’re yours. They don’t have to be big
 
 ---
 
-![Photo by Rajesh Rajput](https://images.unsplash.com/photo-1606503993966-e6dbe4b386fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMHJpdHVhbHMlMjBwb3NpdGl2ZSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU2MTExMDg2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Rituals Boost Your Mood Without Extra Effort")
-*How Small Rituals Boost Your Mood Without Extra Effort - Photo by [Rajesh Rajput](https://unsplash.com/@rrajputphotography) on [Unsplash](https://unsplash.com/photos/silhouette-of-people-standing-and-raising-their-hands-during-sunset-sosbQK3LOfQ)*
+{{< figure src="https://images.unsplash.com/photo-1606503993966-e6dbe4b386fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMHJpdHVhbHMlMjBwb3NpdGl2ZSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU2MTExMDg2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of people and raising their hands during sunset" title="How Small Rituals Boost Your Mood Without Extra Effort" caption="How Small Rituals Boost Your Mood Without Extra Effort - Photo by [Rajesh Rajput](https://unsplash.com/@rrajputphotography) on [Unsplash](https://unsplash.com/photos/silhouette-of-people-standing-and-raising-their-hands-during-sunset-sosbQK3LOfQ)" >}}
 
 ## Key Takeaways
 

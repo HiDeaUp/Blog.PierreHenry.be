@@ -12,8 +12,7 @@ original_title = "La prise de parole 🗣️"
 source_medium = "https://medium.com/@phenrysay/8dafac9d7254"
 +++
 
-![Microphone](https://images.unsplash.com/photo-1538449327350-43b4fcfd35ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBzcGVha2luZyUyMGNvbW11bmljYXRpb24lMjBza2lsbHMlMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY1MjgzODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Speak Up Without Letting Nerves Hold You Back")
-*How to Speak Up Without Letting Nerves Hold You Back - Photo by [Joao Cruz](https://unsplash.com/@jcruzweb) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-black-corded-microphone-IkEpl3JkVqU)*
+{{< figure src="https://images.unsplash.com/photo-1538449327350-43b4fcfd35ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBzcGVha2luZyUyMGNvbW11bmljYXRpb24lMjBza2lsbHMlMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY1MjgzODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Microphone" title="How to Speak Up Without Letting Nerves Hold You Back" caption="How to Speak Up Without Letting Nerves Hold You Back - Photo by [Joao Cruz](https://unsplash.com/@jcruzweb) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-black-corded-microphone-IkEpl3JkVqU)" >}}
 
 Speaking in public is something we all face at some point. Whether it’s with your family or in a professional setting, the moment you speak to others, you step into a different space. It’s no longer just a conversation with yourself. You have to find the right words, and that can feel like a challenge.
 
@@ -25,8 +24,7 @@ Breathing is another key step. Try this: breathe in through your nose, letting y
 
 Don’t forget to drink some water. It’s a simple trick, but it works. When you’re nervous, your mouth can get dry, and that makes it harder to talk. A sip of water can make all the difference.
 
-![Photo by Ann Ann](https://images.unsplash.com/photo-1599584403014-03e148e02ad7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwdWJsaWMlMjBzcGVha2luZyUyMGNvbW11bmljYXRpb24lMjBza2lsbHMlMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY1MjgzODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Speak Up Without Letting Nerves Hold You Back")
-*How to Speak Up Without Letting Nerves Hold You Back - Photo by [Ann Ann](https://unsplash.com/@annanes) on [Unsplash](https://unsplash.com/photos/black-microphone-on-black-microphone-stand-PjvQbWKbXAw)*
+{{< figure src="https://images.unsplash.com/photo-1599584403014-03e148e02ad7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwdWJsaWMlMjBzcGVha2luZyUyMGNvbW11bmljYXRpb24lMjBza2lsbHMlMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY1MjgzODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black on black stand" title="How to Speak Up Without Letting Nerves Hold You Back" caption="How to Speak Up Without Letting Nerves Hold You Back - Photo by [Ann Ann](https://unsplash.com/@annanes) on [Unsplash](https://unsplash.com/photos/black-microphone-on-black-microphone-stand-PjvQbWKbXAw)" >}}
 
 Meditation can also help. Even a short moment of calm before you speak can clear your mind. And of course, practice is important. The more you speak, the easier it gets.
 
@@ -44,8 +42,7 @@ Finally, remember that people are usually much kinder and more understanding tha
 
 ---
 
-![Speak Now](https://images.unsplash.com/photo-1507961460271-ab6304a025c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwdWJsaWMlMjBzcGVha2luZyUyMGNvbW11bmljYXRpb24lMjBza2lsbHMlMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY1MjgzODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Speak Up Without Letting Nerves Hold You Back")
-*How to Speak Up Without Letting Nerves Hold You Back - Photo by [david laws](https://unsplash.com/@davidlaws) on [Unsplash](https://unsplash.com/photos/white-ball-in-mid-air-photography-1qNqM062H9A)*
+{{< figure src="https://images.unsplash.com/photo-1507961460271-ab6304a025c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwdWJsaWMlMjBzcGVha2luZyUyMGNvbW11bmljYXRpb24lMjBza2lsbHMlMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY1MjgzODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Speak Now" title="How to Speak Up Without Letting Nerves Hold You Back" caption="How to Speak Up Without Letting Nerves Hold You Back - Photo by [david laws](https://unsplash.com/@davidlaws) on [Unsplash](https://unsplash.com/photos/white-ball-in-mid-air-photography-1qNqM062H9A)" >}}
 
 ## Key Takeaways
 

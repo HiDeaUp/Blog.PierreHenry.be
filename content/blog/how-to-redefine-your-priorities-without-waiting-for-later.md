@@ -12,8 +12,7 @@ original_title = "Pourquoi faut-il redéfinir ses priorités ? JE TE DÉVOILE MO
 source_medium = "https://medium.com/@phenrysay/51d2cf95bb36"
 +++
 
-![My favorite spot where the time's always 4:20](https://images.unsplash.com/photo-1597618844260-7285218f9010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBsaWZlJTIwcHJpb3JpdGllc3xlbnwwfDB8fHwxNzU1NDIxNTkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Redefine Your Priorities Without Waiting for “Later”")
-*How to Redefine Your Priorities Without Waiting for “Later” - Photo by [Jeff W](https://unsplash.com/@fortheloveofsmoke) on [Unsplash](https://unsplash.com/photos/white-and-brown-alarm-clock-at-10-00-3FAwK6UujtM)*
+{{< figure src="https://images.unsplash.com/photo-1597618844260-7285218f9010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBsaWZlJTIwcHJpb3JpdGllc3xlbnwwfDB8fHwxNzU1NDIxNTkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="My favorite spot where the time's always 4:20" title="How to Redefine Your Priorities Without Waiting for “Later”" caption="How to Redefine Your Priorities Without Waiting for “Later” - Photo by [Jeff W](https://unsplash.com/@fortheloveofsmoke) on [Unsplash](https://unsplash.com/photos/white-and-brown-alarm-clock-at-10-00-3FAwK6UujtM)" >}}
 
 Have you ever stopped to think about how short life really is? We often act as if time is endless, putting things off for “later,” believing we’ll always have more chances. But the truth is, time is much more limited than we think. Unexpected events can happen at any moment, and there’s no guarantee that “later” will be better or even possible.
 
@@ -27,8 +26,7 @@ This mindset of constant iteration is what leads to real progress. At the end of
 > 
 > — Anatole France
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, good things take time, patience, hard work, progress, incremental change, going for the long haul, commit, one day at a time, never give up, keep going, long haul, discipline, practice, practise, turn up, ](https://images.unsplash.com/photo-1635150209942-aaae6539dc5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBsaWZlJTIwcHJpb3JpdGllc3xlbnwwfDB8fHwxNzU1NDIxNTkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Redefine Your Priorities Without Waiting for “Later”")
-*How to Redefine Your Priorities Without Waiting for “Later” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-words-good-things-take-time-r4dEdIdR3jk)*
+{{< figure src="https://images.unsplash.com/photo-1635150209942-aaae6539dc5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBsaWZlJTIwcHJpb3JpdGllc3xlbnwwfDB8fHwxNzU1NDIxNTkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the words good things take time" title="How to Redefine Your Priorities Without Waiting for “Later”" caption="How to Redefine Your Priorities Without Waiting for “Later” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-words-good-things-take-time-r4dEdIdR3jk)" >}}
 
 When you’re self-employed, a freelancer, or an entrepreneur, this is even more important. Time is your most precious resource, and it’s easy to fall into the trap of waiting for the “perfect” moment—when you have more time, more money, or when things are just right. But life doesn’t work that way. As time goes on, expenses can increase, unexpected things happen, and sometimes, the more you earn, the more you spend. There’s this idea of “F*** You Money”—the amount you need to finally do what you want. But often, people keep moving the goalpost, thinking, “Once I earn 10,000 euros a month, then I’ll do it.” But either they never reach that amount, or when they do, something else gets in the way.
 
@@ -48,8 +46,7 @@ The world is full of opportunities, but you have to go after them. They won’t 
 
 > _Every effort, even the smallest, counts._
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBsaWZlJTIwcHJpb3JpdGllc3xlbnwwfDB8fHwxNzU1NDIxNTkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Redefine Your Priorities Without Waiting for “Later”")
-*How to Redefine Your Priorities Without Waiting for “Later” - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBsaWZlJTIwcHJpb3JpdGllc3xlbnwwfDB8fHwxNzU1NDIxNTkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Redefine Your Priorities Without Waiting for “Later”" caption="How to Redefine Your Priorities Without Waiting for “Later” - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 At the end of the day, life is short. Money comes and goes, but time only moves forward. Today will never come again. So, make the most of it. Do things that make you happy, that make you feel alive. If you wake up excited on Monday morning, just like you are on Friday night, you’re on the right track. Don’t waste your time trying to impress others—do what makes you feel good, what makes you want to jump out of bed and get started.
 

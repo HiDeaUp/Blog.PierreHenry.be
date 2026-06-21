@@ -12,8 +12,7 @@ original_title = "Ne plus se laisser envahir par les frustrations"
 source_medium = "https://medium.com/@phenrysay/b3ffad5909a1"
 +++
 
-![Boys Get Sad Too](https://images.unsplash.com/photo-1584636633449-6135be6c4169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjByZXNpbGllbmNlJTIwbWVudGFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzQ5MzQ4NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm Without Letting Frustration Ruin Your Day")
-*How to Stay Calm Without Letting Frustration Ruin Your Day - Photo by [Nathan McDine](https://unsplash.com/@nathanmcdine) on [Unsplash](https://unsplash.com/photos/black-and-white-printed-shirt-M1gMpG4QkHk)*
+{{< figure src="https://images.unsplash.com/photo-1584636633449-6135be6c4169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjByZXNpbGllbmNlJTIwbWVudGFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzQ5MzQ4NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Boys Get Sad Too" title="How to Stay Calm Without Letting Frustration Ruin Your Day" caption="How to Stay Calm Without Letting Frustration Ruin Your Day - Photo by [Nathan McDine](https://unsplash.com/@nathanmcdine) on [Unsplash](https://unsplash.com/photos/black-and-white-printed-shirt-M1gMpG4QkHk)" >}}
 
 Mental pollution affects us all. Sometimes, it sneaks up on us right when we’re enjoying ourselves. Maybe you’re having a nice meal at a restaurant, and suddenly, something unexpected happens—a message pops up, the food isn’t what you ordered, or the bill is wrong. You feel a bit frustrated, caught off guard, and the mood shifts. What started as a pleasant evening can quickly turn sour.
 
@@ -23,8 +22,7 @@ Sometimes, we just can’t filter out the frustration. We think, “This isn’t
 
 The real challenge is to enjoy the present moment, to make the most of what’s happening right now, and to accept that our days will never go exactly as planned. There will always be outside factors to deal with, and the hardest part is handling them well. You have to remind yourself: “I’m here to have a good time, to enjoy myself, even if things don’t go perfectly.”
 
-![People think depression is sadness. People think depression is crying. People think depression is dressing in black. But people are wrong. Depression is the constant feeling of being numb. Being numb to emotions. Being numb to life. You wake up in the morning just to go back to bed again.](https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjByZXNpbGllbmNlJTIwbWVudGFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzQ5MzQ4NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm Without Letting Frustration Ruin Your Day")
-*How to Stay Calm Without Letting Frustration Ruin Your Day - Photo by [Sydney Latham](https://unsplash.com/@slphotography) on [Unsplash](https://unsplash.com/photos/person-holding-white-printer-paper-fZ2hMpHIrbI)*
+{{< figure src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjByZXNpbGllbmNlJTIwbWVudGFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzQ5MzQ4NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding white printer paper" title="How to Stay Calm Without Letting Frustration Ruin Your Day" caption="How to Stay Calm Without Letting Frustration Ruin Your Day - Photo by [Sydney Latham](https://unsplash.com/@slphotography) on [Unsplash](https://unsplash.com/photos/person-holding-white-printer-paper-fZ2hMpHIrbI)" >}}
 
 It’s not easy. Sometimes, frustration takes over, and you don’t know how to handle it—anger, mental overload, sadness, or even a headache that stops you in your tracks. When that happens, there are a few things you can try.
 
@@ -42,8 +40,7 @@ The answer is to come back to basics. Remember why you’re here. Focus on what 
 > *“The greatest weapon against stress is our ability to choose one thought over another.”*  
 > — William James
 
-![This was specifically shot for a mental health company called Brogliebox (www.brogliebox.com). I asked if i could have permission to share on unsplash, as I found the image to be very simple yet visually pleasing. ](https://images.unsplash.com/photo-1564682895970-0dbb72e18d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjByZXNpbGllbmNlJTIwbWVudGFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzQ5MzQ4NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm Without Letting Frustration Ruin Your Day")
-*How to Stay Calm Without Letting Frustration Ruin Your Day - Photo by [Dustin Belt](https://unsplash.com/@dbeltwrites) on [Unsplash](https://unsplash.com/photos/person-holding-piece-of-paper-with-phone-a-friend-written-text-lg4fM9Y2pGg)*
+{{< figure src="https://images.unsplash.com/photo-1564682895970-0dbb72e18d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjByZXNpbGllbmNlJTIwbWVudGFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzQ5MzQ4NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding piece of paper with phone a friend written text" title="How to Stay Calm Without Letting Frustration Ruin Your Day" caption="How to Stay Calm Without Letting Frustration Ruin Your Day - Photo by [Dustin Belt](https://unsplash.com/@dbeltwrites) on [Unsplash](https://unsplash.com/photos/person-holding-piece-of-paper-with-phone-a-friend-written-text-lg4fM9Y2pGg)" >}}
 
 ---
 

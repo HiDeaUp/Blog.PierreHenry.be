@@ -12,8 +12,7 @@ original_title = "Comment se réussir ? Les clés pour une vie rêvée ✅"
 source_medium = "https://medium.com/@phenrysay/dadbfa8b6f4c"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjUyMTg5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for the Perfect Moment")
-*How to Move Forward Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjUyMTg5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Move Forward Without Waiting for the Perfect Moment" caption="How to Move Forward Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 Taking action is the real secret to moving forward in life. When you act, you progress faster in everything you do. You always stay one step ahead because your decision-making becomes much quicker. Instead of spending hours or even days overthinking, you simply decide and move. If you hesitate, maybe it’s not the right choice. But if deep down you know you want something, and the only thing holding you back is what others might think or what seems “reasonable,” then it’s probably the right decision for you.
 
@@ -25,8 +24,7 @@ For me, there’s another layer: my girlfriend can’t travel with me. She doesn
 
 But here’s the thing: you have to act. Sometimes you hesitate because of your partner, your job, or wanting to please others. But your life is yours. If you’re happy, you’ll have more to give to others. If you’re unhappy, it’s much harder to be your best self for those around you. Everyone wants their loved ones to be happy. That’s natural. But you can’t pour from an empty cup.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjUyMTg5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for the Perfect Moment")
-*How to Move Forward Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjUyMTg5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Move Forward Without Waiting for the Perfect Moment" caption="How to Move Forward Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Think about the airplane safety instructions: you’re told to put your own oxygen mask on first before helping others. If you don’t, you might pass out and be unable to help anyone. The same goes for life. If you don’t take care of yourself—physically and mentally—you won’t be able to help others. Psychologists know this too; they need to keep a healthy distance to be able to help their clients. You need to protect your own space to give your best.
 
@@ -46,8 +44,7 @@ So, when it comes to your dreams and the things you want to do, act now. Make de
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjUyMTg5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for the Perfect Moment")
-*How to Move Forward Without Waiting for the Perfect Moment - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjUyMTg5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Move Forward Without Waiting for the Perfect Moment" caption="How to Move Forward Without Waiting for the Perfect Moment - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 - *Acting quickly helps you move forward and stand out.*
 - *If you know deep down you want something, don’t let fear or others’ opinions stop you.*

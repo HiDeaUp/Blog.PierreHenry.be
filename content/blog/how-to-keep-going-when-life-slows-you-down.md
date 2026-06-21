@@ -10,8 +10,7 @@ original_title = "Toujours aller de l’avant 🚀"
 source_medium = "https://medium.com/@phenrysay/2ce8486dd4f6"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcmVzaWxpZW5jZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTAwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Going When Life Slows You Down")
-*How to Keep Going When Life Slows You Down - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcmVzaWxpZW5jZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTAwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How to Keep Going When Life Slows You Down" caption="How to Keep Going When Life Slows You Down - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 There are days when everything feels heavy. Maybe something went wrong at work, or your week just didn’t go as planned. In those moments, it’s easy to feel drained and wonder if it’s even worth trying anymore. Sometimes, you might feel tempted to give up, to throw in the towel and let things slide.
 
@@ -19,8 +18,7 @@ But here’s the thing: the real difference comes when you decide to keep moving
 
 The more you push ahead, the more you start searching for new ideas and possibilities. It’s not always easy, and sometimes it feels like you’re forcing yourself. But this is the best way to feel better, to regain your energy, and to set yourself up for success. Moving forward isn’t just about progress; it’s about giving yourself a reason to get up and try again.
 
-![Man climbing during summer](https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcmVzaWxpZW5jZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTAwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Going When Life Slows You Down")
-*How to Keep Going When Life Slows You Down - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)*
+{{< figure src="https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcmVzaWxpZW5jZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTAwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man climbing during summer" title="How to Keep Going When Life Slows You Down" caption="How to Keep Going When Life Slows You Down - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)" >}}
 
 When you keep looking for what’s next, you stop dwelling on what went wrong. You start focusing on what you can do, instead of what you can’t change. This mindset doesn’t just help you get through tough times—it actually helps you grow stronger and more resilient.
 
@@ -34,8 +32,7 @@ So, whenever you feel like giving up, remember that moving forward—even with s
 
 ---
 
-![Male Rock Climber Mountain](https://images.unsplash.com/photo-1502126361989-34361003b3a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcmVzaWxpZW5jZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTAwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Going When Life Slows You Down")
-*How to Keep Going When Life Slows You Down - Photo by [Brad Barmore](https://unsplash.com/@bradbarmore) on [Unsplash](https://unsplash.com/photos/man-rock-climbing-on-mountain-iLK1W79UdcU)*
+{{< figure src="https://images.unsplash.com/photo-1502126361989-34361003b3a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcmVzaWxpZW5jZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTAwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Male Rock Climber Mountain" title="How to Keep Going When Life Slows You Down" caption="How to Keep Going When Life Slows You Down - Photo by [Brad Barmore](https://unsplash.com/@bradbarmore) on [Unsplash](https://unsplash.com/photos/man-rock-climbing-on-mountain-iLK1W79UdcU)" >}}
 
 ## Key Takeaways
 - Keep moving forward, even on tough days.

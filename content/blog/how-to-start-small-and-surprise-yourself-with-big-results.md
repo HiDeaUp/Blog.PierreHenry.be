@@ -10,8 +10,7 @@ original_title = "Comment construire de grandes choses ?"
 source_medium = "https://medium.com/@phenrysay/fbe1a65144bb"
 +++
 
-![Photo by Albert Moreno](https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3RhcnQlMjBzbWFsbHxlbnwwfDB8fHwxNzU2MDE3MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Small and Surprise Yourself With Big Results")
-*How to Start Small and Surprise Yourself With Big Results - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)*
+{{< figure src="https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3RhcnQlMjBzbWFsbHxlbnwwfDB8fHwxNzU2MDE3MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on brown soil" title="How to Start Small and Surprise Yourself With Big Results" caption="How to Start Small and Surprise Yourself With Big Results - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)" >}}
 
 Starting something new is always a leap into the unknown. Whether you’re launching a project, picking up a fresh hobby, or just trying out a new recipe, you’re laying the first stones of a path you’ve never walked before. This is where the magic happens. By stepping into new territory, you open yourself up to discoveries you never would have made otherwise.
 
@@ -21,8 +20,7 @@ This is how new projects are born. Sometimes, they even lead you to your dream j
 
 If you find yourself enjoying this new pursuit, passion will follow. And when you’re passionate, you’re much more likely to excel. That’s why I suggest picking a new project and giving it your all for a month. If it doesn’t click, you can always try something else or pivot to a similar idea. The key is to keep searching and experimenting.
 
-![Photo by Sabine Freiberger](https://images.unsplash.com/photo-1682350054692-7d2fab9776dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3RhcnQlMjBzbWFsbHxlbnwwfDB8fHwxNzU2MDE3MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Small and Surprise Yourself With Big Results")
-*How to Start Small and Surprise Yourself With Big Results - Photo by [Sabine Freiberger](https://unsplash.com/@bine_1) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-mIn-IlifdpE)*
+{{< figure src="https://images.unsplash.com/photo-1682350054692-7d2fab9776dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3RhcnQlMjBzbWFsbHxlbnwwfDB8fHwxNzU2MDE3MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a small plant in a pot mIn IlifdpE" title="How to Start Small and Surprise Yourself With Big Results" caption="How to Start Small and Surprise Yourself With Big Results - Photo by [Sabine Freiberger](https://unsplash.com/@bine_1) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-mIn-IlifdpE)" >}}
 
 Dedicate just half an hour or an hour a day. Draw, make cards, create an alphabet book, or try something in the same spirit. After a week, you’ll have spent nearly ten hours on your new passion. That’s a lot more than it sounds, and it can be life-changing.
 
@@ -40,8 +38,7 @@ The real secret is to keep going, even if your first attempt isn’t perfect. As
 
 ## Key Takeaways
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3RhcnQlMjBzbWFsbHxlbnwwfDB8fHwxNzU2MDE3MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Small and Surprise Yourself With Big Results")
-*How to Start Small and Surprise Yourself With Big Results - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3RhcnQlMjBzbWFsbHxlbnwwfDB8fHwxNzU2MDE3MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Start Small and Surprise Yourself With Big Results" caption="How to Start Small and Surprise Yourself With Big Results - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 - Starting something new is the best way to discover hidden talents and passions.
 - Give yourself a month to try a new project at full speed.

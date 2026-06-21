@@ -12,8 +12,7 @@ original_title = "Comment manufacturer la joie !!!!!"
 source_medium = "https://medium.com/@phenrysay/9d9e003ae211"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632961972908-ee55c3e39555?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqb3klMjBoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDgzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Joy Without Waiting for Happiness to Arrive")
-*How to Build Joy Without Waiting for Happiness to Arrive - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-that-says-joy-next-to-a-bouquet-of-flowers-_RkZ02GMoEY)*
+{{< figure src="https://images.unsplash.com/photo-1632961972908-ee55c3e39555?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqb3klMjBoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDgzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block that says joy next to a bouquet of flowers" title="How to Build Joy Without Waiting for Happiness to Arrive" caption="How to Build Joy Without Waiting for Happiness to Arrive - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-that-says-joy-next-to-a-bouquet-of-flowers-_RkZ02GMoEY)" >}}
 
 Most people think joy is something that just happens to us, like a sudden burst of sunshine on a cloudy day. But what if joy could be manufactured? What if, instead of waiting for happiness to show up, we could build it ourselves, step by step?
 
@@ -25,8 +24,7 @@ So, if our brains are not naturally tuned to joy, how do we create it? The answe
 
 The key is to focus on activities that give you lasting satisfaction. Scrolling through social media might feel good for a moment, but it rarely leaves you with a sense of fulfillment. At the end of the year, you probably won't look back and say, "That was a great year because I spent so much time on social media." Instead, real joy comes from projects and goals that reflect your values and give you a sense of progress.
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqb3klMjBoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDgzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Joy Without Waiting for Happiness to Arrive")
-*How to Build Joy Without Waiting for Happiness to Arrive - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqb3klMjBoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDgzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Build Joy Without Waiting for Happiness to Arrive" caption="How to Build Joy Without Waiting for Happiness to Arrive - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 Let’s say you want to learn to play the piano. Set a clear goal: by December, you want to be able to play Christmas songs, even if you’re a complete beginner now. Visualize yourself playing those songs in December. See yourself at the piano, filling the room with music. This mental image will help keep you motivated.
 
@@ -46,8 +44,7 @@ The more you focus on meaningful projects, the more joy you’ll create in your 
 >
 > — Richard Wagner
 
-![smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679](https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqb3klMjBoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDgzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Joy Without Waiting for Happiness to Arrive")
-*How to Build Joy Without Waiting for Happiness to Arrive - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)*
+{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqb3klMjBoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDgzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Build Joy Without Waiting for Happiness to Arrive" caption="How to Build Joy Without Waiting for Happiness to Arrive - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >

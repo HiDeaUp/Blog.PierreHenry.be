@@ -12,8 +12,7 @@ original_title = "La philosophie du bonheur 😊"
 source_medium = "https://medium.com/@phenrysay/ccb68f84f442"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTU2MDQ1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Happiness Without Overthinking It")
-*How to Enjoy Happiness Without Overthinking It - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTU2MDQ1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Enjoy Happiness Without Overthinking It" caption="How to Enjoy Happiness Without Overthinking It - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Happiness is something we all want. It’s natural, and it’s essential for feeling fulfilled. When we’re not happy, when we feel undervalued or uneasy, it’s like a plant that hasn’t been watered or doesn’t have the right soil. But when you feel good, when you’re comfortable in your own shoes, everything else in life seems to fall into place more easily.
 
@@ -23,8 +22,7 @@ Instead of simply enjoying the pleasure that comes our way, we tend to overthink
 
 The real philosophy of happiness is about enjoying what you have, right now, without always looking for what’s missing or what could go wrong. Of course, it’s good to want more for yourself, but if you’re always chasing something better, you risk destroying your own happiness. It can even get in the way of your personal growth.
 
-![Photo by Samuel Regan-Asante](https://images.unsplash.com/photo-1626381097812-2d2a0510ca06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTU2MDQ1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Happiness Without Overthinking It")
-*How to Enjoy Happiness Without Overthinking It - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/red-and-white-love-neon-light-signage-yoaqrjg08Fc)*
+{{< figure src="https://images.unsplash.com/photo-1626381097812-2d2a0510ca06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTU2MDQ1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Red and white love neon light signage" title="How to Enjoy Happiness Without Overthinking It" caption="How to Enjoy Happiness Without Overthinking It - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/red-and-white-love-neon-light-signage-yoaqrjg08Fc)" >}}
 
 Gratitude is key. When you appreciate everything that comes your way, you feel more satisfied and thankful. Think about how easy it is today to buy a beautiful table. You can just go online, find a store, and have it delivered. Not long ago, you’d have to know a carpenter, have connections, and wait for weeks. Or consider how simple it is to have hot water at home, or to live in a safe place. When you attach gratitude to these everyday things, you boost your well-being and happiness.
 
@@ -46,8 +44,7 @@ The more you feel grateful, the better you feel. The better you feel, the more y
 - *Gratitude for simple things can make a big difference in your well-being.*
 - *Stop overthinking and let yourself fully appreciate what you have right now.*
 
-![Because I’m happy…](https://images.unsplash.com/photo-1545968369-6ef79a4c54fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTU2MDQ1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Happiness Without Overthinking It")
-*How to Enjoy Happiness Without Overthinking It - Photo by [Okwaeze Otusi](https://unsplash.com/@oo7ab) on [Unsplash](https://unsplash.com/photos/multicolored-happy-roll-up-door-graffiti-EU51N-rD9rE)*
+{{< figure src="https://images.unsplash.com/photo-1545968369-6ef79a4c54fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTU2MDQ1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Because I’m happy…" title="How to Enjoy Happiness Without Overthinking It" caption="How to Enjoy Happiness Without Overthinking It - Photo by [Okwaeze Otusi](https://unsplash.com/@oo7ab) on [Unsplash](https://unsplash.com/photos/multicolored-happy-roll-up-door-graffiti-EU51N-rD9rE)" >}}
 
 ## Action Steps
 

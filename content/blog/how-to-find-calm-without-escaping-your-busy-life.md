@@ -12,8 +12,7 @@ original_title = "Moments zen. Pourquoi & Comment ?"
 source_medium = "https://medium.com/@phenrysay/7796e937b8a5"
 +++
 
-![The Zen garden](https://images.unsplash.com/photo-1571039599810-ef84c452707f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx6ZW4lMjByZWxheGF0aW9uJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzA4MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping Your Busy Life")
-*How to Find Calm Without Escaping Your Busy Life - Photo by [Naseem Buras](https://unsplash.com/@naseem_buras) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-gautama-buddha-statue-hy9BZqUuG1s)*
+{{< figure src="https://images.unsplash.com/photo-1571039599810-ef84c452707f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx6ZW4lMjByZWxheGF0aW9uJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzA4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="The Zen garden" title="How to Find Calm Without Escaping Your Busy Life" caption="How to Find Calm Without Escaping Your Busy Life - Photo by [Naseem Buras](https://unsplash.com/@naseem_buras) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-gautama-buddha-statue-hy9BZqUuG1s)" >}}
 
 Sometimes, life feels like a whirlwind. Stress piles up, tasks never seem to end, and before you know it, you’re no longer present. You’re not really here. You’re just running from one thing to the next, forgetting to notice the little wonders around you.
 
@@ -23,8 +22,7 @@ When you’re overwhelmed, you lose touch with the present. You stop enjoying th
 
 Try this: take a deep breath, filling your belly with air. Inhale, exhale. Let yourself relax. This simple act helps you reset your rhythm. It brings back a gentle pace, a sense of joy, and the ability to appreciate life’s simple gifts.
 
-![Photo by Jason Abdilla](https://images.unsplash.com/photo-1545590148-584b2278bb37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx6ZW4lMjByZWxheGF0aW9uJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzA4MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping Your Busy Life")
-*How to Find Calm Without Escaping Your Busy Life - Photo by [Jason Abdilla](https://unsplash.com/@theoneofussocialclub) on [Unsplash](https://unsplash.com/photos/gray-apparel-beside-white-sheet-0eyTKhre-cQ)*
+{{< figure src="https://images.unsplash.com/photo-1545590148-584b2278bb37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx6ZW4lMjByZWxheGF0aW9uJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjExMzA4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Gray apparel beside white sheet cQ" title="How to Find Calm Without Escaping Your Busy Life" caption="How to Find Calm Without Escaping Your Busy Life - Photo by [Jason Abdilla](https://unsplash.com/@theoneofussocialclub) on [Unsplash](https://unsplash.com/photos/gray-apparel-beside-white-sheet-0eyTKhre-cQ)" >}}
 
 I truly wish you the best on this journey. Remember, happiness often hides in the smallest details. When you allow yourself to smile again, to breathe freely, you open the door to a more peaceful and joyful life.
 

@@ -12,8 +12,7 @@ original_title = "La chose que tout le monde ignore. Pourtant, ça TRANSFORME no
 source_medium = "https://medium.com/@phenrysay/48efa0f34046"
 +++
 
-![Shift Happens](https://images.unsplash.com/photo-1578048421563-9aa187e12baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZnV0dXJlfGVufDB8MHx8fDE3NTU2MDg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Choices Shape Your Entire Future")
-*How Small Daily Choices Shape Your Entire Future - Photo by [SOULSANA](https://unsplash.com/@soulsana) on [Unsplash](https://unsplash.com/photos/scrabble-chips-forming-shift-happens-word-near-white-feather-V5DBwOOv0bo)*
+{{< figure src="https://images.unsplash.com/photo-1578048421563-9aa187e12baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZnV0dXJlfGVufDB8MHx8fDE3NTU2MDg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Shift Happens" title="How Small Daily Choices Shape Your Entire Future" caption="How Small Daily Choices Shape Your Entire Future - Photo by [SOULSANA](https://unsplash.com/@soulsana) on [Unsplash](https://unsplash.com/photos/scrabble-chips-forming-shift-happens-word-near-white-feather-V5DBwOOv0bo)" >}}
 
 Every day, we make choices. Some seem trivial, others feel important. But what most people ignore is that these daily actions, no matter how small, are the building blocks of our future. The life you’ll have in five or ten years is being shaped right now, by what you decide to do—or not do—today.
 
@@ -26,8 +25,7 @@ But the opposite is also true. If you do one thing each day that lifts you up, t
 > *The only limit to our realization of tomorrow will be our doubts of today.*
 > — Franklin D. Roosevelt
 
-![I’ve always been the kind of person who thrives on organization. I love lists and I love having everything is it’s place.](https://images.unsplash.com/photo-1485819665514-881a8f294f7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZnV0dXJlfGVufDB8MHx8fDE3NTU2MDg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Choices Shape Your Entire Future")
-*How Small Daily Choices Shape Your Entire Future - Photo by [Kari Shea](https://unsplash.com/@karishea) on [Unsplash](https://unsplash.com/photos/silver-iphone-5s-near-field-notes-book-Dn-BqRT9RBk)*
+{{< figure src="https://images.unsplash.com/photo-1485819665514-881a8f294f7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZnV0dXJlfGVufDB8MHx8fDE3NTU2MDg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="I’ve always been the kind of person who thrives on organization. I love lists and I love having everything is it’s place." title="How Small Daily Choices Shape Your Entire Future" caption="How Small Daily Choices Shape Your Entire Future - Photo by [Kari Shea](https://unsplash.com/@karishea) on [Unsplash](https://unsplash.com/photos/silver-iphone-5s-near-field-notes-book-Dn-BqRT9RBk)" >}}
 
 Every day is a new chance to change your life’s direction. The way you invest your time, the actions you choose, all have a lasting impact. Anyone can achieve great things, but it starts with a plan. Know what you want, and map out the steps to get there.
 
@@ -46,8 +44,7 @@ Even if you don’t have a perfect plan, start with one small action. Go to a ca
 
 If you only do one thing today, make it something that turns an ordinary day into an exceptional one. Your future self will thank you for every positive action you take now. Even if you’ve tried self-help books or courses before and haven’t seen results, don’t give up. Sometimes, all it takes is a fresh approach or a new way of organizing your days to see real change.
 
-![Apple Watch series 6](https://images.unsplash.com/photo-1655405187490-030797137cb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZnV0dXJlfGVufDB8MHx8fDE3NTU2MDg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Choices Shape Your Entire Future")
-*How Small Daily Choices Shape Your Entire Future - Photo by [Klim Musalimov](https://unsplash.com/@klim11) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-remote-control-9ARfPMDB7Ho)*
+{{< figure src="https://images.unsplash.com/photo-1655405187490-030797137cb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZnV0dXJlfGVufDB8MHx8fDE3NTU2MDg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Apple Watch series 6" title="How Small Daily Choices Shape Your Entire Future" caption="How Small Daily Choices Shape Your Entire Future - Photo by [Klim Musalimov](https://unsplash.com/@klim11) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-remote-control-9ARfPMDB7Ho)" >}}
 
 > *The future depends on what you do today.*
 > — Mahatma Gandhi

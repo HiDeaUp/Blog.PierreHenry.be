@@ -12,8 +12,7 @@ original_title = "Pourquoi les breaks peuvent tout changer dans ton succès... J
 source_medium = "https://medium.com/@phenrysay/ad81f723dbd7"
 +++
 
-![Photo by Alex Hudson](https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzQ5MzEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Taking Breaks Boosts Success Without Working Harder")
-*How Taking Breaks Boosts Success Without Working Harder - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)*
+{{< figure src="https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzQ5MzEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiling man holding cup and using" title="How Taking Breaks Boosts Success Without Working Harder" caption="How Taking Breaks Boosts Success Without Working Harder - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)" >}}
 
 Have you ever noticed how a simple coffee break can completely shift your day? I was sitting in a coffee shop recently, enjoying a cup during their “Happy Hour”—a small window in the afternoon when coffee costs less. It struck me how this little ritual, this pause, is more than just a treat. It’s what I call a “slowdown”—a moment to breathe, clear your mind, and let go of the mental clutter that builds up throughout the day.
 
@@ -23,8 +22,7 @@ When you’re always thinking about the next thing—replying to messages, sendi
 
 This is why it’s so important to focus on what truly matters to you, not just what feels urgent. I often refer to the productivity matrix (sometimes called the Eisenhower Matrix), which helps you sort tasks by urgency and importance. Here’s the core idea:
 
-![Looking Up](https://images.unsplash.com/photo-1523287562758-66c7fc58967f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzQ5MzEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Taking Breaks Boosts Success Without Working Harder")
-*How Taking Breaks Boosts Success Without Working Harder - Photo by [Razvan Chisu](https://unsplash.com/@nullplus) on [Unsplash](https://unsplash.com/photos/low-angle-photography-of-man-in-the-middle-of-buidligns-Ua-agENjmI4)*
+{{< figure src="https://images.unsplash.com/photo-1523287562758-66c7fc58967f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzQ5MzEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Looking Up" title="How Taking Breaks Boosts Success Without Working Harder" caption="How Taking Breaks Boosts Success Without Working Harder - Photo by [Razvan Chisu](https://unsplash.com/@nullplus) on [Unsplash](https://unsplash.com/photos/low-angle-photography-of-man-in-the-middle-of-buidligns-Ua-agENjmI4)" >}}
 
 - **Important but not urgent:** Plan these carefully. These are your real priorities.
 - **Urgent and important:** Handle these right away, but don’t let them take over your life.
@@ -45,8 +43,7 @@ If you apply this approach—prioritizing what matters, taking real breaks, and 
 > *“Almost everything will work again if you unplug it for a few minutes… including you.”*  
 > —Anne Lamott
 
-![My current desk setup as of 2016. I am a wedding and portrait photographer and have always believed the space you do work in has a big impact on the quality and kind of work you complete. I have been refining my workspace since I was in high school and I am really happy where it is now!](https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzQ5MzEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Taking Breaks Boosts Success Without Working Harder")
-*How Taking Breaks Boosts Success Without Working Harder - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)*
+{{< figure src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0YWtpbmclMjBicmVha3MlMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzQ5MzEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Silver imac with and inside room KE0nC8 58MQ" title="How Taking Breaks Boosts Success Without Working Harder" caption="How Taking Breaks Boosts Success Without Working Harder - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)" >}}
 
 ---
 

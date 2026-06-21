@@ -12,8 +12,7 @@ original_title = "Comment être incroyable ? Les astuces ?"
 source_medium = "https://medium.com/@phenrysay/4fab0ea3e87c"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY2MzMzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Incredible Without Trying to Impress Others")
-*How to Be Incredible Without Trying to Impress Others - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY2MzMzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Be Incredible Without Trying to Impress Others" caption="How to Be Incredible Without Trying to Impress Others - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 What does it really mean to be incredible? Most of us want to feel happy, fulfilled, and successful—whether that’s in our personal lives, our sense of well-being, or our work. But the real magic of being incredible isn’t about impressing others. It’s not about showing off to people who don’t matter to you, or even trying to win over your friends, colleagues, or family. Being incredible is, first and foremost, about being incredible for yourself.
 
@@ -23,8 +22,7 @@ So, instead of looking at others, ask yourself: how can I be happier than I was 
 
 One powerful tool is to create your own manifesto. Think of it as your personal constitution—a set of rules and values that guide your life. It’s not for anyone else, just for you. Your manifesto can be as simple or as detailed as you like, but it should spell out what you stand for, what you want to do, and what you refuse to accept. It’s a reminder of your vision and your character, a way to keep yourself on track.
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY2MzMzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Incredible Without Trying to Impress Others")
-*How to Be Incredible Without Trying to Impress Others - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY2MzMzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Be Incredible Without Trying to Impress Others" caption="How to Be Incredible Without Trying to Impress Others - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 Just like countries have constitutions—rules that almost never change—your manifesto can be your unbreakable guide. It’s your promise to yourself.
 
@@ -42,8 +40,7 @@ The point is, being incredible isn’t about grand gestures or impressing the wo
 >
 > — Anonymous
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY2MzMzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Incredible Without Trying to Impress Others")
-*How to Be Incredible Without Trying to Impress Others - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25maWRlbmNlfGVufDB8MHx8fDE3NTY2MzMzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Be Incredible Without Trying to Impress Others" caption="How to Be Incredible Without Trying to Impress Others - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 ---
 

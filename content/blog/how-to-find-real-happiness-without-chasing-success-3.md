@@ -12,8 +12,7 @@ original_title = "Peut-on augmenter son bonheur ?"
 source_medium = "https://medium.com/@phenrysay/063fdc1dd513"
 +++
 
-![On this picture, it looks like I have my feet in the void... It's a very classic photo from Ryten, Norway, for which people even queue up to take it! In reality, there is a rock underneath, making this picture totally safe. But you mustn't say so... ](https://images.unsplash.com/photo-1660549074494-68d507ae0790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTYwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Success")
-*How to Find Real Happiness Without Chasing Success - Photo by [Benoît Deschasaux](https://unsplash.com/@benowa) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-rock-overlooking-a-body-of-water-_wbzYUDfyXg)*
+{{< figure src="https://images.unsplash.com/photo-1660549074494-68d507ae0790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person sitting on a rock a body of water" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Benoît Deschasaux](https://unsplash.com/@benowa) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-rock-overlooking-a-body-of-water-_wbzYUDfyXg)" >}}
 
 Many people are obsessed with the idea of success. For some, success means becoming a millionaire or even a billionaire. They chase after the best degrees, then the best jobs, hoping to climb the ladder in a big company or launch the next great startup. The dream is to sell that startup for a huge sum, buy several beautiful houses, and keep chasing more and more. But in this endless race, something important gets lost: enjoying life and feeling well.
 
@@ -27,8 +26,7 @@ You don’t need to own a company that runs itself or have endless wealth. You j
 
 ## How Can You Achieve This Kind of Happiness?
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTYwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Success")
-*How to Find Real Happiness Without Chasing Success - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 The key is to find something you love that you can turn into a source of income. Maybe it’s teaching, offering services, or coaching. For example, I sell my courses on a platform called Podia. While it’s not always easy to make a lot of money this way, it’s not about chasing the highest number of students or five-star reviews. It’s about enjoying what you do and having the freedom to live life on your terms.
 
@@ -44,8 +42,7 @@ If you’re a digital nomad, you can even set up your business in Estonia, which
 
 Happiness isn’t about chasing endless success or accumulating more money than you can spend. It’s about building a life where you feel good every day, free from unnecessary stress, and able to enjoy the simple pleasures.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTYwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Success")
-*How to Find Real Happiness Without Chasing Success - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 > _Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful._
 > — Albert Schweitzer

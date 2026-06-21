@@ -12,8 +12,7 @@ original_title = "Devenir une meilleure version de soi : ma méthode complète (
 source_medium = "https://medium.com/@phenrysay/3ab59ef814bc"
 +++
 
-![smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679](https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTM4MzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reinvent Yourself Without Losing Who You Are")
-*How to Reinvent Yourself Without Losing Who You Are - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)*
+{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTM4MzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Reinvent Yourself Without Losing Who You Are" caption="How to Reinvent Yourself Without Losing Who You Are - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
 
 Reinventing yourself isn’t about chasing some impossible ideal or copying someone else’s life. It’s about pressing the reset button, rebuilding from the ground up, and finding a new way to live that actually makes you happy. At its core, becoming a better version of yourself means rethinking who you are, what you value, and how you want your life to look.
 
@@ -25,8 +24,7 @@ Let’s say your dream is to travel the world. Every day, you might decide to sa
 
 The key is to know what you need, what resources it will take, and what you truly want out of life. This kind of self-reflection is powerful. It helps you build the lifestyle you want, not the one others expect from you.
 
-![Smiley ball in hand.](https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTM4MzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reinvent Yourself Without Losing Who You Are")
-*How to Reinvent Yourself Without Losing Who You Are - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)*
+{{< figure src="https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTM4MzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball in hand." title="How to Reinvent Yourself Without Losing Who You Are" caption="How to Reinvent Yourself Without Losing Who You Are - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)" >}}
 
 Often, when people are asked about their dream life, they talk about wild parties and endless excitement. But over time, most realize that what they really want is something calmer, more peaceful, and more meaningful. Knowing yourself—your real needs and desires—is the most important step.
 
@@ -44,8 +42,7 @@ So, use your money to save time, not the other way around. Spend your time doing
 
 ## Key Takeaways
 
-![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTM4MzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reinvent Yourself Without Losing Who You Are")
-*How to Reinvent Yourself Without Losing Who You Are - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
+{{< figure src="https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTM4MzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball" title="How to Reinvent Yourself Without Losing Who You Are" caption="How to Reinvent Yourself Without Losing Who You Are - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)" >}}
 
 - Becoming a better version of yourself means rebuilding and rethinking your life from the inside out.
 - Figure out what you really want—not what others expect from you.

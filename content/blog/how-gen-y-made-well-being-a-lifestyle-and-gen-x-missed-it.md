@@ -12,8 +12,7 @@ original_title = "Choc générationnel : Pourquoi la Gen Y est obsédée par le 
 source_medium = "https://medium.com/@phenrysay/ec4266c3f712"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, genes, genetics, fruit doesn't fall far from the tree, hereditary, inherited, traits, character, nurture, nature, nurture vs nature, ancestry, mother, father, dna, inherited, family, family likeness, parentage, parents, ](https://images.unsplash.com/photo-1622304061854-3f3a253573dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHZW5lcmF0aW9uJTIwWSUyMHdlbGwtYmVpbmclMjBHZW5lcmF0aW9uJTIwWHxlbnwwfDB8fHwxNzU1NTc3MjMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It)")
-*How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It) - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-xuttn1x6P7g)*
+{{< figure src="https://images.unsplash.com/photo-1622304061854-3f3a253573dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHZW5lcmF0aW9uJTIwWSUyMHdlbGwtYmVpbmclMjBHZW5lcmF0aW9uJTIwWHxlbnwwfDB8fHwxNzU1NTc3MjMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter blocks on white surface" title="How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It)" caption="How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It) - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-xuttn1x6P7g)" >}}
 
 When we look at the differences between Generation X and Generation Y, one thing stands out: their approach to well-being. Gen X, now mostly between 55 and 75 years old, grew up with a different idea of what it means to relax and take care of oneself. Gen Y—my generation, now in their 20s and 30s—seems to have made well-being almost a lifestyle, if not an obsession.
 
@@ -36,8 +35,7 @@ Gen Y has realized that the old race for the best diploma, the best job, and a g
 
 For Gen X, adding new habits like meditation or cozy home routines isn’t always easy. After decades of doing things a certain way, change can feel strange. Motivation is a challenge, and time is often short, especially with family responsibilities. Introducing new routines takes effort, especially when they don’t feel natural yet.
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1640236405405-61ca9f9bc4d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxHZW5lcmF0aW9uJTIwWSUyMHdlbGwtYmVpbmclMjBHZW5lcmF0aW9uJTIwWHxlbnwwfDB8fHwxNzU1NTc3MjMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It)")
-*How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It) - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-creation-with-flowers-in-the-background-dX-vMoVa2ac)*
+{{< figure src="https://images.unsplash.com/photo-1640236405405-61ca9f9bc4d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxHZW5lcmF0aW9uJTIwWSUyMHdlbGwtYmVpbmclMjBHZW5lcmF0aW9uJTIwWHxlbnwwfDB8fHwxNzU1NTc3MjMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block with flowers in the dX" title="How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It)" caption="How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It) - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-creation-with-flowers-in-the-background-dX-vMoVa2ac)" >}}
 
 Even home design has changed. Today, people create cozy spaces with cushions and simple decor. Homes are easier to clean, leaving more time for relaxation. Hiring help for cleaning is also more common, especially for families.
 
@@ -64,8 +62,7 @@ Influencers have replaced movie stars as trendsetters. This can be risky, as som
 
 Online shopping is everywhere. Many people try clothes in stores but buy them online for a better price—a practice called "showrooming." Paying with phones or smartwatches makes spending even easier, sometimes too easy.
 
-![Book of Genesis, Chapter 1](https://images.unsplash.com/photo-1753362932174-96a4c91429b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxHZW5lcmF0aW9uJTIwWSUyMHdlbGwtYmVpbmclMjBHZW5lcmF0aW9uJTIwWHxlbnwwfDB8fHwxNzU1NTc3MjMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It)")
-*How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It) - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/the-image-shows-a-page-from-the-book-of-genesis-sfxxrm14Eec)*
+{{< figure src="https://images.unsplash.com/photo-1753362932174-96a4c91429b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxHZW5lcmF0aW9uJTIwWSUyMHdlbGwtYmVpbmclMjBHZW5lcmF0aW9uJTIwWHxlbnwwfDB8fHwxNzU1NTc3MjMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Book of Genesis, Chapter 1" title="How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It)" caption="How Gen Y Made Well-Being a Lifestyle (and Gen X Missed It) - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/the-image-shows-a-page-from-the-book-of-genesis-sfxxrm14Eec)" >}}
 
 > _We buy things we don’t need with money we don’t have to impress people we don’t like._
 > — Dave Ramsey

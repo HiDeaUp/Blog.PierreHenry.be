@@ -10,8 +10,7 @@ original_title = "Comment vivre SIMPLEMENT ? 😌"
 source_medium = "https://medium.com/@phenrysay/2c7d5d98cb3b"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTY2MzQ3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Simply Without Feeling Deprived")
-*How to Live Simply Without Feeling Deprived - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/brown-its-simple-scrabble-tiles-oHVdj31R3F4)*
+{{< figure src="https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTY2MzQ3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown its simple tiles" title="How to Live Simply Without Feeling Deprived" caption="How to Live Simply Without Feeling Deprived - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/brown-its-simple-scrabble-tiles-oHVdj31R3F4)" >}}
 
 Living simply is more than just a trend; it’s a way to feel lighter and happier every single day. When you create a life where everything is as simple as possible, everything else falls into place. The less you own, the less complicated your life becomes. This isn’t just about minimalism for the sake of it, but about making your daily life easier and your mind clearer.
 
@@ -23,8 +22,7 @@ If you want to spend your days creating things you love, you need to clear out t
 
 That’s why I believe in keeping things minimal, especially for your mental health. Only buy something new if it truly replaces something else you already have. If you have two pairs of scissors, keep the better one. Don’t hold onto the old one “just in case.” If it breaks, you can always get another. The same goes for glasses, phones, or anything else. Before, you managed just fine with only one. Keeping extras just adds more decisions and more things to worry about.
 
-![Photo by Shatina Bui](https://images.unsplash.com/photo-1615870412470-923f4b4247d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTY2MzQ3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Simply Without Feeling Deprived")
-*How to Live Simply Without Feeling Deprived - Photo by [Shatina Bui](https://unsplash.com/@shatinabui) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-ceramic-pot-kKLRLOfxrzQ)*
+{{< figure src="https://images.unsplash.com/photo-1615870412470-923f4b4247d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTY2MzQ3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on white ceramic pot" title="How to Live Simply Without Feeling Deprived" caption="How to Live Simply Without Feeling Deprived - Photo by [Shatina Bui](https://unsplash.com/@shatinabui) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-ceramic-pot-kKLRLOfxrzQ)" >}}
 
 A cluttered environment leads to wasted time and energy. You end up searching for things, swapping SIM cards, or just feeling overwhelmed by all the stuff around you. But when you live simply, everything becomes easier and more enjoyable. You’ll be amazed at how much more you can do, and how much happier you’ll feel.
 
@@ -40,8 +38,7 @@ Living simply isn’t just about having fewer things. It’s about making space 
 
 ## Key Takeaways
 
-![Photo by Simona Takareviciute](https://images.unsplash.com/photo-1613384920940-6f0ad5f037c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTY2MzQ3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Simply Without Feeling Deprived")
-*How to Live Simply Without Feeling Deprived - Photo by [Simona Takareviciute](https://unsplash.com/@simonataka) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-ceramic-pot-VMRapHqFBZg)*
+{{< figure src="https://images.unsplash.com/photo-1613384920940-6f0ad5f037c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGUlMjBsaXZpbmclMjBtaW5pbWFsaXNtJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTY2MzQ3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on white ceramic pot" title="How to Live Simply Without Feeling Deprived" caption="How to Live Simply Without Feeling Deprived - Photo by [Simona Takareviciute](https://unsplash.com/@simonataka) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-ceramic-pot-VMRapHqFBZg)" >}}
 
 - The less you own, the less you have to worry about.
 - Simplifying your life frees up mental space and energy.

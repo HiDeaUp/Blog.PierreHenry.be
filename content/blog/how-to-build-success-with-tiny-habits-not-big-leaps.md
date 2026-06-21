@@ -12,8 +12,7 @@ original_title = "Les clés du succès : ce que personne ne te dit 🏆"
 source_medium = "https://medium.com/@phenrysay/61949bd12c15"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTA3MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success With Tiny Habits, Not Big Leaps")
-*How to Build Success With Tiny Habits, Not Big Leaps - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTA3MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Build Success With Tiny Habits, Not Big Leaps" caption="How to Build Success With Tiny Habits, Not Big Leaps - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 Success is often pictured as a big, dramatic leap. In reality, it’s a slow climb, made up of small, steady steps. This “granular” approach to achievement is about moving forward bit by bit, stacking one small win on top of another until you finally reach your goal. It’s not glamorous, but it works.
 
@@ -27,8 +26,7 @@ For example, when I take a shower in the morning or evening here in Sydney, I do
 
 ## Start Small, Finish Big
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTA3MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success With Tiny Habits, Not Big Leaps")
-*How to Build Success With Tiny Habits, Not Big Leaps - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTA3MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Build Success With Tiny Habits, Not Big Leaps" caption="How to Build Success With Tiny Habits, Not Big Leaps - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Another trick is to set tiny goals. Instead of telling yourself you have to do 100 push-ups, just commit to doing one. Once you start, you’ll probably do more. The same goes for cleaning your apartment. If you try to tackle everything at once, you’ll get overwhelmed. But if you decide to clean just the bathroom today, you might end up doing the kitchen too, simply because you’ve already started. By breaking tasks into small pieces, you avoid procrastination and make real progress.
 
@@ -47,8 +45,7 @@ Surrounding yourself with stories of people who have already succeeded can raise
 > *Success is the sum of small efforts, repeated day in and day out.*
 > — Robert Collier
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTA3MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success With Tiny Habits, Not Big Leaps")
-*How to Build Success With Tiny Habits, Not Big Leaps - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)*
+{{< figure src="https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTA3MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word love on a wooden surface" title="How to Build Success With Tiny Habits, Not Big Leaps" caption="How to Build Success With Tiny Habits, Not Big Leaps - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)" >}}
 
 > *You are the average of the five people you spend the most time with.*
 > — Jim Rohn

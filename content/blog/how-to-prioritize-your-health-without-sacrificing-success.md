@@ -12,8 +12,7 @@ original_title = "Privilégier sa santé avant tout 👀"
 source_medium = "https://medium.com/@phenrysay/96995e4d2f34"
 +++
 
-![“Self-care is never a selfish act - it is simply good stewardship of the only gift I have, the gift I was put on earth to offer others. Anytime we can listen to true self and give the care it requires, we do it not only for ourselves, but for the many others whose lives we touch.” ― Parker Palmer, Let Your Life Speak: Listening for the Voice of Vocation](https://images.unsplash.com/photo-1667517258985-2df0d3264d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MjM0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Prioritize Your Health Without Sacrificing Success")
-*How to Prioritize Your Health Without Sacrificing Success - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-wall-JZt5OucOU1o)*
+{{< figure src="https://images.unsplash.com/photo-1667517258985-2df0d3264d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MjM0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on a wall" title="How to Prioritize Your Health Without Sacrificing Success" caption="How to Prioritize Your Health Without Sacrificing Success - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-wall-JZt5OucOU1o)" >}}
 
 When you think about what truly matters in life, it’s easy to get caught up in the daily grind. Many people believe that working more, earning more, and hustling harder is the only way to get ahead. But what if the real key to a better life is much simpler? What if the most important investment you can make is in your own health and well-being?
 
@@ -23,8 +22,7 @@ Imagine living with less stress, giving yourself more space to think, and having
 
 Living in the present becomes much easier when you’re not stuck in the cycle of work-sleep-repeat. Work is just a small part of human history, not the purpose of life. The real challenge is to be smart enough to find a way to live more freely. Often, the simplest way to do this is by moving somewhere new. Sometimes, just changing your location can make life easier—whether it’s because the paperwork is simpler, or because the pace of life is slower.
 
-![Photo by Katherine Hanlon](https://images.unsplash.com/photo-1598901865264-4f5f30954532?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MjM0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Prioritize Your Health Without Sacrificing Success")
-*How to Prioritize Your Health Without Sacrificing Success - Photo by [Katherine Hanlon](https://unsplash.com/@tinymountain) on [Unsplash](https://unsplash.com/photos/woman-in-white-t-shirt-83RTpUBjyYY)*
+{{< figure src="https://images.unsplash.com/photo-1598901865264-4f5f30954532?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MjM0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white t shirt" title="How to Prioritize Your Health Without Sacrificing Success" caption="How to Prioritize Your Health Without Sacrificing Success - Photo by [Katherine Hanlon](https://unsplash.com/@tinymountain) on [Unsplash](https://unsplash.com/photos/woman-in-white-t-shirt-83RTpUBjyYY)" >}}
 
 For example, starting a business in the UK is much easier than in France or Belgium. Even though things have changed since the UK left the European Union, it’s still not as hard as people make it out to be. We often put up barriers for ourselves, or we listen to people who have never even tried what we’re considering. It’s like that old game of telephone: someone hears a story from someone else, and by the time it gets to you, it’s completely distorted. Maybe someone had a bad experience in a country and tells you it’s dangerous, but maybe they were just unlucky. Bad things can happen anywhere.
 
@@ -42,8 +40,7 @@ Why keep suffering through a life that wears you down? It might seem hard to mak
 
 ---
 
-![Yoga at home.](https://images.unsplash.com/photo-1635367216109-aa3353c0c22e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGglMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MjM0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Prioritize Your Health Without Sacrificing Success")
-*How to Prioritize Your Health Without Sacrificing Success - Photo by [Cole Keister](https://unsplash.com/@coleito) on [Unsplash](https://unsplash.com/photos/a-woman-is-doing-a-yoga-pose-on-a-mat-_w0XkDuLj88)*
+{{< figure src="https://images.unsplash.com/photo-1635367216109-aa3353c0c22e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGglMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MjM0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at home." title="How to Prioritize Your Health Without Sacrificing Success" caption="How to Prioritize Your Health Without Sacrificing Success - Photo by [Cole Keister](https://unsplash.com/@coleito) on [Unsplash](https://unsplash.com/photos/a-woman-is-doing-a-yoga-pose-on-a-mat-_w0XkDuLj88)" >}}
 
 ## Key Takeaways
 

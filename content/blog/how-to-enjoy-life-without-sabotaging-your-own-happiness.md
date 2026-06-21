@@ -12,8 +12,7 @@ original_title = "Vivre selon la philosophie du BONHEUR"
 source_medium = "https://medium.com/@phenrysay/68349939f843"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb2YlMjBsaWZlJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life Without Sabotaging Your Own Happiness")
-*How to Enjoy Life Without Sabotaging Your Own Happiness - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb2YlMjBsaWZlJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Enjoy Life Without Sabotaging Your Own Happiness" caption="How to Enjoy Life Without Sabotaging Your Own Happiness - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 Happiness is something we all crave. It feels natural and essential for our personal growth. When we’re not happy, when we feel undervalued or out of place, it’s like a plant that hasn’t been watered or doesn’t have the right soil. But when you feel good about yourself and your life, everything else falls into place much more easily.
 
@@ -23,8 +22,7 @@ This is a real problem. Instead of simply enjoying the pleasure that comes our w
 
 But too often, we focus on what’s missing. “They’re building a new building next door, so it won’t be as nice.” “The meal is good, but it could have been hotter.” “It’s great having a Dalmatian, but it sheds everywhere.” We always find a dark side instead of fully enjoying the moment. Instead of saying, “I appreciate what’s happening to me,” we let little things spoil our joy.
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb2YlMjBsaWZlJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life Without Sabotaging Your Own Happiness")
-*How to Enjoy Life Without Sabotaging Your Own Happiness - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb2YlMjBsaWZlJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Enjoy Life Without Sabotaging Your Own Happiness" caption="How to Enjoy Life Without Sabotaging Your Own Happiness - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 The key is to enjoy life as it is, without projecting into the future or worrying about what might go wrong. The philosophy of happiness is about living fully in the present and not letting “what ifs” or “yes, buts” take over. It’s true, the grass can seem greener elsewhere, but sometimes it’s good to be content with what you have. Of course, you deserve better and more, but if you’re always chasing something else, you end up destroying your own happiness and blocking your growth.
 
@@ -40,8 +38,7 @@ The more you practice gratitude, the better you’ll feel, and the more you’ll
 > *Gratitude turns what we have into enough.*
 > — Anonymous
 
-![Bee happy. ](https://images.unsplash.com/photo-1612128712587-4de7c72a027a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb2YlMjBsaWZlJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life Without Sabotaging Your Own Happiness")
-*How to Enjoy Life Without Sabotaging Your Own Happiness - Photo by [Jon Gibbins](https://unsplash.com/@dotjay) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happy-with-a-bee-on-it-JYLGFacHy8k)*
+{{< figure src="https://images.unsplash.com/photo-1612128712587-4de7c72a027a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb2YlMjBsaWZlJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Bee happy." title="How to Enjoy Life Without Sabotaging Your Own Happiness" caption="How to Enjoy Life Without Sabotaging Your Own Happiness - Photo by [Jon Gibbins](https://unsplash.com/@dotjay) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happy-with-a-bee-on-it-JYLGFacHy8k)" >}}
 
 ---
 

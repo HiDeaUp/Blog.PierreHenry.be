@@ -12,8 +12,7 @@ original_title = "Comment s’améliorer par l’itération ?💫"
 source_medium = "https://medium.com/@phenrysay/bafe1519875a"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaXRlcmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUwNzEwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Yourself by Tweaking One Habit at a Time")
-*How to Find Yourself by Tweaking One Habit at a Time - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaXRlcmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUwNzEwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Find Yourself by Tweaking One Habit at a Time" caption="How to Find Yourself by Tweaking One Habit at a Time - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Searching for yourself is not just a phase; it is a lifelong journey. The idea of continually seeking to understand who you are, what you value, and what truly makes you happy is more important than most people realize. It is not enough to simply drift through life on autopilot. Instead, taking the time to question yourself, jot down your thoughts, and reflect on your happiest and most frustrating moments can make a real difference.
 
@@ -23,8 +22,7 @@ Sometimes, you might already like who you are, but there are still things you wa
 
 Right now, as I write this, it is six in the morning. It is still dark outside, but I love taking a walk along the bay at this hour. If I enjoy these early walks but struggle to wake up, I have to figure out why. Is it a lack of sleep? Then I need to go to bed earlier. Or maybe I just have trouble waking up. In that case, I might need to change my alarm sound, put my phone in another room, or use a smart watch that wakes me up at the right moment, when my sleep is lighter. There are plenty of apps out there that can help with this.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaXRlcmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUwNzEwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Yourself by Tweaking One Habit at a Time")
-*How to Find Yourself by Tweaking One Habit at a Time - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaXRlcmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUwNzEwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Find Yourself by Tweaking One Habit at a Time" caption="How to Find Yourself by Tweaking One Habit at a Time - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 This is what iteration is all about: making small adjustments, testing new solutions, and seeing what works for you. It is the best way to improve your habits, your character, and your sense of self.
 
@@ -42,8 +40,7 @@ So, set aside an hour each day for what matters to you. Stick with it. The feeli
 
 ---
 
-![Life in a small pot](https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaXRlcmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUwNzEwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Yourself by Tweaking One Habit at a Time")
-*How to Find Yourself by Tweaking One Habit at a Time - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)*
+{{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaXRlcmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUwNzEwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Find Yourself by Tweaking One Habit at a Time" caption="How to Find Yourself by Tweaking One Habit at a Time - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
 ## Key Takeaways
 

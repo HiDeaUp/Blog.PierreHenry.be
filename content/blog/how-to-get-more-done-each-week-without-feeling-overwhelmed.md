@@ -12,8 +12,7 @@ original_title = "Plan de productivité"
 source_medium = "https://medium.com/@phenrysay/83bd19d8bf56"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjByb3V0aW5lJTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTYwNTkzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Each Week Without Feeling Overwhelmed")
-*How to Get More Done Each Week Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjByb3V0aW5lJTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTYwNTkzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Get More Done Each Week Without Feeling Overwhelmed" caption="How to Get More Done Each Week Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Having a daily routine plan is one of the most practical ways to actually get things done. Here’s a straightforward tip that can help you accomplish what you want each week, without feeling overwhelmed or lost.
 
@@ -25,8 +24,7 @@ On Monday morning, begin with your number one priority. I recommend waking up on
 
 This approach guarantees that your most important task is always completed first thing Monday morning. At the end of the week, on Sunday, take ten minutes for a retrospective. Check if you managed to complete all your tasks. Make this review part of your routine—set a reminder in your phone for Sunday at 1 p.m., for example, and block out those ten minutes.
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjByb3V0aW5lJTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTYwNTkzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Each Week Without Feeling Overwhelmed")
-*How to Get More Done Each Week Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjByb3V0aW5lJTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTYwNTkzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Get More Done Each Week Without Feeling Overwhelmed" caption="How to Get More Done Each Week Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 ## Aligning Weekly Actions with Long-Term Goals
 
@@ -45,8 +43,7 @@ At the end of each week, review what went well, what you want to keep doing, and
 > *The key is not to prioritize what's on your schedule, but to schedule your priorities.*
 > — Stephen R. Covey
 
-![Photo by byquincy](https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjByb3V0aW5lJTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTYwNTkzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Each Week Without Feeling Overwhelmed")
-*How to Get More Done Each Week Without Feeling Overwhelmed - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)*
+{{< figure src="https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjByb3V0aW5lJTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTYwNTkzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a clock on a wall" title="How to Get More Done Each Week Without Feeling Overwhelmed" caption="How to Get More Done Each Week Without Feeling Overwhelmed - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)" >}}
 
 > *You do not rise to the level of your goals. You fall to the level of your systems.*
 > — James Clear

@@ -12,8 +12,7 @@ original_title = "CE QUE J'IGNORAIS : QUI D'AUTRE VEUT DES PROJETS QUI REVITALIS
 source_medium = "https://medium.com/@phenrysay/e1f0711206ca"
 +++
 
-![Desktop after work](https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMHByb2plY3RzJTIwbW90aXZhdGlvbiUyMG1lYW5pbmdmdWwlMjB3b3JrfGVufDB8MHx8fDE3NDkzMTQ1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Projects That Make You Jump Out of Bed Every Morning")
-*How to Find Projects That Make You Jump Out of Bed Every Morning - Photo by [Luca Bravo](https://unsplash.com/@lucabravo) on [Unsplash](https://unsplash.com/photos/apple-macbook-beside-computer-mouse-on-table-9l_326FISzk)*
+{{< figure src="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMHByb2plY3RzJTIwbW90aXZhdGlvbiUyMG1lYW5pbmdmdWwlMjB3b3JrfGVufDB8MHx8fDE3NDkzMTQ1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Desktop after work" title="How to Find Projects That Make You Jump Out of Bed Every Morning" caption="How to Find Projects That Make You Jump Out of Bed Every Morning - Photo by [Luca Bravo](https://unsplash.com/@lucabravo) on [Unsplash](https://unsplash.com/photos/apple-macbook-beside-computer-mouse-on-table-9l_326FISzk)" >}}
 
 There’s something special about having a project that makes you want to get out of bed in the morning. Not just any project, but one that brings you real pleasure over time—a long-term project that keeps you excited, curious, and alive. This is what I call the love of life: waking up with a reason, a spark, something that pulls you forward.
 
@@ -23,8 +22,7 @@ A project that lasts for years can give you more satisfaction than any bad habit
 
 Right now, I’m deep into programming, data science, and artificial intelligence. I’m working on fine-tuning AI models for my app, Mi Snap, which is all about food and nutrition. I even built an AI model called Nutri AI—yes, the name is a bit obvious, but it does the job! I still use my old computer from 2017, which I bought when I was living in Manchester. It’s not the latest, but it works, and it reminds me how far I’ve come.
 
-![Searching](https://images.unsplash.com/photo-1527689368864-3a821dbccc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMHByb2plY3RzJTIwbW90aXZhdGlvbiUyMG1lYW5pbmdmdWwlMjB3b3JrfGVufDB8MHx8fDE3NDkzMTQ1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Projects That Make You Jump Out of Bed Every Morning")
-*How to Find Projects That Make You Jump Out of Bed Every Morning - Photo by [KOBU Agency](https://unsplash.com/@kobuagency) on [Unsplash](https://unsplash.com/photos/two-women-talking-while-looking-at-laptop-computer-7okkFhxrxNw)*
+{{< figure src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMHByb2plY3RzJTIwbW90aXZhdGlvbiUyMG1lYW5pbmdmdWwlMjB3b3JrfGVufDB8MHx8fDE3NDkzMTQ1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Searching" title="How to Find Projects That Make You Jump Out of Bed Every Morning" caption="How to Find Projects That Make You Jump Out of Bed Every Morning - Photo by [KOBU Agency](https://unsplash.com/@kobuagency) on [Unsplash](https://unsplash.com/photos/two-women-talking-while-looking-at-laptop-computer-7okkFhxrxNw)" >}}
 
 Mi Snap is my long-term project. It’s not just an app; it’s something that drives me. I love checking out what competitors are doing, downloading their apps, and seeing what features they offer. Sometimes, their ideas spark new ones for me. But I always come back to my own project, making it better, more useful, and more in line with what I need.
 
@@ -42,8 +40,7 @@ Working on Mi Snap takes a lot of time, but it’s a passion. I do it because I 
 
 If you want to feel more fulfilled and happy, start a long-term project. Make it something that excites you, something that you’ll want to wake up for. It doesn’t have to be perfect, and it doesn’t have to be for anyone else but you. The important thing is to start, to keep going, and to let your project grow with you.
 
-![Laptop and notepad](https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMHByb2plY3RzJTIwbW90aXZhdGlvbiUyMG1lYW5pbmdmdWwlMjB3b3JrfGVufDB8MHx8fDE3NDkzMTQ1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Projects That Make You Jump Out of Bed Every Morning")
-*How to Find Projects That Make You Jump Out of Bed Every Morning - Photo by [Nick Morrison](https://unsplash.com/@nickmorrison) on [Unsplash](https://unsplash.com/photos/macbook-pro-near-white-open-book-FHnnjk1Yj7Y)*
+{{< figure src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMHByb2plY3RzJTIwbW90aXZhdGlvbiUyMG1lYW5pbmdmdWwlMjB3b3JrfGVufDB8MHx8fDE3NDkzMTQ1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Laptop and notepad" title="How to Find Projects That Make You Jump Out of Bed Every Morning" caption="How to Find Projects That Make You Jump Out of Bed Every Morning - Photo by [Nick Morrison](https://unsplash.com/@nickmorrison) on [Unsplash](https://unsplash.com/photos/macbook-pro-near-white-open-book-FHnnjk1Yj7Y)" >}}
 
 ---
 

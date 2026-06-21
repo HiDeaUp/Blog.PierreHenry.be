@@ -12,8 +12,7 @@ original_title = "Mieux utiliser son temps. Ce que j’ai raté"
 source_medium = "https://medium.com/@phenrysay/8e2f039bc00d"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTU4NTk0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build What Matters Without Falling Back on Excuses")
-*How to Build What Matters Without Falling Back on Excuses - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTU4NTk0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Build What Matters Without Falling Back on Excuses" caption="How to Build What Matters Without Falling Back on Excuses - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 We all want to get things done quickly. We want to go straight to the point, reach our goals, and see our projects come to life. Whether you’re building something online, starting a business, working on your studies, or even learning a new skill like sewing or a sport, you need a clear action plan to avoid giving up halfway.
 
@@ -23,8 +22,7 @@ That’s why Monday mornings at the office feel so tough, especially if you’re
 
 This pattern applies to your personal projects too. Even if you’re working on something just for yourself, there will be tough moments. Sometimes, you lose motivation or start doubting yourself. Your days begin to reflect that doubt. The same goes for reading. I recommend making reading a daily habit, even if it’s just a little bit. Personally, I like to read before bed. In the morning, I tackle tasks that require the most effort because that’s when I’m most alert and focused. I have the most energy and can give my best.
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTU4NTk0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build What Matters Without Falling Back on Excuses")
-*How to Build What Matters Without Falling Back on Excuses - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTU4NTk0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Build What Matters Without Falling Back on Excuses" caption="How to Build What Matters Without Falling Back on Excuses - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 By the evening, I’m more tired, and mental load builds up as the day goes on. Maybe you’ve received news or had conversations that add to your thoughts, even if they’re positive. This mental load means you have less energy and attention for important tasks.
 
@@ -39,8 +37,7 @@ The best time to start a new habit is today, not tomorrow. There’s no point in
 > *Consistency is what transforms average into excellence.*
 > —Unknown
 
-![Photo by byquincy](https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTU4NTk0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build What Matters Without Falling Back on Excuses")
-*How to Build What Matters Without Falling Back on Excuses - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)*
+{{< figure src="https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTU4NTk0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a clock on a wall" title="How to Build What Matters Without Falling Back on Excuses" caption="How to Build What Matters Without Falling Back on Excuses - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)" >}}
 
 > *You don’t have to be extreme, just consistent.*
 > —Unknown

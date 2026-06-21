@@ -12,8 +12,7 @@ original_title = "Comment relativiser - pour vivre plus SIMPLEMENT"
 source_medium = "https://medium.com/@phenrysay/24574d8bd9f0"
 +++
 
-![Rockefeller sky](https://images.unsplash.com/photo-1462774603919-1d8087e62cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzcGVjdGl2ZSUyMHNpbXBsaWNpdHklMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDg3NDUxODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life Without Settling for Less")
-*How to Simplify Life Without Settling for Less - Photo by [Anders Jildén](https://unsplash.com/@andersjilden) on [Unsplash](https://unsplash.com/photos/worms-eye-view-of-brown-building-TZCehSn-T-o)*
+{{< figure src="https://images.unsplash.com/photo-1462774603919-1d8087e62cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzcGVjdGl2ZSUyMHNpbXBsaWNpdHklMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDg3NDUxODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Rockefeller sky" title="How to Simplify Life Without Settling for Less" caption="How to Simplify Life Without Settling for Less - Photo by [Anders Jildén](https://unsplash.com/@andersjilden) on [Unsplash](https://unsplash.com/photos/worms-eye-view-of-brown-building-TZCehSn-T-o)" >}}
 
 One thing I’ve learned about success—or rather, about the perseverance needed to succeed—is that you always have to iterate. It’s not enough to just do something for a week and hope for the best. You have to ask yourself: “Did this actually change anything?” Maybe you tried working a bit differently. Did it really make a difference in your work, in what you set up? Yes or no?
 
@@ -21,8 +20,7 @@ Let’s say you tried marketing a product. You spent $300 on ads. How many users
 
 Perseverance is your best ally, your closest friend. But it’s not just about pushing through blindly. It’s about reflecting: “Okay, I did a good job, I’m happy with myself.” But maybe it wasn’t the best way to do it. Maybe there was a better approach. Satisfaction is great, but the problem with being satisfied is that you might stop trying to go further. You think, “Well, that’s good, it’s perfect, now I can take it easy,” and then you stop moving forward.
 
-![…breathe! For a full size digital copy (6000x4000px RAW+JPG) of this file, or a high quality print, please contact me via instagram: @timothy.j.g, or email: tim@goedhart-lin.nl That file would be free to use for any means except direct reselling (copywrite is included in metadata). When using this free image online: please tag, credit and if you want, follow me on Instagram.](https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzcGVjdGl2ZSUyMHNpbXBsaWNpdHklMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDg3NDUxODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life Without Settling for Less")
-*How to Simplify Life Without Settling for Less - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)*
+{{< figure src="https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzcGVjdGl2ZSUyMHNpbXBsaWNpdHklMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDg3NDUxODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe neon signage" title="How to Simplify Life Without Settling for Less" caption="How to Simplify Life Without Settling for Less - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)" >}}
 
 You need to keep that drive, that urge to push yourself, to always want to do better. It can become an addiction—a good one. If you fall in love with your passion, with what you want to do, it’s powerful. Of course, you shouldn’t overdo it. Too much of anything is bad for you, and if you push too hard, you’ll end up disgusted or burnt out.
 
@@ -37,9 +35,7 @@ The key is to keep moving, keep questioning, and keep improving. Don’t settle 
 
 ---
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzcGVjdGl2ZSUyMHNpbXBsaWNpdHklMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDg3NDUxODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life Without Settling for Less")
-*How to Simplify Life Without Settling for Less - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzcGVjdGl2ZSUyMHNpbXBsaWNpdHklMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDg3NDUxODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Simplify Life Without Settling for Less" caption="How to Simplify Life Without Settling for Less - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ## Key Takeaways
 - Always iterate and question your process.

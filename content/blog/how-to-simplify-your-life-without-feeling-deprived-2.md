@@ -12,8 +12,7 @@ original_title = "La vérité sur la simplicité 🙏"
 source_medium = "https://medium.com/@phenrysay/0020e3c12ae3"
 +++
 
-![Anchored in Tranquility: A White Boat Bow on Dark Navy Water](https://images.unsplash.com/photo-1681026143189-cc780f4c7939?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU1ODU4NTkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Your Life Without Feeling Deprived")
-*How to Simplify Your Life Without Feeling Deprived - Photo by [Vlad Kutepov](https://unsplash.com/@kvtepov) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-boat-tied-to-a-dock-IDzP88SCICA)*
+{{< figure src="https://images.unsplash.com/photo-1681026143189-cc780f4c7939?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU1ODU4NTkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Anchored in Tranquility: A White Boat Bow on Dark Navy Water" title="How to Simplify Your Life Without Feeling Deprived" caption="How to Simplify Your Life Without Feeling Deprived - Photo by [Vlad Kutepov](https://unsplash.com/@kvtepov) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-boat-tied-to-a-dock-IDzP88SCICA)" >}}
 
 Living simply is one of the most powerful ways to transform your daily life. When you reorganize your routine around simplicity, everything changes. Your perception of life shifts, and you start building a life that truly fits you—a life designed around your needs and desires.
 
@@ -21,8 +20,7 @@ Simplicity isn’t just about having less. It’s about choosing what matters mo
 
 The first step is to think strategically about what’s important to you. What really counts? Once you know your priorities, you can focus on them first and leave less important things for later. When you simplify, you’re essentially clearing out the clutter—removing anything unnecessary or superficial. You keep only the best, the “cream of the crop,” and set aside what weighs you down or annoys you.
 
-![Minimal work From Home Office 3d Render](https://images.unsplash.com/photo-1724422109078-3c837b7a66eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU1ODU4NTkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Your Life Without Feeling Deprived")
-*How to Simplify Your Life Without Feeling Deprived - Photo by [Suleman Serwar](https://unsplash.com/@musi_studio) on [Unsplash](https://unsplash.com/photos/a-chair-and-a-table-in-a-room-dBMgANedFno)*
+{{< figure src="https://images.unsplash.com/photo-1724422109078-3c837b7a66eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU1ODU4NTkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Minimal work From Home Office 3d Render" title="How to Simplify Your Life Without Feeling Deprived" caption="How to Simplify Your Life Without Feeling Deprived - Photo by [Suleman Serwar](https://unsplash.com/@musi_studio) on [Unsplash](https://unsplash.com/photos/a-chair-and-a-table-in-a-room-dBMgANedFno)" >}}
 
 If there are things you can’t remove, delegate, or automate, you can still change how you see them. For example, I used to dislike cleaning. Now, I actually enjoy it because I pair it with listening to an audiobook or a podcast that inspires me. Recently, I listened to Brian Tracy’s “Million Dollar Habits” for the third time while cleaning. Before that, I revisited “Eat That Frog.” I also enjoy Napoleon Hill’s “Outwitting the Devil,” which digs deep into how our perception shapes our problems and our sense of guilt.
 
@@ -38,8 +36,7 @@ Simplicity is about making room for what truly matters and finding joy in the es
 
 ---
 
-![Exterior of a residential building ](https://images.unsplash.com/photo-1594468243603-445ea80ff649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU1ODU4NTkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Your Life Without Feeling Deprived")
-*How to Simplify Your Life Without Feeling Deprived - Photo by [K8](https://unsplash.com/@_k8_) on [Unsplash](https://unsplash.com/photos/white-concrete-building-with-windows-ZfqS-j_GP2M)*
+{{< figure src="https://images.unsplash.com/photo-1594468243603-445ea80ff649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU1ODU4NTkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Exterior of a residential building" title="How to Simplify Your Life Without Feeling Deprived" caption="How to Simplify Your Life Without Feeling Deprived - Photo by [K8](https://unsplash.com/@_k8_) on [Unsplash](https://unsplash.com/photos/white-concrete-building-with-windows-ZfqS-j_GP2M)" >}}
 
 ## Key Takeaways
 - Simplicity starts with knowing your true priorities.

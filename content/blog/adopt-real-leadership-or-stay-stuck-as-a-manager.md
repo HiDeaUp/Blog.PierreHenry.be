@@ -12,10 +12,7 @@ original_title = "Stop Managing, Start Leading: What Makes a Great Lead Enginee"
 source_medium = "https://medium.com/@phenrysay/f62b4602d021"
 +++
 
-![Festive holiday office party in #WindowsUglySweater Softwear by @Windows
-
-](https://images.unsplash.com/photo-1576267422695-a6a97a0e4661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFkZXJzaGlwJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NjcwNTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Real Leadership or Stay Stuck as a Manager")
-*Adopt Real Leadership or Stay Stuck as a Manager - Photo by [Windows](https://unsplash.com/@windows) on [Unsplash](https://unsplash.com/photos/man-wearing-blue-windows-sweater-holding-sticky-note-on-white-board-dUE1NtiIJIA)*
+{{< figure src="https://images.unsplash.com/photo-1576267422695-a6a97a0e4661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFkZXJzaGlwJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NjcwNTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Festive holiday office party in #WindowsUglySweater Softwear by @Windows" title="Adopt Real Leadership or Stay Stuck as a Manager" caption="Adopt Real Leadership or Stay Stuck as a Manager - Photo by [Windows](https://unsplash.com/@windows) on [Unsplash](https://unsplash.com/photos/man-wearing-blue-windows-sweater-holding-sticky-note-on-white-board-dUE1NtiIJIA)" >}}
 
 # Stop Managing, Start Leading: What Makes a Great Lead Engineer
 
@@ -47,8 +44,7 @@ When hiring, I like to ask, instead of “What are your salary expectations?”�
 
 Another question I love: “If I were your manager, what should I know about you to make sure you’re performing at your best?” Maybe you’re bored and I don’t know it. I need to know what keeps you at your best. When motivation drops, you can’t give 100 percent, and that impacts the whole company.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384778-5d9fd77d1617?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFkZXJzaGlwJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NjcwNTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Real Leadership or Stay Stuck as a Manager")
-*Adopt Real Leadership or Stay Stuck as a Manager - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-leader-in-a-word-WrTQZ-sNndI)*
+{{< figure src="https://images.unsplash.com/photo-1705234384778-5d9fd77d1617?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFkZXJzaGlwJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NjcwNTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word leader in a word WrTQZ sNndI" title="Adopt Real Leadership or Stay Stuck as a Manager" caption="Adopt Real Leadership or Stay Stuck as a Manager - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-leader-in-a-word-WrTQZ-sNndI)" >}}
 
 ## The Manager as Work Coach
 
@@ -78,8 +74,7 @@ Think out of the box. Your company is unique—develop your own language, your o
 
 Work on your reputation and know where you want your company to be. Improve every day, step by step. Managing people is complex—everyone is different, and what they tell you isn’t always the truth. In startups, people are more direct. In big companies, it’s harder.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384669-c6d31c61b789?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFkZXJzaGlwJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NjcwNTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Real Leadership or Stay Stuck as a Manager")
-*Adopt Real Leadership or Stay Stuck as a Manager - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-leadership-on-a-wooden-surface-O15WwdkJ-mI)*
+{{< figure src="https://images.unsplash.com/photo-1705234384669-c6d31c61b789?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFkZXJzaGlwJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NjcwNTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word on a wooden surface mI" title="Adopt Real Leadership or Stay Stuck as a Manager" caption="Adopt Real Leadership or Stay Stuck as a Manager - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-leadership-on-a-wooden-surface-O15WwdkJ-mI)" >}}
 
 ## The Vicious Cycle of Bad Codebases
 

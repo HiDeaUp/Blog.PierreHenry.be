@@ -12,8 +12,7 @@ original_title = "Comportement Gagnante: Devenir riche (sans se brûler les aile
 source_medium = "https://medium.com/@phenrysay/c8531c0cda05"
 +++
 
-![Photo by 金 运](https://images.unsplash.com/photo-1579227114496-27346f474519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZpbmFuY2lhbCUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTYwOTA3MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Wealth Without Losing Yourself")
-*How to Build Wealth Without Losing Yourself - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-R2qc9qGVFWI)*
+{{< figure src="https://images.unsplash.com/photo-1579227114496-27346f474519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZpbmFuY2lhbCUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTYwOTA3MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant" title="How to Build Wealth Without Losing Yourself" caption="How to Build Wealth Without Losing Yourself - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-R2qc9qGVFWI)" >}}
 
 Money. We all want to earn more of it, but our reasons are as different as our lives. For some, money means freedom. For others, it brings peace of mind, letting you shop without checking every price tag, eat out without guilt, or travel without counting pennies. Not having to deprive yourself can feel like a victory, but deprivation itself can also be a way of life—a kind of normal that keeps you grounded.
 
@@ -23,8 +22,7 @@ But here’s what really matters: the value you bring to others. Whether it’s 
 
 This isn’t just theory. People do it all the time, whether it’s with bars, restaurants, or other ventures. You can hire a manager or director and simply be the founder and main shareholder. There are so many ways to create value and earn more money. Each of us has something we’re better at than most people, but sometimes it’s right in front of us and we don’t see it. We think it has to be complicated, but often the simplest ideas work best.
 
-![Photo by micheile henderson](https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZpbmFuY2lhbCUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTYwOTA3MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Wealth Without Losing Yourself")
-*How to Build Wealth Without Losing Yourself - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/green-plant-in-clear-glass-vase-ZVprbBmT8QA)*
+{{< figure src="https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZpbmFuY2lhbCUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTYwOTA3MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant in clear glass vase" title="How to Build Wealth Without Losing Yourself" caption="How to Build Wealth Without Losing Yourself - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/green-plant-in-clear-glass-vase-ZVprbBmT8QA)" >}}
 
 Competition can be tough, but it’s also proof that there’s demand. You just have to do things differently. People might choose you because of your story, your charisma, your experience, or your unique skills—things your competitors might not offer. Think about shopping malls: you’ll find dozens of clothing stores selling almost the same thing, sometimes just meters apart. In some countries, you’ll even see two rival supermarkets side by side. In Australia, for example, every shopping center has both a Woolworths and a Coles. They’re direct competitors, but they coexist. Some people shop at one, some at the other, and sometimes they switch for a special deal.
 
@@ -42,8 +40,7 @@ If you’re a freelancer, say in data science, and you’re on a platform like M
 
 ## Key Takeaways
 
-![Photo by micheile henderson](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZpbmFuY2lhbCUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTYwOTA3MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Wealth Without Losing Yourself")
-*How to Build Wealth Without Losing Yourself - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-round-coins-lZ_4nPFKcV8)*
+{{< figure src="https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWFsdGglMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZpbmFuY2lhbCUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NTYwOTA3MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on brown round coins" title="How to Build Wealth Without Losing Yourself" caption="How to Build Wealth Without Losing Yourself - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-round-coins-lZ_4nPFKcV8)" >}}
 
 - Money brings freedom, but only if you know how to handle it.
 - Adding value is the real way to earn more—find the gap and fill it.

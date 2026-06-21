@@ -12,8 +12,7 @@ original_title = "Élaborer sa créativité en réalisant de nouvelles choses"
 source_medium = "https://medium.com/@phenrysay/3b94a678ea3b"
 +++
 
-![Get in the Flow | Instagram: @timmossholder](https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBuZXclMjBleHBlcmllbmNlc3xlbnwwfDB8fHwxNzU1NjM4MTE5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creativity by Doing One New Thing a Day")
-*How to Spark Creativity by Doing One New Thing a Day - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)*
+{{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBuZXclMjBleHBlcmllbmNlc3xlbnwwfDB8fHwxNzU1NjM4MTE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How to Spark Creativity by Doing One New Thing a Day" caption="How to Spark Creativity by Doing One New Thing a Day - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 Have you ever noticed how easy it is to fall into the same routines, day after day? We cook the same meals, walk the same streets, and use the same hand for every task without thinking twice. But what if the secret to a more creative and lively mind was hidden in the small things we haven’t tried yet?
 
@@ -25,8 +24,7 @@ You don’t need to turn your life upside down to feel more creative. Start with
 
 Even something as basic as using your non-dominant hand for daily tasks—like drinking your coffee or holding your spoon—can make a difference. If you’re right-handed, try using your left hand for a few things, and vice versa. The goal isn’t to switch hands for good, but to shake up your habits and wake up your brain.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBuZXclMjBleHBlcmllbmNlc3xlbnwwfDB8fHwxNzU1NjM4MTE5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creativity by Doing One New Thing a Day")
-*How to Spark Creativity by Doing One New Thing a Day - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)*
+{{< figure src="https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBuZXclMjBleHBlcmllbmNlc3xlbnwwfDB8fHwxNzU1NjM4MTE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on a brick wall that says is" title="How to Spark Creativity by Doing One New Thing a Day" caption="How to Spark Creativity by Doing One New Thing a Day - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)" >}}
 
 ## Try Something You’ve Never Done
 
@@ -44,8 +42,7 @@ Don’t close the door on things you might end up loving. Stay curious and make 
 > _The real voyage of discovery consists not in seeking new landscapes, but in having new eyes._  
 — Marcel Proust
 
-![Photo by Leonifel Ramirez](https://images.unsplash.com/photo-1676937949123-db0cf2c924d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBuZXclMjBleHBlcmllbmNlc3xlbnwwfDB8fHwxNzU1NjM4MTE5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creativity by Doing One New Thing a Day")
-*How to Spark Creativity by Doing One New Thing a Day - Photo by [Leonifel Ramirez](https://unsplash.com/@leonifel_13) on [Unsplash](https://unsplash.com/photos/a-woman-is-painting-on-an-easel-in-a-field-5zo-7_qGav8)*
+{{< figure src="https://images.unsplash.com/photo-1676937949123-db0cf2c924d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBuZXclMjBleHBlcmllbmNlc3xlbnwwfDB8fHwxNzU1NjM4MTE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman is on an easel in a field 5zo 7_qGav8" title="How to Spark Creativity by Doing One New Thing a Day" caption="How to Spark Creativity by Doing One New Thing a Day - Photo by [Leonifel Ramirez](https://unsplash.com/@leonifel_13) on [Unsplash](https://unsplash.com/photos/a-woman-is-painting-on-an-easel-in-a-field-5zo-7_qGav8)" >}}
 
 ---
 

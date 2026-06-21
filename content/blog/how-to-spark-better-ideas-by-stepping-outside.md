@@ -10,8 +10,7 @@ original_title = "Privilégier les bons environnements 🌲"
 source_medium = "https://medium.com/@phenrysay/04bfceaa741a"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1598476793884-0e7afd57b92e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMGNyZWF0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjYzNTM0NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Better Ideas by Stepping Outside")
-*How to Spark Better Ideas by Stepping Outside - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/red-and-white-no-smoking-sign-FrGQr9eQcVM)*
+{{< figure src="https://images.unsplash.com/photo-1598476793884-0e7afd57b92e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMGNyZWF0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjYzNTM0NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Red and white no smoking sign" title="How to Spark Better Ideas by Stepping Outside" caption="How to Spark Better Ideas by Stepping Outside - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/red-and-white-no-smoking-sign-FrGQr9eQcVM)" >}}
 
 Have you ever noticed how your mood shifts when you step outside on a beautiful day? The sky is clear, the sun is shining, and suddenly, everything feels lighter. There’s something special about being outdoors, especially in a pleasant environment. Whether you’re working, taking a break, or simply enjoying your weekend, being in the right place can make all the difference.
 
@@ -19,8 +18,7 @@ It’s easy to overlook the impact of our surroundings. We often spend time in p
 
 This isn’t just about comfort. When you spend time in environments you enjoy, your creativity gets a real boost. Sunlight, for example, is known to spark new ideas and help you think more clearly. Nature, even if it’s just a few plants or some wooden furniture, can trick your brain into feeling more relaxed and inspired. Even if the greenery isn’t real, your mind often treats it as if it is, and you feel better than you would surrounded by concrete and cold walls.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705313381827-bb166b463daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMGNyZWF0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjYzNTM0NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Better Ideas by Stepping Outside")
-*How to Spark Better Ideas by Stepping Outside - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-creativity-on-a-wooden-surface-eu9VJxIsU74)*
+{{< figure src="https://images.unsplash.com/photo-1705313381827-bb166b463daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMGNyZWF0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjYzNTM0NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles on a wooden surface" title="How to Spark Better Ideas by Stepping Outside" caption="How to Spark Better Ideas by Stepping Outside - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-creativity-on-a-wooden-surface-eu9VJxIsU74)" >}}
 
 Once you experience the benefits of a great environment, you might wonder why you didn’t seek out these places sooner. You start to notice more and more spots that could become your new favorite corners. Each discovery opens up new possibilities for creativity and happiness.
 
@@ -38,8 +36,7 @@ It’s worth making the effort to find and spend time in places that make you fe
 
 ## Key Takeaways
 
-![Notebook with leaves and pencils](https://images.unsplash.com/photo-1694187061288-55ff6e03187f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMGNyZWF0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjYzNTM0NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Better Ideas by Stepping Outside")
-*How to Spark Better Ideas by Stepping Outside - Photo by [Jo Anaya](https://unsplash.com/@jsnapshots) on [Unsplash](https://unsplash.com/photos/an-open-notebook-with-pencils-and-markers-G68iZaqtmYc)*
+{{< figure src="https://images.unsplash.com/photo-1694187061288-55ff6e03187f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMGNyZWF0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjYzNTM0NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Notebook with leaves and pencils" title="How to Spark Better Ideas by Stepping Outside" caption="How to Spark Better Ideas by Stepping Outside - Photo by [Jo Anaya](https://unsplash.com/@jsnapshots) on [Unsplash](https://unsplash.com/photos/an-open-notebook-with-pencils-and-markers-G68iZaqtmYc)" >}}
 
 - *Choose environments that make you feel good and inspire you.*
 - *Nature and sunlight can boost your creativity and mood.*

@@ -12,9 +12,7 @@ original_title = "Peut-on bien vivre ? Explication dans cette vidéo !"
 source_medium = "https://medium.com/@phenrysay/fb5d9bae3541"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, quote, words, type, typography, design, layout, keep it fun, fun, enjoy life, lighten up, yolo, carpe diem, seize the day, 
-](https://images.unsplash.com/photo-1607428122566-dc5486d692bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmdWxmaWxsbWVudCUyMHdlbGxiZWluZyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NjEwOTI1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Fully Without Chasing Endless Thrills")
-*How to Live Fully Without Chasing Endless Thrills - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-lpiOG9ar7bw)*
+{{< figure src="https://images.unsplash.com/photo-1607428122566-dc5486d692bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmdWxmaWxsbWVudCUyMHdlbGxiZWluZyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NjEwOTI1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Live Fully Without Chasing Endless Thrills" caption="How to Live Fully Without Chasing Endless Thrills - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-lpiOG9ar7bw)" >}}
 
 ### Life is too short not to live it fully
 
@@ -28,8 +26,7 @@ Start by grabbing a notebook and imagining your ideal life. Picture the way you 
 
 A truly good life is one that is sustainable and can be repeated over time. It should give you leverage, meaning you can live from your passion, earn money, and then use that money to do even more—maybe invest, maybe help others. That’s when life starts to feel meaningful. You realize you have a real purpose, and that changes everything.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmdWxmaWxsbWVudCUyMHdlbGxiZWluZyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NjEwOTI1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Fully Without Chasing Endless Thrills")
-*How to Live Fully Without Chasing Endless Thrills - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
+{{< figure src="https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmdWxmaWxsbWVudCUyMHdlbGxiZWluZyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NjEwOTI1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface WpoS C209uk" title="How to Live Fully Without Chasing Endless Thrills" caption="How to Live Fully Without Chasing Endless Thrills - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)" >}}
 
 If you want to go even further in improving your daily life, start by imagining your story. Think about your own "life constitution"—the rules you want to live by. These are your foundations, your base. They help you decide what you want to accept and what you want to avoid. For example, if you know you don’t want to be tied down by certain obligations, or you don’t want to commit to things that will make you feel guilty later, write that down. Sometimes people ask for favors, like mowing their lawn on a Sunday afternoon, and you say yes just to be nice. But if you know this kind of commitment will make you uncomfortable, it’s okay to say no. Protecting your time and energy is important.
 
@@ -45,8 +42,7 @@ Life is too short to waste on things that don’t make you happy. The beauty of 
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, get over it, move on, press on, don't mope, mither not, no regrets, start again, learn from your mistakes, mindfulness, life will not wait, keep going, take initiative, be a self starter, do it now, don't wait forever, procrastination, excuses, don't make excuses, ](https://images.unsplash.com/photo-1621329507764-4f9c873225dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdWxmaWxsbWVudCUyMHdlbGxiZWluZyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NjEwOTI1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Fully Without Chasing Endless Thrills")
-*How to Live Fully Without Chasing Endless Thrills - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-jrEOH5LQZMw)*
+{{< figure src="https://images.unsplash.com/photo-1621329507764-4f9c873225dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdWxmaWxsbWVudCUyMHdlbGxiZWluZyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NjEwOTI1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Live Fully Without Chasing Endless Thrills" caption="How to Live Fully Without Chasing Endless Thrills - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-jrEOH5LQZMw)" >}}
 
 ## Key Takeaways
 - Imagine your ideal life and write it down.

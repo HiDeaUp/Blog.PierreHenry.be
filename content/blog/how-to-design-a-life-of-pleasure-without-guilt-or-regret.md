@@ -12,8 +12,7 @@ original_title = "Plaisir de Vie (les règles à savoir)"
 source_medium = "https://medium.com/@phenrysay/4fd9ecfbe882"
 +++
 
-![Photo by Maria Oswalt](https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGVzaWduJTIwcGxlYXN1cmUlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTYwODYzNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Design a Life of Pleasure Without Guilt or Regret")
-*How to Design a Life of Pleasure Without Guilt or Regret - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)*
+{{< figure src="https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGVzaWduJTIwcGxlYXN1cmUlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTYwODYzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow life printed balloon" title="How to Design a Life of Pleasure Without Guilt or Regret" caption="How to Design a Life of Pleasure Without Guilt or Regret - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)" >}}
 
 When we talk about pleasure in life, we often think of fleeting moments or small joys. But what if pleasure could be the foundation of your entire lifestyle? I recently met a Frenchman who didn’t enjoy his life in France. He decided to move to Thailand, and now, after more than ten years there, he’s opened a restaurant, married a local woman, and absolutely loves his life. His story is a reminder that sometimes, to find real pleasure, you have to make bold choices.
 
@@ -25,8 +24,7 @@ Remote work has changed the game. If you can work online for a company based in 
 
 The key is to design your life around what brings you pleasure. Maybe you dream of running a beach club, living on a Mediterranean island, or working as a freelance video editor for YouTubers and influencers. Start small. Build your reputation, gain some recognition, and then you can branch out—maybe write a book or try something new. Step by step, you can shape the life you’ve always wanted.
 
-![In frame - a cup with the quotes " Happiness is having a younger brother who is taller than you".](https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZGVzaWduJTIwcGxlYXN1cmUlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTYwODYzNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Design a Life of Pleasure Without Guilt or Regret")
-*How to Design a Life of Pleasure Without Guilt or Regret - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)*
+{{< figure src="https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZGVzaWduJTIwcGxlYXN1cmUlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTYwODYzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="In frame - a cup with the quotes &quot; Happiness is having a younger brother who is taller than you&quot;." title="How to Design a Life of Pleasure Without Guilt or Regret" caption="How to Design a Life of Pleasure Without Guilt or Regret - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)" >}}
 
 Personally, I prefer working from a coworking space rather than my apartment. It gives me a clear separation between work and home, and the air conditioning is a lifesaver during hot days. Even though my company is based in Sydney, I often visit the office to see my colleagues. Maybe one day I’ll move to Sydney, even though it’s one of the most expensive cities in the world. It’s the same in the UK—London pays well, but it’s very expensive. Some people live in Scotland and work for London-based companies, enjoying the best of both worlds.
 
@@ -46,8 +44,7 @@ The lesson is simple: design your life for pleasure, on your own terms. Think ab
 
 ## Key Takeaways
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZGVzaWduJTIwcGxlYXN1cmUlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTYwODYzNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Design a Life of Pleasure Without Guilt or Regret")
-*How to Design a Life of Pleasure Without Guilt or Regret - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)*
+{{< figure src="https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZGVzaWduJTIwcGxlYXN1cmUlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTYwODYzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black happy card" title="How to Design a Life of Pleasure Without Guilt or Regret" caption="How to Design a Life of Pleasure Without Guilt or Regret - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)" >}}
 
 - *Design your life around what brings you real pleasure, not just what’s expected.*
 - *Consider earning in a strong currency if you want the freedom to travel.*

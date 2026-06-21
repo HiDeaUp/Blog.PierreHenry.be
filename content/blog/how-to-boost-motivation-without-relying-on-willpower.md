@@ -12,8 +12,7 @@ original_title = "Motivation et Inspiration : Comment Atteindre ses objectifs ?"
 source_medium = "https://medium.com/@phenrysay/8c035d29bb3d"
 +++
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzQ5MzU0NTIwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Motivation Without Relying on Willpower")
-*How to Boost Motivation Without Relying on Willpower - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzQ5MzU0NTIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Boost Motivation Without Relying on Willpower" caption="How to Boost Motivation Without Relying on Willpower - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 Motivation and inspiration are often seen as two separate things, but in reality, they feed off each other. When you’re inspired by something, you naturally become motivated because you feel passionate. And when you’re motivated, you start to find inspiration everywhere. It’s a cycle that can either lift you up or leave you stuck, depending on how you manage it.
 
@@ -23,8 +22,7 @@ Think about countries that make entrepreneurship easier. People often say, “Su
 
 The good news? You can create this kind of environment for yourself. Sometimes, it’s as simple as putting on the right playlist to boost your mood and energy. I’ve often found myself at a party, loving the atmosphere, feeling like anything is possible. Then I go home, and it’s silent, gray, and I’m back in front of that blank wall. How can you expect to feel the same motivation and inspiration in both places? Sometimes, you just need to change your location to find the right energy.
 
-![I need your help.](https://images.unsplash.com/photo-1607634308634-e07a262d3d7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzQ5MzU0NTIwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Motivation Without Relying on Willpower")
-*How to Boost Motivation Without Relying on Willpower - Photo by [Rainer Bleek](https://unsplash.com/@brain1966) on [Unsplash](https://unsplash.com/photos/text-8kWZyDfLNAo)*
+{{< figure src="https://images.unsplash.com/photo-1607634308634-e07a262d3d7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzQ5MzU0NTIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="I need your help." title="How to Boost Motivation Without Relying on Willpower" caption="How to Boost Motivation Without Relying on Willpower - Photo by [Rainer Bleek](https://unsplash.com/@brain1966) on [Unsplash](https://unsplash.com/photos/text-8kWZyDfLNAo)" >}}
 
 Right now, I’m sitting somewhere beautiful—surrounded by nature, looking out over a stunning bay. I love sitting here, reading, writing, just soaking in the view. It’s not the best spot for deep work on my laptop (the wind and lack of power outlets make that tricky), but it’s perfect for creativity, inspiration, or solving a tough problem. When I need to focus deeply, I go to a coworking space or a library. I used to spend a lot of time at Pyrmont in Sydney, near Darling Harbour, or at Hub Australia in Melbourne. These places are designed for focus, and being around other people who are working hard helps me stay on track.
 
@@ -39,8 +37,7 @@ I believe in you. Even if you’ve taken every course out there, there’s alway
 
 The best time to take action is now. Start improving your environment and your habits today. Sit somewhere that inspires you, even if it’s just for a few minutes. You’ll feel the difference.
 
-![White neon wallpaper](https://images.unsplash.com/photo-1496449903678-68ddcb189a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzQ5MzU0NTIwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Motivation Without Relying on Willpower")
-*How to Boost Motivation Without Relying on Willpower - Photo by [Austin Chan](https://unsplash.com/@austinchan) on [Unsplash](https://unsplash.com/photos/this-is-the-sign-youve-been-looking-for-neon-signage-ukzHlkoz1IE)*
+{{< figure src="https://images.unsplash.com/photo-1496449903678-68ddcb189a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzQ5MzU0NTIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White neon wallpaper" title="How to Boost Motivation Without Relying on Willpower" caption="How to Boost Motivation Without Relying on Willpower - Photo by [Austin Chan](https://unsplash.com/@austinchan) on [Unsplash](https://unsplash.com/photos/this-is-the-sign-youve-been-looking-for-neon-signage-ukzHlkoz1IE)" >}}
 
 ---
 

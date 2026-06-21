@@ -12,8 +12,7 @@ original_title = "DEVENIR UNE VERSION PLUS FORTE DE TOI-MÊME 💪"
 source_medium = "https://medium.com/@phenrysay/259da49c831c"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaW5uZXIlMjBzdHJlbmd0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NjUxNzgwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Stronger by Letting Go of Others’ Opinions")
-*How to Grow Stronger by Letting Go of Others’ Opinions - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaW5uZXIlMjBzdHJlbmd0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NjUxNzgwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How to Grow Stronger by Letting Go of Others’ Opinions" caption="How to Grow Stronger by Letting Go of Others’ Opinions - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 There are days when emotions seem to come out of nowhere. You might feel a bit down, without really knowing why. It’s strange, because life deserves to be lived fully, to be used to its potential. There are so many things you can do, so many ways you can make a difference—if you really want to.
 
@@ -25,8 +24,7 @@ But here’s the thing: you have to separate your business life from your person
 
 Sometimes, we’re sensitive for our loved ones, or even for comments from strangers. That’s normal when it comes from people close to us. But when it’s from someone outside our circle—a random person on the street or a salesperson—it’s important to build a kind of armor. Otherwise, you risk letting one negative interaction ruin your whole day, week, or even longer.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, christian, jesus, mark, gospel, greatest commandment, heart, soul, mind, strength, love the lord, love god, ](https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaW5uZXIlMjBzdHJlbmd0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NjUxNzgwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Stronger by Letting Go of Others’ Opinions")
-*How to Grow Stronger by Letting Go of Others’ Opinions - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)*
+{{< figure src="https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaW5uZXIlMjBzdHJlbmd0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NjUxNzgwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles the words heart soul mind and" title="How to Grow Stronger by Letting Go of Others’ Opinions" caption="How to Grow Stronger by Letting Go of Others’ Opinions - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)" >}}
 
 Ask yourself: why let someone who barely knows you bring you down? Their opinion doesn’t define you. It’s important to draw a line between what matters and what doesn’t. Life is short, and it’s meant to be enjoyed. You should focus on what you want to achieve, on making your days count.
 
@@ -42,8 +40,7 @@ It’s so human to feel this way. When things go wrong, we tend to expect the wo
 > *“Your value doesn’t decrease based on someone’s inability to see your worth.”*  
 — Unknown
 
-![Young woman in the Anza Borrego Desert.](https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaW5uZXIlMjBzdHJlbmd0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NjUxNzgwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Stronger by Letting Go of Others’ Opinions")
-*How to Grow Stronger by Letting Go of Others’ Opinions - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)*
+{{< figure src="https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaW5uZXIlMjBzdHJlbmd0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NjUxNzgwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Young woman in the Anza Borrego Desert." title="How to Grow Stronger by Letting Go of Others’ Opinions" caption="How to Grow Stronger by Letting Go of Others’ Opinions - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)" >}}
 
 ---
 

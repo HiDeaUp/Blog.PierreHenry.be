@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/1ab88d906b5e"
 source_youtube = "https://www.youtube.com/watch?v=_ZEhP-xJf3Q"
 +++
 
-![My creative desk setup.](https://images.unsplash.com/photo-1585924015977-32fd3839c21f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrZmxvdyUyMHByb2R1Y3Rpdml0eSUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NjgyMTkwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Work Feel Like Play Without Morning Dread")
-*How to Make Work Feel Like Play Without Morning Dread - Photo by [Milena Trifonova](https://unsplash.com/@milenatrifonova) on [Unsplash](https://unsplash.com/photos/white-and-blue-ceramic-mug-beside-black-and-silver-laptop-computer-on-white-table-0fkT8OJRofQ)*
+{{< figure src="https://images.unsplash.com/photo-1585924015977-32fd3839c21f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrZmxvdyUyMHByb2R1Y3Rpdml0eSUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NjgyMTkwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="My creative desk setup." title="How to Make Work Feel Like Play Without Morning Dread" caption="How to Make Work Feel Like Play Without Morning Dread - Photo by [Milena Trifonova](https://unsplash.com/@milenatrifonova) on [Unsplash](https://unsplash.com/photos/white-and-blue-ceramic-mug-beside-black-and-silver-laptop-computer-on-white-table-0fkT8OJRofQ)" >}}
 
 There’s a special moment in the morning when you’re about to start your day’s work. Maybe you’ve made yourself a cup of tea, your computer is ready, and you feel set to be productive. But have you ever noticed how the word “work” itself can feel heavy? In Latin, “work” comes from “tripalium,” which literally means torture. It’s the same in Spanish with “trabajo.” Historically, work was something forced on people, often unpleasant, even painful.
 
@@ -30,8 +29,7 @@ Even the most boring tasks can be approached in a new way. There’s always a di
 
 The key is to have fun with what you do. If you don’t enjoy your work, that’s when it really starts to feel like torture. But if you see each task as a new opportunity, it can give you a fresh perspective and a new sense of purpose. Maybe the task itself doesn’t seem fun at first, but you can always find a way to make it more pleasant or interesting.
 
-![Man drinking a cup of coffee on a laptop. Young man drinks coffee. More of my photos and videos Adobe Stock:http://bit.ly/3RqlciK More of my photos and videos Shutterstock: https://www.shutterstock.com/g/ALEKSANDRBERDYUGIN My email: bermix999@gmail.com](https://images.unsplash.com/photo-1673865641439-bb57a00d9305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrZmxvdyUyMHByb2R1Y3Rpdml0eSUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NjgyMTkwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Work Feel Like Play Without Morning Dread")
-*How to Make Work Feel Like Play Without Morning Dread - Photo by [Bermix Studio](https://unsplash.com/@bermixstudio) on [Unsplash](https://unsplash.com/photos/a-man-drinking-a-cup-of-coffee-while-using-a-laptop-pJFnESA-YWI)*
+{{< figure src="https://images.unsplash.com/photo-1673865641439-bb57a00d9305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrZmxvdyUyMHByb2R1Y3Rpdml0eSUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NjgyMTkwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man a cup of coffee while using a laptop pJFnESA YWI" title="How to Make Work Feel Like Play Without Morning Dread" caption="How to Make Work Feel Like Play Without Morning Dread - Photo by [Bermix Studio](https://unsplash.com/@bermixstudio) on [Unsplash](https://unsplash.com/photos/a-man-drinking-a-cup-of-coffee-while-using-a-laptop-pJFnESA-YWI)" >}}
 
 Changing your perception is powerful. It’s like in relationships: sometimes, it’s not the other person who has changed, but your view of them. Maybe there was a misunderstanding, or you’re more stressed, and suddenly your feelings shift. Taking a step back can help you see things differently. The same goes for work. Ask yourself if there’s a better way to do something, or a way to make it more enjoyable.
 
@@ -55,8 +53,7 @@ The most important thing is to keep an open mind. Try new things, change your en
 >
 > — Aristotle
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrZmxvdyUyMHByb2R1Y3Rpdml0eSUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NjgyMTkwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Work Feel Like Play Without Morning Dread")
-*How to Make Work Feel Like Play Without Morning Dread - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrZmxvdyUyMHByb2R1Y3Rpdml0eSUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NjgyMTkwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Work Feel Like Play Without Morning Dread" caption="How to Make Work Feel Like Play Without Morning Dread - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ---
 

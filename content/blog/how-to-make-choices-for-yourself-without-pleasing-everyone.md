@@ -12,8 +12,7 @@ original_title = "COMMENT NE PLUS SE LAISSER FAIRE ? CE QUE TU FAIS A-T-IL DU SE
 source_medium = "https://medium.com/@phenrysay/4077a5058d82"
 +++
 
-![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJvdW5kYXJpZXMlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1Mzg1NTM0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Choices for Yourself WITHOUT Pleasing Everyone")
-*How to Make Choices for Yourself WITHOUT Pleasing Everyone - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)*
+{{< figure src="https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJvdW5kYXJpZXMlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1Mzg1NTM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden framed gray wooden door" title="How to Make Choices for Yourself WITHOUT Pleasing Everyone" caption="How to Make Choices for Yourself WITHOUT Pleasing Everyone - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)" >}}
 
 We often talk about the “laws of nature,” but what does that really mean for us as humans? At its core, it’s about psychology—our feelings, our instincts, and the way we react emotionally to the world around us. We are emotional beings, and that’s not a flaw. In fact, it’s what makes us human. Most of the time, reacting emotionally is perfectly fine, even necessary. But sometimes, our emotions can trick us, leading us down paths that aren’t always in our best interest.
 
@@ -25,8 +24,7 @@ So, what’s the answer? Always listen to yourself. Ask yourself: Is this the ri
 
 The more we question ourselves, the more energy it takes. Making decisions can be exhausting. Every choice drains a bit of our energy. But sometimes, we need to pause and ask: What’s really good for me? Is this the best choice for my life, my future, my happiness? Or am I just trying to fit in, to be accepted, to avoid conflict?
 
-![Photo by Pawel Czerwinski](https://images.unsplash.com/photo-1620067278260-b69624a5db6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJvdW5kYXJpZXMlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1Mzg1NTM0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Choices for Yourself WITHOUT Pleasing Everyone")
-*How to Make Choices for Yourself WITHOUT Pleasing Everyone - Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/photos/text-p7wf5nG8dr0)*
+{{< figure src="https://images.unsplash.com/photo-1620067278260-b69624a5db6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJvdW5kYXJpZXMlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1Mzg1NTM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Make Choices for Yourself WITHOUT Pleasing Everyone" caption="How to Make Choices for Yourself WITHOUT Pleasing Everyone - Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/photos/text-p7wf5nG8dr0)" >}}
 
 It’s easy to fall into the trap of living for others, of making choices that aren’t really ours. But at the end of the day, your life is yours. You have to make choices that are right for you, not for anyone else. It’s as simple as that.
 
@@ -47,8 +45,7 @@ Remember, the best time to act is now. Don’t put off what you know you need to
 - *Making decisions can be tiring, but it’s worth it if they’re truly yours.*
 - *Your life belongs to you—make it count.*
 
-![Photo by Alex Duffy](https://images.unsplash.com/photo-1564967387132-952baa0d4782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJvdW5kYXJpZXMlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1Mzg1NTM0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Choices for Yourself WITHOUT Pleasing Everyone")
-*How to Make Choices for Yourself WITHOUT Pleasing Everyone - Photo by [Alex Duffy](https://unsplash.com/@some_random_guy) on [Unsplash](https://unsplash.com/photos/man-standing-on-wooden-dock-beside-seashore-during-daytime-_RdlZrVKeWQ)*
+{{< figure src="https://images.unsplash.com/photo-1564967387132-952baa0d4782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJvdW5kYXJpZXMlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1Mzg1NTM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man on wooden dock beside during daytime" title="How to Make Choices for Yourself WITHOUT Pleasing Everyone" caption="How to Make Choices for Yourself WITHOUT Pleasing Everyone - Photo by [Alex Duffy](https://unsplash.com/@some_random_guy) on [Unsplash](https://unsplash.com/photos/man-standing-on-wooden-dock-beside-seashore-during-daytime-_RdlZrVKeWQ)" >}}
 
 ## Action Steps
 

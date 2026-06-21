@@ -12,8 +12,7 @@ original_title = "🛁 Les environnements de travail 🙃"
 source_medium = "https://medium.com/@phenrysay/1b9d57406e0b"
 +++
 
-![Photo by Alfred Rowe](https://images.unsplash.com/photo-1561886287-2a8f20905b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBjcmVhdGl2aXR5JTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU2NTA1NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creativity Without Leaving Your Bathtub")
-*How to Spark Creativity Without Leaving Your Bathtub - Photo by [Alfred Rowe](https://unsplash.com/@nukturnal) on [Unsplash](https://unsplash.com/photos/black-and-gray-laptop-computer-FVWTUOIUZd8)*
+{{< figure src="https://images.unsplash.com/photo-1561886287-2a8f20905b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBjcmVhdGl2aXR5JTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU2NTA1NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and gray laptop" title="How to Spark Creativity Without Leaving Your Bathtub" caption="How to Spark Creativity Without Leaving Your Bathtub - Photo by [Alfred Rowe](https://unsplash.com/@nukturnal) on [Unsplash](https://unsplash.com/photos/black-and-gray-laptop-computer-FVWTUOIUZd8)" >}}
 
 Have you ever noticed how certain places make you feel more at ease, more inspired, or simply more yourself? I’m writing this from my bathtub, letting the water run, because there’s something about this sound and setting that helps my thoughts flow. It’s not just about comfort; it’s about finding those environments that allow you to tap into your true potential.
 
@@ -21,8 +20,7 @@ We all have a huge amount of potential inside us. I like to think of it as a min
 
 Some people find their best ideas in a sauna, a hot bath, or even just sitting quietly with a good scent in the air. These moments of relaxation aren’t just about feeling good—they’re about creating space for your mind to wander, to connect ideas, and to let your creativity shine. Stress and the wrong environment can block your abilities and make it hard to access your unique strengths.
 
-![Photo by John Feng](https://images.unsplash.com/photo-1708412703638-27fc2a4ca5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBjcmVhdGl2aXR5JTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU2NTA1NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creativity Without Leaving Your Bathtub")
-*How to Spark Creativity Without Leaving Your Bathtub - Photo by [John Feng](https://unsplash.com/@johncff) on [Unsplash](https://unsplash.com/photos/a-chair-sitting-in-a-room-next-to-a-brick-wall-uYaT8EcxA-A)*
+{{< figure src="https://images.unsplash.com/photo-1708412703638-27fc2a4ca5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBjcmVhdGl2aXR5JTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU2NTA1NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A chair sitting in a room next to a brick wall A" title="How to Spark Creativity Without Leaving Your Bathtub" caption="How to Spark Creativity Without Leaving Your Bathtub - Photo by [John Feng](https://unsplash.com/@johncff) on [Unsplash](https://unsplash.com/photos/a-chair-sitting-in-a-room-next-to-a-brick-wall-uYaT8EcxA-A)" >}}
 
 For me, writing in the bath is a treat. I also love jacuzzis, massages, and saunas. Even painting or spending time in beautiful public places can be inspiring. Sometimes, just being in the mountains helps me think deeply and discover new ideas. I often bring my tablet, especially my favorite one called Remarkable, which is less distracting than an iPad. It lets me write freely, even if I’m surrounded by bubbles or sitting in the grass.
 
@@ -38,8 +36,7 @@ The key is to find the places that make you feel good, that help you think clear
 > *“Your mind is a garden. Your thoughts are the seeds. You can grow flowers or you can grow weeds.”*  
 — Anonymous
 
-![Central Dispatch](https://images.unsplash.com/photo-1509483730228-811e47696246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBjcmVhdGl2aXR5JTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU2NTA1NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creativity Without Leaving Your Bathtub")
-*How to Spark Creativity Without Leaving Your Bathtub - Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-computer-monitor-ymuAM4S2fxI)*
+{{< figure src="https://images.unsplash.com/photo-1509483730228-811e47696246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBjcmVhdGl2aXR5JTIwcmVsYXhhdGlvbnxlbnwwfDB8fHwxNzU2NTA1NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Central Dispatch" title="How to Spark Creativity Without Leaving Your Bathtub" caption="How to Spark Creativity Without Leaving Your Bathtub - Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-computer-monitor-ymuAM4S2fxI)" >}}
 
 ---
 

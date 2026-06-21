@@ -12,8 +12,7 @@ original_title = "Comment prendre le contrôle sur son temps ?"
 source_medium = "https://medium.com/@phenrysay/ad4195e1579b"
 +++
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MDkxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Back Your Time Without Endless Research")
-*How to Take Back Your Time Without Endless Research - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MDkxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Take Back Your Time Without Endless Research" caption="How to Take Back Your Time Without Endless Research - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 Have you ever noticed how easy it is to get lost in research? You start with one simple question, but soon you’re jumping from one search to another. You look up a keyword, then something else pops into your mind. Suddenly, you remember another thing you need to check. You verify this, you don’t find that, and some websites are so confusing you end up opening several search engines or even AI chat platforms. Hours pass—one, two, three—and at the end, you feel like you haven’t accomplished much. The truth is, you probably haven’t. You’ve just been researching.
 
@@ -21,8 +20,7 @@ Sometimes, the answer you need is as simple as sending an email or making a quic
 
 When night falls and you realize you’ve barely done what matters, it’s frustrating. So what can you do? One method that has helped me is “time boxing.” This means setting a fixed amount of time for each task. For example, give yourself 20 minutes—set a timer—to do a specific search. If you don’t find what you need in that time, move on. Call someone, send an email, or do something else, but don’t keep searching. You made a commitment: 20 minutes, not more.
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MDkxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Back Your Time Without Endless Research")
-*How to Take Back Your Time Without Endless Research - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MDkxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Take Back Your Time Without Endless Research" caption="How to Take Back Your Time Without Endless Research - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 Using this strategy helps you save time because you’re not letting one task spill over into the time you need for other things. Maybe you want to spend time with your family, call your parents, or just relax. If you let research drag on, it will take over everything else. So, give yourself half an hour for a task. If you don’t finish, move on to the next thing you planned for your day. Your day only has 24 hours, and you can’t stretch it. Don’t work as if your time is unlimited, because it isn’t.
 
@@ -36,8 +34,7 @@ Time boxing isn’t just for research. It works for reading, writing, or any act
 
 If you want to go even further in managing your time and building better habits, I’ve put together a deep-dive workshop on time management, productivity, happiness, minimalism, and building a strong foundation for your days. But for now, remember: your time is precious. Treat it that way.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MDkxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Back Your Time Without Endless Research")
-*How to Take Back Your Time Without Endless Research - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MDkxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Take Back Your Time Without Endless Research" caption="How to Take Back Your Time Without Endless Research - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 ---
 

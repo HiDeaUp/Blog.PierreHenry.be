@@ -12,8 +12,7 @@ original_title = "ACCOMPLIR : Pourquoi n'arrives-tu pas à réaliser ce qui te t
 source_medium = "https://medium.com/@phenrysay/a7e58683e5f0"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NDM1MzExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Waiting Another Day")
-*How to Build a Life You Love Without Waiting Another Day - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NDM1MzExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Build a Life You Love Without Waiting Another Day" caption="How to Build a Life You Love Without Waiting Another Day - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 We all have so many things we could do, so many things we could accomplish. That’s the beauty of life—it offers us endless possibilities and opportunities to act, to make our dreams real. Each day is a fresh chance to do something new, something that matters to us. Every morning, we get another shot at doing something big, something that excites us, something that makes us feel alive.
 
@@ -23,8 +22,7 @@ For me, I love learning. I love discovering new things. I love creating projects
 
 What about you? What’s that thing for you? Maybe it’s baking rum babas or strawberry charlottes, or maybe it’s starting projects like I do. Maybe it’s playing football, learning a new language, jogging, taking care of your pet, or just petting your cat. We all have something we love to do, something we love to make real.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NDM1MzExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Waiting Another Day")
-*How to Build a Life You Love Without Waiting Another Day - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NDM1MzExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Build a Life You Love Without Waiting Another Day" caption="How to Build a Life You Love Without Waiting Another Day - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 In the end, the real beauty and purpose of life is to be happy. There’s no need to play the game of chasing the most prestigious degrees, the fanciest jobs, just to impress people who don’t even matter to you. The only person you need to impress is yourself—yourself from yesterday.
 
@@ -39,8 +37,7 @@ Even just saying to yourself in the mirror, “Today will be a great day. I’m 
 
 And it doesn’t matter how old you are. Even if you’re 60, life doesn’t just stop. We’re all young or old in our own way, but age doesn’t have to stop you. Sure, you might feel more tired as you get older, but you can still say, “I’m 80, and I still have things I want to do.” Even if you haven’t done much yet, there’s still time.
 
-![Activity Tracker Goal Achieved](https://images.unsplash.com/photo-1654195131868-cac1d8429d86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NDM1MzExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Waiting Another Day")
-*How to Build a Life You Love Without Waiting Another Day - Photo by [James Orr](https://unsplash.com/@orrbarone) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-persons-wrist-with-a-watch-on-it-E99lndzGTYQ)*
+{{< figure src="https://images.unsplash.com/photo-1654195131868-cac1d8429d86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NDM1MzExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Activity Tracker Goal Achieved" title="How to Build a Life You Love Without Waiting Another Day" caption="How to Build a Life You Love Without Waiting Another Day - Photo by [James Orr](https://unsplash.com/@orrbarone) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-persons-wrist-with-a-watch-on-it-E99lndzGTYQ)" >}}
 
 ---
 

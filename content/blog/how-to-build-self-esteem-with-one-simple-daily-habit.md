@@ -12,8 +12,7 @@ original_title = "Comment devenir meilleur ? 🥇"
 source_medium = "https://medium.com/@phenrysay/1110fbbe1147"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2NDE2NTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Esteem With One Simple Daily Habit")
-*How to Build Self-Esteem With One Simple Daily Habit - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2NDE2NTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Build Self-Esteem With One Simple Daily Habit" caption="How to Build Self-Esteem With One Simple Daily Habit - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Have you ever wondered why some people seem to get so much more out of their day than others? We all have the same 24 hours, yet the difference in what we achieve can be huge. The secret often lies in how we use our time, and more importantly, how we reflect on it.
 
@@ -21,8 +20,7 @@ One idea that has changed my life is to see every day as a series of opportuniti
 
 This isn’t about being hard on yourself. It’s about being honest and curious. Maybe you spent three hours on something. Was it worth it? Could you have used that time for something that would have made a bigger difference? Did you waste time waiting, or get lost scrolling through social media? Or did you invest it in something that truly mattered to you?
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2NDE2NTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Esteem With One Simple Daily Habit")
-*How to Build Self-Esteem With One Simple Daily Habit - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2NDE2NTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Build Self-Esteem With One Simple Daily Habit" caption="How to Build Self-Esteem With One Simple Daily Habit - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Try checking in with yourself every few hours. For example, every three hours, ask: *How did I use my time? Was it meaningful? Could I have done better?* The interval doesn’t matter as much as the habit of regular reflection. This simple question can help you spot patterns, make small adjustments, and gradually improve the quality of your days.
 
@@ -40,8 +38,7 @@ If you want to build self-esteem, focus on improving yourself, day by day. Don�
 
 By making small, regular improvements and reflecting on your choices, you’ll find yourself growing in confidence and satisfaction. Every day becomes a chance to become a little better than before.
 
-![Alarm clock friends situation with hand](https://images.unsplash.com/photo-1495364141860-b0d03eccd065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2NDE2NTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Esteem With One Simple Daily Habit")
-*How to Build Self-Esteem With One Simple Daily Habit - Photo by [Lukas Blazek](https://unsplash.com/@goumbik) on [Unsplash](https://unsplash.com/photos/person-holding-white-mini-bell-alarmclock-UAvYasdkzq8)*
+{{< figure src="https://images.unsplash.com/photo-1495364141860-b0d03eccd065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2NDE2NTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alarm clock friends situation with hand" title="How to Build Self-Esteem With One Simple Daily Habit" caption="How to Build Self-Esteem With One Simple Daily Habit - Photo by [Lukas Blazek](https://unsplash.com/@goumbik) on [Unsplash](https://unsplash.com/photos/person-holding-white-mini-bell-alarmclock-UAvYasdkzq8)" >}}
 
 ---
 

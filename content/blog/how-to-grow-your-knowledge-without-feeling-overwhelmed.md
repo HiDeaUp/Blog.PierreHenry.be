@@ -10,8 +10,7 @@ original_title = "Élever ses connaissances"
 source_medium = "https://medium.com/@phenrysay/f6a02c76ee26"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTQyMDAyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Knowledge Without Feeling Overwhelmed")
-*How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)*
+{{< figure src="https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTQyMDAyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Grow Your Knowledge Without Feeling Overwhelmed" caption="How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)" >}}
 
 Learning is something that has always been close to my heart. The idea of raising your knowledge isn’t just a nice-to-have—it’s essential for everyone, especially now. We never really finish learning, and keeping up a steady pace of curiosity is one of the best things you can do for yourself.
 
@@ -29,8 +28,7 @@ My daily routine includes reading the newspaper, not just the politics section b
 
 Books are still the best way to go deep into a subject. Unlike short articles, a book is structured and reliable. You can mark pages, come back to them, and really take your time. Political books and biographies are also great for understanding the world and developing your critical thinking.
 
-![Photo by Tu Tran Anh](https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTQyMDAyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Knowledge Without Feeling Overwhelmed")
-*How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)*
+{{< figure src="https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTQyMDAyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a bench with plants growing out of it" title="How to Grow Your Knowledge Without Feeling Overwhelmed" caption="How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)" >}}
 
 > _The mind is not a vessel to be filled, but a fire to be kindled._
 > — Plutarch
@@ -54,8 +52,7 @@ Sometimes we put off reading a book or visiting an exhibition, telling ourselves
 
 I used to watch low-quality videos that didn’t bring me much, and I felt bad about it. Now, I only choose content that teaches me something in my field, and I feel so much better. I don’t see it as a waste of time anymore. Instead, I feel more confident, more interesting, and able to connect with people who share my interests.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384679-119488a72a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTQyMDAyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Knowledge Without Feeling Overwhelmed")
-*How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabbled-letters-spelling-growth-on-a-wooden-surface-0m-iXOA5wBo)*
+{{< figure src="https://images.unsplash.com/photo-1705234384679-119488a72a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTQyMDAyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Letters growth on a wooden surface 0m" title="How to Grow Your Knowledge Without Feeling Overwhelmed" caption="How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabbled-letters-spelling-growth-on-a-wooden-surface-0m-iXOA5wBo)" >}}
 
 > _Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family._
 > — Kofi Annan

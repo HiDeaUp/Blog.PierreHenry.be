@@ -12,9 +12,7 @@ original_title = "Comment ne plus se laisser encombrer par ses pensées"
 source_medium = "https://medium.com/@phenrysay/8464666bd14e"
 +++
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGRlY2x1dHRlcmluZyUyMG1pbmltYWxpc218ZW58MHwwfHx8MTc1NjUxOTk2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Overthinking")
-*How to Clear Mental Clutter Without Overthinking - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGRlY2x1dHRlcmluZyUyMG1pbmltYWxpc218ZW58MHwwfHx8MTc1NjUxOTk2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Clear Mental Clutter Without Overthinking" caption="How to Clear Mental Clutter Without Overthinking - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ### Clear Your Mind, Clear Your Life
 
@@ -28,8 +26,7 @@ When we let these thoughts take over, they drain our energy and ruin our days. T
 
 By learning to put your worries on hold, you’ll free up space in your mind. Suddenly, you’ll have more mental energy for what really matters. Instead of letting your mind get crowded with useless worries, you can use that space for your own goals and dreams.
 
-![man and nature](https://images.unsplash.com/photo-1625579041727-d0c565eaac31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGRlY2x1dHRlcmluZyUyMG1pbmltYWxpc218ZW58MHwwfHx8MTc1NjUxOTk2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Overthinking")
-*How to Clear Mental Clutter Without Overthinking - Photo by [Sandip Karangiya](https://unsplash.com/@mr_karangia) on [Unsplash](https://unsplash.com/photos/man-sitting-on-concrete-bench-near-body-of-water-HxhjeYDclC4)*
+{{< figure src="https://images.unsplash.com/photo-1625579041727-d0c565eaac31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGRlY2x1dHRlcmluZyUyMG1pbmltYWxpc218ZW58MHwwfHx8MTc1NjUxOTk2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="man and nature" title="How to Clear Mental Clutter Without Overthinking" caption="How to Clear Mental Clutter Without Overthinking - Photo by [Sandip Karangiya](https://unsplash.com/@mr_karangia) on [Unsplash](https://unsplash.com/photos/man-sitting-on-concrete-bench-near-body-of-water-HxhjeYDclC4)" >}}
 
 Think of it like cleaning out a closet. When you throw away what you don’t need, you make room for what’s truly important. The same goes for your thoughts. Every time you catch yourself spiraling into “what ifs” or imaginary problems, remind yourself that these worries don’t exist yet. Put them aside and focus on what you can actually control.
 
@@ -41,8 +38,7 @@ This shift won’t happen in a day. It takes daily effort and a bit of stubbornn
 > *“Worry is like a rocking chair: it gives you something to do but gets you nowhere.”*  
 — Erma Bombeck
 
-![render with Taitopia Render](https://images.unsplash.com/photo-1700709678022-8e0c4767434e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGRlY2x1dHRlcmluZyUyMG1pbmltYWxpc218ZW58MHwwfHx8MTc1NjUxOTk2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Overthinking")
-*How to Clear Mental Clutter Without Overthinking - Photo by [Taitopia Render](https://unsplash.com/@taitopiarender) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-table-d84kZacg3tc)*
+{{< figure src="https://images.unsplash.com/photo-1700709678022-8e0c4767434e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGRlY2x1dHRlcmluZyUyMG1pbmltYWxpc218ZW58MHwwfHx8MTc1NjUxOTk2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="render with Taitopia Render" title="How to Clear Mental Clutter Without Overthinking" caption="How to Clear Mental Clutter Without Overthinking - Photo by [Taitopia Render](https://unsplash.com/@taitopiarender) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-table-d84kZacg3tc)" >}}
 
 ---
 

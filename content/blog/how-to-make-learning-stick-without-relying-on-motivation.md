@@ -12,8 +12,7 @@ original_title = "Voici comment MIEUX apprendre. Technique des ACQUIS"
 source_medium = "https://medium.com/@phenrysay/07ba46ef756e"
 +++
 
-![UK COVID-19 Home Test kit next to teenage boy who feels unwell](https://images.unsplash.com/photo-1606295834251-36d654991797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHRlY2huaXF1ZXMlMjBzdHVkeSUyMGhhYml0cyUyMG1lbW9yeSUyMHJldGVudGlvbnxlbnwwfDB8fHwxNzU1NTc5NDI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Learning Stick Without Relying on Motivation")
-*How to Make Learning Stick Without Relying on Motivation - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/boy-in-gray-hoodie-reading-book-on-brown-wooden-table-A9WQ-pHeeIU)*
+{{< figure src="https://images.unsplash.com/photo-1606295834251-36d654991797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHRlY2huaXF1ZXMlMjBzdHVkeSUyMGhhYml0cyUyMG1lbW9yeSUyMHJldGVudGlvbnxlbnwwfDB8fHwxNzU1NTc5NDI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="UK COVID-19 Home Test kit next to teenage boy who feels unwell" title="How to Make Learning Stick Without Relying on Motivation" caption="How to Make Learning Stick Without Relying on Motivation - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/boy-in-gray-hoodie-reading-book-on-brown-wooden-table-A9WQ-pHeeIU)" >}}
 
 Learning isn’t just about cramming facts or chasing motivation. If you want to really grow, you need a method that fits into your life, works every day, and helps you remember what matters. That’s where the ACQUIS technique comes in—a simple approach to learning that’s all about routine, action, and making knowledge last.
 
@@ -34,8 +33,7 @@ The most important part of learning is putting it into action. If you read about
 
 If you only keep knowledge in your short-term memory, it fades fast. But when you use it, teach it, and repeat it, it moves into your long-term memory. That’s how you remember things for years, not just weeks.
 
-![Jellyfish](https://images.unsplash.com/photo-1594289563350-6d2472cdae58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHRlY2huaXF1ZXMlMjBzdHVkeSUyMGhhYml0cyUyMG1lbW9yeSUyMHJldGVudGlvbnxlbnwwfDB8fHwxNzU1NTc5NDI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Learning Stick Without Relying on Motivation")
-*How to Make Learning Stick Without Relying on Motivation - Photo by [Edoardo Prando](https://unsplash.com/@phrando) on [Unsplash](https://unsplash.com/photos/blue-jellyfish-in-blue-water-aJb4phPvDAk)*
+{{< figure src="https://images.unsplash.com/photo-1594289563350-6d2472cdae58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHRlY2huaXF1ZXMlMjBzdHVkeSUyMGhhYml0cyUyMG1lbW9yeSUyMHJldGVudGlvbnxlbnwwfDB8fHwxNzU1NTc5NDI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Jellyfish" title="How to Make Learning Stick Without Relying on Motivation" caption="How to Make Learning Stick Without Relying on Motivation - Photo by [Edoardo Prando](https://unsplash.com/@phrando) on [Unsplash](https://unsplash.com/photos/blue-jellyfish-in-blue-water-aJb4phPvDAk)" >}}
 
 ## Make Learning a Daily Habit
 
@@ -62,8 +60,7 @@ Try out different techniques and see what works for you. Maybe meditation helps 
 
 ## Practical Examples
 
-![A digital artwork depicting the synergy between the human brain and artificial intelligence (AI). Featuring futuristic visuals, the metallic, liquid-like brain exudes sophistication, surrounded by electronic circuit patterns symbolizing connectivity and technological evolution. This piece represents a future where AI and humanity collaborate to create limitless innovation.](https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHRlY2huaXF1ZXMlMjBzdHVkeSUyMGhhYml0cyUyMG1lbW9yeSUyMHJldGVudGlvbnxlbnwwfDB8fHwxNzU1NTc5NDI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Learning Stick Without Relying on Motivation")
-*How to Make Learning Stick Without Relying on Motivation - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_jg8xh2SsXQ)*
+{{< figure src="https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHRlY2huaXF1ZXMlMjBzdHVkeSUyMGhhYml0cyUyMG1lbW9yeSUyMHJldGVudGlvbnxlbnwwfDB8fHwxNzU1NTc5NDI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A circuit board with a brain on it" title="How to Make Learning Stick Without Relying on Motivation" caption="How to Make Learning Stick Without Relying on Motivation - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_jg8xh2SsXQ)" >}}
 
 - **Better Sleep:** Try blackout curtains, a sleep mask, cooler room temperature, or changing your pillow. Test what helps you sleep best.
 - **Breathing Techniques:** Use the 4-4-4 triangle method—inhale for 4 seconds, hold for 4, exhale for 4. Or try 4-7-8: inhale for 4, hold for 7, exhale for 8. Practice daily and see how you feel.

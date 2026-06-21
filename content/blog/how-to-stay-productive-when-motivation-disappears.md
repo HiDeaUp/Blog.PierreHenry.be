@@ -12,8 +12,7 @@ original_title = "Manque de motivation: Ce qu'il faut FAIRE"
 source_medium = "https://medium.com/@phenrysay/dfcefaa43501"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU2MDA4Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Productive When Motivation Disappears")
-*How to Stay Productive When Motivation Disappears - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU2MDA4Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Stay Productive When Motivation Disappears" caption="How to Stay Productive When Motivation Disappears - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Motivation is a fragile thing. When you feel motivated, everything seems easier. You get more done, you have more energy, and you’re ready to take on new challenges. But when motivation disappears, even getting out of bed can feel like climbing a mountain. That’s why finding and keeping your motivation is so important.
 
@@ -27,8 +26,7 @@ If you want to achieve something, do it now. When you feel today is the right da
 
 Having the right mindset is key. Surround yourself with positive people, listen to inspiring stories, and feed your mind with things that push you forward. Sometimes, just hearing someone else’s journey can give you the push you need. But remember, motivation can fade quickly. When you feel it, use it as fuel to accelerate your progress, just like a rocket uses its energy at launch.
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU2MDA4Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Productive When Motivation Disappears")
-*How to Stay Productive When Motivation Disappears - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU2MDA4Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Stay Productive When Motivation Disappears" caption="How to Stay Productive When Motivation Disappears - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 Habits help you keep going when motivation drops, but sometimes you’ll break your routine. If you stop, it’s much harder to start again. That’s why consistency is so important. Even when you don’t feel like it, doing a little bit each day keeps the chain alive.
 
@@ -49,8 +47,7 @@ If you feel stuck, try changing your environment or your approach. There’s alw
 > *Perseverance is not a long race; it is many short races one after the other.*
 > — Walter Elliot
 
-![lisbon, run, stair steps, man running, sport](https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU2MDA4Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Productive When Motivation Disappears")
-*How to Stay Productive When Motivation Disappears - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)*
+{{< figure src="https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU2MDA4Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="lisbon, run, stair steps, man running, sport" title="How to Stay Productive When Motivation Disappears" caption="How to Stay Productive When Motivation Disappears - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Se construire des instants de tranquillité & paix"
 source_medium = "https://medium.com/@phenrysay/c6b0f6fdb4b6"
 +++
 
-![Buddhist Monk sotting meditation ](https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZSUyMGlubmVyJTIwcGVhY2V8ZW58MHwwfHx8MTc1NjUwODA0OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping Your Busy Life")
-*How to Find Calm Without Escaping Your Busy Life - Photo by [TONG KBP](https://unsplash.com/@2023kbp) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-rock-by-a-river-0J8G8NhmkSU)*
+{{< figure src="https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZSUyMGlubmVyJTIwcGVhY2V8ZW58MHwwfHx8MTc1NjUwODA0OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Buddhist Monk sotting meditation" title="How to Find Calm Without Escaping Your Busy Life" caption="How to Find Calm Without Escaping Your Busy Life - Photo by [TONG KBP](https://unsplash.com/@2023kbp) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-rock-by-a-river-0J8G8NhmkSU)" >}}
 
 When everything around you feels stressful, it’s easy to forget that you can still find moments of calm. The world keeps spinning, tasks pile up, and suddenly, you realize you’re no longer present. You’re not really here, not enjoying the little wonders life offers every day.
 
@@ -21,8 +20,7 @@ Stress has a way of pulling us out of the present. We get so caught up in what n
 
 But here’s a gentle reminder: you can pause. You can take a deep breath, filling your lungs and letting your belly rise. Inhale, exhale. This simple act helps you slow down, rest, and reconnect with yourself. It’s a way to rediscover a softer rhythm, to bring back a bit of joy and pleasure from the simple things.
 
-![Photo by Emrecan Dora](https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZSUyMGlubmVyJTIwcGVhY2V8ZW58MHwwfHx8MTc1NjUwODA0OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping Your Busy Life")
-*How to Find Calm Without Escaping Your Busy Life - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)*
+{{< figure src="https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZSUyMGlubmVyJTIwcGVhY2V8ZW58MHwwfHx8MTc1NjUwODA0OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a log in the woods Zi" title="How to Find Calm Without Escaping Your Busy Life" caption="How to Find Calm Without Escaping Your Busy Life - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)" >}}
 
 I truly wish you the best on this journey. Remember, peace isn’t something you have to chase far away. It’s right here, waiting for you in the present moment.
 

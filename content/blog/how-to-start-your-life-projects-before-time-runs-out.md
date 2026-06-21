@@ -12,8 +12,7 @@ original_title = "PROJETS DE VIE... avant qu’il ne soit trop tard"
 source_medium = "https://medium.com/@phenrysay/27af324b16aa"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTU4NTk0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Life Projects Before Time Runs Out")
-*How to Start Your Life Projects Before Time Runs Out - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTU4NTk0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Start Your Life Projects Before Time Runs Out" caption="How to Start Your Life Projects Before Time Runs Out - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Most of us live as if our time is endless. We tell ourselves we’ll get to our dreams and projects later, once we have more time or more money. But the truth is, life is short. We underestimate how quickly the days slip by. We think we have all the time in the world to do what matters, so we push things off, telling ourselves, “Not today. I have bills to pay, chores to do, urgent things to handle.” Yet, most of these “urgent” things aren’t truly important to us.
 
@@ -29,8 +28,7 @@ There’s a saying I love:
 
 — *Unknown*
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTU4NTk0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Life Projects Before Time Runs Out")
-*How to Start Your Life Projects Before Time Runs Out - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTU4NTk0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Start Your Life Projects Before Time Runs Out" caption="How to Start Your Life Projects Before Time Runs Out - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 The only real limits are the ones we set for ourselves. Our beliefs, shaped by our upbringing, religion, environment, and past experiences, can hold us back. But in reality, anything is possible if we push past these mental barriers.
 
@@ -50,8 +48,7 @@ Every day, do something—no matter how small—that brings you closer to your g
 
 — *Unknown*
 
-![Mint message](https://images.unsplash.com/photo-1617046774731-b2c14cc8c377?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTU4NTk0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Life Projects Before Time Runs Out")
-*How to Start Your Life Projects Before Time Runs Out - Photo by [Madhuri Mohite](https://unsplash.com/@madhurimohite) on [Unsplash](https://unsplash.com/photos/brown-wooden-quote-board-on-white-wall-ElXQPv8wupQ)*
+{{< figure src="https://images.unsplash.com/photo-1617046774731-b2c14cc8c377?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTU4NTk0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mint message" title="How to Start Your Life Projects Before Time Runs Out" caption="How to Start Your Life Projects Before Time Runs Out - Photo by [Madhuri Mohite](https://unsplash.com/@madhurimohite) on [Unsplash](https://unsplash.com/photos/brown-wooden-quote-board-on-white-wall-ElXQPv8wupQ)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Pourquoi tout le monde devrait s'exercer à créer des choses�
 source_medium = "https://medium.com/@phenrysay/8031f7032003"
 +++
 
-![Get in the Flow | Instagram: @timmossholder](https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTYwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Anything Without Letting Doubt Stop You")
-*How to Create Anything Without Letting Doubt Stop You - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)*
+{{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTYwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How to Create Anything Without Letting Doubt Stop You" caption="How to Create Anything Without Letting Doubt Stop You - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 There’s something truly magical about creating things. Whether it’s building, writing, drawing, or simply coming up with new ideas, the act of making something out of nothing is a power we all have. Yet, so few of us actually use it. Why is that?
 
@@ -30,8 +29,7 @@ To break free, you have to leave the beaten path. Otherwise, you’ll feel trapp
 
 I spend my days and nights sharing everything I can to help others break these barriers. For me, it’s a mission, something that makes me feel alive. You should find what makes you feel alive, too. When you do, you can design your life without limits. Anything is possible if you want it badly enough. Intense desire opens doors you never knew existed.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740560052722-12abf8819817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTYwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Anything Without Letting Doubt Stop You")
-*How to Create Anything Without Letting Doubt Stop You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-create-on-a-table-ubtxFiv6Q6s)*
+{{< figure src="https://images.unsplash.com/photo-1740560052722-12abf8819817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTYwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word create on a table" title="How to Create Anything Without Letting Doubt Stop You" caption="How to Create Anything Without Letting Doubt Stop You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-create-on-a-table-ubtxFiv6Q6s)" >}}
 
 Even in daily routines, we fall into patterns. Take brushing your teeth, for example. Most people use a regular brush, but our teeth are more complex than that. Some spots are impossible to reach with just a brush. You need floss, maybe other tools. My own toothbrush has a bow tie on it—my mom made it for me. My girlfriend’s has a necklace instead. It’s a small thing, but it’s different, and it makes me smile.
 
@@ -50,8 +48,7 @@ So, remove your limits. If you want to go even further, keep learning. The most 
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTYwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Anything Without Letting Doubt Stop You")
-*How to Create Anything Without Letting Doubt Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTYwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Create Anything Without Letting Doubt Stop You" caption="How to Create Anything Without Letting Doubt Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 ## Key Takeaways
 

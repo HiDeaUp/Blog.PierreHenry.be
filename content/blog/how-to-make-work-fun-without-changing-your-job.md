@@ -12,8 +12,7 @@ original_title = "Toujours prendre du plaisir dans son travail en changeant sa p
 source_medium = "https://medium.com/@phenrysay/02d6aae01ae4"
 +++
 
-![Photo by Jack Baxter](https://images.unsplash.com/photo-1733923248508-961a7eaac42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwcGVyc3BlY3RpdmUlMjBzaGlmdCUyMHdvcmslMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTUyOTgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Work Fun Without Changing Your Job")
-*How to Make Work Fun Without Changing Your Job - Photo by [Jack Baxter](https://unsplash.com/@jb_baxter) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-at-a-table-in-a-restaurant-a9895AdKjsA)*
+{{< figure src="https://images.unsplash.com/photo-1733923248508-961a7eaac42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwcGVyc3BlY3RpdmUlMjBzaGlmdCUyMHdvcmslMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTUyOTgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting at a table in a" title="How to Make Work Fun Without Changing Your Job" caption="How to Make Work Fun Without Changing Your Job - Photo by [Jack Baxter](https://unsplash.com/@jb_baxter) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-at-a-table-in-a-restaurant-a9895AdKjsA)" >}}
 
 Many people see work as a chore, something to get through before they can enjoy themselves. But what if you could turn your work—whether you’re an employee or a freelancer—into something that feels more like a game, or at least something pleasant? It’s not about quitting your job or making huge changes. The secret is much simpler: change your environment, mix up your activities, and reward yourself along the way.
 
@@ -29,8 +28,7 @@ Don’t just change your location—change what you’re doing throughout the da
 
 Rewards aren’t just for kids. After finishing a task, treat yourself. Maybe it’s a frappuccino from Starbucks, a nice dinner out, or buying something small online. These little pleasures give you something to look forward to and make the work feel worthwhile.
 
-![Photo by Michele Minetto](https://images.unsplash.com/photo-1544966412-796c9443a830?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwcGVyc3BlY3RpdmUlMjBzaGlmdCUyMHdvcmslMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTUyOTgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Work Fun Without Changing Your Job")
-*How to Make Work Fun Without Changing Your Job - Photo by [Michele Minetto](https://unsplash.com/@michele_minetto) on [Unsplash](https://unsplash.com/photos/grayscale-photography-of-man-sitting-in-front-of-wooden-desk-OyDn9XBIEkE)*
+{{< figure src="https://images.unsplash.com/photo-1544966412-796c9443a830?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwcGVyc3BlY3RpdmUlMjBzaGlmdCUyMHdvcmslMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTUyOTgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of man sitting in front of wooden desk" title="How to Make Work Fun Without Changing Your Job" caption="How to Make Work Fun Without Changing Your Job - Photo by [Michele Minetto](https://unsplash.com/@michele_minetto) on [Unsplash](https://unsplash.com/photos/grayscale-photography-of-man-sitting-in-front-of-wooden-desk-OyDn9XBIEkE)" >}}
 
 ## Mix Work and Pleasure
 
@@ -54,8 +52,7 @@ Transforming your environment doesn’t have to be complicated. Small changes—
 > 
 > — Marcel Proust
 
-![Photo by Danny De Vylder](https://images.unsplash.com/photo-1620474924139-c68beddc1850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwcGVyc3BlY3RpdmUlMjBzaGlmdCUyMHdvcmslMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTUyOTgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Work Fun Without Changing Your Job")
-*How to Make Work Fun Without Changing Your Job - Photo by [Danny De Vylder](https://unsplash.com/@dannydv) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-glass-window-JbVzz5oKrcs)*
+{{< figure src="https://images.unsplash.com/photo-1620474924139-c68beddc1850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwcGVyc3BlY3RpdmUlMjBzaGlmdCUyMHdvcmslMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU1NTUyOTgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of glass window" title="How to Make Work Fun Without Changing Your Job" caption="How to Make Work Fun Without Changing Your Job - Photo by [Danny De Vylder](https://unsplash.com/@dannydv) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-glass-window-JbVzz5oKrcs)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Comment accomplir rapidement ce qui doit être fait pour SOI ?
 source_medium = "https://medium.com/@phenrysay/cfff255d9e84"
 +++
 
-![Man climbing during summer](https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMG92ZXJjb21pbmctb2JzdGFjbGVzfGVufDB8MHx8fDE3NTU0MjQwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward When You Feel Stuck—Starting Now")
-*How to Move Forward When You Feel Stuck—Starting Now - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)*
+{{< figure src="https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMG92ZXJjb21pbmctb2JzdGFjbGVzfGVufDB8MHx8fDE3NTU0MjQwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man climbing during summer" title="How to Move Forward When You Feel Stuck—Starting Now" caption="How to Move Forward When You Feel Stuck—Starting Now - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)" >}}
 
 Sometimes, we feel frustrated or trapped, like we’re stuck in a tunnel with no exit in sight. It’s easy to believe there’s no way out, especially when life gets tough—maybe you’re short on money, struggling with your health, or just can’t see a way forward. But there is always a way out. The key is to remind yourself: *What can I do right now, with what I have, to move forward?*
 
@@ -28,8 +27,7 @@ Ask yourself: *What can I do today?* What tools, habits, or people do I have in 
 - Surround yourself with positive people who lift you up, not toxic ones who drag you down.
 - Take care of your body: eat well, sleep well, and look after your health so you have the energy to work on your projects.
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMG92ZXJjb21pbmctb2JzdGFjbGVzfGVufDB8MHx8fDE3NTU0MjQwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward When You Feel Stuck—Starting Now")
-*How to Move Forward When You Feel Stuck—Starting Now - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMG92ZXJjb21pbmctb2JzdGFjbGVzfGVufDB8MHx8fDE3NTU0MjQwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Move Forward When You Feel Stuck—Starting Now" caption="How to Move Forward When You Feel Stuck—Starting Now - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 ## The Myth of “Later”
 
@@ -51,8 +49,7 @@ Work on your ability to manage your time, handle surprises, deal with stress, an
 
 Don’t wait for the perfect moment when everything aligns. That moment will never come. The best day is today. Don’t put off what you want to do. Start now, even if it’s just a small step.
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMG92ZXJjb21pbmctb2JzdGFjbGVzfGVufDB8MHx8fDE3NTU0MjQwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward When You Feel Stuck—Starting Now")
-*How to Move Forward When You Feel Stuck—Starting Now - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMG92ZXJjb21pbmctb2JzdGFjbGVzfGVufDB8MHx8fDE3NTU0MjQwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Move Forward When You Feel Stuck—Starting Now" caption="How to Move Forward When You Feel Stuck—Starting Now - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 > *Small daily improvements are the key to staggering long-term results.*
 >

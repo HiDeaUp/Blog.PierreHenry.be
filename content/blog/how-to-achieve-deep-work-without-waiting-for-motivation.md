@@ -12,8 +12,7 @@ original_title = "DEEP Work != Motivation. Ce que tu dois ABSOLUMENT SAVOIR !"
 source_medium = "https://medium.com/@phenrysay/5e1589975444"
 +++
 
-![Central Dispatch](https://images.unsplash.com/photo-1509483730228-811e47696246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWVwJTIwd29yayUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjQxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Deep Work WITHOUT Waiting for Motivation")
-*How to Achieve Deep Work WITHOUT Waiting for Motivation - Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-computer-monitor-ymuAM4S2fxI)*
+{{< figure src="https://images.unsplash.com/photo-1509483730228-811e47696246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWVwJTIwd29yayUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjQxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Central Dispatch" title="How to Achieve Deep Work WITHOUT Waiting for Motivation" caption="How to Achieve Deep Work WITHOUT Waiting for Motivation - Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-computer-monitor-ymuAM4S2fxI)" >}}
 
 When we talk about focus, most people imagine a burst of motivation, a sudden urge to work, or a magical flow state that just happens. But the truth is, deep work isn’t about waiting for motivation to strike. It’s about creating the right environment and routines that make focus almost automatic.
 
@@ -25,8 +24,7 @@ Instead, use your break to relax: walk your dog, pet your cat, or just stretch y
 
 To keep myself on track, I use a Pomodoro timer app called Focus. It’s simple: 25 minutes of work, then a short break. You can use any timer, really. The important thing is to fully immerse yourself in your task during those work periods.
 
-![Photo by HamZa NOUASRIA](https://images.unsplash.com/photo-1613579837498-8bacefa78f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWVwJTIwd29yayUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjQxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Deep Work WITHOUT Waiting for Motivation")
-*How to Achieve Deep Work WITHOUT Waiting for Motivation - Photo by [HamZa NOUASRIA](https://unsplash.com/@hamza01nsr) on [Unsplash](https://unsplash.com/photos/white-and-red-ceramic-mug-LSxzFxsDqo4)*
+{{< figure src="https://images.unsplash.com/photo-1613579837498-8bacefa78f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWVwJTIwd29yayUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjQxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and red ceramic mug" title="How to Achieve Deep Work WITHOUT Waiting for Motivation" caption="How to Achieve Deep Work WITHOUT Waiting for Motivation - Photo by [HamZa NOUASRIA](https://unsplash.com/@hamza01nsr) on [Unsplash](https://unsplash.com/photos/white-and-red-ceramic-mug-LSxzFxsDqo4)" >}}
 
 But what happens after your sprint? This is where planning comes in. Have a clear plan for your day, so you know exactly what to do after each work session. Don’t leave it up to chance, or you’ll end up wasting time deciding what’s next.
 
@@ -46,8 +44,7 @@ The bottom line: Deep work isn’t about waiting for motivation. It’s about bu
 
 ## Key Takeaways
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWVwJTIwd29yayUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjQxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Deep Work WITHOUT Waiting for Motivation")
-*How to Achieve Deep Work WITHOUT Waiting for Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWVwJTIwd29yayUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjQxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Achieve Deep Work WITHOUT Waiting for Motivation" caption="How to Achieve Deep Work WITHOUT Waiting for Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 - Deep work is about environment and routine, not motivation.
 - Isolate yourself in a space optimized for focus.

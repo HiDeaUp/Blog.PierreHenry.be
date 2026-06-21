@@ -12,8 +12,7 @@ original_title = "Pourquoi faut-il bien dormir ? Ce que tu ignores peut-être ..
 source_medium = "https://medium.com/@phenrysay/94ae7ff3ed80"
 +++
 
-![healing hands](https://images.unsplash.com/photo-1515377905703-c4788e51af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzbGVlcCUyMGhlYWx0aCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzQ5NDA3MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity Without Losing Sleep")
-*How to Boost Productivity Without Losing Sleep - Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/photos/person-holding-amber-glass-bottle-0MoF-Fe0w0A)*
+{{< figure src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzbGVlcCUyMGhlYWx0aCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzQ5NDA3MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="healing hands" title="How to Boost Productivity Without Losing Sleep" caption="How to Boost Productivity Without Losing Sleep - Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/photos/person-holding-amber-glass-bottle-0MoF-Fe0w0A)" >}}
 
 Let me be honest: I just woke up from a nap, and it got me thinking about how we often treat sleep. Sometimes, we get frustrated about having to sleep at all. There are nights when we’d rather do anything but go to bed. Maybe you want to be more productive, challenge yourself, or just do something different—so you push your bedtime later and later. Maybe you even pull an all-nighter or two, convinced you’re getting ahead.
 
@@ -21,8 +20,7 @@ But here’s the catch: after those sleepless nights, your brain slows down. You
 
 It’s easy to fall into this cycle. You push your sleep schedule, feel more tired, and then try to push it even more, thinking you’ll catch up later. But the truth is, your performance drops, your focus slips, and you start wondering why things that used to be easy now feel so hard. The answer is simple: your sleep has been disrupted.
 
-![Put together all of my favorite eats on one plate. Because, as much as I adore the kids homemade pancakes, a bowl of fresh fruit is what I really want for Mother’s Day.](https://images.unsplash.com/photo-1494390248081-4e521a5940db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbGVlcCUyMGhlYWx0aCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzQ5NDA3MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity Without Losing Sleep")
-*How to Boost Productivity Without Losing Sleep - Photo by [Brooke Lark](https://unsplash.com/@brookelark) on [Unsplash](https://unsplash.com/photos/black-and-red-cherries-on-white-bowl-nTZOILVZuOg)*
+{{< figure src="https://images.unsplash.com/photo-1494390248081-4e521a5940db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbGVlcCUyMGhlYWx0aCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzQ5NDA3MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Put together all of my favorite eats on one plate. Because, as much as I adore the kids homemade pancakes, a bowl of fresh fruit is what I really want for Mother’s Day." title="How to Boost Productivity Without Losing Sleep" caption="How to Boost Productivity Without Losing Sleep - Photo by [Brooke Lark](https://unsplash.com/@brookelark) on [Unsplash](https://unsplash.com/photos/black-and-red-cherries-on-white-bowl-nTZOILVZuOg)" >}}
 
 The real secret is not just getting enough sleep, but going to bed and waking up at the same time every day. Training your body to follow this routine makes you feel more refreshed and ready for the day. Sure, sometimes it’s tempting to skip sleep for a project or a night out, and once in a while, that’s fine. But you’ll feel the effects, especially as you get older.
 
@@ -37,8 +35,7 @@ If you want to feel recharged and ready for anything, make sleep a priority. You
 
 ---
 
-![Medical](https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbGVlcCUyMGhlYWx0aCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzQ5NDA3MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity Without Losing Sleep")
-*How to Boost Productivity Without Losing Sleep - Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80) on [Unsplash](https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA)*
+{{< figure src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbGVlcCUyMGhlYWx0aCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzQ5NDA3MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Medical" title="How to Boost Productivity Without Losing Sleep" caption="How to Boost Productivity Without Losing Sleep - Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80) on [Unsplash](https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA)" >}}
 
 ## Key Takeaways
 - Skipping sleep to do more actually makes you less productive.

@@ -12,8 +12,7 @@ original_title = "Peut-on trouver le pur plaisir ? 🤔"
 source_medium = "https://medium.com/@phenrysay/e734d928d840"
 +++
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwbGVhc3VyZSUyMGZpbmRpbmclMjBqb3klMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MTE0MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joy in Routine Without Changing Your Life")
-*How to Find Joy in Routine Without Changing Your Life - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwbGVhc3VyZSUyMGZpbmRpbmclMjBqb3klMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MTE0MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Find Joy in Routine Without Changing Your Life" caption="How to Find Joy in Routine Without Changing Your Life - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 Sometimes, it feels impossible to find real pleasure in what we do, especially when our daily routine starts to feel like a never-ending loop. Maybe you’re stuck in a job you don’t like, or you feel your work is dull and repetitive. You might even catch yourself thinking, “I’m tired of this. What’s the point?” But what if you could look at things differently?
 
@@ -23,8 +22,7 @@ If you feel stuck in your daily life, like there’s no way out, remember there 
 
 Personally, I love listening to audio conferences and audiobooks during these moments. It’s a way to turn something boring into something useful. And if you’re in a job you don’t enjoy, remind yourself that it’s only temporary. Maybe you’re saving up for a financial cushion, or you’re just waiting for the right time to move on. Give yourself a deadline—six months, a year—and then plan your next step.
 
-![vaporboyz aesthetics](https://images.unsplash.com/photo-1538788036057-a9cb02471974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwbGVhc3VyZSUyMGZpbmRpbmclMjBqb3klMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MTE0MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joy in Routine Without Changing Your Life")
-*How to Find Joy in Routine Without Changing Your Life - Photo by [Kaci Kellman](https://unsplash.com/@kacikellman) on [Unsplash](https://unsplash.com/photos/white-mask-beside-plants-Jo02isHutFo)*
+{{< figure src="https://images.unsplash.com/photo-1538788036057-a9cb02471974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwbGVhc3VyZSUyMGZpbmRpbmclMjBqb3klMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MTE0MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="vaporboyz aesthetics" title="How to Find Joy in Routine Without Changing Your Life" caption="How to Find Joy in Routine Without Changing Your Life - Photo by [Kaci Kellman](https://unsplash.com/@kacikellman) on [Unsplash](https://unsplash.com/photos/white-mask-beside-plants-Jo02isHutFo)" >}}
 
 Seeing your life as a series of steps, rather than a fixed path, can make a huge difference. Each stage is just a part of the journey, not the final destination. This mindset can help you go much further than you think.
 
@@ -42,9 +40,7 @@ I encourage you to look at your life this way. I’m with you, 100%, and I truly
 
 ## Key Takeaways
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwbGVhc3VyZSUyMGZpbmRpbmclMjBqb3klMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MTE0MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joy in Routine Without Changing Your Life")
-*How to Find Joy in Routine Without Changing Your Life - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwbGVhc3VyZSUyMGZpbmRpbmclMjBqb3klMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MTE0MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Find Joy in Routine Without Changing Your Life" caption="How to Find Joy in Routine Without Changing Your Life - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 - Even in boring or tough times, there’s always something to learn or gain.
 - Use your downtime to build new skills or knowledge.

@@ -12,8 +12,7 @@ original_title = "Comment faire appel aux états d'humeur voulus ?"
 source_medium = "https://medium.com/@phenrysay/abfe6f1009f2"
 +++
 
-![Follow my Instagram @karsten.wuerth](https://images.unsplash.com/photo-1451847251646-8a6c0dd1510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb29kJTIwcmVndWxhdGlvbiUyMGVuZXJneSUyMGJvb3N0aW5nJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NDk0MTUyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood Without Forcing Motivation")
-*How to Boost Your Mood Without Forcing Motivation - Photo by [Karsten Würth](https://unsplash.com/@karsten_wuerth) on [Unsplash](https://unsplash.com/photos/white-windmills-on-green-grass-field-under-white-clouds-and-blue-sky-ZKWgoRUYuMk)*
+{{< figure src="https://images.unsplash.com/photo-1451847251646-8a6c0dd1510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb29kJTIwcmVndWxhdGlvbiUyMGVuZXJneSUyMGJvb3N0aW5nJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NDk0MTUyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Follow my Instagram @karsten.wuerth" title="How to Boost Your Mood Without Forcing Motivation" caption="How to Boost Your Mood Without Forcing Motivation - Photo by [Karsten Würth](https://unsplash.com/@karsten_wuerth) on [Unsplash](https://unsplash.com/photos/white-windmills-on-green-grass-field-under-white-clouds-and-blue-sky-ZKWgoRUYuMk)" >}}
 
 We all know those days when you feel heavy, your head is foggy, and motivation seems out of reach. It’s tough to get moving, let alone do anything productive. By definition, when you’re tired, you just want to rest. But what if you could actually create, or at least trigger, the mood you need—almost on demand?
 
@@ -27,8 +26,7 @@ Tony Robbins talks about this in his documentary “I Am Not Your Guru.” He sh
 
 If you try to work while you’re tired, you won’t do it well. The same goes for important moments—like interviews or meetings—where you need to be fully present. Sometimes, you can’t just put things off or swap tasks. That’s when it’s really helpful to know how to generate the mood you need.
 
-![Power pylons at sunset](https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb29kJTIwcmVndWxhdGlvbiUyMGVuZXJneSUyMGJvb3N0aW5nJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NDk0MTUyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood Without Forcing Motivation")
-*How to Boost Your Mood Without Forcing Motivation - Photo by [Matthew Henry](https://unsplash.com/@matthewhenry) on [Unsplash](https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI)*
+{{< figure src="https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb29kJTIwcmVndWxhdGlvbiUyMGVuZXJneSUyMGJvb3N0aW5nJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NDk0MTUyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Power pylons at sunset" title="How to Boost Your Mood Without Forcing Motivation" caption="How to Boost Your Mood Without Forcing Motivation - Photo by [Matthew Henry](https://unsplash.com/@matthewhenry) on [Unsplash](https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI)" >}}
 
 ## Use Your Environment
 
@@ -47,8 +45,7 @@ If you want to go even further, start building your own rituals. Find what works
 
 Whenever I discover something new that helps me, I add it to my routine. It’s a way to keep improving and reinforce what works. The more you practice, the easier it becomes to shift your mood when you need to.
 
-![Giant Solar Panel](https://images.unsplash.com/photo-1491677533189-49af044391ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb29kJTIwcmVndWxhdGlvbiUyMGVuZXJneSUyMGJvb3N0aW5nJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NDk0MTUyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood Without Forcing Motivation")
-*How to Boost Your Mood Without Forcing Motivation - Photo by [Biel Morro](https://unsplash.com/@bielmorro) on [Unsplash](https://unsplash.com/photos/black-and-silver-solar-panel-HCha-UHkIg8)*
+{{< figure src="https://images.unsplash.com/photo-1491677533189-49af044391ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb29kJTIwcmVndWxhdGlvbiUyMGVuZXJneSUyMGJvb3N0aW5nJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NDk0MTUyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Giant Solar Panel" title="How to Boost Your Mood Without Forcing Motivation" caption="How to Boost Your Mood Without Forcing Motivation - Photo by [Biel Morro](https://unsplash.com/@bielmorro) on [Unsplash](https://unsplash.com/photos/black-and-silver-solar-panel-HCha-UHkIg8)" >}}
 
 > *“Energy and persistence conquer all things.”*  
 > —Benjamin Franklin

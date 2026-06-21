@@ -12,8 +12,7 @@ original_title = "COMMENT TROUVER UNE MOTIVATION QUI NE TE LÂCHE PLUS"
 source_medium = "https://medium.com/@phenrysay/fcf179fb9230"
 +++
 
-![audiobook, Jim Rohn](https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated Without Burning Out or Losing Focus")
-*How to Stay Motivated Without Burning Out or Losing Focus - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)*
+{{< figure src="https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="audiobook, Jim Rohn" title="How to Stay Motivated Without Burning Out or Losing Focus" caption="How to Stay Motivated Without Burning Out or Losing Focus - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)" >}}
 
 Motivation is like a spark that fuels our positive energy. But let’s be honest: when motivation is missing, everything feels pointless. We start asking ourselves, “Why should I even bother? I don’t have a goal. I don’t have a purpose.” And so, we end up doing nothing. Days pass, time slips by, and we convince ourselves that life is endless, that we have all the time in the world. That’s a dangerous illusion.
 
@@ -25,8 +24,7 @@ But there’s more to it. Routines and habits play a huge role. When you build h
 
 You can even link a new habit to an existing one. Let’s say you want to start writing every morning. If you always eat breakfast, make writing the thing you do right after. Breakfast becomes your trigger. It’s like brushing your teeth after every meal—it’s just what you do, without thinking.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated Without Burning Out or Losing Focus")
-*How to Stay Motivated Without Burning Out or Losing Focus - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Stay Motivated Without Burning Out or Losing Focus" caption="How to Stay Motivated Without Burning Out or Losing Focus - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 The same goes for other routines. Maybe you shower, then brush your teeth, then do your evening routine. These habits blend together, and new tasks become part of the flow. The trick is to attach new habits to ones that are already solid.
 
@@ -46,8 +44,7 @@ If you want to remember just three things to keep your motivation strong and you
 *“Motivation is what gets you started. Habit is what keeps you going.”*  
 — Jim Ryun
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated Without Burning Out or Losing Focus")
-*How to Stay Motivated Without Burning Out or Losing Focus - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Stay Motivated Without Burning Out or Losing Focus" caption="How to Stay Motivated Without Burning Out or Losing Focus - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "The power of Claude Code Agents"
 source_medium = "https://medium.com/@phenrysay/4a77f8016f9e"
 +++
 
-![changing landscapes in LLM](https://images.unsplash.com/photo-1738107445898-2ea37e291bca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDbGF1ZGV8ZW58MHwwfHx8MTc2NzA3Mjc3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge Your Workflow With Claude Code Agents")
-*How to Supercharge Your Workflow With Claude Code Agents - Photo by [Solen Feyissa](https://unsplash.com/@solenfeyissa) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-smart-phone-in-their-hand-5Ib2B9MBJhQ)*
+{{< figure src="https://images.unsplash.com/photo-1738107445898-2ea37e291bca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDbGF1ZGV8ZW58MHwwfHx8MTc2NzA3Mjc3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="changing landscapes in LLM" title="How to Supercharge Your Workflow With Claude Code Agents" caption="How to Supercharge Your Workflow With Claude Code Agents - Photo by [Solen Feyissa](https://unsplash.com/@solenfeyissa) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-smart-phone-in-their-hand-5Ib2B9MBJhQ)" >}}
 
 Alright, let’s talk about something that’s a total game-changer when you’re working with Claude’s code features: creating your own agents. If you’re an AI engineer or just someone who likes to get hands-on with code, this is one of those things that can seriously level up your productivity.
 
@@ -29,8 +28,7 @@ Here’s what I recommend: set up a dedicated agent for each major task in your 
 
 You can even get more granular if you want. The point is, by having these specialized agents, you can ask really targeted questions and get focused feedback. It’s like having a team of experts, each with their own specialty, ready to jump in whenever you need them.
 
-![changing landscapes in LLM](https://images.unsplash.com/photo-1738107450304-32178e2e9b68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDbGF1ZGV8ZW58MHwwfHx8MTc2NzA3Mjc3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge Your Workflow With Claude Code Agents")
-*How to Supercharge Your Workflow With Claude Code Agents - Photo by [Solen Feyissa](https://unsplash.com/@solenfeyissa) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-on-a-table-zQvPAtGxQh0)*
+{{< figure src="https://images.unsplash.com/photo-1738107450304-32178e2e9b68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDbGF1ZGV8ZW58MHwwfHx8MTc2NzA3Mjc3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="changing landscapes in LLM" title="How to Supercharge Your Workflow With Claude Code Agents" caption="How to Supercharge Your Workflow With Claude Code Agents - Photo by [Solen Feyissa](https://unsplash.com/@solenfeyissa) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-on-a-table-zQvPAtGxQh0)" >}}
 
 **This is how you get efficient.** Instead of throwing everything at one generic agent, you break down your workflow and assign each part to a specialist. That way, you’re not just productive—you’re *super* productive.
 
@@ -52,8 +50,7 @@ You get the idea. The more specific your agents, the better your results.
 
 > “Every slash command is a kind of prompt. It’s just a prompt you create by yourself if you make custom ones.”
 
-![changing landscapes in LLM](https://images.unsplash.com/photo-1738107445976-9fbed007121f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDbGF1ZGV8ZW58MHwwfHx8MTc2NzA3Mjc3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge Your Workflow With Claude Code Agents")
-*How to Supercharge Your Workflow With Claude Code Agents - Photo by [Solen Feyissa](https://unsplash.com/@solenfeyissa) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-smart-phone-in-their-hand-NOrCov89Xm0)*
+{{< figure src="https://images.unsplash.com/photo-1738107445976-9fbed007121f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDbGF1ZGV8ZW58MHwwfHx8MTc2NzA3Mjc3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="changing landscapes in LLM" title="How to Supercharge Your Workflow With Claude Code Agents" caption="How to Supercharge Your Workflow With Claude Code Agents - Photo by [Solen Feyissa](https://unsplash.com/@solenfeyissa) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-smart-phone-in-their-hand-NOrCov89Xm0)" >}}
 
 So, next time you’re working on a project, don’t just rely on one catch-all agent. Build out your own little army of specialists. Trust me, you’ll notice the difference right away.
 

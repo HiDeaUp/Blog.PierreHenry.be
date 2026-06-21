@@ -12,8 +12,7 @@ original_title = "La vie est plus simple que sa perception"
 source_medium = "https://medium.com/@phenrysay/3d3fa2511af3"
 +++
 
-![render with Taitopia Render](https://images.unsplash.com/photo-1700709678022-8e0c4767434e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWluZGZ1bG5lc3MlMjBsaWZlJTIwbGVzc29uc3xlbnwwfDB8fHwxNzU2NTIyMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Well Without Overcomplicating Life")
-*How to Live Well Without Overcomplicating Life - Photo by [Taitopia Render](https://unsplash.com/@taitopiarender) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-table-d84kZacg3tc)*
+{{< figure src="https://images.unsplash.com/photo-1700709678022-8e0c4767434e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWluZGZ1bG5lc3MlMjBsaWZlJTIwbGVzc29uc3xlbnwwfDB8fHwxNzU2NTIyMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="render with Taitopia Render" title="How to Live Well Without Overcomplicating Life" caption="How to Live Well Without Overcomplicating Life - Photo by [Taitopia Render](https://unsplash.com/@taitopiarender) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-table-d84kZacg3tc)" >}}
 
 Have you ever noticed how we tend to make life more complicated than it really is? We often believe that life should be a struggle, that suffering is part of the deal. But what if that’s not true? What if life is meant to be simple, enjoyable, and full of small pleasures?
 
@@ -23,8 +22,7 @@ Life should be simple. It shouldn’t be about suffering. We’re not here to en
 
 Life is here to lift us up, to help us feel proud of ourselves, to fill us with gratitude. To really live well, you have to be present. Notice all the fantastic things you can do, all the small wonders you can experience. Of course, it all depends on how you see your life. Your perception shapes your reality.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992947-ece92da51cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWluZGZ1bG5lc3MlMjBsaWZlJTIwbGVzc29uc3xlbnwwfDB8fHwxNzU2NTIyMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Well Without Overcomplicating Life")
-*How to Live Well Without Overcomplicating Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-bWBWXiCoLvs)*
+{{< figure src="https://images.unsplash.com/photo-1695370992947-ece92da51cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWluZGZ1bG5lc3MlMjBsaWZlJTIwbGVzc29uc3xlbnwwfDB8fHwxNzU2NTIyMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Live Well Without Overcomplicating Life" caption="How to Live Well Without Overcomplicating Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-bWBWXiCoLvs)" >}}
 
 Sometimes I feel like a parrot, repeating myself, but it’s worth repeating: there’s no better way to live than to enjoy life, to be mindful, and to appreciate each day. Life moves forward like a train that never stops. Tomorrow will be a new day, but right now is the only moment you truly have. The birds singing, the sun shining, the sounds around you—this exact combination will never happen again. Every second is unique and cannot be repeated.
 
@@ -42,8 +40,7 @@ Ask yourself: what can I do today to make my day brighter, to boost my happiness
 > _“The present moment is filled with joy and happiness. If you are attentive, you will see it.”_  
 — Thich Nhat Hanh
 
-![Photo by Leo_Visions](https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWluZGZ1bG5lc3MlMjBsaWZlJTIwbGVzc29uc3xlbnwwfDB8fHwxNzU2NTIyMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Well Without Overcomplicating Life")
-*How to Live Well Without Overcomplicating Life - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)*
+{{< figure src="https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWluZGZ1bG5lc3MlMjBsaWZlJTIwbGVzc29uc3xlbnwwfDB8fHwxNzU2NTIyMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A rock in a body of water with a sky in the" title="How to Live Well Without Overcomplicating Life" caption="How to Live Well Without Overcomplicating Life - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)" >}}
 
 ---
 

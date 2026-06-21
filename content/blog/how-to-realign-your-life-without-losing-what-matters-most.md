@@ -12,8 +12,7 @@ original_title = "Les clés d’une vie réussie"
 source_medium = "https://medium.com/@phenrysay/08b9cb1387e6"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjQwNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Realign Your Life Without Losing What Matters Most")
-*How to Realign Your Life Without Losing What Matters Most - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjQwNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Realign Your Life Without Losing What Matters Most" caption="How to Realign Your Life Without Losing What Matters Most - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Everyone has their own vision of what makes life meaningful. We all have things that matter to us, dreams we want to chase, and values we hold close. But sometimes, we drift away from these core values. It can happen slowly, almost without noticing. Maybe it’s the daily routine that wears us down, or the pressure from work and society that pushes us in directions we never chose for ourselves. Before we know it, we’re living a life that doesn’t really feel like ours.
 
@@ -27,8 +26,7 @@ When you start making choices that align with your values, you’ll notice a boo
 
 ## Stand Tall—Literally and Figuratively
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506061-002a4a6c670d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjQwNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Realign Your Life Without Losing What Matters Most")
-*How to Realign Your Life Without Losing What Matters Most - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-pink-notebook-with-a-quote-on-it-1TWRYr7brTc)*
+{{< figure src="https://images.unsplash.com/photo-1689896506061-002a4a6c670d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjQwNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A pink with a quote on it" title="How to Realign Your Life Without Losing What Matters Most" caption="How to Realign Your Life Without Losing What Matters Most - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-pink-notebook-with-a-quote-on-it-1TWRYr7brTc)" >}}
 
 It’s also important to carry yourself in a way that matches the person you want to become. If you want to feel more confident, start by adopting a confident posture. The way you hold yourself affects how you feel inside. Stand up straight, pull your shoulders back, and move through your day with purpose. This simple change can have a big impact on your mindset.
 
@@ -47,8 +45,7 @@ Arranging your daily habits and rituals to fit your real needs makes a huge diff
 > _“The privilege of a lifetime is to become who you truly are.”_  
 — Carl Jung
 
-![Chasing the light in Yosemite](https://images.unsplash.com/photo-1516864356635-5688f0a3fe31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjQwNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Realign Your Life Without Losing What Matters Most")
-*How to Realign Your Life Without Losing What Matters Most - Photo by [Grant Ritchie](https://unsplash.com/@grantritchie) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-rock-Jd2fqoX3z_0)*
+{{< figure src="https://images.unsplash.com/photo-1516864356635-5688f0a3fe31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjQwNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chasing the light in Yosemite" title="How to Realign Your Life Without Losing What Matters Most" caption="How to Realign Your Life Without Losing What Matters Most - Photo by [Grant Ritchie](https://unsplash.com/@grantritchie) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-rock-Jd2fqoX3z_0)" >}}
 
 > _“Happiness is when what you think, what you say, and what you do are in harmony.”_  
 — Mahatma Gandhi

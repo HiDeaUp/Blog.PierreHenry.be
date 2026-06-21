@@ -12,9 +12,7 @@ original_title = "Commencer une nouvelle chose …"
 source_medium = "https://medium.com/@phenrysay/ac82275b9a6c"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, wisdom, courage does not always roar, courage, true courage, real courage, meekness
-](https://images.unsplash.com/photo-1599723823520-ac2a8b736de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZXclMjBiZWdpbm5pbmdzJTIwY291cmFnZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzOTE2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Something New Without Waiting for Approval")
-*How to Start Something New Without Waiting for Approval - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-GpxF3KeZy8A)*
+{{< figure src="https://images.unsplash.com/photo-1599723823520-ac2a8b736de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZXclMjBiZWdpbm5pbmdzJTIwY291cmFnZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzOTE2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Start Something New Without Waiting for Approval" caption="How to Start Something New Without Waiting for Approval - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-GpxF3KeZy8A)" >}}
 
 ### The courage to start something new is already a victory.
 
@@ -30,8 +28,7 @@ Once you know what you want to start, create a clear action plan. Break your goa
 
 Visualization is a powerful tool here. Imagine yourself succeeding. Picture the feeling of accomplishment, as if you’ve already reached your goal. You can even use a vision board to make it more concrete. Every morning, take a moment to visualize your day. See yourself moving through your tasks, feeling good about what you’re building. This sets the tone and helps you focus on what matters most.
 
-![Blog Image: Courage](https://images.unsplash.com/photo-1618092388874-e262a562887f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZXclMjBiZWdpbm5pbmdzJTIwY291cmFnZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzOTE2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Something New Without Waiting for Approval")
-*How to Start Something New Without Waiting for Approval - Photo by [Michael Dziedzic](https://unsplash.com/@lazycreekimages) on [Unsplash](https://unsplash.com/photos/white-and-black-i-love-you-print-ioIc2yH4xLU)*
+{{< figure src="https://images.unsplash.com/photo-1618092388874-e262a562887f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZXclMjBiZWdpbm5pbmdzJTIwY291cmFnZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzOTE2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Blog Image: Courage" title="How to Start Something New Without Waiting for Approval" caption="How to Start Something New Without Waiting for Approval - Photo by [Michael Dziedzic](https://unsplash.com/@lazycreekimages) on [Unsplash](https://unsplash.com/photos/white-and-black-i-love-you-print-ioIc2yH4xLU)" >}}
 
 Think of it like compound interest. Every day, you add a little more, and over time, the results multiply. Whether it’s writing a book, learning a new skill, or hiking a long trail, it’s all about taking one step after another. At first, progress might seem slow, but after a month or two, you’ll be amazed at how far you’ve come.
 
@@ -47,8 +44,7 @@ The most important thing is to start. Don’t wait for the perfect moment or for
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, courage is contagious, courage, fear, leadership, lead, be brave, bravery, challenge, face challenges, do not fear, ](https://images.unsplash.com/photo-1633078159320-84987ca0b47f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZXclMjBiZWdpbm5pbmdzJTIwY291cmFnZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzOTE2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Something New Without Waiting for Approval")
-*How to Start Something New Without Waiting for Approval - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-words-courage-is-contagious-pIJ67BGLRGk)*
+{{< figure src="https://images.unsplash.com/photo-1633078159320-84987ca0b47f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZXclMjBiZWdpbm5pbmdzJTIwY291cmFnZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzOTE2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the words courage is" title="How to Start Something New Without Waiting for Approval" caption="How to Start Something New Without Waiting for Approval - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-words-courage-is-contagious-pIJ67BGLRGk)" >}}
 
 - *Start something new for yourself, not just to please others.*
 - *Break your goal into small, measurable steps and track your progress.*

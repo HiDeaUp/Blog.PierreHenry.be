@@ -12,8 +12,7 @@ original_title = "Comment rendre sa journées instantanément HEUREUSE ?"
 source_medium = "https://medium.com/@phenrysay/0890e86d0350"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2NDIzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Today Without Changing Your Whole Life")
-*How to Feel Happier Today Without Changing Your Whole Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2NDIzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Feel Happier Today Without Changing Your Whole Life" caption="How to Feel Happier Today Without Changing Your Whole Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 What if happiness was not some distant goal, but something you could create for yourself, right now, with a few small changes? Personal fulfillment is not as complicated as it seems. The real trick is to figure out what makes you feel alive and then bring more of that into your daily life.
 
@@ -21,8 +20,7 @@ Let’s say you love warmth and sunshine, or you feel at peace when you’re sur
 
 Sometimes, we feel stuck or a bit down, and we can’t quite put our finger on why. It’s easy to overlook the simple pleasures that used to light us up. Maybe you love cats, but you moved to a city where you don’t see them anymore. You might not realize what’s missing until you bring that joy back into your life. Suddenly, things feel brighter, and you remember what happiness feels like.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2NDIzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Today Without Changing Your Whole Life")
-*How to Feel Happier Today Without Changing Your Whole Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2NDIzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Feel Happier Today Without Changing Your Whole Life" caption="How to Feel Happier Today Without Changing Your Whole Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 The key is to identify everything that lifts your spirits and find ways to add more of it to your routine. At the same time, pay attention to the things that drag you down. Maybe you can’t stand clutter, or certain people always leave you feeling drained. If you know these things make you unhappy, do your best to avoid them. Don’t just try—make it a rule for yourself. If your job is making you miserable because of a toxic boss, consider changing jobs. Life is too short to spend it in places or with people who make you unhappy.
 
@@ -38,8 +36,7 @@ This is your personal recipe for happiness. It’s not about following someone e
 
 ---
 
-![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2NDIzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Today Without Changing Your Whole Life")
-*How to Feel Happier Today Without Changing Your Whole Life - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
+{{< figure src="https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2NDIzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball" title="How to Feel Happier Today Without Changing Your Whole Life" caption="How to Feel Happier Today Without Changing Your Whole Life - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)" >}}
 
 ## Key Takeaways
 - Find out what makes you happy and add more of it to your daily life.

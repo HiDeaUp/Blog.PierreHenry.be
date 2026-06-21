@@ -12,8 +12,7 @@ original_title = "Mieux vivre : Création d'une BULLE D'OXYGÈNE pour être PL
 source_medium = "https://medium.com/@phenrysay/5bd8e8a93ba8"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NDkyOTM3NDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm")
-*How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NDkyOTM3NDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm" caption="How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Resilience is a quiet force. It’s not about stubbornly banging your head against a wall, hoping it will turn into a door. It’s about believing, deep down, that what you’re doing will work—if you keep at it, step by step. That’s the real power of resilience: the ability to keep moving forward, brick by brick, even when the results aren’t immediate.
 
@@ -23,8 +22,7 @@ In everyday life, and in anything you want to achieve, it’s the same story. Sm
 
 It’s important to know why you’re doing all this. Set a goal for the week. Tell yourself, “This week, I’m going to finish this.” Maybe you’re not sure if it’s a good idea or not, but at least you’re doing it. Then you can adjust, pivot, and find the best way to reach your goal.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NDkyOTM3NDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm")
-*How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NDkyOTM3NDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm" caption="How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 There’s no better time to start than now. We all tell ourselves we don’t have time, but time won’t magically appear. In fact, you’ll probably have even less time in the future. The best moment to act is now. It’s like money—we think we’ll have more later, but we also end up with more expenses, more obligations. So, if you want to invest in yourself, do it now.
 
@@ -42,8 +40,7 @@ Honestly, I don’t really believe in forcing yourself to do something you don�
 
 So, take a moment to look at your week. What can you start today? Give yourself a weekly goal, and see what you can accomplish by the end of the week. Define your structure, ask yourself the right questions, and make sure you’re doing something that matters to you.
 
-![2010 was a boon year for these butterflies in my garden. I had a dozen chrysalis in all manner of morphs at any one time. In this image you can see the new green chrysalis coloration, one that’s about ready to emerge (the clear one), and a butterfly that’s already come out. They will hang for hours and dry their wings and are, in fact, quite fragile.](https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NDkyOTM3NDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm")
-*How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm - Photo by [Suzanne D. Williams](https://unsplash.com/@scw1217) on [Unsplash](https://unsplash.com/photos/three-pupas-VMKBFR6r_jg)*
+{{< figure src="https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NDkyOTM3NDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Three pupas" title="How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm" caption="How to Build Your Oxygen Bubble for Daily Happiness Without Overwhelm - Photo by [Suzanne D. Williams](https://unsplash.com/@scw1217) on [Unsplash](https://unsplash.com/photos/three-pupas-VMKBFR6r_jg)" >}}
 
 ---
 

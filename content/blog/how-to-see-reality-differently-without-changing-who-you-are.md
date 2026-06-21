@@ -12,8 +12,7 @@ original_title = "Mieux AGIR et ACCOMPLIR en déchiffrant nos actions"
 source_medium = "https://medium.com/@phenrysay/360bb965269d"
 +++
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU1NDI0Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to See Reality Differently Without Changing Who You Are")
-*How to See Reality Differently Without Changing Who You Are - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU1NDI0Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to See Reality Differently Without Changing Who You Are" caption="How to See Reality Differently Without Changing Who You Are - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 Have you ever noticed how two people can experience the exact same event, yet walk away with completely different feelings about it? This isn’t just a quirk of personality—it’s a deep truth about how we all see the world. Our perceptions, shaped by our past, our upbringing, and even the culture we grew up in, make each of us unique. What feels like a big win to one person might seem ordinary to another, even if the event itself is identical.
 
@@ -25,8 +24,7 @@ We often forget how much our surroundings and the people we spend time with infl
 
 Even with those closest to us, like a partner, it’s impossible to share every single thought or feeling. Life is just too dynamic. We forget the pain of hard times, like studying for a tough degree, and later tell our kids to do the same, forgetting how hard it really was. We chase high grades or honors, but in reality, most employers never even ask to see our diplomas, let alone care about distinctions.
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU1NDI0Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to See Reality Differently Without Changing Who You Are")
-*How to See Reality Differently Without Changing Who You Are - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU1NDI0Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to See Reality Differently Without Changing Who You Are" caption="How to See Reality Differently Without Changing Who You Are - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 So, what really matters? It’s about knowing what you want, what brings you happiness, and what drags you down. You have to be the main actor in your own life, not just someone who goes along with what others expect. If you’re not careful, you can end up living by default, shaped by those around you—sometimes lifted up, sometimes pulled down.
 
@@ -44,8 +42,7 @@ And when it comes to tracking your progress, don’t get lost in complicated sys
 > _“Happiness is not something ready made. It comes from your own actions.”_  
 — Dalai Lama
 
-![@viktoriia.kudinska](https://images.unsplash.com/photo-1611596665399-733f0a70c33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU1NDI0Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to See Reality Differently Without Changing Who You Are")
-*How to See Reality Differently Without Changing Who You Are - Photo by [AnimGraph Lab](https://unsplash.com/@dimitryzub) on [Unsplash](https://unsplash.com/photos/woman-with-red-lipstick-and-black-mascara-tfAWQQWZX50)*
+{{< figure src="https://images.unsplash.com/photo-1611596665399-733f0a70c33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU1NDI0Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="@viktoriia.kudinska" title="How to See Reality Differently Without Changing Who You Are" caption="How to See Reality Differently Without Changing Who You Are - Photo by [AnimGraph Lab](https://unsplash.com/@dimitryzub) on [Unsplash](https://unsplash.com/photos/woman-with-red-lipstick-and-black-mascara-tfAWQQWZX50)" >}}
 
 In the end, it’s about knowing yourself—what you want, what you need, and what makes you happy. Life is too short to live by someone else’s script.
 

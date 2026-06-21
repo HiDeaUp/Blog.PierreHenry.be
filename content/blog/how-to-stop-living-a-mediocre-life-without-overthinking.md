@@ -12,8 +12,7 @@ original_title = "Comment ne plus avoir une vie médiocre ?"
 source_medium = "https://medium.com/@phenrysay/56aae569589d"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcG9zaXRpdmUlMjB0aGlua2luZyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMzYxMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Living a Mediocre Life Without Overthinking")
-*How to Stop Living a Mediocre Life Without Overthinking - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcG9zaXRpdmUlMjB0aGlua2luZyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMzYxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Stop Living a Mediocre Life Without Overthinking" caption="How to Stop Living a Mediocre Life Without Overthinking - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 We all think. That’s what makes us human. But the way we think, the way we interpret our thoughts, is unique to each of us. Still, some thoughts push us forward, closer to what we want, to a brighter and more satisfying life. Others drag us down, keeping us stuck in negativity and pessimism.
 
@@ -23,8 +22,7 @@ Think about it: how many times have you found yourself lost in thought, replayin
 
 That’s why training your mind is so important. Meditation is a great way to do this. It’s not about emptying your mind, but about focusing all your attention on one thing—your breath, the sound of the wind, or even the hum of an airplane. The more you practice, the easier it becomes to stay present and not get lost in endless loops of thought.
 
-![If you like my work, please support me: paypal.me/viktorforgacs](https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcG9zaXRpdmUlMjB0aGlua2luZyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMzYxMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Living a Mediocre Life Without Overthinking")
-*How to Stop Living a Mediocre Life Without Overthinking - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)*
+{{< figure src="https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcG9zaXRpdmUlMjB0aGlua2luZyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMzYxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="If you like my work, please support me: paypal.me/viktorforgacs" title="How to Stop Living a Mediocre Life Without Overthinking" caption="How to Stop Living a Mediocre Life Without Overthinking - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)" >}}
 
 Changing your environment also helps. Sometimes, just going for a walk, seeing new things, breathing fresh air, can spark new ideas and lift your mood. I often walk near the bay where I live. The scenery, the smiling people, the dogs playing—it all helps me think better thoughts. Beautiful houses, palm trees, the simple joy of being outside—these things feed my mind and help me stay creative.
 
@@ -40,8 +38,7 @@ It’s also important to challenge your own limits. Sometimes, the only thing ho
 
 So, if you want to stop living a mediocre life, start by changing your thoughts. Focus on what’s good, what’s possible, and what excites you. Give yourself permission to dream, to try, and to enjoy the journey.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcG9zaXRpdmUlMjB0aGlua2luZyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMzYxMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Living a Mediocre Life Without Overthinking")
-*How to Stop Living a Mediocre Life Without Overthinking - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)*
+{{< figure src="https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcG9zaXRpdmUlMjB0aGlua2luZyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwMzYxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says great minds alike" title="How to Stop Living a Mediocre Life Without Overthinking" caption="How to Stop Living a Mediocre Life Without Overthinking - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)" >}}
 
 ---
 

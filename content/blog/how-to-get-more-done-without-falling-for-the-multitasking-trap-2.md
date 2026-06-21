@@ -12,8 +12,7 @@ original_title = "MULTITÂCHE : L'ILLUSION FATALE qui DÉTRUIT ta Productivité 
 source_medium = "https://medium.com/@phenrysay/2eaa7f9b6406"
 +++
 
-![Photo by Clique Images](https://images.unsplash.com/photo-1745958068747-917beddeac0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzQ4NzQyOTY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done WITHOUT Falling for the Multitasking Trap")
-*How to Get More Done WITHOUT Falling for the Multitasking Trap - Photo by [Clique Images](https://unsplash.com/@cliqueimages) on [Unsplash](https://unsplash.com/photos/woman-works-on-her-laptop-at-a-bright-green-space-lzNqKcIXFWg)*
+{{< figure src="https://images.unsplash.com/photo-1745958068747-917beddeac0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzQ4NzQyOTY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman works on her laptop at a bright green space" title="How to Get More Done WITHOUT Falling for the Multitasking Trap" caption="How to Get More Done WITHOUT Falling for the Multitasking Trap - Photo by [Clique Images](https://unsplash.com/@cliqueimages) on [Unsplash](https://unsplash.com/photos/woman-works-on-her-laptop-at-a-bright-green-space-lzNqKcIXFWg)" >}}
 
 We all know the feeling: your to-do list is overflowing, and you don’t even know where to start. So you try to do everything at once. That’s when the real trouble begins. You end up doing things badly, forgetting steps, and rarely finishing anything properly.
 
@@ -23,8 +22,7 @@ This isn’t just my problem. I see it everywhere. Even my girlfriend, who is mu
 
 The lesson is simple: do one thing at a time. If you set out to build three apps, don’t even think about the second until the first is truly done. It’s better to do one thing excellently than three things poorly. The same goes for any project. Why create a product that tries to do everything but does it all badly? It’s better to have something incomplete but perfect, rather than something complete but flawed.
 
-![Nah](https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzQ4NzQyOTY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done WITHOUT Falling for the Multitasking Trap")
-*How to Get More Done WITHOUT Falling for the Multitasking Trap - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)*
+{{< figure src="https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzQ4NzQyOTY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman right fist" title="How to Get More Done WITHOUT Falling for the Multitasking Trap" caption="How to Get More Done WITHOUT Falling for the Multitasking Trap - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)" >}}
 
 This mindset applies to everything you create. For example, I was building an app to make YouTube thumbnails. I ran into some problems, but instead of fixing them, I jumped to the next app. By the end of the weekend, I had two unfinished projects and unresolved issues. I promised myself: this can’t happen again. I’m writing it into my own personal “constitution”—a rule I refuse to break.
 
@@ -39,8 +37,7 @@ The best time to start is now. Don’t wait for the perfect moment, because it n
 
 ---
 
-![Photo by Jilbert Ebrahimi](https://images.unsplash.com/photo-1441804238730-210ce1c2cc00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzQ4NzQyOTY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done WITHOUT Falling for the Multitasking Trap")
-*How to Get More Done WITHOUT Falling for the Multitasking Trap - Photo by [Jilbert Ebrahimi](https://unsplash.com/@jilburr) on [Unsplash](https://unsplash.com/photos/macrophotography-of-cracked-glass-screen-pVEcNabAg9o)*
+{{< figure src="https://images.unsplash.com/photo-1441804238730-210ce1c2cc00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzQ4NzQyOTY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of cracked glass screen" title="How to Get More Done WITHOUT Falling for the Multitasking Trap" caption="How to Get More Done WITHOUT Falling for the Multitasking Trap - Photo by [Jilbert Ebrahimi](https://unsplash.com/@jilburr) on [Unsplash](https://unsplash.com/photos/macrophotography-of-cracked-glass-screen-pVEcNabAg9o)" >}}
 
 ## Key Takeaways
 - Multitasking leads to poor results and unfinished work.

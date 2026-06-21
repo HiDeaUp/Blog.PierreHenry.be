@@ -12,8 +12,7 @@ original_title = "Hidden AI Risks Every Software Engineer Should Know"
 source_medium = "https://medium.com/@phenrysay/4e8e9213dfe3"
 +++
 
-![C plus plus code in an coloured editor square strongly foreshortened](https://images.unsplash.com/photo-1568716353609-12ddc5c67f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMHJpc2tzJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGxhcmdlJTIwbGFuZ3VhZ2UlMjBtb2RlbHN8ZW58MHwwfHx8MTc2NzA1MTQwNXww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt AI Wisely or Risk Outsourcing Your Brain")
-*Adopt AI Wisely or Risk Outsourcing Your Brain - Photo by [Patrick Martin](https://unsplash.com/@patrickmmartin) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-code-on-it-UMlT0bviaek)*
+{{< figure src="https://images.unsplash.com/photo-1568716353609-12ddc5c67f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMHJpc2tzJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGxhcmdlJTIwbGFuZ3VhZ2UlMjBtb2RlbHN8ZW58MHwwfHx8MTc2NzA1MTQwNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="C plus plus code in an coloured editor square strongly foreshortened" title="Adopt AI Wisely or Risk Outsourcing Your Brain" caption="Adopt AI Wisely or Risk Outsourcing Your Brain - Photo by [Patrick Martin](https://unsplash.com/@patrickmmartin) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-code-on-it-UMlT0bviaek)" >}}
 
 Let’s get real about using AI in software development. As an AI engineer today, you know the drill: when you prompt and work with large language models, you have to think first—always, always, always. Then, you review your code last. The AI models? You use them only to outsource what needs to be built, not what needs to be thought through.
 
@@ -37,8 +36,7 @@ Let me break down the testing pyramid for you. Normally, you have:
 - Integration tests
 - UAT (User Acceptance Tests)
 
-![An artist’s illustration of artificial intelligence (AI). This illustration depicts language models which generate text. It was created by Wes Cockx as part of the Visualising AI project launched by Google DeepMind.](https://images.unsplash.com/photo-1692607431225-5f4564c8f132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMHJpc2tzJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGxhcmdlJTIwbGFuZ3VhZ2UlMjBtb2RlbHN8ZW58MHwwfHx8MTc2NzA1MTQwNXww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt AI Wisely or Risk Outsourcing Your Brain")
-*Adopt AI Wisely or Risk Outsourcing Your Brain - Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-luggage-with-text-on-it-LuzT78A1g7M)*
+{{< figure src="https://images.unsplash.com/photo-1692607431225-5f4564c8f132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMHJpc2tzJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGxhcmdlJTIwbGFuZ3VhZ2UlMjBtb2RlbHN8ZW58MHwwfHx8MTc2NzA1MTQwNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a piece of luggage with text on it" title="Adopt AI Wisely or Risk Outsourcing Your Brain" caption="Adopt AI Wisely or Risk Outsourcing Your Brain - Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-luggage-with-text-on-it-LuzT78A1g7M)" >}}
 
 UAT is basically what a user would do—clicking buttons, logging in, the whole acceptance flow. For example, with PHP, you might use a framework that’s conceptual for UAT.
 
@@ -60,8 +58,7 @@ If AI doesn’t work out, try a drastically different approach. It’s the same 
 
 Let’s go. Let’s do it. Let’s be better.
 
-![Digital code web source code development. Leica R7 (1994), Summilux-R 1.4 50mm (1983). Hi-Res analog scan by www.totallyinfocus.com – Lomo 200 (expired)](https://images.unsplash.com/photo-1638602612226-55fd638475c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMHJpc2tzJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGxhcmdlJTIwbGFuZ3VhZ2UlMjBtb2RlbHN8ZW58MHwwfHx8MTc2NzA1MTQwNXww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt AI Wisely or Risk Outsourcing Your Brain")
-*Adopt AI Wisely or Risk Outsourcing Your Brain - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-lot-of-text-on-it-fN6HM1hrgxk)*
+{{< figure src="https://images.unsplash.com/photo-1638602612226-55fd638475c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMHJpc2tzJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGxhcmdlJTIwbGFuZ3VhZ2UlMjBtb2RlbHN8ZW58MHwwfHx8MTc2NzA1MTQwNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Digital code web source code development. Leica R7 (1994), Summilux-R 1.4 50mm (1983). Hi-Res analog scan by www.totallyinfocus.com – Lomo 200 (expired)" title="Adopt AI Wisely or Risk Outsourcing Your Brain" caption="Adopt AI Wisely or Risk Outsourcing Your Brain - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-lot-of-text-on-it-fN6HM1hrgxk)" >}}
 
 ---
 

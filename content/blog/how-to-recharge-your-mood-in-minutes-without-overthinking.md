@@ -12,8 +12,7 @@ original_title = "Comment se rebooster ? 🤔"
 source_medium = "https://medium.com/@phenrysay/3ec1981bfd58"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740645581682-bc1e8e37b0f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBtb29kJTIwYm9vc3QlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NjYzODUzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mood in Minutes Without Overthinking")
-*How to Recharge Your Mood in Minutes Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-anxiety-on-a-table-P9FiNJhDXBc)*
+{{< figure src="https://images.unsplash.com/photo-1740645581682-bc1e8e37b0f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBtb29kJTIwYm9vc3QlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NjYzODUzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word anxiety on a table" title="How to Recharge Your Mood in Minutes Without Overthinking" caption="How to Recharge Your Mood in Minutes Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-anxiety-on-a-table-P9FiNJhDXBc)" >}}
 
 Have you ever woken up feeling off, with a heavy head and no clear reason why? Sometimes, the weight of everything you need to do seems to fall on you before you’ve even had your first coffee. It’s as if all your worries and unfinished business are waiting for you at the edge of your bed. On those mornings, the best thing you can do is get outside and find a bit of nature.
 
@@ -23,8 +22,7 @@ Of course, not everyone can escape to the Alps or the forests of Finland every w
 
 If a trip to nature isn’t possible, there are other ways to give yourself a boost. Sometimes, just sitting in a cozy café with a good book can do wonders. I recently discovered a new spot in my neighborhood. It was small and welcoming, perfect for relaxing with a coffee and my Kindle. I made a point not to use my phone, just to enjoy the moment. Even though the TV was off, the quiet atmosphere made it easy to unwind.
 
-![Support my work via Paypal | https://bit.ly/donatemedearferdo](https://images.unsplash.com/photo-1523495338267-31cbca7759e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBtb29kJTIwYm9vc3QlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NjYzODUzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mood in Minutes Without Overthinking")
-*How to Recharge Your Mood in Minutes Without Overthinking - Photo by [Fernando @cferdophotography](https://unsplash.com/@cferdo) on [Unsplash](https://unsplash.com/photos/man-beside-white-frame-window-6x2iKGi6SPU)*
+{{< figure src="https://images.unsplash.com/photo-1523495338267-31cbca7759e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBtb29kJTIwYm9vc3QlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NjYzODUzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Support my work via Paypal | https://bit.ly/donatemedearferdo" title="How to Recharge Your Mood in Minutes Without Overthinking" caption="How to Recharge Your Mood in Minutes Without Overthinking - Photo by [Fernando @cferdophotography](https://unsplash.com/@cferdo) on [Unsplash](https://unsplash.com/photos/man-beside-white-frame-window-6x2iKGi6SPU)" >}}
 
 Trying new places is important too. If you always go to the same spots, you might find yourself stuck in old memories or routines. Exploring a new café or park can bring a fresh perspective and help you break out of a rut.
 
@@ -42,8 +40,7 @@ Don’t underestimate the value of these small moments. Even if you spend five d
 
 ## Key Takeaways
 
-![Photo by Dharshatharan Jayatharan Aronan](https://images.unsplash.com/photo-1623528740865-c0d60ddf31be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBtb29kJTIwYm9vc3QlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NjYzODUzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mood in Minutes Without Overthinking")
-*How to Recharge Your Mood in Minutes Without Overthinking - Photo by [Dharshatharan Jayatharan Aronan](https://unsplash.com/@dharshatharan) on [Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-standing-near-bare-tree-during-daytime-lI0t61VmoPI)*
+{{< figure src="https://images.unsplash.com/photo-1623528740865-c0d60ddf31be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBtb29kJTIwYm9vc3QlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NjYzODUzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white long sleeve shirt near bare tree during daytime" title="How to Recharge Your Mood in Minutes Without Overthinking" caption="How to Recharge Your Mood in Minutes Without Overthinking - Photo by [Dharshatharan Jayatharan Aronan](https://unsplash.com/@dharshatharan) on [Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-standing-near-bare-tree-during-daytime-lI0t61VmoPI)" >}}
 
 - *Nature is a powerful mood booster, even if you only have a little time.*
 - *Plan regular moments just for yourself, away from screens and distractions.*

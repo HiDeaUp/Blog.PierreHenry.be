@@ -12,8 +12,7 @@ original_title = "Les 3 clés qui m'ont permis de RÉUSSIR. Je dévoile TOUT 
 source_medium = "https://medium.com/@phenrysay/888d0610f544"
 +++
 
-![Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background](https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTQyMTg3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Got Real Results With 3 Simple Daily Shifts")
-*How I Got Real Results With 3 Simple Daily Shifts - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)*
+{{< figure src="https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTQyMTg3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background" title="How I Got Real Results With 3 Simple Daily Shifts" caption="How I Got Real Results With 3 Simple Daily Shifts - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)" >}}
 
 Success isn’t about luck or some secret formula. It’s about the small things you do every day. I want to share with you the three keys that really helped me move forward, push my limits, and get real results. These are simple, practical ideas—no magic, just things you can start doing right now.
 
@@ -27,8 +26,7 @@ But there’s more. When planning, I always pick the three most important things
 
 Sleep is like a reset button. Even if yesterday was stressful, a good night’s rest gives you a fresh start. So, in the morning, before your mind gets crowded, focus on those three key tasks.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, wood, wood tiles, plan start work, plan, start, work, persistence, patience, progress, effort, relentless, routine, exercise, work out, weight training, ](https://images.unsplash.com/photo-1640077597161-3ba5101624ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTQyMTg3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Got Real Results With 3 Simple Daily Shifts")
-*How I Got Real Results With 3 Simple Daily Shifts - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-plan-start-and-work-jXF7yGZuOwA)*
+{{< figure src="https://images.unsplash.com/photo-1640077597161-3ba5101624ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTQyMTg3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles plan start and work" title="How I Got Real Results With 3 Simple Daily Shifts" caption="How I Got Real Results With 3 Simple Daily Shifts - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-plan-start-and-work-jXF7yGZuOwA)" >}}
 
 ## 2. Make Tasks Easier by Reducing Friction
 
@@ -48,9 +46,7 @@ If you start applying these three keys, you’ll notice a real shift. It’s not
 >
 > — Robert Collier
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, make this the day, don't hesitate, procrastination, decision time, nocrastination, make the jump, exercise, new start, discipline, now is the time, just do it, make the change, diet, weight loss, walk, new leaf, turn over a new leaf, life change, stuck in a rut, move on, 
-](https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTQyMTg3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Got Real Results With 3 Simple Daily Shifts")
-*How I Got Real Results With 3 Simple Daily Shifts - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)*
+{{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBwbGFubmluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTQyMTg3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How I Got Real Results With 3 Simple Daily Shifts" caption="How I Got Real Results With 3 Simple Daily Shifts - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 
 > _The secret of your future is hidden in your daily routine._
 >

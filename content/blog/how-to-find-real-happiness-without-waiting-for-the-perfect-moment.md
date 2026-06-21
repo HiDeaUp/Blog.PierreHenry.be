@@ -12,8 +12,7 @@ original_title = "Ce qu'on ne te dit pas sur le bien-être : Mon retour d'expér
 source_medium = "https://medium.com/@phenrysay/17100d23c342"
 +++
 
-![A gift wrapped in pink paper with silver starts and silver ribbon.](https://images.unsplash.com/photo-1601307666167-910027240bcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwbGl2aW5nJTIwaW4lMjB0aGUlMjBwcmVzZW50JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMxNjkxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Waiting for the Perfect Moment")
-*How to Find Real Happiness Without Waiting for the Perfect Moment - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/pink-and-white-polka-dot-tote-bag-rO20Sn1FWo4)*
+{{< figure src="https://images.unsplash.com/photo-1601307666167-910027240bcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwbGl2aW5nJTIwaW4lMjB0aGUlMjBwcmVzZW50JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMxNjkxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A gift wrapped in pink paper with silver starts and silver ribbon." title="How to Find Real Happiness Without Waiting for the Perfect Moment" caption="How to Find Real Happiness Without Waiting for the Perfect Moment - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/pink-and-white-polka-dot-tote-bag-rO20Sn1FWo4)" >}}
 
 Have you ever noticed how hard it is to truly enjoy the present? We often hear about the importance of “living in the moment,” but putting it into practice is another story. Let me share what I’ve learned from my own life, and why I believe this is the real key to well-being.
 
@@ -21,8 +20,7 @@ Right now, I’m sitting at Darling Harbour in Sydney—a beautiful place. But e
 
 This doesn’t just happen on holidays. When you start a new job, you might tell yourself, “I need to make a good impression during my probation period.” In Australia, that’s six months; in France, it’s usually three. So you hold back, waiting for the “real” experience to start. Then, when probation ends, you start thinking about your annual salary review. You tell yourself, “I can’t relax yet, I need to work extra hours if I want that raise.” And after that, there’s always something else—another milestone, another worry, another reason not to enjoy where you are.
 
-![Man meditating near water. ](https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwbGl2aW5nJTIwaW4lMjB0aGUlMjBwcmVzZW50JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMxNjkxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Waiting for the Perfect Moment")
-*How to Find Real Happiness Without Waiting for the Perfect Moment - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)*
+{{< figure src="https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwbGl2aW5nJTIwaW4lMjB0aGUlMjBwcmVzZW50JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMxNjkxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man meditating near water." title="How to Find Real Happiness Without Waiting for the Perfect Moment" caption="How to Find Real Happiness Without Waiting for the Perfect Moment - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)" >}}
 
 It’s the same story with money. There’s this idea of “fuck you money”—having enough saved up so you can tell your boss or anyone else, “I’m done.” I know people who work in banking in London, saving for years, hoping to reach that magic number so they can move back to France, buy a house, and retire early. But after ten or fifteen years, they realize it’s never enough. Life keeps moving, families grow, expenses rise, and the goalpost shifts. The truth is, you’ll never have “enough” money. The more you have, the more you spend. It’s a trap.
 
@@ -38,8 +36,7 @@ Life is beautiful. It deserves to be lived fully, right now. Don’t let worries
 > *“You are never too old to set another goal or to dream a new dream.”*  
 > — C.S. Lewis
 
-![Photo by Chelsea Gates](https://images.unsplash.com/photo-1591228127791-8e2eaef098d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwbGl2aW5nJTIwaW4lMjB0aGUlMjBwcmVzZW50JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMxNjkxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Waiting for the Perfect Moment")
-*How to Find Real Happiness Without Waiting for the Perfect Moment - Photo by [Chelsea Gates](https://unsplash.com/@chelseacgates) on [Unsplash](https://unsplash.com/photos/person-in-blue-shorts-sitting-on-beach-shore-during-daytime-n8L1VYaypcw)*
+{{< figure src="https://images.unsplash.com/photo-1591228127791-8e2eaef098d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwbGl2aW5nJTIwaW4lMjB0aGUlMjBwcmVzZW50JTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc0OTMxNjkxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person in blue shorts sitting on beach shore during daytime" title="How to Find Real Happiness Without Waiting for the Perfect Moment" caption="How to Find Real Happiness Without Waiting for the Perfect Moment - Photo by [Chelsea Gates](https://unsplash.com/@chelseacgates) on [Unsplash](https://unsplash.com/photos/person-in-blue-shorts-sitting-on-beach-shore-during-daytime-n8L1VYaypcw)" >}}
 
 ---
 

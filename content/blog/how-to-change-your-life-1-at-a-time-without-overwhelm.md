@@ -12,8 +12,7 @@ original_title = "Comment changer sa vie en progressant d’1% par jour ?"
 source_medium = "https://medium.com/@phenrysay/bbf6475e8968"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life 1% at a Time Without Overwhelm")
-*How to Change Your Life 1% at a Time Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Change Your Life 1% at a Time Without Overwhelm" caption="How to Change Your Life 1% at a Time Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 There’s a mindset that stands apart from the usual “top 1%” mentality. It’s not about being the best overnight or chasing perfection. Instead, it’s about making a conscious effort to be just 1% better than you were yesterday. This idea, which I first discovered in the book *Atomic Habits*, has completely changed the way I approach my days.
 
@@ -28,8 +27,7 @@ But if you focus on small wins each day, you create a virtuous circle. Every Sun
 
 Discipline is what connects your dreams to your achievements. There’s another quote I love: *Discipline equals freedom.* If you’re disciplined in your daily routines, you build healthy habits that support your goals. For example, starting your day with a healthy breakfast, not too sweet, helps your productivity and focus. Even something as simple as taking a cold shower can make a difference. It’s uncomfortable, but afterwards you feel proud, energized, and ready to tackle anything else the day throws at you.
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life 1% at a Time Without Overwhelm")
-*How to Change Your Life 1% at a Time Without Overwhelm - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Change Your Life 1% at a Time Without Overwhelm" caption="How to Change Your Life 1% at a Time Without Overwhelm - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 Cold showers aren’t just a test of willpower. They’re great for your health, your immune system, your mood, and even fertility. If you’re curious, look it up—there’s plenty of research on the benefits. And don’t forget to drink two glasses of water as soon as you wake up, before breakfast. I talk about this in my book, and it’s a habit that has made a big difference for me.
 
@@ -48,8 +46,7 @@ But don’t overdo it. If you reward yourself all the time, it loses its meaning
 
 Finally, alternate your activities. If you’re working on a computer, switch to something physical or creative for a while. This keeps your days balanced and helps you stay happy and healthy.
 
-![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life 1% at a Time Without Overwhelm")
-*How to Change Your Life 1% at a Time Without Overwhelm - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
+{{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Change Your Life 1% at a Time Without Overwhelm" caption="How to Change Your Life 1% at a Time Without Overwhelm - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 > — Robert Collier

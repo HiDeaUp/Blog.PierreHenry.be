@@ -12,8 +12,7 @@ original_title = "Comment activer sa réussite sur mesure ?😊"
 source_medium = "https://medium.com/@phenrysay/de392d393ffe"
 +++
 
-![Man climbing during summer](https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1mZWFyJTIwcGVyc29uYWwtc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NjQwNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Succeeding Without Waiting for the Perfect Moment")
-*How to Start Succeeding Without Waiting for the Perfect Moment - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)*
+{{< figure src="https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1mZWFyJTIwcGVyc29uYWwtc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NjQwNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man climbing during summer" title="How to Start Succeeding Without Waiting for the Perfect Moment" caption="How to Start Succeeding Without Waiting for the Perfect Moment - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)" >}}
 
 Have you ever wanted to start something new, only to feel a wave of stress and hesitation wash over you? Maybe you dream of launching a project, changing your routine, or beginning a new adventure. But then, doubts creep in. What if things don’t go as planned? What if you fail? Our minds are experts at listing every possible thing that could go wrong, and this mental list can be paralyzing.
 
@@ -23,8 +22,7 @@ But what if you changed your perspective? What if, instead of seeing a failed at
 
 Life is a bit like climbing a staircase. With each step, you move forward. Some steps are easy, others are shaky, but each one is necessary. Sometimes things go well, and that’s great. Sometimes they don’t, and that’s normal too. Life is full of both beautiful moments and disappointments. If you focus only on what might go wrong, you’ll freeze. You won’t take action, and you’ll stay exactly where you are.
 
-![Photo by Guillaume de Germain](https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1mZWFyJTIwcGVyc29uYWwtc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NjQwNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Succeeding Without Waiting for the Perfect Moment")
-*How to Start Succeeding Without Waiting for the Perfect Moment - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)*
+{{< figure src="https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1mZWFyJTIwcGVyc29uYWwtc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NjQwNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man under orange sky" title="How to Start Succeeding Without Waiting for the Perfect Moment" caption="How to Start Succeeding Without Waiting for the Perfect Moment - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)" >}}
 
 If you do nothing, don’t expect your life to change. Don’t expect new opportunities or breakthroughs if you never dare to step outside your comfort zone. Life is made of ups and downs, and that’s what makes it beautiful. Think of a sunset: the magic comes from the contrast between the red-orange sun and the blue or cloudy sky. The same goes for the green leaves against the sky. It’s the contrasts that make everything stand out.
 
@@ -40,8 +38,7 @@ With time, you’ll look back and realize that trying was worth it. You’ll be 
 
 ## Key Takeaways
 
-![Photo by Gwenn Klabbers](https://images.unsplash.com/photo-1626977989697-1500514a71cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1mZWFyJTIwcGVyc29uYWwtc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NjQwNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Succeeding Without Waiting for the Perfect Moment")
-*How to Start Succeeding Without Waiting for the Perfect Moment - Photo by [Gwenn Klabbers](https://unsplash.com/@reisgekkie) on [Unsplash](https://unsplash.com/photos/silhouette-of-woman-jumping-on-the-sea-during-sunset-VRVQURqcJs0)*
+{{< figure src="https://images.unsplash.com/photo-1626977989697-1500514a71cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1mZWFyJTIwcGVyc29uYWwtc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NjQwNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of woman jumping on the sea during sunset" title="How to Start Succeeding Without Waiting for the Perfect Moment" caption="How to Start Succeeding Without Waiting for the Perfect Moment - Photo by [Gwenn Klabbers](https://unsplash.com/@reisgekkie) on [Unsplash](https://unsplash.com/photos/silhouette-of-woman-jumping-on-the-sea-during-sunset-VRVQURqcJs0)" >}}
 
 - *Fear of failure often stops us before we even start.*
 - *Every attempt is a lesson, not a defeat.*

@@ -12,8 +12,7 @@ original_title = "VENTE : Je FAIS une offre pour mon SaaS devant toi !"
 source_medium = "https://medium.com/@phenrysay/205256217d21"
 +++
 
-![Photo by Chelaxy Designs](https://images.unsplash.com/photo-1678166010410-2c1c769712ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTYWFTJTIwYnJhbmQlMjBidWlsZGluZyUyMHNhbGVzJTIwc3RyYXRlZ3l8ZW58MHwwfHx8MTc1NTM4NDA0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Built a SaaS Offer That Stands Out—Without Spamming")
-*How I Built a SaaS Offer That Stands Out—Without Spamming - Photo by [Chelaxy Designs](https://unsplash.com/@chelaxydp) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-sales-on-the-side-of-a-building-hRI4703rHOg)*
+{{< figure src="https://images.unsplash.com/photo-1678166010410-2c1c769712ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTYWFTJTIwYnJhbmQlMjBidWlsZGluZyUyMHNhbGVzJTIwc3RyYXRlZ3l8ZW58MHwwfHx8MTc1NTM4NDA0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says sales on the side of a" title="How I Built a SaaS Offer That Stands Out—Without Spamming" caption="How I Built a SaaS Offer That Stands Out—Without Spamming - Photo by [Chelaxy Designs](https://unsplash.com/@chelaxydp) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-sales-on-the-side-of-a-building-hRI4703rHOg)" >}}
 
 When you live and breathe your brand, it becomes more than just a business. It’s like your own child—something you care for, think about, and nurture every single day. That’s how I feel about my SaaS, wiener.io. I’m always thinking about how to make it better, how to talk about it, and how to share it with the right people.
 
@@ -27,8 +26,7 @@ I realized that explaining all these steps in one email would be a mess. So, I d
 
 This process reminded me of something from my programming days: the “rubber duck debugging” method. You talk through your problem—sometimes to a colleague, sometimes to a rubber duck on your desk—and just by explaining it out loud, you often find the solution. Marketing works the same way. Talking things out, even just to yourself, helps you see what works and what doesn’t.
 
-![Photo by 卓倩 李](https://images.unsplash.com/photo-1583922606661-0822ed0bd916?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTYWFTJTIwYnJhbmQlMjBidWlsZGluZyUyMHNhbGVzJTIwc3RyYXRlZ3l8ZW58MHwwfHx8MTc1NTM4NDA0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Built a SaaS Offer That Stands Out—Without Spamming")
-*How I Built a SaaS Offer That Stands Out—Without Spamming - Photo by [卓倩 李](https://unsplash.com/@unrivaledmarijuana) on [Unsplash](https://unsplash.com/photos/people-walking-inside-building-during-daytime-aUe9RCFFcjU)*
+{{< figure src="https://images.unsplash.com/photo-1583922606661-0822ed0bd916?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTYWFTJTIwYnJhbmQlMjBidWlsZGluZyUyMHNhbGVzJTIwc3RyYXRlZ3l8ZW58MHwwfHx8MTc1NTM4NDA0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="People walking inside during daytime" title="How I Built a SaaS Offer That Stands Out—Without Spamming" caption="How I Built a SaaS Offer That Stands Out—Without Spamming - Photo by [卓倩 李](https://unsplash.com/@unrivaledmarijuana) on [Unsplash](https://unsplash.com/photos/people-walking-inside-building-during-daytime-aUe9RCFFcjU)" >}}
 
 If you’re a solo founder or web entrepreneur, you know how lonely it can get. Sure, you can talk to AI tools, and sometimes they feel like your co-founder. But nothing beats talking things out, even if it’s just to a camera or a friend at a bar. That’s how you get those “aha!” moments—like realizing that maybe $57 is too close to $59, and $54 would make a better price point.
 
@@ -48,8 +46,7 @@ Routine matters, too. A good routine keeps you healthy and focused. For me, it�
 
 ## Key Takeaways
 
-![Photo by Yohan Marion](https://images.unsplash.com/photo-1642709493801-22e562c530fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTYWFTJTIwYnJhbmQlMjBidWlsZGluZyUyMHNhbGVzJTIwc3RyYXRlZ3l8ZW58MHwwfHx8MTc1NTM4NDA0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Built a SaaS Offer That Stands Out—Without Spamming")
-*How I Built a SaaS Offer That Stands Out—Without Spamming - Photo by [Yohan Marion](https://unsplash.com/@yohanmarion) on [Unsplash](https://unsplash.com/photos/a-red-and-white-building-with-a-sky-background-1XT5YYaDO7M)*
+{{< figure src="https://images.unsplash.com/photo-1642709493801-22e562c530fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTYWFTJTIwYnJhbmQlMjBidWlsZGluZyUyMHNhbGVzJTIwc3RyYXRlZ3l8ZW58MHwwfHx8MTc1NTM4NDA0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A red and white with a sky" title="How I Built a SaaS Offer That Stands Out—Without Spamming" caption="How I Built a SaaS Offer That Stands Out—Without Spamming - Photo by [Yohan Marion](https://unsplash.com/@yohanmarion) on [Unsplash](https://unsplash.com/photos/a-red-and-white-building-with-a-sky-background-1XT5YYaDO7M)" >}}
 
 - Treat your brand like something you care for every day.
 - Make your offers clear, valuable, and time-limited.

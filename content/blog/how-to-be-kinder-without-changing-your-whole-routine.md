@@ -12,8 +12,7 @@ original_title = "Comment gagner en gentillesse ?"
 source_medium = "https://medium.com/@phenrysay/949aa67f901c"
 +++
 
-![Photo by mana5280](https://images.unsplash.com/photo-1620785552601-c2bbe4b39310?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxraW5kbmVzcyUyMHNtYWxsJTIwZ2VzdHVyZXMlMjBodW1hbiUyMGludGVyYWN0aW9ufGVufDB8MHx8fDE3NTU0MjIyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Kinder Without Changing Your Whole Routine")
-*How to Be Kinder Without Changing Your Whole Routine - Photo by [mana5280](https://unsplash.com/@mana5280) on [Unsplash](https://unsplash.com/photos/black-and-pink-floral-happy-birthday-signage-09XlVn4vyi0)*
+{{< figure src="https://images.unsplash.com/photo-1620785552601-c2bbe4b39310?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxraW5kbmVzcyUyMHNtYWxsJTIwZ2VzdHVyZXMlMjBodW1hbiUyMGludGVyYWN0aW9ufGVufDB8MHx8fDE3NTU0MjIyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and pink floral happy signage" title="How to Be Kinder Without Changing Your Whole Routine" caption="How to Be Kinder Without Changing Your Whole Routine - Photo by [mana5280](https://unsplash.com/@mana5280) on [Unsplash](https://unsplash.com/photos/black-and-pink-floral-happy-birthday-signage-09XlVn4vyi0)" >}}
 
 Kindness and attention to detail are often underestimated, especially in places like hotels, restaurants, or even during everyday encounters—buying a train ticket, chatting with a taxi driver, or asking for directions at a tourist office. Yet, these small moments shape our entire experience. The way we interact with others, whether as a customer or as someone providing a service, can make or break a day.
 
@@ -23,8 +22,7 @@ Kindness is not just about being polite. It’s about paying attention to the li
 
 Always pay attention to details. It’s crucial. The way you place someone’s bags, how you hand over a menu—why not present it on a tray? It looks better and takes almost no extra effort. Asking how someone’s day is going, or if they have plans after their meal, adds a personal touch. It only takes a few seconds, but it builds a real connection.
 
-![Bird in Hand](https://images.unsplash.com/photo-1478695605156-f64b0ee877f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxraW5kbmVzcyUyMHNtYWxsJTIwZ2VzdHVyZXMlMjBodW1hbiUyMGludGVyYWN0aW9ufGVufDB8MHx8fDE3NTU0MjIyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Kinder Without Changing Your Whole Routine")
-*How to Be Kinder Without Changing Your Whole Routine - Photo by [Bonnie Kittle](https://unsplash.com/@bonniekdesign) on [Unsplash](https://unsplash.com/photos/black-brown-and-white-bird-standing-on-person-right-hand-OP2YXOUspjQ)*
+{{< figure src="https://images.unsplash.com/photo-1478695605156-f64b0ee877f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxraW5kbmVzcyUyMHNtYWxsJTIwZ2VzdHVyZXMlMjBodW1hbiUyMGludGVyYWN0aW9ufGVufDB8MHx8fDE3NTU0MjIyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Bird in Hand" title="How to Be Kinder Without Changing Your Whole Routine" caption="How to Be Kinder Without Changing Your Whole Routine - Photo by [Bonnie Kittle](https://unsplash.com/@bonniekdesign) on [Unsplash](https://unsplash.com/photos/black-brown-and-white-bird-standing-on-person-right-hand-OP2YXOUspjQ)" >}}
 
 Even when the person in front of you is unpleasant, staying kind, polite, and professional is a universal key. Always aim for the highest quality in your interactions, and never forget the details. If it’s raining, offer an umbrella. If someone needs a taxi, help them arrange one. Treat your clients, your guests, or even strangers as you would treat your own children—with genuine care and attention.
 
@@ -38,8 +36,7 @@ Taking care of people “aux petits oignons,” as we say in French, means looki
 
 ---
 
-![Photo by Yuriy Vertikov](https://images.unsplash.com/photo-1747589416327-e4286002a55b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxraW5kbmVzcyUyMHNtYWxsJTIwZ2VzdHVyZXMlMjBodW1hbiUyMGludGVyYWN0aW9ufGVufDB8MHx8fDE3NTU0MjIyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Kinder Without Changing Your Whole Routine")
-*How to Be Kinder Without Changing Your Whole Routine - Photo by [Yuriy Vertikov](https://unsplash.com/@noa69) on [Unsplash](https://unsplash.com/photos/squirrel-eats-a-nut-offered-by-a-hand-XtFw31yQyJY)*
+{{< figure src="https://images.unsplash.com/photo-1747589416327-e4286002a55b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxraW5kbmVzcyUyMHNtYWxsJTIwZ2VzdHVyZXMlMjBodW1hbiUyMGludGVyYWN0aW9ufGVufDB8MHx8fDE3NTU0MjIyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Eats a nut offered by a hand" title="How to Be Kinder Without Changing Your Whole Routine" caption="How to Be Kinder Without Changing Your Whole Routine - Photo by [Yuriy Vertikov](https://unsplash.com/@noa69) on [Unsplash](https://unsplash.com/photos/squirrel-eats-a-nut-offered-by-a-hand-XtFw31yQyJY)" >}}
 
 ## Key Takeaways
 - Small gestures and attention to detail make all the difference.

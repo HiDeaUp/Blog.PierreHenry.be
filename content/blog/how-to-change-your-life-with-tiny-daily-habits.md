@@ -12,8 +12,7 @@ original_title = "Comment s'améliorer progressivement...?"
 source_medium = "https://medium.com/@phenrysay/7d902809fe2f"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With Tiny Daily Habits")
-*How to Change Your Life With Tiny Daily Habits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Change Your Life With Tiny Daily Habits" caption="How to Change Your Life With Tiny Daily Habits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Improving yourself is not about making huge leaps overnight. It’s about taking small steps, every single day. Think about your daily habits. When you take a shower, brush your teeth, or eat, you don’t stop to wonder if you should do it, or if you’ve forgotten. These actions are so deeply rooted that you do them automatically, without thinking. This is the secret to real progress: making improvement as automatic as brushing your teeth.
 
@@ -23,8 +22,7 @@ For example, I live in Adelaide. If I wanted to become a tour guide here, I’d 
 
 Fifteen minutes a day may not sound like much, but after a month, that’s over four hours of focused work. Even if it’s just research, that’s a lot of time well spent. Think about it: taking a shower, getting undressed, waiting for the water to heat up, soaping up, drying off, and getting dressed again easily takes more than 15 minutes. We all have time to improve our lives, even if it’s just a quarter of an hour a day.
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With Tiny Daily Habits")
-*How to Change Your Life With Tiny Daily Habits - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Change Your Life With Tiny Daily Habits" caption="How to Change Your Life With Tiny Daily Habits - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 If you want to become an expert in something, remember this: fifteen minutes a day is enough. There are no excuses. It’s just a matter of building the habit. I believe this with all my heart. That’s why I’m sharing it with you.
 
@@ -43,8 +41,7 @@ If you want to become an expert in something, remember this: fifteen minutes a d
 - *Fifteen minutes a day adds up to real progress over time.*
 - *Write down your goals and track your steps, even if they seem tiny.*
 
-![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With Tiny Daily Habits")
-*How to Change Your Life With Tiny Daily Habits - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
+{{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Change Your Life With Tiny Daily Habits" caption="How to Change Your Life With Tiny Daily Habits - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
 ## Action Steps
 

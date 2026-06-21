@@ -12,8 +12,7 @@ original_title = "Notre portée dépasse celle de notre IMAGINATION"
 source_medium = "https://medium.com/@phenrysay/f7107718a7fe"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGxpbWl0bGVzcyUyMHBvdGVudGlhbHxlbnwwfDB8fHwxNzU1NjU1NTgyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More Than You Ever Imagined Without Limits")
-*How to Achieve More Than You Ever Imagined Without Limits - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGxpbWl0bGVzcyUyMHBvdGVudGlhbHxlbnwwfDB8fHwxNzU1NjU1NTgyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Achieve More Than You Ever Imagined Without Limits" caption="How to Achieve More Than You Ever Imagined Without Limits - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Have you ever stopped to think that what you can achieve in life goes far beyond what you can even imagine? The only real limit is how much you want something. If you want something with all your heart, if it becomes your obsession, your passion, then you will find a way to make it happen. Life is short. It can end at any moment, and that’s why it’s so important to choose your own path.
 
@@ -25,8 +24,7 @@ If you’re not sure whether your idea is good or not, do it anyway. Otherwise, 
 
 Don’t spend your life trying to impress people you don’t even like. Sometimes we study subjects just to please our parents or colleagues, even though we have no real interest in them. Why waste your time and energy on something that doesn’t excite you? If you know deep down that something is your dream job or a real investment in yourself, go for it. But if you’re only doing it to impress others, stop and ask yourself if it’s really worth it.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGxpbWl0bGVzcyUyMHBvdGVudGlhbHxlbnwwfDB8fHwxNzU1NjU1NTgyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More Than You Ever Imagined Without Limits")
-*How to Achieve More Than You Ever Imagined Without Limits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGxpbWl0bGVzcyUyMHBvdGVudGlhbHxlbnwwfDB8fHwxNzU1NjU1NTgyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Achieve More Than You Ever Imagined Without Limits" caption="How to Achieve More Than You Ever Imagined Without Limits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 The same goes for material things. Maybe you buy a fancy car because you’re a doctor and you think you have to show a certain image, even though you don’t care about cars. Why spend money to impress people you don’t even want to spend time with? Society often pushes us to do things just for appearances, but it’s much better to stay true to yourself. If you’re happy and passionate, if you listen to yourself, you’ll naturally become charismatic. That’s what inspires others. Being yourself and following your own path is the best way to live.
 
@@ -48,10 +46,7 @@ If you want to make real progress, try this: at the end of each day, rate your d
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, white background, wood, scrabble tiles, wood, words, lift, lower, repeat, weight training, pumping iron, fitness training, fitness, weights, barbell, dumbell, persistence, repetition, reps,
-
-](https://images.unsplash.com/photo-1594107208740-d9b7e8c8d9df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGxpbWl0bGVzcyUyMHBvdGVudGlhbHxlbnwwfDB8fHwxNzU1NjU1NTgyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More Than You Ever Imagined Without Limits")
-*How to Achieve More Than You Ever Imagined Without Limits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-cdHXJDtnktU)*
+{{< figure src="https://images.unsplash.com/photo-1594107208740-d9b7e8c8d9df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGxpbWl0bGVzcyUyMHBvdGVudGlhbHxlbnwwfDB8fHwxNzU1NjU1NTgyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Achieve More Than You Ever Imagined Without Limits" caption="How to Achieve More Than You Ever Imagined Without Limits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-cdHXJDtnktU)" >}}
 
 - *Your potential is greater than you think. Want it enough, and you’ll find a way.*
 - *Start today. The second-best time is now.*

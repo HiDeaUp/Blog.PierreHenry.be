@@ -12,8 +12,7 @@ original_title = "Les choses quotidiennes qui rendent heureux 🎉"
 source_medium = "https://medium.com/@phenrysay/d38408ea18e9"
 +++
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGhhcHBpbmVzcyUyMHBhc3Npb24lMjBwcm9qZWN0cyUyMGpveXxlbnwwfDB8fHwxNzU2NTEwODA0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy by Juggling Two or Three Passions")
-*How to Find Daily Joy by Juggling Two or Three Passions - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGhhcHBpbmVzcyUyMHBhc3Npb24lMjBwcm9qZWN0cyUyMGpveXxlbnwwfDB8fHwxNzU2NTEwODA0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Find Daily Joy by Juggling Two or Three Passions" caption="How to Find Daily Joy by Juggling Two or Three Passions - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 Long-term vision is more than just a buzzword. When you look ahead and set your sights on a project—or even two or three—you give yourself a reason to stay curious, to keep searching, and to fill your days with things that truly bring you joy. Alternating between different projects is important. It keeps your mind awake and your spirit engaged.
 
@@ -25,8 +24,7 @@ Another benefit is gratitude. When you work on a project and see it come to life
 
 Alternating between passion projects is key. Take a notebook and jot down ten or twenty ideas for projects. Pick two or three to start with. Sometimes the best ideas aren’t obvious, so ask your family what you loved doing when you were a kid. Maybe you spent whole afternoons building with Playmobil or reading comics. I used to love Playmobil myself. Even now, I could sell collectible Playmobil sets online, make a film about them, or join a community of collectors. These things bring back wonderful memories.
 
-![A sign on the wall of Konjed Cafe](https://images.unsplash.com/photo-1579542118150-10ecdf5a78dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGhhcHBpbmVzcyUyMHBhc3Npb24lMjBwcm9qZWN0cyUyMGpveXxlbnwwfDB8fHwxNzU2NTEwODA0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy by Juggling Two or Three Passions")
-*How to Find Daily Joy by Juggling Two or Three Passions - Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121) on [Unsplash](https://unsplash.com/photos/red-and-white-stop-sign-v3SJShEjoQI)*
+{{< figure src="https://images.unsplash.com/photo-1579542118150-10ecdf5a78dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGhhcHBpbmVzcyUyMHBhc3Npb24lMjBwcm9qZWN0cyUyMGpveXxlbnwwfDB8fHwxNzU2NTEwODA0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on the wall of Konjed Cafe" title="How to Find Daily Joy by Juggling Two or Three Passions" caption="How to Find Daily Joy by Juggling Two or Three Passions - Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121) on [Unsplash](https://unsplash.com/photos/red-and-white-stop-sign-v3SJShEjoQI)" >}}
 
 I also loved reading, especially Tintin comics. Now, there’s a great Tintin app where you can read all the comics on your tablet, even in different languages. Imagine spending half an hour in the evening, maybe in the bath or on the couch, reading a Tintin comic in English, Spanish, Italian, German, or even Japanese. It’s a fun way to improve your language skills while doing something you love.
 
@@ -48,8 +46,7 @@ Gardening, dog grooming, training dogs, or even decorating for Christmas—these
 - *Don’t be afraid to try new things or revisit old hobbies.*
 - *Life is short; fill it with moments that bring you joy.*
 
-![mug with happiness](https://images.unsplash.com/photo-1720698992880-ae93ea16aac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGhhcHBpbmVzcyUyMHBhc3Npb24lMjBwcm9qZWN0cyUyMGpveXxlbnwwfDB8fHwxNzU2NTEwODA0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy by Juggling Two or Three Passions")
-*How to Find Daily Joy by Juggling Two or Three Passions - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-9cc3eio-Vl0)*
+{{< figure src="https://images.unsplash.com/photo-1720698992880-ae93ea16aac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGhhcHBpbmVzcyUyMHBhc3Npb24lMjBwcm9qZWN0cyUyMGpveXxlbnwwfDB8fHwxNzU2NTEwODA0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="mug with happiness" title="How to Find Daily Joy by Juggling Two or Three Passions" caption="How to Find Daily Joy by Juggling Two or Three Passions - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-9cc3eio-Vl0)" >}}
 
 ## Action Steps
 

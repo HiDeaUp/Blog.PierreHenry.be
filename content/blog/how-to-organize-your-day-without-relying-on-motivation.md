@@ -12,8 +12,7 @@ original_title = "La nouvelle manière de s'organiser. Voici ce qui marche !"
 source_medium = "https://medium.com/@phenrysay/da2e6431ce24"
 +++
 
-![My current desk setup as of 2016. I am a wedding and portrait photographer and have always believed the space you do work in has a big impact on the quality and kind of work you complete. I have been refining my workspace since I was in high school and I am really happy where it is now!](https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb24lMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc0OTQxODgwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Day Without Relying on Motivation")
-*How to Organize Your Day Without Relying on Motivation - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)*
+{{< figure src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb24lMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc0OTQxODgwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Silver imac with and inside room KE0nC8 58MQ" title="How to Organize Your Day Without Relying on Motivation" caption="How to Organize Your Day Without Relying on Motivation - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)" >}}
 
 Organizing your days so they feel lighter, more playful, and—most importantly—don’t require you to dig deep for motivation or energy, is not just possible, it’s practical. Instead of forcing yourself to “get pumped” or “find your why” every morning, there’s a much simpler way: create a chain of small, clear steps that naturally lead you through your day.
 
@@ -29,8 +28,7 @@ Next, ask yourself: what can I do tomorrow to make things smoother? That’s you
 
 Every evening’s plan is like laying one stone after another, slowly building the path to your long-term goal.
 
-![Support my mission by buying me a coffee: ko-fi.com/bramnaus :)](https://images.unsplash.com/photo-1485988412941-77a35537dae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb24lMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc0OTQxODgwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Day Without Relying on Motivation")
-*How to Organize Your Day Without Relying on Motivation - Photo by [Bram Naus](https://unsplash.com/@bramnaus) on [Unsplash](https://unsplash.com/photos/silver-macbook-beside-space-gray-iphone-6-and-clear-drinking-glass-on-brown-wooden-top-n8Qb1ZAkK88)*
+{{< figure src="https://images.unsplash.com/photo-1485988412941-77a35537dae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb24lMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc0OTQxODgwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Support my mission by buying me a coffee: ko-fi.com/bramnaus :)" title="How to Organize Your Day Without Relying on Motivation" caption="How to Organize Your Day Without Relying on Motivation - Photo by [Bram Naus](https://unsplash.com/@bramnaus) on [Unsplash](https://unsplash.com/photos/silver-macbook-beside-space-gray-iphone-6-and-clear-drinking-glass-on-brown-wooden-top-n8Qb1ZAkK88)" >}}
 
 ## Small Steps, Big Results
 
@@ -54,8 +52,7 @@ By making these small changes, day after day, you’ll see your daily life impro
 > *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
 > — Aristotle
 
-![Photo by kris](https://images.unsplash.com/photo-1542123491-63f422a5f45e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb24lMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc0OTQxODgwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Day Without Relying on Motivation")
-*How to Organize Your Day Without Relying on Motivation - Photo by [kris](https://unsplash.com/@leafybirdy) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-productivity-printed-book-n9u9ZEoH2yM)*
+{{< figure src="https://images.unsplash.com/photo-1542123491-63f422a5f45e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb24lMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc0OTQxODgwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Focus of printed book" title="How to Organize Your Day Without Relying on Motivation" caption="How to Organize Your Day Without Relying on Motivation - Photo by [kris](https://unsplash.com/@leafybirdy) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-productivity-printed-book-n9u9ZEoH2yM)" >}}
 
 ## The Power of Iteration
 

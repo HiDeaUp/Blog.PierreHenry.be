@@ -12,8 +12,7 @@ original_title = "Utiliser la rigueur comme force 💪"
 source_medium = "https://medium.com/@phenrysay/a1a34bd3d51f"
 +++
 
-![Photo by Nikola Gladovic](https://images.unsplash.com/photo-1673872685586-5d06b159f645?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaXNjaXBsaW5lJTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA5NzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Discipline Without Burning Out")
-*How to Build Discipline Without Burning Out - Photo by [Nikola Gladovic](https://unsplash.com/@ulixcreative) on [Unsplash](https://unsplash.com/photos/a-shirtless-man-holding-a-pair-of-gloves-xCMztIUerjg)*
+{{< figure src="https://images.unsplash.com/photo-1673872685586-5d06b159f645?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaXNjaXBsaW5lJTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA5NzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man holding a pair of gloves" title="How to Build Discipline Without Burning Out" caption="How to Build Discipline Without Burning Out - Photo by [Nikola Gladovic](https://unsplash.com/@ulixcreative) on [Unsplash](https://unsplash.com/photos/a-shirtless-man-holding-a-pair-of-gloves-xCMztIUerjg)" >}}
 
 Feeling aligned with your achievements is one of the most satisfying experiences you can have. Today, let’s talk about those small things you want to accomplish—those little steps that move you closer to your goals. Every day, we have ideas and desires, but often, we don’t act on them. Sometimes we miss the mark, or we don’t even try. Why? Usually, it’s because we haven’t found our rhythm or built the discipline to make these actions part of our routine.
 
@@ -25,8 +24,7 @@ Accomplishing meaningful things is what counts most. When you achieve something 
 
 How do you make this happen? First, be persistent. Second, focus on the outcome you want. For example, if your goal is to write three pages by noon, that’s half a chapter. Do this for four days, and by Tuesday, you’ve finished a chapter. Seeing your progress take shape is motivating. It’s not just about having a routine—it’s about watching your efforts become real, step by step.
 
-![Working out](https://images.unsplash.com/photo-1623092350739-4635ce84d47c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaXNjaXBsaW5lJTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA5NzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Discipline Without Burning Out")
-*How to Build Discipline Without Burning Out - Photo by [Tyler Chandler](https://unsplash.com/@tylerchandlerr) on [Unsplash](https://unsplash.com/photos/topless-man-holding-on-stainless-steel-bar-F9hsT9VC9cU)*
+{{< figure src="https://images.unsplash.com/photo-1623092350739-4635ce84d47c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaXNjaXBsaW5lJTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA5NzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Working out" title="How to Build Discipline Without Burning Out" caption="How to Build Discipline Without Burning Out - Photo by [Tyler Chandler](https://unsplash.com/@tylerchandlerr) on [Unsplash](https://unsplash.com/photos/topless-man-holding-on-stainless-steel-bar-F9hsT9VC9cU)" >}}
 
 Motivation still matters, even when something becomes a habit. In fact, habits are a kind of positive addiction. While we often think of addiction as negative, a good habit is something that sticks with you and helps you grow. It’s a force that keeps you moving forward.
 
@@ -44,8 +42,7 @@ The key is not to be afraid of changing your habits, even if you had a clear pla
 
 ---
 
-![Photo by Kobe Kian Clata](https://images.unsplash.com/photo-1734668484998-c943d1fcb48a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaXNjaXBsaW5lJTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA5NzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Discipline Without Burning Out")
-*How to Build Discipline Without Burning Out - Photo by [Kobe Kian Clata](https://unsplash.com/@kobe007) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-bench-in-a-gym-NAhfqSQZc4Q)*
+{{< figure src="https://images.unsplash.com/photo-1734668484998-c943d1fcb48a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaXNjaXBsaW5lJTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA5NzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a bench in a gym" title="How to Build Discipline Without Burning Out" caption="How to Build Discipline Without Burning Out - Photo by [Kobe Kian Clata](https://unsplash.com/@kobe007) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-bench-in-a-gym-NAhfqSQZc4Q)" >}}
 
 ## Key Takeaways
 

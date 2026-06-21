@@ -10,8 +10,7 @@ original_title = "Faire des exercices au quotidien"
 source_medium = "https://medium.com/@phenrysay/d55b3dc3afe3"
 +++
 
-![Photo by Aleksander Saks](https://images.unsplash.com/photo-1687184144779-51a366352458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGV4ZXJjaXNlJTIwcGh5c2ljYWwlMjBhY3Rpdml0eSUyMGhlYWx0aHklMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxNzE2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Mindset With a Simple Daily Walk")
-*How to Change Your Mindset With a Simple Daily Walk - Photo by [Aleksander Saks](https://unsplash.com/@alexsaks) on [Unsplash](https://unsplash.com/photos/a-pair-of-shoes-sitting-on-a-wooden-bench-next-to-a-watering-can-lT1OseWogDc)*
+{{< figure src="https://images.unsplash.com/photo-1687184144779-51a366352458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGV4ZXJjaXNlJTIwcGh5c2ljYWwlMjBhY3Rpdml0eSUyMGhlYWx0aHklMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxNzE2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A pair of shoes sitting on a wooden bench next to a can" title="How to Change Your Mindset With a Simple Daily Walk" caption="How to Change Your Mindset With a Simple Daily Walk - Photo by [Aleksander Saks](https://unsplash.com/@alexsaks) on [Unsplash](https://unsplash.com/photos/a-pair-of-shoes-sitting-on-a-wooden-bench-next-to-a-watering-can-lT1OseWogDc)" >}}
 
 Physical exercise is not just about getting fit or building muscle. It’s about feeling alive, lighter, and more in tune with yourself. Even something as simple as walking every day can make a real difference. Most experts suggest at least half an hour of physical activity daily, like walking to work, running errands, or just getting outside for a stroll. That’s the bare minimum. Personally, I recommend aiming for 45 minutes to an hour. This is the basic rule I follow, and I can tell you, it changes everything.
 
@@ -21,8 +20,7 @@ If you skip exercise, you might feel heavy, sluggish, and even more tired. It’
 
 Physical exercise, in all its forms, is good for you and your happiness. It boosts your energy and gives you a more optimistic outlook. When you have more positive energy, you’re more likely to say yes to new opportunities. The more optimistic you are, the more you open yourself up to chance and good things. You might even find yourself smiling more, feeling better in your own skin, and being more open to things you would have said no to before. This increases your chances of success and draws good things your way.
 
-![Photo by Boxed Water Is Better](https://images.unsplash.com/photo-1627483298606-cf54c61779a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGV4ZXJjaXNlJTIwcGh5c2ljYWwlMjBhY3Rpdml0eSUyMGhlYWx0aHklMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxNzE2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Mindset With a Simple Daily Walk")
-*How to Change Your Mindset With a Simple Daily Walk - Photo by [Boxed Water Is Better](https://unsplash.com/@boxedwater) on [Unsplash](https://unsplash.com/photos/woman-in-yellow-shorts-sitting-on-yellow-chair-zQNDCje06VM)*
+{{< figure src="https://images.unsplash.com/photo-1627483298606-cf54c61779a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGV4ZXJjaXNlJTIwcGh5c2ljYWwlMjBhY3Rpdml0eSUyMGhlYWx0aHklMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxNzE2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in yellow shorts sitting on yellow chair" title="How to Change Your Mindset With a Simple Daily Walk" caption="How to Change Your Mindset With a Simple Daily Walk - Photo by [Boxed Water Is Better](https://unsplash.com/@boxedwater) on [Unsplash](https://unsplash.com/photos/woman-in-yellow-shorts-sitting-on-yellow-chair-zQNDCje06VM)" >}}
 
 > *Movement is a medicine for creating change in a person’s physical, emotional, and mental states.*
 — Carol Welch
@@ -39,8 +37,7 @@ Physical exercise, in all its forms, is good for you and your happiness. It boos
 - When you feel tired, try moving instead of resting right away—you’ll often feel more refreshed.
 - Exercise makes you more open to new opportunities and increases your chances of success.
 
-![Photo by Edagar Antoni Ann](https://images.unsplash.com/photo-1662651800883-b784f138e9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGV4ZXJjaXNlJTIwcGh5c2ljYWwlMjBhY3Rpdml0eSUyMGhlYWx0aHklMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxNzE2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Mindset With a Simple Daily Walk")
-*How to Change Your Mindset With a Simple Daily Walk - Photo by [Edagar Antoni Ann](https://unsplash.com/@xedgar94) on [Unsplash](https://unsplash.com/photos/a-man-running-on-a-path-3oJCOIYgcNQ)*
+{{< figure src="https://images.unsplash.com/photo-1662651800883-b784f138e9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGV4ZXJjaXNlJTIwcGh5c2ljYWwlMjBhY3Rpdml0eSUyMGhlYWx0aHklMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxNzE2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man running on a path" title="How to Change Your Mindset With a Simple Daily Walk" caption="How to Change Your Mindset With a Simple Daily Walk - Photo by [Edagar Antoni Ann](https://unsplash.com/@xedgar94) on [Unsplash](https://unsplash.com/photos/a-man-running-on-a-path-3oJCOIYgcNQ)" >}}
 
 ---
 

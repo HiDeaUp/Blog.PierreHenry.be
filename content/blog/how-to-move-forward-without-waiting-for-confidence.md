@@ -12,8 +12,7 @@ original_title = "Une confiance pas comme les autres 👌"
 source_medium = "https://medium.com/@phenrysay/f7bc9cb977ce"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBvdmVyY29taW5nJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for Confidence")
-*How to Move Forward Without Waiting for Confidence - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBvdmVyY29taW5nJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Move Forward Without Waiting for Confidence" caption="How to Move Forward Without Waiting for Confidence - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Have you ever noticed how often you put things off, not because you lack time, but because you hesitate? Maybe you wanted to apply for a job, drop off your resume at a restaurant, or say yes to an interview. The opportunity was right there, but something inside made you wait. It wasn’t your schedule. It was that little voice whispering, “What if it goes wrong?” or “What if I’m not good enough?”
 
@@ -23,8 +22,7 @@ The same thing happens with bigger decisions. You want to invest, but worry your
 
 I’ve been there too. I know exactly how it feels to want something and still hold back. For a long time, I thought I needed to wait until I felt more confident. But then I realized: confidence doesn’t come before action. It comes after. The more you act, the more you realize you can handle. The more you try, the more you achieve. Yes, sometimes things won’t go as planned. In France, Belgium, or Switzerland, people might call that a failure. But is it really?
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBvdmVyY29taW5nJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for Confidence")
-*How to Move Forward Without Waiting for Confidence - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBvdmVyY29taW5nJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Move Forward Without Waiting for Confidence" caption="How to Move Forward Without Waiting for Confidence - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 I don’t think so. When things don’t go as planned, it’s not a failure. It’s just an experience that turned out differently than you expected. Life is full of ups and downs, beautiful moments and tough ones. That’s what makes it interesting. Think about a sunset: the colors are stunning because of the mix of clouds, light, and shadows. The contrast is what makes it beautiful.
 
@@ -42,8 +40,7 @@ If you want to go further in improving your life, you have options. You can figu
 
 ---
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBvdmVyY29taW5nJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for Confidence")
-*How to Move Forward Without Waiting for Confidence - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBvdmVyY29taW5nJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to Move Forward Without Waiting for Confidence" caption="How to Move Forward Without Waiting for Confidence - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 ## Key Takeaways
 

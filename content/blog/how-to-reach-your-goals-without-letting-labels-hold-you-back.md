@@ -12,8 +12,7 @@ original_title = "La persévérance peut tout changer – Comment elle m'a propu
 source_medium = "https://medium.com/@phenrysay/517e3374896a"
 +++
 
-![…breathe! For a full size digital copy (6000x4000px RAW+JPG) of this file, or a high quality print, please contact me via instagram: @timothy.j.g, or email: tim@goedhart-lin.nl That file would be free to use for any means except direct reselling (copywrite is included in metadata). When using this free image online: please tag, credit and if you want, follow me on Instagram.](https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1pbXBvc3Rvci1zeW5kcm9tZXxlbnwwfDB8fHwxNzQ5Mjc2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reach Your Goals Without Letting Labels Hold You Back")
-*How to Reach Your Goals Without Letting Labels Hold You Back - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)*
+{{< figure src="https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1pbXBvc3Rvci1zeW5kcm9tZXxlbnwwfDB8fHwxNzQ5Mjc2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe neon signage" title="How to Reach Your Goals Without Letting Labels Hold You Back" caption="How to Reach Your Goals Without Letting Labels Hold You Back - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)" >}}
 
 Perseverance. It’s a word we hear all the time, but do we really understand how much it can change our lives? Let’s talk about how sticking with something—even when you feel like you’re not good at it—can completely transform your journey.
 
@@ -25,9 +24,7 @@ Take me, for example. I’m not good at playing guitar. But that’s only becaus
 
 If you want to excel, earn money, succeed, or even become famous, you have to keep at it. If you’re always looking to get better in your chosen field, you’ll eventually succeed. You’ll become the best of the best. But it takes perseverance and sticking with it. Consistency pays off, and little by little, you’ll rise to the top.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1pbXBvc3Rvci1zeW5kcm9tZXxlbnwwfDB8fHwxNzQ5Mjc2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reach Your Goals Without Letting Labels Hold You Back")
-*How to Reach Your Goals Without Letting Labels Hold You Back - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1pbXBvc3Rvci1zeW5kcm9tZXxlbnwwfDB8fHwxNzQ5Mjc2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Reach Your Goals Without Letting Labels Hold You Back" caption="How to Reach Your Goals Without Letting Labels Hold You Back - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 I’m completely on your side. I know you can succeed. Just don’t shut yourself down before you’ve even tried. Maybe your learning curve is steeper. Maybe you don’t love the thing you’re trying to learn. But if you have to learn it, go for it. Keep at it. Sometimes, it’s just your perception that needs to change. Maybe you need to try learning in a different way or in a different place.
 
@@ -45,8 +42,7 @@ Find your reason, stick with it, and never close doors before you’ve even open
 
 Don’t wait until tomorrow to do what you want to start today. The best time to take action is now. Every day is a new opportunity. Open a new door today. That’s already something exciting. Luck doesn’t really exist—you have to create your own opportunities.
 
-![Photo by Alisa Anton](https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1pbXBvc3Rvci1zeW5kcm9tZXxlbnwwfDB8fHwxNzQ5Mjc2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reach Your Goals Without Letting Labels Hold You Back")
-*How to Reach Your Goals Without Letting Labels Hold You Back - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)*
+{{< figure src="https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwb3ZlcmNvbWluZy1pbXBvc3Rvci1zeW5kcm9tZXxlbnwwfDB8fHwxNzQ5Mjc2NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of gel candle on board beside pillow u_z0X yrJIE" title="How to Reach Your Goals Without Letting Labels Hold You Back" caption="How to Reach Your Goals Without Letting Labels Hold You Back - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Y a-t-il des clés pour devenir un millionnaire ?"
 source_medium = "https://medium.com/@phenrysay/855241ebfc91"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWFsdGglMjBtaWxsaW9uYWlyZSUyMG1pbmRzZXQlMjBzdWNjZXNzJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU4NTk1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Wealth Without Chasing Money")
-*How to Build Wealth Without Chasing Money - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWFsdGglMjBtaWxsaW9uYWlyZSUyMG1pbmRzZXQlMjBzdWNjZXNzJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU4NTk1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Build Wealth Without Chasing Money" caption="How to Build Wealth Without Chasing Money - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 When people talk about becoming a millionaire or even a billionaire, the conversation usually turns to finance, investments, or business strategies. But the real keys to success have little to do with money itself. They are about daily habits, the way you prepare for your day, how you see things, and how you interpret and live your life. These habits can completely change how you organize your days and how you perceive your progress.
 
@@ -39,8 +38,7 @@ Always plan your day the night before. Have a clear to-do list, but also a “no
 
 Stop watching TV, streaming videos, and listening to negative news. These only fill your mind with negativity and things you can’t control. Why burden yourself with problems you can’t solve? Focus on what you can influence.
 
-![Photo by Zoe Jackson](https://images.unsplash.com/photo-1712227832840-e503811b49cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWFsdGglMjBtaWxsaW9uYWlyZSUyMG1pbmRzZXQlMjBzdWNjZXNzJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU4NTk1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Wealth Without Chasing Money")
-*How to Build Wealth Without Chasing Money - Photo by [Zoe Jackson](https://unsplash.com/@zoe_jackson) on [Unsplash](https://unsplash.com/photos/a-bunch-of-boats-are-docked-in-the-water-U5alQzzmKP4)*
+{{< figure src="https://images.unsplash.com/photo-1712227832840-e503811b49cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWFsdGglMjBtaWxsaW9uYWlyZSUyMG1pbmRzZXQlMjBzdWNjZXNzJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU4NTk1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A bunch of boats are docked in the water" title="How to Build Wealth Without Chasing Money" caption="How to Build Wealth Without Chasing Money - Photo by [Zoe Jackson](https://unsplash.com/@zoe_jackson) on [Unsplash](https://unsplash.com/photos/a-bunch-of-boats-are-docked-in-the-water-U5alQzzmKP4)" >}}
 
 ## Read and Learn from the Best
 
@@ -71,8 +69,7 @@ Not asking is the same as getting a no. In life, you don’t get what you deserv
 
 ## Focus on What You Want
 
-![Photo by Alex Brinkman](https://images.unsplash.com/photo-1603072027403-f2ff6525a7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWFsdGglMjBtaWxsaW9uYWlyZSUyMG1pbmRzZXQlMjBzdWNjZXNzJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU4NTk1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Wealth Without Chasing Money")
-*How to Build Wealth Without Chasing Money - Photo by [Alex Brinkman](https://unsplash.com/@alexbrinkman) on [Unsplash](https://unsplash.com/photos/text-E28uCGVS1Dk)*
+{{< figure src="https://images.unsplash.com/photo-1603072027403-f2ff6525a7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWFsdGglMjBtaWxsaW9uYWlyZSUyMG1pbmRzZXQlMjBzdWNjZXNzJTIwaGFiaXRzfGVufDB8MHx8fDE3NTU4NTk1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Build Wealth Without Chasing Money" caption="How to Build Wealth Without Chasing Money - Photo by [Alex Brinkman](https://unsplash.com/@alexbrinkman) on [Unsplash](https://unsplash.com/photos/text-E28uCGVS1Dk)" >}}
 
 Always focus on what you want, not on what you don’t want. Your days will reflect your focus. If you focus on uncertainty and rejection, that’s what you’ll experience. Be clear about your vision and your goals.
 

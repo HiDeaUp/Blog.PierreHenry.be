@@ -12,8 +12,7 @@ original_title = "Mieux vivre / création d'une bulle d'oxygène pour être plus
 source_medium = "https://medium.com/@phenrysay/a807be018d65"
 +++
 
-![smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679](https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTQxNTQ1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Oxygen Bubble for a Happier Life Without Burnout")
-*How to Build Your Oxygen Bubble for a Happier Life Without Burnout - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)*
+{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTQxNTQ1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Build Your Oxygen Bubble for a Happier Life Without Burnout" caption="How to Build Your Oxygen Bubble for a Happier Life Without Burnout - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
 
 Resilience is often misunderstood. Many think it means stubbornly chasing after something that doesn’t work. But real resilience is different. It’s about believing in what you want to achieve, even if it takes time. It’s the quiet confidence that, step by step, you’ll get there.
 
@@ -26,8 +25,7 @@ Everyone can find ten minutes. Maybe you don’t have an hour today, but you can
 > _Success is the sum of small efforts, repeated day in and day out._
 > — Robert Collier
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTQxNTQ1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Oxygen Bubble for a Happier Life Without Burnout")
-*How to Build Your Oxygen Bubble for a Happier Life Without Burnout - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTQxNTQ1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Build Your Oxygen Bubble for a Happier Life Without Burnout" caption="How to Build Your Oxygen Bubble for a Happier Life Without Burnout - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 The best time to start is always now. We often tell ourselves we don’t have time, but time won’t magically appear. In fact, you’ll probably have even less time in the future. Life brings new responsibilities, unexpected expenses, and surprises. The same goes for money. We think we’ll have more later, but new expenses always come up. So if you want to invest in yourself, the best moment is now.
 
@@ -45,8 +43,7 @@ The most important thing is to start now. Don’t wait for the perfect moment. I
 > _The journey of a thousand miles begins with a single step._
 > — Lao Tzu
 
-![Admiration | Instagram: @timmossholder](https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTQxNTQ1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Oxygen Bubble for a Happier Life Without Burnout")
-*How to Build Your Oxygen Bubble for a Happier Life Without Burnout - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)*
+{{< figure src="https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTQxNTQ1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Admiration | Instagram: @timmossholder" title="How to Build Your Oxygen Bubble for a Happier Life Without Burnout" caption="How to Build Your Oxygen Bubble for a Happier Life Without Burnout - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)" >}}
 
 ---
 

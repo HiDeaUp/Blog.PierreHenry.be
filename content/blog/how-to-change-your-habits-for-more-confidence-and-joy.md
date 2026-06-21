@@ -12,8 +12,7 @@ original_title = "Comment s'améliorer en changeant ses habitudes ?"
 source_medium = "https://medium.com/@phenrysay/92c2f45d976e"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740645580467-57444f093646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBjaGFuZ2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Habits for More Confidence and Joy")
-*How to Change Your Habits for More Confidence and Joy - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-change-on-a-table-wVODnQtbFsM)*
+{{< figure src="https://images.unsplash.com/photo-1740645580467-57444f093646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBjaGFuZ2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A block change on a table" title="How to Change Your Habits for More Confidence and Joy" caption="How to Change Your Habits for More Confidence and Joy - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-change-on-a-table-wVODnQtbFsM)" >}}
 
 There are moments in life when you feel the need to rebuild yourself. Maybe you want to be happier, more fulfilled, or simply feel better in your own skin. Sometimes, it’s about starting over, setting new foundations, and asking yourself: How can I organize my days better? How can I eat healthier? Should I add more physical activity to my routine?
 
@@ -25,8 +24,7 @@ Take a look at how your days are structured. If you spend too much time in front
 
 After your break, get back to work. In the afternoon, consider changing your environment—work from a café or a park. This variety can make your days feel less repetitive and more enjoyable.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBjaGFuZ2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Habits for More Confidence and Joy")
-*How to Change Your Habits for More Confidence and Joy - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBjaGFuZ2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Change Your Habits for More Confidence and Joy" caption="How to Change Your Habits for More Confidence and Joy - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 ## Build Confidence Step by Step
 
@@ -46,9 +44,7 @@ Try to change your activities every two hours. This keeps your mind fresh and yo
 > _“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”_  
 — Aristotle
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, quote, words, type, typography, design, layout, be the change, proactive, activism, make a difference, don't just sit there, make a change, global warming, black lives matter, personal responsibility, responsibility, with great power comes great responsibility, 
-](https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBjaGFuZ2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Habits for More Confidence and Joy")
-*How to Change Your Habits for More Confidence and Joy - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-JD0D-lReHFE)*
+{{< figure src="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBjaGFuZ2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface JD0D lReHFE" title="How to Change Your Habits for More Confidence and Joy" caption="How to Change Your Habits for More Confidence and Joy - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-JD0D-lReHFE)" >}}
 
 > _“Your habits will determine your future.”_  
 — Jack Canfield

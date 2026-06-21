@@ -12,8 +12,7 @@ original_title = "La FORCE des Actions (ne perds plus ton temps)"
 source_medium = "https://medium.com/@phenrysay/91b406c454a4"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGVjaXNpb24lMjBtYWtpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjAwMTA2OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Without Wasting Time")
-*How to Shape Your Future Without Wasting Time - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGVjaXNpb24lMjBtYWtpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjAwMTA2OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Shape Your Future Without Wasting Time" caption="How to Shape Your Future Without Wasting Time - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever stopped to think about the hidden interests behind everything you do? Every action you take, no matter how small, comes with its own set of consequences—some positive, some negative. The trick is to stack the odds in your favor by focusing on actions that bring positive returns.
 
@@ -21,8 +20,7 @@ Let’s say you spend half an hour each day learning a new language—Japanese, 
 
 But what happens if you fall into the habit of watching pointless movies every night, snacking on chips and soda? That’s a negative interest. If you keep at it for a year, the results will be disastrous for your health and well-being.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1627850650793-3f8d5231ee19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGVjaXNpb24lMjBtYWtpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjAwMTA2OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Without Wasting Time")
-*How to Shape Your Future Without Wasting Time - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-with-red-manicure-holding-purple-paper-32aK4c8Iekc)*
+{{< figure src="https://images.unsplash.com/photo-1627850650793-3f8d5231ee19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGVjaXNpb24lMjBtYWtpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjAwMTA2OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person with red holding purple paper" title="How to Shape Your Future Without Wasting Time" caption="How to Shape Your Future Without Wasting Time - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-with-red-manicure-holding-purple-paper-32aK4c8Iekc)" >}}
 
 Now, imagine swapping that habit for something better. Instead of zoning out in front of the TV, you could do some yoga, relax, exercise, or go for a run in the park near your home. These are positive interests that build you up over time.
 
@@ -38,8 +36,7 @@ Remember, it’s not about being perfect. It’s about making small, positive ch
 > *“The secret of your future is hidden in your daily routine.”*  
 — Mike Murdock
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGVjaXNpb24lMjBtYWtpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjAwMTA2OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Without Wasting Time")
-*How to Shape Your Future Without Wasting Time - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGVjaXNpb24lMjBtYWtpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjAwMTA2OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Shape Your Future Without Wasting Time" caption="How to Shape Your Future Without Wasting Time - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ---
 

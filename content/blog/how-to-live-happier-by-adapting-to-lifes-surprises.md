@@ -10,8 +10,7 @@ original_title = "Faire preuve de souplesse 🎊 Comment mieux vivre ?"
 source_medium = "https://medium.com/@phenrysay/bc5b26a22b4b"
 +++
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmbGV4aWJpbGl0eSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTY1MTQxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Happier by Adapting to Life’s Surprises")
-*How to Live Happier by Adapting to Life’s Surprises - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmbGV4aWJpbGl0eSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTY1MTQxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How to Live Happier by Adapting to Life’s Surprises" caption="How to Live Happier by Adapting to Life’s Surprises - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 Flexibility is a key ingredient in personal growth, daily satisfaction, and genuine happiness. Life is always shifting, and being able to adapt to these changes is essential. There will always be constraints, unexpected events, and last-minute changes. For example, today I had two important meetings scheduled. I had prepared thoroughly, ready to deliver technical estimates. But suddenly, an urgent matter came up, and one of the meetings was postponed.
 
@@ -21,8 +20,7 @@ Instead, try to shift your mindset. When plans change, maybe take a coffee break
 
 Of course, there are moments when things happen that you never wanted or expected. Sometimes problems pop up at the last minute, or you find yourself working late into the night. It’s always something. If you see these changes as a burden, life feels even harder. But if you accept that life is unpredictable, you can learn to flow with it. Don’t be naive and think everything will always go as planned. Life always finds a way to surprise us.
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmbGV4aWJpbGl0eSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTY1MTQxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Happier by Adapting to Life’s Surprises")
-*How to Live Happier by Adapting to Life’s Surprises - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmbGV4aWJpbGl0eSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTY1MTQxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Live Happier by Adapting to Life’s Surprises" caption="How to Live Happier by Adapting to Life’s Surprises - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 This isn’t easy. It takes time and practice to master this mindset. But even small actions can help—like having a coffee, distracting yourself, or doing a simple breathing exercise. Breathe in, fill your abdomen and chest, hold for three or four seconds, then breathe out. This simple act can make a big difference. Try going for a walk, jogging, or just focusing on your breath. You’ll notice a real change in how you feel.
 
@@ -38,8 +36,7 @@ This isn’t easy. It takes time and practice to master this mindset. But even s
 
 ## Key Takeaways
 
-![Photo by Cade Prior](https://images.unsplash.com/photo-1587835793081-0a4b602f1a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmbGV4aWJpbGl0eSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTY1MTQxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Happier by Adapting to Life’s Surprises")
-*How to Live Happier by Adapting to Life’s Surprises - Photo by [Cade Prior](https://unsplash.com/@medicadetion) on [Unsplash](https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-sitting-on-brown-rock-formation-during-daytime-lxBV952Tq60)*
+{{< figure src="https://images.unsplash.com/photo-1587835793081-0a4b602f1a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmbGV4aWJpbGl0eSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTY1MTQxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black t shirt and black shorts sitting on brown rock during daytime" title="How to Live Happier by Adapting to Life’s Surprises" caption="How to Live Happier by Adapting to Life’s Surprises - Photo by [Cade Prior](https://unsplash.com/@medicadetion) on [Unsplash](https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-sitting-on-brown-rock-formation-during-daytime-lxBV952Tq60)" >}}
 
 - *Flexibility is essential for happiness and personal growth.*
 - *Accept that life is always changing—resisting only leads to frustration.*

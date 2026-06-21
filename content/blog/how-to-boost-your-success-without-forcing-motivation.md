@@ -12,8 +12,7 @@ original_title = "RÉUSSIR SA VIE: Je balance tous mes conseils !"
 source_medium = "https://medium.com/@phenrysay/2b04b34b2f94"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTU0MTc5Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Success Without Forcing Motivation")
-*How to Boost Your Success Without Forcing Motivation - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTU0MTc5Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Boost Your Success Without Forcing Motivation" caption="How to Boost Your Success Without Forcing Motivation - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Have you ever noticed how some days you just feel drained, tired, or even a bit down for no clear reason? You might blame yourself, thinking you’re lazy or not motivated enough. But what if the real problem isn’t you at all, but the environment you’re in?
 
@@ -27,8 +26,7 @@ If you’re feeling stuck, try switching things up. Maybe it’s time to work fr
 
 ## Build Habits, Not Just Motivation
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTU0MTc5Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Success Without Forcing Motivation")
-*How to Boost Your Success Without Forcing Motivation - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTU0MTc5Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Boost Your Success Without Forcing Motivation" caption="How to Boost Your Success Without Forcing Motivation - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 Motivation is great, but it doesn’t last. What really keeps you going are your habits and routines. Think about brushing your teeth or taking a shower—these are automatic, non-negotiable parts of your day. You don’t debate whether you have time for them; you just do them.
 
@@ -47,8 +45,7 @@ It’s important to recognize when a space just doesn’t feel right. Some rooms
 > _“You do not rise to the level of your goals. You fall to the level of your systems.”_  
 — James Clear
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTU0MTc5Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Success Without Forcing Motivation")
-*How to Boost Your Success Without Forcing Motivation - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTU0MTc5Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Boost Your Success Without Forcing Motivation" caption="How to Boost Your Success Without Forcing Motivation - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 > _“Environment is the invisible hand that shapes human behavior.”_  
 — James Clear

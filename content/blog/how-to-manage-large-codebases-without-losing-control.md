@@ -12,8 +12,7 @@ original_title = "How I Manage Large Codebases at Work (As a Senior Software Eng
 source_medium = "https://medium.com/@phenrysay/c7eed4b16e77"
 +++
 
-![A fun shot while working late at night](https://images.unsplash.com/photo-1518818608552-195ed130cdf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsYXJnZSUyMGNvZGViYXNlcyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBjb2RlJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzY1NjM0MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Manage Large Codebases Without Losing Control")
-*How to Manage Large Codebases Without Losing Control - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/smiling-man-showing-sticky-note-with-code-illustration-pMnw5BSZYsA)*
+{{< figure src="https://images.unsplash.com/photo-1518818608552-195ed130cdf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsYXJnZSUyMGNvZGViYXNlcyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBjb2RlJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzY1NjM0MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A fun shot while working late at night" title="How to Manage Large Codebases Without Losing Control" caption="How to Manage Large Codebases Without Losing Control - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/smiling-man-showing-sticky-note-with-code-illustration-pMnw5BSZYsA)" >}}
 
 Let’s get straight to it. Today, I want to share some real-world tips on managing large codebases—stuff I wish I’d known earlier, and things I still remind myself about every day as a senior software engineer. If you’re working in a company where traffic is growing fast and the codebase is getting bigger, you need to keep your code clean and efficient. Otherwise, you’ll end up with a mess that doesn’t scale, and trust me, you don’t want to be the one stuck fixing it later.
 
@@ -31,8 +30,7 @@ Software engineering is amazing because it never stands still. There’s always 
 
 ## Embrace New Tools (Especially AI)
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsYXJnZSUyMGNvZGViYXNlcyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBjb2RlJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzY1NjM0MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Manage Large Codebases Without Losing Control")
-*How to Manage Large Codebases Without Losing Control - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsYXJnZSUyMGNvZGViYXNlcyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBjb2RlJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzY1NjM0MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="How to Manage Large Codebases Without Losing Control" caption="How to Manage Large Codebases Without Losing Control - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 With AI and automation, the pace is only getting faster. You can’t afford to be slow. Use the best tools available to boost your productivity and code quality. That frees you up to tackle more interesting problems, or even take on new roles. Who knows, maybe you’ll end up as a product owner one day.
 
@@ -52,8 +50,7 @@ Your environment shapes your productivity. If you’re happy where you are, it s
 
 ## Key Takeaways
 
-![Debugging is a part of coding](https://images.unsplash.com/photo-1564931768730-7e4d8e240044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsYXJnZSUyMGNvZGViYXNlcyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBjb2RlJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzY1NjM0MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Manage Large Codebases Without Losing Control")
-*How to Manage Large Codebases Without Losing Control - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/code-debug-vy7GOqb1M9s)*
+{{< figure src="https://images.unsplash.com/photo-1564931768730-7e4d8e240044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsYXJnZSUyMGNvZGViYXNlcyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBjb2RlJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzY1NjM0MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Debugging is a part of coding" title="How to Manage Large Codebases Without Losing Control" caption="How to Manage Large Codebases Without Losing Control - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/code-debug-vy7GOqb1M9s)" >}}
 
 - **Build for flexibility, not just for today’s requirements.** Anticipate likely changes and save yourself time later.
 - **Review your old code regularly.** It’s the best way to see your growth and spot areas for improvement.

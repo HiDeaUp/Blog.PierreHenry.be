@@ -12,8 +12,7 @@ original_title = "La méthode SMART 💡"
 source_medium = "https://medium.com/@phenrysay/11cb8192e277"
 +++
 
-![Learn word](https://images.unsplash.com/photo-1673515334386-2b24073bb22f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTTUFSVCUyMG1ldGhvZCUyMGxlYXJuaW5nJTIwdGVjaG5pcXVlcyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTA5MjUzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Faster Without Studying More")
-*How to Learn Faster Without Studying More - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-spelled-with-scrabble-letters-on-a-wooden-table-IQSy7cU5BxQ)*
+{{< figure src="https://images.unsplash.com/photo-1673515334386-2b24073bb22f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTTUFSVCUyMG1ldGhvZCUyMGxlYXJuaW5nJTIwdGVjaG5pcXVlcyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTA5MjUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Learn word" title="How to Learn Faster Without Studying More" caption="How to Learn Faster Without Studying More - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-spelled-with-scrabble-letters-on-a-wooden-table-IQSy7cU5BxQ)" >}}
 
 What does it really mean to be smart? Most of us are intelligent in our own way, but there are practical techniques that can help anyone become sharper and more effective at learning. One method I want to share today is spaced repetition, a simple yet powerful approach to learning and memory.
 
@@ -25,8 +24,7 @@ Parkinson’s Law says that work expands to fill the time available for its comp
 
 The Pareto Principle, or the 80/20 rule, tells us that 20% of your effort will bring 80% of your results. Instead of spreading yourself thin, concentrate on the small part that matters most. This way, you make real progress without wasting energy.
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164314819-a6cb2c6273c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTTUFSVCUyMG1ldGhvZCUyMGxlYXJuaW5nJTIwdGVjaG5pcXVlcyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTA5MjUzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Faster Without Studying More")
-*How to Learn Faster Without Studying More - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-laptop-computer-P5AyWcbmFjI)*
+{{< figure src="https://images.unsplash.com/photo-1681164314819-a6cb2c6273c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTTUFSVCUyMG1ldGhvZCUyMGxlYXJuaW5nJTIwdGVjaG5pcXVlcyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTA5MjUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a laptop" title="How to Learn Faster Without Studying More" caption="How to Learn Faster Without Studying More - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-laptop-computer-P5AyWcbmFjI)" >}}
 
 Another crucial step is teaching what you’ve just learned. When you explain something to others—whether through a video, an online course, a meetup, or simply sharing with friends or family—you’re forced to reorganize the information in your mind. This process makes your understanding clearer and helps you remember it for months or even years.
 
@@ -44,8 +42,7 @@ If you want to go even further, I’ve also created a workshop called “Super H
 
 ## Key Takeaways
 
-![Joyful Collaboration. A man in a blue shirt shares a laugh with a woman as they engage in a lively discussion in front of a whiteboard displaying a to-do list. The man holds a magnetic pin, illustrating a moment of productive teamwork](https://images.unsplash.com/photo-1696254785795-f01e2f0f21eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTTUFSVCUyMG1ldGhvZCUyMGxlYXJuaW5nJTIwdGVjaG5pcXVlcyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTA5MjUzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Faster Without Studying More")
-*How to Learn Faster Without Studying More - Photo by [Sable Flow](https://unsplash.com/@sableflow) on [Unsplash](https://unsplash.com/photos/a-man-and-a-woman-standing-in-front-of-a-whiteboard-1l6KnAENo6g)*
+{{< figure src="https://images.unsplash.com/photo-1696254785795-f01e2f0f21eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTTUFSVCUyMG1ldGhvZCUyMGxlYXJuaW5nJTIwdGVjaG5pcXVlcyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTA5MjUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man and a woman in front of a" title="How to Learn Faster Without Studying More" caption="How to Learn Faster Without Studying More - Photo by [Sable Flow](https://unsplash.com/@sableflow) on [Unsplash](https://unsplash.com/photos/a-man-and-a-woman-standing-in-front-of-a-whiteboard-1l6KnAENo6g)" >}}
 
 - *Focus on small, essential parts of what you want to learn.*
 - *Repeat and review daily using spaced repetition.*

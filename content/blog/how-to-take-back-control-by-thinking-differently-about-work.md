@@ -12,9 +12,7 @@ original_title = "Travailler différemment. Comment reprendre le contrôle de ta
 source_medium = "https://medium.com/@phenrysay/d66c25f052b2"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, quote, words, type, typography, design, layout, be the change, proactive, activism, make a difference, don't just sit there, make a change, global warming, black lives matter, personal responsibility, responsibility, with great power comes great responsibility, 
-](https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc2hpZnQlMjBjYXJlZXIlMjBjaGFuZ2UlMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Back Control by Thinking Differently About Work")
-*How to Take Back Control by Thinking Differently About Work - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-JD0D-lReHFE)*
+{{< figure src="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc2hpZnQlMjBjYXJlZXIlMjBjaGFuZ2UlMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface JD0D lReHFE" title="How to Take Back Control by Thinking Differently About Work" caption="How to Take Back Control by Thinking Differently About Work - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-JD0D-lReHFE)" >}}
 
 ### Sometimes, the Only Way Out Is a New Way of Thinking
 
@@ -38,8 +36,7 @@ You can often combine automation and delegation. Let technology handle the repet
 
 ## The Prison We Build for Ourselves
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740645580467-57444f093646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2hpZnQlMjBjYXJlZXIlMjBjaGFuZ2UlMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Back Control by Thinking Differently About Work")
-*How to Take Back Control by Thinking Differently About Work - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-change-on-a-table-wVODnQtbFsM)*
+{{< figure src="https://images.unsplash.com/photo-1740645580467-57444f093646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2hpZnQlMjBjYXJlZXIlMjBjaGFuZ2UlMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A block change on a table" title="How to Take Back Control by Thinking Differently About Work" caption="How to Take Back Control by Thinking Differently About Work - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-change-on-a-table-wVODnQtbFsM)" >}}
 
 Sometimes, we create our own prisons. We convince ourselves there’s no way out, but that’s rarely true. There’s almost always a door—you just have to look for it and be willing to try something different. If you want a different life, you have to do things differently. If you keep repeating the same actions, you’ll keep getting the same results.
 
@@ -67,8 +64,7 @@ Life is like a path. If you enjoy what you’re doing, you don’t worry about w
 >
 > — Pierre
 
-![The word change in black lettering](https://images.unsplash.com/photo-1662493724051-01a5046b530b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2hpZnQlMjBjYXJlZXIlMjBjaGFuZ2UlMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Back Control by Thinking Differently About Work")
-*How to Take Back Control by Thinking Differently About Work - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-sign-nd83DgVp4Oo)*
+{{< figure src="https://images.unsplash.com/photo-1662493724051-01a5046b530b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2hpZnQlMjBjYXJlZXIlMjBjaGFuZ2UlMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="The word change in black lettering" title="How to Take Back Control by Thinking Differently About Work" caption="How to Take Back Control by Thinking Differently About Work - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-sign-nd83DgVp4Oo)" >}}
 
 ---
 

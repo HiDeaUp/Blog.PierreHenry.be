@@ -12,8 +12,7 @@ original_title = "Vivre une vie plaisante. Comment bien se sentir 😊"
 source_medium = "https://medium.com/@phenrysay/5f2ac945190d"
 +++
 
-![Photo by LyfeFuel](https://images.unsplash.com/photo-1579722820308-d74e571900a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Happiness by Changing Your Scenery")
-*How to Find Happiness by Changing Your Scenery - Photo by [LyfeFuel](https://unsplash.com/@lyfefuel) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-blue-denim-jeans-holding-clear-plastic-bottle-4wtxPhvQZds)*
+{{< figure src="https://images.unsplash.com/photo-1579722820308-d74e571900a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and blue denim jeans holding clear plastic bottle" title="How to Find Happiness by Changing Your Scenery" caption="How to Find Happiness by Changing Your Scenery - Photo by [LyfeFuel](https://unsplash.com/@lyfefuel) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-blue-denim-jeans-holding-clear-plastic-bottle-4wtxPhvQZds)" >}}
 
 Many people dream of a life filled with pleasure and satisfaction. But what does it really mean to live a life you enjoy? I recently met a Frenchman who disliked his life in France so much that he decided to move to Thailand. Now, more than ten years later, he runs a restaurant there, is married to a French-Thai woman, and absolutely loves his life. His story made me think about how our environment and choices shape our happiness.
 
@@ -23,8 +22,7 @@ Let me share another story. I read about a coworking space in Panama called Vivo
 
 Personally, I love to travel. That’s why it’s important for me to earn enough in a strong currency, like the euro, US dollar, or Canadian dollar. This gives me the freedom to visit many countries. If you can work remotely for a company based in a country with a strong currency, you’re in a good position. For example, I work for a company in Sydney, Australia, and my salary is in Australian dollars, which is quite strong. I also know people who live in small French villages but work for companies in Paris, earning Paris-level salaries. The same goes for Australia—many people live in smaller towns but work remotely for companies in Sydney, earning higher wages while enjoying a lower cost of living.
 
-![Cute little plants.](https://images.unsplash.com/photo-1536523364027-d6839195010f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Happiness by Changing Your Scenery")
-*How to Find Happiness by Changing Your Scenery - Photo by [Kyle Loftus](https://unsplash.com/@kyleloftusstudios) on [Unsplash](https://unsplash.com/photos/green-cacti-on-brown-wooden-storage-box-UedkJXbg540)*
+{{< figure src="https://images.unsplash.com/photo-1536523364027-d6839195010f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cute little plants." title="How to Find Happiness by Changing Your Scenery" caption="How to Find Happiness by Changing Your Scenery - Photo by [Kyle Loftus](https://unsplash.com/@kyleloftusstudios) on [Unsplash](https://unsplash.com/photos/green-cacti-on-brown-wooden-storage-box-UedkJXbg540)" >}}
 
 The key is to design your life exactly the way you want it. If your dream is to live by the beach, maybe in Madeira or on a Mediterranean island, and work as a freelancer or video editor for YouTubers and influencers, go for it. It might start small, but it’s a step toward the life you want. Build your reputation, maybe write a book, and gradually shape your dream life.
 
@@ -44,8 +42,7 @@ In the end, it’s all about making choices that fit your own idea of happiness.
 
 ---
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Happiness by Changing Your Scenery")
-*How to Find Happiness by Changing Your Scenery - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjUxODI3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Happiness by Changing Your Scenery" caption="How to Find Happiness by Changing Your Scenery - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 ## Key Takeaways
 

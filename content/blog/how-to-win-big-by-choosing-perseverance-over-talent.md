@@ -12,8 +12,7 @@ original_title = "Persévérance absolue 💪"
 source_medium = "https://medium.com/@phenrysay/c11a5d6c6d5b"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBtb3RpdmF0aW9uJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NTI4MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Win Big by Choosing Perseverance Over Talent")
-*How to Win Big by Choosing Perseverance Over Talent - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBtb3RpdmF0aW9uJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NTI4MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Win Big by Choosing Perseverance Over Talent" caption="How to Win Big by Choosing Perseverance Over Talent - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Perseverance is the number one key to moving forward and creating things that truly matter to you. The more you challenge yourself, the more you’ll build something meaningful. The further you push, the further you’ll go.
 
@@ -21,8 +20,7 @@ When you decide to persevere every single day—whether it’s action A, B, or C
 
 Set long-term goals for yourself. By long-term, I mean anywhere from six months to two years, not a lifetime. Picture your goal, maybe even someone you admire who has achieved something similar. Every day, remind yourself of this vision. Make it your obsession. Work on it every single day. It doesn’t have to be for hours—consistency is what pays off.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBtb3RpdmF0aW9uJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NTI4MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Win Big by Choosing Perseverance Over Talent")
-*How to Win Big by Choosing Perseverance Over Talent - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBtb3RpdmF0aW9uJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NTI4MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Win Big by Choosing Perseverance Over Talent" caption="How to Win Big by Choosing Perseverance Over Talent - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Even if you’re busy, like when you’re taking a shower or brushing your teeth, you can still find time to work on your vision. If you have time for daily routines, you have time to take one small step toward your goal. In the end, everything is possible.
 
@@ -38,8 +36,7 @@ I truly wish you the best from the bottom of my heart as you move forward with y
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBtb3RpdmF0aW9uJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NTI4MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Win Big by Choosing Perseverance Over Talent")
-*How to Win Big by Choosing Perseverance Over Talent - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBtb3RpdmF0aW9uJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NTI4MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Win Big by Choosing Perseverance Over Talent" caption="How to Win Big by Choosing Perseverance Over Talent - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 ## Key Takeaways
 - Perseverance is the real key to meaningful progress.

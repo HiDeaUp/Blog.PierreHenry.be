@@ -12,8 +12,7 @@ original_title = "Le Code Secret de l'Excellence : Réussis dans tous tes projet
 source_medium = "https://medium.com/@phenrysay/897866989e33"
 +++
 
-![The man who loves his life](https://images.unsplash.com/photo-1579711869674-0581d1bd1f6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleGNlbGxlbmNlJTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTc4NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Waiting for Tomorrow")
-*How to Savor Life Without Waiting for Tomorrow - Photo by [Galih Ass](https://unsplash.com/@galih_ass) on [Unsplash](https://unsplash.com/photos/red-and-white-unk-unk-unk-JYVg1w5w0CA)*
+{{< figure src="https://images.unsplash.com/photo-1579711869674-0581d1bd1f6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleGNlbGxlbmNlJTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTc4NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="The man who loves his life" title="How to Savor Life Without Waiting for Tomorrow" caption="How to Savor Life Without Waiting for Tomorrow - Photo by [Galih Ass](https://unsplash.com/@galih_ass) on [Unsplash](https://unsplash.com/photos/red-and-white-unk-unk-unk-JYVg1w5w0CA)" >}}
 
 Life deserves to be enjoyed fully, every single day. Too often, we tell ourselves that we need to save money, that it’s important to be careful with our finances. Of course, money matters. But money comes and goes. Time, on the other hand, only moves in one direction. If you let life pass you by without really enjoying your time, you’re not just losing hours—you’re losing life itself.
 
@@ -23,8 +22,7 @@ When you take in the environment around you, you gain so much more than just a n
 
 I love being here. I’ve even swum in the bay nearby, though you have to be careful—there was a shark attack last year. The person survived, but it’s a reminder that even beautiful places have their risks. Still, this bay is stunning. It leads all the way to the Sydney Opera House, with ferries passing by, connecting the city. It’s a place that calms and soothes me.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleGNlbGxlbmNlJTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTc4NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Waiting for Tomorrow")
-*How to Savor Life Without Waiting for Tomorrow - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleGNlbGxlbmNlJTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTc4NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Savor Life Without Waiting for Tomorrow" caption="How to Savor Life Without Waiting for Tomorrow - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Taking time to relax is essential. We all need moments to slow down, to decompress, and to think about life. Often, it’s the simplest things that lift us up the most—reading a good book, writing a little, or just taking a step back to reflect. These moments of reflection help us decide what we want to do today, what we want to change, and what we want to keep in our lives.
 
@@ -38,8 +36,7 @@ The simple things are often the most important. Take time for yourself, relax, a
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleGNlbGxlbmNlJTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTc4NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Waiting for Tomorrow")
-*How to Savor Life Without Waiting for Tomorrow - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleGNlbGxlbmNlJTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU0MTc4NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Savor Life Without Waiting for Tomorrow" caption="How to Savor Life Without Waiting for Tomorrow - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 ## Key Takeaways
 - *Time is your most valuable resource—don’t waste it.*

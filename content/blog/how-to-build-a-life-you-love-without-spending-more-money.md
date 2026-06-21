@@ -12,8 +12,7 @@ original_title = "Se bâtir une nouvelle vie"
 source_medium = "https://medium.com/@phenrysay/ef9951eaca8b"
 +++
 
-![Photo by Sabine Freiberger](https://images.unsplash.com/photo-1682350054692-7d2fab9776dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbmV3JTIwYmVnaW5uaW5ncyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Spending More Money")
-*How to Build a Life You Love Without Spending More Money - Photo by [Sabine Freiberger](https://unsplash.com/@bine_1) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-mIn-IlifdpE)*
+{{< figure src="https://images.unsplash.com/photo-1682350054692-7d2fab9776dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbmV3JTIwYmVnaW5uaW5ncyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a small plant in a pot mIn IlifdpE" title="How to Build a Life You Love Without Spending More Money" caption="How to Build a Life You Love Without Spending More Money - Photo by [Sabine Freiberger](https://unsplash.com/@bine_1) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-mIn-IlifdpE)" >}}
 
 Building something new for yourself—crafting a life that genuinely makes you happy—is a challenge worth taking on. The real question is: what can you do today, even if it’s just a small activity, to bring yourself a little joy?
 
@@ -21,8 +20,7 @@ We often tell ourselves that happiness is expensive, that it always costs money.
 
 That’s why it’s so important to make the most of the time you have. Fill your days with things you love. A collection of happy days adds up to a happy life.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbmV3JTIwYmVnaW5uaW5ncyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Spending More Money")
-*How to Build a Life You Love Without Spending More Money - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbmV3JTIwYmVnaW5uaW5ncyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build a Life You Love Without Spending More Money" caption="How to Build a Life You Love Without Spending More Money - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 How do you do this? Start by noticing each moment in your day. Ask yourself, “Did I enjoy this? Did this make me feel good?” If not, think about how you can do less of those things. On the other hand, when you find something that brings you joy, figure out how to repeat it as often as possible. The more pleasant moments you create, the better your days—and your life—will be.
 
@@ -38,8 +36,7 @@ This even applies to spending money. If you love going to the sauna, taking a di
 
 Remember, your time is precious. Use it to build a life that feels good to you, one day at a time.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbmV3JTIwYmVnaW5uaW5ncyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Spending More Money")
-*How to Build a Life You Love Without Spending More Money - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbmV3JTIwYmVnaW5uaW5ncyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MTc0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Build a Life You Love Without Spending More Money" caption="How to Build a Life You Love Without Spending More Money - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ---
 

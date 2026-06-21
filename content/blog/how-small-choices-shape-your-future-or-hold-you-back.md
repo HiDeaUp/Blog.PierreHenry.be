@@ -12,8 +12,7 @@ original_title = "Les actions d’aujourd’hui déterminent notre futur"
 source_medium = "https://medium.com/@phenrysay/5693cfbeb509"
 +++
 
-![Just a man in a striped shirt.](https://images.unsplash.com/photo-1708328473545-cfa5e7851b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwaGFiaXRzJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTYwOTk4N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Choices Shape Your Future or Hold You Back")
-*How Small Choices Shape Your Future or Hold You Back - Photo by [Myznik Egor](https://unsplash.com/@shnautsher) on [Unsplash](https://unsplash.com/photos/a-man-walking-down-a-sidewalk-holding-a-skateboard-V1kssJeYyek)*
+{{< figure src="https://images.unsplash.com/photo-1708328473545-cfa5e7851b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwaGFiaXRzJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTYwOTk4N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Just a man in a striped shirt." title="How Small Choices Shape Your Future or Hold You Back" caption="How Small Choices Shape Your Future or Hold You Back - Photo by [Myznik Egor](https://unsplash.com/@shnautsher) on [Unsplash](https://unsplash.com/photos/a-man-walking-down-a-sidewalk-holding-a-skateboard-V1kssJeYyek)" >}}
 
 Our future is shaped by the actions we take today. The things you do, the decisions you make, even the smallest choices, all play a role in what your life will look like tomorrow. It might sound simple, but it’s true: what you decide now will set the stage for what comes next.
 
@@ -21,8 +20,7 @@ Sometimes, we make the wrong choices. Sometimes, a single decision can completel
 
 That’s why it’s so important to make choices, even if you’re not sure they’re perfect. But let’s be honest—if you keep falling into bad habits, especially the ones you know are holding you back, you’re setting yourself up for a future you might not want. Maybe you spend time with people who drag you down. Maybe you gamble, smoke, or waste your days playing video games from morning to night. You know these habits aren’t helping you, but you keep doing them anyway. These choices shape your future just as much as the good ones.
 
-![Photo by 青 晨](https://images.unsplash.com/photo-1541580696095-f37f93131a92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwaGFiaXRzJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTYwOTk4N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Choices Shape Your Future or Hold You Back")
-*How Small Choices Shape Your Future or Hold You Back - Photo by [青 晨](https://unsplash.com/@jiangxulei1990) on [Unsplash](https://unsplash.com/photos/person-walking-on-pedestrian-lane-during-daytime-feX-KFWRR5o)*
+{{< figure src="https://images.unsplash.com/photo-1541580696095-f37f93131a92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwaGFiaXRzJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTYwOTk4N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person walking on lane during daytime feX" title="How Small Choices Shape Your Future or Hold You Back" caption="How Small Choices Shape Your Future or Hold You Back - Photo by [青 晨](https://unsplash.com/@jiangxulei1990) on [Unsplash](https://unsplash.com/photos/person-walking-on-pedestrian-lane-during-daytime-feX-KFWRR5o)" >}}
 
 If you decide to take control of your life, everything can change. Instead of letting life happen to you, you start to act and make things happen for yourself. I know it’s not always easy. Sometimes you don’t know where to start or how to take action. But if you have the right tools and the right mindset, everything else will follow.
 
@@ -42,8 +40,7 @@ The truth is, not everyone will take these steps. You have to be willing to act 
 >
 > — James Clear
 
-![Photo by Gabriella S](https://images.unsplash.com/photo-1703612227683-bf3e2417ea69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwaGFiaXRzJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTYwOTk4N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Choices Shape Your Future or Hold You Back")
-*How Small Choices Shape Your Future or Hold You Back - Photo by [Gabriella S](https://unsplash.com/@gabriellasofficialphotography) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-front-of-a-black-and-white-striped-rug--g70pOyuzGQ)*
+{{< figure src="https://images.unsplash.com/photo-1703612227683-bf3e2417ea69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwaGFiaXRzJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTYwOTk4N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person in front of a black and white striped rug" title="How Small Choices Shape Your Future or Hold You Back" caption="How Small Choices Shape Your Future or Hold You Back - Photo by [Gabriella S](https://unsplash.com/@gabriellasofficialphotography) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-front-of-a-black-and-white-striped-rug--g70pOyuzGQ)" >}}
 
 ---
 

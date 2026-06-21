@@ -12,8 +12,7 @@ original_title = "Comment vaincre ses peurs plaisantes"
 source_medium = "https://medium.com/@phenrysay/95c94679f1b7"
 +++
 
-![Young woman in the Anza Borrego Desert.](https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvdmVyY29taW5nJTIwZmVhcnMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTczNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Face Your Fears Without Feeling Overwhelmed")
-*How to Face Your Fears Without Feeling Overwhelmed - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)*
+{{< figure src="https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvdmVyY29taW5nJTIwZmVhcnMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTczNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Young woman in the Anza Borrego Desert." title="How to Face Your Fears Without Feeling Overwhelmed" caption="How to Face Your Fears Without Feeling Overwhelmed - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)" >}}
 
 When we want to achieve something, three questions often come up: What do I want to do? Why do I want to do it? How am I going to make it happen? These questions—what, why, and how—are the foundation for any goal, big or small.
 
@@ -25,8 +24,7 @@ I once heard an Australian surfer talk about this at a conference. He was a bit 
 
 Start by visualizing your fear. For example, if you’re afraid of spiders, begin by watching documentaries or short videos about spiders. Just a few minutes a week at first. Then, increase the frequency—maybe watch a video every day. Imagine yourself touching a spider, even if it’s just in your mind.
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvdmVyY29taW5nJTIwZmVhcnMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTczNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Face Your Fears Without Feeling Overwhelmed")
-*How to Face Your Fears Without Feeling Overwhelmed - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvdmVyY29taW5nJTIwZmVhcnMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTczNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Face Your Fears Without Feeling Overwhelmed" caption="How to Face Your Fears Without Feeling Overwhelmed - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 Next, visit a zoo or animal park where you can see real spiders. Watch them, imagine being close to them. Why do this? Maybe your dream is to travel to the Amazon rainforest, but your fear of spiders is holding you back. That’s your "why." The "how" is this gradual exposure, and the "what" is the spider itself.
 
@@ -46,8 +44,7 @@ The secret is simple: practice, little by little, until what once scared you bec
 
 ---
 
-![Photo by Guillaume de Germain](https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvdmVyY29taW5nJTIwZmVhcnMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTczNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Face Your Fears Without Feeling Overwhelmed")
-*How to Face Your Fears Without Feeling Overwhelmed - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)*
+{{< figure src="https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvdmVyY29taW5nJTIwZmVhcnMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTczNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man under orange sky" title="How to Face Your Fears Without Feeling Overwhelmed" caption="How to Face Your Fears Without Feeling Overwhelmed - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)" >}}
 
 ## Key Takeaways
 

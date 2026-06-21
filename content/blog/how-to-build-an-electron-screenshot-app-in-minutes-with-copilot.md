@@ -12,8 +12,7 @@ original_title = "FROM SCRATCH! Build a Desktop App with Electron JS & GitHub Co
 source_medium = "https://medium.com/@phenrysay/82597c9ecd15"
 +++
 
-![Photo by Sigmund](https://images.unsplash.com/photo-1591381287254-b3349c60bf9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxFbGVjdHJvbkpTJTIwRGVza3RvcCUyMEFwcCUyMERldmVsb3BtZW50JTIwR2l0SHViJTIwQ29waWxvdHxlbnwwfDB8fHwxNzY3MjUzNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an Electron Screenshot App in Minutes With Copilot")
-*How to Build an Electron Screenshot App in Minutes With Copilot - Photo by [Sigmund](https://unsplash.com/@sigmund) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-Rez3-Mv7n_c)*
+{{< figure src="https://images.unsplash.com/photo-1591381287254-b3349c60bf9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxFbGVjdHJvbkpTJTIwRGVza3RvcCUyMEFwcCUyMERldmVsb3BtZW50JTIwR2l0SHViJTIwQ29waWxvdHxlbnwwfDB8fHwxNzY3MjUzNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black flat screen monitor Rez3 Mv7n_c" title="How to Build an Electron Screenshot App in Minutes With Copilot" caption="How to Build an Electron Screenshot App in Minutes With Copilot - Photo by [Sigmund](https://unsplash.com/@sigmund) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-Rez3-Mv7n_c)" >}}
 
 Alright, let’s get right into it. For this walkthrough, I started with a completely empty project in Visual Studio Code. I just spun up a new folder from the terminal—called it something like `preview-screenshot`—and cracked it open in VS Code. My prompt to Copilot was simple: *Build an Electron preview and screenshot maker for Apple screenshots*. The idea is to automatically generate screenshots for your App Store listing, and now, with agent mode available in VS Code, this is actually doable.
 
@@ -47,8 +46,7 @@ If you want TypeScript, just be explicit in your prompt. Otherwise, Copilot will
 
 Back in 2022, I was at Honeywell, and our whole team spent weeks migrating backend services from JavaScript to TypeScript. Three people, full-time, just for migration. It was a slog. Now, with AI, you can migrate a JS project to TS in no time. It’s wild how much time that saves. If you want to do it, just ask Copilot to convert your files and it’ll handle most of the grunt work.
 
-![monitor showing mobile layout in android studio](https://images.unsplash.com/photo-1604536264507-020ce894daf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxFbGVjdHJvbkpTJTIwRGVza3RvcCUyMEFwcCUyMERldmVsb3BtZW50JTIwR2l0SHViJTIwQ29waWxvdHxlbnwwfDB8fHwxNzY3MjUzNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an Electron Screenshot App in Minutes With Copilot")
-*How to Build an Electron Screenshot App in Minutes With Copilot - Photo by [Muhammad Rosyid Izzulkhaq](https://unsplash.com/@rsdiz) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-pBTggy2z2do)*
+{{< figure src="https://images.unsplash.com/photo-1604536264507-020ce894daf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxFbGVjdHJvbkpTJTIwRGVza3RvcCUyMEFwcCUyMERldmVsb3BtZW50JTIwR2l0SHViJTIwQ29waWxvdHxlbnwwfDB8fHwxNzY3MjUzNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="monitor showing mobile layout in android studio" title="How to Build an Electron Screenshot App in Minutes With Copilot" caption="How to Build an Electron Screenshot App in Minutes With Copilot - Photo by [Muhammad Rosyid Izzulkhaq](https://unsplash.com/@rsdiz) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-pBTggy2z2do)" >}}
 
 ## Watching Copilot Build the App
 
@@ -81,8 +79,7 @@ The export feature worked nicely. Copilot even created a folder for downloads au
 
 If you want to migrate to TypeScript, you can rename your files, create a new branch, open a pull request, and review what Copilot did. It’s actually better than what Cursor gave me, and I’m pretty impressed.
 
-![GridSome cli. Setting up a new project in vscode.](https://images.unsplash.com/flagged/photo-1577437883814-a5c9e5e9a2bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxFbGVjdHJvbkpTJTIwRGVza3RvcCUyMEFwcCUyMERldmVsb3BtZW50JTIwR2l0SHViJTIwQ29waWxvdHxlbnwwfDB8fHwxNzY3MjUzNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an Electron Screenshot App in Minutes With Copilot")
-*How to Build an Electron Screenshot App in Minutes With Copilot - Photo by [hessam khoobkar](https://unsplash.com/@hessam_khoobkar) on [Unsplash](https://unsplash.com/photos/computer-monitor-displaying-words-1K3J4z14V7k)*
+{{< figure src="https://images.unsplash.com/flagged/photo-1577437883814-a5c9e5e9a2bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxFbGVjdHJvbkpTJTIwRGVza3RvcCUyMEFwcCUyMERldmVsb3BtZW50JTIwR2l0SHViJTIwQ29waWxvdHxlbnwwfDB8fHwxNzY3MjUzNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="GridSome cli. Setting up a new project in vscode." title="How to Build an Electron Screenshot App in Minutes With Copilot" caption="How to Build an Electron Screenshot App in Minutes With Copilot - Photo by [hessam khoobkar](https://unsplash.com/@hessam_khoobkar) on [Unsplash](https://unsplash.com/photos/computer-monitor-displaying-words-1K3J4z14V7k)" >}}
 
 ## Final Thoughts
 

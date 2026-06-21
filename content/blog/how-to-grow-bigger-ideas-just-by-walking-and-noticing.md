@@ -12,8 +12,7 @@ original_title = "ET SI LA CURIOSITÉ ÉTAIT LA CLÉ DE L’EXCELLENCE ?"
 source_medium = "https://medium.com/@phenrysay/3bdda25258b2"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjdXJpb3NpdHklMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODc0NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Bigger Ideas Just by Walking and Noticing")
-*How to Grow Bigger Ideas Just by Walking and Noticing - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjdXJpb3NpdHklMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODc0NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Grow Bigger Ideas Just by Walking and Noticing" caption="How to Grow Bigger Ideas Just by Walking and Noticing - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Have you ever noticed how much you can learn just by being curious about the world around you? Today, I want to talk about something simple but powerful: using your everyday walks, your daily moments, as sessions to lift yourself up, to become “bigger” in your own way.
 
@@ -23,8 +22,7 @@ Even if something seems completely unrelated to what you’re doing, let your im
 
 When I’m not sure where I’m going, I look around. I notice the buildings, the way they’re built. I might look them up on Wikipedia or search online to learn more. Then, I see someone who inspires me, someone who gives off positive energy. I think, “Wow, I’d like to be a bit more like that person. What can I do to get closer to that?”
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjdXJpb3NpdHklMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODc0NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Bigger Ideas Just by Walking and Noticing")
-*How to Grow Bigger Ideas Just by Walking and Noticing - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjdXJpb3NpdHklMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODc0NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Grow Bigger Ideas Just by Walking and Noticing" caption="How to Grow Bigger Ideas Just by Walking and Noticing - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 Or maybe I spot a bike I like. I wonder where it comes from. I find out it’s from an online shop, and then I look up the founders. Sometimes, I realize they live nearby. That’s networking, right there—just by being alert and curious about what’s around you.
 
@@ -40,8 +38,7 @@ So, next time you’re out and about, pay attention. Notice the café behind you
 
 ---
 
-![2010 was a boon year for these butterflies in my garden. I had a dozen chrysalis in all manner of morphs at any one time. In this image you can see the new green chrysalis coloration, one that’s about ready to emerge (the clear one), and a butterfly that’s already come out. They will hang for hours and dry their wings and are, in fact, quite fragile.](https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjdXJpb3NpdHklMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODc0NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Bigger Ideas Just by Walking and Noticing")
-*How to Grow Bigger Ideas Just by Walking and Noticing - Photo by [Suzanne D. Williams](https://unsplash.com/@scw1217) on [Unsplash](https://unsplash.com/photos/three-pupas-VMKBFR6r_jg)*
+{{< figure src="https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjdXJpb3NpdHklMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODc0NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Three pupas" title="How to Grow Bigger Ideas Just by Walking and Noticing" caption="How to Grow Bigger Ideas Just by Walking and Noticing - Photo by [Suzanne D. Williams](https://unsplash.com/@scw1217) on [Unsplash](https://unsplash.com/photos/three-pupas-VMKBFR6r_jg)" >}}
 
 ## Key Takeaways
 - Use your daily life as a chance to grow.

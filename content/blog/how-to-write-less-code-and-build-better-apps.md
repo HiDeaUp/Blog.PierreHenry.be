@@ -12,8 +12,7 @@ original_title = "The SIMPLER ALWAYS WIN The Occam's Razor Principle"
 source_medium = "https://medium.com/@phenrysay/5128ec9c3aa5"
 +++
 
-![Photo by Safar Safarov](https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxPY2NhbXMlMjBSYXpvciUyMHNpbXBsaWNpdHklMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzA2NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Write Less Code and Build Better Apps")
-*How to Write Less Code and Build Better Apps - Photo by [Safar Safarov](https://unsplash.com/@safarslife) on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c)*
+{{< figure src="https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxPY2NhbXMlMjBSYXpvciUyMHNpbXBsaWNpdHklMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzA2NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Turned on macbook pro" title="How to Write Less Code and Build Better Apps" caption="How to Write Less Code and Build Better Apps - Photo by [Safar Safarov](https://unsplash.com/@safarslife) on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c)" >}}
 
 Something I wanted to share is that it's not because it's longer. It's not because you write a huge report. It's not because you code this 1,000 plus lines of code in each file and the function looks giant. That is better. Of course not. And usually the simpler solution is the ideal one. The ideal one and it's the same for UX. It's the same for an app. It's the same in our day-to-day life. The simpler, the less, it's more.
 
@@ -27,8 +26,7 @@ So when you end up with something super simple, very easy to maintain, it's also
 
 ## Practical Example: Refactoring for Simplicity
 
-![Code example of CSS](https://images.unsplash.com/photo-1610986603166-f78428624e76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxPY2NhbXMlMjBSYXpvciUyMHNpbXBsaWNpdHklMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzA2NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Write Less Code and Build Better Apps")
-*How to Write Less Code and Build Better Apps - Photo by [Ferenc Almasi](https://unsplash.com/@flowforfrank) on [Unsplash](https://unsplash.com/photos/text-NzERTNpnaDw)*
+{{< figure src="https://images.unsplash.com/photo-1610986603166-f78428624e76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxPY2NhbXMlMjBSYXpvciUyMHNpbXBsaWNpdHklMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzA2NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Code example of CSS" title="How to Write Less Code and Build Better Apps" caption="How to Write Less Code and Build Better Apps - Photo by [Ferenc Almasi](https://unsplash.com/@flowforfrank) on [Unsplash](https://unsplash.com/photos/text-NzERTNpnaDw)" >}}
 
 Let me give you a quick code example. Imagine you have a function that checks if a user is allowed to access a resource. The "complex" way might look like this:
 
@@ -71,8 +69,7 @@ When you keep things simple, you make your life easier. You make your teammates'
 > "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."  
 > — Antoine de Saint-Exupéry
 
-![Photo by Bernd 📷 Dittrich](https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxPY2NhbXMlMjBSYXpvciUyMHNpbXBsaWNpdHklMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzA2NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Write Less Code and Build Better Apps")
-*How to Write Less Code and Build Better Apps - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)*
+{{< figure src="https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxPY2NhbXMlMjBSYXpvciUyMHNpbXBsaWNpdHklMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzA2NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A screen with a bunch of lines on it" title="How to Write Less Code and Build Better Apps" caption="How to Write Less Code and Build Better Apps - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)" >}}
 
 So next time you're tempted to add more, write more, or make something more complicated, ask yourself: can I make this simpler? Can I cut out the noise and just deliver what matters?
 

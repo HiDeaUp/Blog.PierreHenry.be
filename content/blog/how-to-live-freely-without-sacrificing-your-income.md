@@ -12,8 +12,7 @@ original_title = "Comment vivre LIBREMENT ? Dans le monde actuel ?"
 source_medium = "https://medium.com/@phenrysay/d2e92310981d"
 +++
 
-![Photo by Tai Oli](https://images.unsplash.com/photo-1644315741173-284588c66591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwd29yay1saWZlJTIwYmFsYW5jZSUyMGxpZmVzdHlsZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU1NjM5MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Freely Without Sacrificing Your Income")
-*How to Live Freely Without Sacrificing Your Income - Photo by [Tai Oli](https://unsplash.com/@taioli) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-on-a-saucer-next-to-a-laptop-pzWqzD3AfeI)*
+{{< figure src="https://images.unsplash.com/photo-1644315741173-284588c66591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwd29yay1saWZlJTIwYmFsYW5jZSUyMGxpZmVzdHlsZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU1NjM5MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cup of coffee on a saucer next to a laptop" title="How to Live Freely Without Sacrificing Your Income" caption="How to Live Freely Without Sacrificing Your Income - Photo by [Tai Oli](https://unsplash.com/@taioli) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-on-a-saucer-next-to-a-laptop-pzWqzD3AfeI)" >}}
 
 Living freely and well is something most people want. At least, that's what I've always wanted for myself: to have the freedom to design my days, to plan my mornings, afternoons, and evenings, and to manage my own time. It means organizing tasks, yes, but not being stuck in a regular 9-to-5 job—or worse, a job that eats up your entire day.
 
@@ -23,8 +22,7 @@ When you work less and earn more, you get a lifestyle that actually fits you. Yo
 
 But here's the catch: to live freely and well, you need money. Everything costs something. Money doesn't buy happiness, but it does buy freedom. It gives you more time, because you can delegate tasks you aren't good at or don't want to do. It solves problems that would be much harder to handle alone. If you have money, you can pay professionals to fix things for you.
 
-![Photo by Maria Oswalt](https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwd29yay1saWZlJTIwYmFsYW5jZSUyMGxpZmVzdHlsZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU1NjM5MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Freely Without Sacrificing Your Income")
-*How to Live Freely Without Sacrificing Your Income - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)*
+{{< figure src="https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwd29yay1saWZlJTIwYmFsYW5jZSUyMGxpZmVzdHlsZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU1NjM5MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow life printed balloon" title="How to Live Freely Without Sacrificing Your Income" caption="How to Live Freely Without Sacrificing Your Income - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)" >}}
 
 So, how do you make money? By selling what you know—your skills, your know-how. Think about why people call you or ask for your help. Maybe your friends or family already see you as the go-to person for something. It could be sports, motivation, coaching, IT, reading, or analyzing tricky problems. For example, my partner is great at understanding complex texts. When I was doing my master's in data science, I'd sometimes struggle with the wording of assignments. She could read them and immediately tell me what the professor wanted, even if the instructions were vague.
 
@@ -40,8 +38,7 @@ If you start a video or a course and give up before publishing, you'll never kno
 > _The price of anything is the amount of life you exchange for it._
 > — Henry David Thoreau
 
-![Kaizen Wallet by Kisetsu.co](https://images.unsplash.com/photo-1620109177100-fa8753a564c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwd29yay1saWZlJTIwYmFsYW5jZSUyMGxpZmVzdHlsZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU1NjM5MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Freely Without Sacrificing Your Income")
-*How to Live Freely Without Sacrificing Your Income - Photo by [Kisetsu Co](https://unsplash.com/@kisetsuco) on [Unsplash](https://unsplash.com/photos/10-us-dollar-bill-beside-black-leather-wallet-and-coins-ZbFLENdUBvU)*
+{{< figure src="https://images.unsplash.com/photo-1620109177100-fa8753a564c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwd29yay1saWZlJTIwYmFsYW5jZSUyMGxpZmVzdHlsZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU1NjM5MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Kaizen Wallet by Kisetsu.co" title="How to Live Freely Without Sacrificing Your Income" caption="How to Live Freely Without Sacrificing Your Income - Photo by [Kisetsu Co](https://unsplash.com/@kisetsuco) on [Unsplash](https://unsplash.com/photos/10-us-dollar-bill-beside-black-leather-wallet-and-coins-ZbFLENdUBvU)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Réussite facile. Pourquoi tout le monde à faux ?"
 source_medium = "https://medium.com/@phenrysay/177aab565127"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjAxMzU3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Success Without Working Harder")
-*How to Find Real Success Without Working Harder - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjAxMzU3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Find Real Success Without Working Harder" caption="How to Find Real Success Without Working Harder - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 When was the last time you truly challenged yourself? Not just going through the motions, but setting a real challenge that made you feel alive? Pushing yourself, even just a little, changes everything. Creating your own challenges, even small ones, adds a spark to your days. It’s like adding a pinch of salt or a dash of spice to an otherwise bland routine.
 
@@ -21,8 +20,7 @@ This is what keeps us going. Having a long-term project, or even a few short-ter
 
 But if you have nothing on your plate, your Saturday morning might look very different. You wake up at 6, but there’s nothing pulling you out of bed, so you go back to sleep. You get up at 8, eat something, and before you know it, it’s noon and half your day is gone. The day starts off wrong, and it’s hard to get back on track.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjAxMzU3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Success Without Working Harder")
-*How to Find Real Success Without Working Harder - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjAxMzU3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Find Real Success Without Working Harder" caption="How to Find Real Success Without Working Harder - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 We all need projects. That’s why, sadly, many people in retirement homes often lose their spark after the holidays. Once their loved ones have visited and left, they’re left with a long stretch of time and not much to look forward to. It’s a tough truth, but without real reasons to live, without something to anticipate, life can feel empty. Many wait a whole year just to see their family again, and in the meantime, they feel alone. It’s often after the holidays, in January or February, that some simply give up.
 
@@ -36,8 +34,7 @@ From the bottom of my heart, I’m with you. The best time to do great things is
 
 Don’t wait for the perfect moment. Create projects, find what excites you, and give yourself reasons to wake up with energy. That’s what you deserve, and that’s what I wish for you. I believe in you. The best moment is now. Take action.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjAxMzU3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Success Without Working Harder")
-*How to Find Real Success Without Working Harder - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjAxMzU3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Find Real Success Without Working Harder" caption="How to Find Real Success Without Working Harder - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 ---
 

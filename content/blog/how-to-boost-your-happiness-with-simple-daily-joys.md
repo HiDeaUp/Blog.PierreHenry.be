@@ -12,8 +12,7 @@ original_title = "Création de MOMENTS de bonheur ☺️"
 source_medium = "https://medium.com/@phenrysay/a78e27401f2b"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzaW1wbGUlMjBwbGVhc3VyZXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2ODUxNDc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness With Simple Daily Joys")
-*How to Boost Your Happiness With Simple Daily Joys - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzaW1wbGUlMjBwbGVhc3VyZXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2ODUxNDc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Boost Your Happiness With Simple Daily Joys" caption="How to Boost Your Happiness With Simple Daily Joys - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 We often think happiness is something grand, something that arrives only with big achievements or major life changes. But the truth is, happiness is built from small moments—tiny sparks of joy that brighten our days and lift our spirits. These moments are not just nice to have; they are essential. Adding little joys and moments of wonder to your daily routine can make a real difference in how you feel.
 
@@ -25,8 +24,7 @@ Feeling fulfilled is not just about being productive. It’s about enjoying what
 
 ## When to Create Your Moments
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzaW1wbGUlMjBwbGVhc3VyZXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2ODUxNDc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness With Simple Daily Joys")
-*How to Boost Your Happiness With Simple Daily Joys - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzaW1wbGUlMjBwbGVhc3VyZXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2ODUxNDc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Boost Your Happiness With Simple Daily Joys" caption="How to Boost Your Happiness With Simple Daily Joys - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 The best times to enjoy these small pleasures are in the morning, after lunch, and in the evening before or after dinner. Take 10 to 15 minutes to relax. This could be meditation, reading, or simply doing something you love. The key is that it must be something you truly enjoy. When you do, you win a moment of peace for yourself.
 
@@ -46,8 +44,7 @@ Sometimes, our environment can feel heavy or uninspiring. That’s when it’s e
 
 Think of these moments as a kind of medicine—something you give yourself regularly to feel better. Three times a day, like a gentle prescription for your soul. Over time, these small pleasures add up, helping you feel lighter, more positive, and ready to take on whatever comes next.
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzaW1wbGUlMjBwbGVhc3VyZXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2ODUxNDc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Happiness With Simple Daily Joys")
-*How to Boost Your Happiness With Simple Daily Joys - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)*
+{{< figure src="https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzaW1wbGUlMjBwbGVhc3VyZXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2ODUxNDc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow card with the words be the creator of your own" title="How to Boost Your Happiness With Simple Daily Joys" caption="How to Boost Your Happiness With Simple Daily Joys - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)" >}}
 
 ---
 

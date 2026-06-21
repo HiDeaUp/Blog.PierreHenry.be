@@ -12,8 +12,7 @@ original_title = "Online or Offline, this is how MCP Servers can BOOST any Data.
 source_medium = "https://medium.com/@phenrysay/dfc6edad8235"
 +++
 
-![HTC icon in 3D. My 3D work may be seen in the section titled "3D Render."](https://images.unsplash.com/photo-1681928412599-8e7533ee5ef1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxNQ1AlMjBzZXJ2ZXIlMjBGYXN0aWZ5JTIwVHlwZVNjcmlwdHxlbnwwfDB8fHwxNzY3MjQ4MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an MCP Server and Boost Data Without the Hassle")
-*How to Build an MCP Server and Boost Data Without the Hassle - Photo by [Rubaitul Azad](https://unsplash.com/@rubaitulazad) on [Unsplash](https://unsplash.com/photos/a-computer-keyboard-with-the-word-htc-on-it-UQT2ZpYiOP8)*
+{{< figure src="https://images.unsplash.com/photo-1681928412599-8e7533ee5ef1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxNQ1AlMjBzZXJ2ZXIlMjBGYXN0aWZ5JTIwVHlwZVNjcmlwdHxlbnwwfDB8fHwxNzY3MjQ4MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="HTC icon in 3D. My 3D work may be seen in the section titled &quot;3D Render.&quot;" title="How to Build an MCP Server and Boost Data Without the Hassle" caption="How to Build an MCP Server and Boost Data Without the Hassle - Photo by [Rubaitul Azad](https://unsplash.com/@rubaitulazad) on [Unsplash](https://unsplash.com/photos/a-computer-keyboard-with-the-word-htc-on-it-UQT2ZpYiOP8)" >}}
 
 Alright, today I want to walk you through the basics of setting up an MCP server architecture. This is something I’ve been tinkering with, and honestly, it’s way simpler than you might think. I’ll show you my setup, some practical code, and a few tips I picked up along the way. If you’re curious about how MCP servers work, or you want to build your own, you’re in the right place.
 
@@ -59,8 +58,7 @@ I built a tiny MCP server to show you the essentials. Here’s how I structured 
 
 Here’s where things get interesting. The MCP server has a set of context routes. In Fastify, this is just like setting up any other route, but with a focus on returning specific metadata from the ENV file.
 
-![Next.js server script](https://images.unsplash.com/photo-1643116774075-acc00caa9a7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxNQ1AlMjBzZXJ2ZXIlMjBGYXN0aWZ5JTIwVHlwZVNjcmlwdHxlbnwwfDB8fHwxNzY3MjQ4MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an MCP Server and Boost Data Without the Hassle")
-*How to Build an MCP Server and Boost Data Without the Hassle - Photo by [James Wiseman](https://unsplash.com/@jameswiseman) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-program-running-on-it-imgCpfIMoRw)*
+{{< figure src="https://images.unsplash.com/photo-1643116774075-acc00caa9a7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxNQ1AlMjBzZXJ2ZXIlMjBGYXN0aWZ5JTIwVHlwZVNjcmlwdHxlbnwwfDB8fHwxNzY3MjQ4MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Next.js server script" title="How to Build an MCP Server and Boost Data Without the Hassle" caption="How to Build an MCP Server and Boost Data Without the Hassle - Photo by [James Wiseman](https://unsplash.com/@jameswiseman) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-program-running-on-it-imgCpfIMoRw)" >}}
 
 ```typescript
 fastify.get('/.well-known/model-context', async (request, reply) => {
@@ -110,8 +108,7 @@ Just to clear up any confusion: MVP is Minimum Viable Product—build something 
 
 ## Example: Splitting Tags
 
-![A 3D render of the Mastodon logo](https://images.unsplash.com/photo-1698209652952-6ccdcf934f13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxNQ1AlMjBzZXJ2ZXIlMjBGYXN0aWZ5JTIwVHlwZVNjcmlwdHxlbnwwfDB8fHwxNzY3MjQ4MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an MCP Server and Boost Data Without the Hassle")
-*How to Build an MCP Server and Boost Data Without the Hassle - Photo by [Chethan](https://unsplash.com/@ch3thanhs) on [Unsplash](https://unsplash.com/photos/a-purple-and-white-letter-q-on-a-black-background-FntA-iLzGxU)*
+{{< figure src="https://images.unsplash.com/photo-1698209652952-6ccdcf934f13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxNQ1AlMjBzZXJ2ZXIlMjBGYXN0aWZ5JTIwVHlwZVNjcmlwdHxlbnwwfDB8fHwxNzY3MjQ4MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A 3D render of the Mastodon logo" title="How to Build an MCP Server and Boost Data Without the Hassle" caption="How to Build an MCP Server and Boost Data Without the Hassle - Photo by [Chethan](https://unsplash.com/@ch3thanhs) on [Unsplash](https://unsplash.com/photos/a-purple-and-white-letter-q-on-a-black-background-FntA-iLzGxU)" >}}
 
 Here’s a quick example of how I handle tags in the context route:
 

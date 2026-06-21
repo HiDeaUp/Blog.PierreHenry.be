@@ -12,8 +12,7 @@ original_title = "Maximisez Son Énergie : Stratégies Infaillibles pour un Éta
 source_medium = "https://medium.com/@phenrysay/e1a0a0e0e718"
 +++
 
-![A lady in pursuit to inspire and challenge the human body to push it’s limits and live a healthy active life. Thanks for the wild ride!](https://images.unsplash.com/photo-1497369753325-69e1f26b7f56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBib29zdCUyMGRhaWx5JTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMDg1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Daily Energy Without Giving Up Your Routine")
-*How to Boost Daily Energy Without Giving Up Your Routine - Photo by [Becca Matimba](https://unsplash.com/@bmatimbaphoto) on [Unsplash](https://unsplash.com/photos/woman-doing-pull-up-exercise-xzu52UX-1jc)*
+{{< figure src="https://images.unsplash.com/photo-1497369753325-69e1f26b7f56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBib29zdCUyMGRhaWx5JTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMDg1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A lady in pursuit to inspire and challenge the human body to push it’s limits and live a healthy active life. Thanks for the wild ride!" title="How to Boost Daily Energy Without Giving Up Your Routine" caption="How to Boost Daily Energy Without Giving Up Your Routine - Photo by [Becca Matimba](https://unsplash.com/@bmatimbaphoto) on [Unsplash](https://unsplash.com/photos/woman-doing-pull-up-exercise-xzu52UX-1jc)" >}}
 
 Have you ever wondered why some days you feel like you could conquer the world, while on others you barely have the strength to get through your to-do list? I’ve often thought about this, especially after a heavy lunch at work. Today, I want to share some personal thoughts and practical strategies on how to keep your energy high, day after day.
 
@@ -31,8 +30,7 @@ One thing that always lifts my spirits is the magic of the holiday season. Even 
 
 After eating too much, it’s normal to feel tired—your body is busy digesting. I’ve experimented with fasting, sometimes for up to five days. Even just skipping breakfast and eating only at noon gives me a surprising boost of energy. But if you overeat, you’ll feel drained, and that’s not helpful if you have things you want to achieve.
 
-![Sport girl](https://images.unsplash.com/photo-1590587478871-7ca2dc0f4210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjBib29zdCUyMGRhaWx5JTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMDg1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Daily Energy Without Giving Up Your Routine")
-*How to Boost Daily Energy Without Giving Up Your Routine - Photo by [Yehor Milohrodskyi](https://unsplash.com/@milohrodskyi) on [Unsplash](https://unsplash.com/photos/woman-in-blue-tank-top-and-black-pants-sitting-on-green-grass-field-IVZjht6QLPI)*
+{{< figure src="https://images.unsplash.com/photo-1590587478871-7ca2dc0f4210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjBib29zdCUyMGRhaWx5JTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMDg1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Sport girl" title="How to Boost Daily Energy Without Giving Up Your Routine" caption="How to Boost Daily Energy Without Giving Up Your Routine - Photo by [Yehor Milohrodskyi](https://unsplash.com/@milohrodskyi) on [Unsplash](https://unsplash.com/photos/woman-in-blue-tank-top-and-black-pants-sitting-on-green-grass-field-IVZjht6QLPI)" >}}
 
 The key is to be aware of your habits. If you want to keep your energy up, you need to be honest with yourself about what’s holding you back. Sometimes, we chase a goal but keep doing things that slow us down. Recognizing this is the first step to breaking the cycle.
 
@@ -56,9 +54,7 @@ If you spend all day in front of a computer, like I do, it’s important to swit
 >
 > — Anonymous
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, salt, fat, acid, heat, sweet, dessert, humour, humor, afters, cookery, cooking, cordon bleu, basics, cookery basics, samin nosrat, ingredients, 
-](https://images.unsplash.com/photo-1605606437828-598340dfaeb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjBib29zdCUyMGRhaWx5JTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMDg1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Daily Energy Without Giving Up Your Routine")
-*How to Boost Daily Energy Without Giving Up Your Routine - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-EoP2jDCrgfU)*
+{{< figure src="https://images.unsplash.com/photo-1605606437828-598340dfaeb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjBib29zdCUyMGRhaWx5JTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMDg1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Boost Daily Energy Without Giving Up Your Routine" caption="How to Boost Daily Energy Without Giving Up Your Routine - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-EoP2jDCrgfU)" >}}
 
 > *The magic you seek is in the small moments you create for yourself.*
 >

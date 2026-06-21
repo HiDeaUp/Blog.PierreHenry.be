@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/81b2ebe4728d"
 source_youtube = "https://www.youtube.com/watch?v=5lUwxvEsOi0"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740817747908-7b12b6145a66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHNlbGYtaW1wcm92ZW1lbnQlMjBvdmVyY29taW5nJTIwZG91YnR8ZW58MHwwfHx8MTc2ODIxOTk3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus 100 Percent Without Overthinking Everything")
-*How to Focus 100 Percent Without Overthinking Everything - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-doubt-on-a-table-GmF2PRUI5no)*
+{{< figure src="https://images.unsplash.com/photo-1740817747908-7b12b6145a66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHNlbGYtaW1wcm92ZW1lbnQlMjBvdmVyY29taW5nJTIwZG91YnR8ZW58MHwwfHx8MTc2ODIxOTk3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block doubt on a table" title="How to Focus 100 Percent Without Overthinking Everything" caption="How to Focus 100 Percent Without Overthinking Everything - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-doubt-on-a-table-GmF2PRUI5no)" >}}
 
 Taking control of your life starts with reorganizing your days. It’s about building a better routine and finding a way to organize yourself that actually works. Too often, we look for problems outside ourselves, or worse, we invent problems that don’t even exist. How many times have you caught yourself thinking, “But what if this happens? What will I do if that comes up?” We pile up these “what ifs” and start making up scenarios that haven’t happened and might never happen.
 
@@ -28,8 +27,7 @@ One of my favorite breathing exercises comes from sophrology. It’s simple and 
 2. Hold your breath for four seconds.
 3. Exhale gently for four seconds.
 
-![While out and about at a music festival, snapped this while enjoy some good tunes!](https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHNlbGYtaW1wcm92ZW1lbnQlMjBvdmVyY29taW5nJTIwZG91YnR8ZW58MHwwfHx8MTc2ODIxOTk3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus 100 Percent Without Overthinking Everything")
-*How to Focus 100 Percent Without Overthinking Everything - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)*
+{{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHNlbGYtaW1wcm92ZW1lbnQlMjBvdmVyY29taW5nJTIwZG91YnR8ZW58MHwwfHx8MTc2ODIxOTk3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Focus 100 Percent Without Overthinking Everything" caption="How to Focus 100 Percent Without Overthinking Everything - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
 That’s it. This small practice can make a huge difference. It helps clear your mind, reduces stress, and gives you a sense of calm. When you make space for this kind of breathing, you’ll notice a real shift in how you feel and how you live. You’ll find it easier to focus on what matters and stop feeding your mind with unnecessary worries.
 
@@ -47,8 +45,7 @@ When you start to let go of imaginary problems and focus on what you can actuall
 
 ---
 
-![Female hand showing camera filter.](https://images.unsplash.com/photo-1676335834780-b087d202e18a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHNlbGYtaW1wcm92ZW1lbnQlMjBvdmVyY29taW5nJTIwZG91YnR8ZW58MHwwfHx8MTc2ODIxOTk3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus 100 Percent Without Overthinking Everything")
-*How to Focus 100 Percent Without Overthinking Everything - Photo by [Fast Glass FX](https://unsplash.com/@fastglassfx) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-magnifying-glass-over-a-body-of-water-h18xeG416NM)*
+{{< figure src="https://images.unsplash.com/photo-1676335834780-b087d202e18a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHNlbGYtaW1wcm92ZW1lbnQlMjBvdmVyY29taW5nJTIwZG91YnR8ZW58MHwwfHx8MTc2ODIxOTk3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Female hand showing camera filter." title="How to Focus 100 Percent Without Overthinking Everything" caption="How to Focus 100 Percent Without Overthinking Everything - Photo by [Fast Glass FX](https://unsplash.com/@fastglassfx) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-magnifying-glass-over-a-body-of-water-h18xeG416NM)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Être résilient dans ses accomplissements 💪"
 source_medium = "https://medium.com/@phenrysay/7771aa94c370"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBhY2hpZXZlbWVudHxlbnwwfDB8fHwxNzU2NTI0NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Resilience Without Burning Out")
-*How to Build Real Resilience Without Burning Out - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBhY2hpZXZlbWVudHxlbnwwfDB8fHwxNzU2NTI0NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Build Real Resilience Without Burning Out" caption="How to Build Real Resilience Without Burning Out - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Resilience is often praised as a key strength, but it is not always easy to put into practice. The idea of pushing through challenges sounds good, but it demands real effort and energy. Achieving your goals is not just about wishing for them; it is about being ready to work for them, even when things get tough.
 
@@ -21,8 +20,7 @@ What makes resilience more manageable is having a clear vision. When you know ex
 
 One powerful method to help you stay resilient is what I call "rabbit stacking." This means turning what you need to do into a habit. Instead of relying on bursts of motivation, you build routines that carry you forward, step by step. By stacking small actions on top of each other, you make progress almost automatic. Over time, these habits add up, and you find yourself much closer to your goal than you ever expected.
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBhY2hpZXZlbWVudHxlbnwwfDB8fHwxNzU2NTI0NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Resilience Without Burning Out")
-*How to Build Real Resilience Without Burning Out - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBhY2hpZXZlbWVudHxlbnwwfDB8fHwxNzU2NTI0NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Build Real Resilience Without Burning Out" caption="How to Build Real Resilience Without Burning Out - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Progress is rarely about giant leaps. It is about steady, gradual improvement. The curve of progress is real: at first, results may seem slow, but if you keep going, you will see real change. Every small step counts, and each day you stick to your habits, you move closer to where you want to be.
 
@@ -34,8 +32,7 @@ Progress is rarely about giant leaps. It is about steady, gradual improvement. T
 
 ---
 
-![Photo by Courtney Cantu](https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBhY2hpZXZlbWVudHxlbnwwfDB8fHwxNzU2NTI0NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Resilience Without Burning Out")
-*How to Build Real Resilience Without Burning Out - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)*
+{{< figure src="https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwcGVyc29uYWwlMjBncm93dGglMjBhY2hpZXZlbWVudHxlbnwwfDB8fHwxNzU2NTI0NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of the ground" title="How to Build Real Resilience Without Burning Out" caption="How to Build Real Resilience Without Burning Out - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)" >}}
 
 ## Key Takeaways
 

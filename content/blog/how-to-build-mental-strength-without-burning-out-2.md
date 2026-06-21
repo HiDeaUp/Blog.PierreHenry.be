@@ -12,8 +12,7 @@ original_title = "Les secrets de la persévérance 🤫"
 source_medium = "https://medium.com/@phenrysay/44d3d240ee33"
 +++
 
-![Strength bench](https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBtZW50YWwlMjBzdHJlbmd0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMTQxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Mental Strength Without Burning Out")
-*How to Build Mental Strength Without Burning Out - Photo by [Dulcey Lima](https://unsplash.com/@dulceylima) on [Unsplash](https://unsplash.com/photos/brown-wooden-fence-on-gray-and-white-ground-1rP5Xc5RGvU)*
+{{< figure src="https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBtZW50YWwlMjBzdHJlbmd0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMTQxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Strength bench" title="How to Build Mental Strength Without Burning Out" caption="How to Build Mental Strength Without Burning Out - Photo by [Dulcey Lima](https://unsplash.com/@dulceylima) on [Unsplash](https://unsplash.com/photos/brown-wooden-fence-on-gray-and-white-ground-1rP5Xc5RGvU)" >}}
 
 Mental strength is what lets us climb every mountain and overcome every obstacle life throws our way. If you want to succeed, change, or step out of your comfort zone, you will face challenges. We all do. The first step is to accept this simple truth. But here’s the good news: you can overcome obstacles much faster by changing your mindset and the way you see your own limits.
 
@@ -25,8 +24,7 @@ Of course, change can be scary. That’s why we often laugh off new things or re
 
 If you stay in your comfort zone, you’ll keep running into the same obstacles. It feels safe, but if you want to succeed, you have to stretch your comfort zone. These days, there are more benefits to jumping into new things than sticking with the old. If you reject change, you’ll always be a step behind. But if you welcome it, you’ll be ahead of the game.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, play to your strengths, prioritise, prioritise, maximise, success, win, thrive, self image, competition, focus, progress, ](https://images.unsplash.com/photo-1635403771527-7b350cf2b6f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBtZW50YWwlMjBzdHJlbmd0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMTQxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Mental Strength Without Burning Out")
-*How to Build Mental Strength Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-play-to-your-strength-h3CMrN7MVDo)*
+{{< figure src="https://images.unsplash.com/photo-1635403771527-7b350cf2b6f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBtZW50YWwlMjBzdHJlbmd0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMTQxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles play to your" title="How to Build Mental Strength Without Burning Out" caption="How to Build Mental Strength Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-play-to-your-strength-h3CMrN7MVDo)" >}}
 
 Let me share something from my own journey. I’ve spent years studying success, attending conferences, and learning from the best. One thing I’ve learned is that our brains are wired to keep things stable, to make sense of reality as we know it. That’s why change feels threatening. But this fear is just in our heads. It’s not reality. By accepting life as it comes, you gain real control over it. You get to enjoy all the new things life has to offer.
 
@@ -47,8 +45,7 @@ If you don’t, you’ll always be trailing behind, wondering why others seem to
 - *Welcoming change puts you ahead; resisting it keeps you stuck.*
 - *Daily positive affirmations help break old mental barriers.*
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, christian, jesus, mark, gospel, greatest commandment, heart, soul, mind, strength, love the lord, love god, ](https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBtZW50YWwlMjBzdHJlbmd0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMTQxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Mental Strength Without Burning Out")
-*How to Build Mental Strength Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)*
+{{< figure src="https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBtZW50YWwlMjBzdHJlbmd0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMTQxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles the words heart soul mind and" title="How to Build Mental Strength Without Burning Out" caption="How to Build Mental Strength Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)" >}}
 
 ## Action Steps
 

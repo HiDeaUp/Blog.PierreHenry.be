@@ -12,8 +12,7 @@ original_title = "Faut-il s’investir ?"
 source_medium = "https://medium.com/@phenrysay/cb7bc04cc3ef"
 +++
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBwcmlvcml0aXphdGlvbnxlbnwwfDB8fHwxNzU2NTE2NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest Your Energy for Maximum Impact Without Burnout")
-*How to Invest Your Energy for Maximum Impact Without Burnout - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBwcmlvcml0aXphdGlvbnxlbnwwfDB8fHwxNzU2NTE2NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Invest Your Energy for Maximum Impact Without Burnout" caption="How to Invest Your Energy for Maximum Impact Without Burnout - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 Every day, we have a limited amount of time and energy. The way we choose to invest these resources shapes what we get out of life. You can spend a whole day doing many things, but not all of them matter equally. Some tasks eat up your hours without really moving you forward, while others—often just a few—make a real difference.
 
@@ -23,8 +22,7 @@ This is where the Pareto Principle comes in. You might know it as the 80/20 rule
 
 Start by identifying your strengths. What are you already good at? Where do you bring real value? Once you know this, look for the 20% of actions in those areas that will give you the biggest payoff. Maybe it’s a particular project at work, a relationship that energizes you, or a skill you can develop further.
 
-![Photo by Chengyu Wang](https://images.unsplash.com/photo-1752912064335-582974c38b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBwcmlvcml0aXphdGlvbnxlbnwwfDB8fHwxNzU2NTE2NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest Your Energy for Maximum Impact Without Burnout")
-*How to Invest Your Energy for Maximum Impact Without Burnout - Photo by [Chengyu Wang](https://unsplash.com/@chenriew) on [Unsplash](https://unsplash.com/photos/people-walk-by-a-clock-on-a-busy-street-SyWTR0P4mL8)*
+{{< figure src="https://images.unsplash.com/photo-1752912064335-582974c38b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBwcmlvcml0aXphdGlvbnxlbnwwfDB8fHwxNzU2NTE2NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="People walk by a clock on a busy street" title="How to Invest Your Energy for Maximum Impact Without Burnout" caption="How to Invest Your Energy for Maximum Impact Without Burnout - Photo by [Chengyu Wang](https://unsplash.com/@chenriew) on [Unsplash](https://unsplash.com/photos/people-walk-by-a-clock-on-a-busy-street-SyWTR0P4mL8)" >}}
 
 The point is not to do more, but to do better. When you invest yourself in the right places, you get more satisfaction and better results. It’s about quality, not quantity.
 
@@ -38,8 +36,7 @@ If you want your days to count, make sure you’re putting your energy where it 
 
 ---
 
-![Photo by faizan khan](https://images.unsplash.com/photo-1635267065514-00dd006878a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBwcmlvcml0aXphdGlvbnxlbnwwfDB8fHwxNzU2NTE2NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest Your Energy for Maximum Impact Without Burnout")
-*How to Invest Your Energy for Maximum Impact Without Burnout - Photo by [faizan khan](https://unsplash.com/@faizankhan3545) on [Unsplash](https://unsplash.com/photos/a-green-alarm-clock-sitting-on-top-of-a-table-eT1gMuQJlSI)*
+{{< figure src="https://images.unsplash.com/photo-1635267065514-00dd006878a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBwcmlvcml0aXphdGlvbnxlbnwwfDB8fHwxNzU2NTE2NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A green alarm clock sitting on top of a table" title="How to Invest Your Energy for Maximum Impact Without Burnout" caption="How to Invest Your Energy for Maximum Impact Without Burnout - Photo by [faizan khan](https://unsplash.com/@faizankhan3545) on [Unsplash](https://unsplash.com/photos/a-green-alarm-clock-sitting-on-top-of-a-table-eT1gMuQJlSI)" >}}
 
 ## Key Takeaways
 - Focus on the 20% of actions that bring 80% of your results.

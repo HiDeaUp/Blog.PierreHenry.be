@@ -12,8 +12,7 @@ original_title = "Peut-on vivre de manière élégante ?"
 source_medium = "https://medium.com/@phenrysay/a4ccd4e55c9b"
 +++
 
-![Photo by Rinku Shemar](https://images.unsplash.com/photo-1696410964425-8652883c9e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwbGl2aW5nJTIwYXJ0JTIwb2YlMjBsaXZpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTc4OTQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Savoring Small Joys Transforms Everyday Living")
-*How Savoring Small Joys Transforms Everyday Living - Photo by [Rinku Shemar](https://unsplash.com/@rinkushemar) on [Unsplash](https://unsplash.com/photos/a-black-buddha-statue-sitting-on-top-of-a-wooden-table-C7MmU5RPkjU)*
+{{< figure src="https://images.unsplash.com/photo-1696410964425-8652883c9e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwbGl2aW5nJTIwYXJ0JTIwb2YlMjBsaXZpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTc4OTQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black buddha statue sitting on top of a wooden table" title="How Savoring Small Joys Transforms Everyday Living" caption="How Savoring Small Joys Transforms Everyday Living - Photo by [Rinku Shemar](https://unsplash.com/@rinkushemar) on [Unsplash](https://unsplash.com/photos/a-black-buddha-statue-sitting-on-top-of-a-wooden-table-C7MmU5RPkjU)" >}}
 
 Living well and living elegantly—there’s a world of difference between the two. It’s something I keep repeating, but it’s true: when you start to appreciate the little things, your whole experience of life shifts. Imagine savoring a simple cup of coffee, or enjoying a special evening with friends or colleagues. Recently, I was at a dinner with my company, and we shared some truffles—a small luxury, but one that made the moment memorable. Even the act of carefully taking them out of the bag became a little ritual, a reminder that there’s always a better way to do things, even the smallest ones.
 
@@ -27,8 +26,7 @@ There’s no point in putting off what you want to do today. The best time to ac
 
 There will never be a perfect moment. Sometimes we tell ourselves we don’t have enough money or enough time, but the truth is, you’ll never have enough of either. If you can, set aside what you need for your dream, for that thing you want to achieve. Because in three years, chances are you’ll still be in the same place, maybe with even more responsibilities and unexpected events. You’ll never have enough money, never enough time. The most important thing is to invest your time now.
 
-![Photo by Rinku Shemar](https://images.unsplash.com/photo-1696410964761-2a91faafbb78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbGVnYW50JTIwbGl2aW5nJTIwYXJ0JTIwb2YlMjBsaXZpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTc4OTQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Savoring Small Joys Transforms Everyday Living")
-*How Savoring Small Joys Transforms Everyday Living - Photo by [Rinku Shemar](https://unsplash.com/@rinkushemar) on [Unsplash](https://unsplash.com/photos/a-buddha-statue-sitting-on-top-of-a-wooden-table-NcWXi9kxVq4)*
+{{< figure src="https://images.unsplash.com/photo-1696410964761-2a91faafbb78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbGVnYW50JTIwbGl2aW5nJTIwYXJ0JTIwb2YlMjBsaXZpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTc4OTQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A buddha statue sitting on top of a wooden table" title="How Savoring Small Joys Transforms Everyday Living" caption="How Savoring Small Joys Transforms Everyday Living - Photo by [Rinku Shemar](https://unsplash.com/@rinkushemar) on [Unsplash](https://unsplash.com/photos/a-buddha-statue-sitting-on-top-of-a-wooden-table-NcWXi9kxVq4)" >}}
 
 Take action in your life. I believe in you, so believe in yourself. Go for it, aim high, and don’t wait for tomorrow. The best moment is always now.
 
@@ -52,8 +50,7 @@ Take action in your life. I believe in you, so believe in yourself. Go for it, a
 - There will never be a perfect moment—start now.
 - Invest your time in what matters to you.
 
-![Photo by Emrecan Dora](https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbGVnYW50JTIwbGl2aW5nJTIwYXJ0JTIwb2YlMjBsaXZpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTc4OTQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Savoring Small Joys Transforms Everyday Living")
-*How Savoring Small Joys Transforms Everyday Living - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)*
+{{< figure src="https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbGVnYW50JTIwbGl2aW5nJTIwYXJ0JTIwb2YlMjBsaXZpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NTc4OTQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a log in the woods Zi" title="How Savoring Small Joys Transforms Everyday Living" caption="How Savoring Small Joys Transforms Everyday Living - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)" >}}
 
 ## Action Steps
 

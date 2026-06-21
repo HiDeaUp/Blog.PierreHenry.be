@@ -12,8 +12,7 @@ original_title = "Pourquoi réaliser de belles choses ...?"
 source_medium = "https://medium.com/@phenrysay/9ae1bf5702d7"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1654260081942-fe55497944e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGFydHxlbnwwfDB8fHwxNzU2MDExMzMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Creating Beautiful Things Can Change Your Life")
-*How Creating Beautiful Things Can Change Your Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-piece-of-cardboard-with-writing-on-it-9iFxTVTiKag)*
+{{< figure src="https://images.unsplash.com/photo-1654260081942-fe55497944e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGFydHxlbnwwfDB8fHwxNzU2MDExMzMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A piece of with writing on it" title="How Creating Beautiful Things Can Change Your Life" caption="How Creating Beautiful Things Can Change Your Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-piece-of-cardboard-with-writing-on-it-9iFxTVTiKag)" >}}
 
 There’s something deeply satisfying about making beautiful things. Whether it’s every day or just on weekends, taking time to create something that truly brings you joy can change your life in ways you might not expect. It’s not just about the pleasure you get in the moment, but also about the lasting sense of fulfillment and pride that comes from building something meaningful.
 
@@ -23,8 +22,7 @@ What really matters is finding something that makes you want to jump out of bed 
 
 Personally, I’ve always loved the idea of opening a coworking space that’s also a café. I used to work at Starbucks in London and developed a real appreciation for good coffee. At the same time, I’ve spent a lot of time in coworking spaces and have plenty of ideas about what makes them great. Imagine a place with a cozy atmosphere, good music, strong Wi-Fi, and plenty of power outlets—a space where you can work, relax, and feel inspired.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGFydHxlbnwwfDB8fHwxNzU2MDExMzMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Creating Beautiful Things Can Change Your Life")
-*How Creating Beautiful Things Can Change Your Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)*
+{{< figure src="https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGFydHxlbnwwfDB8fHwxNzU2MDExMzMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on a brick wall that says is" title="How Creating Beautiful Things Can Change Your Life" caption="How Creating Beautiful Things Can Change Your Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)" >}}
 
 There’s a company in Canada that did something similar. They started as a freelance platform, then launched a side project for sharing photos, and eventually opened a café right next to their office. Anyone can come in, buy a coffee, and enjoy the space. On one side, there’s a big open area with high ceilings, and on the other, the company’s offices. It’s a simple idea, but it brings people together and creates a sense of community.
 
@@ -40,8 +38,7 @@ If you want to go even further and really transform your life, I’ve put togeth
 
 ---
 
-![Photo by Leonifel Ramirez](https://images.unsplash.com/photo-1676937949123-db0cf2c924d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGFydHxlbnwwfDB8fHwxNzU2MDExMzMwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Creating Beautiful Things Can Change Your Life")
-*How Creating Beautiful Things Can Change Your Life - Photo by [Leonifel Ramirez](https://unsplash.com/@leonifel_13) on [Unsplash](https://unsplash.com/photos/a-woman-is-painting-on-an-easel-in-a-field-5zo-7_qGav8)*
+{{< figure src="https://images.unsplash.com/photo-1676937949123-db0cf2c924d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGFydHxlbnwwfDB8fHwxNzU2MDExMzMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman is on an easel in a field 5zo 7_qGav8" title="How Creating Beautiful Things Can Change Your Life" caption="How Creating Beautiful Things Can Change Your Life - Photo by [Leonifel Ramirez](https://unsplash.com/@leonifel_13) on [Unsplash](https://unsplash.com/photos/a-woman-is-painting-on-an-easel-in-a-field-5zo-7_qGav8)" >}}
 
 ## Key Takeaways
 

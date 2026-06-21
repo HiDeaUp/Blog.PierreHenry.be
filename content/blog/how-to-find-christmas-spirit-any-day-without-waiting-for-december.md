@@ -12,8 +12,7 @@ original_title = "Ho ho ho, mais c'est Noël !🎅"
 source_medium = "https://medium.com/@phenrysay/bd968feacf13"
 +++
 
-![Christmas sign](https://images.unsplash.com/photo-1650229406075-27b5c7e06075?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDaHJpc3RtYXMlMjBNaW5kc2V0JTIwUG9zaXRpdml0eXxlbnwwfDB8fHwxNzU3NDYyMTkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Christmas Spirit Any Day Without Waiting for December")
-*How to Find Christmas Spirit Any Day Without Waiting for December - Photo by [Jaclyn Baxter](https://unsplash.com/@a_jackie_of_all_trades) on [Unsplash](https://unsplash.com/photos/a-sign-that-reads-believe-in-the-magic-of-christmas-J9_QcmXOZ4s)*
+{{< figure src="https://images.unsplash.com/photo-1650229406075-27b5c7e06075?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDaHJpc3RtYXMlMjBNaW5kc2V0JTIwUG9zaXRpdml0eXxlbnwwfDB8fHwxNzU3NDYyMTkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Christmas sign" title="How to Find Christmas Spirit Any Day Without Waiting for December" caption="How to Find Christmas Spirit Any Day Without Waiting for December - Photo by [Jaclyn Baxter](https://unsplash.com/@a_jackie_of_all_trades) on [Unsplash](https://unsplash.com/photos/a-sign-that-reads-believe-in-the-magic-of-christmas-J9_QcmXOZ4s)" >}}
 
 Christmas is not just a day on the calendar. It is a way of looking at life with a positive spirit, no matter the month. Whether it’s May, July, or December, the magic of Christmas can be found in how we choose to see the world. Life is beautiful, and it’s easy to forget that beauty when we get caught up in routine. Time moves quickly, like a train speeding by. If you don’t keep up, you risk missing out on the best parts.
 
@@ -23,8 +22,7 @@ I remember the feeling of receiving my first Christmas gift. It was a simple mom
 
 A life plan doesn’t have to be complicated. Break your days into categories and tasks you want to accomplish. When you look at your days this way, you start to see how much you can achieve in a month. Imagine doing just one meaningful thing each day. In a month, that’s thirty things. That’s a lot more than you might think.
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDaHJpc3RtYXMlMjBNaW5kc2V0JTIwUG9zaXRpdml0eXxlbnwwfDB8fHwxNzU3NDYyMTkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Christmas Spirit Any Day Without Waiting for December")
-*How to Find Christmas Spirit Any Day Without Waiting for December - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDaHJpc3RtYXMlMjBNaW5kc2V0JTIwUG9zaXRpdml0eXxlbnwwfDB8fHwxNzU3NDYyMTkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Find Christmas Spirit Any Day Without Waiting for December" caption="How to Find Christmas Spirit Any Day Without Waiting for December - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 If you dedicate just one hour a day to something that matters to you, that’s about thirty hours a month. That’s more than a full workweek for many people. In most office jobs, a lot of time is lost to coffee breaks, pointless meetings, and distractions. But if you focus your time on what truly makes you happy, you can achieve so much more.
 
@@ -42,8 +40,7 @@ So, create something good. Do things that make you feel alive. Let your days be 
 
 ## Key Takeaways
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1640396666613-061429302e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDaHJpc3RtYXMlMjBNaW5kc2V0JTIwUG9zaXRpdml0eXxlbnwwfDB8fHwxNzU3NDYyMTkxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Christmas Spirit Any Day Without Waiting for December")
-*How to Find Christmas Spirit Any Day Without Waiting for December - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-wall-that-has-some-writing-on-it-5_eKieKQy1o)*
+{{< figure src="https://images.unsplash.com/photo-1640396666613-061429302e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDaHJpc3RtYXMlMjBNaW5kc2V0JTIwUG9zaXRpdml0eXxlbnwwfDB8fHwxNzU3NDYyMTkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wall that has some writing on it" title="How to Find Christmas Spirit Any Day Without Waiting for December" caption="How to Find Christmas Spirit Any Day Without Waiting for December - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-wall-that-has-some-writing-on-it-5_eKieKQy1o)" >}}
 
 - Life is beautiful—don’t miss it by moving too slowly.
 - Make your own happiness by focusing on what brings you joy.

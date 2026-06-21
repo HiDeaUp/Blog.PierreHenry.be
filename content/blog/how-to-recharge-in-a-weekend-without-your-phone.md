@@ -12,8 +12,7 @@ original_title = "Supprimer les états de stress"
 source_medium = "https://medium.com/@phenrysay/07d4a1acd906"
 +++
 
-![Relax on the beach](https://images.unsplash.com/photo-1608580818966-43e8f6c98707?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwcGVyc29uYWwlMjByZXRyZWF0JTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NTk5ODEyN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge in a Weekend Without Your Phone")
-*How to Recharge in a Weekend Without Your Phone - Photo by [Richard Wentzel](https://unsplash.com/@rwentzel) on [Unsplash](https://unsplash.com/photos/black-and-white-wooden-signage-3NJLX1fGy9k)*
+{{< figure src="https://images.unsplash.com/photo-1608580818966-43e8f6c98707?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwcGVyc29uYWwlMjByZXRyZWF0JTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NTk5ODEyN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Relax on the beach" title="How to Recharge in a Weekend Without Your Phone" caption="How to Recharge in a Weekend Without Your Phone - Photo by [Richard Wentzel](https://unsplash.com/@rwentzel) on [Unsplash](https://unsplash.com/photos/black-and-white-wooden-signage-3NJLX1fGy9k)" >}}
 
 There’s something deeply important that often gets overlooked: taking a retreat with yourself. I’m not talking about a vacation with friends or family, or a work trip disguised as leisure. I mean a true retreat, alone, away from all digital tools. No phone, no computer, nothing but you and maybe a book. This kind of break is essential for decompressing and gaining perspective on what’s happening in your life.
 
@@ -25,8 +24,7 @@ For founders, it’s even recommended to do this twice a year for a few days. Bi
 
 The retreat should be just for you. Even if you have a partner, try doing it alone—you’ll come back with more energy. Psychologists recommend this too, because you return refreshed and recharged. Being alone with yourself changes everything.
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwcGVyc29uYWwlMjByZXRyZWF0JTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NTk5ODEyN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge in a Weekend Without Your Phone")
-*How to Recharge in a Weekend Without Your Phone - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwcGVyc29uYWwlMjByZXRyZWF0JTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NTk5ODEyN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Recharge in a Weekend Without Your Phone" caption="How to Recharge in a Weekend Without Your Phone - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 I suggest doing this for a few days. It’s something I’ve done many times, and it always helps me get perspective. You’ll be able to see what truly makes you happy, what gives you energy, and what you want more of in your life. These moments often lead to those “aha!” realizations about what you really want.
 
@@ -44,8 +42,7 @@ Leave all digital tools behind. Not even a Kindle. Just bring a book or two, a n
 
 ---
 
-![Photo by Matt Busse](https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwcGVyc29uYWwlMjByZXRyZWF0JTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NTk5ODEyN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge in a Weekend Without Your Phone")
-*How to Recharge in a Weekend Without Your Phone - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)*
+{{< figure src="https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwcGVyc29uYWwlMjByZXRyZWF0JTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NTk5ODEyN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on top of a rock next to the ocean" title="How to Recharge in a Weekend Without Your Phone" caption="How to Recharge in a Weekend Without Your Phone - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)" >}}
 
 ## Key Takeaways
 

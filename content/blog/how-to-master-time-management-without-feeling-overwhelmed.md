@@ -12,8 +12,7 @@ original_title = "Mieux gérer les heures de sa vie ? ⏰"
 source_medium = "https://medium.com/@phenrysay/228e36f44be4"
 +++
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGxpZmUlMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NjAwNzEwNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Time Management Without Feeling Overwhelmed")
-*How to Master Time Management Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGxpZmUlMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NjAwNzEwNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Master Time Management Without Feeling Overwhelmed" caption="How to Master Time Management Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 Most days are ordinary. Today, for example, was a typical Saturday: I spent some time studying on my computer, working on a university assessment. Nothing special, just a regular day. But it got me thinking about something I often discuss—organization, time management, happiness, and well-being. These topics become even more important when you have a lot on your plate and your days feel too short.
 
@@ -27,8 +26,7 @@ If you’re comfortable on the train, you can make even better use of that hour.
 
 This is the Pareto principle in action: focus on the 20% of activities that bring 80% of the results. Use your time for things that matter, things that people will remember, and things that make you proud. If you spend your commute writing, learning, or working on something meaningful, you’ll get much more out of those hours.
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGxpZmUlMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NjAwNzEwNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Time Management Without Feeling Overwhelmed")
-*How to Master Time Management Without Feeling Overwhelmed - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGxpZmUlMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NjAwNzEwNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Master Time Management Without Feeling Overwhelmed" caption="How to Master Time Management Without Feeling Overwhelmed - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 You can apply this idea to other “dead” times too—waiting in line, sitting in a waiting room, or even while shopping. Listen to a podcast, take notes, or brainstorm ideas. Stay active and keep the habit of asking yourself how you can use your time better. Keep improving, keep questioning, and keep optimizing.
 
@@ -52,8 +50,7 @@ The only real limits are the ones you set for yourself. Most of our boundaries c
 >
 > — Anonymous
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGxpZmUlMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NjAwNzEwNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Time Management Without Feeling Overwhelmed")
-*How to Master Time Management Without Feeling Overwhelmed - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGxpZmUlMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NjAwNzEwNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Master Time Management Without Feeling Overwhelmed" caption="How to Master Time Management Without Feeling Overwhelmed - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*
 >

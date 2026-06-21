@@ -12,8 +12,7 @@ original_title = "Comment utiliser l’apprentissage pour réussir ?"
 source_medium = "https://medium.com/@phenrysay/8377610e3030"
 +++
 
-![Photo by Andrew Heald](https://images.unsplash.com/photo-1647664039415-8a9e23c010f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN1Y2Nlc3MlMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTYwMjg3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Faster by Learning—Not Just Working Hard")
-*How to Grow Faster by Learning—Not Just Working Hard - Photo by [Andrew Heald](https://unsplash.com/@aheald25) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-person-on-a-skateboard-NFH4eQocHE8)*
+{{< figure src="https://images.unsplash.com/photo-1647664039415-8a9e23c010f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHN1Y2Nlc3MlMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTYwMjg3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a person on a" title="How to Grow Faster by Learning—Not Just Working Hard" caption="How to Grow Faster by Learning—Not Just Working Hard - Photo by [Andrew Heald](https://unsplash.com/@aheald25) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-person-on-a-skateboard-NFH4eQocHE8)" >}}
 
 Do you want to learn new things—things that excite you, things that make you feel alive? As humans, we love to push our limits, to discover new knowledge, and to open new doors. This drive helps us climb the ladder, step by step, and maybe even become the person we dream of being. Often, this dream is tied to a role, a job, or even a certain level of recognition.
 
@@ -25,8 +24,7 @@ Doing something just for yourself, because you enjoy it, is great. But if it doe
 
 That’s why learning every day and staying up to date is such a strength. Curiosity and a thirst for knowledge are like gold mines. Don’t ignore them. Stay alert to what’s happening around you. Maybe even keep a list of things you want to research—a “why list.” We all know about to-do lists, but a why list is about questions you want to answer. Isaac Newton, who discovered the law of gravity, kept a why list. By questioning things, you start making connections and digging deeper.
 
-![Photo by Xingchen Yan](https://images.unsplash.com/photo-1692468558553-9171f7bb858d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN1Y2Nlc3MlMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTYwMjg3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Faster by Learning—Not Just Working Hard")
-*How to Grow Faster by Learning—Not Just Working Hard - Photo by [Xingchen Yan](https://unsplash.com/@xingchenyan) on [Unsplash](https://unsplash.com/photos/a-woman-standing-on-a-bridge-next-to-a-tall-building-HANnaLfWA28)*
+{{< figure src="https://images.unsplash.com/photo-1692468558553-9171f7bb858d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN1Y2Nlc3MlMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTYwMjg3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman on a bridge next to a tall" title="How to Grow Faster by Learning—Not Just Working Hard" caption="How to Grow Faster by Learning—Not Just Working Hard - Photo by [Xingchen Yan](https://unsplash.com/@xingchenyan) on [Unsplash](https://unsplash.com/photos/a-woman-standing-on-a-bridge-next-to-a-tall-building-HANnaLfWA28)" >}}
 
 There are tools to help you with this. You can use the Wikipedia app offline, or apps like Raindrop to save websites for later research. Pocket and Instapaper are great for saving articles. Note-taking apps like Apple Notes, Microsoft OneNote, or Google Keep help you store your ideas and findings. You can even use voice recording apps like Just Press Record, which I use on my smartwatch, to capture thoughts on the go.
 
@@ -51,8 +49,7 @@ Learning is not just about collecting information. It’s about asking the right
 - Use tools to save, organize, and revisit information and ideas.
 - Learning is about asking good questions and bringing value to others.
 
-![A bike stand shadow on concrete creates minimal art.](https://images.unsplash.com/photo-1712166040541-1ebe4ac6a7a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHN1Y2Nlc3MlMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTYwMjg3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Faster by Learning—Not Just Working Hard")
-*How to Grow Faster by Learning—Not Just Working Hard - Photo by [Michael Hamments](https://unsplash.com/@35mmtodgt) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-metal-object-Utm99esHwkI)*
+{{< figure src="https://images.unsplash.com/photo-1712166040541-1ebe4ac6a7a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHN1Y2Nlc3MlMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NTYwMjg3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A bike stand shadow on concrete creates minimal art." title="How to Grow Faster by Learning—Not Just Working Hard" caption="How to Grow Faster by Learning—Not Just Working Hard - Photo by [Michael Hamments](https://unsplash.com/@35mmtodgt) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-metal-object-Utm99esHwkI)" >}}
 
 ## Action Steps
 

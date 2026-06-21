@@ -12,8 +12,7 @@ original_title = "Concentration du temps 🕰️"
 source_medium = "https://medium.com/@phenrysay/0f1c0f460346"
 +++
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTYxMDk4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions")
-*How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTYxMDk4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions" caption="How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 If you want to make a real difference in your life, start by saving your time. Every day, the way you use your hours shapes your future. I realized this while working in Guyane, sitting in a coworking space, surrounded by people focused on their own projects. It hit me: when you waste time, you’re not just losing minutes—you’re losing pieces of your life. That’s why it’s so important to use your time wisely.
 
@@ -38,8 +37,7 @@ To avoid wasting time, I use a lapel mic for videos so I don’t have to redo th
 
 Don’t waste hours searching for the “perfect” app. Find one that works, stick with it, and move on.
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTYxMDk4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions")
-*How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTYxMDk4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions" caption="How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 ## Batch and Delay Recurring Tasks
 
@@ -68,8 +66,7 @@ Try working in 90-minute blocks, then take short breaks. Keep your workspace cle
 
 ## Use Technology to Your Advantage
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTYxMDk4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions")
-*How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGZvY3VzfGVufDB8MHx8fDE3NTYxMDk4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions" caption="How to Treat Your Time Like Gold and Stop Losing Your Life to Distractions - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Listen to your emails in the car using Siri or Google Assistant. Use dictation features to write notes or even books by speaking. These small tricks save a surprising amount of time.
 

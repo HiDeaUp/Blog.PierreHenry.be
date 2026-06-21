@@ -12,8 +12,7 @@ original_title = "Comment se détendre rapidement (même quand tout s’agite au
 source_medium = "https://medium.com/@phenrysay/71b7b0824ab4"
 +++
 
-![Nature fern in Monochrome.](https://images.unsplash.com/photo-1586940874256-20393945a79b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU1MTM3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping the Chaos")
-*How to Find Calm Without Escaping the Chaos - Photo by [Mike Hindle](https://unsplash.com/@mikehindle) on [Unsplash](https://unsplash.com/photos/brown-and-black-woven-textile-Wy--RMSh6zg)*
+{{< figure src="https://images.unsplash.com/photo-1586940874256-20393945a79b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU1MTM3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Nature fern in Monochrome." title="How to Find Calm Without Escaping the Chaos" caption="How to Find Calm Without Escaping the Chaos - Photo by [Mike Hindle](https://unsplash.com/@mikehindle) on [Unsplash](https://unsplash.com/photos/brown-and-black-woven-textile-Wy--RMSh6zg)" >}}
 
 There are moments when you just need to let go. I love the idea of letting go, of slowing down. Today, I’m sitting in a beautiful bay—Elizabeth Bay Park, to be exact. The weather is perfect, spring is in the air, and I enjoy coming here after work. It’s a quiet place, especially during the week, and it helps me decompress, take a step back from my life, and recharge.
 
@@ -27,8 +26,7 @@ Of course, you should always look for ways to improve your life. That’s why so
 
 When things get tough, people look for a glimmer of hope. That hope gives you the energy to climb higher, to keep going. Without positivity, you won’t have the strength to take the next step. So yes, you might never be fully satisfied, but sometimes you just need to sit down, rest, and look at the world around you. I love wide-open views—they help me realize how much space and possibility there is. I can look around and think, “I’m happy to be here, right now.” Enjoy the present moment instead of thinking about regrets or what could have been. Being stuck in the past only takes you further away from now.
 
-![Photo by Susanna Marsiglia](https://images.unsplash.com/photo-1597307510159-96bbe9b2a330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU1MTM3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping the Chaos")
-*How to Find Calm Without Escaping the Chaos - Photo by [Susanna Marsiglia](https://unsplash.com/@sushimi) on [Unsplash](https://unsplash.com/photos/woman-in-purple-dress-sitting-on-gray-couch-I_d1s_3VGPE)*
+{{< figure src="https://images.unsplash.com/photo-1597307510159-96bbe9b2a330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU1MTM3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in purple dress sitting on gray couch" title="How to Find Calm Without Escaping the Chaos" caption="How to Find Calm Without Escaping the Chaos - Photo by [Susanna Marsiglia](https://unsplash.com/@sushimi) on [Unsplash](https://unsplash.com/photos/woman-in-purple-dress-sitting-on-gray-couch-I_d1s_3VGPE)" >}}
 
 Take time to do nothing. Moments of calm, moments of emptiness, are important. They help you recharge. If you’re always doing more, always staring at a screen, you miss out on real life. Life is more than a screen—it’s about being here, now. Even if you live in a small apartment in the suburbs, you can always find something positive. Maybe it’s a nice piece of furniture, a pet, or just a small corner you like. Be grateful for that.
 
@@ -48,8 +46,7 @@ Today’s thoughts are a bit of a free-flow, but the main idea is this: take tim
 
 ## Key Takeaways
 
-![Monochrome Mindfulness](https://images.unsplash.com/photo-1589646197415-3c8e4b624d70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU1MTM3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Escaping the Chaos")
-*How to Find Calm Without Escaping the Chaos - Photo by [Mike Hindle](https://unsplash.com/@mikehindle) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-white-flowers-Ky_WLig0EmM)*
+{{< figure src="https://images.unsplash.com/photo-1589646197415-3c8e4b624d70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU1MTM3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Monochrome Mindfulness" title="How to Find Calm Without Escaping the Chaos" caption="How to Find Calm Without Escaping the Chaos - Photo by [Mike Hindle](https://unsplash.com/@mikehindle) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-white-flowers-Ky_WLig0EmM)" >}}
 
 - Take time to slow down and let go—even if life feels chaotic.
 - Practice gratitude daily, even for small things.

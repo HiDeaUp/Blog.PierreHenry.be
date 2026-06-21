@@ -12,8 +12,7 @@ original_title = "Environnement Ensoleillé et Bien-Être"
 source_medium = "https://medium.com/@phenrysay/3a4ba09608cc"
 +++
 
-![Photo by Richard Burlton](https://images.unsplash.com/photo-1623181863085-31c69d427d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5saWdodCUyMHdlbGwtYmVpbmclMjBtb29kfGVufDB8MHx8fDE3NTY1MTA4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Sunlight Boosts Your Mood Without Changing Your Routine")
-*How Sunlight Boosts Your Mood Without Changing Your Routine - Photo by [Richard Burlton](https://unsplash.com/@richardworks) on [Unsplash](https://unsplash.com/photos/a-smiley-face-ball-sitting-in-the-grass-2y8_JeFi_Hs)*
+{{< figure src="https://images.unsplash.com/photo-1623181863085-31c69d427d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5saWdodCUyMHdlbGwtYmVpbmclMjBtb29kfGVufDB8MHx8fDE3NTY1MTA4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A smiley face ball sitting in the grass" title="How Sunlight Boosts Your Mood Without Changing Your Routine" caption="How Sunlight Boosts Your Mood Without Changing Your Routine - Photo by [Richard Burlton](https://unsplash.com/@richardworks) on [Unsplash](https://unsplash.com/photos/a-smiley-face-ball-sitting-in-the-grass-2y8_JeFi_Hs)" >}}
 
 When we talk about feeling good, we often forget the power of our environment. Right now, I’m in a lovely Sydney neighborhood, surrounded by trees and fresh air. It’s the kind of place that lifts your spirits without you even realizing it. The truth is, where you live and what you see every day matters—not just for your mood, but also for your productivity and creativity.
 
@@ -21,8 +20,7 @@ A pleasant environment helps you get more done. The more comfortable and inspiri
 
 A cozy nest is more than just a nice idea. If you don’t feel good in your own space, even sleeping becomes difficult. That’s why I always recommend paying attention to the details of your home and, if possible, the neighborhood you choose. I love living close to nature. Trees, parks, and green spaces do wonders for your mind. We’re all creatures of nature, after all. Without it, our creativity dries up. Nature helps us see new possibilities and gives us the energy to try new things.
 
-![Photo by Lhar Capili](https://images.unsplash.com/photo-1705302188426-2d8f8ba6552b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdW5saWdodCUyMHdlbGwtYmVpbmclMjBtb29kfGVufDB8MHx8fDE3NTY1MTA4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Sunlight Boosts Your Mood Without Changing Your Routine")
-*How Sunlight Boosts Your Mood Without Changing Your Routine - Photo by [Lhar Capili](https://unsplash.com/@lhardeleon) on [Unsplash](https://unsplash.com/photos/the-sun-is-shining-through-the-windows-of-a-house-OUnfXmAcUYM)*
+{{< figure src="https://images.unsplash.com/photo-1705302188426-2d8f8ba6552b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdW5saWdodCUyMHdlbGwtYmVpbmclMjBtb29kfGVufDB8MHx8fDE3NTY1MTA4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="The sun is shining through the windows of a house" title="How Sunlight Boosts Your Mood Without Changing Your Routine" caption="How Sunlight Boosts Your Mood Without Changing Your Routine - Photo by [Lhar Capili](https://unsplash.com/@lhardeleon) on [Unsplash](https://unsplash.com/photos/the-sun-is-shining-through-the-windows-of-a-house-OUnfXmAcUYM)" >}}
 
 If you spend all your time in a concrete courtyard or a cramped apartment, it’s hard to feel inspired. You need a pleasant environment, somewhere you can breathe and think clearly. Even here, surrounded by trees, it almost feels like Europe, but it’s Sydney. Today is January 1st, and the weather is just right—not too hot, not too cold. The perfect temperature makes a big difference, too.
 
@@ -36,8 +34,7 @@ If you want to go even further, think about how you organize your day. Don’t s
 
 This is the message I want to share: your environment shapes your life. Take care of it, and it will take care of you.
 
-![Photo by Victor Lu](https://images.unsplash.com/photo-1593935320420-7216f4f96fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdW5saWdodCUyMHdlbGwtYmVpbmclMjBtb29kfGVufDB8MHx8fDE3NTY1MTA4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Sunlight Boosts Your Mood Without Changing Your Routine")
-*How Sunlight Boosts Your Mood Without Changing Your Routine - Photo by [Victor Lu](https://unsplash.com/@cazat69) on [Unsplash](https://unsplash.com/photos/green-and-red-trees-with-sun-rays-yS-Ot1LoHQE)*
+{{< figure src="https://images.unsplash.com/photo-1593935320420-7216f4f96fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdW5saWdodCUyMHdlbGwtYmVpbmclMjBtb29kfGVufDB8MHx8fDE3NTY1MTA4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green and red trees with sun rays yS" title="How Sunlight Boosts Your Mood Without Changing Your Routine" caption="How Sunlight Boosts Your Mood Without Changing Your Routine - Photo by [Victor Lu](https://unsplash.com/@cazat69) on [Unsplash](https://unsplash.com/photos/green-and-red-trees-with-sun-rays-yS-Ot1LoHQE)" >}}
 
 ---
 

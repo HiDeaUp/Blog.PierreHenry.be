@@ -12,8 +12,7 @@ original_title = "Comment attirer l'énergie voulue"
 source_medium = "https://medium.com/@phenrysay/8419df608663"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653212883729-d914974111c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGVuZXJneSUyMGVudmlyb25tZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjA3NjU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Happiness by Changing Your Space")
-*How to Shape Your Happiness by Changing Your Space - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/an-old-typewriter-with-the-word-energy-printed-on-it-Q_ld9_TSk7k)*
+{{< figure src="https://images.unsplash.com/photo-1653212883729-d914974111c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGVuZXJneSUyMGVudmlyb25tZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjA3NjU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="An old with the word energy printed on it" title="How to Shape Your Happiness by Changing Your Space" caption="How to Shape Your Happiness by Changing Your Space - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/an-old-typewriter-with-the-word-energy-printed-on-it-Q_ld9_TSk7k)" >}}
 
 Have you ever noticed how your mood shifts when you step into a place you love? Maybe it’s a cozy café, a stylish hotel lobby, or a restaurant with just the right atmosphere. Suddenly, you feel inspired, lighter, and more positive. The truth is, your environment has a powerful effect on your happiness and personal growth.
 
@@ -21,8 +20,7 @@ We often talk about happiness and fulfillment as if they’re distant goals, but
 
 A lot of people think it’s impossible or too expensive to improve their living space. But before you give up, look at where you might be able to save money. Maybe you can pause your internet subscription for a couple of months, or switch to a cheaper phone plan. Even your TV or streaming subscriptions can be put on hold for a while. If you’re really motivated, you could even cut back on your electricity or gas bills for a month, depending on your situation.
 
-![Photo by Ines Cvitić](https://images.unsplash.com/photo-1599509547075-9d0f077ed704?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGVuZXJneSUyMGVudmlyb25tZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjA3NjU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Happiness by Changing Your Space")
-*How to Shape Your Happiness by Changing Your Space - Photo by [Ines Cvitić](https://unsplash.com/@neosky) on [Unsplash](https://unsplash.com/photos/yellow-flowers-in-clear-glass-vase-EOkr4O7sfSU)*
+{{< figure src="https://images.unsplash.com/photo-1599509547075-9d0f077ed704?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGVuZXJneSUyMGVudmlyb25tZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjA3NjU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow flowers in clear glass vase" title="How to Shape Your Happiness by Changing Your Space" caption="How to Shape Your Happiness by Changing Your Space - Photo by [Ines Cvitić](https://unsplash.com/@neosky) on [Unsplash](https://unsplash.com/photos/yellow-flowers-in-clear-glass-vase-EOkr4O7sfSU)" >}}
 
 Think about your daily habits. If you buy a coffee or tea outside several times a week, try skipping it for a month. I used to buy a flat white every day for about 4 euros. That’s 20 euros a week, almost 100 euros a month. With that money, you could buy a new table for your home, or add some plants to brighten up your space. Plants don’t have to be expensive—20 euros at Ikea can go a long way.
 
@@ -38,8 +36,7 @@ Sometimes, we don’t realize how much our upbringing and past experiences have 
 
 ---
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGVuZXJneSUyMGVudmlyb25tZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjA3NjU0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Happiness by Changing Your Space")
-*How to Shape Your Happiness by Changing Your Space - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGVuZXJneSUyMGVudmlyb25tZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjA3NjU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Shape Your Happiness by Changing Your Space" caption="How to Shape Your Happiness by Changing Your Space - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 ## Key Takeaways
 - Your environment has a huge impact on your happiness and mindset.

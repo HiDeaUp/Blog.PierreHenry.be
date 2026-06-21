@@ -12,8 +12,7 @@ original_title = "Financièrement Libre. Je balance la méthode !"
 source_medium = "https://medium.com/@phenrysay/f01309c77594"
 +++
 
-![Photo by John Vid](https://images.unsplash.com/photo-1705948734578-54b4e4dbf443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwcGVyc29uYWwlMjBmaW5hbmNlJTIwbW9uZXklMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTk5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Financial Freedom Without Giving Up Small Joys")
-*How to Build Financial Freedom Without Giving Up Small Joys - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-stack-of-coins-sitting-on-top-of-a-reflective-surface-DH1dABIkjYo)*
+{{< figure src="https://images.unsplash.com/photo-1705948734578-54b4e4dbf443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwcGVyc29uYWwlMjBmaW5hbmNlJTIwbW9uZXklMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTk5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A stack of coins sitting on top of a surface" title="How to Build Financial Freedom Without Giving Up Small Joys" caption="How to Build Financial Freedom Without Giving Up Small Joys - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-stack-of-coins-sitting-on-top-of-a-reflective-surface-DH1dABIkjYo)" >}}
 
 Every day, we spend money without really thinking about it. Maybe it’s a quick snack, a coffee, or a little treat after work. For me, it might be a discounted milkshake for eight dollars, even though it’s not that great. For you, maybe it’s a four-euro coffee, or even more if you’re in the center of Paris. Sometimes it’s a croissant, a sandwich, or just the cost of public transport. All these little expenses add up, and we often don’t notice how much they drain our finances.
 
@@ -25,8 +24,7 @@ It’s easy to fall into a cycle of spending, feeling bad, and not knowing how t
 
 For example, I spend about five to six percent of my savings on learning new things. That’s money well spent. But if you’re spending on junk food or a car you don’t really need, those are expenses that don’t add much value to your life. The same goes for subscriptions. Maybe you pay for internet and TV at home, but you’re hardly ever there to use them. Or you have streaming services you barely watch. Cutting those out can make a real difference.
 
-![Photo by John Vid](https://images.unsplash.com/photo-1705948734199-117ec7667630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwcGVyc29uYWwlMjBmaW5hbmNlJTIwbW9uZXklMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTk5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Financial Freedom Without Giving Up Small Joys")
-*How to Build Financial Freedom Without Giving Up Small Joys - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-stack-of-coins-sitting-on-top-of-a-table-JpC-HiaFZII)*
+{{< figure src="https://images.unsplash.com/photo-1705948734199-117ec7667630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwcGVyc29uYWwlMjBmaW5hbmNlJTIwbW9uZXklMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTk5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A stack of coins sitting on top of a table JpC HiaFZII" title="How to Build Financial Freedom Without Giving Up Small Joys" caption="How to Build Financial Freedom Without Giving Up Small Joys - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-stack-of-coins-sitting-on-top-of-a-table-JpC-HiaFZII)" >}}
 
 Instead, think about subscriptions that actually help you grow. Maybe a magazine that teaches you something new, or a membership that helps you develop a skill. These are positive habits that can make you feel more valued and confident. It’s not about cutting everything out, but about making sure your spending lines up with your goals and what truly makes you happy.
 
@@ -46,8 +44,7 @@ The main idea is to be aware of your habits and how they affect your life. Spend
 > *Beware of little expenses; a small leak will sink a great ship.*
 — Benjamin Franklin
 
-![Photo by John Vid](https://images.unsplash.com/photo-1705948733133-8bac83cbfc67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwcGVyc29uYWwlMjBmaW5hbmNlJTIwbW9uZXklMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTk5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Financial Freedom Without Giving Up Small Joys")
-*How to Build Financial Freedom Without Giving Up Small Joys - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-coin-on-a-white-surface-199pEvO9jkc)*
+{{< figure src="https://images.unsplash.com/photo-1705948733133-8bac83cbfc67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmaW5hbmNpYWwlMjBmcmVlZG9tJTIwcGVyc29uYWwlMjBmaW5hbmNlJTIwbW9uZXklMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTk5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a coin on a white surface" title="How to Build Financial Freedom Without Giving Up Small Joys" caption="How to Build Financial Freedom Without Giving Up Small Joys - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-coin-on-a-white-surface-199pEvO9jkc)" >}}
 
 ---
 

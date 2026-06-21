@@ -12,8 +12,7 @@ original_title = "Pourquoi ne plus idolâtrer les gens ?"
 source_medium = "https://medium.com/@phenrysay/8a70583d1a5a"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpZG9saXphdGlvbiUyMHNlbGYtZXN0ZWVtJTIwY29tcGFyaXNvbnxlbnwwfDB8fHwxNzU2NTA3NjUzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Idolizing Others Without Losing Inspiration")
-*How to Stop Idolizing Others Without Losing Inspiration - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpZG9saXphdGlvbiUyMHNlbGYtZXN0ZWVtJTIwY29tcGFyaXNvbnxlbnwwfDB8fHwxNzU2NTA3NjUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Stop Idolizing Others Without Losing Inspiration" caption="How to Stop Idolizing Others Without Losing Inspiration - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Have you ever found yourself admiring someone so much that you start to think their life is perfect? It’s common to put people on a pedestal, especially those who seem to have it all together. We often see only the polished, positive side of their lives, especially when it comes to celebrities or public figures. But the truth is, everyone has a darker side, struggles, and moments when things don’t go as planned.
 
@@ -23,8 +22,7 @@ When we idolize others, we start to believe that their lives are flawless. We mi
 
 If you’re not a superstar or a household name, it’s easy to feel like you’re falling behind. You might think, “I haven’t achieved this yet,” or “I’m not as successful as they are.” This is a normal part of being human. We naturally look up to people who inspire us, but it can leave us feeling like we’re always lacking.
 
-![Photo by Armin Lotfi](https://images.unsplash.com/photo-1552874361-cb6594c82877?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpZG9saXphdGlvbiUyMHNlbGYtZXN0ZWVtJTIwY29tcGFyaXNvbnxlbnwwfDB8fHwxNzU2NTA3NjUzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Idolizing Others Without Losing Inspiration")
-*How to Stop Idolizing Others Without Losing Inspiration - Photo by [Armin Lotfi](https://unsplash.com/@armin_lotfi) on [Unsplash](https://unsplash.com/photos/woman-combing-her-hair-6_UD7SdaGFE)*
+{{< figure src="https://images.unsplash.com/photo-1552874361-cb6594c82877?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpZG9saXphdGlvbiUyMHNlbGYtZXN0ZWVtJTIwY29tcGFyaXNvbnxlbnwwfDB8fHwxNzU2NTA3NjUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman combing her hair" title="How to Stop Idolizing Others Without Losing Inspiration" caption="How to Stop Idolizing Others Without Losing Inspiration - Photo by [Armin Lotfi](https://unsplash.com/@armin_lotfi) on [Unsplash](https://unsplash.com/photos/woman-combing-her-hair-6_UD7SdaGFE)" >}}
 
 Here’s the real problem: when you compare yourself to others, you’re measuring your own inner world against their outer image. You see all your doubts, fears, and failures, but only their successes and highlights. It’s impossible to know everything about someone else’s life, just as it’s impossible for them to know everything about yours.
 
@@ -42,8 +40,7 @@ Instead of idolizing others, focus on the person you want to become. Who do you 
 
 ---
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpZG9saXphdGlvbiUyMHNlbGYtZXN0ZWVtJTIwY29tcGFyaXNvbnxlbnwwfDB8fHwxNzU2NTA3NjUzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Idolizing Others Without Losing Inspiration")
-*How to Stop Idolizing Others Without Losing Inspiration - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpZG9saXphdGlvbiUyMHNlbGYtZXN0ZWVtJTIwY29tcGFyaXNvbnxlbnwwfDB8fHwxNzU2NTA3NjUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to Stop Idolizing Others Without Losing Inspiration" caption="How to Stop Idolizing Others Without Losing Inspiration - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 ## Key Takeaways
 

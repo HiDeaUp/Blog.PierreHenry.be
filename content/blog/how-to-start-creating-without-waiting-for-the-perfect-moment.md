@@ -12,8 +12,7 @@ original_title = "Créer quelque chose qui nous satisfait !"
 source_medium = "https://medium.com/@phenrysay/3bb8353eba9d"
 +++
 
-![Get in the Flow | Instagram: @timmossholder](https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxODc3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Creating Without Waiting for the Perfect Moment")
-*How to Start Creating Without Waiting for the Perfect Moment - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)*
+{{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxODc3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How to Start Creating Without Waiting for the Perfect Moment" caption="How to Start Creating Without Waiting for the Perfect Moment - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 Have you ever found yourself stuck in the cycle of wanting to create something, but never actually finishing it? Maybe you spend hours thinking about your project, buying courses, reading books, or even starting, but you never see it through to the end. You might begin with excitement, but after a few days, your motivation fades, and the project slowly slips away.
 
@@ -25,8 +24,7 @@ We are all capable of creating meaningful things. The only real difference betwe
 
 Instead, focus on creating something that comes from you. When you finish a project, you’ll feel proud. It might help your reputation, land you a new job, or even push you to try something completely different. If you want to become a professional in any field, start by teaching, hosting meetups, or running online sessions. Write a book, even if it’s just a little every week. Like cooking the same meal every day, you’ll get better than most people simply by showing up and practicing.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxODc3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Creating Without Waiting for the Perfect Moment")
-*How to Start Creating Without Waiting for the Perfect Moment - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)*
+{{< figure src="https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxODc3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on a brick wall that says is" title="How to Start Creating Without Waiting for the Perfect Moment" caption="How to Start Creating Without Waiting for the Perfect Moment - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)" >}}
 
 ## Practice Makes the Expert
 
@@ -42,8 +40,7 @@ It’s rare for someone’s first book to become a bestseller, or for a director
 
 ## Make Creation a Habit
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1654260081942-fe55497944e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxODc3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Creating Without Waiting for the Perfect Moment")
-*How to Start Creating Without Waiting for the Perfect Moment - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-piece-of-cardboard-with-writing-on-it-9iFxTVTiKag)*
+{{< figure src="https://images.unsplash.com/photo-1654260081942-fe55497944e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxODc3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A piece of with writing on it" title="How to Start Creating Without Waiting for the Perfect Moment" caption="How to Start Creating Without Waiting for the Perfect Moment - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-piece-of-cardboard-with-writing-on-it-9iFxTVTiKag)" >}}
 
 If you want to stand out, make creating a habit. Even if you’re not good at first, you’ll get better with every attempt. The more you practice, the more you’ll master your craft. This is the real secret to becoming an expert and achieving something you can be proud of.
 

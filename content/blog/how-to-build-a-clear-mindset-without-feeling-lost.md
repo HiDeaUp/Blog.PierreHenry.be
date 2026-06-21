@@ -12,8 +12,7 @@ original_title = "Comment se construire un mindset parfait"
 source_medium = "https://medium.com/@phenrysay/91ef3a648217"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGNsYXJpdHl8ZW58MHwwfHx8MTc1NTM4NDM5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Clear Mindset Without Feeling Lost")
-*How to Build a Clear Mindset Without Feeling Lost - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)*
+{{< figure src="https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGNsYXJpdHl8ZW58MHwwfHx8MTc1NTM4NDM5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word mind" title="How to Build a Clear Mindset Without Feeling Lost" caption="How to Build a Clear Mindset Without Feeling Lost - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)" >}}
 
 Many people chase success as if it were a thing to find, like a lost object. We ask ourselves, “What should I do? Where should I go? How does this work?” Over time, this constant questioning makes us tired of our own lives. We drift through our days, especially on weekends or days off. We wake up late, scroll through social media, and end up doing very little. We feel indecisive, stuck, and unsure about what to do next.
 
@@ -21,8 +20,7 @@ But the real trick is knowing where you want to go and being decisive about it. 
 
 As the day goes on, your mind fills up with distractions and requests from others. This mental clutter is like a glass of muddy water—you can’t see through it. When you don’t have a clear direction, it’s like asking a taxi driver to take you “anywhere but the ocean.” The driver won’t know where to go, and neither will you. If you don’t know your destination, you’ll end up nowhere, stuck in the same place.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992877-de3689c1fb58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGNsYXJpdHl8ZW58MHwwfHx8MTc1NTM4NDM5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Clear Mindset Without Feeling Lost")
-*How to Build a Clear Mindset Without Feeling Lost - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-xACzJ6ZsoyQ)*
+{{< figure src="https://images.unsplash.com/photo-1695370992877-de3689c1fb58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGNsYXJpdHl8ZW58MHwwfHx8MTc1NTM4NDM5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Build a Clear Mindset Without Feeling Lost" caption="How to Build a Clear Mindset Without Feeling Lost - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-xACzJ6ZsoyQ)" >}}
 
 But if you know exactly what you want to achieve, your progress will be much faster. You see the road ahead, and you know which way to go. That’s what I wish for you: to have a crystal-clear vision of your goals.
 
@@ -40,8 +38,7 @@ If you know what you want, and you invest a little in yourself every day, you wi
 
 When you apply these ideas, you’ll notice a change right away. Your days will become clearer, and you’ll know exactly what to do. The muddy glass will turn into crystal, and you’ll see your path. Even if you’ve tried many courses or workshops before, I believe these ideas will help you, because they come from real experience and deep thought.
 
-![Photo by Pratik Chitte](https://images.unsplash.com/photo-1658388496859-7f17f283d5f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGNsYXJpdHl8ZW58MHwwfHx8MTc1NTM4NDM5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Clear Mindset Without Feeling Lost")
-*How to Build a Clear Mindset Without Feeling Lost - Photo by [Pratik Chitte](https://unsplash.com/@pratikchitte) on [Unsplash](https://unsplash.com/photos/a-white-box-with-black-text-on-a-wooden-surface-9P5AHFIdFYg)*
+{{< figure src="https://images.unsplash.com/photo-1658388496859-7f17f283d5f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGNsYXJpdHl8ZW58MHwwfHx8MTc1NTM4NDM5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A white box with black text on a wooden surface" title="How to Build a Clear Mindset Without Feeling Lost" caption="How to Build a Clear Mindset Without Feeling Lost - Photo by [Pratik Chitte](https://unsplash.com/@pratikchitte) on [Unsplash](https://unsplash.com/photos/a-white-box-with-black-text-on-a-wooden-surface-9P5AHFIdFYg)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Comment bien planifier sa vie ?"
 source_medium = "https://medium.com/@phenrysay/73fdb3165f59"
 +++
 
-![Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background](https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcGxhbm5pbmclMjBkYWlseSUyMHJvdXRpbmVzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MDE0Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Life With a Simple Daily Routine")
-*How to Plan Your Life With a Simple Daily Routine - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)*
+{{< figure src="https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcGxhbm5pbmclMjBkYWlseSUyMHJvdXRpbmVzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MDE0Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background" title="How to Plan Your Life With a Simple Daily Routine" caption="How to Plan Your Life With a Simple Daily Routine - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)" >}}
 
 Have you ever felt like you were walking through fog, unsure of where you were going or how to get there? Many people drift through their days without a clear plan, hoping that things will somehow fall into place. But what if you could set up a simple daily routine that would not only help you plan your life, but also bring you closer to your goals, step by step?
 
@@ -27,8 +26,7 @@ This is how you become an expert: by planning your days, having a clear vision o
 
 The journey itself is beautiful, especially when you’re working on something you love. Still, it’s important to know where you want to go and why you’re doing it. Why do you get up every morning? Because you want to build something, to accomplish something meaningful.
 
-![Photo by 2H Media](https://images.unsplash.com/photo-1657040298726-7189d3090d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcGxhbm5pbmclMjBkYWlseSUyMHJvdXRpbmVzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MDE0Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Life With a Simple Daily Routine")
-*How to Plan Your Life With a Simple Daily Routine - Photo by [2H Media](https://unsplash.com/@2hmedia) on [Unsplash](https://unsplash.com/photos/text-CI42rRp-dLc)*
+{{< figure src="https://images.unsplash.com/photo-1657040298726-7189d3090d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcGxhbm5pbmclMjBkYWlseSUyMHJvdXRpbmVzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MDE0Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text CI42rRp dLc" title="How to Plan Your Life With a Simple Daily Routine" caption="How to Plan Your Life With a Simple Daily Routine - Photo by [2H Media](https://unsplash.com/@2hmedia) on [Unsplash](https://unsplash.com/photos/text-CI42rRp-dLc)" >}}
 
 Never put off until tomorrow what you want to achieve today. There’s a famous Chinese proverb:
 
@@ -48,8 +46,7 @@ Having a daily routine and a clear plan for your passion project changes everyth
 
 ---
 
-![Photo by 1Click](https://images.unsplash.com/photo-1622988766397-6679659b5e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcGxhbm5pbmclMjBkYWlseSUyMHJvdXRpbmVzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MDE0Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Life With a Simple Daily Routine")
-*How to Plan Your Life With a Simple Daily Routine - Photo by [1Click](https://unsplash.com/@1clickaf) on [Unsplash](https://unsplash.com/photos/text-8wUOqMhNzBo)*
+{{< figure src="https://images.unsplash.com/photo-1622988766397-6679659b5e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcGxhbm5pbmclMjBkYWlseSUyMHJvdXRpbmVzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MDE0Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Plan Your Life With a Simple Daily Routine" caption="How to Plan Your Life With a Simple Daily Routine - Photo by [1Click](https://unsplash.com/@1clickaf) on [Unsplash](https://unsplash.com/photos/text-8wUOqMhNzBo)" >}}
 
 ## Key Takeaways
 

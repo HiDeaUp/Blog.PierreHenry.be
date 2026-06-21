@@ -12,8 +12,7 @@ original_title = "Pourquoi tout le monde devrait s'exercer à créer des chose
 source_medium = "https://medium.com/@phenrysay/324d3a1ceef7"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705313381827-bb166b463daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGJyZWFraW5nLWJhcnJpZXJzfGVufDB8MHx8fDE3NTU0MjQxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create More and Break Your Limits Without Fear")
-*How to Create More and Break Your Limits Without Fear - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-creativity-on-a-wooden-surface-eu9VJxIsU74)*
+{{< figure src="https://images.unsplash.com/photo-1705313381827-bb166b463daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGJyZWFraW5nLWJhcnJpZXJzfGVufDB8MHx8fDE3NTU0MjQxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles on a wooden surface" title="How to Create More and Break Your Limits Without Fear" caption="How to Create More and Break Your Limits Without Fear - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-creativity-on-a-wooden-surface-eu9VJxIsU74)" >}}
 
 There’s something truly magical about creating things. It’s not just about making art, writing, or building something with your hands—it’s about drawing inspiration from the world around you and realizing that you, too, can do amazing things. We all have the potential to climb mountains or reach for the moon, to do things that seem impossible at first glance. But if that’s true, why do so few people actually do it?
 
@@ -26,8 +25,7 @@ Think of life as a wide-open field, like a cow or a sheep running free, or a bir
 > *The only limits that exist are the ones you place in your own mind.*
 > — *Unknown*
 
-![Get in the Flow | Instagram: @timmossholder](https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGJyZWFraW5nLWJhcnJpZXJzfGVufDB8MHx8fDE3NTU0MjQxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create More and Break Your Limits Without Fear")
-*How to Create More and Break Your Limits Without Fear - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)*
+{{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGJyZWFraW5nLWJhcnJpZXJzfGVufDB8MHx8fDE3NTU0MjQxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How to Create More and Break Your Limits Without Fear" caption="How to Create More and Break Your Limits Without Fear - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 We often base our actions on what’s worked before, but that keeps us from trying new things. Even in small routines, like brushing your teeth, we stick to what we know. But sometimes, the usual way isn’t the best way. Maybe you need to use dental floss or try a new tool. It’s a small example, but it shows how we get stuck in habits, just doing what everyone else does.
 
@@ -42,8 +40,7 @@ If you do something positive every day, it compounds, just like interest in a ba
 
 The best thing in life is to share what you know and learn from others in return. That’s how we all grow. I’ve learned from the best, and I keep learning from your feedback too.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGJyZWFraW5nLWJhcnJpZXJzfGVufDB8MHx8fDE3NTU0MjQxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create More and Break Your Limits Without Fear")
-*How to Create More and Break Your Limits Without Fear - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)*
+{{< figure src="https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGJyZWFraW5nLWJhcnJpZXJzfGVufDB8MHx8fDE3NTU0MjQxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on a brick wall that says is" title="How to Create More and Break Your Limits Without Fear" caption="How to Create More and Break Your Limits Without Fear - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)" >}}
 
 So, remove your limits. Start today. Life is waiting for you to create something new.
 

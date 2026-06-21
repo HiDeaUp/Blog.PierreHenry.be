@@ -12,8 +12,7 @@ original_title = "PRODUCTIF ET MOTIVÉ : AUGMENTER SES STANDARDS & PERCEPTIONS D
 source_medium = "https://medium.com/@phenrysay/7dd0ad451fd7"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBtb3RpdmF0aW9uJTIwc29sb3ByZW5ldXJzaGlwfGVufDB8MHx8fDE3NTUzODQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated When Freedom Feels Overwhelming")
-*How to Stay Motivated When Freedom Feels Overwhelming - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBtb3RpdmF0aW9uJTIwc29sb3ByZW5ldXJzaGlwfGVufDB8MHx8fDE3NTUzODQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Stay Motivated When Freedom Feels Overwhelming" caption="How to Stay Motivated When Freedom Feels Overwhelming - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Living life on your own terms sounds obvious, even normal—especially in the world of entrepreneurship. When you’re a solopreneur, running an online business, it’s fantastic: you’re free, you can go wherever you want, and your only boss is yourself (well, and maybe the taxman). You have much more flexibility. But sometimes, that freedom comes with a hidden cost.
 
@@ -27,8 +26,7 @@ You can also have an accountability partner—maybe your partner or a friend—w
 
 Of course, it’s not easy to have meetings every morning, but knowing someone is counting on me gets me out of bed. I can’t just float through my day, go to bed late, and wake up at 11 AM. If I have a meeting at 9 AM—whether it’s an interview, a freelance project, or a podcast—I have to be there, laptop open, maybe in a coworking space or a café. That helps a lot.
 
-![Photograph: Valery Tenevoy / https://plagness.com/yuneman-2021 / Кампания Романа Юнемана в Госдуму 8-го созыва. Выдвинулся как самовыдвиженец по 210 одномандатному округу. Удалось собрать больше назначенного барьера подписей, но был снят решением ТИК. ](https://images.unsplash.com/photo-1631038506781-bd55a44b3a27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBtb3RpdmF0aW9uJTIwc29sb3ByZW5ldXJzaGlwfGVufDB8MHx8fDE3NTUzODQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated When Freedom Feels Overwhelming")
-*How to Stay Motivated When Freedom Feels Overwhelming - Photo by [Valery Tenevoy](https://unsplash.com/@plag) on [Unsplash](https://unsplash.com/photos/man-in-white-dress-shirt-sitting-beside-woman-in-black-dress-Y2vObM3c3p4)*
+{{< figure src="https://images.unsplash.com/photo-1631038506781-bd55a44b3a27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBtb3RpdmF0aW9uJTIwc29sb3ByZW5ldXJzaGlwfGVufDB8MHx8fDE3NTUzODQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in white dress shirt sitting beside woman in black dress" title="How to Stay Motivated When Freedom Feels Overwhelming" caption="How to Stay Motivated When Freedom Feels Overwhelming - Photo by [Valery Tenevoy](https://unsplash.com/@plag) on [Unsplash](https://unsplash.com/photos/man-in-white-dress-shirt-sitting-beside-woman-in-black-dress-Y2vObM3c3p4)" >}}
 
 There are many little things like this you can do to structure your days better. Trust me, it changes everything. It changed my days completely. Even now, with my laptop in front of me, it’s still tough sometimes.
 
@@ -48,8 +46,7 @@ Life is beautiful, but you have to go for it. Make your plans, structure your da
 
 ## Key Takeaways
 
-![Ben Renshaw and Sophie Devonshire believe it’s possible to make the time you spend at work more rewarding and enjoyable. In LoveWork they share seven simple steps to help you find new ways to build a more positive relationship with your work.](https://images.unsplash.com/photo-1644229949318-618cb5bd06fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBtb3RpdmF0aW9uJTIwc29sb3ByZW5ldXJzaGlwfGVufDB8MHx8fDE3NTUzODQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated When Freedom Feels Overwhelming")
-*How to Stay Motivated When Freedom Feels Overwhelming - Photo by [Amelia White](https://unsplash.com/@themarketingsoc) on [Unsplash](https://unsplash.com/photos/a-notepad-pen-and-notebook-sitting-on-top-of-a-table-O0uDRWsA6Lc)*
+{{< figure src="https://images.unsplash.com/photo-1644229949318-618cb5bd06fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBtb3RpdmF0aW9uJTIwc29sb3ByZW5ldXJzaGlwfGVufDB8MHx8fDE3NTUzODQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A notepad pen and sitting on top of a table" title="How to Stay Motivated When Freedom Feels Overwhelming" caption="How to Stay Motivated When Freedom Feels Overwhelming - Photo by [Amelia White](https://unsplash.com/@themarketingsoc) on [Unsplash](https://unsplash.com/photos/a-notepad-pen-and-notebook-sitting-on-top-of-a-table-O0uDRWsA6Lc)" >}}
 
 - Freedom in entrepreneurship is great, but it can be lonely and unstructured.
 - Build routines and find outside accountability to stay productive.

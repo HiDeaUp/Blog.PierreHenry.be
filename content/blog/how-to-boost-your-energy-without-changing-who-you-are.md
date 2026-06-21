@@ -12,8 +12,7 @@ original_title = "RÉUSSIR SA VIE EN 2025: LA VÉRITÉ ! POURQUOI TU AS L'IMPRES
 source_medium = "https://medium.com/@phenrysay/41a63aa24811"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTgxNjMwNTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Changing Who You Are")
-*How to Boost Your Energy Without Changing Who You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTgxNjMwNTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Boost Your Energy Without Changing Who You Are" caption="How to Boost Your Energy Without Changing Who You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 Sometimes, we wake up feeling tired, drained, and a bit out of sorts. It’s easy to blame ourselves and wonder, “Why am I so lazy? Why can’t I get anything done?” But have you ever stopped to think that maybe it’s not you? Maybe it’s your environment that’s holding you back.
 
@@ -23,8 +22,7 @@ Changing your environment—even just switching rooms, routines, or countries—
 
 Habits and routines are powerful tools. Motivation comes and goes, but habits stick around. Think about brushing your teeth or taking a shower. You don’t debate whether you have time; it’s just part of your day. The same can be true for exercise, writing, or learning something new. The trick is to make starting as easy as possible.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTgxNjMwNTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Changing Who You Are")
-*How to Boost Your Energy Without Changing Who You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTgxNjMwNTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Boost Your Energy Without Changing Who You Are" caption="How to Boost Your Energy Without Changing Who You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 If you want to write, leave your laptop open with your writing app ready. If you want to jog, put your running shoes next to your bed. If you want to ride your exercise bike, keep it in plain sight. These small changes remove barriers and make it easier to get started.
 
@@ -42,8 +40,7 @@ Sometimes, the solution is as simple as moving to a new place. Some rooms just d
 >
 > — Unknown
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTgxNjMwNTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Changing Who You Are")
-*How to Boost Your Energy Without Changing Who You Are - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTgxNjMwNTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Boost Your Energy Without Changing Who You Are" caption="How to Boost Your Energy Without Changing Who You Are - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 ---
 

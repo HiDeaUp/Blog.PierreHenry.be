@@ -12,8 +12,7 @@ original_title = "Comment être régulier. Je t’explique TOUT (et je te montre
 source_medium = "https://medium.com/@phenrysay/2b30b4ff42d5"
 +++
 
-![Photo by dlxmedia.hu](https://images.unsplash.com/photo-1650735311314-765414360fd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25zaXN0ZW5jeSUyMGRhaWx5JTIwaGFiaXRzJTIwZGVlcCUyMHdvcmt8ZW58MHwwfHx8MTc1NTk5NzE4M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits Without Burning Out")
-*How to Build Daily Habits Without Burning Out - Photo by [dlxmedia.hu](https://unsplash.com/@dlxmedia) on [Unsplash](https://unsplash.com/photos/a-yellow-note-with-black-text-sWElTihd7Qs)*
+{{< figure src="https://images.unsplash.com/photo-1650735311314-765414360fd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25zaXN0ZW5jeSUyMGRhaWx5JTIwaGFiaXRzJTIwZGVlcCUyMHdvcmt8ZW58MHwwfHx8MTc1NTk5NzE4M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow note with black text" title="How to Build Daily Habits Without Burning Out" caption="How to Build Daily Habits Without Burning Out - Photo by [dlxmedia.hu](https://unsplash.com/@dlxmedia) on [Unsplash](https://unsplash.com/photos/a-yellow-note-with-black-text-sWElTihd7Qs)" >}}
 
 Consistency is one of those simple ideas that everyone talks about, but few really put into practice. Doing something every single day, no matter where you are or what’s happening around you, is a quiet superpower. For me, it’s about showing up daily, recording a session, and sticking to my routine—even if it means filming from a small coffee shop in Sydney, right next to Central Station. The place is called Chambers Fine Coffee, and I’ve even visited their other location near Parramatta University.
 
@@ -27,8 +26,7 @@ That’s why I’m building this app. Fast Move will help you make decisions, bi
 
 Why does this matter? Because decision fatigue is real. The more choices you make in a day, the more your mental energy drops, and the lower the quality of your decisions. That’s why CEOs like Barack Obama wore the same clothes every day—to save their brainpower for what really matters. I do the same. I have four shirts, usually wear the same style of pants, and keep my morning routine simple. The less I have to think about what to wear or eat, the more energy I have for important work.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, cease the day, seize the day, carpe diem, Cessare faciam hodie, night, goth, gothic, humour, homonym, homonymic, ](https://images.unsplash.com/photo-1610453825087-801e8ee9e75f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25zaXN0ZW5jeSUyMGRhaWx5JTIwaGFiaXRzJTIwZGVlcCUyMHdvcmt8ZW58MHwwfHx8MTc1NTk5NzE4M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits Without Burning Out")
-*How to Build Daily Habits Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-j9LmjjIFr6c)*
+{{< figure src="https://images.unsplash.com/photo-1610453825087-801e8ee9e75f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25zaXN0ZW5jeSUyMGRhaWx5JTIwaGFiaXRzJTIwZGVlcCUyMHdvcmt8ZW58MHwwfHx8MTc1NTk5NzE4M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build Daily Habits Without Burning Out" caption="How to Build Daily Habits Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-j9LmjjIFr6c)" >}}
 
 > *“If you spend too much time thinking about a thing, you’ll never get it done.”*  
 > — Bruce Lee
@@ -51,9 +49,7 @@ You don’t need to spend all day working. A few hours of deep, focused work are
 > *“Later will be never.”*  
 > — Unknown
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, make this the day, don't hesitate, procrastination, decision time, nocrastination, make the jump, exercise, new start, discipline, now is the time, just do it, make the change, diet, weight loss, walk, new leaf, turn over a new leaf, life change, stuck in a rut, move on, 
-](https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25zaXN0ZW5jeSUyMGRhaWx5JTIwaGFiaXRzJTIwZGVlcCUyMHdvcmt8ZW58MHwwfHx8MTc1NTk5NzE4M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits Without Burning Out")
-*How to Build Daily Habits Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)*
+{{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25zaXN0ZW5jeSUyMGRhaWx5JTIwaGFiaXRzJTIwZGVlcCUyMHdvcmt8ZW58MHwwfHx8MTc1NTk5NzE4M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How to Build Daily Habits Without Burning Out" caption="How to Build Daily Habits Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 
 Don’t put off what you want to do. The only day that really exists is today. Build your habits now. Set your immersion time every morning. For me, the best time is about half an hour to forty-five minutes after waking up. That’s when I’m at my best. I start my deep work session, and then I move on to my regular job, whether I’m working from home or at the office.
 

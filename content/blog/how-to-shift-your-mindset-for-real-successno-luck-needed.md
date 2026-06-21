@@ -12,8 +12,7 @@ original_title = "Secret bien gardé pour RÉUSSIR"
 source_medium = "https://medium.com/@phenrysay/d0db807ef074"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtdGFsa3xlbnwwfDB8fHwxNzU2MDA5MzM4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shift Your Mindset for Real Success—No Luck Needed")
-*How to Shift Your Mindset for Real Success—No Luck Needed - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtdGFsa3xlbnwwfDB8fHwxNzU2MDA5MzM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Shift Your Mindset for Real Success—No Luck Needed" caption="How to Shift Your Mindset for Real Success—No Luck Needed - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 What if the real secret to success is not about being born with special talents or having the right connections, but about the way you talk to yourself every single day? This idea has been close to my heart for a long time, and I want to share it with you because it has the power to change your life.
 
@@ -35,8 +34,7 @@ The limits you set for yourself are closely tied to what you achieve in life. Th
 
 ## Transforming Yourself Before Chasing Success
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtdGFsa3xlbnwwfDB8fHwxNzU2MDA5MzM4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shift Your Mindset for Real Success—No Luck Needed")
-*How to Shift Your Mindset for Real Success—No Luck Needed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtdGFsa3xlbnwwfDB8fHwxNzU2MDA5MzM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Shift Your Mindset for Real Success—No Luck Needed" caption="How to Shift Your Mindset for Real Success—No Luck Needed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 There’s a powerful idea from Napoleon Hill that I keep coming back to:
 
@@ -62,8 +60,7 @@ Everyone has their own way of seeing the world, their own “paradigms.” Somet
 
 ## Model Success and Project Confidence
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtdGFsa3xlbnwwfDB8fHwxNzU2MDA5MzM4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shift Your Mindset for Real Success—No Luck Needed")
-*How to Shift Your Mindset for Real Success—No Luck Needed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtdGFsa3xlbnwwfDB8fHwxNzU2MDA5MzM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Shift Your Mindset for Real Success—No Luck Needed" caption="How to Shift Your Mindset for Real Success—No Luck Needed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 One way to build confidence is to model yourself after someone who has already succeeded. Read biographies, watch interviews, and learn how they think and act. You’ll often find that they started with even more challenges than you have. If they could do it, why not you?
 

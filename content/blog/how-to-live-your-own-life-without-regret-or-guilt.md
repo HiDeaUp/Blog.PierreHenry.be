@@ -12,8 +12,7 @@ original_title = "Comment vivre une vie SA PROPRE VIE ? Mode d'emploi !"
 source_medium = "https://medium.com/@phenrysay/7c14c2451d2e"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGRpc2NvdmVyeSUyMGxpZmUlMjBjaG9pY2VzfGVufDB8MHx8fDE3NTU0MzYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Own Life Without Regret or Guilt")
-*How to Live Your Own Life Without Regret or Guilt - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGRpc2NvdmVyeSUyMGxpZmUlMjBjaG9pY2VzfGVufDB8MHx8fDE3NTU0MzYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Live Your Own Life Without Regret or Guilt" caption="How to Live Your Own Life Without Regret or Guilt - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 We all want to feel good, to find that space where we truly belong. But how often do we stop and ask ourselves: *Is this really my life, or am I just following a path someone else drew for me?*
 
@@ -25,8 +24,7 @@ But life is short. Why let it slip by, just because it’s what’s expected? To
 
 But here’s the truth: your life belongs to you. Sometimes, you need to move. Sometimes, you need to live somewhere new. If you’re not happy, don’t tell yourself, “Now’s not the right time. Maybe next year.” Don’t act as if time is unlimited. It’s not. Time is the most precious thing we have—not money, but time.
 
-![Photo by Noble Mitchell](https://images.unsplash.com/photo-1535009427281-a315ca1bc9aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGRpc2NvdmVyeSUyMGxpZmUlMjBjaG9pY2VzfGVufDB8MHx8fDE3NTU0MzYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Own Life Without Regret or Guilt")
-*How to Live Your Own Life Without Regret or Guilt - Photo by [Noble Mitchell](https://unsplash.com/@noble_m1tchell) on [Unsplash](https://unsplash.com/photos/lighted-red-discovery-neon-signage-CdwTHjJdvY0)*
+{{< figure src="https://images.unsplash.com/photo-1535009427281-a315ca1bc9aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGRpc2NvdmVyeSUyMGxpZmUlMjBjaG9pY2VzfGVufDB8MHx8fDE3NTU0MzYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Lighted red neon signage" title="How to Live Your Own Life Without Regret or Guilt" caption="How to Live Your Own Life Without Regret or Guilt - Photo by [Noble Mitchell](https://unsplash.com/@noble_m1tchell) on [Unsplash](https://unsplash.com/photos/lighted-red-discovery-neon-signage-CdwTHjJdvY0)" >}}
 
 So use your time well. Do things you love. Create, build, and chase what excites you. You won’t regret it.
 
@@ -46,8 +44,7 @@ So why tell yourself, “Not now, it’s too risky”? Just do it.
 
 ---
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGRpc2NvdmVyeSUyMGxpZmUlMjBjaG9pY2VzfGVufDB8MHx8fDE3NTU0MzYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Own Life Without Regret or Guilt")
-*How to Live Your Own Life Without Regret or Guilt - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGRpc2NvdmVyeSUyMGxpZmUlMjBjaG9pY2VzfGVufDB8MHx8fDE3NTU0MzYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Live Your Own Life Without Regret or Guilt" caption="How to Live Your Own Life Without Regret or Guilt - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 ## Key Takeaways
 

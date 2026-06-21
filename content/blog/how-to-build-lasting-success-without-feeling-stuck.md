@@ -12,10 +12,7 @@ original_title = "Construire sa réussite. Pourquoi apprendre différemment ?"
 source_medium = "https://medium.com/@phenrysay/6d372065af78"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, i am still learning, learning, learn, study, life study, always learning, world student, student of life,
-
-](https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGVhcm5pbmclMjBzdHJhdGVnaWVzJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2MTEwOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Success Without Feeling Stuck")
-*How to Build Lasting Success Without Feeling Stuck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)*
+{{< figure src="https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGVhcm5pbmclMjBzdHJhdGVnaWVzJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2MTEwOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table w7sIj M5Xyc" title="How to Build Lasting Success Without Feeling Stuck" caption="How to Build Lasting Success Without Feeling Stuck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)" >}}
 
 ### The Secret Ingredient to Lasting Growth
 
@@ -31,8 +28,7 @@ I remember when I lived in Adelaide, South Australia. I would wake up before sun
 
 There’s a big difference between passive and active learning. Passive learning is when you just consume content without doing anything with it. Active learning, on the other hand, is about taking what you’ve learned and using it right away. For example, if I saw a marketing poster, I’d ask myself how I could use that idea in my own business. When I was working on a food app, I’d notice features in other apps and think about how to adapt them for my project.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live, learn, love, life, live life, live learn love, keep learning, stay open, holistic, mindfulness, loving, learning, living, ](https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGVhcm5pbmclMjBzdHJhdGVnaWVzJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2MTEwOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Success Without Feeling Stuck")
-*How to Build Lasting Success Without Feeling Stuck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)*
+{{< figure src="https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGVhcm5pbmclMjBzdHJhdGVnaWVzJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2MTEwOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build Lasting Success Without Feeling Stuck" caption="How to Build Lasting Success Without Feeling Stuck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)" >}}
 
 Being alert to the details of your daily life is crucial. Every routine, every object around you, can spark an idea or help you connect the dots in your project. The more you pay attention, the more opportunities you’ll find to grow and improve.
 
@@ -52,8 +48,7 @@ Often, the hardest things are actually the simplest—if you have the right tech
 
 ---
 
-![Photo by Parabol | The Agile Meeting Tool](https://images.unsplash.com/photo-1646066490017-c935b1a1eb0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGVhcm5pbmclMjBzdHJhdGVnaWVzJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2MTEwOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Success Without Feeling Stuck")
-*How to Build Lasting Success Without Feeling Stuck - Photo by [Parabol | The Agile Meeting Tool](https://unsplash.com/@parabol) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-CS0D08N2n9M)*
+{{< figure src="https://images.unsplash.com/photo-1646066490017-c935b1a1eb0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGVhcm5pbmclMjBzdHJhdGVnaWVzJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2MTEwOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of people sitting around a wooden table" title="How to Build Lasting Success Without Feeling Stuck" caption="How to Build Lasting Success Without Feeling Stuck - Photo by [Parabol | The Agile Meeting Tool](https://unsplash.com/@parabol) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-CS0D08N2n9M)" >}}
 
 ## Key Takeaways
 

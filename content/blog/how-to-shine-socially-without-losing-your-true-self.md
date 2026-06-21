@@ -12,8 +12,7 @@ original_title = "RAYONNER EN SOCIÉTÉ : le guide ultime pour s'épanouir dans 
 source_medium = "https://medium.com/@phenrysay/29ef48b9f73e"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwc29jaWFsJTIwc2tpbGxzJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTc4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shine Socially Without Losing Your True Self")
-*How to Shine Socially Without Losing Your True Self - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwc29jaWFsJTIwc2tpbGxzJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTc4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Shine Socially Without Losing Your True Self" caption="How to Shine Socially Without Losing Your True Self - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Expressing what we like—and what bothers us—should be normal. Yet, in society, we often hold back. We’re taught from a young age not to say things that might hurt others, even if we mean well. This is for everyone’s benefit, because we live together and need to get along. I’m the first to stand up for kindness: there’s no point in criticizing others before looking at ourselves. Speaking harshly about someone, especially if you barely know them, rarely helps. Unless your words are truly meant to help, and even then, how you say things matters a lot.
 
@@ -23,8 +22,7 @@ That’s why it’s better to react gently and diplomatically. We tend to see th
 
 No one likes to get angry. Anger brings negative energy, and it’s hard to bounce back from that. But if you focus on the positive, you’ll find it easier to reach your goals. Positivity is powerful. I’ve read in several books that, in some airlines, flight attendants are trained never to say “no” directly to passengers. Instead, they find ways to redirect requests, so the answer is clear without using the word “no.” It’s not about avoiding negativity at all costs, but about communicating in a way that’s easier for others to accept.
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwc29jaWFsJTIwc2tpbGxzJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTc4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shine Socially Without Losing Your True Self")
-*How to Shine Socially Without Losing Your True Self - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwc29jaWFsJTIwc2tpbGxzJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTc4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Shine Socially Without Losing Your True Self" caption="How to Shine Socially Without Losing Your True Self - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 Try this challenge: go a whole day without saying “no.” It’s harder than it sounds. From childhood, “no” is often our first word. But just because you don’t say “no” doesn’t mean you’re always agreeing. You can still set boundaries, just in a softer way. The words you choose matter. What’s obvious to you might not be clear to someone else. We all see things differently, and culture plays a big role. Living in Australia, I’ve noticed people speak much more positively than in France. If I use my usual French directness, people think I’m angry! I love the positive approach here, but you can’t force your beliefs on others. You can only choose who you spend time with.
 
@@ -44,8 +42,7 @@ We all start from different places, just like in a race. Some people have a head
 
 And finally, remember: the best time to act is now. Don’t put off what you want to do. If you want something badly enough, you’ll find a way. Discipline, routine, and positive self-talk will get you there.
 
-![Just an aware, present woman re-birthing/re-creating her own world anew with the power of conscious intent, aligned action, passion and creativity ... Life is/as art from the heart ❤️💃☀️📷😻](https://images.unsplash.com/photo-1675654567595-e0db4fb40017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwc29jaWFsJTIwc2tpbGxzJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTc4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shine Socially Without Losing Your True Self")
-*How to Shine Socially Without Losing Your True Self - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-help-your-self-NiOhazjVVCA)*
+{{< figure src="https://images.unsplash.com/photo-1675654567595-e0db4fb40017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwc29jaWFsJTIwc2tpbGxzJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTU0MTc4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a sign that says help your self" title="How to Shine Socially Without Losing Your True Self" caption="How to Shine Socially Without Losing Your True Self - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-help-your-self-NiOhazjVVCA)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Méditation Express : Comment Faire le Vide & Renforcer votre 
 source_medium = "https://medium.com/@phenrysay/6be2871ae5b0"
 +++
 
-![guy sits cross-legged on the beach and meditates, the wide sea in the background](https://images.unsplash.com/photo-1630406866478-a2fca6070d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZWRpdGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBjbGFyaXR5fGVufDB8MHx8fDE3NTU1MTUyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind Without Meditation Marathons")
-*How to Clear Your Mind Without Meditation Marathons - Photo by [Benjamin Wedemeyer](https://unsplash.com/@benjaminwedemeyer) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-beach-during-sunset-NBYz3bQVMIo)*
+{{< figure src="https://images.unsplash.com/photo-1630406866478-a2fca6070d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZWRpdGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBjbGFyaXR5fGVufDB8MHx8fDE3NTU1MTUyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="guy sits cross-legged on the beach and meditates, the wide sea in the background" title="How to Clear Your Mind Without Meditation Marathons" caption="How to Clear Your Mind Without Meditation Marathons - Photo by [Benjamin Wedemeyer](https://unsplash.com/@benjaminwedemeyer) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-beach-during-sunset-NBYz3bQVMIo)" >}}
 
 We all know the feeling: a head full of worries, endless to-do lists, and mental clutter that just keeps piling up. It’s like carrying a heavy bag everywhere you go. At some point, it gets so overwhelming that you can’t move forward. You sit there, thinking about everything you have to do next week, but today is slipping away.
 
@@ -25,8 +24,7 @@ Instead of saying, “Oh, I still have this and that and that to do,” I take a
 
 But what if you just said, “Now is now”? What if you emptied your mind, right where you are, instead of worrying about everything else? That’s what I do. I clear my mind and focus on the present. All those mental burdens, all those things that invade my thoughts—I throw them out. I imagine putting them in the trash, or flushing them away. In fact, I have a trash can right in front of me. I put all those worries in the trash and focus on now.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653213096273-ca9718a64c63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZWRpdGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBjbGFyaXR5fGVufDB8MHx8fDE3NTU1MTUyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind Without Meditation Marathons")
-*How to Clear Your Mind Without Meditation Marathons - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-PVCpwrGS5as)*
+{{< figure src="https://images.unsplash.com/photo-1653213096273-ca9718a64c63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZWRpdGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBjbGFyaXR5fGVufDB8MHx8fDE3NTU1MTUyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A on a table" title="How to Clear Your Mind Without Meditation Marathons" caption="How to Clear Your Mind Without Meditation Marathons - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-PVCpwrGS5as)" >}}
 
 What do I need to do right now? Not the day after tomorrow, not next week, not in three weeks or ten weeks. Now. What do I do now? And then, what will I do tomorrow? And the day after tomorrow? By doing this, you can refocus on your life, on what needs to be done today, and on what comes next.
 
@@ -44,8 +42,7 @@ Remember, life is step by step by step. Each step leads us toward our dreams, to
 
 ## Key Takeaways
 
-![Photo by Sam Bhattacharyya](https://images.unsplash.com/photo-1655970580622-4a547789c850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZWRpdGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBjbGFyaXR5fGVufDB8MHx8fDE3NTU1MTUyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind Without Meditation Marathons")
-*How to Clear Your Mind Without Meditation Marathons - Photo by [Sam Bhattacharyya](https://unsplash.com/@samoz) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-wearing-headphones-jNtsMxWZeko)*
+{{< figure src="https://images.unsplash.com/photo-1655970580622-4a547789c850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZWRpdGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBjbGFyaXR5fGVufDB8MHx8fDE3NTU1MTUyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a table wearing" title="How to Clear Your Mind Without Meditation Marathons" caption="How to Clear Your Mind Without Meditation Marathons - Photo by [Sam Bhattacharyya](https://unsplash.com/@samoz) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-wearing-headphones-jNtsMxWZeko)" >}}
 
 - Clear your mind daily by focusing only on the present moment.
 - Let go of mental clutter—imagine throwing your worries in the trash.

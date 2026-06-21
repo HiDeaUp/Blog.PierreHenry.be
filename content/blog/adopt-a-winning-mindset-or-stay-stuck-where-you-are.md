@@ -12,8 +12,7 @@ original_title = "Le mental de la réussite 🏆"
 source_medium = "https://medium.com/@phenrysay/df181892dd4f"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNDkxNXww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Winning Mindset or Stay Stuck Where You Are")
-*Adopt a Winning Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)*
+{{< figure src="https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNDkxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface SNJ1O2 b0IE" title="Adopt a Winning Mindset or Stay Stuck Where You Are" caption="Adopt a Winning Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)" >}}
 
 What sets apart those who seem to succeed at everything they try? It’s not luck or some secret formula. It’s a way of thinking—a mindset—that turns every experience into a step forward. Here’s what I’ve learned about building the mental habits that lead to real achievement.
 
@@ -31,8 +30,7 @@ Think about how you can share what you know, too. The more you give, the more li
 
 ## Think Big—Much Bigger Than You Think Possible
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNDkxNXww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Winning Mindset or Stay Stuck Where You Are")
-*Adopt a Winning Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNDkxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="Adopt a Winning Mindset or Stay Stuck Where You Are" caption="Adopt a Winning Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Set goals that are much larger than what you believe you can achieve. The only real limits are the ones you set in your mind. If you are persistent and confident, you’ll find that what once seemed impossible starts to look achievable.
 
@@ -60,8 +58,7 @@ Even things that seem unrelated—like renting out furniture or office plants—
 
 ## Build Healthy Routines
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNDkxNXww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Winning Mindset or Stay Stuck Where You Are")
-*Adopt a Winning Mindset or Stay Stuck Where You Are - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUxNDkxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="Adopt a Winning Mindset or Stay Stuck Where You Are" caption="Adopt a Winning Mindset or Stay Stuck Where You Are - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 Finally, don’t underestimate the power of good habits. Sleep well, eat balanced meals, and keep a regular schedule. When you take care of your body, you have more energy and focus to tackle your goals. Success is much easier when you’re not running on empty.
 

@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/5ad442755801"
 source_youtube = "https://www.youtube.com/watch?v=XaXeG7nJd_g"
 +++
 
-![Photo by Vanburn Gonsalves](https://images.unsplash.com/photo-1766127714336-67c122f57a72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NjgyMTkzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Routine and Win Without Feeling Stuck")
-*How to Break Routine and Win Without Feeling Stuck - Photo by [Vanburn Gonsalves](https://unsplash.com/@vanburn) on [Unsplash](https://unsplash.com/photos/colorful-sticky-notes-with-motivational-quotes-written-JWNbGxgkH08)*
+{{< figure src="https://images.unsplash.com/photo-1766127714336-67c122f57a72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NjgyMTkzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Sticky notes with quotes written" title="How to Break Routine and Win Without Feeling Stuck" caption="How to Break Routine and Win Without Feeling Stuck - Photo by [Vanburn Gonsalves](https://unsplash.com/@vanburn) on [Unsplash](https://unsplash.com/photos/colorful-sticky-notes-with-motivational-quotes-written-JWNbGxgkH08)" >}}
 
 Have you ever noticed how your days seem to blend into each other? One day looks just like the next, and before you know it, weeks or months have passed without anything really changing. If you keep doing what you’ve always done, you can’t expect your life to suddenly become different. That’s the hard truth. If you want a new life, you have to do new things.
 
@@ -24,8 +23,7 @@ But here’s the thing: I don’t want you to have that regret. I want you to st
 
 Or maybe you could join a group bootcamp or study something you’ve never tried before. When you do, you might find yourself saying, “This is the kind of life I really enjoy. I’m glad I tried it.” Changing your environment and your habits is the first step. Ask yourself, “How can I make my days more meaningful?” Start by shifting your perspective. Decide to try new things, even if it’s just a class for an hour or two once or twice a week. You’ll meet new people, maybe pick up a part-time job on a Saturday, or just try something different. If you don’t try, you’ll never know. At the very least, you’ll have a new experience—and that’s what matters most.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NjgyMTkzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Routine and Win Without Feeling Stuck")
-*How to Break Routine and Win Without Feeling Stuck - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NjgyMTkzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Break Routine and Win Without Feeling Stuck" caption="How to Break Routine and Win Without Feeling Stuck - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 > *The real difference in life comes from the hopes and experiences you collect along the way.*
 > —Unknown
@@ -41,8 +39,7 @@ So, if you want to change your life for the better, start by changing your days.
 
 ## Key Takeaways
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NjgyMTkzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Routine and Win Without Feeling Stuck")
-*How to Break Routine and Win Without Feeling Stuck - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb24lMjBsaWZlJTIwY2hhbmdlfGVufDB8MHx8fDE3NjgyMTkzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Break Routine and Win Without Feeling Stuck" caption="How to Break Routine and Win Without Feeling Stuck - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 1. If you want a different life, you have to do different things.
 2. Break your routine by trying new activities, jobs, or classes.

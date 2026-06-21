@@ -12,8 +12,7 @@ original_title = "Time Blocking peut te sauver ! 🛟"
 source_medium = "https://medium.com/@phenrysay/20fc32f3ce8c"
 +++
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI1NDA2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Your Day Without Overwhelm")
-*How to Take Control of Your Day Without Overwhelm - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI1NDA2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Take Control of Your Day Without Overwhelm" caption="How to Take Control of Your Day Without Overwhelm - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 If you’re looking for a productivity trick that could truly change your daily routine, let me introduce you to time blocking. Not to be confused with “time boxing,” which I often mention elsewhere, time blocking is a straightforward way to organize your days and finally feel on top of things.
 
@@ -31,8 +30,7 @@ If you’re a student or have a 9-to-5 job, you already know your main time comm
 
 Start by blocking out your big tasks. These are the ones that take real focus—maybe an hour or two. I recommend not making any single task block longer than two hours, because your concentration will probably drop after that. If you have a big project, split it into smaller chunks.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI1NDA2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Your Day Without Overwhelm")
-*How to Take Control of Your Day Without Overwhelm - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI1NDA2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Take Control of Your Day Without Overwhelm" caption="How to Take Control of Your Day Without Overwhelm - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Put your most demanding tasks in the morning, when your mind is fresh. Less demanding tasks can go later in the day. For small chores—like checking the mail, doing laundry, or watering the plants—you can group them into a single block. You might even batch all your little tasks for one day a week, like a “household chores hour.”
 
@@ -56,8 +54,7 @@ Think of batching small tasks like doing all your dishes at once instead of wash
 
 ## The Real Benefit: Peace of Mind
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI1NDA2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Your Day Without Overwhelm")
-*How to Take Control of Your Day Without Overwhelm - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI1NDA2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Take Control of Your Day Without Overwhelm" caption="How to Take Control of Your Day Without Overwhelm - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 Time blocking gives you the security of knowing everything has its place. You won’t waste time wondering what to do next, and you’ll have a clear record of what you’ve accomplished. It’s a simple habit that can make your days smoother and your mind calmer.
 

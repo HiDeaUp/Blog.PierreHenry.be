@@ -12,8 +12,7 @@ original_title = "Comment bâtir quelque chose de nouveau ?"
 source_medium = "https://medium.com/@phenrysay/12ae2619103a"
 +++
 
-![Building on his national bestseller The Rational Optimist, Matt Ridley chronicles the history of innovation, and how we need to change our thinking on the subject.](https://images.unsplash.com/photo-1589829068065-20154e8f9642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxidWlsZGluZyUyMGlubm92YXRpb24lMjBoYWJpdCUyMGZvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NjM5ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overwhelming Yourself")
-*How to Build New Habits Without Overwhelming Yourself - Photo by [Matt Ridley](https://unsplash.com/@mattwridley) on [Unsplash](https://unsplash.com/photos/text-60atsfCakP8)*
+{{< figure src="https://images.unsplash.com/photo-1589829068065-20154e8f9642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxidWlsZGluZyUyMGlubm92YXRpb24lMjBoYWJpdCUyMGZvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NjM5ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Building on his national bestseller The Rational Optimist, Matt Ridley chronicles the history of innovation, and how we need to change our thinking on the subject." title="How to Build New Habits Without Overwhelming Yourself" caption="How to Build New Habits Without Overwhelming Yourself - Photo by [Matt Ridley](https://unsplash.com/@mattwridley) on [Unsplash](https://unsplash.com/photos/text-60atsfCakP8)" >}}
 
 Building something new is not just about chasing big goals or setting ambitious targets. It’s about making your vision real, step by step, over the long term. We often talk about goals and objectives, but rarely do we focus on the magic of creating a new habit every single day. Yet, this is where real change begins.
 
@@ -21,8 +20,7 @@ Whenever you try something new, your brain forms fresh connections. These new pa
 
 Take me, for example. I’m a pretty cerebral person, spending most of my time on the computer. My background is in computer engineering. But if you asked me to bake a rum baba, I’d be out of my comfort zone. Maybe it’s because my mother used to love making rum babas when I was a kid, or maybe it’s a strawberry charlotte, a clafoutis, or even a ratatouille. The point is, when you try your hand at something new—like cooking a dish you’ve never made before—you open yourself up to a whole new world.
 
-![Building on his national bestseller The Rational Optimist, Matt Ridley chronicles the history of innovation, and how we need to change our thinking on the subject.](https://images.unsplash.com/photo-1589829085413-56de8ae18c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxidWlsZGluZyUyMGlubm92YXRpb24lMjBoYWJpdCUyMGZvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NjM5ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overwhelming Yourself")
-*How to Build New Habits Without Overwhelming Yourself - Photo by [Matt Ridley](https://unsplash.com/@mattwridley) on [Unsplash](https://unsplash.com/photos/matt-ridleys-how-innovation-works-H-LIL57PHCc)*
+{{< figure src="https://images.unsplash.com/photo-1589829085413-56de8ae18c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxidWlsZGluZyUyMGlubm92YXRpb24lMjBoYWJpdCUyMGZvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NjM5ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Building on his national bestseller The Rational Optimist, Matt Ridley chronicles the history of innovation, and how we need to change our thinking on the subject." title="How to Build New Habits Without Overwhelming Yourself" caption="How to Build New Habits Without Overwhelming Yourself - Photo by [Matt Ridley](https://unsplash.com/@mattwridley) on [Unsplash](https://unsplash.com/photos/matt-ridleys-how-innovation-works-H-LIL57PHCc)" >}}
 
 You might find yourself watching videos of famous pastry chefs, admiring their creativity and skill. Maybe you’ll even visit their restaurants, inspired by how they craft chocolate cakes or other desserts. Even if you’re not used to baking, by starting this new activity, you’re building a new habit. And with each new habit, you open the door to achievements you never thought possible.
 
@@ -38,8 +36,7 @@ Listen to yourself. Trust your instincts. Do what speaks to you and what feels t
 > 
 > — Alan Watts
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969723938-0c310608d6c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxidWlsZGluZyUyMGlubm92YXRpb24lMjBoYWJpdCUyMGZvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NjM5ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overwhelming Yourself")
-*How to Build New Habits Without Overwhelming Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-innovation-on-a-wooden-surface-QJOxrWXTARM)*
+{{< figure src="https://images.unsplash.com/photo-1704969723938-0c310608d6c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxidWlsZGluZyUyMGlubm92YXRpb24lMjBoYWJpdCUyMGZvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NjM5ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word on a wooden surface" title="How to Build New Habits Without Overwhelming Yourself" caption="How to Build New Habits Without Overwhelming Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-innovation-on-a-wooden-surface-QJOxrWXTARM)" >}}
 
 ---
 

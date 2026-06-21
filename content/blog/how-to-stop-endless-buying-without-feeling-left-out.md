@@ -12,8 +12,7 @@ original_title = "Comment cesser d’acheter sans fin ?"
 source_medium = "https://medium.com/@phenrysay/44242f0dfe6c"
 +++
 
-![Photo by Arthur Tseng](https://images.unsplash.com/photo-1721875426552-7f309c70c6e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb21wdWxzaXZlJTIwYnV5aW5nJTIwY29uc3VtZXJpc20lMjBzaG9wcGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU2NjMxNjYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Endless Buying Without Feeling Left Out")
-*How to Stop Endless Buying Without Feeling Left Out - Photo by [Arthur Tseng](https://unsplash.com/@arthur3607) on [Unsplash](https://unsplash.com/photos/a-large-christmas-tree-in-a-mall-filled-with-people-XGoqrpZy06o)*
+{{< figure src="https://images.unsplash.com/photo-1721875426552-7f309c70c6e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb21wdWxzaXZlJTIwYnV5aW5nJTIwY29uc3VtZXJpc20lMjBzaG9wcGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU2NjMxNjYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A large tree in a mall filled with people" title="How to Stop Endless Buying Without Feeling Left Out" caption="How to Stop Endless Buying Without Feeling Left Out - Photo by [Arthur Tseng](https://unsplash.com/@arthur3607) on [Unsplash](https://unsplash.com/photos/a-large-christmas-tree-in-a-mall-filled-with-people-XGoqrpZy06o)" >}}
 
 Compulsive buying is something many of us know too well. We tell ourselves, “I want this, it looks tempting,” or we get caught up in FOMO—the fear of missing out. Sometimes, it’s because we don’t feel confident enough. We think we’re not ready, not good enough, or that we need to know more before we can call ourselves experts. So, we keep buying courses, books, and new content, hoping the next thing will finally make us feel complete.
 
@@ -23,8 +22,7 @@ It’s easy to fall into the trap of thinking the grass is always greener elsewh
 
 But here’s the truth: you already have enough. The books on your shelf, the courses you’ve bought, the knowledge you’ve gathered—they’re enough to nourish you. It’s like always being a hungry wolf, never feeling full, always wanting more. But at some point, you have to say, “I’m satisfied. I have what I need.” Let yourself enjoy what you already own.
 
-![Photo by Artem Beliaikin](https://images.unsplash.com/photo-1563144206-5c6951891290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb21wdWxzaXZlJTIwYnV5aW5nJTIwY29uc3VtZXJpc20lMjBzaG9wcGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU2NjMxNjYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Endless Buying Without Feeling Left Out")
-*How to Stop Endless Buying Without Feeling Left Out - Photo by [Artem Beliaikin](https://unsplash.com/@belart84) on [Unsplash](https://unsplash.com/photos/hanged-black-plastic-clothes-hanger-lot-OslOe13kufM)*
+{{< figure src="https://images.unsplash.com/photo-1563144206-5c6951891290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb21wdWxzaXZlJTIwYnV5aW5nJTIwY29uc3VtZXJpc20lMjBzaG9wcGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU2NjMxNjYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Hanged black plastic clothes hanger lot" title="How to Stop Endless Buying Without Feeling Left Out" caption="How to Stop Endless Buying Without Feeling Left Out - Photo by [Artem Beliaikin](https://unsplash.com/@belart84) on [Unsplash](https://unsplash.com/photos/hanged-black-plastic-clothes-hanger-lot-OslOe13kufM)" >}}
 
 This mindset doesn’t just apply to buying things. It shows up when we want to start a new project, write a book, or apply for a job. We tell ourselves we’re not ready, so we sign up for another expensive bootcamp or another online course. We think we need just one more piece of information before we can start. But all this consuming takes up time and energy that could be spent actually doing the thing.
 
@@ -40,8 +38,7 @@ The most important thing is to recognize when you have enough and to give yourse
 
 ---
 
-![An empty red Target shopping cart within a Target store.](https://images.unsplash.com/photo-1742037770764-9b5fab4538a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb21wdWxzaXZlJTIwYnV5aW5nJTIwY29uc3VtZXJpc20lMjBzaG9wcGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU2NjMxNjYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Endless Buying Without Feeling Left Out")
-*How to Stop Endless Buying Without Feeling Left Out - Photo by [Zoshua Colah](https://unsplash.com/@zoshuacolah) on [Unsplash](https://unsplash.com/photos/a-red-target-shopping-cart-sits-in-a-store-eFVToUaCFCA)*
+{{< figure src="https://images.unsplash.com/photo-1742037770764-9b5fab4538a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb21wdWxzaXZlJTIwYnV5aW5nJTIwY29uc3VtZXJpc20lMjBzaG9wcGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU2NjMxNjYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="An empty red Target shopping cart within a Target store." title="How to Stop Endless Buying Without Feeling Left Out" caption="How to Stop Endless Buying Without Feeling Left Out - Photo by [Zoshua Colah](https://unsplash.com/@zoshuacolah) on [Unsplash](https://unsplash.com/photos/a-red-target-shopping-cart-sits-in-a-store-eFVToUaCFCA)" >}}
 
 ## Key Takeaways
 

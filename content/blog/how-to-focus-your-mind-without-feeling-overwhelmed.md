@@ -12,8 +12,7 @@ original_title = "Bien structurer ses pensées 🚀"
 source_medium = "https://medium.com/@phenrysay/2d2c171fbd0b"
 +++
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MTUwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus Your Mind Without Feeling Overwhelmed")
-*How to Focus Your Mind Without Feeling Overwhelmed - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MTUwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Focus Your Mind Without Feeling Overwhelmed" caption="How to Focus Your Mind Without Feeling Overwhelmed - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 Have you ever noticed how your mind races when you try to think about too many things at once? It’s like juggling hundreds of balls, and instead of feeling productive, you end up scattered, stressed, and not really getting anything done. I want to talk about the power of simple thinking—about focusing on just one thing at a time.
 
@@ -21,9 +20,7 @@ When you try to handle everything at once, your energy gets pulled in all direct
 
 What if you made one thing your top priority? Imagine picking a single goal, making it your obsession, and letting everything else wait its turn. Suddenly, your mind becomes clearer. You know exactly what you’re working on, and your energy is focused. This is how you make real progress.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MTUwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus Your Mind Without Feeling Overwhelmed")
-*How to Focus Your Mind Without Feeling Overwhelmed - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MTUwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Focus Your Mind Without Feeling Overwhelmed" caption="How to Focus Your Mind Without Feeling Overwhelmed - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 Meditation can help with this. It calms the mind and lets you clear out the mental clutter. Even if it’s hard at first, just telling yourself, “One thing at a time,” can make a huge difference. Sure, there’s always more to do, but that’s what to-do lists are for. Write everything down, then give your full attention to the most important task.
 
@@ -39,8 +36,7 @@ Right now, I’m living in Sydney, in a neighborhood that’s calm and helps me 
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724407-9084cb5b43ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MTUwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus Your Mind Without Feeling Overwhelmed")
-*How to Focus Your Mind Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-mindfulness-on-a-wooden-surface-lI9c6wG0E-8)*
+{{< figure src="https://images.unsplash.com/photo-1704969724407-9084cb5b43ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGZvY3VzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MTUwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word on a wooden surface 8" title="How to Focus Your Mind Without Feeling Overwhelmed" caption="How to Focus Your Mind Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-mindfulness-on-a-wooden-surface-lI9c6wG0E-8)" >}}
 
 ## Key Takeaways
 - *Focus on one thing at a time for better results.*

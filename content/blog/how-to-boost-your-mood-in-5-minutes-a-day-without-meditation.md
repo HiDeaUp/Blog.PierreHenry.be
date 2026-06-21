@@ -12,8 +12,7 @@ original_title = "5 minutes par jour. Transformer son épanouissement"
 source_medium = "https://medium.com/@phenrysay/cadc33cdb0cf"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwcm91dGluZSUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTk5ODUyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood in 5 Minutes a Day Without Meditation")
-*How to Boost Your Mood in 5 Minutes a Day Without Meditation - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwcm91dGluZSUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTk5ODUyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Boost Your Mood in 5 Minutes a Day Without Meditation" caption="How to Boost Your Mood in 5 Minutes a Day Without Meditation - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Positivity is not just a feel-good word. When you focus on something positive, your mind instantly brings up a positive image. This message goes straight to your brain and lifts your mood. If you do this seriously and truly believe in it, you will feel better—calmer, lighter, and genuinely at peace.
 
@@ -25,8 +24,7 @@ You can make this even more effective by adding a simple breathing exercise. I l
 
 As you practice this, you might start to notice things around you that inspire you. Maybe you see a cozy corner in a café and think, “I’d love to have something like that at home.” You start to imagine ways to improve your own space, to make it more comfortable and welcoming. Bit by bit, you adapt your environment and improve your well-being.
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwcm91dGluZSUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTk5ODUyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood in 5 Minutes a Day Without Meditation")
-*How to Boost Your Mood in 5 Minutes a Day Without Meditation - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwcm91dGluZSUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTk5ODUyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Boost Your Mood in 5 Minutes a Day Without Meditation" caption="How to Boost Your Mood in 5 Minutes a Day Without Meditation - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 Having at least one moment of well-being each day is so important. I know this from experience. There was a time when I was working non-stop—lead engineer, manager, student, and juggling other part-time activities. I barely had time for my family, my partner, or even myself. Studying for a master’s in data science was rewarding, but it was also stressful, with constant deadlines and pressure. I forgot how to relax, to take time off, to recharge.
 
@@ -41,8 +39,7 @@ And remember: if the journey is beautiful, you do not worry about where it leads
 > *If the journey is beautiful, you do not ask where it leads.*
 > — Anatole France
 
-![Photo by Binti Malu](https://images.unsplash.com/photo-1665598215450-95f3d46d91e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwcm91dGluZSUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTk5ODUyOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood in 5 Minutes a Day Without Meditation")
-*How to Boost Your Mood in 5 Minutes a Day Without Meditation - Photo by [Binti Malu](https://unsplash.com/@bintimalu) on [Unsplash](https://unsplash.com/photos/a-sign-with-glasses-on-it-hxt8qHOW61Y)*
+{{< figure src="https://images.unsplash.com/photo-1665598215450-95f3d46d91e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwcm91dGluZSUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTk5ODUyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign with glasses on it" title="How to Boost Your Mood in 5 Minutes a Day Without Meditation" caption="How to Boost Your Mood in 5 Minutes a Day Without Meditation - Photo by [Binti Malu](https://unsplash.com/@bintimalu) on [Unsplash](https://unsplash.com/photos/a-sign-with-glasses-on-it-hxt8qHOW61Y)" >}}
 
 > *The best time to plant a tree was twenty years ago. The second-best time is now.*
 > — Chinese Proverb

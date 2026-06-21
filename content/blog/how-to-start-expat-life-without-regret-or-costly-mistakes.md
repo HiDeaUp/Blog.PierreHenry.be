@@ -12,8 +12,7 @@ original_title = "VÉRITÉS CHOC: Vie d'expat avant de faire le grand saut ! �
 source_medium = "https://medium.com/@phenrysay/876b5c2f97a1"
 +++
 
-![Hacker binary attack code. Made with Canon 5d Mark III and analog vintage lens, Leica APO Macro Elmarit-R 2.8 100mm (Year: 1993)](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc0OTQwNTAwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Expat Life WITHOUT Regret or Costly Mistakes")
-*How to Start Expat Life WITHOUT Regret or Costly Mistakes - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/matrix-movie-still-iar-afB0QQw)*
+{{< figure src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc0OTQwNTAwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Hacker binary attack code. Made with Canon 5d Mark III and analog vintage lens, Leica APO Macro Elmarit-R 2.8 100mm (Year: 1993)" title="How to Start Expat Life WITHOUT Regret or Costly Mistakes" caption="How to Start Expat Life WITHOUT Regret or Costly Mistakes - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/matrix-movie-still-iar-afB0QQw)" >}}
 
 Starting a new life as an expat is more than just changing your address. It’s about living with passion, doing what you really want, and sometimes, building something from scratch. Many people dream of moving abroad, working freelance, or even buying a small restaurant or bar in a country where life costs less. Some rent out a house on Airbnb, others open a café. It sounds exciting—and it is—but it’s not for everyone.
 
@@ -28,8 +27,7 @@ You can do the same. Your USP could be a promise like, “Get your logo in 20 mi
 
 Your message should be unique, specific, and easy to understand. If you’re in a market where customer service is terrible, promise a reply within five minutes. If you’re a coach, focus on a small, clear niche. Don’t try to please everyone—speak to a specific group, and make sure you really understand them.
 
-![Photo by Rodion Kutsaiev](https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc0OTQwNTAwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Expat Life WITHOUT Regret or Costly Mistakes")
-*How to Start Expat Life WITHOUT Regret or Costly Mistakes - Photo by [Rodion Kutsaiev](https://unsplash.com/@frostroomhead) on [Unsplash](https://unsplash.com/photos/person-holding-smartphone-0VGG7cqTwCo)*
+{{< figure src="https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc0OTQwNTAwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding" title="How to Start Expat Life WITHOUT Regret or Costly Mistakes" caption="How to Start Expat Life WITHOUT Regret or Costly Mistakes - Photo by [Rodion Kutsaiev](https://unsplash.com/@frostroomhead) on [Unsplash](https://unsplash.com/photos/person-holding-smartphone-0VGG7cqTwCo)" >}}
 
 Tell your story. People want to know why you do what you do. Maybe you started selling organic health products because someone close to you got sick from bad ingredients. Share your journey—the struggles, the doubts, the turning points. This is what makes you real and relatable.
 
@@ -51,8 +49,7 @@ Every day, do the most important thing first. Life gets busy, and distractions p
 
 If you want to open a café, spend your first hours each day on the steps that move you forward—negotiating rent, contacting suppliers, getting licenses. Once you’ve done the hard work, you can relax, knowing you’ve invested in your future.
 
-![Photo by Mathew MacQuarrie](https://images.unsplash.com/photo-1476370648495-3533f64427a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc0OTQwNTAwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Expat Life WITHOUT Regret or Costly Mistakes")
-*How to Start Expat Life WITHOUT Regret or Costly Mistakes - Photo by [Mathew MacQuarrie](https://unsplash.com/@matmacq) on [Unsplash](https://unsplash.com/photos/white-and-black-skull-figurine-on-black-surface-u6OnpbMuZAs)*
+{{< figure src="https://images.unsplash.com/photo-1476370648495-3533f64427a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc0OTQwNTAwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black skull on black surface" title="How to Start Expat Life WITHOUT Regret or Costly Mistakes" caption="How to Start Expat Life WITHOUT Regret or Costly Mistakes - Photo by [Mathew MacQuarrie](https://unsplash.com/@matmacq) on [Unsplash](https://unsplash.com/photos/white-and-black-skull-figurine-on-black-surface-u6OnpbMuZAs)" >}}
 
 Start online if you can. It’s cheaper and easier to test your ideas. Build a community, make your first sales, and only then set up your company. Depending on where you are, it might cost between €1,000 and €3,000 to register a business, but you don’t need to rush.
 

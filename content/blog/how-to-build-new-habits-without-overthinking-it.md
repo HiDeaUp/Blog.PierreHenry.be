@@ -10,8 +10,7 @@ original_title = "Démarrer quelque chose de NOUVEAU 💥"
 source_medium = "https://medium.com/@phenrysay/8a6ba56eed94"
 +++
 
-![Photo by Sabine Freiberger](https://images.unsplash.com/photo-1682350054692-7d2fab9776dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZXclMjBiZWdpbm5pbmdzJTIwaGFiaXQlMjBidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2NDAyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overthinking It")
-*How to Build New Habits Without Overthinking It - Photo by [Sabine Freiberger](https://unsplash.com/@bine_1) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-mIn-IlifdpE)*
+{{< figure src="https://images.unsplash.com/photo-1682350054692-7d2fab9776dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZXclMjBiZWdpbm5pbmdzJTIwaGFiaXQlMjBidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2NDAyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a small plant in a pot mIn IlifdpE" title="How to Build New Habits Without Overthinking It" caption="How to Build New Habits Without Overthinking It - Photo by [Sabine Freiberger](https://unsplash.com/@bine_1) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-mIn-IlifdpE)" >}}
 
 Building something new is not just about chasing big goals or ticking off achievements. It’s about the simple, sometimes small, act of doing something you’ve never done before. I often talk about goals and objectives, but let’s be honest: how often do we actually create a new habit, even just one, each day? Not as much as we’d like to think.
 
@@ -19,8 +18,7 @@ When you try something new, your brain forms fresh connections. These aren’t j
 
 Let me give you a personal example. I’m a pretty cerebral person. My background is in computer engineering, so I spend a lot of time in front of a screen. But if you asked me to make a rum baba (I don’t know why I always mention rum baba—maybe because my mother used to make it when I was a kid), or a strawberry charlotte, or a clafoutis, or even a ratatouille, I’d be out of my comfort zone. But that’s the point.
 
-![Photo by Albert Moreno](https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZXclMjBiZWdpbm5pbmdzJTIwaGFiaXQlMjBidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2NDAyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overthinking It")
-*How to Build New Habits Without Overthinking It - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)*
+{{< figure src="https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZXclMjBiZWdpbm5pbmdzJTIwaGFiaXQlMjBidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2NDAyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on brown soil" title="How to Build New Habits Without Overthinking It" caption="How to Build New Habits Without Overthinking It - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)" >}}
 
 Maybe you love watching famous pastry chefs on YouTube. You see how they create their masterpieces, and you think, “Wow, that’s impressive. Maybe I could try that.” Even if you’ve never baked before, you decide to give it a go. Suddenly, you’re building a new habit. You’re not just following a recipe; you’re changing the way your brain works, and you’re opening yourself up to passions you never knew you had.
 
@@ -34,8 +32,7 @@ Listen to yourself. Trust your instincts. Do things that speak to you, things th
 > _You only live once, but if you do it right, once is enough._
 > — Mae West
 
-![Photo by Jametlene Reskp](https://images.unsplash.com/photo-1617208771413-b0a587991425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZXclMjBiZWdpbm5pbmdzJTIwaGFiaXQlMjBidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2NDAyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overthinking It")
-*How to Build New Habits Without Overthinking It - Photo by [Jametlene Reskp](https://unsplash.com/@reskp) on [Unsplash](https://unsplash.com/photos/white-ceramic-cup-on-brown-dried-leaves-ngCjrdo3hKc)*
+{{< figure src="https://images.unsplash.com/photo-1617208771413-b0a587991425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZXclMjBiZWdpbm5pbmdzJTIwaGFiaXQlMjBidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2NDAyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White ceramic cup on brown dried leaves" title="How to Build New Habits Without Overthinking It" caption="How to Build New Habits Without Overthinking It - Photo by [Jametlene Reskp](https://unsplash.com/@reskp) on [Unsplash](https://unsplash.com/photos/white-ceramic-cup-on-brown-dried-leaves-ngCjrdo3hKc)" >}}
 
 ---
 

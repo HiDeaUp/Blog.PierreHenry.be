@@ -12,8 +12,7 @@ original_title = "PLANIFIER SES ROUTINES POUR GAGNER EN CLARTÉ ET EN CALME"
 source_medium = "https://medium.com/@phenrysay/e5d5bea47eb2"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1463134836706-8bcc60f7d78b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwcGxhbm5pbmclMjBjbGFyaXR5JTIwY2FsbXxlbnwwfDB8fHwxNzQ4NzQzODg0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Weekend Without Losing Your Free Time")
-*How to Plan Your Weekend Without Losing Your Free Time - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/calm-water-QtIXL7C4bB0)*
+{{< figure src="https://images.unsplash.com/photo-1463134836706-8bcc60f7d78b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwcGxhbm5pbmclMjBjbGFyaXR5JTIwY2FsbXxlbnwwfDB8fHwxNzQ4NzQzODg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Calm water" title="How to Plan Your Weekend Without Losing Your Free Time" caption="How to Plan Your Weekend Without Losing Your Free Time - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/calm-water-QtIXL7C4bB0)" >}}
 
 Have you ever noticed how easy it is to let a whole Saturday slip away? You wake up late, maybe it’s already 11 a.m. or even noon, and half the day is gone. If you’re like most people, you work during the week and look forward to the weekend as your own time. But too often, that time just disappears. Every day matters, and every day is a chance to do something for yourself. Over time, these small actions add up and can change your life.
 
@@ -23,8 +22,7 @@ But imagine if, on Friday night, you already knew exactly what you wanted to do 
 
 Recently, I started a memory training program by Jim Kwik. I read his book a couple of years ago when I was working in a coworking space in Delhi. Now, I’m following his program here in Melbourne. This isn’t something that will make me money right away, but it’s an investment in myself. Having a good memory makes a huge difference, and it’s something we should never overlook.
 
-![Taken on Brighton beach, UK](https://images.unsplash.com/photo-1526724038726-3007ffb8025f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwcGxhbm5pbmclMjBjbGFyaXR5JTIwY2FsbXxlbnwwfDB8fHwxNzQ4NzQzODg0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Weekend Without Losing Your Free Time")
-*How to Plan Your Weekend Without Losing Your Free Time - Photo by [processingly](https://unsplash.com/@processingly) on [Unsplash](https://unsplash.com/photos/person-doing-yoga-on-seashore-during-daytime-2pUP1Ts1bmo)*
+{{< figure src="https://images.unsplash.com/photo-1526724038726-3007ffb8025f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwcGxhbm5pbmclMjBjbGFyaXR5JTIwY2FsbXxlbnwwfDB8fHwxNzQ4NzQzODg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Taken on Brighton beach, UK" title="How to Plan Your Weekend Without Losing Your Free Time" caption="How to Plan Your Weekend Without Losing Your Free Time - Photo by [processingly](https://unsplash.com/@processingly) on [Unsplash](https://unsplash.com/photos/person-doing-yoga-on-seashore-during-daytime-2pUP1Ts1bmo)" >}}
 
 We all need rest, and it’s normal to feel tired. But our time is limited. We’re all here for a certain period, and we don’t know when it will end. That’s why it’s so important to do things that really matter to us. The goal of life is to be happy, to enjoy it 100%, and to love what we do. It starts with organizing and planning what we want to achieve in the long term.
 
@@ -40,8 +38,7 @@ So, take action. Even if it’s just ten minutes a day for something you love, i
 
 ---
 
-![Photo by Aaron Burden](https://images.unsplash.com/photo-1516676839530-135a545cce02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwcGxhbm5pbmclMjBjbGFyaXR5JTIwY2FsbXxlbnwwfDB8fHwxNzQ4NzQzODg0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Weekend Without Losing Your Free Time")
-*How to Plan Your Weekend Without Losing Your Free Time - Photo by [Aaron Burden](https://unsplash.com/@aaronburden) on [Unsplash](https://unsplash.com/photos/focus-photography-of-brown-plants-tQF8FCNYNrk)*
+{{< figure src="https://images.unsplash.com/photo-1516676839530-135a545cce02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwcGxhbm5pbmclMjBjbGFyaXR5JTIwY2FsbXxlbnwwfDB8fHwxNzQ4NzQzODg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Focus of brown plants" title="How to Plan Your Weekend Without Losing Your Free Time" caption="How to Plan Your Weekend Without Losing Your Free Time - Photo by [Aaron Burden](https://unsplash.com/@aaronburden) on [Unsplash](https://unsplash.com/photos/focus-photography-of-brown-plants-tQF8FCNYNrk)" >}}
 
 ## Key Takeaways
 - Every day is a chance to do something for yourself.

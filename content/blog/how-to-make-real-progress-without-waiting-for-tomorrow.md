@@ -12,8 +12,7 @@ original_title = "Comment s'améliorer considérablement ?"
 source_medium = "https://medium.com/@phenrysay/94501b1dd8f3"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Waiting for Tomorrow")
-*How to Make Real Progress Without Waiting for Tomorrow - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Make Real Progress Without Waiting for Tomorrow" caption="How to Make Real Progress Without Waiting for Tomorrow - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Every day, I see people around me who dream of writing a book, starting a business, launching an online course, saving for a house, getting fit, or traveling the world. They say, “Tomorrow, I’ll start.” But tomorrow never comes. There’s always something that gets in the way—never enough money, not the right time, too many responsibilities, or simply the feeling that life is too busy.
 
@@ -25,8 +24,7 @@ Money is another common excuse. People talk about needing their “fucking money
 
 Tim Ferriss popularized the idea of a “mini-retirement” in his book *The 4-Hour Workweek*: taking six months off every couple of years to travel or learn something new. I did this myself—six months off work, still technically employed, but free to travel and work on personal projects. I learned new programming skills, created open-source projects, and explored new places. It was an incredible experience that gave me fresh energy and new ideas.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Waiting for Tomorrow")
-*How to Make Real Progress Without Waiting for Tomorrow - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Make Real Progress Without Waiting for Tomorrow" caption="How to Make Real Progress Without Waiting for Tomorrow - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Maybe your dream isn’t a mini-retirement, but something else you keep putting off. The reality is, there’s never a perfect time or the perfect amount of money. If you wait for everything to line up, you’ll wait forever. Life moves fast, and the right moment rarely arrives on its own.
 
@@ -44,8 +42,7 @@ Sometimes, your priority might be something practical, like creating a startup t
 
 After you complete one priority, move on to the next. Maybe you want to learn to cook, start a new online course, or grow carrots on your balcony. By always knowing your top priority, you avoid procrastination and the trap of putting things off until “later.”
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Waiting for Tomorrow")
-*How to Make Real Progress Without Waiting for Tomorrow - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Make Real Progress Without Waiting for Tomorrow" caption="How to Make Real Progress Without Waiting for Tomorrow - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 > *“Action is the foundational key to all success.”*  
 — Pablo Picasso

@@ -12,8 +12,7 @@ original_title = "Comment les environnements peuvent transformer nos vies ?"
 source_medium = "https://medium.com/@phenrysay/31510211ccf8"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTYwOTUzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Motivation by Changing Your Environment")
-*How to Boost Motivation by Changing Your Environment - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTYwOTUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Boost Motivation by Changing Your Environment" caption="How to Boost Motivation by Changing Your Environment - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever noticed how some places make you feel more alive, more creative, or simply more motivated? There’s a kind of magic in the right environment, a boost that can turn even the most routine task into something you actually want to do. This isn’t just about productivity hacks or setting up a nice desk. It’s about understanding how the spaces around us can shape our habits, our moods, and even our sense of purpose.
 
@@ -35,8 +34,7 @@ Motivation is fickle. If you wait for the perfect mood to start something, you�
 
 Here’s a trick: make a list of your favorite environments for different tasks. Maybe on Mondays you work in a certain café, on Wednesdays you go to a library, and on weekends you treat yourself to a beautiful hotel lobby. Rotate these places so you don’t get bored. Even at home, switch between rooms—the living room, the kitchen, the garden. Each space brings a different energy.
 
-![Single tree on open field](https://images.unsplash.com/photo-1707908824049-3af2343ffbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTYwOTUzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Motivation by Changing Your Environment")
-*How to Boost Motivation by Changing Your Environment - Photo by [Johannes Bätz](https://unsplash.com/@beezen) on [Unsplash](https://unsplash.com/photos/a-lone-tree-on-a-grassy-hill-under-a-blue-sky-QZxb6AMjtyg)*
+{{< figure src="https://images.unsplash.com/photo-1707908824049-3af2343ffbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTYwOTUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Single tree on open field" title="How to Boost Motivation by Changing Your Environment" caption="How to Boost Motivation by Changing Your Environment - Photo by [Johannes Bätz](https://unsplash.com/@beezen) on [Unsplash](https://unsplash.com/photos/a-lone-tree-on-a-grassy-hill-under-a-blue-sky-QZxb6AMjtyg)" >}}
 
 ## Change Your Surroundings, Change Your Day
 
@@ -62,8 +60,7 @@ Wherever you are, take a moment to really notice your surroundings. The material
 
 Don’t be afraid to change your routines and environments as your needs shift. Seasons change, your energy levels change, and so should your habits. Try new places, new schedules, and see what works best for you. The goal is not to force yourself into a rigid system, but to find what truly supports your well-being and productivity.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTYwOTUzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Motivation by Changing Your Environment")
-*How to Boost Motivation by Changing Your Environment - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTYwOTUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Boost Motivation by Changing Your Environment" caption="How to Boost Motivation by Changing Your Environment - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 > *“We are shaped by our surroundings, just as much as we shape them.”*  
 — Anonymous

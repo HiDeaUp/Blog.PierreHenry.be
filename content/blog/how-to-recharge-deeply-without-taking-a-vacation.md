@@ -12,8 +12,7 @@ original_title = "Session de relaxation ENSEMBLE™"
 source_medium = "https://medium.com/@phenrysay/61454ddec13c"
 +++
 
-![Photo by bruce mars](https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwd2VsbG5lc3MlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjYyNzU5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Deeply Without Taking a Vacation")
-*How to Recharge Deeply Without Taking a Vacation - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)*
+{{< figure src="https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwd2VsbG5lc3MlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjYyNzU5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on white bed while" title="How to Recharge Deeply Without Taking a Vacation" caption="How to Recharge Deeply Without Taking a Vacation - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)" >}}
 
 Learning how to relax is essential for regaining energy and feeling good again. It’s a bit like reaching the end of a long walk—maybe you’ve walked for hours, even fifty kilometers in a day and a night. After that, you’re exhausted and need a break. Relaxation works the same way after a long day of work or stress. Whether you’re in meetings with investors, managing a team, or just studying hard as a student, there comes a point when your body says, “Enough.” That’s when you need to relax, recharge, and find your balance again.
 
@@ -27,8 +26,7 @@ Sometimes, relaxation is as simple as making a cup of coffee. I like to rinse my
 
 I’ve always found coffee shops inspiring. I dream of opening one someday, maybe even a franchise. There’s something energizing about having long-term projects like this. Even if it’s just a dream for now, thinking about it gives me a boost. Years ago, I worked at a Starbucks in London, near Charing Cross Station. The place is gone now, but I learned a lot about managing people and handling stress. If you’re running a business or managing a team, these breathing exercises and small breaks become even more important.
 
-![Meditate](https://images.unsplash.com/photo-1706657112092-4f620e1f2cbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwd2VsbG5lc3MlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjYyNzU5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Deeply Without Taking a Vacation")
-*How to Recharge Deeply Without Taking a Vacation - Photo by [Dust & Pixels](https://unsplash.com/@chandu029) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-meditation-on-it-niS4Tw40Ylc)*
+{{< figure src="https://images.unsplash.com/photo-1706657112092-4f620e1f2cbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwd2VsbG5lc3MlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjYyNzU5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Meditate" title="How to Recharge Deeply Without Taking a Vacation" caption="How to Recharge Deeply Without Taking a Vacation - Photo by [Dust & Pixels](https://unsplash.com/@chandu029) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-meditation-on-it-niS4Tw40Ylc)" >}}
 
 ## Move Your Body
 
@@ -49,8 +47,7 @@ After a stressful day, it’s important to have something to look forward to. Ma
 
 Sometimes, the best way to recharge is to spend a weekend alone. Book a small apartment or a hotel room, bring simple food, and disconnect from everything. Bill Gates used to do this twice a year, spending time in a cabin to think and recharge. You don’t need luxury—just a quiet place and some time for yourself.
 
-![Pharma Hemp Complex CBD bath bombs are made with 100mgs of CBD each. Perfect for relaxing at the end of a long day.](https://images.unsplash.com/photo-1577403349502-058e4a149b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwd2VsbG5lc3MlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjYyNzU5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Deeply Without Taking a Vacation")
-*How to Recharge Deeply Without Taking a Vacation - Photo by [Pharma Hemp Complex](https://unsplash.com/@pharmahempcomplex) on [Unsplash](https://unsplash.com/photos/purple-and-brown-labeled-box-59qoKToSLOQ)*
+{{< figure src="https://images.unsplash.com/photo-1577403349502-058e4a149b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwd2VsbG5lc3MlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjYyNzU5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Pharma Hemp Complex CBD bath bombs are made with 100mgs of CBD each. Perfect for relaxing at the end of a long day." title="How to Recharge Deeply Without Taking a Vacation" caption="How to Recharge Deeply Without Taking a Vacation - Photo by [Pharma Hemp Complex](https://unsplash.com/@pharmahempcomplex) on [Unsplash](https://unsplash.com/photos/purple-and-brown-labeled-box-59qoKToSLOQ)" >}}
 
 > _“Rest is not idleness, and to lie sometimes on the grass under trees on a summer’s day, listening to the murmur of water, or watching the clouds float across the sky, is by no means a waste of time.”_  
 — John Lubbock

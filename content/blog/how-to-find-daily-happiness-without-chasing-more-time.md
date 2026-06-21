@@ -12,8 +12,7 @@ original_title = "Bonheur NON TEMPS, expliqué à ma Granny"
 source_medium = "https://medium.com/@phenrysay/596cfa5b6ccb"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1NTc5MDk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Chasing More Time")
-*How to Find Daily Happiness Without Chasing More Time - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1NTc5MDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Daily Happiness Without Chasing More Time" caption="How to Find Daily Happiness Without Chasing More Time - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 What does it really mean to live a happy life? The ancient Greeks had a simple answer: happiness is living a life without worries. A life free from trouble and stress. Of course, we’d all love that. But let’s be honest—most days, it’s not so easy to live without problems or stress.
 
@@ -27,8 +26,7 @@ Now, rewind your day in your mind. What brought your score down? Maybe you had t
 
 The idea is to look at the things that drag your day down and see if you can change them, delegate them, or make them more enjoyable. If you do, maybe your next day will be a 4 instead of a 3.
 
-![Don't Worry Be Happy](https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1NTc5MDk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Chasing More Time")
-*How to Find Daily Happiness Without Chasing More Time - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)*
+{{< figure src="https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1NTc5MDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Don't Worry Be Happy" title="How to Find Daily Happiness Without Chasing More Time" caption="How to Find Daily Happiness Without Chasing More Time - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)" >}}
 
 ## Small Tweaks, Big Difference
 
@@ -48,8 +46,7 @@ Try living a day completely differently. Start your day with dinner, read after,
 
 When you realize your day is like modeling clay, you might have a sudden insight: being happy, having a happy day or a happy life, isn’t so complicated. You just need to see your day as a game, like children do.
 
-![Happy Heart Happy Face Concept](https://images.unsplash.com/photo-1634911059332-0cc49b1ae86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1NTc5MDk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Happiness Without Chasing More Time")
-*How to Find Daily Happiness Without Chasing More Time - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-fygIoiCC06o)*
+{{< figure src="https://images.unsplash.com/photo-1634911059332-0cc49b1ae86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1NTc5MDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Happy Face Concept" title="How to Find Daily Happiness Without Chasing More Time" caption="How to Find Daily Happiness Without Chasing More Time - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-fygIoiCC06o)" >}}
 
 > _Happiness is not something ready made. It comes from your own actions._
 > — Dalai Lama

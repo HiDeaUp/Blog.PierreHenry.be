@@ -12,8 +12,7 @@ original_title = "Ce que PERSONNE DIT sur la RÉGULARITÉ (ce que j'ai pu mettre
 source_medium = "https://medium.com/@phenrysay/61cfed235ca6"
 +++
 
-![Photo by Solving Healthcare](https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwc2NoZWR1bGUlMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE5NDc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Consistency Without Burning Out Your Routine")
-*How to Build Real Consistency Without Burning Out Your Routine - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)*
+{{< figure src="https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwc2NoZWR1bGUlMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE5NDc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man laying in bed with a clock on top of him nqr6 Ix22EQ" title="How to Build Real Consistency Without Burning Out Your Routine" caption="How to Build Real Consistency Without Burning Out Your Routine - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)" >}}
 
 When people talk about routines, they often mention productivity hacks or morning rituals. But there’s one aspect that rarely gets the attention it deserves: the power of being consistent, especially with your sleep schedule. Let’s get real—this isn’t just about going to bed early or waking up at sunrise. It’s about sticking to the same hours, every single day, no matter what.
 
@@ -28,8 +27,7 @@ No matter what, I always woke up at the same time. Why? Because making exception
 
 ## The Trap of “Just This Once”
 
-![Time flies](https://images.unsplash.com/photo-1651862488140-56cc66c978ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwc2NoZWR1bGUlMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE5NDc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Consistency Without Burning Out Your Routine")
-*How to Build Real Consistency Without Burning Out Your Routine - Photo by [Frankie](https://unsplash.com/@tillsunrise) on [Unsplash](https://unsplash.com/photos/a-clock-on-a-shelf-bWwtQHUrfJ0)*
+{{< figure src="https://images.unsplash.com/photo-1651862488140-56cc66c978ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwc2NoZWR1bGUlMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE5NDc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time flies" title="How to Build Real Consistency Without Burning Out Your Routine" caption="How to Build Real Consistency Without Burning Out Your Routine - Photo by [Frankie](https://unsplash.com/@tillsunrise) on [Unsplash](https://unsplash.com/photos/a-clock-on-a-shelf-bWwtQHUrfJ0)" >}}
 
 It’s tempting to stay in bed longer, especially when it’s cold or your partner is still sleeping. But if you give in, you’ll feel like your whole day is wasted. Worse, you’ll have a harder time getting back on track. Allowing one exception opens the door to more. Before you know it, “just this once” becomes a regular thing, and your routine falls apart.
 
@@ -51,8 +49,7 @@ I wrote about this in my book, and I keep updating it as I learn more. The core 
 > _“Discipline is choosing between what you want now and what you want most.”_  
 > — Abraham Lincoln
 
-![Photo by De an Sun](https://images.unsplash.com/photo-1607856647955-3b566cac6f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwc2NoZWR1bGUlMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE5NDc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Consistency Without Burning Out Your Routine")
-*How to Build Real Consistency Without Burning Out Your Routine - Photo by [De an Sun](https://unsplash.com/@andyadcon) on [Unsplash](https://unsplash.com/photos/silver-and-white-analog-watch-1OarTWhAmrs)*
+{{< figure src="https://images.unsplash.com/photo-1607856647955-3b566cac6f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwc2NoZWR1bGUlMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE5NDc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Silver and white analog watch" title="How to Build Real Consistency Without Burning Out Your Routine" caption="How to Build Real Consistency Without Burning Out Your Routine - Photo by [De an Sun](https://unsplash.com/@andyadcon) on [Unsplash](https://unsplash.com/photos/silver-and-white-analog-watch-1OarTWhAmrs)" >}}
 
 ---
 

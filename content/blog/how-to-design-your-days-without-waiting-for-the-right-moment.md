@@ -12,8 +12,7 @@ original_title = "Des journées sur mesure"
 source_medium = "https://medium.com/@phenrysay/cd4129deac50"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU5OTg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Days Without Waiting for the Right Moment")
-*How to Design Your Days Without Waiting for the Right Moment - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU5OTg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Design Your Days Without Waiting for the Right Moment" caption="How to Design Your Days Without Waiting for the Right Moment - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Many of us dream of launching a project, building a startup, or simply living a life that feels more like our own. But too often, we get caught up in the daily grind. The routine of work, family, and obligations can feel like a tunnel, keeping us from the life we really want. Days turn into months, months into years, and that ideal life seems to slip further away.
 
@@ -30,8 +29,7 @@ Many people get stuck in a comfortable routine. It’s not painful enough to for
 
 ## 2. Visualize Your Project and Lifestyle
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU5OTg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Days Without Waiting for the Right Moment")
-*How to Design Your Days Without Waiting for the Right Moment - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU5OTg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Design Your Days Without Waiting for the Right Moment" caption="How to Design Your Days Without Waiting for the Right Moment - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 The second key is to see your goal clearly. Map out your dream lifestyle. When you have a big-picture view, it becomes easier to believe in it and work toward it.
 
@@ -50,8 +48,7 @@ Ninety days is long enough to make real progress, but short enough to keep you f
 
 And don’t forget: good sleep is a real investment in your projects and your life. I’ve noticed the difference myself—when I’m tired, everything feels harder. So take care of yourself along the way.
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU5OTg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Days Without Waiting for the Right Moment")
-*How to Design Your Days Without Waiting for the Right Moment - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU5OTg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Design Your Days Without Waiting for the Right Moment" caption="How to Design Your Days Without Waiting for the Right Moment - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 > *“The future depends on what you do today.”*  
 — Mahatma Gandhi

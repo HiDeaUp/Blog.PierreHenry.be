@@ -12,8 +12,7 @@ original_title = "Comment gérer son attention pour réaliser plus ? 💪"
 source_medium = "https://medium.com/@phenrysay/541ec7b51694"
 +++
 
-![Photo by - Kenny](https://images.unsplash.com/photo-1576562697565-2651b19c6e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUxMzIzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus Better Without Fighting Distractions")
-*How to Focus Better Without Fighting Distractions - Photo by [- Kenny](https://unsplash.com/@kennyzhang29) on [Unsplash](https://unsplash.com/photos/people-inside-room-oXE2HZqASa0)*
+{{< figure src="https://images.unsplash.com/photo-1576562697565-2651b19c6e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUxMzIzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="People inside room" title="How to Focus Better Without Fighting Distractions" caption="How to Focus Better Without Fighting Distractions - Photo by [- Kenny](https://unsplash.com/@kennyzhang29) on [Unsplash](https://unsplash.com/photos/people-inside-room-oXE2HZqASa0)" >}}
 
 Have you ever noticed how your attention seems to jump from one thing to another, making it hard to stay focused on what really matters? You sit down to work, but your mind drifts to that email you received, a conversation you had earlier, or a task you still need to finish. Instead of giving your full attention to the job at hand, you find yourself only half-present, and your productivity takes a hit.
 
@@ -27,8 +26,7 @@ It might sound a bit odd, but it really works. Every time you notice your mind w
 
 ## Meditation: Training Your Brain to Focus
 
-![Photo by Romain Bernier-Dupréelle](https://images.unsplash.com/photo-1633445714970-b43be6cdc44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUxMzIzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus Better Without Fighting Distractions")
-*How to Focus Better Without Fighting Distractions - Photo by [Romain Bernier-Dupréelle](https://unsplash.com/@rbd752) on [Unsplash](https://unsplash.com/photos/a-group-of-people-walking-down-a-sidewalk-NBP4ZYnXHjA)*
+{{< figure src="https://images.unsplash.com/photo-1633445714970-b43be6cdc44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUxMzIzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of people walking down a" title="How to Focus Better Without Fighting Distractions" caption="How to Focus Better Without Fighting Distractions - Photo by [Romain Bernier-Dupréelle](https://unsplash.com/@rbd752) on [Unsplash](https://unsplash.com/photos/a-group-of-people-walking-down-a-sidewalk-NBP4ZYnXHjA)" >}}
 
 Meditation is a fantastic way to train your brain to focus on one thing at a time. Even just a couple of short sessions a day can make a big difference. The idea is simple: focus on your breath, the sound of birds, or any single sensation. When your mind starts to wander, gently bring it back to your chosen focus.
 
@@ -46,8 +44,7 @@ Here’s a practical exercise: before starting a focused work session, set a tim
 
 Don’t underestimate the power of good sleep. Going to bed and waking up at the same time every day helps your brain stay sharp and focused. And when you’re working, turn off all notifications—email, phone, everything. Give yourself the gift of undisturbed time. You’ll be amazed at how much more you can get done.
 
-![People walking past the glass facade in front of the elevator inside the Tate Modern museum.](https://images.unsplash.com/photo-1724500729999-2f498716730b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUxMzIzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus Better Without Fighting Distractions")
-*How to Focus Better Without Fighting Distractions - Photo by [Uran Wang](https://unsplash.com/@uranwang) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-train-station-PsGWexhEBeY)*
+{{< figure src="https://images.unsplash.com/photo-1724500729999-2f498716730b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUxMzIzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="People walking past the glass facade in front of the elevator inside the Tate Modern museum." title="How to Focus Better Without Fighting Distractions" caption="How to Focus Better Without Fighting Distractions - Photo by [Uran Wang](https://unsplash.com/@uranwang) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-train-station-PsGWexhEBeY)" >}}
 
 > *The mind is like water. When it’s turbulent, it’s difficult to see. When it’s calm, everything becomes clear.*
 >

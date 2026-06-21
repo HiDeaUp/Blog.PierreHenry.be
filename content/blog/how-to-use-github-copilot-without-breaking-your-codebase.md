@@ -12,8 +12,7 @@ original_title = "From Zero to Hero: Successfully Master GitHub Copilot in Your 
 source_medium = "https://medium.com/@phenrysay/401d418182e3"
 +++
 
-![Photo by Nejc Soklič](https://images.unsplash.com/photo-1694716711674-beadd3b2a8af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHaXRIdWIlMjBDb3BpbG90JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzY3MjUxMzE5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use GitHub Copilot Without Breaking Your Codebase")
-*How to Use GitHub Copilot Without Breaking Your Codebase - Photo by [Nejc Soklič](https://unsplash.com/@nejc_soklic) on [Unsplash](https://unsplash.com/photos/a-close-up-of-the-controls-of-a-plane-t0NoPas_2ds)*
+{{< figure src="https://images.unsplash.com/photo-1694716711674-beadd3b2a8af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHaXRIdWIlMjBDb3BpbG90JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzY3MjUxMzE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of the of a plane" title="How to Use GitHub Copilot Without Breaking Your Codebase" caption="How to Use GitHub Copilot Without Breaking Your Codebase - Photo by [Nejc Soklič](https://unsplash.com/@nejc_soklic) on [Unsplash](https://unsplash.com/photos/a-close-up-of-the-controls-of-a-plane-t0NoPas_2ds)" >}}
 
 Alright, let’s get straight into it. Today, I’m diving into how I use GitHub Copilot to build a food tracker app, and more importantly, how I avoid the classic pitfalls that come with relying on AI for coding. I’ve been a software engineer for over 12 years now—10 of those professionally—and I can honestly say, it’s never been as exciting as it is right now. The tools we have at our disposal are just wild. But with great power comes great responsibility, right? So let’s talk about how to actually use Copilot in a way that helps you, not hurts you.
 
@@ -33,8 +32,7 @@ Now, here’s where you need to be careful. Copilot (and honestly, most AI codin
 
 Even worse, Copilot loves to add redundant styles. You’ll see stuff like:
 
-![Photo by Liv Bruce](https://images.unsplash.com/photo-1504233138167-a91c038f5e64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxHaXRIdWIlMjBDb3BpbG90JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzY3MjUxMzE5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use GitHub Copilot Without Breaking Your Codebase")
-*How to Use GitHub Copilot Without Breaking Your Codebase - Photo by [Liv Bruce](https://unsplash.com/@livvie_bruce) on [Unsplash](https://unsplash.com/photos/aerial-photography-of-ocean-tKTxGPswME8)*
+{{< figure src="https://images.unsplash.com/photo-1504233138167-a91c038f5e64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxHaXRIdWIlMjBDb3BpbG90JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzY3MjUxMzE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Aerial of ocean" title="How to Use GitHub Copilot Without Breaking Your Codebase" caption="How to Use GitHub Copilot Without Breaking Your Codebase - Photo by [Liv Bruce](https://unsplash.com/@livvie_bruce) on [Unsplash](https://unsplash.com/photos/aerial-photography-of-ocean-tKTxGPswME8)" >}}
 
 ```js
 const styles = StyleSheet.create({
@@ -71,8 +69,7 @@ You can even prompt Copilot: “Please remove any unused files or imports after 
 
 ### The Mindset: Never Stop Improving
 
-![Photo by Lukas Souza](https://images.unsplash.com/photo-1575931277869-447d2ea11db1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxHaXRIdWIlMjBDb3BpbG90JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzY3MjUxMzE5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use GitHub Copilot Without Breaking Your Codebase")
-*How to Use GitHub Copilot Without Breaking Your Codebase - Photo by [Lukas Souza](https://unsplash.com/@lukassouza) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-aircraft-controller-ZMt67IB8nHc)*
+{{< figure src="https://images.unsplash.com/photo-1575931277869-447d2ea11db1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxHaXRIdWIlMjBDb3BpbG90JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzY3MjUxMzE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of" title="How to Use GitHub Copilot Without Breaking Your Codebase" caption="How to Use GitHub Copilot Without Breaking Your Codebase - Photo by [Lukas Souza](https://unsplash.com/@lukassouza) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-aircraft-controller-ZMt67IB8nHc)" >}}
 
 AI models are getting better every month, but you have to keep improving too. Learn how to prompt better, give more context, and always look for ways to optimize your workflow. Treat every day as a chance to get a little bit better—not just at coding, but at using your time wisely and staying healthy. Burnout is real, especially with the pace of competition right now. So take breaks, stay balanced, and don’t let the rat race get to you.
 

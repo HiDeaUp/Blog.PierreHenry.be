@@ -12,8 +12,7 @@ original_title = "Peut-on se sentir toujours positif ?"
 source_medium = "https://medium.com/@phenrysay/81a093e53548"
 +++
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2aXR5JTIwbW90aXZhdGlvbiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1OTk3MjY1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Motivation Without Forcing Positivity")
-*How to Build Lasting Motivation Without Forcing Positivity - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2aXR5JTIwbW90aXZhdGlvbiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1OTk3MjY1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Build Lasting Motivation Without Forcing Positivity" caption="How to Build Lasting Motivation Without Forcing Positivity - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 Have you ever noticed how some days you feel a spark, a kind of magic that makes everything easier? That feeling isn’t just luck. It’s something you can create, shape, and even manufacture by paying attention to your environment, your habits, and your mindset.
 
@@ -33,8 +32,7 @@ Still, routine alone isn’t enough. If you want to do your best work, you need 
 
 ## Change Your Scene, Change Your Mind
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2aXR5JTIwbW90aXZhdGlvbiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1OTk3MjY1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Motivation Without Forcing Positivity")
-*How to Build Lasting Motivation Without Forcing Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2aXR5JTIwbW90aXZhdGlvbiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1OTk3MjY1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Build Lasting Motivation Without Forcing Positivity" caption="How to Build Lasting Motivation Without Forcing Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Staying in the same place all day can make time feel like it’s dragging. But if you move between different environments—a café in the morning, a park in the afternoon, a cozy room in the evening—you’ll feel like your day is richer and more memorable. Even at home, switching rooms or working in the garden can refresh your mind.
 
@@ -60,8 +58,7 @@ Atmosphere isn’t just about the physical space. Music can also set the tone fo
 
 ## Keep Iterating
 
-![If you like my work, please support me: paypal.me/viktorforgacs](https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2aXR5JTIwbW90aXZhdGlvbiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1OTk3MjY1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Motivation Without Forcing Positivity")
-*How to Build Lasting Motivation Without Forcing Positivity - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)*
+{{< figure src="https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2aXR5JTIwbW90aXZhdGlvbiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU1OTk3MjY1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="If you like my work, please support me: paypal.me/viktorforgacs" title="How to Build Lasting Motivation Without Forcing Positivity" caption="How to Build Lasting Motivation Without Forcing Positivity - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)" >}}
 
 Don’t be afraid to change your routines, your environments, or your habits. Life changes with the seasons, and so should you. Try new places, new schedules, and see what works best for you. Reflect on your days, rate your satisfaction, and adjust as needed. This is how you grow and avoid getting stuck in a rut.
 

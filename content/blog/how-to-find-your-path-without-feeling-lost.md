@@ -12,8 +12,7 @@ original_title = "Quoi faire dans sa vie ? 🙃"
 source_medium = "https://medium.com/@phenrysay/254314784587"
 +++
 
-![Discover Word](https://images.unsplash.com/photo-1673515335978-8cc55e3e9e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHVycG9zZSUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MDg2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Path Without Feeling Lost")
-*How to Find Your Path Without Feeling Lost - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-discovery-spelled-with-scrabble-letters-on-a-wooden-surface-8246ckwp_i8)*
+{{< figure src="https://images.unsplash.com/photo-1673515335978-8cc55e3e9e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHVycG9zZSUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MDg2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Discover Word" title="How to Find Your Path Without Feeling Lost" caption="How to Find Your Path Without Feeling Lost - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-discovery-spelled-with-scrabble-letters-on-a-wooden-surface-8246ckwp_i8)" >}}
 
 Feeling good about yourself and finding peace are not just nice-to-haves. They are the foundation for a fantastic life. If you want to be on the right path, you need to know where you’re going. Too many people drift through life without a clear direction, as if they’re immortal and have all the time in the world. But the truth is, we only get one shot at this.
 
@@ -29,8 +28,7 @@ Let’s break them down.
 
 ## 1. Money
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHVycG9zZSUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MDg2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Path Without Feeling Lost")
-*How to Find Your Path Without Feeling Lost - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHVycG9zZSUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MDg2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Find Your Path Without Feeling Lost" caption="How to Find Your Path Without Feeling Lost - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 People often worry that their passion won’t pay the bills. But if you truly love what you do, you’ll find ways to become excellent at it. When you give your all, you’ll discover opportunities to earn—even in fields that aren’t known for high salaries. You might even create new ways to make money, like teaching others or starting your own projects.
 
@@ -52,8 +50,7 @@ Sometimes, you feel lost. You know what foods you like, but you have no idea wha
 >
 > — Dalai Lama
 
-![ブロック塀に咲く可憐な花](https://images.unsplash.com/photo-1747809467090-07744a38f797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHVycG9zZSUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MDg2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Path Without Feeling Lost")
-*How to Find Your Path Without Feeling Lost - Photo by [Buddy AN](https://unsplash.com/@stbuddyp) on [Unsplash](https://unsplash.com/photos/a-delicate-flower-blooms-in-a-stone-crevice-hO0DkJYE9lg)*
+{{< figure src="https://images.unsplash.com/photo-1747809467090-07744a38f797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHVycG9zZSUyMHNlbGYtZGlzY292ZXJ5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MDg2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="ブロック塀に咲く可憐な花" title="How to Find Your Path Without Feeling Lost" caption="How to Find Your Path Without Feeling Lost - Photo by [Buddy AN](https://unsplash.com/@stbuddyp) on [Unsplash](https://unsplash.com/photos/a-delicate-flower-blooms-in-a-stone-crevice-hO0DkJYE9lg)" >}}
 
 > *The only way to do great work is to love what you do.*
 >

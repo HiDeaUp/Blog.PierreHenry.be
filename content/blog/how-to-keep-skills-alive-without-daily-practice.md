@@ -12,8 +12,7 @@ original_title = "Réussite: Pourquoi la pratique régulière est essentiel ?"
 source_medium = "https://medium.com/@phenrysay/a779333cae3e"
 +++
 
-![Learn Languages Words](https://images.unsplash.com/photo-1673515334717-da4d85aaf38b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWd1bGFyJTIwcHJhY3RpY2UlMjBza2lsbCUyMHJldGVudGlvbiUyMGxhbmd1YWdlJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc1NTY0NDc5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Skills Alive Without Daily Practice")
-*How to Keep Skills Alive Without Daily Practice - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-languages-spelled-out-of-scrabble-tiles-TFtIBULUMP0)*
+{{< figure src="https://images.unsplash.com/photo-1673515334717-da4d85aaf38b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWd1bGFyJTIwcHJhY3RpY2UlMjBza2lsbCUyMHJldGVudGlvbiUyMGxhbmd1YWdlJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc1NTY0NDc5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Learn Languages Words" title="How to Keep Skills Alive Without Daily Practice" caption="How to Keep Skills Alive Without Daily Practice - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-languages-spelled-out-of-scrabble-tiles-TFtIBULUMP0)" >}}
 
 Today, I want to share a realization that struck me at work. In our MedTech startup, where we’re always talking about “revolutionizing medicine” (yes, it sounds cliché, but it’s true), we recently welcomed a new colleague. He’s a well-known British doctor, a bit of an influencer in his field, and he speaks French—really well, actually.
 
@@ -25,8 +24,7 @@ Languages—and really, any skill—grow and change with us as we use them. The 
 
 This isn’t just about language. I’m a computer engineer. If I stopped programming for years, I’d probably still code like I did back in the days of Pascal or BASIC. The same goes for any field—if you stop, your knowledge stops evolving too.
 
-![Learn Languages Words](https://images.unsplash.com/photo-1673515335463-cb1c196e2efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWd1bGFyJTIwcHJhY3RpY2UlMjBza2lsbCUyMHJldGVudGlvbiUyMGxhbmd1YWdlJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc1NTY0NDc5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Skills Alive Without Daily Practice")
-*How to Keep Skills Alive Without Daily Practice - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-scrabble-tiles-spelling-learn-languages-9N3EhXcacuo)*
+{{< figure src="https://images.unsplash.com/photo-1673515335463-cb1c196e2efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWd1bGFyJTIwcHJhY3RpY2UlMjBza2lsbCUyMHJldGVudGlvbiUyMGxhbmd1YWdlJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc1NTY0NDc5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Learn Languages Words" title="How to Keep Skills Alive Without Daily Practice" caption="How to Keep Skills Alive Without Daily Practice - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-scrabble-tiles-spelling-learn-languages-9N3EhXcacuo)" >}}
 
 It’s important to keep this in mind. If you stop learning or practicing something, in ten years you’ll be like my colleague: speaking French like a young soldier, out of sync with the present. The world moves on, and so do the tools, trends, and ways of doing things. Whether it’s technology, cooking, fashion, or anything else, things change. Even recipes and styles move forward.
 
@@ -44,8 +42,7 @@ No one knows what the future will look like, but the best way to prepare is to i
 
 ## Key Takeaways
 
-![Learn Languages Online Words](https://images.unsplash.com/photo-1673515335564-fbe94030e4b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWd1bGFyJTIwcHJhY3RpY2UlMjBza2lsbCUyMHJldGVudGlvbiUyMGxhbmd1YWdlJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc1NTY0NDc5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Skills Alive Without Daily Practice")
-*How to Keep Skills Alive Without Daily Practice - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-learn-languages-on-a-table-5pYT4Om_LJI)*
+{{< figure src="https://images.unsplash.com/photo-1673515335564-fbe94030e4b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWd1bGFyJTIwcHJhY3RpY2UlMjBza2lsbCUyMHJldGVudGlvbiUyMGxhbmd1YWdlJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc1NTY0NDc5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Learn Languages Online Words" title="How to Keep Skills Alive Without Daily Practice" caption="How to Keep Skills Alive Without Daily Practice - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-learn-languages-on-a-table-5pYT4Om_LJI)" >}}
 
 - If you stop practicing a skill, it freezes at the level you left it.
 - Regular practice keeps your skills and knowledge growing with you.

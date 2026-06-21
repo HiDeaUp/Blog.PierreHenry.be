@@ -12,8 +12,7 @@ original_title = "Comment vivre une vie enthousiasmante ? 💥"
 source_medium = "https://medium.com/@phenrysay/2652b8635f3a"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBsaWZlJTIwcHVycG9zZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUyMjY4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Status")
-*How to Find Real Happiness Without Chasing Status - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBsaWZlJTIwcHVycG9zZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUyMjY4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find Real Happiness Without Chasing Status" caption="How to Find Real Happiness Without Chasing Status - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 When we think about happiness, many of us imagine it as a race. We picture a long track where the winners are those who collect the most degrees, land the highest-paying jobs, and climb to the most prestigious positions. Maybe you dream of launching a startup, selling it for a fortune, and then doing it all over again. For many people, this is what success looks like.
 
@@ -25,8 +24,7 @@ A fulfilling life isn’t about working yourself to the bone just to stack up mo
 
 True success is about living a life that excites you, a life that makes you feel alive deep down. It’s about having a mission or a passion that gets you out of bed on Monday morning with the same excitement you feel on Friday night. When your work feels like a passion, it brings in enough money for you to live well, but you’re not obsessed with earning more just to show off.
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBsaWZlJTIwcHVycG9zZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUyMjY4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Status")
-*How to Find Real Happiness Without Chasing Status - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBsaWZlJTIwcHVycG9zZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUyMjY4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Real Happiness Without Chasing Status" caption="How to Find Real Happiness Without Chasing Status - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Sometimes, we chase after status or degrees to impress others, but in the end, it doesn’t bring real happiness. What really matters is feeling fulfilled in your daily life. There are so many other things that can bring you joy and satisfaction.
 
@@ -46,8 +44,7 @@ Life moves quickly. Don’t put off living the life that excites you. Start now.
 
 ## Key Takeaways
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBsaWZlJTIwcHVycG9zZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUyMjY4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Status")
-*How to Find Real Happiness Without Chasing Status - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)*
+{{< figure src="https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBsaWZlJTIwcHVycG9zZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUyMjY4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow card with the words be the creator of your own" title="How to Find Real Happiness Without Chasing Status" caption="How to Find Real Happiness Without Chasing Status - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)" >}}
 
 - *Happiness is not a race for status or money. It’s about feeling good in your daily life.*
 - *True success is living a life that excites you and gives you time for what matters to you.*

@@ -12,8 +12,7 @@ original_title = "Environnements de travail. Important ?🌳"
 source_medium = "https://medium.com/@phenrysay/455876c5e299"
 +++
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjY0MTQxN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Workday by Changing Where You Work")
-*How to Boost Your Workday by Changing Where You Work - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjY0MTQxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Boost Your Workday by Changing Where You Work" caption="How to Boost Your Workday by Changing Where You Work - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 Working today from the Adelaide Botanic Garden, I can’t help but notice how much the environment shapes my mood and productivity. There’s something special about working in a place you genuinely enjoy. It’s relaxing, uplifting, and it makes the whole experience of working so much more pleasant.
 
@@ -25,8 +24,7 @@ Being in a place I love, or even just changing my environment from time to time,
 
 Nature is beautiful. The trees are stunning. Sometimes, just taking a moment to admire what’s around you can make a big difference in your day. That’s really the main tip I want to share: go to places that lift you up, places you genuinely like.
 
-![A clean office](https://images.unsplash.com/photo-1511362328651-90cc517fbe31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjY0MTQxN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Workday by Changing Where You Work")
-*How to Boost Your Workday by Changing Where You Work - Photo by [Unknown Wong](https://unsplash.com/@goodchinese) on [Unsplash](https://unsplash.com/photos/black-leather-rolling-armchair-near-white-wooden-desk-bXmfBgobSMI)*
+{{< figure src="https://images.unsplash.com/photo-1511362328651-90cc517fbe31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjY0MTQxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A clean office" title="How to Boost Your Workday by Changing Where You Work" caption="How to Boost Your Workday by Changing Where You Work - Photo by [Unknown Wong](https://unsplash.com/@goodchinese) on [Unsplash](https://unsplash.com/photos/black-leather-rolling-armchair-near-white-wooden-desk-bXmfBgobSMI)" >}}
 
 Here’s my laptop, right here in the garden. It’s just great to be out in nature. You can do this too. Maybe on Fridays, if your job allows it, you could ask your manager or your team if you can work remotely. These days, remote work is very common, especially on Thursdays and Fridays. You could even take a flight or a bus on Wednesday or Thursday evening and work from another country for a couple of days.
 
@@ -46,8 +44,7 @@ So, my suggestion is simple: try working from a place you love, even just once. 
 >
 > — Pierre
 
-![Young blond woman is sitting in office working with computer. She is tired after long day at work.](https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjY0MTQxN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Workday by Changing Where You Work")
-*How to Boost Your Workday by Changing Where You Work - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)*
+{{< figure src="https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjY0MTQxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Young blond woman is sitting in office working with computer. She is tired after long day at work." title="How to Boost Your Workday by Changing Where You Work" caption="How to Boost Your Workday by Changing Where You Work - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)" >}}
 
 ---
 

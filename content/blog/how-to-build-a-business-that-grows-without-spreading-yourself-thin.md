@@ -12,8 +12,7 @@ original_title = "Bâtir un business minimaliste 💁"
 source_medium = "https://medium.com/@phenrysay/95106202c01e"
 +++
 
-![A minimal home office work space](https://images.unsplash.com/photo-1655988940601-7702d8685f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwYnVzaW5lc3MlMjBlbnRyZXByZW5ldXJzaGlwJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzU3NDYzMjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Business That Grows Without Spreading Yourself Thin")
-*How to Build a Business That Grows Without Spreading Yourself Thin - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/a-laptop-on-a-table-Z_pg_rltaKE)*
+{{< figure src="https://images.unsplash.com/photo-1655988940601-7702d8685f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwYnVzaW5lc3MlMjBlbnRyZXByZW5ldXJzaGlwJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzU3NDYzMjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A minimal home office work space" title="How to Build a Business That Grows Without Spreading Yourself Thin" caption="How to Build a Business That Grows Without Spreading Yourself Thin - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/a-laptop-on-a-table-Z_pg_rltaKE)" >}}
 
 Many people dream of starting a business, but often, the temptation is to do too much at once. You might want to launch several products, open new lines, or try every marketing trick you hear about. The result? You end up scattered, with your attention split in too many directions. Instead of moving forward, you feel stuck, weighed down by all the things you’re trying to juggle.
 
@@ -23,8 +22,7 @@ Think about it like packing for a trip. If you bring a huge suitcase filled with
 
 When it comes to the practical side, you can use simple tools to keep things organized. For example, online accounting services are easy to find and use. Just search for a cloud accounting service, and you’ll have your finances sorted without any fuss. For your online courses or digital products, pick one platform—like Podia or Teachable—and stick with it. Don’t spread your content across a dozen places.
 
-![Home Sweet Home](https://images.unsplash.com/photo-1502921451607-29fa99d270d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXN0JTIwYnVzaW5lc3MlMjBlbnRyZXByZW5ldXJzaGlwJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzU3NDYzMjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Business That Grows Without Spreading Yourself Thin")
-*How to Build a Business That Grows Without Spreading Yourself Thin - Photo by [Liana Mikah](https://unsplash.com/@lianamikah) on [Unsplash](https://unsplash.com/photos/white-wooden-side-table-beside-white-wall-GUroRwA99SU)*
+{{< figure src="https://images.unsplash.com/photo-1502921451607-29fa99d270d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXN0JTIwYnVzaW5lc3MlMjBlbnRyZXByZW5ldXJzaGlwJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzU3NDYzMjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Home Sweet Home" title="How to Build a Business That Grows Without Spreading Yourself Thin" caption="How to Build a Business That Grows Without Spreading Yourself Thin - Photo by [Liana Mikah](https://unsplash.com/@lianamikah) on [Unsplash](https://unsplash.com/photos/white-wooden-side-table-beside-white-wall-GUroRwA99SU)" >}}
 
 Marketing is the same. Choose one channel that works for you, whether it’s email, social media, or something else. Focus your efforts there instead of trying to be everywhere at once. One good channel is enough if you use it well.
 
@@ -42,8 +40,7 @@ Over the years, you’ll improve your product. Maybe you’ll release version 3 
 
 ## Key Takeaways
 
-![Photo by Taylor Heery](https://images.unsplash.com/photo-1657758036460-d520473e9039?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXN0JTIwYnVzaW5lc3MlMjBlbnRyZXByZW5ldXJzaGlwJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzU3NDYzMjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Business That Grows Without Spreading Yourself Thin")
-*How to Build a Business That Grows Without Spreading Yourself Thin - Photo by [Taylor Heery](https://unsplash.com/@taylorheeryphoto) on [Unsplash](https://unsplash.com/photos/a-room-with-shelves-and-a-table-m7k64SEl9Ig)*
+{{< figure src="https://images.unsplash.com/photo-1657758036460-d520473e9039?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXN0JTIwYnVzaW5lc3MlMjBlbnRyZXByZW5ldXJzaGlwJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzU3NDYzMjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A room with shelves and a table" title="How to Build a Business That Grows Without Spreading Yourself Thin" caption="How to Build a Business That Grows Without Spreading Yourself Thin - Photo by [Taylor Heery](https://unsplash.com/@taylorheeryphoto) on [Unsplash](https://unsplash.com/photos/a-room-with-shelves-and-a-table-m7k64SEl9Ig)" >}}
 
 - *Focus on one thing in your business to avoid spreading yourself too thin.*
 - *Use simple tools and platforms—one for each need is enough.*

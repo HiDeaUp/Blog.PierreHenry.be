@@ -12,8 +12,7 @@ original_title = "Les 3 clés qui m'ont permis de RÉUSSIR : Je dévoile TOUT"
 source_medium = "https://medium.com/@phenrysay/53ff1026539e"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTc3MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed by Changing Just 3 Daily Habits")
-*How to Succeed by Changing Just 3 Daily Habits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTc3MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Succeed by Changing Just 3 Daily Habits" caption="How to Succeed by Changing Just 3 Daily Habits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 Success isn’t just about big goals or grand gestures. Often, it’s the small, daily habits that quietly shape our lives and push us forward. Today, I want to share with you the three essential keys that helped me move ahead, surpass myself, and, ultimately, succeed.
 
@@ -29,8 +28,7 @@ Sleep is like a reset button—it separates one day from the next. Even if yeste
 
 ## 2. Reduce Friction to Make Tasks Easier
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTc3MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed by Changing Just 3 Daily Habits")
-*How to Succeed by Changing Just 3 Daily Habits - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTc3MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Succeed by Changing Just 3 Daily Habits" caption="How to Succeed by Changing Just 3 Daily Habits - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 If you keep putting off a task, the problem isn’t you—it’s how you see the task. Sometimes, a simple change of environment can make all the difference. Try working somewhere else: a café, a co-working space, even an airport lounge if you’re traveling. You might find it easier to get started when you’re not stuck in the same old place.
 
@@ -52,8 +50,7 @@ If you start applying just these three keys, you’ll notice a real difference i
 
 ---
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTc3MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed by Changing Just 3 Daily Habits")
-*How to Succeed by Changing Just 3 Daily Habits - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTc3MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Succeed by Changing Just 3 Daily Habits" caption="How to Succeed by Changing Just 3 Daily Habits - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 ## Key Takeaways
 

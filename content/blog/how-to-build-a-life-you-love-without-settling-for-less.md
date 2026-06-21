@@ -12,8 +12,7 @@ original_title = "Peut-on avoir une vie kiffante ?"
 source_medium = "https://medium.com/@phenrysay/e6bdfced1d99"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBmdWxmaWxsbWVudCUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2ODUxNjI4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Settling for Less")
-*How to Build a Life You Love Without Settling for Less - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBmdWxmaWxsbWVudCUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2ODUxNjI4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Build a Life You Love Without Settling for Less" caption="How to Build a Life You Love Without Settling for Less - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 How often do you find yourself dreading Monday mornings? Maybe you wake up, sigh, and think, “Here we go again.” You drag yourself to a job that doesn’t excite you, and by the end of the day, you feel like you’ve just gone through the motions. It’s easy to fall into this routine, but it’s not the only way to live.
 
@@ -27,8 +26,7 @@ One idea is to move somewhere with a lower cost of living. Places like Indonesia
 
 You don’t have to commit forever. Try living in a new place for a few weeks or a month. Rent an Airbnb, see how it feels, and start working on your dream job from there. Over time, as you earn more, you can move to other places if you want. This is just one way to make a change.
 
-![Happy Heart Happy Face Concept](https://images.unsplash.com/photo-1634911059332-0cc49b1ae86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBmdWxmaWxsbWVudCUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2ODUxNjI4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Settling for Less")
-*How to Build a Life You Love Without Settling for Less - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-fygIoiCC06o)*
+{{< figure src="https://images.unsplash.com/photo-1634911059332-0cc49b1ae86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBmdWxmaWxsbWVudCUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2ODUxNjI4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Happy Face Concept" title="How to Build a Life You Love Without Settling for Less" caption="How to Build a Life You Love Without Settling for Less - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-fygIoiCC06o)" >}}
 
 ## Make Your Passion a Daily Habit
 
@@ -50,8 +48,7 @@ Don’t wait for the “right” time. There’s no such thing. The best moment 
 >
 > — Hugh Hefner
 
-![Happy Heart Concept](https://images.unsplash.com/photo-1625416360482-1f219bf855ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBmdWxmaWxsbWVudCUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2ODUxNjI4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Settling for Less")
-*How to Build a Life You Love Without Settling for Less - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/yellow-and-red-smiley-face-JHG8W-YYnpU)*
+{{< figure src="https://images.unsplash.com/photo-1625416360482-1f219bf855ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBmdWxmaWxsbWVudCUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2ODUxNjI4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Concept" title="How to Build a Life You Love Without Settling for Less" caption="How to Build a Life You Love Without Settling for Less - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/yellow-and-red-smiley-face-JHG8W-YYnpU)" >}}
 
 ---
 

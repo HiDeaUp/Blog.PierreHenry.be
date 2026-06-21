@@ -12,8 +12,7 @@ original_title = "Comment se (re)découvrir ? VIE par DÉFAUT VS vie CHOISIE"
 source_medium = "https://medium.com/@phenrysay/8e8a40af3083"
 +++
 
-![Photo by Dawn Lio](https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW50ZW50aW9uYWwlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NTY1NTY2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Choose Your Life Instead of Living on Autopilot")
-*How to Choose Your Life Instead of Living on Autopilot - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)*
+{{< figure src="https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW50ZW50aW9uYWwlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NTY1NTY2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden log with yellow flower" title="How to Choose Your Life Instead of Living on Autopilot" caption="How to Choose Your Life Instead of Living on Autopilot - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)" >}}
 
 Have you ever stopped to wonder if the life you’re living is really yours? Not just the one you ended up with, but the one you would choose if you could start fresh? Redefining yourself is more than a buzzword. It’s about learning who you are all over again, and that’s a journey worth taking.
 
@@ -25,8 +24,7 @@ That’s why it’s so important to question yourself, to redefine who you are. 
 
 Travel is one of the best ways to open your mind. I spent years living in hostels, meeting people from all walks of life. Later, I stayed in luxury hotels, so I’ve seen both sides. Hostels are amazing for meeting people—everyone is warm, open, and ready to connect. In Australia, I stayed in places called summer houses, a kind of hostel where you can rent bikes, take yoga classes, even teach French in exchange for free lodging. Days by the pool, evenings with friends, sharing stories—it’s a special time, but it’s just a phase. Eventually, you move on, you grow older, and you want something different.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW50ZW50aW9uYWwlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NTY1NTY2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Choose Your Life Instead of Living on Autopilot")
-*How to Choose Your Life Instead of Living on Autopilot - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW50ZW50aW9uYWwlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NTY1NTY2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Choose Your Life Instead of Living on Autopilot" caption="How to Choose Your Life Instead of Living on Autopilot - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 Seeing new things is vital. It keeps you curious and helps you keep learning about yourself. I love to travel and discover new places. I once visited Maison 800 DS, a stunning spot that still inspires me. Heaven Beach, with its pure sand, is another place that left a mark on me. I took so many photos, but nothing compares to being there in person.
 
@@ -44,8 +42,7 @@ So, redefine what you want. Choose a life that excites you, that feels right for
 > _Your life does not get better by chance, it gets better by change._
 — Jim Rohn
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW50ZW50aW9uYWwlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NTY1NTY2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Choose Your Life Instead of Living on Autopilot")
-*How to Choose Your Life Instead of Living on Autopilot - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW50ZW50aW9uYWwlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NTY1NTY2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Choose Your Life Instead of Living on Autopilot" caption="How to Choose Your Life Instead of Living on Autopilot - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Change tes perceptions pour investis dans ton futur ?"
 source_medium = "https://medium.com/@phenrysay/bf1cf9df8d43"
 +++
 
-![Lost in future](https://images.unsplash.com/photo-1485740112426-0c2549fa8c86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBmdXR1cmUlMjBpbnZlc3RtZW50fGVufDB8MHx8fDE3NDkzOTM2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Perspective Without Relying on Technology")
-*How to Change Your Perspective Without Relying on Technology - Photo by [Tomasz Frankowski](https://unsplash.com/@sunlifter) on [Unsplash](https://unsplash.com/photos/gray-conveyor-between-glass-frames-at-nighttime-kBUfvkbFIoE)*
+{{< figure src="https://images.unsplash.com/photo-1485740112426-0c2549fa8c86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBmdXR1cmUlMjBpbnZlc3RtZW50fGVufDB8MHx8fDE3NDkzOTM2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Lost in future" title="How to Change Your Perspective Without Relying on Technology" caption="How to Change Your Perspective Without Relying on Technology - Photo by [Tomasz Frankowski](https://unsplash.com/@sunlifter) on [Unsplash](https://unsplash.com/photos/gray-conveyor-between-glass-frames-at-nighttime-kBUfvkbFIoE)" >}}
 
 Have you ever wondered how your imagination could actually help you today? How you could use it to see your life, your surroundings, and even yourself differently? We all wear our own pair of glasses—our unique way of seeing and understanding any situation. That’s why we all react so differently to the same event. The way we translate what we see in our minds sends signals to our emotions, and that shapes our reactions.
 
@@ -25,8 +24,7 @@ But if you use technology to help you grow, to do more, to reach higher in both 
 
 When you see new things like AI tools coming your way, ask yourself: “How can I use these to be smarter, not to become their slave?” That’s the key. Use what’s available to do bigger things, to lift yourself up, so the world will always need you—not just as someone who follows orders, but as someone who thinks wider and deeper.
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBmdXR1cmUlMjBpbnZlc3RtZW50fGVufDB8MHx8fDE3NDkzOTM2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Perspective Without Relying on Technology")
-*How to Change Your Perspective Without Relying on Technology - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBmdXR1cmUlMjBpbnZlc3RtZW50fGVufDB8MHx8fDE3NDkzOTM2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Change Your Perspective Without Relying on Technology" caption="How to Change Your Perspective Without Relying on Technology - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Always keep this in mind: How can I use these tools? How can I be more productive, not just to do more, but to do what really matters? This is how you raise your standards, achieve more, and feel more fulfilled. The more fulfilled and happy you are, the more positive energy you’ll have to keep moving forward.
 
@@ -43,8 +41,7 @@ People who stand out are those who know their field well and innovate in it. Tha
 > *“We see the world not as it is, but as we are.”*  
 > — Anaïs Nin
 
-![White robot human features](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBmdXR1cmUlMjBpbnZlc3RtZW50fGVufDB8MHx8fDE3NDkzOTM2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Perspective Without Relying on Technology")
-*How to Change Your Perspective Without Relying on Technology - Photo by [Alex Knight](https://unsplash.com/@agk42) on [Unsplash](https://unsplash.com/photos/white-robot-near-brown-wall-2EJCSULRwC8)*
+{{< figure src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBmdXR1cmUlMjBpbnZlc3RtZW50fGVufDB8MHx8fDE3NDkzOTM2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White robot human features" title="How to Change Your Perspective Without Relying on Technology" caption="How to Change Your Perspective Without Relying on Technology - Photo by [Alex Knight](https://unsplash.com/@agk42) on [Unsplash](https://unsplash.com/photos/white-robot-near-brown-wall-2EJCSULRwC8)" >}}
 
 > *“The mind is everything. What you think, you become.”*  
 > — Buddha

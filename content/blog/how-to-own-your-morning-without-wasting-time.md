@@ -12,8 +12,7 @@ original_title = "Se transformer pour accomplir ses tâches avec plus de facili
 source_medium = "https://medium.com/@phenrysay/cd75a547b4ff"
 +++
 
-![Photo by David Mao](https://images.unsplash.com/photo-1422433555807-2559a27433bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzMjU0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Own Your Morning Without Wasting Time")
-*How to Own Your Morning Without Wasting Time - Photo by [David Mao](https://unsplash.com/@itsdavo) on [Unsplash](https://unsplash.com/photos/green-ceramic-mug-on-wooden-desk-m0l5J8Lqnzo)*
+{{< figure src="https://images.unsplash.com/photo-1422433555807-2559a27433bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzMjU0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green ceramic mug on wooden desk" title="How to Own Your Morning Without Wasting Time" caption="How to Own Your Morning Without Wasting Time - Photo by [David Mao](https://unsplash.com/@itsdavo) on [Unsplash](https://unsplash.com/photos/green-ceramic-mug-on-wooden-desk-m0l5J8Lqnzo)" >}}
 
 Have you ever noticed how the way you start your morning sets the tone for your entire day? There’s something powerful about jumping in, moving your body, and giving yourself a boost of energy right from the start. Even Tony Robbins talks about this in his documentary—how a bit of movement or a motivating playlist can wake you up and get you ready to tackle what matters most.
 
@@ -23,8 +22,7 @@ Imagine if you used just ten minutes each morning to work on something that matt
 
 Think about what you could learn or do with those minutes. Maybe you want to pick up a new language, try diving, sing, build software, or learn marketing. Maybe there’s a tool you’ve always wanted to master. Ask yourself: if I knew how to use this tool, what new doors would open for me? When you start to see all the opportunities around you, it gets exciting. You realize you can do things that used to hold you back.
 
-![…breathe! For a full size digital copy (6000x4000px RAW+JPG) of this file, or a high quality print, please contact me via instagram: @timothy.j.g, or email: tim@goedhart-lin.nl That file would be free to use for any means except direct reselling (copywrite is included in metadata). When using this free image online: please tag, credit and if you want, follow me on Instagram.](https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzMjU0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Own Your Morning Without Wasting Time")
-*How to Own Your Morning Without Wasting Time - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)*
+{{< figure src="https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzMjU0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe neon signage" title="How to Own Your Morning Without Wasting Time" caption="How to Own Your Morning Without Wasting Time - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)" >}}
 
 We all need a challenge. Without one, life feels flat—like you’re stuck in the same place. And stagnation is a bit like being stuck in a rut. If you’re not moving forward, you’re not really living. Progress, even in small steps, brings pride and gratitude for yourself.
 
@@ -40,8 +38,7 @@ Remember, the best time to take action is today. Not tomorrow, not later—right
 
 ---
 
-![Hopeful Horizons](https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzMjU0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Own Your Morning Without Wasting Time")
-*How to Own Your Morning Without Wasting Time - Photo by [Dawid Zawiła](https://unsplash.com/@davealmine) on [Unsplash](https://unsplash.com/photos/trees-under-cloudy-sky-during-sunset--G3rw6Y02D0)*
+{{< figure src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzMjU0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Hopeful Horizons" title="How to Own Your Morning Without Wasting Time" caption="How to Own Your Morning Without Wasting Time - Photo by [Dawid Zawiła](https://unsplash.com/@davealmine) on [Unsplash](https://unsplash.com/photos/trees-under-cloudy-sky-during-sunset--G3rw6Y02D0)" >}}
 
 ## Key Takeaways
 - Use your mornings for yourself before giving your time to others.

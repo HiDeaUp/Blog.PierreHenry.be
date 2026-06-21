@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/8304722bf060"
 source_youtube = "https://www.youtube.com/watch?v=fRxJDafGSJQ"
 +++
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3Njc5MzE0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Your Best Self Without Waiting for Big Changes")
-*How to Become Your Best Self Without Waiting for Big Changes - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3Njc5MzE0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Become Your Best Self Without Waiting for Big Changes" caption="How to Become Your Best Self Without Waiting for Big Changes - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 Every day is a new chance to rise above your old habits and become a better version of yourself. It’s not just about big changes or waiting for some magical moment. Growth happens in the small things, in how you organize your day, in how you handle your routine, and in the way you treat yourself as you move forward.
 
@@ -26,8 +25,7 @@ After that, you might look at your list and see another important project waitin
 
 If you’re working on something really big, something that marks a major milestone, then your reward should match the effort. Maybe you buy yourself a new phone, a watch, or something meaningful. The point is to mark your progress with something that feels significant.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3Njc5MzE0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Your Best Self Without Waiting for Big Changes")
-*How to Become Your Best Self Without Waiting for Big Changes - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3Njc5MzE0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Become Your Best Self Without Waiting for Big Changes" caption="How to Become Your Best Self Without Waiting for Big Changes - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 > _Discipline is the bridge between goals and accomplishment._
 > —Jim Rohn
@@ -45,8 +43,7 @@ So go for it. Give it your all. I’m cheering you on, one hundred percent.
 
 ---
 
-![Photo by Tu Tran Anh](https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3Njc5MzE0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Your Best Self Without Waiting for Big Changes")
-*How to Become Your Best Self Without Waiting for Big Changes - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)*
+{{< figure src="https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3Njc5MzE0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a bench with plants growing out of it" title="How to Become Your Best Self Without Waiting for Big Changes" caption="How to Become Your Best Self Without Waiting for Big Changes - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)" >}}
 
 ## Key Takeaways
 

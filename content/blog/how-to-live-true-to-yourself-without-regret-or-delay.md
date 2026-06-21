@@ -12,8 +12,7 @@ original_title = "CARPE DIEM : Mon message urgent pour une VIE SANS REGRETS"
 source_medium = "https://medium.com/@phenrysay/bb2f29da31d3"
 +++
 
-![Siberian Summer](https://images.unsplash.com/photo-1670820193248-80a609309750?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYXJwZSUyMGRpZW0lMjBsaXZpbmclMjB3aXRob3V0JTIwcmVncmV0cyUyMHNlbGYtZGlzY292ZXJ5fGVufDB8MHx8fDE3NTU0MjE3NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live True to Yourself Without Regret or Delay")
-*How to Live True to Yourself Without Regret or Delay - Photo by [Mihail Tregubov](https://unsplash.com/@tregubov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-in-front-of-a-body-of-water-VmN75MSrI70)*
+{{< figure src="https://images.unsplash.com/photo-1670820193248-80a609309750?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYXJwZSUyMGRpZW0lMjBsaXZpbmclMjB3aXRob3V0JTIwcmVncmV0cyUyMHNlbGYtZGlzY292ZXJ5fGVufDB8MHx8fDE3NTU0MjE3NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Siberian Summer" title="How to Live True to Yourself Without Regret or Delay" caption="How to Live True to Yourself Without Regret or Delay - Photo by [Mihail Tregubov](https://unsplash.com/@tregubov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-in-front-of-a-body-of-water-VmN75MSrI70)" >}}
 
 Living a simple life—what does that really mean? Today, I want to share a few thoughts about building a life that truly speaks to you. Too often, we chase after things just because they’re trendy or because everyone else seems to be doing them. We collect degrees, aim for the most prestigious job, dream of starting a company, making more money, buying the biggest house, having the perfect family, driving the nicest car, or moving to the “ideal” country. But is that really what you want?
 
@@ -25,8 +24,7 @@ For me, I find joy in small things—like developing an app. I use AI, especiall
 
 The point is, do things that make you happy. Do things you love. Do things that make you feel alive. It sounds cliché, but it’s true. When you do what really matches your own desires, you stop living to impress others—especially people you don’t even care about. Too many people live a life that’s chosen or shaped by others, without ever asking themselves the right questions. One day, maybe in ten or twenty years, you might wake up and realize it’s too late.
 
-![https://www.instagram.com/szvmanski/](https://images.unsplash.com/photo-1528323171441-74624897e640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYXJwZSUyMGRpZW0lMjBsaXZpbmclMjB3aXRob3V0JTIwcmVncmV0cyUyMHNlbGYtZGlzY292ZXJ5fGVufDB8MHx8fDE3NTU0MjE3NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live True to Yourself Without Regret or Delay")
-*How to Live True to Yourself Without Regret or Delay - Photo by [pawel szvmanski](https://unsplash.com/@szvmanski) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-tree-log-facing-at-body-of-water-FupN8wMtDSQ)*
+{{< figure src="https://images.unsplash.com/photo-1528323171441-74624897e640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYXJwZSUyMGRpZW0lMjBsaXZpbmclMjB3aXRob3V0JTIwcmVncmV0cyUyMHNlbGYtZGlzY292ZXJ5fGVufDB8MHx8fDE3NTU0MjE3NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="https://www.instagram.com/szvmanski/" title="How to Live True to Yourself Without Regret or Delay" caption="How to Live True to Yourself Without Regret or Delay - Photo by [pawel szvmanski](https://unsplash.com/@szvmanski) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-tree-log-facing-at-body-of-water-FupN8wMtDSQ)" >}}
 
 Time never stops. It’s like a train that never slows down. You can’t go back. Time is the most precious resource we have. So act now. Make the right choices now, so you can have a life that fits you—a life you love. A life that makes you say, “Wow, this is really the kind of life that makes me feel alive.”
 
@@ -44,8 +42,7 @@ Don’t put off your dreams. There’s no better time than today. If you think y
 
 Every evening, ask yourself: What did I do today that made me happy? What didn’t I like? Write it down. The next morning, look at your list. Decide what you want to do more of, and what you want to stop doing. Day by day, you’ll improve your life. It’s a snowball effect. Over time, your days and your standards will get better—and that will change everything.
 
-![Èze views](https://images.unsplash.com/photo-1491382825904-a4c6dca98e8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYXJwZSUyMGRpZW0lMjBsaXZpbmclMjB3aXRob3V0JTIwcmVncmV0cyUyMHNlbGYtZGlzY292ZXJ5fGVufDB8MHx8fDE3NTU0MjE3NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live True to Yourself Without Regret or Delay")
-*How to Live True to Yourself Without Regret or Delay - Photo by [Joshua Earle](https://unsplash.com/@joshuaearle) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-standing-on-sea-dock-under-cloudy-sky-g1TWbj5XYb4)*
+{{< figure src="https://images.unsplash.com/photo-1491382825904-a4c6dca98e8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYXJwZSUyMGRpZW0lMjBsaXZpbmclMjB3aXRob3V0JTIwcmVncmV0cyUyMHNlbGYtZGlzY292ZXJ5fGVufDB8MHx8fDE3NTU0MjE3NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Èze views" title="How to Live True to Yourself Without Regret or Delay" caption="How to Live True to Yourself Without Regret or Delay - Photo by [Joshua Earle](https://unsplash.com/@joshuaearle) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-standing-on-sea-dock-under-cloudy-sky-g1TWbj5XYb4)" >}}
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >

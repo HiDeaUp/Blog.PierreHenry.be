@@ -12,8 +12,7 @@ original_title = "Belle VIE. Clés pour la vivre !"
 source_medium = "https://medium.com/@phenrysay/40aca47364d8"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWJlbGllZiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYwMTcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Trusting Your Choices Leads to a Beautiful Life")
-*How Trusting Your Choices Leads to a Beautiful Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWJlbGllZiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYwMTcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How Trusting Your Choices Leads to a Beautiful Life" caption="How Trusting Your Choices Leads to a Beautiful Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever noticed how much changes the moment you start believing in your own decisions? When you trust your projects and the things you do every day, you give yourself the chance to truly move forward. It’s not just about having a plan; it’s about knowing your project inside out, believing in it, and, most importantly, believing in yourself. This confidence is the real game changer.
 
@@ -25,8 +24,7 @@ Doubt is a sneaky enemy. If you let it take over, you’ll end up reflecting tha
 
 Try saying, “I am smart,” “I am attractive,” “I am on the path to success.” These words put you in the right mindset to achieve what you want. A beautiful life is really about having control over your days. A successful life is just a collection of good days—days that make you happy. If you fill your life with days you enjoy, you’ve already succeeded.
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWJlbGllZiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYwMTcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Trusting Your Choices Leads to a Beautiful Life")
-*How Trusting Your Choices Leads to a Beautiful Life - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWJlbGllZiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYwMTcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How Trusting Your Choices Leads to a Beautiful Life" caption="How Trusting Your Choices Leads to a Beautiful Life - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 The real regret at the end of life isn’t about what you did, but what you didn’t do. If you chase your dreams, you won’t have regrets. That’s why it’s so important to believe in them. No matter how hard things get, if you want something badly enough, you’ll find a way to make it happen.
 
@@ -44,8 +42,7 @@ The only real limit is the one you set in your mind. Once you realize this, you 
 > _“A successful life is just a collection of good days.”_  
 — Jim Rohn
 
-![Photo by Wolfgang Hasselmann](https://images.unsplash.com/photo-1551713293-c97632294f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWJlbGllZiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYwMTcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Trusting Your Choices Leads to a Beautiful Life")
-*How Trusting Your Choices Leads to a Beautiful Life - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-petaled-flower-in-selective-focus-photography-R5xy3c7KN94)*
+{{< figure src="https://images.unsplash.com/photo-1551713293-c97632294f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWJlbGllZiUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbGlmZSUyMHRyYW5zZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYwMTcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow petaled flower in focus" title="How Trusting Your Choices Leads to a Beautiful Life" caption="How Trusting Your Choices Leads to a Beautiful Life - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-petaled-flower-in-selective-focus-photography-R5xy3c7KN94)" >}}
 
 ---
 

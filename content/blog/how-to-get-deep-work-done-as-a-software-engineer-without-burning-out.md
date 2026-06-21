@@ -12,8 +12,7 @@ original_title = "Be in the FLOW as a Software Engineer   Everything I learned a
 source_medium = "https://medium.com/@phenrysay/27c876f4eae9"
 +++
 
-![Female software engineer codes at her desk with computers](https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGVlcCUyMHdvcmslMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0NjMxNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Deep Work Done as a Software Engineer Without Burning Out")
-*How to Get Deep Work Done as a Software Engineer Without Burning Out - Photo by [ThisisEngineering](https://unsplash.com/@thisisengineering) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-on-white-table-uyfohHiTxho)*
+{{< figure src="https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGVlcCUyMHdvcmslMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0NjMxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Female software engineer codes at her desk with computers" title="How to Get Deep Work Done as a Software Engineer Without Burning Out" caption="How to Get Deep Work Done as a Software Engineer Without Burning Out - Photo by [ThisisEngineering](https://unsplash.com/@thisisengineering) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-on-white-table-uyfohHiTxho)" >}}
 
 Alright, let’s get into it. I’m genuinely excited to share this because, honestly, these are the things I wish someone had told me when I started out as a software engineer. Our time is so precious in this field. Every single day, there’s something new to learn, some new library or framework to figure out, and the clock is always ticking. You know how it is: you’re juggling learning, adapting, and then—bam—someone drops a new problem on your desk and expects it done yesterday.
 
@@ -35,8 +34,7 @@ Here’s something people overlook: your health directly impacts your productivi
 
 **Drink water.** Seriously. Two glasses, room temperature, before you start. It helps your brain work better. And don’t drink tap water if you can avoid it—spring water from a glass bottle is best. Plastic bottles can leach particles, and that’s not great for your brain.
 
-![IT guys looking at a coding program on a laptop and monitor](https://images.unsplash.com/photo-1637073849667-91120a924221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGVlcCUyMHdvcmslMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0NjMxNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Deep Work Done as a Software Engineer Without Burning Out")
-*How to Get Deep Work Done as a Software Engineer Without Burning Out - Photo by [Flipsnack](https://unsplash.com/@flipsnack) on [Unsplash](https://unsplash.com/photos/two-men-sitting-in-front-of-a-laptop-computer-Hp4RPL_Z6wE)*
+{{< figure src="https://images.unsplash.com/photo-1637073849667-91120a924221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGVlcCUyMHdvcmslMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0NjMxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="IT guys looking at a coding program on a laptop and monitor" title="How to Get Deep Work Done as a Software Engineer Without Burning Out" caption="How to Get Deep Work Done as a Software Engineer Without Burning Out - Photo by [Flipsnack](https://unsplash.com/@flipsnack) on [Unsplash](https://unsplash.com/photos/two-men-sitting-in-front-of-a-laptop-computer-Hp4RPL_Z6wE)" >}}
 
 Why am I talking about water in a programming article? Because if you’re not healthy, you can’t focus. If you can’t focus, you can’t do deep work. Simple.
 
@@ -63,8 +61,7 @@ Look, most productivity advice is boring and corporate. I can’t stand that. If
 
 So, take care of your health, set up your environment, use timers, take breaks, and eat clean snacks. These are the foundations. If you get these right, you’ll be able to do deep work, learn faster, and actually enjoy your job.
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGVlcCUyMHdvcmslMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0NjMxNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Deep Work Done as a Software Engineer Without Burning Out")
-*How to Get Deep Work Done as a Software Engineer Without Burning Out - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGVlcCUyMHdvcmslMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0NjMxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="How to Get Deep Work Done as a Software Engineer Without Burning Out" caption="How to Get Deep Work Done as a Software Engineer Without Burning Out - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Tirer le meilleur parti de 2024  ? 🔥"
 source_medium = "https://medium.com/@phenrysay/89abcb959578"
 +++
 
-![Photo by Kelly Sikkema](https://images.unsplash.com/photo-1703192163844-1c46f6993386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMDIwMjQlMjBnb2FscyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTU4OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Feels Right Without Burning Out")
-*How to Build a Life That Feels Right Without Burning Out - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-the-word-h2so-on-it-7RSTZg6Zm6A)*
+{{< figure src="https://images.unsplash.com/photo-1703192163844-1c46f6993386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMDIwMjQlMjBnb2FscyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTU4OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a piece of paper with the word h2so on it" title="How to Build a Life That Feels Right Without Burning Out" caption="How to Build a Life That Feels Right Without Burning Out - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-the-word-h2so-on-it-7RSTZg6Zm6A)" >}}
 
 When you think about the year ahead, it’s easy to feel overwhelmed. The world keeps moving, challenges pop up, and sometimes you just want to throw in the towel. But here’s the truth: there’s no finish line. Life is about being who you are, loving what you do, and finding peace with both. If there’s a gap between who you are and what you love, that’s a sign to pause and do some work on yourself. And yes, everyone feels this way sometimes—even me.
 
@@ -37,9 +36,7 @@ There’s a saying: only fools never change their minds. Even people who claim t
 
 Building a life you love is like stacking stones. Each day, add a small piece to your passion or your project. Over time, these small efforts multiply, just like compound interest in finance. The more you do, the faster you grow, and the more people notice and support your journey.
 
-![2020 Numbers
-](https://images.unsplash.com/photo-1605116900847-77c07153a083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMDIwMjQlMjBnb2FscyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTU4OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Feels Right Without Burning Out")
-*How to Build a Life That Feels Right Without Burning Out - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-and-black-20-print-textile-ZHUi4uX6ipY)*
+{{< figure src="https://images.unsplash.com/photo-1605116900847-77c07153a083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMDIwMjQlMjBnb2FscyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTU4OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="2020 Numbers" title="How to Build a Life That Feels Right Without Burning Out" caption="How to Build a Life That Feels Right Without Burning Out - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-and-black-20-print-textile-ZHUi4uX6ipY)" >}}
 
 But don’t just keep pushing forward blindly. Take breaks to reflect. Ask yourself if you’re heading in the right direction. Sometimes, stubbornness can lead you straight into a wall. It’s good to be persistent, but it’s even better to question yourself and pivot when needed.
 
@@ -71,8 +68,7 @@ Don’t make choices just to please others. If you always say yes to fit in, you
 
 ## Experiment and Reflect
 
-![2024,3d,3d design,3d scene,año 2024,año nuevo 2024,feliz año nuevo,feliz año nuevo 2024,happy new year,happy new year 2024,new year,new year 2024,new years,numero,numero 2024,numero 3d](https://images.unsplash.com/photo-1701170943442-b17db4c5fa50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMDIwMjQlMjBnb2FscyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTU4OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Feels Right Without Burning Out")
-*How to Build a Life That Feels Right Without Burning Out - Photo by [BoliviaInteligente](https://unsplash.com/@boliviainteligente) on [Unsplash](https://unsplash.com/photos/a-black-and-gold-maze-with-the-number-4200-in-it-ZoqFo6vuC9M)*
+{{< figure src="https://images.unsplash.com/photo-1701170943442-b17db4c5fa50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMDIwMjQlMjBnb2FscyUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjAwOTU4OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and gold maze with the number 4200 in it" title="How to Build a Life That Feels Right Without Burning Out" caption="How to Build a Life That Feels Right Without Burning Out - Photo by [BoliviaInteligente](https://unsplash.com/@boliviainteligente) on [Unsplash](https://unsplash.com/photos/a-black-and-gold-maze-with-the-number-4200-in-it-ZoqFo6vuC9M)" >}}
 
 Try new things. Take “think weeks” like Bill Gates, where you disconnect and spend time alone reflecting and planning. Even a weekend away can help you see things differently. These moments of solitude are where big ideas and real growth happen.
 

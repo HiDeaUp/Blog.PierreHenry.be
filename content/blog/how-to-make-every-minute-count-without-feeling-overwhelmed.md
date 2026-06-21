@@ -12,8 +12,7 @@ original_title = "Comment bien utiliser son temps ? Mon mode d'emploi du temps"
 source_medium = "https://medium.com/@phenrysay/ae377c26b2ff"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4NDA5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Minute Count Without Feeling Overwhelmed")
-*How to Make Every Minute Count Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4NDA5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Every Minute Count Without Feeling Overwhelmed" caption="How to Make Every Minute Count Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Finding harmony in life is essential. When we feel lost, unsure of what we want, our minds tend to spin in circles. We procrastinate, we hesitate, and as a result, we don’t move forward. But here’s the thing: while we’re standing still, time keeps moving. Time is like a train that never stops, never waits, and never turns back.
 
@@ -21,8 +20,7 @@ That’s why it’s so important to realize that every moment can be an investme
 
 Think about the hours spent watching on-demand videos or streaming movies. In those moments, you’re not just giving your attention, but also your money, to a company somewhere. Consuming content is fine, and sometimes it’s even necessary to relax or learn. But if all your time goes into consuming, what’s left for creating, for building something that matters to you?
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4NDA5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Minute Count Without Feeling Overwhelmed")
-*How to Make Every Minute Count Without Feeling Overwhelmed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4NDA5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Make Every Minute Count Without Feeling Overwhelmed" caption="How to Make Every Minute Count Without Feeling Overwhelmed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Learning is essential. Even if you’re taking lots of online courses, that’s great—you’re growing, you’re spending money to learn from others. But the real magic happens when you use what you’ve learned to do things that truly matter to you. It’s not just about absorbing knowledge; it’s about turning that knowledge into action, into projects, into a life that feels right for you.
 
@@ -38,8 +36,7 @@ The choice is always yours: will you spend your time investing in yourself, or w
 
 ---
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4NDA5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Minute Count Without Feeling Overwhelmed")
-*How to Make Every Minute Count Without Feeling Overwhelmed - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4NDA5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Make Every Minute Count Without Feeling Overwhelmed" caption="How to Make Every Minute Count Without Feeling Overwhelmed - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 ## Key Takeaways
 - Time moves forward, whether you do or not.

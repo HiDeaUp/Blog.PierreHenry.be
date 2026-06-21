@@ -12,8 +12,7 @@ original_title = "Routine EFFICACE (pour RÉALISER TOUS TES RÊVES)"
 source_medium = "https://medium.com/@phenrysay/23316f48cdcb"
 +++
 
-![Messy bed and closed blinds](https://images.unsplash.com/photo-1429117237875-aa29229d99f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwc2xlZXAlMjBzY2hlZHVsZSUyMGNvbnNpc3RlbmN5fGVufDB8MHx8fDE3NDkzMDQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Routine That Works—Without Losing Sleep on Weekends")
-*How to Build a Routine That Works—Without Losing Sleep on Weekends - Photo by [Quin Stevenson](https://unsplash.com/@qstevenson) on [Unsplash](https://unsplash.com/photos/empty-white-and-gray-bed-set-3oyeaivM_fE)*
+{{< figure src="https://images.unsplash.com/photo-1429117237875-aa29229d99f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwc2xlZXAlMjBzY2hlZHVsZSUyMGNvbnNpc3RlbmN5fGVufDB8MHx8fDE3NDkzMDQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Messy bed and closed blinds" title="How to Build a Routine That Works—Without Losing Sleep on Weekends" caption="How to Build a Routine That Works—Without Losing Sleep on Weekends - Photo by [Quin Stevenson](https://unsplash.com/@qstevenson) on [Unsplash](https://unsplash.com/photos/empty-white-and-gray-bed-set-3oyeaivM_fE)" >}}
 
 When it comes to building a routine that truly helps you reach your goals, there’s one thing that stands out above all: consistency, especially with your sleep. It’s not just about what you do during the day, but about going to bed and waking up at the same time every single day. This is the foundation that supports everything else.
 
@@ -23,8 +22,7 @@ I remember when I worked in a big office building in Sydney. They had showers, a
 
 That’s the thing: your body loves regularity. If you stick to your schedule, you’ll notice that after a while, you’ll start waking up a few minutes before your alarm even goes off. It’s like your body is on autopilot. In winter, when it’s cold and you feel tired, force yourself to get up and go out, maybe to a café. Don’t let yourself crawl back into bed, especially if your partner is still sleeping. It’s tempting, but you know what’s best for you.
 
-![On a very cold, gloomy weekend, after receiving some distressing news… this face.](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwc2xlZXAlMjBzY2hlZHVsZSUyMGNvbnNpc3RlbmN5fGVufDB8MHx8fDE3NDkzMDQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Routine That Works—Without Losing Sleep on Weekends")
-*How to Build a Routine That Works—Without Losing Sleep on Weekends - Photo by [Kate Stone Matheson](https://unsplash.com/@dreadpiratekato) on [Unsplash](https://unsplash.com/photos/white-cat-sleeps-under-white-comforter-uy5t-CJuIK4)*
+{{< figure src="https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwc2xlZXAlMjBzY2hlZHVsZSUyMGNvbnNpc3RlbmN5fGVufDB8MHx8fDE3NDkzMDQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="On a very cold, gloomy weekend, after receiving some distressing news… this face." title="How to Build a Routine That Works—Without Losing Sleep on Weekends" caption="How to Build a Routine That Works—Without Losing Sleep on Weekends - Photo by [Kate Stone Matheson](https://unsplash.com/@dreadpiratekato) on [Unsplash](https://unsplash.com/photos/white-cat-sleeps-under-white-comforter-uy5t-CJuIK4)" >}}
 
 Personally, if I wake up late, I feel like my whole day is wasted. And once you start making exceptions, it becomes a slippery slope. One exception leads to another, and soon you’ve lost your rhythm. That’s why I have a strict rule: no exceptions. If you’re tired, go to bed earlier, but never wake up later. This is for your own good.
 
@@ -40,8 +38,7 @@ Keeping a steady routine isn’t just about productivity. It’s about your heal
 
 ---
 
-![Get Some Sleep](https://images.unsplash.com/photo-1488015795646-7e22a773d72a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwc2xlZXAlMjBzY2hlZHVsZSUyMGNvbnNpc3RlbmN5fGVufDB8MHx8fDE3NDkzMDQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Routine That Works—Without Losing Sleep on Weekends")
-*How to Build a Routine That Works—Without Losing Sleep on Weekends - Photo by [Sabri Tuzcu](https://unsplash.com/@sabrituzcu) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-brown-tabby-kitten-on-couch-KHBvwAnWFmc)*
+{{< figure src="https://images.unsplash.com/photo-1488015795646-7e22a773d72a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwc2xlZXAlMjBzY2hlZHVsZSUyMGNvbnNpc3RlbmN5fGVufDB8MHx8fDE3NDkzMDQ4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Get Some Sleep" title="How to Build a Routine That Works—Without Losing Sleep on Weekends" caption="How to Build a Routine That Works—Without Losing Sleep on Weekends - Photo by [Sabri Tuzcu](https://unsplash.com/@sabrituzcu) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-brown-tabby-kitten-on-couch-KHBvwAnWFmc)" >}}
 
 ## Key Takeaways
 - Go to bed and wake up at the same time every day, even on weekends.

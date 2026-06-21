@@ -12,8 +12,7 @@ original_title = "Vas-y ! Passe à l'action avec l'active learning !💡"
 source_medium = "https://medium.com/@phenrysay/57bee45084b6"
 +++
 
-![Photo by Aleksandar Andreev](https://images.unsplash.com/photo-1717689410820-dc9566fb4b12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhY3RpdmUlMjBsZWFybmluZyUyMHRha2UlMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTAyODh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Faster WITHOUT Just Watching Videos")
-*How to Learn Faster WITHOUT Just Watching Videos - Photo by [Aleksandar Andreev](https://unsplash.com/@andreevaleksandar) on [Unsplash](https://unsplash.com/photos/a-group-of-young-men-playing-a-game-of-frisbee-8ddkJFQ_sNc)*
+{{< figure src="https://images.unsplash.com/photo-1717689410820-dc9566fb4b12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhY3RpdmUlMjBsZWFybmluZyUyMHRha2UlMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTAyODh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of young men playing a game of frisbee" title="How to Learn Faster WITHOUT Just Watching Videos" caption="How to Learn Faster WITHOUT Just Watching Videos - Photo by [Aleksandar Andreev](https://unsplash.com/@andreevaleksandar) on [Unsplash](https://unsplash.com/photos/a-group-of-young-men-playing-a-game-of-frisbee-8ddkJFQ_sNc)" >}}
 
 Have you ever noticed how easy it is to sit back and watch videos, documentaries, or even inspiring stories, yet never actually do anything with what you’ve learned? It’s comfortable. You’re on your couch, maybe with a coffee, and you feel like you’re learning. But here’s the truth: nothing really sticks in your mind until you put it into practice. When you take action, the information gets reinforced in your brain. That’s how real learning happens.
 
@@ -23,8 +22,7 @@ It’s the experiences that matter most. Building your own life story is what ch
 
 Let’s say you watch a documentary about a country that fascinates you. Instead of just dreaming, check if you can take a couple of weeks off work. Maybe you’ve saved up some vacation time. Why not use it? Sometimes, we tell ourselves it’s impossible because of work, family, or other obligations. But if something is truly important to you—if it feels as essential as oxygen—you’ll find a way. And if the people around you don’t understand, maybe it’s time to ask yourself if they’re really supporting your growth.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live, learn, love, life, live life, live learn love, keep learning, stay open, holistic, mindfulness, loving, learning, living, ](https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhY3RpdmUlMjBsZWFybmluZyUyMHRha2UlMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTAyODh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Faster WITHOUT Just Watching Videos")
-*How to Learn Faster WITHOUT Just Watching Videos - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)*
+{{< figure src="https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhY3RpdmUlMjBsZWFybmluZyUyMHRha2UlMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTAyODh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Learn Faster WITHOUT Just Watching Videos" caption="How to Learn Faster WITHOUT Just Watching Videos - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)" >}}
 
 Don’t put your dreams off for “the right moment.” That moment never comes. The best time is always now. There’s a Chinese proverb that says the best time to plant a tree was twenty years ago. The second-best time is today. If you start now, in twenty years you’ll be glad you did. It’s like compound interest: the sooner you start, the more it grows. The same goes for your experiences and your personal growth.
 
@@ -40,8 +38,7 @@ I’ll be honest with you—I’m tired today. I barely slept last night, and I 
 
 ## Key Takeaways
 
-![Photo by Aleksandar Andreev](https://images.unsplash.com/photo-1717689410647-ccef636c0dd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhY3RpdmUlMjBsZWFybmluZyUyMHRha2UlMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTAyODh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Faster WITHOUT Just Watching Videos")
-*How to Learn Faster WITHOUT Just Watching Videos - Photo by [Aleksandar Andreev](https://unsplash.com/@andreevaleksandar) on [Unsplash](https://unsplash.com/photos/a-group-of-children-holding-hands-in-a-park-lbA4PElMsQk)*
+{{< figure src="https://images.unsplash.com/photo-1717689410647-ccef636c0dd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhY3RpdmUlMjBsZWFybmluZyUyMHRha2UlMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTAyODh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of holding hands in a park" title="How to Learn Faster WITHOUT Just Watching Videos" caption="How to Learn Faster WITHOUT Just Watching Videos - Photo by [Aleksandar Andreev](https://unsplash.com/@andreevaleksandar) on [Unsplash](https://unsplash.com/photos/a-group-of-children-holding-hands-in-a-park-lbA4PElMsQk)" >}}
 
 - *Learning is only real when you put it into action.*
 - *Your experiences are what make your life meaningful.*

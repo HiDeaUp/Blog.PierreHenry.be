@@ -12,8 +12,7 @@ original_title = "La retraite en mode “learning” 🚀"
 source_medium = "https://medium.com/@phenrysay/503967593280"
 +++
 
-![Photo by Parabol | The Agile Meeting Tool](https://images.unsplash.com/photo-1646066490017-c935b1a1eb0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHJldHJlYXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHNraWxsJTIwYnVpbGRpbmd8ZW58MHwwfHx8MTc1NjAxMTgxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge Your Skills in Just One Retreat")
-*How to Supercharge Your Skills in Just One Retreat - Photo by [Parabol | The Agile Meeting Tool](https://unsplash.com/@parabol) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-CS0D08N2n9M)*
+{{< figure src="https://images.unsplash.com/photo-1646066490017-c935b1a1eb0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHJldHJlYXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHNraWxsJTIwYnVpbGRpbmd8ZW58MHwwfHx8MTc1NjAxMTgxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of people sitting around a wooden table" title="How to Supercharge Your Skills in Just One Retreat" caption="How to Supercharge Your Skills in Just One Retreat - Photo by [Parabol | The Agile Meeting Tool](https://unsplash.com/@parabol) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-CS0D08N2n9M)" >}}
 
 Have you ever wondered how much you could learn if you gave yourself a whole week—or even just a weekend—completely dedicated to one thing? Imagine stepping away from your daily routine, shutting off your phone, and focusing all your energy on learning something new. That’s the idea behind a learning retreat.
 
@@ -32,10 +31,7 @@ During your retreat, you can set clear goals. Maybe you want to film yourself co
 > _“Tell me and I forget, teach me and I may remember, involve me and I learn.”_  
 — Benjamin Franklin
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, i am still learning, learning, learn, study, life study, always learning, world student, student of life,
-
-](https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHJldHJlYXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHNraWxsJTIwYnVpbGRpbmd8ZW58MHwwfHx8MTc1NjAxMTgxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge Your Skills in Just One Retreat")
-*How to Supercharge Your Skills in Just One Retreat - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)*
+{{< figure src="https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHJldHJlYXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHNraWxsJTIwYnVpbGRpbmd8ZW58MHwwfHx8MTc1NjAxMTgxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table w7sIj M5Xyc" title="How to Supercharge Your Skills in Just One Retreat" caption="How to Supercharge Your Skills in Just One Retreat - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)" >}}
 
 ## Make It Your Own
 
@@ -58,8 +54,7 @@ You might feel nervous about taking this kind of break, especially if you have f
 
 Start small if you need to. Try a weekend retreat before committing to a full week. Choose one subject and stick to it—don’t try to learn everything at once. The goal is to focus, not to scatter your attention.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live, learn, love, life, live life, live learn love, keep learning, stay open, holistic, mindfulness, loving, learning, living, ](https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHJldHJlYXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHNraWxsJTIwYnVpbGRpbmd8ZW58MHwwfHx8MTc1NjAxMTgxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge Your Skills in Just One Retreat")
-*How to Supercharge Your Skills in Just One Retreat - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)*
+{{< figure src="https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHJldHJlYXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHNraWxsJTIwYnVpbGRpbmd8ZW58MHwwfHx8MTc1NjAxMTgxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Supercharge Your Skills in Just One Retreat" caption="How to Supercharge Your Skills in Just One Retreat - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)" >}}
 
 Picture yourself in a quiet cabin, surrounded by nature, with nothing to do but learn. It’s a simple idea, but it can change the way you grow and see yourself.
 

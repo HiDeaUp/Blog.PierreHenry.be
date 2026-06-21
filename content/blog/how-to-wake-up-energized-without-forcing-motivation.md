@@ -12,8 +12,7 @@ original_title = "Comment stimuler l’énergie positive ?"
 source_medium = "https://medium.com/@phenrysay/92a49644c78c"
 +++
 
-![Photo by Shiona Das](https://images.unsplash.com/photo-1721784098733-32350dd0f461?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGVuZXJneSUyMG1vdGl2YXRpb24lMjBtb3JuaW5nJTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NTI2MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Wake Up Energized Without Forcing Motivation")
-*How to Wake Up Energized Without Forcing Motivation - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-woman-standing-on-a-sidewalk-with-her-arms-in-the-air-Wk15j7TWkb4)*
+{{< figure src="https://images.unsplash.com/photo-1721784098733-32350dd0f461?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGVuZXJneSUyMG1vdGl2YXRpb24lMjBtb3JuaW5nJTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NTI2MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman on a with her arms in the air" title="How to Wake Up Energized Without Forcing Motivation" caption="How to Wake Up Energized Without Forcing Motivation - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-woman-standing-on-a-sidewalk-with-her-arms-in-the-air-Wk15j7TWkb4)" >}}
 
 Have you ever woken up early, set your alarm for 5 or 6 AM, only to find yourself lying in bed for another half hour, maybe even an hour? You’re awake, but you’re not really up. There’s no real motivation pulling you out of bed, nothing that makes your heart race with excitement. Sure, you have work, but that’s later. You might even wonder, “What am I supposed to do with myself right now?” If you don’t have something that truly excites you, something that makes you feel alive, it’s easy to drift through the morning without energy.
 
@@ -25,8 +24,7 @@ Let’s get practical. Take a piece of paper, a notebook, your phone, or your la
 
 It doesn’t have to be complicated. Your passion project could be a business idea, a side project, or even something open source if you’re into tech. For me, I maintain several open source projects because I love coding. But your project could be baking strawberry shortcakes every day, filming your process, organizing meetups, or even writing a book about it. Maybe you’ll become the strawberry shortcake star! Or maybe you’re into horseback riding, and you want to share your tips through videos or teach others how to care for horses.
 
-![Photo by Shiona Das](https://images.unsplash.com/photo-1721784106865-bd5e25c221f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGVuZXJneSUyMG1vdGl2YXRpb24lMjBtb3JuaW5nJTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NTI2MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Wake Up Energized Without Forcing Motivation")
-*How to Wake Up Energized Without Forcing Motivation - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-road-with-their-arms-in-the-air-vo1F522rYgk)*
+{{< figure src="https://images.unsplash.com/photo-1721784106865-bd5e25c221f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGVuZXJneSUyMG1vdGl2YXRpb24lMjBtb3JuaW5nJTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NTI2MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person on a road with their arms in the air" title="How to Wake Up Energized Without Forcing Motivation" caption="How to Wake Up Energized Without Forcing Motivation - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-road-with-their-arms-in-the-air-vo1F522rYgk)" >}}
 
 Whatever it is, before you start teaching others, make sure you’re at least better than average. If you want to show people how to bake the perfect cake, bake a lot of cakes first. Practice until you’re confident you can do it better than most people you know. Most folks might bake once or twice a year, but if you do it every day for two weeks, you’ll be ahead of the game. And you have to love it. That’s why I call it a passion project. If it doesn’t make you feel alive, what’s the point?
 
@@ -46,8 +44,7 @@ The heart of your passion will remain, even as the details shift. Month after mo
 
 ## Key Takeaways
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGVuZXJneSUyMG1vdGl2YXRpb24lMjBtb3JuaW5nJTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NTI2MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Wake Up Energized Without Forcing Motivation")
-*How to Wake Up Energized Without Forcing Motivation - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGVuZXJneSUyMG1vdGl2YXRpb24lMjBtb3JuaW5nJTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NTI2MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Wake Up Energized Without Forcing Motivation" caption="How to Wake Up Energized Without Forcing Motivation - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 - Find a passion project that truly excites you.
 - Write down your vision and break it into daily steps.

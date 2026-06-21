@@ -12,8 +12,7 @@ original_title = "Comment les Bonnes Décisions Peuvent Garantir le Succès ?"
 source_medium = "https://medium.com/@phenrysay/6acec71e3c45"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTc1NTI2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Better Decisions Without Overthinking")
-*How to Make Better Decisions Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTc1NTI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Make Better Decisions Without Overthinking" caption="How to Make Better Decisions Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 Have you ever noticed how much time we waste hesitating over decisions? Whether it’s about your personal life, your job, or even a business opportunity, we often get stuck in endless loops of thinking, weighing pros and cons, and doubting ourselves. But what if the real key to success is simply making decisions faster?
 
@@ -23,8 +22,7 @@ But there’s more. When you spend hours—or even days—agonizing over a choic
 
 Here’s the trick: set yourself a time limit for making decisions. Give yourself, say, 10 minutes. Set a timer on your phone. If you haven’t decided by the end of those 10 minutes, go with your default choice. For example, if you’re hesitating between option A and option B, decide in advance which one is your default. If the timer rings and you’re still unsure, pick the default. This method has helped me move forward much faster in life and feel much freer. It clears up mental space and lets you focus on what really matters.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTc1NTI2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Better Decisions Without Overthinking")
-*How to Make Better Decisions Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)*
+{{< figure src="https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTc1NTI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word love on a wooden surface" title="How to Make Better Decisions Without Overthinking" caption="How to Make Better Decisions Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)" >}}
 
 The real challenge is to start now. Don’t put off until tomorrow what you can do today. Next time you face a decision, try this 10-minute rule. It’s simple, but it works wonders.
 
@@ -38,8 +36,7 @@ The real challenge is to start now. Don’t put off until tomorrow what you can 
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTc1NTI2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Better Decisions Without Overthinking")
-*How to Make Better Decisions Without Overthinking - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NTc1NTI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Make Better Decisions Without Overthinking" caption="How to Make Better Decisions Without Overthinking - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 - Make decisions quickly to free up mental space and move forward.
 - Learn from your mistakes by keeping a list of past poor choices and reviewing it regularly.

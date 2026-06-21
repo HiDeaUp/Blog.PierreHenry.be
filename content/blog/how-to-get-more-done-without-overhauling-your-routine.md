@@ -12,8 +12,7 @@ original_title = "Comment accomplir plus ? Un remède qui aide !"
 source_medium = "https://medium.com/@phenrysay/30329f8c88a3"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTczMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Overhauling Your Routine")
-*How to Get More Done Without Overhauling Your Routine - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTczMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Get More Done Without Overhauling Your Routine" caption="How to Get More Done Without Overhauling Your Routine - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Many of us go through our days in exactly the same way, repeating the same habits without adding anything new. We rarely try something different, and curiosity often takes a back seat. But if you want real change, you need to bring new habits into your life. It’s up to you to have a clear vision—a big picture of what you want—and then break it down into smaller parts.
 
@@ -23,8 +22,7 @@ It’s easy to say, “I’ll do it later, after work, after I help my neighbor,
 
 You only have one life. Do what you truly want to do. Sometimes, you just need to “rub your eyes,” like putting on new glasses, and see things differently. It’s like learning to breathe again. Life starts now, not tomorrow. Do great things, big things, here and now.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTczMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Overhauling Your Routine")
-*How to Get More Done Without Overhauling Your Routine - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTczMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Get More Done Without Overhauling Your Routine" caption="How to Get More Done Without Overhauling Your Routine - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 I’m with you, 100%, even 300%. I know you can do it. But don’t put off what you want to do today. There’s no “perfect moment.” Waiting for the best time is just an excuse to procrastinate.
 
@@ -43,8 +41,7 @@ Work on your tasks one after the other, not all at once. If you try to do everyt
 
 Remember, I’m with you every step of the way. If you want to go even further with focus and productivity, I invite you to check out my resources below.
 
-![Photo by Badhon Ebrahim](https://images.unsplash.com/photo-1538865314643-9a6bcc43a12b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTczMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Overhauling Your Routine")
-*How to Get More Done Without Overhauling Your Routine - Photo by [Badhon Ebrahim](https://unsplash.com/@badhon_ebrahim) on [Unsplash](https://unsplash.com/photos/round-green-clock-tSVgsCfWW2M)*
+{{< figure src="https://images.unsplash.com/photo-1538865314643-9a6bcc43a12b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTczMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Round green clock" title="How to Get More Done Without Overhauling Your Routine" caption="How to Get More Done Without Overhauling Your Routine - Photo by [Badhon Ebrahim](https://unsplash.com/@badhon_ebrahim) on [Unsplash](https://unsplash.com/photos/round-green-clock-tSVgsCfWW2M)" >}}
 
 ---
 

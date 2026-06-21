@@ -12,8 +12,7 @@ original_title = "Utilisation de la colère à son avantage pour réussir davant
 source_medium = "https://medium.com/@phenrysay/838cf0fda50e"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Anger for Success Without Self-Destruction")
-*How to Use Anger for Success Without Self-Destruction - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Use Anger for Success Without Self-Destruction" caption="How to Use Anger for Success Without Self-Destruction - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Anger is often seen as something negative, something to avoid or suppress. But what if, instead of letting anger destroy you or your surroundings, you could use it as a tool to build the life you want?
 
@@ -25,8 +24,7 @@ Sometimes, you’ll see a thumbnail or a video still that doesn’t show you in 
 
 Imagine a life that reflects your values, a life that makes you proud, a life your ancestors, your children, your parents, your partner—whoever you care about—would be proud of too. It doesn’t matter who you live with, or even if it’s just you and your cat or your dog. What matters is that you’re building a life that feels right to you, that shows the best version of yourself.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Anger for Success Without Self-Destruction")
-*How to Use Anger for Success Without Self-Destruction - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Use Anger for Success Without Self-Destruction" caption="How to Use Anger for Success Without Self-Destruction - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 The key is to always look for the main ingredients that bring out your best self. Keep searching, keep giving your best. That’s what attracts the success you deserve.
 
@@ -46,8 +44,7 @@ But let’s get back to the main point: use your anger to your advantage. When s
 
 The best time to take action is now. Don’t put off what you want to do today. If you really want something, if you’re obsessed with it, you can make it happen. If the journey is beautiful, you don’t even need to ask where it leads—you just enjoy it.
 
-![Photo by Priscilla Du Preez 🇨🇦](https://images.unsplash.com/photo-1573412930091-cc65eb8f537d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Anger for Success Without Self-Destruction")
-*How to Use Anger for Success Without Self-Destruction - Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-floor-wearing-brown-dress-VzqEavUGnss)*
+{{< figure src="https://images.unsplash.com/photo-1573412930091-cc65eb8f537d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhbmdlciUyMG1hbmFnZW1lbnQlMjBlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzQ5Mzg1MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on floor wearing brown dress" title="How to Use Anger for Success Without Self-Destruction" caption="How to Use Anger for Success Without Self-Destruction - Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-floor-wearing-brown-dress-VzqEavUGnss)" >}}
 
 > *“It always seems impossible until it’s done.”*  
 > — Nelson Mandela

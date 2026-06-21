@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/313453efe74a"
 source_youtube = "https://www.youtube.com/watch?v=o5I6ANgyz3k"
 +++
 
-![Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel](https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzY3OTMxMjYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Happier by Owning Less Stuff")
-*How to Be Happier by Owning Less Stuff - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)*
+{{< figure src="https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzY3OTMxMjYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel" title="How to Be Happier by Owning Less Stuff" caption="How to Be Happier by Owning Less Stuff - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)" >}}
 
 Simplicity is a word we often hear, but rarely do we stop to think about what it truly means for our lives. We have a strange tendency to complicate things, even when we start with something simple. Maybe it’s because we love a good challenge, or we want to push ourselves further. Even when building a straightforward business or project, we find ourselves adding more features, more options, more layers. It’s like hopping from one idea to the next, always thinking, “What if I add this? Or that?”
 
@@ -30,8 +29,7 @@ But here’s the hard truth: we need to learn to say no. No, I don’t need that
 >
 > — Leonardo da Vinci
 
-![Simplicity](https://images.unsplash.com/photo-1511389026070-a14ae610a1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzY3OTMxMjYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Happier by Owning Less Stuff")
-*How to Be Happier by Owning Less Stuff - Photo by [Liana Mikah](https://unsplash.com/@lianamikah) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-cabinet-HstwCJX0jT4)*
+{{< figure src="https://images.unsplash.com/photo-1511389026070-a14ae610a1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzY3OTMxMjYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Simplicity" title="How to Be Happier by Owning Less Stuff" caption="How to Be Happier by Owning Less Stuff - Photo by [Liana Mikah](https://unsplash.com/@lianamikah) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-cabinet-HstwCJX0jT4)" >}}
 
 Think about it: we always want more. More money, more recognition, more stuff. We earn more, so we buy luxury cars or try to lower our taxes by making complicated investments. But do we really need these things? Often, the answer is no. And all this extra stuff just adds more maintenance, more risk, more headaches.
 
@@ -53,8 +51,7 @@ So, take a step back and focus on the essentials. Ask yourself what you really w
 >
 > — Swedish Proverb
 
-![shape](https://images.unsplash.com/photo-1620910265601-a5f85732e2ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzY3OTMxMjYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Happier by Owning Less Stuff")
-*How to Be Happier by Owning Less Stuff - Photo by [Alexandre Boucey](https://unsplash.com/@thisisareku) on [Unsplash](https://unsplash.com/photos/round-black-framed-mirror-on-white-wall-3CGqUor_slo)*
+{{< figure src="https://images.unsplash.com/photo-1620910265601-a5f85732e2ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzY3OTMxMjYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="shape" title="How to Be Happier by Owning Less Stuff" caption="How to Be Happier by Owning Less Stuff - Photo by [Alexandre Boucey](https://unsplash.com/@thisisareku) on [Unsplash](https://unsplash.com/photos/round-black-framed-mirror-on-white-wall-3CGqUor_slo)" >}}
 
 ---
 

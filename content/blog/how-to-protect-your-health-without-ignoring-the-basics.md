@@ -12,8 +12,7 @@ original_title = "Ce que personne ne dit pour vivre une BONNE VIE"
 source_medium = "https://medium.com/@phenrysay/7fa15ef4c4b6"
 +++
 
-![Photo by The Worthy Goods](https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb29kJTIwbGlmZSUyMGhlYWx0aCUyMHRpcHMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDYxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Protect Your Health Without Ignoring the Basics")
-*How to Protect Your Health Without Ignoring the Basics - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)*
+{{< figure src="https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb29kJTIwbGlmZSUyMGhlYWx0aCUyMHRpcHMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDYxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of white boxes with black text on a wooden surface" title="How to Protect Your Health Without Ignoring the Basics" caption="How to Protect Your Health Without Ignoring the Basics - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)" >}}
 
 Taking care of your teeth is not just about having a nice smile. Brushing two or three times a day is essential, because if you skip it, you’ll end up with cavities. And trust me, cavities are no joke. I just got back from the dentist this afternoon, and the experience was a wake-up call. The dentist took X-rays, pointed out where I already had cavities, and even showed me two more spots where new ones might be forming. You can actually see when a cavity is about to appear, and it’s not a pleasant sight.
 
@@ -23,8 +22,7 @@ No one knows how long they’ll live, but one thing is clear—the better you lo
 
 One thing I’ve learned is to avoid stressing over things you can’t change. If something is out of your control, let it go. Leave it to chance, and focus your energy on what you can actually influence. When you need to make a decision, act quickly and efficiently. If you’re not the best person for the job, don’t hesitate to delegate. The goal is to make the best choices for your health and happiness.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740479050129-7fef21254518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb29kJTIwbGlmZSUyMGhlYWx0aCUyMHRpcHMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDYxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Protect Your Health Without Ignoring the Basics")
-*How to Protect Your Health Without Ignoring the Basics - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-health-on-a-table--Wgu0sVpz_4)*
+{{< figure src="https://images.unsplash.com/photo-1740479050129-7fef21254518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb29kJTIwbGlmZSUyMGhlYWx0aCUyMHRpcHMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDYxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word health on a table" title="How to Protect Your Health Without Ignoring the Basics" caption="How to Protect Your Health Without Ignoring the Basics - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-health-on-a-table--Wgu0sVpz_4)" >}}
 
 Health is priceless. You could be a billionaire, but if your health is ruined and you’re battling three cancers at once, all the money in the world won’t make you laugh. It’s a nightmare I wouldn’t wish on anyone. Everyone deserves good health, and no one deserves to suffer from poor health. That’s why I’m rooting for you to take care of yourself, just as I do for myself. We’re all in this together, but no one knows how long it will last. So start today. Take care of yourself and enjoy life, but never at the expense of your physical or mental health.
 
@@ -40,8 +38,7 @@ That also means avoiding toxic people and anyone who drags you down. Protect you
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724311-5591ab9424d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb29kJTIwbGlmZSUyMGhlYWx0aCUyMHRpcHMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDYxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Protect Your Health Without Ignoring the Basics")
-*How to Protect Your Health Without Ignoring the Basics - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-health-on-a-wooden-surface-GLtN9adlNJQ)*
+{{< figure src="https://images.unsplash.com/photo-1704969724311-5591ab9424d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb29kJTIwbGlmZSUyMGhlYWx0aCUyMHRpcHMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDYxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word health on a wooden surface" title="How to Protect Your Health Without Ignoring the Basics" caption="How to Protect Your Health Without Ignoring the Basics - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-health-on-a-wooden-surface-GLtN9adlNJQ)" >}}
 
 - Brush your teeth regularly—prevention is cheaper than the cure.
 - Your health is your most valuable asset. Protect it every day.

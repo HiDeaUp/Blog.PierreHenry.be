@@ -12,8 +12,7 @@ original_title = "Énergie de singularité 💥"
 source_medium = "https://medium.com/@phenrysay/5ca233bf5614"
 +++
 
-![Photo by Bornil Amin](https://images.unsplash.com/photo-1709316968892-e5e45f403701?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmlnaW5hbGl0eSUyMGNyZWF0aXZpdHklMjBzZWxmLWV4cHJlc3Npb258ZW58MHwwfHx8MTc1NjUxNDExNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Original Work Without Imitating Others")
-*How to Create Original Work Without Imitating Others - Photo by [Bornil Amin](https://unsplash.com/@bornil) on [Unsplash](https://unsplash.com/photos/a-man-riding-a-motorcycle-down-a-dirt-road-zmAcinJyyeI)*
+{{< figure src="https://images.unsplash.com/photo-1709316968892-e5e45f403701?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmlnaW5hbGl0eSUyMGNyZWF0aXZpdHklMjBzZWxmLWV4cHJlc3Npb258ZW58MHwwfHx8MTc1NjUxNDExNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man riding a down a dirt road" title="How to Create Original Work Without Imitating Others" caption="How to Create Original Work Without Imitating Others - Photo by [Bornil Amin](https://unsplash.com/@bornil) on [Unsplash](https://unsplash.com/photos/a-man-riding-a-motorcycle-down-a-dirt-road-zmAcinJyyeI)" >}}
 
 Have you ever felt the urge to start a project that truly excites you, only to hesitate because you worry you’re not ready? Maybe you’ve been tempted to copy someone else’s idea, thinking it’s a shortcut to success. But here’s the truth: if you simply imitate someone else, you’ll never do it as well as they do. Their project fits them because it comes from their own story, their own energy. It doesn’t represent you.
 
@@ -21,8 +20,7 @@ When you build something that comes from deep inside, something you care about, 
 
 It’s so easy to spend hours watching videos, reading books, or taking courses, always feeling like you’re not quite ready. This is the classic imposter syndrome: the feeling that you need just one more book, one more course, before you can start. Sometimes, you buy books and never finish them. Or you convince yourself that a new gadget will finally make you productive. I’ve done it myself—bought a Freewrite, thinking it would help me focus, only to realize that the real problem wasn’t the tool, but my own hesitation.
 
-![Photo by Alexander Psiuk](https://images.unsplash.com/photo-1716251212996-fbb91fdbc917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcmlnaW5hbGl0eSUyMGNyZWF0aXZpdHklMjBzZWxmLWV4cHJlc3Npb258ZW58MHwwfHx8MTc1NjUxNDExNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Original Work Without Imitating Others")
-*How to Create Original Work Without Imitating Others - Photo by [Alexander Psiuk](https://unsplash.com/@alexdeloy) on [Unsplash](https://unsplash.com/photos/a-ceiling-made-of-plastic-tubes-and-lights-AbRLmwemsvM)*
+{{< figure src="https://images.unsplash.com/photo-1716251212996-fbb91fdbc917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcmlnaW5hbGl0eSUyMGNyZWF0aXZpdHklMjBzZWxmLWV4cHJlc3Npb258ZW58MHwwfHx8MTc1NjUxNDExNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A ceiling made of plastic tubes and lights" title="How to Create Original Work Without Imitating Others" caption="How to Create Original Work Without Imitating Others - Photo by [Alexander Psiuk](https://unsplash.com/@alexdeloy) on [Unsplash](https://unsplash.com/photos/a-ceiling-made-of-plastic-tubes-and-lights-AbRLmwemsvM)" >}}
 
 We often think we need to be more professional, more prepared. But the best way to learn is by doing. When you create, you get feedback, you see what works and what doesn’t, and you improve. There’s a famous study about pottery classes: one group was graded on the number of pots they made, the other on making a single perfect pot. In the end, the group that made more pots ended up producing better quality work. The same thing happened in a similar study with photography. Practice, repetition, and learning from mistakes always win over waiting for perfection.
 
@@ -38,8 +36,7 @@ We’ve all had moments of success, even small ones. The secret is to keep produ
 
 ---
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1598476793884-0e7afd57b92e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcmlnaW5hbGl0eSUyMGNyZWF0aXZpdHklMjBzZWxmLWV4cHJlc3Npb258ZW58MHwwfHx8MTc1NjUxNDExNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Original Work Without Imitating Others")
-*How to Create Original Work Without Imitating Others - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/red-and-white-no-smoking-sign-FrGQr9eQcVM)*
+{{< figure src="https://images.unsplash.com/photo-1598476793884-0e7afd57b92e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcmlnaW5hbGl0eSUyMGNyZWF0aXZpdHklMjBzZWxmLWV4cHJlc3Npb258ZW58MHwwfHx8MTc1NjUxNDExNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Red and white no smoking sign" title="How to Create Original Work Without Imitating Others" caption="How to Create Original Work Without Imitating Others - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/red-and-white-no-smoking-sign-FrGQr9eQcVM)" >}}
 
 ## Key Takeaways
 - Your most powerful projects come from your own unique energy, not imitation.

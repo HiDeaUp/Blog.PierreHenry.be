@@ -12,8 +12,7 @@ original_title = "La trousse à outils pour booster la productivité!"
 source_medium = "https://medium.com/@phenrysay/d4e01ff0aed9"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBhY2NvdW50YWJpbGl0eSUyMHdvcmslMjB0b29sc3xlbnwwfDB8fHwxNzU2NTIzMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Relying on Willpower")
-*How to Get More Done Without Relying on Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBhY2NvdW50YWJpbGl0eSUyMHdvcmslMjB0b29sc3xlbnwwfDB8fHwxNzU2NTIzMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Get More Done Without Relying on Willpower" caption="How to Get More Done Without Relying on Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Productivity is not just about ticking off tasks on a to-do list. It’s about making real commitments—to yourself and sometimes to others—that you’ll follow through on what you set out to do. This sense of accountability can be the missing piece that turns good intentions into real achievements.
 
@@ -31,8 +30,7 @@ It’s a bit like paying for a bootcamp to learn coding. When you invest money�
 
 ## The Power of Public Promises
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBhY2NvdW50YWJpbGl0eSUyMHdvcmslMjB0b29sc3xlbnwwfDB8fHwxNzU2NTIzMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Relying on Willpower")
-*How to Get More Done Without Relying on Willpower - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBhY2NvdW50YWJpbGl0eSUyMHdvcmslMjB0b29sc3xlbnwwfDB8fHwxNzU2NTIzMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Get More Done Without Relying on Willpower" caption="How to Get More Done Without Relying on Willpower - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Think about promising your whole family that you’ll host the holiday dinner. Once you’ve said it out loud, you can’t just back out at the last minute. Your reputation and your relationships are on the line. But if you keep your plans to yourself, it’s much easier to give up without consequences.
 
@@ -52,8 +50,7 @@ There are plenty of other tools to help you stay on track. Toggl is great for tr
 
 Focusmate also lets you set up recurring sessions, so you can build a routine. It’s like having a study buddy, even if they live on the other side of the world. I have a friend in Canada, and we sometimes set up sessions together. We check in, say what we’re going to do, work quietly, and then check out. It’s simple, but it works wonders for beating procrastination.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBhY2NvdW50YWJpbGl0eSUyMHdvcmslMjB0b29sc3xlbnwwfDB8fHwxNzU2NTIzMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Relying on Willpower")
-*How to Get More Done Without Relying on Willpower - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBhY2NvdW50YWJpbGl0eSUyMHdvcmslMjB0b29sc3xlbnwwfDB8fHwxNzU2NTIzMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Get More Done Without Relying on Willpower" caption="How to Get More Done Without Relying on Willpower - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 > _Accountability is the glue that ties commitment to results._
 > — Bob Proctor

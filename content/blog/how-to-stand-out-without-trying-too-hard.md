@@ -12,8 +12,7 @@ original_title = "Comment se démarquer POSITIVEMENT ?"
 source_medium = "https://medium.com/@phenrysay/2c0fc0350ebb"
 +++
 
-![Photo by Trésor Kande](https://images.unsplash.com/photo-1728296944282-b63727064e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwdW5pcXVlJTIwaWRlbnRpdHklMjBzZWxmLWNvbmZpZGVuY2V8ZW58MHwwfHx8MTc1NjExMjIwOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out Without Trying Too Hard")
-*How to Stand Out Without Trying Too Hard - Photo by [Trésor Kande](https://unsplash.com/@travyskande) on [Unsplash](https://unsplash.com/photos/a-woman-taking-a-picture-of-herself-in-a-mirror-7WnIJemwFf0)*
+{{< figure src="https://images.unsplash.com/photo-1728296944282-b63727064e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwdW5pcXVlJTIwaWRlbnRpdHklMjBzZWxmLWNvbmZpZGVuY2V8ZW58MHwwfHx8MTc1NjExMjIwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman taking a picture of herself in a mirror" title="How to Stand Out Without Trying Too Hard" caption="How to Stand Out Without Trying Too Hard - Photo by [Trésor Kande](https://unsplash.com/@travyskande) on [Unsplash](https://unsplash.com/photos/a-woman-taking-a-picture-of-herself-in-a-mirror-7WnIJemwFf0)" >}}
 
 Standing out is not just about being noticed. It’s about showing your unique personality, your singularity, and making sure you don’t blend into the crowd. This is even more important today, when so many people follow trends and influencers, and it’s easy to get lost in a sea of sameness.
 
@@ -25,8 +24,7 @@ So, how do you do it? First, know your values. Ask yourself: Who am I? What make
 
 Of course, where you live and your country’s culture can make this easier or harder. Some places are more open to difference, while others might judge you more quickly. If it feels tough in your city or country, start online. Target regions or communities where people are more accepting. This is a good first step in building your personal brand, and it’s less intimidating.
 
-![Photo by Max Böhme](https://images.unsplash.com/photo-1678270835396-458b0cd89468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwdW5pcXVlJTIwaWRlbnRpdHklMjBzZWxmLWNvbmZpZGVuY2V8ZW58MHwwfHx8MTc1NjExMjIwOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out Without Trying Too Hard")
-*How to Stand Out Without Trying Too Hard - Photo by [Max Böhme](https://unsplash.com/@max_boehme) on [Unsplash](https://unsplash.com/photos/a-red-neon-sign-that-reads-i-am-bold-PvOkF5AJLSE)*
+{{< figure src="https://images.unsplash.com/photo-1678270835396-458b0cd89468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwdW5pcXVlJTIwaWRlbnRpdHklMjBzZWxmLWNvbmZpZGVuY2V8ZW58MHwwfHx8MTc1NjExMjIwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A red neon sign that reads i am bold" title="How to Stand Out Without Trying Too Hard" caption="How to Stand Out Without Trying Too Hard - Photo by [Max Böhme](https://unsplash.com/@max_boehme) on [Unsplash](https://unsplash.com/photos/a-red-neon-sign-that-reads-i-am-bold-PvOkF5AJLSE)" >}}
 
 Building your brand takes time. It doesn’t happen overnight. But the more you do it, the more confident you’ll become. When you see someone dressed in a unique way, you can often tell if they’re comfortable with it. Confidence makes all the difference.
 
@@ -46,8 +44,7 @@ The point is, don’t try to stand out by being rude or making inappropriate com
 
 ---
 
-![Photo by Preslie Hirsch](https://images.unsplash.com/photo-1542653309-dbc6a80a7484?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwdW5pcXVlJTIwaWRlbnRpdHklMjBzZWxmLWNvbmZpZGVuY2V8ZW58MHwwfHx8MTc1NjExMjIwOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out Without Trying Too Hard")
-*How to Stand Out Without Trying Too Hard - Photo by [Preslie Hirsch](https://unsplash.com/@heypreslie) on [Unsplash](https://unsplash.com/photos/woman-holding-joy-text-rOKbmUbcOVg)*
+{{< figure src="https://images.unsplash.com/photo-1542653309-dbc6a80a7484?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwdW5pcXVlJTIwaWRlbnRpdHklMjBzZWxmLWNvbmZpZGVuY2V8ZW58MHwwfHx8MTc1NjExMjIwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman holding joy text" title="How to Stand Out Without Trying Too Hard" caption="How to Stand Out Without Trying Too Hard - Photo by [Preslie Hirsch](https://unsplash.com/@heypreslie) on [Unsplash](https://unsplash.com/photos/woman-holding-joy-text-rOKbmUbcOVg)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Rituels positifs qui positivent : je t'explique comment progre
 source_medium = "https://medium.com/@phenrysay/5fce8ffdb40d"
 +++
 
-![Photo by 光术 山影](https://images.unsplash.com/photo-1667013245920-c9f3518866ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMHJpdHVhbHMlMjBkYWlseSUyMGhhYml0cyUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NTUxNDk3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Rituals for More Positivity Without Stress")
-*How to Build Daily Rituals for More Positivity Without Stress - Photo by [光术 山影](https://unsplash.com/@mrtiger) on [Unsplash](https://unsplash.com/photos/a-person-sitting-in-a-field--OCzJxjvFAM)*
+{{< figure src="https://images.unsplash.com/photo-1667013245920-c9f3518866ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMHJpdHVhbHMlMjBkYWlseSUyMGhhYml0cyUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NTUxNDk3Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person sitting in a field" title="How to Build Daily Rituals for More Positivity Without Stress" caption="How to Build Daily Rituals for More Positivity Without Stress - Photo by [光术 山影](https://unsplash.com/@mrtiger) on [Unsplash](https://unsplash.com/photos/a-person-sitting-in-a-field--OCzJxjvFAM)" >}}
 
 When we talk about “soul rituals,” we’re not diving into anything mystical or complicated. These are simply small, positive habits—tiny actions you repeat every day that bring you comfort, joy, or a sense of well-being. Unlike negative routines that can hold you back or make you anxious, positive rituals help you grow, feel grateful, and even add a touch of freedom or spirituality to your day.
 
@@ -23,8 +22,7 @@ For me, my favorite ritual is a short walk every morning. I just walk around the
 
 This idea of rituals isn’t new. Take Queen Elizabeth II, for example. She was known for her little routines. Every evening, she’d have a small glass of whisky and take a bath with a yellow rubber duck—apparently a gift from her grandchildren. These habits weren’t just quirks; they were sources of comfort and joy. And every day at 5 p.m. sharp, she’d have her tea, brewed just the way she liked it. These rituals were sacred to her, and they brought a sense of order and happiness to her life.
 
-![Photo by THLT LCX](https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMHJpdHVhbHMlMjBkYWlseSUyMGhhYml0cyUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NTUxNDk3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Rituals for More Positivity Without Stress")
-*How to Build Daily Rituals for More Positivity Without Stress - Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com/photos/woman-in-brown-knit-sweater-holding-brown-ceramic-cup-VsI_74zRzAo)*
+{{< figure src="https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMHJpdHVhbHMlMjBkYWlseSUyMGhhYml0cyUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NTUxNDk3Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in brown knit sweater holding brown ceramic cup" title="How to Build Daily Rituals for More Positivity Without Stress" caption="How to Build Daily Rituals for More Positivity Without Stress - Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com/photos/woman-in-brown-knit-sweater-holding-brown-ceramic-cup-VsI_74zRzAo)" >}}
 
 Most of us have one or two rituals we stick to religiously. It could be a glass of milk every morning, or listening to the radio while you eat breakfast. These aren’t just routines—they’re moments that make you feel good, things you wouldn’t want to skip.
 
@@ -40,8 +38,7 @@ The beauty of these small rituals is that they’re easy to keep, and they can m
 > _“Happiness is not something ready made. It comes from your own actions.”_  
 — Dalai Lama
 
-![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMHJpdHVhbHMlMjBkYWlseSUyMGhhYml0cyUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NTUxNDk3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Rituals for More Positivity Without Stress")
-*How to Build Daily Rituals for More Positivity Without Stress - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
+{{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMHJpdHVhbHMlMjBkYWlseSUyMGhhYml0cyUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NTUxNDk3Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Build Daily Rituals for More Positivity Without Stress" caption="How to Build Daily Rituals for More Positivity Without Stress - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
 ---
 

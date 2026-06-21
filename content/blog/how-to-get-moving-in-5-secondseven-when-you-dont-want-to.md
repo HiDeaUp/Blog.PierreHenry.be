@@ -12,8 +12,7 @@ original_title = "Découvre cette astuce / Tu pourrais augmenter ta productivit�
 source_medium = "https://medium.com/@phenrysay/ac482980a14d"
 +++
 
-![Photo by Axel Visoso](https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Moving in 5 Seconds—Even When You Don’t Want To")
-*How to Get Moving in 5 Seconds—Even When You Don’t Want To - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)*
+{{< figure src="https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of person holding alarm clock" title="How to Get Moving in 5 Seconds—Even When You Don’t Want To" caption="How to Get Moving in 5 Seconds—Even When You Don’t Want To - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)" >}}
 
 There’s a small productivity principle I use all the time, and it’s so simple you might overlook it: the timer countdown. Here’s how it works and why it’s so powerful.
 
@@ -27,8 +26,7 @@ You can use it for anything: five minutes to wake up, five minutes to start stud
 
 Here’s a tip: keep your timer app on your home screen or dock so it’s always available. If it’s buried in a folder, you’ll lose precious seconds and add friction to your new habit. The more steps between you and your timer, the less likely you are to use it. So, move your clock app to a spot where you can access it instantly. For Android or iPhone, it’s the same idea—put it front and center.
 
-![monochrome vintage clock](https://images.unsplash.com/19/clock.JPG?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Moving in 5 Seconds—Even When You Don’t Want To")
-*How to Get Moving in 5 Seconds—Even When You Don’t Want To - Photo by [petradr](https://unsplash.com/@petradr) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-analog-clock-8hgm6mKK04U)*
+{{< figure src="https://images.unsplash.com/19/clock.JPG?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="monochrome vintage clock" title="How to Get Moving in 5 Seconds—Even When You Don’t Want To" caption="How to Get Moving in 5 Seconds—Even When You Don’t Want To - Photo by [petradr](https://unsplash.com/@petradr) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-analog-clock-8hgm6mKK04U)" >}}
 
 Once you’ve got your timer ready, you can set it for any task. Fifteen minutes for a work sprint, five minutes to get started, whatever you need. I do the same with my Apple Watch when I have it on. Five minutes to get out of bed, five minutes to start a task. This little push keeps you moving forward: What’s next? What’s next? What’s next?
 
@@ -51,8 +49,7 @@ I hope you try this five-second or five-minute timer principle. Whether you’re
 
 ---
 
-![Photo by - Kenny](https://images.unsplash.com/photo-1747103837537-0c07eb07e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Moving in 5 Seconds—Even When You Don’t Want To")
-*How to Get Moving in 5 Seconds—Even When You Don’t Want To - Photo by [- Kenny](https://unsplash.com/@kennyzhang29) on [Unsplash](https://unsplash.com/photos/a-clock-is-attached-to-a-tree-by-the-street-iD-eyB7uxO4)*
+{{< figure src="https://images.unsplash.com/photo-1747103837537-0c07eb07e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjA1LXNlY29uZCUyMHJ1bGUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MjIxNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock is to a tree by the street iD" title="How to Get Moving in 5 Seconds—Even When You Don’t Want To" caption="How to Get Moving in 5 Seconds—Even When You Don’t Want To - Photo by [- Kenny](https://unsplash.com/@kennyzhang29) on [Unsplash](https://unsplash.com/photos/a-clock-is-attached-to-a-tree-by-the-street-iD-eyB7uxO4)" >}}
 
 ## Action Steps
 

@@ -12,8 +12,7 @@ original_title = "Tu vas ENFIN retrouver ton énergie avec cette marche #product
 source_medium = "https://medium.com/@phenrysay/3502e74c13c5"
 +++
 
-![Photo by Alex Gallegos](https://images.unsplash.com/photo-1711934046952-88c0b0604315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBib29zdCUyMHdhbGtpbmclMjBiZW5lZml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU0MjE5OTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mind in 10 Minutes Without Leaving Your Block")
-*How to Recharge Your Mind in 10 Minutes Without Leaving Your Block - Photo by [Alex Gallegos](https://unsplash.com/@alexgallegos) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-next-to-a-tree-0SOZQbxp3U8)*
+{{< figure src="https://images.unsplash.com/photo-1711934046952-88c0b0604315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBib29zdCUyMHdhbGtpbmclMjBiZW5lZml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU0MjE5OTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman walking down a next to a tree" title="How to Recharge Your Mind in 10 Minutes Without Leaving Your Block" caption="How to Recharge Your Mind in 10 Minutes Without Leaving Your Block - Photo by [Alex Gallegos](https://unsplash.com/@alexgallegos) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-next-to-a-tree-0SOZQbxp3U8)" >}}
 
 There’s something almost magical about taking a walk after lunch. It’s a small ritual I cherish: just a short stroll around my neighborhood, right after I finish eating. This simple habit makes me feel so much better. It helps me unwind, think more clearly, and let go of stress. Most importantly, it brings me back to the present moment and gives me back a sense of control over my life.
 
@@ -25,8 +24,7 @@ It’s especially nice when the weather is good, the sky is clear, and the sun i
 
 Walking in nature isn’t just good for your mood. It can actually lower your blood pressure and help your body relax. It’s a bit like what’s called “forest therapy.” I talk a lot about this in my book, *Le succès n’est pas loin* (“Success Is Not Far”). Walking in nature reduces stress, lowers tension, and brings so many benefits.
 
-![Photo by Shiona Das](https://images.unsplash.com/photo-1721784096144-66843cadfe90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjBib29zdCUyMHdhbGtpbmclMjBiZW5lZml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU0MjE5OTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mind in 10 Minutes Without Leaving Your Block")
-*How to Recharge Your Mind in 10 Minutes Without Leaving Your Block - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-sidewalk-in-a-park-16eeXVh8od8)*
+{{< figure src="https://images.unsplash.com/photo-1721784096144-66843cadfe90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjBib29zdCUyMHdhbGtpbmclMjBiZW5lZml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU0MjE5OTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person walking down a in a park" title="How to Recharge Your Mind in 10 Minutes Without Leaving Your Block" caption="How to Recharge Your Mind in 10 Minutes Without Leaving Your Block - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-sidewalk-in-a-park-16eeXVh8od8)" >}}
 
 So, take a walk. Enjoy where you are. Enjoy the moment. Life is right here, waiting for you.
 
@@ -50,9 +48,7 @@ So, take a walk. Enjoy where you are. Enjoy the moment. Life is right here, wait
 
 ---
 
-!["Lovestory on Sandy Lake" by @lesnik_tsu, @gangstasia, @bryssphoto.pro, @stebunovroman, @roman.purtow and @sibereco. Follow us on Instagram or visit our site: 
-https://sibereco.com/en](https://images.unsplash.com/photo-1564274337762-03c263706098?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjBib29zdCUyMHdhbGtpbmclMjBiZW5lZml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU0MjE5OTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mind in 10 Minutes Without Leaving Your Block")
-*How to Recharge Your Mind in 10 Minutes Without Leaving Your Block - Photo by [Roman Purtov](https://unsplash.com/@baslie) on [Unsplash](https://unsplash.com/photos/man-and-woman-walking-on-forest-NHPyk3hWt30)*
+{{< figure src="https://images.unsplash.com/photo-1564274337762-03c263706098?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjBib29zdCUyMHdhbGtpbmclMjBiZW5lZml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU0MjE5OTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man and woman walking on forest" title="How to Recharge Your Mind in 10 Minutes Without Leaving Your Block" caption="How to Recharge Your Mind in 10 Minutes Without Leaving Your Block - Photo by [Roman Purtov](https://unsplash.com/@baslie) on [Unsplash](https://unsplash.com/photos/man-and-woman-walking-on-forest-NHPyk3hWt30)" >}}
 
 ## Action Steps
 

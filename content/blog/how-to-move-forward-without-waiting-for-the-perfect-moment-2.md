@@ -12,8 +12,7 @@ original_title = "La force de respecter ses 3 priorités ⚡️"
 source_medium = "https://medium.com/@phenrysay/625e0b5aceab"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBwcmlvcml0aXphdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzMjg3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for the Perfect Moment")
-*How to Move Forward Without Waiting for the Perfect Moment - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBwcmlvcml0aXphdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzMjg3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Move Forward Without Waiting for the Perfect Moment" caption="How to Move Forward Without Waiting for the Perfect Moment - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Every day, I hear people say they’ll start tomorrow. Tomorrow, they’ll write that book, launch a business, save for a house, sign up for the gym, or finally travel the world. The list is endless: “Tomorrow, I’ll begin.” But tomorrow never seems to arrive.
 
@@ -29,8 +28,7 @@ Tim Ferriss popularized the idea of a “mini-retirement” in his book *The 4-H
 
 I remember being in Lanzarote, buying fresh fruits and vegetables, taking cheap buses to the capital, swimming, listening to podcasts, and learning Spanish. Maybe your dream is similar. If so, you have to start now. There’s never a perfect time or enough money. If you wait, you might never do it. Who knows what could happen in three weeks or a month? You might get even busier. We always think things will get easier “after,” but that’s rarely true.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBwcmlvcml0aXphdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzMjg3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for the Perfect Moment")
-*How to Move Forward Without Waiting for the Perfect Moment - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBwcmlvcml0aXphdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzMjg3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Move Forward Without Waiting for the Perfect Moment" caption="How to Move Forward Without Waiting for the Perfect Moment - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 You have to jump in and start the things you want to accomplish. Life moves fast. If you keep waiting for the right moment, you’ll look back and realize you never started.
 
@@ -54,8 +52,7 @@ With this approach, you’ll never feel lost. You’ll always know what your num
 > *“The key is not to prioritize what’s on your schedule, but to schedule your priorities.”*  
 — Stephen R. Covey
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBwcmlvcml0aXphdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzMjg3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for the Perfect Moment")
-*How to Move Forward Without Waiting for the Perfect Moment - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBwcmlvcml0aXphdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYzMjg3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Move Forward Without Waiting for the Perfect Moment" caption="How to Move Forward Without Waiting for the Perfect Moment - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 If you want to go even further in your daily improvement and productivity, I recommend the book *The One Thing*. It’s a great resource for focusing on what matters most and getting more done while enjoying your days.
 

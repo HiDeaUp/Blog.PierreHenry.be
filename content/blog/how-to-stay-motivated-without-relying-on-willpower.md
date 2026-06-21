@@ -12,8 +12,7 @@ original_title = "ADIEU PROCRASTINATION : garde ta MOTIVATION au TOP"
 source_medium = "https://medium.com/@phenrysay/0737ced7d0f2"
 +++
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvY3Jhc3RpbmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTg4MDkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated Without Relying on Willpower")
-*How to Stay Motivated Without Relying on Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvY3Jhc3RpbmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTg4MDkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Stay Motivated Without Relying on Willpower" caption="How to Stay Motivated Without Relying on Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Sometimes, we all feel lost. Our motivation vanishes, and with it, our energy to act, to move forward, and to get things done. When motivation disappears, we lose our rhythm and the speed we once had. Everything slows down. Sometimes, we even lose confidence in ourselves, or drift apart from people close to us. It can feel like everything is falling apart.
 
@@ -25,8 +24,7 @@ Look around you. Notice the beauty in simple things—like greenery, for example
 
 It doesn’t have to be a big project. Maybe you’re building a house, or starting a new life in another country. Sometimes, you’ll question yourself. That’s normal. But you also need to know what you want, and make sure your actions match your values and your environment.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvY3Jhc3RpbmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTg4MDkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated Without Relying on Willpower")
-*How to Stay Motivated Without Relying on Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvY3Jhc3RpbmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTg4MDkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Stay Motivated Without Relying on Willpower" caption="How to Stay Motivated Without Relying on Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
 Sometimes, it’s the people around us—our partners, family, or friends—who pull us down. They might question your choices or tell you not to do something. That’s dangerous if you know deep down what you want. If these people have never done what you’re trying to do, their advice might not be helpful. Most of the time, they don’t know what they’re talking about. It’s better to spend time with people who have already done what you want to do, or with people who are positive and supportive.
 
@@ -46,8 +44,7 @@ Take action. Make mistakes. Question yourself. Get back on your feet. That’s h
 
 ## Key Takeaways
 
-![Journal on the bed with ink pen](https://images.unsplash.com/photo-1601128688653-7dc405e3ac4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvY3Jhc3RpbmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTg4MDkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated Without Relying on Willpower")
-*How to Stay Motivated Without Relying on Willpower - Photo by [Becky Fantham](https://unsplash.com/@hungrybecky) on [Unsplash](https://unsplash.com/photos/brown-and-white-book-on-gray-textile-la6C554Ev_o)*
+{{< figure src="https://images.unsplash.com/photo-1601128688653-7dc405e3ac4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvY3Jhc3RpbmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTg4MDkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Journal on the bed with ink pen" title="How to Stay Motivated Without Relying on Willpower" caption="How to Stay Motivated Without Relying on Willpower - Photo by [Becky Fantham](https://unsplash.com/@hungrybecky) on [Unsplash](https://unsplash.com/photos/brown-and-white-book-on-gray-textile-la6C554Ev_o)" >}}
 
 - Motivation comes and goes; don’t let a slump last too long.
 - Give yourself small, meaningful challenges to stay engaged.

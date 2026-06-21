@@ -12,8 +12,7 @@ original_title = "Comment se créer une journée PARFAITE 🎉"
 source_medium = "https://medium.com/@phenrysay/7a5f8db8e2aa"
 +++
 
-![Today Was A Good Day](https://images.unsplash.com/photo-1503876466-1fc5143eda57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGhhYml0cyUyMHZpc3VhbGl6YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTU4OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Your Perfect Day Without Waking Up Early")
-*How to Create Your Perfect Day Without Waking Up Early - Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/photos/today-was-a-good-day-led-signage-n-vxsHr9jZA)*
+{{< figure src="https://images.unsplash.com/photo-1503876466-1fc5143eda57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGhhYml0cyUyMHZpc3VhbGl6YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTU4OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Today Was A Good Day" title="How to Create Your Perfect Day Without Waking Up Early" caption="How to Create Your Perfect Day Without Waking Up Early - Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/photos/today-was-a-good-day-led-signage-n-vxsHr9jZA)" >}}
 
 What if I told you that having a perfect day isn’t about luck, but about a small, powerful habit you can start tonight? I want to share a simple trick I use every evening that has helped me live a happier, more fulfilling life. I believe you want that too—more happiness, more meaning, more days that feel truly yours.
 
@@ -31,8 +30,7 @@ Of course, there are always things that can bring us down—frustrations, regret
 
 ## Small Habits, Big Changes
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, cease the day, seize the day, carpe diem, Cessare faciam hodie, night, goth, gothic, humour, homonym, homonymic, ](https://images.unsplash.com/photo-1610453825087-801e8ee9e75f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGhhYml0cyUyMHZpc3VhbGl6YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTU4OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Your Perfect Day Without Waking Up Early")
-*How to Create Your Perfect Day Without Waking Up Early - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-j9LmjjIFr6c)*
+{{< figure src="https://images.unsplash.com/photo-1610453825087-801e8ee9e75f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGhhYml0cyUyMHZpc3VhbGl6YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTU4OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Create Your Perfect Day Without Waking Up Early" caption="How to Create Your Perfect Day Without Waking Up Early - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-j9LmjjIFr6c)" >}}
 
 This visualization exercise is simple, but it can change everything. Imagine: what are the things you need or want to do that would turn an ordinary day into an incredible one? When you make this a habit, you start to see how every little thing you do shapes your future.
 
@@ -58,8 +56,7 @@ But life can be so much more. If you can live according to your own choices, in 
 
 ## Key Takeaways
 
-![A school, office notebook with a white pen lies on a gray table, desk, background. Place for an inscription. Office. Job. School. Personal diary. Top view.](https://images.unsplash.com/photo-1611079830811-865ff4428d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGhhYml0cyUyMHZpc3VhbGl6YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTU4OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Your Perfect Day Without Waking Up Early")
-*How to Create Your Perfect Day Without Waking Up Early - Photo by [Diana Polekhina](https://unsplash.com/@diana_pole) on [Unsplash](https://unsplash.com/photos/white-notebook-with-pen-on-top-1ixT36dfuSQ)*
+{{< figure src="https://images.unsplash.com/photo-1611079830811-865ff4428d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGhhYml0cyUyMHZpc3VhbGl6YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTU4OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A school, office notebook with a white pen lies on a gray table, desk, background. Place for an inscription. Office. Job. School. Personal diary. Top view." title="How to Create Your Perfect Day Without Waking Up Early" caption="How to Create Your Perfect Day Without Waking Up Early - Photo by [Diana Polekhina](https://unsplash.com/@diana_pole) on [Unsplash](https://unsplash.com/photos/white-notebook-with-pen-on-top-1ixT36dfuSQ)" >}}
 
 - Every evening, visualize your next day: what will make it great?
 - Repeat this visualization in the morning to start your day with intention.

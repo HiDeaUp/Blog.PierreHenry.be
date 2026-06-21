@@ -12,8 +12,7 @@ original_title = "Un projet de passion 🤗"
 source_medium = "https://medium.com/@phenrysay/e85921f05d15"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Passion Project Without Quitting Your Job")
-*How to Find Your Passion Project Without Quitting Your Job - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)*
+{{< figure src="https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word passion" title="How to Find Your Passion Project Without Quitting Your Job" caption="How to Find Your Passion Project Without Quitting Your Job - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)" >}}
 
 Have you ever stopped for a moment and asked yourself what truly excites you? Not just what you do for work, or what fills your schedule, but what actually makes you feel alive? Taking a step back from your daily routine, even for a few minutes, can help you see what really matters. It’s in these quiet moments that you might realize the importance of having a passion project—something that gives you butterflies, that makes you want to get up early, even on a Monday.
 
@@ -21,8 +20,7 @@ A passion project isn’t just a hobby. It’s something that pulls you out of b
 
 When you have a passion project, life feels brighter and more joyful. For me, programming is that spark. I love coding and have several open-source projects on GitHub. I’ve built content management systems and frameworks to make life easier for other developers. As a computer engineer, this is my world, but I always make time on weekends for my open-source work.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Passion Project Without Quitting Your Job")
-*How to Find Your Passion Project Without Quitting Your Job - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Find Your Passion Project Without Quitting Your Job" caption="How to Find Your Passion Project Without Quitting Your Job - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 I also enjoy teaching. I create programming courses and tutorials on platforms like Udemy and YouTube. But my interests don’t stop there. I’m passionate about happiness, well-being, and personal growth, so I share what I learn through courses and videos on these topics too. I’ve even published two books, and writing has become another source of joy for me. Sometimes, I go on writing retreats—my last one was in Austria, tucked away in a little chalet, just writing and soaking in the peace. These moments are truly special.
 
@@ -38,8 +36,7 @@ A passion project can also be about helping others. Maybe you want to support a 
 
 So, what’s your passion project? What’s that one thing that makes you feel truly alive? Take a moment to think about it. Your journey can start today.
 
-![Photo by Courtney Cantu](https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Passion Project Without Quitting Your Job")
-*How to Find Your Passion Project Without Quitting Your Job - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)*
+{{< figure src="https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NTIxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of the ground" title="How to Find Your Passion Project Without Quitting Your Job" caption="How to Find Your Passion Project Without Quitting Your Job - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)" >}}
 
 ---
 

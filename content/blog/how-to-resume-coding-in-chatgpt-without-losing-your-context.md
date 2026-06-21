@@ -12,8 +12,7 @@ original_title = "Use GPT MCP to connect your terminal/Code Editor to resume wha
 source_medium = "https://medium.com/@phenrysay/ae6eddae5561"
 +++
 
-![Photo by Growtika](https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHUFQlMjBNQ1AlMjBjb2RpbmclMjB3b3JrZmxvdyUyMHRlcm1pbmFsJTIwaW50ZWdyYXRpb258ZW58MHwwfHx8MTc2NzA5NzM0OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Resume Coding in ChatGPT Without Losing Your Context")
-*How to Resume Coding in ChatGPT Without Losing Your Context - Photo by [Growtika](https://unsplash.com/@growtika) on [Unsplash](https://unsplash.com/photos/a-computer-with-a-keyboard-and-mouse-yGQmjh2uOTg)*
+{{< figure src="https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHUFQlMjBNQ1AlMjBjb2RpbmclMjB3b3JrZmxvdyUyMHRlcm1pbmFsJTIwaW50ZWdyYXRpb258ZW58MHwwfHx8MTc2NzA5NzM0OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A with a and mouse" title="How to Resume Coding in ChatGPT Without Losing Your Context" caption="How to Resume Coding in ChatGPT Without Losing Your Context - Photo by [Growtika](https://unsplash.com/@growtika) on [Unsplash](https://unsplash.com/photos/a-computer-with-a-keyboard-and-mouse-yGQmjh2uOTg)" >}}
 
 Let me walk you through something that’s honestly changed the way I code: connecting my local development environment—Visual Studio Code and even my terminal—to ChatGPT using the Model Context Protocol (MCP). This isn’t just about getting code suggestions. It’s about resuming exactly where you left off, with all your previous chat context, and letting ChatGPT read and write directly into your project. If you’re used to Copilot, this is a whole different level.
 
@@ -38,8 +37,7 @@ I had this MCP server project. I’d already chatted with ChatGPT about it on my
 
 I could have used Copilot, but honestly, the chat experience is just more pleasant with ChatGPT. Plus, having that history is super useful.
 
-![Photo by Growtika](https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxHUFQlMjBNQ1AlMjBjb2RpbmclMjB3b3JrZmxvdyUyMHRlcm1pbmFsJTIwaW50ZWdyYXRpb258ZW58MHwwfHx8MTc2NzA5NzM0OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Resume Coding in ChatGPT Without Losing Your Context")
-*How to Resume Coding in ChatGPT Without Losing Your Context - Photo by [Growtika](https://unsplash.com/@growtika) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-FQ3lFA4Zi58)*
+{{< figure src="https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxHUFQlMjBNQ1AlMjBjb2RpbmclMjB3b3JrZmxvdyUyMHRlcm1pbmFsJTIwaW50ZWdyYXRpb258ZW58MHwwfHx8MTc2NzA5NzM0OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A on a desk" title="How to Resume Coding in ChatGPT Without Losing Your Context" caption="How to Resume Coding in ChatGPT Without Losing Your Context - Photo by [Growtika](https://unsplash.com/@growtika) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-FQ3lFA4Zi58)" >}}
 
 ### Code Writing and Applying Changes
 
@@ -73,8 +71,7 @@ You might remember when OpenAI called this “function calling.” Now, everyone
 
 ### Some Tech Notes
 
-![Binary source code – html php java program code – Webdesign](https://images.unsplash.com/photo-1610466896927-699424f3c86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxHUFQlMjBNQ1AlMjBjb2RpbmclMjB3b3JrZmxvdyUyMHRlcm1pbmFsJTIwaW50ZWdyYXRpb258ZW58MHwwfHx8MTc2NzA5NzM0OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Resume Coding in ChatGPT Without Losing Your Context")
-*How to Resume Coding in ChatGPT Without Losing Your Context - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/text-JBfE4vFLCis)*
+{{< figure src="https://images.unsplash.com/photo-1610466896927-699424f3c86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxHUFQlMjBNQ1AlMjBjb2RpbmclMjB3b3JrZmxvdyUyMHRlcm1pbmFsJTIwaW50ZWdyYXRpb258ZW58MHwwfHx8MTc2NzA5NzM0OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Binary source code – html php java program code – Webdesign" title="How to Resume Coding in ChatGPT Without Losing Your Context" caption="How to Resume Coding in ChatGPT Without Losing Your Context - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/text-JBfE4vFLCis)" >}}
 
 - The ChatGPT desktop app is built with ElectronJS. It’s not the fastest for heavy stuff like video editing, but for coding, it’s fine.
 - If you’re deploying projects, I’ve had good luck with [Railway](https://railway.app) for quick Node.js or Go APIs. It’s cheap and reliable—$5 a month for the hobby plan, and I’ve used it for over a year without issues.

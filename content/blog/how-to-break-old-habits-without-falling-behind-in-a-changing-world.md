@@ -12,8 +12,7 @@ original_title = "Pourquoi faut-il sortir de ses anciennes habitudes ?"
 source_medium = "https://medium.com/@phenrysay/15ae42cf01bc"
 +++
 
-![Flower on the asphalt](https://images.unsplash.com/photo-1593338952121-2e39d38fc3b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGJyZWFraW5nJTIwaGFiaXRzJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTU0MTYxMjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Old Habits Without Falling Behind in a Changing World")
-*How to Break Old Habits Without Falling Behind in a Changing World - Photo by [Elisa Calvet B.](https://unsplash.com/@elisa_cb) on [Unsplash](https://unsplash.com/photos/green-plant-on-gray-concrete-floor-3rNYHBsAnvw)*
+{{< figure src="https://images.unsplash.com/photo-1593338952121-2e39d38fc3b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGJyZWFraW5nJTIwaGFiaXRzJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTU0MTYxMjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Flower on the asphalt" title="How to Break Old Habits Without Falling Behind in a Changing World" caption="How to Break Old Habits Without Falling Behind in a Changing World - Photo by [Elisa Calvet B.](https://unsplash.com/@elisa_cb) on [Unsplash](https://unsplash.com/photos/green-plant-on-gray-concrete-floor-3rNYHBsAnvw)" >}}
 
 There’s something I feel deeply about: the need to break away from old habits and ways of thinking. The world has never demanded so much from us—not just in terms of effort, but in how we invest ourselves, how we learn, and how we adapt.
 
@@ -27,8 +26,7 @@ But don’t just try to be clever for the sake of it. If you want to create some
 
 Sometimes, you’ll feel lost or unsure. That’s normal. But if you keep going, if you’re consistent, everything else will follow. It’s all about regularity and perseverance. Look at anyone who’s succeeded—they’re usually the ones who didn’t give up. But there’s a difference between perseverance and stubbornness. Stubbornness is when you keep going even though it’s clearly not working. Perseverance is when you see a glimmer of hope, a light at the end of the tunnel, and you keep pushing because you know you’re close.
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGJyZWFraW5nJTIwaGFiaXRzJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTU0MTYxMjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Old Habits Without Falling Behind in a Changing World")
-*How to Break Old Habits Without Falling Behind in a Changing World - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGJyZWFraW5nJTIwaGFiaXRzJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTU0MTYxMjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How to Break Old Habits Without Falling Behind in a Changing World" caption="How to Break Old Habits Without Falling Behind in a Changing World - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 > *Perseverance is not a long race; it is many short races one after the other.*
 > —Walter Elliot
@@ -51,8 +49,7 @@ Life is short. You have to move forward, step by step, because life won’t wait
 
 ---
 
-![Photo by Tu Tran Anh](https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGJyZWFraW5nJTIwaGFiaXRzJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTU0MTYxMjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Old Habits Without Falling Behind in a Changing World")
-*How to Break Old Habits Without Falling Behind in a Changing World - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)*
+{{< figure src="https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGJyZWFraW5nJTIwaGFiaXRzJTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTU0MTYxMjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a bench with plants growing out of it" title="How to Break Old Habits Without Falling Behind in a Changing World" caption="How to Break Old Habits Without Falling Behind in a Changing World - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)" >}}
 
 ## Key Takeaways
 

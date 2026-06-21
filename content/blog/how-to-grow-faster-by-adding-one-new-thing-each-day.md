@@ -12,8 +12,7 @@ original_title = "Augmenter sa courbe de #connaissance 🤗 #apprendre"
 source_medium = "https://medium.com/@phenrysay/4d9c4ad17e41"
 +++
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxlYXJuaW5nJTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2MzgxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Faster by Adding One New Thing Each Day")
-*How to Grow Faster by Adding One New Thing Each Day - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxlYXJuaW5nJTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2MzgxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Grow Faster by Adding One New Thing Each Day" caption="How to Grow Faster by Adding One New Thing Each Day - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 If you want to grow, you need to think bigger. But how do you actually make your life bigger? The answer is surprisingly simple: add something new to your day, every single day.
 
@@ -21,8 +20,7 @@ Imagine this: each day, you start a new habit or take a new initiative. Maybe yo
 
 This daily practice does more than just fill your calendar. It lifts your success curve. When you do something new every day, you naturally learn new things. You grow. Your world gets bigger.
 
-![Photo by Alexey Demidov](https://images.unsplash.com/photo-1650077259444-7f1ca4e31fe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxlYXJuaW5nJTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2MzgxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Faster by Adding One New Thing Each Day")
-*How to Grow Faster by Adding One New Thing Each Day - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-RN0NZfh_trU)*
+{{< figure src="https://images.unsplash.com/photo-1650077259444-7f1ca4e31fe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxlYXJuaW5nJTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2MzgxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a small plant in a pot" title="How to Grow Faster by Adding One New Thing Each Day" caption="How to Grow Faster by Adding One New Thing Each Day - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-RN0NZfh_trU)" >}}
 
 As you try new activities, your network expands. You meet new people, and those people introduce you to others. Before you know it, your circle is wider, your opportunities are greater, and your success improves.
 

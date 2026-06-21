@@ -12,8 +12,7 @@ original_title = "Tu vas ENFIN retrouver ton énergie avec cette marche"
 source_medium = "https://medium.com/@phenrysay/5f6ede31595b"
 +++
 
-![Photo by Alex Gallegos](https://images.unsplash.com/photo-1711934046952-88c0b0604315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3YWxraW5nJTIwZW5lcmd5JTIwYm9vc3QlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NDIyMTE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mind and Body With a 10-Minute Walk")
-*How to Recharge Your Mind and Body With a 10-Minute Walk - Photo by [Alex Gallegos](https://unsplash.com/@alexgallegos) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-next-to-a-tree-0SOZQbxp3U8)*
+{{< figure src="https://images.unsplash.com/photo-1711934046952-88c0b0604315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3YWxraW5nJTIwZW5lcmd5JTIwYm9vc3QlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NDIyMTE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman walking down a next to a tree" title="How to Recharge Your Mind and Body With a 10-Minute Walk" caption="How to Recharge Your Mind and Body With a 10-Minute Walk - Photo by [Alex Gallegos](https://unsplash.com/@alexgallegos) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-next-to-a-tree-0SOZQbxp3U8)" >}}
 
 There’s something almost magical about taking a short walk after lunch. It’s a small ritual I’ve made my own: after I eat, I step outside and wander through my neighborhood. This isn’t about burning calories or hitting a step goal. It’s about feeling good, letting go, and giving myself a real break.
 
@@ -21,8 +20,7 @@ Just this tiny bit of movement makes a huge difference. It helps me decompress, 
 
 Walking, even for a few minutes, is a way to reclaim that. It’s a reset button. You get to pause, breathe, and remember what’s important. It sounds simple—maybe even too simple—but hardly anyone really does it. Sure, some people walk their dog, but that’s often out of duty, not for themselves. I’m talking about walking just for you. No phone, no distractions. Just you, your steps, and what’s around you.
 
-![Photo by Shiona Das](https://images.unsplash.com/photo-1721784096144-66843cadfe90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwZW5lcmd5JTIwYm9vc3QlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NDIyMTE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mind and Body With a 10-Minute Walk")
-*How to Recharge Your Mind and Body With a 10-Minute Walk - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-sidewalk-in-a-park-16eeXVh8od8)*
+{{< figure src="https://images.unsplash.com/photo-1721784096144-66843cadfe90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwZW5lcmd5JTIwYm9vc3QlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NDIyMTE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person walking down a in a park" title="How to Recharge Your Mind and Body With a 10-Minute Walk" caption="How to Recharge Your Mind and Body With a 10-Minute Walk - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-sidewalk-in-a-park-16eeXVh8od8)" >}}
 
 If the weather’s nice, that’s a bonus. Sunshine, blue sky, or even a bit of rain—each has its own charm. When it rains, I grab an umbrella and enjoy the sound and the fresh air. The point is to make the most of the moment, whatever it looks like.
 
@@ -38,8 +36,7 @@ So, take a little break. It costs nothing, and it can change your whole day. Go 
 
 ---
 
-![girl goes to the museum](https://images.unsplash.com/photo-1694377162243-3b9951e6a11a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwZW5lcmd5JTIwYm9vc3QlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NDIyMTE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mind and Body With a 10-Minute Walk")
-*How to Recharge Your Mind and Body With a 10-Minute Walk - Photo by [Demid Druz](https://unsplash.com/@demidsega) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-past-a-white-wall-ReDfIRtRIl0)*
+{{< figure src="https://images.unsplash.com/photo-1694377162243-3b9951e6a11a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwZW5lcmd5JTIwYm9vc3QlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU1NDIyMTE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="girl goes to the museum" title="How to Recharge Your Mind and Body With a 10-Minute Walk" caption="How to Recharge Your Mind and Body With a 10-Minute Walk - Photo by [Demid Druz](https://unsplash.com/@demidsega) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-past-a-white-wall-ReDfIRtRIl0)" >}}
 
 ## Key Takeaways
 - *A short daily walk, especially after lunch, can help you relax and reset.*

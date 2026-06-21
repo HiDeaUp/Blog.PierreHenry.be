@@ -12,8 +12,7 @@ original_title = "Comment je gère concrètement mon calme après avoir vécu un
 source_medium = "https://medium.com/@phenrysay/c7bf0dfcc86b"
 +++
 
-![Photo by Mona Jain](https://images.unsplash.com/photo-1713780340645-b4406b336926?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYWxtbmVzcyUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTU3Njc1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm After Negativity Without Overthinking")
-*How to Stay Calm After Negativity Without Overthinking - Photo by [Mona Jain](https://unsplash.com/@monajain) on [Unsplash](https://unsplash.com/photos/a-bottle-of-medicine-sitting-on-a-ledge-Q9ltHsFQ2jk)*
+{{< figure src="https://images.unsplash.com/photo-1713780340645-b4406b336926?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYWxtbmVzcyUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTU3Njc1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A bottle of sitting on a ledge" title="How to Stay Calm After Negativity Without Overthinking" caption="How to Stay Calm After Negativity Without Overthinking - Photo by [Mona Jain](https://unsplash.com/@monajain) on [Unsplash](https://unsplash.com/photos/a-bottle-of-medicine-sitting-on-a-ledge-Q9ltHsFQ2jk)" >}}
 
 Negative moments hit us all the time. Maybe it’s a tough day at work, a manager or colleague says something that stings, or someone you care about lets you down. Sometimes, it’s just a stranger in a supermarket who treats you badly, or a disagreement with your partner, parent, or child. Suddenly, you feel misunderstood, maybe even accused of being selfish or stubborn, when all you wanted was something a little different for once.
 
@@ -27,8 +26,7 @@ When you start seeing life this way, everything changes. You feel lighter, more 
 
 Maybe you can use triggers to build new routines, or finally do something you’ve been putting off. Ask yourself: *What can I do today to enjoy my life in a richer, more meaningful way?* When you focus on the present, you free yourself from mental clutter and stress. That tension in your chest, that feeling of being overwhelmed—it starts to fade.
 
-![thinking quietly at the beach](https://images.unsplash.com/photo-1650862199267-ddd6106b56bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYWxtbmVzcyUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTU3Njc1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm After Negativity Without Overthinking")
-*How to Stay Calm After Negativity Without Overthinking - Photo by [Chris Riggs](https://unsplash.com/@bigrig) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-dock-looking-out-at-the-water-10tIQt1BDSw)*
+{{< figure src="https://images.unsplash.com/photo-1650862199267-ddd6106b56bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYWxtbmVzcyUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTU3Njc1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="thinking quietly at the beach" title="How to Stay Calm After Negativity Without Overthinking" caption="How to Stay Calm After Negativity Without Overthinking - Photo by [Chris Riggs](https://unsplash.com/@bigrig) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-dock-looking-out-at-the-water-10tIQt1BDSw)" >}}
 
 Today is all we have. So why not give it everything? Even if you only do one small thing for ten minutes, you’re laying a brick in the foundation of your life. Every little step builds something solid and real.
 
@@ -48,8 +46,7 @@ Distractions, notifications, stress, fear, the demands of others—they steal ou
 
 Use your time wisely. Decide how you want to spend it, and stick to that. When you do, you’ll have more energy and use your time in a smarter, more effective way. That’s how you grow, how you succeed, and how you make your life your own.
 
-![Photo by Khai Vern](https://images.unsplash.com/photo-1591116086913-e1a32e93027f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYWxtbmVzcyUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTU3Njc1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm After Negativity Without Overthinking")
-*How to Stay Calm After Negativity Without Overthinking - Photo by [Khai Vern](https://unsplash.com/@khaivern) on [Unsplash](https://unsplash.com/photos/woman-in-white-knit-sweater-sitting-on-brown-wooden-seat-aySmaTpUkzo)*
+{{< figure src="https://images.unsplash.com/photo-1591116086913-e1a32e93027f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYWxtbmVzcyUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTU3Njc1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white knit sweater sitting on brown wooden seat" title="How to Stay Calm After Negativity Without Overthinking" caption="How to Stay Calm After Negativity Without Overthinking - Photo by [Khai Vern](https://unsplash.com/@khaivern) on [Unsplash](https://unsplash.com/photos/woman-in-white-knit-sweater-sitting-on-brown-wooden-seat-aySmaTpUkzo)" >}}
 
 > *The best time to take action is today, right now. There’s no point in putting off what you want to do.*
 >

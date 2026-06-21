@@ -12,8 +12,7 @@ original_title = "Balades de nuit créatives 🌕"
 source_medium = "https://medium.com/@phenrysay/b5b24d12665a"
 +++
 
-![Photo by Eugene Lazovsky](https://images.unsplash.com/photo-1657005082608-d5808bb9abf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuaWdodCUyMHdhbGtzJTIwY3JlYXRpdml0eSUyMHNlbGYtcmVmbGVjdGlvbnxlbnwwfDB8fHwxNzU2NjM4NjE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Night Walks Spark Creativity Without Distractions")
-*How Night Walks Spark Creativity Without Distractions - Photo by [Eugene Lazovsky](https://unsplash.com/@madden32) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-path-in-the-dark-GIC33wyDLOE)*
+{{< figure src="https://images.unsplash.com/photo-1657005082608-d5808bb9abf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuaWdodCUyMHdhbGtzJTIwY3JlYXRpdml0eSUyMHNlbGYtcmVmbGVjdGlvbnxlbnwwfDB8fHwxNzU2NjM4NjE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person walking down a path in the dark" title="How Night Walks Spark Creativity Without Distractions" caption="How Night Walks Spark Creativity Without Distractions - Photo by [Eugene Lazovsky](https://unsplash.com/@madden32) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-path-in-the-dark-GIC33wyDLOE)" >}}
 
 There’s something special about walking by the river at night. The world slows down, the city’s usual noise fades, and you’re left with the gentle sounds of frogs and the occasional bird. In these moments, the mind relaxes. The calm of nature at night is not just soothing—it can actually help you think in new ways.
 
@@ -23,8 +22,7 @@ I’ve found that these night walks are not just relaxing—they’re a real boo
 
 Nature at night isn’t scary when you’re in the right spot. Sometimes you’ll see bats or ducks, maybe hear the distant sound of traffic lights, but overall, it’s peaceful. This kind of environment makes you question things in your life. You start to wonder if what you’re doing is really important to you, or if there’s something else you should focus on.
 
-![PhotoTest: Camera: Sony ILCE A7s Lens: Sony FE 50mm f/1.8 Location: Russia, Moscow, Izmaylovskiy Park. Date: 17.09.24](https://images.unsplash.com/photo-1726935209934-830fd94d9e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuaWdodCUyMHdhbGtzJTIwY3JlYXRpdml0eSUyMHNlbGYtcmVmbGVjdGlvbnxlbnwwfDB8fHwxNzU2NjM4NjE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Night Walks Spark Creativity Without Distractions")
-*How Night Walks Spark Creativity Without Distractions - Photo by [Vlad ION](https://unsplash.com/@vlad_ion) on [Unsplash](https://unsplash.com/photos/a-street-light-on-a-dark-street-at-night-eHvFZmaMlFA)*
+{{< figure src="https://images.unsplash.com/photo-1726935209934-830fd94d9e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuaWdodCUyMHdhbGtzJTIwY3JlYXRpdml0eSUyMHNlbGYtcmVmbGVjdGlvbnxlbnwwfDB8fHwxNzU2NjM4NjE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="PhotoTest: Camera: Sony ILCE A7s Lens: Sony FE 50mm f/1.8 Location: Russia, Moscow, Izmaylovskiy Park. Date: 17.09.24" title="How Night Walks Spark Creativity Without Distractions" caption="How Night Walks Spark Creativity Without Distractions - Photo by [Vlad ION](https://unsplash.com/@vlad_ion) on [Unsplash](https://unsplash.com/photos/a-street-light-on-a-dark-street-at-night-eHvFZmaMlFA)" >}}
 
 Years ago, when I was a student living in a small town, I used to take these night walks while working on a software project. I was building a content management system, and the architecture was pretty complex. There were lots of problems to solve, like detecting new modules in folders without using a database. Sometimes, I’d get stuck and just go for a walk. During these walks, ideas would come to me—ways to fix bugs, new features to add, or better ways to organize the code. I’d rush home, open my computer, and get to work right away.
 
@@ -38,8 +36,7 @@ You don’t need to live in a city like Adelaide to experience this. There’s a
 > _“In every walk with nature, one receives far more than he seeks.”_  
 — John Muir
 
-![morning run through mist/fog](https://images.unsplash.com/photo-1737545691740-a45ee882a3aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuaWdodCUyMHdhbGtzJTIwY3JlYXRpdml0eSUyMHNlbGYtcmVmbGVjdGlvbnxlbnwwfDB8fHwxNzU2NjM4NjE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Night Walks Spark Creativity Without Distractions")
-*How Night Walks Spark Creativity Without Distractions - Photo by [Alexandre ricart](https://unsplash.com/@alexandriart007) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-path-in-the-dark-iMUwmUiI1Z8)*
+{{< figure src="https://images.unsplash.com/photo-1737545691740-a45ee882a3aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuaWdodCUyMHdhbGtzJTIwY3JlYXRpdml0eSUyMHNlbGYtcmVmbGVjdGlvbnxlbnwwfDB8fHwxNzU2NjM4NjE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="morning run through mist/fog" title="How Night Walks Spark Creativity Without Distractions" caption="How Night Walks Spark Creativity Without Distractions - Photo by [Alexandre ricart](https://unsplash.com/@alexandriart007) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-path-in-the-dark-iMUwmUiI1Z8)" >}}
 
 ---
 

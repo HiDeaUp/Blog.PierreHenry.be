@@ -12,8 +12,7 @@ original_title = "Être à 100% dans tous les projets de sa vie"
 source_medium = "https://medium.com/@phenrysay/6f7c9a2c4899"
 +++
 
-![Man meditating near water. ](https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaXZpbmclMjBmdWxseSUyMG1pbmRmdWxuZXNzJTIwY2FycGUlMjBkaWVtfGVufDB8MHx8fDE3NDkzODIyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Fully Without Waiting for the “Right Time”")
-*How to Live Fully Without Waiting for the “Right Time” - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)*
+{{< figure src="https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaXZpbmclMjBmdWxseSUyMG1pbmRmdWxuZXNzJTIwY2FycGUlMjBkaWVtfGVufDB8MHx8fDE3NDkzODIyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man meditating near water." title="How to Live Fully Without Waiting for the “Right Time”" caption="How to Live Fully Without Waiting for the “Right Time” - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)" >}}
 
 Life deserves to be enjoyed to the fullest. Yet, so often, we find ourselves holding back, telling ourselves we need to save money, be careful, or wait for the right moment. Saving is important, of course, but money is just a flow—it comes and goes. Time, on the other hand, only moves forward. If you let life pass you by, if you don’t truly enjoy your time, that’s time lost forever. And time is the most precious resource we have, because it’s like a train that never stops.
 
@@ -23,8 +22,7 @@ Right now, I’m looking at a playground in front of me. There used to be a swin
 
 But otherwise, it’s a beautiful bay. This is the same bay that leads to the Sydney Opera House. We’re a bit closer to the ocean here, but it’s all part of Sydney. The Opera House is over there, the Harbour Bridge is nearby, and the ferries pass through here all the time. It’s a wonderful, calming place. I love it because it helps me relax and unwind.
 
-![Photo by Chelsea Gates](https://images.unsplash.com/photo-1591228127791-8e2eaef098d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaXZpbmclMjBmdWxseSUyMG1pbmRmdWxuZXNzJTIwY2FycGUlMjBkaWVtfGVufDB8MHx8fDE3NDkzODIyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Fully Without Waiting for the “Right Time”")
-*How to Live Fully Without Waiting for the “Right Time” - Photo by [Chelsea Gates](https://unsplash.com/@chelseacgates) on [Unsplash](https://unsplash.com/photos/person-in-blue-shorts-sitting-on-beach-shore-during-daytime-n8L1VYaypcw)*
+{{< figure src="https://images.unsplash.com/photo-1591228127791-8e2eaef098d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaXZpbmclMjBmdWxseSUyMG1pbmRmdWxuZXNzJTIwY2FycGUlMjBkaWVtfGVufDB8MHx8fDE3NDkzODIyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person in blue shorts sitting on beach shore during daytime" title="How to Live Fully Without Waiting for the “Right Time”" caption="How to Live Fully Without Waiting for the “Right Time” - Photo by [Chelsea Gates](https://unsplash.com/@chelseacgates) on [Unsplash](https://unsplash.com/photos/person-in-blue-shorts-sitting-on-beach-shore-during-daytime-n8L1VYaypcw)" >}}
 
 It’s so important to have moments where you slow down, decompress, and think about life. Often, it’s the simplest things that help us grow the most. A good book, writing a little, or just taking a step back to reflect on your life—these are the things that give us the foundation to build something bigger.
 
@@ -40,8 +38,7 @@ So, take time for yourself. Relax, unwind, and enjoy the simple things. That’s
 
 ---
 
-![Room](https://images.unsplash.com/photo-1513694203232-719a280e022f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaXZpbmclMjBmdWxseSUyMG1pbmRmdWxuZXNzJTIwY2FycGUlMjBkaWVtfGVufDB8MHx8fDE3NDkzODIyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Fully Without Waiting for the “Right Time”")
-*How to Live Fully Without Waiting for the “Right Time” - Photo by [Alexandra Gorn](https://unsplash.com/@alexagorn) on [Unsplash](https://unsplash.com/photos/dresser-beside-sofa-JIUjvqe2ZHg)*
+{{< figure src="https://images.unsplash.com/photo-1513694203232-719a280e022f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaXZpbmclMjBmdWxseSUyMG1pbmRmdWxuZXNzJTIwY2FycGUlMjBkaWVtfGVufDB8MHx8fDE3NDkzODIyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Room" title="How to Live Fully Without Waiting for the “Right Time”" caption="How to Live Fully Without Waiting for the “Right Time” - Photo by [Alexandra Gorn](https://unsplash.com/@alexagorn) on [Unsplash](https://unsplash.com/photos/dresser-beside-sofa-JIUjvqe2ZHg)" >}}
 
 ## Key Takeaways
 - Time is your most valuable resource—use it well.

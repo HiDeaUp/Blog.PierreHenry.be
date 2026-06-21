@@ -12,8 +12,7 @@ original_title = "Avoir une vie que l'on KIFFE. Possible ou pas ?"
 source_medium = "https://medium.com/@phenrysay/14bff280e61b"
 +++
 
-![Life?](https://images.unsplash.com/photo-1557070166-2e98641ec749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGxpZmUlMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2NjMzOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design a Life You Love Without Starting Over")
-*How to Design a Life You Love Without Starting Over - Photo by [kiryl](https://unsplash.com/@kshar2) on [Unsplash](https://unsplash.com/photos/life-logo-qxnXtSxVQ4Y)*
+{{< figure src="https://images.unsplash.com/photo-1557070166-2e98641ec749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGxpZmUlMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2NjMzOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Life?" title="How to Design a Life You Love Without Starting Over" caption="How to Design a Life You Love Without Starting Over - Photo by [kiryl](https://unsplash.com/@kshar2) on [Unsplash](https://unsplash.com/photos/life-logo-qxnXtSxVQ4Y)" >}}
 
 Have you ever wondered how to create the life you really want? Not just a life that looks good on paper, but one you genuinely enjoy living. Sometimes, you might feel comfortable in your own skin, but still sense that your daily routine doesn’t match your real desires. The first step to building a life you love is to visualize it. Take a moment to imagine what your ideal day would look like. Often, you’ll realize it’s not so different from your current routine. Maybe you just need to tweak a few things: more responsibility, greater respect, a better salary, or simply a more positive outlook on your everyday life.
 
@@ -28,8 +27,7 @@ The truth is, we all need challenges. A fulfilling life is full of challenges th
 > *“The best moments usually occur when a person’s body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.”*  
 — Mihaly Csikszentmihalyi
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live the dream, plan ahead, dream, plan then do, work for your dreams, do not give up, keep going, never give up, live life, live intentionally, intentionality, mindfulness, yolo, carpe diem, seize the day, ](https://images.unsplash.com/photo-1631373846797-b2fcc157ca77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGxpZmUlMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2NjMzOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design a Life You Love Without Starting Over")
-*How to Design a Life You Love Without Starting Over - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SndamMqiBD0)*
+{{< figure src="https://images.unsplash.com/photo-1631373846797-b2fcc157ca77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGxpZmUlMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2NjMzOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Design a Life You Love Without Starting Over" caption="How to Design a Life You Love Without Starting Over - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SndamMqiBD0)" >}}
 
 ## The Importance of Challenge and Freedom
 
@@ -50,8 +48,7 @@ You can also set weekly goals. Try to create something new every week. This will
 > *“Happiness is not something ready made. It comes from your own actions.”*  
 — Dalai Lama
 
-![The word dream, captured in an ornament on the windowsill, with the early morning sun, casting a beautiful golden light upon it and creating a shadow.](https://images.unsplash.com/photo-1596772160247-e66da3dcb644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGxpZmUlMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2NjMzOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design a Life You Love Without Starting Over")
-*How to Design a Life You Love Without Starting Over - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/white-love-neon-light-signage-hJXjkEoHDSk)*
+{{< figure src="https://images.unsplash.com/photo-1596772160247-e66da3dcb644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGxpZmUlMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2NjMzOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="The word dream, captured in an ornament on the windowsill, with the early morning sun, casting a beautiful golden light upon it and creating a shadow." title="How to Design a Life You Love Without Starting Over" caption="How to Design a Life You Love Without Starting Over - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/white-love-neon-light-signage-hJXjkEoHDSk)" >}}
 
 > *“Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive.”*  
 — Howard Thurman

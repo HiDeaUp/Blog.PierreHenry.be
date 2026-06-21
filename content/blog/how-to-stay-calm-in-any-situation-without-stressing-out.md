@@ -12,8 +12,7 @@ original_title = "Comment tu peux manufacturer la mise en situation ?"
 source_medium = "https://medium.com/@phenrysay/bc66a59ccd13"
 +++
 
-![Microphone](https://images.unsplash.com/photo-1538449327350-43b4fcfd35ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjB0cmFpbmluZyUyMHB1YmxpYyUyMHNwZWFraW5nJTIwY29uZmlkZW5jZXxlbnwwfDB8fHwxNzU2MTEzOTU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm in Any Situation Without Stressing Out")
-*How to Stay Calm in Any Situation Without Stressing Out - Photo by [Joao Cruz](https://unsplash.com/@jcruzweb) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-black-corded-microphone-IkEpl3JkVqU)*
+{{< figure src="https://images.unsplash.com/photo-1538449327350-43b4fcfd35ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjB0cmFpbmluZyUyMHB1YmxpYyUyMHNwZWFraW5nJTIwY29uZmlkZW5jZXxlbnwwfDB8fHwxNzU2MTEzOTU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Microphone" title="How to Stay Calm in Any Situation Without Stressing Out" caption="How to Stay Calm in Any Situation Without Stressing Out - Photo by [Joao Cruz](https://unsplash.com/@jcruzweb) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-black-corded-microphone-IkEpl3JkVqU)" >}}
 
 Have you ever wondered how some people seem so at ease during interviews, public speaking, or pitching ideas? It’s not just talent or luck. The real secret is mental preparation—manufacturing the situation in your mind before it happens.
 
@@ -21,8 +20,7 @@ Let’s say you have an interview coming up, or maybe you’re about to speak in
 
 This approach isn’t just for interviews or speeches. It works for pitching ideas, presenting products, or talking to potential investors. Speaking in public can be intimidating and stressful, even if it seems simple on paper. But when you’ve already lived through the situation in your mind, it becomes much easier to handle.
 
-![Photo by Herlambang Tinasih Gusti](https://images.unsplash.com/photo-1646579886135-068c73800308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjB0cmFpbmluZyUyMHB1YmxpYyUyMHNwZWFraW5nJTIwY29uZmlkZW5jZXxlbnwwfDB8fHwxNzU2MTEzOTU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm in Any Situation Without Stressing Out")
-*How to Stay Calm in Any Situation Without Stressing Out - Photo by [Herlambang Tinasih Gusti](https://unsplash.com/@tinasihgusti) on [Unsplash](https://unsplash.com/photos/a-man-standing-in-front-of-a-group-of-people-3kc_75Rdgyk)*
+{{< figure src="https://images.unsplash.com/photo-1646579886135-068c73800308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjB0cmFpbmluZyUyMHB1YmxpYyUyMHNwZWFraW5nJTIwY29uZmlkZW5jZXxlbnwwfDB8fHwxNzU2MTEzOTU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man in front of a group of people" title="How to Stay Calm in Any Situation Without Stressing Out" caption="How to Stay Calm in Any Situation Without Stressing Out - Photo by [Herlambang Tinasih Gusti](https://unsplash.com/@tinasihgusti) on [Unsplash](https://unsplash.com/photos/a-man-standing-in-front-of-a-group-of-people-3kc_75Rdgyk)" >}}
 
 Your environment also plays a big role in how you feel. For example, I live in a beautiful area—Elisabeth Bay. It’s a great place to relax and think. But sometimes, you have to go into the city, maybe into a more traditional office or a high-rise building. These places can feel a bit stressful, especially if you’re not used to them. If you don’t have access to the actual location where your interview or speech will happen, you can still prepare. Try renting a meeting room in a similar building, or use a coworking space. Maybe you have a friend who works in a similar office and can let you practice there. The goal is to get used to the kind of environment where your event will take place.
 
@@ -36,8 +34,7 @@ When you do this, you’ll find that the real event feels much easier. You’ve 
 
 ---
 
-![Photo by Akshay Chauhan](https://images.unsplash.com/photo-1657740985886-8db6906bc1f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjB0cmFpbmluZyUyMHB1YmxpYyUyMHNwZWFraW5nJTIwY29uZmlkZW5jZXxlbnwwfDB8fHwxNzU2MTEzOTU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm in Any Situation Without Stressing Out")
-*How to Stay Calm in Any Situation Without Stressing Out - Photo by [Akshay Chauhan](https://unsplash.com/@akshayspaceship) on [Unsplash](https://unsplash.com/photos/a-microphone-on-a-stand-MsCiikhkx1Y)*
+{{< figure src="https://images.unsplash.com/photo-1657740985886-8db6906bc1f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjB0cmFpbmluZyUyMHB1YmxpYyUyMHNwZWFraW5nJTIwY29uZmlkZW5jZXxlbnwwfDB8fHwxNzU2MTEzOTU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A on a stand" title="How to Stay Calm in Any Situation Without Stressing Out" caption="How to Stay Calm in Any Situation Without Stressing Out - Photo by [Akshay Chauhan](https://unsplash.com/@akshayspaceship) on [Unsplash](https://unsplash.com/photos/a-microphone-on-a-stand-MsCiikhkx1Y)" >}}
 
 ## Key Takeaways
 - Mental rehearsal makes real-life situations feel easier and less stressful.

@@ -12,8 +12,7 @@ original_title = "La vérité crue pour atteindre la vie de tes rêves (sans bul
 source_medium = "https://medium.com/@phenrysay/f6f95d392bac"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGxpZmUlMjBnb2Fsc3xlbnwwfDB8fHwxNzU3NzU0NTc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "Stop Waiting: Start Living Your Dream Life or Stay Stuck")
-*Stop Waiting: Start Living Your Dream Life or Stay Stuck - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGxpZmUlMjBnb2Fsc3xlbnwwfDB8fHwxNzU3NzU0NTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="Stop Waiting: Start Living Your Dream Life or Stay Stuck" caption="Stop Waiting: Start Living Your Dream Life or Stay Stuck - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Have you ever noticed how easy it is to drift through your days, following routines that no longer serve you? We often organize our lives in ways that feel natural, but if we look closer, we might realize our habits and daily structure are not helping us move toward our real goals. Maybe you wake up late, hold onto habits you know aren’t good for you, or stay in a job you dislike. The answer to change is right in front of us, yet we convince ourselves that now is never the right time.
 
@@ -27,8 +26,7 @@ Maybe your first attempts at new habits won’t be perfect. Maybe you’ll try s
 
 The real purpose of life is simple: to be happy and fulfilled. The only way to get there is to keep questioning yourself, to become a new and better version of who you were yesterday. Don’t compare yourself to others. Compare yourself to who you were yesterday. Ask, “How can I make today better than yesterday?” By doing this, you’ll create days that feel good, even great.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGxpZmUlMjBnb2Fsc3xlbnwwfDB8fHwxNzU3NzU0NTc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "Stop Waiting: Start Living Your Dream Life or Stay Stuck")
-*Stop Waiting: Start Living Your Dream Life or Stay Stuck - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGxpZmUlMjBnb2Fsc3xlbnwwfDB8fHwxNzU3NzU0NTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="Stop Waiting: Start Living Your Dream Life or Stay Stuck" caption="Stop Waiting: Start Living Your Dream Life or Stay Stuck - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Time is precious. Every minute you spend doing something you dislike is a minute you’ll never get back. You can’t rewind life. The best investment you can make is in your own day. At the end of each day, take a moment to look back. Review your day step by step, from evening to morning. Notice what went well, what didn’t, and what you could improve. Write down what you enjoyed and what you’d like to do differently tomorrow. This simple habit will help you learn from your mistakes and build better days, one after another.
 
@@ -48,8 +46,7 @@ Life is short. Start living well today, not tomorrow. The best moment to act is 
 
 ---
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGxpZmUlMjBnb2Fsc3xlbnwwfDB8fHwxNzU3NzU0NTc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "Stop Waiting: Start Living Your Dream Life or Stay Stuck")
-*Stop Waiting: Start Living Your Dream Life or Stay Stuck - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGxpZmUlMjBnb2Fsc3xlbnwwfDB8fHwxNzU3NzU0NTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="Stop Waiting: Start Living Your Dream Life or Stay Stuck" caption="Stop Waiting: Start Living Your Dream Life or Stay Stuck - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 ## Key Takeaways
 

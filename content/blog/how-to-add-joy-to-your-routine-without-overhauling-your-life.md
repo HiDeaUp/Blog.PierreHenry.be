@@ -12,8 +12,7 @@ original_title = "Ajouter de l’agréable dans ses journées 🤗"
 source_medium = "https://medium.com/@phenrysay/cc1c6f4becee"
 +++
 
-![Photo by Toa Heftiba](https://images.unsplash.com/photo-1581016793537-613987c89aad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUwODIwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Add Joy to Your Routine Without Overhauling Your Life")
-*How to Add Joy to Your Routine Without Overhauling Your Life - Photo by [Toa Heftiba](https://unsplash.com/@heftiba) on [Unsplash](https://unsplash.com/photos/woman-in-gray-sweater-holding-cigarette-stick-ks8I0HL5rPI)*
+{{< figure src="https://images.unsplash.com/photo-1581016793537-613987c89aad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUwODIwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in gray sweater holding stick" title="How to Add Joy to Your Routine Without Overhauling Your Life" caption="How to Add Joy to Your Routine Without Overhauling Your Life - Photo by [Toa Heftiba](https://unsplash.com/@heftiba) on [Unsplash](https://unsplash.com/photos/woman-in-gray-sweater-holding-cigarette-stick-ks8I0HL5rPI)" >}}
 
 Many of us spend our weekends and free time simply recovering from work, only to find ourselves doing things that don’t really make us feel fulfilled. We go through the motions—cleaning the house, mowing the lawn, running errands, or dealing with paperwork. These tasks are necessary, but they rarely leave us feeling truly happy or accomplished.
 
@@ -21,8 +20,7 @@ What if you could add more enjoyable moments to your days, even when life feels 
 
 When you regularly do things that make you happy, even if it’s just for an hour a day, you’ll notice a boost in your energy and overall well-being. You’ll find yourself tackling the less enjoyable tasks more quickly, knowing that something fun is waiting for you afterward. This is why it’s so important to have a list of activities that you love. Whenever you have a free hour or two, you can pick something from your list and do it.
 
-![Facial cleansing tools and massage jade roller](https://images.unsplash.com/photo-1592136957897-b2b6ca21e10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUwODIwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Add Joy to Your Routine Without Overhauling Your Life")
-*How to Add Joy to Your Routine Without Overhauling Your Life - Photo by [Content Pixie](https://unsplash.com/@contentpixie) on [Unsplash](https://unsplash.com/photos/silver-spoon-and-fork-on-white-surface-0z4h9qneDMA)*
+{{< figure src="https://images.unsplash.com/photo-1592136957897-b2b6ca21e10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUwODIwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Facial cleansing tools and massage jade roller" title="How to Add Joy to Your Routine Without Overhauling Your Life" caption="How to Add Joy to Your Routine Without Overhauling Your Life - Photo by [Content Pixie](https://unsplash.com/@contentpixie) on [Unsplash](https://unsplash.com/photos/silver-spoon-and-fork-on-white-surface-0z4h9qneDMA)" >}}
 
 Your list could include anything that makes you feel good: going for a walk, reading, playing badminton or tennis with friends, heading to the beach, or any other small passion or challenge. The key is to make time for these moments, even on weekends that might otherwise feel dull.
 
@@ -40,8 +38,7 @@ By making space for what you enjoy, you’ll feel more accomplished and happier 
 - Even one hour a day spent on something you love can boost your happiness and energy.
 - Use your free time to do what makes you feel good, not just what needs to be done.
 
-![Relaxation meets beauty technology as a woman in a bathrobe effortlessly uses a laser hair removal device on her legs.](https://images.unsplash.com/photo-1702261952303-581dd411cc54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUwODIwNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Add Joy to Your Routine Without Overhauling Your Life")
-*How to Add Joy to Your Routine Without Overhauling Your Life - Photo by [JOVS Beauty](https://unsplash.com/@jovsbeauty) on [Unsplash](https://unsplash.com/photos/a-woman-is-sitting-in-a-bathtub-with-a-book-BD87G8l8mm8)*
+{{< figure src="https://images.unsplash.com/photo-1702261952303-581dd411cc54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUwODIwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Relaxation meets beauty technology as a woman in a bathrobe effortlessly uses a laser hair removal device on her legs." title="How to Add Joy to Your Routine Without Overhauling Your Life" caption="How to Add Joy to Your Routine Without Overhauling Your Life - Photo by [JOVS Beauty](https://unsplash.com/@jovsbeauty) on [Unsplash](https://unsplash.com/photos/a-woman-is-sitting-in-a-bathtub-with-a-book-BD87G8l8mm8)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "ARRÊTER DE RATER SA VIE… COMMENT ?"
 source_medium = "https://medium.com/@phenrysay/b2a602f0b8f1"
 +++
 
-![Photo by Ian Schneider](https://images.unsplash.com/photo-1455849318743-b2233052fcff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNoYW5nZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc0OTMwMTIyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Your Life Without Waiting for Change")
-*How to Take Charge of Your Life Without Waiting for Change - Photo by [Ian Schneider](https://unsplash.com/@goian) on [Unsplash](https://unsplash.com/photos/two-person-standing-on-gray-tile-paving-TamMbr4okv4)*
+{{< figure src="https://images.unsplash.com/photo-1455849318743-b2233052fcff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNoYW5nZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc0OTMwMTIyNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two person on gray tile paving" title="How to Take Charge of Your Life Without Waiting for Change" caption="How to Take Charge of Your Life Without Waiting for Change - Photo by [Ian Schneider](https://unsplash.com/@goian) on [Unsplash](https://unsplash.com/photos/two-person-standing-on-gray-tile-paving-TamMbr4okv4)" >}}
 
 Have you ever felt like your life is just passing by, day after day, and you’re not really living it? Maybe you feel stuck, unhappy, and you don’t see any real options to change things. If that sounds familiar, you’re not alone. Life is like a container—a jar filled with time. You’re inside that jar, and every day, a little bit of your time evaporates. If you don’t do much with it, if you just let it slip away, you end up feeling empty and sad. And the more you let your days reflect that sadness, the more your life will feel miserable.
 
@@ -23,8 +22,7 @@ I spent over $92,000 on courses and seminars in the US, Australia, the UK, Irela
 
 Here’s something simple but powerful: Think of your day like a jar. If you fill it with sand first—the little, unimportant things—you won’t have room for the big rocks, the things that really matter. Start your day with the most important tasks, the “big rocks.” Only after that, fill in the gaps with the smaller, less important things—the sand.
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNoYW5nZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc0OTMwMTIyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Your Life Without Waiting for Change")
-*How to Take Charge of Your Life Without Waiting for Change - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNoYW5nZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc0OTMwMTIyNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Take Charge of Your Life Without Waiting for Change" caption="How to Take Charge of Your Life Without Waiting for Change - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 This is the same idea as “eat that frog.” If you had to eat a horrible frog today, you’d probably spend all day dreading it if you waited. It would take up space in your mind and ruin your day. But if you eat the frog first thing in the morning, it’s done. You’re free. You can enjoy the rest of your day. That’s how you move forward. Otherwise, you’ll procrastinate, and your mind will be cluttered with things you haven’t done.
 
@@ -40,8 +38,7 @@ Life is a path. If the path is pleasant, you don’t even worry about where it l
 
 ---
 
-![Photo by Jeremy Beck](https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNoYW5nZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc0OTMwMTIyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Your Life Without Waiting for Change")
-*How to Take Charge of Your Life Without Waiting for Change - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)*
+{{< figure src="https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGNoYW5nZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc0OTMwMTIyNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Imagine text" title="How to Take Charge of Your Life Without Waiting for Change" caption="How to Take Charge of Your Life Without Waiting for Change - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)" >}}
 
 ## Key Takeaways
 - Life is a container of time—don’t let it evaporate.

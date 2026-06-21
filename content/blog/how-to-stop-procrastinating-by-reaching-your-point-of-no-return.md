@@ -12,8 +12,7 @@ original_title = "Les points de non-retour"
 source_medium = "https://medium.com/@phenrysay/ac9432edaedc"
 +++
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBwcm9jcmFzdGluYXRpb24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY2MzM0Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Procrastinating by Reaching Your Point of No Return")
-*How to Stop Procrastinating by Reaching Your Point of No Return - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBwcm9jcmFzdGluYXRpb24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY2MzM0Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Stop Procrastinating by Reaching Your Point of No Return" caption="How to Stop Procrastinating by Reaching Your Point of No Return - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 When it comes to productivity, one of the most powerful tools you can use is what I call the "point of no return." This is a moment, an action, or a decision that makes it very hard to go back. Once you cross that line, you have no choice but to move forward. It’s like building a house or starting a business—once the foundation is laid, you’re committed. You can’t just walk away. You have to make it work.
 
@@ -27,8 +26,7 @@ I’ve done something similar myself. I once flew from Doha to Auckland—almost
 
 This approach works for almost anything. The moment you take that first step, you can’t turn back. You have to go all in. It’s a great way to stop procrastinating, or at least reduce it. Next time I take a long flight, I’ll bring my writing device and write, write, write.
 
-![Journal on the bed with ink pen](https://images.unsplash.com/photo-1601128688653-7dc405e3ac4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBwcm9jcmFzdGluYXRpb24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY2MzM0Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Procrastinating by Reaching Your Point of No Return")
-*How to Stop Procrastinating by Reaching Your Point of No Return - Photo by [Becky Fantham](https://unsplash.com/@hungrybecky) on [Unsplash](https://unsplash.com/photos/brown-and-white-book-on-gray-textile-la6C554Ev_o)*
+{{< figure src="https://images.unsplash.com/photo-1601128688653-7dc405e3ac4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBwcm9jcmFzdGluYXRpb24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY2MzM0Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Journal on the bed with ink pen" title="How to Stop Procrastinating by Reaching Your Point of No Return" caption="How to Stop Procrastinating by Reaching Your Point of No Return - Photo by [Becky Fantham](https://unsplash.com/@hungrybecky) on [Unsplash](https://unsplash.com/photos/brown-and-white-book-on-gray-textile-la6C554Ev_o)" >}}
 
 There’s a famous Chinese proverb:  
 > *The best time to plant a tree was twenty years ago. The second best time is now.*  
@@ -52,8 +50,7 @@ Here’s another quote I love:
 
 Sometimes, you just have to start walking. Enjoy the journey. Don’t worry too much about the destination.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBwcm9jcmFzdGluYXRpb24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY2MzM0Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Procrastinating by Reaching Your Point of No Return")
-*How to Stop Procrastinating by Reaching Your Point of No Return - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBwcm9jcmFzdGluYXRpb24lMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY2MzM0Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Stop Procrastinating by Reaching Your Point of No Return" caption="How to Stop Procrastinating by Reaching Your Point of No Return - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ---
 

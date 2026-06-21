@@ -12,9 +12,7 @@ original_title = "Comment sauver une journée pourrie ?"
 source_medium = "https://medium.com/@phenrysay/a26239093de3"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, make this the day, don't hesitate, procrastination, decision time, nocrastination, make the jump, exercise, new start, discipline, now is the time, just do it, make the change, diet, weight loss, walk, new leaf, turn over a new leaf, life change, stuck in a rut, move on, 
-](https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxiYWQlMjBkYXklMjByZWNvdmVyeSUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHklMjB0aXBzfGVufDB8MHx8fDE3NTU0MjM4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Save Your Day Without Starting Over")
-*How to Save Your Day Without Starting Over - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)*
+{{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxiYWQlMjBkYXklMjByZWNvdmVyeSUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHklMjB0aXBzfGVufDB8MHx8fDE3NTU0MjM4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How to Save Your Day Without Starting Over" caption="How to Save Your Day Without Starting Over - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 
 ### When It Feels Like the Day Is Lost, Here’s How to Turn It Around
 
@@ -43,8 +41,7 @@ Music is a game changer. Create a playlist that motivates and inspires you. When
 
 If you like the vibe of a trendy café, try working in one. The atmosphere can boost your energy. If you live in the countryside or can’t get out, take a walk outside or work near a window. If the weather’s bad, playlists are always an option.
 
-![Young blond woman is sitting in office working with computer. She is tired after long day at work.](https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxiYWQlMjBkYXklMjByZWNvdmVyeSUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHklMjB0aXBzfGVufDB8MHx8fDE3NTU0MjM4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Save Your Day Without Starting Over")
-*How to Save Your Day Without Starting Over - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)*
+{{< figure src="https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxiYWQlMjBkYXklMjByZWNvdmVyeSUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHklMjB0aXBzfGVufDB8MHx8fDE3NTU0MjM4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Young blond woman is sitting in office working with computer. She is tired after long day at work." title="How to Save Your Day Without Starting Over" caption="How to Save Your Day Without Starting Over - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)" >}}
 
 White noise is another tool. You can buy a white noise machine online, or just search for “white noise” on YouTube or Spotify. There are also apps like Coffitivity, which mixes café sounds with productivity. Try searching for “coffee shop songs,” “lofi,” or “Pomodoro” playlists.
 
@@ -72,8 +69,7 @@ Ask yourself: what can I do today to invest in my life? Don’t put it off. If y
 
 *Everything is possible if you really want it. The only question is: what will you do today?*
 
-![Photo by Claudio Schwarz](https://images.unsplash.com/photo-1579892239804-00e520393fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxiYWQlMjBkYXklMjByZWNvdmVyeSUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHklMjB0aXBzfGVufDB8MHx8fDE3NTU0MjM4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Save Your Day Without Starting Over")
-*How to Save Your Day Without Starting Over - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/black-leather-textile-with-gold-m-OC06JiYuDnI)*
+{{< figure src="https://images.unsplash.com/photo-1579892239804-00e520393fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxiYWQlMjBkYXklMjByZWNvdmVyeSUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHklMjB0aXBzfGVufDB8MHx8fDE3NTU0MjM4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black leather textile with gold m" title="How to Save Your Day Without Starting Over" caption="How to Save Your Day Without Starting Over - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/black-leather-textile-with-gold-m-OC06JiYuDnI)" >}}
 
 ---
 

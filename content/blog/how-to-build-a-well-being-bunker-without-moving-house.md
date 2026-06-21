@@ -12,10 +12,7 @@ original_title = "JE ME SUIS CRÉÉ MON BUNKER DE BIEN-ÊTRE !!!"
 source_medium = "https://medium.com/@phenrysay/13e13e43662c"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, prove them wrong, prove, them, wrong, live well, best revenge, don't give up, win, persevere, live well, optimism, ambition, good living, living well, life goal, do no harm, golden rule, woke, yolo, intentionality, wellness, mindfulness, mindful,
-
-](https://images.unsplash.com/photo-1603206004521-3946a574d626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQzNjk4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Well-Being Bunker Without Moving House")
-*How to Build a Well-Being Bunker Without Moving House - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-8Bv4MLU2RR0)*
+{{< figure src="https://images.unsplash.com/photo-1603206004521-3946a574d626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQzNjk4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build a Well-Being Bunker Without Moving House" caption="How to Build a Well-Being Bunker Without Moving House - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-8Bv4MLU2RR0)" >}}
 
 ### Build Your Own Bubble of Well-Being
 
@@ -32,8 +29,7 @@ But what if you could build your own little world that lifts you up instead of d
 
 Now, you might say, “But I live in a tiny apartment, how can I have a beautiful life?” The truth is, it starts in your mind. And even if your space is small, you can make it wonderful.
 
-![Mental Health](https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQzNjk4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Well-Being Bunker Without Moving House")
-*How to Build a Well-Being Bunker Without Moving House - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)*
+{{< figure src="https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQzNjk4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health" title="How to Build a Well-Being Bunker Without Moving House" caption="How to Build a Well-Being Bunker Without Moving House - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)" >}}
 
 Start by looking at everything you own. Most of us have so many things we never use. Here’s a simple trick: take everything you haven’t used today, put it in plastic boxes, label them with today’s date, and set them aside. In three to six months, check those boxes. If you haven’t taken something out, it’s time to give it away, throw it out, or sell it. This is the first step to clearing out the clutter.
 
@@ -49,8 +45,7 @@ After that, add some plants. Plants are cheap—at IKEA, you can get one for jus
 
 Building your own well-being bunker isn’t about having a big house or lots of money. It’s about making the most of what you have, clearing out what you don’t need, and filling your space with things that help you feel good and grow. It’s about habits, not excuses. Start small, and you’ll see big changes.
 
-![Photo by Alexey Demidov](https://images.unsplash.com/photo-1632188245511-85922017f4bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQzNjk4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Well-Being Bunker Without Moving House")
-*How to Build a Well-Being Bunker Without Moving House - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-standing-in-a-field-with-a-flower-in-her-hand-GfFW-4U58S4)*
+{{< figure src="https://images.unsplash.com/photo-1632188245511-85922017f4bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQzNjk4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman in a field with a flower in her hand GfFW" title="How to Build a Well-Being Bunker Without Moving House" caption="How to Build a Well-Being Bunker Without Moving House - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-standing-in-a-field-with-a-flower-in-her-hand-GfFW-4U58S4)" >}}
 
 ---
 

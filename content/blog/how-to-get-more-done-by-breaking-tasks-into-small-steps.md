@@ -12,8 +12,7 @@ original_title = "Pourquoi devrais-tu te dépasser ? Cela vaut-il la peine?"
 source_medium = "https://medium.com/@phenrysay/2a508c07794f"
 +++
 
-![audiobook, Jim Rohn](https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjQ1MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done by Breaking Tasks Into Small Steps")
-*How to Get More Done by Breaking Tasks Into Small Steps - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)*
+{{< figure src="https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjQ1MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="audiobook, Jim Rohn" title="How to Get More Done by Breaking Tasks Into Small Steps" caption="How to Get More Done by Breaking Tasks Into Small Steps - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)" >}}
 
 Productivity always wins. When you are productive, when you get things done in an organized way, you set yourself up for real progress. But what does it really mean to be productive? At its core, productivity is about knowing exactly what to do, setting a clear outcome, and giving yourself a deadline or a set amount of time.
 
@@ -21,8 +20,7 @@ For example, you might decide, “From now until forty-five minutes from now, I�
 
 Let’s say you have a big project, like creating a software program. That can feel overwhelming if you look at it as one giant task. But if you break it down into smaller steps—like building the sign-up page, saving data in a database, setting up sessions and logins, working on the frontend, and finally hosting it—you suddenly have a clear path. Each step is manageable. You can even split these into tickets or mini-tasks, each taking thirty to forty-five minutes, or up to ninety minutes.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjQ1MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done by Breaking Tasks Into Small Steps")
-*How to Get More Done by Breaking Tasks Into Small Steps - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjQ1MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Get More Done by Breaking Tasks Into Small Steps" caption="How to Get More Done by Breaking Tasks Into Small Steps - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 This approach makes everything feel lighter. The friction to get started drops because you’re not staring at a mountain; you’re just taking the next small step. Ninety minutes doesn’t sound like much, but if you tell yourself, “I have to build a whole software program in one day,” you’ll probably never start. You’ll talk yourself out of it before you even begin.
 
@@ -36,8 +34,7 @@ That’s the real power of good organization and breaking things down. It’s no
 
 ---
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjQ1MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done by Breaking Tasks Into Small Steps")
-*How to Get More Done by Breaking Tasks Into Small Steps - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjQ1MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Get More Done by Breaking Tasks Into Small Steps" caption="How to Get More Done by Breaking Tasks Into Small Steps - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 ## Key Takeaways
 - Productivity is about knowing what to do, setting a clear outcome, and giving yourself a time limit.

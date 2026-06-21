@@ -12,8 +12,7 @@ original_title = "Se renouveler. Travailler sur son mental"
 source_medium = "https://medium.com/@phenrysay/9f1a54f13b86"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, christian, jesus, mark, gospel, greatest commandment, heart, soul, mind, strength, love the lord, love god, ](https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwbWVudGFsJTIwc3RyZW5ndGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEyMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Strengthen Your Mind Without Letting Self-Doubt Win")
-*How to Strengthen Your Mind Without Letting Self-Doubt Win - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)*
+{{< figure src="https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwbWVudGFsJTIwc3RyZW5ndGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEyMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles the words heart soul mind and" title="How to Strengthen Your Mind Without Letting Self-Doubt Win" caption="How to Strengthen Your Mind Without Letting Self-Doubt Win - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)" >}}
 
 Mental strength is the foundation for achieving anything meaningful. Often, what keeps us from moving forward are not external obstacles, but the invisible barriers we build for ourselves. These self-imposed limits shape our view of life, making us believe that certain things are out of reach. Over time, we get used to these boundaries, and it becomes hard to admit that we are the ones holding ourselves back.
 
@@ -23,8 +22,7 @@ Letting go is essential. Imagine clearing out all the mental clutter, starting f
 
 The first step is to remove those mental barriers and limiting beliefs. Having a clear vision of what you want is powerful. One simple exercise is to use positive affirmations every morning. Stand in front of the mirror and say things like, “Today will be an amazing day. I will succeed. I believe in myself. Opportunities will come my way.” Repeat this 16 to 20 times each day. It might feel strange at first, but over time, it changes how you see yourself and what you believe is possible.
 
-![Strength bench](https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwbWVudGFsJTIwc3RyZW5ndGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEyMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Strengthen Your Mind Without Letting Self-Doubt Win")
-*How to Strengthen Your Mind Without Letting Self-Doubt Win - Photo by [Dulcey Lima](https://unsplash.com/@dulceylima) on [Unsplash](https://unsplash.com/photos/brown-wooden-fence-on-gray-and-white-ground-1rP5Xc5RGvU)*
+{{< figure src="https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwbWVudGFsJTIwc3RyZW5ndGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEyMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Strength bench" title="How to Strengthen Your Mind Without Letting Self-Doubt Win" caption="How to Strengthen Your Mind Without Letting Self-Doubt Win - Photo by [Dulcey Lima](https://unsplash.com/@dulceylima) on [Unsplash](https://unsplash.com/photos/brown-wooden-fence-on-gray-and-white-ground-1rP5Xc5RGvU)" >}}
 
 Many people dismiss this as useless or awkward, but it works if you stick with it for a few weeks. You have to believe in it and keep going, even if it feels odd. Little by little, you’ll notice a real difference.
 
@@ -40,8 +38,7 @@ Every day, do one small thing that moves you closer to your goal. Success is not
 
 So, focus on changing your mindset. Ask yourself each day: How can I make today exceptional? How can I improve, iterate, and transform my days so that my life becomes a reflection of who I truly am?
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwbWVudGFsJTIwc3RyZW5ndGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEyMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Strengthen Your Mind Without Letting Self-Doubt Win")
-*How to Strengthen Your Mind Without Letting Self-Doubt Win - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)*
+{{< figure src="https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwbWVudGFsJTIwc3RyZW5ndGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEyMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word mind" title="How to Strengthen Your Mind Without Letting Self-Doubt Win" caption="How to Strengthen Your Mind Without Letting Self-Doubt Win - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)" >}}
 
 ---
 

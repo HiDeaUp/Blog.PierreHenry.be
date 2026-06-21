@@ -12,8 +12,7 @@ original_title = "Le multi tâche 🎯"
 source_medium = "https://medium.com/@phenrysay/8cfea252f585"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653213096278-54568fdd7cea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzU2NjM5MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Falling for the Multitasking Trap")
-*How to Get More Done Without Falling for the Multitasking Trap - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-on-it-cbpHo6fd2v4)*
+{{< figure src="https://images.unsplash.com/photo-1653213096278-54568fdd7cea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzU2NjM5MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper on it" title="How to Get More Done Without Falling for the Multitasking Trap" caption="How to Get More Done Without Falling for the Multitasking Trap - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-on-it-cbpHo6fd2v4)" >}}
 
 Many people believe they have the power to multitask, to be that person who can handle several things at once. Maybe you think you can watch TV while writing, or listen to someone talk while taking notes. It feels like a superpower. But the truth is, multitasking is an illusion. Our brains are not built to focus on two demanding tasks at the same time.
 
@@ -23,8 +22,7 @@ When you focus on just one thing—like watching a tutorial or listening to an a
 
 There are a few exceptions. If you’re doing something automatic, like walking or cleaning, you can listen to an audiobook or a podcast. That’s because walking or cleaning doesn’t require much brainpower. Your mind can focus on the intellectual task while your body goes on autopilot. It’s like background processes on a computer. You don’t even notice you’re walking because your subconscious takes over.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzU2NjM5MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Falling for the Multitasking Trap")
-*How to Get More Done Without Falling for the Multitasking Trap - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzU2NjM5MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Get More Done Without Falling for the Multitasking Trap" caption="How to Get More Done Without Falling for the Multitasking Trap - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 But if both tasks need real concentration—like watching a seminar and writing an article at the same time—it just doesn’t work. Even writing alone needs your full attention. It’s not like walking or driving, where your brain can delegate the routine part.
 
@@ -44,8 +42,7 @@ In the end, the urge to multitask is strong, but it’s better to resist. Focus 
 
 ## Key Takeaways
 
-![Plan your routines](https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzU2NjM5MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Falling for the Multitasking Trap")
-*How to Get More Done Without Falling for the Multitasking Trap - Photo by [Boitumelo](https://unsplash.com/@writecodenow) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-Ed2fRK5ify4)*
+{{< figure src="https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzU2NjM5MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Plan your routines" title="How to Get More Done Without Falling for the Multitasking Trap" caption="How to Get More Done Without Falling for the Multitasking Trap - Photo by [Boitumelo](https://unsplash.com/@writecodenow) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-Ed2fRK5ify4)" >}}
 
 - *Multitasking is a myth; your brain can only focus on one demanding task at a time.*
 - *Switching between tasks lowers the quality of your work and your attention.*

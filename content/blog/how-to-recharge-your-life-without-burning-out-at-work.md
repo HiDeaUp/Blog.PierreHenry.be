@@ -12,8 +12,7 @@ original_title = "Ciblage de ses acquis. Technique d'apprentissage"
 source_medium = "https://medium.com/@phenrysay/75a1da1b67ff"
 +++
 
-![Spinning Dream](https://images.unsplash.com/photo-1533928298208-27ff66555d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwdGFraW5nJTIwYnJlYWtzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzODQ2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Life Without Burning Out at Work")
-*How to Recharge Your Life Without Burning Out at Work - Photo by [Christophe Hautier](https://unsplash.com/@hautier) on [Unsplash](https://unsplash.com/photos/gray-top-902vnYeoWS4)*
+{{< figure src="https://images.unsplash.com/photo-1533928298208-27ff66555d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwdGFraW5nJTIwYnJlYWtzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzODQ2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Spinning Dream" title="How to Recharge Your Life Without Burning Out at Work" caption="How to Recharge Your Life Without Burning Out at Work - Photo by [Christophe Hautier](https://unsplash.com/@hautier) on [Unsplash](https://unsplash.com/photos/gray-top-902vnYeoWS4)" >}}
 
 Have you ever noticed how easy it is to get hooked on something—even if you didn’t like it at first? Maybe you started out disliking a task at work, or you never cared much for pets or plants. But as you spend more time caring for that dog, cat, or even a neighbor’s plant, you start to pay attention, to nurture, and slowly, you find yourself appreciating it more. The same thing happens with work: what starts as a chore can become an obsession, and before you know it, you’re working late into the night, unable to switch off.
 
@@ -29,8 +28,7 @@ Sleep is a perfect example. It’s not just about the number of hours, but about
 
 Being “in the flow” and fully focused on a task is great. But staying in that state for too long can be harmful. We need to step away, breathe, and see something different. Even a short walk outside can change everything. These breaks are not just pauses—they’re opportunities to recharge, to gain perspective, and to come back stronger.
 
-![Photo by Campaign Creators](https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwdGFraW5nJTIwYnJlYWtzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzODQ2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Life Without Burning Out at Work")
-*How to Recharge Your Life Without Burning Out at Work - Photo by [Campaign Creators](https://unsplash.com/@campaign_creators) on [Unsplash](https://unsplash.com/photos/people-sitting-near-table-with-laptop-computer-qCi_MzVODoU)*
+{{< figure src="https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwdGFraW5nJTIwYnJlYWtzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzODQ2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="People sitting near table with laptop" title="How to Recharge Your Life Without Burning Out at Work" caption="How to Recharge Your Life Without Burning Out at Work - Photo by [Campaign Creators](https://unsplash.com/@campaign_creators) on [Unsplash](https://unsplash.com/photos/people-sitting-near-table-with-laptop-computer-qCi_MzVODoU)" >}}
 
 Think of yourself like a plant. A plant can survive in poor soil, but it thrives in rich, fertile ground. Your environment—your home, your workspace, the people around you—acts as your soil. If you surround yourself with positive influences and create a space that lifts you up, you’ll find more energy, more motivation, and more joy in what you do.
 
@@ -52,8 +50,7 @@ We often underestimate how much our surroundings affect us. Just like tea infuse
 
 ## Invest in Yourself
 
-![Photo by Daria Nepriakhina 🇺🇦](https://images.unsplash.com/photo-1498677231914-50deb6ba4217?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwdGFraW5nJTIwYnJlYWtzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzODQ2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Life Without Burning Out at Work")
-*How to Recharge Your Life Without Burning Out at Work - Photo by [Daria Nepriakhina 🇺🇦](https://unsplash.com/@epicantus) on [Unsplash](https://unsplash.com/photos/woman-in-blue-chambray-long-sleeved-top-sitting-on-black-leather-chair-with-silver-macbook-on-lap-i5iIhHSAtp4)*
+{{< figure src="https://images.unsplash.com/photo-1498677231914-50deb6ba4217?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwdGFraW5nJTIwYnJlYWtzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzODQ2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in blue long sleeved top sitting on black leather chair with silver macbook on lap" title="How to Recharge Your Life Without Burning Out at Work" caption="How to Recharge Your Life Without Burning Out at Work - Photo by [Daria Nepriakhina 🇺🇦](https://unsplash.com/@epicantus) on [Unsplash](https://unsplash.com/photos/woman-in-blue-chambray-long-sleeved-top-sitting-on-black-leather-chair-with-silver-macbook-on-lap-i5iIhHSAtp4)" >}}
 
 There’s also something important about investing in your own growth. When you pay for a course, a book, or a workshop, you’re more likely to take it seriously. Free things are easy to ignore, but when you’ve put something on the line, you want to get your money’s worth. That commitment pushes you to apply what you learn and to see real results.
 

@@ -12,8 +12,7 @@ original_title = "Comment ouvrir son entreprise à Singapour ? 🇸🇬"
 source_medium = "https://medium.com/@phenrysay/4112d8a57204"
 +++
 
-![Singapore Iconic view, the Merlion City Shot in the night](https://images.unsplash.com/photo-1558412711-1e05a186fad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTaW5nYXBvcmUlMjBjb21wYW55JTIwZm9ybWF0aW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMGluJTIwQXNpYSUyMGJ1c2luZXNzJTIwc2V0dXAlMjBndWlkZXxlbnwwfDB8fHwxNzU1NDE3NTc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start a Singapore Company Without Local Hassles")
-*How to Start a Singapore Company Without Local Hassles - Photo by [Kelvin Ang](https://unsplash.com/@kelvin1987) on [Unsplash](https://unsplash.com/photos/lighted-singapore-skyline-with-view-of-the-merlion-statue-njpIGBsPyto)*
+{{< figure src="https://images.unsplash.com/photo-1558412711-1e05a186fad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTaW5nYXBvcmUlMjBjb21wYW55JTIwZm9ybWF0aW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMGluJTIwQXNpYSUyMGJ1c2luZXNzJTIwc2V0dXAlMjBndWlkZXxlbnwwfDB8fHwxNzU1NDE3NTc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Singapore Iconic view, the Merlion City Shot in the night" title="How to Start a Singapore Company Without Local Hassles" caption="How to Start a Singapore Company Without Local Hassles - Photo by [Kelvin Ang](https://unsplash.com/@kelvin1987) on [Unsplash](https://unsplash.com/photos/lighted-singapore-skyline-with-view-of-the-merlion-statue-njpIGBsPyto)" >}}
 
 For a long time, I lived a pretty settled life—first in Australia, then in New Zealand. I liked using the word “sedentary” to describe myself back then. But after years in Australia, I finally took the plunge into a more nomadic lifestyle. I’d already had a taste of it in the UK, where I traveled a lot within the country, mostly based in Manchester, and even ran my first business there. Setting up a company in the UK was incredibly simple—less than five minutes and it was done.
 
@@ -33,8 +32,7 @@ Dubai crossed my mind too. It’s flashy, but it also has that tax haven vibe. T
 
 ## Singapore: The Obvious Choice
 
-![Photo by Mia de Jesus](https://images.unsplash.com/photo-1667895725233-b766d6626e64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTaW5nYXBvcmUlMjBjb21wYW55JTIwZm9ybWF0aW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMGluJTIwQXNpYSUyMGJ1c2luZXNzJTIwc2V0dXAlMjBndWlkZXxlbnwwfDB8fHwxNzU1NDE3NTc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start a Singapore Company Without Local Hassles")
-*How to Start a Singapore Company Without Local Hassles - Photo by [Mia de Jesus](https://unsplash.com/@mia_dj) on [Unsplash](https://unsplash.com/photos/a-city-skyline-at-night-H8T2CyX-D_E)*
+{{< figure src="https://images.unsplash.com/photo-1667895725233-b766d6626e64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTaW5nYXBvcmUlMjBjb21wYW55JTIwZm9ybWF0aW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMGluJTIwQXNpYSUyMGJ1c2luZXNzJTIwc2V0dXAlMjBndWlkZXxlbnwwfDB8fHwxNzU1NDE3NTc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A city skyline at night H8T2CyX D_E" title="How to Start a Singapore Company Without Local Hassles" caption="How to Start a Singapore Company Without Local Hassles - Photo by [Mia de Jesus](https://unsplash.com/@mia_dj) on [Unsplash](https://unsplash.com/photos/a-city-skyline-at-night-H8T2CyX-D_E)" >}}
 
 That left Singapore. It’s not a tax haven—you actually pay a fair amount of tax there. For comparison, Ireland is at 12.5%, most countries like France, Belgium, and the UK are at 20%, and Singapore is at 17%. Australia, where I used to live, is at 30%, and unless you live there, there’s not much benefit to having an Australian company.
 
@@ -60,8 +58,7 @@ Do your research, but don’t get stuck in analysis paralysis. The most importan
 >
 > — Chinese proverb
 
-![Photo by Maxwell Fong](https://images.unsplash.com/photo-1627895751108-7c0ea6411540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTaW5nYXBvcmUlMjBjb21wYW55JTIwZm9ybWF0aW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMGluJTIwQXNpYSUyMGJ1c2luZXNzJTIwc2V0dXAlMjBndWlkZXxlbnwwfDB8fHwxNzU1NDE3NTc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start a Singapore Company Without Local Hassles")
-*How to Start a Singapore Company Without Local Hassles - Photo by [Maxwell Fong](https://unsplash.com/@maxwell_fong666) on [Unsplash](https://unsplash.com/photos/city-skyline-during-night-time-dA4bkcldttc)*
+{{< figure src="https://images.unsplash.com/photo-1627895751108-7c0ea6411540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTaW5nYXBvcmUlMjBjb21wYW55JTIwZm9ybWF0aW9uJTIwZW50cmVwcmVuZXVyc2hpcCUyMGluJTIwQXNpYSUyMGJ1c2luZXNzJTIwc2V0dXAlMjBndWlkZXxlbnwwfDB8fHwxNzU1NDE3NTc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="City skyline during night time" title="How to Start a Singapore Company Without Local Hassles" caption="How to Start a Singapore Company Without Local Hassles - Photo by [Maxwell Fong](https://unsplash.com/@maxwell_fong666) on [Unsplash](https://unsplash.com/photos/city-skyline-during-night-time-dA4bkcldttc)" >}}
 
 > *“Success is not the result of spontaneous combustion. You must set yourself on fire.”*
 >

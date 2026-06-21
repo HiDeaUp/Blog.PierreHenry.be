@@ -12,8 +12,7 @@ original_title = "The Smart Way to Use Copilot to Your Advantage"
 source_medium = "https://medium.com/@phenrysay/d1ae4a5c3cb3"
 +++
 
-![Photo by Jonas Schöne](https://images.unsplash.com/photo-1668204865291-9e01578bfcd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMHByb2R1Y3Rpdml0eSUyMENvcGlsb3QlMjB0aXBzJTIwTWFya2Rvd24lMjBhdXRvbWF0aW9ufGVufDB8MHx8fDE3NjcxMDA2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Handle Markdown Images Without Tedious Formatting")
-*How to Handle Markdown Images Without Tedious Formatting - Photo by [Jonas Schöne](https://unsplash.com/@schoene) on [Unsplash](https://unsplash.com/photos/a-clock-hangs-from-the-ceiling-dC_VulRVRPM)*
+{{< figure src="https://images.unsplash.com/photo-1668204865291-9e01578bfcd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMHByb2R1Y3Rpdml0eSUyMENvcGlsb3QlMjB0aXBzJTIwTWFya2Rvd24lMjBhdXRvbWF0aW9ufGVufDB8MHx8fDE3NjcxMDA2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock hangs from the ceiling" title="How to Handle Markdown Images Without Tedious Formatting" caption="How to Handle Markdown Images Without Tedious Formatting - Photo by [Jonas Schöne](https://unsplash.com/@schoene) on [Unsplash](https://unsplash.com/photos/a-clock-hangs-from-the-ceiling-dC_VulRVRPM)" >}}
 
 Alright, so today I want to show you a tiny but super handy trick with AI—specifically, how I use Copilot to make my life easier when working with Markdown files. This isn’t some grand, world-changing feature, but it’s one of those little things that saves you time and just makes you feel a bit lazier (in a good way).
 
@@ -35,8 +34,7 @@ But here’s the thing: sometimes the file name isn’t ideal. Maybe it’s just
 
 ## Letting Copilot Do the Boring Stuff
 
-![Photo by Enis Yavuz](https://images.unsplash.com/photo-1599474151975-1f978922fa02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMHByb2R1Y3Rpdml0eSUyMENvcGlsb3QlMjB0aXBzJTIwTWFya2Rvd24lMjBhdXRvbWF0aW9ufGVufDB8MHx8fDE3NjcxMDA2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Handle Markdown Images Without Tedious Formatting")
-*How to Handle Markdown Images Without Tedious Formatting - Photo by [Enis Yavuz](https://unsplash.com/@enisyavuz) on [Unsplash](https://unsplash.com/photos/man-in-gray-shirt-sitting-on-red-plastic-chair-tZtgozUpZZc)*
+{{< figure src="https://images.unsplash.com/photo-1599474151975-1f978922fa02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMHByb2R1Y3Rpdml0eSUyMENvcGlsb3QlMjB0aXBzJTIwTWFya2Rvd24lMjBhdXRvbWF0aW9ufGVufDB8MHx8fDE3NjcxMDA2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in gray shirt sitting on red plastic chair" title="How to Handle Markdown Images Without Tedious Formatting" caption="How to Handle Markdown Images Without Tedious Formatting - Photo by [Enis Yavuz](https://unsplash.com/@enisyavuz) on [Unsplash](https://unsplash.com/photos/man-in-gray-shirt-sitting-on-red-plastic-chair-tZtgozUpZZc)" >}}
 
 Instead of sitting there thinking up the perfect file name, I just ask Copilot (or whatever AI you’re using) to suggest a better one. Something descriptive, something that actually makes sense. You can literally prompt it: “Rename this file to something more meaningful.”
 
@@ -64,8 +62,7 @@ But honestly, I’m fine with the default. If you want it centered, just ask Cop
 
 Once I’m happy with how everything looks, I check the README preview to make sure the image path works. If it does, I just commit the change. In Visual Studio Code, I stage the README, generate a commit message (again, Copilot can help here), and commit. That’s it.
 
-![Photo by Arnaud Padallé](https://images.unsplash.com/photo-1708344377729-d3d638081685?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMHByb2R1Y3Rpdml0eSUyMENvcGlsb3QlMjB0aXBzJTIwTWFya2Rvd24lMjBhdXRvbWF0aW9ufGVufDB8MHx8fDE3NjcxMDA2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Handle Markdown Images Without Tedious Formatting")
-*How to Handle Markdown Images Without Tedious Formatting - Photo by [Arnaud Padallé](https://unsplash.com/@arnotho) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-cars-in-a-parking-lot-PO1Z_h-rWBY)*
+{{< figure src="https://images.unsplash.com/photo-1708344377729-d3d638081685?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMHByb2R1Y3Rpdml0eSUyMENvcGlsb3QlMjB0aXBzJTIwTWFya2Rvd24lMjBhdXRvbWF0aW9ufGVufDB8MHx8fDE3NjcxMDA2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of cars in a parking lot PO1Z_h rWBY" title="How to Handle Markdown Images Without Tedious Formatting" caption="How to Handle Markdown Images Without Tedious Formatting - Photo by [Arnaud Padallé](https://unsplash.com/@arnotho) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-cars-in-a-parking-lot-PO1Z_h-rWBY)" >}}
 
 ## Why Bother?
 

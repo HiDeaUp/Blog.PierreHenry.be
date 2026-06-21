@@ -12,10 +12,7 @@ original_title = "PERSÉVÈRE et GAGNE : tes CLÉS pour GRAVIR LES ÉCHELONS"
 source_medium = "https://medium.com/@phenrysay/99e8f644d68c"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, white background, wood, scrabble tiles, wood, words, 
-done is better than perfect, perfectionism, get it done, complete, finish, rough and ready, 
-](https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTU3NzExNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Focused Without Falling Into the Curiosity Trap")
-*How to Stay Focused Without Falling Into the Curiosity Trap - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)*
+{{< figure src="https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTU3NzExNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Stay Focused Without Falling Into the Curiosity Trap" caption="How to Stay Focused Without Falling Into the Curiosity Trap - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)" >}}
 
 ### When Curiosity Becomes a Trap
 
@@ -35,8 +32,7 @@ It’s so easy to lose focus. When you try to do too many things at once, you en
 
 Being 100% focused, having resilience and discipline to do one thing at a time—that’s a real strength. Tell yourself, “Now is not the time for that other thing. I finish what I started first.” Set a clear goal with a deadline. For every goal, define the outcome you want. For example, if you want to build a mini Star Fox or a mini Call of Duty, what’s your outcome? Maybe it’s to become a better programmer, or to land a job at Nintendo in Tokyo, or at Ubisoft in Montreal.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTU3NzExNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Focused Without Falling Into the Curiosity Trap")
-*How to Stay Focused Without Falling Into the Curiosity Trap - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTU3NzExNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Stay Focused Without Falling Into the Curiosity Trap" caption="How to Stay Focused Without Falling Into the Curiosity Trap - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 Most video game studios have been around since the late ‘90s or early 2000s. They don’t release many games—maybe one every three or four years—but that’s enough to keep them going. Giants like Ubisoft have bought so many studios that they have offices all over the world, though now fewer than before.
 
@@ -58,8 +54,7 @@ Remember, the journey is beautiful. Don’t worry too much about where it leads�
 
 ---
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTU3NzExNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Focused Without Falling Into the Curiosity Trap")
-*How to Stay Focused Without Falling Into the Curiosity Trap - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBzZWxmLWltcHJvdmVtZW50JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTU3NzExNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Stay Focused Without Falling Into the Curiosity Trap" caption="How to Stay Focused Without Falling Into the Curiosity Trap - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 ## Key Takeaways
 

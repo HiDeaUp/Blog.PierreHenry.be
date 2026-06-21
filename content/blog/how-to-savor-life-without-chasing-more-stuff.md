@@ -12,8 +12,7 @@ original_title = "Comment avoir une vie à sensation 👋"
 source_medium = "https://medium.com/@phenrysay/7b7c3690d624"
 +++
 
-![Photo by Maria Oswalt](https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMGVuam95bWVudHxlbnwwfDB8fHwxNzU2ODUxODIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Chasing More Stuff")
-*How to Savor Life Without Chasing More Stuff - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)*
+{{< figure src="https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMGVuam95bWVudHxlbnwwfDB8fHwxNzU2ODUxODIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow life printed balloon" title="How to Savor Life Without Chasing More Stuff" caption="How to Savor Life Without Chasing More Stuff - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)" >}}
 
 Most people go through life as if it’s something to be endured, not enjoyed. But life is short—so short that you should savor every bite, not just get through it. Too many people let their days slip by, stuck in routines, complaining, or just following the crowd. I see it everywhere, whether I’m grabbing a coffee at my favorite Italian café in Australia or remembering my time working at Disneyland Paris. Even in places designed for joy, people find reasons to grumble instead of celebrating the moment.
 
@@ -39,8 +38,7 @@ Time-boxing is simple: set a fixed amount of time for a task, and when the time�
 
 It’s like the law of Parkinson: work expands to fill the time you give it. Remember those school assignments? If you had two hours, you used two hours. If you had one, you finished in one. Compress your work, and you’ll get more done with less stress.
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMGVuam95bWVudHxlbnwwfDB8fHwxNzU2ODUxODIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Chasing More Stuff")
-*How to Savor Life Without Chasing More Stuff - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMGVuam95bWVudHxlbnwwfDB8fHwxNzU2ODUxODIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Savor Life Without Chasing More Stuff" caption="How to Savor Life Without Chasing More Stuff - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 Sometimes, I go to a café with my laptop an hour before closing. The deadline forces me to finish my work. Or I race against my laptop battery—when it hits 10%, I wrap up. These tricks keep me focused on what’s important, not on endless distractions.
 
@@ -70,9 +68,7 @@ Know where you want to go in life. Picture yourself a year from now—what have 
 
 Sometimes, it helps to get away for a weekend or a week, just to think. Leave your phone and computer behind, bring a notebook, and let your mind wander. New environments spark new ideas.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, quote, words, type, typography, design, layout, keep it fun, fun, enjoy life, lighten up, yolo, carpe diem, seize the day, 
-](https://images.unsplash.com/photo-1607428122566-dc5486d692bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMGVuam95bWVudHxlbnwwfDB8fHwxNzU2ODUxODIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Chasing More Stuff")
-*How to Savor Life Without Chasing More Stuff - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-lpiOG9ar7bw)*
+{{< figure src="https://images.unsplash.com/photo-1607428122566-dc5486d692bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMGVuam95bWVudHxlbnwwfDB8fHwxNzU2ODUxODIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Savor Life Without Chasing More Stuff" caption="How to Savor Life Without Chasing More Stuff - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-lpiOG9ar7bw)" >}}
 
 ## Build Your Identity Through Projects
 

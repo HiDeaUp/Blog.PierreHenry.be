@@ -12,8 +12,7 @@ original_title = "Faut-il être obsédé sur un seul objectif ?"
 source_medium = "https://medium.com/@phenrysay/4f6e998f395a"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW5nbGUtbWluZGVkJTIwZm9jdXMlMjBnb2FsJTIwc2V0dGluZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTYxMTI3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Real Success by Focusing on One Goal")
-*How to Achieve Real Success by Focusing on One Goal - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW5nbGUtbWluZGVkJTIwZm9jdXMlMjBnb2FsJTIwc2V0dGluZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTYxMTI3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Achieve Real Success by Focusing on One Goal" caption="How to Achieve Real Success by Focusing on One Goal - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 When you pour all your energy into a single goal, something incredible happens. You become unstoppable. The moment you decide to give 300, even 3,000 percent to one project, refusing to give up until you succeed, you set yourself up for the best chance at real achievement.
 
@@ -23,8 +22,7 @@ Imagine if you spent every waking moment thinking about how to solve just one ch
 
 There’s a saying: *If you really want something, anything is possible.* When you’re determined, when you know deep down that you’ll make it work, and you give it your all, you will succeed. It’s not about being the smartest person in the room. Even if you start from nothing, even if you feel clueless, if you want something badly enough and focus all your energy on it, you’ll find a way.
 
-![While out and about at a music festival, snapped this while enjoy some good tunes!](https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW5nbGUtbWluZGVkJTIwZm9jdXMlMjBnb2FsJTIwc2V0dGluZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTYxMTI3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Real Success by Focusing on One Goal")
-*How to Achieve Real Success by Focusing on One Goal - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)*
+{{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW5nbGUtbWluZGVkJTIwZm9jdXMlMjBnb2FsJTIwc2V0dGluZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTYxMTI3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Achieve Real Success by Focusing on One Goal" caption="How to Achieve Real Success by Focusing on One Goal - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
 > *When you want something so much that you give it everything, you’ll find solutions you never imagined.*
 >
@@ -40,8 +38,7 @@ Here’s a trick: sometimes, trying too hard to focus can backfire. If you tell 
 
 In the end, the number one key to success is focus. Don’t let yourself get distracted by what others are doing. Ignore the noise. Put all your energy and attention into what matters most to you. That’s how you win.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW5nbGUtbWluZGVkJTIwZm9jdXMlMjBnb2FsJTIwc2V0dGluZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTYxMTI3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Real Success by Focusing on One Goal")
-*How to Achieve Real Success by Focusing on One Goal - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW5nbGUtbWluZGVkJTIwZm9jdXMlMjBnb2FsJTIwc2V0dGluZyUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTYxMTI3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Achieve Real Success by Focusing on One Goal" caption="How to Achieve Real Success by Focusing on One Goal - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 > *Focus is the number one key to success. Everything else is just noise.*
 >

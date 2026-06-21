@@ -12,9 +12,7 @@ original_title = "Comment SAVOURER la vie au lieu de la SUBIR ?"
 source_medium = "https://medium.com/@phenrysay/5a1f3fdf12ef"
 +++
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGhhcHBpbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudHxlbnwwfDB8fHwxNzU1NjA4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Getting Stuck in the Past")
-*How to Savor Life Without Getting Stuck in the Past - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGhhcHBpbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudHxlbnwwfDB8fHwxNzU1NjA4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Savor Life Without Getting Stuck in the Past" caption="How to Savor Life Without Getting Stuck in the Past - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ### Savor Life, Don’t Just Endure It
 
@@ -38,8 +36,7 @@ If that works for you, great. But it’s even better to design a life that fits 
 
 It’s important to live in the present. The past is locked away, and if you stay stuck there, you’ll never move forward. Today is your chance to act and take control. It’s also the time to enjoy the little things. Don’t fall into the rat race, always chasing after the next thing. Success is good, but don’t treat it like an object you have to grab. Instead, focus on becoming the kind of person who can succeed.
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGhhcHBpbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudHxlbnwwfDB8fHwxNzU1NjA4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Getting Stuck in the Past")
-*How to Savor Life Without Getting Stuck in the Past - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGhhcHBpbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudHxlbnwwfDB8fHwxNzU1NjA4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Savor Life Without Getting Stuck in the Past" caption="How to Savor Life Without Getting Stuck in the Past - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 For example, yesterday I was enjoying a good flat white with almond milk. I thought about whether I should treat myself, especially since I’d moved cities and noticed the price differences. Sometimes, when things change, you hesitate before allowing yourself a small pleasure. But you never know what tomorrow will bring. The best way to live is to enjoy life as if today could be your last. Money comes and goes, but time and happiness are limited. Time is the one thing we all have in a fixed amount.
 
@@ -63,8 +60,7 @@ What really brings happiness? Having people you love around you, having freedom,
 > _If you can’t think, walk. If you’re thinking too much, walk. If you’re thinking badly, walk again._
 > — Jean Giono
 
-![Buddhist Monk sotting meditation ](https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGhhcHBpbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudHxlbnwwfDB8fHwxNzU1NjA4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Getting Stuck in the Past")
-*How to Savor Life Without Getting Stuck in the Past - Photo by [TONG KBP](https://unsplash.com/@2023kbp) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-rock-by-a-river-0J8G8NhmkSU)*
+{{< figure src="https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGhhcHBpbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudHxlbnwwfDB8fHwxNzU1NjA4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Buddhist Monk sotting meditation" title="How to Savor Life Without Getting Stuck in the Past" caption="How to Savor Life Without Getting Stuck in the Past - Photo by [TONG KBP](https://unsplash.com/@2023kbp) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-rock-by-a-river-0J8G8NhmkSU)" >}}
 
 > _Spend your money on life experiences, not material goods._
 > — Adapted from happiness research

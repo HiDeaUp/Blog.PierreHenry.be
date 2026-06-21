@@ -12,8 +12,7 @@ original_title = "Tu veux devenir entrepreneur ? Je t’explique quoi faire !"
 source_medium = "https://medium.com/@phenrysay/2bdfe96ea2a3"
 +++
 
-![Photo by Fuzail Ahmad](https://images.unsplash.com/photo-1586764921336-8b37580c7aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRyZXByZW5ldXJzaGlwJTIwYnVzaW5lc3MlMjBhZHZpY2UlMjBzdGFydHVwJTIwdGlwc3xlbnwwfDB8fHwxNzU2MDEzMDEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Business That Lasts Without Chasing Trends")
-*How to Build a Business That Lasts Without Chasing Trends - Photo by [Fuzail Ahmad](https://unsplash.com/@timfuzail) on [Unsplash](https://unsplash.com/photos/text-on-white-and-blue-textile-Bf71pNsQpu4)*
+{{< figure src="https://images.unsplash.com/photo-1586764921336-8b37580c7aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRyZXByZW5ldXJzaGlwJTIwYnVzaW5lc3MlMjBhZHZpY2UlMjBzdGFydHVwJTIwdGlwc3xlbnwwfDB8fHwxNzU2MDEzMDEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text on white and blue textile" title="How to Build a Business That Lasts Without Chasing Trends" caption="How to Build a Business That Lasts Without Chasing Trends - Photo by [Fuzail Ahmad](https://unsplash.com/@timfuzail) on [Unsplash](https://unsplash.com/photos/text-on-white-and-blue-textile-Bf71pNsQpu4)" >}}
 
 Many people dream of becoming entrepreneurs, but most overlook the simple truth behind real success. It’s not about chasing trends or copying what others are doing. It’s about building something you know inside out, something you care deeply about, and something that solves a real, painful problem for a specific group of people.
 
@@ -21,8 +20,7 @@ Let’s break down this idea. First, you need to create something you truly unde
 
 When you’re your own first customer, you’re not just solving your problem. You’re also helping countless others who are in the same situation. You believe in your product because you know how much it matters. You’ve been there. You know the frustration, the pain, the endless search for something that actually works. That’s why you’re not just selling a product—you’re sharing a solution you trust with others who need it just as much as you do.
 
-![Books you should definitely read](https://images.unsplash.com/photo-1598301257982-0cf014dabbcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRyZXByZW5ldXJzaGlwJTIwYnVzaW5lc3MlMjBhZHZpY2UlMjBzdGFydHVwJTIwdGlwc3xlbnwwfDB8fHwxNzU2MDEzMDEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Business That Lasts Without Chasing Trends")
-*How to Build a Business That Lasts Without Chasing Trends - Photo by [Lala Azizli](https://unsplash.com/@lazizli) on [Unsplash](https://unsplash.com/photos/three-white-and-red-labeled-boxes-OFZUaeYKP3k)*
+{{< figure src="https://images.unsplash.com/photo-1598301257982-0cf014dabbcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRyZXByZW5ldXJzaGlwJTIwYnVzaW5lc3MlMjBhZHZpY2UlMjBzdGFydHVwJTIwdGlwc3xlbnwwfDB8fHwxNzU2MDEzMDEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Books you should definitely read" title="How to Build a Business That Lasts Without Chasing Trends" caption="How to Build a Business That Lasts Without Chasing Trends - Photo by [Lala Azizli](https://unsplash.com/@lazizli) on [Unsplash](https://unsplash.com/photos/three-white-and-red-labeled-boxes-OFZUaeYKP3k)" >}}
 
 But there’s another side to this. It’s not enough to create a great product. You have to sell it. You need a mindset that’s obsessed with getting your solution into the hands of those who need it. Spend most of your time—at least 70%—on sharing, marketing, and talking about your product. The other 30% can go to improving it. Why? Because selling is what brings in the money you need to make your product even better. Start with a simple version, a Minimum Viable Product (MVP), then keep improving it as you learn more and as technology changes.
 
@@ -38,8 +36,7 @@ The real trick is to fall in love with the problem, not just your solution. Solu
 
 If you take one thing away, let it be this: believe in yourself and what you’re building. Trust that if you solve your own problem well, you’ll help many others too. That’s the real path to success.
 
-![Two digital nomads working and collaborating remotely on a computer outside.](https://images.unsplash.com/photo-1603418242909-2eaeeea04c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRyZXByZW5ldXJzaGlwJTIwYnVzaW5lc3MlMjBhZHZpY2UlMjBzdGFydHVwJTIwdGlwc3xlbnwwfDB8fHwxNzU2MDEzMDEwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Business That Lasts Without Chasing Trends")
-*How to Build a Business That Lasts Without Chasing Trends - Photo by [Jordan Carroll](https://unsplash.com/@jctitan) on [Unsplash](https://unsplash.com/photos/man-in-teal-crew-neck-t-shirt-sitting-beside-man-in-white-crew-neck-t-shirt-wvIDhB99jKM)*
+{{< figure src="https://images.unsplash.com/photo-1603418242909-2eaeeea04c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRyZXByZW5ldXJzaGlwJTIwYnVzaW5lc3MlMjBhZHZpY2UlMjBzdGFydHVwJTIwdGlwc3xlbnwwfDB8fHwxNzU2MDEzMDEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two digital nomads working and collaborating remotely on a computer outside." title="How to Build a Business That Lasts Without Chasing Trends" caption="How to Build a Business That Lasts Without Chasing Trends - Photo by [Jordan Carroll](https://unsplash.com/@jctitan) on [Unsplash](https://unsplash.com/photos/man-in-teal-crew-neck-t-shirt-sitting-beside-man-in-white-crew-neck-t-shirt-wvIDhB99jKM)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Comment réaliser une vie qui nous plaît ?"
 source_medium = "https://medium.com/@phenrysay/71a9d705003c"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDMxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Changes Build a Life You Actually Love")
-*How Small Changes Build a Life You Actually Love - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDMxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How Small Changes Build a Life You Actually Love" caption="How Small Changes Build a Life You Actually Love - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Have you ever wondered what it really means to live a life that excites you? Not just a life that looks good on paper, but one that actually feels right every morning when you wake up. The answer, I believe, lies in the idea of *greatness*—not in the sense of fame or fortune, but in having a clear vision of what you want to create for yourself.
 
@@ -27,8 +26,7 @@ Right now, I’m writing from a cozy café in Seoul. I’m here for a few weeks,
 
 We’re all good at making excuses. They make us feel better in the short term, but they keep us stuck. If you want a different life, you can’t keep doing the same things. Excuses are just ways to justify staying where you are. There’s always a way to take action, even if it’s small.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDMxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Changes Build a Life You Actually Love")
-*How Small Changes Build a Life You Actually Love - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDMxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How Small Changes Build a Life You Actually Love" caption="How Small Changes Build a Life You Actually Love - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 There’s an old Chinese proverb that says:  
 > *The best time to plant a tree was twenty years ago. The second best time is now.*  
@@ -52,8 +50,7 @@ I believe in you. Take that first step. Grow. We grow together.
 
 ## Action Steps
 
-![Life in a small pot](https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDMxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Changes Build a Life You Actually Love")
-*How Small Changes Build a Life You Actually Love - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)*
+{{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBkZXNpZ24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDMxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How Small Changes Build a Life You Actually Love" caption="How Small Changes Build a Life You Actually Love - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
 - Write down your vision for your life.
 - Choose one small change to make today.

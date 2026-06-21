@@ -12,8 +12,7 @@ original_title = "LA MÉTHODE MINIMALISTE POUR ATTEINDRE SES OBJECTIFS"
 source_medium = "https://medium.com/@phenrysay/f3941a85a222"
 +++
 
-![A minimal home office work space](https://images.unsplash.com/photo-1655988940601-7702d8685f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTM4NDI4MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Doing Less Each Day")
-*How to Achieve More by Doing Less Each Day - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/a-laptop-on-a-table-Z_pg_rltaKE)*
+{{< figure src="https://images.unsplash.com/photo-1655988940601-7702d8685f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTM4NDI4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A minimal home office work space" title="How to Achieve More by Doing Less Each Day" caption="How to Achieve More by Doing Less Each Day - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/a-laptop-on-a-table-Z_pg_rltaKE)" >}}
 
 Every morning, I wake up at 5:30. It wasn’t always easy—building a routine is tough at first. But the real challenge is stabilizing your sleep schedule. Once you get your body used to going to bed at the same time every night, say 10:30 or 11:00, everything changes. You start waking up naturally, often just before your alarm. It’s like magic. Your body knows when it’s time to get up, and you feel more refreshed than ever.
 
@@ -25,8 +24,7 @@ How do you make the most of those hours? How do you focus your energy and attent
 
 Here’s what changed everything for me: I started asking myself, “If I could only do one thing today, what would have the biggest positive impact on my life?” Most of the tasks on my to-do list are just reminders—things that clutter my mind but don’t really matter. Posting something online, wishing someone a happy birthday—nice, but not life-changing.
 
-![A school, office notebook with a white pen lies on a gray table, desk, background. Place for an inscription. Office. Job. School. Personal diary. Top view.](https://images.unsplash.com/photo-1611079830811-865ff4428d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTM4NDI4MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Doing Less Each Day")
-*How to Achieve More by Doing Less Each Day - Photo by [Diana Polekhina](https://unsplash.com/@diana_pole) on [Unsplash](https://unsplash.com/photos/white-notebook-with-pen-on-top-1ixT36dfuSQ)*
+{{< figure src="https://images.unsplash.com/photo-1611079830811-865ff4428d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTM4NDI4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A school, office notebook with a white pen lies on a gray table, desk, background. Place for an inscription. Office. Job. School. Personal diary. Top view." title="How to Achieve More by Doing Less Each Day" caption="How to Achieve More by Doing Less Each Day - Photo by [Diana Polekhina](https://unsplash.com/@diana_pole) on [Unsplash](https://unsplash.com/photos/white-notebook-with-pen-on-top-1ixT36dfuSQ)" >}}
 
 Instead, I look for the one thing that could move the needle. Maybe it’s making an investment, starting an online community, or writing a post every day on a platform like Medium or LinkedIn. These are the actions that build momentum over time.
 
@@ -43,8 +41,7 @@ So, focus on the one thing that will make a real difference. Most days, there ar
 > _“You can do anything, but not everything.”_  
 — David Allen
 
-![Blank paper with drawing tools](https://images.unsplash.com/photo-1634245482616-ea3ae51b82d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTM4NDI4MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Doing Less Each Day")
-*How to Achieve More by Doing Less Each Day - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-a-pencil-and-a-ruler-on-a-table-ZInLhWJCZTI)*
+{{< figure src="https://images.unsplash.com/photo-1634245482616-ea3ae51b82d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwcHJvZHVjdGl2aXR5JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NTM4NDI4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Blank paper with drawing tools" title="How to Achieve More by Doing Less Each Day" caption="How to Achieve More by Doing Less Each Day - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-a-pencil-and-a-ruler-on-a-table-ZInLhWJCZTI)" >}}
 
 > _“What is important is seldom urgent and what is urgent is seldom important.”_  
 — Dwight D. Eisenhower

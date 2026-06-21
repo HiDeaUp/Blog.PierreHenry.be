@@ -12,8 +12,7 @@ original_title = "Comment changer son état d'énergie ?"
 source_medium = "https://medium.com/@phenrysay/6fe4818874a0"
 +++
 
-![Fly](https://images.unsplash.com/photo-1678299487550-ca05a8ff0637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjB3ZWxsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1ODU4NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Forcing Motivation")
-*How to Boost Your Energy Without Forcing Motivation - Photo by [Amir Asghari](https://unsplash.com/@amirarsalann) on [Unsplash](https://unsplash.com/photos/a-woman-standing-in-a-field-with-her-arms-outstretched-1JmsOBHzgLI)*
+{{< figure src="https://images.unsplash.com/photo-1678299487550-ca05a8ff0637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjB3ZWxsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1ODU4NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Fly" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Amir Asghari](https://unsplash.com/@amirarsalann) on [Unsplash](https://unsplash.com/photos/a-woman-standing-in-a-field-with-her-arms-outstretched-1JmsOBHzgLI)" >}}
 
 Taking care of your personal energy is more important than most people realize. Throughout the day, our energy levels go up and down. Sometimes, we feel so drained that we lose all motivation. It’s like being weighed down by bad news or a lack of inspiration, and suddenly, even the smallest tasks seem impossible.
 
@@ -27,10 +26,7 @@ Physical exercise is one of the fastest ways to boost your energy. Whether it’
 
 This might sound unusual, but hugging trees or simply spending time with them can have a real impact. It’s not just a joke—studies show that being close to trees can lower your blood pressure, calm your mind, and help you sleep better. Trees are truly wonderful. The next time you’re feeling tense, try spending a few minutes in nature and see how you feel.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, prove them wrong, prove, them, wrong, live well, best revenge, don't give up, win, persevere, live well, optimism, ambition, good living, living well, life goal, do no harm, golden rule, woke, yolo, intentionality, wellness, mindfulness, mindful,
-
-](https://images.unsplash.com/photo-1603206004639-22635b71ac08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjB3ZWxsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1ODU4NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Forcing Motivation")
-*How to Boost Your Energy Without Forcing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-MwkDKpOQmGc)*
+{{< figure src="https://images.unsplash.com/photo-1603206004639-22635b71ac08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjB3ZWxsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1ODU4NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter blocks on white surface" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-MwkDKpOQmGc)" >}}
 
 ## Practice Meditation
 
@@ -48,8 +44,7 @@ What you eat and drink shapes your energy. Eating healthy, balanced meals and dr
 
 When you clear out the negative and fill your life with positive habits, you’ll find yourself with more energy and positivity to do what really matters to you and those around you.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653212883729-d914974111c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjB3ZWxsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1ODU4NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Forcing Motivation")
-*How to Boost Your Energy Without Forcing Motivation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/an-old-typewriter-with-the-word-energy-printed-on-it-Q_ld9_TSk7k)*
+{{< figure src="https://images.unsplash.com/photo-1653212883729-d914974111c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjB3ZWxsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1ODU4NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="An old with the word energy printed on it" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/an-old-typewriter-with-the-word-energy-printed-on-it-Q_ld9_TSk7k)" >}}
 
 > _You are what you consume, not just in food, but in thoughts and information._
 — Anonymous

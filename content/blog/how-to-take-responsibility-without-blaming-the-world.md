@@ -12,8 +12,7 @@ original_title = "Comment être conscient que les choses ne se passent pas comme
 source_medium = "https://medium.com/@phenrysay/a98546e220b3"
 +++
 
-![Photo by Alisa Anton](https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWF3YXJlbmVzcyUyMHBlcnNvbmFsJTIwcmVzcG9uc2liaWxpdHklMjBtaW5kc2V0JTIwc2hpZnR8ZW58MHwwfHx8MTc0OTMzMDc0NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Responsibility Without Blaming the World")
-*How to Take Responsibility Without Blaming the World - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)*
+{{< figure src="https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWF3YXJlbmVzcyUyMHBlcnNvbmFsJTIwcmVzcG9uc2liaWxpdHklMjBtaW5kc2V0JTIwc2hpZnR8ZW58MHwwfHx8MTc0OTMzMDc0NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of gel candle on board beside pillow u_z0X yrJIE" title="How to Take Responsibility Without Blaming the World" caption="How to Take Responsibility Without Blaming the World - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)" >}}
 
 Life has a way of reminding us that nothing is handed to us on a silver platter. If you want things to change, you have to take responsibility for your actions. It’s easy to blame others, the weather, or even the government when things go wrong. But deep down, you know the answer lies within you.
 
@@ -23,8 +22,7 @@ This is the mindset that helps you grow. Instead of playing the victim and think
 
 Of course, life isn’t fair. Not everyone starts from the same place. Some people live in countries where it’s much harder to make changes. But complaining won’t get you anywhere. If you want things to be different, you have to act. It’s not always easy, and sometimes it means working much harder than others. But it’s still your best shot at changing your situation.
 
-![Worthy of Love | Instagram: @timmossholder](https://images.unsplash.com/photo-1508175749578-259ded3db070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWF3YXJlbmVzcyUyMHBlcnNvbmFsJTIwcmVzcG9uc2liaWxpdHklMjBtaW5kc2V0JTIwc2hpZnR8ZW58MHwwfHx8MTc0OTMzMDc0NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Responsibility Without Blaming the World")
-*How to Take Responsibility Without Blaming the World - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/you-are-worthy-of-love-sign-beside-tree-and-road-SR8ByN6xY3k)*
+{{< figure src="https://images.unsplash.com/photo-1508175749578-259ded3db070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWF3YXJlbmVzcyUyMHBlcnNvbmFsJTIwcmVzcG9uc2liaWxpdHklMjBtaW5kc2V0JTIwc2hpZnR8ZW58MHwwfHx8MTc0OTMzMDc0NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Worthy of Love | Instagram: @timmossholder" title="How to Take Responsibility Without Blaming the World" caption="How to Take Responsibility Without Blaming the World - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/you-are-worthy-of-love-sign-beside-tree-and-road-SR8ByN6xY3k)" >}}
 
 If you keep blaming others, you’ll never move forward. You’ll just stay where you are. But if you ask yourself, “How can I do better next time? How can I avoid making the same mistake again?” you’ll start to make real progress. You’ll learn to overcome obstacles, even when they seem impossible.
 
@@ -40,8 +38,7 @@ So, when you face a problem, ask yourself what you can do to prevent it from hap
 > *“You cannot control the wind, but you can adjust your sails.”*  
 > — Unknown
 
-![Photo by Anthony Tran](https://images.unsplash.com/photo-1505489304219-85ce17010209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWF3YXJlbmVzcyUyMHBlcnNvbmFsJTIwcmVzcG9uc2liaWxpdHklMjBtaW5kc2V0JTIwc2hpZnR8ZW58MHwwfHx8MTc0OTMzMDc0NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Responsibility Without Blaming the World")
-*How to Take Responsibility Without Blaming the World - Photo by [Anthony Tran](https://unsplash.com/@anthonytran) on [Unsplash](https://unsplash.com/photos/woman-holding-a-cup-of-coffee-at-right-hand-and-reading-book-on-her-lap-while-holding-it-open-with-her-left-hand-in-a-well-lit-room-8i2fHtStfxk)*
+{{< figure src="https://images.unsplash.com/photo-1505489304219-85ce17010209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWF3YXJlbmVzcyUyMHBlcnNvbmFsJTIwcmVzcG9uc2liaWxpdHklMjBtaW5kc2V0JTIwc2hpZnR8ZW58MHwwfHx8MTc0OTMzMDc0NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman holding a cup of coffee at right hand and reading book on her lap while holding it open with her left hand in a well lit room" title="How to Take Responsibility Without Blaming the World" caption="How to Take Responsibility Without Blaming the World - Photo by [Anthony Tran](https://unsplash.com/@anthonytran) on [Unsplash](https://unsplash.com/photos/woman-holding-a-cup-of-coffee-at-right-hand-and-reading-book-on-her-lap-while-holding-it-open-with-her-left-hand-in-a-well-lit-room-8i2fHtStfxk)" >}}
 
 ---
 

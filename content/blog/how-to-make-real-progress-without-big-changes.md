@@ -12,8 +12,7 @@ original_title = "Comment progression vers la réussite et non l'échec ?"
 source_medium = "https://medium.com/@phenrysay/91efca0f817b"
 +++
 
-![Photo by Alex Hudson](https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMGRhaWx5JTIwcHJvZ3Jlc3N8ZW58MHwwfHx8MTc0OTQxNDkwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Big Changes")
-*How to Make Real Progress Without Big Changes - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)*
+{{< figure src="https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMGRhaWx5JTIwcHJvZ3Jlc3N8ZW58MHwwfHx8MTc0OTQxNDkwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiling man holding cup and using" title="How to Make Real Progress Without Big Changes" caption="How to Make Real Progress Without Big Changes - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)" >}}
 
 Every morning, when you wake up, you’re handed a fresh opportunity. It’s a chance to learn something new, to create, and to invest in yourself. Progress isn’t about making huge leaps every day—it’s about the little things you do, consistently, that add up over time.
 
@@ -21,8 +20,7 @@ Take today, for example. It’s Thursday, June 13th. I decided to read a chapter
 
 Whenever you read, watch, or listen to something, try to see what you can extract from it. Don’t just scroll through pretty photos or interesting stories—look for lessons. Then, take it a step further: teach what you’ve learned. When you share knowledge, it sticks with you longer, and you’re forced to organize your thoughts in a clearer way.
 
-![Looking Up](https://images.unsplash.com/photo-1523287562758-66c7fc58967f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMGRhaWx5JTIwcHJvZ3Jlc3N8ZW58MHwwfHx8MTc0OTQxNDkwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Big Changes")
-*How to Make Real Progress Without Big Changes - Photo by [Razvan Chisu](https://unsplash.com/@nullplus) on [Unsplash](https://unsplash.com/photos/low-angle-photography-of-man-in-the-middle-of-buidligns-Ua-agENjmI4)*
+{{< figure src="https://images.unsplash.com/photo-1523287562758-66c7fc58967f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMGRhaWx5JTIwcHJvZ3Jlc3N8ZW58MHwwfHx8MTc0OTQxNDkwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Looking Up" title="How to Make Real Progress Without Big Changes" caption="How to Make Real Progress Without Big Changes - Photo by [Razvan Chisu](https://unsplash.com/@nullplus) on [Unsplash](https://unsplash.com/photos/low-angle-photography-of-man-in-the-middle-of-buidligns-Ua-agENjmI4)" >}}
 
 For example, when I’m working as a product owner, I use tools like Jira, which follows Agile methods. I might read a page from a book or spend just 10 to 15 minutes a day learning something new. Afterward, I jot down what I’ve learned—on sticky notes, a tablet, whatever works. I write down what’s good, what’s not, and what I can use. Then, I try to teach that information to others. This helps me remember it, and it also makes me rethink and structure the information better.
 
@@ -38,10 +36,7 @@ If you want to go further, think about how you organize your day. Mix up your ac
 
 ---
 
-![I shot this picture on a beautiful day during a roadtrip in Galicia, Spain. I shared this journey with some female friends. You know: good food, good beers, great landscapes and a greater company. When the sun was going down, we took a walk on the beach, and I let my friends pass by… The image was beautiful and powerful, and I asked them to jump.
-
-Now, fast-forwarding to today, these friends have become teachers, judges and doctors.](https://images.unsplash.com/photo-1551892589-865f69869476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMGRhaWx5JTIwcHJvZ3Jlc3N8ZW58MHwwfHx8MTc0OTQxNDkwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Big Changes")
-*How to Make Real Progress Without Big Changes - Photo by [Guille Álvarez](https://unsplash.com/@guillealvarez) on [Unsplash](https://unsplash.com/photos/people-jumping-on-shore-front-of-golden-hour-IcI3FizU9Cw)*
+{{< figure src="https://images.unsplash.com/photo-1551892589-865f69869476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMGRhaWx5JTIwcHJvZ3Jlc3N8ZW58MHwwfHx8MTc0OTQxNDkwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="People jumping on shore front of golden hour" title="How to Make Real Progress Without Big Changes" caption="How to Make Real Progress Without Big Changes - Photo by [Guille Álvarez](https://unsplash.com/@guillealvarez) on [Unsplash](https://unsplash.com/photos/people-jumping-on-shore-front-of-golden-hour-IcI3FizU9Cw)" >}}
 
 ## Key Takeaways
 - Every day is a new chance to learn and grow.

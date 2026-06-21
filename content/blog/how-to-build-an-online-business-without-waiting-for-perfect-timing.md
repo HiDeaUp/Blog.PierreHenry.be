@@ -12,8 +12,7 @@ original_title = "CONSTRUIRE UNE ACTIVITÉ EN LIGNE SOLIDE ET DURABLE – CE QUE
 source_medium = "https://medium.com/@phenrysay/5e9681483604"
 +++
 
-![Viewing the SumUp website on a laptop, highlighting tools for small businesses, including payment systems and financial management solutions.](https://images.unsplash.com/photo-1733503711059-acde98cd7fdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc4NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an Online Business Without Waiting for Perfect Timing")
-*How to Build an Online Business Without Waiting for Perfect Timing - Photo by [SumUp](https://unsplash.com/@sumup) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-bench-using-a-laptop-computer-zGEQGNp0rl8)*
+{{< figure src="https://images.unsplash.com/photo-1733503711059-acde98cd7fdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc4NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Viewing the SumUp website on a laptop, highlighting tools for small businesses, including payment systems and financial management solutions." title="How to Build an Online Business Without Waiting for Perfect Timing" caption="How to Build an Online Business Without Waiting for Perfect Timing - Photo by [SumUp](https://unsplash.com/@sumup) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-bench-using-a-laptop-computer-zGEQGNp0rl8)" >}}
 
 If you want to build something solid and become independent, the worst thing you can do is wait for the perfect moment. Don’t wait until you feel ready, or until you have a company or a fancy structure. You can start right now—just by publishing content and building an audience. That’s actually the most important step, even more than thinking about selling right away.
 
@@ -25,8 +24,7 @@ It’s the same with housing: when there are fewer places to live, prices go up 
 
 Remember when flying was a luxury? Only a few people could afford it, and the experience was unique. Now, everyone can fly, and it’s just another way to get from A to B. The glamour is gone. Today, space travel is the new VIP experience—rare, expensive, and unforgettable. The same goes for a trip to Antarctica: it’s rare and special, so people pay a lot for it. But flying on a plane? Not special anymore.
 
-![A user browses SumUp's mobile payment tools on a smartphone, highlighting solutions designed to support small business owners and entrepreneurs. SumUp provides the tools they need to accept payments and manage their business efficiently.](https://images.unsplash.com/photo-1726056652684-9c135013cef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc4NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an Online Business Without Waiting for Perfect Timing")
-*How to Build an Online Business Without Waiting for Perfect Timing - Photo by [SumUp](https://unsplash.com/@sumup) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-laptop-HUJvn-KUnSo)*
+{{< figure src="https://images.unsplash.com/photo-1726056652684-9c135013cef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc4NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a cell phone in front of a laptop HUJvn KUnSo" title="How to Build an Online Business Without Waiting for Perfect Timing" caption="How to Build an Online Business Without Waiting for Perfect Timing - Photo by [SumUp](https://unsplash.com/@sumup) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-laptop-HUJvn-KUnSo)" >}}
 
 You don’t want to be like today’s airlines—just another company doing the same thing as everyone else. You want to be unique, the one that nobody can replace. Your know-how, your way of presenting your ideas, your products, and the way you treat your audience—this is what makes the experience truly special and authentic.
 
@@ -46,8 +44,7 @@ Choose the right platform for your audience—TikTok and LinkedIn are very diffe
 
 ---
 
-![The SumUp mobile app shows account balance, Pix payment options, and access to SumUp Bank, offering entrepreneurs and small businesses a seamless way to manage finances and accept payments.](https://images.unsplash.com/photo-1726056652641-de93ec003289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc4NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an Online Business Without Waiting for Perfect Timing")
-*How to Build an Online Business Without Waiting for Perfect Timing - Photo by [SumUp](https://unsplash.com/@sumup) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-laptop-HNUWwuE50Bo)*
+{{< figure src="https://images.unsplash.com/photo-1726056652641-de93ec003289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBidXNpbmVzcyUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc4NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a cell phone in front of a laptop" title="How to Build an Online Business Without Waiting for Perfect Timing" caption="How to Build an Online Business Without Waiting for Perfect Timing - Photo by [SumUp](https://unsplash.com/@sumup) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-laptop-HNUWwuE50Bo)" >}}
 
 ## Key Takeaways
 

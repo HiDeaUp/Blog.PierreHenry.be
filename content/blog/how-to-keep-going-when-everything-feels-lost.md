@@ -12,8 +12,7 @@ original_title = "MOTIVATION: Ce qu’il FAUT absolument CROIRE 💪"
 source_medium = "https://medium.com/@phenrysay/fed9e99148d6"
 +++
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc2lzdGVuY2UlMjBzZWxmLWJlbGllZnxlbnwwfDB8fHwxNzU1OTk3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Going When Everything Feels Lost")
-*How to Keep Going When Everything Feels Lost - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc2lzdGVuY2UlMjBzZWxmLWJlbGllZnxlbnwwfDB8fHwxNzU1OTk3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Keep Going When Everything Feels Lost" caption="How to Keep Going When Everything Feels Lost - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 Sometimes, we all feel a bit lost. There are moments when life seems to stop working, when nothing goes as planned. You might feel desperate, thinking you have tried everything. It can feel like crossing a desert alone, with no one around, maybe after giving away all your savings, maybe even being in debt, or losing your home. You start to wonder, “Why is nothing working out for me?”
 
@@ -21,8 +20,7 @@ It’s exactly at these moments that you must not give up. This is when you need
 
 I believe in you. But sometimes, you need to reset your mindset. Success is not about chasing after it like it’s an object you can grab. Often, we look for success as if it’s something outside of ourselves, like a Lego piece we can just pick up. But real success starts with changing yourself. You need to transform, to rebuild yourself so you are ready for the success you want.
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc2lzdGVuY2UlMjBzZWxmLWJlbGllZnxlbnwwfDB8fHwxNzU1OTk3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Going When Everything Feels Lost")
-*How to Keep Going When Everything Feels Lost - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc2lzdGVuY2UlMjBzZWxmLWJlbGllZnxlbnwwfDB8fHwxNzU1OTk3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Keep Going When Everything Feels Lost" caption="How to Keep Going When Everything Feels Lost - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 Don’t look for success as if it’s something you can just find. Instead, focus on transforming yourself, on reconditioning your mind and habits, so you become the person who can achieve the goal you want. This process takes time. It demands patience and persistence. Sometimes, you will feel completely lost, sometimes you will feel alone. But you must always hold on to that glimmer of hope.
 
@@ -36,8 +34,7 @@ If you keep that hope alive, you will go far. You will achieve more than you eve
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc2lzdGVuY2UlMjBzZWxmLWJlbGllZnxlbnwwfDB8fHwxNzU1OTk3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Going When Everything Feels Lost")
-*How to Keep Going When Everything Feels Lost - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)*
+{{< figure src="https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc2lzdGVuY2UlMjBzZWxmLWJlbGllZnxlbnwwfDB8fHwxNzU1OTk3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface SNJ1O2 b0IE" title="How to Keep Going When Everything Feels Lost" caption="How to Keep Going When Everything Feels Lost - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)" >}}
 
 ## Key Takeaways
 - When you feel lost or stuck, keep going. Do not give up.

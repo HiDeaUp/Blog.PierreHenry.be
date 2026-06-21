@@ -12,8 +12,7 @@ original_title = "Crée l'Atmosphère Parfaite: Guide Complet de A à Z | Tra
 source_medium = "https://medium.com/@phenrysay/150752e6dc7f"
 +++
 
-![Office Life](https://images.unsplash.com/photo-1495321451782-dcb9fdb512ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxob21lJTIwYXRtb3NwaGVyZSUyMGVudmlyb25tZW50JTIwZGVzaWduJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1NDM0MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Space for More Energy and Ideas")
-*How to Shape Your Space for More Energy and Ideas - Photo by [Mildly Useful](https://unsplash.com/@usefulcollective) on [Unsplash](https://unsplash.com/photos/laptop-computer-on-top-of-table-sF0WlRsQdok)*
+{{< figure src="https://images.unsplash.com/photo-1495321451782-dcb9fdb512ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxob21lJTIwYXRtb3NwaGVyZSUyMGVudmlyb25tZW50JTIwZGVzaWduJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1NDM0MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Office Life" title="How to Shape Your Space for More Energy and Ideas" caption="How to Shape Your Space for More Energy and Ideas - Photo by [Mildly Useful](https://unsplash.com/@usefulcollective) on [Unsplash](https://unsplash.com/photos/laptop-computer-on-top-of-table-sF0WlRsQdok)" >}}
 
 We all want to live and work in a place that inspires us, sparks ideas, and gives us energy. The environment around us matters more than we think. It’s not just about having a nice interior or a tidy desk—your whole environment, from your city to your country, even the opening hours of local cafés, can push you forward or hold you back.
 
@@ -29,8 +28,7 @@ The key is to ask yourself: Who do I want to become? Once you know that, you can
 
 ## It’s Not Always About You
 
-![Photo by Alex Tyson](https://images.unsplash.com/photo-1723257126205-4129ab13eff1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxob21lJTIwYXRtb3NwaGVyZSUyMGVudmlyb25tZW50JTIwZGVzaWduJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1NDM0MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Space for More Energy and Ideas")
-*How to Shape Your Space for More Energy and Ideas - Photo by [Alex Tyson](https://unsplash.com/@alextyson195) on [Unsplash](https://unsplash.com/photos/a-room-with-a-ladder-and-a-table-in-it-8R7me0V85X0)*
+{{< figure src="https://images.unsplash.com/photo-1723257126205-4129ab13eff1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxob21lJTIwYXRtb3NwaGVyZSUyMGVudmlyb25tZW50JTIwZGVzaWduJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1NDM0MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A room with a ladder and a table in it" title="How to Shape Your Space for More Energy and Ideas" caption="How to Shape Your Space for More Energy and Ideas - Photo by [Alex Tyson](https://unsplash.com/@alextyson195) on [Unsplash](https://unsplash.com/photos/a-room-with-a-ladder-and-a-table-in-it-8R7me0V85X0)" >}}
 
 Sometimes, when things feel hard, we blame ourselves. We think we’re lazy or not good enough. But maybe the problem isn’t you—it’s your environment. Think about school: if a student struggles, teachers often blame the student, not their own teaching methods. But not every student learns the same way. The same goes for you. Just because others like where they are doesn’t mean you have to force yourself to fit in.
 
@@ -52,8 +50,7 @@ That’s what success is: being so passionate about something that you keep find
 
 My hero is me, ten years from now. I know I’ll never catch up to that version of myself, because as I grow, my hero moves forward too. But that’s what keeps me going. Every morning, I wake up excited to get closer to that person I want to become.
 
-![Photo by Ren -](https://images.unsplash.com/photo-1595974077477-39dfed5ecc87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxob21lJTIwYXRtb3NwaGVyZSUyMGVudmlyb25tZW50JTIwZGVzaWduJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1NDM0MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Space for More Energy and Ideas")
-*How to Shape Your Space for More Energy and Ideas - Photo by [Ren -](https://unsplash.com/@r1g) on [Unsplash](https://unsplash.com/photos/red-potted-plant-on-white-table-CJuPTxtCP6k)*
+{{< figure src="https://images.unsplash.com/photo-1595974077477-39dfed5ecc87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxob21lJTIwYXRtb3NwaGVyZSUyMGVudmlyb25tZW50JTIwZGVzaWduJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1NDM0MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Red potted plant on white table" title="How to Shape Your Space for More Energy and Ideas" caption="How to Shape Your Space for More Energy and Ideas - Photo by [Ren -](https://unsplash.com/@r1g) on [Unsplash](https://unsplash.com/photos/red-potted-plant-on-white-table-CJuPTxtCP6k)" >}}
 
 > *Your hero should be you, just a little further down the road.*
 > — Matthew McConaughey

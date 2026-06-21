@@ -12,8 +12,7 @@ original_title = "Livre Papier Avant de Dormir : Bonne Habitude Avant de Dormir 
 source_medium = "https://medium.com/@phenrysay/f4cf5c8670bf"
 +++
 
-![This texture is part of the set “Coffee&Paper”, you can check full package here: https://bit.ly/36EVP3Y](https://images.unsplash.com/photo-1519972064555-542444e71b54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzbGVlcCUyMGhhYml0cyUyMHBhcGVyJTIwYm9va3MlMjBiZWR0aW1lJTIwcm91dGluZXxlbnwwfDB8fHwxNzQ5NDA1NTk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Sleep Better WITHOUT Scrolling Your Phone at Night")
-*How to Sleep Better WITHOUT Scrolling Your Phone at Night - Photo by [Ivan Gromov](https://unsplash.com/@creativesuppliesco) on [Unsplash](https://unsplash.com/photos/a-piece-of-brown-paper-with-a-white-background-Y3vPEuNlf7w)*
+{{< figure src="https://images.unsplash.com/photo-1519972064555-542444e71b54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzbGVlcCUyMGhhYml0cyUyMHBhcGVyJTIwYm9va3MlMjBiZWR0aW1lJTIwcm91dGluZXxlbnwwfDB8fHwxNzQ5NDA1NTk3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="This texture is part of the set “Coffee&Paper”, you can check full package here: https://bit.ly/36EVP3Y" title="How to Sleep Better WITHOUT Scrolling Your Phone at Night" caption="How to Sleep Better WITHOUT Scrolling Your Phone at Night - Photo by [Ivan Gromov](https://unsplash.com/@creativesuppliesco) on [Unsplash](https://unsplash.com/photos/a-piece-of-brown-paper-with-a-white-background-Y3vPEuNlf7w)" >}}
 
 Have you ever thought about what happens when you swap your phone for a paper book or a Kindle before bed? It might sound a bit strict, but setting a rule for yourself—like putting your phone and computer away two hours before sleep—can really change how you feel at night.
 
@@ -27,8 +26,7 @@ Here’s a simple routine: two hours before bed, put your phone away—maybe in 
 
 You can take notes on what you read, and the next day, try to recall what you learned. This is great for your memory. At breakfast, you can write a short summary of what you read—maybe in a note-taking app, a blog post, or even a mini vlog. I sometimes do this myself. For example, if I read about lasagna gardening (layering soil and compost like a lasagna), I might share what I learned in a quick vlog or blog post.
 
-![Blank Paper and Pencil](https://images.unsplash.com/photo-1520004434532-668416a08753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbGVlcCUyMGhhYml0cyUyMHBhcGVyJTIwYm9va3MlMjBiZWR0aW1lJTIwcm91dGluZXxlbnwwfDB8fHwxNzQ5NDA1NTk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Sleep Better WITHOUT Scrolling Your Phone at Night")
-*How to Sleep Better WITHOUT Scrolling Your Phone at Night - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-printer-paper-4JxV3Gs42Ks)*
+{{< figure src="https://images.unsplash.com/photo-1520004434532-668416a08753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbGVlcCUyMGhhYml0cyUyMHBhcGVyJTIwYm9va3MlMjBiZWR0aW1lJTIwcm91dGluZXxlbnwwfDB8fHwxNzQ5NDA1NTk3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Blank Paper and Pencil" title="How to Sleep Better WITHOUT Scrolling Your Phone at Night" caption="How to Sleep Better WITHOUT Scrolling Your Phone at Night - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-printer-paper-4JxV3Gs42Ks)" >}}
 
 If you want to avoid distractions while writing, you can use distraction-free writing tools like Freewrite typewriters. They’re a bit pricey, but you can always use your computer in a focused mode or just write in a notebook.
 
@@ -46,8 +44,7 @@ You can also mix things up. Instead of writing at breakfast, take a walk around 
 
 ## Key Takeaways
 
-![Plain lined paper](https://images.unsplash.com/photo-1532153354457-5fbe1a3bb0b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbGVlcCUyMGhhYml0cyUyMHBhcGVyJTIwYm9va3MlMjBiZWR0aW1lJTIwcm91dGluZXxlbnwwfDB8fHwxNzQ5NDA1NTk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Sleep Better WITHOUT Scrolling Your Phone at Night")
-*How to Sleep Better WITHOUT Scrolling Your Phone at Night - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/white-ruled-paper-U_Ff4ohzLSw)*
+{{< figure src="https://images.unsplash.com/photo-1532153354457-5fbe1a3bb0b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbGVlcCUyMGhhYml0cyUyMHBhcGVyJTIwYm9va3MlMjBiZWR0aW1lJTIwcm91dGluZXxlbnwwfDB8fHwxNzQ5NDA1NTk3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Plain lined paper" title="How to Sleep Better WITHOUT Scrolling Your Phone at Night" caption="How to Sleep Better WITHOUT Scrolling Your Phone at Night - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/white-ruled-paper-U_Ff4ohzLSw)" >}}
 
 - Put your phone and computer away two hours before bed.
 - Read a paper book or Kindle instead.

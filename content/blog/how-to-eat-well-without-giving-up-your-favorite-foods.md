@@ -12,8 +12,7 @@ original_title = "L’importance cruciale de bien manger"
 source_medium = "https://medium.com/@phenrysay/5d5339edb317"
 +++
 
-![Photo by Aleksander Saks](https://images.unsplash.com/photo-1693996046744-d7d7434bc777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwZWF0aW5nJTIwbnV0cml0aW9uJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjUxMTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Eat Well Without Giving Up Your Favorite Foods")
-*How to Eat Well Without Giving Up Your Favorite Foods - Photo by [Aleksander Saks](https://unsplash.com/@alexsaks) on [Unsplash](https://unsplash.com/photos/a-container-of-pre-workout-powder-next-to-a-spoon-3pJn1WzoY7E)*
+{{< figure src="https://images.unsplash.com/photo-1693996046744-d7d7434bc777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwZWF0aW5nJTIwbnV0cml0aW9uJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjUxMTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A of pre workout powder next to a spoon" title="How to Eat Well Without Giving Up Your Favorite Foods" caption="How to Eat Well Without Giving Up Your Favorite Foods - Photo by [Aleksander Saks](https://unsplash.com/@alexsaks) on [Unsplash](https://unsplash.com/photos/a-container-of-pre-workout-powder-next-to-a-spoon-3pJn1WzoY7E)" >}}
 
 Eating well is not just about filling your stomach. It’s about shaping your entire life. The food you choose every day has a direct impact on how you feel, how you think, and even how you act. If you feed yourself with junk food, your body and mind will eventually show the consequences. On the other hand, eating healthy and balanced meals can transform your energy, your mood, and your ability to think clearly.
 
@@ -23,8 +22,7 @@ When you eat well, you feel lighter, you get fewer headaches, and you’re less 
 
 This idea doesn’t just apply to food. It’s also true for the information you consume. If you fill your mind with negative news or useless facts, it clutters your thoughts and slows you down. Just like junk food, junk information can weigh you down and make it harder to move forward in life.
 
-![Great for wellness bloggers](https://images.unsplash.com/photo-1611779013424-1ec1aaf87be7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGh5JTIwZWF0aW5nJTIwbnV0cml0aW9uJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjUxMTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Eat Well Without Giving Up Your Favorite Foods")
-*How to Eat Well Without Giving Up Your Favorite Foods - Photo by [Hey Beauti Magazine](https://unsplash.com/@heybeautimagazine) on [Unsplash](https://unsplash.com/photos/white-plastic-bottle-on-white-table-ssWZi1RRFq0)*
+{{< figure src="https://images.unsplash.com/photo-1611779013424-1ec1aaf87be7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGh5JTIwZWF0aW5nJTIwbnV0cml0aW9uJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjUxMTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Great for wellness bloggers" title="How to Eat Well Without Giving Up Your Favorite Foods" caption="How to Eat Well Without Giving Up Your Favorite Foods - Photo by [Hey Beauti Magazine](https://unsplash.com/@heybeautimagazine) on [Unsplash](https://unsplash.com/photos/white-plastic-bottle-on-white-table-ssWZi1RRFq0)" >}}
 
 Of course, everyone has cravings now and then. Sometimes you want something greasy or a big slice of cake. That’s normal. But in the long run, these choices add up. If you keep choosing unhealthy options, you’ll pay the price later, both physically and mentally. Instead, try swapping that cake for some fruit. Over time, you’ll feel much better, have more energy, and even think more clearly.
 
@@ -42,8 +40,7 @@ That’s why eating well isn’t just a tip or a trick. It’s the most importan
 
 ---
 
-![Photo by Oskar Kadaksoo](https://images.unsplash.com/photo-1661257711676-79a0fc533569?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGh5JTIwZWF0aW5nJTIwbnV0cml0aW9uJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjUxMTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Eat Well Without Giving Up Your Favorite Foods")
-*How to Eat Well Without Giving Up Your Favorite Foods - Photo by [Oskar Kadaksoo](https://unsplash.com/@oskark) on [Unsplash](https://unsplash.com/photos/a-bowl-of-food-on-a-plate-Be2IMDyTDII)*
+{{< figure src="https://images.unsplash.com/photo-1661257711676-79a0fc533569?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGh5JTIwZWF0aW5nJTIwbnV0cml0aW9uJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjUxMTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A bowl of food on a plate" title="How to Eat Well Without Giving Up Your Favorite Foods" caption="How to Eat Well Without Giving Up Your Favorite Foods - Photo by [Oskar Kadaksoo](https://unsplash.com/@oskark) on [Unsplash](https://unsplash.com/photos/a-bowl-of-food-on-a-plate-Be2IMDyTDII)" >}}
 
 ## Key Takeaways
 

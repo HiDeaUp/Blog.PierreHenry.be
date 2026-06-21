@@ -12,8 +12,7 @@ original_title = "C’est quoi ton projet-passion ? 🍰"
 source_medium = "https://medium.com/@phenrysay/ca0f6efdd6eb"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Mondays Feel Like Fridays With a Passion Project")
-*How to Make Mondays Feel Like Fridays With a Passion Project - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)*
+{{< figure src="https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word passion" title="How to Make Mondays Feel Like Fridays With a Passion Project" caption="How to Make Mondays Feel Like Fridays With a Passion Project - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)" >}}
 
 Have you ever noticed how some people wake up on Monday mornings with the same energy and excitement most of us reserve for Friday afternoons? The secret often lies in having a passion project—a small challenge that gives your days a spark and makes you feel truly alive.
 
@@ -23,8 +22,7 @@ Imagine you’re someone who loves making strawberry charlotte cakes. You could 
 
 The beauty of a passion project is that it can open doors you never expected. It can help you meet new people, learn new skills, and even create new career opportunities. The more you invest in it, the more it grows—like a snowball effect. You become known for your unique interest, and that can lead to all sorts of exciting possibilities.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Mondays Feel Like Fridays With a Passion Project")
-*How to Make Mondays Feel Like Fridays With a Passion Project - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)*
+{{< figure src="https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word love on a wooden surface" title="How to Make Mondays Feel Like Fridays With a Passion Project" caption="How to Make Mondays Feel Like Fridays With a Passion Project - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)" >}}
 
 What matters most is that your project brings you happiness and a sense of accomplishment. It’s not about the size of the project, but the energy and meaning it adds to your life. Even a small daily commitment can make a big difference over time.
 
@@ -38,8 +36,7 @@ What matters most is that your project brings you happiness and a sense of accom
 
 ## Key Takeaways
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Mondays Feel Like Fridays With a Passion Project")
-*How to Make Mondays Feel Like Fridays With a Passion Project - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjY0MTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Make Mondays Feel Like Fridays With a Passion Project" caption="How to Make Mondays Feel Like Fridays With a Passion Project - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 - *A passion project can turn ordinary days into something special.*
 - *Even a small daily effort can lead to pride, new skills, and unexpected opportunities.*

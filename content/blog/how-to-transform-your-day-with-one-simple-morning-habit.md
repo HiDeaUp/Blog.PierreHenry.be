@@ -12,8 +12,7 @@ original_title = "Arrête de Perdre Ton Temps. La Méthode Qui Change Tout"
 source_medium = "https://medium.com/@phenrysay/99710e32fc31"
 +++
 
-![Photo by Odile](https://images.unsplash.com/photo-1747574682762-d4b8ed62f51e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcml0dWFsJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU1Mzg1MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Day With One Simple Morning Habit")
-*How to Transform Your Day With One Simple Morning Habit - Photo by [Odile](https://unsplash.com/@odile__) on [Unsplash](https://unsplash.com/photos/a-hand-holds-a-singing-bowl-in-blue-light-zcLhYa09W7g)*
+{{< figure src="https://images.unsplash.com/photo-1747574682762-d4b8ed62f51e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcml0dWFsJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU1Mzg1MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A hand holds a singing bowl in blue light" title="How to Transform Your Day With One Simple Morning Habit" caption="How to Transform Your Day With One Simple Morning Habit - Photo by [Odile](https://unsplash.com/@odile__) on [Unsplash](https://unsplash.com/photos/a-hand-holds-a-singing-bowl-in-blue-light-zcLhYa09W7g)" >}}
 
 There’s something special about the places we find ourselves in each day. Even in the most ordinary environments, there are always little wonders to notice—like the simple act of making a morning coffee. For me, this ritual is more than just a caffeine fix; it’s a way to start the day with intention.
 
@@ -25,8 +24,7 @@ As I sit here with my coffee, watching the train go by and people heading to wor
 
 Once I’m settled, I get to work on my projects. Editing videos for my YouTube channel is part of my routine. I talk about coding, clever solutions, and things that make life easier for engineers and curious minds. Editing isn’t glamorous. In fact, most people don’t like it, and I’m no exception. It’s not the fun part, but it’s necessary.
 
-![Photo by Cory Bjork](https://images.unsplash.com/photo-1641924676578-ed2792eb24de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcml0dWFsJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU1Mzg1MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Day With One Simple Morning Habit")
-*How to Transform Your Day With One Simple Morning Habit - Photo by [Cory Bjork](https://unsplash.com/@corybjork) on [Unsplash](https://unsplash.com/photos/a-tray-of-breakfast-on-a-bed-with-white-sheets-gtEzYq0B7-A)*
+{{< figure src="https://images.unsplash.com/photo-1641924676578-ed2792eb24de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcml0dWFsJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU1Mzg1MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tray of on a bed with white sheets A" title="How to Transform Your Day With One Simple Morning Habit" caption="How to Transform Your Day With One Simple Morning Habit - Photo by [Cory Bjork](https://unsplash.com/@corybjork) on [Unsplash](https://unsplash.com/photos/a-tray-of-breakfast-on-a-bed-with-white-sheets-gtEzYq0B7-A)" >}}
 
 Sometimes, after spending time on a video, my computer crashes and I lose my work. It’s frustrating, but I keep going. I try to make my videos clear and to the point. That’s what matters most—being effective, not flashy.
 
@@ -44,9 +42,7 @@ In the end, what matters is doing the work that moves you forward, even if some 
 
 ---
 
-![Photo by @erykmunk
-Styling by @farfarsgemmer instagram.com/farfarsgemmer](https://images.unsplash.com/photo-1638871545463-67e02e28623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcml0dWFsJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU1Mzg1MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Day With One Simple Morning Habit")
-*How to Transform Your Day With One Simple Morning Habit - Photo by [Eryk Piotr Munk](https://unsplash.com/@piotrmunk) on [Unsplash](https://unsplash.com/photos/a-tray-with-a-croissant-and-a-cup-of-coffee-on-it-gBqxWOToEs0)*
+{{< figure src="https://images.unsplash.com/photo-1638871545463-67e02e28623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcml0dWFsJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU1Mzg1MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tray with a and a cup of coffee on it" title="How to Transform Your Day With One Simple Morning Habit" caption="How to Transform Your Day With One Simple Morning Habit - Photo by [Eryk Piotr Munk](https://unsplash.com/@piotrmunk) on [Unsplash](https://unsplash.com/photos/a-tray-with-a-croissant-and-a-cup-of-coffee-on-it-gBqxWOToEs0)" >}}
 
 ## Key Takeaways
 

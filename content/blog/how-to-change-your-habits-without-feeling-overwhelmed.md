@@ -12,8 +12,7 @@ original_title = "Tout ce qu'il faut savoir sur l'organisation ⚠️"
 source_medium = "https://medium.com/@phenrysay/bab82ae2f088"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992830-8cb4f259c068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmdhbml6YXRpb24lMjBkaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYwNjY2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Habits Without Feeling Overwhelmed")
-*How to Change Your Habits Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-Ocd6dYVbl8o)*
+{{< figure src="https://images.unsplash.com/photo-1695370992830-8cb4f259c068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmdhbml6YXRpb24lMjBkaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYwNjY2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a piece of paper on it" title="How to Change Your Habits Without Feeling Overwhelmed" caption="How to Change Your Habits Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-Ocd6dYVbl8o)" >}}
 
 Changing your routine is tough. If you’ve ever tried to break out of your usual habits, you know exactly what I mean. For a long time, I struggled with this myself. Maybe you recognize the feeling: you have a routine that’s so deeply set, it feels impossible to change. Sometimes, it’s not even a routine anymore—it’s a set of little rituals. Maybe before bed, you always have a cup of tea or warm milk (I used to love hot chocolate, especially in winter), watch a movie, and then go to bed late. The next day, you wake up feeling off, realizing it’s already 9 or 10 in the morning.
 
@@ -29,8 +28,7 @@ If you’re disciplined with your days and set clear, meaningful rules for yours
 
 We all have 24 hours in a day, but we all manage them differently. Investing in your time is what makes the difference. Changing your routine means questioning yourself and rethinking the habits you’ve built. Most of us go through our days on autopilot, then complain we never have time for what matters. But how often do we actually sit down, reflect, and write out how our day unfolds?
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695548303333-e66b1a95fd53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcmdhbml6YXRpb24lMjBkaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYwNjY2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Habits Without Feeling Overwhelmed")
-*How to Change Your Habits Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-says-positive-disc-Pzv8u5KxHnU)*
+{{< figure src="https://images.unsplash.com/photo-1695548303333-e66b1a95fd53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcmdhbml6YXRpb24lMjBkaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYwNjY2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that says disc" title="How to Change Your Habits Without Feeling Overwhelmed" caption="How to Change Your Habits Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-says-positive-disc-Pzv8u5KxHnU)" >}}
 
 Try this: at the end of the day, rewind in your mind and note every habit, good or bad. Or, in the morning, write down each thing you do as you wake up. You don’t have to keep these notes forever, but it helps you see which habits are helping and which are just taking up space. Sometimes, a habit isn’t bad, but it’s not aligned with your current goals. Put it on pause so you can focus on what matters now. Later, you can always return to it.
 
@@ -50,8 +48,7 @@ The key is to make the first step as small as possible. This reduces mental fric
 
 — James Clear
 
-![The word change illuminated in white and reflected on a tiled floor.](https://images.unsplash.com/photo-1631286434951-caa3dcab4d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcmdhbml6YXRpb24lMjBkaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYwNjY2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Habits Without Feeling Overwhelmed")
-*How to Change Your Habits Without Feeling Overwhelmed - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-change-5RjdYvDRNpA)*
+{{< figure src="https://images.unsplash.com/photo-1631286434951-caa3dcab4d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcmdhbml6YXRpb24lMjBkaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYwNjY2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="The word change illuminated in white and reflected on a tiled floor." title="How to Change Your Habits Without Feeling Overwhelmed" caption="How to Change Your Habits Without Feeling Overwhelmed - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-change-5RjdYvDRNpA)" >}}
 
 I’ve spent years and a lot of money learning about productivity, time management, and personal development. I’m always learning, always testing, and always sharing what works. Nobody’s perfect, but every bit of progress counts.
 

@@ -12,8 +12,7 @@ original_title = "Comment (re)construire sa vie ? 🗺️"
 source_medium = "https://medium.com/@phenrysay/4c3e3002d359"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1yZWJ1aWxkaW5nJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDk3NjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward by Pressing Pause on Your Life")
-*How to Move Forward by Pressing Pause on Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1yZWJ1aWxkaW5nJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDk3NjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Move Forward by Pressing Pause on Your Life" caption="How to Move Forward by Pressing Pause on Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Building your life and achieving things for yourself is what makes all the difference. Action is essential. If you never act, if you are not proactive in your decisions, or if you do not even know what you want, you will find yourself drifting. I know this feeling well. It is normal not to always know what you want, but that is exactly why you need to pause and reflect.
 
@@ -23,8 +22,7 @@ For example, I once thought I absolutely needed a master’s degree in data scie
 
 Sometimes, you need to step back and look at your situation from a distance. Sit somewhere quiet, take a notebook and a pen, and ask yourself: What do I really want to achieve? What do I want to build? This kind of reflection helps you move forward faster and make better decisions, instead of wasting years on something that does not really matter to you.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1yZWJ1aWxkaW5nJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDk3NjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward by Pressing Pause on Your Life")
-*How to Move Forward by Pressing Pause on Your Life - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1yZWJ1aWxkaW5nJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDk3NjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Move Forward by Pressing Pause on Your Life" caption="How to Move Forward by Pressing Pause on Your Life - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 A master’s degree can take two years. That is a lot of time to spend on something that may not even bring you closer to your real goals. The sooner you pause and reflect, the better. Sometimes, you just need a break. Recently, I took a short vacation, and it did me a lot of good. Even if you are working remotely or as an employee, changing your environment helps you see your life differently.
 
@@ -40,8 +38,7 @@ This applies to your life, your success, and your happiness. If you had started 
 
 I want you to succeed because it is worth it. Life is short, so go for it. Take action. Believe in yourself, because I believe in you.
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1yZWJ1aWxkaW5nJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDk3NjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward by Pressing Pause on Your Life")
-*How to Move Forward by Pressing Pause on Your Life - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbGlmZS1yZWJ1aWxkaW5nJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDk3NjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Move Forward by Pressing Pause on Your Life" caption="How to Move Forward by Pressing Pause on Your Life - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 ---
 

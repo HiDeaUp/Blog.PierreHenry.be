@@ -12,8 +12,7 @@ original_title = "Je balance mon plan de productivité prêt à l'emploi !"
 source_medium = "https://medium.com/@phenrysay/526260a722be"
 +++
 
-![Alarm clock friends situation with hand](https://images.unsplash.com/photo-1495364141860-b0d03eccd065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NDkzMzM0NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Days You’re Proud Of Without Chasing Productivity Apps")
-*How to Build Days You’re Proud Of Without Chasing Productivity Apps - Photo by [Lukas Blazek](https://unsplash.com/@goumbik) on [Unsplash](https://unsplash.com/photos/person-holding-white-mini-bell-alarmclock-UAvYasdkzq8)*
+{{< figure src="https://images.unsplash.com/photo-1495364141860-b0d03eccd065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NDkzMzM0NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alarm clock friends situation with hand" title="How to Build Days You’re Proud Of Without Chasing Productivity Apps" caption="How to Build Days You’re Proud Of Without Chasing Productivity Apps - Photo by [Lukas Blazek](https://unsplash.com/@goumbik) on [Unsplash](https://unsplash.com/photos/person-holding-white-mini-bell-alarmclock-UAvYasdkzq8)" >}}
 
 Most people live day by day, drifting from one thing to the next. We don’t give enough importance to time, even though it’s the most precious and limited resource we have. If you take care of your time, if you manage your days well, you’ll free up more of it for what truly matters—the things that bring real value and make all the difference.
 
@@ -25,8 +24,7 @@ We often tell ourselves, “I don’t have time now, maybe next month.” But ne
 
 It’s the same with money. You think one day you’ll have more, but as your income grows, so do your expenses—lifestyle inflation kicks in. The more you earn, the more you spend, and the cycle never ends. So you have to manage your finances and your time, and realize the best moment to start is now. Build the foundations today, so urgent things don’t overrun your life like weeds climbing over a castle wall. You have to clear the ground before you can build something solid.
 
-![Eventually everything hits the bottom, and all you have to do is wait until someone comes along, and turns it back again. ⌛️](https://images.unsplash.com/photo-1501139083538-0139583c060f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NDkzMzM0NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Days You’re Proud Of Without Chasing Productivity Apps")
-*How to Build Days You’re Proud Of Without Chasing Productivity Apps - Photo by [Aron Visuals](https://unsplash.com/@aronvisuals) on [Unsplash](https://unsplash.com/photos/selective-focus-photo-of-brown-and-blue-hourglass-on-stones-BXOXnQ26B7o)*
+{{< figure src="https://images.unsplash.com/photo-1501139083538-0139583c060f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NDkzMzM0NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Eventually everything hits the bottom, and all you have to do is wait until someone comes along, and turns it back again. ⌛️" title="How to Build Days You’re Proud Of Without Chasing Productivity Apps" caption="How to Build Days You’re Proud Of Without Chasing Productivity Apps - Photo by [Aron Visuals](https://unsplash.com/@aronvisuals) on [Unsplash](https://unsplash.com/photos/selective-focus-photo-of-brown-and-blue-hourglass-on-stones-BXOXnQ26B7o)" >}}
 
 This “clearing” is just as important for your days. Rethink how you organize your time so you can actually achieve things that make you happy. Productivity is great, but if it comes at the cost of your happiness, what’s the point? We only get one life, and being happy is crucial.
 
@@ -43,8 +41,7 @@ Don’t underestimate the power of positive self-talk. Tell yourself, “Today w
 > *“The key is not to prioritize what’s on your schedule, but to schedule your priorities.”*  
 > —Stephen R. Covey
 
-![Blue clock on a pastel background](https://images.unsplash.com/photo-1524678714210-9917a6c619c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NDkzMzM0NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Days You’re Proud Of Without Chasing Productivity Apps")
-*How to Build Days You’re Proud Of Without Chasing Productivity Apps - Photo by [Icons8 Team](https://unsplash.com/@icons8) on [Unsplash](https://unsplash.com/photos/silver-bell-alarm-clock-dhZtNlvNE8M)*
+{{< figure src="https://images.unsplash.com/photo-1524678714210-9917a6c619c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHBsYW5uaW5nfGVufDB8MHx8fDE3NDkzMzM0NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Blue clock on a pastel background" title="How to Build Days You’re Proud Of Without Chasing Productivity Apps" caption="How to Build Days You’re Proud Of Without Chasing Productivity Apps - Photo by [Icons8 Team](https://unsplash.com/@icons8) on [Unsplash](https://unsplash.com/photos/silver-bell-alarm-clock-dhZtNlvNE8M)" >}}
 
 > *“You will never find time for anything. If you want time, you must make it.”*  
 > —Charles Buxton

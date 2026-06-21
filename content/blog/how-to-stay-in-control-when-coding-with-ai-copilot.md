@@ -12,8 +12,7 @@ original_title = "Practical Tips to Use AI Copilot More Effectively in AI Driven
 source_medium = "https://medium.com/@phenrysay/748cb389ddc0"
 +++
 
-![Photo by Alfred Rowe](https://images.unsplash.com/photo-1561886362-a2b38ce83470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMENvcGlsb3QlMjBjb2RlJTIwZWRpdG9ycyUyMHByb2R1Y3Rpdml0eSUyMHRpcHN8ZW58MHwwfHx8MTc2NzA3NTc3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay in Control When Coding With AI Copilot")
-*How to Stay in Control When Coding With AI Copilot - Photo by [Alfred Rowe](https://unsplash.com/@nukturnal) on [Unsplash](https://unsplash.com/photos/macbook-pro-w2dWzKL_t5E)*
+{{< figure src="https://images.unsplash.com/photo-1561886362-a2b38ce83470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMENvcGlsb3QlMjBjb2RlJTIwZWRpdG9ycyUyMHByb2R1Y3Rpdml0eSUyMHRpcHN8ZW58MHwwfHx8MTc2NzA3NTc3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Macbook pro" title="How to Stay in Control When Coding With AI Copilot" caption="How to Stay in Control When Coding With AI Copilot - Photo by [Alfred Rowe](https://unsplash.com/@nukturnal) on [Unsplash](https://unsplash.com/photos/macbook-pro-w2dWzKL_t5E)" >}}
 
 Alright, let’s get straight to it. Today, I want to talk about something that comes up all the time when you’re working with AI code assistants like Copilot. You’re writing code, you hit commit, and suddenly you’re staring at something weird in your diff. You’re thinking, “Wait, why did Copilot do this? I’m not silly—I’m the pilot here. Copilot is just the co-pilot.” And honestly, that’s exactly the mindset you need.
 
@@ -25,8 +24,7 @@ Of course, you want to help each other out, but you should always be thinking: �
 
 So, always question. That’s how you get better at what you do. Use AI to be more efficient and to level up, but don’t just accept everything Copilot spits out. Think of it as a conversation between you and Copilot. Ask yourself, “Do we need this?” Because if you just trust Copilot blindly, it’ll add a lot of code—sometimes too much. That’s when problems start. Your codebase becomes unmaintainable, bugs creep in, and you have no idea why. Well, it’s your fault if you didn’t review properly.
 
-![Debugging is a part of coding](https://images.unsplash.com/photo-1564931768730-7e4d8e240044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMENvcGlsb3QlMjBjb2RlJTIwZWRpdG9ycyUyMHByb2R1Y3Rpdml0eSUyMHRpcHN8ZW58MHwwfHx8MTc2NzA3NTc3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay in Control When Coding With AI Copilot")
-*How to Stay in Control When Coding With AI Copilot - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/code-debug-vy7GOqb1M9s)*
+{{< figure src="https://images.unsplash.com/photo-1564931768730-7e4d8e240044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMENvcGlsb3QlMjBjb2RlJTIwZWRpdG9ycyUyMHByb2R1Y3Rpdml0eSUyMHRpcHN8ZW58MHwwfHx8MTc2NzA3NTc3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Debugging is a part of coding" title="How to Stay in Control When Coding With AI Copilot" caption="How to Stay in Control When Coding With AI Copilot - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/code-debug-vy7GOqb1M9s)" >}}
 
 Copilot can also add redundant checks or unnecessary stuff. It’s your job to spot that and prevent it. You can even add rules for this. For example, you have Cursor rules, and you can set up instructions with Copilot in VS Code. Right now, the instructions aren’t as good as Cursor rules, but hopefully that’ll get better soon.
 
@@ -45,8 +43,7 @@ Ask yourself: Do I really need to reset `itemCount` here? What’s the context? 
 
 Here’s the thing: using AI is still pretty new. We’ve only had these tools for a few years, and we’re all still figuring out how to use them best. It takes time to adjust. But you want to use the latest and best technology to be quicker and better. Just remember, being quicker without reading or questioning Copilot won’t actually make you faster in the long run. It might feel like it, but eventually, you’ll hit a wall. That’s when the problems start.
 
-![Photo by Srijan Tiwari](https://images.unsplash.com/photo-1600290239653-029f10d8b38d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMENvcGlsb3QlMjBjb2RlJTIwZWRpdG9ycyUyMHByb2R1Y3Rpdml0eSUyMHRpcHN8ZW58MHwwfHx8MTc2NzA3NTc3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay in Control When Coding With AI Copilot")
-*How to Stay in Control When Coding With AI Copilot - Photo by [Srijan Tiwari](https://unsplash.com/@srijant) on [Unsplash](https://unsplash.com/photos/white-and-black-ceramic-mug-beside-black-computer-mouse-KUzd9yEFTAs)*
+{{< figure src="https://images.unsplash.com/photo-1600290239653-029f10d8b38d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMENvcGlsb3QlMjBjb2RlJTIwZWRpdG9ycyUyMHByb2R1Y3Rpdml0eSUyMHRpcHN8ZW58MHwwfHx8MTc2NzA3NTc3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black ceramic mug beside black mouse" title="How to Stay in Control When Coding With AI Copilot" caption="How to Stay in Control When Coding With AI Copilot - Photo by [Srijan Tiwari](https://unsplash.com/@srijant) on [Unsplash](https://unsplash.com/photos/white-and-black-ceramic-mug-beside-black-computer-mouse-KUzd9yEFTAs)" >}}
 
 **Don’t take the shortcut that leads to a dead end.** Use the right way, the right path. Step by step, you’ll become a better engineer—a better version of yourself.
 

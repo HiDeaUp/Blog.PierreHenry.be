@@ -12,8 +12,7 @@ original_title = "Efficacité: Je partage mon plan de productivité (prêt à l'
 source_medium = "https://medium.com/@phenrysay/24f9ee1c8619"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHRoaW5raW5nfGVufDB8MHx8fDE3NTU1NTQ0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Long-Term Without Feeling Overwhelmed Daily")
-*How to Think Long-Term Without Feeling Overwhelmed Daily - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHRoaW5raW5nfGVufDB8MHx8fDE3NTU1NTQ0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Think Long-Term Without Feeling Overwhelmed Daily" caption="How to Think Long-Term Without Feeling Overwhelmed Daily - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Most people live day by day, drifting through their routines without giving much thought to how they spend their time. We often treat time as if it’s endless, but it’s actually the most precious and limited resource we have. If you learn to manage your time well, you’ll free up more of it for what truly matters—the things that bring real value and make a difference in your life.
 
@@ -25,8 +24,7 @@ People often say, “I can’t do this now, I don’t have enough time—maybe n
 
 It’s up to you to manage your time and money wisely. The best moment to start is now. Set up solid foundations so that urgent tasks don’t invade your life like weeds growing over a castle wall. You need to clear the ground—do some “weeding” in your schedule—so you can build something strong and meaningful.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHRoaW5raW5nfGVufDB8MHx8fDE3NTU1NTQ0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Long-Term Without Feeling Overwhelmed Daily")
-*How to Think Long-Term Without Feeling Overwhelmed Daily - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHRoaW5raW5nfGVufDB8MHx8fDE3NTU1NTQ0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Think Long-Term Without Feeling Overwhelmed Daily" caption="How to Think Long-Term Without Feeling Overwhelmed Daily - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Productivity isn’t just about doing more; it’s about doing what matters without sacrificing your happiness. After all, we only have one life, and being happy is essential. I’ve spent over a decade experimenting with different ways to organize my days, constantly questioning and adjusting my approach. Through all these pivots, I’ve developed a system that works for me—a system that helps me wake up knowing exactly what I want and need to do.
 
@@ -46,8 +44,7 @@ These small habits can completely change how you experience your days. You’ll 
 > *Happiness is not something ready made. It comes from your own actions.*
 > — Dalai Lama
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHRoaW5raW5nfGVufDB8MHx8fDE3NTU1NTQ0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Long-Term Without Feeling Overwhelmed Daily")
-*How to Think Long-Term Without Feeling Overwhelmed Daily - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxvbmctdGVybSUyMHRoaW5raW5nfGVufDB8MHx8fDE3NTU1NTQ0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Think Long-Term Without Feeling Overwhelmed Daily" caption="How to Think Long-Term Without Feeling Overwhelmed Daily - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Croquer la vie pleine dents. Voici le manuel de vie qui va te 
 source_medium = "https://medium.com/@phenrysay/e75ef9f6d5cf"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaXZlJTIwZnVsbHklMjBsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTUxNTcwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Waiting for the “Right” Moment")
-*How to Savor Life Without Waiting for the “Right” Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
+{{< figure src="https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaXZlJTIwZnVsbHklMjBsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTUxNTcwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface WpoS C209uk" title="How to Savor Life Without Waiting for the “Right” Moment" caption="How to Savor Life Without Waiting for the “Right” Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)" >}}
 
 Life deserves to be lived to the fullest. Too often, we tell ourselves we need to save money, to be careful, to wait for the right moment. Of course, saving is important. But money comes and goes. Time, on the other hand, only goes. If you’re just going through the motions, not really enjoying your days, you’re losing precious time—and that means losing pieces of your life.
 
@@ -25,9 +24,7 @@ This bay is beautiful. It’s the same bay that leads to the Sydney Opera House.
 
 Sometimes, all you need is to read a good book, write a little, or just take a step back and reflect on your life. These moments of reflection are essential. Ask yourself: What do I want to do today? What do I want to do tomorrow? What should I change, and what should I keep in my life? We all have things we want to adjust, keep, or swap out. Taking a step back to think about these questions is crucial, because life keeps moving forward, and we’re all getting older. Making good decisions and enjoying the present is far better than waiting for retirement or some distant future to finally start living. The truth is, no one knows what the future holds.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaXZlJTIwZnVsbHklMjBsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTUxNTcwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Waiting for the “Right” Moment")
-*How to Savor Life Without Waiting for the “Right” Moment - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaXZlJTIwZnVsbHklMjBsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTUxNTcwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Savor Life Without Waiting for the “Right” Moment" caption="How to Savor Life Without Waiting for the “Right” Moment - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 The real goal in life is to be happy. A happy life is often a simple one, with fewer worries and more peace. That’s what matters most.
 
@@ -51,8 +48,7 @@ The real goal in life is to be happy. A happy life is often a simple one, with f
 - Don’t wait for retirement or the perfect moment to start living.
 - Take time to relax, slow down, and appreciate the present.
 
-![Photo by Matt Busse](https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaXZlJTIwZnVsbHklMjBsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTUxNTcwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Waiting for the “Right” Moment")
-*How to Savor Life Without Waiting for the “Right” Moment - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)*
+{{< figure src="https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaXZlJTIwZnVsbHklMjBsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTUxNTcwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on top of a rock next to the ocean" title="How to Savor Life Without Waiting for the “Right” Moment" caption="How to Savor Life Without Waiting for the “Right” Moment - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)" >}}
 
 ## Action Steps
 

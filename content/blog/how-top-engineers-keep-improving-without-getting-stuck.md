@@ -12,8 +12,7 @@ original_title = "How Top Software Engineers Keep Getting Better Every Single Da
 source_medium = "https://medium.com/@phenrysay/d188140744a4"
 +++
 
-![Photo by Nguyen Dang Hoang Nhu](https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29udGludW91cyUyMGxlYXJuaW5nJTIwY2FyZWVyJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzA1ODkwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Top Engineers Keep Improving Without Getting Stuck")
-*How Top Engineers Keep Improving Without Getting Stuck - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)*
+{{< figure src="https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29udGludW91cyUyMGxlYXJuaW5nJTIwY2FyZWVyJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzA1ODkwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy in blue t shirt sitting on black office rolling chair in front of F" title="How Top Engineers Keep Improving Without Getting Stuck" caption="How Top Engineers Keep Improving Without Getting Stuck - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)" >}}
 
 Let’s get real for a minute. If you’re a software engineer with five, ten, or even twenty years of experience, it’s way too easy to fall into the trap of doing things the same old way. I’ve seen it happen all the time. You know there’s a better approach out there, but you keep reaching for the same tools, the same patterns, the same habits—sometimes even the same outdated language. Maybe you’re still using Perl for everything, or you’re stuck on server-side rendering when you know client-side rendering with an API would be a better fit for your project.
 
@@ -29,14 +28,7 @@ Or maybe you’re still using template engines like Smarty in PHP. Look, Smarty 
 
 Here’s what I really want to drive home: **never stop learning**. Make it a habit to always be on the lookout for better ways to do things. Don’t get too comfortable. There’s always room for improvement, and there’s always something new to learn. That’s what keeps you sharp and relevant in this field.
 
-![Berdiri tahun 2013 dan alumni rata-rata 23940 tiap tahunnya, merupakan hasil nyata memberikan materi pelatihan, pengalaman, sistem belajar, dan pelayanan terbaik pada peserta menjadi alasan puluhan ribu alumni memilih kami, mulai dari perusahaan pemerintah dan swasta, industri kreatif, universitas, sekolah dalam & luar Negeri.
-
-1. Belajar Multimedia: Mempelajari & memahami software multimedia!! mulai dari desain grafis, animasi, hingga editing video
-2. Mahir Pemrograman: Mendalami bahasa pemrograman dari tingkat Basic sampai Advanced!! Java, PHP, Python, React, Kotlin, dan masih banyak lagi.
-3. Arsitektur & Interior: AutoCAD, 3Ds Max, VRay, dan sketchup merupakan software yang wajib dipelajari untuk mewujudkan 3D visual concept Anda.
-
-Selengkapnya di www.Flashcomindonesia.com](https://images.unsplash.com/photo-1558301204-e3226482a77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29udGludW91cyUyMGxlYXJuaW5nJTIwY2FyZWVyJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzA1ODkwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Top Engineers Keep Improving Without Getting Stuck")
-*How Top Engineers Keep Improving Without Getting Stuck - Photo by [FLASHCOM INDONESIA](https://unsplash.com/@flashcomindonesia) on [Unsplash](https://unsplash.com/photos/woman-wearing-grey-hijab-using-laptop-compiter-wr6eqJyxWy8)*
+{{< figure src="https://images.unsplash.com/photo-1558301204-e3226482a77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29udGludW91cyUyMGxlYXJuaW5nJTIwY2FyZWVyJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzA1ODkwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman wearing grey hijab using laptop" title="How Top Engineers Keep Improving Without Getting Stuck" caption="How Top Engineers Keep Improving Without Getting Stuck - Photo by [FLASHCOM INDONESIA](https://unsplash.com/@flashcomindonesia) on [Unsplash](https://unsplash.com/photos/woman-wearing-grey-hijab-using-laptop-compiter-wr6eqJyxWy8)" >}}
 
 I’m not saying you should jump on every new trend just because it’s new. But you should be aware of what’s out there, and be honest with yourself about whether your current approach is really the best one for the job. If you’re not evolving, you’re falling behind.
 
@@ -66,8 +58,7 @@ This is way more efficient than polling with AJAX, and it’s not even that comp
 
 ## Key Takeaways
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29udGludW91cyUyMGxlYXJuaW5nJTIwY2FyZWVyJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzA1ODkwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Top Engineers Keep Improving Without Getting Stuck")
-*How Top Engineers Keep Improving Without Getting Stuck - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29udGludW91cyUyMGxlYXJuaW5nJTIwY2FyZWVyJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzA1ODkwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="How Top Engineers Keep Improving Without Getting Stuck" caption="How Top Engineers Keep Improving Without Getting Stuck - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 - **Don’t get stuck in your ways.** Just because something worked in 2008 doesn’t mean it’s the best choice today.
 - **Always be learning.** Stay curious and keep an eye on new technologies and patterns.

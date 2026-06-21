@@ -12,8 +12,7 @@ original_title = "Clé de la réussite (je dévoile TOUT)"
 source_medium = "https://medium.com/@phenrysay/d45918601f72"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1hZ2V8ZW58MHwwfHx8MTc1NjAwODQ1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Success Mindset or Stay Stuck Where You Are")
-*Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1hZ2V8ZW58MHwwfHx8MTc1NjAwODQ1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="Adopt a Success Mindset or Stay Stuck Where You Are" caption="Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Success isn’t just about luck or talent. It’s about the mindset you carry every single day. I want to share something deeply important to me: what I call the “chromosomes of success.” This isn’t about genetics, but about the inner voice that tells you, “Yes, everything is possible. I was born to succeed. I can achieve anything I set my mind to.”
 
@@ -27,8 +26,7 @@ Your mindset is directly linked to what you achieve every day. The limits you se
 
 There’s a quote that really speaks to me:
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1hZ2V8ZW58MHwwfHx8MTc1NjAwODQ1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Success Mindset or Stay Stuck Where You Are")
-*Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1hZ2V8ZW58MHwwfHx8MTc1NjAwODQ1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="Adopt a Success Mindset or Stay Stuck Where You Are" caption="Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 > *If you want to succeed, you must first become the person who can succeed, instead of chasing success as if it were an object.*
 —Napoleon Hill
@@ -48,8 +46,7 @@ We all have our own “paradigms”—the mental frameworks that shape how we se
 
 Another powerful tool is to model your behavior and attitude after someone who has already succeeded. Read biographies, watch interviews, and see how they carry themselves. You’ll realize that many successful people started with even less than you, and if they could do it, so can you.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1hZ2V8ZW58MHwwfHx8MTc1NjAwODQ1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Success Mindset or Stay Stuck Where You Are")
-*Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1hZ2V8ZW58MHwwfHx8MTc1NjAwODQ1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="Adopt a Success Mindset or Stay Stuck Where You Are" caption="Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 The way you present yourself to the world, the way you carry yourself, matters. Project the image of the person you want to become, not just who you are today.
 

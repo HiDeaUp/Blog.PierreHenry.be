@@ -12,8 +12,7 @@ original_title = "Comment créer des rêves 🎉"
 source_medium = "https://medium.com/@phenrysay/1495269ccbf7"
 +++
 
-![A simple message to dream with shimmery purple and pink glitter bokeh.](https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYwMTI1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Own Dreams Without Regret")
-*How to Build Your Own Dreams Without Regret - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)*
+{{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYwMTI1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Build Your Own Dreams Without Regret" caption="How to Build Your Own Dreams Without Regret - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 
 We all have dreams, but how many of us actually take the steps to build and live them? The truth is, the regrets that haunt us most are not about what we did, but about the dreams we never dared to chase. If you don’t make your dreams a priority, you might find yourself looking back one day, wishing you had.
 
@@ -23,8 +22,7 @@ One practical way to do this is to keep a list of projects you want to accomplis
 
 Often, we tell ourselves we can’t pursue a dream because of money, time, or other reasons. But if something truly is your top priority, you’ll find a way. You might cut unnecessary expenses, cancel subscriptions, or even move to a smaller apartment or a cheaper country for a while. If you work from home, you could save on commuting costs or even sell your car. The same goes for time: if your dream is really your priority, it should come first.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740560052826-9b4c4455e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYwMTI1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Own Dreams Without Regret")
-*How to Build Your Own Dreams Without Regret - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-dream-on-a-table-cngqcgSc_r0)*
+{{< figure src="https://images.unsplash.com/photo-1740560052826-9b4c4455e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYwMTI1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A block dream on a table" title="How to Build Your Own Dreams Without Regret" caption="How to Build Your Own Dreams Without Regret - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-dream-on-a-table-cngqcgSc_r0)" >}}
 
 It’s also important to be honest about what matters most. Is your main priority your steady job, or is it time to make your dream project number one? Your top priority should always come before everything else.
 
@@ -42,8 +40,7 @@ So, my advice is simple: have projects, keep moving forward, and take action now
 
 ---
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYwMTI1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Own Dreams Without Regret")
-*How to Build Your Own Dreams Without Regret - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbXMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYwMTI1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Build Your Own Dreams Without Regret" caption="How to Build Your Own Dreams Without Regret - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 ## Key Takeaways
 

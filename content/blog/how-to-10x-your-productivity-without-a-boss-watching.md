@@ -12,8 +12,7 @@ original_title = "Une efficacité 10x 🚀 Mes hacks 🤫"
 source_medium = "https://medium.com/@phenrysay/e4babbe031cc"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBlZmZpY2llbmN5JTIwc2VsZi1tYW5hZ2VtZW50fGVufDB8MHx8fDE3NTY1MjgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to 10x Your Productivity Without a Boss Watching")
-*How to 10x Your Productivity Without a Boss Watching - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBlZmZpY2llbmN5JTIwc2VsZi1tYW5hZ2VtZW50fGVufDB8MHx8fDE3NTY1MjgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to 10x Your Productivity Without a Boss Watching" caption="How to 10x Your Productivity Without a Boss Watching - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 When you work for yourself, there’s no boss breathing down your neck, no one to check if you’re actually getting things done. That freedom is great, but it can also be a trap. Without someone to answer to, it’s easy to let things slide, to procrastinate, or to lose track of your goals. Over time, I’ve found a few services and tricks that have completely changed the way I work and made me much more productive.
 
@@ -29,8 +28,7 @@ Another tool I love is Focusmate. It’s a bit like those “study with me” Yo
 
 There’s a reason this works so well. When you commit to something publicly—to a friend, on Twitter, or even by inviting people over for dinner—you can’t back out easily. You’ve made a promise, and you want to keep your word. This is the same principle behind accountability partners. Once you’ve told someone else what you’re going to do, you’re much more likely to follow through. If you only make promises to yourself, it’s too easy to let yourself off the hook.
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBlZmZpY2llbmN5JTIwc2VsZi1tYW5hZ2VtZW50fGVufDB8MHx8fDE3NTY1MjgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to 10x Your Productivity Without a Boss Watching")
-*How to 10x Your Productivity Without a Boss Watching - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBlZmZpY2llbmN5JTIwc2VsZi1tYW5hZ2VtZW50fGVufDB8MHx8fDE3NTY1MjgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to 10x Your Productivity Without a Boss Watching" caption="How to 10x Your Productivity Without a Boss Watching - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 > *“Discipline is choosing between what you want now and what you want most.”*
 >
@@ -56,8 +54,7 @@ All these methods boil down to one thing: making your commitments visible to oth
 >
 > — Stephen R. Covey
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBlZmZpY2llbmN5JTIwc2VsZi1tYW5hZ2VtZW50fGVufDB8MHx8fDE3NTY1MjgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to 10x Your Productivity Without a Boss Watching")
-*How to 10x Your Productivity Without a Boss Watching - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBlZmZpY2llbmN5JTIwc2VsZi1tYW5hZ2VtZW50fGVufDB8MHx8fDE3NTY1MjgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to 10x Your Productivity Without a Boss Watching" caption="How to 10x Your Productivity Without a Boss Watching - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 ---
 

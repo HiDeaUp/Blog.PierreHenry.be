@@ -12,8 +12,7 @@ original_title = "3x plus efficace / Le secret pour transformer votre énergie e
 source_medium = "https://medium.com/@phenrysay/3fe8cb650c56"
 +++
 
-![Endeavor action figure from My Hero Academia](https://images.unsplash.com/photo-1623199971727-c59b8c11fdfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc0OTM5MDAzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Waiting for the Perfect Moment")
-*How to Change Your Life Without Waiting for the Perfect Moment - Photo by [Guillermo Diaz](https://unsplash.com/@guillediaz) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-figurine-of-a-person-with-fire-on-his-face-H1a4cIeVZwI)*
+{{< figure src="https://images.unsplash.com/photo-1623199971727-c59b8c11fdfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc0OTM5MDAzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Endeavor action figure from My Hero Academia" title="How to Change Your Life Without Waiting for the Perfect Moment" caption="How to Change Your Life Without Waiting for the Perfect Moment - Photo by [Guillermo Diaz](https://unsplash.com/@guillediaz) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-figurine-of-a-person-with-fire-on-his-face-H1a4cIeVZwI)" >}}
 
 Deciding your own life means making choices and taking action. The worst thing that can happen to you isn’t failure—it’s doing nothing. Staying stagnant, letting fear hold you back, and never acting is the real danger. It’s normal to be afraid of making decisions, especially when you don’t know what will happen next. The unknown is scary because we can’t predict the consequences or where it will lead us.
 
@@ -25,8 +24,7 @@ We all make mistakes. Sometimes, a decision really does change everything. Somet
 
 Life is made up of countless actions, like building with Lego bricks. Each piece you add helps you move forward and grow. That’s why I encourage everyone not to just be an employee or sit in an office. Try freelancing, become independent, or even start your own project. It doesn’t have to be a big startup—just a personal project, something you do on your own. For me, becoming a freelance IT engineer and data scientist changed everything. I could work from anywhere, travel, and learn new skills. Sometimes companies want you in the office, sometimes not. But if you have the chance, create your own job. Don’t let your studies or your past define you.
 
-![Theo Warden](https://images.unsplash.com/photo-1490775696818-7832285c7240?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc0OTM5MDAzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Waiting for the Perfect Moment")
-*How to Change Your Life Without Waiting for the Perfect Moment - Photo by [Shane Rounce](https://unsplash.com/@shanerounce) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-jumping-overlooking-clouds-DYpiND4Ic0k)*
+{{< figure src="https://images.unsplash.com/photo-1490775696818-7832285c7240?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc0OTM5MDAzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Theo Warden" title="How to Change Your Life Without Waiting for the Perfect Moment" caption="How to Change Your Life Without Waiting for the Perfect Moment - Photo by [Shane Rounce](https://unsplash.com/@shanerounce) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-jumping-overlooking-clouds-DYpiND4Ic0k)" >}}
 
 If you try something and it doesn’t fit, at least you learned. That’s valuable. By trying new things, you improve your skills—communication, writing, and more. I love writing, and it’s something that brings me joy. Life is full of opportunities, but you have to grab them. Luck isn’t real; it’s about being ready and saying yes when opportunities come.
 
@@ -44,8 +42,7 @@ Change is possible. Work on your mindset, your positivity, and how you organize 
 > *“The only real mistake is the one from which we learn nothing.”*  
 > — Henry Ford
 
-![Long summer weekend skydives in Poland.](https://images.unsplash.com/photo-1526385604508-05e4e7f0bc61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc0OTM5MDAzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Waiting for the Perfect Moment")
-*How to Change Your Life Without Waiting for the Perfect Moment - Photo by [Kamil Pietrzak](https://unsplash.com/@kamilpphotos) on [Unsplash](https://unsplash.com/photos/three-skydiving-people-OSfCunpfKsE)*
+{{< figure src="https://images.unsplash.com/photo-1526385604508-05e4e7f0bc61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc0OTM5MDAzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Long summer weekend skydives in Poland." title="How to Change Your Life Without Waiting for the Perfect Moment" caption="How to Change Your Life Without Waiting for the Perfect Moment - Photo by [Kamil Pietrzak](https://unsplash.com/@kamilpphotos) on [Unsplash](https://unsplash.com/photos/three-skydiving-people-OSfCunpfKsE)" >}}
 
 ---
 

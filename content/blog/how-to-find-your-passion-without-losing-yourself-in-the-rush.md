@@ -12,8 +12,7 @@ original_title = "Comment prendre du recul dans sa vie ?"
 source_medium = "https://medium.com/@phenrysay/546b11054a84"
 +++
 
-![Photo by Leo_Visions](https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXJlZmxlY3Rpb24lMjBsaWZlLWJhbGFuY2UlMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjExMjYwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Passion Without Losing Yourself in the Rush")
-*How to Find Your Passion Without Losing Yourself in the Rush - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)*
+{{< figure src="https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXJlZmxlY3Rpb24lMjBsaWZlLWJhbGFuY2UlMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjExMjYwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A rock in a body of water with a sky in the" title="How to Find Your Passion Without Losing Yourself in the Rush" caption="How to Find Your Passion Without Losing Yourself in the Rush - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)" >}}
 
 Have you ever paused for a moment and asked yourself, “What do I really want to do?” Not just what you have to do, but what truly excites you? Taking a step back from the daily rush is not just about slowing down. It’s about giving yourself the space to reflect, to breathe, and to ask the right questions.
 
@@ -25,8 +24,7 @@ Let me share a bit about my own journey. I love programming. I spend a lot of my
 
 But my interests don’t stop there. I also teach about happiness, well-being, and personal growth. I’ve published two books, and writing is another passion of mine. Sometimes, I go on writing retreats—my last one was in Austria, tucked away in a small chalet. There’s something magical about writing in a quiet place, surrounded by nature.
 
-![Photo by Johannes Plenio](https://images.unsplash.com/photo-1553984840-89becb4c4435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZmxlY3Rpb24lMjBsaWZlLWJhbGFuY2UlMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjExMjYwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Passion Without Losing Yourself in the Rush")
-*How to Find Your Passion Without Losing Yourself in the Rush - Photo by [Johannes Plenio](https://unsplash.com/@jplenio) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-X6nxssH3CU4)*
+{{< figure src="https://images.unsplash.com/photo-1553984840-89becb4c4435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZmxlY3Rpb24lMjBsaWZlLWJhbGFuY2UlMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjExMjYwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person" title="How to Find Your Passion Without Losing Yourself in the Rush" caption="How to Find Your Passion Without Losing Yourself in the Rush - Photo by [Johannes Plenio](https://unsplash.com/@jplenio) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-X6nxssH3CU4)" >}}
 
 Travel and photography are also close to my heart. I share my photos online, hoping to spread a bit of happiness. Platforms like Unsplash allow others to use my pictures, whether they need a shot of Sydney or a botanical garden. It’s a small way to give back.
 
@@ -48,8 +46,7 @@ The real beauty of a passion project is that it gives your life meaning. It’s 
 
 ---
 
-![Winter at sea via a mirror](https://images.unsplash.com/photo-1722917617363-3d706e50a709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBsaWZlLWJhbGFuY2UlMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjExMjYwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Passion Without Losing Yourself in the Rush")
-*How to Find Your Passion Without Losing Yourself in the Rush - Photo by [Long (lTiga) Nguyen](https://unsplash.com/@l333) on [Unsplash](https://unsplash.com/photos/a-round-mirror-sitting-on-the-side-of-a-tree-RMr8n34uiUU)*
+{{< figure src="https://images.unsplash.com/photo-1722917617363-3d706e50a709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBsaWZlLWJhbGFuY2UlMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjExMjYwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Winter at sea via a mirror" title="How to Find Your Passion Without Losing Yourself in the Rush" caption="How to Find Your Passion Without Losing Yourself in the Rush - Photo by [Long (lTiga) Nguyen](https://unsplash.com/@l333) on [Unsplash](https://unsplash.com/photos/a-round-mirror-sitting-on-the-side-of-a-tree-RMr8n34uiUU)" >}}
 
 ## Key Takeaways
 

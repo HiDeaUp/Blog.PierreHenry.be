@@ -12,8 +12,7 @@ original_title = "Comment se libérer de la charge mentale ?"
 source_medium = "https://medium.com/@phenrysay/ddd510d01e12"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653213096268-d232d07c4f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMHNpbXBsZSUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2MDEzMzM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Fixing Everyone’s Problems")
-*How to Find Calm Without Fixing Everyone’s Problems - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-rwrlre7Rz14)*
+{{< figure src="https://images.unsplash.com/photo-1653213096268-d232d07c4f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMHNpbXBsZSUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2MDEzMzM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A on a table" title="How to Find Calm Without Fixing Everyone’s Problems" caption="How to Find Calm Without Fixing Everyone’s Problems - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-rwrlre7Rz14)" >}}
 
 Living simply and happily often means freeing yourself from mental clutter. We all carry a mental load—stress from work, misunderstandings with others, or even negative comments that have nothing to do with us. Sometimes, you do your best, but it feels like you’re expected to be a superhero, fixing everything for everyone. And when people forget all the good you do and focus only on what went wrong, it can be discouraging. This negativity can weigh you down, leaving you feeling like there’s a dark cloud hanging over your head.
 
@@ -27,8 +26,7 @@ If you’re not enjoying your life, what’s the point? Start with something sim
 
 Another powerful tool is meditation. Even five to ten minutes a day can make a huge difference. You don’t have to meditate every morning if that doesn’t work for you. Try meditating after going to the bathroom or before your shower. When I lived in Ireland, sharing a room with two others, I would meditate sitting on the closed toilet lid in our en-suite bathroom. It was simple, private, and effective.
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1700190614797-1054d4c8996e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMHNpbXBsZSUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2MDEzMzM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Fixing Everyone’s Problems")
-*How to Find Calm Without Fixing Everyone’s Problems - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-shV2KCBapjE)*
+{{< figure src="https://images.unsplash.com/photo-1700190614797-1054d4c8996e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMHNpbXBsZSUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2MDEzMzM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in front of a laptop" title="How to Find Calm Without Fixing Everyone’s Problems" caption="How to Find Calm Without Fixing Everyone’s Problems - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-shV2KCBapjE)" >}}
 
 There are great apps like Headspace or Petit BamBou (a French app) that offer free sessions to get you started. You can also find plenty of guided meditations on YouTube. Meditation helps you build a mental firewall, protecting you from the constant back-and-forth of negative thoughts.
 
@@ -50,8 +48,7 @@ The most important thing is to focus on what matters and not let negativity take
 
 ## Key Takeaways
 
-![Young blond woman is sitting in office working with computer. She is tired after long day at work.](https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMHNpbXBsZSUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2MDEzMzM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Fixing Everyone’s Problems")
-*How to Find Calm Without Fixing Everyone’s Problems - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)*
+{{< figure src="https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMHNpbXBsZSUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2MDEzMzM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Young blond woman is sitting in office working with computer. She is tired after long day at work." title="How to Find Calm Without Fixing Everyone’s Problems" caption="How to Find Calm Without Fixing Everyone’s Problems - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)" >}}
 
 - Take real breaks in nature to clear your mind.
 - Change your environment, even temporarily, if it feels toxic.

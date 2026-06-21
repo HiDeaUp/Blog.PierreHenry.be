@@ -12,8 +12,7 @@ original_title = "Les compétences à posséder pour RÉUSSIR"
 source_medium = "https://medium.com/@phenrysay/61d97be8cdc5"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2tpbGxzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTU5OTc5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness by Achieving Your Goals")
-*How to Find Real Happiness by Achieving Your Goals - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2tpbGxzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTU5OTc5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Find Real Happiness by Achieving Your Goals" caption="How to Find Real Happiness by Achieving Your Goals - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 What truly makes us happy? For me, it’s not just about feeling good or chasing fleeting pleasures. Real happiness comes from making things happen, from turning ideas into reality. Over the years, I’ve learned that having clear, concrete goals is the key to both happiness and productivity.
 
@@ -31,8 +30,7 @@ Happiness isn’t static. What brings you joy today might not do so tomorrow. Wh
 
 ## The Value of Challenge
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2tpbGxzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTU5OTc5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness by Achieving Your Goals")
-*How to Find Real Happiness by Achieving Your Goals - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2tpbGxzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTU5OTc5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Find Real Happiness by Achieving Your Goals" caption="How to Find Real Happiness by Achieving Your Goals - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Challenges are what keep us alive and motivated. People often say work isn’t enjoyable, but in reality, it’s the sense of challenge, recognition, and responsibility that makes us feel fulfilled. If you stop working or pursuing goals, you might start to feel down, as if you’re not achieving anything.
 
@@ -56,8 +54,7 @@ It’s easy to fall into the trap of thinking a late start means the day is lost
 
 ## Keep Moving Forward
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2tpbGxzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTU5OTc5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness by Achieving Your Goals")
-*How to Find Real Happiness by Achieving Your Goals - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)*
+{{< figure src="https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2tpbGxzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTU5OTc5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface SNJ1O2 b0IE" title="How to Find Real Happiness by Achieving Your Goals" caption="How to Find Real Happiness by Achieving Your Goals - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)" >}}
 
 The real secret to happiness and success is to keep setting new goals and challenges for yourself. Celebrate your achievements, but don’t be afraid to change course when something no longer brings you joy. Life is about growth, and growth comes from doing, from trying, from sometimes failing and starting again.
 

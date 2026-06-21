@@ -12,9 +12,7 @@ original_title = "CRÉATION D’UNE VIE QUI TE PARLE"
 source_medium = "https://medium.com/@phenrysay/1d0a25d74177"
 +++
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTU4NTgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fulfillment by Slowing Down Your Life")
-*How to Find Fulfillment by Slowing Down Your Life - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTU4NTgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Find Fulfillment by Slowing Down Your Life" caption="How to Find Fulfillment by Slowing Down Your Life - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ### Sometimes, the best way forward is to slow down.
 
@@ -30,8 +28,7 @@ The truth is, having projects and passions is great. But if you’re always pili
 
 When you want to accomplish something meaningful, especially something close to your heart, don’t put too much pressure on yourself. A little bit each day is more than enough. If you try to do too much, you’ll burn out, get discouraged, and maybe even give up altogether. That’s not what you want.
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTU4NTgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fulfillment by Slowing Down Your Life")
-*How to Find Fulfillment by Slowing Down Your Life - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTU4NTgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Find Fulfillment by Slowing Down Your Life" caption="How to Find Fulfillment by Slowing Down Your Life - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 I often talk about building a beautiful life, about creating long-term projects that matter. Why is this so important? Because it’s not just about the end result. It’s about your happiness and well-being along the way. You can achieve a lot and still feel good, as long as you don’t lose yourself in the process.
 
@@ -51,8 +48,7 @@ Regularity is powerful. If you’re consistent and know your goal, you can look 
 >
 > — Confucius
 
-![A young boy looking at the mountain view on the top of Katzbegi mountain.](https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTU4NTgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fulfillment by Slowing Down Your Life")
-*How to Find Fulfillment by Slowing Down Your Life - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)*
+{{< figure src="https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTU4NTgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A young boy looking at the mountain view on the top of Katzbegi mountain." title="How to Find Fulfillment by Slowing Down Your Life" caption="How to Find Fulfillment by Slowing Down Your Life - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)" >}}
 
 ---
 

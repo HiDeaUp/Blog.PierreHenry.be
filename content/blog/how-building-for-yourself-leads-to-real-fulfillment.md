@@ -12,8 +12,7 @@ original_title = "Bâtir des réalisations personnelles ✨"
 source_medium = "https://medium.com/@phenrysay/4d34bc0e787e"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGFjaGlldmVtZW50JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNzYzNXww&ixlib=rb-4.1.0&q=80&w=1080 "How Building for Yourself Leads to Real Fulfillment")
-*How Building for Yourself Leads to Real Fulfillment - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGFjaGlldmVtZW50JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNzYzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How Building for Yourself Leads to Real Fulfillment" caption="How Building for Yourself Leads to Real Fulfillment - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Have you ever felt the urge to create something just for yourself? Maybe you’ve dreamed of starting an investment fund, launching a startup, writing a book, or designing a course—maybe even a programming course. It could be something as simple as a wellness workshop, gardening, or even saving up to buy a Dalmatian. These personal projects, passions, or long-term visions—whatever you want to call them—are more important than we often admit.
 
@@ -23,8 +22,7 @@ Take something like building an investment fund. At first glance, it might sound
 
 When I was a child, I was obsessed with the idea of creating an amusement park. Of course, that’s a huge financial undertaking, and it’s not really a priority for me anymore. But if one day I have the means, I’d love to build a renewable energy amusement park with rides unlike anything you’ve seen before. For now, that dream is buried deep down, simply because it’s not my top priority.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGFjaGlldmVtZW50JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNzYzNXww&ixlib=rb-4.1.0&q=80&w=1080 "How Building for Yourself Leads to Real Fulfillment")
-*How Building for Yourself Leads to Real Fulfillment - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGFjaGlldmVtZW50JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNzYzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How Building for Yourself Leads to Real Fulfillment" caption="How Building for Yourself Leads to Real Fulfillment - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 And that’s the key: knowing what your number one priority is. Not your second or third, but the one thing that comes before everything else. When you’re clear about your main priority, everything else can wait. That’s what makes the difference between a wish and a real goal.
 
@@ -38,8 +36,7 @@ I truly wish you the best. I believe in you. I know you can go far with your pro
 > *Happiness is not something ready made. It comes from your own actions.*
 — Dalai Lama
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGFjaGlldmVtZW50JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNzYzNXww&ixlib=rb-4.1.0&q=80&w=1080 "How Building for Yourself Leads to Real Fulfillment")
-*How Building for Yourself Leads to Real Fulfillment - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGFjaGlldmVtZW50JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNzYzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How Building for Yourself Leads to Real Fulfillment" caption="How Building for Yourself Leads to Real Fulfillment - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 ---
 

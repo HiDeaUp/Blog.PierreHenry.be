@@ -12,8 +12,7 @@ original_title = "L'importance de savoir ce que tu veux de ta vie"
 source_medium = "https://medium.com/@phenrysay/240880554c42"
 +++
 
-![Running owards the sunset](https://images.unsplash.com/photo-1559202384-4097ee4d86ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZ29hbHMlMjBzZWxmLWRpc2NvdmVyeSUyMHB1cnBvc2V8ZW58MHwwfHx8MTc1NjAxNDc3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "Use Clear Goals or Drift Aimlessly Through Life")
-*Use Clear Goals or Drift Aimlessly Through Life - Photo by [Febiyan](https://unsplash.com/@febiyanr) on [Unsplash](https://unsplash.com/photos/person-on-top-of-mountain-k8zwJXrumvQ)*
+{{< figure src="https://images.unsplash.com/photo-1559202384-4097ee4d86ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZ29hbHMlMjBzZWxmLWRpc2NvdmVyeSUyMHB1cnBvc2V8ZW58MHwwfHx8MTc1NjAxNDc3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Running owards the sunset" title="Use Clear Goals or Drift Aimlessly Through Life" caption="Use Clear Goals or Drift Aimlessly Through Life - Photo by [Febiyan](https://unsplash.com/@febiyanr) on [Unsplash](https://unsplash.com/photos/person-on-top-of-mountain-k8zwJXrumvQ)" >}}
 
 There’s a quote that always sticks with me: *“Living without a goal is like sailing without a compass.”* Josh Waitzkin said it, and it’s true in every sense. If you don’t know where you’re going, you’re just drifting, lost at sea, hoping the wind will take you somewhere good. But hope isn’t a strategy.
 
@@ -31,8 +30,7 @@ Let’s say you want to start a marketing business. The first week, you register
 
 ## Be Your Own Customer
 
-![Photo by Vusala Abdullayeva](https://images.unsplash.com/photo-1673261576405-1bfefcc799c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZ29hbHMlMjBzZWxmLWRpc2NvdmVyeSUyMHB1cnBvc2V8ZW58MHwwfHx8MTc1NjAxNDc3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "Use Clear Goals or Drift Aimlessly Through Life")
-*Use Clear Goals or Drift Aimlessly Through Life - Photo by [Vusala Abdullayeva](https://unsplash.com/@vussalle) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-top-of-a-mountain-with-a-telescope-25El6bk5v5U)*
+{{< figure src="https://images.unsplash.com/photo-1673261576405-1bfefcc799c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZ29hbHMlMjBzZWxmLWRpc2NvdmVyeSUyMHB1cnBvc2V8ZW58MHwwfHx8MTc1NjAxNDc3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man on top of a with a" title="Use Clear Goals or Drift Aimlessly Through Life" caption="Use Clear Goals or Drift Aimlessly Through Life - Photo by [Vusala Abdullayeva](https://unsplash.com/@vussalle) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-top-of-a-mountain-with-a-telescope-25El6bk5v5U)" >}}
 
 One of the best ways to succeed is to put yourself in your customer’s shoes. Where would you look for solutions if you had the same problem? Which social network would you use? Start with one channel and master it before moving on to others. If you’re solving a problem you’ve faced yourself, you’ll know exactly what your customers need and where to find them.
 
@@ -56,8 +54,7 @@ If you don’t decide what you want, you risk waking up one day and realizing yo
 > *If you don’t know where you’re going, any road will get you there.*
 > — Lewis Carroll
 
-![Hiking on rugged rocks](https://images.unsplash.com/photo-1474576038745-8098f7db460a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZ29hbHMlMjBzZWxmLWRpc2NvdmVyeSUyMHB1cnBvc2V8ZW58MHwwfHx8MTc1NjAxNDc3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "Use Clear Goals or Drift Aimlessly Through Life")
-*Use Clear Goals or Drift Aimlessly Through Life - Photo by [Jake Ingle](https://unsplash.com/@ingle_jake) on [Unsplash](https://unsplash.com/photos/man-standing-on-mountain-cliff-8gEmqyg5NPU)*
+{{< figure src="https://images.unsplash.com/photo-1474576038745-8098f7db460a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZ29hbHMlMjBzZWxmLWRpc2NvdmVyeSUyMHB1cnBvc2V8ZW58MHwwfHx8MTc1NjAxNDc3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Hiking on rugged rocks" title="Use Clear Goals or Drift Aimlessly Through Life" caption="Use Clear Goals or Drift Aimlessly Through Life - Photo by [Jake Ingle](https://unsplash.com/@ingle_jake) on [Unsplash](https://unsplash.com/photos/man-standing-on-mountain-cliff-8gEmqyg5NPU)" >}}
 
 > *The best way to predict the future is to create it.*
 > — Peter Drucker

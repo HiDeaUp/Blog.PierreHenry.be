@@ -12,8 +12,7 @@ original_title = "Pourquoi le Habit Stacking peut vous aider ?"
 source_medium = "https://medium.com/@phenrysay/0a4c71bdc655"
 +++
 
-![Businessman hand putting blank wooden cube block stack on white background with copy space for input text, icon, trend, creative idea, finance, leadership, strategy, business, online marketing concept](https://images.unsplash.com/photo-1730382624761-af8112d26209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMHN0YWNraW5nJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjY0MjA0N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Habits Without Willpower Battles")
-*How to Build Lasting Habits Without Willpower Battles - Photo by [Imagine Buddy](https://unsplash.com/@imaginebuddy) on [Unsplash](https://unsplash.com/photos/a-hand-is-placing-a-piece-of-wood-into-a-pyramid-FDaCU3etvAc)*
+{{< figure src="https://images.unsplash.com/photo-1730382624761-af8112d26209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMHN0YWNraW5nJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjY0MjA0N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A hand is placing a piece of wood into a pyramid" title="How to Build Lasting Habits Without Willpower Battles" caption="How to Build Lasting Habits Without Willpower Battles - Photo by [Imagine Buddy](https://unsplash.com/@imaginebuddy) on [Unsplash](https://unsplash.com/photos/a-hand-is-placing-a-piece-of-wood-into-a-pyramid-FDaCU3etvAc)" >}}
 
 Habit stacking is a practical method that can truly change the way you build routines. The idea is simple: you add a new habit to one you already do every day. Think of it as piling one thing on top of another, like stacking blocks. This makes the new habit much easier to remember and stick with, because it’s anchored to something you already do without thinking.
 
@@ -21,8 +20,7 @@ Let’s take breakfast as an example. If you eat breakfast every morning, you ca
 
 Another example is jogging. If you go for a run every day, you can listen to a podcast or an audiobook while you run. This way, you’re not just exercising your body, but also feeding your mind. Even though listening to something while running might not seem like a new habit at first, it actually is when you do it with the intention of learning or improving yourself. You’re stacking the habit of learning onto your existing habit of jogging.
 
-![Hand arranging wood block stacking as step stair on wooden table, Business concept for growth success process.](https://images.unsplash.com/photo-1730382625230-3756013c515c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMHN0YWNraW5nJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjY0MjA0N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Habits Without Willpower Battles")
-*How to Build Lasting Habits Without Willpower Battles - Photo by [Imagine Buddy](https://unsplash.com/@imaginebuddy) on [Unsplash](https://unsplash.com/photos/a-person-placing-a-block-into-a-pile-of-wooden-blocks-bTMTggEt5s4)*
+{{< figure src="https://images.unsplash.com/photo-1730382625230-3756013c515c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMHN0YWNraW5nJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjY0MjA0N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Hand arranging wood block stacking as step stair on wooden table, Business concept for growth success process." title="How to Build Lasting Habits Without Willpower Battles" caption="How to Build Lasting Habits Without Willpower Battles - Photo by [Imagine Buddy](https://unsplash.com/@imaginebuddy) on [Unsplash](https://unsplash.com/photos/a-person-placing-a-block-into-a-pile-of-wooden-blocks-bTMTggEt5s4)" >}}
 
 Habit stacking works because it uses the strength of your current routines. New habits are fragile at first. It’s easy to forget them or drop them after a few days. But when you attach a new habit to something you already do, it becomes much more stable. It’s like taping two things together so they don’t get lost.
 
@@ -37,8 +35,7 @@ Habit stacking is powerful because it helps you build new habits without needing
 
 ## Key Takeaways
 
-![Businessman hand putting blank wooden cube block stack on white background with copy space for input text, icon, trend, creative idea, finance, leadership, strategy, business, online marketing concept](https://images.unsplash.com/photo-1730382624709-81e52dd294d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMHN0YWNraW5nJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjY0MjA0N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Lasting Habits Without Willpower Battles")
-*How to Build Lasting Habits Without Willpower Battles - Photo by [Imagine Buddy](https://unsplash.com/@imaginebuddy) on [Unsplash](https://unsplash.com/photos/a-person-placing-a-piece-of-wood-into-a-pyramid-vsLbaIdhwaU)*
+{{< figure src="https://images.unsplash.com/photo-1730382624709-81e52dd294d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMHN0YWNraW5nJTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjY0MjA0N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person placing a piece of wood into a pyramid" title="How to Build Lasting Habits Without Willpower Battles" caption="How to Build Lasting Habits Without Willpower Battles - Photo by [Imagine Buddy](https://unsplash.com/@imaginebuddy) on [Unsplash](https://unsplash.com/photos/a-person-placing-a-piece-of-wood-into-a-pyramid-vsLbaIdhwaU)" >}}
 
 - *Habit stacking means adding a new habit to an existing one.*
 - *It makes new habits easier to remember and keep.*

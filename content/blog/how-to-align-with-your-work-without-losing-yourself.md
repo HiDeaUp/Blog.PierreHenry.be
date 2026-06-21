@@ -12,8 +12,7 @@ original_title = "Comment s’aligner avec ce que l’on fait 💫"
 source_medium = "https://medium.com/@phenrysay/3d786353e5f5"
 +++
 
-![Photo by Dawn Lio](https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWFsaWdubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTYxMTA2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Align With Your Work Without Losing Yourself")
-*How to Align With Your Work Without Losing Yourself - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)*
+{{< figure src="https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWFsaWdubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTYxMTA2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden log with yellow flower" title="How to Align With Your Work Without Losing Yourself" caption="How to Align With Your Work Without Losing Yourself - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)" >}}
 
 Finding alignment in what you do is not just a nice idea—it’s the foundation for a life that feels right. When you’re truly in sync with your projects, your goals, and what you love, everything starts to fall into place. You feel driven by your purpose, and your long-term vision becomes clearer. Every decision you make starts to feel more natural, because it’s rooted in what matters to you.
 
@@ -23,8 +22,7 @@ It’s crucial to ask yourself if saying yes to someone else will impact your pe
 
 One practical way to get clarity is to write things down. Take a piece of paper and draw two columns. On one side, list what aligns with your life and values. On the other, what doesn’t. Ask yourself: If I say yes to this, will I still be able to pursue my life project? Will I still be able to do what I’ve been saving for or dreaming about? Is it really worth it?
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWFsaWdubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTYxMTA2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Align With Your Work Without Losing Yourself")
-*How to Align With Your Work Without Losing Yourself - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWFsaWdubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTYxMTA2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Align With Your Work Without Losing Yourself" caption="How to Align With Your Work Without Losing Yourself - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 Give yourself a deadline—one or two days at most. The longer you wait, the more confused you’ll get, and the more likely you’ll be influenced by others’ opinions. Decisions should come from you, not from your environment. Remember, the word “decision” comes from the Latin for “to cut.” Once you decide, you cut off other options and commit. That’s why it’s so important to be sure.
 
@@ -40,8 +38,7 @@ The universe may seem huge, but our time here is limited. Living a happy, fulfil
 
 So, listen to yourself. Make decisions that are true to you. Life is short—make the most of it.
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWFsaWdubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTYxMTA2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Align With Your Work Without Losing Yourself")
-*How to Align With Your Work Without Losing Yourself - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWFsaWdubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYXV0aGVudGljaXR5fGVufDB8MHx8fDE3NTYxMTA2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Align With Your Work Without Losing Yourself" caption="How to Align With Your Work Without Losing Yourself - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 ---
 

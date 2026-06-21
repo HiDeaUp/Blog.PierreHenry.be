@@ -12,8 +12,7 @@ original_title = "Comment se réinventer ?"
 source_medium = "https://medium.com/@phenrysay/fb0b62e4ff8f"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwYXNzaW9ufGVufDB8MHx8fDE3NTYxMTI2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live With Passion Without Losing Yourself in Routine")
-*How to Live With Passion Without Losing Yourself in Routine - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)*
+{{< figure src="https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwYXNzaW9ufGVufDB8MHx8fDE3NTYxMTI2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word next to blue flowers" title="How to Live With Passion Without Losing Yourself in Routine" caption="How to Live With Passion Without Losing Yourself in Routine - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)" >}}
 
 When was the last time you felt truly alive in a conversation? Not just talking, but sharing your passion, your curiosity, and your genuine interest in the world around you? This is what I want to talk about today: inspiration, and how you can reinvent your personal philosophy to live more fully.
 
@@ -23,8 +22,7 @@ Imagine you notice someone’s shoes and say, “Hey, I really like those shoes,
 
 I encourage you to try this. Show a bit of praise, a bit of charisma when you speak. Little by little, you’ll see your conversations change. The art of talking with others will transform your interactions. First, you’ll be fully present in every discussion. Second, you’ll notice things around you—maybe a communal garden where everyone can plant their own flowers or vegetables. You might say, “This is the first time I’ve seen something like this, it’s fun!” You’ll share, you’ll connect, and you’ll be 100% in the moment.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwYXNzaW9ufGVufDB8MHx8fDE3NTYxMTI2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live With Passion Without Losing Yourself in Routine")
-*How to Live With Passion Without Losing Yourself in Routine - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwYXNzaW9ufGVufDB8MHx8fDE3NTYxMTI2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Live With Passion Without Losing Yourself in Routine" caption="How to Live With Passion Without Losing Yourself in Routine - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 The value you bring to your conversations will grow. This changes everything. I’m completely with you on this journey.
 
@@ -40,8 +38,7 @@ We’ll talk about clearing away what’s holding you back, about small steps yo
 
 ---
 
-![Photo by Guillaume de Germain](https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwYXNzaW9ufGVufDB8MHx8fDE3NTYxMTI2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live With Passion Without Losing Yourself in Routine")
-*How to Live With Passion Without Losing Yourself in Routine - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)*
+{{< figure src="https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwYXNzaW9ufGVufDB8MHx8fDE3NTYxMTI2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man under orange sky" title="How to Live With Passion Without Losing Yourself in Routine" caption="How to Live With Passion Without Losing Yourself in Routine - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)" >}}
 
 ## Key Takeaways
 

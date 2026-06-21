@@ -12,8 +12,7 @@ original_title = "Bien-être. Comment s’améliorer ?"
 source_medium = "https://medium.com/@phenrysay/012de1ffeb75"
 +++
 
-![Photo by bruce mars](https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NTY1MTY4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Well-Being With Simple Morning Joys")
-*How to Boost Well-Being With Simple Morning Joys - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)*
+{{< figure src="https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NTY1MTY4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on white bed while" title="How to Boost Well-Being With Simple Morning Joys" caption="How to Boost Well-Being With Simple Morning Joys - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)" >}}
 
 Have you ever noticed how the first moments of your day can set the tone for everything that follows? Maybe you wake up craving a coffee, a croissant, or a delicious breakfast. These small rituals are not just habits—they are part of your well-being routine.
 
@@ -23,9 +22,7 @@ So, what can you do to boost your well-being? Start by identifying the little th
 
 The key is to find and recognize what truly makes you happy. You can even track these moments. Rate your enjoyment from 0 to 10. Ask yourself: How much did I enjoy this moment? What could have made it better? What else could I add to my day to make it not just good, but amazing?
 
-![Dark Academia Aesthetic Wallpaper - Coffee & Poetry 
-by @LauraChouette ](https://images.unsplash.com/photo-1633406096607-884547265d37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NTY1MTY4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Well-Being With Simple Morning Joys")
-*How to Boost Well-Being With Simple Morning Joys - Photo by [Laura Chouette](https://unsplash.com/@laurachouette) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-and-a-book-on-a-bed-BRa5vCUvGjw)*
+{{< figure src="https://images.unsplash.com/photo-1633406096607-884547265d37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NTY1MTY4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Dark Academia Aesthetic Wallpaper - Coffee & Poetry by @LauraChouette" title="How to Boost Well-Being With Simple Morning Joys" caption="How to Boost Well-Being With Simple Morning Joys - Photo by [Laura Chouette](https://unsplash.com/@laurachouette) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-and-a-book-on-a-bed-BRa5vCUvGjw)" >}}
 
 By paying attention to these details, you will gradually improve your happiness and your positive energy. The better you feel, the more positive energy you will share with those around you. This energy is contagious. When you feel good, you naturally help others feel better too.
 
@@ -45,8 +42,7 @@ That’s why it’s so important not to overlook your own well-being. When you f
 
 ## Key Takeaways
 
-![Photo by Sixteen Miles Out](https://images.unsplash.com/photo-1550327149-f5aef60d38f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NTY1MTY4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Well-Being With Simple Morning Joys")
-*How to Boost Well-Being With Simple Morning Joys - Photo by [Sixteen Miles Out](https://unsplash.com/@sixteenmilesout) on [Unsplash](https://unsplash.com/photos/white-teacup-filled-with-brown-liquid-near-pink-flower-SwiYNN28mug)*
+{{< figure src="https://images.unsplash.com/photo-1550327149-f5aef60d38f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NTY1MTY4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White teacup filled with brown liquid near pink flower" title="How to Boost Well-Being With Simple Morning Joys" caption="How to Boost Well-Being With Simple Morning Joys - Photo by [Sixteen Miles Out](https://unsplash.com/@sixteenmilesout) on [Unsplash](https://unsplash.com/photos/white-teacup-filled-with-brown-liquid-near-pink-flower-SwiYNN28mug)" >}}
 
 - *Start your day with small rituals that bring you joy.*
 - *Choose comfort foods that are also good for your health.*

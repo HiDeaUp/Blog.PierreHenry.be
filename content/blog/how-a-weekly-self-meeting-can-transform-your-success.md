@@ -12,8 +12,7 @@ original_title = "Discussions qui mènent au SUCCÈS"
 source_medium = "https://medium.com/@phenrysay/083dbe1b69c7"
 +++
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTY1NjY0MHww&ixlib=rb-4.1.0&q=80&w=1080 "How a Weekly Self-Meeting Can Transform Your Success")
-*How a Weekly Self-Meeting Can Transform Your Success - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTY1NjY0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How a Weekly Self-Meeting Can Transform Your Success" caption="How a Weekly Self-Meeting Can Transform Your Success - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 Have you ever thought about having a real meeting with yourself? Not just a quick check-in, but a dedicated moment, like you would with your best friend or a trusted colleague. It might sound a bit odd at first, but this exercise is incredibly powerful and can bring you benefits you might not expect.
 
@@ -33,8 +32,7 @@ This idea is inspired by the Agile methodology, especially the “retrospective�
 
 You don’t need fancy tools. For my personal projects, I avoid complex systems like Jira, which are better suited for big teams and can become overwhelming. Instead, I use simple apps like Things 3, which is basically a reminder and task manager. It’s not about taking endless notes, but about keeping track of what matters.
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTY1NjY0MHww&ixlib=rb-4.1.0&q=80&w=1080 "How a Weekly Self-Meeting Can Transform Your Success")
-*How a Weekly Self-Meeting Can Transform Your Success - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTY1NjY0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How a Weekly Self-Meeting Can Transform Your Success" caption="How a Weekly Self-Meeting Can Transform Your Success - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 If you prefer, you can use other apps like Asana, Trello, or even Google Keep. The key is to have one place where you centralize your tasks and notes. Don’t scatter your information across too many platforms, or you’ll waste time searching for things.
 
@@ -60,8 +58,7 @@ There’s never a perfect time to start. If you keep waiting for “later,” yo
 
 At the start of any project, excitement is high. But after a while, motivation drops, and it’s tempting to quit and start something new. This creates a vicious cycle where nothing gets finished. The weekly meeting helps you spot this pattern and push through the tough spots, instead of giving up and starting over.
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTY1NjY0MHww&ixlib=rb-4.1.0&q=80&w=1080 "How a Weekly Self-Meeting Can Transform Your Success")
-*How a Weekly Self-Meeting Can Transform Your Success - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTY1NjY0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How a Weekly Self-Meeting Can Transform Your Success" caption="How a Weekly Self-Meeting Can Transform Your Success - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 > _At the beginning of a project, we’re all fired up and motivated. But after a while, motivation drops, and we’re tempted to quit. The key is to find new challenges within the same project, not to abandon it for something else._
 — Seth Godin

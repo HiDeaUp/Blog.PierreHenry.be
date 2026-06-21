@@ -12,8 +12,7 @@ original_title = "REGARDE CECI SI TU N’EST PAS 100% HEUREUX DANS TA VIE"
 source_medium = "https://medium.com/@phenrysay/b89bd92d2513"
 +++
 
-![smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679](https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTU1MDM2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing the Perfect Life")
-*How to Find Real Happiness Without Chasing the Perfect Life - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)*
+{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTU1MDM2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Find Real Happiness Without Chasing the Perfect Life" caption="How to Find Real Happiness Without Chasing the Perfect Life - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
 
 We all have projects, dreams, and things we want to achieve. Some of us are more ambitious than others, but ambition is a deeply personal thing. It’s important not to compare your ambition to someone else’s. Sure, some projects are bigger or take more time, but if you have the energy and vision to pursue them, that’s great.
 
@@ -27,8 +26,7 @@ But are you, really? Is this what you wanted? Often, it takes a major event—a 
 
 It’s a fair question. Maybe you worked for years, got a PhD, landed a tough job, saved up, even went into debt to get here. But sometimes, a happy life—one that builds itself around your own projects—is much simpler than all that. We look far and wide for something that might be right in front of us.
 
-![Photo by Maria Oswalt](https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTU1MDM2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing the Perfect Life")
-*How to Find Real Happiness Without Chasing the Perfect Life - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)*
+{{< figure src="https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTU1MDM2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow life printed balloon" title="How to Find Real Happiness Without Chasing the Perfect Life" caption="How to Find Real Happiness Without Chasing the Perfect Life - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)" >}}
 
 It’s like those math problems in high school: we always assume the answer must be more complicated than it really is. We’re taught that the things that earn us medals or rewards must be the hardest. But that’s not how life works. More money doesn’t always mean more effort. If it did, coal miners would be the richest people on earth.
 
@@ -48,8 +46,7 @@ There’s no perfect moment to act. The mistake is not making a decision at all.
 > *“It is never too late to be what you might have been.”*  
 > —George Eliot
 
-![Quit squeezing bro, tryna smile here :)](https://images.unsplash.com/photo-1544018239-bcbbc2c55c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTU1MDM2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing the Perfect Life")
-*How to Find Real Happiness Without Chasing the Perfect Life - Photo by [Nyabuto Felix](https://unsplash.com/@nyabuto) on [Unsplash](https://unsplash.com/photos/yellow-emoticon-plastic-ball-6M-9CNXO7gw)*
+{{< figure src="https://images.unsplash.com/photo-1544018239-bcbbc2c55c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTU1MDM2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Quit squeezing bro, tryna smile here :)" title="How to Find Real Happiness Without Chasing the Perfect Life" caption="How to Find Real Happiness Without Chasing the Perfect Life - Photo by [Nyabuto Felix](https://unsplash.com/@nyabuto) on [Unsplash](https://unsplash.com/photos/yellow-emoticon-plastic-ball-6M-9CNXO7gw)" >}}
 
 Whether you want to be a pilot, an astronaut, an entrepreneur, or a creator, you’ll find a way if you stay persistent. Perseverance is your best friend. The key is to keep moving forward, step by step, and to organize your days so you know what you’re doing next.
 

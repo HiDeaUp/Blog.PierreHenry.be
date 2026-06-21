@@ -12,8 +12,7 @@ original_title = "Avoir un but spécifique dans ses journées 🚀"
 source_medium = "https://medium.com/@phenrysay/642587538cdc"
 +++
 
-![Resolutions | Instagram @timmossholder](https://images.unsplash.com/photo-1609153315698-a0396f42fd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHVycG9zZSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTY2MzI2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Wake Up With Purpose Without Losing Your Day")
-*How to Wake Up With Purpose Without Losing Your Day - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/white-printer-paper-on-brown-wooden-table-3I3WVoA-Gks)*
+{{< figure src="https://images.unsplash.com/photo-1609153315698-a0396f42fd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHVycG9zZSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTY2MzI2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Resolutions | Instagram @timmossholder" title="How to Wake Up With Purpose Without Losing Your Day" caption="How to Wake Up With Purpose Without Losing Your Day - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/white-printer-paper-on-brown-wooden-table-3I3WVoA-Gks)" >}}
 
 Have you ever noticed how quickly the weekend slips away? You wake up, maybe it's already 9 or 10 in the morning. Sure, it's Saturday or Sunday, and you don't have to work. But time flies. Suddenly, you realize half your day is already gone. You only have the afternoon left, and it feels like you barely got started.
 
@@ -23,8 +22,7 @@ But imagine if you had a specific project or goal for the day. Maybe you want to
 
 Having a goal, even a small one, can give your day meaning. It becomes the spark that gets you out of bed, the motivation that carries you through. You start to look forward to your day, not just let it happen to you.
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHVycG9zZSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTY2MzI2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Wake Up With Purpose Without Losing Your Day")
-*How to Wake Up With Purpose Without Losing Your Day - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHVycG9zZSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTY2MzI2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Wake Up With Purpose Without Losing Your Day" caption="How to Wake Up With Purpose Without Losing Your Day - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 > *The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.*
 >
@@ -42,8 +40,7 @@ So next time you find yourself sleeping in and feeling like the day is slipping 
 
 ## Key Takeaways
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHVycG9zZSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTY2MzI2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Wake Up With Purpose Without Losing Your Day")
-*How to Wake Up With Purpose Without Losing Your Day - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHVycG9zZSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTY2MzI2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Wake Up With Purpose Without Losing Your Day" caption="How to Wake Up With Purpose Without Losing Your Day - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 - *Having a specific goal gives your day meaning and energy.*
 - *Even small projects can motivate you to get up and move.*

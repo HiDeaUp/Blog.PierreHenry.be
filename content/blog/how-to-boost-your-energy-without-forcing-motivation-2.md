@@ -12,8 +12,7 @@ original_title = "LES SECRETS DES ÉLITES RÉVÉLÉS : Ce que Personne ne vous D
 source_medium = "https://medium.com/@phenrysay/04ca95fe635e"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Forcing Motivation")
-*How to Boost Your Energy Without Forcing Motivation - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Have you ever noticed how some days you just feel drained, tired, or stuck in a rut? You might blame yourself, thinking you’re lazy or unmotivated. But what if the real problem isn’t you at all? What if it’s your environment holding you back?
 
@@ -29,8 +28,7 @@ It’s easy to fall into the trap of self-blame. You might wonder, “Why am I s
 
 Motivation is great, but it doesn’t last. What really keeps us going are habits and routines. When something becomes a habit, you do it automatically—like brushing your teeth or taking a shower. You don’t question it or skip it because it’s part of your daily life.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Forcing Motivation")
-*How to Boost Your Energy Without Forcing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 The same goes for things like exercise, writing, or learning. If you want to make these activities part of your life, you need to make them easy to start. For example, if you want to write, leave your laptop open with your writing program ready. If you want to go jogging, put your running clothes and shoes next to your bed. If you want to use your exercise bike, keep it in plain sight. These small changes remove the barriers that make it hard to begin.
 
@@ -52,8 +50,7 @@ Stay open-minded about changing your environment and the way you organize your d
 > *Don’t adapt to the energy in the room. Influence the energy in the room.*  
 — Unknown
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Energy Without Forcing Motivation")
-*How to Boost Your Energy Without Forcing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 ---
 

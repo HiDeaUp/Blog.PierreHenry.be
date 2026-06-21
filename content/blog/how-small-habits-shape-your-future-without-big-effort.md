@@ -12,8 +12,7 @@ original_title = "L’effet composé sur son quotidien"
 source_medium = "https://medium.com/@phenrysay/6b130f740771"
 +++
 
-![Photo by Badhon Ebrahim](https://images.unsplash.com/photo-1538865314643-9a6bcc43a12b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb21wb3VuZCUyMGVmZmVjdCUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDYxNzk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Habits Shape Your Future Without Big Effort")
-*How Small Habits Shape Your Future Without Big Effort - Photo by [Badhon Ebrahim](https://unsplash.com/@badhon_ebrahim) on [Unsplash](https://unsplash.com/photos/round-green-clock-tSVgsCfWW2M)*
+{{< figure src="https://images.unsplash.com/photo-1538865314643-9a6bcc43a12b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb21wb3VuZCUyMGVmZmVjdCUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDYxNzk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Round green clock" title="How Small Habits Shape Your Future Without Big Effort" caption="How Small Habits Shape Your Future Without Big Effort - Photo by [Badhon Ebrahim](https://unsplash.com/@badhon_ebrahim) on [Unsplash](https://unsplash.com/photos/round-green-clock-tSVgsCfWW2M)" >}}
 
 Most people think that big changes come from big actions. But in reality, it’s the small things we do every day that shape our lives. These actions, repeated over time, add up—just like compound interest in finance. Whether good or bad, your habits quietly build up and eventually create a huge impact.
 
@@ -23,8 +22,7 @@ This is why it’s so important to build good habits as early as possible. The s
 
 If you spend just half an hour each day on something positive—whether it’s learning a new skill, practicing a language, or working out—you’ll get better and better. After a year, two years, or three years, the improvement is clear. The effect is exponential. The same goes for negative habits. Junk food, skipping exercise, or negative thinking all add up and pull you down.
 
-![Photo by Miguel Constantin Montes](https://images.unsplash.com/photo-1482830033991-8eaa49b6cde4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb21wb3VuZCUyMGVmZmVjdCUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDYxNzk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Habits Shape Your Future Without Big Effort")
-*How Small Habits Shape Your Future Without Big Effort - Photo by [Miguel Constantin Montes](https://unsplash.com/@createwithconstantin) on [Unsplash](https://unsplash.com/photos/man-sitting-on-swing-oMvlBxrGp_4)*
+{{< figure src="https://images.unsplash.com/photo-1482830033991-8eaa49b6cde4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb21wb3VuZCUyMGVmZmVjdCUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDYxNzk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man sitting on swing" title="How Small Habits Shape Your Future Without Big Effort" caption="How Small Habits Shape Your Future Without Big Effort - Photo by [Miguel Constantin Montes](https://unsplash.com/@createwithconstantin) on [Unsplash](https://unsplash.com/photos/man-sitting-on-swing-oMvlBxrGp_4)" >}}
 
 That’s why it’s crucial to spot your bad habits and get rid of them. Throw them out like trash and don’t look back. At the same time, focus on your positive habits. Value them, repeat them daily, and make sure you keep the ones that make the biggest difference. Remember the Pareto principle: 20% of your habits bring 80% of the results. Find those key habits and stick to them.
 
@@ -40,8 +38,7 @@ If you want to go deeper, there’s a book called *The Compound Effect* (or *L�
 
 ---
 
-![cute girl talking on the phone](https://images.unsplash.com/photo-1700520695928-94bd06abfb0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb21wb3VuZCUyMGVmZmVjdCUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDYxNzk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Habits Shape Your Future Without Big Effort")
-*How Small Habits Shape Your Future Without Big Effort - Photo by [Jelena Kostic](https://unsplash.com/@maur981) on [Unsplash](https://unsplash.com/photos/a-woman-is-holding-a-pen-and-looking-at-something-t_3Vrw5rI5k)*
+{{< figure src="https://images.unsplash.com/photo-1700520695928-94bd06abfb0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb21wb3VuZCUyMGVmZmVjdCUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDYxNzk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="cute girl talking on the phone" title="How Small Habits Shape Your Future Without Big Effort" caption="How Small Habits Shape Your Future Without Big Effort - Photo by [Jelena Kostic](https://unsplash.com/@maur981) on [Unsplash](https://unsplash.com/photos/a-woman-is-holding-a-pen-and-looking-at-something-t_3Vrw5rI5k)" >}}
 
 ## Key Takeaways
 - Small daily actions, good or bad, add up over time.

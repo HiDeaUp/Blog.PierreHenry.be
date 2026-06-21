@@ -12,8 +12,7 @@ original_title = "Se créer des histoires qui vont te hausser 💪"
 source_medium = "https://medium.com/@phenrysay/4108f352aa4d"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjM4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Day by Changing the Stories You Tell Yourself")
-*How to Shape Your Day by Changing the Stories You Tell Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjM4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Shape Your Day by Changing the Stories You Tell Yourself" caption="How to Shape Your Day by Changing the Stories You Tell Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever thought about how the stories you tell yourself shape your life? Today, I want to talk about stories—not the ones we read in books, but the ones we create for ourselves, the ones that inspire us to do what we truly want.
 
@@ -23,8 +22,7 @@ Here’s a challenge for you: from the moment you wake up to the moment you go t
 
 Think about your breaks. Would you go to the gym? Is that part of your perfect day? Maybe you’d rather cook at home, or perhaps you’d enjoy a meal at a restaurant. In the evening, do you want to read, or do something else that relaxes you?
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjM4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Day by Changing the Stories You Tell Yourself")
-*How to Shape Your Day by Changing the Stories You Tell Yourself - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjM4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Shape Your Day by Changing the Stories You Tell Yourself" caption="How to Shape Your Day by Changing the Stories You Tell Yourself - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 I invite you to actually plan out this dream day, from start to finish. Write it down in a notebook—list out each step, one through ten, or however many you need. Then, live out this day, following your plan as closely as possible, at least for one day.
 
@@ -44,8 +42,7 @@ If you live near the beach, maybe you want to swim every morning. Would that boo
 >
 > — Unknown
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjM4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Day by Changing the Stories You Tell Yourself")
-*How to Shape Your Day by Changing the Stories You Tell Yourself - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjM4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Shape Your Day by Changing the Stories You Tell Yourself" caption="How to Shape Your Day by Changing the Stories You Tell Yourself - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 ---
 

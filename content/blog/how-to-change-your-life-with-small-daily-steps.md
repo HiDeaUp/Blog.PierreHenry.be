@@ -12,8 +12,7 @@ original_title = "Vie Choisie... Ce que tu rates... 🙈"
 source_medium = "https://medium.com/@phenrysay/cebb3d2de4ae"
 +++
 
-![guy sits cross-legged on the beach and meditates, the wide sea in the background](https://images.unsplash.com/photo-1630406866478-a2fca6070d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTg2MDQ1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With Small Daily Steps")
-*How to Change Your Life With Small Daily Steps - Photo by [Benjamin Wedemeyer](https://unsplash.com/@benjaminwedemeyer) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-beach-during-sunset-NBYz3bQVMIo)*
+{{< figure src="https://images.unsplash.com/photo-1630406866478-a2fca6070d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTg2MDQ1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="guy sits cross-legged on the beach and meditates, the wide sea in the background" title="How to Change Your Life With Small Daily Steps" caption="How to Change Your Life With Small Daily Steps - Photo by [Benjamin Wedemeyer](https://unsplash.com/@benjaminwedemeyer) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-beach-during-sunset-NBYz3bQVMIo)" >}}
 
 Accomplishing something small every day can move you forward in ways you might not expect. When you have a clear goal and make sure each day includes a step toward it, you’re not just passing time—you’re investing in yourself. Even if you’re working a regular job, have a packed family life, or feel like your schedule is bursting at the seams, this approach still works.
 
@@ -27,8 +26,7 @@ I’ve noticed that waking up late throws off my whole day. It adds mental clutt
 
 Writing things down helps, too. I keep notebooks for jotting down ideas, reflecting on my life, or simply slowing down. Sometimes, we’re so caught up in the daily grind that we forget to breathe. We end up living inside our routines instead of shaping our lives on purpose. Taking a step back, even for a few minutes in a café with a pen and paper, can help you reconnect with what matters.
 
-![Photo by Daoud Abismail](https://images.unsplash.com/photo-1629049224884-af8734824449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTg2MDQ1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With Small Daily Steps")
-*How to Change Your Life With Small Daily Steps - Photo by [Daoud Abismail](https://unsplash.com/@davfilmx) on [Unsplash](https://unsplash.com/photos/man-in-brown-crew-neck-t-shirt-sitting-on-brown-wooden-log-AmBS4M-xrzY)*
+{{< figure src="https://images.unsplash.com/photo-1629049224884-af8734824449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTg2MDQ1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in brown crew neck t shirt sitting on brown wooden log AmBS4M xrzY" title="How to Change Your Life With Small Daily Steps" caption="How to Change Your Life With Small Daily Steps - Photo by [Daoud Abismail](https://unsplash.com/@davfilmx) on [Unsplash](https://unsplash.com/photos/man-in-brown-crew-neck-t-shirt-sitting-on-brown-wooden-log-AmBS4M-xrzY)" >}}
 
 > *“You have one life. If you don’t make it yours, who will?”*
 > — Unknown
@@ -49,8 +47,7 @@ So, grab a notebook, head to a café, and write about your life. Imagine yoursel
 
 ---
 
-![Photo by Julio Lopez](https://images.unsplash.com/photo-1723359133179-075028cd7f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTg2MDQ1MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With Small Daily Steps")
-*How to Change Your Life With Small Daily Steps - Photo by [Julio Lopez](https://unsplash.com/@juliolopez) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-field-with-a-helmet-on-9mouXmvcwiY)*
+{{< figure src="https://images.unsplash.com/photo-1723359133179-075028cd7f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NTg2MDQ1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in a field with a helmet on" title="How to Change Your Life With Small Daily Steps" caption="How to Change Your Life With Small Daily Steps - Photo by [Julio Lopez](https://unsplash.com/@juliolopez) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-field-with-a-helmet-on-9mouXmvcwiY)" >}}
 
 ## Key Takeaways
 

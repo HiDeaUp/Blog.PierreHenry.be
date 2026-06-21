@@ -12,8 +12,7 @@ original_title = "PROFITER DE LA VIE. POURQUOI LE BONHEUR EST PLUS SIMPLE QUE L'
 source_medium = "https://medium.com/@phenrysay/5c53810ae634"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBzaW1wbGUlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NzQyMDA1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Overthinking Life")
-*How to Find Real Happiness Without Overthinking Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)*
+{{< figure src="https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBzaW1wbGUlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NzQyMDA1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black happy card" title="How to Find Real Happiness Without Overthinking Life" caption="How to Find Real Happiness Without Overthinking Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)" >}}
 
 Have you ever looked at someone else’s life and wondered if they truly enjoy what they do? Maybe you’ve noticed people who seem unhappy or unfulfilled, and it makes you think about your own path. It’s a shame, really, because life deserves to be lived fully. Life is short, beautiful, and exciting. If we don’t grab it with both hands, we end up wasting time, mental energy, and all the possibilities that could have been ours.
 
@@ -23,8 +22,7 @@ It’s impossible to be truly in the moment if you’re weighed down by negative
 
 The same goes for work. I often work remotely, and I used to freelance as well. I love being able to choose my environment—sometimes I work at my desk, other times in a café or a coworking space. Changing my surroundings makes a huge difference. Even if you love your job, staring at the same wall all day can make you start to hate it. The right environment lifts you up and changes everything.
 
-![Photo by Andrew Heald](https://images.unsplash.com/photo-1647664039415-8a9e23c010f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBzaW1wbGUlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NzQyMDA1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Overthinking Life")
-*How to Find Real Happiness Without Overthinking Life - Photo by [Andrew Heald](https://unsplash.com/@aheald25) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-person-on-a-skateboard-NFH4eQocHE8)*
+{{< figure src="https://images.unsplash.com/photo-1647664039415-8a9e23c010f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBzaW1wbGUlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NzQyMDA1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a person on a" title="How to Find Real Happiness Without Overthinking Life" caption="How to Find Real Happiness Without Overthinking Life - Photo by [Andrew Heald](https://unsplash.com/@aheald25) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-person-on-a-skateboard-NFH4eQocHE8)" >}}
 
 Focus your energy and attention on things that motivate and inspire you. Otherwise, you’ll get stuck doing things that drain you. Sometimes, even our passions can become overwhelming if we’re stretched too thin. If you love baking but have to make hundreds of cakes every day, it stops being fun and starts feeling like torture.
 
@@ -44,8 +42,7 @@ The truth is, when you love what you do, you stop worrying about where life is t
 >
 > — Dalai Lama
 
-![Photo by AJ Elgammal](https://images.unsplash.com/photo-1704330169478-0530f3243e79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBzaW1wbGUlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NzQyMDA1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Overthinking Life")
-*How to Find Real Happiness Without Overthinking Life - Photo by [AJ Elgammal](https://unsplash.com/@aj_elgammal) on [Unsplash](https://unsplash.com/photos/a-man-riding-a-surfboard-on-top-of-a-wave-in-the-ocean-0DVb5qFh_AM)*
+{{< figure src="https://images.unsplash.com/photo-1704330169478-0530f3243e79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBzaW1wbGUlMjBsaXZpbmd8ZW58MHwwfHx8MTc1NzQyMDA1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man riding a on top of a wave in the ocean" title="How to Find Real Happiness Without Overthinking Life" caption="How to Find Real Happiness Without Overthinking Life - Photo by [AJ Elgammal](https://unsplash.com/@aj_elgammal) on [Unsplash](https://unsplash.com/photos/a-man-riding-a-surfboard-on-top-of-a-wave-in-the-ocean-0DVb5qFh_AM)" >}}
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >

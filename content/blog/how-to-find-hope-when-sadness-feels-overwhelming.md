@@ -12,8 +12,7 @@ original_title = "Comment remonter quand la tristesse nous paralyse ?"
 source_medium = "https://medium.com/@phenrysay/25688848394e"
 +++
 
-![Lone man on cliff edge looking down onto Lake Windermere ](https://images.unsplash.com/photo-1601198809779-74ad5583198d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBjb3BpbmclMjBzdHJhdGVnaWVzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Hope When Sadness Feels Overwhelming")
-*How to Find Hope When Sadness Feels Overwhelming - Photo by [Jonny Gios](https://unsplash.com/@supergios) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-standing-on-rock-formation-under-cloudy-sky-during-daytime-ltS9LgLayLQ)*
+{{< figure src="https://images.unsplash.com/photo-1601198809779-74ad5583198d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBjb3BpbmclMjBzdHJhdGVnaWVzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Lone man on cliff edge looking down onto Lake Windermere" title="How to Find Hope When Sadness Feels Overwhelming" caption="How to Find Hope When Sadness Feels Overwhelming - Photo by [Jonny Gios](https://unsplash.com/@supergios) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-standing-on-rock-formation-under-cloudy-sky-during-daytime-ltS9LgLayLQ)" >}}
 
 Sad days happen to all of us. Sometimes, it’s because of bad news, or maybe things just aren’t going the way we hoped. No one is spared from sadness. We all face moments when life feels unfair, confusing, or just plain heavy.
 
@@ -23,8 +22,7 @@ Think of the past like a computer screen that’s gone black. It’s off, and yo
 
 But when sadness hits, it’s easy to feel stuck. Your mind freezes, you feel lost, and it’s hard to know what to do next. Still, it’s important to hold on to hope and to set goals for yourself. Without something to aim for, it’s easy to fall even deeper into sadness.
 
-![Photo by Colin Horn](https://images.unsplash.com/photo-1553696689-61a2a4b70bad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBjb3BpbmclMjBzdHJhdGVnaWVzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Hope When Sadness Feels Overwhelming")
-*How to Find Hope When Sadness Feels Overwhelming - Photo by [Colin Horn](https://unsplash.com/@colinhorn) on [Unsplash](https://unsplash.com/photos/woman-in-blue-denim-jacket-standing-by-the-foggy-lake-EQoy5wuqD0I)*
+{{< figure src="https://images.unsplash.com/photo-1553696689-61a2a4b70bad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBjb3BpbmclMjBzdHJhdGVnaWVzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in blue denim jacket by the foggy lake" title="How to Find Hope When Sadness Feels Overwhelming" caption="How to Find Hope When Sadness Feels Overwhelming - Photo by [Colin Horn](https://unsplash.com/@colinhorn) on [Unsplash](https://unsplash.com/photos/woman-in-blue-denim-jacket-standing-by-the-foggy-lake-EQoy5wuqD0I)" >}}
 
 Having a purpose is what keeps us alive. If you don’t have a project or a goal that excites you, you risk slipping into a downward spiral. I’ve seen this happen in retirement homes. Many elderly people look forward to seeing their family at the end of the year. After the holidays, when everyone leaves and the excitement is over, they feel empty. With nothing left to look forward to, some just give up on life.
 
@@ -40,8 +38,7 @@ The main thing is to put yourself in a place—physically or mentally—where yo
 
 If you want to go further in your daily happiness, I’ve learned a lot from years of studying, attending seminars, and trying different things. I’ve spent over $80,000 on training and have been to conferences in the US, UK, and Australia. I share what I’ve learned about breaking bad habits, building good ones, and finding long-term projects that give life meaning.
 
-![Photo by Muradi](https://images.unsplash.com/photo-1565894897273-9f4240d4ac56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBjb3BpbmclMjBzdHJhdGVnaWVzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Hope When Sadness Feels Overwhelming")
-*How to Find Hope When Sadness Feels Overwhelming - Photo by [Muradi](https://unsplash.com/@simuradi) on [Unsplash](https://unsplash.com/photos/man-sitting-on-ottoman-chair-near-window-7mPNIr8wGew)*
+{{< figure src="https://images.unsplash.com/photo-1565894897273-9f4240d4ac56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBjb3BpbmclMjBzdHJhdGVnaWVzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTc5MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man sitting on ottoman chair near window" title="How to Find Hope When Sadness Feels Overwhelming" caption="How to Find Hope When Sadness Feels Overwhelming - Photo by [Muradi](https://unsplash.com/@simuradi) on [Unsplash](https://unsplash.com/photos/man-sitting-on-ottoman-chair-near-window-7mPNIr8wGew)" >}}
 
 I hope these words help you as much as they’ve helped me. Just talking about this lifts my mood. Before writing this, I was feeling down, but now I feel much better. Thank you for being here and letting me share this with you. I hope I can help you feel happier too. Believe in yourself, because I believe in you. Let’s keep moving forward together.
 

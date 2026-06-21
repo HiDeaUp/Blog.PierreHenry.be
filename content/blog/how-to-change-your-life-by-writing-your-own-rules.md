@@ -12,8 +12,7 @@ original_title = "On crée ta propre loi constitutionnelle 🤫"
 source_medium = "https://medium.com/@phenrysay/4fc0689d6f36"
 +++
 
-![A boy looking to an amazing view ](https://images.unsplash.com/photo-1624561841146-a9a220ee50ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1kaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMjU0MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life by Writing Your Own Rules")
-*How to Change Your Life by Writing Your Own Rules - Photo by [nasro azaizia](https://unsplash.com/@nasro18dz) on [Unsplash](https://unsplash.com/photos/man-in-red-hoodie-sitting-on-rock-AUtcB1bZbMg)*
+{{< figure src="https://images.unsplash.com/photo-1624561841146-a9a220ee50ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1kaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMjU0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy looking to an amazing view" title="How to Change Your Life by Writing Your Own Rules" caption="How to Change Your Life by Writing Your Own Rules - Photo by [nasro azaizia](https://unsplash.com/@nasro18dz) on [Unsplash](https://unsplash.com/photos/man-in-red-hoodie-sitting-on-rock-AUtcB1bZbMg)" >}}
 
 Have you ever thought about writing your own constitution? Not the kind that governs a country, but a set of personal laws that you promise to follow, no matter what. This idea might sound a bit unusual, but it’s one of the most powerful tools you can use to change your life for the better.
 
@@ -28,8 +27,7 @@ Think of it like this: in the United States, there’s a constitutional rule tha
 1. **Pick Your Laws Carefully**  
    Don’t go overboard. Start with a maximum of four rules. These should be things you know you can live without, but that will make a real difference in your life. For example: “I will never smoke again,” or “I will not waste money on things I don’t need.”
 
-![Photo by Miguel Constantin Montes](https://images.unsplash.com/photo-1482830033991-8eaa49b6cde4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1kaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMjU0MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life by Writing Your Own Rules")
-*How to Change Your Life by Writing Your Own Rules - Photo by [Miguel Constantin Montes](https://unsplash.com/@createwithconstantin) on [Unsplash](https://unsplash.com/photos/man-sitting-on-swing-oMvlBxrGp_4)*
+{{< figure src="https://images.unsplash.com/photo-1482830033991-8eaa49b6cde4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1kaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMjU0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man sitting on swing" title="How to Change Your Life by Writing Your Own Rules" caption="How to Change Your Life by Writing Your Own Rules - Photo by [Miguel Constantin Montes](https://unsplash.com/@createwithconstantin) on [Unsplash](https://unsplash.com/photos/man-sitting-on-swing-oMvlBxrGp_4)" >}}
 
 2. **Make It Official**  
    Write each law on its own page. Date it, sign it, and put your name on it. This isn’t just a list—it’s your personal law. Treat it with respect.
@@ -55,8 +53,7 @@ Your environment matters too. If you’re surrounded by people or situations tha
 > *“The chains of habit are too weak to be felt until they are too strong to be broken.”*  
 — Samuel Johnson
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1kaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMjU0MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life by Writing Your Own Rules")
-*How to Change Your Life by Writing Your Own Rules - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1kaXNjaXBsaW5lJTIwaGFiaXQlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTQyMjU0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Change Your Life by Writing Your Own Rules" caption="How to Change Your Life by Writing Your Own Rules - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 ## Start Today
 

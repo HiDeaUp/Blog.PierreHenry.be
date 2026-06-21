@@ -12,8 +12,7 @@ original_title = "L'importance des priorités"
 source_medium = "https://medium.com/@phenrysay/93dce19add7d"
 +++
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Put Yourself First Without Feeling Guilty")
-*How to Put Yourself First Without Feeling Guilty - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Put Yourself First Without Feeling Guilty" caption="How to Put Yourself First Without Feeling Guilty - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 Every day, we’re surrounded by things that seem urgent. There’s always a bill to pay, dishes from last night to wash, or the trash to take out. Living in an apartment building, I have to drop my garbage down the chute regularly. Maybe for you, it’s vacuuming or mopping the floor. These tasks always feel pressing, but if you look closely, they’re not always what matters most to you.
 
@@ -23,8 +22,7 @@ Yet, these moments of pleasure and personal fulfillment are the first to get pos
 
 So, here’s my invitation: think about what truly makes you happy. Maybe it’s going for a walk, spending quality time with a friend, or even shopping if that’s your thing. Whatever it is, make it a point to do something important for your well-being at least once a week. Sure, you can do small things every day—ten or twenty minutes here and there—but once a week, set aside a bigger chunk of time. An hour, ninety minutes, maybe even two hours. This is your time.
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Put Yourself First Without Feeling Guilty")
-*How to Put Yourself First Without Feeling Guilty - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Put Yourself First Without Feeling Guilty" caption="How to Put Yourself First Without Feeling Guilty - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 I remember when I used to visit the Polynesian Spa in Rotorua, New Zealand. It was amazing, and I loved it. Now, living in Melbourne, there’s a great spa a bit outside the city. If you search for “Hot Springs Melbourne,” you’ll find it. The name escapes me, but that’s not the point. The point is to treat yourself with kindness. These moments of softness give you more energy and happiness for everything else you need to do.
 
@@ -40,8 +38,7 @@ Being in a good mood is important, but being fulfilled is even more so. Waking u
 
 If you want to go further in making your days more fulfilling, I encourage you to check out my self-help book or listen to my podcast with El. You can also join my private mailing list for more personal tips and stories.
 
-![Tomato](https://images.unsplash.com/photo-1712750129287-6dc3794180fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Put Yourself First Without Feeling Guilty")
-*How to Put Yourself First Without Feeling Guilty - Photo by [Elin Melaas](https://unsplash.com/@elin_mel) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouting-out-of-an-egg-shell-WCCK44HRlTg)*
+{{< figure src="https://images.unsplash.com/photo-1712750129287-6dc3794180fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBwcmlvcml0aXphdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tomato" title="How to Put Yourself First Without Feeling Guilty" caption="How to Put Yourself First Without Feeling Guilty - Photo by [Elin Melaas](https://unsplash.com/@elin_mel) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouting-out-of-an-egg-shell-WCCK44HRlTg)" >}}
 
 ---
 

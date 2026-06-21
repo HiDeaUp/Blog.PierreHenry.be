@@ -12,8 +12,7 @@ original_title = "Mon plan d’action pour avancer RAPIDEMENT"
 source_medium = "https://medium.com/@phenrysay/76923c59469b"
 +++
 
-![Endeavor action figure from My Hero Academia](https://images.unsplash.com/photo-1623199971727-c59b8c11fdfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwYWN0aW9uJTIwcGxhbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTMxMDIxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Your Days Without Feeling Overwhelmed")
-*How to Take Charge of Your Days Without Feeling Overwhelmed - Photo by [Guillermo Diaz](https://unsplash.com/@guillediaz) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-figurine-of-a-person-with-fire-on-his-face-H1a4cIeVZwI)*
+{{< figure src="https://images.unsplash.com/photo-1623199971727-c59b8c11fdfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwYWN0aW9uJTIwcGxhbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTMxMDIxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Endeavor action figure from My Hero Academia" title="How to Take Charge of Your Days Without Feeling Overwhelmed" caption="How to Take Charge of Your Days Without Feeling Overwhelmed - Photo by [Guillermo Diaz](https://unsplash.com/@guillediaz) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-figurine-of-a-person-with-fire-on-his-face-H1a4cIeVZwI)" >}}
 
 Have you ever felt like your life is just passing you by, day after day, without much changing? Maybe you feel stuck, unhappy, and you don’t really see any options to make things better. If that’s the case, you’re not alone. Life is like a container—a big jar filled with time. You’re inside that jar, and if you just let the days evaporate without doing much, you end up feeling empty. When you don’t take action, when you let life happen to you instead of shaping it, your days start to reflect that sadness. And that’s not what you want.
 
@@ -21,8 +20,7 @@ The truth is, you have to take charge of your life. Ask yourself: What can I do 
 
 It took me ten years to really take control of my life. I spent over $92,000 on courses and seminars in the US, Australia, the UK, Ireland, and even Canada. That’s a lot of money, and it took a lot of time. I’ve lived in all those countries, and while I’m grateful for those experiences, I wish I’d learned some things sooner.
 
-![Photo by Alisa Anton](https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwYWN0aW9uJTIwcGxhbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTMxMDIxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Your Days Without Feeling Overwhelmed")
-*How to Take Charge of Your Days Without Feeling Overwhelmed - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)*
+{{< figure src="https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwYWN0aW9uJTIwcGxhbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTMxMDIxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of gel candle on board beside pillow u_z0X yrJIE" title="How to Take Charge of Your Days Without Feeling Overwhelmed" caption="How to Take Charge of Your Days Without Feeling Overwhelmed - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)" >}}
 
 One of the most important lessons is this: Don’t put off what you can do today. Time doesn’t wait for anyone. Imagine your day as a jar. If you fill it with sand first—all the little, unimportant things—you won’t have room for the big rocks, the things that matter most. Start your day with the big rocks: the most important tasks. Only after that, let the smaller things fill in the gaps.
 
@@ -38,8 +36,7 @@ I’ve struggled with this myself, and I know how heavy it can feel. But it’s 
 
 ---
 
-![Worthy of Love | Instagram: @timmossholder](https://images.unsplash.com/photo-1508175749578-259ded3db070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwYWN0aW9uJTIwcGxhbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTMxMDIxNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Your Days Without Feeling Overwhelmed")
-*How to Take Charge of Your Days Without Feeling Overwhelmed - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/you-are-worthy-of-love-sign-beside-tree-and-road-SR8ByN6xY3k)*
+{{< figure src="https://images.unsplash.com/photo-1508175749578-259ded3db070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwYWN0aW9uJTIwcGxhbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTMxMDIxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Worthy of Love | Instagram: @timmossholder" title="How to Take Charge of Your Days Without Feeling Overwhelmed" caption="How to Take Charge of Your Days Without Feeling Overwhelmed - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/you-are-worthy-of-love-sign-beside-tree-and-road-SR8ByN6xY3k)" >}}
 
 ## Key Takeaways
 - Life is a container of time—don’t let it evaporate.

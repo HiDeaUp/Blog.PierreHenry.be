@@ -12,8 +12,7 @@ original_title = "Comment agir ? Passer à l’action facilement"
 source_medium = "https://medium.com/@phenrysay/c7e85939868a"
 +++
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0YWtpbmclMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1ODYwMjEyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Overthinking It")
-*How to Take Action Without Overthinking It - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0YWtpbmclMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1ODYwMjEyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Take Action Without Overthinking It" caption="How to Take Action Without Overthinking It - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Moving forward in life is not just about trying. The word “try” gives you an excuse to back out or to accept failure before you even begin. Instead, decide that you will do it. Success starts with action, not hesitation.
 
@@ -23,8 +22,7 @@ It’s easy to feel like you’re doing a lot by starting many things at once. I
 
 Trends come and go, even in technology. Years ago, I created a dating script in PHP. Back then, PHP scripts were all the rage. Now, in 2024, boilerplate code is popular, even though it’s often less effective and more expensive. Still, that’s what’s in fashion. Software as a Service (SaaS) was trendy in 2014, faded a bit, and now it’s back again. Trends repeat themselves, just with new names and small tweaks.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0YWtpbmclMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1ODYwMjEyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Overthinking It")
-*How to Take Action Without Overthinking It - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0YWtpbmclMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1ODYwMjEyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Take Action Without Overthinking It" caption="How to Take Action Without Overthinking It - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 So, don’t be afraid if your project seems outdated. Do it well, and even better, give it a fresh name and a new look. Branding can make all the difference.
 
@@ -43,8 +41,7 @@ So, don’t be afraid if your project seems outdated. Do it well, and even bette
 - Even if your idea seems outdated, do it well and give it a fresh twist.
 - Branding matters—sometimes a new name is all it takes.
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0YWtpbmclMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1ODYwMjEyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Overthinking It")
-*How to Take Action Without Overthinking It - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0YWtpbmclMjBhY3Rpb24lMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1ODYwMjEyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Take Action Without Overthinking It" caption="How to Take Action Without Overthinking It - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 ---
 

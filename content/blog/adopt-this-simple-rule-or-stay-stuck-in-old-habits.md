@@ -12,8 +12,7 @@ original_title = "Les secrets pour RÉUSSIR SA VIE et atteindre ses objectifs"
 source_medium = "https://medium.com/@phenrysay/521773f5b442"
 +++
 
-![Photo by Paul White](https://images.unsplash.com/photo-1630344745808-5a8dc0eb4362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU1NzYyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt This Simple Rule or Stay Stuck in Old Habits")
-*Adopt This Simple Rule or Stay Stuck in Old Habits - Photo by [Paul White](https://unsplash.com/@paulwhiteplaytowin) on [Unsplash](https://unsplash.com/photos/man-in-gray-hoodie-jacket-pEUuwxkBOOg)*
+{{< figure src="https://images.unsplash.com/photo-1630344745808-5a8dc0eb4362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU1NzYyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in gray hoodie jacket" title="Adopt This Simple Rule or Stay Stuck in Old Habits" caption="Adopt This Simple Rule or Stay Stuck in Old Habits - Photo by [Paul White](https://unsplash.com/@paulwhiteplaytowin) on [Unsplash](https://unsplash.com/photos/man-in-gray-hoodie-jacket-pEUuwxkBOOg)" >}}
 
 We all want to feel fulfilled, happy, and productive. But what if I told you that there’s a simple rule—rarely applied—that can change your life starting tonight? This isn’t about some magic formula. It’s about understanding what truly matters to you, focusing on it, and organizing your days so you can actually reach your goals.
 
@@ -31,8 +30,7 @@ For example, I love writing in parks or cafés. I might not write faster, but I 
 
 ## Discipline and Routine: The Hidden Power
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU1NzYyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt This Simple Rule or Stay Stuck in Old Habits")
-*Adopt This Simple Rule or Stay Stuck in Old Habits - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU1NzYyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="Adopt This Simple Rule or Stay Stuck in Old Habits" caption="Adopt This Simple Rule or Stay Stuck in Old Habits - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 How you organize your days matters. If your days have no structure, it’s easy to lose discipline. That’s why, even if you dream of being your own boss or starting a side project, it can help to keep a regular job for the structure it brings. Without it, you might start waking up later, going to bed later, and before you know it, your whole routine falls apart. You end up tired, unmotivated, and your productivity drops.
 
@@ -58,8 +56,7 @@ Life is short. Don’t put off what you want to do today. There will never be a 
 >
 > — Chinese Proverb
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU1NzYyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt This Simple Rule or Stay Stuck in Old Habits")
-*Adopt This Simple Rule or Stay Stuck in Old Habits - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU1NzYyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="Adopt This Simple Rule or Stay Stuck in Old Habits" caption="Adopt This Simple Rule or Stay Stuck in Old Habits - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 ---
 

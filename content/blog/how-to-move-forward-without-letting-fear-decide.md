@@ -12,8 +12,7 @@ original_title = "Comment surmonter nos peurs dans nos choix du quotidien"
 source_medium = "https://medium.com/@phenrysay/a7c7465ef540"
 +++
 
-![https://www.havenofear.live/](https://images.unsplash.com/photo-1629772263201-341186d77793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU2NTIyMTI3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Letting Fear Decide")
-*How to Move Forward Without Letting Fear Decide - Photo by [Dylan Hunter](https://unsplash.com/@dylhunter) on [Unsplash](https://unsplash.com/photos/white-and-black-computer-keyboard-7OjhYoNjpBo)*
+{{< figure src="https://images.unsplash.com/photo-1629772263201-341186d77793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU2NTIyMTI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="https://www.havenofear.live/" title="How to Move Forward Without Letting Fear Decide" caption="How to Move Forward Without Letting Fear Decide - Photo by [Dylan Hunter](https://unsplash.com/@dylhunter) on [Unsplash](https://unsplash.com/photos/white-and-black-computer-keyboard-7OjhYoNjpBo)" >}}
 
 Have you ever noticed how often we put things off, not because we lack time, but because we hesitate? We tell ourselves we’ll do it tomorrow, even though we could easily do it today. The real reason is not our schedule, but a lack of confidence or the fear that things might not go as planned.
 
@@ -25,8 +24,7 @@ This isn’t just about work or social life. It can be about investing your mone
 
 I’ve been there too. I know what it’s like to hesitate, to feel stuck. But I realized that everything is possible if you decide to go for it. The more you take action, the more you achieve, and the higher you go. Of course, not everything will go as planned. Sometimes things turn out differently than we hoped. In some places, people call this failure. But is it really failure? Or is it just an experience that didn’t match our expectations?
 
-![Photo by aisvri](https://images.unsplash.com/photo-1620553968653-382a1fb651d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU2NTIyMTI3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Letting Fear Decide")
-*How to Move Forward Without Letting Fear Decide - Photo by [aisvri](https://unsplash.com/@aisvri) on [Unsplash](https://unsplash.com/photos/woman-in-brown-hoodie-standing-on-top-of-mountain-during-daytime-J-t5oehf3a8)*
+{{< figure src="https://images.unsplash.com/photo-1620553968653-382a1fb651d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU2NTIyMTI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in brown hoodie on top of during daytime J" title="How to Move Forward Without Letting Fear Decide" caption="How to Move Forward Without Letting Fear Decide - Photo by [aisvri](https://unsplash.com/@aisvri) on [Unsplash](https://unsplash.com/photos/woman-in-brown-hoodie-standing-on-top-of-mountain-during-daytime-J-t5oehf3a8)" >}}
 
 Life is full of ups and downs, good moments and not-so-good ones. That’s what makes it beautiful. It’s like watching a sunset with clouds, the sun, the blue sea, and maybe some palm trees. The mix of green, yellow, orange, blue, and white makes the view stunning. The same goes for your life: the contrasts make it richer and more exciting.
 
@@ -44,8 +42,7 @@ That’s the real beauty of life. You keep moving forward, learning from each ex
 
 ## Key Takeaways
 
-![jumping girl](https://images.unsplash.com/photo-1518732355562-7f21052c89e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU2NTIyMTI3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Letting Fear Decide")
-*How to Move Forward Without Letting Fear Decide - Photo by [Alexei Scutari](https://unsplash.com/@scutal) on [Unsplash](https://unsplash.com/photos/woman-in-pink-top-and-blue-pants-jumps-on-road-MDUVM0_cCAM)*
+{{< figure src="https://images.unsplash.com/photo-1518732355562-7f21052c89e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU2NTIyMTI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="jumping girl" title="How to Move Forward Without Letting Fear Decide" caption="How to Move Forward Without Letting Fear Decide - Photo by [Alexei Scutari](https://unsplash.com/@scutal) on [Unsplash](https://unsplash.com/photos/woman-in-pink-top-and-blue-pants-jumps-on-road-MDUVM0_cCAM)" >}}
 
 - *Fear and lack of confidence often hold us back more than lack of time.*
 - *Taking action, even when uncertain, leads to growth and new opportunities.*

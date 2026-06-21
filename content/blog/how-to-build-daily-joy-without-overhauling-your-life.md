@@ -12,9 +12,7 @@ original_title = "Être bien. Je balance mon SYSTÈME entier !"
 source_medium = "https://medium.com/@phenrysay/49356f0fee94"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, salt, fat, acid, heat, sweet, dessert, humour, humor, afters, cookery, cooking, cordon bleu, basics, cookery basics, samin nosrat, ingredients, 
-](https://images.unsplash.com/photo-1605606437828-598340dfaeb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsbmVzcyUyMHNlbGYtY2FyZSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU2NTU5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Joy Without Overhauling Your Life")
-*How to Build Daily Joy Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-EoP2jDCrgfU)*
+{{< figure src="https://images.unsplash.com/photo-1605606437828-598340dfaeb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsbmVzcyUyMHNlbGYtY2FyZSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU2NTU5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build Daily Joy Without Overhauling Your Life" caption="How to Build Daily Joy Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-EoP2jDCrgfU)" >}}
 
 ### The Secret Ingredient to a Good Life
 
@@ -28,8 +26,7 @@ Imagine this: you take a break with a hot chocolate and some biscuits. Maybe you
 
 These moments can be as simple as a walk in the countryside or a park, listening to birds, the wind rustling through the leaves, or just the quiet around you. It could be a bit of exercise, or eating something healthy—a crisp apple, a slice of lemon, a glass of rose juice, or whatever feels right. The key is to pause, breathe, and give yourself a real break.
 
-![Photo by The Worthy Goods](https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsbmVzcyUyMHNlbGYtY2FyZSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU2NTU5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Joy Without Overhauling Your Life")
-*How to Build Daily Joy Without Overhauling Your Life - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)*
+{{< figure src="https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsbmVzcyUyMHNlbGYtY2FyZSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU2NTU5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of white boxes with black text on a wooden surface" title="How to Build Daily Joy Without Overhauling Your Life" caption="How to Build Daily Joy Without Overhauling Your Life - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)" >}}
 
 For me, these are not just breaks. They are essential. They help me step back, recharge, and face the rest of my day with more energy and clarity. Taking time for yourself is not selfish; it is what allows you to keep going and enjoy life more fully.
 
@@ -48,10 +45,7 @@ For me, these are not just breaks. They are essential. They help me step back, r
 - Split your self-care into short sessions if you are busy.
 - These breaks help you recharge and enjoy life more.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, prove them wrong, prove, them, wrong, live well, best revenge, don't give up, win, persevere, live well, optimism, ambition, good living, living well, life goal, do no harm, golden rule, woke, yolo, intentionality, wellness, mindfulness, mindful,
-
-](https://images.unsplash.com/photo-1603206004639-22635b71ac08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsbmVzcyUyMHNlbGYtY2FyZSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU2NTU5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Joy Without Overhauling Your Life")
-*How to Build Daily Joy Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-MwkDKpOQmGc)*
+{{< figure src="https://images.unsplash.com/photo-1603206004639-22635b71ac08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsbmVzcyUyMHNlbGYtY2FyZSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU2NTU5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter blocks on white surface" title="How to Build Daily Joy Without Overhauling Your Life" caption="How to Build Daily Joy Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-MwkDKpOQmGc)" >}}
 
 ---
 

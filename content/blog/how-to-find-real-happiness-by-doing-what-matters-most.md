@@ -12,8 +12,7 @@ original_title = "Lessons de vie. Ce que j'aurais voulu savoir plus tôt !"
 source_medium = "https://medium.com/@phenrysay/477d48694369"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1638866412550-d0a9040c6cfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwbGVzc29ucyUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2NTYwNTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness by Doing What Matters Most")
-*How to Find Real Happiness by Doing What Matters Most - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-that-says-life-next-to-a-bouquet-of-flowers-4zMgrY348F0)*
+{{< figure src="https://images.unsplash.com/photo-1638866412550-d0a9040c6cfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwbGVzc29ucyUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2NTYwNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block that says life next to a bouquet of flowers" title="How to Find Real Happiness by Doing What Matters Most" caption="How to Find Real Happiness by Doing What Matters Most - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-that-says-life-next-to-a-bouquet-of-flowers-4zMgrY348F0)" >}}
 
 What really makes us happy? For me, it’s not just about feeling good or chasing vague dreams. It’s about achieving real things, setting concrete goals, and seeing them through. Over time, I’ve realized that happiness and productivity are closely linked. When I’m working towards something meaningful, I feel alive. When I’m not, life starts to lose its color.
 
@@ -27,8 +26,7 @@ But having a vision is just the start. You need to ask yourself: When do I want 
 
 Sometimes, what once made you happy stops working. Maybe you loved waking up early to jog, but now winter makes it less appealing. Or you used to enjoy running your cake shop, but now it feels like a burden. That’s when you need to pivot. Don’t be afraid to change direction. If your current path no longer brings you joy, it’s time to find a new one.
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwbGVzc29ucyUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2NTYwNTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness by Doing What Matters Most")
-*How to Find Real Happiness by Doing What Matters Most - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwbGVzc29ucyUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2NTYwNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Real Happiness by Doing What Matters Most" caption="How to Find Real Happiness by Doing What Matters Most - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 It’s important to measure your happiness honestly. If you notice that your old routines or goals don’t excite you anymore, give yourself permission to try something else. Maybe now you’d rather enjoy a hot chocolate in the morning or take up writing. I often write in my living room or in a shared space in my building. Sometimes, I use my phone to jot down ideas during a flight. These small habits help me stay inspired and productive.
 
@@ -50,8 +48,7 @@ It’s the same when you’re stuck in traffic on the way to a vacation. Instead
 > _The only way to make sense out of change is to plunge into it, move with it, and join the dance._
 > — Alan Watts
 
-![Photo by Maria Oswalt](https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwbGVzc29ucyUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2NTYwNTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness by Doing What Matters Most")
-*How to Find Real Happiness by Doing What Matters Most - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)*
+{{< figure src="https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwbGVzc29ucyUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2NTYwNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow life printed balloon" title="How to Find Real Happiness by Doing What Matters Most" caption="How to Find Real Happiness by Doing What Matters Most - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)" >}}
 
 ## Knowing What Makes You Happy
 

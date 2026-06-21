@@ -12,8 +12,7 @@ original_title = "SECRETS d'une vie JOYEUSE 🤫"
 source_medium = "https://medium.com/@phenrysay/8c8ff8625212"
 +++
 
-![Those relaxing coffee dates](https://images.unsplash.com/photo-1533114987854-0c5ec9f61cb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqb3lmdWwlMjBsaXZpbmclMjBoYXBwaW5lc3MlMjB0aXBzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxMjc3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joyful Mornings Without a Perfect Plan")
-*How to Find Joyful Mornings Without a Perfect Plan - Photo by [Gabrielle Henderson](https://unsplash.com/@gabriellefaithhenderson) on [Unsplash](https://unsplash.com/photos/person-holding-cup-smiling-EgSMSreOWmU)*
+{{< figure src="https://images.unsplash.com/photo-1533114987854-0c5ec9f61cb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqb3lmdWwlMjBsaXZpbmclMjBoYXBwaW5lc3MlMjB0aXBzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxMjc3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Those relaxing coffee dates" title="How to Find Joyful Mornings Without a Perfect Plan" caption="How to Find Joyful Mornings Without a Perfect Plan - Photo by [Gabrielle Henderson](https://unsplash.com/@gabriellefaithhenderson) on [Unsplash](https://unsplash.com/photos/person-holding-cup-smiling-EgSMSreOWmU)" >}}
 
 Many of us wake up on weekends feeling a bit lost. There’s no real plan, so we get up later than usual, have breakfast, and then drift through the morning. We scroll online, do some random searches, maybe convince ourselves we’re being productive. But at the end of the day, nothing special gets done. We consume information that isn’t exactly useless, but it’s not really meaningful either. Weeks later, we barely remember what we read or watched. It’s a little sad, isn’t it?
 
@@ -25,8 +24,7 @@ There’s a famous saying:
 > *Living days without purpose is like sailing without a compass*  
 — Unknown
 
-![photo was taken in the Carpathian Mountains on a beautiful summer day](https://images.unsplash.com/photo-1515743083824-dbbe7f0022ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqb3lmdWwlMjBsaXZpbmclMjBoYXBwaW5lc3MlMjB0aXBzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxMjc3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joyful Mornings Without a Perfect Plan")
-*How to Find Joyful Mornings Without a Perfect Plan - Photo by [Anastasiia Tarasova](https://unsplash.com/@tarasovaanastasiia) on [Unsplash](https://unsplash.com/photos/woman-raising-hands-behind-mountain-covered-by-trees-cfRIm0U4SxQ)*
+{{< figure src="https://images.unsplash.com/photo-1515743083824-dbbe7f0022ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqb3lmdWwlMjBsaXZpbmclMjBoYXBwaW5lc3MlMjB0aXBzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxMjc3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="photo was taken in the Carpathian Mountains on a beautiful summer day" title="How to Find Joyful Mornings Without a Perfect Plan" caption="How to Find Joyful Mornings Without a Perfect Plan - Photo by [Anastasiia Tarasova](https://unsplash.com/@tarasovaanastasiia) on [Unsplash](https://unsplash.com/photos/woman-raising-hands-behind-mountain-covered-by-trees-cfRIm0U4SxQ)" >}}
 
 If you plan your day the night before, even just a few small tasks, your morning will have direction. After your shower, you’ll know exactly what to do next. You’ll have more energy because your day is already organized. This structure helps you avoid wasting time and lets you focus on what matters.
 
@@ -46,8 +44,7 @@ It’s not about being perfectly efficient every minute. It’s about making sur
 - Test new ideas in your daily life, even if they seem small.
 - Structure brings satisfaction and helps you avoid wasted days.
 
-![Was it too short? Or maybe you didn’t appreciate it enough while it was all around you? Well, the summer is sailing away and it won’t be back til next year… But there’s a beginning in an end. Enjoy the golden colors of this autumn! 🍂](https://images.unsplash.com/photo-1506704563811-e81bcede0640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqb3lmdWwlMjBsaXZpbmclMjBoYXBwaW5lc3MlMjB0aXBzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxMjc3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Joyful Mornings Without a Perfect Plan")
-*How to Find Joyful Mornings Without a Perfect Plan - Photo by [Konstantin Planinski](https://unsplash.com/@cosio) on [Unsplash](https://unsplash.com/photos/woman-jumping-under-tree-surrounded-with-dried-leaves-fOS2IMOzsDA)*
+{{< figure src="https://images.unsplash.com/photo-1506704563811-e81bcede0640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqb3lmdWwlMjBsaXZpbmclMjBoYXBwaW5lc3MlMjB0aXBzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxMjc3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman jumping under tree with dried leaves" title="How to Find Joyful Mornings Without a Perfect Plan" caption="How to Find Joyful Mornings Without a Perfect Plan - Photo by [Konstantin Planinski](https://unsplash.com/@cosio) on [Unsplash](https://unsplash.com/photos/woman-jumping-under-tree-surrounded-with-dried-leaves-fOS2IMOzsDA)" >}}
 
 ## Action Steps
 

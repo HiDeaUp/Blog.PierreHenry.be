@@ -12,8 +12,7 @@ original_title = "S'enrichir dans sa vie / Le meilleur investissement à faire d
 source_medium = "https://medium.com/@phenrysay/62965ed94fd2"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQyMzA3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Rich Without Chasing More Money")
-*How to Get Rich Without Chasing More Money - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQyMzA3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Get Rich Without Chasing More Money" caption="How to Get Rich Without Chasing More Money - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 When we talk about getting rich, most people immediately think of making more money. But let’s look at it differently: what if the best way to become truly wealthy is to invest in yourself first? Investing in your skills, your experiences, your health, and your personal growth can bring you far more in the long run than just chasing after a bigger paycheck.
 
@@ -29,8 +28,7 @@ Right now, I’m sitting by the beautiful Bay Elisabeth. The weather changes qui
 
 ## The Importance of Doing Nothing
 
-![Life in a small pot](https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQyMzA3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Rich Without Chasing More Money")
-*How to Get Rich Without Chasing More Money - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)*
+{{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQyMzA3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Get Rich Without Chasing More Money" caption="How to Get Rich Without Chasing More Money - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
 Taking time to do nothing is underrated. Just sit, admire your surroundings, and be present in the moment. These pauses can change everything. They help you clear your mind, recharge, and see things from a new perspective.
 
@@ -52,8 +50,7 @@ Taking action is the most important step. It might be scary, but the best moment
 
 > *You are responsible for your own happiness. The answer is within you.*
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQyMzA3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Rich Without Chasing More Money")
-*How to Get Rich Without Chasing More Money - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQyMzA3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Get Rich Without Chasing More Money" caption="How to Get Rich Without Chasing More Money - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 ---
 

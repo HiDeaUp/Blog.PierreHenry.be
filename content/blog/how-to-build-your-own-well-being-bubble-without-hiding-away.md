@@ -12,8 +12,7 @@ original_title = "Bunker de bien-être : POURQUOI je me crée une BULLE de BONHE
 source_medium = "https://medium.com/@phenrysay/24a8fc41ed59"
 +++
 
-![Couple Clasping Hands](https://images.unsplash.com/photo-1584515933487-779824d29309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMTQwOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Own Well-Being Bubble Without Hiding Away")
-*How to Build Your Own Well-Being Bubble Without Hiding Away - Photo by [National Cancer Institute](https://unsplash.com/@nci) on [Unsplash](https://unsplash.com/photos/person-wearing-gold-wedding-band-BxXgTQEw1M4)*
+{{< figure src="https://images.unsplash.com/photo-1584515933487-779824d29309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMTQwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Couple Clasping Hands" title="How to Build Your Own Well-Being Bubble Without Hiding Away" caption="How to Build Your Own Well-Being Bubble Without Hiding Away - Photo by [National Cancer Institute](https://unsplash.com/@nci) on [Unsplash](https://unsplash.com/photos/person-wearing-gold-wedding-band-BxXgTQEw1M4)" >}}
 
 Imagine living inside a protective bubble—a space where you can truly thrive, grow, and feel safe. I call this my “well-being bunker.” It’s not about hiding from the world, but about giving yourself the right soil to grow, just like a healthy plant. Think about it: a seedling planted in rich, fertile soil will grow much faster and stronger than one stuck by the side of a polluted, concrete road. The same goes for us.
 
@@ -23,8 +22,7 @@ But when you put yourself in a place that lifts you up—where things are clean,
 
 Now, you might be thinking, “That’s easy for you to say, but I live in a tiny apartment. How am I supposed to have a beautiful life here?” The truth is, it starts in your mind. Your surroundings matter, but your attitude matters even more. Living in a small space isn’t an excuse. You can make your home beautiful, no matter where you are.
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMTQwOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Own Well-Being Bubble Without Hiding Away")
-*How to Build Your Own Well-Being Bubble Without Hiding Away - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMTQwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Build Your Own Well-Being Bubble Without Hiding Away" caption="How to Build Your Own Well-Being Bubble Without Hiding Away - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Start by looking at all the things you’ve collected. Chances are, you have a lot of stuff you haven’t used in months. Here’s a simple trick: put everything you haven’t used today into plastic bins, label them with today’s date, and set them aside. In three to six months, check those bins again. If you haven’t needed anything inside, it’s time to let it go—donate, sell, or throw it away. This is the first step to clearing out the clutter.
 
@@ -42,8 +40,7 @@ Add some plants to your home. They don’t cost much—at IKEA, you can get a pl
 
 Building your own well-being bunker isn’t about luxury or big spaces. It’s about small, daily choices that add up to a life where you feel good, safe, and ready to grow.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMTQwOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Own Well-Being Bubble Without Hiding Away")
-*How to Build Your Own Well-Being Bubble Without Hiding Away - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMTQwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Build Your Own Well-Being Bubble Without Hiding Away" caption="How to Build Your Own Well-Being Bubble Without Hiding Away - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 ---
 

@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/7dc1af9f2cf5"
 source_youtube = "https://www.youtube.com/watch?v=pfyIwN9rmM4"
 +++
 
-![AI – Artificial Intelligence – digital binary algorithm – Human vs. machine](https://images.unsplash.com/photo-1646583288948-24548aedffd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY29tZm9ydCUyMHpvbmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzY4MjIyMjA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Fast or Get Left Behind by AI")
-*How to Grow Fast or Get Left Behind by AI - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/the-word-ai-spelled-in-white-letters-on-a-black-surface-ViC0envGdTU)*
+{{< figure src="https://images.unsplash.com/photo-1646583288948-24548aedffd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY29tZm9ydCUyMHpvbmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzY4MjIyMjA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="AI – Artificial Intelligence – digital binary algorithm – Human vs. machine" title="How to Grow Fast or Get Left Behind by AI" caption="How to Grow Fast or Get Left Behind by AI - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/the-word-ai-spelled-in-white-letters-on-a-black-surface-ViC0envGdTU)" >}}
 
 Most people want to go far in life, maybe even further than they ever imagined. But there are moments when you have to leave your comfort zone, that little bubble you love so much. Here’s the thing: only those who are a bit out of touch with reality believe they can get something new, hope for a different life, while doing exactly what they’ve always done. If you keep repeating the same routines, you can’t expect anything to change. If you don’t change your habits, your routines, you’ll simply keep living the same life you’ve always had.
 
@@ -30,8 +29,7 @@ When you make new decisions, when you ask yourself, “What’s the next decisio
 
 Don’t hesitate to add new habits to your daily life. Maybe you’ve never gone jogging in the morning—why not try it? You don’t know if it’s good for you until you try. Sometimes, we close doors to opportunities because we say, “That’s not for me.” But maybe it is. Trying a new habit isn’t twisting yourself into someone else; it’s just giving something a shot. If it doesn’t fit, don’t force it, but at least you tried.
 
-![artificial intelligence is on it’s way](https://images.unsplash.com/photo-1526378722484-bd91ca387e72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY29tZm9ydCUyMHpvbmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzY4MjIyMjA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Fast or Get Left Behind by AI")
-*How to Grow Fast or Get Left Behind by AI - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/person-holding-green-paper-t1PaIbMTJIM)*
+{{< figure src="https://images.unsplash.com/photo-1526378722484-bd91ca387e72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY29tZm9ydCUyMHpvbmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzY4MjIyMjA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="artificial intelligence is on it’s way" title="How to Grow Fast or Get Left Behind by AI" caption="How to Grow Fast or Get Left Behind by AI - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/person-holding-green-paper-t1PaIbMTJIM)" >}}
 
 Here’s a trick I used to motivate myself: I’d go to bed wearing my jogging clothes. That way, when I woke up, I was already dressed to run. Otherwise, I’d wake up, shower, and then think, “Not today, it’s too late, I’ll do something else instead.” But if you go to bed ready, you’re more likely to follow through. There’s nothing wrong with that. Sometimes, you have to make it as easy as possible for yourself to take action.
 
@@ -53,8 +51,7 @@ At first, I kept all this knowledge to myself, storing it in Google Drive and no
 
 ---
 
-![Photo by julien Tromeur](https://images.unsplash.com/photo-1666597107756-ef489e9f1f09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY29tZm9ydCUyMHpvbmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzY4MjIyMjA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Fast or Get Left Behind by AI")
-*How to Grow Fast or Get Left Behind by AI - Photo by [julien Tromeur](https://unsplash.com/@julientromeur) on [Unsplash](https://unsplash.com/photos/a-white-toy-with-a-black-nose-6UDansS-rPI)*
+{{< figure src="https://images.unsplash.com/photo-1666597107756-ef489e9f1f09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY29tZm9ydCUyMHpvbmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzY4MjIyMjA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A white toy with a black nose 6UDansS rPI" title="How to Grow Fast or Get Left Behind by AI" caption="How to Grow Fast or Get Left Behind by AI - Photo by [julien Tromeur](https://unsplash.com/@julientromeur) on [Unsplash](https://unsplash.com/photos/a-white-toy-with-a-black-nose-6UDansS-rPI)" >}}
 
 ## Key Takeaways
 

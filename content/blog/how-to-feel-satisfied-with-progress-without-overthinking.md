@@ -12,8 +12,7 @@ original_title = "Satisfaction facile. Ce que je fais et qui marche"
 source_medium = "https://medium.com/@phenrysay/19e87ebeafe9"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZyUyMGRlZXAlMjB3b3JrfGVufDB8MHx8fDE3NTU1NTUxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Satisfied With Progress Without Overthinking")
-*How to Feel Satisfied With Progress Without Overthinking - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZyUyMGRlZXAlMjB3b3JrfGVufDB8MHx8fDE3NTU1NTUxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Feel Satisfied With Progress Without Overthinking" caption="How to Feel Satisfied With Progress Without Overthinking - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Feeling satisfied with your progress is what truly matters. Too often, we get stuck in a rut, frustrated by our own stagnation. Instead of making the most of our days, we slip into a cycle of putting things off, always telling ourselves we’ll do it tomorrow. But life can be much simpler—if we want it to be.
 
@@ -23,8 +22,7 @@ When you optimize your progress, you naturally boost your satisfaction. Working 
 
 Everyone reacts differently to frustration. For some, it can spiral into negativity and pessimism, making it even harder to move forward. But there’s also a “good” kind of frustration—the kind that gives you a little jolt, a reminder to pick yourself up and try again. It’s a bit like stress: there’s the positive kind that energizes you, and the negative kind that paralyzes you. The goal is to channel the good frustration, using it as fuel to keep moving.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZyUyMGRlZXAlMjB3b3JrfGVufDB8MHx8fDE3NTU1NTUxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Satisfied With Progress Without Overthinking")
-*How to Feel Satisfied With Progress Without Overthinking - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZyUyMGRlZXAlMjB3b3JrfGVufDB8MHx8fDE3NTU1NTUxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Feel Satisfied With Progress Without Overthinking" caption="How to Feel Satisfied With Progress Without Overthinking - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Having a step-by-step plan for daily progress is essential. When you know what you’re going to do each day, and you make time for deep, focused work, you’ll see real progress. This not only helps you achieve your goals but also brings a sense of satisfaction that carries you through the day.
 
@@ -44,8 +42,7 @@ Remember, this approach isn’t for everyone. It requires you to take action and
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, work, rest, play, live, whole life, life balance, enjoy life, carpe diem, yolo, mindfulness, learn, enjoy, work life balance, embrace life, optimism, real life, books, reading, literature, bibliophile, study, learn, ](https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZyUyMGRlZXAlMjB3b3JrfGVufDB8MHx8fDE3NTU1NTUxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Satisfied With Progress Without Overthinking")
-*How to Feel Satisfied With Progress Without Overthinking - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)*
+{{< figure src="https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBnb2FsJTIwc2V0dGluZyUyMGRlZXAlMjB3b3JrfGVufDB8MHx8fDE3NTU1NTUxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile with words that spell out work rest play live" title="How to Feel Satisfied With Progress Without Overthinking" caption="How to Feel Satisfied With Progress Without Overthinking - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)" >}}
 
 - Satisfaction comes from making steady progress, not from waiting for big breakthroughs.
 - Break your goals into daily, concrete steps and focus deeply during set work sessions.

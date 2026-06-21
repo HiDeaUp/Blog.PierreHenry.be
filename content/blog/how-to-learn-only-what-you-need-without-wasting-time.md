@@ -12,8 +12,7 @@ original_title = "unknown"
 source_medium = "https://medium.com/@phenrysay/9dce635be63b"
 +++
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBkZXZlbG9wZXIlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODQwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Only What You Need Without Wasting Time")
-*How to Learn Only What You Need Without Wasting Time - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBkZXZlbG9wZXIlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="How to Learn Only What You Need Without Wasting Time" caption="How to Learn Only What You Need Without Wasting Time - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 Kicker:  
 How Just-in-Time Learning Makes You a Sharper Software Engineer
@@ -34,8 +33,7 @@ For example, say you suddenly need to create a data visualization with Tableau o
 
 Here’s another trick that works wonders: teach back what you’ve learned. Seriously, this is a game changer. When you teach something, you’re forced to reorganize the knowledge in your own words, clarify it, and break it down into key lessons. That process helps you really understand and remember it.
 
-![Photo by Nguyen Dang Hoang Nhu](https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBkZXZlbG9wZXIlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODQwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Only What You Need Without Wasting Time")
-*How to Learn Only What You Need Without Wasting Time - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)*
+{{< figure src="https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBkZXZlbG9wZXIlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy in blue t shirt sitting on black office rolling chair in front of F" title="How to Learn Only What You Need Without Wasting Time" caption="How to Learn Only What You Need Without Wasting Time - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)" >}}
 
 Let’s say you just finished a killer course on data science or AI, but then your work project shifts and you don’t need those skills right now. Don’t let that knowledge go to waste. Host a workshop at work if you can, or just record a video for yourself. You could even write a blog post on Dev.to, Substack, or Medium. The point is, teaching back reinforces what you’ve learned and helps you schematize the knowledge.
 
@@ -54,8 +52,7 @@ Don’t hesitate to use AI and modern tools to boost your career. If you practic
 > “Never learn for learning’s sake. Learn for doing’s sake.”  
 > — Me, after too many forgotten online courses
 
-![Photo by Christina @ wocintechchat.com](https://images.unsplash.com/photo-1573495611823-5397efa4fac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBkZXZlbG9wZXIlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODQwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Only What You Need Without Wasting Time")
-*How to Learn Only What You Need Without Wasting Time - Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-woman-using-laptop-computer-fch6vkbouCc)*
+{{< figure src="https://images.unsplash.com/photo-1573495611823-5397efa4fac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBkZXZlbG9wZXIlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Shallow focus photo of woman using laptop" title="How to Learn Only What You Need Without Wasting Time" caption="How to Learn Only What You Need Without Wasting Time - Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-woman-using-laptop-computer-fch6vkbouCc)" >}}
 
 ---
 

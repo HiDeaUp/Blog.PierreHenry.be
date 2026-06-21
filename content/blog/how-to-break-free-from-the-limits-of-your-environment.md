@@ -12,8 +12,7 @@ original_title = "Force de son environnement ⚡️"
 source_medium = "https://medium.com/@phenrysay/9956b7fb12d1"
 +++
 
-![Photo by Andrea Sánchez](https://images.unsplash.com/photo-1622227876140-d848d750ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE0ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Free From the Limits of Your Environment")
-*How to Break Free From the Limits of Your Environment - Photo by [Andrea Sánchez](https://unsplash.com/@andyspidey) on [Unsplash](https://unsplash.com/photos/green-leaf-on-persons-face-1Z9kF1QesXI)*
+{{< figure src="https://images.unsplash.com/photo-1622227876140-d848d750ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE0ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leaf on persons face" title="How to Break Free From the Limits of Your Environment" caption="How to Break Free From the Limits of Your Environment - Photo by [Andrea Sánchez](https://unsplash.com/@andyspidey) on [Unsplash](https://unsplash.com/photos/green-leaf-on-persons-face-1Z9kF1QesXI)" >}}
 
 Have you ever noticed how your environment quietly shapes your beliefs about what is possible? Many people unconsciously set boundaries for themselves, thinking, “I’ll never be able to do that,” simply because they identify with the average of those around them. If you spend your days surrounded by people who don’t aim high, it’s easy to believe that their limits are your own. The truth is, the only real limit is the one you set for yourself.
 
@@ -24,8 +23,7 @@ This time, my hermit weekend is just a single day, from 3 PM Saturday to 3 PM Su
 > *The only limit to our realization of tomorrow will be our doubts of today.*
 > — Franklin D. Roosevelt
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE0ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Free From the Limits of Your Environment")
-*How to Break Free From the Limits of Your Environment - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE0ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Break Free From the Limits of Your Environment" caption="How to Break Free From the Limits of Your Environment - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 When you step into a new environment, you give yourself permission to dream bigger. I love taking notes in a beautiful notebook, brainstorming ideas, and letting my mind wander. Sometimes, a simple change—like a different view, a new bathtub, or even a quiet moment in a hotel room—can spark new ideas and help you break free from old patterns.
 
@@ -42,8 +40,7 @@ So, give yourself permission to grow. Change your environment, even for a short 
 
 ## Key Takeaways
 
-![Isolated young tree with root plant](https://images.unsplash.com/photo-1590241884933-0b9913523bd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE0ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Free From the Limits of Your Environment")
-*How to Break Free From the Limits of Your Environment - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/green-palm-tree-on-brown-rock-in-the-middle-of-the-sea-7yb4N-1fM1k)*
+{{< figure src="https://images.unsplash.com/photo-1590241884933-0b9913523bd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE0ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Isolated young tree with root plant" title="How to Break Free From the Limits of Your Environment" caption="How to Break Free From the Limits of Your Environment - Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/green-palm-tree-on-brown-rock-in-the-middle-of-the-sea-7yb4N-1fM1k)" >}}
 
 - *Your environment shapes your beliefs about what’s possible.*
 - *The only real limits are the ones you set for yourself.*

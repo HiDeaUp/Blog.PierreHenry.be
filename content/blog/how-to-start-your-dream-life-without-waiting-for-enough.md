@@ -12,8 +12,7 @@ original_title = "Réaliser ses rêves 💡"
 source_medium = "https://medium.com/@phenrysay/0727e1d37d1d"
 +++
 
-![A simple message to dream with shimmery purple and pink glitter bokeh.](https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MTExODg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Dream Life Without Waiting for “Enough”")
-*How to Start Your Dream Life Without Waiting for “Enough” - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)*
+{{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MTExODg5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Start Your Dream Life Without Waiting for “Enough”" caption="How to Start Your Dream Life Without Waiting for “Enough” - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 
 Many people believe they need to be rich or have plenty of money before they can start working on their dreams. This idea holds so many of us back. The truth is, waiting for the perfect time or the perfect amount of money is just another way to delay what really matters to us.
 
@@ -25,8 +24,7 @@ It’s a bit like people who say they’ll only retire when they have a certain 
 
 I’m not telling you to max out your credit card. But if you know you can pay something off over time, and you have a steady income, maybe it’s worth considering. The key is to find a way to start, even if it’s small. Maybe you need to cut some expenses, move somewhere cheaper, or use the internet at the library instead of at home. There’s always a smarter way to do things if you really want it.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1725402694495-7f133a62c4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MTExODg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Dream Life Without Waiting for “Enough”")
-*How to Start Your Dream Life Without Waiting for “Enough” - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-white-sign-with-black-writing-on-it-Pkm7Zq_cZ3M)*
+{{< figure src="https://images.unsplash.com/photo-1725402694495-7f133a62c4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MTExODg5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A white sign with black writing on it" title="How to Start Your Dream Life Without Waiting for “Enough”" caption="How to Start Your Dream Life Without Waiting for “Enough” - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-white-sign-with-black-writing-on-it-Pkm7Zq_cZ3M)" >}}
 
 Sometimes, we convince ourselves that something is impossible, but there’s always a solution if you look for it. Everything is possible if you’re willing to take the first step. Don’t wait for the stars to align. If you keep putting things off, there will always be another problem down the road. The perfect moment doesn’t exist—you have to create it.
 
@@ -44,8 +42,7 @@ The most important thing is to start. Don’t wait for the perfect conditions. B
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740560052826-9b4c4455e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MTExODg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Your Dream Life Without Waiting for “Enough”")
-*How to Start Your Dream Life Without Waiting for “Enough” - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-dream-on-a-table-cngqcgSc_r0)*
+{{< figure src="https://images.unsplash.com/photo-1740560052826-9b4c4455e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MTExODg5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A block dream on a table" title="How to Start Your Dream Life Without Waiting for “Enough”" caption="How to Start Your Dream Life Without Waiting for “Enough” - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-dream-on-a-table-cngqcgSc_r0)" >}}
 
 - *Don’t wait for the perfect moment or enough money—start now, even if it’s small.*
 - *There’s always a way to begin, even if it means doing things differently or making sacrifices.*

@@ -12,8 +12,7 @@ original_title = "Esprit Gagnant: Pourquoi devenir le pilier de ta journée ?"
 source_medium = "https://medium.com/@phenrysay/30088a1d67bc"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3aW5uaW5nJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLW1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU3ODEzMnww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Winning Mindset or Stay Stuck in Excuses")
-*Adopt a Winning Mindset or Stay Stuck in Excuses - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3aW5uaW5nJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLW1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU3ODEzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="Adopt a Winning Mindset or Stay Stuck in Excuses" caption="Adopt a Winning Mindset or Stay Stuck in Excuses - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 What does it really mean to have a winning mindset? It’s not about never failing or pretending that life is always perfect. It’s about telling yourself, “I succeed in everything I do. I don’t fail at anything.” This isn’t arrogance—it’s a way of seeing things that puts you in the driver’s seat of your own life.
 
@@ -23,8 +22,7 @@ When you stop shifting blame onto others, you take back control. You’re no lon
 
 Starting each morning with this mindset—telling yourself, “Today, I will succeed in everything I do. Today will be an incredible, gigantic, amazing day. I’m at the top of my game”—gives you the spark to act. You move forward, always asking, “What’s next?” You look for the next step, the next action, because you know you have what it takes to succeed. You have the chromosomes of success, and you make it happen.
 
-![Photo by Guillaume de Germain](https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3aW5uaW5nJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLW1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU3ODEzMnww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Winning Mindset or Stay Stuck in Excuses")
-*Adopt a Winning Mindset or Stay Stuck in Excuses - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)*
+{{< figure src="https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3aW5uaW5nJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLW1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU3ODEzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man under orange sky" title="Adopt a Winning Mindset or Stay Stuck in Excuses" caption="Adopt a Winning Mindset or Stay Stuck in Excuses - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)" >}}
 
 > _“The moment you take responsibility for everything in your life is the moment you can change anything in your life.”_
 — Hal Elrod
@@ -44,8 +42,7 @@ Starting each morning with this mindset—telling yourself, “Today, I will suc
 
 ## Action Steps
 
-![Reach out to the world](https://images.unsplash.com/photo-1497561813398-8fcc7a37b567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3aW5uaW5nJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLW1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU3ODEzMnww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Winning Mindset or Stay Stuck in Excuses")
-*Adopt a Winning Mindset or Stay Stuck in Excuses - Photo by [Benjamin Davies](https://unsplash.com/@bendavisual) on [Unsplash](https://unsplash.com/photos/silhouette-of-man-standing-on-high-ground-under-red-and-blue-skies-FiZTaNTj2Ak)*
+{{< figure src="https://images.unsplash.com/photo-1497561813398-8fcc7a37b567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3aW5uaW5nJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLW1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU3ODEzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Reach out to the world" title="Adopt a Winning Mindset or Stay Stuck in Excuses" caption="Adopt a Winning Mindset or Stay Stuck in Excuses - Photo by [Benjamin Davies](https://unsplash.com/@bendavisual) on [Unsplash](https://unsplash.com/photos/silhouette-of-man-standing-on-high-ground-under-red-and-blue-skies-FiZTaNTj2Ak)" >}}
 
 - Each morning, remind yourself: “I am responsible for my day.”
 - When faced with a setback, ask: “What can I do differently next time?”

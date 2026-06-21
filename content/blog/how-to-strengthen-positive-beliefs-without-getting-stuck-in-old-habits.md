@@ -12,8 +12,7 @@ original_title = "Comment renforcer ses croyances positives ?"
 source_medium = "https://medium.com/@phenrysay/b476f531c44e"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGJlbGllZnMlMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEzOTc0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits")
-*How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMGJlbGllZnMlMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEzOTc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits" caption="How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Have you ever noticed how the beliefs you hold shape your progress? Sometimes, all it takes to move forward is to “feed” yourself with ideas and beliefs that help you grow. If your mindset isn’t right, if your way of thinking is stuck in old habits from your upbringing or past experiences, it can become a real burden. This weight slows you down, holding you back from your goals, your projects, your business, or anything else you want to create.
 
@@ -23,8 +22,7 @@ It’s easy to fall into the trap of seeing yourself as a victim, blaming others
 
 Imagine yourself on the other side of the field, already having achieved your goals. When you start to see yourself this way, everything becomes easier. Your posture, your attitude, and your actions begin to match that of someone who has already made it. This mental conditioning is crucial. By changing your thoughts and your mental habits, you set yourself up for success.
 
-![If you like my work, please support me: paypal.me/viktorforgacs](https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGJlbGllZnMlMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEzOTc0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits")
-*How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)*
+{{< figure src="https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMGJlbGllZnMlMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEzOTc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="If you like my work, please support me: paypal.me/viktorforgacs" title="How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits" caption="How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)" >}}
 
 What I encourage you to do is to work on your conditioning every day. Take action, even small steps, that move you closer to your next milestone. Each day, do something that projects you forward, helping you build the life you want.
 
@@ -40,8 +38,7 @@ Remember, life is made up of many beautiful days. If you spend ten hours a day j
 
 ## Key Takeaways
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGJlbGllZnMlMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEzOTc0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits")
-*How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMGJlbGllZnMlMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEzOTc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits" caption="How to Strengthen Positive Beliefs Without Getting Stuck in Old Habits - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 - *Replace limiting beliefs with positive ones that support your growth.*
 - *Visualize yourself as already successful to change your mindset and actions.*

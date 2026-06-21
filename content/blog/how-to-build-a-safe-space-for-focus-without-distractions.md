@@ -12,8 +12,7 @@ original_title = "En mode “Safe Space”"
 source_medium = "https://medium.com/@phenrysay/1399e94a1fbd"
 +++
 
-![We all need space](https://images.unsplash.com/photo-1683818834458-a6e603abd8b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzYWZlJTIwc3BhY2UlMjB3ZWxsLWJlaW5nJTIwZGVlcCUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MjQ4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Safe Space for Focus Without Distractions")
-*How to Build a Safe Space for Focus Without Distractions - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-we-all-need-space-Z7r24zqatJY)*
+{{< figure src="https://images.unsplash.com/photo-1683818834458-a6e603abd8b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzYWZlJTIwc3BhY2UlMjB3ZWxsLWJlaW5nJTIwZGVlcCUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MjQ4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="We all need space" title="How to Build a Safe Space for Focus Without Distractions" caption="How to Build a Safe Space for Focus Without Distractions - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-we-all-need-space-Z7r24zqatJY)" >}}
 
 Have you ever wished for a place where you could be completely with yourself, free from interruptions and distractions? That’s what I call a “CFP” or a “Safe Space.” It’s not just a physical spot in your home or apartment, but a mindset and a set of rules you create to protect your focus and peace.
 
@@ -23,8 +22,7 @@ Another trick is to use white noise. These sounds help you stay on task and make
 
 It’s important to remember that every time you get distracted, it usually takes about 17 to 18 minutes to get back into a deep state of work. That’s why protecting your Safe Space is so important. It’s your personal zone where no one can interrupt you, and you can truly focus or recharge.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzYWZlJTIwc3BhY2UlMjB3ZWxsLWJlaW5nJTIwZGVlcCUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MjQ4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Safe Space for Focus Without Distractions")
-*How to Build a Safe Space for Focus Without Distractions - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzYWZlJTIwc3BhY2UlMjB3ZWxsLWJlaW5nJTIwZGVlcCUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MjQ4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build a Safe Space for Focus Without Distractions" caption="How to Build a Safe Space for Focus Without Distractions - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Some companies have even started using small lights in open offices. If the light is red, it means the person is in deep work mode and shouldn’t be disturbed. You can do something similar at home. Use an app like Forest, which I really like. You set a timer for, say, 90 minutes of deep work. If you pick up your phone or get distracted, you “kill” a virtual tree. It’s a fun way to gamify your focus. There are other similar apps, some free, that work just as well. Many of them also offer white noise to help you stay in the zone.
 
@@ -40,8 +38,7 @@ Creating a Safe Space is about more than just productivity. It’s about giving 
 
 ## Key Takeaways
 
-![Photo by Fausto García-Menéndez](https://images.unsplash.com/photo-1598958894659-396440cb910c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzYWZlJTIwc3BhY2UlMjB3ZWxsLWJlaW5nJTIwZGVlcCUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MjQ4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Safe Space for Focus Without Distractions")
-*How to Build a Safe Space for Focus Without Distractions - Photo by [Fausto García-Menéndez](https://unsplash.com/@faustogarmen) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-sitting-on-rock-during-night-time-6p_jg_Ayldo)*
+{{< figure src="https://images.unsplash.com/photo-1598958894659-396440cb910c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzYWZlJTIwc3BhY2UlMjB3ZWxsLWJlaW5nJTIwZGVlcCUyMGZvY3VzfGVufDB8MHx8fDE3NTY1MjQ4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top sitting on rock during night time" title="How to Build a Safe Space for Focus Without Distractions" caption="How to Build a Safe Space for Focus Without Distractions - Photo by [Fausto García-Menéndez](https://unsplash.com/@faustogarmen) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-sitting-on-rock-during-night-time-6p_jg_Ayldo)" >}}
 
 - *A Safe Space is a dedicated environment for focus or relaxation.*
 - *Use signs, headphones, or apps to signal you’re not to be disturbed.*

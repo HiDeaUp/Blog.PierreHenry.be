@@ -12,8 +12,7 @@ original_title = "Pourquoi investir en soi est la meilleure chose à faire de no
 source_medium = "https://medium.com/@phenrysay/368d9043f95d"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NTU1NzY3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Overwhelm")
-*How to Invest in Yourself Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NTU1NzY3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Invest in Yourself Without Overwhelm" caption="How to Invest in Yourself Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Investing in yourself is about more than just reading books or taking courses. It’s about building projects and creating things that matter to you. It’s about asking yourself: Who do I want to become? What is my goal for the next three, six, or twelve months? And, most importantly, what can I do every single day to move closer to that goal?
 
@@ -23,8 +22,7 @@ Morning is the best time for this. In the morning, your mind is clear. You’re 
 
 Think of it like brushing your teeth or getting dressed. You never say, “I don’t have time to brush my teeth today,” or “I don’t have time to get dressed.” You always find those few minutes, because it’s part of your routine. The same should go for working on yourself. Even if you only have ten minutes, that’s already seventy minutes after a week. Those small moments add up to something big.
 
-![Photo by Alex Brinkman](https://images.unsplash.com/photo-1603072027403-f2ff6525a7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NTU1NzY3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Overwhelm")
-*How to Invest in Yourself Without Overwhelm - Photo by [Alex Brinkman](https://unsplash.com/@alexbrinkman) on [Unsplash](https://unsplash.com/photos/text-E28uCGVS1Dk)*
+{{< figure src="https://images.unsplash.com/photo-1603072027403-f2ff6525a7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NTU1NzY3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Invest in Yourself Without Overwhelm" caption="How to Invest in Yourself Without Overwhelm - Photo by [Alex Brinkman](https://unsplash.com/@alexbrinkman) on [Unsplash](https://unsplash.com/photos/text-E28uCGVS1Dk)" >}}
 
 I like to show my own morning setup because I hope it inspires you. If I can inspire you, that’s already a win for me. Find something that motivates you, something that makes you want to get up and work on your dreams. Let your environment inspire you. That’s priceless.
 
@@ -40,8 +38,7 @@ Perseverance is a huge advantage. If you’re reading this, you’re already awa
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
 > — Robert Collier
 
-![Life in a small pot](https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NTU1NzY3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Overwhelm")
-*How to Invest in Yourself Without Overwhelm - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)*
+{{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NTU1NzY3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Invest in Yourself Without Overwhelm" caption="How to Invest in Yourself Without Overwhelm - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
 ---
 

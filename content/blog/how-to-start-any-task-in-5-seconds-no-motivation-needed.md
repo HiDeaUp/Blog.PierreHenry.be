@@ -12,8 +12,7 @@ original_title = "LE TIMER PEUT TRIPLER TA PRODUCTIVITÉ (JE T'EXPLIQUE COMMENT 
 source_medium = "https://medium.com/@phenrysay/9213c80eb20b"
 +++
 
-![Crédit photo: https://www.instagram.com/hugogogadjeto/](https://images.unsplash.com/photo-1615309878310-8f9ebcc5049b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lciUyMHRlY2huaXF1ZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQyMDMyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Any Task in 5 Seconds (No Motivation Needed)")
-*How to Start Any Task in 5 Seconds (No Motivation Needed) - Photo by [Nemesia Production](https://unsplash.com/@nemesiaproduction) on [Unsplash](https://unsplash.com/photos/silver-and-white-analog-alarm-clock-rWHT9O7DCpQ)*
+{{< figure src="https://images.unsplash.com/photo-1615309878310-8f9ebcc5049b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lciUyMHRlY2huaXF1ZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQyMDMyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Crédit photo: https://www.instagram.com/hugogogadjeto/" title="How to Start Any Task in 5 Seconds (No Motivation Needed)" caption="How to Start Any Task in 5 Seconds (No Motivation Needed) - Photo by [Nemesia Production](https://unsplash.com/@nemesiaproduction) on [Unsplash](https://unsplash.com/photos/silver-and-white-analog-alarm-clock-rWHT9O7DCpQ)" >}}
 
 There’s a tiny principle I use all the time to boost my productivity, and it’s so simple you might laugh: the timer trick. Whenever I need to start a task—especially one I’m not excited about, or when I haven’t yet made it easy to begin—I use a countdown. Five seconds. That’s it.
 
@@ -23,8 +22,7 @@ Sometimes, I even use a five-minute timer to get out of bed. I tell myself, “Y
 
 You can use this for anything: five minutes to wake up, five minutes to start studying, five minutes to get ready for a deep work session. For example, I’m finishing a master’s degree in Data Science at James Cook University in Queensland, and I use this trick all the time. I set a timer—sometimes just for a few seconds, sometimes for a few minutes—because it’s easier to get started when you know there’s a clear beginning and end.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lciUyMHRlY2huaXF1ZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQyMDMyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Any Task in 5 Seconds (No Motivation Needed)")
-*How to Start Any Task in 5 Seconds (No Motivation Needed) - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lciUyMHRlY2huaXF1ZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQyMDMyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Start Any Task in 5 Seconds (No Motivation Needed)" caption="How to Start Any Task in 5 Seconds (No Motivation Needed) - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 You don’t need any fancy tools. I often use Siri, or just type “timer” on my phone. The important thing is to have your timer ready and easy to access. I even move the clock app to the bottom of my phone screen so it’s always right there. If there’s too much friction—if it’s hard to find your timer or set it up—you’re less likely to use it, and then you’ll probably skip your new habit. So, make it easy: put your timer app where you can reach it in one tap.
 
@@ -40,8 +38,7 @@ Discipline equals freedom. When you set clear boundaries and use simple tools li
 
 I use this principle not only to get things done but also to reinforce what I learn. Teaching and sharing these ideas helps me clarify and strengthen them in my own mind. It’s like building a second brain—a place to store and organize useful information.
 
-![Plan your routines](https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lciUyMHRlY2huaXF1ZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQyMDMyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Any Task in 5 Seconds (No Motivation Needed)")
-*How to Start Any Task in 5 Seconds (No Motivation Needed) - Photo by [Boitumelo](https://unsplash.com/@writecodenow) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-Ed2fRK5ify4)*
+{{< figure src="https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lciUyMHRlY2huaXF1ZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQyMDMyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Plan your routines" title="How to Start Any Task in 5 Seconds (No Motivation Needed)" caption="How to Start Any Task in 5 Seconds (No Motivation Needed) - Photo by [Boitumelo](https://unsplash.com/@writecodenow) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-Ed2fRK5ify4)" >}}
 
 Remember, time is like a train that never stops. The best moment to act is always now. So, go for it. Try the five-second (or five-minute) timer trick and see how much more you can accomplish.
 

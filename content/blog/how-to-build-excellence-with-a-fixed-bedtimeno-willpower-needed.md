@@ -12,8 +12,7 @@ original_title = "L'ART DE LA DISCIPLINE : COMMENT VOTRE ROUTINE QUOTIDIENNE PEU
 source_medium = "https://medium.com/@phenrysay/774ed9d4b938"
 +++
 
-![Messy bed and closed blinds](https://images.unsplash.com/photo-1429117237875-aa29229d99f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaXNjaXBsaW5lJTIwZGFpbHklMjByb3V0aW5lJTIwc2xlZXAlMjBoYWJpdHN8ZW58MHwwfHx8MTc0OTM1MzYyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Excellence With a Fixed Bedtime—No Willpower Needed")
-*How to Build Excellence With a Fixed Bedtime—No Willpower Needed - Photo by [Quin Stevenson](https://unsplash.com/@qstevenson) on [Unsplash](https://unsplash.com/photos/empty-white-and-gray-bed-set-3oyeaivM_fE)*
+{{< figure src="https://images.unsplash.com/photo-1429117237875-aa29229d99f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaXNjaXBsaW5lJTIwZGFpbHklMjByb3V0aW5lJTIwc2xlZXAlMjBoYWJpdHN8ZW58MHwwfHx8MTc0OTM1MzYyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Messy bed and closed blinds" title="How to Build Excellence With a Fixed Bedtime—No Willpower Needed" caption="How to Build Excellence With a Fixed Bedtime—No Willpower Needed - Photo by [Quin Stevenson](https://unsplash.com/@qstevenson) on [Unsplash](https://unsplash.com/photos/empty-white-and-gray-bed-set-3oyeaivM_fE)" >}}
 
 When it comes to routines, most people think about productivity hacks or morning rituals. But there’s one habit that quietly shapes your life more than any other: going to bed and waking up at the same time every day. Yes, even on weekends. Especially on weekends.
 
@@ -31,8 +30,7 @@ Here’s the thing: if you allow yourself one exception—just one morning to sl
 
 Your body’s internal clock, your biological rhythm, relies on consistency. If you disrupt it, even for a weekend, you’ll feel it on Monday morning. That’s why going back to work after a weekend or a long vacation feels so tough. The longer the break, the harder it is to return to your old rhythm.
 
-![On a very cold, gloomy weekend, after receiving some distressing news… this face.](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaXNjaXBsaW5lJTIwZGFpbHklMjByb3V0aW5lJTIwc2xlZXAlMjBoYWJpdHN8ZW58MHwwfHx8MTc0OTM1MzYyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Excellence With a Fixed Bedtime—No Willpower Needed")
-*How to Build Excellence With a Fixed Bedtime—No Willpower Needed - Photo by [Kate Stone Matheson](https://unsplash.com/@dreadpiratekato) on [Unsplash](https://unsplash.com/photos/white-cat-sleeps-under-white-comforter-uy5t-CJuIK4)*
+{{< figure src="https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaXNjaXBsaW5lJTIwZGFpbHklMjByb3V0aW5lJTIwc2xlZXAlMjBoYWJpdHN8ZW58MHwwfHx8MTc0OTM1MzYyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="On a very cold, gloomy weekend, after receiving some distressing news… this face." title="How to Build Excellence With a Fixed Bedtime—No Willpower Needed" caption="How to Build Excellence With a Fixed Bedtime—No Willpower Needed - Photo by [Kate Stone Matheson](https://unsplash.com/@dreadpiratekato) on [Unsplash](https://unsplash.com/photos/white-cat-sleeps-under-white-comforter-uy5t-CJuIK4)" >}}
 
 > *“Discipline is the bridge between goals and accomplishment.”*  
 > —Jim Rohn
@@ -56,8 +54,7 @@ Keeping a steady routine protects you from more than just groggy mornings. It he
 
 So, stick to your routine. It’s a simple rule, but it makes a huge difference.
 
-![Get Some Sleep](https://images.unsplash.com/photo-1488015795646-7e22a773d72a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaXNjaXBsaW5lJTIwZGFpbHklMjByb3V0aW5lJTIwc2xlZXAlMjBoYWJpdHN8ZW58MHwwfHx8MTc0OTM1MzYyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Excellence With a Fixed Bedtime—No Willpower Needed")
-*How to Build Excellence With a Fixed Bedtime—No Willpower Needed - Photo by [Sabri Tuzcu](https://unsplash.com/@sabrituzcu) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-brown-tabby-kitten-on-couch-KHBvwAnWFmc)*
+{{< figure src="https://images.unsplash.com/photo-1488015795646-7e22a773d72a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaXNjaXBsaW5lJTIwZGFpbHklMjByb3V0aW5lJTIwc2xlZXAlMjBoYWJpdHN8ZW58MHwwfHx8MTc0OTM1MzYyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Get Some Sleep" title="How to Build Excellence With a Fixed Bedtime—No Willpower Needed" caption="How to Build Excellence With a Fixed Bedtime—No Willpower Needed - Photo by [Sabri Tuzcu](https://unsplash.com/@sabrituzcu) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-brown-tabby-kitten-on-couch-KHBvwAnWFmc)" >}}
 
 ---
 

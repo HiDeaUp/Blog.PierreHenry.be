@@ -12,8 +12,7 @@ original_title = "Ce que tu DOIS SAVOIR sur l'apaisement"
 source_medium = "https://medium.com/@phenrysay/5895e2353aad"
 +++
 
-![Photo by Alexey Demidov](https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYWxtJTIwbWluZGZ1bG5lc3MlMjBsZXR0aW5nJTIwZ298ZW58MHwwfHx8MTc1NjEwODM2M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Forcing Yourself to Relax")
-*How to Find Calm Without Forcing Yourself to Relax - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)*
+{{< figure src="https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjYWxtJTIwbWluZGZ1bG5lc3MlMjBsZXR0aW5nJTIwZ298ZW58MHwwfHx8MTc1NjEwODM2M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a dock looking at a lake" title="How to Find Calm Without Forcing Yourself to Relax" caption="How to Find Calm Without Forcing Yourself to Relax - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)" >}}
 
 Finding calm is not just about feeling good. It is about being able to think clearly, make better decisions, and truly experience life as it happens. Stress comes at us from all sides—work, noise, money, even a tense conversation with someone. When stress builds up, it clouds your mind. It is like your brain freezes, and suddenly, you cannot think straight.
 
@@ -23,8 +22,7 @@ When you are relaxed, your thoughts become clear. You find solutions faster. You
 
 One simple trick is to write down anything important you need to remember. I use an app called Things 3, but there are plenty of others like Google Tasks or Apple Reminders. The point is to get those thoughts out of your head and into a safe place. That way, you can focus on what is happening right now.
 
-![Photo by Frederick Adegoke Snr.](https://images.unsplash.com/photo-1676753900379-8b05048608da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYWxtJTIwbWluZGZ1bG5lc3MlMjBsZXR0aW5nJTIwZ298ZW58MHwwfHx8MTc1NjEwODM2M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Forcing Yourself to Relax")
-*How to Find Calm Without Forcing Yourself to Relax - Photo by [Frederick Adegoke Snr.](https://unsplash.com/@thelionicscreative) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-rock-near-the-ocean-qoA_UAueEW0)*
+{{< figure src="https://images.unsplash.com/photo-1676753900379-8b05048608da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYWxtJTIwbWluZGZ1bG5lc3MlMjBsZXR0aW5nJTIwZ298ZW58MHwwfHx8MTc1NjEwODM2M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a rock near the ocean" title="How to Find Calm Without Forcing Yourself to Relax" caption="How to Find Calm Without Forcing Yourself to Relax - Photo by [Frederick Adegoke Snr.](https://unsplash.com/@thelionicscreative) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-rock-near-the-ocean-qoA_UAueEW0)" >}}
 
 Letting go is about saying goodbye to everything else and being here, now. If you are holding a speck of dust and your hands are shaking, it is probably because you are stressed and distracted. You lose focus on what you were doing. Sometimes, the best thing you can do is drop everything else and just be present.
 
@@ -40,8 +38,7 @@ So, your exercise for today is to create little moments where you disconnect fro
 > _“You cannot stop the waves, but you can learn to surf.”_  
 — Jon Kabat-Zinn
 
-![guy sits cross-legged on the beach and meditates, the wide sea in the background](https://images.unsplash.com/photo-1630406866478-a2fca6070d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYWxtJTIwbWluZGZ1bG5lc3MlMjBsZXR0aW5nJTIwZ298ZW58MHwwfHx8MTc1NjEwODM2M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Forcing Yourself to Relax")
-*How to Find Calm Without Forcing Yourself to Relax - Photo by [Benjamin Wedemeyer](https://unsplash.com/@benjaminwedemeyer) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-beach-during-sunset-NBYz3bQVMIo)*
+{{< figure src="https://images.unsplash.com/photo-1630406866478-a2fca6070d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYWxtJTIwbWluZGZ1bG5lc3MlMjBsZXR0aW5nJTIwZ298ZW58MHwwfHx8MTc1NjEwODM2M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="guy sits cross-legged on the beach and meditates, the wide sea in the background" title="How to Find Calm Without Forcing Yourself to Relax" caption="How to Find Calm Without Forcing Yourself to Relax - Photo by [Benjamin Wedemeyer](https://unsplash.com/@benjaminwedemeyer) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-beach-during-sunset-NBYz3bQVMIo)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Comment soulager les charges mentales ?"
 source_medium = "https://medium.com/@phenrysay/11ddfe28ec7f"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653213096268-d232d07c4f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwcmVsaWVmJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU1Nzc1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Relieve Mental Overload Without Sacrificing Your Peace")
-*How to Relieve Mental Overload Without Sacrificing Your Peace - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-rwrlre7Rz14)*
+{{< figure src="https://images.unsplash.com/photo-1653213096268-d232d07c4f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwcmVsaWVmJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU1Nzc1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A on a table" title="How to Relieve Mental Overload Without Sacrificing Your Peace" caption="How to Relieve Mental Overload Without Sacrificing Your Peace - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-rwrlre7Rz14)" >}}
 
 Do you ever feel like stress is always there, lurking in the background? Notifications keep popping up, messages demand your attention, and there’s always something else to do. The list of obligations never seems to end. You get home, glance at the clock, and realize it’s already late—you haven’t even had a moment for yourself. It’s easy to wonder: what’s the point? Is this really the life you want?
 
@@ -27,8 +26,7 @@ You don’t have to go to the same extremes, but the principle is the same. Take
 
 When you’re just surviving each day, you’ll never have the energy or motivation to make your life better. It’s a vicious cycle: less motivation leads to less energy, which leads to worse organization, which makes everything feel like a burden. But if you start seeing every part of your life as an opportunity, things shift. For example, if you never have time for yourself, maybe it’s time to hire a cleaner or a babysitter. Yes, it costs money, but if it buys you peace of mind and frees up your brain, it’s worth it.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, christian, jesus, mark, gospel, greatest commandment, heart, soul, mind, strength, love the lord, love god, ](https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwcmVsaWVmJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU1Nzc1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Relieve Mental Overload Without Sacrificing Your Peace")
-*How to Relieve Mental Overload Without Sacrificing Your Peace - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)*
+{{< figure src="https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwcmVsaWVmJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU1Nzc1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles the words heart soul mind and" title="How to Relieve Mental Overload Without Sacrificing Your Peace" caption="How to Relieve Mental Overload Without Sacrificing Your Peace - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)" >}}
 
 ## Setting Boundaries for Your Well-being
 
@@ -47,8 +45,7 @@ There are countless ways to lighten your mental load. I can’t cover them all h
 > *Happiness is not something ready made. It comes from your own actions.*  
 — Dalai Lama
 
-![Photo by Look Studio](https://images.unsplash.com/photo-1713865471942-9551458f612f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwcmVsaWVmJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU1Nzc1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Relieve Mental Overload Without Sacrificing Your Peace")
-*How to Relieve Mental Overload Without Sacrificing Your Peace - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-a-cup-of-coffee-3GOfXlhkpxQ)*
+{{< figure src="https://images.unsplash.com/photo-1713865471942-9551458f612f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwcmVsaWVmJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU1Nzc1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a couch with a cup of coffee" title="How to Relieve Mental Overload Without Sacrificing Your Peace" caption="How to Relieve Mental Overload Without Sacrificing Your Peace - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-a-cup-of-coffee-3GOfXlhkpxQ)" >}}
 
 > *The greatest weapon against stress is our ability to choose one thought over another.*  
 — William James

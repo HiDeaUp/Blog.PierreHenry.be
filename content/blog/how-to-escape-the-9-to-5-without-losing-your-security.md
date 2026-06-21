@@ -12,8 +12,7 @@ original_title = "COMMENT LE TRAVAIL 9-5 DÉTRUIT SILENCIEUSEMENT TON POTENTIEL"
 source_medium = "https://medium.com/@phenrysay/96723a773c8f"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHw5LXRvLTUlMjBqb2JzJTIwY2FyZWVyJTIwZGlzc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxOTY1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the 9-to-5 Without Losing Your Security")
-*How to Escape the 9-to-5 Without Losing Your Security - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHw5LXRvLTUlMjBqb2JzJTIwY2FyZWVyJTIwZGlzc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxOTY1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Escape the 9-to-5 Without Losing Your Security" caption="How to Escape the 9-to-5 Without Losing Your Security - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Many of us find ourselves stuck in a 9-to-5 routine, what some call a “food job.” It’s a job you do just to put food on the table. That’s the sad reality: you work not because you love it, but because you have to survive. Sometimes, you even move to another country for this job, trying to impress your manager because you feel you have no other choice. If you get fired, you lose everything. So you do your best, hoping to stay safe.
 
@@ -25,8 +24,7 @@ When you choose this path, you’re no longer dependent on your job. You can put
 
 And there’s another big difference: your income can grow. The more clients you have, the more you earn. In a “food job,” you might get a tiny raise once a year, but that’s it. Your life stays the same. Your days never really change.
 
-![Photo by Evgeny Makarenko](https://images.unsplash.com/photo-1563860429-8a9ee43167bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHw5LXRvLTUlMjBqb2JzJTIwY2FyZWVyJTIwZGlzc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxOTY1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the 9-to-5 Without Losing Your Security")
-*How to Escape the 9-to-5 Without Losing Your Security - Photo by [Evgeny Makarenko](https://unsplash.com/@outsider_boy) on [Unsplash](https://unsplash.com/photos/green-leaf-iItZQZAouVw)*
+{{< figure src="https://images.unsplash.com/photo-1563860429-8a9ee43167bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHw5LXRvLTUlMjBqb2JzJTIwY2FyZWVyJTIwZGlzc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxOTY1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leaf" title="How to Escape the 9-to-5 Without Losing Your Security" caption="How to Escape the 9-to-5 Without Losing Your Security - Photo by [Evgeny Makarenko](https://unsplash.com/@outsider_boy) on [Unsplash](https://unsplash.com/photos/green-leaf-iItZQZAouVw)" >}}
 
 So, I suggest you choose the other option—the option where you take control of your life. Even if you love your job, there will always be a limit. Your salary will stay the same, and you won’t go very far. Of course, I can’t force you. I’m also an employee, so I understand. But I see the 9-to-5 as a tool, not an end. Maybe your real goal is to have an impact in your life.
 
@@ -44,8 +42,7 @@ So, look for something where you can’t be replaced. Find what makes you unique
 > *“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.”*  
 > —Steve Jobs
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHw5LXRvLTUlMjBqb2JzJTIwY2FyZWVyJTIwZGlzc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxOTY1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the 9-to-5 Without Losing Your Security")
-*How to Escape the 9-to-5 Without Losing Your Security - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHw5LXRvLTUlMjBqb2JzJTIwY2FyZWVyJTIwZGlzc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxOTY1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Escape the 9-to-5 Without Losing Your Security" caption="How to Escape the 9-to-5 Without Losing Your Security - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 In the end, don’t let your job define you. Use it as a tool, but don’t let it be your whole life. Listen to yourself, find what makes you unique, and build a life that lifts you up.
 

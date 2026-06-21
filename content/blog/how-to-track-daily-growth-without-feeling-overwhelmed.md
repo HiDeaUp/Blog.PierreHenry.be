@@ -12,8 +12,7 @@ original_title = "Comment mieux traquer ses améliorations ?"
 source_medium = "https://medium.com/@phenrysay/2d8ff78fd38e"
 +++
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjB0cmFja2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDcxMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Track Daily Growth Without Feeling Overwhelmed")
-*How to Track Daily Growth Without Feeling Overwhelmed - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjB0cmFja2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDcxMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Track Daily Growth Without Feeling Overwhelmed" caption="How to Track Daily Growth Without Feeling Overwhelmed - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 Improving yourself doesn’t have to mean making huge leaps overnight. The real magic often happens in the small, steady steps you take each day. So, how can you actually see and track these little improvements? Let’s talk about a few practical ways to make your progress visible and keep your motivation alive.
 
@@ -31,8 +30,7 @@ After a week or so, take a look at your habits. Identify three things that aren�
 
 Another powerful tool is positive self-talk. Stand in front of the mirror and say something uplifting to yourself, like, “Today will be an amazing day. I feel full of energy. I’m going to crush it!” It might feel a bit odd at first, but these positive incantations can really boost your mood and confidence. The more you do it, the more natural it becomes, and you’ll notice a real difference in how you approach your day.
 
-![Chasing Sunsets](https://images.unsplash.com/photo-1540137084989-7c05e000f93b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjB0cmFja2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDcxMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Track Daily Growth Without Feeling Overwhelmed")
-*How to Track Daily Growth Without Feeling Overwhelmed - Photo by [Claude Piché](https://unsplash.com/@peecho) on [Unsplash](https://unsplash.com/photos/man-walking-on-grass-field-B2oFdd2NFpQ)*
+{{< figure src="https://images.unsplash.com/photo-1540137084989-7c05e000f93b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjB0cmFja2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDcxMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chasing Sunsets" title="How to Track Daily Growth Without Feeling Overwhelmed" caption="How to Track Daily Growth Without Feeling Overwhelmed - Photo by [Claude Piché](https://unsplash.com/@peecho) on [Unsplash](https://unsplash.com/photos/man-walking-on-grass-field-B2oFdd2NFpQ)" >}}
 
 > *“Whether you think you can, or you think you can’t—you’re right.”*  
 — Henry Ford
@@ -56,8 +54,7 @@ If you want an extra boost, check out what Tony Robbins does before his seminars
 
 ## Make It Your Own
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjB0cmFja2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDcxMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Track Daily Growth Without Feeling Overwhelmed")
-*How to Track Daily Growth Without Feeling Overwhelmed - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjB0cmFja2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDcxMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Track Daily Growth Without Feeling Overwhelmed" caption="How to Track Daily Growth Without Feeling Overwhelmed - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 The most important thing is to find what works for you. Mix and match these ideas, experiment, and see what makes you feel good and helps you grow. Improvement is personal, and your journey is unique.
 

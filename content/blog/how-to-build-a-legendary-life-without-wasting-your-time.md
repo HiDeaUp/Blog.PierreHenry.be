@@ -12,8 +12,7 @@ original_title = "Obtenir une vie légendaire. Plus facile qu’un bac ?"
 source_medium = "https://medium.com/@phenrysay/8520ecd65863"
 +++
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBpbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjEwODg2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Legendary Life Without Wasting Your Time")
-*How to Build a Legendary Life Without Wasting Your Time - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBpbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjEwODg2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Build a Legendary Life Without Wasting Your Time" caption="How to Build a Legendary Life Without Wasting Your Time - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 Have you ever stopped to think about how you spend your time? Not just in a vague, “I should be more productive” way, but really questioned whether the hours you invest each day are building the life you want? I’m writing this from a hotel room in Melbourne, looking out at a beautiful view, and it struck me how much our daily choices shape our future.
 
@@ -27,8 +26,7 @@ But you have to keep checking in with yourself. Ask: Am I enjoying what I’m do
 
 Mistakes are part of the process. If you never make mistakes, you never grow. Every error is a step up to the next level. You can’t reach the top floor without climbing the stairs, and sometimes you trip. That’s normal. The real learning comes from doing, not just from watching videos or reading books. Passive learning keeps you stuck on the ground floor. Active learning—trying, failing, adjusting—takes you higher.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, slow down, don't rush, less haste more speed, rush, panic, do not panic, relax, breathe, concentrate, ](https://images.unsplash.com/photo-1620905789653-5bc13d0e8fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBpbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjEwODg2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Legendary Life Without Wasting Your Time")
-*How to Build a Legendary Life Without Wasting Your Time - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4Rvi7ybXmGo)*
+{{< figure src="https://images.unsplash.com/photo-1620905789653-5bc13d0e8fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBpbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjEwODg2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build a Legendary Life Without Wasting Your Time" caption="How to Build a Legendary Life Without Wasting Your Time - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4Rvi7ybXmGo)" >}}
 
 There will be tough times. Everyone faces their own “crossing the desert” moment, where you feel lost and want to give up. But that’s exactly when you need to keep going. Most people quit right before they reach their goal. Don’t be one of them. Even if you lose money, face setbacks, or feel like everything is against you, keep moving. You’re stronger than you think.
 
@@ -48,8 +46,7 @@ This applies to your own self-talk, too. If you keep telling yourself negative t
 
 Ask yourself positive questions. Instead of worrying about what could go wrong, ask, “What if everything goes right?” What if you really can get that job, earn that money, or meet that person? The more you ask, the more possibilities you create.
 
-![Photo by Chengyu Wang](https://images.unsplash.com/photo-1752912064335-582974c38b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBpbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjEwODg2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Legendary Life Without Wasting Your Time")
-*How to Build a Legendary Life Without Wasting Your Time - Photo by [Chengyu Wang](https://unsplash.com/@chenriew) on [Unsplash](https://unsplash.com/photos/people-walk-by-a-clock-on-a-busy-street-SyWTR0P4mL8)*
+{{< figure src="https://images.unsplash.com/photo-1752912064335-582974c38b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBpbXByb3ZlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjEwODg2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="People walk by a clock on a busy street" title="How to Build a Legendary Life Without Wasting Your Time" caption="How to Build a Legendary Life Without Wasting Your Time - Photo by [Chengyu Wang](https://unsplash.com/@chenriew) on [Unsplash](https://unsplash.com/photos/people-walk-by-a-clock-on-a-busy-street-SyWTR0P4mL8)" >}}
 
 > *If you don’t ask, the answer is always no.*
 > — Nora Roberts

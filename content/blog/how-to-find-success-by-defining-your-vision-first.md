@@ -12,8 +12,7 @@ original_title = "Succès & Vision - Par où commencer ?"
 source_medium = "https://medium.com/@phenrysay/46727d42b27a"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjYzOTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Success by Defining Your Vision First")
-*How to Find Success by Defining Your Vision First - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjYzOTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Find Success by Defining Your Vision First" caption="How to Find Success by Defining Your Vision First - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Having a vision for your life is more than just wishful thinking. It’s about knowing where you want to go, what will make you happy, and what you need to change or improve to get there. Whether it’s about your daily routine, your year ahead, or the next few months, having a clear direction is crucial.
 
@@ -23,8 +22,7 @@ Let me share a personal example. My vision is to open a cooking space or a café
 
 This is how you build the life you want. When you have your vision written down and you know what you need to do each day, it helps you climb the ladder much faster. Most importantly, you know where you’re going. You don’t wake up in the morning feeling lost, just going through the motions of work and sleep, wondering why nothing changes.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjYzOTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Success by Defining Your Vision First")
-*How to Find Success by Defining Your Vision First - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjYzOTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Find Success by Defining Your Vision First" caption="How to Find Success by Defining Your Vision First - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 If you keep doing what you’ve always done, don’t expect anything different. Change is necessary for a different life. That’s why having a vision for a new life or a dream project matters so much. Every day, you can contribute a little to your dream—maybe half an hour, an hour, or even just a few minutes. It’s all about taking one step after another.
 
@@ -42,8 +40,7 @@ I’m fully committed to this approach. Are you?
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjYzOTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Success by Defining Your Vision First")
-*How to Find Success by Defining Your Vision First - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjYzOTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Find Success by Defining Your Vision First" caption="How to Find Success by Defining Your Vision First - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 ## Key Takeaways
 

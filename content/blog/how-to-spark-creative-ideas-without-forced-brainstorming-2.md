@@ -10,8 +10,7 @@ original_title = "Ma méthode pour mijoter et générer des idées à la volée"
 source_medium = "https://medium.com/@phenrysay/c828e14ac497"
 +++
 
-![Idea Generation & Brainwalking Workshop by FORTYTWO,  September 2019.](https://images.unsplash.com/photo-1623303647440-967d26b95b47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwaWRlYSUyMGdlbmVyYXRpb24lMjBjcmVhdGl2ZSUyMHByb2Nlc3N8ZW58MHwwfHx8MTc1NTQyMTM5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creative Ideas Without Forced Brainstorming")
-*How to Spark Creative Ideas Without Forced Brainstorming - Photo by [FORTYTWO](https://unsplash.com/@byfortytwo) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-table-with-papers-dEcBKGZS0P8)*
+{{< figure src="https://images.unsplash.com/photo-1623303647440-967d26b95b47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwaWRlYSUyMGdlbmVyYXRpb24lMjBjcmVhdGl2ZSUyMHByb2Nlc3N8ZW58MHwwfHx8MTc1NTQyMTM5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Idea Generation & Brainwalking Workshop by FORTYTWO, September 2019." title="How to Spark Creative Ideas Without Forced Brainstorming" caption="How to Spark Creative Ideas Without Forced Brainstorming - Photo by [FORTYTWO](https://unsplash.com/@byfortytwo) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-table-with-papers-dEcBKGZS0P8)" >}}
 
 When it comes to creativity, there’s a principle I love to use: marination. Just like in cooking, where you let ingredients soak and blend together to create richer flavors, you can do the same with your ideas. This method goes beyond simple brainstorming. It’s about letting your thoughts stew, mix, and transform into something new.
 
@@ -25,8 +24,7 @@ Think of it like making a classic Provençal ratatouille. You take zucchini, tom
 
 This method works especially well for writing, but you can use it for any creative project. Here’s how I do it:
 
-![Idea Generation & Brainwalking Workshop by FORTYTWO,  September 2019.](https://images.unsplash.com/photo-1623303609291-a6b922d4d641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwaWRlYSUyMGdlbmVyYXRpb24lMjBjcmVhdGl2ZSUyMHByb2Nlc3N8ZW58MHwwfHx8MTc1NTQyMTM5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creative Ideas Without Forced Brainstorming")
-*How to Spark Creative Ideas Without Forced Brainstorming - Photo by [FORTYTWO](https://unsplash.com/@byfortytwo) on [Unsplash](https://unsplash.com/photos/a-person-writing-on-a-piece-of-paper-uzpnF8dINtY)*
+{{< figure src="https://images.unsplash.com/photo-1623303609291-a6b922d4d641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwaWRlYSUyMGdlbmVyYXRpb24lMjBjcmVhdGl2ZSUyMHByb2Nlc3N8ZW58MHwwfHx8MTc1NTQyMTM5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Idea Generation & Brainwalking Workshop by FORTYTWO, September 2019." title="How to Spark Creative Ideas Without Forced Brainstorming" caption="How to Spark Creative Ideas Without Forced Brainstorming - Photo by [FORTYTWO](https://unsplash.com/@byfortytwo) on [Unsplash](https://unsplash.com/photos/a-person-writing-on-a-piece-of-paper-uzpnF8dINtY)" >}}
 
 1. **Before bed, gather your ideas.** Don’t wait until you’re lying down, because you might fall asleep too quickly. Stand by your bed, dim the lights, and jot down five, ten, or even twelve different ideas.
 2. **Think about how they might fit together.** Imagine you’re preparing a dish—how could these ideas combine? What new “flavor” could they create?
@@ -53,8 +51,7 @@ Creativity isn’t just about coming up with new thoughts. It’s about solving 
 
 ---
 
-![Photo by Galina Nelyubova](https://images.unsplash.com/photo-1695681163791-196a4f48c6b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwaWRlYSUyMGdlbmVyYXRpb24lMjBjcmVhdGl2ZSUyMHByb2Nlc3N8ZW58MHwwfHx8MTc1NTQyMTM5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creative Ideas Without Forced Brainstorming")
-*How to Spark Creative Ideas Without Forced Brainstorming - Photo by [Galina Nelyubova](https://unsplash.com/@galka_nz) on [Unsplash](https://unsplash.com/photos/a-man-is-running-among-balloons-and-light-bulbs-QQ6Nf2rgG_s)*
+{{< figure src="https://images.unsplash.com/photo-1695681163791-196a4f48c6b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwaWRlYSUyMGdlbmVyYXRpb24lMjBjcmVhdGl2ZSUyMHByb2Nlc3N8ZW58MHwwfHx8MTc1NTQyMTM5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man is running among and light bulbs" title="How to Spark Creative Ideas Without Forced Brainstorming" caption="How to Spark Creative Ideas Without Forced Brainstorming - Photo by [Galina Nelyubova](https://unsplash.com/@galka_nz) on [Unsplash](https://unsplash.com/photos/a-man-is-running-among-balloons-and-light-bulbs-QQ6Nf2rgG_s)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Les clés de la réussite 💡"
 source_medium = "https://medium.com/@phenrysay/f40474e6a36e"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTY1MTUzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success Step by Step Without Relying on Luck")
-*How to Build Success Step by Step Without Relying on Luck - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTY1MTUzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Build Success Step by Step Without Relying on Luck" caption="How to Build Success Step by Step Without Relying on Luck - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 Success doesn’t just fall into your lap. It’s not magic, and it’s not something that happens overnight. The first and most important step is your mindset. A strong mindset means learning from your mistakes, always improving, and asking yourself, “Why didn’t this work? How can I do better next time?”
 
@@ -23,8 +22,7 @@ The process is simple but powerful: always learn from your mistakes, keep tweaki
 
 But learning isn’t enough. You need to take action, even if it’s just one small thing each day. Perseverance is more important than motivation, because motivation comes and goes. What matters is being consistent and resilient. Build habits that move you toward your long-term goals, even if it’s just ten or twenty minutes each day. Align your daily actions with your bigger plan, and don’t be afraid to adjust your course each week.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTY1MTUzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success Step by Step Without Relying on Luck")
-*How to Build Success Step by Step Without Relying on Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTY1MTUzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Build Success Step by Step Without Relying on Luck" caption="How to Build Success Step by Step Without Relying on Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Think of it like steering a boat. Sometimes you drift left, sometimes right, but you keep correcting your direction. Success works the same way. You learn from your mistakes, step back, and find the right path again. Sometimes you’ll look back and wonder, “Why didn’t I think of this before?” That’s when brainstorming comes in handy.
 
@@ -39,8 +37,7 @@ Success is the result of a long journey, not a single leap. It takes time, patie
 > *Success is not the result of spontaneous combustion. You must set yourself on fire.*
 — Arnold H. Glasow
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTY1MTUzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success Step by Step Without Relying on Luck")
-*How to Build Success Step by Step Without Relying on Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)*
+{{< figure src="https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMGFjaGlldmVtZW50fGVufDB8MHx8fDE3NTY1MTUzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface SNJ1O2 b0IE" title="How to Build Success Step by Step Without Relying on Luck" caption="How to Build Success Step by Step Without Relying on Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)" >}}
 
 > *Perseverance is not a long race; it is many short races one after the other.*
 — Walter Elliot

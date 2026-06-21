@@ -12,8 +12,7 @@ original_title = "Interview: Un interieur qui nous correspond 🏡"
 source_medium = "https://medium.com/@phenrysay/b7fbc5254423"
 +++
 
-![Photo by Lisa Anna](https://images.unsplash.com/photo-1721742122027-c19920786feb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnRlcmlvciUyMGRlc2lnbiUyMHdlbGwtYmVpbmclMjBob21lJTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NTYwNjkwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Mind by Changing Your Home")
-*How to Shape Your Mind by Changing Your Home - Photo by [Lisa Anna](https://unsplash.com/@lisaanna195) on [Unsplash](https://unsplash.com/photos/a-bowl-of-fruit-on-a-table-in-a-room-tQ2cqVkwN_8)*
+{{< figure src="https://images.unsplash.com/photo-1721742122027-c19920786feb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnRlcmlvciUyMGRlc2lnbiUyMHdlbGwtYmVpbmclMjBob21lJTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NTYwNjkwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A bowl of fruit on a table in a room" title="How to Shape Your Mind by Changing Your Home" caption="How to Shape Your Mind by Changing Your Home - Photo by [Lisa Anna](https://unsplash.com/@lisaanna195) on [Unsplash](https://unsplash.com/photos/a-bowl-of-fruit-on-a-table-in-a-room-tQ2cqVkwN_8)" >}}
 
 When we talk about success, health, and happiness, we often focus on habits, relationships, or even luck. But there’s a silent force shaping our lives every day: our environment. The space we live in, the way it’s arranged, and even the smallest details can have a huge impact on our mood, creativity, and overall well-being.
 
@@ -36,8 +35,7 @@ A tidy, well-kept home with good air and light is essential for both mental and 
 
 Science backs this up: living near even a small patch of greenery or having a bright, organized home is linked to better health and happiness.
 
-![Photo by rawkkim](https://images.unsplash.com/photo-1655181750366-6fcacc9770f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnRlcmlvciUyMGRlc2lnbiUyMHdlbGwtYmVpbmclMjBob21lJTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NTYwNjkwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Mind by Changing Your Home")
-*How to Shape Your Mind by Changing Your Home - Photo by [rawkkim](https://unsplash.com/@rawkkim) on [Unsplash](https://unsplash.com/photos/a-room-with-a-table-and-chairs-g_TyRXlq-8g)*
+{{< figure src="https://images.unsplash.com/photo-1655181750366-6fcacc9770f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnRlcmlvciUyMGRlc2lnbiUyMHdlbGwtYmVpbmclMjBob21lJTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NTYwNjkwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A room with a table and chairs 8g" title="How to Shape Your Mind by Changing Your Home" caption="How to Shape Your Mind by Changing Your Home - Photo by [rawkkim](https://unsplash.com/@rawkkim) on [Unsplash](https://unsplash.com/photos/a-room-with-a-table-and-chairs-g_TyRXlq-8g)" >}}
 
 ## The Hidden Cost of Clutter
 
@@ -64,8 +62,7 @@ A clean home is a happy home, but there’s no need to obsess over it. Regular c
 
 Pets can be a wonderful addition to a home, as long as they’re taught to respect the space. They bring joy and companionship, but it’s important to keep things clean and set boundaries.
 
-![Photo by Jonathan Borba](https://images.unsplash.com/photo-1602872029796-f4ab2010b10b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnRlcmlvciUyMGRlc2lnbiUyMHdlbGwtYmVpbmclMjBob21lJTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NTYwNjkwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Mind by Changing Your Home")
-*How to Shape Your Mind by Changing Your Home - Photo by [Jonathan Borba](https://unsplash.com/@jonathanborba) on [Unsplash](https://unsplash.com/photos/white-wooden-table-with-chairs-pw7xdM6LdXo)*
+{{< figure src="https://images.unsplash.com/photo-1602872029796-f4ab2010b10b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnRlcmlvciUyMGRlc2lnbiUyMHdlbGwtYmVpbmclMjBob21lJTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NTYwNjkwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="White wooden table with chairs" title="How to Shape Your Mind by Changing Your Home" caption="How to Shape Your Mind by Changing Your Home - Photo by [Jonathan Borba](https://unsplash.com/@jonathanborba) on [Unsplash](https://unsplash.com/photos/white-wooden-table-with-chairs-pw7xdM6LdXo)" >}}
 
 When it comes to floors, choose materials that are easy to clean and don’t trap dust, especially if you have allergies. Carpets and rugs can be cozy, but they often collect allergens and require more upkeep. Hard floors like wood or tiles are usually a better choice for health and cleanliness.
 

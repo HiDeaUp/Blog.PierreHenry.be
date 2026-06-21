@@ -12,8 +12,7 @@ original_title = "Tu n’es pas le centre du monde 🛑"
 source_medium = "https://medium.com/@phenrysay/c42c37f329c4"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtYXdhcmVuZXNzJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MDY3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Taking Things Personally Without Losing Your Peace")
-*How to Stop Taking Things Personally Without Losing Your Peace - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtYXdhcmVuZXNzJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MDY3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Stop Taking Things Personally Without Losing Your Peace" caption="How to Stop Taking Things Personally Without Losing Your Peace - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever noticed how often we put ourselves at the center of every story? It’s almost automatic. Someone honks their car horn and we assume it’s directed at us. We catch a stranger’s angry glance and immediately wonder what we did wrong. Even when someone looks at us in a strange way, our minds race to find a reason, as if we’re the main character in everyone else’s movie.
 
@@ -25,8 +24,7 @@ Sometimes, for our own well-being, we need to let go. Unless someone calls your 
 
 When I’m focused—writing a letter in a café, for example—I try to stay in my own bubble. If someone calls my name or taps me on the shoulder, of course I respond. But otherwise, I stay in my flow. It’s important to protect that space. The world around you can fade away when you’re truly absorbed in your work.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtYXdhcmVuZXNzJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MDY3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Taking Things Personally Without Losing Your Peace")
-*How to Stop Taking Things Personally Without Losing Your Peace - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtYXdhcmVuZXNzJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MDY3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Stop Taking Things Personally Without Losing Your Peace" caption="How to Stop Taking Things Personally Without Losing Your Peace - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 There’s another side to this, too. I remember a surf camp in Mojo where I met a kind French woman. She often felt ignored by the group and took it personally, thinking she was being rejected. Because she saw herself as the outsider, she didn’t try to join in, which made it even harder for others to approach her. It became a cycle—she felt left out, so she withdrew, and others didn’t reach out because she seemed distant.
 
@@ -44,8 +42,7 @@ So, next time you feel like the world is against you, remember: you’re not the
 > 
 > — Eleanor Roosevelt
 
-![Photo by Marcel Strauß](https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtYXdhcmVuZXNzJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MDY3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Taking Things Personally Without Losing Your Peace")
-*How to Stop Taking Things Personally Without Losing Your Peace - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)*
+{{< figure src="https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtYXdhcmVuZXNzJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY1MDY3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of the word mental health" title="How to Stop Taking Things Personally Without Losing Your Peace" caption="How to Stop Taking Things Personally Without Losing Your Peace - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)" >}}
 
 ---
 

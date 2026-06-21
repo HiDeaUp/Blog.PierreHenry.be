@@ -12,8 +12,7 @@ original_title = "Méthode du Bonheur™ 🤩"
 source_medium = "https://medium.com/@phenrysay/24ae5c5a79c6"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwb3NpdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTIxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Positive Life When Everything Feels Lost")
-*How to Build a Positive Life When Everything Feels Lost - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwb3NpdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTIxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Build a Positive Life When Everything Feels Lost" caption="How to Build a Positive Life When Everything Feels Lost - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Life is full of ups and downs. Sometimes, it feels like you’re walking along just fine, and suddenly, you hit a wall. It could be a small setback, like a harsh comment you didn’t expect, or something bigger, like failing an exam, getting rejected for a visa, or even losing someone you love. Sometimes, it’s just a series of little things piling up until you feel completely empty, as if the scaffolding holding you up has collapsed like a house of cards.
 
@@ -35,8 +34,7 @@ When you feel down, sometimes the best thing you can do is change your surroundi
 
 Even small changes at home can help. Treat yourself like a guest of honor. Set the table nicely, use your best dishes, and eat with care. You deserve it. If you can, repaint your room, add a plant, or just declutter. Even in a tiny space, you can create a beautiful, motivating environment.
 
-![Smiley ball in hand.](https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwb3NpdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTIxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Positive Life When Everything Feels Lost")
-*How to Build a Positive Life When Everything Feels Lost - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)*
+{{< figure src="https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwb3NpdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTIxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball in hand." title="How to Build a Positive Life When Everything Feels Lost" caption="How to Build a Positive Life When Everything Feels Lost - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)" >}}
 
 ## Practice Gratitude and Share Positivity
 
@@ -62,8 +60,7 @@ Be careful what you watch and read. If you’re feeling down, avoid shows or mov
 > _The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well._
 > — Ralph Waldo Emerson
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwb3NpdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTIxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Positive Life When Everything Feels Lost")
-*How to Build a Positive Life When Everything Feels Lost - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwb3NpdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTIxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Build a Positive Life When Everything Feels Lost" caption="How to Build a Positive Life When Everything Feels Lost - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 > _You don’t have to control your thoughts. You just have to stop letting them control you._
 > — Dan Millman

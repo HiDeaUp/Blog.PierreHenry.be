@@ -12,8 +12,7 @@ original_title = "Pourquoi se créer une retraite d'écriture ?"
 source_medium = "https://medium.com/@phenrysay/9c3695ae0680"
 +++
 
-![Photo by Nedim T.](https://images.unsplash.com/photo-1731963094554-c5c981ccdefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3cml0aW5nJTIwcmV0cmVhdCUyMGNyZWF0aXZlJTIwZm9jdXMlMjBkZWVwJTIwd29ya3xlbnwwfDB8fHwxNzU1NDE1ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Focus Without Leaving Town: The Writing Retreat Solution")
-*How to Find Your Focus Without Leaving Town: The Writing Retreat Solution - Photo by [Nedim T.](https://unsplash.com/@nedimt) on [Unsplash](https://unsplash.com/photos/a-person-writing-on-a-notebook-with-a-pen-6CQy1skIbRs)*
+{{< figure src="https://images.unsplash.com/photo-1731963094554-c5c981ccdefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3cml0aW5nJTIwcmV0cmVhdCUyMGNyZWF0aXZlJTIwZm9jdXMlMjBkZWVwJTIwd29ya3xlbnwwfDB8fHwxNzU1NDE1ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person writing on a with a pen" title="How to Find Your Focus Without Leaving Town: The Writing Retreat Solution" caption="How to Find Your Focus Without Leaving Town: The Writing Retreat Solution - Photo by [Nedim T.](https://unsplash.com/@nedimt) on [Unsplash](https://unsplash.com/photos/a-person-writing-on-a-notebook-with-a-pen-6CQy1skIbRs)" >}}
 
 When it comes to writing—or any deep work that really matters—where you do it can make all the difference. Many of us struggle to get things done at home or in the office. Distractions pile up, and the environment just doesn’t help us focus. That’s why creating your own writing retreat, or at least finding the right atmosphere, is so important.
 
@@ -33,8 +32,7 @@ A true writing retreat means isolating yourself somewhere far from your usual en
 
 This kind of isolation is powerful. It removes the temptation to check messages or scroll through social media. Instead of filling your mind with mental junk food, you give yourself the space to move forward, step by step.
 
-![Photo by Ire Photocreative](https://images.unsplash.com/photo-1630032866155-f87ec4d047bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3cml0aW5nJTIwcmV0cmVhdCUyMGNyZWF0aXZlJTIwZm9jdXMlMjBkZWVwJTIwd29ya3xlbnwwfDB8fHwxNzU1NDE1ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Focus Without Leaving Town: The Writing Retreat Solution")
-*How to Find Your Focus Without Leaving Town: The Writing Retreat Solution - Photo by [Ire Photocreative](https://unsplash.com/@iphotocreative) on [Unsplash](https://unsplash.com/photos/black-pen-on-white-paper-CDQ9CKvYreg)*
+{{< figure src="https://images.unsplash.com/photo-1630032866155-f87ec4d047bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3cml0aW5nJTIwcmV0cmVhdCUyMGNyZWF0aXZlJTIwZm9jdXMlMjBkZWVwJTIwd29ya3xlbnwwfDB8fHwxNzU1NDE1ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black pen on white paper" title="How to Find Your Focus Without Leaving Town: The Writing Retreat Solution" caption="How to Find Your Focus Without Leaving Town: The Writing Retreat Solution - Photo by [Ire Photocreative](https://unsplash.com/@iphotocreative) on [Unsplash](https://unsplash.com/photos/black-pen-on-white-paper-CDQ9CKvYreg)" >}}
 
 > _Discipline causes freedom._
 > — Jocko Willink
@@ -60,8 +58,7 @@ That’s why it’s worth investing in the right place, even if it means booking
 
 ## Routine and Organization
 
-![Personne étudiant son cours sur une table noire.](https://images.unsplash.com/photo-1710447503692-8364152e431c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3cml0aW5nJTIwcmV0cmVhdCUyMGNyZWF0aXZlJTIwZm9jdXMlMjBkZWVwJTIwd29ya3xlbnwwfDB8fHwxNzU1NDE1ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Focus Without Leaving Town: The Writing Retreat Solution")
-*How to Find Your Focus Without Leaving Town: The Writing Retreat Solution - Photo by [Benja Godin](https://unsplash.com/@benja_godin) on [Unsplash](https://unsplash.com/photos/a-person-writing-on-a-piece-of-paper-with-a-pen-SgZ6nWHi8FY)*
+{{< figure src="https://images.unsplash.com/photo-1710447503692-8364152e431c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3cml0aW5nJTIwcmV0cmVhdCUyMGNyZWF0aXZlJTIwZm9jdXMlMjBkZWVwJTIwd29ya3xlbnwwfDB8fHwxNzU1NDE1ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Personne étudiant son cours sur une table noire." title="How to Find Your Focus Without Leaving Town: The Writing Retreat Solution" caption="How to Find Your Focus Without Leaving Town: The Writing Retreat Solution - Photo by [Benja Godin](https://unsplash.com/@benja_godin) on [Unsplash](https://unsplash.com/photos/a-person-writing-on-a-piece-of-paper-with-a-pen-SgZ6nWHi8FY)" >}}
 
 A good routine and clear organization are just as important as the right place. When you know what you’re doing next, you don’t waste time drifting or scrolling aimlessly. You move from one task to the next, making real progress.
 

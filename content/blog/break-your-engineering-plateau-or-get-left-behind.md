@@ -12,8 +12,7 @@ original_title = "How Top Software Engineers Keep Getting Better Every Single Da
 source_medium = "https://medium.com/@phenrysay/285cd1cf2940"
 +++
 
-![Photo by Christina @ wocintechchat.com](https://images.unsplash.com/photo-1573166364524-d9dbfd8bbf83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwcHJvZmVzc2lvbmFsJTIwZ3Jvd3RoJTIwY29udGludW91cyUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NjU1MDAwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080 "Break Your Engineering Plateau or Get Left Behind")
-*Break Your Engineering Plateau or Get Left Behind - Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com/photos/man-in-black-dress-shirt-writing-on-dry-erase-board-4T-02pK0jUg)*
+{{< figure src="https://images.unsplash.com/photo-1573166364524-d9dbfd8bbf83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwcHJvZmVzc2lvbmFsJTIwZ3Jvd3RoJTIwY29udGludW91cyUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NjU1MDAwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black dress shirt writing on dry erase board 4T" title="Break Your Engineering Plateau or Get Left Behind" caption="Break Your Engineering Plateau or Get Left Behind - Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com/photos/man-in-black-dress-shirt-writing-on-dry-erase-board-4T-02pK0jUg)" >}}
 
 _Every engineer hits a plateau. Here’s how to break through it, every single day._
 
@@ -33,14 +32,7 @@ This is a real danger. If you’re not careful, you end up with an inelegant cod
 
 Let’s talk specifics. Remember when Ajax was the hot thing? It was great for its time, but it’s limited. With Ajax, you can only send data to the server; the server can’t push data back to the client. That’s why WebSockets became so popular—they allow for two-way communication. The server can send information back to the client in real time.
 
-![Berdiri tahun 2013 dan alumni rata-rata 23940 tiap tahunnya, merupakan hasil nyata memberikan materi pelatihan, pengalaman, sistem belajar, dan pelayanan terbaik pada peserta menjadi alasan puluhan ribu alumni memilih kami, mulai dari perusahaan pemerintah dan swasta, industri kreatif, universitas, sekolah dalam & luar Negeri.
-
-1. Belajar Multimedia: Mempelajari & memahami software multimedia!! mulai dari desain grafis, animasi, hingga editing video
-2. Mahir Pemrograman: Mendalami bahasa pemrograman dari tingkat Basic sampai Advanced!! Java, PHP, Python, React, Kotlin, dan masih banyak lagi.
-3. Arsitektur & Interior: AutoCAD, 3Ds Max, VRay, dan sketchup merupakan software yang wajib dipelajari untuk mewujudkan 3D visual concept Anda.
-
-Selengkapnya di www.Flashcomindonesia.com](https://images.unsplash.com/photo-1558301204-e3226482a77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwcHJvZmVzc2lvbmFsJTIwZ3Jvd3RoJTIwY29udGludW91cyUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NjU1MDAwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080 "Break Your Engineering Plateau or Get Left Behind")
-*Break Your Engineering Plateau or Get Left Behind - Photo by [FLASHCOM INDONESIA](https://unsplash.com/@flashcomindonesia) on [Unsplash](https://unsplash.com/photos/woman-wearing-grey-hijab-using-laptop-compiter-wr6eqJyxWy8)*
+{{< figure src="https://images.unsplash.com/photo-1558301204-e3226482a77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwcHJvZmVzc2lvbmFsJTIwZ3Jvd3RoJTIwY29udGludW91cyUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NjU1MDAwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman wearing grey hijab using laptop" title="Break Your Engineering Plateau or Get Left Behind" caption="Break Your Engineering Plateau or Get Left Behind - Photo by [FLASHCOM INDONESIA](https://unsplash.com/@flashcomindonesia) on [Unsplash](https://unsplash.com/photos/woman-wearing-grey-hijab-using-laptop-compiter-wr6eqJyxWy8)" >}}
 
 But even WebSockets aren’t the end of the story. There’s always something new coming up. For example, there’s a new protocol that’s been gaining traction over the last couple of years (look it up—things move fast). Each new technology isn’t just about being new for the sake of it; it’s about solving real problems that older tech couldn’t handle.
 
@@ -70,8 +62,7 @@ Sometimes, it’s not just about the technology, but the tools and frameworks yo
 
 It’s time to wake up and realize that what was best practice a decade ago might be holding you back today. Don’t let nostalgia or comfort keep you from adopting better solutions.
 
-![Photo by Nguyen Dang Hoang Nhu](https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwcHJvZmVzc2lvbmFsJTIwZ3Jvd3RoJTIwY29udGludW91cyUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NjU1MDAwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080 "Break Your Engineering Plateau or Get Left Behind")
-*Break Your Engineering Plateau or Get Left Behind - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)*
+{{< figure src="https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwcHJvZmVzc2lvbmFsJTIwZ3Jvd3RoJTIwY29udGludW91cyUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NjU1MDAwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy in blue t shirt sitting on black office rolling chair in front of F" title="Break Your Engineering Plateau or Get Left Behind" caption="Break Your Engineering Plateau or Get Left Behind - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)" >}}
 
 ## The Habit of Continuous Learning
 

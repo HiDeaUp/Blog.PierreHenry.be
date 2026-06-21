@@ -12,8 +12,7 @@ original_title = "Ship PERFECT PRODUCT, not COMPLETE one"
 source_medium = "https://medium.com/@phenrysay/f1bbbd171750"
 +++
 
-![Photo by Bernd 📷 Dittrich](https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0JTIwZGV2ZWxvcG1lbnQlMjBmZWF0dXJlJTIwY3JlZXAlMjB1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfDB8fHwxNzY3MDUxMDk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "Ship Perfect Products or Lose Users to Feature Overload")
-*Ship Perfect Products or Lose Users to Feature Overload - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)*
+{{< figure src="https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0JTIwZGV2ZWxvcG1lbnQlMjBmZWF0dXJlJTIwY3JlZXAlMjB1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfDB8fHwxNzY3MDUxMDk3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A screen with a bunch of lines on it" title="Ship Perfect Products or Lose Users to Feature Overload" caption="Ship Perfect Products or Lose Users to Feature Overload - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)" >}}
 
 Let’s talk about a trap I see a lot of dev teams fall into: building out every possible feature just to check boxes, instead of actually solving the problems users care about. I’ve been there. You think, “Oh, users might want this option, or maybe that integration,” and before you know it, your backlog is overflowing with features nobody asked for.
 
@@ -21,8 +20,7 @@ Here’s what I do now: when someone requests a feature, I don’t just add it t
 
 But if barely anyone cares, or nobody wants to be notified, that’s a red flag. It’s so easy to assume users need something, but the reality is, most of the time, they don’t. You end up wasting time building stuff that doesn’t move the needle for anyone.
 
-![UX letters](https://images.unsplash.com/photo-1590483200421-58b5a8a0be55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0JTIwZGV2ZWxvcG1lbnQlMjBmZWF0dXJlJTIwY3JlZXAlMjB1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfDB8fHwxNzY3MDUxMDk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "Ship Perfect Products or Lose Users to Feature Overload")
-*Ship Perfect Products or Lose Users to Feature Overload - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/white-and-black-number-3-6VCX7DuzYc4)*
+{{< figure src="https://images.unsplash.com/photo-1590483200421-58b5a8a0be55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0JTIwZGV2ZWxvcG1lbnQlMjBmZWF0dXJlJTIwY3JlZXAlMjB1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfDB8fHwxNzY3MDUxMDk3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="UX letters" title="Ship Perfect Products or Lose Users to Feature Overload" caption="Ship Perfect Products or Lose Users to Feature Overload - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/white-and-black-number-3-6VCX7DuzYc4)" >}}
 
 So, what should you focus on? The most painful problems. The stuff that makes users say, “I need a solution for this ASAP.” That’s where your energy should go. Make that solution as perfect as possible. Don’t worry about completeness. Ship a perfect product, not a complete one.
 

@@ -12,8 +12,7 @@ original_title = "Les étapes pour être épanoui dans la vie"
 source_medium = "https://medium.com/@phenrysay/5d8bfd4041ed"
 +++
 
-![Happy Heart Happy Face Concept](https://images.unsplash.com/photo-1634911059332-0cc49b1ae86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NjM3NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Fulfilled Without Overhauling Your Life")
-*How to Feel Fulfilled Without Overhauling Your Life - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-fygIoiCC06o)*
+{{< figure src="https://images.unsplash.com/photo-1634911059332-0cc49b1ae86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NjM3NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Happy Face Concept" title="How to Feel Fulfilled Without Overhauling Your Life" caption="How to Feel Fulfilled Without Overhauling Your Life - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-fygIoiCC06o)" >}}
 
 Personal fulfillment isn’t just a buzzword—it’s the foundation of a life you truly enjoy. But how do you actually become fulfilled? The answer is both simple and deeply personal: you need to identify what brings you joy and make those things a regular part of your daily life.
 
@@ -25,8 +24,7 @@ But it’s not just about adding positives. You also need to recognize what drag
 
 It’s about finding the right balance. Reduce the things that make you unhappy, and increase the things that make you smile. If you love good food, treat yourself to a nice meal now and then. If you’ve always wanted a pet but worry about the cost, remember: you only live once. If you can afford it, go for it—even if it’s just for a few weeks. After three weeks, check in with yourself. Are you happier? If so, you’ve found one of your keys to fulfillment.
 
-![Happy Heart Concept](https://images.unsplash.com/photo-1625416360482-1f219bf855ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NjM3NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Fulfilled Without Overhauling Your Life")
-*How to Feel Fulfilled Without Overhauling Your Life - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/yellow-and-red-smiley-face-JHG8W-YYnpU)*
+{{< figure src="https://images.unsplash.com/photo-1625416360482-1f219bf855ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NjM3NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Concept" title="How to Feel Fulfilled Without Overhauling Your Life" caption="How to Feel Fulfilled Without Overhauling Your Life - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/yellow-and-red-smiley-face-JHG8W-YYnpU)" >}}
 
 This is your personal formula for happiness. Write it down, remember it, and use it to guide your choices. Life doesn’t have to be complicated. Sometimes, the answer is as simple as listening to what makes your heart lighter.
 
@@ -48,8 +46,7 @@ This is your personal formula for happiness. Write it down, remember it, and use
 
 ---
 
-![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NjM3NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Fulfilled Without Overhauling Your Life")
-*How to Feel Fulfilled Without Overhauling Your Life - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
+{{< figure src="https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NjM3NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball" title="How to Feel Fulfilled Without Overhauling Your Life" caption="How to Feel Fulfilled Without Overhauling Your Life - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)" >}}
 
 ## Action Steps
 

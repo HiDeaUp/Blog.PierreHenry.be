@@ -12,8 +12,7 @@ original_title = "Mieux se connaître pour pouvoir investir sur soi 💪"
 source_medium = "https://medium.com/@phenrysay/660032d71128"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MTg4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Overhauling Your Life")
-*How to Invest in Yourself Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MTg4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Invest in Yourself Without Overhauling Your Life" caption="How to Invest in Yourself Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Investing in yourself starts with knowing what’s truly good for you. It’s not just about eating healthy food or having a balanced diet—though that’s important. It’s also about building a daily routine that supports your goals and dreams. If you can’t organize your day to make room for what matters to you, you’ll always feel like you’re running behind.
 
@@ -25,8 +24,7 @@ The best time to take action is always now. There’s no point in putting off wh
 
 We often tell ourselves it’s not the right time, or we never have enough time. But the truth is, time won’t magically appear. It’s up to us to change how we organize our days so we can find more time for ourselves. Even if you feel like you have zero free time, maybe you’re spending a bit too long on certain tasks—maybe you linger over meals, or spend too much time doing the dishes or cleaning. These things matter, but they’re not always essential.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MTg4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Overhauling Your Life")
-*How to Invest in Yourself Without Overhauling Your Life - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MTg4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Invest in Yourself Without Overhauling Your Life" caption="How to Invest in Yourself Without Overhauling Your Life - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 If you look closely, you might find five minutes here, five minutes there. That adds up—just ten minutes a day is seventy minutes a week. That’s a lot of time you can reclaim for yourself.
 
@@ -46,8 +44,7 @@ So, start reorganizing your days and your life to create the life you want. Chan
 
 ## Key Takeaways
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MTg4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Overhauling Your Life")
-*How to Invest in Yourself Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU0MTg4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Invest in Yourself Without Overhauling Your Life" caption="How to Invest in Yourself Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 - Organize your days to make room for what matters to you.
 - Healthy habits—like eating well and sleeping regularly—give you more energy.

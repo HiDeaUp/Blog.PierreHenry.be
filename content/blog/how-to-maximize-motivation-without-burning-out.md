@@ -12,8 +12,7 @@ original_title = "Maximiser l'impact de sa motivation"
 source_medium = "https://medium.com/@phenrysay/8f891bec609a"
 +++
 
-![Do Something Great](https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NDkzMDYwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Maximize Motivation Without Burning Out")
-*How to Maximize Motivation Without Burning Out - Photo by [Clark Tibbs](https://unsplash.com/@clarktibbs) on [Unsplash](https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI)*
+{{< figure src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NDkzMDYwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Do Something Great" title="How to Maximize Motivation Without Burning Out" caption="How to Maximize Motivation Without Burning Out - Photo by [Clark Tibbs](https://unsplash.com/@clarktibbs) on [Unsplash](https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI)" >}}
 
 Motivation is often seen as a mysterious force—sometimes it’s there, sometimes it’s not. But have you ever wondered why some tasks feel energizing, while others seem to drain you before you even begin? The answer lies in the difference between internal and external motivation.
 
@@ -23,8 +22,7 @@ External motivation, on the other hand, is when you do something for an outside 
 
 Understanding this difference is important. We all tend to procrastinate, especially when a task feels tedious or when we haven’t made it easy to start. If there’s friction at the beginning, it’s easy to put things off. So, how can you make it easier to get started?
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NDkzMDYwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Maximize Motivation Without Burning Out")
-*How to Maximize Motivation Without Burning Out - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NDkzMDYwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Maximize Motivation Without Burning Out" caption="How to Maximize Motivation Without Burning Out - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 For me, changing my environment made a big difference. I used to record my videos indoors, but it felt less inspiring. Now, I film by the bay, where the sun shines and the view lifts my mood. Even when the weather isn’t perfect, being in a place I enjoy makes the process more pleasant. My motivation is both internal—I love making these videos—and external—I’m building my reputation and expertise.
 
@@ -39,8 +37,7 @@ One simple way to remember and reinforce what you learn is to teach it to others
 
 Don’t put off what you want to do. The best time to act is now. Start something today that excites you, that makes you feel good, and that might even help you grow your skills or reputation. Remember, enjoying the journey is just as important as reaching the destination.
 
-![Photo by Jeremy Beck](https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NDkzMDYwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Maximize Motivation Without Burning Out")
-*How to Maximize Motivation Without Burning Out - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)*
+{{< figure src="https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaW50ZXJuYWwlMjBtb3RpdmF0aW9uJTIwZXh0ZXJuYWwlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NDkzMDYwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Imagine text" title="How to Maximize Motivation Without Burning Out" caption="How to Maximize Motivation Without Burning Out - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)" >}}
 
 ---
 

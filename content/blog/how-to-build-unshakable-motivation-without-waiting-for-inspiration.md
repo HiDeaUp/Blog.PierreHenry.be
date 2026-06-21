@@ -12,8 +12,7 @@ original_title = "Comment Déclencher Une Motivation Inébranlable ?"
 source_medium = "https://medium.com/@phenrysay/f30b668b993e"
 +++
 
-![Do Something Great](https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5MzI4OTUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Unshakable Motivation Without Waiting for Inspiration")
-*How to Build Unshakable Motivation Without Waiting for Inspiration - Photo by [Clark Tibbs](https://unsplash.com/@clarktibbs) on [Unsplash](https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI)*
+{{< figure src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5MzI4OTUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Do Something Great" title="How to Build Unshakable Motivation Without Waiting for Inspiration" caption="How to Build Unshakable Motivation Without Waiting for Inspiration - Photo by [Clark Tibbs](https://unsplash.com/@clarktibbs) on [Unsplash](https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI)" >}}
 
 When motivation lights up our positive energy, it feels like we can do anything. But motivation is closely tied to what we actually accomplish. When it’s missing, we don’t feel like doing much at all. We start to wonder, “Why bother? I don’t have a goal, I don’t have a purpose.” That’s where the real danger lies: we stagnate, days slip by, and time passes without us even noticing.
 
@@ -25,8 +24,7 @@ Of course, having routines and habits helps a lot. Habits keep us on track. If e
 
 You can also link a new habit to an existing one. For example, after breakfast, you decide to write. Breakfast becomes the trigger for your new habit. You eat, and then you write—just like brushing your teeth after a meal. It’s a new habit that fits into an old, stable one.
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5MzI4OTUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Unshakable Motivation Without Waiting for Inspiration")
-*How to Build Unshakable Motivation Without Waiting for Inspiration - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5MzI4OTUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Build Unshakable Motivation Without Waiting for Inspiration" caption="How to Build Unshakable Motivation Without Waiting for Inspiration - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 The same goes for your evening or morning routines. Taking a shower, brushing your teeth, flossing, shaving—these tasks become part of a chain. New habits stick better when they’re attached to routines you already have.
 
@@ -45,8 +43,7 @@ If you want to remember just three things to help you get more done and keep you
 > *“Motivation is what gets you started. Habit is what keeps you going.”*  
 > —Jim Ryun
 
-![Photo by Jeremy Beck](https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5MzI4OTUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Unshakable Motivation Without Waiting for Inspiration")
-*How to Build Unshakable Motivation Without Waiting for Inspiration - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)*
+{{< figure src="https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzQ5MzI4OTUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Imagine text" title="How to Build Unshakable Motivation Without Waiting for Inspiration" caption="How to Build Unshakable Motivation Without Waiting for Inspiration - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)" >}}
 
 > *“You will never change your life until you change something you do daily. The secret of your success is found in your daily routine.”*  
 > —John C. Maxwell

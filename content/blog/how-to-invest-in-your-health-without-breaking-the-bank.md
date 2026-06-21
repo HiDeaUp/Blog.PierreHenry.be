@@ -12,9 +12,7 @@ original_title = "Pourquoi faut-il investir sur sa santé ?"
 source_medium = "https://medium.com/@phenrysay/93f29d6ea436"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, salt, fat, acid, heat, sweet, dessert, humour, humor, afters, cookery, cooking, cordon bleu, basics, cookery basics, samin nosrat, ingredients, 
-](https://images.unsplash.com/photo-1605606437828-598340dfaeb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBpbnZlc3RtZW50JTIwd2VsbG5lc3MlMjBoZWFsdGh5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Your Health Without Breaking the Bank")
-*How to Invest in Your Health Without Breaking the Bank - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-EoP2jDCrgfU)*
+{{< figure src="https://images.unsplash.com/photo-1605606437828-598340dfaeb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBpbnZlc3RtZW50JTIwd2VsbG5lc3MlMjBoZWFsdGh5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Invest in Your Health Without Breaking the Bank" caption="How to Invest in Your Health Without Breaking the Bank - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-EoP2jDCrgfU)" >}}
 
 ### Your health is your real wealth
 
@@ -30,8 +28,7 @@ No one knows how long they’ll live. The better you care for your health and th
 
 Personally, I try to live in a healthy way. I avoid stress, especially about things I can’t control. If you can’t change something, let it go. For everything else, act quickly and efficiently. Make decisions where you know you’re strong, and if you’re not the best at something, it’s smarter to let someone else handle it.
 
-![Photo by The Worthy Goods](https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjBpbnZlc3RtZW50JTIwd2VsbG5lc3MlMjBoZWFsdGh5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Your Health Without Breaking the Bank")
-*How to Invest in Your Health Without Breaking the Bank - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)*
+{{< figure src="https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjBpbnZlc3RtZW50JTIwd2VsbG5lc3MlMjBoZWFsdGh5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of white boxes with black text on a wooden surface" title="How to Invest in Your Health Without Breaking the Bank" caption="How to Invest in Your Health Without Breaking the Bank - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)" >}}
 
 Your life is yours, and you deserve to live it in good health. Health is priceless. You could be a billionaire, but if your health is ruined and you’re facing three cancers at once, money won’t bring you any joy. That’s a nightmare I wouldn’t wish on anyone.
 
@@ -49,8 +46,7 @@ Mental health matters just as much. Avoid toxic people and anyone who brings you
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740479050129-7fef21254518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGglMjBpbnZlc3RtZW50JTIwd2VsbG5lc3MlMjBoZWFsdGh5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Your Health Without Breaking the Bank")
-*How to Invest in Your Health Without Breaking the Bank - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-health-on-a-table--Wgu0sVpz_4)*
+{{< figure src="https://images.unsplash.com/photo-1740479050129-7fef21254518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGglMjBpbnZlc3RtZW50JTIwd2VsbG5lc3MlMjBoZWFsdGh5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word health on a table" title="How to Invest in Your Health Without Breaking the Bank" caption="How to Invest in Your Health Without Breaking the Bank - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-health-on-a-table--Wgu0sVpz_4)" >}}
 
 - *Taking care of your health is an investment that pays off every day.*
 - *Small habits like brushing your teeth and eating well save you pain and money later.*

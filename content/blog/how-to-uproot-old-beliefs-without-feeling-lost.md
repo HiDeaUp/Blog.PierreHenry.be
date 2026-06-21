@@ -12,8 +12,7 @@ original_title = "Déraciner ses préjugés"
 source_medium = "https://medium.com/@phenrysay/679793d15a36"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmVqdWRpY2VzJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYwMTY0NDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Uproot Old Beliefs Without Feeling Lost")
-*How to Uproot Old Beliefs Without Feeling Lost - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmVqdWRpY2VzJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYwMTY0NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Uproot Old Beliefs Without Feeling Lost" caption="How to Uproot Old Beliefs Without Feeling Lost - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 We often talk about uprooting, but not in the way you might think. This isn’t about pulling weeds from a garden or cutting down trees. It’s about digging up the negativity, the limiting beliefs, and the old prejudices that hold us back from growing and reaching our goals.
 
@@ -21,8 +20,7 @@ Many of us are haunted by these invisible barriers. We tell ourselves, “I can�
 
 Imagine your mind as a garden. If you let the weeds of negativity and self-doubt grow wild, they’ll choke out anything good you try to plant. That’s why it’s so important to clear them out. Take a moment to notice your negative thoughts, your slouched posture, or the way you talk to yourself. Then, make a conscious effort to clean all that up. Stand tall, think positive, and focus on what you can do next.
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmVqdWRpY2VzJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYwMTY0NDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Uproot Old Beliefs Without Feeling Lost")
-*How to Uproot Old Beliefs Without Feeling Lost - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmVqdWRpY2VzJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYwMTY0NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Uproot Old Beliefs Without Feeling Lost" caption="How to Uproot Old Beliefs Without Feeling Lost - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 Having a clear goal is just as important. Without one, your day can feel aimless, like wandering without a compass. Setting even a small goal gives your day structure and direction. Think of it like checking the time. Sure, it’s nice to lose track of time now and then, but if you have a job or responsibilities, you need to know when your next meeting is or when to meet a friend. Living without goals is like getting into a taxi and telling the driver, “Take me nowhere.” The driver can’t help you unless you know where you want to go.
 
@@ -36,8 +34,7 @@ The real message here is to start uprooting the negative things in your mind, ju
 > *“You can’t go back and change the beginning, but you can start where you are and change the ending.”*  
 — C.S. Lewis
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmVqdWRpY2VzJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYwMTY0NDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Uproot Old Beliefs Without Feeling Lost")
-*How to Uproot Old Beliefs Without Feeling Lost - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmVqdWRpY2VzJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYwMTY0NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Uproot Old Beliefs Without Feeling Lost" caption="How to Uproot Old Beliefs Without Feeling Lost - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 ---
 

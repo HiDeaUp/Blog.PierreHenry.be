@@ -12,8 +12,7 @@ original_title = "Devenir un expert, produire de la qualité, en toute simplicit
 source_medium = "https://medium.com/@phenrysay/7917808e8411"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtYXN0ZXJ5JTIwcXVhbGl0eSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NjYzNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Any Skill Without Chasing Perfection")
-*How to Master Any Skill Without Chasing Perfection - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/brown-its-simple-scrabble-tiles-oHVdj31R3F4)*
+{{< figure src="https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtYXN0ZXJ5JTIwcXVhbGl0eSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NjYzNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown its simple tiles" title="How to Master Any Skill Without Chasing Perfection" caption="How to Master Any Skill Without Chasing Perfection - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/brown-its-simple-scrabble-tiles-oHVdj31R3F4)" >}}
 
 When we think about becoming the best at something, our first instinct is often to aim straight for quality. We imagine that by focusing all our energy on creating the perfect product, the perfect dish, or the perfect piece of art, we’ll reach excellence faster. But the reality is quite different. True mastery comes from repetition, not from chasing perfection right away.
 
@@ -21,8 +20,7 @@ Let’s take the example of learning a craft. Whether you want to be the best ch
 
 Imagine you decide to become a great chef. You might think the best way is to buy the most advanced cookbook from the top chef in your country. But when you try those recipes, you’ll probably find them too complicated, and you might not understand why your dishes don’t turn out as expected. This frustration can make you want to give up. Instead, if you cook every day, even simple meals, and focus on improving just one small thing each time, you’ll naturally become better. Each day, ask yourself: What didn’t go so well today? What could I do better tomorrow? This daily process of small improvements is what leads to real expertise.
 
-![3d illustration of abstract stone balancing which can be useful for spirituality website/blog or you can use this anywhere you want.](https://images.unsplash.com/photo-1628313348688-3d279e8538ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtYXN0ZXJ5JTIwcXVhbGl0eSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NjYzNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Any Skill Without Chasing Perfection")
-*How to Master Any Skill Without Chasing Perfection - Photo by [Shubham Dhage](https://unsplash.com/@theshubhamdhage) on [Unsplash](https://unsplash.com/photos/white-round-stone-on-white-surface-mNYrP93tyL8)*
+{{< figure src="https://images.unsplash.com/photo-1628313348688-3d279e8538ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtYXN0ZXJ5JTIwcXVhbGl0eSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NjYzNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="3d illustration of abstract stone balancing which can be useful for spirituality website/blog or you can use this anywhere you want." title="How to Master Any Skill Without Chasing Perfection" caption="How to Master Any Skill Without Chasing Perfection - Photo by [Shubham Dhage](https://unsplash.com/@theshubhamdhage) on [Unsplash](https://unsplash.com/photos/white-round-stone-on-white-surface-mNYrP93tyL8)" >}}
 
 There are studies that back this up. In one experiment, pottery students were split into two groups. One group was told to make just one vase, but it had to be the most beautiful vase possible. The other group was told to make as many vases as they could. In the end, the group that made the most vases also produced the highest quality work. Their repeated attempts allowed them to learn from their mistakes and improve with each try. The group focused on making a single perfect vase struggled to reach the same level of quality.
 
@@ -38,8 +36,7 @@ This principle is simple but powerful. If you repeat a task every day, even for 
 
 If you want to impress yourself and others, remember: it’s not about being perfect right away. It’s about showing up, doing the work, and getting a little better every day.
 
-![render with Taitopia Render](https://images.unsplash.com/photo-1700709678022-8e0c4767434e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtYXN0ZXJ5JTIwcXVhbGl0eSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NjYzNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Any Skill Without Chasing Perfection")
-*How to Master Any Skill Without Chasing Perfection - Photo by [Taitopia Render](https://unsplash.com/@taitopiarender) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-table-d84kZacg3tc)*
+{{< figure src="https://images.unsplash.com/photo-1700709678022-8e0c4767434e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtYXN0ZXJ5JTIwcXVhbGl0eSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NjYzNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="render with Taitopia Render" title="How to Master Any Skill Without Chasing Perfection" caption="How to Master Any Skill Without Chasing Perfection - Photo by [Taitopia Render](https://unsplash.com/@taitopiarender) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-table-d84kZacg3tc)" >}}
 
 ---
 

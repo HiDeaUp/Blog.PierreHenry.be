@@ -12,8 +12,7 @@ original_title = "Élève ses STANDARDS de vie pour devenir RICHE ?"
 source_medium = "https://medium.com/@phenrysay/b2d1c5f201ec"
 +++
 
-![Photo by Alex Brinkman](https://images.unsplash.com/photo-1603072027403-f2ff6525a7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwd2VhbHRoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU3OTE2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Raise Your Standards Without Spending More")
-*How to Raise Your Standards Without Spending More - Photo by [Alex Brinkman](https://unsplash.com/@alexbrinkman) on [Unsplash](https://unsplash.com/photos/text-E28uCGVS1Dk)*
+{{< figure src="https://images.unsplash.com/photo-1603072027403-f2ff6525a7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwd2VhbHRoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU3OTE2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Raise Your Standards Without Spending More" caption="How to Raise Your Standards Without Spending More - Photo by [Alex Brinkman](https://unsplash.com/@alexbrinkman) on [Unsplash](https://unsplash.com/photos/text-E28uCGVS1Dk)" >}}
 
 Improving your standards of living isn’t about luxury or showing off. It’s about the small routines and habits you choose every day to make your life better. Standards of living are the little things you do for yourself—habits that fit your personality and make your daily life smoother, not harder. When you raise your standards, you treat yourself as someone important, almost like a special guest in your own home.
 
@@ -23,8 +22,7 @@ Pour your yogurt into a small bowl, place it on a saucer, and use a proper spoon
 
 The way you treat yourself when you’re alone shapes your mindset and your future ambitions. If you always act like you’re your own VIP guest, your mood and your goals will follow. There’s a big difference between living in a messy space—dirty dishes piling up, empty bottles on the coffee table—and keeping things tidy, just as you would if someone else were there. Why treat yourself any less kindly than you’d treat a friend?
 
-![Zenit 35mm Film Archive 2012](https://images.unsplash.com/photo-1603970525071-02d9784c0353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwd2VhbHRoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU3OTE2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Raise Your Standards Without Spending More")
-*How to Raise Your Standards Without Spending More - Photo by [Julia Rekamie](https://unsplash.com/@juliarekamie) on [Unsplash](https://unsplash.com/photos/silver-round-cup-on-green-grass-smE9OBz0jdk)*
+{{< figure src="https://images.unsplash.com/photo-1603970525071-02d9784c0353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwd2VhbHRoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU3OTE2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Zenit 35mm Film Archive 2012" title="How to Raise Your Standards Without Spending More" caption="How to Raise Your Standards Without Spending More - Photo by [Julia Rekamie](https://unsplash.com/@juliarekamie) on [Unsplash](https://unsplash.com/photos/silver-round-cup-on-green-grass-smE9OBz0jdk)" >}}
 
 Raising your standards is about always looking for small ways to improve. It’s not about perfection, but about progress. Over time, these habits change how you think, how you feel, and even how you interact with others. Whether you’re replying to an email, sending a text, or writing a postcard, do it with care. Be a gentleman or a lady to yourself first.
 
@@ -38,10 +36,7 @@ Treat yourself the way you deserve. You’ll notice the difference—not just in
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, prove them wrong, prove, them, wrong, live well, best revenge, don't give up, win, persevere, live well, optimism, ambition, good living, living well, life goal, do no harm, golden rule, woke, yolo, intentionality, wellness, mindfulness, mindful,
-
-](https://images.unsplash.com/photo-1603206004521-3946a574d626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwd2VhbHRoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU3OTE2OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Raise Your Standards Without Spending More")
-*How to Raise Your Standards Without Spending More - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-8Bv4MLU2RR0)*
+{{< figure src="https://images.unsplash.com/photo-1603206004521-3946a574d626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwd2VhbHRoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTU3OTE2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Raise Your Standards Without Spending More" caption="How to Raise Your Standards Without Spending More - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-8Bv4MLU2RR0)" >}}
 
 ## Key Takeaways
 - *Small daily habits shape your standards of living.*

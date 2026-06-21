@@ -12,8 +12,7 @@ original_title = "Amélioration du quotidien. Les procédures"
 source_medium = "https://medium.com/@phenrysay/abe204b74013"
 +++
 
-![A lady in pursuit to inspire and challenge the human body to push it’s limits and live a healthy active life. Thanks for the wild ride!](https://images.unsplash.com/photo-1497369753325-69e1f26b7f56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjByb3V0aW5lcyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYxMDg1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Tiny Daily Habits")
-*How to Transform Your Life With Tiny Daily Habits - Photo by [Becca Matimba](https://unsplash.com/@bmatimbaphoto) on [Unsplash](https://unsplash.com/photos/woman-doing-pull-up-exercise-xzu52UX-1jc)*
+{{< figure src="https://images.unsplash.com/photo-1497369753325-69e1f26b7f56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjByb3V0aW5lcyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYxMDg1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A lady in pursuit to inspire and challenge the human body to push it’s limits and live a healthy active life. Thanks for the wild ride!" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Becca Matimba](https://unsplash.com/@bmatimbaphoto) on [Unsplash](https://unsplash.com/photos/woman-doing-pull-up-exercise-xzu52UX-1jc)" >}}
 
 Improving yourself doesn’t have to be a huge leap. In fact, it’s often the little steps, taken one after another, that make the biggest difference. Let’s talk about how you can get better, little by little, every single day.
 
@@ -23,8 +22,7 @@ The next day, I write three new things. Every day, I push myself to do three thi
 
 After a week, take a look at your habits and pick three things you want to stop doing. Maybe you realize staying up late isn’t helping you. Write it down as a personal rule: “No more late nights. That’s in the past.” This kind of self-commitment makes your intentions clear and real.
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjByb3V0aW5lcyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYxMDg1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Tiny Daily Habits")
-*How to Transform Your Life With Tiny Daily Habits - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjByb3V0aW5lcyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYxMDg1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 Another powerful tool is positive self-talk, or what some call “incantations.” Stand in front of the mirror and say things like, “Today will be an amazing day. I feel full of energy. I’m going to crush it. I believe in myself.” It might feel strange at first, but these words can really boost your mood and confidence. The more you do it, the more natural it becomes, and the more you start to believe it.
 
@@ -41,8 +39,7 @@ If you want to boost your energy even more, look up Anthony Robbins and his docu
 
 All these small changes add up. By tracking your habits, creating positive environments, and using encouraging self-talk, you can make your daily life better, step by step.
 
-![Morning jog in the countryside](https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjByb3V0aW5lcyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYxMDg1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Tiny Daily Habits")
-*How to Transform Your Life With Tiny Daily Habits - Photo by [Emma Simpson](https://unsplash.com/@esdesignisms) on [Unsplash](https://unsplash.com/photos/woman-walking-on-pathway-during-daytime-mNGaaLeWEp0)*
+{{< figure src="https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjByb3V0aW5lcyUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTYxMDg1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Morning jog in the countryside" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Emma Simpson](https://unsplash.com/@esdesignisms) on [Unsplash](https://unsplash.com/photos/woman-walking-on-pathway-during-daytime-mNGaaLeWEp0)" >}}
 
 ---
 

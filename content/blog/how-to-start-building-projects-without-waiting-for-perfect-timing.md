@@ -12,10 +12,7 @@ original_title = "Du Rêve à la Réalité : Comment Je Concrétise Mes Projets"
 source_medium = "https://medium.com/@phenrysay/f6d000d0e94d"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, white background, wood, scrabble tiles, wood, words, 
-done is better than perfect, perfectionism, get it done, complete, finish, rough and ready, 
-](https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9qZWN0JTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDU0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Building Projects Without Waiting for Perfect Timing")
-*How to Start Building Projects Without Waiting for Perfect Timing - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)*
+{{< figure src="https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9qZWN0JTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDU0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Start Building Projects Without Waiting for Perfect Timing" caption="How to Start Building Projects Without Waiting for Perfect Timing - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)" >}}
 
 ### Stop Waiting, Start Building
 
@@ -31,9 +28,7 @@ Most people don’t enjoy making thumbnails. It’s repetitive and feels like a 
 
 Having something that motivates you, something new to chase, is important. Otherwise, it’s easy to wake up on a Saturday, feel tired, and waste the day in front of your computer without doing anything meaningful. If you don’t define what you want to do, your day will drift. Nothing changes unless you decide to change it. Only a fool expects a different life by doing the same things every day.
 
-![User Journey Map is also known as Customer Journey Map is a a visualization of the process that a person goes through in order to accomplish a goal visualization of a user/ customer using your product or service.  
-In its basic form, journey mapping starts by compiling a series of user actions into a timeline. Next, the timeline is fleshed out with user thoughts and emotions in order to create a narrative. This narrative is condensed and polished, ultimately leading to a visualization. ](https://images.unsplash.com/photo-1586863065451-6a82fa7e81b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9qZWN0JTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDU0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Building Projects Without Waiting for Perfect Timing")
-*How to Start Building Projects Without Waiting for Perfect Timing - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/person-holding-yellow-sticky-notes-1V5zGGTYXVc)*
+{{< figure src="https://images.unsplash.com/photo-1586863065451-6a82fa7e81b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9qZWN0JTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDU0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding yellow sticky notes" title="How to Start Building Projects Without Waiting for Perfect Timing" caption="How to Start Building Projects Without Waiting for Perfect Timing - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/person-holding-yellow-sticky-notes-1V5zGGTYXVc)" >}}
 
 Every day is a chance to invest in yourself. Projects like these keep you alert and hungry for more. The more you create, the more it becomes second nature. Over time, you develop a rare skill, something valuable that others might not have. When you’re really good at something few people can do, your value increases. People will want to hire you for that skill. That’s just how it works. If you have rare knowledge or a unique way of solving problems, you stand out.
 
@@ -51,8 +46,7 @@ There are things you can plan for the long term, like regular exercise or health
 > _If you want something you’ve never had, you must be willing to do something you’ve never done._
 > — Thomas Jefferson
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9qZWN0JTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDU0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Building Projects Without Waiting for Perfect Timing")
-*How to Start Building Projects Without Waiting for Perfect Timing - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9qZWN0JTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb24lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDU0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Start Building Projects Without Waiting for Perfect Timing" caption="How to Start Building Projects Without Waiting for Perfect Timing - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 The key is to act, even if it’s just a small step. Don’t wait for the perfect moment. Start now, and let your projects become part of who you are.
 

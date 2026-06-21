@@ -12,8 +12,7 @@ original_title = "Comment avancer dans tes réalisations ?"
 source_medium = "https://medium.com/@phenrysay/467b3307440f"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjUyMjk5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress With One Small Step a Day")
-*How to Make Progress With One Small Step a Day - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjUyMjk5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Make Progress With One Small Step a Day" caption="How to Make Progress With One Small Step a Day - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 If you want to go further in your achievements, there’s a simple idea that can change everything: do one small thing every single day. It might sound basic, but this approach is incredibly powerful. When you accomplish a small task daily, you build momentum. Even just ten minutes a day, done consistently, can take you much further than you imagine.
 
@@ -23,8 +22,7 @@ Once you decide that this daily habit is important for you, stick to it. Spend t
 
 This daily commitment creates a ripple effect in your life. It’s not about making huge leaps overnight, but about steady, meaningful progress. Over time, you’ll look back and realize how far you’ve come.
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjUyMjk5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress With One Small Step a Day")
-*How to Make Progress With One Small Step a Day - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjUyMjk5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Make Progress With One Small Step a Day" caption="How to Make Progress With One Small Step a Day - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 > _Success is the sum of small efforts, repeated day in and day out._
 > — Robert Collier
@@ -41,8 +39,7 @@ This daily commitment creates a ripple effect in your life. It’s not about mak
 - Small daily actions create big changes over time.
 - Make sure your daily habits match your real priorities.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1627850650793-3f8d5231ee19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjUyMjk5N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress With One Small Step a Day")
-*How to Make Progress With One Small Step a Day - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-with-red-manicure-holding-purple-paper-32aK4c8Iekc)*
+{{< figure src="https://images.unsplash.com/photo-1627850650793-3f8d5231ee19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjUyMjk5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person with red holding purple paper" title="How to Make Progress With One Small Step a Day" caption="How to Make Progress With One Small Step a Day - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-with-red-manicure-holding-purple-paper-32aK4c8Iekc)" >}}
 
 ---
 

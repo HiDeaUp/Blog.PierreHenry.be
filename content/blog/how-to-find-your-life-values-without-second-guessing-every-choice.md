@@ -12,8 +12,7 @@ original_title = "Comment trouver ses VALEURS DE VIE ?"
 source_medium = "https://medium.com/@phenrysay/e8a025ad4a38"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwdmFsdWVzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Life Values Without Second-Guessing Every Choice")
-*How to Find Your Life Values Without Second-Guessing Every Choice - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwdmFsdWVzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Find Your Life Values Without Second-Guessing Every Choice" caption="How to Find Your Life Values Without Second-Guessing Every Choice - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Setting your values is one of the most important things you can do for yourself. Whether it’s about your professional life or your personal relationships, knowing what truly matters to you makes every decision clearer and every path more honest.
 
@@ -23,8 +22,7 @@ The same goes for finding a company to work for. If you’re job hunting, it’s
 
 If you’re thinking about starting your own business, your values become like a manifesto. When you know what’s good for you, what you enjoy, and what will have a positive impact on your life, you’re already on your way to building something that feels right.
 
-![Young woman in the Anza Borrego Desert.](https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwdmFsdWVzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Life Values Without Second-Guessing Every Choice")
-*How to Find Your Life Values Without Second-Guessing Every Choice - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)*
+{{< figure src="https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwdmFsdWVzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Young woman in the Anza Borrego Desert." title="How to Find Your Life Values Without Second-Guessing Every Choice" caption="How to Find Your Life Values Without Second-Guessing Every Choice - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)" >}}
 
 Now, let’s talk about setting your definition of success. This is just as important as knowing your values. Having goals gives you direction. For example, you might say, “In six months, I want to reach this milestone.” Maybe it’s a certain income, a new skill in martial arts, or even finding a partner who shares your outlook.
 
@@ -40,8 +38,7 @@ If you want to make this real, write your values and goals down. Use a notebook,
 > *“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”*  
 — Albert Schweitzer
 
-![Celebrating the sunset](https://images.unsplash.com/photo-1545945774-73922eb27813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwdmFsdWVzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Your Life Values Without Second-Guessing Every Choice")
-*How to Find Your Life Values Without Second-Guessing Every Choice - Photo by [Debby Hudson](https://unsplash.com/@hudsoncrafted) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-spreading-hands-VIr-KKzL2eg)*
+{{< figure src="https://images.unsplash.com/photo-1545945774-73922eb27813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwdmFsdWVzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Celebrating the sunset" title="How to Find Your Life Values Without Second-Guessing Every Choice" caption="How to Find Your Life Values Without Second-Guessing Every Choice - Photo by [Debby Hudson](https://unsplash.com/@hudsoncrafted) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-spreading-hands-VIr-KKzL2eg)" >}}
 
 ---
 

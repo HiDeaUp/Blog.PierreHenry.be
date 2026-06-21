@@ -12,8 +12,7 @@ original_title = "Comment réorganiser ses journées ?"
 source_medium = "https://medium.com/@phenrysay/2ebe1b427df1"
 +++
 
-![Central Dispatch](https://images.unsplash.com/photo-1509483730228-811e47696246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwcHJvZHVjdGl2aXR5JTIwd29ya3NwYWNlfGVufDB8MHx8fDE3NTU1NTM5NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Refresh Your Routine Without Losing Productivity")
-*How to Refresh Your Routine Without Losing Productivity - Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-computer-monitor-ymuAM4S2fxI)*
+{{< figure src="https://images.unsplash.com/photo-1509483730228-811e47696246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwcHJvZHVjdGl2aXR5JTIwd29ya3NwYWNlfGVufDB8MHx8fDE3NTU1NTM5NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Central Dispatch" title="How to Refresh Your Routine Without Losing Productivity" caption="How to Refresh Your Routine Without Losing Productivity - Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-computer-monitor-ymuAM4S2fxI)" >}}
 
 When it comes to routines, everything depends on where and how you work. Maybe you work from home, or you have a hybrid schedule—sometimes in coffee shops, sometimes in parks, sometimes in coworking spaces, or maybe always from your office. Some people love to switch things up, while others prefer the comfort of a single spot.
 
@@ -25,8 +24,7 @@ But let’s get back to the main point: whether you’re always working from hom
 
 I’ve worked from all kinds of places—beautiful hotels, hostels (even the not-so-clean ones), trains, cars, and boats. I’m lucky that I don’t get motion sickness, so I can work almost anywhere. But not everyone is like that. My partner, for example, gets carsick and can’t use her phone or laptop in a moving vehicle. She has to look out the window or sleep, otherwise she feels terrible. We’re all different, and that’s okay.
 
-![eLearning Plus PDS, una propuesta de capacitación integral y contemporánea.](https://images.unsplash.com/photo-1726365222176-425a1a1b9b98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwcHJvZHVjdGl2aXR5JTIwd29ya3NwYWNlfGVufDB8MHx8fDE3NTU1NTM5NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Refresh Your Routine Without Losing Productivity")
-*How to Refresh Your Routine Without Losing Productivity - Photo by [H Cesar Melendez Ramos](https://unsplash.com/@cisars) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-desk-1uyvQKyq7LU)*
+{{< figure src="https://images.unsplash.com/photo-1726365222176-425a1a1b9b98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwcHJvZHVjdGl2aXR5JTIwd29ya3NwYWNlfGVufDB8MHx8fDE3NTU1NTM5NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="eLearning Plus PDS, una propuesta de capacitación integral y contemporánea." title="How to Refresh Your Routine Without Losing Productivity" caption="How to Refresh Your Routine Without Losing Productivity - Photo by [H Cesar Melendez Ramos](https://unsplash.com/@cisars) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-desk-1uyvQKyq7LU)" >}}
 
 The key is to know which environment makes you most productive. There are also different times of day that work better for different people. Sometimes, outside events force you to change your routine. For example, I recently broke my knee and ended up in the hospital for six days. Even there, I worked from my hospital bed. It wasn’t the best environment—especially in Australia, where hospital rooms are more like open wards with several beds and lots of noise—but I made it work.
 
@@ -42,8 +40,7 @@ I used to work from my bed, but not anymore. Now, if I’m in bed, it’s to res
 >
 > — Pierre
 
-![Photo by Marko Lengyel](https://images.unsplash.com/photo-1705417272217-490f4511abeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwcHJvZHVjdGl2aXR5JTIwd29ya3NwYWNlfGVufDB8MHx8fDE3NTU1NTM5NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Refresh Your Routine Without Losing Productivity")
-*How to Refresh Your Routine Without Losing Productivity - Photo by [Marko Lengyel](https://unsplash.com/@marko_lengyel) on [Unsplash](https://unsplash.com/photos/a-wooden-desk-topped-with-a-laptop-computer-ABuqkAcwlEs)*
+{{< figure src="https://images.unsplash.com/photo-1705417272217-490f4511abeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwcHJvZHVjdGl2aXR5JTIwd29ya3NwYWNlfGVufDB8MHx8fDE3NTU1NTM5NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden desk topped with a laptop" title="How to Refresh Your Routine Without Losing Productivity" caption="How to Refresh Your Routine Without Losing Productivity - Photo by [Marko Lengyel](https://unsplash.com/@marko_lengyel) on [Unsplash](https://unsplash.com/photos/a-wooden-desk-topped-with-a-laptop-computer-ABuqkAcwlEs)" >}}
 
 ---
 

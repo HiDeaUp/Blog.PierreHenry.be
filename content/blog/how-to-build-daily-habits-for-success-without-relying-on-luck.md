@@ -12,8 +12,7 @@ original_title = "Les lois de la réussite. Comment y parvenir ?"
 source_medium = "https://medium.com/@phenrysay/5cd00beffdc2"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTU1NjM1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits for Success Without Relying on Luck")
-*How to Build Daily Habits for Success Without Relying on Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)*
+{{< figure src="https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTU1NjM1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface SNJ1O2 b0IE" title="How to Build Daily Habits for Success Without Relying on Luck" caption="How to Build Daily Habits for Success Without Relying on Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)" >}}
 
 When people talk about the “laws of success,” you might wonder if such laws even exist. Isn’t success just a matter of luck, or maybe hard work? I get it. But let’s look at it another way: what if these “laws” are simply habits or rules you follow every day, the kind that quietly shape your chances of making it?
 
@@ -31,8 +30,7 @@ Your brain starts noticing things you’d usually miss. You change how you see t
 
 ## The Law of Attraction and Daily Routines
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTU1NjM1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits for Success Without Relying on Luck")
-*How to Build Daily Habits for Success Without Relying on Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTU1NjM1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Build Daily Habits for Success Without Relying on Luck" caption="How to Build Daily Habits for Success Without Relying on Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 It’s a bit like the law of attraction: the more you focus on something, the more you believe it’s possible, the more your actions line up with that belief. If you wake up every morning and tell yourself, “Today will be amazing,” you start to believe it. And when you believe it, you act like it.
 
@@ -56,8 +54,7 @@ There are two ways to learn. Some people do the same thing for years without eve
 
 If you want to live a life that matches your dreams, keep pushing yourself. Build routines, learn from your mistakes, and always look for ways to grow.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTU1NjM1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits for Success Without Relying on Luck")
-*How to Build Daily Habits for Success Without Relying on Luck - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTU1NjM1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Build Daily Habits for Success Without Relying on Luck" caption="How to Build Daily Habits for Success Without Relying on Luck - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 > *“The best time to plant a tree was 20 years ago. The second best time is now.”*  
 — Chinese proverb

@@ -12,8 +12,7 @@ original_title = "Comment progresser dans ses journées efficacement ? Méthod
 source_medium = "https://medium.com/@phenrysay/c729aeca8acd"
 +++
 
-![This 3D artwork presents a playful and modern take on the classic alarm clock, blending functionality with creativity. The vibrant blue and yellow color scheme evokes energy and optimism, complemented by stylized stationery elements to highlight themes of productivity and time management. Ideal for use in educational visuals, branding, or creative digital projects.](https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYzMzk3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Wasting Your Day")
-*How to Make Real Progress Without Wasting Your Day - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)*
+{{< figure src="https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYzMzk3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A blue alarm clock with a yellow face" title="How to Make Real Progress Without Wasting Your Day" caption="How to Make Real Progress Without Wasting Your Day - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)" >}}
 
 Making progress each day is critical. When you move forward, accomplish things, and see real results, your days start to have meaning. But not everything you do in a day actually matters. The key is to focus on actions that are part of the famous Pareto Principle: the 20% of efforts that bring 80% of your results.
 
@@ -23,8 +22,7 @@ The solution is to plan your week ahead, using a system that breaks your goals i
 
 Optimization here doesn’t mean squeezing every second out of your day. It means doing only what’s necessary and skipping the rest. Don’t overload yourself with tasks that don’t move you forward.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYzMzk3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Wasting Your Day")
-*How to Make Real Progress Without Wasting Your Day - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYzMzk3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Make Real Progress Without Wasting Your Day" caption="How to Make Real Progress Without Wasting Your Day - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Let me give you a concrete example. Today is the start of my own sprint. I’ve set a clear goal: maybe it’s reaching 20,000 visitors on my YouTube channel, or launching a new feature for my product. I break this big goal into small tasks, or tickets. You can use tools like Trello or Asana for this. Jira is more for big companies and can be expensive, so I don’t recommend it unless you really need it.
 
@@ -44,8 +42,7 @@ The length of your sprint is up to you. It could be a week, two weeks, or whatev
 >
 > — Peter Drucker
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYzMzk3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Wasting Your Day")
-*How to Make Real Progress Without Wasting Your Day - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYzMzk3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Real Progress Without Wasting Your Day" caption="How to Make Real Progress Without Wasting Your Day - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ---
 

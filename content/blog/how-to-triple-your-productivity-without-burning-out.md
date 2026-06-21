@@ -12,8 +12,7 @@ original_title = "LA TECHNIQUE SECRÈTE pour TRIPLER en PRODUCTIVITÉ (même si 
 source_medium = "https://medium.com/@phenrysay/423188053edf"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG92ZXJ3aGVsbXxlbnwwfDB8fHwxNzU1NTA0MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Triple Your Productivity Without Burning Out")
-*How to Triple Your Productivity Without Burning Out - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG92ZXJ3aGVsbXxlbnwwfDB8fHwxNzU1NTA0MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Triple Your Productivity Without Burning Out" caption="How to Triple Your Productivity Without Burning Out - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Whether you’re a freelancer, running your own business, or just starting out on a new project, the excitement is real. You want to jump in, get your hands dirty, and make things happen. But very quickly, you realize there’s just too much to do. You get overwhelmed. And here’s the thing: we all underestimate how little time we really have. A day is short. Our time on earth is limited. That’s why it’s so important to prioritize, keep your energy up, and protect your motivation. Otherwise, you’ll burn out, lose your spark, and end up unable to create anything of real value.
 
@@ -29,8 +28,7 @@ After a session of deep work, take a break. Ask yourself: Did I really add value
 
 ## The Power of Reflection
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG92ZXJ3aGVsbXxlbnwwfDB8fHwxNzU1NTA0MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Triple Your Productivity Without Burning Out")
-*How to Triple Your Productivity Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG92ZXJ3aGVsbXxlbnwwfDB8fHwxNzU1NTA0MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Triple Your Productivity Without Burning Out" caption="How to Triple Your Productivity Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 At the end of each day, review how things went. Are you satisfied with what you achieved? If not, what could you have done differently? What should you keep doing, and what should you stop? Write it down. The next morning, read your list and decide what to act on. This simple habit can change everything.
 
@@ -54,8 +52,7 @@ Sometimes, life throws you curveballs you never saw coming. Recently, I was atta
 
 You can’t control everything. Sometimes, things just happen. The key is to always look forward: What’s next? What can I do now? What can I do tomorrow? Keep your eyes on what you can change, not what you can’t. And don’t be stubborn—if something isn’t working, maybe it’s time to try a different approach. Change your environment, your method, or your mindset.
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG92ZXJ3aGVsbXxlbnwwfDB8fHwxNzU1NTA0MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Triple Your Productivity Without Burning Out")
-*How to Triple Your Productivity Without Burning Out - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG92ZXJ3aGVsbXxlbnwwfDB8fHwxNzU1NTA0MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Triple Your Productivity Without Burning Out" caption="How to Triple Your Productivity Without Burning Out - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 For example, I used to hate mowing the lawn, but I made it better by listening to audiobooks while I worked. It turned a boring task into a chance to learn something new. Little changes like this can make a big difference.
 

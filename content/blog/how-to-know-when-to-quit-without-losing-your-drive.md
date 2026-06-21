@@ -12,8 +12,7 @@ original_title = "Comment ne plus rentrer dans le piège de la persévérance ?"
 source_medium = "https://medium.com/@phenrysay/d2841d270c7e"
 +++
 
-![Photo by Leo_Visions](https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzaXN0ZW5jZSUyMGxldHRpbmclMjBnbyUyMHNlbGYtYXdhcmVuZXNzfGVufDB8MHx8fDE3NTU2MTAyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Know When to Quit Without Losing Your Drive")
-*How to Know When to Quit Without Losing Your Drive - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)*
+{{< figure src="https://images.unsplash.com/photo-1673024918746-d8f90d25abfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzaXN0ZW5jZSUyMGxldHRpbmclMjBnbyUyMHNlbGYtYXdhcmVuZXNzfGVufDB8MHx8fDE3NTU2MTAyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A rock in a body of water with a sky in the" title="How to Know When to Quit Without Losing Your Drive" caption="How to Know When to Quit Without Losing Your Drive - Photo by [Leo_Visions](https://unsplash.com/@leo_visions_) on [Unsplash](https://unsplash.com/photos/a-rock-in-a-body-of-water-with-a-sky-in-the-background-L5FRhNkhQ8U)" >}}
 
 Persistence is often praised as the key to success. We hear it everywhere: never give up, keep pushing, stay the course. But there’s a side to persistence that’s rarely discussed—the moment when it turns into stubbornness and stops serving us.
 
@@ -29,8 +28,7 @@ You need to be clear about your goals. What do you want? Set a deadline. Give yo
 
 Knowing your limits is crucial. Know what you can delegate. Know when your persistence is helping you, and when it’s just holding you back.
 
-![Round river rocks stacked on each other.](https://images.unsplash.com/photo-1599143139434-10092794a7cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzaXN0ZW5jZSUyMGxldHRpbmclMjBnbyUyMHNlbGYtYXdhcmVuZXNzfGVufDB8MHx8fDE3NTU2MTAyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Know When to Quit Without Losing Your Drive")
-*How to Know When to Quit Without Losing Your Drive - Photo by [Kevin Butz](https://unsplash.com/@kevin_butz) on [Unsplash](https://unsplash.com/photos/gray-and-black-stone-stack--I71pDhno_A)*
+{{< figure src="https://images.unsplash.com/photo-1599143139434-10092794a7cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzaXN0ZW5jZSUyMGxldHRpbmclMjBnbyUyMHNlbGYtYXdhcmVuZXNzfGVufDB8MHx8fDE3NTU2MTAyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Round river rocks stacked on each other." title="How to Know When to Quit Without Losing Your Drive" caption="How to Know When to Quit Without Losing Your Drive - Photo by [Kevin Butz](https://unsplash.com/@kevin_butz) on [Unsplash](https://unsplash.com/photos/gray-and-black-stone-stack--I71pDhno_A)" >}}
 
 Success takes time, but it also needs a push. Some people seem lucky, but luck often comes from being ready and putting yourself out there. If you stay in your comfort zone, how can you expect opportunities to come your way? You have to go out, ask, and try. Asking costs nothing. The worst that can happen is a “no.” But not asking is the same as getting a “no” by default. If you ask, you might get a “yes.” That’s a powerful thing we often forget.
 
@@ -52,8 +50,7 @@ Persistence is good, but questioning yourself is even better. Iterate, review, a
 
 ---
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzaXN0ZW5jZSUyMGxldHRpbmclMjBnbyUyMHNlbGYtYXdhcmVuZXNzfGVufDB8MHx8fDE3NTU2MTAyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Know When to Quit Without Losing Your Drive")
-*How to Know When to Quit Without Losing Your Drive - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzaXN0ZW5jZSUyMGxldHRpbmclMjBnbyUyMHNlbGYtYXdhcmVuZXNzfGVufDB8MHx8fDE3NTU2MTAyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How to Know When to Quit Without Losing Your Drive" caption="How to Know When to Quit Without Losing Your Drive - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 ## Key Takeaways
 

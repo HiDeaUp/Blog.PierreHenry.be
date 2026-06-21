@@ -12,8 +12,7 @@ original_title = "La puissance du Time Blocking"
 source_medium = "https://medium.com/@phenrysay/df8dfef61de3"
 +++
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI0MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Your Day With Time Blocking")
-*How to Take Control of Your Day With Time Blocking - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI0MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Take Control of Your Day With Time Blocking" caption="How to Take Control of Your Day With Time Blocking - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 Time blocking is a productivity trick that can truly transform the way you manage your days. It’s not about “boxing” your time, which I often mention elsewhere, but about “blocking” it—organizing your day in a calendar so that every task has its place. While I don’t talk about it as much as time boxing, time blocking can be just as powerful for structuring your day and making sure everything gets done.
 
@@ -27,8 +26,7 @@ Small tasks, like checking the mail, doing laundry, or hanging clothes outside, 
 
 With time blocking, you always know what comes next. You finish one task, move on to the next, and never waste time wondering what to do. For example, you might design a logo for a client, then work on a portfolio site, then send an email, then take a lunch break, then go for a walk, and so on. It helps to give yourself more time than you think you’ll need for each block, so you don’t run over into the next task.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI0MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Your Day With Time Blocking")
-*How to Take Control of Your Day With Time Blocking - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI0MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Take Control of Your Day With Time Blocking" caption="How to Take Control of Your Day With Time Blocking - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Of course, life is flexible. If something urgent comes up, you can move your blocks around. If you need to let a client know a project will be late, you can update your calendar and create a new “urgent” block. This system also gives you a record of what you’ve done in previous weeks and months, which is handy if you ever need to look back.
 
@@ -48,8 +46,7 @@ In the end, time blocking is about giving yourself structure and security. You k
 
 ---
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI0MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Control of Your Day With Time Blocking")
-*How to Take Control of Your Day With Time Blocking - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI0MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Take Control of Your Day With Time Blocking" caption="How to Take Control of Your Day With Time Blocking - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 ## Key Takeaways
 

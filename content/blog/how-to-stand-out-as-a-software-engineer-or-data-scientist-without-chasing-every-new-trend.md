@@ -12,8 +12,7 @@ original_title = "What Makes a Software Engineer. Data Scientist Truly OUTSTANDI
 source_medium = "https://medium.com/@phenrysay/64481fe1182a"
 +++
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGF0YSUyMHNjaWVuY2UlMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzY3MDUyNjExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend")
-*How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGF0YSUyMHNjaWVuY2UlMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzY3MDUyNjExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend" caption="How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 ## The Mindset That Sets You Apart
 
@@ -33,8 +32,7 @@ So, it’s crucial to keep learning what’s actually being used out there. If y
 
 We all have 24 hours in a day. The difference is how we use them. People love to say, “Work smarter, not harder.” But what does that even mean? It sounds clever, but unless you break it down, it’s just noise.
 
-![Photo by Nguyen Dang Hoang Nhu](https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGF0YSUyMHNjaWVuY2UlMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzY3MDUyNjExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend")
-*How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)*
+{{< figure src="https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGF0YSUyMHNjaWVuY2UlMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzY3MDUyNjExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy in blue t shirt sitting on black office rolling chair in front of F" title="How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend" caption="How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)" >}}
 
 Here’s how I see it: focus on the 20 percent of effort that gives you 80 percent of the results. That’s the Pareto principle. Minimum effort, maximum impact. As a software engineer, your goal should always be to find that sweet spot—where you get the biggest outcome for the least stress and time.
 
@@ -56,8 +54,7 @@ So, keep learning, keep building, and keep moving forward. That’s how you beco
 
 ---
 
-![Working on new project on Crumble Office in Prishtina, Kosovo.](https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGF0YSUyMHNjaWVuY2UlMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzY3MDUyNjExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend")
-*How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend - Photo by [Fatos Bytyqi](https://unsplash.com/@fatosi) on [Unsplash](https://unsplash.com/photos/gray-laptop-computer-on-brown-wooden-desk-Agx5_TLsIf4)*
+{{< figure src="https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZGF0YSUyMHNjaWVuY2UlMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzY3MDUyNjExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Working on new project on Crumble Office in Prishtina, Kosovo." title="How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend" caption="How to Stand Out as a Software Engineer or Data Scientist Without Chasing Every New Trend - Photo by [Fatos Bytyqi](https://unsplash.com/@fatosi) on [Unsplash](https://unsplash.com/photos/gray-laptop-computer-on-brown-wooden-desk-Agx5_TLsIf4)" >}}
 
 ## Key Takeaways
 

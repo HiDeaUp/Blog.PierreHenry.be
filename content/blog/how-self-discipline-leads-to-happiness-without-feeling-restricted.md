@@ -12,8 +12,7 @@ original_title = "Autodiscipline: Le secret du bonheur ?"
 source_medium = "https://medium.com/@phenrysay/00139332b9a0"
 +++
 
-!["Discipline" bench - Trophy Point at the United States Military Academy at West Point](https://images.unsplash.com/photo-1588406235219-0314e168c5e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NpcGxpbmUlMjBoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYxMDk3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Self-Discipline Leads to Happiness Without Feeling Restricted")
-*How Self-Discipline Leads to Happiness Without Feeling Restricted - Photo by [Dave Lowe](https://unsplash.com/@thelowedown) on [Unsplash](https://unsplash.com/photos/text-kkQ7oxgQKeM)*
+{{< figure src="https://images.unsplash.com/photo-1588406235219-0314e168c5e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NpcGxpbmUlMjBoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYxMDk3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="&quot;Discipline&quot; bench - Trophy Point at the United States Military Academy at West Point" title="How Self-Discipline Leads to Happiness Without Feeling Restricted" caption="How Self-Discipline Leads to Happiness Without Feeling Restricted - Photo by [Dave Lowe](https://unsplash.com/@thelowedown) on [Unsplash](https://unsplash.com/photos/text-kkQ7oxgQKeM)" >}}
 
 When we think about happiness, self-discipline might not be the first thing that comes to mind. Yet, there’s a deep connection between the two. Many people see discipline as a restriction, but in reality, it’s the very thing that gives us more freedom. When you’re disciplined with yourself, with your goals, and even with your impulses, you open doors to a life that feels lighter and more rewarding.
 
@@ -29,8 +28,7 @@ There’s a saying I love:
 
 This idea might seem strange at first, but it’s true. The more disciplined you are, the freer you become. You’re not at the mercy of every passing desire or distraction. You’re in control.
 
-![Admiration | Instagram: @timmossholder](https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NpcGxpbmUlMjBoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYxMDk3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Self-Discipline Leads to Happiness Without Feeling Restricted")
-*How Self-Discipline Leads to Happiness Without Feeling Restricted - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)*
+{{< figure src="https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NpcGxpbmUlMjBoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYxMDk3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Admiration | Instagram: @timmossholder" title="How Self-Discipline Leads to Happiness Without Feeling Restricted" caption="How Self-Discipline Leads to Happiness Without Feeling Restricted - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)" >}}
 
 People often look at those who have achieved great things—whether it’s wealth, success, or something else—and assume it all came easily. But if you dig into their stories, you’ll see a different picture. They faced setbacks, failures, and long roads. What sets them apart is their ability to keep going, to forget their failures, and to focus on what they want to achieve. They don’t let their past mistakes define them.
 
@@ -47,8 +45,7 @@ If you’re always waiting for the perfect moment, you’ll end up stuck. Life i
 > *The best time to plant a tree was 20 years ago. The second best time is now.*  
 — Chinese Proverb
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NpcGxpbmUlMjBoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYxMDk3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Self-Discipline Leads to Happiness Without Feeling Restricted")
-*How Self-Discipline Leads to Happiness Without Feeling Restricted - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NpcGxpbmUlMjBoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTYxMDk3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How Self-Discipline Leads to Happiness Without Feeling Restricted" caption="How Self-Discipline Leads to Happiness Without Feeling Restricted - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 Don’t put off what you can do today. Invest in yourself, take action, and watch how your life changes. The journey might not always be easy, but it’s worth it. Life is much simpler than we make it out to be. Take it step by step, and you’ll see progress.
 

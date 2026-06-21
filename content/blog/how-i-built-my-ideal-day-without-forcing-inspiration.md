@@ -12,8 +12,7 @@ original_title = "MA JOURNÉE IDÉALE – COMMENT JE L’AI CONSTRUITE (ET COMME
 source_medium = "https://medium.com/@phenrysay/ee6b96dcd464"
 +++
 
-![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1605206731612-e7dc29d3209a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW5zcGlyYXRpb258ZW58MHwwfHx8MTc1NTQzNjUwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How I Built My Ideal Day Without Forcing Inspiration")
-*How I Built My Ideal Day Without Forcing Inspiration - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/white-and-pink-i-love-you-print-box-W-YPDi9BTOk)*
+{{< figure src="https://images.unsplash.com/photo-1605206731612-e7dc29d3209a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW5zcGlyYXRpb258ZW58MHwwfHx8MTc1NTQzNjUwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and pink i love you print box W" title="How I Built My Ideal Day Without Forcing Inspiration" caption="How I Built My Ideal Day Without Forcing Inspiration - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/white-and-pink-i-love-you-print-box-W-YPDi9BTOk)" >}}
 
 There’s something magical about finding a spot that inspires you. For me, it’s a bay with a wide view, surrounded by nature and crowned by a beautiful, solitary tree. No matter the weather—whether the sky is clear or filled with clouds—the view always sparks something inside me. It’s a place that fills me with happiness, satisfaction, and a sense of well-being that’s hard to put into words.
 
@@ -27,8 +26,7 @@ It’s normal to feel weighed down by stress or by the way others treat us. We�
 
 Life is waiting for you. The best time to act is now—not tomorrow, not next week. Start today. Take action, even if it’s just a small step. I’m 100% with you on this.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW5zcGlyYXRpb258ZW58MHwwfHx8MTc1NTQzNjUwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How I Built My Ideal Day Without Forcing Inspiration")
-*How I Built My Ideal Day Without Forcing Inspiration - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW5zcGlyYXRpb258ZW58MHwwfHx8MTc1NTQzNjUwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How I Built My Ideal Day Without Forcing Inspiration" caption="How I Built My Ideal Day Without Forcing Inspiration - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 > _“The journey is beautiful, the path is pleasant. We don’t need to know where it leads; we simply enjoy the way, because the path itself is enjoyable.”_  
 > — Anonymous
@@ -49,8 +47,7 @@ So, today, do something for yourself. Take action. Inaction is the worst thing y
 
 ## Key Takeaways
 
-![Ideaful](https://images.unsplash.com/photo-1549281899-f75600a24107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW5zcGlyYXRpb258ZW58MHwwfHx8MTc1NTQzNjUwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How I Built My Ideal Day Without Forcing Inspiration")
-*How I Built My Ideal Day Without Forcing Inspiration - Photo by [CJ Dayrit](https://unsplash.com/@cjred) on [Unsplash](https://unsplash.com/photos/woman-walking-through-downstairs-xX2aYSBsyKo)*
+{{< figure src="https://images.unsplash.com/photo-1549281899-f75600a24107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW5zcGlyYXRpb258ZW58MHwwfHx8MTc1NTQzNjUwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Ideaful" title="How I Built My Ideal Day Without Forcing Inspiration" caption="How I Built My Ideal Day Without Forcing Inspiration - Photo by [CJ Dayrit](https://unsplash.com/@cjred) on [Unsplash](https://unsplash.com/photos/woman-walking-through-downstairs-xX2aYSBsyKo)" >}}
 
 - Change your environment to change your perspective.
 - Your problems are smaller than you think—don’t let them stop you.

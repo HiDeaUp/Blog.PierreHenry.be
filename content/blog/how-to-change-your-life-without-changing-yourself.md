@@ -12,8 +12,7 @@ original_title = "Transformer sa Vie : Les Lieux comme Piliers de Votre Réussit
 source_medium = "https://medium.com/@phenrysay/1e9ec89b89f6"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzQ5MzI4NjUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Changing Yourself")
-*How to Change Your Life Without Changing Yourself - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzQ5MzI4NjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Change Your Life Without Changing Yourself" caption="How to Change Your Life Without Changing Yourself - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Have you ever noticed how certain places instantly make you feel lighter, more creative, or simply at peace? I’ve found that our environments are not just backdrops to our lives—they’re silent partners in our happiness, our creativity, and even our ability to take a step back and see the bigger picture.
 
@@ -31,8 +30,7 @@ Every evening, give yourself a moment to decompress. Ask yourself: How did my da
 
 Personally, I love sitting on a bench surrounded by nature. If everything around me were concrete, even with a nice view, it wouldn’t have the same effect. Nature and openness together are what really help. If you’re at home and have a big window, add some plants. You need both: a view and a touch of green.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzQ5MzI4NjUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Changing Yourself")
-*How to Change Your Life Without Changing Yourself - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzQ5MzI4NjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Change Your Life Without Changing Yourself" caption="How to Change Your Life Without Changing Yourself - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 Make it a ritual. Brew yourself a cup of tea, or enjoy a snack you love. I’m a fan of fruit energy balls—soft, fruity, and easy to make yourself if you don’t want to buy them. Chewing on something, even gum, can help get your mind going. It’s funny how small comforts like these can spark creativity.
 
@@ -54,8 +52,7 @@ We all deserve to be happy. But too often, we let life be shaped by social press
 
 Time is like a train that never stops. Lose two hours, and they’re gone forever. We only get one life, and it’s limited—even if we don’t know when it will end. So why waste it living a life that isn’t truly yours?
 
-![Photo by Alex Hudson](https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzQ5MzI4NjUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Changing Yourself")
-*How to Change Your Life Without Changing Yourself - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)*
+{{< figure src="https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzQ5MzI4NjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiling man holding cup and using" title="How to Change Your Life Without Changing Yourself" caption="How to Change Your Life Without Changing Yourself - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)" >}}
 
 If your environment or the people around you are holding you back, it’s time to make a change. You become the average of those you spend time with. If you’re surrounded by people living a life opposite to what you want, it’s much harder to change. Your surroundings, your habits, and your company all matter.
 

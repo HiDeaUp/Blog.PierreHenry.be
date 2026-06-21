@@ -12,8 +12,7 @@ original_title = "Pourquoi se créer un mini empire minimaliste"
 source_medium = "https://medium.com/@phenrysay/1598fbe98459"
 +++
 
-![A minimal home office work space](https://images.unsplash.com/photo-1655988940601-7702d8685f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwbGlmZXN0eWxlJTIwZGVzaWduJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU2NTE4MTIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Mini-Empire Without Overcomplicating Your Life")
-*How to Build a Mini-Empire Without Overcomplicating Your Life - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/a-laptop-on-a-table-Z_pg_rltaKE)*
+{{< figure src="https://images.unsplash.com/photo-1655988940601-7702d8685f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwbGlmZXN0eWxlJTIwZGVzaWduJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU2NTE4MTIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A minimal home office work space" title="How to Build a Mini-Empire Without Overcomplicating Your Life" caption="How to Build a Mini-Empire Without Overcomplicating Your Life - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/a-laptop-on-a-table-Z_pg_rltaKE)" >}}
 
 Imagine a business so simple you could run it from anywhere, at any time, without feeling weighed down by endless tools, platforms, or to-do lists. That’s the idea behind building a minimalist mini-empire: a small, focused business that fits into your life instead of taking it over.
 
@@ -25,8 +24,7 @@ Personally, I live in a minimalist environment with few belongings, and my busin
 
 One day, I decided to focus on just one thing each morning. I told my colleagues I wouldn’t be reachable, set my status to “focus mode,” and worked in peace. If I needed a week to myself, I’d set an automatic email reply so people knew I wasn’t available. This let me focus on what mattered, not on every little urgent thing that popped up. The stream of notifications is like mushrooms—they keep popping up endlessly. But if you focus on what’s essential, you’ll have peace of mind.
 
-![Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel](https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwbGlmZXN0eWxlJTIwZGVzaWduJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU2NTE4MTIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Mini-Empire Without Overcomplicating Your Life")
-*How to Build a Mini-Empire Without Overcomplicating Your Life - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)*
+{{< figure src="https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwbGlmZXN0eWxlJTIwZGVzaWduJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU2NTE4MTIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel" title="How to Build a Mini-Empire Without Overcomplicating Your Life" caption="How to Build a Mini-Empire Without Overcomplicating Your Life - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)" >}}
 
 I recommend reading *The One Thing* (also available in French), which is all about focusing on a single task. It’s a great book that dives into the idea of balance—what some call “work-life balance.” When your business is minimalist, it’s easier to manage your daily routine. A small, simple business means fewer headaches. Your business should do one thing: solve a specific problem for a specific group of people. Whether you’re selling a book, an online course, or one-on-one coaching, keep your offer clear and targeted. You get paid for solving a real problem, and that’s it.
 
@@ -48,8 +46,7 @@ The simpler your business, the easier it is to grow. There’s nothing to weigh 
 
 ## Key Takeaways
 
-![Wooden Frame Poster, Canvas painting or Photo Mockup, Download the PSD version of this mockup for free from https://mockupfree.net](https://images.unsplash.com/photo-1695634184046-93d24e779ea7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwbGlmZXN0eWxlJTIwZGVzaWduJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU2NTE4MTIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Mini-Empire Without Overcomplicating Your Life")
-*How to Build a Mini-Empire Without Overcomplicating Your Life - Photo by [Mockup Free](https://unsplash.com/@mockupfreenet) on [Unsplash](https://unsplash.com/photos/a-picture-frame-sitting-on-the-floor-next-to-a-couch-lgsxuU6UhoI)*
+{{< figure src="https://images.unsplash.com/photo-1695634184046-93d24e779ea7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwbGlmZXN0eWxlJTIwZGVzaWduJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU2NTE4MTIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Wooden Frame Poster, Canvas painting or Photo Mockup, Download the PSD version of this mockup for free from https://mockupfree.net" title="How to Build a Mini-Empire Without Overcomplicating Your Life" caption="How to Build a Mini-Empire Without Overcomplicating Your Life - Photo by [Mockup Free](https://unsplash.com/@mockupfreenet) on [Unsplash](https://unsplash.com/photos/a-picture-frame-sitting-on-the-floor-next-to-a-couch-lgsxuU6UhoI)" >}}
 
 - Start your business as small and simple as possible.
 - Only add tools or processes when absolutely necessary.

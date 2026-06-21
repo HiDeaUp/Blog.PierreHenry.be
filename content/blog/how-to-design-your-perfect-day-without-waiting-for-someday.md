@@ -12,8 +12,7 @@ original_title = "Une vie idéale ☀️"
 source_medium = "https://medium.com/@phenrysay/fa93bdd0deb9"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpZGVhbCUyMGxpZmUlMjBwZXJzb25hbCUyMGhhcHBpbmVzcyUyMGRhaWx5JTIwam95fGVufDB8MHx8fDE3NTY1MjYyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Perfect Day Without Waiting for Someday")
-*How to Design Your Perfect Day Without Waiting for Someday - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpZGVhbCUyMGxpZmUlMjBwZXJzb25hbCUyMGhhcHBpbmVzcyUyMGRhaWx5JTIwam95fGVufDB8MHx8fDE3NTY1MjYyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Design Your Perfect Day Without Waiting for Someday" caption="How to Design Your Perfect Day Without Waiting for Someday - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Have you ever wondered what your perfect day would look like? Not just a dream vacation, but a regular day that feels just right for you. The truth is, you can create your own version of a perfect day, and it starts with a simple plan.
 
@@ -23,8 +22,7 @@ Rewarding yourself can also be a powerful motivator. For example, after finishin
 
 But creating your ideal day isn’t just about doing more. It’s also about making space for yourself. After work, you might take a break with a hot chocolate, or schedule a massage. Maybe you can plan a spa weekend once a month, or take mini-vacations from Thursday to Sunday. Imagine leaving on Wednesday or Thursday night, working remotely on Friday, and then enjoying your surroundings for the rest of the weekend. Whether it’s Sweden, Switzerland, or Iceland, these small escapes can boost your happiness in ways that are easier than you might think.
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpZGVhbCUyMGxpZmUlMjBwZXJzb25hbCUyMGhhcHBpbmVzcyUyMGRhaWx5JTIwam95fGVufDB8MHx8fDE3NTY1MjYyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Perfect Day Without Waiting for Someday")
-*How to Design Your Perfect Day Without Waiting for Someday - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpZGVhbCUyMGxpZmUlMjBwZXJzb25hbCUyMGhhcHBpbmVzcyUyMGRhaWx5JTIwam95fGVufDB8MHx8fDE3NTY1MjYyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Design Your Perfect Day Without Waiting for Someday" caption="How to Design Your Perfect Day Without Waiting for Someday - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 The key is to take action. It’s easy to say, “That sounds interesting,” but the real change happens when you start. There’s never a perfect time. The best time is now. Don’t put off what you want to do today.
 
@@ -40,8 +38,7 @@ If you love having yogurt with dark chocolate, or taking a walk in the park near
 
 ---
 
-![A sign on the wall of Konjed Cafe](https://images.unsplash.com/photo-1579542118150-10ecdf5a78dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpZGVhbCUyMGxpZmUlMjBwZXJzb25hbCUyMGhhcHBpbmVzcyUyMGRhaWx5JTIwam95fGVufDB8MHx8fDE3NTY1MjYyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Perfect Day Without Waiting for Someday")
-*How to Design Your Perfect Day Without Waiting for Someday - Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121) on [Unsplash](https://unsplash.com/photos/red-and-white-stop-sign-v3SJShEjoQI)*
+{{< figure src="https://images.unsplash.com/photo-1579542118150-10ecdf5a78dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpZGVhbCUyMGxpZmUlMjBwZXJzb25hbCUyMGhhcHBpbmVzcyUyMGRhaWx5JTIwam95fGVufDB8MHx8fDE3NTY1MjYyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on the wall of Konjed Cafe" title="How to Design Your Perfect Day Without Waiting for Someday" caption="How to Design Your Perfect Day Without Waiting for Someday - Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121) on [Unsplash](https://unsplash.com/photos/red-and-white-stop-sign-v3SJShEjoQI)" >}}
 
 ## Key Takeaways
 - Imagine your perfect day and write down what would make you happy.

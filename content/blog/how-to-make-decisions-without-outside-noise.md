@@ -12,9 +12,7 @@ original_title = "Raisonnement constructif ✨"
 source_medium = "https://medium.com/@phenrysay/9e3dbcf3f174"
 +++
 
-![close up, bokeh, macro, blur, blurred background, close focus, bible, old testament, hebrew bible, christian, judaism, history, text, reading, bible study, devotions, text, NIV, New International Version, type, typography, canon, christianity, holy scripture, holy bible, scripture, chronicles, 2 chronicles, דִּבְרֵי־הַיָּמִים, Diḇrê Hayyāmîm, hebrew bible, final book, ketuvim, tanakh, septuagint, Paralipoménōn,  Books of Paralipomenon, second chronicles, historical, ancient near east texts, anet, 
-](https://images.unsplash.com/photo-1636019197408-c16e04d0206f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25zdHJ1Y3RpdmUlMjByZWFzb25pbmclMjBkZWNpc2lvbiUyMG1ha2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYxMTExNjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Decisions Without Outside Noise")
-*How to Make Decisions Without Outside Noise - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-correrstone-on-a-white-background-c8iu1ilMy4A)*
+{{< figure src="https://images.unsplash.com/photo-1636019197408-c16e04d0206f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25zdHJ1Y3RpdmUlMjByZWFzb25pbmclMjBkZWNpc2lvbiUyMG1ha2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYxMTExNjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word on a white" title="How to Make Decisions Without Outside Noise" caption="How to Make Decisions Without Outside Noise - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-correrstone-on-a-white-background-c8iu1ilMy4A)" >}}
 
 ### When logic wins over confusion
 
@@ -32,8 +30,7 @@ Here’s a practical way to approach it: take a piece of paper and draw a line d
 
 If your decision involves someone else, like a partner or family, your own excitement and clarity can help motivate and encourage them too. The final decision often comes after you’ve imagined yourself living that new life. Picture yourself doing it, not just thinking about it.
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25zdHJ1Y3RpdmUlMjByZWFzb25pbmclMjBkZWNpc2lvbiUyMG1ha2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYxMTExNjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Decisions Without Outside Noise")
-*How to Make Decisions Without Outside Noise - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25zdHJ1Y3RpdmUlMjByZWFzb25pbmclMjBkZWNpc2lvbiUyMG1ha2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYxMTExNjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Make Decisions Without Outside Noise" caption="How to Make Decisions Without Outside Noise - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 Let’s say you want to start a business or you’re tired of your job and want to quit. Give yourself a trial period. Take a week or two off, and during that time, act as if you’ve already made the change. If you want to be a freelancer, spend those two weeks working on your own projects, creating something new. You don’t have to register a company right away, but live as if you’ve already taken the leap.
 
@@ -51,8 +48,7 @@ Always reason things out for yourself. Visualize your options, give yourself a r
 
 ## Key Takeaways
 
-![Photo by Joachim Schnürle](https://images.unsplash.com/photo-1716840646010-e5622fd6683d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25zdHJ1Y3RpdmUlMjByZWFzb25pbmclMjBkZWNpc2lvbiUyMG1ha2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYxMTExNjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Decisions Without Outside Noise")
-*How to Make Decisions Without Outside Noise - Photo by [Joachim Schnürle](https://unsplash.com/@joa70) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-arrows-GYpv7oh1G_A)*
+{{< figure src="https://images.unsplash.com/photo-1716840646010-e5622fd6683d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25zdHJ1Y3RpdmUlMjByZWFzb25pbmclMjBkZWNpc2lvbiUyMG1ha2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYxMTExNjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a piece of paper with arrows" title="How to Make Decisions Without Outside Noise" caption="How to Make Decisions Without Outside Noise - Photo by [Joachim Schnürle](https://unsplash.com/@joa70) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-arrows-GYpv7oh1G_A)" >}}
 
 - *Take time to reason things out for yourself, not just follow others.*
 - *Write down the pros and cons of your choices to see them clearly.*

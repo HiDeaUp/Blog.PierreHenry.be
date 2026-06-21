@@ -12,8 +12,7 @@ original_title = "Utiliser l’apprentissage de la réussite 🚀"
 source_medium = "https://medium.com/@phenrysay/764d5fa23aa7"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NjExMTAwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Faster by Never Stopping Your Learning")
-*How to Grow Faster by Never Stopping Your Learning - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)*
+{{< figure src="https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NjExMTAwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Grow Faster by Never Stopping Your Learning" caption="How to Grow Faster by Never Stopping Your Learning - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)" >}}
 
 Do you ever feel the urge to learn something new, something that excites you and makes you feel alive? As humans, we love to push our limits and discover fresh knowledge. It’s not just about collecting facts, but about opening new doors, climbing step by step, and slowly becoming the person we dream of being. Sometimes, that means aiming for a certain role, a job, or even a bit of recognition. But reaching those goals takes work, and more importantly, it takes challenging yourself.
 
@@ -23,8 +22,7 @@ One principle that can change everything is the Pareto Law: focus on the 20% of 
 
 To really succeed, you need to pay attention to what the market wants right now—not what it wanted yesterday or ten years ago. Try to predict where things are heading. That’s not easy, but you can get a sense of the trends by looking at what’s happening in places that are a bit ahead, like the United States or South Korea. These countries often adopt new ideas before others, and eventually, those trends spread. If you can introduce new things just a little before everyone else—not too early, but just ahead—you’ll have an edge.
 
-![Photo by Tu Tran Anh](https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NjExMTAwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Faster by Never Stopping Your Learning")
-*How to Grow Faster by Never Stopping Your Learning - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)*
+{{< figure src="https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NjExMTAwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a bench with plants growing out of it" title="How to Grow Faster by Never Stopping Your Learning" caption="How to Grow Faster by Never Stopping Your Learning - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)" >}}
 
 Learning every day and staying up to date is a real asset. Being curious and thirsty for knowledge is a goldmine. Never underestimate the power of intellectual curiosity. I recommend always staying alert to what’s around you. Maybe even keep a list of things you want to research, or a “why list”—a list of questions that make you wonder. Isaac Newton, who discovered gravity, talked about his own “why list.” When you keep asking why, you start making connections and finding answers that others miss.
 
@@ -42,8 +40,7 @@ The key is to keep your curiosity alive and never stop learning. Make it a habit
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384679-119488a72a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NjExMTAwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Faster by Never Stopping Your Learning")
-*How to Grow Faster by Never Stopping Your Learning - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabbled-letters-spelling-growth-on-a-wooden-surface-0m-iXOA5wBo)*
+{{< figure src="https://images.unsplash.com/photo-1705234384679-119488a72a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBjdXJpb3NpdHl8ZW58MHwwfHx8MTc1NjExMTAwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Letters growth on a wooden surface 0m" title="How to Grow Faster by Never Stopping Your Learning" caption="How to Grow Faster by Never Stopping Your Learning - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabbled-letters-spelling-growth-on-a-wooden-surface-0m-iXOA5wBo)" >}}
 
 - Focus on learning things that excite you and push your limits.
 - Use your time wisely; it’s not about working more, but working smarter.

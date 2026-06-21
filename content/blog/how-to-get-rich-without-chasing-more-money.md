@@ -12,8 +12,7 @@ original_title = "S'ENRICHIR : CETTE VIDÉO SERA TON MEILLEUR INVESTISSEMENT D'A
 source_medium = "https://medium.com/@phenrysay/d135ac8c3a19"
 +++
 
-![Photo by 金 运](https://images.unsplash.com/photo-1579227114496-27346f474519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMHdlYWx0aCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3NTU0MjE5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Rich Without Chasing More Money")
-*How to Get Rich Without Chasing More Money - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-R2qc9qGVFWI)*
+{{< figure src="https://images.unsplash.com/photo-1579227114496-27346f474519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMHdlYWx0aCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3NTU0MjE5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant" title="How to Get Rich Without Chasing More Money" caption="How to Get Rich Without Chasing More Money - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-R2qc9qGVFWI)" >}}
 
 When people talk about getting rich, most think of making more money. But there’s another way—one that often pays off much more in the long run: investing in yourself. This means putting your time, energy, and even some money into your skills, your experiences, and your well-being.
 
@@ -31,8 +30,7 @@ You don’t have to be Bill Gates to do this. I’ve done it myself, many times.
 
 You don’t need to travel far. Sometimes, just being by the sea or in the mountains is enough. I’m writing this while looking out at Elizabeth Bay. The weather changes quickly here—one moment it’s sunny, the next it’s windy and cool. I’ve even swum in this bay, though you have to watch out for sharks! But the point is, the place itself is beautiful and peaceful.
 
-![Photo by micheile henderson](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMHdlYWx0aCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3NTU0MjE5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Rich Without Chasing More Money")
-*How to Get Rich Without Chasing More Money - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-round-coins-lZ_4nPFKcV8)*
+{{< figure src="https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMHdlYWx0aCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3NTU0MjE5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on brown round coins" title="How to Get Rich Without Chasing More Money" caption="How to Get Rich Without Chasing More Money - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-round-coins-lZ_4nPFKcV8)" >}}
 
 Find a spot where you can be alone with your thoughts. Take a notebook, leave your phone behind, and just let yourself be present. Sometimes, doing nothing is the best thing you can do. Just sit, look around, and let your mind wander. These moments of “non-action” can change everything.
 
@@ -55,8 +53,7 @@ If you want things to be different, you have to act. It’s not always easy, but
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 > — Chinese Proverb
 
-![Photo by 金 运](https://images.unsplash.com/photo-1579227113447-f1e32cc6bd42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMHdlYWx0aCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3NTU0MjE5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Rich Without Chasing More Money")
-*How to Get Rich Without Chasing More Money - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-xhqUamhJaMI)*
+{{< figure src="https://images.unsplash.com/photo-1579227113447-f1e32cc6bd42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMHdlYWx0aCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3NTU0MjE5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant" title="How to Get Rich Without Chasing More Money" caption="How to Get Rich Without Chasing More Money - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-xhqUamhJaMI)" >}}
 
 > *You are the answer to your own questions.*
 > — Anonymous

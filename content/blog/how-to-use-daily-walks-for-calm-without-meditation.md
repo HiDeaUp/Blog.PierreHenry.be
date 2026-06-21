@@ -12,8 +12,7 @@ original_title = "Utiliser les promenades pour son bien-être"
 source_medium = "https://medium.com/@phenrysay/fbf1a4e76881"
 +++
 
-![A moody day in autumn this year in the Yorkshire Dales National Park, as the light hit the limestone rocks on the hill, I took this photography to capture the contrast between light and dark.](https://images.unsplash.com/photo-1698774202452-e5f28f49d73f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3YWxraW5nJTIwd2VsbC1iZWluZyUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTIwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Daily Walks for Calm Without Meditation")
-*How to Use Daily Walks for Calm Without Meditation - Photo by [Illiya Vjestica](https://unsplash.com/@illiyapresents) on [Unsplash](https://unsplash.com/photos/a-field-with-a-fence-and-a-hill-in-the-background-K8ys36ivjPw)*
+{{< figure src="https://images.unsplash.com/photo-1698774202452-e5f28f49d73f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3YWxraW5nJTIwd2VsbC1iZWluZyUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTIwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A field with a fence and a hill in the" title="How to Use Daily Walks for Calm Without Meditation" caption="How to Use Daily Walks for Calm Without Meditation - Photo by [Illiya Vjestica](https://unsplash.com/@illiyapresents) on [Unsplash](https://unsplash.com/photos/a-field-with-a-fence-and-a-hill-in-the-background-K8ys36ivjPw)" >}}
 
 Taking a walk is one of those simple things we often overlook. Yet, it can be a powerful tool for self-reflection and personal growth. I want to share how I use walks, especially at the end of the day, to check in with myself and gently improve my life, step by step.
 
@@ -21,8 +20,7 @@ After work, when the day is winding down, I like to go for a walk. This is my ti
 
 The next morning, I look at the notes I took during my walk. I try to avoid repeating the things that made me feel less happy or productive. Instead, I focus on what might help me feel better. This way, I improve my days little by little. It’s not about making huge changes overnight, but about making small adjustments that add up over time.
 
-![Photo by Alex Gallegos](https://images.unsplash.com/photo-1711934046952-88c0b0604315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwd2VsbC1iZWluZyUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTIwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Daily Walks for Calm Without Meditation")
-*How to Use Daily Walks for Calm Without Meditation - Photo by [Alex Gallegos](https://unsplash.com/@alexgallegos) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-next-to-a-tree-0SOZQbxp3U8)*
+{{< figure src="https://images.unsplash.com/photo-1711934046952-88c0b0604315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwd2VsbC1iZWluZyUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTIwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman walking down a next to a tree" title="How to Use Daily Walks for Calm Without Meditation" caption="How to Use Daily Walks for Calm Without Meditation - Photo by [Alex Gallegos](https://unsplash.com/@alexgallegos) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-next-to-a-tree-0SOZQbxp3U8)" >}}
 
 This practice is about questioning yourself in a gentle way. Was I productive today? Did I spend too much time on something that wasn’t really worth it? What could I do differently tomorrow? By asking these questions, you start to shape your days to fit the life you want.
 
@@ -36,8 +34,7 @@ You don’t need anything special to start. Just take a walk, think about your d
 
 ---
 
-![Photo by MINGYUE SUN](https://images.unsplash.com/photo-1477140734977-395331f85087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwd2VsbC1iZWluZyUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTIwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Daily Walks for Calm Without Meditation")
-*How to Use Daily Walks for Calm Without Meditation - Photo by [MINGYUE SUN](https://unsplash.com/@vickysun) on [Unsplash](https://unsplash.com/photos/person-walking-on-black-paved-alley-FryCmDQUioI)*
+{{< figure src="https://images.unsplash.com/photo-1477140734977-395331f85087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwd2VsbC1iZWluZyUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTIwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person walking on black paved alley" title="How to Use Daily Walks for Calm Without Meditation" caption="How to Use Daily Walks for Calm Without Meditation - Photo by [MINGYUE SUN](https://unsplash.com/@vickysun) on [Unsplash](https://unsplash.com/photos/person-walking-on-black-paved-alley-FryCmDQUioI)" >}}
 
 ## Key Takeaways
 - Use daily walks to reflect on your day and your feelings.

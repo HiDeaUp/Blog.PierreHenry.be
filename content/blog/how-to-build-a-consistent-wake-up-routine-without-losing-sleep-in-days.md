@@ -12,8 +12,7 @@ original_title = "Développer une routine qui mène vers la réussite"
 source_medium = "https://medium.com/@phenrysay/f3a86450a887"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjMzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days")
-*How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjMzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days" caption="How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 When it comes to routines, especially sleep routines, the most important thing is consistency. Going to bed and waking up at the same time every day—even on weekends—can make a huge difference in your life. It’s not just about discipline; it’s about giving your body and mind the stability they need to function at their best.
 
@@ -25,8 +24,7 @@ Why is this so important? Because once you allow yourself an exception, it becom
 
 It’s tempting, especially in winter, to crawl back into bed when it’s cold and your partner is still sleeping. But I know from experience: if I wake up late, I feel like my whole day is wasted. And once you start making exceptions, it’s much harder to keep your rhythm. The trick is to never allow yourself that first exception. If you’re tired, take a nap or go to bed earlier, but don’t let yourself sleep in.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjMzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days")
-*How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjMzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days" caption="How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 This is why Mondays feel so tough after a weekend. Most people change their routine on Saturday and Sunday, and then struggle to get back into the groove. The same thing happens after a long vacation. The longer the break, the harder it is to return to your old habits. I remember when I was studying for my master’s in data science—I almost took a break, and I know it would have been so much harder to get back into the study routine afterward.
 
@@ -46,8 +44,7 @@ I wrote about this in my book, *Success Is Not Far Away*. I started writing it f
 
 ## Key Takeaways
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjMzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days")
-*How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwY29uc2lzdGVuY3klMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjMzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days" caption="How to Build a Consistent Wake-Up Routine Without Losing Sleep-In Days - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 - Wake up and go to bed at the same time every day—even on weekends.
 - If you’re tired, take a nap or go to bed earlier, but don’t sleep in.

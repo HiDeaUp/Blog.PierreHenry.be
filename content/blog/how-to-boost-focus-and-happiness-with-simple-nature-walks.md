@@ -12,8 +12,7 @@ original_title = "RÉUSSIR DANS LA VIE: Utiliser les balades en nature"
 source_medium = "https://medium.com/@phenrysay/ad362a6b1672"
 +++
 
-![Photo by Linus Geffarth](https://images.unsplash.com/photo-1620674555808-91d09e5e167a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjB3YWxrcyUyMG1lbnRhbCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTk5Njk4OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus and Happiness With Simple Nature Walks")
-*How to Boost Focus and Happiness With Simple Nature Walks - Photo by [Linus Geffarth](https://unsplash.com/@linusgeffarth) on [Unsplash](https://unsplash.com/photos/woman-in-green-long-sleeve-shirt-and-black-pants-standing-on-green-grass-field-near-body-vtayvCjLO80)*
+{{< figure src="https://images.unsplash.com/photo-1620674555808-91d09e5e167a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjB3YWxrcyUyMG1lbnRhbCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTk5Njk4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in green long sleeve shirt and black pants on green grass field near body" title="How to Boost Focus and Happiness With Simple Nature Walks" caption="How to Boost Focus and Happiness With Simple Nature Walks - Photo by [Linus Geffarth](https://unsplash.com/@linusgeffarth) on [Unsplash](https://unsplash.com/photos/woman-in-green-long-sleeve-shirt-and-black-pants-standing-on-green-grass-field-near-body-vtayvCjLO80)" >}}
 
 Taking a walk in nature is much more than just a way to stretch your legs. It can be a powerful tool for improving your mental well-being, happiness, and even your success in life. The way you approach these walks makes all the difference.
 
@@ -23,8 +22,7 @@ Being present means paying attention to what surrounds you. It’s about observi
 
 On the other hand, if you ignore the world around you and let your mind fill with complaints or negativity, you risk falling into a vicious cycle. Negativity feeds on itself, making things feel even heavier. But by choosing to be present and open, you create a virtuous circle. The more you appreciate nature, the more you enjoy the world, and the happier and more energetic you become.
 
-![Old man walking through the forest](https://images.unsplash.com/photo-1609625743823-f4960243e496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuYXR1cmUlMjB3YWxrcyUyMG1lbnRhbCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTk5Njk4OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus and Happiness With Simple Nature Walks")
-*How to Boost Focus and Happiness With Simple Nature Walks - Photo by [Jan Huber](https://unsplash.com/@jan_huber) on [Unsplash](https://unsplash.com/photos/person-in-black-jacket-walking-on-pathway-between-green-trees-during-daytime-EWzWAuS1WYs)*
+{{< figure src="https://images.unsplash.com/photo-1609625743823-f4960243e496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuYXR1cmUlMjB3YWxrcyUyMG1lbnRhbCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTk5Njk4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Old man walking through the forest" title="How to Boost Focus and Happiness With Simple Nature Walks" caption="How to Boost Focus and Happiness With Simple Nature Walks - Photo by [Jan Huber](https://unsplash.com/@jan_huber) on [Unsplash](https://unsplash.com/photos/person-in-black-jacket-walking-on-pathway-between-green-trees-during-daytime-EWzWAuS1WYs)" >}}
 
 Nature acts like a bath for your mind, washing away mental fog and clearing out the clutter. This mental clarity helps you focus on what you want to achieve right now. You’ll find your productivity rising and your ability to get things done improving. Even a short walk in the woods can make a real difference in how you approach your day.
 
@@ -40,8 +38,7 @@ This exercise is simple, but it’s incredibly important for your personal growt
 > *Adopt the pace of nature: her secret is patience.*
 — Ralph Waldo Emerson
 
-![花、flower、道路、道、通路、苔、green Beautiful green and flower garden、Beautiful and pretty flowers 新緑と美しい花が織りなす絶景 A superb view of fresh greenery and beautiful flowers、Hitachi fudokinooka wa, furuku kara hitachi nokuni no seiji bunka no chūshin to shite haete kita Ishioka-shi ni aru rekishi taiken no dekiru yoka katsuyō shisetsu. Shikichi-nai ni wa, Ishioka-shi no kodai kaoku o fukugen shita hiroba ya, kodai no Kanoko shiseki o fukugen shita kōen ga arimasu. Iriguchi no nagayamon no kyū shoyū-sha wa Edo jidai ni tsukurizakaya o itonande ita gōshō de, maguchi 16-ken no mon ni wa shuyō-zai ni keyaki ya mat](https://images.unsplash.com/photo-1683852709141-390a8d60207d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjB3YWxrcyUyMG1lbnRhbCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTk5Njk4OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus and Happiness With Simple Nature Walks")
-*How to Boost Focus and Happiness With Simple Nature Walks - Photo by [Naoki Suzuki](https://unsplash.com/@naopp) on [Unsplash](https://unsplash.com/photos/a-path-in-the-middle-of-a-lush-green-forest-kmv3O4Lk2bM)*
+{{< figure src="https://images.unsplash.com/photo-1683852709141-390a8d60207d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjB3YWxrcyUyMG1lbnRhbCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTk5Njk4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A path in the middle of a lush green forest" title="How to Boost Focus and Happiness With Simple Nature Walks" caption="How to Boost Focus and Happiness With Simple Nature Walks - Photo by [Naoki Suzuki](https://unsplash.com/@naopp) on [Unsplash](https://unsplash.com/photos/a-path-in-the-middle-of-a-lush-green-forest-kmv3O4Lk2bM)" >}}
 
 ---
 

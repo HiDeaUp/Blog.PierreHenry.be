@@ -12,8 +12,7 @@ original_title = "Allègement mental"
 source_medium = "https://medium.com/@phenrysay/bcd2ea3dfb71"
 +++
 
-![Photo by Giulia Bertelli](https://images.unsplash.com/photo-1718975592728-7b594fb035b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzZWxmLWNhcmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTIyMjk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Forcing Productivity")
-*How to Reset Your Mind Without Forcing Productivity - Photo by [Giulia Bertelli](https://unsplash.com/@giulia_bertelli) on [Unsplash](https://unsplash.com/photos/a-book-opened-to-a-page-with-a-plant-in-it-HH7ucPLZ9sk)*
+{{< figure src="https://images.unsplash.com/photo-1718975592728-7b594fb035b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzZWxmLWNhcmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTIyMjk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A book opened to a page with a plant in it" title="How to Reset Your Mind Without Forcing Productivity" caption="How to Reset Your Mind Without Forcing Productivity - Photo by [Giulia Bertelli](https://unsplash.com/@giulia_bertelli) on [Unsplash](https://unsplash.com/photos/a-book-opened-to-a-page-with-a-plant-in-it-HH7ucPLZ9sk)" >}}
 
 There are days when energy and enthusiasm seem to vanish. You reach a point where you just can’t keep going, even though you know you once loved what you were doing. I remember my years as a freelancer, selling professional CMS platforms for building social networks and dating sites. I had my own company in the UK, living between Manchester and London, and I kept at it for several years. Even after moving to Ireland, I continued working on my open-source CMS, selling both free and paid features.
 
@@ -25,8 +24,7 @@ Right now, I’m writing from the Adelaide Botanic Garden in South Australia. Th
 
 Often, we make our problems out to be huge, but in reality, we can change direction at any moment. Life doesn’t always go as planned, and that’s okay. Being flexible and accepting surprises is part of the journey.
 
-![Photo by Giulia Bertelli](https://images.unsplash.com/photo-1718975591907-03c8e6962249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBzZWxmLWNhcmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTIyMjk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Forcing Productivity")
-*How to Reset Your Mind Without Forcing Productivity - Photo by [Giulia Bertelli](https://unsplash.com/@giulia_bertelli) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-book-open-to-a-plant-lmU31h17Vxw)*
+{{< figure src="https://images.unsplash.com/photo-1718975591907-03c8e6962249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBzZWxmLWNhcmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTIyMjk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a book open to a plant" title="How to Reset Your Mind Without Forcing Productivity" caption="How to Reset Your Mind Without Forcing Productivity - Photo by [Giulia Bertelli](https://unsplash.com/@giulia_bertelli) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-book-open-to-a-plant-lmU31h17Vxw)" >}}
 
 I brought my things with me to the garden—my two laptops, my backpack, my Bose headphones, and a French magazine. I had breakfast here, too. These moments of rest, reading, and just being present are precious. For many people, reading is a way to step back and recharge. Watching a series is nice, but a good book, especially one that draws you in, can be even more powerful.
 
@@ -44,8 +42,7 @@ Nature itself is a great teacher. Spending time outdoors, practicing what’s ca
 
 So, take time for yourself. Go to a park, read a book, write, or just sit quietly. Enjoy the small things and the present moment. Life is about these simple joys.
 
-![Photo by Alexey Demidov](https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzZWxmLWNhcmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTIyMjk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Mind Without Forcing Productivity")
-*How to Reset Your Mind Without Forcing Productivity - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)*
+{{< figure src="https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzZWxmLWNhcmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTIyMjk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a dock looking at a lake" title="How to Reset Your Mind Without Forcing Productivity" caption="How to Reset Your Mind Without Forcing Productivity - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)" >}}
 
 ---
 

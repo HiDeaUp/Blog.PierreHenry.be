@@ -12,8 +12,7 @@ original_title = "*SEULE* HABITUDE À PRATIQUER QUI PEUT TOUT CHANGER DANS TA VI
 source_medium = "https://medium.com/@phenrysay/6c8986849b2a"
 +++
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGZvcm1hdGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NzI3MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life in 2 Minutes Each Morning")
-*How to Transform Your Life in 2 Minutes Each Morning - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGZvcm1hdGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NzI3MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Transform Your Life in 2 Minutes Each Morning" caption="How to Transform Your Life in 2 Minutes Each Morning - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 What if there was one habit that could help you feel more in control of yourself, boost your happiness, and even improve your health? Imagine waking up with more energy, feeling less down, and having the motivation to tackle your day. This habit is not complicated, expensive, or time-consuming. In fact, it takes just a couple of minutes each morning. Let me share with you the one practice that has truly changed my life: the cold shower.
 
@@ -27,8 +26,7 @@ I’m not talking about severe depression here, but those moments when you feel 
 
 I started this habit years ago, and it has stuck with me ever since. My first experience was in Iceland, during a volunteer project on a self-sufficient farm. That was back in 2017, and I can hardly believe it’s been eight years since then. After Iceland, I moved to Canada and spent three months in Vancouver, British Columbia. It was there that I really committed to the cold shower routine.
 
-![This photograph showcases a beautifully arranged breakfast on a rustic wooden table. The setting includes a golden, flaky croissant placed on a black bamboo placemat, accompanied by a cup of frothy cappuccino in a deep brown ceramic mug. To the left, a white plate holds a serving of yogurt topped with dark berry jam. Next to the plate, there is an elegant glass of water with a decorative stem. A folded pink napkin with a wavy pattern rests beside the glass. Additionally, two whole passion fruits and a silver spoon complete the composition. The lighting is soft and natural, casting gentle shado](https://images.unsplash.com/photo-1743184579790-6828eb39d513?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGZvcm1hdGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NzI3MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life in 2 Minutes Each Morning")
-*How to Transform Your Life in 2 Minutes Each Morning - Photo by [Marco Palumbo](https://unsplash.com/@sapporo2025) on [Unsplash](https://unsplash.com/photos/breakfast-is-set-with-food-and-drink--H2EGDd-r9g)*
+{{< figure src="https://images.unsplash.com/photo-1743184579790-6828eb39d513?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGZvcm1hdGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NzI3MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Is set with food and drink H2EGDd r9g" title="How to Transform Your Life in 2 Minutes Each Morning" caption="How to Transform Your Life in 2 Minutes Each Morning - Photo by [Marco Palumbo](https://unsplash.com/@sapporo2025) on [Unsplash](https://unsplash.com/photos/breakfast-is-set-with-food-and-drink--H2EGDd-r9g)" >}}
 
 Those months in Vancouver were unforgettable. I met incredible people, explored new places, and even attended a language school to meet more locals. I was traveling alone, running my business remotely, and had taken a six-month sabbatical from my job in Ireland. That break was exactly what I needed, and I’m grateful my company offered it after two years of working there.
 
@@ -50,8 +48,7 @@ The best time to take action is now. If you have the right mindset and determina
 
 ---
 
-![Instagram: @LauraChouette 📸 and www.laurachouette.com 🌐 ](https://images.unsplash.com/photo-1599488108446-ba996ffe4401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGZvcm1hdGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NzI3MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life in 2 Minutes Each Morning")
-*How to Transform Your Life in 2 Minutes Each Morning - Photo by [Laura Chouette](https://unsplash.com/@laurachouette) on [Unsplash](https://unsplash.com/photos/person-in-gray-and-white-long-sleeve-shirt-holding-white-book-G7bI8cs6_kU)*
+{{< figure src="https://images.unsplash.com/photo-1599488108446-ba996ffe4401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGZvcm1hdGlvbiUyMG1vcm5pbmclMjByb3V0aW5lJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU1NzI3MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Instagram: @LauraChouette 📸 and www.laurachouette.com 🌐" title="How to Transform Your Life in 2 Minutes Each Morning" caption="How to Transform Your Life in 2 Minutes Each Morning - Photo by [Laura Chouette](https://unsplash.com/@laurachouette) on [Unsplash](https://unsplash.com/photos/person-in-gray-and-white-long-sleeve-shirt-holding-white-book-G7bI8cs6_kU)" >}}
 
 ## Key Takeaways
 

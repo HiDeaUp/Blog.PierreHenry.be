@@ -12,8 +12,7 @@ original_title = "Peut-on Avoir Une Vie Légère ? 🏆"
 source_medium = "https://medium.com/@phenrysay/9a6eec823c12"
 +++
 
-![Anchored in Tranquility: A White Boat Bow on Dark Navy Water](https://images.unsplash.com/photo-1681026143189-cc780f4c7939?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU2NTEwMDU3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Simplifying Your Life")
-*How to Achieve More by Simplifying Your Life - Photo by [Vlad Kutepov](https://unsplash.com/@kvtepov) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-boat-tied-to-a-dock-IDzP88SCICA)*
+{{< figure src="https://images.unsplash.com/photo-1681026143189-cc780f4c7939?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU2NTEwMDU3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Anchored in Tranquility: A White Boat Bow on Dark Navy Water" title="How to Achieve More by Simplifying Your Life" caption="How to Achieve More by Simplifying Your Life - Photo by [Vlad Kutepov](https://unsplash.com/@kvtepov) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-boat-tied-to-a-dock-IDzP88SCICA)" >}}
 
 Living a lighter life is not about doing less. It’s about doing more with less. When you simplify your days, you create space in your mind and your schedule. This space lets you tackle bigger, more complex projects with greater calm and satisfaction. Simplicity is not just a trend; it’s an elegant, lasting process that lets you achieve much more.
 
@@ -25,8 +24,7 @@ This minimalist mindset applies to every part of life. The less clutter you have
 
 A simple home is easier to clean and maintain. If your clothes all match, you don’t waste time sorting laundry. You can use your creativity for things that matter, not for managing clutter. A lighter life opens up new possibilities and lets you do things you never thought possible.
 
-![Minimal work From Home Office 3d Render](https://images.unsplash.com/photo-1724422109078-3c837b7a66eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU2NTEwMDU3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Simplifying Your Life")
-*How to Achieve More by Simplifying Your Life - Photo by [Suleman Serwar](https://unsplash.com/@musi_studio) on [Unsplash](https://unsplash.com/photos/a-chair-and-a-table-in-a-room-dBMgANedFno)*
+{{< figure src="https://images.unsplash.com/photo-1724422109078-3c837b7a66eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU2NTEwMDU3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Minimal work From Home Office 3d Render" title="How to Achieve More by Simplifying Your Life" caption="How to Achieve More by Simplifying Your Life - Photo by [Suleman Serwar](https://unsplash.com/@musi_studio) on [Unsplash](https://unsplash.com/photos/a-chair-and-a-table-in-a-room-dBMgANedFno)" >}}
 
 Transportation is another area to simplify. Use the most reliable and straightforward option, whether it’s public transport or your car. Avoid hidden costs and unexpected breakdowns by choosing what works best for you and sticking with it. Always look for the easiest, most direct path to your destination. That’s the real key to a lighter day and a lighter life.
 
@@ -44,8 +42,7 @@ Simplicity is not about deprivation. It’s about making room for what’s impor
 
 ## Key Takeaways
 
-![Exterior of a residential building ](https://images.unsplash.com/photo-1594468243603-445ea80ff649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU2NTEwMDU3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Simplifying Your Life")
-*How to Achieve More by Simplifying Your Life - Photo by [K8](https://unsplash.com/@_k8_) on [Unsplash](https://unsplash.com/photos/white-concrete-building-with-windows-ZfqS-j_GP2M)*
+{{< figure src="https://images.unsplash.com/photo-1594468243603-445ea80ff649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwc2ltcGxpY2l0eSUyMGxpZmVzdHlsZXxlbnwwfDB8fHwxNzU2NTEwMDU3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Exterior of a residential building" title="How to Achieve More by Simplifying Your Life" caption="How to Achieve More by Simplifying Your Life - Photo by [K8](https://unsplash.com/@_k8_) on [Unsplash](https://unsplash.com/photos/white-concrete-building-with-windows-ZfqS-j_GP2M)" >}}
 
 - *Reduce choices in daily life to save time and energy*
 - *Repeat meals and outfits to avoid decision fatigue*

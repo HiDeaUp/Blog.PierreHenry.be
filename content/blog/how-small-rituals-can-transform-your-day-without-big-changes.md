@@ -12,8 +12,7 @@ original_title = "Ma routine du succès : comment réinventer ses journées"
 source_medium = "https://medium.com/@phenrysay/fba4e155a13a"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcm91dGluZSUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTUwMzkwMHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Rituals Can Transform Your Day Without Big Changes")
-*How Small Rituals Can Transform Your Day Without Big Changes - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcm91dGluZSUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTUwMzkwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How Small Rituals Can Transform Your Day Without Big Changes" caption="How Small Rituals Can Transform Your Day Without Big Changes - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 We often talk about big changes when we want to improve our lives, but sometimes, it’s the smallest habits that make the biggest difference. I want to share with you the idea of “Soul Rituals”—those little routines that bring comfort, joy, and a sense of meaning to our days.
 
@@ -25,8 +24,7 @@ For me, my morning ritual is a short walk around my neighborhood. It only takes 
 
 This idea of rituals isn’t new. Even Queen Elizabeth II had her own little routines. Every evening, she would have a small glass of whisky and take a bath with a yellow rubber duck—apparently a gift from her grandchildren. She also had a strict tea time at 5 p.m., never missing it. These rituals weren’t just about the actions themselves, but about the comfort and memories they brought.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcm91dGluZSUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTUwMzkwMHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Rituals Can Transform Your Day Without Big Changes")
-*How Small Rituals Can Transform Your Day Without Big Changes - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcm91dGluZSUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTUwMzkwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How Small Rituals Can Transform Your Day Without Big Changes" caption="How Small Rituals Can Transform Your Day Without Big Changes - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 Most of us have one or two rituals that we follow almost religiously. It could be listening to the radio while having breakfast, or drinking a glass of milk every morning. These small acts can make us feel grounded and happy.
 
@@ -46,8 +44,7 @@ The beauty of soul rituals is that they’re personal. They don’t have to be b
 
 ## Key Takeaways
 
-![Having coffee while journaling on a moody winter day](https://images.unsplash.com/photo-1638406369881-992bc3e1132f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcm91dGluZSUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTUwMzkwMHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Rituals Can Transform Your Day Without Big Changes")
-*How Small Rituals Can Transform Your Day Without Big Changes - Photo by [Rashtravardhan Kataria](https://unsplash.com/@almostfilmmaker) on [Unsplash](https://unsplash.com/photos/a-red-book-with-the-words-you-are-your-only-limit-next-to-a-cup-of-P0ORu93aMF0)*
+{{< figure src="https://images.unsplash.com/photo-1638406369881-992bc3e1132f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcm91dGluZSUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTUwMzkwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Having coffee while journaling on a moody winter day" title="How Small Rituals Can Transform Your Day Without Big Changes" caption="How Small Rituals Can Transform Your Day Without Big Changes - Photo by [Rashtravardhan Kataria](https://unsplash.com/@almostfilmmaker) on [Unsplash](https://unsplash.com/photos/a-red-book-with-the-words-you-are-your-only-limit-next-to-a-cup-of-P0ORu93aMF0)" >}}
 
 - Soul rituals are small, positive routines that bring comfort and meaning to your day.
 - They’re personal and simple—like a morning walk, a cup of tea, or reading before bed.

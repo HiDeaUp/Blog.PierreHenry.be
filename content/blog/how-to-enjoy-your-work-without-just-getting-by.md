@@ -12,8 +12,7 @@ original_title = "Prendre plaisir avec son boulot (pour du vrai !)"
 source_medium = "https://medium.com/@phenrysay/66e2a8892d63"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632961972908-ee55c3e39555?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwZmluZGluZyUyMGpveSUyMGNhcmVlciUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2MjcxOTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Your Work Without Just Getting By")
-*How to Enjoy Your Work Without Just Getting By - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-that-says-joy-next-to-a-bouquet-of-flowers-_RkZ02GMoEY)*
+{{< figure src="https://images.unsplash.com/photo-1632961972908-ee55c3e39555?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwZmluZGluZyUyMGpveSUyMGNhcmVlciUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2MjcxOTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block that says joy next to a bouquet of flowers" title="How to Enjoy Your Work Without Just Getting By" caption="How to Enjoy Your Work Without Just Getting By - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-that-says-joy-next-to-a-bouquet-of-flowers-_RkZ02GMoEY)" >}}
 
 Too often, we let life slip by without really enjoying it. We get stuck in routines, moving from one day to the next, barely noticing that we’re not actually loving our lives. Days pass, and if you haven’t truly enjoyed them, those are days you can never get back. A beautiful life is made up of many beautiful days. If you’re just going through the motions, not appreciating what you do, it’s a bit sad—because life is truly something wonderful.
 
@@ -25,8 +24,7 @@ Now, you might wonder how to bring that feeling into your adult life. Here’s t
 
 There’s something magical about selling dreams. When you share what you love, you make others dream too, and that’s one of the best jobs in the world. You’re not just dreaming; you’re making your dream real. Many people think their dreams are impossible, but with a clear vision, you can make them happen.
 
-![Grounded FW 21](https://images.unsplash.com/photo-1644952350841-070996fad2af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwZmluZGluZyUyMGpveSUyMGNhcmVlciUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2MjcxOTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Your Work Without Just Getting By")
-*How to Enjoy Your Work Without Just Getting By - Photo by [Matthew Moloney](https://unsplash.com/@mattmoloney) on [Unsplash](https://unsplash.com/photos/diagram-engineering-drawing-calendar-mKtfd1SOYDc)*
+{{< figure src="https://images.unsplash.com/photo-1644952350841-070996fad2af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwZmluZGluZyUyMGpveSUyMGNhcmVlciUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2MjcxOTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Grounded FW 21" title="How to Enjoy Your Work Without Just Getting By" caption="How to Enjoy Your Work Without Just Getting By - Photo by [Matthew Moloney](https://unsplash.com/@mattmoloney) on [Unsplash](https://unsplash.com/photos/diagram-engineering-drawing-calendar-mKtfd1SOYDc)" >}}
 
 Burnout often comes from a lack of balance in your days. If you’re always working in your business, stuck in the details, you lose sight of the bigger picture. It’s like working on a factory line: you execute tasks, but you don’t see the whole. To succeed, you need to step back and look at your business from above, like looking out from a watchtower to spot opportunities and dangers.
 
@@ -42,8 +40,7 @@ Balance is key. Many people dream of being their own boss, but end up creating t
 
 ---
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwZmluZGluZyUyMGpveSUyMGNhcmVlciUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2MjcxOTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Your Work Without Just Getting By")
-*How to Enjoy Your Work Without Just Getting By - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrJTIwc2F0aXNmYWN0aW9uJTIwZmluZGluZyUyMGpveSUyMGNhcmVlciUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2MjcxOTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Enjoy Your Work Without Just Getting By" caption="How to Enjoy Your Work Without Just Getting By - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 ## Key Takeaways
 

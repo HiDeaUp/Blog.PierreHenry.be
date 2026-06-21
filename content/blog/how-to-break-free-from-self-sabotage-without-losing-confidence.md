@@ -12,8 +12,7 @@ original_title = "Devenir RÉSILIENT & RÉSISTANT 💪"
 source_medium = "https://medium.com/@phenrysay/d60588526b46"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1lbnRhbCUyMHN0cmVuZ3RofGVufDB8MHx8fDE3NTYxMDg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Free From Self-Sabotage Without Losing Confidence")
-*How to Break Free From Self-Sabotage Without Losing Confidence - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1lbnRhbCUyMHN0cmVuZ3RofGVufDB8MHx8fDE3NTYxMDg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How to Break Free From Self-Sabotage Without Losing Confidence" caption="How to Break Free From Self-Sabotage Without Losing Confidence - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 Many people don’t realize it, but self-destruction often starts with the way we talk to ourselves. We repeat negative beliefs: “I’ll never succeed at this,” “I’m not smart enough,” or “People like me don’t achieve those things.” These thoughts quietly eat away at our confidence and keep us stuck. Instead of taking charge of our lives, we end up just enduring them.
 
@@ -26,8 +25,7 @@ Let’s be honest: most of the limits we see are self-imposed. When faced with a
 > *“Whatever the mind can conceive and believe, it can achieve.”*  
 — Napoleon Hill
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1lbnRhbCUyMHN0cmVuZ3RofGVufDB8MHx8fDE3NTYxMDg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Free From Self-Sabotage Without Losing Confidence")
-*How to Break Free From Self-Sabotage Without Losing Confidence - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)*
+{{< figure src="https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1lbnRhbCUyMHN0cmVuZ3RofGVufDB8MHx8fDE3NTYxMDg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads" title="How to Break Free From Self-Sabotage Without Losing Confidence" caption="How to Break Free From Self-Sabotage Without Losing Confidence - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)" >}}
 
 It’s not about never failing. Even Louis Pasteur, the French scientist who created the vaccine, failed hundreds of times before finding the right formula. If he had given up after his first hundred failures, we might not have vaccines today. Many others probably tried and quit, thinking it was impossible. But persistence always finds a way.
 
@@ -44,8 +42,7 @@ Your posture, your words, and the way you present yourself matter. To succeed, s
 
 Surround yourself with positive influences. If your environment is negative, it will drag you down. If you can’t find inspiring people in real life, invite them into your world virtually—watch their videos, read their biographies, listen to their podcasts or audiobooks. Replace negative news and gossip with stories of success and happiness. This will lift you up and help you believe in what’s possible.
 
-![Strength bench](https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1lbnRhbCUyMHN0cmVuZ3RofGVufDB8MHx8fDE3NTYxMDg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Free From Self-Sabotage Without Losing Confidence")
-*How to Break Free From Self-Sabotage Without Losing Confidence - Photo by [Dulcey Lima](https://unsplash.com/@dulceylima) on [Unsplash](https://unsplash.com/photos/brown-wooden-fence-on-gray-and-white-ground-1rP5Xc5RGvU)*
+{{< figure src="https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1lbnRhbCUyMHN0cmVuZ3RofGVufDB8MHx8fDE3NTYxMDg0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Strength bench" title="How to Break Free From Self-Sabotage Without Losing Confidence" caption="How to Break Free From Self-Sabotage Without Losing Confidence - Photo by [Dulcey Lima](https://unsplash.com/@dulceylima) on [Unsplash](https://unsplash.com/photos/brown-wooden-fence-on-gray-and-white-ground-1rP5Xc5RGvU)" >}}
 
 > *“The only limit to our realization of tomorrow will be our doubts of today.”*  
 — Franklin D. Roosevelt

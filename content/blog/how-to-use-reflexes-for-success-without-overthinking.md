@@ -10,8 +10,7 @@ original_title = "La puissance des réflexes 💪"
 source_medium = "https://medium.com/@phenrysay/a11d75f7f4a4"
 +++
 
-![Photo by Austin Schmid](https://images.unsplash.com/photo-1639364786654-9f0c17a89397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWZsZXhlcyUyMGluc3RpbmN0cyUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNDgzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Reflexes for Success Without Overthinking")
-*How to Use Reflexes for Success Without Overthinking - Photo by [Austin Schmid](https://unsplash.com/@schmidy) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-front-of-a-window-in-a-room-FgPJ9wtDWcY)*
+{{< figure src="https://images.unsplash.com/photo-1639364786654-9f0c17a89397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWZsZXhlcyUyMGluc3RpbmN0cyUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNDgzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person in front of a window in a room" title="How to Use Reflexes for Success Without Overthinking" caption="How to Use Reflexes for Success Without Overthinking - Photo by [Austin Schmid](https://unsplash.com/@schmidy) on [Unsplash](https://unsplash.com/photos/a-person-standing-in-front-of-a-window-in-a-room-FgPJ9wtDWcY)" >}}
 
 Have you ever noticed how some of your actions happen without thinking? You trip, and your hands shoot out to break the fall. Someone pretends to throw something at your face, and your eyes close in a flash. These are reflexes—built-in responses that protect you. But what if you could use these same reflexes, not just for survival, but for your own success?
 
@@ -23,8 +22,7 @@ Over the past three months, I realized that many of our reflexes can be redirect
 
 Let’s talk about sugar. If someone tells you sugar is bad for your health, you might nod and agree, but it’s hard to see the long-term effects. Now, imagine you witness a loved one fall seriously ill after years of eating too much sugar. Suddenly, the risk feels real. Your body remembers the consequences, and you hesitate before reaching for that next sweet treat.
 
-![Photo by CFPhotosin Photography](https://images.unsplash.com/photo-1614328530473-dcb1fd958818?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWZsZXhlcyUyMGluc3RpbmN0cyUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNDgzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Reflexes for Success Without Overthinking")
-*How to Use Reflexes for Success Without Overthinking - Photo by [CFPhotosin Photography](https://unsplash.com/@cfphotosin) on [Unsplash](https://unsplash.com/photos/woman-in-white-and-blue-shirt-holding-pink-and-white-plastic-tube-tNXmIyRvffY)*
+{{< figure src="https://images.unsplash.com/photo-1614328530473-dcb1fd958818?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWZsZXhlcyUyMGluc3RpbmN0cyUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNDgzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white and blue shirt holding pink and white plastic tube" title="How to Use Reflexes for Success Without Overthinking" caption="How to Use Reflexes for Success Without Overthinking - Photo by [CFPhotosin Photography](https://unsplash.com/@cfphotosin) on [Unsplash](https://unsplash.com/photos/woman-in-white-and-blue-shirt-holding-pink-and-white-plastic-tube-tNXmIyRvffY)" >}}
 
 The same goes for sleep. Maybe you know someone who worked non-stop, barely slept, and then, right after retiring, fell seriously ill. You start to wonder if all that stress and lack of rest was worth it. Maybe it’s smarter to take it easy, but in a way that still makes sense for your goals.
 
@@ -41,9 +39,7 @@ If you struggle to wake up early, ask your partner to tell you it’s later than
 
 Think about your own life. What reflexes or automatic habits could you redirect? Maybe you want to start exercising, but it feels hard. What if you set up your environment so that putting on your workout clothes is the first thing you do in the morning? Or maybe you want to stop checking your phone so much—try putting it in another room.
 
-![This hand is my friend
-edited with Luminar Ai](https://images.unsplash.com/photo-1624446119999-1108559a283e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWZsZXhlcyUyMGluc3RpbmN0cyUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNDgzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Reflexes for Success Without Overthinking")
-*How to Use Reflexes for Success Without Overthinking - Photo by [SRTgraphy](https://unsplash.com/@srtgraphy) on [Unsplash](https://unsplash.com/photos/black-dragonfly-on-persons-hand-JJQ8nGFC2Ko)*
+{{< figure src="https://images.unsplash.com/photo-1624446119999-1108559a283e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWZsZXhlcyUyMGluc3RpbmN0cyUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNDgzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="This hand is my friend edited with Luminar Ai" title="How to Use Reflexes for Success Without Overthinking" caption="How to Use Reflexes for Success Without Overthinking - Photo by [SRTgraphy](https://unsplash.com/@srtgraphy) on [Unsplash](https://unsplash.com/photos/black-dragonfly-on-persons-hand-JJQ8nGFC2Ko)" >}}
 
 Take a walk in your neighborhood or a nearby park and reflect: What reflex could you turn to your advantage? What habit could you tweak to make your life easier or more successful?
 

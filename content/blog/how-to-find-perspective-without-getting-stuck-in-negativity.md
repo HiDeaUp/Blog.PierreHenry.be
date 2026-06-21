@@ -12,8 +12,7 @@ original_title = "Ta vie va changer... Ce que tu IGNORES sur le relativisme"
 source_medium = "https://medium.com/@phenrysay/a3d1c904b885"
 +++
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxhdGl2aXNtJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Perspective Without Getting Stuck in Negativity")
-*How to Find Perspective Without Getting Stuck in Negativity - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxhdGl2aXNtJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Find Perspective Without Getting Stuck in Negativity" caption="How to Find Perspective Without Getting Stuck in Negativity - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 Have you ever found yourself spiraling into negativity over something as simple as your phone battery dropping to 2%? It’s easy to slip into a cycle of frustration, thinking, “This is impossible, I can’t believe this is happening!” Before you know it, you’re stuck in a loop of negative thoughts, and the problem feels much bigger than it really is.
 
@@ -29,8 +28,7 @@ Imagine you have a startup on the verge of bankruptcy. You might have to close i
 
 ## Where Negativity Hides
 
-![Photo by Juan Ramirez](https://images.unsplash.com/photo-1548250696-7da6dc82ad12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxhdGl2aXNtJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Perspective Without Getting Stuck in Negativity")
-*How to Find Perspective Without Getting Stuck in Negativity - Photo by [Juan Ramirez](https://unsplash.com/@juramirezp) on [Unsplash](https://unsplash.com/photos/man-carrying-skateboard-beside-building-sd_cgTpPR80)*
+{{< figure src="https://images.unsplash.com/photo-1548250696-7da6dc82ad12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxhdGl2aXNtJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man beside" title="How to Find Perspective Without Getting Stuck in Negativity" caption="How to Find Perspective Without Getting Stuck in Negativity - Photo by [Juan Ramirez](https://unsplash.com/@juramirezp) on [Unsplash](https://unsplash.com/photos/man-carrying-skateboard-beside-building-sd_cgTpPR80)" >}}
 
 Think about your phone again. Maybe you spent a fortune on it, especially if it’s an iPhone, and now you’re annoyed because the battery drains quickly. Instead of focusing on what’s wrong, try to see all the features your phone offers. If the battery dies, maybe it’s a chance to do something else. No internet in your hotel? That could be an opportunity to enjoy activities offline.
 
@@ -50,8 +48,7 @@ Here’s another tip: to boost your productivity, always ask yourself if what yo
 
 The work you love is where you’ll shine. These are the tasks that bring the most value, simply because you’re naturally good at them.
 
-![Silhouette](https://images.unsplash.com/photo-1512665161421-91dd799d84c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxhdGl2aXNtJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Perspective Without Getting Stuck in Negativity")
-*How to Find Perspective Without Getting Stuck in Negativity - Photo by [Atharva Tulsi](https://unsplash.com/@atharva_tulsi) on [Unsplash](https://unsplash.com/photos/silhouette-photograph-of-person-during-golden-hour-rRvHnnAgn_Q)*
+{{< figure src="https://images.unsplash.com/photo-1512665161421-91dd799d84c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxhdGl2aXNtJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Silhouette" title="How to Find Perspective Without Getting Stuck in Negativity" caption="How to Find Perspective Without Getting Stuck in Negativity - Photo by [Atharva Tulsi](https://unsplash.com/@atharva_tulsi) on [Unsplash](https://unsplash.com/photos/silhouette-photograph-of-person-during-golden-hour-rRvHnnAgn_Q)" >}}
 
 > *“Happiness is not having what you want. It is appreciating what you have.”*  
 — Rabbi Hyman Schachtel

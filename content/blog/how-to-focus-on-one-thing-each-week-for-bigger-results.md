@@ -12,8 +12,7 @@ original_title = "Comment s'investir davantage dans son quotidien"
 source_medium = "https://medium.com/@phenrysay/0802202725ca"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MDk2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on One Thing Each Week for Bigger Results")
-*How to Focus on One Thing Each Week for Bigger Results - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MDk2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Focus on One Thing Each Week for Bigger Results" caption="How to Focus on One Thing Each Week for Bigger Results - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Investing in your daily life is not just important—it is essential. The more you pour yourself into something, the more it becomes your obsession, your number one priority, the foundation on which you build your days. When you give all your energy to a single focus, your success naturally grows around it.
 
@@ -23,8 +22,7 @@ Even if you feel like you have nothing specific to work on right now, you can us
 
 It’s good to have a balanced day, mixing manual and intellectual activities. But most of the time, our minds are overflowing with things to do: errands, shopping, managing services, and new ideas we want to try. It feels productive, but in reality, spreading yourself too thin means you end up achieving very little.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MDk2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on One Thing Each Week for Bigger Results")
-*How to Focus on One Thing Each Week for Bigger Results - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MDk2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Focus on One Thing Each Week for Bigger Results" caption="How to Focus on One Thing Each Week for Bigger Results - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 This is the main message I want to share: for this week, try focusing all your energy on just one thing. You don’t need a fancy app. You can simply write down what you want to do and give it your full attention. Immerse yourself in it from morning to night. Even when you relax, you can watch videos related to your chosen topic. If you want to create a course about growing tomatoes on a balcony, spend your week watching gardening videos, planting tomatoes, and building your course bit by bit. By the end of the week, you’ll be amazed at how much you’ve accomplished.
 
@@ -42,8 +40,7 @@ It’s also important to alternate between different types of activities to keep
 
 ## Key Takeaways
 
-![Photo by Maria Kovalets](https://images.unsplash.com/photo-1737064700122-7eba16240789?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MDk2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on One Thing Each Week for Bigger Results")
-*How to Focus on One Thing Each Week for Bigger Results - Photo by [Maria Kovalets](https://unsplash.com/@marylooo) on [Unsplash](https://unsplash.com/photos/three-coffee-mugs-with-grass-growing-out-of-them-Oj2XTedPBto)*
+{{< figure src="https://images.unsplash.com/photo-1737064700122-7eba16240789?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MDk2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Three coffee mugs with grass growing out of them" title="How to Focus on One Thing Each Week for Bigger Results" caption="How to Focus on One Thing Each Week for Bigger Results - Photo by [Maria Kovalets](https://unsplash.com/@marylooo) on [Unsplash](https://unsplash.com/photos/three-coffee-mugs-with-grass-growing-out-of-them-Oj2XTedPBto)" >}}
 
 - *Pick one main focus for the week and give it your full attention.*
 - *Balance your days with different types of activities—manual and intellectual.*

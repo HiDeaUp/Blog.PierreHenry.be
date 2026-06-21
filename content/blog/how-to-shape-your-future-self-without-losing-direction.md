@@ -10,8 +10,7 @@ original_title = "SANS VISION CLAIRE, PAS DE SUCCÈS : VOILÀ POURQUOI"
 source_medium = "https://medium.com/@phenrysay/ec64fc3e1d3d"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwdmlzaW9uJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NTc2OTMzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Self Without Losing Direction")
-*How to Shape Your Future Self Without Losing Direction - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwdmlzaW9uJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NTc2OTMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Shape Your Future Self Without Losing Direction" caption="How to Shape Your Future Self Without Losing Direction - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 What if the person you admire most—the one who inspires you, the one you dream of becoming—is actually you, ten years from now? Imagine looking at that future version of yourself and feeling a deep sense of pride. That person is not a stranger. That person is you, shaped by your choices, your mindset, and your vision.
 
@@ -19,8 +18,7 @@ This idea is more than just motivation. It’s the engine that drives real chang
 
 A strong vision isn’t just about dreaming. It’s about giving yourself a reason to push further, to reach higher, and to keep going even when things get tough. It’s about waking up each day and asking yourself: What can I do today to get closer to that life? What habits, what small steps, what actions will move me forward?
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwdmlzaW9uJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NTc2OTMzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Self Without Losing Direction")
-*How to Shape Your Future Self Without Losing Direction - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwdmlzaW9uJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NTc2OTMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Shape Your Future Self Without Losing Direction" caption="How to Shape Your Future Self Without Losing Direction - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 Even if your current situation feels hopeless, remember: everything is possible if you truly want it. If you want it with all your heart, you’ll find the keys, the paths, and the solutions. The secret is to become obsessed with your vision. Every day, ask yourself what you can do, what you can give, to get closer to that future.
 
@@ -34,8 +32,7 @@ Patience is part of the journey. You might not be there yet, and that’s okay. 
 
 So, what life do you want to live? The one you think is impossible? Start building it now, step by step, with a vision that pulls you forward every single day.
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632556719027-a2e7fa84d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwdmlzaW9uJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NTc2OTMzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Future Self Without Losing Direction")
-*How to Shape Your Future Self Without Losing Direction - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-spelling-the-word-w-is-down-on-top-of-a-QnRDKNbKl9k)*
+{{< figure src="https://images.unsplash.com/photo-1632556719027-a2e7fa84d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwdmlzaW9uJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NTc2OTMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A word the word w is down on top of a" title="How to Shape Your Future Self Without Losing Direction" caption="How to Shape Your Future Self Without Losing Direction - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-spelling-the-word-w-is-down-on-top-of-a-QnRDKNbKl9k)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "unknown"
 source_medium = "https://medium.com/@phenrysay/71a8ad3d20f4"
 +++
 
-![C plus plus code in an coloured editor square strongly foreshortened](https://images.unsplash.com/photo-1568716353609-12ddc5c67f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2JsZW0lMjBzb2x2aW5nfGVufDB8MHx8fDE3NjcwNDc4MDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Solve Big Problems With Simple Code and AI")
-*How to Solve Big Problems With Simple Code and AI - Photo by [Patrick Martin](https://unsplash.com/@patrickmmartin) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-code-on-it-UMlT0bviaek)*
+{{< figure src="https://images.unsplash.com/photo-1568716353609-12ddc5c67f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2JsZW0lMjBzb2x2aW5nfGVufDB8MHx8fDE3NjcwNDc4MDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="C plus plus code in an coloured editor square strongly foreshortened" title="How to Solve Big Problems With Simple Code and AI" caption="How to Solve Big Problems With Simple Code and AI - Photo by [Patrick Martin](https://unsplash.com/@patrickmmartin) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-code-on-it-UMlT0bviaek)" >}}
 
 All right. So as a software engineer, knowing that the simplest path is usually the best is like wielding Occam’s razor. If you’re not familiar, that’s the principle about the complexity of an approach or a solution. Occam’s razor says that the simplest solution is usually the right one. And when we’re maintaining a codebase, or we need to scale a business, or an application, we’re always looking for different approaches and thinking, “Which one is better?” When we choose the simpler one, it’s easier to maintain, quicker to implement, and we can see with that simpler proof of concept if it actually works. If it does, then we can add more edge cases, more business logic on top. But starting with something simple is the key.
 
@@ -25,8 +24,7 @@ When you do a performance review, writing less is usually better. No one has the
 
 But here’s the thing: finding the simple path to the right solution is not easy. Simple doesn’t mean easy. It can be hard to find the simple UX for a user. User experience is important. When it’s simple, clear, and makes sense—when you don’t have too many options everywhere—you have to think twice. You don’t want to make the user think, because the more the user has to think, the harder it is. If you want to implement a super simple, elegant solution, something straightforward for the user, you have to think a lot for the implementation.
 
-![A Rubik Cube sat on top of a laptop](https://images.unsplash.com/photo-1712214354975-a085467dd5e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2JsZW0lMjBzb2x2aW5nfGVufDB8MHx8fDE3NjcwNDc4MDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Solve Big Problems With Simple Code and AI")
-*How to Solve Big Problems With Simple Code and AI - Photo by [Dean Pugh](https://unsplash.com/@wezlar11) on [Unsplash](https://unsplash.com/photos/a-rubik-cube-sitting-on-top-of-a-laptop-computer-5rOZMNC2eF0)*
+{{< figure src="https://images.unsplash.com/photo-1712214354975-a085467dd5e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2JsZW0lMjBzb2x2aW5nfGVufDB8MHx8fDE3NjcwNDc4MDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A Rubik Cube sat on top of a laptop" title="How to Solve Big Problems With Simple Code and AI" caption="How to Solve Big Problems With Simple Code and AI - Photo by [Dean Pugh](https://unsplash.com/@wezlar11) on [Unsplash](https://unsplash.com/photos/a-rubik-cube-sitting-on-top-of-a-laptop-computer-5rOZMNC2eF0)" >}}
 
 And that’s really the beauty of our job as engineers. We have the ability to implement beautiful solutions—something elegant, where we decided to use a simple and elegant user interface and codebase.
 
@@ -44,8 +42,7 @@ So, here’s a good exercise: take a fix you’ve already done for a given probl
 
 Happy coding, happy AI coding. Don’t hesitate to use an agent or AI to help you. And also, take a walk and think about it: how can you change your day-to-day life into something simpler? Less complexity, less stuff, less is more.
 
-![redpine co](https://images.unsplash.com/photo-1507470621209-f8bae4a8b40e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2JsZW0lMjBzb2x2aW5nfGVufDB8MHx8fDE3NjcwNDc4MDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Solve Big Problems With Simple Code and AI")
-*How to Solve Big Problems With Simple Code and AI - Photo by [amin khorsand](https://unsplash.com/@hero92) on [Unsplash](https://unsplash.com/photos/eyeglasses-on-turned-on-laptop-MDrMf2PyM3A)*
+{{< figure src="https://images.unsplash.com/photo-1507470621209-f8bae4a8b40e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHByb2JsZW0lMjBzb2x2aW5nfGVufDB8MHx8fDE3NjcwNDc4MDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="redpine co" title="How to Solve Big Problems With Simple Code and AI" caption="How to Solve Big Problems With Simple Code and AI - Photo by [amin khorsand](https://unsplash.com/@hero92) on [Unsplash](https://unsplash.com/photos/eyeglasses-on-turned-on-laptop-MDrMf2PyM3A)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Vivre une vie libre"
 source_medium = "https://medium.com/@phenrysay/e3b72f09b1d4"
 +++
 
-![Photo by Matt Busse](https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlZG9tJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY2MzE3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Freedom Without Comparing Yourself to Others")
-*How to Find Real Freedom Without Comparing Yourself to Others - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)*
+{{< figure src="https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlZG9tJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY2MzE3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on top of a rock next to the ocean" title="How to Find Real Freedom Without Comparing Yourself to Others" caption="How to Find Real Freedom Without Comparing Yourself to Others - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)" >}}
 
 Sitting on my balcony, soaking in the sun and the view, I can’t help but think about freedom. Many people dream of traveling the world, but often feel limited by their passport or where they come from. Even if you have a passport that doesn’t open every door, there are still many countries you can visit. For example, someone from the Philippines can travel to quite a few places in Asia. Yet, we tend to think the grass is always greener elsewhere. We look at others with “better” passports and feel stuck.
 
@@ -23,8 +22,7 @@ Life isn’t a race. It’s not about who gets there first. The only person you 
 
 Think of life as climbing a mountain. Each step, no matter how small, brings you closer to the top. If you start with nothing in your bank account and your currency is weak, maybe your first step is to study or work in a country with a stronger currency, or to do freelance work for clients in wealthier countries. In many developing countries, fixed-term deposit accounts offer high interest rates—sometimes 8 to 12%. This can be a powerful tool. Your money is safe, and after a few years, you’ll have more to work with. It’s less risky than putting everything into the stock market.
 
-![Photo by I Do Nothing But Love](https://images.unsplash.com/photo-1605515112545-a41e3593ba7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlZG9tJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY2MzE3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Freedom Without Comparing Yourself to Others")
-*How to Find Real Freedom Without Comparing Yourself to Others - Photo by [I Do Nothing But Love](https://unsplash.com/@idonothingbutlove) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-and-black-pants-jumping-on-green-grass-field-during-daytime-W50fFCL5Dfc)*
+{{< figure src="https://images.unsplash.com/photo-1605515112545-a41e3593ba7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlZG9tJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY2MzE3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black jacket and black pants jumping on green grass field during daytime" title="How to Find Real Freedom Without Comparing Yourself to Others" caption="How to Find Real Freedom Without Comparing Yourself to Others - Photo by [I Do Nothing But Love](https://unsplash.com/@idonothingbutlove) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-and-black-pants-jumping-on-green-grass-field-during-daytime-W50fFCL5Dfc)" >}}
 
 Every small action creates a domino effect. The more you do, the more you can do. But the biggest mistake people make is comparing their insides to other people’s outsides. You see what others show, but you know your own struggles and doubts. It’s not a fair comparison. Maybe you’ve made huge progress in the last three days, three weeks, or a year. Focus on your own journey.
 
@@ -42,8 +40,7 @@ The people you spend time with matter too. The content you consume shapes you. Y
 > *“Comparison is the thief of joy.”*  
 — Theodore Roosevelt
 
-![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlZG9tJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY2MzE3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Freedom Without Comparing Yourself to Others")
-*How to Find Real Freedom Without Comparing Yourself to Others - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
+{{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlZG9tJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY2MzE3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Find Real Freedom Without Comparing Yourself to Others" caption="How to Find Real Freedom Without Comparing Yourself to Others - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
 If you want to feed your mind with good things, start with small daily actions. Each one will help you grow, little by little.
 

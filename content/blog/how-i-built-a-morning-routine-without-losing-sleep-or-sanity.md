@@ -12,8 +12,7 @@ original_title = "Ma Stratégie de Réussite (Simple MAIS Efficace !)"
 source_medium = "https://medium.com/@phenrysay/13938d1cb33c"
 +++
 
-![Photo by bruce mars](https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTM0ODE2Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Built a Morning Routine WITHOUT Losing Sleep or Sanity")
-*How I Built a Morning Routine WITHOUT Losing Sleep or Sanity - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)*
+{{< figure src="https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTM0ODE2Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on white bed while" title="How I Built a Morning Routine WITHOUT Losing Sleep or Sanity" caption="How I Built a Morning Routine WITHOUT Losing Sleep or Sanity - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)" >}}
 
 Every day, I wake up at 5:30 AM. It wasn’t always easy—building a routine was tough at first, but the hardest part was stabilizing my sleep schedule. Once I managed to go to bed at the same time every night, everything else fell into place. My body got used to it, and now I wake up naturally, often a few minutes before my alarm. That small change has made a huge difference in my energy and focus.
 
@@ -33,8 +32,7 @@ There are even smart bracelets that track your sleep cycles and wake you up at t
 
 If you struggle to fall asleep, don’t stress about it. Don’t pressure yourself to sleep, and try not to think about your worries. Meditation or simple breathing exercises can help. Avoid screens and emails for at least two hours before bed—bad news or mental clutter can keep you awake.
 
-![Photo by David Mao](https://images.unsplash.com/photo-1422433555807-2559a27433bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTM0ODE2Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Built a Morning Routine WITHOUT Losing Sleep or Sanity")
-*How I Built a Morning Routine WITHOUT Losing Sleep or Sanity - Photo by [David Mao](https://unsplash.com/@itsdavo) on [Unsplash](https://unsplash.com/photos/green-ceramic-mug-on-wooden-desk-m0l5J8Lqnzo)*
+{{< figure src="https://images.unsplash.com/photo-1422433555807-2559a27433bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTM0ODE2Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green ceramic mug on wooden desk" title="How I Built a Morning Routine WITHOUT Losing Sleep or Sanity" caption="How I Built a Morning Routine WITHOUT Losing Sleep or Sanity - Photo by [David Mao](https://unsplash.com/@itsdavo) on [Unsplash](https://unsplash.com/photos/green-ceramic-mug-on-wooden-desk-m0l5J8Lqnzo)" >}}
 
 ## Organize Your Day Around What Matters
 
@@ -57,8 +55,7 @@ Picture a jar. If you fill it with sand first (all the little tasks), there’s 
 
 Most of our to-do lists are filled with sand—things we don’t want to forget, but that won’t change our lives. Focus on the one thing that will.
 
-![Photo by Alex Hudson](https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTM0ODE2Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Built a Morning Routine WITHOUT Losing Sleep or Sanity")
-*How I Built a Morning Routine WITHOUT Losing Sleep or Sanity - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)*
+{{< figure src="https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTM0ODE2Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiling man holding cup and using" title="How I Built a Morning Routine WITHOUT Losing Sleep or Sanity" caption="How I Built a Morning Routine WITHOUT Losing Sleep or Sanity - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)" >}}
 
 > *“Most of us spend too much time on what is urgent and not enough time on what is important.”*  
 > — Stephen R. Covey

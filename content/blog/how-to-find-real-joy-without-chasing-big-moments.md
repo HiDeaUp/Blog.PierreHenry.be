@@ -12,8 +12,7 @@ original_title = "Tout le monde a tort. La vérité sur les plaisirs du présent
 source_medium = "https://medium.com/@phenrysay/3116668d2c0f"
 +++
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU1NjM3NDI3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Joy Without Chasing Big Moments")
-*How to Find Real Joy Without Chasing Big Moments - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU1NjM3NDI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Find Real Joy Without Chasing Big Moments" caption="How to Find Real Joy Without Chasing Big Moments - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 Recently, I found myself in a small haven of peace—a Japanese garden in Canberra, right by the river. The place is stunning, with its calm waters and perfectly maintained paths. I checked my map to see exactly where I was: Lenox Garden, not far from the Science Museum. There’s also the Beijing Garden nearby, and both are truly beautiful. I even wandered through what I thought was another Japanese garden, but it turned out to be Chinese. Still, the feeling was the same: pure wonder.
 
@@ -29,9 +28,7 @@ So, what can you do? Sometimes, it’s as simple as taking a walk, getting some 
 
 Life isn’t meant to be nonstop. We need moments to slow down, rest, and think about what we actually enjoy. Too often, we rush from morning to night without ever asking ourselves if we like the life we’re living. Maybe this isn’t your style of life. Maybe you need something different. Life is short—much shorter than we think. Living well and helping others live better is what counts.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU1NjM3NDI3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Joy Without Chasing Big Moments")
-*How to Find Real Joy Without Chasing Big Moments - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU1NjM3NDI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Find Real Joy Without Chasing Big Moments" caption="How to Find Real Joy Without Chasing Big Moments - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 If you’re always complaining or stuck in a place that doesn’t suit you, you’ll only end up frustrated. Why stay somewhere that goes against your values or your happiness? If you do, you’ll always suffer. Sometimes, it’s as simple as moving on, trying something new, or just taking a break to see things differently.
 
@@ -55,8 +52,7 @@ I love sharing these thoughts with you because I want you to realize that life i
 
 ---
 
-![Yoga relaxation at the river](https://images.unsplash.com/photo-1583095117895-0e3a9f678f7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU1NjM3NDI3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Joy Without Chasing Big Moments")
-*How to Find Real Joy Without Chasing Big Moments - Photo by [Etienne Girardet](https://unsplash.com/@etiennegirardet) on [Unsplash](https://unsplash.com/photos/woman-in-brown-tube-dress-sitting-on-green-grass-field-near-body-of-water-during-daytime-PToQLB_bS1I)*
+{{< figure src="https://images.unsplash.com/photo-1583095117895-0e3a9f678f7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU1NjM3NDI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga relaxation at the river" title="How to Find Real Joy Without Chasing Big Moments" caption="How to Find Real Joy Without Chasing Big Moments - Photo by [Etienne Girardet](https://unsplash.com/@etiennegirardet) on [Unsplash](https://unsplash.com/photos/woman-in-brown-tube-dress-sitting-on-green-grass-field-near-body-of-water-during-daytime-PToQLB_bS1I)" >}}
 
 ## Key Takeaways
 

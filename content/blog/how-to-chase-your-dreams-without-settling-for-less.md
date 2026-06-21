@@ -12,8 +12,7 @@ original_title = "La vie est trop courte pour ne pas accomplir ses rêves !"
 source_medium = "https://medium.com/@phenrysay/e6b2fd6e41d2"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1725402694495-7f133a62c4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2xsb3clMjB5b3VyJTIwZHJlYW1zJTIwbGlmZSUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwNjIzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Chase Your Dreams Without Settling for Less")
-*How to Chase Your Dreams Without Settling for Less - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-white-sign-with-black-writing-on-it-Pkm7Zq_cZ3M)*
+{{< figure src="https://images.unsplash.com/photo-1725402694495-7f133a62c4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2xsb3clMjB5b3VyJTIwZHJlYW1zJTIwbGlmZSUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwNjIzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A white sign with black writing on it" title="How to Chase Your Dreams Without Settling for Less" caption="How to Chase Your Dreams Without Settling for Less - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-white-sign-with-black-writing-on-it-Pkm7Zq_cZ3M)" >}}
 
 Sometimes, life feels like something we just have to get through. There are days when we don’t enjoy what we do, and it seems like we have no other choice. We convince ourselves that this is the only path available, that we’re stuck with what we have. But the truth is, life is incredibly short, and everything is possible if you really want it.
 
@@ -23,8 +22,7 @@ If you want something deeply, you can make it happen. Sure, sometimes your circu
 
 This is the lesson I wanted to share with you today. Life is too short to let your dreams slip away because of fear or self-imposed limits. The only real mistake is not trying.
 
-![A simple message to dream with shimmery purple and pink glitter bokeh.](https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2xsb3clMjB5b3VyJTIwZHJlYW1zJTIwbGlmZSUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwNjIzNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Chase Your Dreams Without Settling for Less")
-*How to Chase Your Dreams Without Settling for Less - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)*
+{{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2xsb3clMjB5b3VyJTIwZHJlYW1zJTIwbGlmZSUyMG1vdGl2YXRpb24lMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwNjIzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Chase Your Dreams Without Settling for Less" caption="How to Chase Your Dreams Without Settling for Less - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 
 > *The only limits in our lives are those we accept in our minds.*
 > — Anonymous

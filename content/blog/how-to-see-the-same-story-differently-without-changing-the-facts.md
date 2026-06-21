@@ -10,8 +10,7 @@ original_title = "Réflexion sur les perceptions de la vie"
 source_medium = "https://medium.com/@phenrysay/5a2503d347e9"
 +++
 
-![Photo by JF Martin](https://images.unsplash.com/photo-1611324012162-07fa1ba0e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwc2VsZi1yZWZsZWN0aW9uJTIwc3ViamVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjIzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to See the Same Story Differently Without Changing the Facts")
-*How to See the Same Story Differently Without Changing the Facts - Photo by [JF Martin](https://unsplash.com/@numericcitizen) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-man-in-black-jacket-and-pants-standing-on-basketball-court-q0-kr2qaF9w)*
+{{< figure src="https://images.unsplash.com/photo-1611324012162-07fa1ba0e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwc2VsZi1yZWZsZWN0aW9uJTIwc3ViamVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjIzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of man in black jacket and pants on court q0" title="How to See the Same Story Differently Without Changing the Facts" caption="How to See the Same Story Differently Without Changing the Facts - Photo by [JF Martin](https://unsplash.com/@numericcitizen) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-man-in-black-jacket-and-pants-standing-on-basketball-court-q0-kr2qaF9w)" >}}
 
 Have you ever noticed how two people can watch the same movie, read the same news, or hear the same story, and come away with completely different feelings? This isn’t just about taste or mood. It’s about how our past, our upbringing, and even the people we spend time with shape the way we see the world.
 
@@ -21,8 +20,7 @@ Our interpretation of events is colored by our own history. If you’ve had diff
 
 Here’s a story that shows how this works. Imagine a couple at home. The wife is cooking dinner, and the husband is nearby. He tells a friend about this, saying, “My wife cooks, and I’m just there with her.” Now, someone who’s had bad experiences with relationships, or who’s used to seeing men act like “macho” types, might immediately picture the husband lounging on the couch, beer in hand, while his wife does all the work. But that’s not what’s happening. The husband is actually standing next to his wife, helping by handing her ingredients, watching her cook, and later doing the dishes. For him, this is normal, so he doesn’t even mention it. But for someone else, the same story sounds completely different.
 
-![Photo ball with Buttermere ](https://images.unsplash.com/photo-1600337751454-e964c7b7c3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwc2VsZi1yZWZsZWN0aW9uJTIwc3ViamVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjIzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to See the Same Story Differently Without Changing the Facts")
-*How to See the Same Story Differently Without Changing the Facts - Photo by [Jonny Gios](https://unsplash.com/@supergios) on [Unsplash](https://unsplash.com/photos/clear-glass-ball-on-white-sand-during-daytime-sGIq9nO8WPg)*
+{{< figure src="https://images.unsplash.com/photo-1600337751454-e964c7b7c3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwc2VsZi1yZWZsZWN0aW9uJTIwc3ViamVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjIzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo ball with Buttermere" title="How to See the Same Story Differently Without Changing the Facts" caption="How to See the Same Story Differently Without Changing the Facts - Photo by [Jonny Gios](https://unsplash.com/@supergios) on [Unsplash](https://unsplash.com/photos/clear-glass-ball-on-white-sand-during-daytime-sGIq9nO8WPg)" >}}
 
 This is how our minds work. Our education, our childhood, and even the mood of our parents when we were very young all leave marks on us. From birth to about seven years old, we soak up everything like a sponge. These early years build the foundation of our character. Even siblings raised in the same home can turn out very different, each with their own way of seeing things.
 
@@ -38,8 +36,7 @@ Remember, everyone has their own unique way of interpreting life. That’s what 
 
 ---
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwc2VsZi1yZWZsZWN0aW9uJTIwc3ViamVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjIzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to See the Same Story Differently Without Changing the Facts")
-*How to See the Same Story Differently Without Changing the Facts - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwc2VsZi1yZWZsZWN0aW9uJTIwc3ViamVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjIzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to See the Same Story Differently Without Changing the Facts" caption="How to See the Same Story Differently Without Changing the Facts - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 ## Key Takeaways
 

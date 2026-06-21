@@ -12,8 +12,7 @@ original_title = "La règle des trois pierres du quotidien 💥"
 source_medium = "https://medium.com/@phenrysay/d1023ea129d1"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NjA2NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done by Using the Three Daily Stones")
-*How to Get More Done by Using the Three Daily Stones - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NjA2NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Get More Done by Using the Three Daily Stones" caption="How to Get More Done by Using the Three Daily Stones - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 When it comes to organizing our days, most advice out there feels generic or just doesn’t stick. But there’s a method I hold close to my heart—a way of structuring your day around what I call the “three stones.” These aren’t just any tasks. They’re the three fundamental pillars that hold up your entire day.
 
@@ -34,8 +33,7 @@ Each evening, before bed, write down your three stones for the next day. These a
 
 That’s it—just two hours for your three stones. It might not sound like much, but over time, these focused hours add up, just like compound interest in finance. Day after day, you build something meaningful.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NjA2NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done by Using the Three Daily Stones")
-*How to Get More Done by Using the Three Daily Stones - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NjA2NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Get More Done by Using the Three Daily Stones" caption="How to Get More Done by Using the Three Daily Stones - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ## Planning and Execution
 
@@ -62,8 +60,7 @@ Think of your day as a mini-life. Each day is a small life that ends when you go
 
 ## Make It Yours
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NjA2NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done by Using the Three Daily Stones")
-*How to Get More Done by Using the Three Daily Stones - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NjA2NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Get More Done by Using the Three Daily Stones" caption="How to Get More Done by Using the Three Daily Stones - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 This method works whether you’re an employee, a freelancer, or working on a passion project. Those two hours in the morning are yours. Use them to write a book, build an audience, or work on something that matters deeply to you.
 

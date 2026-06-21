@@ -12,8 +12,7 @@ original_title = "How I Manage Large Codebases at Work (As a Senior Software Eng
 source_medium = "https://medium.com/@phenrysay/233a89af241b"
 +++
 
-![A fun shot while working late at night](https://images.unsplash.com/photo-1518818608552-195ed130cdf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29kZWJhc2UlMjBtYW5hZ2VtZW50JTIwc2NhbGFibGUlMjBjb2RlfGVufDB8MHx8fDE3NjcwNjk0Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Large Codebases Clean Without Overengineering")
-*How to Keep Large Codebases Clean Without Overengineering - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/smiling-man-showing-sticky-note-with-code-illustration-pMnw5BSZYsA)*
+{{< figure src="https://images.unsplash.com/photo-1518818608552-195ed130cdf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29kZWJhc2UlMjBtYW5hZ2VtZW50JTIwc2NhbGFibGUlMjBjb2RlfGVufDB8MHx8fDE3NjcwNjk0Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A fun shot while working late at night" title="How to Keep Large Codebases Clean Without Overengineering" caption="How to Keep Large Codebases Clean Without Overengineering - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/smiling-man-showing-sticky-note-with-code-illustration-pMnw5BSZYsA)" >}}
 
 Alright, let’s get straight to it. Today I want to share some practical tips that have helped me keep my codebases clean and efficient as a software engineer. I hope these will be useful for you, especially if you’re working in a team or at a company where things need to scale. This isn’t about overengineering or building the “perfect” app when you have zero users. It’s about being smart and thinking ahead when you know your software is going to get real traffic.
 
@@ -31,8 +30,7 @@ One of the best habits I’ve picked up is looking back at my old code—sometim
 
 **Always seek improvement.** Software engineering is awesome because there’s always something new to learn—a new library, a new version, a new tool. That keeps things interesting and pushes you to get better. If you ever feel like every day is the same, you’re probably in the wrong environment.
 
-![Debugging is a part of coding](https://images.unsplash.com/photo-1564931768730-7e4d8e240044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29kZWJhc2UlMjBtYW5hZ2VtZW50JTIwc2NhbGFibGUlMjBjb2RlfGVufDB8MHx8fDE3NjcwNjk0Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Large Codebases Clean Without Overengineering")
-*How to Keep Large Codebases Clean Without Overengineering - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/code-debug-vy7GOqb1M9s)*
+{{< figure src="https://images.unsplash.com/photo-1564931768730-7e4d8e240044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29kZWJhc2UlMjBtYW5hZ2VtZW50JTIwc2NhbGFibGUlMjBjb2RlfGVufDB8MHx8fDE3NjcwNjk0Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Debugging is a part of coding" title="How to Keep Large Codebases Clean Without Overengineering" caption="How to Keep Large Codebases Clean Without Overengineering - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/code-debug-vy7GOqb1M9s)" >}}
 
 ## The Role of Tools and AI
 
@@ -54,8 +52,7 @@ When I first moved, I didn’t speak a word of English. I had to force myself to
 
 The main thing I’ve learned? **Don’t stay where you’re not valued.** Find a place where you can grow, where people care, and where you’re excited to go to work. That’s where you’ll do your best work.
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29kZWJhc2UlMjBtYW5hZ2VtZW50JTIwc2NhbGFibGUlMjBjb2RlfGVufDB8MHx8fDE3NjcwNjk0Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Large Codebases Clean Without Overengineering")
-*How to Keep Large Codebases Clean Without Overengineering - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwY29kZWJhc2UlMjBtYW5hZ2VtZW50JTIwc2NhbGFibGUlMjBjb2RlfGVufDB8MHx8fDE3NjcwNjk0Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="How to Keep Large Codebases Clean Without Overengineering" caption="How to Keep Large Codebases Clean Without Overengineering - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 ## Key Takeaways
 

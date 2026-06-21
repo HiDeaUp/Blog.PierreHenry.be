@@ -12,8 +12,7 @@ original_title = "Comment Avoir Une Vie Épanouie ✨"
 source_medium = "https://medium.com/@phenrysay/33014bc2f02d"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmdWxmaWxsbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTY4NTIwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Perfection")
-*How to Find Real Happiness Without Chasing Perfection - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)*
+{{< figure src="https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmdWxmaWxsbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTY4NTIwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black happy card" title="How to Find Real Happiness Without Chasing Perfection" caption="How to Find Real Happiness Without Chasing Perfection - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)" >}}
 
 What does it really mean to have a fulfilling life? This question comes up again and again, and for good reason. I believe the purpose of life is to be fulfilled, to be happy, and to live a life that truly fits you. If you love your life, if it feels right and you enjoy it, then you’re already on the right path.
 
@@ -27,8 +26,7 @@ We all need challenges. I remember reading the book *Flow* by the Hungarian psyc
 
 Challenges are essential, even if you work for yourself. For example, if you’re a freelancer, set yourself goals like delivering an open-source project by the end of the month, or writing three articles for Medium or another blogging platform. Maybe your challenge is to find new clients every month. The key is to write down your challenges and review them regularly. Every Monday morning, go over your list. This habit keeps you motivated and on track.
 
-![Just a list of things you should check off daily](https://images.unsplash.com/photo-1512223886638-d2914abf5df3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmdWxmaWxsbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTY4NTIwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Perfection")
-*How to Find Real Happiness Without Chasing Perfection - Photo by [Ty Williams](https://unsplash.com/@tyrossii) on [Unsplash](https://unsplash.com/photos/live-fully-create-happiness-speak-kindly-decor-R2glnKGBoPE)*
+{{< figure src="https://images.unsplash.com/photo-1512223886638-d2914abf5df3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmdWxmaWxsbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTY4NTIwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Just a list of things you should check off daily" title="How to Find Real Happiness Without Chasing Perfection" caption="How to Find Real Happiness Without Chasing Perfection - Photo by [Ty Williams](https://unsplash.com/@tyrossii) on [Unsplash](https://unsplash.com/photos/live-fully-create-happiness-speak-kindly-decor-R2glnKGBoPE)" >}}
 
 ## Give Value and Ask for Feedback
 
@@ -50,8 +48,7 @@ There are many ways to push yourself to complete tasks quickly and simply. The m
 >
 > — Dalai Lama
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdWxmaWxsbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTY4NTIwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Perfection")
-*How to Find Real Happiness Without Chasing Perfection - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)*
+{{< figure src="https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdWxmaWxsbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTY4NTIwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow card with the words be the creator of your own" title="How to Find Real Happiness Without Chasing Perfection" caption="How to Find Real Happiness Without Chasing Perfection - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)" >}}
 
 > *The best way to get started is to quit talking and begin doing.*
 >

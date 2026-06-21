@@ -12,8 +12,7 @@ original_title = "Les objections 🤩"
 source_medium = "https://medium.com/@phenrysay/1dbff97b16bd"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740817747908-7b12b6145a66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvYmplY3Rpb25zJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1Mjc4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Daily Doubts Into Your Best Opportunities")
-*How to Turn Daily Doubts Into Your Best Opportunities - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-doubt-on-a-table-GmF2PRUI5no)*
+{{< figure src="https://images.unsplash.com/photo-1740817747908-7b12b6145a66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvYmplY3Rpb25zJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1Mjc4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block doubt on a table" title="How to Turn Daily Doubts Into Your Best Opportunities" caption="How to Turn Daily Doubts Into Your Best Opportunities - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-doubt-on-a-table-GmF2PRUI5no)" >}}
 
 Objections are those little voices in your head that pop up every day. They question your choices, challenge your routines, and sometimes make you pause before taking action. We all have them. Sometimes, you might wonder, “How can I approach this problem differently?” or “Is there a better way to handle this?” The truth is, you can always do things differently. The key is to look for the causes behind your objections and find clues or tricks to move forward.
 
@@ -21,8 +20,7 @@ One of the most effective ways to tackle objections is through iteration. When y
 
 A trick I often use is the “24-hour rule.” Give yourself a clear deadline to boost your efficiency. Then, apply Parkinson’s Law: work expands to fill the time available for its completion. If you give yourself one hour, set a timer and treat it like a sprint. You’ll be surprised at how much you can get done when you focus.
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvYmplY3Rpb25zJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1Mjc4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Daily Doubts Into Your Best Opportunities")
-*How to Turn Daily Doubts Into Your Best Opportunities - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvYmplY3Rpb25zJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1Mjc4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Turn Daily Doubts Into Your Best Opportunities" caption="How to Turn Daily Doubts Into Your Best Opportunities - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 The next day, try to do it even better. Keep iterating. Each day, aim for a new and improved version of yourself. Today might be version one, tomorrow version two, and so on. This is how you become the best at what you do—not by staying still, but by always seeking a better version of your previous day.
 
@@ -38,8 +36,7 @@ If you feel like you’re repeating yourself or things aren’t moving fast enou
 
 ---
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvYmplY3Rpb25zJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1Mjc4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Daily Doubts Into Your Best Opportunities")
-*How to Turn Daily Doubts Into Your Best Opportunities - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvYmplY3Rpb25zJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1Mjc4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Turn Daily Doubts Into Your Best Opportunities" caption="How to Turn Daily Doubts Into Your Best Opportunities - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 ## Key Takeaways
 - Objections are normal—use them as signals to try new approaches.

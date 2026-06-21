@@ -12,8 +12,7 @@ original_title = "Créer des associations pour se (re)motiver. J'explique TOUT"
 source_medium = "https://medium.com/@phenrysay/1017f13d71b5"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1640236405405-61ca9f9bc4d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwY3JlYXRpdml0eSUyMGFzc29jaWF0aW9uc3xlbnwwfDB8fHwxNzU1ODYwMDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Mixing Ideas Sparks Motivation Without Burnout")
-*How Mixing Ideas Sparks Motivation Without Burnout - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-creation-with-flowers-in-the-background-dX-vMoVa2ac)*
+{{< figure src="https://images.unsplash.com/photo-1640236405405-61ca9f9bc4d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwY3JlYXRpdml0eSUyMGFzc29jaWF0aW9uc3xlbnwwfDB8fHwxNzU1ODYwMDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block with flowers in the dX" title="How Mixing Ideas Sparks Motivation Without Burnout" caption="How Mixing Ideas Sparks Motivation Without Burnout - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-creation-with-flowers-in-the-background-dX-vMoVa2ac)" >}}
 
 Have you ever noticed how combining two simple things can lead to something completely new? This is the magic of association. When you put things together, you open the door to fresh ideas and new ways of living or working.
 
@@ -25,8 +24,7 @@ Let’s say you’re passionate about Japan and you also love crêpes. Why not c
 
 There’s even a trend where hotels and vacations are combined into “resorts.” You stay in a hotel, but it feels like a full vacation experience. Even the word “selfie” is an association: “self” and “photography” combined to describe taking a photo of yourself.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1623064904480-00bae72b5c41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwY3JlYXRpdml0eSUyMGFzc29jaWF0aW9uc3xlbnwwfDB8fHwxNzU1ODYwMDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Mixing Ideas Sparks Motivation Without Burnout")
-*How Mixing Ideas Sparks Motivation Without Burnout - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/black-and-white-round-frame-pEm3LDmF9e8)*
+{{< figure src="https://images.unsplash.com/photo-1623064904480-00bae72b5c41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwY3JlYXRpdml0eSUyMGFzc29jaWF0aW9uc3xlbnwwfDB8fHwxNzU1ODYwMDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and white round frame" title="How Mixing Ideas Sparks Motivation Without Burnout" caption="How Mixing Ideas Sparks Motivation Without Burnout - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/black-and-white-round-frame-pEm3LDmF9e8)" >}}
 
 You can do the same with your lifestyle. By mixing what you love, you can create your own unique concept or even your own method. For example, I created the “pH Method” based on my name, Pierre. It’s my personal way of doing things, and you can do the same. Maybe you love math and video games. Why not create a fun math game or something else entirely?
 
@@ -44,8 +42,7 @@ I believe in you 100%. Go for it. Try new combinations, create your own methods,
 
 ---
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwY3JlYXRpdml0eSUyMGFzc29jaWF0aW9uc3xlbnwwfDB8fHwxNzU1ODYwMDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Mixing Ideas Sparks Motivation Without Burnout")
-*How Mixing Ideas Sparks Motivation Without Burnout - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)*
+{{< figure src="https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwY3JlYXRpdml0eSUyMGFzc29jaWF0aW9uc3xlbnwwfDB8fHwxNzU1ODYwMDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on a brick wall that says is" title="How Mixing Ideas Sparks Motivation Without Burnout" caption="How Mixing Ideas Sparks Motivation Without Burnout - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)" >}}
 
 ## Key Takeaways
 

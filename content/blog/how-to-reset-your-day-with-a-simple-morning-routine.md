@@ -12,8 +12,7 @@ original_title = "VOICI MON SYSTÈME DE REBOUTAGE DE LA JOURNÉE. JE TE PARTAGE 
 source_medium = "https://medium.com/@phenrysay/e1dae30f36ad"
 +++
 
-![Photo by Samantha Gades](https://images.unsplash.com/photo-1504812725317-0fb0450d8e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhcHBpbmVzcyUyMGhhYml0cyUyMGRhaWx5JTIwcmVzZXR8ZW58MHwwfHx8MTc1NTQzMzY4MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Day With a Simple Morning Routine")
-*How to Reset Your Day With a Simple Morning Routine - Photo by [Samantha Gades](https://unsplash.com/@srosinger3997) on [Unsplash](https://unsplash.com/photos/woman-holding-white-mug-while-lying-on-bed-RJl-ZYWCs7M)*
+{{< figure src="https://images.unsplash.com/photo-1504812725317-0fb0450d8e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhcHBpbmVzcyUyMGhhYml0cyUyMGRhaWx5JTIwcmVzZXR8ZW58MHwwfHx8MTc1NTQzMzY4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman holding white mug while lying on bed RJl ZYWCs7M" title="How to Reset Your Day With a Simple Morning Routine" caption="How to Reset Your Day With a Simple Morning Routine - Photo by [Samantha Gades](https://unsplash.com/@srosinger3997) on [Unsplash](https://unsplash.com/photos/woman-holding-white-mug-while-lying-on-bed-RJl-ZYWCs7M)" >}}
 
 We all want more happy moments—those times when you just feel good, when things seem lighter, and you’re truly content. But happiness doesn’t just fall from the sky. It’s something you can build, little by little, by creating your own moments of comfort and joy. And the best way to do that? Start with a routine.
 
@@ -23,8 +22,7 @@ After that, I might go for a short jog or just take some time for myself before 
 
 Maybe you work on a small project, or invest just ten minutes a day in learning something new—watching a video, for example. Ten minutes a day adds up to over an hour a week. That’s enough to finish a whole course in just a week. It’s amazing what you can do with just a little bit of time each morning.
 
-![Photo by Look Studio](https://images.unsplash.com/photo-1688125289500-51b1c9d07814?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhcHBpbmVzcyUyMGhhYml0cyUyMGRhaWx5JTIwcmVzZXR8ZW58MHwwfHx8MTc1NTQzMzY4MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Day With a Simple Morning Routine")
-*How to Reset Your Day With a Simple Morning Routine - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-laying-on-top-of-a-bed-next-to-pillows-nTR3bFq1KWg)*
+{{< figure src="https://images.unsplash.com/photo-1688125289500-51b1c9d07814?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhcHBpbmVzcyUyMGhhYml0cyUyMGRhaWx5JTIwcmVzZXR8ZW58MHwwfHx8MTc1NTQzMzY4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman laying on top of a bed next to pillows" title="How to Reset Your Day With a Simple Morning Routine" caption="How to Reset Your Day With a Simple Morning Routine - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-laying-on-top-of-a-bed-next-to-pillows-nTR3bFq1KWg)" >}}
 
 Why do this in the morning? Because you never know what the day will throw at you. There’s mental clutter, unexpected problems, and all sorts of things that can drain your energy and cloud your mind. That’s why it’s so important to start your day with something that’s just for you, before anything else gets in the way.
 
@@ -40,8 +38,7 @@ The real secret is regularity. Go to bed at the same time every night, wake up a
 
 ---
 
-![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1608590757123-bbf889c0b652?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhcHBpbmVzcyUyMGhhYml0cyUyMGRhaWx5JTIwcmVzZXR8ZW58MHwwfHx8MTc1NTQzMzY4MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Reset Your Day With a Simple Morning Routine")
-*How to Reset Your Day With a Simple Morning Routine - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/white-and-blue-ceramic-mug-on-brown-wooden-table-wdxT3xl8Dfo)*
+{{< figure src="https://images.unsplash.com/photo-1608590757123-bbf889c0b652?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhcHBpbmVzcyUyMGhhYml0cyUyMGRhaWx5JTIwcmVzZXR8ZW58MHwwfHx8MTc1NTQzMzY4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and blue ceramic mug on brown wooden table" title="How to Reset Your Day With a Simple Morning Routine" caption="How to Reset Your Day With a Simple Morning Routine - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/white-and-blue-ceramic-mug-on-brown-wooden-table-wdxT3xl8Dfo)" >}}
 
 ## Key Takeaways
 - Build your own happy moments by creating a simple morning routine.

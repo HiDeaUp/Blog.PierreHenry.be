@@ -12,10 +12,7 @@ original_title = "How Just-in-Time Learning Makes You a Better Engineer #substac
 source_medium = "https://medium.com/@phenrysay/c5a513bc806f"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, i am still learning, learning, learn, study, life study, always learning, world student, student of life,
-
-](https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMGVuZ2luZWVyaW5nJTIwc2tpbGxzJTIwZWZmaWNpZW50JTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA0ODEwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Engineering Skills Without Wasting Time")
-*How to Learn Engineering Skills Without Wasting Time - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)*
+{{< figure src="https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMGVuZ2luZWVyaW5nJTIwc2tpbGxzJTIwZWZmaWNpZW50JTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA0ODEwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table w7sIj M5Xyc" title="How to Learn Engineering Skills Without Wasting Time" caption="How to Learn Engineering Skills Without Wasting Time - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)" >}}
 
 # How Just-in-Time Learning Makes You a Better Engineer #substack #shorts
 
@@ -27,8 +24,7 @@ Here’s what I mean. Say you need to create a data visualization with Tableau o
 
 When you learn this way, you’re not just saving time—you’re making your learning stick. You’ll actually remember what you learned because you’re using it right away. And you’ll be able to iterate, change, and improve your work as you go. That’s how you get better, faster.
 
-![Photo by Jeswin Thomas](https://images.unsplash.com/photo-1596495717749-f6562c785fda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMGVuZ2luZWVyaW5nJTIwc2tpbGxzJTIwZWZmaWNpZW50JTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA0ODEwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Engineering Skills Without Wasting Time")
-*How to Learn Engineering Skills Without Wasting Time - Photo by [Jeswin Thomas](https://unsplash.com/@jeswinthomas) on [Unsplash](https://unsplash.com/photos/boy-in-gray-long-sleeve-shirt-holding-white-plastic-container-EN-QTwptpu0)*
+{{< figure src="https://images.unsplash.com/photo-1596495717749-f6562c785fda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMGVuZ2luZWVyaW5nJTIwc2tpbGxzJTIwZWZmaWNpZW50JTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA0ODEwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy in gray long sleeve shirt holding white plastic EN" title="How to Learn Engineering Skills Without Wasting Time" caption="How to Learn Engineering Skills Without Wasting Time - Photo by [Jeswin Thomas](https://unsplash.com/@jeswinthomas) on [Unsplash](https://unsplash.com/photos/boy-in-gray-long-sleeve-shirt-holding-white-plastic-container-EN-QTwptpu0)" >}}
 
 Never fall into the trap of learning “just in case.” That’s how you end up wasting hours (or days) on stuff you’ll never use. The same goes for technical books. Don’t feel like you have to read every chapter. Just use the parts that are relevant to what you’re building right now. Iterate, leverage what you’ve learned, and scale up from there. That’s how you create better projects—and a better life—than you would by hoarding knowledge you’ll never apply.
 

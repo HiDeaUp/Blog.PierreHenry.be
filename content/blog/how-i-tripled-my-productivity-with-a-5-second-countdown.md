@@ -12,8 +12,7 @@ original_title = "Découvre comment ce simple minuteur a triplé ma productivit�
 source_medium = "https://medium.com/@phenrysay/ae10be30fc61"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQxNjQ3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Tripled My Productivity With a 5-Second Countdown")
-*How I Tripled My Productivity With a 5-Second Countdown - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQxNjQ3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How I Tripled My Productivity With a 5-Second Countdown" caption="How I Tripled My Productivity With a 5-Second Countdown - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Have you ever found yourself staring at a task, knowing you should start, but just… not moving? That moment of hesitation, when the friction is high and your motivation is low, can be the biggest barrier to getting things done. I’ve been there too. But I stumbled upon a ridiculously simple trick that changed everything for me: the 5-second timer.
 
@@ -29,8 +28,7 @@ Sometimes, I even use a five-minute timer to get out of bed. I tell myself, “Y
 
 ## Why Timers Work
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQxNjQ3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Tripled My Productivity With a 5-Second Countdown")
-*How I Tripled My Productivity With a 5-Second Countdown - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQxNjQ3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How I Tripled My Productivity With a 5-Second Countdown" caption="How I Tripled My Productivity With a 5-Second Countdown - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Our environment is incredibly powerful in shaping our actions. When you don’t feel like doing something, a timer can be the nudge you need. It’s not about willpower; it’s about creating a tiny moment of commitment.
 
@@ -53,8 +51,7 @@ Discipline, after all, is freedom. The more structure you give yourself, the mor
 > _Discipline equals freedom._
 > — Jocko Willink
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQxNjQ3OHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Tripled My Productivity With a 5-Second Countdown")
-*How I Tripled My Productivity With a 5-Second Countdown - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTQxNjQ3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How I Tripled My Productivity With a 5-Second Countdown" caption="How I Tripled My Productivity With a 5-Second Countdown - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 ## My Second Brain
 

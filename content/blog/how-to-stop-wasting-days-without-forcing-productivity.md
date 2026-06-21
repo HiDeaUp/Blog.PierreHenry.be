@@ -12,8 +12,7 @@ original_title = "Méthode Simple™ Comment vivre une vie merveilleuse"
 source_medium = "https://medium.com/@phenrysay/a6eadedbce98"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbGlmZSUyMGhhY2tzfGVufDB8MHx8fDE3NTY2MzU2NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Wasting Days Without Forcing Productivity")
-*How to Stop Wasting Days Without Forcing Productivity - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbGlmZSUyMGhhY2tzfGVufDB8MHx8fDE3NTY2MzU2NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Stop Wasting Days Without Forcing Productivity" caption="How to Stop Wasting Days Without Forcing Productivity - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever noticed how easy it is to let a whole day slip by without really doing anything that matters to you? You start with a vague plan, maybe a list of things you should do, but somehow you end up dragging your feet. You take your time with your shower, maybe get distracted, and before you know it, the day is half gone and you still haven’t started what you meant to do.
 
@@ -23,8 +22,7 @@ The confusion usually starts in the morning. We’re not sure how to begin, so w
 
 The trick is to create triggers that push you straight into action. For example, if you decide that right after your morning walk you’ll start your most important task, it becomes automatic. The walk ends, and you get to work. No hesitation, no overthinking.
 
-![Man drinking a cup of coffee on a laptop. Young man drinks coffee. More of my photos and videos Adobe Stock:http://bit.ly/3RqlciK More of my photos and videos Shutterstock: https://www.shutterstock.com/g/ALEKSANDRBERDYUGIN My email: bermix999@gmail.com](https://images.unsplash.com/photo-1673865641439-bb57a00d9305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbGlmZSUyMGhhY2tzfGVufDB8MHx8fDE3NTY2MzU2NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Wasting Days Without Forcing Productivity")
-*How to Stop Wasting Days Without Forcing Productivity - Photo by [Bermix Studio](https://unsplash.com/@bermixstudio) on [Unsplash](https://unsplash.com/photos/a-man-drinking-a-cup-of-coffee-while-using-a-laptop-pJFnESA-YWI)*
+{{< figure src="https://images.unsplash.com/photo-1673865641439-bb57a00d9305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbGlmZSUyMGhhY2tzfGVufDB8MHx8fDE3NTY2MzU2NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man a cup of coffee while using a laptop pJFnESA YWI" title="How to Stop Wasting Days Without Forcing Productivity" caption="How to Stop Wasting Days Without Forcing Productivity - Photo by [Bermix Studio](https://unsplash.com/@bermixstudio) on [Unsplash](https://unsplash.com/photos/a-man-drinking-a-cup-of-coffee-while-using-a-laptop-pJFnESA-YWI)" >}}
 
 It’s like taking a shower or a bath. You don’t spend hours debating when to do it—you just do it. The same goes for your key tasks, even if they take more effort. The sooner you start, the easier it becomes.
 
@@ -39,8 +37,7 @@ The real danger is not doing nothing, but getting stuck in a kind of limbo. You 
 
 The solution is simple: act right away. Move from one task to the next, and cut out those empty moments where you’re not really doing anything. The more you do this, the more wonderful your days will become.
 
-![Circle eco-friendly sticker with go hack yourself logo applied to a stainless steel water bottle](https://images.unsplash.com/photo-1669384536177-8301c2f14ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbGlmZSUyMGhhY2tzfGVufDB8MHx8fDE3NTY2MzU2NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Wasting Days Without Forcing Productivity")
-*How to Stop Wasting Days Without Forcing Productivity - Photo by [Sticker it](https://unsplash.com/@stickerit_co) on [Unsplash](https://unsplash.com/photos/a-red-sign-on-a-glass-door-4zeJH14O2lQ)*
+{{< figure src="https://images.unsplash.com/photo-1669384536177-8301c2f14ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbGlmZSUyMGhhY2tzfGVufDB8MHx8fDE3NTY2MzU2NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Circle eco-friendly sticker with go hack yourself logo applied to a stainless steel water bottle" title="How to Stop Wasting Days Without Forcing Productivity" caption="How to Stop Wasting Days Without Forcing Productivity - Photo by [Sticker it](https://unsplash.com/@stickerit_co) on [Unsplash](https://unsplash.com/photos/a-red-sign-on-a-glass-door-4zeJH14O2lQ)" >}}
 
 > *The best way to get something done is to begin.*
 > — Unknown

@@ -12,8 +12,7 @@ original_title = "La psychologie des lieux et des atmosphères"
 source_medium = "https://medium.com/@phenrysay/466ef6d8800d"
 +++
 
-![Photo by bovin wook](https://images.unsplash.com/photo-1638379801566-56344d4be102?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudGFsJTIwcHN5Y2hvbG9neSUyMGludGVyaW9yJTIwZGVzaWduJTIwbW9vZCUyMGluZmx1ZW5jZXxlbnwwfDB8fHwxNzU1NTIxNDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood by Changing Your Space")
-*How to Boost Your Mood by Changing Your Space - Photo by [bovin wook](https://unsplash.com/@bovinwook) on [Unsplash](https://unsplash.com/photos/a-living-room-filled-with-green-furniture-and-large-windows-j25xH6xb5HA)*
+{{< figure src="https://images.unsplash.com/photo-1638379801566-56344d4be102?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudGFsJTIwcHN5Y2hvbG9neSUyMGludGVyaW9yJTIwZGVzaWduJTIwbW9vZCUyMGluZmx1ZW5jZXxlbnwwfDB8fHwxNzU1NTIxNDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A living room filled with green and large windows" title="How to Boost Your Mood by Changing Your Space" caption="How to Boost Your Mood by Changing Your Space - Photo by [bovin wook](https://unsplash.com/@bovinwook) on [Unsplash](https://unsplash.com/photos/a-living-room-filled-with-green-furniture-and-large-windows-j25xH6xb5HA)" >}}
 
 When you walk into a hotel room or step into your own living room, you might not realize how much the space itself is shaping your thoughts and feelings. The psychology of interiors—how colors, lighting, and even the height of the ceiling affect us—is much more powerful than we often think.
 
@@ -29,8 +28,7 @@ Think about how you sleep. The way your bed is positioned, the color of the wall
 
 On the other hand, high ceilings give us a sense of freedom. We feel more open, more confident, and our creativity gets a boost. It’s like standing on top of a mountain and looking out over the city below. The horizon seems endless, and suddenly, everything feels possible.
 
-![Photo by Pawel Czerwinski](https://images.unsplash.com/photo-1720970228640-ac22842d782a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudGFsJTIwcHN5Y2hvbG9neSUyMGludGVyaW9yJTIwZGVzaWduJTIwbW9vZCUyMGluZmx1ZW5jZXxlbnwwfDB8fHwxNzU1NTIxNDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood by Changing Your Space")
-*How to Boost Your Mood by Changing Your Space - Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/photos/a-room-with-a-white-ceiling-and-white-walls-9CznAwJkGSQ)*
+{{< figure src="https://images.unsplash.com/photo-1720970228640-ac22842d782a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudGFsJTIwcHN5Y2hvbG9neSUyMGludGVyaW9yJTIwZGVzaWduJTIwbW9vZCUyMGluZmx1ZW5jZXxlbnwwfDB8fHwxNzU1NTIxNDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A room with a white ceiling and white walls" title="How to Boost Your Mood by Changing Your Space" caption="How to Boost Your Mood by Changing Your Space - Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/photos/a-room-with-a-white-ceiling-and-white-walls-9CznAwJkGSQ)" >}}
 
 ## The View from the Top
 
@@ -54,8 +52,7 @@ So, it’s worth taking the time to look around and ask: How can I make this spa
 >
 > — Unknown
 
-![Plants in table.](https://images.unsplash.com/photo-1741567405448-4feece4d288d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudGFsJTIwcHN5Y2hvbG9neSUyMGludGVyaW9yJTIwZGVzaWduJTIwbW9vZCUyMGluZmx1ZW5jZXxlbnwwfDB8fHwxNzU1NTIxNDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood by Changing Your Space")
-*How to Boost Your Mood by Changing Your Space - Photo by [Brenda Huescas](https://unsplash.com/@huescasb) on [Unsplash](https://unsplash.com/photos/plants-in-vases-decorate-a-table-setting-nYF7_D-09TU)*
+{{< figure src="https://images.unsplash.com/photo-1741567405448-4feece4d288d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudGFsJTIwcHN5Y2hvbG9neSUyMGludGVyaW9yJTIwZGVzaWduJTIwbW9vZCUyMGluZmx1ZW5jZXxlbnwwfDB8fHwxNzU1NTIxNDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Plants in table." title="How to Boost Your Mood by Changing Your Space" caption="How to Boost Your Mood by Changing Your Space - Photo by [Brenda Huescas](https://unsplash.com/@huescasb) on [Unsplash](https://unsplash.com/photos/plants-in-vases-decorate-a-table-setting-nYF7_D-09TU)" >}}
 
 ---
 

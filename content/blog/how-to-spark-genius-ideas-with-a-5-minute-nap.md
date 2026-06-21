@@ -12,8 +12,7 @@ original_title = "La sieste créative 🎨"
 source_medium = "https://medium.com/@phenrysay/92eb717603fa"
 +++
 
-![Photo by Budka Damdinsuren](https://images.unsplash.com/photo-1622784715977-b00aefca65f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwbmFwcGluZyUyMGludmVudG9yc3xlbnwwfDB8fHwxNzU2NTE5MTA1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Genius Ideas With a 5-Minute Nap")
-*How to Spark Genius Ideas With a 5-Minute Nap - Photo by [Budka Damdinsuren](https://unsplash.com/@buudkaanaa) on [Unsplash](https://unsplash.com/photos/a-group-of-people-laying-on-bean-bag-chairs-KvMMfgCL1gs)*
+{{< figure src="https://images.unsplash.com/photo-1622784715977-b00aefca65f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwbmFwcGluZyUyMGludmVudG9yc3xlbnwwfDB8fHwxNzU2NTE5MTA1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of people laying on bean bag chairs" title="How to Spark Genius Ideas With a 5-Minute Nap" caption="How to Spark Genius Ideas With a 5-Minute Nap - Photo by [Budka Damdinsuren](https://unsplash.com/@buudkaanaa) on [Unsplash](https://unsplash.com/photos/a-group-of-people-laying-on-bean-bag-chairs-KvMMfgCL1gs)" >}}
 
 Have you ever wondered how some of the greatest inventors came up with their ideas? There’s a little-known technique that taps directly into your unconscious mind, and it’s surprisingly simple: the creative nap.
 
@@ -27,8 +26,7 @@ As you start to drift off, your muscles relax. The object slips from your hand, 
 
 ## Why This Works
 
-![Photo by Shelby Murphy Figueroa](https://images.unsplash.com/photo-1722962495240-f613fd64c4ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwbmFwcGluZyUyMGludmVudG9yc3xlbnwwfDB8fHwxNzU2NTE5MTA1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Genius Ideas With a 5-Minute Nap")
-*How to Spark Genius Ideas With a 5-Minute Nap - Photo by [Shelby Murphy Figueroa](https://unsplash.com/@shelbyfigueroa) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-on-top-of-a-wooden-floor-zFmKEpu8iKo)*
+{{< figure src="https://images.unsplash.com/photo-1722962495240-f613fd64c4ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwbmFwcGluZyUyMGludmVudG9yc3xlbnwwfDB8fHwxNzU2NTE5MTA1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of people sitting on top of a wooden floor" title="How to Spark Genius Ideas With a 5-Minute Nap" caption="How to Spark Genius Ideas With a 5-Minute Nap - Photo by [Shelby Murphy Figueroa](https://unsplash.com/@shelbyfigueroa) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-on-top-of-a-wooden-floor-zFmKEpu8iKo)" >}}
 
 Before you begin the nap, set a clear intention. Ask yourself what problem you want to solve or what idea you want to develop. Maybe you’re stuck on a technical issue, or you’re searching for a breakthrough in your business. Repeat your goal in your mind as you get comfortable.
 
@@ -48,8 +46,7 @@ I first tried this technique years ago when I lived in New Zealand, and again in
 
 If you want to solve problems or boost your creativity, I highly recommend giving the creative nap a try. It’s a simple habit that can make a big difference.
 
-![Pure happiness is found in nothing but in the innocent smile of a baby.](https://images.unsplash.com/photo-1611827514651-7a52584000e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwbmFwcGluZyUyMGludmVudG9yc3xlbnwwfDB8fHwxNzU2NTE5MTA1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Genius Ideas With a 5-Minute Nap")
-*How to Spark Genius Ideas With a 5-Minute Nap - Photo by [Ashish Sangai](https://unsplash.com/@aksangai) on [Unsplash](https://unsplash.com/photos/girl-in-pink-jacket-lying-on-red-and-black-hammock-egvVU7k76WQ)*
+{{< figure src="https://images.unsplash.com/photo-1611827514651-7a52584000e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwbmFwcGluZyUyMGludmVudG9yc3xlbnwwfDB8fHwxNzU2NTE5MTA1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pure happiness is found in nothing but in the innocent smile of a baby." title="How to Spark Genius Ideas With a 5-Minute Nap" caption="How to Spark Genius Ideas With a 5-Minute Nap - Photo by [Ashish Sangai](https://unsplash.com/@aksangai) on [Unsplash](https://unsplash.com/photos/girl-in-pink-jacket-lying-on-red-and-black-hammock-egvVU7k76WQ)" >}}
 
 *“Genius is one percent inspiration and ninety-nine percent perspiration.”*  
 — Thomas Edison

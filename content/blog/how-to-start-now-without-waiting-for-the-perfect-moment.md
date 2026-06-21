@@ -12,8 +12,7 @@ original_title = "Comment utiliser son énergie à son avantage ?"
 source_medium = "https://medium.com/@phenrysay/1a1a9ea42ac8"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE2MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Now Without Waiting for the Perfect Moment")
-*How to Start Now Without Waiting for the Perfect Moment - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE2MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Start Now Without Waiting for the Perfect Moment" caption="How to Start Now Without Waiting for the Perfect Moment - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever found yourself thinking about a project or a dream, only to keep pushing it off for later? Maybe you’ve been telling yourself for months that you’ll start something new, but you’re still waiting for the right time, or maybe you just don’t know where to begin. It’s easy to let days slip by, always planning, never doing.
 
@@ -25,8 +24,7 @@ I’ve also talked to bankers, gathered information about franchises, and attend
 
 This is what I want for you too. Whatever your goal is, take the first step. If you want a new couch, you can order it online today and have it delivered next week. If you want to buy plants for your home, you can do that right now. The power to act is always within reach—especially with the internet. You can make progress on almost anything today.
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE2MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Now Without Waiting for the Perfect Moment")
-*How to Start Now Without Waiting for the Perfect Moment - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE2MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Start Now Without Waiting for the Perfect Moment" caption="How to Start Now Without Waiting for the Perfect Moment - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 The real challenge is to stop putting things off. The longer you wait, the more likely you are to let your dreams slip away. Life is short, and we only get one shot at it. If you don’t do what you want now, you might never do it. Your interests might change, or you might miss out on discovering new passions that come from taking action.
 
@@ -46,8 +44,7 @@ So, I encourage you to take action today. Even a small step can make a big diffe
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, work, rest, play, live, whole life, life balance, enjoy life, carpe diem, yolo, mindfulness, learn, enjoy, work life balance, embrace life, optimism, real life, books, reading, literature, bibliophile, study, learn, ](https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE2MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Now Without Waiting for the Perfect Moment")
-*How to Start Now Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)*
+{{< figure src="https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE2MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile with words that spell out work rest play live" title="How to Start Now Without Waiting for the Perfect Moment" caption="How to Start Now Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)" >}}
 
 - *Start with small, concrete steps toward your goal—even if you’re not ready.*
 - *Create a dedicated space (like a savings account) for your project to make it real.*

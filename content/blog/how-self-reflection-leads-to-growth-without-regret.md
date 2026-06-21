@@ -12,8 +12,7 @@ original_title = "Pourquoi faut-il se remettre en question ?"
 source_medium = "https://medium.com/@phenrysay/02d5fe40b396"
 +++
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMGludHJvc3BlY3Rpb258ZW58MHwwfHx8MTc1NjYzODQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Self-Reflection Leads to Growth Without Regret")
-*How Self-Reflection Leads to Growth Without Regret - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMGludHJvc3BlY3Rpb258ZW58MHwwfHx8MTc1NjYzODQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How Self-Reflection Leads to Growth Without Regret" caption="How Self-Reflection Leads to Growth Without Regret - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 Questioning yourself is one of the most important habits you can develop. When you regularly take a step back and examine your choices, you give yourself a real chance to grow. It’s not always easy to admit that a decision you made wasn’t the best, or that maybe you could have done something differently. But this honest look at your actions is what helps you move forward.
 
@@ -23,8 +22,7 @@ Imagine you want to make your weekend more meaningful. Instead of just letting i
 
 By questioning yourself, you create space for a richer life. You might realize that mixing family time, a passion project, and some relaxation gives you a much better weekend than just doing the same old thing. This habit of checking in with yourself helps you keep moving toward a life that feels right for you.
 
-![Photo by JF Martin](https://images.unsplash.com/photo-1611324012162-07fa1ba0e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMGludHJvc3BlY3Rpb258ZW58MHwwfHx8MTc1NjYzODQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Self-Reflection Leads to Growth Without Regret")
-*How Self-Reflection Leads to Growth Without Regret - Photo by [JF Martin](https://unsplash.com/@numericcitizen) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-man-in-black-jacket-and-pants-standing-on-basketball-court-q0-kr2qaF9w)*
+{{< figure src="https://images.unsplash.com/photo-1611324012162-07fa1ba0e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMGludHJvc3BlY3Rpb258ZW58MHwwfHx8MTc1NjYzODQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of man in black jacket and pants on court q0" title="How Self-Reflection Leads to Growth Without Regret" caption="How Self-Reflection Leads to Growth Without Regret - Photo by [JF Martin](https://unsplash.com/@numericcitizen) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-man-in-black-jacket-and-pants-standing-on-basketball-court-q0-kr2qaF9w)" >}}
 
 Of course, this doesn’t happen overnight. It takes some work and a bit of patience. The more you practice, the more natural it becomes. Over time, you’ll find yourself making choices that bring you closer to your ideal life.
 
@@ -44,8 +42,7 @@ In the end, questioning yourself is about finding the right direction for your l
 
 ---
 
-![Winter at sea via a mirror](https://images.unsplash.com/photo-1722917617363-3d706e50a709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMGludHJvc3BlY3Rpb258ZW58MHwwfHx8MTc1NjYzODQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Self-Reflection Leads to Growth Without Regret")
-*How Self-Reflection Leads to Growth Without Regret - Photo by [Long (lTiga) Nguyen](https://unsplash.com/@l333) on [Unsplash](https://unsplash.com/photos/a-round-mirror-sitting-on-the-side-of-a-tree-RMr8n34uiUU)*
+{{< figure src="https://images.unsplash.com/photo-1722917617363-3d706e50a709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbCUyMGdyb3d0aCUyMGludHJvc3BlY3Rpb258ZW58MHwwfHx8MTc1NjYzODQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Winter at sea via a mirror" title="How Self-Reflection Leads to Growth Without Regret" caption="How Self-Reflection Leads to Growth Without Regret - Photo by [Long (lTiga) Nguyen](https://unsplash.com/@l333) on [Unsplash](https://unsplash.com/photos/a-round-mirror-sitting-on-the-side-of-a-tree-RMr8n34uiUU)" >}}
 
 ## Key Takeaways
 

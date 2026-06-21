@@ -12,8 +12,7 @@ original_title = "Avancer au lieu d’attendre et stagner …"
 source_medium = "https://medium.com/@phenrysay/aa19b0a142a3"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMG92ZXJjb21pbmclMjBzdGFnbmF0aW9ufGVufDB8MHx8fDE3NTY1MDU2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Waiting for Perfect Timing")
-*How to Make Progress Without Waiting for Perfect Timing - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMG92ZXJjb21pbmclMjBzdGFnbmF0aW9ufGVufDB8MHx8fDE3NTY1MDU2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Make Progress Without Waiting for Perfect Timing" caption="How to Make Progress Without Waiting for Perfect Timing - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Staying still is one of the biggest dangers we face. When you stop moving, you lose time, you start doubting yourself, and you miss out on new solutions. The fear of making mistakes can freeze you, but in reality, mistakes are how you learn and grow. Progress comes from action, not from endless thinking.
 
@@ -21,8 +20,7 @@ When you make mistakes, you learn something new. You might feel a bit proud beca
 
 Think about planning a trip. You want to go on vacation, maybe book a hotel, buy a plane ticket, but you’re not sure if it’s the right time or if it’s a good idea to spend the money. So you do nothing. You procrastinate, you think, but nothing concrete happens. Even if you spend too much, at least you’ve taken action and moved forward.
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMG92ZXJjb21pbmclMjBzdGFnbmF0aW9ufGVufDB8MHx8fDE3NTY1MDU2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Waiting for Perfect Timing")
-*How to Make Progress Without Waiting for Perfect Timing - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMG92ZXJjb21pbmclMjBzdGFnbmF0aW9ufGVufDB8MHx8fDE3NTY1MDU2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How to Make Progress Without Waiting for Perfect Timing" caption="How to Make Progress Without Waiting for Perfect Timing - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 That’s the message I want to share: always take action. Doing things is the best way to learn. When you’re stuck, you’re just treading water. You can spend a week thinking about going to Mexico, to Cancun, or somewhere else. You check flights, see they’re expensive, decide to wait, look at hotels, regret not booking, check Airbnb, and in the end, nothing happens. That’s the real problem. Afterwards, you feel bad, like you’ve wasted your time.
 
@@ -38,8 +36,7 @@ Taking action can be scary. It’s like standing at the edge of a pool, afraid t
 >
 > — Zig Ziglar
 
-![Photo by Courtney Cantu](https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMG92ZXJjb21pbmclMjBzdGFnbmF0aW9ufGVufDB8MHx8fDE3NTY1MDU2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Waiting for Perfect Timing")
-*How to Make Progress Without Waiting for Perfect Timing - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)*
+{{< figure src="https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMG92ZXJjb21pbmclMjBzdGFnbmF0aW9ufGVufDB8MHx8fDE3NTY1MDU2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of the ground" title="How to Make Progress Without Waiting for Perfect Timing" caption="How to Make Progress Without Waiting for Perfect Timing - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)" >}}
 
 ---
 

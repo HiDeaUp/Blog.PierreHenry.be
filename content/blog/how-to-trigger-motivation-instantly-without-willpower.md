@@ -12,8 +12,7 @@ original_title = "Déclencher des motivations sur demande"
 source_medium = "https://medium.com/@phenrysay/11b0054d096b"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NjYzNTgyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Trigger Motivation Instantly Without Willpower")
-*How to Trigger Motivation Instantly Without Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NjYzNTgyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Trigger Motivation Instantly Without Willpower" caption="How to Trigger Motivation Instantly Without Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever noticed how what you do right before starting a task can completely change your motivation? The environment you create and the actions you take just before diving in are far more important than most people think. They set the stage for the kind of motivation you need—whether it’s a burst of energy or a calm focus.
 
@@ -21,8 +20,7 @@ Let’s say you need a lot of energy before starting something. Jumping up and d
 
 But maybe you need to be more relaxed and creative. In that case, listening to classical music and being in a peaceful place—maybe even soaking in a warm bath—can help you recharge. If you’re looking for inspiration or want to let your mind wander, go somewhere with wide open spaces. A trip to the sea or the mountains can fill you with fresh ideas and spark your imagination.
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NjYzNTgyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Trigger Motivation Instantly Without Willpower")
-*How to Trigger Motivation Instantly Without Willpower - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NjYzNTgyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Trigger Motivation Instantly Without Willpower" caption="How to Trigger Motivation Instantly Without Willpower - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 Music can also help you shift into a more intellectual mode. Certain styles of music can trigger memories or associations with things you’ve learned, like history lessons or cultural experiences. This can be a great way to get your mind ready for deep thinking.
 
@@ -38,8 +36,7 @@ The bottom line is that your environment is crucial for preparing yourself for a
 
 ---
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NjYzNTgyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Trigger Motivation Instantly Without Willpower")
-*How to Trigger Motivation Instantly Without Willpower - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwZW52aXJvbm1lbnR8ZW58MHwwfHx8MTc1NjYzNTgyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Trigger Motivation Instantly Without Willpower" caption="How to Trigger Motivation Instantly Without Willpower - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ## Key Takeaways
 - What you do before a task shapes your motivation.

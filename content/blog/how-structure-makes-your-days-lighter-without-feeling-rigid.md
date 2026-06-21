@@ -12,8 +12,7 @@ original_title = "Simplifie ta vie / Les clés d'une organisation quotidienne ef
 source_medium = "https://medium.com/@phenrysay/ccf59457f35b"
 +++
 
-![Photo by Mille Sanders](https://images.unsplash.com/photo-1553034710-47f9e03ff808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NTQxOTE4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How Structure Makes Your Days Lighter Without Feeling Rigid")
-*How Structure Makes Your Days Lighter Without Feeling Rigid - Photo by [Mille Sanders](https://unsplash.com/@millesanders) on [Unsplash](https://unsplash.com/photos/white-calendar-oWpartNqAnM)*
+{{< figure src="https://images.unsplash.com/photo-1553034710-47f9e03ff808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NTQxOTE4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="White" title="How Structure Makes Your Days Lighter Without Feeling Rigid" caption="How Structure Makes Your Days Lighter Without Feeling Rigid - Photo by [Mille Sanders](https://unsplash.com/@millesanders) on [Unsplash](https://unsplash.com/photos/white-calendar-oWpartNqAnM)" >}}
 
 Have you ever noticed how much smoother your day goes when you know exactly what you want to do, and when? There’s something powerful about organizing your day step by step, the night before. It’s not just about making a to-do list—it’s about creating a kind of personal constitution. You set your wake-up time, and you stick to it. No negotiation. You get up, take a shower, and start your most important task for 45 minutes.
 
@@ -25,8 +24,7 @@ When your day is well-structured, you follow each step without having to think t
 
 So, my suggestion is simple: set concrete habits for yourself. This gives you regularity, because every day repeats and you can adjust as you go. Iteration is important. We all need to learn, and sometimes a routine that works for someone else—or even for you at a different time in your life—won’t fit right now. Maybe your household changes, or your job changes, or even the season changes. For example, in summer, it’s easier for me to go outside early, there are fewer people, and it’s pleasant. In winter, it’s harder. It’s cold, and I want to stay under the covers. That can mess up my whole day’s organization.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NTQxOTE4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How Structure Makes Your Days Lighter Without Feeling Rigid")
-*How Structure Makes Your Days Lighter Without Feeling Rigid - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NTQxOTE4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How Structure Makes Your Days Lighter Without Feeling Rigid" caption="How Structure Makes Your Days Lighter Without Feeling Rigid - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 So, how can you make it easier to wake up early? Open the blinds, open your apartment doors, maybe even schedule a taxi or Uber in advance. Ask someone close to you to be your accountability partner—someone who makes sure you get up when you said you would. If you don’t, promise to pay them some money. It’s a bit like not showing up to work on time; there’s a consequence.
 
@@ -49,8 +47,7 @@ The point is, structure isn’t about being rigid. It’s about making your life
 - Adjust your routine as your life and seasons change.
 - Use accountability tricks if you struggle to get up early.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NTQxOTE4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How Structure Makes Your Days Lighter Without Feeling Rigid")
-*How Structure Makes Your Days Lighter Without Feeling Rigid - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMHJvdXRpbmUlMjBwcm9kdWN0aXZpdHklMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc1NTQxOTE4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How Structure Makes Your Days Lighter Without Feeling Rigid" caption="How Structure Makes Your Days Lighter Without Feeling Rigid - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 ## Action Steps
 

@@ -12,8 +12,7 @@ original_title = "Le point commun des gens qui réussissent mieux que les autres
 source_medium = "https://medium.com/@phenrysay/45bc3810b98e"
 +++
 
-![Photo by Alex Hudson](https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzNjc1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Relying on Talent or Luck")
-*How to Make Real Progress Without Relying on Talent or Luck - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)*
+{{< figure src="https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzNjc1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiling man holding cup and using" title="How to Make Real Progress Without Relying on Talent or Luck" caption="How to Make Real Progress Without Relying on Talent or Luck - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)" >}}
 
 Have you ever noticed how easy it is to get pulled in a thousand directions at once? Maybe you’re sitting in a café, or doing your shopping, and suddenly your mind is racing: I need to do this, I have to reply to that person, oh, and there’s that other thing I forgot. Our phones make it even worse. With so many apps, we try to do everything at the same time—replying to a text, then an email, then a notification pops up, and before you know it, you haven’t finished anything at all.
 
@@ -23,8 +22,7 @@ Here’s the truth: you have to take back control. Tell yourself, “Stop. What 
 
 You’ll see, you’ll get so much more done. You’ll accomplish more, and it will truly change your life.
 
-![Nah](https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzNjc1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Relying on Talent or Luck")
-*How to Make Real Progress Without Relying on Talent or Luck - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)*
+{{< figure src="https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzNjc1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman right fist" title="How to Make Real Progress Without Relying on Talent or Luck" caption="How to Make Real Progress Without Relying on Talent or Luck - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)" >}}
 
 > *“Success is nothing more than a few simple disciplines, practiced every day.”*  
 > —Jim Rohn
@@ -40,8 +38,7 @@ One thing at a time. That’s the basic rule. It will change your life, and it w
 > *“Wherever you are, be all there.”*  
 > —Jim Elliot
 
-![Looking Up](https://images.unsplash.com/photo-1523287562758-66c7fc58967f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzNjc1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Relying on Talent or Luck")
-*How to Make Real Progress Without Relying on Talent or Luck - Photo by [Razvan Chisu](https://unsplash.com/@nullplus) on [Unsplash](https://unsplash.com/photos/low-angle-photography-of-man-in-the-middle-of-buidligns-Ua-agENjmI4)*
+{{< figure src="https://images.unsplash.com/photo-1523287562758-66c7fc58967f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTMzNjc1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Looking Up" title="How to Make Real Progress Without Relying on Talent or Luck" caption="How to Make Real Progress Without Relying on Talent or Luck - Photo by [Razvan Chisu](https://unsplash.com/@nullplus) on [Unsplash](https://unsplash.com/photos/low-angle-photography-of-man-in-the-middle-of-buidligns-Ua-agENjmI4)" >}}
 
 ---
 

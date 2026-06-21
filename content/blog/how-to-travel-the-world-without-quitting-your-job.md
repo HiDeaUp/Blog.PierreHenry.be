@@ -12,8 +12,7 @@ original_title = "Et si voyager était la meilleure façon de profiter de la vie
 source_medium = "https://medium.com/@phenrysay/a0298c2c1d5c"
 +++
 
-![Photo by David L. Espina Rincon](https://images.unsplash.com/photo-1630932598914-3ebd4ef95d55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjByZW1vdGUlMjB3b3JrJTIwZGlnaXRhbCUyMG5vbWFkfGVufDB8MHx8fDE3NTUzODYzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Travel the World Without Quitting Your Job")
-*How to Travel the World Without Quitting Your Job - Photo by [David L. Espina Rincon](https://unsplash.com/@davadventurelife) on [Unsplash](https://unsplash.com/photos/woman-in-black-shirt-sitting-on-gray-concrete-bench-during-daytime-_wi9xjwg694)*
+{{< figure src="https://images.unsplash.com/photo-1630932598914-3ebd4ef95d55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjByZW1vdGUlMjB3b3JrJTIwZGlnaXRhbCUyMG5vbWFkfGVufDB8MHx8fDE3NTUzODYzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black shirt sitting on gray bench during daytime" title="How to Travel the World Without Quitting Your Job" caption="How to Travel the World Without Quitting Your Job - Photo by [David L. Espina Rincon](https://unsplash.com/@davadventurelife) on [Unsplash](https://unsplash.com/photos/woman-in-black-shirt-sitting-on-gray-concrete-bench-during-daytime-_wi9xjwg694)" >}}
 
 For many, the idea of working while traveling—or maybe traveling while working—sounds like a dream. You’ve probably seen digital nomads on social media: freelancers in coworking spaces, people typing away in coffee shops or hotel lobbies, all while exploring new cities. It looks great, but is it really possible for everyone?
 
@@ -23,9 +22,7 @@ For most tech jobs—programming, marketing, design, copywriting—this flexibil
 
 Imagine waking up in Chile or Costa Rica, logging in to work, and then spending your evenings exploring a new country. Not only does this boost your happiness and motivation, but if you choose countries with a lower cost of living, you’ll save money too.
 
-![Girl remote worker sits on the beach with a suitcase and works while on vacation
-](https://images.unsplash.com/photo-1654355229863-95a8a7a779dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0cmF2ZWwlMjByZW1vdGUlMjB3b3JrJTIwZGlnaXRhbCUyMG5vbWFkfGVufDB8MHx8fDE3NTUzODYzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Travel the World Without Quitting Your Job")
-*How to Travel the World Without Quitting Your Job - Photo by [Anastasiia Nelen](https://unsplash.com/@mnelen) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-with-a-suitcase-and-a-laptop-Y7AwRJmfC0I)*
+{{< figure src="https://images.unsplash.com/photo-1654355229863-95a8a7a779dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0cmF2ZWwlMjByZW1vdGUlMjB3b3JrJTIwZGlnaXRhbCUyMG5vbWFkfGVufDB8MHx8fDE3NTUzODYzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Girl remote worker sits on the beach with a suitcase and works while on vacation" title="How to Travel the World Without Quitting Your Job" caption="How to Travel the World Without Quitting Your Job - Photo by [Anastasiia Nelen](https://unsplash.com/@mnelen) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-with-a-suitcase-and-a-laptop-Y7AwRJmfC0I)" >}}
 
 There’s always a way to make it work. My first advice: talk to your manager. You can mention that you’ve seen other companies offering full remote work and that you’d like to try it too. Start small—ask to work from home one day a week, then two, then three. Once you’ve shown that your work doesn’t suffer, ask for a month or two of remote work. If you’re a good employee, your company won’t want to lose you. Hiring and training new people is expensive and time-consuming, especially in tech, where interviews can last hours and recruiters charge high fees.
 
@@ -45,8 +42,7 @@ Travel really does open your mind. The world is too big not to see it. When you 
 >
 > — Wayne Gretzky
 
-![Alone man checking something in laptop while sitting on the rock in the forest](https://images.unsplash.com/photo-1652608243094-c1f798ff9a42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0cmF2ZWwlMjByZW1vdGUlMjB3b3JrJTIwZGlnaXRhbCUyMG5vbWFkfGVufDB8MHx8fDE3NTUzODYzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Travel the World Without Quitting Your Job")
-*How to Travel the World Without Quitting Your Job - Photo by [Anastasiia Nelen](https://unsplash.com/@mnelen) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-a-tree-x9ExGKuiF9k)*
+{{< figure src="https://images.unsplash.com/photo-1652608243094-c1f798ff9a42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0cmF2ZWwlMjByZW1vdGUlMjB3b3JrJTIwZGlnaXRhbCUyMG5vbWFkfGVufDB8MHx8fDE3NTUzODYzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alone man checking something in laptop while sitting on the rock in the forest" title="How to Travel the World Without Quitting Your Job" caption="How to Travel the World Without Quitting Your Job - Photo by [Anastasiia Nelen](https://unsplash.com/@mnelen) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-a-tree-x9ExGKuiF9k)" >}}
 
 ---
 

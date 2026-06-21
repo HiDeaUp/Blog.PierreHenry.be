@@ -12,8 +12,7 @@ original_title = "🎉 Vivre une vie (enfin) libre 🎯"
 source_medium = "https://medium.com/@phenrysay/82a840a6c3d9"
 +++
 
-![we walked by this wall at the funfair and while we watches people having fun i captured this picture.](https://images.unsplash.com/photo-1510423011867-b42552d52e07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWFjY2VwdGFuY2UlMjBjb21wYXJpc29ufGVufDB8MHx8fDE3NTY2MzMyNjl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Freedom Without Chasing Someone Else’s Life")
-*How to Find Freedom Without Chasing Someone Else’s Life - Photo by [Lili Kovac](https://unsplash.com/@lilschk) on [Unsplash](https://unsplash.com/photos/reflection-of-woman-leaning-against-wall-PFjmzTQ47Z0)*
+{{< figure src="https://images.unsplash.com/photo-1510423011867-b42552d52e07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWFjY2VwdGFuY2UlMjBjb21wYXJpc29ufGVufDB8MHx8fDE3NTY2MzMyNjl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="we walked by this wall at the funfair and while we watches people having fun i captured this picture." title="How to Find Freedom Without Chasing Someone Else’s Life" caption="How to Find Freedom Without Chasing Someone Else’s Life - Photo by [Lili Kovac](https://unsplash.com/@lilschk) on [Unsplash](https://unsplash.com/photos/reflection-of-woman-leaning-against-wall-PFjmzTQ47Z0)" >}}
 
 Sitting on my balcony, soaking in the sun and the view, I can’t help but reflect on what freedom really means. Many people dream of traveling the world, but often feel limited by their circumstances—maybe their passport doesn’t open as many doors, or their country’s currency isn’t strong. Yet, even with these challenges, there are always ways to move forward, step by step.
 
@@ -23,8 +22,7 @@ It’s easy to look at others and think they’re ahead, but life isn’t a race
 
 Think of life as climbing a mountain. Each step brings you closer to the top. If you start with nothing in your bank account and a weak currency, maybe you need to look for freelance work in countries with stronger economies. In many developing countries, fixed-term deposit accounts offer high interest rates—sometimes 8 to 12%. This can be a powerful tool to grow your savings safely, unlike the risks of the stock market.
 
-![@viktoriia.kudinska](https://images.unsplash.com/photo-1611596665399-733f0a70c33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWFjY2VwdGFuY2UlMjBjb21wYXJpc29ufGVufDB8MHx8fDE3NTY2MzMyNjl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Freedom Without Chasing Someone Else’s Life")
-*How to Find Freedom Without Chasing Someone Else’s Life - Photo by [AnimGraph Lab](https://unsplash.com/@dimitryzub) on [Unsplash](https://unsplash.com/photos/woman-with-red-lipstick-and-black-mascara-tfAWQQWZX50)*
+{{< figure src="https://images.unsplash.com/photo-1611596665399-733f0a70c33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWFjY2VwdGFuY2UlMjBjb21wYXJpc29ufGVufDB8MHx8fDE3NTY2MzMyNjl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="@viktoriia.kudinska" title="How to Find Freedom Without Chasing Someone Else’s Life" caption="How to Find Freedom Without Chasing Someone Else’s Life - Photo by [AnimGraph Lab](https://unsplash.com/@dimitryzub) on [Unsplash](https://unsplash.com/photos/woman-with-red-lipstick-and-black-mascara-tfAWQQWZX50)" >}}
 
 The real mistake most people make is comparing their inner struggles to the polished image others present. You can’t compare your behind-the-scenes to someone else’s highlight reel. Maybe you’ve made huge progress in the last few days, weeks, or year. Focus on what you can do at your own level, and you’ll move forward much faster.
 
@@ -40,8 +38,7 @@ Surrounding yourself with the right people and consuming positive content is jus
 > *Small, smart choices, completed consistently over time, lead to radical differences.*
 > — Darren Hardy
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWFjY2VwdGFuY2UlMjBjb21wYXJpc29ufGVufDB8MHx8fDE3NTY2MzMyNjl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Freedom Without Chasing Someone Else’s Life")
-*How to Find Freedom Without Chasing Someone Else’s Life - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWFjY2VwdGFuY2UlMjBjb21wYXJpc29ufGVufDB8MHx8fDE3NTY2MzMyNjl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Find Freedom Without Chasing Someone Else’s Life" caption="How to Find Freedom Without Chasing Someone Else’s Life - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 > *Comparison is the thief of joy.*
 > — Theodore Roosevelt

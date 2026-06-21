@@ -12,8 +12,7 @@ original_title = "Comment faut-il donner de la passion dans ses projets ?"
 source_medium = "https://medium.com/@phenrysay/ffeb5c380a59"
 +++
 
-![Photo by Guillaume de Germain](https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwc2VsZi1iZWxpZWYlMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDU4NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Belief Without Waiting for Approval")
-*How to Build Self-Belief Without Waiting for Approval - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)*
+{{< figure src="https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwc2VsZi1iZWxpZWYlMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDU4NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man under orange sky" title="How to Build Self-Belief Without Waiting for Approval" caption="How to Build Self-Belief Without Waiting for Approval - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)" >}}
 
 Confidence changes everything. When you trust yourself—your ability to react, to learn, to accomplish, to execute—your daily achievements take on a whole new dimension. This isn’t just about feeling good; it’s about transforming what you’re capable of doing, every single day.
 
@@ -23,8 +22,7 @@ It all starts with your mindset. You have to tell yourself, “Yes, I can do thi
 
 Believing in your project is the first step. Don’t chase glory or success as if they’re objects to grab. Instead, focus on transforming yourself into the kind of person who can succeed at this project. That means changing how you interpret things, breaking down your mental barriers. Most of the limits we face are the ones we set for ourselves. The only real limits are the ones we draw in our own minds.
 
-![Shadows can make great stories.](https://images.unsplash.com/photo-1563182150-7abad4f9d362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwc2VsZi1iZWxpZWYlMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDU4NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Belief Without Waiting for Approval")
-*How to Build Self-Belief Without Waiting for Approval - Photo by [Bogdan Todoran](https://unsplash.com/@todoranb_26) on [Unsplash](https://unsplash.com/photos/man-stretching-his-arms-silhouette-at-sunrise-xRT85yVC-8k)*
+{{< figure src="https://images.unsplash.com/photo-1563182150-7abad4f9d362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwc2VsZi1iZWxpZWYlMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDU4NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Shadows can make great stories." title="How to Build Self-Belief Without Waiting for Approval" caption="How to Build Self-Belief Without Waiting for Approval - Photo by [Bogdan Todoran](https://unsplash.com/@todoranb_26) on [Unsplash](https://unsplash.com/photos/man-stretching-his-arms-silhouette-at-sunrise-xRT85yVC-8k)" >}}
 
 So, recognize those limits. See them for what they are—mental boundaries, not real ones. Then ask yourself how you can change your mindset, how you can see things differently, and remind yourself that anything is possible. Surround yourself with people who have already achieved what you want to achieve. If you can’t do that in person, do it virtually: watch talks, videos, take online courses, read biographies—whether on Audible, Kindle, or in print. This kind of conditioning puts you in the right mindset for success.
 
@@ -42,8 +40,7 @@ When you’re in the right mental space, when you’re conditioned for achieveme
 
 ## Key Takeaways
 
-![A man poses for a silhouette ](https://images.unsplash.com/photo-1640117421601-abd470aab1e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwc2VsZi1iZWxpZWYlMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDU4NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Belief Without Waiting for Approval")
-*How to Build Self-Belief Without Waiting for Approval - Photo by [Imani Manyara](https://unsplash.com/@imanimanyara) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-raising-his-arms-in-the-air-p_ek3Tb08dE)*
+{{< figure src="https://images.unsplash.com/photo-1640117421601-abd470aab1e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwc2VsZi1iZWxpZWYlMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDU4NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man poses for a silhouette" title="How to Build Self-Belief Without Waiting for Approval" caption="How to Build Self-Belief Without Waiting for Approval - Photo by [Imani Manyara](https://unsplash.com/@imanimanyara) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-raising-his-arms-in-the-air-p_ek3Tb08dE)" >}}
 
 - *Self-confidence is the foundation of every achievement.*
 - *Focus on your “why” instead of getting stuck on the “how.”*

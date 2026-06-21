@@ -12,8 +12,7 @@ original_title = "Comment vivre selon tes besoins et te sentir vraiment bien"
 source_medium = "https://medium.com/@phenrysay/78a46d21cef4"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMGF1dGhlbnRpYyUyMGxpdmluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTUzODU4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live True to Yourself Without Following the Crowd")
-*How to Live True to Yourself Without Following the Crowd - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMGF1dGhlbnRpYyUyMGxpdmluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTUzODU4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Live True to Yourself Without Following the Crowd" caption="How to Live True to Yourself Without Following the Crowd - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Living a life where you feel honest with yourself, where you feel good and in harmony with what you do, is something many of us quietly crave. Yet, so often, we end up living against our own grain. We do things simply because we’ve been shaped by society, by our upbringing, by what we’re used to. We follow our classmates, we take the same paths, we keep living in the same places. Without even realizing it, the country, the culture, and everything around us molds us into a certain shape.
 
@@ -23,8 +22,7 @@ That’s why it’s so important to pause and ask yourself real questions. Take 
 
 Of course, we all change and grow over time. I used to enjoy things that I don’t care for now. I used to sleep very little; now, I need more rest. We all go through these changes. Learning to know yourself better might sound simple, but the truth is, we often don’t know ourselves as well as we think.
 
-![Fly](https://images.unsplash.com/photo-1678299487550-ca05a8ff0637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMGF1dGhlbnRpYyUyMGxpdmluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTUzODU4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live True to Yourself Without Following the Crowd")
-*How to Live True to Yourself Without Following the Crowd - Photo by [Amir Asghari](https://unsplash.com/@amirarsalann) on [Unsplash](https://unsplash.com/photos/a-woman-standing-in-a-field-with-her-arms-outstretched-1JmsOBHzgLI)*
+{{< figure src="https://images.unsplash.com/photo-1678299487550-ca05a8ff0637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMGF1dGhlbnRpYyUyMGxpdmluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTUzODU4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Fly" title="How to Live True to Yourself Without Following the Crowd" caption="How to Live True to Yourself Without Following the Crowd - Photo by [Amir Asghari](https://unsplash.com/@amirarsalann) on [Unsplash](https://unsplash.com/photos/a-woman-standing-in-a-field-with-her-arms-outstretched-1JmsOBHzgLI)" >}}
 
 If you don’t feel especially happy or fulfilled in your life, maybe it’s a sign that you need to make some changes. It’s not about making huge leaps overnight, but about listening to yourself, even in small ways, every day.
 
@@ -44,8 +42,7 @@ If you don’t feel especially happy or fulfilled in your life, maybe it’s a s
 - It’s normal to change your mind about what you like or need as you grow.
 - If you’re not feeling happy or fulfilled, it might be time to listen to yourself more closely.
 
-![Sun breakthrough sees heaven's breakthrough ](https://images.unsplash.com/photo-1586210728846-6936cf621484?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMGF1dGhlbnRpYyUyMGxpdmluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTUzODU4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live True to Yourself Without Following the Crowd")
-*How to Live True to Yourself Without Following the Crowd - Photo by [Nico Smit](https://unsplash.com/@nicosmit99) on [Unsplash](https://unsplash.com/photos/man-standing-on-rock-formation-under-cloudy-sky-during-daytime-XCfIaHq4qvU)*
+{{< figure src="https://images.unsplash.com/photo-1586210728846-6936cf621484?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMGF1dGhlbnRpYyUyMGxpdmluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTUzODU4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Sun breakthrough sees heaven's breakthrough" title="How to Live True to Yourself Without Following the Crowd" caption="How to Live True to Yourself Without Following the Crowd - Photo by [Nico Smit](https://unsplash.com/@nicosmit99) on [Unsplash](https://unsplash.com/photos/man-standing-on-rock-formation-under-cloudy-sky-during-daytime-XCfIaHq4qvU)" >}}
 
 ## Action Steps
 

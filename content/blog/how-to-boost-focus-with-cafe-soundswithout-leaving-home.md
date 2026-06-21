@@ -12,8 +12,7 @@ original_title = "Le HACK tout con pour augmenter sa concentration"
 source_medium = "https://medium.com/@phenrysay/4bd8f5f3faf0"
 +++
 
-![we were able to work in a coffee shop for such a short period of time this year, I miss it so much.](https://images.unsplash.com/photo-1601585612823-0d8787c1e019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25jZW50cmF0aW9uJTIwYmFja2dyb3VuZCUyMG5vaXNlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1NzY5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus With Café Sounds—Without Leaving Home")
-*How to Boost Focus With Café Sounds—Without Leaving Home - Photo by [Phil Desforges](https://unsplash.com/@storybyphil) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-man-using-macbook-cGJdXOBC9io)*
+{{< figure src="https://images.unsplash.com/photo-1601585612823-0d8787c1e019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25jZW50cmF0aW9uJTIwYmFja2dyb3VuZCUyMG5vaXNlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1NzY5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="we were able to work in a coffee shop for such a short period of time this year, I miss it so much." title="How to Boost Focus With Café Sounds—Without Leaving Home" caption="How to Boost Focus With Café Sounds—Without Leaving Home - Photo by [Phil Desforges](https://unsplash.com/@storybyphil) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-man-using-macbook-cGJdXOBC9io)" >}}
 
 Have you ever noticed how sitting in a café can make you feel more productive? As a freelancer, I often find myself working from coffee shops. There’s something about the gentle hum of conversation, the clinking of cups, and the soft background music that helps me get into the zone. But what if you can’t always be in a café? Or what if, like me, you sometimes find the crowd overwhelming and need to create your own bubble to focus?
 
@@ -27,8 +26,7 @@ At home, things can be too quiet. That’s when I turn to white noise or café s
 
 ## How to Recreate the Perfect Atmosphere
 
-![Photo by Aedrian Salazar](https://images.unsplash.com/photo-1653971296122-6b384285ed65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25jZW50cmF0aW9uJTIwYmFja2dyb3VuZCUyMG5vaXNlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1NzY5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus With Café Sounds—Without Leaving Home")
-*How to Boost Focus With Café Sounds—Without Leaving Home - Photo by [Aedrian Salazar](https://unsplash.com/@aedrian) on [Unsplash](https://unsplash.com/photos/a-blurry-image-of-a-red-and-blue-wave-e1e2JiEAd70)*
+{{< figure src="https://images.unsplash.com/photo-1653971296122-6b384285ed65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25jZW50cmF0aW9uJTIwYmFja2dyb3VuZCUyMG5vaXNlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1NzY5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A blurry image of a red and blue wave" title="How to Boost Focus With Café Sounds—Without Leaving Home" caption="How to Boost Focus With Café Sounds—Without Leaving Home - Photo by [Aedrian Salazar](https://unsplash.com/@aedrian) on [Unsplash](https://unsplash.com/photos/a-blurry-image-of-a-red-and-blue-wave-e1e2JiEAd70)" >}}
 
 So, how do you bring that coffee shop feeling into your own space? Here are some tools and tips that have worked for me:
 
@@ -53,8 +51,7 @@ If you’re skeptical, that’s normal. But give it a try. Music and sound have 
 
 ## Key Takeaways
 
-![Photo by Ritual Visuals](https://images.unsplash.com/photo-1621084355896-abf2ae1ae876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25jZW50cmF0aW9uJTIwYmFja2dyb3VuZCUyMG5vaXNlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1NzY5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus With Café Sounds—Without Leaving Home")
-*How to Boost Focus With Café Sounds—Without Leaving Home - Photo by [Ritual Visuals](https://unsplash.com/@ritualvisuals) on [Unsplash](https://unsplash.com/photos/man-in-white-crew-neck-t-shirt-wearing-black-headphones-_AcV0AWPg78)*
+{{< figure src="https://images.unsplash.com/photo-1621084355896-abf2ae1ae876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25jZW50cmF0aW9uJTIwYmFja2dyb3VuZCUyMG5vaXNlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU1NzY5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in white crew neck t shirt wearing black" title="How to Boost Focus With Café Sounds—Without Leaving Home" caption="How to Boost Focus With Café Sounds—Without Leaving Home - Photo by [Ritual Visuals](https://unsplash.com/@ritualvisuals) on [Unsplash](https://unsplash.com/photos/man-in-white-crew-neck-t-shirt-wearing-black-headphones-_AcV0AWPg78)" >}}
 
 ---
 * Background noise, especially café sounds or white noise, can help you focus and boost productivity.

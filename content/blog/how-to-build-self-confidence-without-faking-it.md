@@ -12,8 +12,7 @@ original_title = "Pourquoi faudra-t-il commencer par sa confiance en soi ?"
 source_medium = "https://medium.com/@phenrysay/c1c003aa3cf8"
 +++
 
-![Photo by Towfiqu barbhuiya](https://images.unsplash.com/photo-1633158834806-766387547d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjA2NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Confidence Without Faking It")
-*How to Build Self-Confidence Without Faking It - Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/photos/a-chalkboard-with-the-word-possible-written-on-it-Jxi526YIQgA)*
+{{< figure src="https://images.unsplash.com/photo-1633158834806-766387547d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjA2NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A with the word written on it" title="How to Build Self-Confidence Without Faking It" caption="How to Build Self-Confidence Without Faking It - Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/photos/a-chalkboard-with-the-word-possible-written-on-it-Jxi526YIQgA)" >}}
 
 Self-confidence is the foundation that changes everything. When you believe in yourself, in your ability to react, to learn, to accomplish, and to execute, your daily achievements take on a new dimension. This isn’t just a nice idea—it’s a shift that can transform your entire life.
 
@@ -25,8 +24,7 @@ But you have to believe in your project. You have to believe in your own ability
 
 Mental barriers are the real limits we face. We often think we can’t go further because it seems impossible, but the only real limits are the ones we set for ourselves. Once you realize this, you can start to change your mindset and see that everything is possible. Surround yourself with people who have already succeeded in what you want to do. If you can’t do this in person, do it virtually—watch talks, videos, take online courses, read biographies, listen to stories of those who have made it.
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjA2NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Confidence Without Faking It")
-*How to Build Self-Confidence Without Faking It - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjA2NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Build Self-Confidence Without Faking It" caption="How to Build Self-Confidence Without Faking It - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 This kind of conditioning puts you in the right frame of mind for success. When you’re in the right mindset, you can go beyond what you thought was possible. You’ll surprise yourself by reaching higher than you ever imagined.
 
@@ -52,8 +50,7 @@ This kind of conditioning puts you in the right frame of mind for success. When 
 - Mental barriers are self-imposed—recognize and break them.
 - Surround yourself with successful people, even virtually, to build the right mindset.
 
-![This shot was taken on a trip in Rockford, Illinois with my family. There was a beautiful community park we visited, and there was a section of bricks in the courtyard. Most of them had names of people who had donated to the building of the park, but this one stood out from among them. With the words, “I BELIEVE IN YOU. BELIEVE IN YOURSELF! BE POSITIVE.” inscribed on the brick, it was a reminder that some people don’t care about recognition, but solely making the world a better place.](https://images.unsplash.com/photo-1531857454108-c65232a962a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjA2NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Self-Confidence Without Faking It")
-*How to Build Self-Confidence Without Faking It - Photo by [Alex Bracken](https://unsplash.com/@alexbracken) on [Unsplash](https://unsplash.com/photos/gray-concrete-block-lOGJufYD_B8)*
+{{< figure src="https://images.unsplash.com/photo-1531857454108-c65232a962a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjA2NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gray block" title="How to Build Self-Confidence Without Faking It" caption="How to Build Self-Confidence Without Faking It - Photo by [Alex Bracken](https://unsplash.com/@alexbracken) on [Unsplash](https://unsplash.com/photos/gray-concrete-block-lOGJufYD_B8)" >}}
 
 ## Action Steps
 

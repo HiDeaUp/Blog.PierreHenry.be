@@ -10,8 +10,7 @@ original_title = "MÉTHODE POUR MIJOTER ET GÉNÉRER DES IDÉES À LA VOLÉE"
 source_medium = "https://medium.com/@phenrysay/ca5a71a7974d"
 +++
 
-![Photo by nilufar nattaq](https://images.unsplash.com/photo-1642306343944-17668971fc72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwbWV0aG9kfGVufDB8MHx8fDE3NTU0MjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creative Ideas Without Forced Brainstorming")
-*How to Spark Creative Ideas Without Forced Brainstorming - Photo by [nilufar nattaq](https://unsplash.com/@nillufar) on [Unsplash](https://unsplash.com/photos/a-vase-with-a-bear-and-a-blue-bottle-wWUgv6XC9fE)*
+{{< figure src="https://images.unsplash.com/photo-1642306343944-17668971fc72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwbWV0aG9kfGVufDB8MHx8fDE3NTU0MjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A vase with a bear and a blue bottle" title="How to Spark Creative Ideas Without Forced Brainstorming" caption="How to Spark Creative Ideas Without Forced Brainstorming - Photo by [nilufar nattaq](https://unsplash.com/@nillufar) on [Unsplash](https://unsplash.com/photos/a-vase-with-a-bear-and-a-blue-bottle-wWUgv6XC9fE)" >}}
 
 Have you ever wondered how some people seem to come up with fresh ideas out of nowhere? There’s a simple method I love to use, inspired by something as ordinary as cooking: the principle of marination.
 
@@ -25,8 +24,7 @@ Think of it like preparing a classic Provençal ratatouille. You gather all sort
 
 This method works especially well for writing, but you can use it for any creative project. Here’s how I do it:
 
-![Photo by Alexey Demidov](https://images.unsplash.com/photo-1650508310965-4dd4d40fded5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwbWV0aG9kfGVufDB8MHx8fDE3NTU0MjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creative Ideas Without Forced Brainstorming")
-*How to Spark Creative Ideas Without Forced Brainstorming - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-table-topped-with-bowls-of-food-and-a-knife-HGasRBpjNJA)*
+{{< figure src="https://images.unsplash.com/photo-1650508310965-4dd4d40fded5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwbWV0aG9kfGVufDB8MHx8fDE3NTU0MjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A table topped with bowls of food and a knife" title="How to Spark Creative Ideas Without Forced Brainstorming" caption="How to Spark Creative Ideas Without Forced Brainstorming - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-table-topped-with-bowls-of-food-and-a-knife-HGasRBpjNJA)" >}}
 
 - In the evening, before bed, gather 10 to 12 ideas. These can be anything—concepts, themes, problems, or even random thoughts.
 - Don’t wait until you’re lying in bed, or you might fall asleep before you start. Instead, stand by your bed, dim the lights, and jot down your ideas.
@@ -49,8 +47,7 @@ This method isn’t just about creativity. It’s about problem-solving, memory,
 > 
 > — Anonymous
 
-![Watercolour Art Vinyl Stickers by Stationery Hoe](https://images.unsplash.com/photo-1591241880758-722003fdb0af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwbWV0aG9kfGVufDB8MHx8fDE3NTU0MjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Creative Ideas Without Forced Brainstorming")
-*How to Spark Creative Ideas Without Forced Brainstorming - Photo by [Kasturi Roy](https://unsplash.com/@stationery_hoe) on [Unsplash](https://unsplash.com/photos/red-and-white-floral-ceramic-plates-nqR38vnv-hE)*
+{{< figure src="https://images.unsplash.com/photo-1591241880758-722003fdb0af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwaWRlYSUyMGdlbmVyYXRpb24lMjBtYXJpbmF0aW9uJTIwbWV0aG9kfGVufDB8MHx8fDE3NTU0MjAyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Watercolour Art Vinyl Stickers by Stationery Hoe" title="How to Spark Creative Ideas Without Forced Brainstorming" caption="How to Spark Creative Ideas Without Forced Brainstorming - Photo by [Kasturi Roy](https://unsplash.com/@stationery_hoe) on [Unsplash](https://unsplash.com/photos/red-and-white-floral-ceramic-plates-nqR38vnv-hE)" >}}
 
 ---
 

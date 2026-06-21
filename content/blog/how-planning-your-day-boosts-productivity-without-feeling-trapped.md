@@ -12,8 +12,7 @@ original_title = "Paroles de Vie (e que j'aurais voulu savoir en 2020)"
 source_medium = "https://medium.com/@phenrysay/0e1ca8829d44"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBsZXNzb25zfGVufDB8MHx8fDE3NTU2NTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Planning Your Day Boosts Productivity Without Feeling Trapped")
-*How Planning Your Day Boosts Productivity Without Feeling Trapped - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBsZXNzb25zfGVufDB8MHx8fDE3NTU2NTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How Planning Your Day Boosts Productivity Without Feeling Trapped" caption="How Planning Your Day Boosts Productivity Without Feeling Trapped - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Imagine waking up on a Saturday or a public holiday. You open your eyes a bit later than usual, maybe at 8 or 9 instead of 6. You stretch, wander to the bathroom, take a shower, and then drift to your computer. Hunger hits, so you grab a bowl of cereal, maybe a glass of milk. Before you know it, you’re back at your computer, scrolling, and suddenly it’s 11. You tell yourself, “It’s not even noon, I’ve got time.” But you keep drifting, and by 1:30, you’re finally having lunch—without having done anything meaningful yet.
 
@@ -33,8 +32,7 @@ One thing I’ve learned is that if you allow yourself even one exception, more 
 
 Every evening, visualize how your next day will go. Picture yourself waking up, going to your chosen spot, and moving through each task. See yourself working until 8 or 9 at night, then finishing with a sense of accomplishment. This mental rehearsal makes it much easier to follow through.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBsZXNzb25zfGVufDB8MHx8fDE3NTU2NTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Planning Your Day Boosts Productivity Without Feeling Trapped")
-*How Planning Your Day Boosts Productivity Without Feeling Trapped - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBsZXNzb25zfGVufDB8MHx8fDE3NTU2NTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How Planning Your Day Boosts Productivity Without Feeling Trapped" caption="How Planning Your Day Boosts Productivity Without Feeling Trapped - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 ## Grouping Tasks and Sprints
 
@@ -64,8 +62,7 @@ If you get just 1% better every day, by the end of the year you’ll be 37% bett
 
 ## Your Only Limit Is Yourself
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBsZXNzb25zfGVufDB8MHx8fDE3NTU2NTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Planning Your Day Boosts Productivity Without Feeling Trapped")
-*How Planning Your Day Boosts Productivity Without Feeling Trapped - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGxpZmUlMjBsZXNzb25zfGVufDB8MHx8fDE3NTU2NTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How Planning Your Day Boosts Productivity Without Feeling Trapped" caption="How Planning Your Day Boosts Productivity Without Feeling Trapped - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 Most of our limits are self-imposed. They come from our upbringing, past experiences, culture, or even our personality. But the truth is, we can go much further than we imagine. The only real limits are the ones we accept in our minds.
 

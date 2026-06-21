@@ -12,8 +12,7 @@ original_title = "Comment augmenter ses chances du succès ?"
 source_medium = "https://medium.com/@phenrysay/04ef8b8632f8"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjAxMjg2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success With Simple Daily Habits—No Overwhelm")
-*How to Build Success With Simple Daily Habits—No Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjAxMjg2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Build Success With Simple Daily Habits—No Overwhelm" caption="How to Build Success With Simple Daily Habits—No Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 Success often feels like a mystery, but it’s usually built on a few simple habits. Let me share with you some of the most important keys I’ve learned for growing faster and feeling better about your days.
 
@@ -33,8 +32,7 @@ The second key is daily physical activity. Go for a walk, get some fresh air, or
 
 If you’re thinking about changing your environment, remember that moving to a new place can sometimes be cheaper and more comfortable than you expect. Many countries in Eastern Europe, Asia, or Latin America offer beautiful, affordable living. Sometimes a change of scenery is all you need to see things differently.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjAxMjg2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success With Simple Daily Habits—No Overwhelm")
-*How to Build Success With Simple Daily Habits—No Overwhelm - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjAxMjg2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Build Success With Simple Daily Habits—No Overwhelm" caption="How to Build Success With Simple Daily Habits—No Overwhelm - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 ## Visualize Your Success
 
@@ -59,8 +57,7 @@ One quote I love sums this up:
 
 And another that reminds me to enjoy the journey:
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjAxMjg2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success With Simple Daily Habits—No Overwhelm")
-*How to Build Success With Simple Daily Habits—No Overwhelm - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjAxMjg2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Build Success With Simple Daily Habits—No Overwhelm" caption="How to Build Success With Simple Daily Habits—No Overwhelm - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 > *The path is beautiful; don’t worry about where it leads.*
 

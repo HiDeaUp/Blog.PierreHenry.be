@@ -12,8 +12,7 @@ original_title = "Le point commun des gens qui réussissent mieux que les autre
 source_medium = "https://medium.com/@phenrysay/f42c52f9e7f8"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQxNzE5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Real Success Without Relying on Talent or Luck")
-*How to Achieve Real Success Without Relying on Talent or Luck - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQxNzE5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Achieve Real Success Without Relying on Talent or Luck" caption="How to Achieve Real Success Without Relying on Talent or Luck - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever noticed how easy it is to get distracted these days? You might be sitting in a café, or just doing your grocery shopping, and suddenly your mind is racing with a thousand things you need to do. “I have to call this person, reply to that message, answer that email…” And with our phones, it’s even worse. We jump from one app to another, replying to a text, then quickly answering an email, then checking a reminder, and before we know it, we haven’t really finished anything.
 
@@ -23,8 +22,7 @@ But here’s the thing: it’s important to take back control. Decide, “This i
 
 The real secret of people who succeed more than others isn’t that they’re smarter or luckier. It’s that they focus on one thing at a time. They become almost obsessed with the task at hand, and only when it’s finished do they allow themselves to move on. If you’re always jumping from one thing to another, you end up doing nothing well.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQxNzE5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Real Success Without Relying on Talent or Luck")
-*How to Achieve Real Success Without Relying on Talent or Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQxNzE5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Achieve Real Success Without Relying on Talent or Luck" caption="How to Achieve Real Success Without Relying on Talent or Luck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Even now, as I’m writing this, my phone lights up with a notification. If I let myself get distracted, I’d lose my train of thought. That’s why it’s so important to say, “One thing at a time.” Maybe you need to turn off your notifications, put your phone on silent, or just ignore the messages for a while. Finish what you’re doing first. Only then move on.
 
@@ -40,8 +38,7 @@ So, the basic principle is simple: one thing at a time. It will clear your mind,
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQxNzE5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Real Success Without Relying on Talent or Luck")
-*How to Achieve Real Success Without Relying on Talent or Luck - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQxNzE5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Achieve Real Success Without Relying on Talent or Luck" caption="How to Achieve Real Success Without Relying on Talent or Luck - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 ## Key Takeaways
 - *Focus on one task at a time. Don’t move on until it’s finished.*

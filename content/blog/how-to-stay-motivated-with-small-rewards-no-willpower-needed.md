@@ -12,8 +12,7 @@ original_title = "Ça Marche ! Développe toi Grâce aux Récompenses 😋"
 source_medium = "https://medium.com/@phenrysay/84119921a922"
 +++
 
-![audiobook, Jim Rohn](https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated With Small Rewards (No Willpower Needed)")
-*How to Stay Motivated With Small Rewards (No Willpower Needed) - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)*
+{{< figure src="https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="audiobook, Jim Rohn" title="How to Stay Motivated With Small Rewards (No Willpower Needed)" caption="How to Stay Motivated With Small Rewards (No Willpower Needed) - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)" >}}
 
 Have you ever noticed how much easier it is to finish something when there’s a little treat waiting for you at the end? I want to share a simple but powerful principle that keeps me motivated every day: the reward trigger.
 
@@ -25,8 +24,7 @@ Setting rewards gives you a real incentive. But there’s another piece to this:
 
 Some people use this trick for all sorts of things. Maybe you finish a training session and treat yourself to a cold beer. If you’re in a hot, humid place where beer is cheap, that’s a real pleasure. For me, living in Australia, it’s all about coffee culture. When I lived in Sydney, it was more about wine, like in France—sharing a glass with friends at a restaurant. Now, I work in places that make me feel good, surrounded by nature, with a view of the bay. That view reminds me that anything is possible if I really want it.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated With Small Rewards (No Willpower Needed)")
-*How to Stay Motivated With Small Rewards (No Willpower Needed) - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Stay Motivated With Small Rewards (No Willpower Needed)" caption="How to Stay Motivated With Small Rewards (No Willpower Needed) - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 > _If you’re obsessed with what you want to achieve, you’ll always find a way to make it happen._
 > 
@@ -46,8 +44,7 @@ So, next time you’re struggling to finish something, try this: set a clear dea
 
 ## Key Takeaways
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated With Small Rewards (No Willpower Needed)")
-*How to Stay Motivated With Small Rewards (No Willpower Needed) - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE3NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Stay Motivated With Small Rewards (No Willpower Needed)" caption="How to Stay Motivated With Small Rewards (No Willpower Needed) - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
 - Set a clear reward for finishing tasks, big or small.
 - Always give yourself a deadline—otherwise, you’ll keep delaying.

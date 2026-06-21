@@ -12,8 +12,7 @@ original_title = "Secret que j'aurais voulu connaître à 16 ans pour réussir..
 source_medium = "https://medium.com/@phenrysay/d6305ccbd52a"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwbGVzc29ucyUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day Count Without Waiting for Tomorrow")
-*How to Make Every Day Count Without Waiting for Tomorrow - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwbGVzc29ucyUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Every Day Count Without Waiting for Tomorrow" caption="How to Make Every Day Count Without Waiting for Tomorrow - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Most of us live as if life will never end. We plan, we work, we put things off, always thinking there will be more time. But the truth is, life does have an end. When you really understand this, you start making wiser decisions. You begin to enjoy the small, simple moments—often the ones that bring the most happiness and the least worry.
 
@@ -27,8 +26,7 @@ Ask yourself what you really want from life. Many of us dream of building our ow
 
 The message I want to share is this: enjoy your moments. Don’t deprive yourself. Money comes and goes, but time only moves forward. It’s like a train that never stops. That’s why it’s so important to appreciate where you are and the time you have, because we never know how long we’ll be here.
 
-![artist studio](https://images.unsplash.com/photo-1494915156525-fc540ba09a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwbGVzc29ucyUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day Count Without Waiting for Tomorrow")
-*How to Make Every Day Count Without Waiting for Tomorrow - Photo by [Artsy Vibes](https://unsplash.com/@artsyvibes) on [Unsplash](https://unsplash.com/photos/man-standing-against-the-glass-window-grayscale-photography-uhFpRRQLQaU)*
+{{< figure src="https://images.unsplash.com/photo-1494915156525-fc540ba09a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwbGVzc29ucyUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="artist studio" title="How to Make Every Day Count Without Waiting for Tomorrow" caption="How to Make Every Day Count Without Waiting for Tomorrow - Photo by [Artsy Vibes](https://unsplash.com/@artsyvibes) on [Unsplash](https://unsplash.com/photos/man-standing-against-the-glass-window-grayscale-photography-uhFpRRQLQaU)" >}}
 
 This morning, I woke up at 6:20 am and wrote these thoughts down. We often don’t make the best choices because we think we have unlimited time. But if tomorrow was your last day, what would you regret? That’s what you need to figure out. For me, I know I’d regret not visiting Antarctica. It’s the experiences that matter most, not the things we own. You won’t regret not buying the latest iPhone, unless it would have truly changed your life. But usually, it’s the memories and adventures that count.
 
@@ -48,8 +46,7 @@ Remember, your life is precious and your time is limited. You have your own trai
 
 ---
 
-![get high](https://images.unsplash.com/photo-1539600447713-00b8fc3d8b84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwbGVzc29ucyUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day Count Without Waiting for Tomorrow")
-*How to Make Every Day Count Without Waiting for Tomorrow - Photo by [Lê Tân](https://unsplash.com/@ktsfish) on [Unsplash](https://unsplash.com/photos/man-running-hYZkko9DM-M)*
+{{< figure src="https://images.unsplash.com/photo-1539600447713-00b8fc3d8b84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwbGVzc29ucyUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="get high" title="How to Make Every Day Count Without Waiting for Tomorrow" caption="How to Make Every Day Count Without Waiting for Tomorrow - Photo by [Lê Tân](https://unsplash.com/@ktsfish) on [Unsplash](https://unsplash.com/photos/man-running-hYZkko9DM-M)" >}}
 
 ## Key Takeaways
 

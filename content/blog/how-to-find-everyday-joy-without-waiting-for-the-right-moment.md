@@ -12,8 +12,7 @@ original_title = "PROFITER DE LA VIE. Ça peut être plus simple que l’on pens
 source_medium = "https://medium.com/@phenrysay/952f517d25ac"
 +++
 
-![Photo by Mathew MacQuarrie](https://images.unsplash.com/photo-1476370648495-3533f64427a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzQ5MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Everyday Joy Without Waiting for the Right Moment")
-*How to Find Everyday Joy Without Waiting for the Right Moment - Photo by [Mathew MacQuarrie](https://unsplash.com/@matmacq) on [Unsplash](https://unsplash.com/photos/white-and-black-skull-figurine-on-black-surface-u6OnpbMuZAs)*
+{{< figure src="https://images.unsplash.com/photo-1476370648495-3533f64427a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzQ5MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black skull on black surface" title="How to Find Everyday Joy Without Waiting for the Right Moment" caption="How to Find Everyday Joy Without Waiting for the Right Moment - Photo by [Mathew MacQuarrie](https://unsplash.com/@matmacq) on [Unsplash](https://unsplash.com/photos/white-and-black-skull-figurine-on-black-surface-u6OnpbMuZAs)" >}}
 
 There’s something magical about the end-of-year holidays. Streets light up, people gather, and there’s a feeling in the air that invites us to celebrate. But what if we didn’t need a special occasion to enjoy life? What if feeling good, celebrating, and truly living could be part of our everyday routine?
 
@@ -25,8 +24,7 @@ I’m about to head to a café called Brown Café. It’s a beautiful day, and I
 
 But here’s something I’ve noticed: too often, we live lives that aren’t really ours. We follow paths chosen for us—maybe by our families, maybe by society. We go to the same schools as our siblings, take similar jobs, and stay close to home out of habit or convenience. Before we know it, we’re living someone else’s idea of a good life.
 
-![Photo by Fernanda Greppe](https://images.unsplash.com/photo-1594172104175-f898a8b17ef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzQ5MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Everyday Joy Without Waiting for the Right Moment")
-*How to Find Everyday Joy Without Waiting for the Right Moment - Photo by [Fernanda Greppe](https://unsplash.com/@fergreppe) on [Unsplash](https://unsplash.com/photos/woman-in-blue-and-white-plaid-dress-shirt-carrying-girl-in-white-shirt-7UOI1OZASZs)*
+{{< figure src="https://images.unsplash.com/photo-1594172104175-f898a8b17ef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzQ5MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in blue and white plaid dress shirt girl in white shirt" title="How to Find Everyday Joy Without Waiting for the Right Moment" caption="How to Find Everyday Joy Without Waiting for the Right Moment - Photo by [Fernanda Greppe](https://unsplash.com/@fergreppe) on [Unsplash](https://unsplash.com/photos/woman-in-blue-and-white-plaid-dress-shirt-carrying-girl-in-white-shirt-7UOI1OZASZs)" >}}
 
 I’ve been lucky. My parents never pressured me to follow a certain path. They just wanted me to be happy. But I know that’s not the case for everyone. Even the most loving parents can put pressure on their kids without realizing it. It’s not their fault—it’s just the way they were raised. It’s a kind of invisible rule, a paradigm that shapes our choices.
 
@@ -45,8 +43,7 @@ The point of life is to be happy, to feel good, and to do what brings you joy. I
 > *“Happiness is not something ready made. It comes from your own actions.”*  
 > — Dalai Lama
 
-![Man meditating near water. ](https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzQ5MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Everyday Joy Without Waiting for the Right Moment")
-*How to Find Everyday Joy Without Waiting for the Right Moment - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)*
+{{< figure src="https://images.unsplash.com/photo-1603166868295-4ae2cba14063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBlbmpveWluZyUyMGxpZmUlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzQ5MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man meditating near water." title="How to Find Everyday Joy Without Waiting for the Right Moment" caption="How to Find Everyday Joy Without Waiting for the Right Moment - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/topless-man-wearing-black-beaded-necklace-and-blue-denim-shorts-standing-on-rocky-shore-during-daytime-I8Q261NtB24)" >}}
 
 > *“The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.”*  
 > — Ralph Waldo Emerson

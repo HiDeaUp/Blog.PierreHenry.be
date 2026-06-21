@@ -12,8 +12,7 @@ original_title = "TOUTE MA STRATÉGIE DE RÉUSSITE ! *SIMPLE MAIS EFFICACE*"
 source_medium = "https://medium.com/@phenrysay/32e7e1667f8a"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc3RyYXRlZ3klMjBzaW1wbGUlMjByb3V0aW5lcyUyMGVmZmVjdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTU0NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How I Built a Simple Routine That Actually Made Me Succeed")
-*How I Built a Simple Routine That Actually Made Me Succeed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc3RyYXRlZ3klMjBzaW1wbGUlMjByb3V0aW5lcyUyMGVmZmVjdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTU0NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How I Built a Simple Routine That Actually Made Me Succeed" caption="How I Built a Simple Routine That Actually Made Me Succeed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 We all want to succeed, but the path to real progress is often hidden behind a mountain of distractions and unnecessary tasks. Over the years, I’ve tested countless methods, but the one that truly changed my life is surprisingly simple. Let me share how I built a routine that actually works—and why it’s less about working harder and more about working on what matters.
 
@@ -31,8 +30,7 @@ How you use those hours is everything. Most of us fill our days with endless to-
 
 I use a simple task manager (you might use Todoist, Google Tasks, or something else). Every morning, I look at my list and ask: *If I could only do one thing today, what would have the most positive impact on my life or work?* Most tasks are just reminders—nice to do, but not life-changing. The key is to find that one task that moves you forward.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc3RyYXRlZ3klMjBzaW1wbGUlMjByb3V0aW5lcyUyMGVmZmVjdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTU0NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How I Built a Simple Routine That Actually Made Me Succeed")
-*How I Built a Simple Routine That Actually Made Me Succeed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)*
+{{< figure src="https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc3RyYXRlZ3klMjBzaW1wbGUlMjByb3V0aW5lcyUyMGVmZmVjdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTU0NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word love on a wooden surface" title="How I Built a Simple Routine That Actually Made Me Succeed" caption="How I Built a Simple Routine That Actually Made Me Succeed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)" >}}
 
 ## Energy Management: Know Your Peak
 
@@ -57,8 +55,7 @@ The rest—checking currency rates, updating your website footer, paying bills�
 
 ## Take Action Now
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, keep things simple, simplify, complexity, clutter, muddle, clear thinking, problem solving, secret of success, kiss, keep it simple stupid, occam razor, occam, ](https://images.unsplash.com/photo-1627453999411-dd9c2604c109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc3RyYXRlZ3klMjBzaW1wbGUlMjByb3V0aW5lcyUyMGVmZmVjdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTU0NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How I Built a Simple Routine That Actually Made Me Succeed")
-*How I Built a Simple Routine That Actually Made Me Succeed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-ofpr9Cw8Rj8)*
+{{< figure src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc3RyYXRlZ3klMjBzaW1wbGUlMjByb3V0aW5lcyUyMGVmZmVjdGl2ZSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTU0NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How I Built a Simple Routine That Actually Made Me Succeed" caption="How I Built a Simple Routine That Actually Made Me Succeed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-ofpr9Cw8Rj8)" >}}
 
 The best time to act is always now. Don’t put off what you know you need to do. Success isn’t about doing more; it’s about doing what matters, when your energy is highest.
 

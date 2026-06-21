@@ -12,8 +12,7 @@ original_title = "SIMPLICITÉ & RÉUSSITE: CE QUE PERSONNE NE DIT SUR LES *CONS�
 source_medium = "https://medium.com/@phenrysay/d861eab01be5"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwcmV3YXJkc3xlbnwwfDB8fHwxNzU1NDIzNDQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Forcing Willpower")
-*How to Get More Done Without Forcing Willpower - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwcmV3YXJkc3xlbnwwfDB8fHwxNzU1NDIzNDQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Get More Done Without Forcing Willpower" caption="How to Get More Done Without Forcing Willpower - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Have you ever wondered why some days you’re able to finish a big task, while other days you just can’t get started? For me, the answer is simple: I use rewards as triggers to motivate myself. Let me share how this works in my daily life, and why it might just change the way you approach your own goals.
 
@@ -31,8 +30,7 @@ Sometimes, I even use the closing time of my favorite coffee shop as a deadline.
 
 There’s also something called “time boxing.” I’ll unplug my laptop and tell myself, “Finish before the battery dies.” It’s a way to put your work into a box—a set time frame—and it helps you focus.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwcmV3YXJkc3xlbnwwfDB8fHwxNzU1NDIzNDQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Forcing Willpower")
-*How to Get More Done Without Forcing Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwcmV3YXJkc3xlbnwwfDB8fHwxNzU1NDIzNDQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Get More Done Without Forcing Willpower" caption="How to Get More Done Without Forcing Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 ## Your Environment Matters
 
@@ -58,8 +56,7 @@ Even for small tasks, I tell myself, “Finish this, and then you get your coffe
 
 If you want to raise funds, being in a place like San Francisco makes it easier—not just because of the money, but because everyone is an entrepreneur. Connections happen faster, and you feel motivated by the energy around you.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwcmV3YXJkc3xlbnwwfDB8fHwxNzU1NDIzNDQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Forcing Willpower")
-*How to Get More Done Without Forcing Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwcmV3YXJkc3xlbnwwfDB8fHwxNzU1NDIzNDQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Get More Done Without Forcing Willpower" caption="How to Get More Done Without Forcing Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
 So, set up your environment to help you succeed. Make it easy to do the things you want to do. The right environment, combined with rewards and deadlines, can help you stop procrastinating and start achieving.
 

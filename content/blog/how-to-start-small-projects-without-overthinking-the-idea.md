@@ -12,8 +12,7 @@ original_title = "Ce que personne ne montre sur la création d’un projet passi
 source_medium = "https://medium.com/@phenrysay/d3aa1502dfff"
 +++
 
-![»Passionate« in Gold](https://images.unsplash.com/photo-1618438051699-58c35eb6e614?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMHByb2plY3RzJTIwcGFzc2lvbiUyMGRhdGElMjBzY2llbmNlfGVufDB8MHx8fDE3NTU0MTgwMzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Small Projects Without Overthinking the Idea")
-*How to Start Small Projects Without Overthinking the Idea - Photo by [Etienne Girardet](https://unsplash.com/@etiennegirardet) on [Unsplash](https://unsplash.com/photos/brown-and-black-round-ornament-weYtEB6fsO4)*
+{{< figure src="https://images.unsplash.com/photo-1618438051699-58c35eb6e614?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMHByb2plY3RzJTIwcGFzc2lvbiUyMGRhdGElMjBzY2llbmNlfGVufDB8MHx8fDE3NTU0MTgwMzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="»Passionate« in Gold" title="How to Start Small Projects Without Overthinking the Idea" caption="How to Start Small Projects Without Overthinking the Idea - Photo by [Etienne Girardet](https://unsplash.com/@etiennegirardet) on [Unsplash](https://unsplash.com/photos/brown-and-black-round-ornament-weYtEB6fsO4)" >}}
 
 Have you ever thought about starting a small project—something just for you, something that excites you each month? We all have different kinds of projects in mind. For me, as a Master’s student in Data Science, I’m always surrounded by projects. Some are for school, others are personal, but each one teaches me something new.
 
@@ -25,8 +24,7 @@ And that’s what I want to share with you today: sometimes, a course might seem
 
 If you wake up in the morning and don’t know what to do, it’s often because you haven’t decided to start something or committed to a project. But once you commit—maybe by signing up for a course, going to university, or even taking an online class that costs a bit more—you’ll feel the push to give it your all. You’ll want to spend your weekends learning more and building something real.
 
-![Photo by Alfred Rowe](https://images.unsplash.com/photo-1561886362-a2b38ce83470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMHByb2plY3RzJTIwcGFzc2lvbiUyMGRhdGElMjBzY2llbmNlfGVufDB8MHx8fDE3NTU0MTgwMzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Small Projects Without Overthinking the Idea")
-*How to Start Small Projects Without Overthinking the Idea - Photo by [Alfred Rowe](https://unsplash.com/@nukturnal) on [Unsplash](https://unsplash.com/photos/macbook-pro-w2dWzKL_t5E)*
+{{< figure src="https://images.unsplash.com/photo-1561886362-a2b38ce83470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMHByb2plY3RzJTIwcGFzc2lvbiUyMGRhdGElMjBzY2llbmNlfGVufDB8MHx8fDE3NTU0MTgwMzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Macbook pro" title="How to Start Small Projects Without Overthinking the Idea" caption="How to Start Small Projects Without Overthinking the Idea - Photo by [Alfred Rowe](https://unsplash.com/@nukturnal) on [Unsplash](https://unsplash.com/photos/macbook-pro-w2dWzKL_t5E)" >}}
 
 Learning is good, but passive learning doesn’t get you far. You have to practice. When you practice, you build your skills, create projects, and develop a portfolio. That’s the best way to learn. These projects can even turn into small businesses—micro-businesses that might bring in money over time. Step by step, you can build a portfolio of micro-businesses that support you in the long run.
 
@@ -42,8 +40,7 @@ Step by step, you’ll get closer to the life you want. Don’t put off until to
 
 ---
 
-![Design Sprint is a design methodology that is carried out within 5 days to answer a variety of critical business questions through the process of design, prototyping, and testing concepts to potential target users directly. This method was first conceived by Jake Knapp at Google Venture and has now been implemented in hundreds of companies from various vertical industries.](https://images.unsplash.com/photo-1585913161203-695a3ac93b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMHByb2plY3RzJTIwcGFzc2lvbiUyMGRhdGElMjBzY2llbmNlfGVufDB8MHx8fDE3NTU0MTgwMzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Small Projects Without Overthinking the Idea")
-*How to Start Small Projects Without Overthinking the Idea - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/man-in-black-framed-eyeglasses-holding-purple-and-white-box-pGP_YudMyAM)*
+{{< figure src="https://images.unsplash.com/photo-1585913161203-695a3ac93b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMHByb2plY3RzJTIwcGFzc2lvbiUyMGRhdGElMjBzY2llbmNlfGVufDB8MHx8fDE3NTU0MTgwMzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black framed holding purple and white box" title="How to Start Small Projects Without Overthinking the Idea" caption="How to Start Small Projects Without Overthinking the Idea - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/man-in-black-framed-eyeglasses-holding-purple-and-white-box-pGP_YudMyAM)" >}}
 
 ## Key Takeaways
 - *Start small projects regularly—they teach you more than you think.*

@@ -12,8 +12,7 @@ original_title = "Vaincre les décisions qui prennent la tête ?"
 source_medium = "https://medium.com/@phenrysay/5ab0acd6b3ca"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, matthew 23, matthew 23-23, faith, mercy, justice, jesus, gospel, gospel of matthew, law, priorities, christianity, christian, 7 woes, giving, spirit of giving, law, true law, fulfilment of the law, ](https://images.unsplash.com/photo-1643983214598-9e3f615b23ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBjbGFyaXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1Njg1MjE5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Overthinking Every Choice")
-*How to Clear Mental Clutter Without Overthinking Every Choice - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-cross-made-of-scrabble-tiles-on-a-white-surface-__XMi9JeojQ)*
+{{< figure src="https://images.unsplash.com/photo-1643983214598-9e3f615b23ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBjbGFyaXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1Njg1MjE5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A cross made of tiles on a white surface" title="How to Clear Mental Clutter Without Overthinking Every Choice" caption="How to Clear Mental Clutter Without Overthinking Every Choice - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-cross-made-of-scrabble-tiles-on-a-white-surface-__XMi9JeojQ)" >}}
 
 Every day, we face a flood of small decisions that can easily take over our thoughts. These decisions, whether trivial or important, create mental clutter. They make us less productive, less present, and less able to think clearly. It’s like a constant background noise that never really goes away.
 
@@ -27,8 +26,7 @@ Another example: choosing what to wear. Some people spend a lot of time thinking
 
 Or think about being invited to a birthday party or a seminar. You start wondering what gift to bring. Should it be this or that? Again, it adds to your mental load.
 
-![Photo by Ionela Mat](https://images.unsplash.com/photo-1687292291646-9bf8a20f99df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBjbGFyaXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1Njg1MjE5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Overthinking Every Choice")
-*How to Clear Mental Clutter Without Overthinking Every Choice - Photo by [Ionela Mat](https://unsplash.com/@ionelaaaaa) on [Unsplash](https://unsplash.com/photos/a-woman-holding-up-a-book-to-her-face-YKeI255r5MQ)*
+{{< figure src="https://images.unsplash.com/photo-1687292291646-9bf8a20f99df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBjbGFyaXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1Njg1MjE5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman holding up a book to her face" title="How to Clear Mental Clutter Without Overthinking Every Choice" caption="How to Clear Mental Clutter Without Overthinking Every Choice - Photo by [Ionela Mat](https://unsplash.com/@ionelaaaaa) on [Unsplash](https://unsplash.com/photos/a-woman-holding-up-a-book-to-her-face-YKeI255r5MQ)" >}}
 
 All these small decisions are like little parasites in your mind. They keep you from being in the flow, from being truly productive. The solution? Respond right away. As soon as you see a message or a decision to make, deal with it immediately. This way, you can flush out those negative thoughts and free up your mind.
 
@@ -48,8 +46,7 @@ For bigger tasks, put them on your to-do list. I use Things 3, but you can use A
 
 ---
 
-![While out and about at a music festival, snapped this while enjoy some good tunes!](https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBjbGFyaXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1Njg1MjE5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Overthinking Every Choice")
-*How to Clear Mental Clutter Without Overthinking Every Choice - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)*
+{{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBjbGFyaXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1Njg1MjE5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Clear Mental Clutter Without Overthinking Every Choice" caption="How to Clear Mental Clutter Without Overthinking Every Choice - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
 ## Key Takeaways
 

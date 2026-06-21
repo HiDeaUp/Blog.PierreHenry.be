@@ -12,8 +12,7 @@ original_title = "La loi de la productivité 🏆"
 source_medium = "https://medium.com/@phenrysay/da1766e4fc33"
 +++
 
-![This minimalist office at Deliberate Directions offers a clean, functional space with light wood desks, a small fern, and a modern compass artwork on the wall. A narrow window lets in natural light, while a whiteboard and printer support productivity. It’s a flexible workspace designed for focus, simplicity, and efficiency.](https://images.unsplash.com/photo-1746021535490-cd4d7fe7ab2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTYwMTczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity by Changing Your Environment")
-*How to Boost Productivity by Changing Your Environment - Photo by [Deliberate Directions](https://unsplash.com/@deliberatedirections) on [Unsplash](https://unsplash.com/photos/an-empty-modern-office-with-a-desk-and-window-K9DZz7B8sCU)*
+{{< figure src="https://images.unsplash.com/photo-1746021535490-cd4d7fe7ab2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTYwMTczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="An empty modern office with a desk and window" title="How to Boost Productivity by Changing Your Environment" caption="How to Boost Productivity by Changing Your Environment - Photo by [Deliberate Directions](https://unsplash.com/@deliberatedirections) on [Unsplash](https://unsplash.com/photos/an-empty-modern-office-with-a-desk-and-window-K9DZz7B8sCU)" >}}
 
 Productivity is not just about ticking off tasks on a list. It’s about finding the right conditions that help you get things done, and sometimes, that means changing your environment. Right now, I’m sitting in a cozy café not far from Seoul, South Korea. The place is lively but not overwhelming, and it’s perfect for getting some real work done. I wanted to share a few thoughts on productivity, especially how a change of scenery can make all the difference.
 
@@ -27,8 +26,7 @@ Staying productive in a new environment is not just about work. It’s also abou
 
 My partner and I have different needs when it comes to travel. She prefers to stay home, while I feel a strong urge to move and see new places. Maybe it runs in the family—my grandfather was an explorer who traveled to the Amazon and Laos long before it was common. He even celebrated his honeymoon in an Amazonian tribe. Those stories inspire me to keep moving and learning.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTYwMTczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity by Changing Your Environment")
-*How to Boost Productivity by Changing Your Environment - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTYwMTczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Boost Productivity by Changing Your Environment" caption="How to Boost Productivity by Changing Your Environment - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 When you’re in a completely different environment, you start to see what really works for you. For me, travel is essential. It keeps me from feeling stuck and helps me be much more productive. The key is to identify what boosts your own productivity and make it a regular part of your routine.
 
@@ -48,8 +46,7 @@ Feedback is also important. If you read my book, I’d love to hear your thought
 
 ---
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTYwMTczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Productivity by Changing Your Environment")
-*How to Boost Productivity by Changing Your Environment - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGVudmlyb25tZW50fGVufDB8MHx8fDE3NTYwMTczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Boost Productivity by Changing Your Environment" caption="How to Boost Productivity by Changing Your Environment - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ## Key Takeaways
 

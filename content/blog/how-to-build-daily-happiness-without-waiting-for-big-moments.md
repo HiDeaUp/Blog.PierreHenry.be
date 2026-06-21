@@ -12,8 +12,7 @@ original_title = "LE BONHEUR À SOI : LE SECRET QUE LES AUTRES IGNORENT ENCORE"
 source_medium = "https://medium.com/@phenrysay/dc2a1092e95f"
 +++
 
-![Photo by Samantha Gades](https://images.unsplash.com/photo-1504812725317-0fb0450d8e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDcwNDU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Happiness Without Waiting for Big Moments")
-*How to Build Daily Happiness Without Waiting for Big Moments - Photo by [Samantha Gades](https://unsplash.com/@srosinger3997) on [Unsplash](https://unsplash.com/photos/woman-holding-white-mug-while-lying-on-bed-RJl-ZYWCs7M)*
+{{< figure src="https://images.unsplash.com/photo-1504812725317-0fb0450d8e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDcwNDU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman holding white mug while lying on bed RJl ZYWCs7M" title="How to Build Daily Happiness Without Waiting for Big Moments" caption="How to Build Daily Happiness Without Waiting for Big Moments - Photo by [Samantha Gades](https://unsplash.com/@srosinger3997) on [Unsplash](https://unsplash.com/photos/woman-holding-white-mug-while-lying-on-bed-RJl-ZYWCs7M)" >}}
 
 We all want those “happy moments”—times when you feel truly good, at ease, and in tune with yourself. But what if happiness isn’t just about waiting for those moments to appear? What if you could actually build them into your day, every single day?
 
@@ -23,8 +22,7 @@ Why water first? Because it wakes up your body gently, about fifteen minutes aft
 
 This could be a small project, or even just investing ten minutes a day in yourself. Watch a short video, learn something new—after a week, that’s already over an hour spent on your personal growth. Ten minutes a day may not sound like much, but it adds up. And the morning is the best time for it, because you never know what the day will bring. There will be surprises, mental fatigue, and things that drain your energy. That’s why it’s so important to start your day with something that’s just for you.
 
-![mug with happiness](https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDcwNDU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Happiness Without Waiting for Big Moments")
-*How to Build Daily Happiness Without Waiting for Big Moments - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)*
+{{< figure src="https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDcwNDU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="mug with happiness" title="How to Build Daily Happiness Without Waiting for Big Moments" caption="How to Build Daily Happiness Without Waiting for Big Moments - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)" >}}
 
 When you wake up, ask yourself: What do I want to do today? What do I want to achieve? This simple question can change everything. For me, it’s been a real boost—a moment that helps me feel better and more invested in the rest of my day.
 
@@ -40,8 +38,7 @@ The real secret? Regularity. Going to bed at the same time, waking up at the sam
 
 ## Key Takeaways
 
-![Photo by Sixteen Miles Out](https://images.unsplash.com/photo-1637783226061-6d3e55c26cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDcwNDU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Happiness Without Waiting for Big Moments")
-*How to Build Daily Happiness Without Waiting for Big Moments - Photo by [Sixteen Miles Out](https://unsplash.com/@sixteenmilesout) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-sitting-on-top-of-a-blanket-3qzDx-RFXsA)*
+{{< figure src="https://images.unsplash.com/photo-1637783226061-6d3e55c26cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtb3JuaW5nJTIwcm91dGluZSUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDcwNDU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cup of coffee sitting on top of a blanket 3qzDx RFXsA" title="How to Build Daily Happiness Without Waiting for Big Moments" caption="How to Build Daily Happiness Without Waiting for Big Moments - Photo by [Sixteen Miles Out](https://unsplash.com/@sixteenmilesout) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-sitting-on-top-of-a-blanket-3qzDx-RFXsA)" >}}
 
 - Build small, gentle routines into your mornings to create your own happy moments.
 - Start your day with simple acts: water, a walk, a coffee, or ten minutes of learning.

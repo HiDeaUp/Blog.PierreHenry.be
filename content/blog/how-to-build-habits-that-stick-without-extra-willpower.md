@@ -12,8 +12,7 @@ original_title = "Créer des habitudes QUI DURE. La SEULE chose qu’il FAUT sui
 source_medium = "https://medium.com/@phenrysay/f472edfd8c74"
 +++
 
-![Photo by Thomas Oxford](https://images.unsplash.com/photo-1653532484589-8b12c7ddc5b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGZvcm1hdGlvbiUyMHJvdXRpbmUlMjBidWlsZGluZyUyMGJlaGF2aW9yJTIwY2hhbmdlfGVufDB8MHx8fDE3NTU0MjI3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Habits That Stick Without Extra Willpower")
-*How to Build Habits That Stick Without Extra Willpower - Photo by [Thomas Oxford](https://unsplash.com/@thom_oxford) on [Unsplash](https://unsplash.com/photos/the-word-be-the-change-spelled-out-with-scrabbles-ZBGgaYrI9ig)*
+{{< figure src="https://images.unsplash.com/photo-1653532484589-8b12c7ddc5b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGZvcm1hdGlvbiUyMHJvdXRpbmUlMjBidWlsZGluZyUyMGJlaGF2aW9yJTIwY2hhbmdlfGVufDB8MHx8fDE3NTU0MjI3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="The word be the change spelled out with" title="How to Build Habits That Stick Without Extra Willpower" caption="How to Build Habits That Stick Without Extra Willpower - Photo by [Thomas Oxford](https://unsplash.com/@thom_oxford) on [Unsplash](https://unsplash.com/photos/the-word-be-the-change-spelled-out-with-scrabbles-ZBGgaYrI9ig)" >}}
 
 Have you ever noticed how some habits just never get skipped? Brushing your teeth, taking a shower, eating breakfast—these are things you do almost automatically, every single day. Even if you’re not a breakfast person, you probably have your own set of daily or weekly routines that you never miss. These habits are so ingrained that skipping them would have real consequences. If you didn’t brush your teeth for a week, you’d feel it. If you didn’t shower, you’d notice. These are the backbone of your daily life.
 
@@ -27,9 +26,7 @@ You can do the same. If you drive regularly, why not record an audio note or a p
 
 ## Make Use of the Time You Already Spend
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, quote, words, type, typography, design, layout, be the change, proactive, activism, make a difference, don't just sit there, make a change, global warming, black lives matter, personal responsibility, responsibility, with great power comes great responsibility, 
-](https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGZvcm1hdGlvbiUyMHJvdXRpbmUlMjBidWlsZGluZyUyMGJlaGF2aW9yJTIwY2hhbmdlfGVufDB8MHx8fDE3NTU0MjI3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Habits That Stick Without Extra Willpower")
-*How to Build Habits That Stick Without Extra Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-JD0D-lReHFE)*
+{{< figure src="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGZvcm1hdGlvbiUyMHJvdXRpbmUlMjBidWlsZGluZyUyMGJlaGF2aW9yJTIwY2hhbmdlfGVufDB8MHx8fDE3NTU0MjI3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface JD0D lReHFE" title="How to Build Habits That Stick Without Extra Willpower" caption="How to Build Habits That Stick Without Extra Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-JD0D-lReHFE)" >}}
 
 Think about all the little routines you already have. Going shopping, for example. Even if the store is just ten minutes away, that’s ten minutes you could use to record a video, brainstorm ideas, or simply reflect. If you’re worried about looking strange, remember: with a lapel mic and your phone attached to your shopping cart, it just looks like you’re on a call.
 
@@ -47,8 +44,7 @@ The real magic happens over time. If you do a little bit every day—just like b
 
 It’s the same with your routines. Every small step brings you closer to the person you want to become. Excellence isn’t about giant leaps; it’s about steady, daily progress.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740645580467-57444f093646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGZvcm1hdGlvbiUyMHJvdXRpbmUlMjBidWlsZGluZyUyMGJlaGF2aW9yJTIwY2hhbmdlfGVufDB8MHx8fDE3NTU0MjI3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Habits That Stick Without Extra Willpower")
-*How to Build Habits That Stick Without Extra Willpower - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-change-on-a-table-wVODnQtbFsM)*
+{{< figure src="https://images.unsplash.com/photo-1740645580467-57444f093646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGZvcm1hdGlvbiUyMHJvdXRpbmUlMjBidWlsZGluZyUyMGJlaGF2aW9yJTIwY2hhbmdlfGVufDB8MHx8fDE3NTU0MjI3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A block change on a table" title="How to Build Habits That Stick Without Extra Willpower" caption="How to Build Habits That Stick Without Extra Willpower - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-change-on-a-table-wVODnQtbFsM)" >}}
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 >

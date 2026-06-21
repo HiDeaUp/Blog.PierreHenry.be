@@ -12,8 +12,7 @@ original_title = "The Hidden Power of Cursor AI: Why This Code Editor Changes Ev
 source_medium = "https://medium.com/@phenrysay/eb6c44902299"
 +++
 
-![Photo by Bernd 📷 Dittrich](https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDdXJzb3IlMjBBSSUyMGNvZGUlMjBlZGl0b3IlMjBkZXZlbG9wZXIlMjB0b29sc3xlbnwwfDB8fHwxNzY3MjU1NDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code Faster Without Tedious Repetitive Tasks")
-*How to Code Faster Without Tedious Repetitive Tasks - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)*
+{{< figure src="https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDdXJzb3IlMjBBSSUyMGNvZGUlMjBlZGl0b3IlMjBkZXZlbG9wZXIlMjB0b29sc3xlbnwwfDB8fHwxNzY3MjU1NDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A screen with a bunch of lines on it" title="How to Code Faster Without Tedious Repetitive Tasks" caption="How to Code Faster Without Tedious Repetitive Tasks - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)" >}}
 
 Alright, let’s get right into it. I want to show you something cool about Cursor, this AI-powered code editor I’ve been using a lot lately. It’s one of those tools that, once you start using it, you realize how much time you’ve been wasting on little tasks that should be automated. Cursor is like having a junior developer sitting next to you, except it never gets tired and it’s always ready to help.
 
@@ -31,8 +30,7 @@ This is a game changer. You can go make a coffee while Cursor is working through
 
 Here’s what my generic Cursor rules file looks like:
 
-![Software development](https://images.unsplash.com/photo-1618422168439-4b03d3a05b15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDdXJzb3IlMjBBSSUyMGNvZGUlMjBlZGl0b3IlMjBkZXZlbG9wZXIlMjB0b29sc3xlbnwwfDB8fHwxNzY3MjU1NDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code Faster Without Tedious Repetitive Tasks")
-*How to Code Faster Without Tedious Repetitive Tasks - Photo by [Árpád Czapp](https://unsplash.com/@czapp_arpad) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-2t6st8T_J3k)*
+{{< figure src="https://images.unsplash.com/photo-1618422168439-4b03d3a05b15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDdXJzb3IlMjBBSSUyMGNvZGUlMjBlZGl0b3IlMjBkZXZlbG9wZXIlMjB0b29sc3xlbnwwfDB8fHwxNzY3MjU1NDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Software development" title="How to Code Faster Without Tedious Repetitive Tasks" caption="How to Code Faster Without Tedious Repetitive Tasks - Photo by [Árpád Czapp](https://unsplash.com/@czapp_arpad) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-2t6st8T_J3k)" >}}
 
 ```json
 {
@@ -62,8 +60,7 @@ One thing I’ve learned: you have to be extremely specific with your prompts. T
 
 And remember, always review what it does. You’re still the master of your codebase. Cursor is there to help, but you’re in charge.
 
-![Photo by Safar Safarov](https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDdXJzb3IlMjBBSSUyMGNvZGUlMjBlZGl0b3IlMjBkZXZlbG9wZXIlMjB0b29sc3xlbnwwfDB8fHwxNzY3MjU1NDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code Faster Without Tedious Repetitive Tasks")
-*How to Code Faster Without Tedious Repetitive Tasks - Photo by [Safar Safarov](https://unsplash.com/@safarslife) on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c)*
+{{< figure src="https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDdXJzb3IlMjBBSSUyMGNvZGUlMjBlZGl0b3IlMjBkZXZlbG9wZXIlMjB0b29sc3xlbnwwfDB8fHwxNzY3MjU1NDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Turned on macbook pro" title="How to Code Faster Without Tedious Repetitive Tasks" caption="How to Code Faster Without Tedious Repetitive Tasks - Photo by [Safar Safarov](https://unsplash.com/@safarslife) on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c)" >}}
 
 ---
 

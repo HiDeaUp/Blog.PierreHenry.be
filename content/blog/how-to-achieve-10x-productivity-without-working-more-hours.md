@@ -12,8 +12,7 @@ original_title = "Accomplir 10x plus que les autres 🤯"
 source_medium = "https://medium.com/@phenrysay/39a3ea44bc0c"
 +++
 
-![A close up on the title 'Mindset' in a collection of personal development books.](https://images.unsplash.com/photo-1658842042844-eeb5ad17b7d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU3NDA2MzczfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve 10x Productivity Without Working More Hours")
-*How to Achieve 10x Productivity Without Working More Hours - Photo by [Seema Miah](https://unsplash.com/@seemamiah) on [Unsplash](https://unsplash.com/photos/text-PLGttuNjZTU)*
+{{< figure src="https://images.unsplash.com/photo-1658842042844-eeb5ad17b7d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU3NDA2MzczfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up on the title 'Mindset' in a collection of personal development books." title="How to Achieve 10x Productivity Without Working More Hours" caption="How to Achieve 10x Productivity Without Working More Hours - Photo by [Seema Miah](https://unsplash.com/@seemamiah) on [Unsplash](https://unsplash.com/photos/text-PLGttuNjZTU)" >}}
 
 Productivity is a word we hear everywhere, but what if I told you that most people are only scratching the surface? Today, I want to share a different approach: extreme productivity. Not just doing three times more, but ten times more. This isn’t about working harder, but about changing your daily habits and routines so deeply that your results become unrecognizable.
 
@@ -27,8 +26,7 @@ But here’s the real shift: if you keep doing what you’ve always done, you’
 
 One powerful method is the daily rewind. Each evening, look back on your day as if you’re rewinding a movie. Start from the evening and move backward to the morning. What went well? What didn’t? Where did you waste time or feel frustrated? Write down what you could have done differently and make a plan for tomorrow. The next morning, review your notes and commit to avoiding yesterday’s pitfalls.
 
-![audiobook, Jim Rohn](https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU3NDA2MzczfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve 10x Productivity Without Working More Hours")
-*How to Achieve 10x Productivity Without Working More Hours - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)*
+{{< figure src="https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU3NDA2MzczfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="audiobook, Jim Rohn" title="How to Achieve 10x Productivity Without Working More Hours" caption="How to Achieve 10x Productivity Without Working More Hours - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)" >}}
 
 This isn’t just theory. I do it myself, and it’s a game changer. I even write and edit my books this way, reviewing chapters in spare moments and always looking for ways to improve. My writing today is nothing like it was ten years ago, and that’s the point: we grow by reflecting and adjusting.
 
@@ -50,8 +48,7 @@ Habit stacking, daily rewinds, and honest self-assessment are simple tools, but 
 
 ## Key Takeaways
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU3NDA2MzczfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve 10x Productivity Without Working More Hours")
-*How to Achieve 10x Productivity Without Working More Hours - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU3NDA2MzczfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Achieve 10x Productivity Without Working More Hours" caption="How to Achieve 10x Productivity Without Working More Hours - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 - *Stack new habits onto your existing routines for real change.*
 - *Reflect on your day every evening, rewinding from night to morning.*

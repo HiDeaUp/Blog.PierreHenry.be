@@ -12,8 +12,7 @@ original_title = "8 minutes pour augmenter son estime de soi... (et ça marche !
 source_medium = "https://medium.com/@phenrysay/f060550de8de"
 +++
 
-![Photo by Bohdan Stocek](https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWVzdGVlbSUyMGNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2NTY3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake")
-*How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)*
+{{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWVzdGVlbSUyMGNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2NTY3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake" caption="How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
 Improving self-esteem is not just about feeling better. It’s about becoming someone who stands up for themselves, negotiates with confidence, and doesn’t let others take advantage. Here are eight practical ways to build your self-esteem, whether you want to sell better, negotiate, or simply stop being a pushover.
 
@@ -31,8 +30,7 @@ Honesty starts with yourself. If you can’t admit things to yourself, it’s ha
 
 ## 4. Take Action
 
-![Photo by Erinada Valpurgieva](https://images.unsplash.com/photo-1645636990231-c314711afc20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWVzdGVlbSUyMGNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2NTY3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake")
-*How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake - Photo by [Erinada Valpurgieva](https://unsplash.com/@fairycarousel) on [Unsplash](https://unsplash.com/photos/a-woman-looking-at-her-reflection-in-a-mirror-l-PVWRPHfmc)*
+{{< figure src="https://images.unsplash.com/photo-1645636990231-c314711afc20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWVzdGVlbSUyMGNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2NTY3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman looking at her in a mirror l" title="How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake" caption="How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake - Photo by [Erinada Valpurgieva](https://unsplash.com/@fairycarousel) on [Unsplash](https://unsplash.com/photos/a-woman-looking-at-her-reflection-in-a-mirror-l-PVWRPHfmc)" >}}
 
 Don’t stay stuck or inactive. Take the right decisions and act on them. Action is always better than hesitation.
 
@@ -54,8 +52,7 @@ Empathy is a real virtue. Being able to understand others helps you connect and 
 
 ## Final Thoughts
 
-![Connect with me via instagram @farhanabas_ and Support me on paypal.me/farhanabas24 😉](https://images.unsplash.com/photo-1633667115026-92eb1883d6b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWVzdGVlbSUyMGNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2NTY3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake")
-*How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake - Photo by [Farhan Abas](https://unsplash.com/@farhanabas) on [Unsplash](https://unsplash.com/photos/a-woman-looking-at-herself-in-the-mirror-VBPmJbuD9mU)*
+{{< figure src="https://images.unsplash.com/photo-1633667115026-92eb1883d6b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWVzdGVlbSUyMGNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2NTY3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Connect with me via instagram @farhanabas_ and Support me on paypal.me/farhanabas24 😉" title="How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake" caption="How to Boost Your Self-Esteem in 8 Minutes Without Feeling Fake - Photo by [Farhan Abas](https://unsplash.com/@farhanabas) on [Unsplash](https://unsplash.com/photos/a-woman-looking-at-herself-in-the-mirror-VBPmJbuD9mU)" >}}
 
 Improving your self-esteem is about using these eight keys every day. The less you know about a subject, the less confident you’ll feel. So, if you’re preparing for a job interview or a sales pitch, make sure you know your topic inside out. The more you know, the more confident you’ll be.
 

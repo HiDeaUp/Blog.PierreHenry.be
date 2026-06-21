@@ -12,8 +12,7 @@ original_title = "S’évader vers l’apaisement et la tranquillité"
 source_medium = "https://medium.com/@phenrysay/c2efce92631d"
 +++
 
-![Photo by Marcel Strauß](https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjB3ZWxsbmVzcyUyMHJvdXRpbmUlMjBicmVha3xlbnwwfDB8fHwxNzU1NDE5NzIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Leaving Your Busy Life")
-*How to Find Calm Without Leaving Your Busy Life - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)*
+{{< figure src="https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjB3ZWxsbmVzcyUyMHJvdXRpbmUlMjBicmVha3xlbnwwfDB8fHwxNzU1NDE5NzIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of the word mental health" title="How to Find Calm Without Leaving Your Busy Life" caption="How to Find Calm Without Leaving Your Busy Life - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)" >}}
 
 Have you ever noticed how easy it is to get stuck in a rut? We complain, we grumble, and we start to see everything as ugly or pointless. But often, what we really need is a break—a real escape from our routines and well-worn paths. It’s only when we step away from our habits that we can find serenity and peace of mind. And honestly, isn’t that what we all crave most?
 
@@ -25,8 +24,7 @@ One simple breathing exercise I love is the “3-3-3 triangle”: inhale for thr
 
 Anthony Robbins talks about these breathing exercises in one of his personal development books. I’m a big fan of audiobooks too. Reading relaxes me, but when I can’t sit down with a book—like when I’m waiting in line or driving—I listen to audiobooks. It’s a great way to make use of those little pockets of time in your day.
 
-![Mental Health](https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjB3ZWxsbmVzcyUyMHJvdXRpbmUlMjBicmVha3xlbnwwfDB8fHwxNzU1NDE5NzIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Leaving Your Busy Life")
-*How to Find Calm Without Leaving Your Busy Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)*
+{{< figure src="https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjB3ZWxsbmVzcyUyMHJvdXRpbmUlMjBicmVha3xlbnwwfDB8fHwxNzU1NDE5NzIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health" title="How to Find Calm Without Leaving Your Busy Life" caption="How to Find Calm Without Leaving Your Busy Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)" >}}
 
 We don’t think enough about how we can invest in ourselves. Yet, that’s the biggest potential you have in your life: how you can grow, connect, and open up new opportunities. It’s a bit like giving yourself a chance to be lucky.
 
@@ -48,8 +46,7 @@ So, here’s my wish for you: take a moment to escape, to look at the horizon, a
 - Use spare moments to invest in yourself, even if it’s just listening to an audiobook.
 - The best time to start taking care of yourself is now.
 
-![Photo by Marcel Strauß](https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjB3ZWxsbmVzcyUyMHJvdXRpbmUlMjBicmVha3xlbnwwfDB8fHwxNzU1NDE5NzIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm Without Leaving Your Busy Life")
-*How to Find Calm Without Leaving Your Busy Life - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/text-fzqxoFJytiE)*
+{{< figure src="https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjB3ZWxsbmVzcyUyMHJvdXRpbmUlMjBicmVha3xlbnwwfDB8fHwxNzU1NDE5NzIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Find Calm Without Leaving Your Busy Life" caption="How to Find Calm Without Leaving Your Busy Life - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/text-fzqxoFJytiE)" >}}
 
 ## Action Steps
 

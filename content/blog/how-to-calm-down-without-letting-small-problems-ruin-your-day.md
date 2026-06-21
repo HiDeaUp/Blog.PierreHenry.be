@@ -12,8 +12,7 @@ original_title = "Mon remède pour se calmer (en douceur)"
 source_medium = "https://medium.com/@phenrysay/1ee5e3a02fcd"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTU4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Calm Down Without Letting Small Problems Ruin Your Day")
-*How to Calm Down Without Letting Small Problems Ruin Your Day - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTU4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Calm Down Without Letting Small Problems Ruin Your Day" caption="How to Calm Down Without Letting Small Problems Ruin Your Day - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 Stress and negativity sneak into our lives from all directions. Maybe it’s a tough day at work, a manager who’s hard to please, or even a colleague whose opinion matters to you. Sometimes, it’s a friend or family member who says something that stings. Even a stranger at the supermarket can throw you off balance with a careless word or a cold look. These moments pile up, leaving us feeling misunderstood, hurt, or even unjustly treated.
 
@@ -25,8 +24,7 @@ The real challenge isn’t the problem itself. It’s remembering to enjoy the p
 
 When you start seeing life this way, everything changes. You begin to focus on what you can do today to make your life richer and more enjoyable. Maybe you set up small routines or give yourself little rewards for tasks you complete. Even if you only spend ten minutes on something meaningful, you’re already building a stronger foundation for your life.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTU4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Calm Down Without Letting Small Problems Ruin Your Day")
-*How to Calm Down Without Letting Small Problems Ruin Your Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTU4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Calm Down Without Letting Small Problems Ruin Your Day" caption="How to Calm Down Without Letting Small Problems Ruin Your Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Life is short. We shouldn’t waste it worrying about problems that are, in the end, insignificant. Instead, look for what excites you—the “cherries on the cake” that make your days sweeter. Give yourself rewards, celebrate your small victories, and remember that every day is a chance to add a new brick to the castle of your life.
 
@@ -46,8 +44,7 @@ When you have a clear mind, free from distractions and negativity, you can think
 
 So, next time you feel overwhelmed by stress or negativity, pause. Look at the world around you. Remember how small your problems are compared to the universe. Free up space in your mind for what truly matters. Build your life, brick by brick, into something strong and beautiful.
 
-![Photo by Look Studio](https://images.unsplash.com/photo-1713865471942-9551458f612f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTU4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Calm Down Without Letting Small Problems Ruin Your Day")
-*How to Calm Down Without Letting Small Problems Ruin Your Day - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-a-cup-of-coffee-3GOfXlhkpxQ)*
+{{< figure src="https://images.unsplash.com/photo-1713865471942-9551458f612f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTU4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a couch with a cup of coffee" title="How to Calm Down Without Letting Small Problems Ruin Your Day" caption="How to Calm Down Without Letting Small Problems Ruin Your Day - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-a-cup-of-coffee-3GOfXlhkpxQ)" >}}
 
 > *Life is meant to be devoured, not nibbled at. Start today—because life won’t wait for you.*
 >

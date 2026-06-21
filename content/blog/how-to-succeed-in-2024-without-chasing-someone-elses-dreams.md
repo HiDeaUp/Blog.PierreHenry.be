@@ -12,8 +12,7 @@ original_title = "La manière la plus RAPIDE de RÉUSSIR en 2024"
 source_medium = "https://medium.com/@phenrysay/fe70954f024e"
 +++
 
-![Photo by Kelly Sikkema](https://images.unsplash.com/photo-1703192163845-1413aa0d7294?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjAyMDI0fGVufDB8MHx8fDE3NTU2MDU2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed in 2024 Without Chasing Someone Else’s Dreams")
-*How to Succeed in 2024 Without Chasing Someone Else’s Dreams - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-the-word-h205-on-it-hVItL8Qd7-g)*
+{{< figure src="https://images.unsplash.com/photo-1703192163845-1413aa0d7294?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjAyMDI0fGVufDB8MHx8fDE3NTU2MDU2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a piece of paper with the word h205 on it g" title="How to Succeed in 2024 Without Chasing Someone Else’s Dreams" caption="How to Succeed in 2024 Without Chasing Someone Else’s Dreams - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-the-word-h205-on-it-hVItL8Qd7-g)" >}}
 
 When we talk about success, we often think about what we want to achieve. But there’s another side to this: our values. There’s always a gap between what we think we want and what truly matters to us. Sometimes, we chase goals simply because we’re influenced by others or afraid of missing out. The fear of being left behind is real. We want to belong, to be part of a group, and that’s normal. But too often, we end up following the crowd without even realizing that what we’re doing doesn’t excite us at all. It doesn’t belong to us. It doesn’t make us feel alive.
 
@@ -25,8 +24,7 @@ So why do we blindly follow what everyone else is doing, just because it’s the
 
 The truth is, the majority is often wrong. Don’t make your decisions by default, just because most people do. It’s tough, because we don’t want to be left out. We want to be part of the tribe. But there are other ways to belong. You can prove your worth by doing your own thing, by starting your own projects. That has much more value than following the crowd and doing something that doesn’t excite you. If you’re not passionate, you’ll be average. And average is, by definition, mediocre.
 
-![2025,3d,3d design,3d scene,año 2025,año nuevo 2025,feliz año nuevo,feliz año nuevo 2025,happy new year,happy new year 2025,new year,new year 2025,new years,numero,numero 2025,numero 3d, number 2025, feliz año](https://images.unsplash.com/photo-1735293720310-c5a6eb578d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjAyMDI0fGVufDB8MHx8fDE3NTU2MDU2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed in 2024 Without Chasing Someone Else’s Dreams")
-*How to Succeed in 2024 Without Chasing Someone Else’s Dreams - Photo by [BoliviaInteligente](https://unsplash.com/@boliviainteligente) on [Unsplash](https://unsplash.com/photos/a-golden-sign-that-reads-2055-on-a-black-surface-IaWWXGB0uFA)*
+{{< figure src="https://images.unsplash.com/photo-1735293720310-c5a6eb578d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjAyMDI0fGVufDB8MHx8fDE3NTU2MDU2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A golden sign that reads 2055 on a black surface" title="How to Succeed in 2024 Without Chasing Someone Else’s Dreams" caption="How to Succeed in 2024 Without Chasing Someone Else’s Dreams - Photo by [BoliviaInteligente](https://unsplash.com/@boliviainteligente) on [Unsplash](https://unsplash.com/photos/a-golden-sign-that-reads-2055-on-a-black-surface-IaWWXGB0uFA)" >}}
 
 It’s better to excel in your own unique path than to follow the highway and feel out of place. I’m writing this from a café I like, a place where people talk and share ideas. Even here, it’s easy to get distracted by people coming and going. It’s a reminder that you need to be 100% with yourself, 100% sure of what you want to achieve.
 
@@ -46,8 +44,7 @@ Even if you have a regular job, you need to push yourself to get promotions or r
 
 The best time to start is today, not tomorrow. Don’t put off what you can do now. The journey itself is beautiful. When you’re passionate, you don’t keep asking, “Is it over yet?” You just enjoy the ride. That’s why you need to do something that excites you. Otherwise, every day will feel like a struggle.
 
-![Photo by Kelly Sikkema](https://images.unsplash.com/photo-1730829807423-83b045bd6cfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjAyMDI0fGVufDB8MHx8fDE3NTU2MDU2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed in 2024 Without Chasing Someone Else’s Dreams")
-*How to Succeed in 2024 Without Chasing Someone Else’s Dreams - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-clock-on-a-wall-Jr2vJlYz1sM)*
+{{< figure src="https://images.unsplash.com/photo-1730829807423-83b045bd6cfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjAyMDI0fGVufDB8MHx8fDE3NTU2MDU2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a clock on a wall" title="How to Succeed in 2024 Without Chasing Someone Else’s Dreams" caption="How to Succeed in 2024 Without Chasing Someone Else’s Dreams - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-clock-on-a-wall-Jr2vJlYz1sM)" >}}
 
 ---
 

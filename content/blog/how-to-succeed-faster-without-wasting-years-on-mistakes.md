@@ -12,8 +12,7 @@ original_title = "Facteurs déterminants pour réussir : Ce qui m'a fait perdre 
 source_medium = "https://medium.com/@phenrysay/56083b9aba62"
 +++
 
-![20 copies of Team Lead Succeed, ready to be given to team leaders and team members, to help them achieve greater success.](https://images.unsplash.com/photo-1675783052137-86e68b3f340d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcHJvZHVjdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTY1NjEzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Faster Without Wasting Years on Mistakes")
-*How to Succeed Faster Without Wasting Years on Mistakes - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-stack-of-books-sitting-on-top-of-a-wooden-table-BbVUxPwQiDM)*
+{{< figure src="https://images.unsplash.com/photo-1675783052137-86e68b3f340d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcHJvZHVjdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTY1NjEzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="20 copies of Team Lead Succeed, ready to be given to team leaders and team members, to help them achieve greater success." title="How to Succeed Faster Without Wasting Years on Mistakes" caption="How to Succeed Faster Without Wasting Years on Mistakes - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-stack-of-books-sitting-on-top-of-a-wooden-table-BbVUxPwQiDM)" >}}
 
 Success often feels like a secret recipe, but looking back, I realize it comes down to three essential keys. These are not just theories—they are the very things that either propelled me forward or held me back for years. Let me share them with you, so you can avoid the same mistakes and move faster toward your goals.
 
@@ -27,8 +26,7 @@ The first and most important factor is determination. You know you are determine
 
 ## 2. A Clear Vision: Know Exactly What You Want
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcHJvZHVjdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTY1NjEzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Faster Without Wasting Years on Mistakes")
-*How to Succeed Faster Without Wasting Years on Mistakes - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcHJvZHVjdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTY1NjEzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Succeed Faster Without Wasting Years on Mistakes" caption="How to Succeed Faster Without Wasting Years on Mistakes - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 The second key is having a clear and precise picture of what you want to accomplish. When you wake up in the morning and sit down at your computer, you shouldn’t be wasting time wondering what to do. You need to know exactly what needs to be done. This clarity saves you from drifting and helps you focus your energy on what matters most.
 
@@ -50,8 +48,7 @@ Finally, you need to be passionate about what you do. Passion gives you the ener
 >
 > — Steve Jobs
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcHJvZHVjdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTY1NjEzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Faster Without Wasting Years on Mistakes")
-*How to Succeed Faster Without Wasting Years on Mistakes - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcHJvZHVjdGl2aXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTY1NjEzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Succeed Faster Without Wasting Years on Mistakes" caption="How to Succeed Faster Without Wasting Years on Mistakes - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 ---
 

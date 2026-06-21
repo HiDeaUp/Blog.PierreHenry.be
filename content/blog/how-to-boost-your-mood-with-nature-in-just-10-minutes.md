@@ -10,8 +10,7 @@ original_title = "Utiliser la nature à son avantage ? 🌲"
 source_medium = "https://medium.com/@phenrysay/5d1afb0cb128"
 +++
 
-![Photo by Yevhen Rozhylo](https://images.unsplash.com/photo-1626031727142-7b659242540e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjB3ZWxsYmVpbmclMjBncmVlbiUyMHNwYWNlc3xlbnwwfDB8fHwxNzU2MDE1NzMyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood With Nature in Just 10 Minutes")
-*How to Boost Your Mood With Nature in Just 10 Minutes - Photo by [Yevhen Rozhylo](https://unsplash.com/@mrzhenshen) on [Unsplash](https://unsplash.com/photos/green-grass-and-trees-during-daytime-8ISLvC25M7g)*
+{{< figure src="https://images.unsplash.com/photo-1626031727142-7b659242540e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjB3ZWxsYmVpbmclMjBncmVlbiUyMHNwYWNlc3xlbnwwfDB8fHwxNzU2MDE1NzMyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green grass and trees during daytime" title="How to Boost Your Mood With Nature in Just 10 Minutes" caption="How to Boost Your Mood With Nature in Just 10 Minutes - Photo by [Yevhen Rozhylo](https://unsplash.com/@mrzhenshen) on [Unsplash](https://unsplash.com/photos/green-grass-and-trees-during-daytime-8ISLvC25M7g)" >}}
 
 Have you ever noticed how a simple walk in a park can change your mood? Today, I want to share a personal approach that has made a real difference in my life: making time for nature, even in the middle of a busy city.
 
@@ -21,8 +20,7 @@ Science backs this up. Walking in nature, surrounded by trees and plants, helps 
 
 When you connect with nature, even briefly, you give yourself a break from the constant rush and pressure of daily life. You might find that your mind becomes clearer and more creative. This is something I experience every time I take a walk in a botanical garden or a quiet park. For example, right now, I’m in the Sydney Botanic Garden, surrounded by greenery, and I can feel my stress melting away.
 
-![Photo by Yuta Koike](https://images.unsplash.com/photo-1654337107059-594abd26a325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuYXR1cmUlMjB3ZWxsYmVpbmclMjBncmVlbiUyMHNwYWNlc3xlbnwwfDB8fHwxNzU2MDE1NzMyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood With Nature in Just 10 Minutes")
-*How to Boost Your Mood With Nature in Just 10 Minutes - Photo by [Yuta Koike](https://unsplash.com/@yuta129) on [Unsplash](https://unsplash.com/photos/a-grassy-field-surrounded-by-trees-and-grass-pC9HL-xApRM)*
+{{< figure src="https://images.unsplash.com/photo-1654337107059-594abd26a325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuYXR1cmUlMjB3ZWxsYmVpbmclMjBncmVlbiUyMHNwYWNlc3xlbnwwfDB8fHwxNzU2MDE1NzMyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A grassy field by trees and grass pC9HL xApRM" title="How to Boost Your Mood With Nature in Just 10 Minutes" caption="How to Boost Your Mood With Nature in Just 10 Minutes - Photo by [Yuta Koike](https://unsplash.com/@yuta129) on [Unsplash](https://unsplash.com/photos/a-grassy-field-surrounded-by-trees-and-grass-pC9HL-xApRM)" >}}
 
 If you can, take your coffee break or lunch outside. Look for a park near your office, or if you work from home, step into your garden or a nearby green space. Even working from a bench under some trees can change your whole day. You’ll feel more relaxed, happier, and your mood will lift. Studies have shown that spending time in nature boosts your morale.
 
@@ -40,8 +38,7 @@ Nature is right there, waiting for you. It’s simple, but it works. Give yourse
 
 ---
 
-![Photo by JIAWEI QIAN](https://images.unsplash.com/photo-1567611678911-38ded34f9c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjB3ZWxsYmVpbmclMjBncmVlbiUyMHNwYWNlc3xlbnwwfDB8fHwxNzU2MDE1NzMyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood With Nature in Just 10 Minutes")
-*How to Boost Your Mood With Nature in Just 10 Minutes - Photo by [JIAWEI QIAN](https://unsplash.com/@qianjiawei) on [Unsplash](https://unsplash.com/photos/green-leafed-trees-lDxGccPfwlA)*
+{{< figure src="https://images.unsplash.com/photo-1567611678911-38ded34f9c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjB3ZWxsYmVpbmclMjBncmVlbiUyMHNwYWNlc3xlbnwwfDB8fHwxNzU2MDE1NzMyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed trees" title="How to Boost Your Mood With Nature in Just 10 Minutes" caption="How to Boost Your Mood With Nature in Just 10 Minutes - Photo by [JIAWEI QIAN](https://unsplash.com/@qianjiawei) on [Unsplash](https://unsplash.com/photos/green-leafed-trees-lDxGccPfwlA)" >}}
 
 ## Key Takeaways
 

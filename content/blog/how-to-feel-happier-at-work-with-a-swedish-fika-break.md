@@ -12,8 +12,7 @@ original_title = "La magie de la pause Fika ☕️"
 source_medium = "https://medium.com/@phenrysay/8c097800d19a"
 +++
 
-![Photo by Richard Wang](https://images.unsplash.com/photo-1738502149746-debd62943eff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGaWthJTIwU3dlZGlzaCUyMGN1bHR1cmUlMjBjb2ZmZWUlMjBicmVha3xlbnwwfDB8fHwxNzU2NTI2NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier at Work With a Swedish Fika Break")
-*How to Feel Happier at Work With a Swedish Fika Break - Photo by [Richard Wang](https://unsplash.com/@rrricharddd) on [Unsplash](https://unsplash.com/photos/a-couple-of-men-standing-next-to-each-other-4eq2hiJGSCc)*
+{{< figure src="https://images.unsplash.com/photo-1738502149746-debd62943eff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGaWthJTIwU3dlZGlzaCUyMGN1bHR1cmUlMjBjb2ZmZWUlMjBicmVha3xlbnwwfDB8fHwxNzU2NTI2NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A couple of men next to each other" title="How to Feel Happier at Work With a Swedish Fika Break" caption="How to Feel Happier at Work With a Swedish Fika Break - Photo by [Richard Wang](https://unsplash.com/@rrricharddd) on [Unsplash](https://unsplash.com/photos/a-couple-of-men-standing-next-to-each-other-4eq2hiJGSCc)" >}}
 
 When was the last time you truly paused in your day—not just to scroll through your phone or gulp down a coffee, but to actually stop, breathe, and connect with someone? The Swedish tradition of fika is all about that. It’s a simple, beautiful ritual that can make work and life feel lighter.
 
@@ -21,8 +20,7 @@ Fika is more than just a coffee break. It’s a cherished Swedish custom, usuall
 
 Imagine this: you’re at work, and instead of powering through your morning, you take ten or fifteen minutes to sit with your team. You chat about music, hobbies, or even your latest vacation plans. You laugh, you relax, and for a moment, you let go of deadlines and to-do lists. When you return to your tasks, you feel lighter, more focused, and ready to tackle the rest of your day.
 
-![Photo by Katt Galvan](https://images.unsplash.com/photo-1695679872218-69f7d966de48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGaWthJTIwU3dlZGlzaCUyMGN1bHR1cmUlMjBjb2ZmZWUlMjBicmVha3xlbnwwfDB8fHwxNzU2NTI2NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier at Work With a Swedish Fika Break")
-*How to Feel Happier at Work With a Swedish Fika Break - Photo by [Katt Galvan](https://unsplash.com/@kattgalvan) on [Unsplash](https://unsplash.com/photos/a-coffee-shop-counter-with-coffee-cups-stacked-on-top-of-each-other-eOHV2QhMjTI)*
+{{< figure src="https://images.unsplash.com/photo-1695679872218-69f7d966de48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGaWthJTIwU3dlZGlzaCUyMGN1bHR1cmUlMjBjb2ZmZWUlMjBicmVha3xlbnwwfDB8fHwxNzU2NTI2NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A coffee shop counter with coffee cups stacked on top of each other" title="How to Feel Happier at Work With a Swedish Fika Break" caption="How to Feel Happier at Work With a Swedish Fika Break - Photo by [Katt Galvan](https://unsplash.com/@kattgalvan) on [Unsplash](https://unsplash.com/photos/a-coffee-shop-counter-with-coffee-cups-stacked-on-top-of-each-other-eOHV2QhMjTI)" >}}
 
 Fika isn’t just for offices. If you work from a coworking space or even from home, you can create your own fika ritual. Start a group chat on Slack or Teams, invite others for a virtual coffee, and keep the conversation light. Talk about your favorite band, a new recipe, or anything that brings you joy. The key is to step away from work, even if just for a short while.
 
@@ -38,8 +36,7 @@ So, next time you feel the day rushing by, try a fika break. Even if you’re al
 
 ---
 
-![Photo by Lasse Jensen](https://images.unsplash.com/photo-1623092733170-ebad18f2faa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGaWthJTIwU3dlZGlzaCUyMGN1bHR1cmUlMjBjb2ZmZWUlMjBicmVha3xlbnwwfDB8fHwxNzU2NTI2NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier at Work With a Swedish Fika Break")
-*How to Feel Happier at Work With a Swedish Fika Break - Photo by [Lasse Jensen](https://unsplash.com/@maybejensen) on [Unsplash](https://unsplash.com/photos/person-holding-clear-glass-cup-with-brown-liquid-7pTpTTl_U8g)*
+{{< figure src="https://images.unsplash.com/photo-1623092733170-ebad18f2faa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGaWthJTIwU3dlZGlzaCUyMGN1bHR1cmUlMjBjb2ZmZWUlMjBicmVha3xlbnwwfDB8fHwxNzU2NTI2NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding clear glass cup with brown liquid" title="How to Feel Happier at Work With a Swedish Fika Break" caption="How to Feel Happier at Work With a Swedish Fika Break - Photo by [Lasse Jensen](https://unsplash.com/@maybejensen) on [Unsplash](https://unsplash.com/photos/person-holding-clear-glass-cup-with-brown-liquid-7pTpTTl_U8g)" >}}
 
 ## Key Takeaways
 - Fika is a Swedish tradition of taking a real break with coffee and a treat, usually twice a day.

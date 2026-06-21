@@ -12,8 +12,7 @@ original_title = "Très bien gagner sa vie ? Une SEULE façon ! 💸"
 source_medium = "https://medium.com/@phenrysay/09aca612f44f"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653212883728-f4cc35b19c4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRyZXByZW5ldXJzaGlwJTIwZmluYW5jaWFsJTIwaW5kZXBlbmRlbmNlJTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU1NzQ4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Earn Big Without a Boss or a Pay Ceiling")
-*How to Earn Big Without a Boss or a Pay Ceiling - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-UsG7z9TAZdc)*
+{{< figure src="https://images.unsplash.com/photo-1653212883728-f4cc35b19c4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRyZXByZW5ldXJzaGlwJTIwZmluYW5jaWFsJTIwaW5kZXBlbmRlbmNlJTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU1NzQ4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a piece of paper on it" title="How to Earn Big Without a Boss or a Pay Ceiling" caption="How to Earn Big Without a Boss or a Pay Ceiling - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-UsG7z9TAZdc)" >}}
 
 Let’s get straight to the point: being your own boss is the best—and really, the only—way to earn a great living without limits. Whether you’re a freelancer, a contractor, running your own company, launching a startup, or selling your own product or service, the freedom and potential you get from being in charge of your work is unmatched.
 
@@ -31,8 +30,7 @@ This is similar to the “broken windows theory” from New York: if a place loo
 
 So, if you want to attract talent and keep citizens happy, a country must be safe, beautiful, and have good food and nature. If the government doesn’t care about these things, it’s much harder for people to thrive.
 
-![Cheerful handsome man small coffee-house owner is holding we are open sign while standing inside modern coffee shop. Opening new business and people concept.](https://images.unsplash.com/photo-1753351051161-21de8728ec17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRyZXByZW5ldXJzaGlwJTIwZmluYW5jaWFsJTIwaW5kZXBlbmRlbmNlJTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU1NzQ4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Earn Big Without a Boss or a Pay Ceiling")
-*How to Earn Big Without a Boss or a Pay Ceiling - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/barista-holds-an-open-sign-welcoming-customers-96Za_ctYcpc)*
+{{< figure src="https://images.unsplash.com/photo-1753351051161-21de8728ec17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRyZXByZW5ldXJzaGlwJTIwZmluYW5jaWFsJTIwaW5kZXBlbmRlbmNlJTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU1NzQ4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cheerful handsome man small coffee-house owner is holding we are open sign while standing inside modern coffee shop. Opening new business and people concept." title="How to Earn Big Without a Boss or a Pay Ceiling" caption="How to Earn Big Without a Boss or a Pay Ceiling - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/barista-holds-an-open-sign-welcoming-customers-96Za_ctYcpc)" >}}
 
 Back to money. Even the President of France earns about €15,200 gross per month—less than many CEOs of even mid-sized companies. So maybe presidents should earn as much as the average CEO in their country to motivate them to do better. That’s what Singapore does, and it seems to work.
 
@@ -56,8 +54,7 @@ If you want to go deeper, I’ve written books like “Le succès n’est pas lo
 > _Your income is determined by how many people you serve and how well you serve them._
 > — Bob Burg
 
-![Pretty red-haired businesswoman cafe owner is holding yes we are open sign with her cheerful employee in apron standing near her. Successful start-up and people concept.](https://images.unsplash.com/photo-1753351055104-ac58252473d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRyZXByZW5ldXJzaGlwJTIwZmluYW5jaWFsJTIwaW5kZXBlbmRlbmNlJTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU1NzQ4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Earn Big Without a Boss or a Pay Ceiling")
-*How to Earn Big Without a Boss or a Pay Ceiling - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-smiling-couple-holds-an-open-sign-oZDtj3UGI88)*
+{{< figure src="https://images.unsplash.com/photo-1753351055104-ac58252473d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRyZXByZW5ldXJzaGlwJTIwZmluYW5jaWFsJTIwaW5kZXBlbmRlbmNlJTIwc2VsZi1lbXBsb3ltZW50fGVufDB8MHx8fDE3NTU1NzQ4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pretty red-haired businesswoman cafe owner is holding yes we are open sign with her cheerful employee in apron standing near her. Successful start-up and people concept." title="How to Earn Big Without a Boss or a Pay Ceiling" caption="How to Earn Big Without a Boss or a Pay Ceiling - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-smiling-couple-holds-an-open-sign-oZDtj3UGI88)" >}}
 
 > _Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful._
 > — Albert Schweitzer

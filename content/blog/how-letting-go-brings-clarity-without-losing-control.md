@@ -12,8 +12,7 @@ original_title = "Ce que j'ai appris sur le lâcher-prise (et ce qui va changer 
 source_medium = "https://medium.com/@phenrysay/c802c92bab9f"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZXR0aW5nJTIwZ28lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTY1NjIxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How Letting Go Brings Clarity Without Losing Control")
-*How Letting Go Brings Clarity Without Losing Control - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZXR0aW5nJTIwZ28lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTY1NjIxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How Letting Go Brings Clarity Without Losing Control" caption="How Letting Go Brings Clarity Without Losing Control - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Stress is everywhere. It sneaks in at work, at home, even in the smallest details—like noticing a speck of dust and suddenly feeling tense. Sometimes, it’s the rush of cars outside, the constant noise, or even a disagreement with someone close. All these things pile up and cloud our minds.
 
@@ -23,8 +22,7 @@ Letting go isn’t just about feeling calm. It’s about unlocking your creativi
 
 One simple trick is to write down anything important you need to remember. I use a note-taking app called SNX 3, but there are plenty of others like Google Tasks or Apple Reminders. The idea is to get those thoughts out of your head and onto your phone, so your mind is free to focus on the present moment.
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZXR0aW5nJTIwZ28lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTY1NjIxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How Letting Go Brings Clarity Without Losing Control")
-*How Letting Go Brings Clarity Without Losing Control - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZXR0aW5nJTIwZ28lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTY1NjIxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How Letting Go Brings Clarity Without Losing Control" caption="How Letting Go Brings Clarity Without Losing Control - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 Sometimes, letting go is as simple as saying goodbye to everything else and choosing to be here, now. Meditation helps with this. Think of it as a workout for your brain. When you meditate, you train your mind to let go of wandering thoughts. You focus on your breath, the sound of birds, or even the hum of a fan. Each time your mind drifts, you gently bring it back.
 
@@ -38,9 +36,7 @@ So, here’s your exercise for today: create little moments where you disconnect
 > *“You can’t stop the waves, but you can learn to surf.”*  
 — Jon Kabat-Zinn
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, type, typography, design, layout, let it go, forgive, forgiveness, obsession, frozen, disney, move on, regret, despair, 
-](https://images.unsplash.com/photo-1606927098285-5cd61976d1a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZXR0aW5nJTIwZ28lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTY1NjIxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How Letting Go Brings Clarity Without Losing Control")
-*How Letting Go Brings Clarity Without Losing Control - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-with-number-8-vOY_fgVU0xg)*
+{{< figure src="https://images.unsplash.com/photo-1606927098285-5cd61976d1a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZXR0aW5nJTIwZ28lMjBwZXJzb25hbCUyMGdyb3d0aCUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTY1NjIxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks with number 8" title="How Letting Go Brings Clarity Without Losing Control" caption="How Letting Go Brings Clarity Without Losing Control - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-with-number-8-vOY_fgVU0xg)" >}}
 
 ---
 

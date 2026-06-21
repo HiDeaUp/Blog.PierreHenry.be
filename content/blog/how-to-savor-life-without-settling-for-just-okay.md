@@ -12,8 +12,7 @@ original_title = "Comment avoir une vie que tu dévore à pleine dents ? 🦷"
 source_medium = "https://medium.com/@phenrysay/a1db3b3205c2"
 +++
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmdWxmaWxsbWVudCUyMGpveSUyMGxpdmluZyUyMGZ1bGx5fGVufDB8MHx8fDE3NTY1MTAyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Settling for Just Okay")
-*How to Savor Life Without Settling for Just Okay - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmdWxmaWxsbWVudCUyMGpveSUyMGxpdmluZyUyMGZ1bGx5fGVufDB8MHx8fDE3NTY1MTAyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Savor Life Without Settling for Just Okay" caption="How to Savor Life Without Settling for Just Okay - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 Have you ever noticed how some people seem to savor every bit of their life, while others just go through the motions? There’s a real difference between doing things well and doing them both well and with genuine pleasure. The real magic happens when you not only achieve your goals, but also enjoy the process.
 
@@ -25,8 +24,7 @@ Of course, sometimes the problem isn’t the setting, but a negative memory atta
 
 This isn’t always easy. It takes some honest reflection and maybe a bit of brainstorming. For me, coming up with ideas while walking doesn’t really work. But if I’m soaking in a hot bath or relaxing in a spa—like the Polynesian Spa in Rotorua, New Zealand, where I lived for a while—creative ideas just flow. Even being in the kitchen can spark inspiration. On the other hand, tasks that require deep focus are harder for me in those settings. You have to figure out what works best for you, depending on the type of task and your own preferences.
 
-![A sign on the wall of Konjed Cafe](https://images.unsplash.com/photo-1579542118150-10ecdf5a78dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmdWxmaWxsbWVudCUyMGpveSUyMGxpdmluZyUyMGZ1bGx5fGVufDB8MHx8fDE3NTY1MTAyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Settling for Just Okay")
-*How to Savor Life Without Settling for Just Okay - Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121) on [Unsplash](https://unsplash.com/photos/red-and-white-stop-sign-v3SJShEjoQI)*
+{{< figure src="https://images.unsplash.com/photo-1579542118150-10ecdf5a78dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmdWxmaWxsbWVudCUyMGpveSUyMGxpdmluZyUyMGZ1bGx5fGVufDB8MHx8fDE3NTY1MTAyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on the wall of Konjed Cafe" title="How to Savor Life Without Settling for Just Okay" caption="How to Savor Life Without Settling for Just Okay - Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121) on [Unsplash](https://unsplash.com/photos/red-and-white-stop-sign-v3SJShEjoQI)" >}}
 
 If you still can’t stand a particular task, consider delegating it or even dropping it altogether. Ask yourself if you can change jobs, or simply remove that task from your life. Why keep doing something that makes you miserable? Too many people spend their lives doing things they don’t enjoy, just because they feel they have to. That’s the worst trap of all.
 
@@ -44,8 +42,7 @@ Life is fragile and distractions are everywhere. It’s easy to lose your focus,
 > *Don’t expect a different life if you keep repeating the same routine.*
 > — Adapted from the article
 
-![A macro shot of a Joy Christmas tree ornament](https://images.unsplash.com/photo-1576033842015-fb04c3f12dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdWxmaWxsbWVudCUyMGpveSUyMGxpdmluZyUyMGZ1bGx5fGVufDB8MHx8fDE3NTY1MTAyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Savor Life Without Settling for Just Okay")
-*How to Savor Life Without Settling for Just Okay - Photo by [Clint Patterson](https://unsplash.com/@cbpsc1) on [Unsplash](https://unsplash.com/photos/brown-joy-christmas-tree-decor-p2MuErrDIEA)*
+{{< figure src="https://images.unsplash.com/photo-1576033842015-fb04c3f12dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdWxmaWxsbWVudCUyMGpveSUyMGxpdmluZyUyMGZ1bGx5fGVufDB8MHx8fDE3NTY1MTAyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A macro shot of a Joy Christmas tree ornament" title="How to Savor Life Without Settling for Just Okay" caption="How to Savor Life Without Settling for Just Okay - Photo by [Clint Patterson](https://unsplash.com/@cbpsc1) on [Unsplash](https://unsplash.com/photos/brown-joy-christmas-tree-decor-p2MuErrDIEA)" >}}
 
 ---
 

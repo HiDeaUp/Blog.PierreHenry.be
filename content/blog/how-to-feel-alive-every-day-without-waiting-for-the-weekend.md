@@ -12,8 +12,7 @@ original_title = "Se créer des journées sensationnelles 👌"
 source_medium = "https://medium.com/@phenrysay/f84f1fe340f5"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYXBwaW5lc3MlMjBsaWZlJTIwaGFja3N8ZW58MHwwfHx8MTc1NjUxNDU5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Alive Every Day Without Waiting for the Weekend")
-*How to Feel Alive Every Day Without Waiting for the Weekend - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYXBwaW5lc3MlMjBsaWZlJTIwaGFja3N8ZW58MHwwfHx8MTc1NjUxNDU5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Feel Alive Every Day Without Waiting for the Weekend" caption="How to Feel Alive Every Day Without Waiting for the Weekend - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Have you ever wondered why some days feel full of life, while others seem to drag on? Most people wait for Friday night or the weekend to feel good, but what if you could feel great every day, no matter where you are or what you’re doing? Whether you’re at work, with your family, commuting, or even on vacation, it’s possible to create that feeling of being alive every single day.
 
@@ -25,8 +24,7 @@ Everyone has a phone now, and it’s never been easier to learn new things on th
 
 I remember someone who spent an hour on the train every day. Instead of seeing it as a waste, he used that time to write a book. Every year, he published a new one, and the only time he wrote was during his commute. If he hadn’t had that train ride, he probably would have just slept in, done chores, or watched a silly show before work. But because he had to leave early, he always had that hour to write. Two hours a day adds up, and by the end of the year, he had a finished book. If you use your time well, you could probably write two or three!
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYXBwaW5lc3MlMjBsaWZlJTIwaGFja3N8ZW58MHwwfHx8MTc1NjUxNDU5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Alive Every Day Without Waiting for the Weekend")
-*How to Feel Alive Every Day Without Waiting for the Weekend - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYXBwaW5lc3MlMjBsaWZlJTIwaGFja3N8ZW58MHwwfHx8MTc1NjUxNDU5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Feel Alive Every Day Without Waiting for the Weekend" caption="How to Feel Alive Every Day Without Waiting for the Weekend - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 It’s all about how you look at things. Many people don’t like where they live or what they do, but often it’s just because they haven’t learned to see their environment from a new angle. That’s the real secret: look at your situation differently, and everything can change.
 
@@ -44,8 +42,7 @@ Minimalism can help too. When your environment is clear and simple, you can focu
 
 So, take a look at your surroundings. What can you clear out? What can you see differently? Sometimes, just changing your perspective is enough to make every day feel sensational.
 
-![Photo by Alessandro Sicari](https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYXBwaW5lc3MlMjBsaWZlJTIwaGFja3N8ZW58MHwwfHx8MTc1NjUxNDU5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Alive Every Day Without Waiting for the Weekend")
-*How to Feel Alive Every Day Without Waiting for the Weekend - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)*
+{{< figure src="https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYXBwaW5lc3MlMjBsaWZlJTIwaGFja3N8ZW58MHwwfHx8MTc1NjUxNDU5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green sweater" title="How to Feel Alive Every Day Without Waiting for the Weekend" caption="How to Feel Alive Every Day Without Waiting for the Weekend - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)" >}}
 
 ---
 

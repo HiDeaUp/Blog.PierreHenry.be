@@ -12,8 +12,7 @@ original_title = "Comment créer un SANCTUAIRE de bien-être: Mon guide complet"
 source_medium = "https://medium.com/@phenrysay/cf5a7fd90b03"
 +++
 
-![Photo by Louis Hansel](https://images.unsplash.com/photo-1533577059201-70fbca82b2a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2FuY3R1YXJ5JTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTkzNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create a Sanctuary of Well-Being Without Moving House")
-*How to Create a Sanctuary of Well-Being Without Moving House - Photo by [Louis Hansel](https://unsplash.com/@louishansel) on [Unsplash](https://unsplash.com/photos/two-person-reaching-each-others-hand-SwO3r4BUl1I)*
+{{< figure src="https://images.unsplash.com/photo-1533577059201-70fbca82b2a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2FuY3R1YXJ5JTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTkzNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two person each others hand" title="How to Create a Sanctuary of Well-Being Without Moving House" caption="How to Create a Sanctuary of Well-Being Without Moving House - Photo by [Louis Hansel](https://unsplash.com/@louishansel) on [Unsplash](https://unsplash.com/photos/two-person-reaching-each-others-hand-SwO3r4BUl1I)" >}}
 
 When we talk about well-being, we often think about routines, habits, or maybe even diets. But what about the space around us? The place where you feel truly at ease, where you can breathe and just be yourself. That’s what I want to talk about: creating your own sanctuary of well-being.
 
@@ -25,8 +24,7 @@ But life is short. Why let it slip by? Why let other people’s choices evaporat
 
 But your life belongs to you. If you’re not happy where you are, don’t wait for the “right” moment to make a change. The right moment is now. Time isn’t unlimited. It’s the most precious thing you have—not money, but time. Use it well. Do things you love, things that make you proud. Those are the things you’ll never regret.
 
-![Model: @justine_aglr ♡ (Instagram)](https://images.unsplash.com/photo-1623082818347-32e58b883166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2FuY3R1YXJ5JTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTkzNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create a Sanctuary of Well-Being Without Moving House")
-*How to Create a Sanctuary of Well-Being Without Moving House - Photo by [Céline Druguet](https://unsplash.com/@celala) on [Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-sitting-on-brown-wooden-dock-during-daytime-xiwXag_I3L0)*
+{{< figure src="https://images.unsplash.com/photo-1623082818347-32e58b883166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2FuY3R1YXJ5JTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTkzNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Model: @justine_aglr ♡ (Instagram)" title="How to Create a Sanctuary of Well-Being Without Moving House" caption="How to Create a Sanctuary of Well-Being Without Moving House - Photo by [Céline Druguet](https://unsplash.com/@celala) on [Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-sitting-on-brown-wooden-dock-during-daytime-xiwXag_I3L0)" >}}
 
 Right now, I’m looking out at the Harbour Bridge. From up here, everything looks so small. That’s when you realize your problems are just specks of dust in the universe. We blow things out of proportion, argue with people, and waste energy on things that don’t matter. Why spend your mental energy and time on that? Instead, clear out that mental clutter. Flush it away, close the lid, and move on to the next chapter.
 
@@ -46,8 +44,7 @@ So, why wait? Don’t tell yourself, “Now’s not the right time.” If you fe
 
 ## Key Takeaways
 
-![Buddhist Monk sotting meditation ](https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2FuY3R1YXJ5JTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTkzNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Create a Sanctuary of Well-Being Without Moving House")
-*How to Create a Sanctuary of Well-Being Without Moving House - Photo by [TONG KBP](https://unsplash.com/@2023kbp) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-rock-by-a-river-0J8G8NhmkSU)*
+{{< figure src="https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2FuY3R1YXJ5JTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTkzNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Buddhist Monk sotting meditation" title="How to Create a Sanctuary of Well-Being Without Moving House" caption="How to Create a Sanctuary of Well-Being Without Moving House - Photo by [TONG KBP](https://unsplash.com/@2023kbp) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-rock-by-a-river-0J8G8NhmkSU)" >}}
 
 - Your well-being starts with your space and your choices.
 - Don’t follow a path just because it’s expected—choose what feels right for you.

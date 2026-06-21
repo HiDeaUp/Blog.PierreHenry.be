@@ -12,8 +12,7 @@ original_title = "Nouvelle Organisation"
 source_medium = "https://medium.com/@phenrysay/35a257e1c15c"
 +++
 
-![Photo by Mille Sanders](https://images.unsplash.com/photo-1553034710-47f9e03ff808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLW9yZ2FuaXphdGlvbnxlbnwwfDB8fHwxNzU1NjA1MDQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Your Days Smoother WITHOUT Forcing Motivation")
-*How to Make Your Days Smoother WITHOUT Forcing Motivation - Photo by [Mille Sanders](https://unsplash.com/@millesanders) on [Unsplash](https://unsplash.com/photos/white-calendar-oWpartNqAnM)*
+{{< figure src="https://images.unsplash.com/photo-1553034710-47f9e03ff808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLW9yZ2FuaXphdGlvbnxlbnwwfDB8fHwxNzU1NjA1MDQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White" title="How to Make Your Days Smoother WITHOUT Forcing Motivation" caption="How to Make Your Days Smoother WITHOUT Forcing Motivation - Photo by [Mille Sanders](https://unsplash.com/@millesanders) on [Unsplash](https://unsplash.com/photos/white-calendar-oWpartNqAnM)" >}}
 
 Have you ever wished your days could run more smoothly, with less effort and more fun? What if you didn’t have to dig deep for motivation or energy, but could simply move from one thing to the next, step by step? Let me share my favorite method for organizing your days so they feel lighter and more satisfying.
 
@@ -27,8 +26,7 @@ Now, think about tomorrow. What can you do differently? Write a simple action pl
 
 Each evening’s action plan is like adding one stone after another to build the path toward your bigger goal.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLW9yZ2FuaXphdGlvbnxlbnwwfDB8fHwxNzU1NjA1MDQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Your Days Smoother WITHOUT Forcing Motivation")
-*How to Make Your Days Smoother WITHOUT Forcing Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLW9yZ2FuaXphdGlvbnxlbnwwfDB8fHwxNzU1NjA1MDQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Make Your Days Smoother WITHOUT Forcing Motivation" caption="How to Make Your Days Smoother WITHOUT Forcing Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 ## Small Steps, Big Results
 
@@ -50,8 +48,7 @@ By noticing these things, you can keep improving your daily life, bit by bit. Ea
 
 ## No More Waiting for Motivation
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLW9yZ2FuaXphdGlvbnxlbnwwfDB8fHwxNzU1NjA1MDQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Your Days Smoother WITHOUT Forcing Motivation")
-*How to Make Your Days Smoother WITHOUT Forcing Motivation - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjBzZWxmLW9yZ2FuaXphdGlvbnxlbnwwfDB8fHwxNzU1NjA1MDQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Make Your Days Smoother WITHOUT Forcing Motivation" caption="How to Make Your Days Smoother WITHOUT Forcing Motivation - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 When you organize your days like this, everything becomes simpler. You don’t need to force yourself to feel motivated. You just follow your plan, step by step. Over time, you’ll see real progress, and your days will feel lighter and more enjoyable.
 

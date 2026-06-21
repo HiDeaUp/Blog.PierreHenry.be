@@ -12,8 +12,7 @@ original_title = "Comment j'ai transformé ma productivité : La méthode que pe
 source_medium = "https://medium.com/@phenrysay/d2f51480ddf4"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwYXBwc3xlbnwwfDB8fHwxNzU1NDE1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How I Doubled My Focus WITHOUT Working Longer Hours")
-*How I Doubled My Focus WITHOUT Working Longer Hours - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwYXBwc3xlbnwwfDB8fHwxNzU1NDE1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How I Doubled My Focus WITHOUT Working Longer Hours" caption="How I Doubled My Focus WITHOUT Working Longer Hours - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Working in Sprints: The Simple Shift That Changed My Life
 
@@ -31,8 +30,7 @@ I’ve lived in places like Wellington, New Zealand, and now Sydney, where café
 
 Respecting the Space and Each Other
 
-![iphone, iphone x, ios, home screen, close up, pixels, retina, smartphone, icon, ios 14, icon, screen, phone, app, apps, bokeh, close focus, technology, ](https://images.unsplash.com/photo-1618932376458-99e6df5ce5b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwYXBwc3xlbnwwfDB8fHwxNzU1NDE1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How I Doubled My Focus WITHOUT Working Longer Hours")
-*How I Doubled My Focus WITHOUT Working Longer Hours - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/blue-and-white-smartphone-screen-IE2WxjUGtGI)*
+{{< figure src="https://images.unsplash.com/photo-1618932376458-99e6df5ce5b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwYXBwc3xlbnwwfDB8fHwxNzU1NDE1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="iphone, iphone x, ios, home screen, close up, pixels, retina, smartphone, icon, ios 14, icon, screen, phone, app, apps, bokeh, close focus, technology," title="How I Doubled My Focus WITHOUT Working Longer Hours" caption="How I Doubled My Focus WITHOUT Working Longer Hours - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/blue-and-white-smartphone-screen-IE2WxjUGtGI)" >}}
 
 One thing I’ve noticed is how much people respect shared spaces. Parks and cafés are clean, and everyone does their part. It’s a simple act of respect—towards others and towards the environment. I couldn’t live in a place where people don’t care about each other or their surroundings. Respect is at the heart of a balanced, happy life.
 
@@ -58,8 +56,7 @@ Too often, productivity is sold as a way to do more, more, more—at the cost of
 
 Energy, Focus, and Respect
 
-![This 3D artwork presents a playful and modern take on the classic alarm clock, blending functionality with creativity. The vibrant blue and yellow color scheme evokes energy and optimism, complemented by stylized stationery elements to highlight themes of productivity and time management. Ideal for use in educational visuals, branding, or creative digital projects.](https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwYXBwc3xlbnwwfDB8fHwxNzU1NDE1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How I Doubled My Focus WITHOUT Working Longer Hours")
-*How I Doubled My Focus WITHOUT Working Longer Hours - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)*
+{{< figure src="https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwYXBwc3xlbnwwfDB8fHwxNzU1NDE1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A blue alarm clock with a yellow face" title="How I Doubled My Focus WITHOUT Working Longer Hours" caption="How I Doubled My Focus WITHOUT Working Longer Hours - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)" >}}
 
 Your energy is your most valuable resource. Don’t let it get stolen by things that don’t matter—whether it’s a technical problem, a rude comment, or just a messy environment. Start your day early, before the world piles on its demands. Get into your zone, protect your focus, and respect yourself and others.
 

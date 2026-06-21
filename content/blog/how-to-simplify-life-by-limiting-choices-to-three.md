@@ -12,8 +12,7 @@ original_title = "Pourquoi suivre la règle de TROIS ?"
 source_medium = "https://medium.com/@phenrysay/3c36194e2cad"
 +++
 
-![Photo by Hennie Stander](https://images.unsplash.com/photo-1670270103229-9a999f368bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbi1tYWtpbmclMjBydWxlJTIwb2YlMjB0aHJlZSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NzQ2MjAzMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life by Limiting Choices to Three")
-*How to Simplify Life by Limiting Choices to Three - Photo by [Hennie Stander](https://unsplash.com/@henniestander) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-i8a3JjDtXJg)*
+{{< figure src="https://images.unsplash.com/photo-1670270103229-9a999f368bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbi1tYWtpbmclMjBydWxlJTIwb2YlMjB0aHJlZSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NzQ2MjAzMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A stack of rocks" title="How to Simplify Life by Limiting Choices to Three" caption="How to Simplify Life by Limiting Choices to Three - Photo by [Hennie Stander](https://unsplash.com/@henniestander) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-i8a3JjDtXJg)" >}}
 
 Have you ever noticed how having too many choices can actually make things harder? We often hear the saying, “choice kills choice.” It might sound cliché, but it’s true. The more options you have, the harder it becomes to pick the right one.
 
@@ -23,8 +22,7 @@ This is where the Rule of Three comes in. Instead of endlessly searching, limit 
 
 If you’re hesitating between several books to read, narrow it down to three and pick one. Looking for a new job? Limit your job interviews to three companies at a time. If you don’t get an offer, you can add another, but always keep your active choices to three. The same goes for choosing a pet—don’t visit every animal shelter in town. Pick three breeds or three animals and decide from there.
 
-![Photo by Claudio Schwarz](https://images.unsplash.com/photo-1683727609398-7693457f4717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbi1tYWtpbmclMjBydWxlJTIwb2YlMjB0aHJlZSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NzQ2MjAzMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life by Limiting Choices to Three")
-*How to Simplify Life by Limiting Choices to Three - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/two-white-arrows-pointing-in-opposite-directions-on-asphalt-cM-SE4f8d34)*
+{{< figure src="https://images.unsplash.com/photo-1683727609398-7693457f4717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbi1tYWtpbmclMjBydWxlJTIwb2YlMjB0aHJlZSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NzQ2MjAzMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two white arrows in on asphalt cM" title="How to Simplify Life by Limiting Choices to Three" caption="How to Simplify Life by Limiting Choices to Three - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/two-white-arrows-pointing-in-opposite-directions-on-asphalt-cM-SE4f8d34)" >}}
 
 Even when buying a phone, don’t drown in endless comparisons. Choose three models that fit your needs and budget, then pick one. The same goes for restaurants. If you’re deciding where to eat, limit yourself to three options. When ordering food delivery, pick three restaurants that fit your cravings and budget, then choose one. If you want to watch a movie, select three films and go with the one that feels right.
 
@@ -40,8 +38,7 @@ The Rule of Three can save you a lot of time and stress. Try it for three weeks.
 
 ## Key Takeaways
 
-![A business card mock up for editing. Add a design and hit multiply, with an opacity of around 85%. This is from a render in liminal space, with textures added.](https://images.unsplash.com/photo-1624567881801-a5a85867d990?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbi1tYWtpbmclMjBydWxlJTIwb2YlMjB0aHJlZSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NzQ2MjAzMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Life by Limiting Choices to Three")
-*How to Simplify Life by Limiting Choices to Three - Photo by [grey wight](https://unsplash.com/@greyxwight) on [Unsplash](https://unsplash.com/photos/white-printer-paper-on-brown-wooden-surface-YREw6bUXAT8)*
+{{< figure src="https://images.unsplash.com/photo-1624567881801-a5a85867d990?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbi1tYWtpbmclMjBydWxlJTIwb2YlMjB0aHJlZSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NzQ2MjAzMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A business card mock up for editing. Add a design and hit multiply, with an opacity of around 85%. This is from a render in liminal space, with textures added." title="How to Simplify Life by Limiting Choices to Three" caption="How to Simplify Life by Limiting Choices to Three - Photo by [grey wight](https://unsplash.com/@greyxwight) on [Unsplash](https://unsplash.com/photos/white-printer-paper-on-brown-wooden-surface-YREw6bUXAT8)" >}}
 
 - Too many choices can make decisions harder and less satisfying.
 - The Rule of Three: always limit your options to three, whether it’s houses, jobs, books, restaurants, or anything else.

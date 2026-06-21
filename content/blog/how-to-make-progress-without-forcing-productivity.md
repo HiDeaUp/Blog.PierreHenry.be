@@ -12,8 +12,7 @@ original_title = "Interview Psychologie : Comment ne plus s'acharner quand rien 
 source_medium = "https://medium.com/@phenrysay/4eccdd9f0f00"
 +++
 
-![Esta foto, aunque está hecha en un centro comercial, la considero dentro del género de fotografía callejera.  Me llamó por un momento la atención el contraluz de la simetría de la mujer arreglándose el pelo y el reflejo de la sombra de de ella y su niña en el suelo.](https://images.unsplash.com/photo-1610536145444-710901a51c47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwc3ljaG9sb2d5JTIwbGV0dGluZyUyMGdvJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTU2MzkzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Forcing Productivity")
-*How to Make Progress Without Forcing Productivity - Photo by [Quino Al](https://unsplash.com/@quinoal) on [Unsplash](https://unsplash.com/photos/silhouette-of-woman-walking-on-hallway-d8f9jR9px_I)*
+{{< figure src="https://images.unsplash.com/photo-1610536145444-710901a51c47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwc3ljaG9sb2d5JTIwbGV0dGluZyUyMGdvJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTU2MzkzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of woman walking on hallway" title="How to Make Progress Without Forcing Productivity" caption="How to Make Progress Without Forcing Productivity - Photo by [Quino Al](https://unsplash.com/@quinoal) on [Unsplash](https://unsplash.com/photos/silhouette-of-woman-walking-on-hallway-d8f9jR9px_I)" >}}
 
 There are days when nothing seems to go right. You wake up, determined to be productive, with a clear plan in mind. Maybe you want to draw, write, or tackle a project. You tell yourself, “Today is the day. I’ll get three, maybe four things done.” But as soon as you start, it just doesn’t work. Your mind is foggy, your ideas are scattered, and every attempt feels like a struggle.
 
@@ -27,8 +26,7 @@ When you insist on pushing through, you enter a vicious cycle. You try, you fail
 
 It’s easy to fall into the trap of thinking you must keep going at all costs. But the more you force it, the more mistakes you make, and the further you drift from your goal. You end up spinning in circles, wasting time and energy.
 
-![Photo by Ray lau](https://images.unsplash.com/photo-1615197587645-02cb714d4f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwc3ljaG9sb2d5JTIwbGV0dGluZyUyMGdvJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTU2MzkzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Forcing Productivity")
-*How to Make Progress Without Forcing Productivity - Photo by [Ray lau](https://unsplash.com/@flynoodle) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-in-black-jacket-and-pants-sitting-on-staircase-hScvwfU-RSs)*
+{{< figure src="https://images.unsplash.com/photo-1615197587645-02cb714d4f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwc3ljaG9sb2d5JTIwbGV0dGluZyUyMGdvJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTU2MzkzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of person in black jacket and pants sitting on hScvwfU RSs" title="How to Make Progress Without Forcing Productivity" caption="How to Make Progress Without Forcing Productivity - Photo by [Ray lau](https://unsplash.com/@flynoodle) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-in-black-jacket-and-pants-sitting-on-staircase-hScvwfU-RSs)" >}}
 
 ## The Power of Taking a Break
 
@@ -52,8 +50,7 @@ When you’re not at your best, don’t force it. Accept that it’s not the rig
 
 ## Letting Go Is Not Giving Up
 
-![Photo by Savann Prak](https://images.unsplash.com/photo-1650020097615-c1f0c7e4dedb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwc3ljaG9sb2d5JTIwbGV0dGluZyUyMGdvJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTU2MzkzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Progress Without Forcing Productivity")
-*How to Make Progress Without Forcing Productivity - Photo by [Savann Prak](https://unsplash.com/@odayaka) on [Unsplash](https://unsplash.com/photos/a-man-standing-in-front-of-a-store-window-fp0B9ifTaxU)*
+{{< figure src="https://images.unsplash.com/photo-1650020097615-c1f0c7e4dedb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwc3ljaG9sb2d5JTIwbGV0dGluZyUyMGdvJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTU2MzkzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man in front of a store window" title="How to Make Progress Without Forcing Productivity" caption="How to Make Progress Without Forcing Productivity - Photo by [Savann Prak](https://unsplash.com/@odayaka) on [Unsplash](https://unsplash.com/photos/a-man-standing-in-front-of-a-store-window-fp0B9ifTaxU)" >}}
 
 It’s important to understand that letting go for a while isn’t the same as giving up. It’s about being smart with your energy and knowing when to pause. This approach helps you avoid frustration and actually makes you more productive in the long run.
 

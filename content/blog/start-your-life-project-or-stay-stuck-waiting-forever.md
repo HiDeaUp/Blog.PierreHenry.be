@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/b5424826a937"
 source_youtube = "https://www.youtube.com/watch?v=wScvzhSWF-0"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdWNjZXNzJTIwdGlwc3xlbnwwfDB8fHwxNzY4MjIwODkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "Start Your Life Project or Stay Stuck Waiting Forever")
-*Start Your Life Project or Stay Stuck Waiting Forever - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
+{{< figure src="https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdWNjZXNzJTIwdGlwc3xlbnwwfDB8fHwxNzY4MjIwODkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface WpoS C209uk" title="Start Your Life Project or Stay Stuck Waiting Forever" caption="Start Your Life Project or Stay Stuck Waiting Forever - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)" >}}
 
 Building something for yourself is one of the most rewarding things you can do. It could be a small, cozy project, something that gives you a sense of comfort and pride, or something that pushes you to grow. Maybe it’s as simple as starting a new sport or improving your eating habits. Changing your lifestyle, even in small ways, is already a project in itself.
 
@@ -34,9 +33,7 @@ Think of it like a lamp. A regular lamp lights up a room, but only a little. A l
 
 Find the best moments in your day to work on your project. Protect that time. Make it your own.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live your best life, one life, yolo, carpe diem, mindfulness, do not waste time, just do it, move on, let it go, 
-](https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdWNjZXNzJTIwdGlwc3xlbnwwfDB8fHwxNzY4MjIwODkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "Start Your Life Project or Stay Stuck Waiting Forever")
-*Start Your Life Project or Stay Stuck Waiting Forever - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)*
+{{< figure src="https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdWNjZXNzJTIwdGlwc3xlbnwwfDB8fHwxNzY4MjIwODkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile that says live your best life" title="Start Your Life Project or Stay Stuck Waiting Forever" caption="Start Your Life Project or Stay Stuck Waiting Forever - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)" >}}
 
 ## My Own Project: Why It Matters to Me
 
@@ -62,8 +59,7 @@ It’s not about having the perfect place. It’s about making the most of what 
 
 ## Take Action: The Only Way Forward
 
-![Photo by Maria Oswalt](https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdWNjZXNzJTIwdGlwc3xlbnwwfDB8fHwxNzY4MjIwODkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "Start Your Life Project or Stay Stuck Waiting Forever")
-*Start Your Life Project or Stay Stuck Waiting Forever - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)*
+{{< figure src="https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHJvamVjdCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzdWNjZXNzJTIwdGlwc3xlbnwwfDB8fHwxNzY4MjIwODkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow life printed balloon" title="Start Your Life Project or Stay Stuck Waiting Forever" caption="Start Your Life Project or Stay Stuck Waiting Forever - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)" >}}
 
 Life is short. The only way to move forward is to act now. Everything is possible if you really want it. If you’re ready to make a change, start today. Don’t wait for the perfect moment. The best time is now.
 

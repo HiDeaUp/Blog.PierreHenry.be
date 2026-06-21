@@ -12,8 +12,7 @@ original_title = "REPENSE tes JOURNÉES : la MÉTHODE pour une VIE OPTIMISÉE"
 source_medium = "https://medium.com/@phenrysay/c74ec648838e"
 +++
 
-![This is part of our workspace. We have custom-built natural wood desks. We use Apple products for our equipment.](https://images.unsplash.com/photo-1707386320395-6a163624aab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjByb3V0aW5lJTIwb3B0aW1pemF0aW9ufGVufDB8MHx8fDE3NTU0MTk1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Changing Your Scenery Boosts Productivity Without Burnout")
-*How Changing Your Scenery Boosts Productivity Without Burnout - Photo by [DFY® 디에프와이](https://unsplash.com/@dfy_seoul) on [Unsplash](https://unsplash.com/photos/a-room-with-two-desks-and-two-monitors--CLRGjLQf0w)*
+{{< figure src="https://images.unsplash.com/photo-1707386320395-6a163624aab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjByb3V0aW5lJTIwb3B0aW1pemF0aW9ufGVufDB8MHx8fDE3NTU0MTk1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="This is part of our workspace. We have custom-built natural wood desks. We use Apple products for our equipment." title="How Changing Your Scenery Boosts Productivity Without Burnout" caption="How Changing Your Scenery Boosts Productivity Without Burnout - Photo by [DFY® 디에프와이](https://unsplash.com/@dfy_seoul) on [Unsplash](https://unsplash.com/photos/a-room-with-two-desks-and-two-monitors--CLRGjLQf0w)" >}}
 
 When it comes to routines, everything depends on where you work. Maybe you work from home, or you have a hybrid schedule—sometimes at a coffee shop, sometimes at a coworking space, sometimes in a park, or maybe always at your office. Some people love to switch up their environment, while others prefer sticking to one place.
 
@@ -23,8 +22,7 @@ But let’s get back to the main point: whether you work from different places o
 
 We’re all different, and that’s fine. The key is to figure out what environment helps you be the most productive. Sometimes, life throws curveballs—like the lockdowns, when we were all stuck at home. Or, in my case, when I broke my knee and ended up in the hospital for six days. I had to use crutches, and moving around was a challenge. But even in the hospital, I kept working. My partner brought me my laptop, and I worked from my hospital bed. It wasn’t the best environment—especially in Australia, where hospital rooms are often shared and noisy—but I managed.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjByb3V0aW5lJTIwb3B0aW1pemF0aW9ufGVufDB8MHx8fDE3NTU0MTk1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Changing Your Scenery Boosts Productivity Without Burnout")
-*How Changing Your Scenery Boosts Productivity Without Burnout - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjByb3V0aW5lJTIwb3B0aW1pemF0aW9ufGVufDB8MHx8fDE3NTU0MTk1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How Changing Your Scenery Boosts Productivity Without Burnout" caption="How Changing Your Scenery Boosts Productivity Without Burnout - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 What I’ve learned is that changing your environment can give you a boost. But it also depends on the kind of work you’re doing. Some days, you wake up on the wrong side of the bed, and nothing seems to flow. For many engineers and developers I know (myself included), the first few hours of the day are the most productive—deep work, total focus. After that, it’s time for the gym, lighter tasks, maybe a podcast or a chat with friends or family.
 
@@ -40,8 +38,7 @@ If you want to go deeper into productivity, I’ve put together a self-help book
 
 ---
 
-![Photo by Sigmund](https://images.unsplash.com/photo-1629904853716-f0bc54eea481?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjByb3V0aW5lJTIwb3B0aW1pemF0aW9ufGVufDB8MHx8fDE3NTU0MTk1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Changing Your Scenery Boosts Productivity Without Burnout")
-*How Changing Your Scenery Boosts Productivity Without Burnout - Photo by [Sigmund](https://unsplash.com/@sigmund) on [Unsplash](https://unsplash.com/photos/people-sitting-on-chair-in-front-of-computer-monitor-Fa9b57hffnM)*
+{{< figure src="https://images.unsplash.com/photo-1629904853716-f0bc54eea481?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwZW52aXJvbm1lbnQlMjByb3V0aW5lJTIwb3B0aW1pemF0aW9ufGVufDB8MHx8fDE3NTU0MTk1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="People sitting on chair in front of monitor" title="How Changing Your Scenery Boosts Productivity Without Burnout" caption="How Changing Your Scenery Boosts Productivity Without Burnout - Photo by [Sigmund](https://unsplash.com/@sigmund) on [Unsplash](https://unsplash.com/photos/people-sitting-on-chair-in-front-of-computer-monitor-Fa9b57hffnM)" >}}
 
 ## Key Takeaways
 - *Find the environment that helps you work best—don’t be afraid to change it up.*

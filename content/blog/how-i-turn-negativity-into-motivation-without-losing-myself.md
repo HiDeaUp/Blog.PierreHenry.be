@@ -12,8 +12,7 @@ original_title = "CE QUE JE FAIS EXACTEMENT après avoir reçu de la négativi
 source_medium = "https://medium.com/@phenrysay/f3f237c353f4"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2aXR5JTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NTM4NjYxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Turn Negativity Into Motivation Without Losing Myself")
-*How I Turn Negativity Into Motivation Without Losing Myself - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2aXR5JTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NTM4NjYxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How I Turn Negativity Into Motivation Without Losing Myself" caption="How I Turn Negativity Into Motivation Without Losing Myself - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 Negativity is something we all face. Maybe it comes from work—a manager, a colleague, or even someone you admire. Sometimes, it’s just a stranger at the supermarket who treats you badly, or a disagreement with your partner, parents, or children. Suddenly, you feel misunderstood, hurt, or even accused of being selfish when, in reality, you often put others first. That sense of injustice can weigh heavily on your mind.
 
@@ -31,8 +30,7 @@ The most important thing is to enjoy the present moment. None of us knows when o
 
 Life is short. Instead of focusing on tiny problems, I ask myself: How can I make my life richer and more enjoyable right now? Sometimes, it’s about setting up a new routine or doing something I’ve always wanted to do. Even if it’s just for ten minutes, I try to add a new brick to the castle of my life every day. Over time, these small actions build something strong and meaningful.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2aXR5JTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NTM4NjYxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Turn Negativity Into Motivation Without Losing Myself")
-*How I Turn Negativity Into Motivation Without Losing Myself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)*
+{{< figure src="https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2aXR5JTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NTM4NjYxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads" title="How I Turn Negativity Into Motivation Without Losing Myself" caption="How I Turn Negativity Into Motivation Without Losing Myself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)" >}}
 
 > *The purpose of life is to be happy, to enjoy, to love what you do.*
 > 
@@ -60,8 +58,7 @@ When you do this, you’ll find you have more energy and can use your time much 
 > 
 > — Pierre
 
-![Photo by Romina BM](https://images.unsplash.com/photo-1654642750958-30c015edc76a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2aXR5JTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NTM4NjYxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Turn Negativity Into Motivation Without Losing Myself")
-*How I Turn Negativity Into Motivation Without Losing Myself - Photo by [Romina BM](https://unsplash.com/@hubiita) on [Unsplash](https://unsplash.com/photos/a-plastic-cup-with-a-smiley-face-on-top-of-a-rock-8xY5-H6yQoM)*
+{{< figure src="https://images.unsplash.com/photo-1654642750958-30c015edc76a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2aXR5JTIwc3RyZXNzJTIwbWFuYWdlbWVudCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2V8ZW58MHwwfHx8MTc1NTM4NjYxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A plastic cup with a smiley face on top of a rock 8xY5 H6yQoM" title="How I Turn Negativity Into Motivation Without Losing Myself" caption="How I Turn Negativity Into Motivation Without Losing Myself - Photo by [Romina BM](https://unsplash.com/@hubiita) on [Unsplash](https://unsplash.com/photos/a-plastic-cup-with-a-smiley-face-on-top-of-a-rock-8xY5-H6yQoM)" >}}
 
 ---
 

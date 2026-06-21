@@ -12,8 +12,7 @@ original_title = "This GLM Learning Project Will Change How You Code AI"
 source_medium = "https://medium.com/@phenrysay/777e7f1361dc"
 +++
 
-![Photo by Bernd 📷 Dittrich](https://images.unsplash.com/photo-1692598578454-570cb62ecf2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHTE0lMjBtYWNoaW5lJTIwbGVhcm5pbmclMjBsb2dpc3RpYyUyMHJlZ3Jlc3Npb258ZW58MHwwfHx8MTc2NzA1MzgwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Smarter AI Predictions Without Complex Code")
-*How to Build Smarter AI Predictions Without Complex Code - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-white-board-with-writing-written-on-it-1xE5QnNXJH0)*
+{{< figure src="https://images.unsplash.com/photo-1692598578454-570cb62ecf2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxHTE0lMjBtYWNoaW5lJTIwbGVhcm5pbmclMjBsb2dpc3RpYyUyMHJlZ3Jlc3Npb258ZW58MHwwfHx8MTc2NzA1MzgwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A white board with writing written on it" title="How to Build Smarter AI Predictions Without Complex Code" caption="How to Build Smarter AI Predictions Without Complex Code - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-white-board-with-writing-written-on-it-1xE5QnNXJH0)" >}}
 
 Alright, let’s get right into it. Today, I’m going to walk you through a project I’ve been working on that uses generalized linear models—specifically, logistic regression. Most of my experiments here are in Python, because, let’s be honest, Python just makes this stuff way easier.
 

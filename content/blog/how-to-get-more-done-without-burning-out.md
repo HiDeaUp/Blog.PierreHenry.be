@@ -12,8 +12,7 @@ original_title = "Réaliser beaucoup plus. Astuces de productivité"
 source_medium = "https://medium.com/@phenrysay/74ae514c80f7"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdvcmslMjBzbWFydGVyfGVufDB8MHx8fDE3NTY1MjU5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Burning Out")
-*How to Get More Done Without Burning Out - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdvcmslMjBzbWFydGVyfGVufDB8MHx8fDE3NTY1MjU5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Get More Done Without Burning Out" caption="How to Get More Done Without Burning Out - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Productivity is not just about doing more. It’s about understanding yourself and how you spend your days. Many people think that getting more done means cramming as many tasks as possible into their schedule. In reality, the key is to know what kind of tasks you do best at different times of the day and to build habits that make you faster and more efficient.
 
@@ -23,8 +22,7 @@ Switching up your tasks every 90 minutes is important. Taking breaks is not just
 
 Deep work sessions are valuable, but they shouldn’t last forever. For some, two hours of focused work is the sweet spot. Others, like me, can sometimes go for three or four hours without losing focus. But everyone is different. If you notice your attention slipping after an hour, it’s time to step away. Go for a walk, get some fresh air, or spend a moment with your pet. These small transitions help you reset and return to your work with more energy.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdvcmslMjBzbWFydGVyfGVufDB8MHx8fDE3NTY1MjU5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Burning Out")
-*How to Get More Done Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdvcmslMjBzbWFydGVyfGVufDB8MHx8fDE3NTY1MjU5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Get More Done Without Burning Out" caption="How to Get More Done Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Building routines and repeating the same types of tasks each day also makes you more productive. The more you practice, the faster you get. Another helpful trick is to work in sprints—set aside 90 minutes, two hours, or even three hours, depending on what works for you. Ask yourself: Am I a morning person, or do I work better in the afternoon or evening? When do I have the most focus for tasks that require memory and concentration? Save the less demanding tasks for when your energy is lower.
 
@@ -44,8 +42,7 @@ It’s also important to set three main priorities for your day. Accept that you
 
 ---
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdvcmslMjBzbWFydGVyfGVufDB8MHx8fDE3NTY1MjU5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Burning Out")
-*How to Get More Done Without Burning Out - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdvcmslMjBzbWFydGVyfGVufDB8MHx8fDE3NTY1MjU5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Get More Done Without Burning Out" caption="How to Get More Done Without Burning Out - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Comment persévérer ? Façon LIBRE"
 source_medium = "https://medium.com/@phenrysay/d61dc2ddbe86"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU2MDE1NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Perseverance Without Forcing Willpower")
-*How to Boost Perseverance Without Forcing Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzZXZlcmFuY2UlMjBwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU2MDE1NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Boost Perseverance Without Forcing Willpower" caption="How to Boost Perseverance Without Forcing Willpower - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever noticed how certain places seem to trigger specific actions or moods? I realized this when I started working from different cafés. Each spot became linked to a particular task. For example, one café became my weekend writing place. Over time, my brain got used to this routine. As soon as I entered that café, I was mentally prepared to write. I didn’t have to force myself; it just happened naturally.
 
@@ -23,8 +22,7 @@ Recently, I was reading a book in a quiet spot, away from my computer. I realize
 
 You can even use hotels for this purpose. The important thing is not to waste your precious time. If you spend weeks or weekends doing nothing, those are weeks you’ll never get back. Time is the most valuable resource you have. You can always earn more money, but lost time is gone forever.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU2MDE1NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Perseverance Without Forcing Willpower")
-*How to Boost Perseverance Without Forcing Willpower - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU2MDE1NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Boost Perseverance Without Forcing Willpower" caption="How to Boost Perseverance Without Forcing Willpower - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Think about it: what if you had a fixed amount of money for your entire life, and you could never add to it? You’d be careful with every cent. That’s exactly how time works. Every day you spend is one less day in your life account. Most people are more careful with their money than with their time, but it should be the other way around.
 
@@ -40,8 +38,7 @@ If you want to see real change, start by changing your environment and your habi
 
 So, treat each day as a unique opportunity. Savor your life fully, and remember: the way you use your time shapes your happiness.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, work, rest, play, live, whole life, life balance, enjoy life, carpe diem, yolo, mindfulness, learn, enjoy, work life balance, embrace life, optimism, real life, books, reading, literature, bibliophile, study, learn, ](https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU2MDE1NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Perseverance Without Forcing Willpower")
-*How to Boost Perseverance Without Forcing Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)*
+{{< figure src="https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU2MDE1NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile with words that spell out work rest play live" title="How to Boost Perseverance Without Forcing Willpower" caption="How to Boost Perseverance Without Forcing Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)" >}}
 
 ---
 

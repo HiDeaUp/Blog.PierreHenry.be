@@ -12,8 +12,7 @@ original_title = "Mon REMÈDE pour se remotiver, quand RIEN NE VA !"
 source_medium = "https://medium.com/@phenrysay/709ed02068cf"
 +++
 
-![Follow my Instagram @karsten.wuerth](https://images.unsplash.com/photo-1451847251646-8a6c0dd1510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1oZWxwJTIwZW5lcmd5JTIwYm9vc3R8ZW58MHwwfHx8MTc0OTM5NTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated When You Feel Too Tired to Start")
-*How to Get Motivated When You Feel Too Tired to Start - Photo by [Karsten Würth](https://unsplash.com/@karsten_wuerth) on [Unsplash](https://unsplash.com/photos/white-windmills-on-green-grass-field-under-white-clouds-and-blue-sky-ZKWgoRUYuMk)*
+{{< figure src="https://images.unsplash.com/photo-1451847251646-8a6c0dd1510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1oZWxwJTIwZW5lcmd5JTIwYm9vc3R8ZW58MHwwfHx8MTc0OTM5NTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Follow my Instagram @karsten.wuerth" title="How to Get Motivated When You Feel Too Tired to Start" caption="How to Get Motivated When You Feel Too Tired to Start - Photo by [Karsten Würth](https://unsplash.com/@karsten_wuerth) on [Unsplash](https://unsplash.com/photos/white-windmills-on-green-grass-field-under-white-clouds-and-blue-sky-ZKWgoRUYuMk)" >}}
 
 There are days when you feel tired, your head feels heavy, and it’s just hard to get moving again. Motivation seems out of reach. You know you should do something, but your body and mind are dragging. It’s tough to get started, because, well, you’re exhausted. But here’s something I’ve learned: you can actually trigger or recreate certain moods and energy levels, almost on command.
 
@@ -23,8 +22,7 @@ If you’re tired and you try to push through without changing your state, you�
 
 Another trick: use noise-cancelling headphones and listen to music or sounds that put you in the right mood. Create a playlist that lifts you up or calms you down, depending on what you need. Lighting also makes a difference. Try using LED lights or colored bulbs to set a specific atmosphere. These little changes have helped me so much, and that’s why I want to share them with you.
 
-![Power pylons at sunset](https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1oZWxwJTIwZW5lcmd5JTIwYm9vc3R8ZW58MHwwfHx8MTc0OTM5NTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated When You Feel Too Tired to Start")
-*How to Get Motivated When You Feel Too Tired to Start - Photo by [Matthew Henry](https://unsplash.com/@matthewhenry) on [Unsplash](https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI)*
+{{< figure src="https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1oZWxwJTIwZW5lcmd5JTIwYm9vc3R8ZW58MHwwfHx8MTc0OTM5NTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Power pylons at sunset" title="How to Get Motivated When You Feel Too Tired to Start" caption="How to Get Motivated When You Feel Too Tired to Start - Photo by [Matthew Henry](https://unsplash.com/@matthewhenry) on [Unsplash](https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI)" >}}
 
 > *“The energy you bring is often the energy you create.”*  
 > — Tony Robbins
@@ -40,8 +38,7 @@ But even if you don’t go further with me, remember this: you can always genera
 
 ---
 
-![Giant Solar Panel](https://images.unsplash.com/photo-1491677533189-49af044391ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1oZWxwJTIwZW5lcmd5JTIwYm9vc3R8ZW58MHwwfHx8MTc0OTM5NTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated When You Feel Too Tired to Start")
-*How to Get Motivated When You Feel Too Tired to Start - Photo by [Biel Morro](https://unsplash.com/@bielmorro) on [Unsplash](https://unsplash.com/photos/black-and-silver-solar-panel-HCha-UHkIg8)*
+{{< figure src="https://images.unsplash.com/photo-1491677533189-49af044391ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1oZWxwJTIwZW5lcmd5JTIwYm9vc3R8ZW58MHwwfHx8MTc0OTM5NTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Giant Solar Panel" title="How to Get Motivated When You Feel Too Tired to Start" caption="How to Get Motivated When You Feel Too Tired to Start - Photo by [Biel Morro](https://unsplash.com/@bielmorro) on [Unsplash](https://unsplash.com/photos/black-and-silver-solar-panel-HCha-UHkIg8)" >}}
 
 ## Key Takeaways
 - You can create the mood and energy you need, even when you feel drained.

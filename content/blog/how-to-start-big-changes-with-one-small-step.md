@@ -12,8 +12,7 @@ original_title = "Une inspiration motivante 💥"
 source_medium = "https://medium.com/@phenrysay/d38d56669ad6"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU2ODUyNDI3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Big Changes With One Small Step")
-*How to Start Big Changes With One Small Step - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU2ODUyNDI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Start Big Changes With One Small Step" caption="How to Start Big Changes With One Small Step - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Have you ever noticed how inspiration can strike at the most unexpected moments? I was making a sandwich when I realized how often we wait for the “right” time to start something new. We tell ourselves we’re too busy, too tired, or that today just isn’t the day. In the end, we never get started, and our dreams remain just that—dreams.
 
@@ -25,8 +24,7 @@ Maybe you’re thinking about making videos, but editing seems daunting. You don
 
 Inspiration is really about motivation. It’s that urge to get up and do something, to finally say, “Yes, I want to start this!” The most important thing is to lay the first stone, even if it’s small. Day after day, you add another stone, and soon enough, you’ve built something real.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU2ODUyNDI3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Big Changes With One Small Step")
-*How to Start Big Changes With One Small Step - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU2ODUyNDI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Start Big Changes With One Small Step" caption="How to Start Big Changes With One Small Step - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Regularity is key. Even if you only spend fifteen or thirty minutes a day, being consistent pays off. There’s a well-known Chinese proverb:
 
@@ -44,8 +42,7 @@ Start now. Even small, regular actions can lead to big changes.
 
 ---
 
-![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1605206731612-e7dc29d3209a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU2ODUyNDI3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Big Changes With One Small Step")
-*How to Start Big Changes With One Small Step - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/white-and-pink-i-love-you-print-box-W-YPDi9BTOk)*
+{{< figure src="https://images.unsplash.com/photo-1605206731612-e7dc29d3209a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaW5zcGlyYXRpb24lMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU2ODUyNDI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and pink i love you print box W" title="How to Start Big Changes With One Small Step" caption="How to Start Big Changes With One Small Step - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/white-and-pink-i-love-you-print-box-W-YPDi9BTOk)" >}}
 
 ## Key Takeaways
 

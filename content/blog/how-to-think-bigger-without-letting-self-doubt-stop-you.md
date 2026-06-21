@@ -12,8 +12,7 @@ original_title = "Comment voir PLUS GRAND ? Le principe de la réussite"
 source_medium = "https://medium.com/@phenrysay/ec051a21410b"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger Without Letting Self-Doubt Stop You")
-*How to Think Bigger Without Letting Self-Doubt Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Think Bigger Without Letting Self-Doubt Stop You" caption="How to Think Bigger Without Letting Self-Doubt Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 Have you ever wondered how far you could go if you stopped putting limits on yourself? Most of us walk around with invisible walls built in our minds, convinced that some dreams are simply not for us. But what if I told you that the only real limit is the one you set for yourself?
 
@@ -23,8 +22,7 @@ This isn’t just about business. Maybe your dream is to see a certain number in
 
 It’s the same if your dream is to be a famous actor, a well-known singer, or even to fly a helicopter. The path might be tough, and you might have to work harder than others, especially if you come from a background where opportunities are scarce. But that’s not an excuse to give up. In fact, it means you’ll have even more to be proud of when you succeed.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger Without Letting Self-Doubt Stop You")
-*How to Think Bigger Without Letting Self-Doubt Stop You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Think Bigger Without Letting Self-Doubt Stop You" caption="How to Think Bigger Without Letting Self-Doubt Stop You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 > _The only limits in our lives are those we accept in our minds._
 > — Anonymous
@@ -42,8 +40,7 @@ I believe in you. We’re all made of the same stuff. Some of us have to work ha
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger Without Letting Self-Doubt Stop You")
-*How to Think Bigger Without Letting Self-Doubt Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Think Bigger Without Letting Self-Doubt Stop You" caption="How to Think Bigger Without Letting Self-Doubt Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 - *Your only real limits are the ones you set for yourself.*
 - *Make your goal your obsession, and your mind will find solutions.*

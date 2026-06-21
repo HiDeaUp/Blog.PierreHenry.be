@@ -12,8 +12,7 @@ original_title = "Recharge ton Énergie en 5 MINUTES 🔥"
 source_medium = "https://medium.com/@phenrysay/701eaaf09ee5"
 +++
 
-![A lady in pursuit to inspire and challenge the human body to push it’s limits and live a healthy active life. Thanks for the wild ride!](https://images.unsplash.com/photo-1497369753325-69e1f26b7f56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBib29zdCUyMHNlbGYtY2FyZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU1MzY5OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Energy in 5 Minutes Without Overthinking")
-*How to Recharge Your Energy in 5 Minutes Without Overthinking - Photo by [Becca Matimba](https://unsplash.com/@bmatimbaphoto) on [Unsplash](https://unsplash.com/photos/woman-doing-pull-up-exercise-xzu52UX-1jc)*
+{{< figure src="https://images.unsplash.com/photo-1497369753325-69e1f26b7f56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBib29zdCUyMHNlbGYtY2FyZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU1MzY5OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A lady in pursuit to inspire and challenge the human body to push it’s limits and live a healthy active life. Thanks for the wild ride!" title="How to Recharge Your Energy in 5 Minutes Without Overthinking" caption="How to Recharge Your Energy in 5 Minutes Without Overthinking - Photo by [Becca Matimba](https://unsplash.com/@bmatimbaphoto) on [Unsplash](https://unsplash.com/photos/woman-doing-pull-up-exercise-xzu52UX-1jc)" >}}
 
 What’s the real secret to feeling good? It’s simpler than you think: do things that bring you joy. That’s it. But as simple as it sounds, it’s often the hardest thing to put into practice. Life gets in the way. Social pressure, endless distractions, and our own habits can pull us away from the present moment. We struggle to focus, to be truly present, and to do things just for ourselves—things that make us happy and don’t leave us frustrated.
 
@@ -27,8 +26,7 @@ So here’s my wish for you: listen to yourself. Go far in your life. The best t
 
 For me, today is beautiful outside. I’m going to head near the bay, rest a bit, think about my ideas, maybe read, and just enjoy the moment. I’ll send a postcard and slip it into my backpack. That’s it—simple things that make me feel good.
 
-![Photo by Docusign](https://images.unsplash.com/photo-1611095968462-3dc56b14454a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjBib29zdCUyMHNlbGYtY2FyZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU1MzY5OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Energy in 5 Minutes Without Overthinking")
-*How to Recharge Your Energy in 5 Minutes Without Overthinking - Photo by [Docusign](https://unsplash.com/@docusign) on [Unsplash](https://unsplash.com/photos/woman-in-gray-shirt-elbow-bumping-with-woman-in-sports-outfit-orcAyrmuLXw)*
+{{< figure src="https://images.unsplash.com/photo-1611095968462-3dc56b14454a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjBib29zdCUyMHNlbGYtY2FyZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU1MzY5OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in gray shirt elbow bumping with woman in sports outfit" title="How to Recharge Your Energy in 5 Minutes Without Overthinking" caption="How to Recharge Your Energy in 5 Minutes Without Overthinking - Photo by [Docusign](https://unsplash.com/@docusign) on [Unsplash](https://unsplash.com/photos/woman-in-gray-shirt-elbow-bumping-with-woman-in-sports-outfit-orcAyrmuLXw)" >}}
 
 You deserve a great life. I believe in you 100%. Go for it. Take action.
 
@@ -46,8 +44,7 @@ You deserve a great life. I believe in you 100%. Go for it. Take action.
 
 ## Key Takeaways
 
-![Photo by Shiona Das](https://images.unsplash.com/photo-1721784106865-bd5e25c221f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjBib29zdCUyMHNlbGYtY2FyZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU1MzY5OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Energy in 5 Minutes Without Overthinking")
-*How to Recharge Your Energy in 5 Minutes Without Overthinking - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-road-with-their-arms-in-the-air-vo1F522rYgk)*
+{{< figure src="https://images.unsplash.com/photo-1721784106865-bd5e25c221f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjBib29zdCUyMHNlbGYtY2FyZSUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU1MzY5OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person on a road with their arms in the air" title="How to Recharge Your Energy in 5 Minutes Without Overthinking" caption="How to Recharge Your Energy in 5 Minutes Without Overthinking - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-road-with-their-arms-in-the-air-vo1F522rYgk)" >}}
 
 - Doing what brings you joy is the real secret to feeling good.
 - It’s hard to focus on yourself with distractions and social pressure, but it’s worth it.

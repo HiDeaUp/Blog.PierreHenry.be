@@ -12,8 +12,7 @@ original_title = "Comment ignorer les haters ?"
 source_medium = "https://medium.com/@phenrysay/bdc8fb2e4302"
 +++
 
-![@viktoriia.kudinska](https://images.unsplash.com/photo-1611596665399-733f0a70c33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBkZWFsaW5nJTIwd2l0aCUyMGNyaXRpY2lzbSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTA1NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Happy Without Letting Haters Decide for You")
-*How to Stay Happy Without Letting Haters Decide for You - Photo by [AnimGraph Lab](https://unsplash.com/@dimitryzub) on [Unsplash](https://unsplash.com/photos/woman-with-red-lipstick-and-black-mascara-tfAWQQWZX50)*
+{{< figure src="https://images.unsplash.com/photo-1611596665399-733f0a70c33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBkZWFsaW5nJTIwd2l0aCUyMGNyaXRpY2lzbSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTA1NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="@viktoriia.kudinska" title="How to Stay Happy Without Letting Haters Decide for You" caption="How to Stay Happy Without Letting Haters Decide for You - Photo by [AnimGraph Lab](https://unsplash.com/@dimitryzub) on [Unsplash](https://unsplash.com/photos/woman-with-red-lipstick-and-black-mascara-tfAWQQWZX50)" >}}
 
 When you start a new project, especially if you’re creating something like an information product, you quickly notice two types of people. There are those who support you, and then there are those who just don’t like what you do. Sometimes, these critics are loud, and it’s easy to feel their words more than the encouragement from your supporters.
 
@@ -21,8 +20,7 @@ Here’s the thing: most of the time, you don’t even know these people who cri
 
 It’s much harder to focus only on the positive comments. In fact, it can be so challenging that some people hire a virtual assistant to filter messages and only show the good ones. You don’t have to manage every email or comment yourself. Let someone else handle the noise, so you can stay motivated by the support you receive.
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBkZWFsaW5nJTIwd2l0aCUyMGNyaXRpY2lzbSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTA1NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Happy Without Letting Haters Decide for You")
-*How to Stay Happy Without Letting Haters Decide for You - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBkZWFsaW5nJTIwd2l0aCUyMGNyaXRpY2lzbSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTA1NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to Stay Happy Without Letting Haters Decide for You" caption="How to Stay Happy Without Letting Haters Decide for You - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 Sometimes, the best thing you can do is take a break. Go on vacation, clear your mind, and stop paying attention to the haters. There will always be critics, especially online. If you let them get to you, they win. But why should you let people you don’t even know decide how you feel or whether you keep chasing your dreams?
 
@@ -38,8 +36,7 @@ Don’t let your dreams fade away because of people you’ll never meet. Focus o
 >
 > — Unknown
 
-![Photo by Negar Nikkhah](https://images.unsplash.com/photo-1737148555294-1221366c8c92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBkZWFsaW5nJTIwd2l0aCUyMGNyaXRpY2lzbSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTA1NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Happy Without Letting Haters Decide for You")
-*How to Stay Happy Without Letting Haters Decide for You - Photo by [Negar Nikkhah](https://unsplash.com/@negakhah) on [Unsplash](https://unsplash.com/photos/a-woman-looking-at-her-reflection-in-a-mirror-1RjZg_7tfWk)*
+{{< figure src="https://images.unsplash.com/photo-1737148555294-1221366c8c92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBkZWFsaW5nJTIwd2l0aCUyMGNyaXRpY2lzbSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTA1NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman looking at her in a mirror" title="How to Stay Happy Without Letting Haters Decide for You" caption="How to Stay Happy Without Letting Haters Decide for You - Photo by [Negar Nikkhah](https://unsplash.com/@negakhah) on [Unsplash](https://unsplash.com/photos/a-woman-looking-at-her-reflection-in-a-mirror-1RjZg_7tfWk)" >}}
 
 ---
 

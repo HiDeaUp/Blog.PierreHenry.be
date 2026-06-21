@@ -12,8 +12,7 @@ original_title = "Le pouvoir d'accomplir et de réaliser de grandes choses, ça 
 source_medium = "https://medium.com/@phenrysay/cf09d26622df"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwdmlzaW9ufGVufDB8MHx8fDE3NTU1MTQyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Own Path by Using Short- and Long-Term Vision")
-*How to Build Your Own Path by Using Short- and Long-Term Vision - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwdmlzaW9ufGVufDB8MHx8fDE3NTU1MTQyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Build Your Own Path by Using Short- and Long-Term Vision" caption="How to Build Your Own Path by Using Short- and Long-Term Vision - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 There’s something special that happens when you keep accomplishing things, no matter how small. The more you do, the more you build the ability to create and shape things that match your vision—both for the near future and the long term.
 
@@ -27,8 +26,7 @@ Every day, ask yourself: what small step can I take to invest in myself? What ca
 
 Take today, for example. The weather’s gloomy, it’s winter, and it’s already getting dark even though it’s only 5 PM. The days are shorter, and it affects what we get done. We’re all impacted by things like the weather and the seasons, whether we realize it or not.
 
-![Photo by Albert Moreno](https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwdmlzaW9ufGVufDB8MHx8fDE3NTU1MTQyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Own Path by Using Short- and Long-Term Vision")
-*How to Build Your Own Path by Using Short- and Long-Term Vision - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)*
+{{< figure src="https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwdmlzaW9ufGVufDB8MHx8fDE3NTU1MTQyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on brown soil" title="How to Build Your Own Path by Using Short- and Long-Term Vision" caption="How to Build Your Own Path by Using Short- and Long-Term Vision - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)" >}}
 
 You could move to another country, or you could stay home and make things cozier. There’s a Danish idea called *hygge*—it’s about creating comfort and warmth, especially when it’s cold and gray outside. Maybe you light a fire, make yourself some homemade hot chocolate, and take a moment just for yourself. These are little rituals that help you disconnect and relax.
 
@@ -50,8 +48,7 @@ So, keep comparing yourself to who you were yesterday, not to others. Step by st
 
 ---
 
-![While out and about at a music festival, snapped this while enjoy some good tunes!](https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwdmlzaW9ufGVufDB8MHx8fDE3NTU1MTQyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Own Path by Using Short- and Long-Term Vision")
-*How to Build Your Own Path by Using Short- and Long-Term Vision - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)*
+{{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGdvYWwlMjBzZXR0aW5nJTIwdmlzaW9ufGVufDB8MHx8fDE3NTU1MTQyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Build Your Own Path by Using Short- and Long-Term Vision" caption="How to Build Your Own Path by Using Short- and Long-Term Vision - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
 ## Key Takeaways
 

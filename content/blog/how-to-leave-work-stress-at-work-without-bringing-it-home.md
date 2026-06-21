@@ -10,8 +10,7 @@ original_title = "Les pensées qui accablent 💥"
 source_medium = "https://medium.com/@phenrysay/41ae1e699e04"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjB3b3JrJTIwc3RyZXNzJTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA3Njd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Leave Work Stress at Work Without Bringing It Home")
-*How to Leave Work Stress at Work Without Bringing It Home - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjB3b3JrJTIwc3RyZXNzJTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA3Njd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Leave Work Stress at Work Without Bringing It Home" caption="How to Leave Work Stress at Work Without Bringing It Home - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 At some point, most of us have felt the weight of our thoughts, especially those tied to work and the past. This mental pressure can be even heavier than the physical demands of a job. It sticks with you, following you home and settling in your mind, even after you’ve left the office.
 
@@ -23,8 +22,7 @@ This mental load becomes even heavier when you’re tired or lacking motivation.
 
 At some point, you have to say STOP. Take a break. Go for a walk. Do something completely different to clear your mind. Even walking in the rain can help. I often walk around my neighborhood in the suburbs of Sydney, and I find that getting outside, even in bad weather, helps me reset.
 
-![Mental Health](https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjB3b3JrJTIwc3RyZXNzJTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA3Njd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Leave Work Stress at Work Without Bringing It Home")
-*How to Leave Work Stress at Work Without Bringing It Home - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)*
+{{< figure src="https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjB3b3JrJTIwc3RyZXNzJTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA3Njd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health" title="How to Leave Work Stress at Work Without Bringing It Home" caption="How to Leave Work Stress at Work Without Bringing It Home - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)" >}}
 
 It’s not easy to ignore criticism or pressure, especially when it feels so real and present. But sometimes, you have to remind yourself that life is precious. It’s not your fault if things aren’t finished at work. The worst that can happen is you might have to leave your job. But if your skills are valuable, you’ll find another position. Even if you’re sponsored for a visa, which can make things more complicated, it also means your expertise is rare and needed.
 
@@ -40,8 +38,7 @@ The most important thing is not to sacrifice your health. Protect yourself. Life
 
 ## Key Takeaways
 
-![Mental Health Matters iPad Lettering Quote](https://images.unsplash.com/photo-1621887348744-6b0444f8a058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjB3b3JrJTIwc3RyZXNzJTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA3Njd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Leave Work Stress at Work Without Bringing It Home")
-*How to Leave Work Stress at Work Without Bringing It Home - Photo by [Emily Underworld](https://unsplash.com/@emilyunderworld) on [Unsplash](https://unsplash.com/photos/a-tablet-with-the-words-mental-health-matters-on-it-Ko3EMBFggok)*
+{{< figure src="https://images.unsplash.com/photo-1621887348744-6b0444f8a058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjB3b3JrJTIwc3RyZXNzJTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA3Njd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health Matters iPad Lettering Quote" title="How to Leave Work Stress at Work Without Bringing It Home" caption="How to Leave Work Stress at Work Without Bringing It Home - Photo by [Emily Underworld](https://unsplash.com/@emilyunderworld) on [Unsplash](https://unsplash.com/photos/a-tablet-with-the-words-mental-health-matters-on-it-Ko3EMBFggok)" >}}
 
 - Mental pressure from work can follow you home and affect your well-being.
 - Negative thoughts often become stronger when you’re tired or unmotivated.

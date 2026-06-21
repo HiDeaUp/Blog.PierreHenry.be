@@ -12,8 +12,7 @@ original_title = "Frustration & Colère : Ce que je fais pour gagner en positivi
 source_medium = "https://medium.com/@phenrysay/e2184330cb64"
 +++
 
-![Photo by Ian Taylor](https://images.unsplash.com/photo-1601363645678-0cbae97abb2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBwb3NpdGl2aXR5JTIwYW5nZXIlMjBjb250cm9sfGVufDB8MHx8fDE3NDk0MTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm When Frustration Hits Without Losing Your Day")
-*How to Stay Calm When Frustration Hits Without Losing Your Day - Photo by [Ian Taylor](https://unsplash.com/@carrier_lost) on [Unsplash](https://unsplash.com/photos/red-and-black-love-print-on-gray-concrete-floor-B5LGz92kaAM)*
+{{< figure src="https://images.unsplash.com/photo-1601363645678-0cbae97abb2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBwb3NpdGl2aXR5JTIwYW5nZXIlMjBjb250cm9sfGVufDB8MHx8fDE3NDk0MTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Red and black love print on gray floor" title="How to Stay Calm When Frustration Hits Without Losing Your Day" caption="How to Stay Calm When Frustration Hits Without Losing Your Day - Photo by [Ian Taylor](https://unsplash.com/@carrier_lost) on [Unsplash](https://unsplash.com/photos/red-and-black-love-print-on-gray-concrete-floor-B5LGz92kaAM)" >}}
 
 Have you ever found yourself getting angry at your computer for no good reason? Just now, I was trying to finish something important, and suddenly my keyboard stopped working. I couldn’t even type my password. You know that feeling: you’re in a hurry, you want to get things done, and suddenly, nothing works. Frustration builds up, you start hitting keys, and you wonder, “Why is this happening to me?”
 
@@ -35,8 +34,7 @@ There’s also the 4-4-4 method, which is even simpler:
 - Hold your breath for 4 seconds.
 - Exhale through your mouth for 4 seconds.
 
-![Photo by Noah Buscher](https://images.unsplash.com/photo-1575914802699-2f46321fac4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBwb3NpdGl2aXR5JTIwYW5nZXIlMjBjb250cm9sfGVufDB8MHx8fDE3NDk0MTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm When Frustration Hits Without Losing Your Day")
-*How to Stay Calm When Frustration Hits Without Losing Your Day - Photo by [Noah Buscher](https://unsplash.com/@noahbuscher) on [Unsplash](https://unsplash.com/photos/womans-face-photograph-txHP_Xkwjeo)*
+{{< figure src="https://images.unsplash.com/photo-1575914802699-2f46321fac4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBwb3NpdGl2aXR5JTIwYW5nZXIlMjBjb250cm9sfGVufDB8MHx8fDE3NDk0MTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Womans face" title="How to Stay Calm When Frustration Hits Without Losing Your Day" caption="How to Stay Calm When Frustration Hits Without Losing Your Day - Photo by [Noah Buscher](https://unsplash.com/@noahbuscher) on [Unsplash](https://unsplash.com/photos/womans-face-photograph-txHP_Xkwjeo)" >}}
 
 Both techniques can change your mood and help you feel better, even when things go wrong.
 
@@ -60,8 +58,7 @@ Instead, I try to invest my time in things that make me feel good. If I wake up 
 
 ## Build Positive Routines
 
-![Photo by Priscilla Du Preez 🇨🇦](https://images.unsplash.com/photo-1573412930091-cc65eb8f537d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBwb3NpdGl2aXR5JTIwYW5nZXIlMjBjb250cm9sfGVufDB8MHx8fDE3NDk0MTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm When Frustration Hits Without Losing Your Day")
-*How to Stay Calm When Frustration Hits Without Losing Your Day - Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-floor-wearing-brown-dress-VzqEavUGnss)*
+{{< figure src="https://images.unsplash.com/photo-1573412930091-cc65eb8f537d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcnVzdHJhdGlvbiUyMG1hbmFnZW1lbnQlMjBwb3NpdGl2aXR5JTIwYW5nZXIlMjBjb250cm9sfGVufDB8MHx8fDE3NDk0MTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on floor wearing brown dress" title="How to Stay Calm When Frustration Hits Without Losing Your Day" caption="How to Stay Calm When Frustration Hits Without Losing Your Day - Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-floor-wearing-brown-dress-VzqEavUGnss)" >}}
 
 There are activities that can help you create the mood you want. For me, having a morning routine, eating well, and doing a bit of exercise make a huge difference. Even if you’ve had a bad start to the day, you can always turn things around by doing something positive.
 

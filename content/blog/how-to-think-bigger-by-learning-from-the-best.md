@@ -12,8 +12,7 @@ original_title = "L’importance de voir GRAND ✈️"
 source_medium = "https://medium.com/@phenrysay/02ca6241db39"
 +++
 
-![Photo by Claudio Schwarz](https://images.unsplash.com/photo-1654525481543-c4621b0bcdb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGJpZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWVudG9yc2hpcHxlbnwwfDB8fHwxNzU2NTE4ODQyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger by Learning From the Best")
-*How to Think Bigger by Learning From the Best - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/a-man-walking-down-a-street-next-to-a-building-5c0U4CY_lwA)*
+{{< figure src="https://images.unsplash.com/photo-1654525481543-c4621b0bcdb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGJpZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWVudG9yc2hpcHxlbnwwfDB8fHwxNzU2NTE4ODQyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man walking down a street next to a" title="How to Think Bigger by Learning From the Best" caption="How to Think Bigger by Learning From the Best - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/a-man-walking-down-a-street-next-to-a-building-5c0U4CY_lwA)" >}}
 
 Have you ever wondered how some people seem to achieve so much more than others? The answer often lies in who they choose to learn from. If you want to move forward faster, you need to draw inspiration from those who are already ahead of you.
 
@@ -23,8 +22,7 @@ Podcasts are another great resource. There are countless shows where experts sha
 
 Imagine this: every morning, you go to your favorite coffee shop. For an hour, you listen, read, or study what these people have done. You break down their methods, adapt them to your own style, and apply them to your life or business. Maybe you’re facing a problem they’ve already solved, or perhaps they tackled something similar in a different field. The important thing is to analyze their approach and see how you can use it for yourself.
 
-![A simple message to dream with shimmery purple and pink glitter bokeh.](https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGJpZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWVudG9yc2hpcHxlbnwwfDB8fHwxNzU2NTE4ODQyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger by Learning From the Best")
-*How to Think Bigger by Learning From the Best - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)*
+{{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGJpZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWVudG9yc2hpcHxlbnwwfDB8fHwxNzU2NTE4ODQyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Think Bigger by Learning From the Best" caption="How to Think Bigger by Learning From the Best - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 
 Think of yourself as an investigator, like those in crime series who dig deep to find the root of a problem. You dissect every detail, looking for clues that can help you move forward. By learning from those who have already faced and overcome similar challenges, you give yourself a real head start.
 
@@ -40,8 +38,7 @@ This approach doesn’t just help your business; it transforms your life. You ga
 
 ---
 
-![Photo by Erik Mclean](https://images.unsplash.com/photo-1618179131227-5a68d699f90a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGJpZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWVudG9yc2hpcHxlbnwwfDB8fHwxNzU2NTE4ODQyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger by Learning From the Best")
-*How to Think Bigger by Learning From the Best - Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn) on [Unsplash](https://unsplash.com/photos/blue-and-black-wooden-signage-ExVMlagS_fE)*
+{{< figure src="https://images.unsplash.com/photo-1618179131227-5a68d699f90a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGJpZyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWVudG9yc2hpcHxlbnwwfDB8fHwxNzU2NTE4ODQyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Blue and black wooden signage" title="How to Think Bigger by Learning From the Best" caption="How to Think Bigger by Learning From the Best - Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn) on [Unsplash](https://unsplash.com/photos/blue-and-black-wooden-signage-ExVMlagS_fE)" >}}
 
 ## Key Takeaways
 - *Learn from those who have already achieved what you want.*

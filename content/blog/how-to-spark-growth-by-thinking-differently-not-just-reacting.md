@@ -12,8 +12,7 @@ original_title = "Réflexion 🤔 Comment ça marche ?"
 source_medium = "https://medium.com/@phenrysay/f55654d84399"
 +++
 
-![Get in the Flow | Instagram: @timmossholder](https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWZsZWN0aW9uJTIwY3JlYXRpdmUlMjB0aGlua2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Growth by Thinking Differently, Not Just Reacting")
-*How to Spark Growth by Thinking Differently, Not Just Reacting - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)*
+{{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWZsZWN0aW9uJTIwY3JlYXRpdmUlMjB0aGlua2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How to Spark Growth by Thinking Differently, Not Just Reacting" caption="How to Spark Growth by Thinking Differently, Not Just Reacting - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 Have you ever noticed how often we talk about “reflexes” and “reflections” as if they’re the same thing? Reflexes are automatic, but reflection is a kind of intellectual reflex—a habit of the mind. It’s what happens when you pause and really think about your actions, your habits, and your path forward.
 
@@ -23,8 +22,7 @@ Maybe your current way of doing things isn’t the simplest, or maybe you need t
 
 One of the best ways to do this is to put yourself in new environments. That’s why travel is so important. When you travel, you see things and cultures you never imagined. You come across societies and business models that are completely new to you. Sometimes, you realize that what works for others could work for you, too.
 
-![Photo by Laura Strele](https://images.unsplash.com/photo-1621242620351-2d850d1709e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWZsZWN0aW9uJTIwY3JlYXRpdmUlMjB0aGlua2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Growth by Thinking Differently, Not Just Reacting")
-*How to Spark Growth by Thinking Differently, Not Just Reacting - Photo by [Laura Strele](https://unsplash.com/@utulinis15) on [Unsplash](https://unsplash.com/photos/pink-flower-on-water-during-daytime-IOgUZYF70Tg)*
+{{< figure src="https://images.unsplash.com/photo-1621242620351-2d850d1709e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWZsZWN0aW9uJTIwY3JlYXRpdmUlMjB0aGlua2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pink flower on water during daytime" title="How to Spark Growth by Thinking Differently, Not Just Reacting" caption="How to Spark Growth by Thinking Differently, Not Just Reacting - Photo by [Laura Strele](https://unsplash.com/@utulinis15) on [Unsplash](https://unsplash.com/photos/pink-flower-on-water-during-daytime-IOgUZYF70Tg)" >}}
 
 Of course, the internet and platforms like YouTube already let you see how others succeed, even if they come from backgrounds similar to yours. That can be motivating. But when you travel, you see the real thing. You meet people face-to-face, and that changes everything.
 
@@ -44,8 +42,7 @@ Sometimes, it feels like there’s a wall in front of you. Don’t get obsessed 
 
 ---
 
-![Photo by Nguyễn Hiệp](https://images.unsplash.com/photo-1654694922309-eb16330c339e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWZsZWN0aW9uJTIwY3JlYXRpdmUlMjB0aGlua2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Growth by Thinking Differently, Not Just Reacting")
-*How to Spark Growth by Thinking Differently, Not Just Reacting - Photo by [Nguyễn Hiệp](https://unsplash.com/@hieptltb97) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-succulent-in-a-bowl-lfRrL-LbUuk)*
+{{< figure src="https://images.unsplash.com/photo-1654694922309-eb16330c339e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWZsZWN0aW9uJTIwY3JlYXRpdmUlMjB0aGlua2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a in a bowl lfRrL LbUuk" title="How to Spark Growth by Thinking Differently, Not Just Reacting" caption="How to Spark Growth by Thinking Differently, Not Just Reacting - Photo by [Nguyễn Hiệp](https://unsplash.com/@hieptltb97) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-succulent-in-a-bowl-lfRrL-LbUuk)" >}}
 
 ## Key Takeaways
 

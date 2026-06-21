@@ -12,8 +12,7 @@ original_title = "Vie KIFFANTE, tout en voyageant? Facile ou Challengeant ?"
 source_medium = "https://medium.com/@phenrysay/9e34b11ed0e5"
 +++
 
-![Window](https://images.unsplash.com/photo-1513129122974-8fe3dbb14b72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBsaWZlc3R5bGUlMjBzaW1wbGljaXR5fGVufDB8MHx8fDE3NTU1NzczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Travel Light and Find Joy Without the Stress")
-*How to Travel Light and Find Joy Without the Stress - Photo by [Pop & Zebra](https://unsplash.com/@popnzebra) on [Unsplash](https://unsplash.com/photos/gray-steel-container-on-window-with-teal-paint-NZrEKEUbn8Y)*
+{{< figure src="https://images.unsplash.com/photo-1513129122974-8fe3dbb14b72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBsaWZlc3R5bGUlMjBzaW1wbGljaXR5fGVufDB8MHx8fDE3NTU1NzczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Window" title="How to Travel Light and Find Joy Without the Stress" caption="How to Travel Light and Find Joy Without the Stress - Photo by [Pop & Zebra](https://unsplash.com/@popnzebra) on [Unsplash](https://unsplash.com/photos/gray-steel-container-on-window-with-teal-paint-NZrEKEUbn8Y)" >}}
 
 Traveling brings a mix of excitement and a bit of fear, especially when you step into new environments. Right now, I’m in Kuala Lumpur, Malaysia, just passing through the airport before heading to Thailand, and soon after, Vietnam. Even though I’ve been to Malaysia before, every trip feels fresh. The thrill of moving from one place to another never really fades.
 
@@ -27,8 +26,7 @@ Here’s what works for me: as soon as I board the plane, I set my watch and my 
 
 Sometimes, you get lucky with an empty flight. On my last trip, there were so few people that I could stretch out across several seats and actually sleep. It’s not first class, but it does the job. I flew with AirAsia—no meals included in economy, but for a short flight, it’s fine.
 
-![Palm trees along the South Carolina Coast in Hilton Head. 3 palms trees dotting the vast beach scape. Black and white photography.](https://images.unsplash.com/photo-1678029658370-cb550ec3f31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0cmF2ZWwlMjBsaWZlc3R5bGUlMjBzaW1wbGljaXR5fGVufDB8MHx8fDE3NTU1NzczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Travel Light and Find Joy Without the Stress")
-*How to Travel Light and Find Joy Without the Stress - Photo by [Xenia Zach](https://unsplash.com/@xenia_zach) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-palm-trees-QbcrqMZJbUI)*
+{{< figure src="https://images.unsplash.com/photo-1678029658370-cb550ec3f31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0cmF2ZWwlMjBsaWZlc3R5bGUlMjBzaW1wbGljaXR5fGVufDB8MHx8fDE3NTU1NzczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Palm trees along the South Carolina Coast in Hilton Head. 3 palms trees dotting the vast beach scape. Black and white photography." title="How to Travel Light and Find Joy Without the Stress" caption="How to Travel Light and Find Joy Without the Stress - Photo by [Xenia Zach](https://unsplash.com/@xenia_zach) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-palm-trees-QbcrqMZJbUI)" >}}
 
 But beyond these practical tips, there’s a deeper lesson: we often make life harder than it needs to be. We worry about things that haven’t even happened yet. The future doesn’t exist—what matters is being present, right now. This shift in thinking changes everything. Instead of stressing about what’s next, ask yourself: what can I do today? How can I make my life better now?
 
@@ -55,8 +53,7 @@ We all have our strengths. It’s much harder to get better at something you’r
 - Invest your time in what you do best—the 20% that brings 80% of your results.
 - Don’t complicate life; simplicity is powerful.
 
-![Beach Vacation Packing](https://images.unsplash.com/photo-1414408718521-f6f6198e9917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0cmF2ZWwlMjBsaWZlc3R5bGUlMjBzaW1wbGljaXR5fGVufDB8MHx8fDE3NTU1NzczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Travel Light and Find Joy Without the Stress")
-*How to Travel Light and Find Joy Without the Stress - Photo by [Thomas Martinsen](https://unsplash.com/@faceline) on [Unsplash](https://unsplash.com/photos/travel-items-flat-lay-photography-CrnALaUMSA4)*
+{{< figure src="https://images.unsplash.com/photo-1414408718521-f6f6198e9917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0cmF2ZWwlMjBsaWZlc3R5bGUlMjBzaW1wbGljaXR5fGVufDB8MHx8fDE3NTU1NzczNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Beach Vacation Packing" title="How to Travel Light and Find Joy Without the Stress" caption="How to Travel Light and Find Joy Without the Stress - Photo by [Thomas Martinsen](https://unsplash.com/@faceline) on [Unsplash](https://unsplash.com/photos/travel-items-flat-lay-photography-CrnALaUMSA4)" >}}
 
 ---
 

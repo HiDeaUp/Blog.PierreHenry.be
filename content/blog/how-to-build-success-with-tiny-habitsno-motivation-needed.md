@@ -12,8 +12,7 @@ original_title = "Les clés du succès 🏆 Méthode Express 🚀"
 source_medium = "https://medium.com/@phenrysay/d8b5414af087"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695473507874-2bea519874a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBkaXNjaXBsaW5lfGVufDB8MHx8fDE3NTY1MjA3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success With Tiny Habits—No Motivation Needed")
-*How to Build Success With Tiny Habits—No Motivation Needed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-A3vKpNZptp8)*
+{{< figure src="https://images.unsplash.com/photo-1695473507874-2bea519874a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBkaXNjaXBsaW5lfGVufDB8MHx8fDE3NTY1MjA3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a piece of paper on it" title="How to Build Success With Tiny Habits—No Motivation Needed" caption="How to Build Success With Tiny Habits—No Motivation Needed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-A3vKpNZptp8)" >}}
 
 Success is not a sudden leap. It’s a slow, steady climb—one small step after another. Think of it as granular progress: you move forward bit by bit, each step building on the last, until you finally reach your goal. This approach may sound simple, but it demands effort and daily discipline. There will be days when you’re tired, days when you feel like skipping your routine, and days when you want to give up entirely. That’s why the most important thing is to build regularity into your life.
 
@@ -25,8 +24,7 @@ This works for everything, even chores. If I look at my apartment and think abou
 
 Another crucial point: nourish yourself well—both your body and your mind. Eating healthy, light meals gives you more energy and helps you get more done. The same goes for what you feed your brain. Avoid negative news and toxic information. Instead, fill your mind with things that lift you up. I love listening to audiobooks and motivational talks. They give me energy and new ideas. Surround yourself with people and content that raise your standards and inspire you to grow.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBkaXNjaXBsaW5lfGVufDB8MHx8fDE3NTY1MjA3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success With Tiny Habits—No Motivation Needed")
-*How to Build Success With Tiny Habits—No Motivation Needed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBkaXNjaXBsaW5lfGVufDB8MHx8fDE3NTY1MjA3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Build Success With Tiny Habits—No Motivation Needed" caption="How to Build Success With Tiny Habits—No Motivation Needed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Reward yourself, too. After finishing a task, treat yourself to something you enjoy, like a swim or a good coffee. These small rewards make the process enjoyable and help you stay consistent.
 
@@ -49,8 +47,7 @@ Visualizing your goals is also powerful. Create a vision board or put up a poste
 - *Reward yourself to make progress enjoyable.*
 - *Visualize your goals to stay focused.*
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBkaXNjaXBsaW5lfGVufDB8MHx8fDE3NTY1MjA3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Success With Tiny Habits—No Motivation Needed")
-*How to Build Success With Tiny Habits—No Motivation Needed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwZGFpbHklMjBkaXNjaXBsaW5lfGVufDB8MHx8fDE3NTY1MjA3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Build Success With Tiny Habits—No Motivation Needed" caption="How to Build Success With Tiny Habits—No Motivation Needed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
 ## Action Steps
 

@@ -12,8 +12,7 @@ original_title = "On peut tous réussir. Il suffit de le vouloir …"
 source_medium = "https://medium.com/@phenrysay/e641e4e13636"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NjU2OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Your Dreams Without Waiting for the Perfect Time")
-*How to Achieve Your Dreams Without Waiting for the Perfect Time - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NjU2OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Achieve Your Dreams Without Waiting for the Perfect Time" caption="How to Achieve Your Dreams Without Waiting for the Perfect Time - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever stopped to realize that what you can achieve goes far beyond what you can imagine? Everything is possible, as long as you truly want it. If you have a goal that matters to you, if it’s your passion, your life, the thing you can’t stop thinking about, then you need to let it become your obsession.
 
@@ -25,8 +24,7 @@ If you’re not sure whether your idea is good or not, do it anyway. Otherwise, 
 
 Don’t spend your life trying to impress people you don’t even like. So many of us do things—study a subject, buy a fancy car, choose a career—just to look good in the eyes of others, whether it’s our parents, family, or colleagues. But if that thing doesn’t interest you, what’s the point? If you know deep down that something is your dream, your investment, and you’re proud of it, do it for yourself. But if you’re only doing it to impress others, stop. Why spend money or time for people you don’t care about? Society pushes us to do things for appearances, but it’s much better to stay true to yourself.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NjU2OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Your Dreams Without Waiting for the Perfect Time")
-*How to Achieve Your Dreams Without Waiting for the Perfect Time - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NjU2OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Achieve Your Dreams Without Waiting for the Perfect Time" caption="How to Achieve Your Dreams Without Waiting for the Perfect Time - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 If you’re happy, passionate, and listening to yourself, you’ll naturally become charismatic. That’s what inspires others. Being yourself is the only way to follow the right path for your life.
 
@@ -50,8 +48,7 @@ There’s a saying: *If the road is beautiful, don’t ask where it leads. Just 
 - Take action, even if you’re unsure. Mistakes teach more than inaction.
 - Reflect on your days, learn, and improve. That’s how you build a life you love.
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NjU2OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Your Dreams Without Waiting for the Perfect Time")
-*How to Achieve Your Dreams Without Waiting for the Perfect Time - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NjU2OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Achieve Your Dreams Without Waiting for the Perfect Time" caption="How to Achieve Your Dreams Without Waiting for the Perfect Time - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 ## Action Steps
 

@@ -12,8 +12,7 @@ original_title = "Comment se mettre à l’action ? 🏃‍♂️"
 source_medium = "https://medium.com/@phenrysay/13c9861580c2"
 +++
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0YWtpbmclMjBhY3Rpb24lMjBtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MzI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Anything Without Waiting for the Perfect Moment")
-*How to Start Anything Without Waiting for the Perfect Moment - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0YWtpbmclMjBhY3Rpb24lMjBtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MzI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Start Anything Without Waiting for the Perfect Moment" caption="How to Start Anything Without Waiting for the Perfect Moment - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Taking action is often the hardest step. We all have dreams, projects, or trips we want to start, but we keep waiting for the “right moment.” Maybe you want to write a page of your book, book a flight to Bali or Costa Rica, start coding a new app, or launch a web3 project. The list goes on. The truth is, the perfect moment never comes. There’s always a reason to wait, to postpone, to tell yourself you’ll do it tomorrow.
 
@@ -23,8 +22,7 @@ There’s a Chinese proverb that says the best time to plant a tree was twenty y
 
 I’m writing my book as I speak, using my Freewrite device. It’s a great tool, but what matters most is that I’m doing it. What about you? What do you want to achieve? Maybe you’re still searching for your passion. Here’s a tip: think back to what you loved doing between the ages of 8 and 13, before you were influenced by classmates or the pressure to fit in. What did you enjoy in your free time? Did you love playing with toys, building things, or collecting items?
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0YWtpbmclMjBhY3Rpb24lMjBtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MzI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Anything Without Waiting for the Perfect Moment")
-*How to Start Anything Without Waiting for the Perfect Moment - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0YWtpbmclMjBhY3Rpb24lMjBtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MzI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Start Anything Without Waiting for the Perfect Moment" caption="How to Start Anything Without Waiting for the Perfect Moment - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
 For example, I loved my pirate ship and Playmobil toys. I collected them, and if I were still looking for a passion, I could sell collectible Playmobil sets on Shopify or another e-commerce platform. That could become a new hobby. Or, since I’m a developer, I could create Playmobil-themed games, even if it sounds a bit old-fashioned. If you like board games, maybe you could turn that into a web3 app. The point is, you can mix what you loved as a child with what you know now, and suddenly, you have a new idea.
 
@@ -40,8 +38,7 @@ So, if you’re searching for your passion, look at what you enjoyed before you 
 
 ## Key Takeaways
 
-![Photo by Amr Taha™](https://images.unsplash.com/photo-1679601613231-96ac28d7c661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0YWtpbmclMjBhY3Rpb24lMjBtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MzI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Anything Without Waiting for the Perfect Moment")
-*How to Start Anything Without Waiting for the Perfect Moment - Photo by [Amr Taha™](https://unsplash.com/@amr_taha) on [Unsplash](https://unsplash.com/photos/a-desk-with-a-keyboard-mouse-and-monitor-on-it-gfzBA9LO5dg)*
+{{< figure src="https://images.unsplash.com/photo-1679601613231-96ac28d7c661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0YWtpbmclMjBhY3Rpb24lMjBtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MzI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A desk with a mouse and monitor on it" title="How to Start Anything Without Waiting for the Perfect Moment" caption="How to Start Anything Without Waiting for the Perfect Moment - Photo by [Amr Taha™](https://unsplash.com/@amr_taha) on [Unsplash](https://unsplash.com/photos/a-desk-with-a-keyboard-mouse-and-monitor-on-it-gfzBA9LO5dg)" >}}
 
 - *There is no perfect moment to start—begin now.*
 - *Create a point of no return to commit yourself.*

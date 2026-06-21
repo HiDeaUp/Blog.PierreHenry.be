@@ -12,8 +12,7 @@ original_title = "Tout est possible: La vie est la tienne !"
 source_medium = "https://medium.com/@phenrysay/b7e25427b713"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU3NDYyNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Anything Without Setting Limits on Yourself")
-*How to Achieve Anything Without Setting Limits on Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU3NDYyNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Achieve Anything Without Setting Limits on Yourself" caption="How to Achieve Anything Without Setting Limits on Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever stopped to consider that the only thing truly holding you back is yourself? The idea that everything is possible isn’t just a catchy phrase—it’s a reality waiting for you to claim it. Whenever you feel the urge to achieve something, remember: the only limits that exist are the ones you impose on yourself. There are no other barriers. You can accomplish anything you dream of, and you are capable of so much more than you think.
 
@@ -23,8 +22,7 @@ If you want something deeply, you can achieve it. There is always a solution. Ev
 
 When you start building the life of your dreams, you need to visualize your final goal. Picture your life exactly as you want it to be. Take a moment to clear your mind and imagine your dream life. You don’t need to be a monk to do this—just find a quiet space and let your imagination run free. Once you have that vision, make a plan to reach it. Imagine yourself already living that dream, then work backwards step by step to see what you need to do to get there.
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU3NDYyNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Anything Without Setting Limits on Yourself")
-*How to Achieve Anything Without Setting Limits on Yourself - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)*
+{{< figure src="https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU3NDYyNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word next to blue flowers" title="How to Achieve Anything Without Setting Limits on Yourself" caption="How to Achieve Anything Without Setting Limits on Yourself - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)" >}}
 
 There’s a quote I love from Martin Luther King Jr.:  
 > *You don’t have to see the whole staircase, just take the first step.*  
@@ -42,8 +40,7 @@ Think of an ant. When it hits an obstacle, it doesn’t keep banging its head ag
 > *If you want it, you can do it. You just have to want it.*  
 — Pierre
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU3NDYyNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Anything Without Setting Limits on Yourself")
-*How to Achieve Anything Without Setting Limits on Yourself - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU3NDYyNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Achieve Anything Without Setting Limits on Yourself" caption="How to Achieve Anything Without Setting Limits on Yourself - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 ---
 

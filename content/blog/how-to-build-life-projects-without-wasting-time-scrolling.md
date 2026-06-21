@@ -12,8 +12,7 @@ original_title = "Comment construire des projets de vie pour RÉUSSIR VITE 🚊
 source_medium = "https://medium.com/@phenrysay/153de884fac3"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbG9uZy10ZXJtJTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NTQxNzQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Life Projects Without Wasting Time Scrolling")
-*How to Build Life Projects Without Wasting Time Scrolling - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbG9uZy10ZXJtJTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NTQxNzQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Build Life Projects Without Wasting Time Scrolling" caption="How to Build Life Projects Without Wasting Time Scrolling - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Have you ever come home after a long day—whether you’re a student, an employee, living with family, a partner, roommates, or even alone—and found yourself wondering, “What should I do now?” Maybe you end up scrolling online, picking up bits of knowledge here and there. But if you don’t actually use what you learn, it just fades away. You might enjoy the moment, but will you remember any of it years from now? Probably not.
 
@@ -29,8 +28,7 @@ This is why I always have a long-term project on the go. It gives me something t
 >
 > — Warren Buffett
 
-![Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background](https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbG9uZy10ZXJtJTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NTQxNzQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Life Projects Without Wasting Time Scrolling")
-*How to Build Life Projects Without Wasting Time Scrolling - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)*
+{{< figure src="https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbG9uZy10ZXJtJTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NTQxNzQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background" title="How to Build Life Projects Without Wasting Time Scrolling" caption="How to Build Life Projects Without Wasting Time Scrolling - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)" >}}
 
 I use tools to help me stay on track. For example, I use dictation on my phone to quickly jot down ideas, or apps like Meal Snap to track what I eat. It’s like a food journal, but for your life. I also keep a “now” page on my website, where I share what I’m working on at the moment. It keeps me accountable and helps me see my own progress.
 
@@ -50,8 +48,7 @@ So my suggestion is simple: start a long-term project. Begin today. Even if you 
 
 ## Key Takeaways
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506064-9da2afbbc6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbG9uZy10ZXJtJTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NTQxNzQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Life Projects Without Wasting Time Scrolling")
-*How to Build Life Projects Without Wasting Time Scrolling - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-writing-on-it-A43t7VD3ZAA)*
+{{< figure src="https://images.unsplash.com/photo-1689896506064-9da2afbbc6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZ29hbHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbG9uZy10ZXJtJTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NTQxNzQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a piece of paper with writing on it" title="How to Build Life Projects Without Wasting Time Scrolling" caption="How to Build Life Projects Without Wasting Time Scrolling - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-writing-on-it-A43t7VD3ZAA)" >}}
 
 - *Having a long-term project gives your life direction and purpose.*
 - *Learning is only useful if you put it into action.*

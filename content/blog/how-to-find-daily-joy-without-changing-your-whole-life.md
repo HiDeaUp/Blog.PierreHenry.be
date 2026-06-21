@@ -12,8 +12,7 @@ original_title = "Quelles sont les choses quotidiennes qui rendent heureuses ?"
 source_medium = "https://medium.com/@phenrysay/04af0c4a706b"
 +++
 
-![Don't Worry Be Happy](https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1OTk3ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy Without Changing Your Whole Life")
-*How to Find Daily Joy Without Changing Your Whole Life - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)*
+{{< figure src="https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1OTk3ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Don't Worry Be Happy" title="How to Find Daily Joy Without Changing Your Whole Life" caption="How to Find Daily Joy Without Changing Your Whole Life - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)" >}}
 
 If there’s one thing that keeps life interesting, it’s having a long-term vision. Thinking ahead and having one, two, or even three ongoing projects is a real game changer. Alternating between different projects is important. It keeps you awake, curious, and always searching for new things that bring you joy.
 
@@ -25,8 +24,7 @@ Another benefit is gratitude. When you work on a project and see it progress, yo
 
 Alternating between passion projects is a great way to keep things fresh. I encourage you to grab a notebook and jot down ten or twenty project ideas. Pick two or three to start with. Sometimes, the best ideas aren’t obvious. Ask your family what you loved doing when you were ten, eleven, or twelve. Before adolescence, we’re less influenced by others and more in touch with what truly makes us happy.
 
-![Photo by Divani](https://images.unsplash.com/photo-1599893326319-fdc6782b79d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1OTk3ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy Without Changing Your Whole Life")
-*How to Find Daily Joy Without Changing Your Whole Life - Photo by [Divani](https://unsplash.com/@heydivani) on [Unsplash](https://unsplash.com/photos/yellow-and-black-smiley-emoji-pillow-HAwDdAi6Fho)*
+{{< figure src="https://images.unsplash.com/photo-1599893326319-fdc6782b79d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1OTk3ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow and black smiley emoji pillow" title="How to Find Daily Joy Without Changing Your Whole Life" caption="How to Find Daily Joy Without Changing Your Whole Life - Photo by [Divani](https://unsplash.com/@heydivani) on [Unsplash](https://unsplash.com/photos/yellow-and-black-smiley-emoji-pillow-HAwDdAi6Fho)" >}}
 
 For example, when I was a kid, I loved playing with Playmobil. I still have a little Playmobil figure on my desk. Now, I could sell collectible Playmobil sets online, join a community of collectors, or even make a short film with them. These activities bring back wonderful memories from childhood.
 
@@ -46,9 +44,7 @@ Sometimes, your passion doesn’t have to be productive or profitable. Maybe you
 
 ## Key Takeaways
 
-![Daily motivation in the office - Do more of what makes you happy!
-](https://images.unsplash.com/photo-1650513737590-4a00deeddc7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1OTk3ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy Without Changing Your Whole Life")
-*How to Find Daily Joy Without Changing Your Whole Life - Photo by [dlxmedia.hu](https://unsplash.com/@dlxmedia) on [Unsplash](https://unsplash.com/photos/a-white-shelf-with-a-black-and-white-poster-and-a-potted-plant-52AgXRhDaPI)*
+{{< figure src="https://images.unsplash.com/photo-1650513737590-4a00deeddc7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHdlbGxiZWluZ3xlbnwwfDB8fHwxNzU1OTk3ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Daily motivation in the office - Do more of what makes you happy!" title="How to Find Daily Joy Without Changing Your Whole Life" caption="How to Find Daily Joy Without Changing Your Whole Life - Photo by [dlxmedia.hu](https://unsplash.com/@dlxmedia) on [Unsplash](https://unsplash.com/photos/a-white-shelf-with-a-black-and-white-poster-and-a-potted-plant-52AgXRhDaPI)" >}}
 
 - *Having 2–3 ongoing passion projects keeps life interesting and boosts happiness.*
 - *Dedicate a small amount of time each day to activities you love.*

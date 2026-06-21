@@ -12,8 +12,7 @@ original_title = "Évolution constante de ses compétences"
 source_medium = "https://medium.com/@phenrysay/722e2e9b13e0"
 +++
 
-![Photo by Miguel Constantin Montes](https://images.unsplash.com/photo-1482830033991-8eaa49b6cde4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2tpbGwlMjBpbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Skills Every Day Without Feeling Overwhelmed")
-*How to Grow Your Skills Every Day Without Feeling Overwhelmed - Photo by [Miguel Constantin Montes](https://unsplash.com/@createwithconstantin) on [Unsplash](https://unsplash.com/photos/man-sitting-on-swing-oMvlBxrGp_4)*
+{{< figure src="https://images.unsplash.com/photo-1482830033991-8eaa49b6cde4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2tpbGwlMjBpbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man sitting on swing" title="How to Grow Your Skills Every Day Without Feeling Overwhelmed" caption="How to Grow Your Skills Every Day Without Feeling Overwhelmed - Photo by [Miguel Constantin Montes](https://unsplash.com/@createwithconstantin) on [Unsplash](https://unsplash.com/photos/man-sitting-on-swing-oMvlBxrGp_4)" >}}
 
 Each morning brings a fresh opportunity to learn, create, and invest in yourself. Progress is not about giant leaps, but about the steady continuity of small actions. Whether you’re starting your day with a new book, a new project, or simply a new idea, every single day is a chance to move forward.
 
@@ -21,8 +20,7 @@ Take today, for example. It’s Thursday, June 13th. I decided to read a chapter
 
 It’s easy to get caught up in pretty pictures or catchy headlines, but the real value comes from asking, “What can I learn from this? Is this useful? How does it help me grow?” After consuming any content, take a moment to reflect. Write down what you’ve learned. This could be on sticky notes, a tablet, or wherever you like. The important thing is to capture the key points and see how they fit into your bigger picture.
 
-![Shift Happens](https://images.unsplash.com/photo-1578048421563-9aa187e12baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2tpbGwlMjBpbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Skills Every Day Without Feeling Overwhelmed")
-*How to Grow Your Skills Every Day Without Feeling Overwhelmed - Photo by [SOULSANA](https://unsplash.com/@soulsana) on [Unsplash](https://unsplash.com/photos/scrabble-chips-forming-shift-happens-word-near-white-feather-V5DBwOOv0bo)*
+{{< figure src="https://images.unsplash.com/photo-1578048421563-9aa187e12baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2tpbGwlMjBpbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Shift Happens" title="How to Grow Your Skills Every Day Without Feeling Overwhelmed" caption="How to Grow Your Skills Every Day Without Feeling Overwhelmed - Photo by [SOULSANA](https://unsplash.com/@soulsana) on [Unsplash](https://unsplash.com/photos/scrabble-chips-forming-shift-happens-word-near-white-feather-V5DBwOOv0bo)" >}}
 
 For instance, when I’m working as a product owner, I might read a book about writing better user stories or organizing tasks in Jira, a tool that uses Agile and Kanban methods. Even if I only read a single page or spend just 10 to 15 minutes, I make it a habit to jot down what I’ve learned. This daily review helps me keep track of my progress and see where I can improve.
 
@@ -36,8 +34,7 @@ Improvement is a slow, steady process. By repeating these small steps, you becom
 > *“The journey of a thousand miles begins with a single step.”*  
 — Lao Tzu
 
-![Man in silhouette skipping rocks at sunset on the beach](https://images.unsplash.com/photo-1646270719264-2d29b44e0bea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2tpbGwlMjBpbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Skills Every Day Without Feeling Overwhelmed")
-*How to Grow Your Skills Every Day Without Feeling Overwhelmed - Photo by [Megs Harrison](https://unsplash.com/@mharrisonphotography) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-throwing-a-frisbee-at-sunset-NrHU5Em3K7U)*
+{{< figure src="https://images.unsplash.com/photo-1646270719264-2d29b44e0bea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2tpbGwlMjBpbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in silhouette skipping rocks at sunset on the beach" title="How to Grow Your Skills Every Day Without Feeling Overwhelmed" caption="How to Grow Your Skills Every Day Without Feeling Overwhelmed - Photo by [Megs Harrison](https://unsplash.com/@mharrisonphotography) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-throwing-a-frisbee-at-sunset-NrHU5Em3K7U)" >}}
 
 ---
 

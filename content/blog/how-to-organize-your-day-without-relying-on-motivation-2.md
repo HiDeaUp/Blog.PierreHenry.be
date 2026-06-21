@@ -12,8 +12,7 @@ original_title = "Simplifie ta vie : Les clés d'une organisation quotidienne e
 source_medium = "https://medium.com/@phenrysay/7e759822d4f3"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMG9yZ2FuaXphdGlvbiUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTE5NTI4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Day Without Relying on Motivation")
-*How to Organize Your Day Without Relying on Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMG9yZ2FuaXphdGlvbiUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTE5NTI4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Organize Your Day Without Relying on Motivation" caption="How to Organize Your Day Without Relying on Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever felt like your days slip through your fingers, with your plans scattered and your goals left unfinished? The truth is, most of us struggle not because we lack ambition, but because we haven’t given our days a clear structure. The secret isn’t in working harder or waiting for motivation to strike—it’s about building habits and routines that guide you, step by step, through what matters most.
 
@@ -27,8 +26,7 @@ If your home environment isn’t ideal—maybe your family is still asleep, or i
 
 After your first important task, have a light breakfast so you don’t slow yourself down. Then move on to your second and third tasks. If you have a regular job, dedicate your time to that. If you’re a freelancer or contractor, organize your work in the same structured way. The key is to follow your plan, one step at a time, so your habits become part of your day.
 
-![Photo by Mille Sanders](https://images.unsplash.com/photo-1553034710-47f9e03ff808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMG9yZ2FuaXphdGlvbiUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTE5NTI4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Day Without Relying on Motivation")
-*How to Organize Your Day Without Relying on Motivation - Photo by [Mille Sanders](https://unsplash.com/@millesanders) on [Unsplash](https://unsplash.com/photos/white-calendar-oWpartNqAnM)*
+{{< figure src="https://images.unsplash.com/photo-1553034710-47f9e03ff808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMG9yZ2FuaXphdGlvbiUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTE5NTI4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White" title="How to Organize Your Day Without Relying on Motivation" caption="How to Organize Your Day Without Relying on Motivation - Photo by [Mille Sanders](https://unsplash.com/@millesanders) on [Unsplash](https://unsplash.com/photos/white-calendar-oWpartNqAnM)" >}}
 
 This approach changes everything. When your day is well-structured, you don’t have to rely on motivation—which comes and goes. Instead, you rely on habits, which stick around. Motivation is fleeting, but habits last.
 
@@ -48,8 +46,7 @@ So, how can you make it easier to wake up early, even when it’s cold and dark?
 
 The real magic happens when you stop relying on bursts of motivation and instead build habits that carry you through, even on tough days. Habits are your safety net—they keep you moving forward, no matter what.
 
-![Social Media content planning on a white board](https://images.unsplash.com/photo-1676276375581-da33fe6d1c8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMG9yZ2FuaXphdGlvbiUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTE5NTI4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Day Without Relying on Motivation")
-*How to Organize Your Day Without Relying on Motivation - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-zn0JDwLujfA)*
+{{< figure src="https://images.unsplash.com/photo-1676276375581-da33fe6d1c8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMG9yZ2FuaXphdGlvbiUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NTE5NTI4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Social Media content planning on a white board" title="How to Organize Your Day Without Relying on Motivation" caption="How to Organize Your Day Without Relying on Motivation - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-zn0JDwLujfA)" >}}
 
 ---
 

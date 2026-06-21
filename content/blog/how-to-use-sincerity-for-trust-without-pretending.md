@@ -12,8 +12,7 @@ original_title = "Pourquoi la sincérité compte ?"
 source_medium = "https://medium.com/@phenrysay/20c9b099c9ea"
 +++
 
-![Photo by Wolfgang Hasselmann](https://images.unsplash.com/photo-1551713293-c97632294f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW5jZXJpdHklMjBhdXRoZW50aWNpdHklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEwMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Sincerity for Trust Without Pretending")
-*How to Use Sincerity for Trust Without Pretending - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-petaled-flower-in-selective-focus-photography-R5xy3c7KN94)*
+{{< figure src="https://images.unsplash.com/photo-1551713293-c97632294f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW5jZXJpdHklMjBhdXRoZW50aWNpdHklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEwMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow petaled flower in focus" title="How to Use Sincerity for Trust Without Pretending" caption="How to Use Sincerity for Trust Without Pretending - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-petaled-flower-in-selective-focus-photography-R5xy3c7KN94)" >}}
 
 Sincerity is one of those rare qualities that can completely change the way people see you and the way you move through life. When you are sincere, others know they can count on you. If you are always honest, people trust you. But if you are not, or if you say things that turn out to be false, people start to doubt you. They doubt your words, your intentions, and even your ability to be trusted.
 
@@ -25,8 +24,7 @@ Mental clutter is another hidden cost. When you are not sincere, your mind is bu
 
 When you have secrets or things you want to keep hidden, you always worry they will come out. You might hesitate to take certain actions or share information, and that hesitation can hold you back from opportunities. But when you are transparent, when you show both your good and not-so-good sides, you move forward much faster. That’s the real difference sincerity makes.
 
-![Photo by Dawn Lio](https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW5jZXJpdHklMjBhdXRoZW50aWNpdHklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEwMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Sincerity for Trust Without Pretending")
-*How to Use Sincerity for Trust Without Pretending - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)*
+{{< figure src="https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW5jZXJpdHklMjBhdXRoZW50aWNpdHklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEwMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden log with yellow flower" title="How to Use Sincerity for Trust Without Pretending" caption="How to Use Sincerity for Trust Without Pretending - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)" >}}
 
 I suggest being honest with yourself and with those around you. You can use storytelling to make your message more engaging, but never lie about what you have done. Storytelling is about how you present your story, not about inventing things. Think of it like wrapping a candy: the wrapper might be pretty, but the candy is still what it is. The important thing is not to lie about your actions or your past.
 
@@ -46,8 +44,7 @@ In the end, sincerity always pays off, especially in the long run. If you are no
 >
 > — Russian Proverb
 
-![Photo by Wolfgang Hasselmann](https://images.unsplash.com/photo-1580560745423-9a5bdf56849f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW5jZXJpdHklMjBhdXRoZW50aWNpdHklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEwMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Sincerity for Trust Without Pretending")
-*How to Use Sincerity for Trust Without Pretending - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-flower-in-tilt-shift-lens-eaed-WStU3M)*
+{{< figure src="https://images.unsplash.com/photo-1580560745423-9a5bdf56849f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW5jZXJpdHklMjBhdXRoZW50aWNpdHklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEwMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow flower in tilt shift lens eaed WStU3M" title="How to Use Sincerity for Trust Without Pretending" caption="How to Use Sincerity for Trust Without Pretending - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-flower-in-tilt-shift-lens-eaed-WStU3M)" >}}
 
 ---
 

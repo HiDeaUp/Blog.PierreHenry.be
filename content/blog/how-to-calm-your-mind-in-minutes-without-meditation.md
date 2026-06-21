@@ -12,8 +12,7 @@ original_title = "Les pauses anti-stress 😊"
 source_medium = "https://medium.com/@phenrysay/ed337ff7198e"
 +++
 
-![Photo by Marie-Michèle Bouchard](https://images.unsplash.com/photo-1614616486127-3fd54d3114c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjByZWxpZWYlMjBtZW50YWwlMjBoZWFsdGglMjByZWxheGF0aW9uJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU2NTI4NDg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Calm Your Mind in Minutes Without Meditation")
-*How to Calm Your Mind in Minutes Without Meditation - Photo by [Marie-Michèle Bouchard](https://unsplash.com/@minusculemarie) on [Unsplash](https://unsplash.com/photos/girl-in-white-long-sleeve-shirt-lying-on-bed-HmkLA5djW14)*
+{{< figure src="https://images.unsplash.com/photo-1614616486127-3fd54d3114c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjByZWxpZWYlMjBtZW50YWwlMjBoZWFsdGglMjByZWxheGF0aW9uJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU2NTI4NDg5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Girl in white long sleeve shirt lying on bed" title="How to Calm Your Mind in Minutes Without Meditation" caption="How to Calm Your Mind in Minutes Without Meditation - Photo by [Marie-Michèle Bouchard](https://unsplash.com/@minusculemarie) on [Unsplash](https://unsplash.com/photos/girl-in-white-long-sleeve-shirt-lying-on-bed-HmkLA5djW14)" >}}
 
 Stress can sneak up on us at the worst times: right before a big meeting, an important job interview, or an exam. Often, we’re not sure how to handle it. But there’s a simple solution—anti-stress breaks. These are moments you give yourself when you feel tension rising. Just like anxiety, stress can only build up so much before it naturally comes down. The trick is to pause before it gets too high or stays too long.
 
@@ -31,18 +30,7 @@ Don’t put pressure on yourself. The goal is to let go, not to add more stress.
 
 Breathing is natural. No one can tell you not to breathe. Relaxation is just as important. If you haven’t made it a habit yet, now’s the time. You’ll notice your stress melting away.
 
-![Woman enjoying life, loving her hair and relaxing on the couch.
-
-Kulør Hair Design and Color Studio is the best place for hair styling, located at 22 East Center Street in Logan, Utah. 
-https://www.instagram.com/kulorsalon/
-https://www.kulorsalon.com/
-435-213-9075
-https://www.aveda.com/salon/KulorSalon
-
-https://www.instagram.com/AwCreativeUT/
-https://www.AwCreativeUT.com/
-#AwCreativeUT Adam Winger #awcreative #AdamWinger ](https://images.unsplash.com/photo-1580618849092-0b800b9b05d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjByZWxpZWYlMjBtZW50YWwlMjBoZWFsdGglMjByZWxheGF0aW9uJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU2NTI4NDg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Calm Your Mind in Minutes Without Meditation")
-*How to Calm Your Mind in Minutes Without Meditation - Photo by [Adam Winger](https://unsplash.com/@awcreativeut) on [Unsplash](https://unsplash.com/photos/woman-in-gray-long-sleeve-shirt-and-black-pants-sitting-on-white-couch-nG1lY5C81lM)*
+{{< figure src="https://images.unsplash.com/photo-1580618849092-0b800b9b05d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjByZWxpZWYlMjBtZW50YWwlMjBoZWFsdGglMjByZWxheGF0aW9uJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU2NTI4NDg5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in gray long sleeve shirt and black pants sitting on white couch" title="How to Calm Your Mind in Minutes Without Meditation" caption="How to Calm Your Mind in Minutes Without Meditation - Photo by [Adam Winger](https://unsplash.com/@awcreativeut) on [Unsplash](https://unsplash.com/photos/woman-in-gray-long-sleeve-shirt-and-black-pants-sitting-on-white-couch-nG1lY5C81lM)" >}}
 
 ## Meditation: Your Mental Shield
 
@@ -67,8 +55,7 @@ Often, we’re stressed about an outcome—like not getting a job we really want
 > *“Tension is who you think you should be. Relaxation is who you are.”*  
 — Chinese proverb
 
-![Photo by Toa Heftiba](https://images.unsplash.com/photo-1587210489873-a1094e8868be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjByZWxpZWYlMjBtZW50YWwlMjBoZWFsdGglMjByZWxheGF0aW9uJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU2NTI4NDg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Calm Your Mind in Minutes Without Meditation")
-*How to Calm Your Mind in Minutes Without Meditation - Photo by [Toa Heftiba](https://unsplash.com/@heftiba) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-reading-book-eI-NFZ3U1TM)*
+{{< figure src="https://images.unsplash.com/photo-1587210489873-a1094e8868be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjByZWxpZWYlMjBtZW50YWwlMjBoZWFsdGglMjByZWxheGF0aW9uJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU2NTI4NDg5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black jacket reading book eI" title="How to Calm Your Mind in Minutes Without Meditation" caption="How to Calm Your Mind in Minutes Without Meditation - Photo by [Toa Heftiba](https://unsplash.com/@heftiba) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-reading-book-eI-NFZ3U1TM)" >}}
 
 > *“Almost everything will work again if you unplug it for a few minutes, including you.”*  
 — Anne Lamott

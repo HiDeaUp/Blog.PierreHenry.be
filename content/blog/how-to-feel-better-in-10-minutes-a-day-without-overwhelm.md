@@ -12,8 +12,7 @@ original_title = "Se sentir bien. Les étapes pour y arriver !"
 source_medium = "https://medium.com/@phenrysay/715d845c8589"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2MzM3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Better in 10 Minutes a Day Without Overwhelm")
-*How to Feel Better in 10 Minutes a Day Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2MzM3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Feel Better in 10 Minutes a Day Without Overwhelm" caption="How to Feel Better in 10 Minutes a Day Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever noticed how just feeling a little better, step by step, can completely change your well-being? The secret is simple: take small actions every day. Even ten minutes can make a real difference.
 
@@ -21,8 +20,7 @@ Imagine giving yourself ten minutes a day to do something that brings you joy. T
 
 We all have ten minutes in our day. For some reason, we rarely think to use them like this. But if you start with just ten minutes, and try to make the most of that time, you might soon find yourself doing twenty minutes a day, then half an hour. The key is to be consistent. Regularity pays off. If you keep at it, day after day, you’ll end up with a life that’s so much better than before.
 
-![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2MzM3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Better in 10 Minutes a Day Without Overwhelm")
-*How to Feel Better in 10 Minutes a Day Without Overwhelm - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
+{{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2MzM3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Feel Better in 10 Minutes a Day Without Overwhelm" caption="How to Feel Better in 10 Minutes a Day Without Overwhelm - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
 So, start today. What do you want to create right now? Take ten minutes—just ten minutes—to do something for yourself. Don’t put off what you want to achieve. Do it now, right away. Then do it again tomorrow, and the next day. It’s amazing how much this can change things.
 
@@ -38,8 +36,7 @@ Try this for a month. Then keep going for two months, three months. You’ll see
 
 ---
 
-![Photo by Sara](https://images.unsplash.com/photo-1642430206049-af570fbc75a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2MzM3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Better in 10 Minutes a Day Without Overwhelm")
-*How to Feel Better in 10 Minutes a Day Without Overwhelm - Photo by [Sara](https://unsplash.com/@eretree) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-dock-near-a-body-of-water-O1_0ecB-ra4)*
+{{< figure src="https://images.unsplash.com/photo-1642430206049-af570fbc75a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY2MzM3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person on a dock near a body of water O1_0ecB ra4" title="How to Feel Better in 10 Minutes a Day Without Overwhelm" caption="How to Feel Better in 10 Minutes a Day Without Overwhelm - Photo by [Sara](https://unsplash.com/@eretree) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-dock-near-a-body-of-water-O1_0ecB-ra4)" >}}
 
 ## Key Takeaways
 - Ten minutes a day can change your life if you use them well.

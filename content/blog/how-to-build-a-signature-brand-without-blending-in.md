@@ -12,8 +12,7 @@ original_title = "Création de sa marque #PersonalBranding 🍔"
 source_medium = "https://medium.com/@phenrysay/a51958475ef4"
 +++
 
-![Photo by Scott Blake](https://images.unsplash.com/photo-1645484686977-dbddd9e1dc0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwc2lnbmF0dXJlJTIwc3R5bGUlMjBicmFuZCUyMGlkZW50aXR5fGVufDB8MHx8fDE3NTYxMDcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Signature Brand Without Blending In")
-*How to Build a Signature Brand Without Blending In - Photo by [Scott Blake](https://unsplash.com/@sunburned_surveyor) on [Unsplash](https://unsplash.com/photos/a-pen-sitting-on-top-of-a-piece-of-paper-FyftnVc8Mdo)*
+{{< figure src="https://images.unsplash.com/photo-1645484686977-dbddd9e1dc0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwc2lnbmF0dXJlJTIwc3R5bGUlMjBicmFuZCUyMGlkZW50aXR5fGVufDB8MHx8fDE3NTYxMDcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A pen sitting on top of a piece of paper" title="How to Build a Signature Brand Without Blending In" caption="How to Build a Signature Brand Without Blending In - Photo by [Scott Blake](https://unsplash.com/@sunburned_surveyor) on [Unsplash](https://unsplash.com/photos/a-pen-sitting-on-top-of-a-piece-of-paper-FyftnVc8Mdo)" >}}
 
 Have you ever thought about what it means to build your own franchise—not a fast-food chain, but a personal brand that’s unmistakably you? Maybe you want to stand out, show who you really are, or launch a new product, book, or course. But you’re not sure how to market yourself or what makes you different. The answer lies in creating a character, a theme, and a story around your work that people instantly recognize.
 
@@ -38,10 +37,7 @@ It’s the same with language learning methods. Whether it’s Michel Thomas, As
 > *“People don’t buy what you do; they buy why you do it.”*  
 > — Simon Sinek
 
-![For order logo design and brand identity
-mbfakurian@gmail.com
-+971 52 319 3640 WhatsApp](https://images.unsplash.com/photo-1649000808933-1f4aac7cad9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwc2lnbmF0dXJlJTIwc3R5bGUlMjBicmFuZCUyMGlkZW50aXR5fGVufDB8MHx8fDE3NTYxMDcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Signature Brand Without Blending In")
-*How to Build a Signature Brand Without Blending In - Photo by [Milad Fakurian](https://unsplash.com/@fakurian) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-with-the-words-logo-design-_CK8u2I4_qw)*
+{{< figure src="https://images.unsplash.com/photo-1649000808933-1f4aac7cad9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwc2lnbmF0dXJlJTIwc3R5bGUlMjBicmFuZCUyMGlkZW50aXR5fGVufDB8MHx8fDE3NTYxMDcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="For order logo design and brand identity mbfakurian@gmail.com +971 52 319 3640 WhatsApp" title="How to Build a Signature Brand Without Blending In" caption="How to Build a Signature Brand Without Blending In - Photo by [Milad Fakurian](https://unsplash.com/@fakurian) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-with-the-words-logo-design-_CK8u2I4_qw)" >}}
 
 ## How to Build Your Own Method and Multiply It
 
@@ -70,8 +66,7 @@ Once you have your theme and your avatar, update your website, social media, and
 
 Even if you’re not a freelancer or influencer, having a strong, unique presence matters. It helps you stand out at work, with friends, and in any community.
 
-![Unsuccessful English calligraphy.](https://images.unsplash.com/photo-1615604543792-b8eb0e2390b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwc2lnbmF0dXJlJTIwc3R5bGUlMjBicmFuZCUyMGlkZW50aXR5fGVufDB8MHx8fDE3NTYxMDcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Signature Brand Without Blending In")
-*How to Build a Signature Brand Without Blending In - Photo by [Totokaine](https://unsplash.com/@totokaine) on [Unsplash](https://unsplash.com/photos/black-handle-knife-on-white-paper-KF1YAbeZQdw)*
+{{< figure src="https://images.unsplash.com/photo-1615604543792-b8eb0e2390b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwc2lnbmF0dXJlJTIwc3R5bGUlMjBicmFuZCUyMGlkZW50aXR5fGVufDB8MHx8fDE3NTYxMDcyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Unsuccessful English calligraphy." title="How to Build a Signature Brand Without Blending In" caption="How to Build a Signature Brand Without Blending In - Photo by [Totokaine](https://unsplash.com/@totokaine) on [Unsplash](https://unsplash.com/photos/black-handle-knife-on-white-paper-KF1YAbeZQdw)" >}}
 
 ## Exaggerate Your Strengths—And Own Your Flaws
 

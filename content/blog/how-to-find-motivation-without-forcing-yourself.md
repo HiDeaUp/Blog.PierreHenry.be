@@ -12,8 +12,7 @@ original_title = "Identifier des projets motivateurs 🤗"
 source_medium = "https://medium.com/@phenrysay/cabc61fbb763"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, wood, wood tiles, plan start work, plan, start, work, persistence, patience, progress, effort, relentless, routine, exercise, work out, weight training, ](https://images.unsplash.com/photo-1640077596554-37bffdb7ce9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvamVjdCUyMG1hbmFnZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM4ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Motivation Without Forcing Yourself")
-*How to Find Motivation Without Forcing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-word-plan-start-work-V0A181B9n6Q)*
+{{< figure src="https://images.unsplash.com/photo-1640077596554-37bffdb7ce9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvamVjdCUyMG1hbmFnZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM4ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles the word plan start work" title="How to Find Motivation Without Forcing Yourself" caption="How to Find Motivation Without Forcing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-word-plan-start-work-V0A181B9n6Q)" >}}
 
 Have you ever noticed how some projects just light a fire inside you, while others feel like a chore? I was reflecting on this as I sat in my hotel room in Sydney, writing a bit for my book on my Freewrite device. I actually have two of them: a Freewrite Travel and a regular Freewrite. I love using them, even though they’re not magic tools, and they’re pretty expensive. What I really enjoy is supporting the community and the story behind the company.
 
@@ -25,8 +24,7 @@ Sometimes, it’s not about changing the task itself, but changing your environm
 
 So, even if you don’t like a task at first, you can transform it into something fun and enjoyable. That’s my little challenge for you today: ask yourself, “What can I do to enjoy what I’m working on? What can I change in my daily routine to make my tasks more enjoyable and fulfilling?”
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvamVjdCUyMG1hbmFnZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM4ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Motivation Without Forcing Yourself")
-*How to Find Motivation Without Forcing Yourself - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvamVjdCUyMG1hbmFnZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM4ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Find Motivation Without Forcing Yourself" caption="How to Find Motivation Without Forcing Yourself - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 For me, writing is something I love, but I found myself getting distracted on my computer. That’s why I switched to the Freewrite. It’s not for everyone, and it’s not a miracle solution, but it helps me stay focused and productive. I also enjoy supporting the company and their story.
 
@@ -46,8 +44,7 @@ My advice is to find what will make your day feel “remade”—what will make 
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, success favours the prepared, success, preparation, work hard, hard work, plan, think ahead, tactics, winning tactics,  ](https://images.unsplash.com/photo-1620632889724-f1ddc7841c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvamVjdCUyMG1hbmFnZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM4ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Motivation Without Forcing Yourself")
-*How to Find Motivation Without Forcing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-OpBmvSt07gY)*
+{{< figure src="https://images.unsplash.com/photo-1620632889724-f1ddc7841c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvamVjdCUyMG1hbmFnZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM4ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Find Motivation Without Forcing Yourself" caption="How to Find Motivation Without Forcing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-OpBmvSt07gY)" >}}
 
 - Focus on projects and tasks that truly motivate you.
 - If you dislike a task, try changing your environment or adding something enjoyable, like music or audiobooks.

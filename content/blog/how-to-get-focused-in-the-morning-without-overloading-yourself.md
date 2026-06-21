@@ -12,8 +12,7 @@ original_title = "Comment mieux se sentir le matin ?💪"
 source_medium = "https://medium.com/@phenrysay/b90943ab2b73"
 +++
 
-![Flatlay with cup of coffee and lemons in scarf](https://images.unsplash.com/photo-1594779718805-b233af659e4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMG1vdGl2YXRpb24lMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTYwMDk1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Focused in the Morning Without Overloading Yourself")
-*How to Get Focused in the Morning Without Overloading Yourself - Photo by [Leohoho](https://unsplash.com/@leohoho) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-with-coffee-fKbNjTir4kY)*
+{{< figure src="https://images.unsplash.com/photo-1594779718805-b233af659e4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMG1vdGl2YXRpb24lMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTYwMDk1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Flatlay with cup of coffee and lemons in scarf" title="How to Get Focused in the Morning Without Overloading Yourself" caption="How to Get Focused in the Morning Without Overloading Yourself - Photo by [Leohoho](https://unsplash.com/@leohoho) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-with-coffee-fKbNjTir4kY)" >}}
 
 Have you ever woken up, stretched, and felt a rush of motivation for all the things you want to accomplish—only to lose that energy as the day goes on? You start with a list of goals, but soon you find yourself jumping from one task to another. You do a little bit of this, a little bit of that, and suddenly, nothing really gets done. It’s like you’re spinning in circles, and by the time a deadline comes around, stress takes over and you realize you haven’t finished anything important.
 
@@ -29,8 +28,7 @@ We’ve all heard that multitasking is a skill to master. But the truth is, it d
 
 ## One Thing at a Time
 
-![Photo by Samantha Gades](https://images.unsplash.com/photo-1504812725317-0fb0450d8e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMG1vdGl2YXRpb24lMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTYwMDk1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Focused in the Morning Without Overloading Yourself")
-*How to Get Focused in the Morning Without Overloading Yourself - Photo by [Samantha Gades](https://unsplash.com/@srosinger3997) on [Unsplash](https://unsplash.com/photos/woman-holding-white-mug-while-lying-on-bed-RJl-ZYWCs7M)*
+{{< figure src="https://images.unsplash.com/photo-1504812725317-0fb0450d8e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMG1vdGl2YXRpb24lMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTYwMDk1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman holding white mug while lying on bed RJl ZYWCs7M" title="How to Get Focused in the Morning Without Overloading Yourself" caption="How to Get Focused in the Morning Without Overloading Yourself - Photo by [Samantha Gades](https://unsplash.com/@srosinger3997) on [Unsplash](https://unsplash.com/photos/woman-holding-white-mug-while-lying-on-bed-RJl-ZYWCs7M)" >}}
 
 The solution is simple: do one thing at a time. Block out a set period—say, two hours—where you turn off all notifications and focus on a single task. This might mean using tools that only do one thing, like a basic phone for messages, a Kindle for reading, or a dedicated writing device. It’s much easier to stay focused when your tools don’t tempt you with distractions.
 
@@ -52,8 +50,7 @@ When you focus on one thing at a time, you’ll not only get more done, but you�
 >
 > — Pierre
 
-![Spring good morning flatlay, coffee, tulips and keyboard](https://images.unsplash.com/photo-1589285079772-45ce91ecb200?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMG1vdGl2YXRpb24lMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTYwMDk1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Focused in the Morning Without Overloading Yourself")
-*How to Get Focused in the Morning Without Overloading Yourself - Photo by [Campbell's Photography](https://unsplash.com/@campbellsphotography) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-with-coffee-pjK-2yQBpBk)*
+{{< figure src="https://images.unsplash.com/photo-1589285079772-45ce91ecb200?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMG1vdGl2YXRpb24lMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTYwMDk1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Spring good morning flatlay, coffee, tulips and keyboard" title="How to Get Focused in the Morning Without Overloading Yourself" caption="How to Get Focused in the Morning Without Overloading Yourself - Photo by [Campbell's Photography](https://unsplash.com/@campbellsphotography) on [Unsplash](https://unsplash.com/photos/white-ceramic-mug-with-coffee-pjK-2yQBpBk)" >}}
 
 ---
 

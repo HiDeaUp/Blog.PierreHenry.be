@@ -12,8 +12,7 @@ original_title = "Surmonter ses peurs avec le What, Why & How"
 source_medium = "https://medium.com/@phenrysay/212f19c52cd5"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY2MzU5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Face Your Fears Using What, Why & How Questions")
-*How to Face Your Fears Using What, Why & How Questions - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY2MzU5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Face Your Fears Using What, Why & How Questions" caption="How to Face Your Fears Using What, Why & How Questions - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 When it comes to overcoming fears, most people get stuck before they even begin. The mind races with doubts, worries, and what-ifs. But what if there was a straightforward way to cut through the noise and actually move forward? That’s where the What, Why, and How method comes in. It’s a simple set of questions you can ask yourself to break down any fear or challenge, and it works whether you’re dreaming of skydiving or just trying to speak up in a meeting.
 
@@ -25,8 +24,7 @@ Let’s break it down:
 
 This approach is especially helpful when you’re facing something that feels huge or impossible. For example, maybe you’ve always wanted to try skydiving, but you’re terrified of heights. Or maybe you’re a manager who dreads public speaking, but you know it’s part of your job. The What, Why, and How method helps you break down the fear into something you can actually handle.
 
-![https://www.havenofear.live/](https://images.unsplash.com/photo-1629772263201-341186d77793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY2MzU5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Face Your Fears Using What, Why & How Questions")
-*How to Face Your Fears Using What, Why & How Questions - Photo by [Dylan Hunter](https://unsplash.com/@dylhunter) on [Unsplash](https://unsplash.com/photos/white-and-black-computer-keyboard-7OjhYoNjpBo)*
+{{< figure src="https://images.unsplash.com/photo-1629772263201-341186d77793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY2MzU5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="https://www.havenofear.live/" title="How to Face Your Fears Using What, Why & How Questions" caption="How to Face Your Fears Using What, Why & How Questions - Photo by [Dylan Hunter](https://unsplash.com/@dylhunter) on [Unsplash](https://unsplash.com/photos/white-and-black-computer-keyboard-7OjhYoNjpBo)" >}}
 
 Take the skydiving example. The “what” is clear: you want to jump out of a plane. The “why” might be because it’s a lifelong dream, or you want to prove to yourself that you can do it. The “how” is where things get interesting. You don’t have to go from zero to jumping out of a plane overnight. Instead, you can start small. Maybe you visit tall buildings and get used to looking down from higher and higher floors. You can visualize yourself making the jump. You might even try a virtual reality simulation to get used to the feeling. Each step gives you a little more experience and a little less fear.
 
@@ -44,8 +42,7 @@ The real secret is practice and experience. The more you do something, the less 
 
 Facing your fears isn’t easy, but it’s often the only way to reach your dreams or do what needs to be done. Whether it’s skydiving, public speaking, or anything else, remember to ask yourself: What do I want to do? Why do I want to do it? How can I start, even in the smallest way? Step by step, you’ll get there.
 
-![Photo by Gwenn Klabbers](https://images.unsplash.com/photo-1626977989697-1500514a71cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY2MzU5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Face Your Fears Using What, Why & How Questions")
-*How to Face Your Fears Using What, Why & How Questions - Photo by [Gwenn Klabbers](https://unsplash.com/@reisgekkie) on [Unsplash](https://unsplash.com/photos/silhouette-of-woman-jumping-on-the-sea-during-sunset-VRVQURqcJs0)*
+{{< figure src="https://images.unsplash.com/photo-1626977989697-1500514a71cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvdmVyY29taW5nJTIwZmVhciUyMHNlbGYtaW1wcm92ZW1lbnQlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTY2MzU5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of woman jumping on the sea during sunset" title="How to Face Your Fears Using What, Why & How Questions" caption="How to Face Your Fears Using What, Why & How Questions - Photo by [Gwenn Klabbers](https://unsplash.com/@reisgekkie) on [Unsplash](https://unsplash.com/photos/silhouette-of-woman-jumping-on-the-sea-during-sunset-VRVQURqcJs0)" >}}
 
 ---
 

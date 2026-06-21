@@ -12,8 +12,7 @@ original_title = "Mieux gérer son attention pour une productivité au top 👌"
 source_medium = "https://medium.com/@phenrysay/dbfaee640c88"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTYwNzA2NXww&ixlib=rb-4.1.0&q=80&w=1080 "Use Attention, Not Time, for Real Productivity Gains")
-*Use Attention, Not Time, for Real Productivity Gains - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTYwNzA2NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="Use Attention, Not Time, for Real Productivity Gains" caption="Use Attention, Not Time, for Real Productivity Gains - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 We often hear about time management as the key to productivity. After all, everyone gets the same 24 hours in a day. But if you look closer, the real difference between people isn’t how much time they have, but how they use their attention. Time is a fixed resource, but attention is what truly shapes our days.
 
@@ -27,8 +26,7 @@ When you give 100% of your attention to a task, even for just 90 minutes, you’
 
 Equally important are moments of calm and relaxation. I encourage you to add pockets of peace to your day. The Zen movement, which began in Fukui, Japan, is all about this kind of mindful tranquility. If you ever visit Japan, Fukui is worth seeing for its deep roots in Zen culture. Zen is about simplicity, calm, and disconnecting from the noise of the world. Even if you’re not in Japan, you can bring a bit of Zen into your life—maybe by enjoying a quiet cup of tea, savoring a snack you love, or just taking a few minutes to breathe.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTYwNzA2NXww&ixlib=rb-4.1.0&q=80&w=1080 "Use Attention, Not Time, for Real Productivity Gains")
-*Use Attention, Not Time, for Real Productivity Gains - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTYwNzA2NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="Use Attention, Not Time, for Real Productivity Gains" caption="Use Attention, Not Time, for Real Productivity Gains - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Balance is key. Alternate between periods of deep focus and moments of relaxation. For me, a few tea or coffee breaks throughout the day help reset my mind. This rhythm keeps my attention sharp when I need it most.
 
@@ -52,8 +50,7 @@ In the end, the best way to get more done in 24 hours is a mix of good organizat
 
 ---
 
-![Team Klarket Agency ](https://images.unsplash.com/photo-1613579917953-d35e6b72d32b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTYwNzA2NXww&ixlib=rb-4.1.0&q=80&w=1080 "Use Attention, Not Time, for Real Productivity Gains")
-*Use Attention, Not Time, for Real Productivity Gains - Photo by [HamZa NOUASRIA](https://unsplash.com/@hamza01nsr) on [Unsplash](https://unsplash.com/photos/white-and-red-ceramic-mug-h8CYq5InIAI)*
+{{< figure src="https://images.unsplash.com/photo-1613579917953-d35e6b72d32b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTYwNzA2NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Team Klarket Agency" title="Use Attention, Not Time, for Real Productivity Gains" caption="Use Attention, Not Time, for Real Productivity Gains - Photo by [HamZa NOUASRIA](https://unsplash.com/@hamza01nsr) on [Unsplash](https://unsplash.com/photos/white-and-red-ceramic-mug-h8CYq5InIAI)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Behind the Scenes of My MCP Servers. This is everything you ha
 source_medium = "https://medium.com/@phenrysay/dfe9332cca6c"
 +++
 
-![Photo by Dylann Hendricks | 딜란](https://images.unsplash.com/photo-1628698959977-625e4efabac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxNQ1AlMjBzZXJ2ZXJzJTIwc2VydmVyJTIwYXJjaGl0ZWN0dXJlJTIwc2VydmVyJTIwc2V0dXB8ZW58MHwwfHx8MTc2NzA5OTc1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Clean MCP Server Setup in Minutes")
-*How to Build a Clean MCP Server Setup in Minutes - Photo by [Dylann Hendricks | 딜란](https://unsplash.com/@dylanhendricks) on [Unsplash](https://unsplash.com/photos/white-and-black-concrete-building-WIpORbReaTA)*
+{{< figure src="https://images.unsplash.com/photo-1628698959977-625e4efabac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxNQ1AlMjBzZXJ2ZXJzJTIwc2VydmVyJTIwYXJjaGl0ZWN0dXJlJTIwc2VydmVyJTIwc2V0dXB8ZW58MHwwfHx8MTc2NzA5OTc1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black" title="How to Build a Clean MCP Server Setup in Minutes" caption="How to Build a Clean MCP Server Setup in Minutes - Photo by [Dylann Hendricks | 딜란](https://unsplash.com/@dylanhendricks) on [Unsplash](https://unsplash.com/photos/white-and-black-concrete-building-WIpORbReaTA)" >}}
 
 Alright, let’s get straight into it. I want to show you how my MCP server works. This is going to be a quick one, just a couple of minutes, because I’m a bit short on time, but I really wanted to share this with you before I head out.
 
@@ -45,8 +44,7 @@ export default async function (fastify: FastifyInstance) {
 }
 ```
 
-![Photo by Denny Bú](https://images.unsplash.com/photo-1548544027-1a96c4c24c7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxNQ1AlMjBzZXJ2ZXJzJTIwc2VydmVyJTIwYXJjaGl0ZWN0dXJlJTIwc2VydmVyJTIwc2V0dXB8ZW58MHwwfHx8MTc2NzA5OTc1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Clean MCP Server Setup in Minutes")
-*How to Build a Clean MCP Server Setup in Minutes - Photo by [Denny Bú](https://unsplash.com/@dennyisrael) on [Unsplash](https://unsplash.com/photos/black-steel-electronic-device-Jth4utoCVNo)*
+{{< figure src="https://images.unsplash.com/photo-1548544027-1a96c4c24c7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxNQ1AlMjBzZXJ2ZXJzJTIwc2VydmVyJTIwYXJjaGl0ZWN0dXJlJTIwc2VydmVyJTIwc2V0dXB8ZW58MHwwfHx8MTc2NzA5OTc1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black steel device" title="How to Build a Clean MCP Server Setup in Minutes" caption="How to Build a Clean MCP Server Setup in Minutes - Photo by [Denny Bú](https://unsplash.com/@dennyisrael) on [Unsplash](https://unsplash.com/photos/black-steel-electronic-device-Jth4utoCVNo)" >}}
 
 ### The Server: Fastify, but You’ve Got Options
 
@@ -78,8 +76,7 @@ server.listen({ port: Number(PORT) }, (err, address) => {
 
 A quick note: I used to hardcode the port number, but that’s not great practice. So now, I’m pulling it from an `.env` file using the `dotenv` package. Make sure your `PORT` variable is in uppercase in your `.env` file, or you’ll run into issues. (Yeah, I made that typo myself. Lesson learned.)
 
-![Cables and wires](https://images.unsplash.com/photo-1667264501379-c1537934c7ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxNQ1AlMjBzZXJ2ZXJzJTIwc2VydmVyJTIwYXJjaGl0ZWN0dXJlJTIwc2VydmVyJTIwc2V0dXB8ZW58MHwwfHx8MTc2NzA5OTc1MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Clean MCP Server Setup in Minutes")
-*How to Build a Clean MCP Server Setup in Minutes - Photo by [Kier in Sight Archives](https://unsplash.com/@kierinsightarchives) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-server-room-3Nwt6w-KU3E)*
+{{< figure src="https://images.unsplash.com/photo-1667264501379-c1537934c7ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxNQ1AlMjBzZXJ2ZXJzJTIwc2VydmVyJTIwYXJjaGl0ZWN0dXJlJTIwc2VydmVyJTIwc2V0dXB8ZW58MHwwfHx8MTc2NzA5OTc1MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cables and wires" title="How to Build a Clean MCP Server Setup in Minutes" caption="How to Build a Clean MCP Server Setup in Minutes - Photo by [Kier in Sight Archives](https://unsplash.com/@kierinsightarchives) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-server-room-3Nwt6w-KU3E)" >}}
 
 ### The Rest: Package Scripts and TypeScript Config
 

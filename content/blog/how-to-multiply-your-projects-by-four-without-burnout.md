@@ -12,8 +12,7 @@ original_title = "Multiplier ses projets par 4 ? La régularité, tout simplemen
 source_medium = "https://medium.com/@phenrysay/b52c15fb8ae2"
 +++
 
-![My current desk setup as of 2016. I am a wedding and portrait photographer and have always believed the space you do work in has a big impact on the quality and kind of work you complete. I have been refining my workspace since I was in high school and I am really happy where it is now!](https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb2FsJTIwc2V0dGluZyUyMGNvbnNpc3RlbmN5JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzMTA1MTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Multiply Your Projects by Four Without Burnout")
-*How to Multiply Your Projects by Four Without Burnout - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)*
+{{< figure src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb2FsJTIwc2V0dGluZyUyMGNvbnNpc3RlbmN5JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzMTA1MTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Silver imac with and inside room KE0nC8 58MQ" title="How to Multiply Your Projects by Four Without Burnout" caption="How to Multiply Your Projects by Four Without Burnout - Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/photos/silver-imac-with-keyboard-and-trackpad-inside-room-KE0nC8-58MQ)" >}}
 
 When you invest in yourself and set a clear goal, something shifts. You suddenly feel full of energy. Having concrete goals—ones with a real outcome and a deadline—changes everything. For example, if you decide, “In two weeks, I want to achieve this specific result,” you give yourself a target to aim for. Then, you can ask yourself: “What can I do every single day to get there?”
 
@@ -21,8 +20,7 @@ It’s like climbing a mountain. You don’t just look at the summit and hope yo
 
 This approach works in every part of life. When your goals are vague, you end up saying things like, “I should do this, I should do that,” but nothing really happens. Your days get messy. You do a little bit of this and a little bit of that, but you don’t know exactly what you’re aiming for, or how to measure your progress.
 
-![Support my mission by buying me a coffee: ko-fi.com/bramnaus :)](https://images.unsplash.com/photo-1485988412941-77a35537dae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb2FsJTIwc2V0dGluZyUyMGNvbnNpc3RlbmN5JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzMTA1MTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Multiply Your Projects by Four Without Burnout")
-*How to Multiply Your Projects by Four Without Burnout - Photo by [Bram Naus](https://unsplash.com/@bramnaus) on [Unsplash](https://unsplash.com/photos/silver-macbook-beside-space-gray-iphone-6-and-clear-drinking-glass-on-brown-wooden-top-n8Qb1ZAkK88)*
+{{< figure src="https://images.unsplash.com/photo-1485988412941-77a35537dae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb2FsJTIwc2V0dGluZyUyMGNvbnNpc3RlbmN5JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzMTA1MTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Support my mission by buying me a coffee: ko-fi.com/bramnaus :)" title="How to Multiply Your Projects by Four Without Burnout" caption="How to Multiply Your Projects by Four Without Burnout - Photo by [Bram Naus](https://unsplash.com/@bramnaus) on [Unsplash](https://unsplash.com/photos/silver-macbook-beside-space-gray-iphone-6-and-clear-drinking-glass-on-brown-wooden-top-n8Qb1ZAkK88)" >}}
 
 But when your goal is clear, everything changes. You know that every morning, you’re going to spend one hour on that specific thing. Nothing can stop you. Every morning, you show up and do it. That’s what makes all the difference.
 
@@ -35,8 +33,7 @@ So, what time is it for you right now? What are you going to start today? Life i
 
 ---
 
-![Photo by kris](https://images.unsplash.com/photo-1542123491-63f422a5f45e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMGNvbnNpc3RlbmN5JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzMTA1MTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Multiply Your Projects by Four Without Burnout")
-*How to Multiply Your Projects by Four Without Burnout - Photo by [kris](https://unsplash.com/@leafybirdy) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-productivity-printed-book-n9u9ZEoH2yM)*
+{{< figure src="https://images.unsplash.com/photo-1542123491-63f422a5f45e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMGNvbnNpc3RlbmN5JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NDkzMTA1MTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Focus of printed book" title="How to Multiply Your Projects by Four Without Burnout" caption="How to Multiply Your Projects by Four Without Burnout - Photo by [kris](https://unsplash.com/@leafybirdy) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-productivity-printed-book-n9u9ZEoH2yM)" >}}
 
 ## Key Takeaways
 - Set a clear, concrete goal with a deadline.

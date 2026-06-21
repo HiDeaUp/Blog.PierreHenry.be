@@ -12,8 +12,7 @@ original_title = "How I Use AI in EVERYTHING I Do (and Why You Should Too)"
 source_medium = "https://medium.com/@phenrysay/9a9154fb7c11"
 +++
 
-![monochrome calgary tower](https://images.unsplash.com/photo-1461695008884-244cb4543d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMGludGVncmF0aW9uJTIwZGV2ZWxvcGVyJTIwdG9vbHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODcxMXww&ixlib=rb-4.1.0&q=80&w=1080 "Use AI in Every Step or Fall Behind in Development")
-*Use AI in Every Step or Fall Behind in Development - Photo by [Redd Francisco](https://unsplash.com/@reddfrancisco) on [Unsplash](https://unsplash.com/photos/low-angle-photo-of-mirror-glass-building-vUwJ8uu_C1M)*
+{{< figure src="https://images.unsplash.com/photo-1461695008884-244cb4543d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMGludGVncmF0aW9uJTIwZGV2ZWxvcGVyJTIwdG9vbHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODcxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="monochrome calgary tower" title="Use AI in Every Step or Fall Behind in Development" caption="Use AI in Every Step or Fall Behind in Development - Photo by [Redd Francisco](https://unsplash.com/@reddfrancisco) on [Unsplash](https://unsplash.com/photos/low-angle-photo-of-mirror-glass-building-vUwJ8uu_C1M)" >}}
 
 Today I want to talk about why you should be using AI in every single part of your development workflow. I mean it—everywhere. From the very first design mockup all the way to shipping your app, AI should be in the loop. Let me walk you through how I do it, and why it’s a total game changer.
 
@@ -42,8 +41,7 @@ Here’s how I do it:
 
 This approach gives you superpowers as a developer. You get more time to think, to focus on the vision, and to really consider the impact your app will have on users. The more clearly you communicate with the model, the better your results.
 
-![Photo by Mesh](https://images.unsplash.com/photo-1734188652668-6a97f5398557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMGludGVncmF0aW9uJTIwZGV2ZWxvcGVyJTIwdG9vbHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODcxMXww&ixlib=rb-4.1.0&q=80&w=1080 "Use AI in Every Step or Fall Behind in Development")
-*Use AI in Every Step or Fall Behind in Development - Photo by [Mesh](https://unsplash.com/@crypticsy) on [Unsplash](https://unsplash.com/photos/a-desk-with-a-laptop-and-a-monitor-on-it-tlauB3akmbs)*
+{{< figure src="https://images.unsplash.com/photo-1734188652668-6a97f5398557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMGludGVncmF0aW9uJTIwZGV2ZWxvcGVyJTIwdG9vbHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODcxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A desk with a laptop and a monitor on it" title="Use AI in Every Step or Fall Behind in Development" caption="Use AI in Every Step or Fall Behind in Development - Photo by [Mesh](https://unsplash.com/@crypticsy) on [Unsplash](https://unsplash.com/photos/a-desk-with-a-laptop-and-a-monitor-on-it-tlauB3akmbs)" >}}
 
 ### When the AI Gets Stuck
 
@@ -81,8 +79,7 @@ Using AI like this doesn’t just make you faster—it makes you a better proble
 
 As I always say, “The more context you give, the better results you’ll get.” And honestly, that’s the key to leveling up as a developer in the age of AI.
 
-![corner of downtown toronto highrise building in harsh light and black and white](https://images.unsplash.com/photo-1714917326731-700a7a344f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMGludGVncmF0aW9uJTIwZGV2ZWxvcGVyJTIwdG9vbHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODcxMXww&ixlib=rb-4.1.0&q=80&w=1080 "Use AI in Every Step or Fall Behind in Development")
-*Use AI in Every Step or Fall Behind in Development - Photo by [Linus Belanger](https://unsplash.com/@linusbelanger) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-tall-building-ixkdXZSMdqc)*
+{{< figure src="https://images.unsplash.com/photo-1714917326731-700a7a344f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMGludGVncmF0aW9uJTIwZGV2ZWxvcGVyJTIwdG9vbHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODcxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="corner of downtown toronto highrise building in harsh light and black and white" title="Use AI in Every Step or Fall Behind in Development" caption="Use AI in Every Step or Fall Behind in Development - Photo by [Linus Belanger](https://unsplash.com/@linusbelanger) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-tall-building-ixkdXZSMdqc)" >}}
 
 ---
 

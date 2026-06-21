@@ -12,8 +12,7 @@ original_title = "Comment augmenter sa confiance ?"
 source_medium = "https://medium.com/@phenrysay/f4d841be865e"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGltcG9zdGVyJTIwc3luZHJvbWV8ZW58MHwwfHx8MTc0OTQxNzAxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Confidence Without Letting Self-Doubt Win")
-*How to Boost Confidence Without Letting Self-Doubt Win - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGltcG9zdGVyJTIwc3luZHJvbWV8ZW58MHwwfHx8MTc0OTQxNzAxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Boost Confidence Without Letting Self-Doubt Win" caption="How to Boost Confidence Without Letting Self-Doubt Win - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 We all have moments of doubt. Everyone hesitates, everyone sometimes feels like they’re not good enough. That’s completely normal. Feeling like you don’t measure up, or experiencing imposter syndrome, happens to the best of us. The real problem starts when these feelings become walls that we build around ourselves—walls that keep us stuck in the same old routine, the same old life.
 
@@ -25,8 +24,7 @@ But here’s the key: you have to keep telling yourself, “I am capable. I can 
 
 Recently, I was reading a marketing book by Russell Brunson. He shares a lot of stories—not just about marketing, but about mindset. The lesson is clear: don’t chase success like it’s some object you can grab. First, you have to change yourself. Change your mindset, change what you believe is possible. That’s the hardest part, but it’s also the most important.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGltcG9zdGVyJTIwc3luZHJvbWV8ZW58MHwwfHx8MTc0OTQxNzAxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Confidence Without Letting Self-Doubt Win")
-*How to Boost Confidence Without Letting Self-Doubt Win - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGltcG9zdGVyJTIwc3luZHJvbWV8ZW58MHwwfHx8MTc0OTQxNzAxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Boost Confidence Without Letting Self-Doubt Win" caption="How to Boost Confidence Without Letting Self-Doubt Win - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 Sometimes, you need to shake up your habits. Maybe spend less time with people who drag you down. We measure ourselves against the people we see most often—usually our closest four or five friends. That becomes our “normal.” But your normal isn’t set in stone. When you travel, or even just move to a new city, you meet people who are incredibly kind, with a whole different way of seeing the world. I’ve traveled across Latin America, North America, Europe, Asia, and Oceania. Every place has shown me new possibilities, new ways of thinking, and new kindness.
 
@@ -44,8 +42,7 @@ Life is short. It’s better to live a life you love 100% than to always want mo
 > *“The only limits in our life are those we impose on ourselves.”*  
 > —Bob Proctor
 
-![Photo by Andhika Soreng](https://images.unsplash.com/photo-1505462110798-9eb50316b29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGltcG9zdGVyJTIwc3luZHJvbWV8ZW58MHwwfHx8MTc0OTQxNzAxNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Confidence Without Letting Self-Doubt Win")
-*How to Boost Confidence Without Letting Self-Doubt Win - Photo by [Andhika Soreng](https://unsplash.com/@dhika88) on [Unsplash](https://unsplash.com/photos/boy-doing-bicycle-tricks-in-front-of-many-people-gETYcifklpU)*
+{{< figure src="https://images.unsplash.com/photo-1505462110798-9eb50316b29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGltcG9zdGVyJTIwc3luZHJvbWV8ZW58MHwwfHx8MTc0OTQxNzAxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy doing bicycle tricks in front of many people" title="How to Boost Confidence Without Letting Self-Doubt Win" caption="How to Boost Confidence Without Letting Self-Doubt Win - Photo by [Andhika Soreng](https://unsplash.com/@dhika88) on [Unsplash](https://unsplash.com/photos/boy-doing-bicycle-tricks-in-front-of-many-people-gETYcifklpU)" >}}
 
 ---
 

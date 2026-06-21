@@ -12,8 +12,7 @@ original_title = "MISSION - Détermination Ravageuse"
 source_medium = "https://medium.com/@phenrysay/c010ccb0fa37"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMGRldGVybWluYXRpb24lMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY1Mjc5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Relentless Focus or Miss Out on Real Success")
-*Adopt Relentless Focus or Miss Out on Real Success - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMGRldGVybWluYXRpb24lMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY1Mjc5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="Adopt Relentless Focus or Miss Out on Real Success" caption="Adopt Relentless Focus or Miss Out on Real Success - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 There is a raw power in being focused on a single goal. When you are determined to achieve just one thing and pour all your energy into it, giving it not just 100% but 3000%, and you refuse to give up until you succeed, you set yourself up for the best chance at real achievement.
 
@@ -25,8 +24,7 @@ There’s a saying: *“If you really want something, anything is possible.”* 
 >
 > — Anonymous
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMGRldGVybWluYXRpb24lMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY1Mjc5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Relentless Focus or Miss Out on Real Success")
-*Adopt Relentless Focus or Miss Out on Real Success - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMGRldGVybWluYXRpb24lMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY1Mjc5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="Adopt Relentless Focus or Miss Out on Real Success" caption="Adopt Relentless Focus or Miss Out on Real Success - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 The real key is focus. Don’t let yourself get distracted, not by competitors, not by friends doing other things, not by the illusion that the grass is greener elsewhere. Make everything else invisible. Go all in on what you want to do.
 
@@ -44,8 +42,7 @@ This works for sleep, too. If you pressure yourself to fall asleep, it gets hard
 
 So, if you want to go further, remember: the number one key to success is focus. Don’t let yourself get distracted by others or by your own wandering thoughts. Make your goal the only thing that matters, and give it everything you’ve got.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMGRldGVybWluYXRpb24lMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY1Mjc5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Relentless Focus or Miss Out on Real Success")
-*Adopt Relentless Focus or Miss Out on Real Success - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMGRldGVybWluYXRpb24lMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY1Mjc5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="Adopt Relentless Focus or Miss Out on Real Success" caption="Adopt Relentless Focus or Miss Out on Real Success - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 > *Success is the result of focusing your energy on one thing and refusing to let go until you get it.*
 >

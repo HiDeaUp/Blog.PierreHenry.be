@@ -12,8 +12,7 @@ original_title = "Comment réfléchir intelligemment ?🪄"
 source_medium = "https://medium.com/@phenrysay/fc88aa049579"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992947-ece92da51cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcml0aWNhbCUyMHRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MDkwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Smarter Without Letting Emotions Take Over")
-*How to Think Smarter Without Letting Emotions Take Over - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-bWBWXiCoLvs)*
+{{< figure src="https://images.unsplash.com/photo-1695370992947-ece92da51cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcml0aWNhbCUyMHRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MDkwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Think Smarter Without Letting Emotions Take Over" caption="How to Think Smarter Without Letting Emotions Take Over - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-bWBWXiCoLvs)" >}}
 
 Most of us go through our days thinking the same way, over and over. We rarely stop to question it. It just feels normal. But what if there are better ways to think, better ways to interact, and better ways to respond to others?
 
@@ -23,8 +22,7 @@ Imagine if, during every interaction, you paused for a moment before answering. 
 
 Pauses are powerful. We often feel uncomfortable with silence, rushing to fill every gap in conversation. But those gaps are important. They give us space to think, and sometimes, they encourage the other person to open up more. For example, when checking references for a potential hire, the person giving the reference will usually start by saying good things. If you wait, if you let the silence hang, they might reveal something more honest, something they wouldn’t have said if you’d jumped in too quickly.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcml0aWNhbCUyMHRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MDkwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Smarter Without Letting Emotions Take Over")
-*How to Think Smarter Without Letting Emotions Take Over - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)*
+{{< figure src="https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcml0aWNhbCUyMHRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MDkwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word mind" title="How to Think Smarter Without Letting Emotions Take Over" caption="How to Think Smarter Without Letting Emotions Take Over - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)" >}}
 
 This technique works in everyday conversations too. We often want to talk quickly, to say everything at once. But holding back, letting a pause stretch out, can lead to much richer communication. You’ll notice people share more, and you’ll have better, more meaningful interactions.
 
@@ -44,8 +42,7 @@ Thinking smartly is about more than just logic. It’s about pausing, choosing y
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695473507886-d49ecd5d3c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcml0aWNhbCUyMHRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MDkwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Smarter Without Letting Emotions Take Over")
-*How to Think Smarter Without Letting Emotions Take Over - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mindfulness-in-6nRyHLIzRMo)*
+{{< figure src="https://images.unsplash.com/photo-1695473507886-d49ecd5d3c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcml0aWNhbCUyMHRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MDkwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads in" title="How to Think Smarter Without Letting Emotions Take Over" caption="How to Think Smarter Without Letting Emotions Take Over - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mindfulness-in-6nRyHLIzRMo)" >}}
 
 ## Key Takeaways
 

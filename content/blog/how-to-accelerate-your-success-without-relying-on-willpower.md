@@ -12,8 +12,7 @@ original_title = "Se créer des lois personnelles qui vont accélérer ton succ�
 source_medium = "https://medium.com/@phenrysay/59eedac748bc"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695473507874-2bea519874a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXMlMjBzZWxmLWRpc2NpcGxpbmV8ZW58MHwwfHx8MTc1NTQxNjQyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Accelerate Your Success Without Relying on Willpower")
-*How to Accelerate Your Success Without Relying on Willpower - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-A3vKpNZptp8)*
+{{< figure src="https://images.unsplash.com/photo-1695473507874-2bea519874a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXMlMjBzZWxmLWRpc2NpcGxpbmV8ZW58MHwwfHx8MTc1NTQxNjQyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a piece of paper on it" title="How to Accelerate Your Success Without Relying on Willpower" caption="How to Accelerate Your Success Without Relying on Willpower - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-A3vKpNZptp8)" >}}
 
 Have you ever noticed how some people seem to move forward in life with so much clarity and speed, while others keep tripping over the same obstacles? I’ve found a simple, almost obvious trick that can make a huge difference: creating your own personal constitution.
 
@@ -25,8 +24,7 @@ You might have habits or addictions that slow you down. Maybe you get distracted
 
 Don’t go overboard. You don’t need a list of twenty rules. I usually have three or four at most. They’re serious commitments, so you have to be sure before you write them down. But once you do, they become part of your identity. They help you avoid those moments of doubt—“Should I smoke? Should I waste time on this?”—because the answer is already decided.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695313486452-db8f5247bcb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXMlMjBzZWxmLWRpc2NpcGxpbmV8ZW58MHwwfHx8MTc1NTQxNjQyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Accelerate Your Success Without Relying on Willpower")
-*How to Accelerate Your Success Without Relying on Willpower - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-that-says-positive-discipline-next-to-a-typewriter-xKQvqfcj5h4)*
+{{< figure src="https://images.unsplash.com/photo-1695313486452-db8f5247bcb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXMlMjBzZWxmLWRpc2NpcGxpbmV8ZW58MHwwfHx8MTc1NTQxNjQyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A piece of paper that says next to a" title="How to Accelerate Your Success Without Relying on Willpower" caption="How to Accelerate Your Success Without Relying on Willpower - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-that-says-positive-discipline-next-to-a-typewriter-xKQvqfcj5h4)" >}}
 
 Sometimes, the laws you set for yourself are stricter than the laws of your country. There are things that are legal but still harmful for you. That’s why you need your own rules. For example, you might decide to stop watching pornography, because you know it’s not good for you. The more you watch, the more you want, and it becomes a cycle. Your personal constitution breaks that cycle.
 
@@ -46,8 +44,7 @@ And remember, you don’t have to do this alone. You can learn from others, list
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXMlMjBzZWxmLWRpc2NpcGxpbmV8ZW58MHwwfHx8MTc1NTQxNjQyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Accelerate Your Success Without Relying on Willpower")
-*How to Accelerate Your Success Without Relying on Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXMlMjBzZWxmLWRpc2NpcGxpbmV8ZW58MHwwfHx8MTc1NTQxNjQyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Accelerate Your Success Without Relying on Willpower" caption="How to Accelerate Your Success Without Relying on Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 - *Write down 3–4 personal laws that matter most to you. Sign, date, and photograph them.*
 - *Keep these promises visible and treat them as non-negotiable.*

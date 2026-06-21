@@ -12,8 +12,7 @@ original_title = "Comment se créer un petit projet passion ?"
 source_medium = "https://medium.com/@phenrysay/c231b4116db9"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGNyZWF0aXZpdHl8ZW58MHwwfHx8MTc1NjUwNjYxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start a Passion Project Without Feeling Overwhelmed")
-*How to Start a Passion Project Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)*
+{{< figure src="https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGNyZWF0aXZpdHl8ZW58MHwwfHx8MTc1NjUwNjYxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word passion" title="How to Start a Passion Project Without Feeling Overwhelmed" caption="How to Start a Passion Project Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)" >}}
 
 Everyone has a project idea tucked away somewhere. Maybe you want to start something new, but you’re not sure where to begin. I’ve been there too. Right now, I’m working on my Master of Science, and it’s filled with projects—some are required, but a few have really captured my imagination.
 
@@ -23,8 +22,7 @@ Another project I loved was about water pricing and forecasting underground wate
 
 What I want to share with you is this: sometimes a course can seem dull, but if it gives you the tools and leverage to launch a project you’re passionate about, it’s worth it. Especially if you’re paying a lot for university, you’re invested. Even if you don’t learn a ton from the course itself, it can push you to dive deep into something you care about.
 
-![Photo by Nikhil Mitra](https://images.unsplash.com/photo-1523837157348-ffbdaccfc7de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGNyZWF0aXZpdHl8ZW58MHwwfHx8MTc1NjUwNjYxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start a Passion Project Without Feeling Overwhelmed")
-*How to Start a Passion Project Without Feeling Overwhelmed - Photo by [Nikhil Mitra](https://unsplash.com/@nikhilmitra) on [Unsplash](https://unsplash.com/photos/creative-decor-Q_6BS8IN0J8)*
+{{< figure src="https://images.unsplash.com/photo-1523837157348-ffbdaccfc7de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGNyZWF0aXZpdHl8ZW58MHwwfHx8MTc1NjUwNjYxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Decor" title="How to Start a Passion Project Without Feeling Overwhelmed" caption="How to Start a Passion Project Without Feeling Overwhelmed - Photo by [Nikhil Mitra](https://unsplash.com/@nikhilmitra) on [Unsplash](https://unsplash.com/photos/creative-decor-Q_6BS8IN0J8)" >}}
 
 If you wake up in the morning and don’t know what to do, it’s often because you haven’t decided or committed to starting something. But once you commit—whether it’s a university course, an online class, or anything else—you’ll feel the urge to give it your all. You’ll spend your weekends learning more and building your project.
 
@@ -42,8 +40,7 @@ Step by step, you’ll stretch yourself and grow. Don’t put off what you want 
 
 ---
 
-![Get in the Flow | Instagram: @timmossholder](https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGNyZWF0aXZpdHl8ZW58MHwwfHx8MTc1NjUwNjYxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start a Passion Project Without Feeling Overwhelmed")
-*How to Start a Passion Project Without Feeling Overwhelmed - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)*
+{{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGNyZWF0aXZpdHl8ZW58MHwwfHx8MTc1NjUwNjYxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How to Start a Passion Project Without Feeling Overwhelmed" caption="How to Start a Passion Project Without Feeling Overwhelmed - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 ## Key Takeaways
 

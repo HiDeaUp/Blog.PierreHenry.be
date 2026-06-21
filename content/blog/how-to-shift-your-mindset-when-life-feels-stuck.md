@@ -12,8 +12,7 @@ original_title = "Surmonter les obstacles de la vie …"
 source_medium = "https://medium.com/@phenrysay/ecd2e6058446"
 +++
 
-![Photo by Richie Lai Cheong](https://images.unsplash.com/photo-1661681010889-edc18b619970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvdmVyY29taW5nJTIwb2JzdGFjbGVzJTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNTY0OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shift Your Mindset When Life Feels Stuck")
-*How to Shift Your Mindset When Life Feels Stuck - Photo by [Richie Lai Cheong](https://unsplash.com/@richie_slai) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-rocks-XaLMpvz5i0g)*
+{{< figure src="https://images.unsplash.com/photo-1661681010889-edc18b619970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvdmVyY29taW5nJTIwb2JzdGFjbGVzJTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNTY0OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of rocks" title="How to Shift Your Mindset When Life Feels Stuck" caption="How to Shift Your Mindset When Life Feels Stuck - Photo by [Richie Lai Cheong](https://unsplash.com/@richie_slai) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-rocks-XaLMpvz5i0g)" >}}
 
 Sometimes, life throws obstacles in our path that seem impossible to overcome. You might find yourself facing a challenge so big that you can’t see any way out. Disappointment creeps in, and you wonder how you’ll ever move forward. In these moments, it’s easy to feel lost and powerless.
 
@@ -21,8 +20,7 @@ But here’s something that can help: remember the good times. Think back to mom
 
 When you’re weighed down by problems, try stepping outside for a walk. Look up at the stars. Suddenly, the issue that felt so overwhelming becomes just a speck of dust in the universe. Sometimes, I even tap my hand on the table to ground myself and realize how small my worries really are. We often make a mountain out of a molehill, but in reality, most problems are not as big as they seem.
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvdmVyY29taW5nJTIwb2JzdGFjbGVzJTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNTY0OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shift Your Mindset When Life Feels Stuck")
-*How to Shift Your Mindset When Life Feels Stuck - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvdmVyY29taW5nJTIwb2JzdGFjbGVzJTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNTY0OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Shift Your Mindset When Life Feels Stuck" caption="How to Shift Your Mindset When Life Feels Stuck - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 Ask yourself: what can actually stop you? The answer is nothing. That’s the mindset you need. Nothing can stop you. Everything is possible. You will get through this. Move forward with purpose, keep your eyes on your goal, and don’t be afraid to discover new things along the way. Believe in yourself. Remind yourself that you’re capable, and remember that working with others can make you even stronger.
 
@@ -38,8 +36,7 @@ The truth is, the only real limits are the ones you set for yourself. Often, we 
 
 ---
 
-![nature of the city](https://images.unsplash.com/photo-1592978678004-e87062064c6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvdmVyY29taW5nJTIwb2JzdGFjbGVzJTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNTY0OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shift Your Mindset When Life Feels Stuck")
-*How to Shift Your Mindset When Life Feels Stuck - Photo by [engin akyurt](https://unsplash.com/@enginakyurt) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-concrete-RzT1REMHrlU)*
+{{< figure src="https://images.unsplash.com/photo-1592978678004-e87062064c6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvdmVyY29taW5nJTIwb2JzdGFjbGVzJTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNTY0OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="nature of the city" title="How to Shift Your Mindset When Life Feels Stuck" caption="How to Shift Your Mindset When Life Feels Stuck - Photo by [engin akyurt](https://unsplash.com/@enginakyurt) on [Unsplash](https://unsplash.com/photos/green-plant-on-white-concrete-RzT1REMHrlU)" >}}
 
 ## Key Takeaways
 - *Remember your happiest moments to shift your mindset during tough times.*

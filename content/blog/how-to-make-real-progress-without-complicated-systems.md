@@ -12,8 +12,7 @@ original_title = "Ne plus gaspiller son temps !"
 source_medium = "https://medium.com/@phenrysay/1681d5287441"
 +++
 
-![This 3D artwork presents a playful and modern take on the classic alarm clock, blending functionality with creativity. The vibrant blue and yellow color scheme evokes energy and optimism, complemented by stylized stationery elements to highlight themes of productivity and time management. Ideal for use in educational visuals, branding, or creative digital projects.](https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU0MTg1MTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Complicated Systems")
-*How to Make Real Progress Without Complicated Systems - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)*
+{{< figure src="https://images.unsplash.com/photo-1737505191896-8e3cb72e4df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU0MTg1MTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A blue alarm clock with a yellow face" title="How to Make Real Progress Without Complicated Systems" caption="How to Make Real Progress Without Complicated Systems - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-blue-alarm-clock-with-a-yellow-face-Z_e8CTGUd2o)" >}}
 
 If you want to make real progress and see your life move forward, you need to use the right levers. One of the most powerful is having a clear action plan—a way to track your progress every day. This isn’t about complicated systems or fancy tools. It’s about knowing yourself, understanding your long-term goals, and making sure each day counts toward them.
 
@@ -25,8 +24,7 @@ There’s another thing I want to talk about: problems. Sometimes, we blow our p
 
 When you look at life from this bigger perspective, you realize your problems don’t deserve all that negative energy, time, or mental space. Instead of getting stuck on small issues, use that energy to do things you truly enjoy, to invest in your time and your life. Don’t let little problems hold you back.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU0MTg1MTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Complicated Systems")
-*How to Make Real Progress Without Complicated Systems - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU0MTg1MTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Make Real Progress Without Complicated Systems" caption="How to Make Real Progress Without Complicated Systems - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 > _Our problems are often just dust in the universe. When you see the bigger picture, you realize they don’t deserve your energy._
 > — Anonymous
@@ -44,8 +42,7 @@ When you look at life from this bigger perspective, you realize your problems do
 
 ## Action Steps
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU0MTg1MTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Real Progress Without Complicated Systems")
-*How to Make Real Progress Without Complicated Systems - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU0MTg1MTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Make Real Progress Without Complicated Systems" caption="How to Make Real Progress Without Complicated Systems - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 - Write down your long-term goals.
 - Set aside 10–20 minutes every morning for your most important habit.

@@ -12,8 +12,7 @@ original_title = "Limiter ses obligations / engagements 😌"
 source_medium = "https://medium.com/@phenrysay/94aed2bad72a"
 +++
 
-![Photo by Jon Sailer](https://images.unsplash.com/photo-1666102457570-dbd9357ab0ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZXR0aW5nJTIwYm91bmRhcmllcyUyMHNlbGYtY2FyZSUyMHNheWluZyUyMG5vfGVufDB8MHx8fDE3NTYwMDkyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Say No Without Feeling Guilty or Losing Friends")
-*How to Say No Without Feeling Guilty or Losing Friends - Photo by [Jon Sailer](https://unsplash.com/@jonmsailer) on [Unsplash](https://unsplash.com/photos/a-flag-in-a-field-PLNHGNIhUZs)*
+{{< figure src="https://images.unsplash.com/photo-1666102457570-dbd9357ab0ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZXR0aW5nJTIwYm91bmRhcmllcyUyMHNlbGYtY2FyZSUyMHNheWluZyUyMG5vfGVufDB8MHx8fDE3NTYwMDkyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A flag in a field" title="How to Say No Without Feeling Guilty or Losing Friends" caption="How to Say No Without Feeling Guilty or Losing Friends - Photo by [Jon Sailer](https://unsplash.com/@jonmsailer) on [Unsplash](https://unsplash.com/photos/a-flag-in-a-field-PLNHGNIhUZs)" >}}
 
 We all have obligations. There are things we feel we must do, promises we’ve made, or favors we’ve agreed to. Sometimes, these commitments eat up our time and energy. The hours we spend on them could have been used for our own growth, happiness, or simply for things that matter more to us.
 
@@ -23,8 +22,7 @@ Many of us are “people pleasers.” We say yes because we want to be loved or 
 
 The first step to reclaiming your time is building habits. Habits are powerful because they don’t rely on motivation. Motivation comes and goes, but habits stick. You can also set up your environment to make it easier to do what you want, but the real magic happens when your actions become automatic.
 
-![Photo by Pawel Czerwinski](https://images.unsplash.com/photo-1620067278260-b69624a5db6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZXR0aW5nJTIwYm91bmRhcmllcyUyMHNlbGYtY2FyZSUyMHNheWluZyUyMG5vfGVufDB8MHx8fDE3NTYwMDkyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Say No Without Feeling Guilty or Losing Friends")
-*How to Say No Without Feeling Guilty or Losing Friends - Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/photos/text-p7wf5nG8dr0)*
+{{< figure src="https://images.unsplash.com/photo-1620067278260-b69624a5db6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZXR0aW5nJTIwYm91bmRhcmllcyUyMHNlbGYtY2FyZSUyMHNheWluZyUyMG5vfGVufDB8MHx8fDE3NTYwMDkyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Say No Without Feeling Guilty or Losing Friends" caption="How to Say No Without Feeling Guilty or Losing Friends - Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/photos/text-p7wf5nG8dr0)" >}}
 
 However, be careful: obligations can sneak into your routine and become habits themselves. If you’re not careful, your days fill up with things you never really chose. Over time, this can wear you down and pull you away from your true path.
 
@@ -40,8 +38,7 @@ Productivity is not just about doing more. It’s about doing what matters and f
 
 ---
 
-![Photo by Joe Pee](https://images.unsplash.com/photo-1647249418542-cef00707a410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZXR0aW5nJTIwYm91bmRhcmllcyUyMHNlbGYtY2FyZSUyMHNheWluZyUyMG5vfGVufDB8MHx8fDE3NTYwMDkyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Say No Without Feeling Guilty or Losing Friends")
-*How to Say No Without Feeling Guilty or Losing Friends - Photo by [Joe Pee](https://unsplash.com/@partial_exposure) on [Unsplash](https://unsplash.com/photos/a-no-entry-sign-is-shown-against-a-blue-sky-WmFnT03yrZE)*
+{{< figure src="https://images.unsplash.com/photo-1647249418542-cef00707a410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZXR0aW5nJTIwYm91bmRhcmllcyUyMHNlbGYtY2FyZSUyMHNheWluZyUyMG5vfGVufDB8MHx8fDE3NTYwMDkyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A no entry sign is shown against a blue sky" title="How to Say No Without Feeling Guilty or Losing Friends" caption="How to Say No Without Feeling Guilty or Losing Friends - Photo by [Joe Pee](https://unsplash.com/@partial_exposure) on [Unsplash](https://unsplash.com/photos/a-no-entry-sign-is-shown-against-a-blue-sky-WmFnT03yrZE)" >}}
 
 ## Key Takeaways
 

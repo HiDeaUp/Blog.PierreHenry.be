@@ -12,8 +12,7 @@ original_title = "Gagner sa vie en vendant une solution à un problème du quoti
 source_medium = "https://medium.com/@phenrysay/ffc00101d57b"
 +++
 
-![Photo by Fuzail Ahmad](https://images.unsplash.com/photo-1586764921336-8b37580c7aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTY1MjM1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Business by Solving Everyday Problems")
-*How to Build a Business by Solving Everyday Problems - Photo by [Fuzail Ahmad](https://unsplash.com/@timfuzail) on [Unsplash](https://unsplash.com/photos/text-on-white-and-blue-textile-Bf71pNsQpu4)*
+{{< figure src="https://images.unsplash.com/photo-1586764921336-8b37580c7aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTY1MjM1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text on white and blue textile" title="How to Build a Business by Solving Everyday Problems" caption="How to Build a Business by Solving Everyday Problems - Photo by [Fuzail Ahmad](https://unsplash.com/@timfuzail) on [Unsplash](https://unsplash.com/photos/text-on-white-and-blue-textile-Bf71pNsQpu4)" >}}
 
 Progress is rarely about giant leaps. More often, it’s about granular steps—moving forward little by little, day after day. This approach, which I like to call the “cumulative effect,” is the secret behind many great achievements. Imagine dedicating just half an hour of your time today, then another half hour tomorrow, and so on. Over time, these small efforts add up, transforming what seemed minor into something truly significant.
 
@@ -25,8 +24,7 @@ So, how do you get there? Start with a simple goal. Focus on one thing you want 
 
 The best products solve painful and urgent problems. Urgency matters because people are willing to pay much more when a problem needs to be solved right now. If it’s just annoying, they might wait. But if it’s urgent—like a business owner who has three days to save their company—they’ll pay for a solution that works immediately.
 
-![Photo by Teslariu Mihai](https://images.unsplash.com/photo-1647973035166-2abf410c68b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTY1MjM1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Business by Solving Everyday Problems")
-*How to Build a Business by Solving Everyday Problems - Photo by [Teslariu Mihai](https://unsplash.com/@mihaiteslariu0) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-open-business-as-new-normal-abh7zBccJS8)*
+{{< figure src="https://images.unsplash.com/photo-1647973035166-2abf410c68b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTY1MjM1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a sign that says open as new normal" title="How to Build a Business by Solving Everyday Problems" caption="How to Build a Business by Solving Everyday Problems - Photo by [Teslariu Mihai](https://unsplash.com/@mihaiteslariu0) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-open-business-as-new-normal-abh7zBccJS8)" >}}
 
 Finding the right problem isn’t always easy. It can take time. But once you spot it, you can shape your solution and, in turn, generate real value. The most rewarding part is helping others. Of course, your price should reflect the value you provide, but it should always be less than the value your solution brings. If you charge more than the value, people will walk away. You don’t need to be cheap, but you do need to work in a niche where the problem is both painful and urgent. That way, even a high price feels like a bargain to those who need it most.
 
@@ -44,8 +42,7 @@ One last tip: it’s even better if you’re also a user of your own solution. I
 
 ---
 
-![Hand arranging wood block stacking as step stair on wooden table, Business concept for growth success process.](https://images.unsplash.com/photo-1730382625230-3756013c515c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTY1MjM1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Business by Solving Everyday Problems")
-*How to Build a Business by Solving Everyday Problems - Photo by [Imagine Buddy](https://unsplash.com/@imaginebuddy) on [Unsplash](https://unsplash.com/photos/a-person-placing-a-block-into-a-pile-of-wooden-blocks-bTMTggEt5s4)*
+{{< figure src="https://images.unsplash.com/photo-1730382625230-3756013c515c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTY1MjM1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Hand arranging wood block stacking as step stair on wooden table, Business concept for growth success process." title="How to Build a Business by Solving Everyday Problems" caption="How to Build a Business by Solving Everyday Problems - Photo by [Imagine Buddy](https://unsplash.com/@imaginebuddy) on [Unsplash](https://unsplash.com/photos/a-person-placing-a-block-into-a-pile-of-wooden-blocks-bTMTggEt5s4)" >}}
 
 ## Key Takeaways
 

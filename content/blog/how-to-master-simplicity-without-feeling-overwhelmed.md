@@ -12,8 +12,7 @@ original_title = "Comment reprendre la maîtrise sur les choses simples ?"
 source_medium = "https://medium.com/@phenrysay/9d5ca5f3a24c"
 +++
 
-![Life on pause ](https://images.unsplash.com/photo-1642888111222-aa3c507e5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwZm9jdXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTE1ODgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Simplicity Without Feeling Overwhelmed")
-*How to Master Simplicity Without Feeling Overwhelmed - Photo by [Artur Voznenko](https://unsplash.com/@voznenko_artur) on [Unsplash](https://unsplash.com/photos/the-branches-of-a-tree-against-a-blue-sky-fZFNUHdQqjk)*
+{{< figure src="https://images.unsplash.com/photo-1642888111222-aa3c507e5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwZm9jdXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTE1ODgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Life on pause" title="How to Master Simplicity Without Feeling Overwhelmed" caption="How to Master Simplicity Without Feeling Overwhelmed - Photo by [Artur Voznenko](https://unsplash.com/@voznenko_artur) on [Unsplash](https://unsplash.com/photos/the-branches-of-a-tree-against-a-blue-sky-fZFNUHdQqjk)" >}}
 
 Have you ever noticed how complicated life feels when your mind is juggling too many thoughts at once? I want to talk about the power of thinking simply—about focusing on things that aren’t complicated. Often, we try to think about too many things at the same time, and that’s not always easy or pleasant. The more you have on your mind, the more scattered you become. You end up going in every direction, and in the end, you accomplish nothing.
 
@@ -23,8 +22,7 @@ It’s tempting to think about a thousand things at once. You might be thinking,
 
 Meditation can help, but even without it, it’s important to tell yourself, “Enough. Let’s clear out the mental clutter.” It’s not easy, I know. Thoughts keep coming and going. But just telling yourself, “One thing at a time,” can make a difference. Sure, there’s more to do, but you can write those things down on a to-do list. For now, focus on the important thing and nothing else. Give your brain permission to think about only that.
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwZm9jdXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTE1ODgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Simplicity Without Feeling Overwhelmed")
-*How to Master Simplicity Without Feeling Overwhelmed - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwZm9jdXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTE1ODgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Master Simplicity Without Feeling Overwhelmed" caption="How to Master Simplicity Without Feeling Overwhelmed - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 Sometimes, I put on noise-canceling headphones to block out distractions. I focus on the project I want to complete. I go into deep work mode, tackling my task list one item at a time. When I finish, I reward myself—maybe with a coffee, a walk, or finally buying that book I’ve wanted for a while. Then, I move on to the next thing.
 
@@ -40,9 +38,7 @@ This approach is simple, but it works. Focus on one thing, finish it, then move 
 
 ## Key Takeaways
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwZm9jdXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTE1ODgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Simplicity Without Feeling Overwhelmed")
-*How to Master Simplicity Without Feeling Overwhelmed - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwZm9jdXMlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2NTE1ODgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Master Simplicity Without Feeling Overwhelmed" caption="How to Master Simplicity Without Feeling Overwhelmed - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 - *Focus on one thing at a time. Let it be your main goal.*
 - *Write down other tasks so they don’t distract you.*

@@ -12,8 +12,7 @@ original_title = "Apprendre à mieux gérer son temps"
 source_medium = "https://medium.com/@phenrysay/cc7a69eda08e"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTcyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Manage Your Time Without Feeling Overwhelmed")
-*How to Manage Your Time Without Feeling Overwhelmed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTcyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Manage Your Time Without Feeling Overwhelmed" caption="How to Manage Your Time Without Feeling Overwhelmed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Most of us live days that look pretty similar: work, studies, chores, and the feeling that there’s never quite enough time. I was reflecting on this while working on a university assessment, and it struck me how often I talk about organization, time management, happiness, and well-being. These aren’t just buzzwords—they’re essential, especially when your days feel short and your to-do list never ends.
 
@@ -27,8 +26,7 @@ Sending a text is fine, but it’s like junk food for your time. It doesn’t bu
 
 Another key idea is to delegate or eliminate tasks that don’t add value or that you dislike. If you’re a dentist, for example, why spend a week doing your own accounting when you could keep your practice open and let an expert handle the numbers? Yes, it costs money, but you gain time to do what you’re truly good at—and what brings you satisfaction.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTcyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Manage Your Time Without Feeling Overwhelmed")
-*How to Manage Your Time Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTcyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Manage Your Time Without Feeling Overwhelmed" caption="How to Manage Your Time Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Time is a train that never stops. If you don’t use it well, one day you’ll wake up and wonder where it all went. That’s why I suggest taking a few minutes every Sunday to review your week. Ask yourself: Did I use my time well? What went right? What could I have done better? This habit of regular reflection helps you improve, week after week.
 
@@ -52,8 +50,7 @@ Having a vision board helps too. Put up pictures of the life you want, the place
 >
 > — Anonymous
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTcyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Manage Your Time Without Feeling Overwhelmed")
-*How to Manage Your Time Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTcyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Manage Your Time Without Feeling Overwhelmed" caption="How to Manage Your Time Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >

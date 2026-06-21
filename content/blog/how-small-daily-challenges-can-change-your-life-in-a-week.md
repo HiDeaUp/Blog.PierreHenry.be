@@ -12,8 +12,7 @@ original_title = "CE QUE LES DÉFIS ONT CHANGÉ POUR MOI. POURQUOI TOI AUSSI TU 
 source_medium = "https://medium.com/@phenrysay/2fc481aeac1e"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBjaGFsbGVuZ2VzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NTM1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Challenges Can Change Your Life in a Week")
-*How Small Daily Challenges Can Change Your Life in a Week - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBjaGFsbGVuZ2VzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NTM1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How Small Daily Challenges Can Change Your Life in a Week" caption="How Small Daily Challenges Can Change Your Life in a Week - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever felt stuck in a rut, wanting to improve but not sure where to start? I’ve been there too. That’s why I started giving myself small, daily challenges—and it changed everything. Let me share how this simple habit can help you grow, learn, and see real progress in just a week.
 
@@ -32,8 +31,7 @@ Each night, pick a number at random and spend 30 minutes (or up to an hour, depe
 
 ## Why This Works
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBjaGFsbGVuZ2VzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NTM1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Challenges Can Change Your Life in a Week")
-*How Small Daily Challenges Can Change Your Life in a Week - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBjaGFsbGVuZ2VzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NTM1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How Small Daily Challenges Can Change Your Life in a Week" caption="How Small Daily Challenges Can Change Your Life in a Week - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 After just a week, you’ll notice a real difference. Here’s what happens:
 - You invest in yourself and your skills.
@@ -57,8 +55,7 @@ After each challenge, share your work with someone you trust. Ask for honest fee
 
 I love this process because it keeps life interesting and helps me stay sharp. Sometimes, I’ll go for a walk, look at the greenery from my window, or just enjoy the little things. The point is to keep moving, keep trying, and keep learning.
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBjaGFsbGVuZ2VzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NTM1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Challenges Can Change Your Life in a Week")
-*How Small Daily Challenges Can Change Your Life in a Week - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBjaGFsbGVuZ2VzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NTM1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How Small Daily Challenges Can Change Your Life in a Week" caption="How Small Daily Challenges Can Change Your Life in a Week - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 If you want to go even further in your daily improvement, I’ve put together more resources for you. But for now, start with this simple challenge. You’ll be surprised by how much you can achieve in just a week.
 

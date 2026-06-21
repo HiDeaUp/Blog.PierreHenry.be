@@ -12,8 +12,7 @@ original_title = "💔 Intérêts opposés. Comment y faire face ?"
 source_medium = "https://medium.com/@phenrysay/11dffb61d5c3"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, oppose inertia, sluggard, just do it, get up, do the thing, seize the day, carpe diem, yolo, exercise, move more, ](https://images.unsplash.com/photo-1636362915349-d66b4396752e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcHBvc2luZyUyMGludGVyZXN0cyUyMGNvbmZsaWN0JTIwcmVzb2x1dGlvbiUyMG5lZ290aWF0aW9ufGVufDB8MHx8fDE3NTY2Mzk0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get What You Want Without Starting a Fight")
-*How to Get What You Want Without Starting a Fight - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-words-that-spell-out-the-word-oppose-inertia-Pa2kZ8lM6nw)*
+{{< figure src="https://images.unsplash.com/photo-1636362915349-d66b4396752e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcHBvc2luZyUyMGludGVyZXN0cyUyMGNvbmZsaWN0JTIwcmVzb2x1dGlvbiUyMG5lZ290aWF0aW9ufGVufDB8MHx8fDE3NTY2Mzk0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of words that spell out the word oppose inertia" title="How to Get What You Want Without Starting a Fight" caption="How to Get What You Want Without Starting a Fight - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-words-that-spell-out-the-word-oppose-inertia-Pa2kZ8lM6nw)" >}}
 
 Have you ever noticed how, in almost every negotiation or relationship, people want different things? This is what we call opposing interests. It's not just a business term; it's everywhere in life. Let me show you how this plays out and how you can handle it better.
 
@@ -23,8 +22,7 @@ Take online courses, for example. If I sell a course, I want to set a price that
 
 The same thing happens at work. Employers want the best employee, someone who can do the most in the shortest time, ideally without a huge salary. Employees want a great company, friendly colleagues, interesting challenges, and, of course, a high salary. Once again, interests clash.
 
-![Photo by Rock Staar](https://images.unsplash.com/photo-1638262052638-c413289d7cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcHBvc2luZyUyMGludGVyZXN0cyUyMGNvbmZsaWN0JTIwcmVzb2x1dGlvbiUyMG5lZ290aWF0aW9ufGVufDB8MHx8fDE3NTY2Mzk0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get What You Want Without Starting a Fight")
-*How to Get What You Want Without Starting a Fight - Photo by [Rock Staar](https://unsplash.com/@rockstaar_) on [Unsplash](https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-mEzNSWMVUuY)*
+{{< figure src="https://images.unsplash.com/photo-1638262052638-c413289d7cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcHBvc2luZyUyMGludGVyZXN0cyUyMGNvbmZsaWN0JTIwcmVzb2x1dGlvbiUyMG5lZ290aWF0aW9ufGVufDB8MHx8fDE3NTY2Mzk0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two people shaking hands over a wooden table" title="How to Get What You Want Without Starting a Fight" caption="How to Get What You Want Without Starting a Fight - Photo by [Rock Staar](https://unsplash.com/@rockstaar_) on [Unsplash](https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-mEzNSWMVUuY)" >}}
 
 So, what can you do? The answer is simple: find a compromise. There’s your interest, the other person’s interest, and then there’s a third option—a middle ground. To get there, you need to put yourself in the other person’s shoes. Try to see things from their perspective. What do they really want? What matters most to them?
 
@@ -42,8 +40,7 @@ So, when you face opposing interests, remember: it’s normal. Everyone wants so
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653212883720-ce04cb8a1dbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcHBvc2luZyUyMGludGVyZXN0cyUyMGNvbmZsaWN0JTIwcmVzb2x1dGlvbiUyMG5lZ290aWF0aW9ufGVufDB8MHx8fDE3NTY2Mzk0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get What You Want Without Starting a Fight")
-*How to Get What You Want Without Starting a Fight - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-wuBe-g9imc8)*
+{{< figure src="https://images.unsplash.com/photo-1653212883720-ce04cb8a1dbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcHBvc2luZyUyMGludGVyZXN0cyUyMGNvbmZsaWN0JTIwcmVzb2x1dGlvbiUyMG5lZ290aWF0aW9ufGVufDB8MHx8fDE3NTY2Mzk0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a piece of paper on it wuBe g9imc8" title="How to Get What You Want Without Starting a Fight" caption="How to Get What You Want Without Starting a Fight - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-wuBe-g9imc8)" >}}
 
 - Opposing interests are everywhere: in business, at work, and in daily life.
 - To resolve them, try to see things from the other person’s point of view.

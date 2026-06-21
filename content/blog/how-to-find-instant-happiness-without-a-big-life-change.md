@@ -12,8 +12,7 @@ original_title = "Bonheur instantané ⏰"
 source_medium = "https://medium.com/@phenrysay/a8097f5d1141"
 +++
 
-![A man stood at the bridge with an umbrella to protect him from the sun.](https://images.unsplash.com/photo-1683090565349-4d3a9451e7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2MTEzMTc4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Instant Happiness Without a Big Life Change")
-*How to Find Instant Happiness Without a Big Life Change - Photo by [Azaz Ahmad](https://unsplash.com/@azaz08) on [Unsplash](https://unsplash.com/photos/a-person-holding-an-umbrella-in-front-of-the-sun-dqhTQwiFSXA)*
+{{< figure src="https://images.unsplash.com/photo-1683090565349-4d3a9451e7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2MTEzMTc4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man stood at the bridge with an umbrella to protect him from the sun." title="How to Find Instant Happiness Without a Big Life Change" caption="How to Find Instant Happiness Without a Big Life Change - Photo by [Azaz Ahmad](https://unsplash.com/@azaz08) on [Unsplash](https://unsplash.com/photos/a-person-holding-an-umbrella-in-front-of-the-sun-dqhTQwiFSXA)" >}}
 
 Have you ever noticed how sometimes happiness feels out of reach? We push through our days, feeling frustrated or stuck, thinking we need a big change—a vacation, a break, or even a whole new environment. But what if happiness could be found in much simpler ways?
 
@@ -25,8 +24,7 @@ For me, that day, inspiration came from a simple idea. I decided to start buildi
 
 If you try to remember how many coffees you’ve had in the past three weeks, you probably can’t. But if you take a photo of each one, you can count them, see patterns, and maybe even improve your habits. This isn’t just about diet; it’s about understanding how what we eat and drink affects our mood, our focus, and even how we react to stress. Sometimes, feeling irritable or low is linked to what we put in our bodies—too much sugar, for example.
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2MTEzMTc4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Instant Happiness Without a Big Life Change")
-*How to Find Instant Happiness Without a Big Life Change - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2MTEzMTc4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Instant Happiness Without a Big Life Change" caption="How to Find Instant Happiness Without a Big Life Change - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Tracking your food and drinks, even privately and securely, can help you see the bigger picture. Over a year, two years, or even a decade, you’ll have real data about your habits. This can help you make better choices and even give your doctor useful information. As the saying goes, too much of anything is bad for your health. Eating fries or fast food once in a while won’t hurt you, but making it a habit will.
 
@@ -46,8 +44,7 @@ So, I invite you to ask yourself: Am I really here, right now? Or am I just phys
 
 ---
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2MTEzMTc4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Instant Happiness Without a Big Life Change")
-*How to Find Instant Happiness Without a Big Life Change - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2MTEzMTc4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Find Instant Happiness Without a Big Life Change" caption="How to Find Instant Happiness Without a Big Life Change - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 ## Key Takeaways
 

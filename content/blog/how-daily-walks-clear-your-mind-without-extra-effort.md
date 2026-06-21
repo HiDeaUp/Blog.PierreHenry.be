@@ -12,8 +12,7 @@ original_title = "Se créer une routine de marche 🚶"
 source_medium = "https://medium.com/@phenrysay/1cf06ff4cdf8"
 +++
 
-![Photo by Bin White](https://images.unsplash.com/photo-1715309279376-befecf88ea6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3YWxraW5nJTIwZGFpbHklMjByb3V0aW5lJTIwaGVhbHRoeSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjEwMzkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Walks Clear Your Mind Without Extra Effort")
-*How Daily Walks Clear Your Mind Without Extra Effort - Photo by [Bin White](https://unsplash.com/@whitebin) on [Unsplash](https://unsplash.com/photos/a-man-running-across-a-bridge-in-a-park-12U2Fypt2ZI)*
+{{< figure src="https://images.unsplash.com/photo-1715309279376-befecf88ea6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3YWxraW5nJTIwZGFpbHklMjByb3V0aW5lJTIwaGVhbHRoeSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjEwMzkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man running across a bridge in a park" title="How Daily Walks Clear Your Mind Without Extra Effort" caption="How Daily Walks Clear Your Mind Without Extra Effort - Photo by [Bin White](https://unsplash.com/@whitebin) on [Unsplash](https://unsplash.com/photos/a-man-running-across-a-bridge-in-a-park-12U2Fypt2ZI)" >}}
 
 Walking is one of those simple pleasures that often gets overlooked. Yet, it’s a habit that can do so much more than just get your body moving. When you make walking a part of your daily routine, you’re not only taking care of your health, but you’re also giving yourself space to step back and reflect on your life.
 
@@ -23,8 +22,7 @@ Before my walk, I always tackle my most important task of the day. Then, I head 
 
 If you have a job, you can fit a walk in before heading to the office. Or, if your commute allows, you can walk part of the way and use public transport or your car for the rest. Even splitting your journey like this helps you get some fresh air and a change of pace.
 
-![Photo by Shiona Das](https://images.unsplash.com/photo-1721784096144-66843cadfe90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwZGFpbHklMjByb3V0aW5lJTIwaGVhbHRoeSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjEwMzkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Walks Clear Your Mind Without Extra Effort")
-*How Daily Walks Clear Your Mind Without Extra Effort - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-sidewalk-in-a-park-16eeXVh8od8)*
+{{< figure src="https://images.unsplash.com/photo-1721784096144-66843cadfe90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwZGFpbHklMjByb3V0aW5lJTIwaGVhbHRoeSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjEwMzkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person walking down a in a park" title="How Daily Walks Clear Your Mind Without Extra Effort" caption="How Daily Walks Clear Your Mind Without Extra Effort - Photo by [Shiona Das](https://unsplash.com/@shionadas) on [Unsplash](https://unsplash.com/photos/a-person-walking-down-a-sidewalk-in-a-park-16eeXVh8od8)" >}}
 
 One thing I always suggest is to change up your route. Don’t always walk the same path. Try new streets, parks, or neighborhoods. This is great for your creativity and your brain. When you walk somewhere unfamiliar, your mind wakes up, you notice new things, and you start thinking differently. For example, if you find yourself in a street you’ve never visited, you’ll spot new shops or places and wonder how to get from one point to another. This simple change can spark new ideas and connections in your mind.
 
@@ -43,8 +41,7 @@ So, next time you head out, try a different route. Let your curiosity guide you.
 - *If you’re busy, combine walking with your commute or bring breakfast along.*
 - *Small changes in your routine can lead to big shifts in how you think and feel.*
 
-![Photo by Alex Gallegos](https://images.unsplash.com/photo-1711934046952-88c0b0604315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwZGFpbHklMjByb3V0aW5lJTIwaGVhbHRoeSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjEwMzkyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Walks Clear Your Mind Without Extra Effort")
-*How Daily Walks Clear Your Mind Without Extra Effort - Photo by [Alex Gallegos](https://unsplash.com/@alexgallegos) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-next-to-a-tree-0SOZQbxp3U8)*
+{{< figure src="https://images.unsplash.com/photo-1711934046952-88c0b0604315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3YWxraW5nJTIwZGFpbHklMjByb3V0aW5lJTIwaGVhbHRoeSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjEwMzkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman walking down a next to a tree" title="How Daily Walks Clear Your Mind Without Extra Effort" caption="How Daily Walks Clear Your Mind Without Extra Effort - Photo by [Alex Gallegos](https://unsplash.com/@alexgallegos) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-next-to-a-tree-0SOZQbxp3U8)" >}}
 
 ---
 

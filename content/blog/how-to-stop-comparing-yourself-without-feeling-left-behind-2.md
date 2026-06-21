@@ -12,8 +12,7 @@ original_title = "Est-ce que l'herbe est vraiment plus verte chez le voisin ?"
 source_medium = "https://medium.com/@phenrysay/2df6692bf95b"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb21wYXJpc29uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU2MDYxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Comparing Yourself Without Feeling Left Behind")
-*How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb21wYXJpc29uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU2MDYxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Stop Comparing Yourself Without Feeling Left Behind" caption="How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Sitting on my balcony, enjoying a beautiful view and the warmth of the sun, I started thinking about freedom. Many of us dream of traveling the world, believing that others have it easier because of their passports or circumstances. For example, someone from the Philippines might feel limited compared to someone with a French passport. While it’s true that some passports open more doors, it’s still possible to travel to many countries in Asia, even with a so-called “limited” passport.
 
@@ -23,9 +22,7 @@ Life isn’t a race. It’s not about who gets there first. The only person you 
 
 Think of life as climbing a mountain. Each step, no matter how small, brings you closer to the top. If you start with nothing in your bank account and come from a country with a weak currency, maybe your first move is to study or work abroad, or take on freelance jobs for clients in developed countries. In some developing countries, fixed-term deposits can offer high interest rates—sometimes 8 to 12%. This can be a powerful tool to grow your savings safely, unlike the risks of the stock market.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb21wYXJpc29uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU2MDYxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Comparing Yourself Without Feeling Left Behind")
-*How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb21wYXJpc29uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU2MDYxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Stop Comparing Yourself Without Feeling Left Behind" caption="How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 The biggest mistake people make is comparing themselves to others. You end up measuring your own progress against what others choose to show. It’s not a fair comparison, and it’s not helpful. Instead, focus on what you can do, at your own pace. Every small effort counts, and over time, these efforts add up.
 
@@ -41,8 +38,7 @@ Who you spend time with matters too. The people you talk to, the content you con
 > *Small, smart choices, completed consistently over time, lead to radical differences.*  
 — Darren Hardy
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695473507886-d49ecd5d3c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb21wYXJpc29uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU2MDYxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Comparing Yourself Without Feeling Left Behind")
-*How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mindfulness-in-6nRyHLIzRMo)*
+{{< figure src="https://images.unsplash.com/photo-1695473507886-d49ecd5d3c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb21wYXJpc29uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU2MDYxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads in" title="How to Stop Comparing Yourself Without Feeling Left Behind" caption="How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mindfulness-in-6nRyHLIzRMo)" >}}
 
 > *You are the average of the five people you spend the most time with.*  
 — Jim Rohn

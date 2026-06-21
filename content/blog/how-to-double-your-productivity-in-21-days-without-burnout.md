@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/a7ae0ba440b2"
 source_youtube = "https://www.youtube.com/watch?v=3Xa9WIHqL5s"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjAyMS1kYXklMjBjaGFsbGVuZ2UlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NjgyMTk3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Double Your Productivity in 21 Days Without Burnout")
-*How to Double Your Productivity in 21 Days Without Burnout - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjAyMS1kYXklMjBjaGFsbGVuZ2UlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NjgyMTk3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Double Your Productivity in 21 Days Without Burnout" caption="How to Double Your Productivity in 21 Days Without Burnout - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Have you ever wondered how to get more out of your day, not just by working harder, but by working smarter? The secret is not in some magic formula or a new app. It is in the way you approach your daily tasks, how you review your progress, and most importantly, how you compete with yourself rather than with others.
 
@@ -31,8 +30,7 @@ Set aside time for brainstorming. For example, every Saturday or Sunday, open yo
 > _Success is the sum of small efforts, repeated day in and day out._
 > — Robert Collier
 
-![Photo by beyza yurtkuran](https://images.unsplash.com/photo-1701956532761-033da9b487ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjAyMS1kYXklMjBjaGFsbGVuZ2UlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NjgyMTk3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Double Your Productivity in 21 Days Without Burnout")
-*How to Double Your Productivity in 21 Days Without Burnout - Photo by [beyza yurtkuran](https://unsplash.com/@beyzaayurtkuran) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-couch-next-to-a-cup-of-coffee-RFCAormHN54)*
+{{< figure src="https://images.unsplash.com/photo-1701956532761-033da9b487ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjAyMS1kYXklMjBjaGFsbGVuZ2UlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NjgyMTk3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A laptop sitting on top of a couch next to a cup of coffee" title="How to Double Your Productivity in 21 Days Without Burnout" caption="How to Double Your Productivity in 21 Days Without Burnout - Photo by [beyza yurtkuran](https://unsplash.com/@beyzaayurtkuran) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-couch-next-to-a-cup-of-coffee-RFCAormHN54)" >}}
 
 ## Compete Only With Yourself
 
@@ -54,8 +52,7 @@ Focus your energy on what you can control and on making your daily routine bette
 > _The secret of your future is hidden in your daily routine._
 > — Mike Murdock
 
-![Photo by beyza yurtkuran](https://images.unsplash.com/photo-1701956532817-018bd4f4c34b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjAyMS1kYXklMjBjaGFsbGVuZ2UlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NjgyMTk3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Double Your Productivity in 21 Days Without Burnout")
-*How to Double Your Productivity in 21 Days Without Burnout - Photo by [beyza yurtkuran](https://unsplash.com/@beyzaayurtkuran) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-couch-next-to-a-cup-of-coffee-VLxx2kFzx2k)*
+{{< figure src="https://images.unsplash.com/photo-1701956532817-018bd4f4c34b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjAyMS1kYXklMjBjaGFsbGVuZ2UlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NjgyMTk3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A laptop sitting on top of a couch next to a cup of coffee" title="How to Double Your Productivity in 21 Days Without Burnout" caption="How to Double Your Productivity in 21 Days Without Burnout - Photo by [beyza yurtkuran](https://unsplash.com/@beyzaayurtkuran) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-couch-next-to-a-cup-of-coffee-VLxx2kFzx2k)" >}}
 
 ---
 

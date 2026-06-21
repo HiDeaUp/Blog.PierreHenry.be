@@ -12,8 +12,7 @@ original_title = "Les actions prioritaires pour progresser vers vos objectifs pe
 source_medium = "https://medium.com/@phenrysay/386bff25d0a1"
 +++
 
-![Photo by Jincong Zuo](https://images.unsplash.com/photo-1666220657794-6dd939281a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQyMzAxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward When You Feel Stuck—Without Overwhelm")
-*How to Move Forward When You Feel Stuck—Without Overwhelm - Photo by [Jincong Zuo](https://unsplash.com/@jincong) on [Unsplash](https://unsplash.com/photos/a-person-jumping-in-the-air-Z5Q4HoyS91A)*
+{{< figure src="https://images.unsplash.com/photo-1666220657794-6dd939281a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQyMzAxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person jumping in the air" title="How to Move Forward When You Feel Stuck—Without Overwhelm" caption="How to Move Forward When You Feel Stuck—Without Overwhelm - Photo by [Jincong Zuo](https://unsplash.com/@jincong) on [Unsplash](https://unsplash.com/photos/a-person-jumping-in-the-air-Z5Q4HoyS91A)" >}}
 
 Sometimes, we feel stuck—like we’re in a tunnel with no way out. The frustration can be overwhelming, especially when it seems like there’s no end in sight. But here’s something important: there is always a way out. Even when life feels tough, even when money is tight or your health isn’t at its best, perseverance is what counts.
 
@@ -25,8 +24,7 @@ Maybe you don’t like your life much at the moment. But by doing a little bit e
 
 A common excuse is, “I don’t have time or money.” But the truth is, you won’t magically have more time or money later. Unexpected expenses and surprises will always pop up. The best time to start is now, even if it’s just saving 10 euros a day, a week, or a month. It’s a beginning. The same goes for time: everyone can find at least 10 minutes a day. That’s 70 minutes a week, over four and a half hours a month. Ten minutes is more than you think.
 
-![Adventure Awaits](https://images.unsplash.com/photo-1510338832017-d631474dbdd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQyMzAxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward When You Feel Stuck—Without Overwhelm")
-*How to Move Forward When You Feel Stuck—Without Overwhelm - Photo by [Austin Mabe](https://unsplash.com/@mabe12) on [Unsplash](https://unsplash.com/photos/silhouette-photo-of-person-on-mountain-cliff-drEZ7t-b5Dw)*
+{{< figure src="https://images.unsplash.com/photo-1510338832017-d631474dbdd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQyMzAxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Adventure Awaits" title="How to Move Forward When You Feel Stuck—Without Overwhelm" caption="How to Move Forward When You Feel Stuck—Without Overwhelm - Photo by [Austin Mabe](https://unsplash.com/@mabe12) on [Unsplash](https://unsplash.com/photos/silhouette-photo-of-person-on-mountain-cliff-drEZ7t-b5Dw)" >}}
 
 If you feel like you’re facing dead ends everywhere, remember: possibilities still exist. You are the pilot of your own life. No one else will do it for you. Think about what personal projects you can start, what areas you can invest your time in to open new doors. If you know more than the average person, you’re already an expert in your field—and expertise is valuable.
 
@@ -48,8 +46,7 @@ Don’t wait for the perfect moment. Time is like a train that never stops. If y
 - Don’t wait for the perfect moment; start now with what you have.
 - Surround yourself with positive people and take care of your health.
 
-![Photo by Nirmal Chaudhari](https://images.unsplash.com/photo-1693663510229-3d649f43e244?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQyMzAxOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward When You Feel Stuck—Without Overwhelm")
-*How to Move Forward When You Feel Stuck—Without Overwhelm - Photo by [Nirmal Chaudhari](https://unsplash.com/@imnirmal) on [Unsplash](https://unsplash.com/photos/a-man-holding-a-cell-phone-up-in-the-air-UV8FE0DGbOQ)*
+{{< figure src="https://images.unsplash.com/photo-1693663510229-3d649f43e244?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQyMzAxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man holding a cell phone up in the air" title="How to Move Forward When You Feel Stuck—Without Overwhelm" caption="How to Move Forward When You Feel Stuck—Without Overwhelm - Photo by [Nirmal Chaudhari](https://unsplash.com/@imnirmal) on [Unsplash](https://unsplash.com/photos/a-man-holding-a-cell-phone-up-in-the-air-UV8FE0DGbOQ)" >}}
 
 ## Action Steps
 

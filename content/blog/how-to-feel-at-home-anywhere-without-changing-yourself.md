@@ -12,8 +12,7 @@ original_title = "Comment se sentir en harmonie avec l'environnement dans lequel
 source_medium = "https://medium.com/@phenrysay/6fbc42e87370"
 +++
 
-![Buddhist Monk sotting meditation ](https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHdlbGxiZWluZyUyMGhhcm1vbnl8ZW58MHwwfHx8MTc1NTUxODEwMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel at Home Anywhere Without Changing Yourself")
-*How to Feel at Home Anywhere Without Changing Yourself - Photo by [TONG KBP](https://unsplash.com/@2023kbp) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-rock-by-a-river-0J8G8NhmkSU)*
+{{< figure src="https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMHdlbGxiZWluZyUyMGhhcm1vbnl8ZW58MHwwfHx8MTc1NTUxODEwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Buddhist Monk sotting meditation" title="How to Feel at Home Anywhere Without Changing Yourself" caption="How to Feel at Home Anywhere Without Changing Yourself - Photo by [TONG KBP](https://unsplash.com/@2023kbp) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-rock-by-a-river-0J8G8NhmkSU)" >}}
 
 Feeling at ease with your environment—truly in tune with the place you are—can change everything. When you feel good in the space around you, when the atmosphere fits you, everything else seems to fall into place. The environment lifts you up, supports you, and helps you move forward. Yet, we often overlook this. We tend to think it’s all about our knowledge, our self-confidence, or our ability to push through stress. Sure, confidence helps. Some people can keep their cool even in the most stressful places—airports at the last boarding call, chaotic cities, or even after a natural disaster. But for most of us, the environment has a huge impact.
 
@@ -23,8 +22,7 @@ But let’s be honest—not everyone has the luck to live in an inspiring place.
 
 So, what can you do? First, clear your space. Take away the things that don’t serve you. Even if your view isn’t as beautiful as mine, you can still make changes. Maybe you can have a lighter floor, or just open the window to let in some air and light. These small changes can make you feel much better.
 
-![Photo by Emrecan Dora](https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHdlbGxiZWluZyUyMGhhcm1vbnl8ZW58MHwwfHx8MTc1NTUxODEwMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel at Home Anywhere Without Changing Yourself")
-*How to Feel at Home Anywhere Without Changing Yourself - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)*
+{{< figure src="https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHdlbGxiZWluZyUyMGhhcm1vbnl8ZW58MHwwfHx8MTc1NTUxODEwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a log in the woods Zi" title="How to Feel at Home Anywhere Without Changing Yourself" caption="How to Feel at Home Anywhere Without Changing Yourself - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)" >}}
 
 Sometimes, it’s worth making sacrifices now—saving money, skipping unnecessary purchases—so you can invest in a better place later. Spend on experiences, not just possessions. Over time, you might be able to move to a better neighborhood, a place that lifts you up and gives you the atmosphere you dream of. The place you live, the air you breathe, the view you see every day—it all matters more than we admit.
 
@@ -38,8 +36,7 @@ Even if your apartment seems small or dull, you can make it fantastic. It takes 
 
 ---
 
-![Serene Buddha Statue Surrounded by Lush Greenery in Tranquil Woodland Setting - A beautifully weathered Buddha statue sits calmly among vibrant green ivy in a peaceful woodland. Sunlight filters through the trees, casting gentle shadows and enhancing the tranquil atmosphere of this nature retreat.](https://images.unsplash.com/photo-1570799650082-f3eb7207f588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHdlbGxiZWluZyUyMGhhcm1vbnl8ZW58MHwwfHx8MTc1NTUxODEwMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel at Home Anywhere Without Changing Yourself")
-*How to Feel at Home Anywhere Without Changing Yourself - Photo by [Eric Prouzet](https://unsplash.com/@eprouzet) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-gautama-buddha-figurine-FuK9tVXBFoI)*
+{{< figure src="https://images.unsplash.com/photo-1570799650082-f3eb7207f588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMHdlbGxiZWluZyUyMGhhcm1vbnl8ZW58MHwwfHx8MTc1NTUxODEwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Shallow focus photo of gautama buddha" title="How to Feel at Home Anywhere Without Changing Yourself" caption="How to Feel at Home Anywhere Without Changing Yourself - Photo by [Eric Prouzet](https://unsplash.com/@eprouzet) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-gautama-buddha-figurine-FuK9tVXBFoI)" >}}
 
 ## Key Takeaways
 - *Your environment shapes your mood, focus, and progress.*

@@ -12,8 +12,7 @@ original_title = "Réflexion sur la vie. Je dévoile TOUT"
 source_medium = "https://medium.com/@phenrysay/99e14c77f099"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTM4NTMwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Get More Done Without Working Longer Hours")
-*How I Get More Done Without Working Longer Hours - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTM4NTMwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How I Get More Done Without Working Longer Hours" caption="How I Get More Done Without Working Longer Hours - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 If you’ve ever wondered how some people seem to fit so much into their days, you’re not alone. I often get asked, “How do you manage to do so many things?” The truth is, I’m not superhuman. I’m just a regular person who’s found a way to make the most of every day, and I want to share that with you.
 
@@ -29,8 +28,7 @@ Why do I do this? Because time is life. When I waste time, I’m wasting my life
 
 I’m not immune to stress or mental clutter. Like anyone, I can get thrown off by a rude email, a crowded tram, or an unexpected problem at work. That’s why I protect my mornings. By the evening, I’m tired and there are always surprises. But in the morning, I’m in control.
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTM4NTMwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Get More Done Without Working Longer Hours")
-*How I Get More Done Without Working Longer Hours - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTM4NTMwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How I Get More Done Without Working Longer Hours" caption="How I Get More Done Without Working Longer Hours - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 ## Consistency Over Multitasking
 
@@ -54,8 +52,7 @@ Visualization isn’t just for athletes. Think of your day like a marathon—not
 
 Every day, I tell myself: “Today will be an exceptional day. Today will be fantastic. I will succeed in everything I set out to do. I know I’m capable.” This isn’t just positive thinking—it’s a habit that shapes my actions and my results.
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTM4NTMwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Get More Done Without Working Longer Hours")
-*How I Get More Done Without Working Longer Hours - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTM4NTMwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How I Get More Done Without Working Longer Hours" caption="How I Get More Done Without Working Longer Hours - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 > *Regularity pays off. Confidence in yourself is the foundation of everything.*
 > — *Pierre*

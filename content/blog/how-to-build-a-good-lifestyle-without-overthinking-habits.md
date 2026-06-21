@@ -12,9 +12,7 @@ original_title = "Une bonne hygiène de vie 🚀"
 source_medium = "https://medium.com/@phenrysay/6a060b066e30"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, salt, fat, acid, heat, sweet, dessert, humour, humor, afters, cookery, cooking, cordon bleu, basics, cookery basics, samin nosrat, ingredients, 
-](https://images.unsplash.com/photo-1605606437828-598340dfaeb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwbGlmZXN0eWxlJTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMzA5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Good Lifestyle Without Overthinking Habits")
-*How to Build a Good Lifestyle Without Overthinking Habits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-EoP2jDCrgfU)*
+{{< figure src="https://images.unsplash.com/photo-1605606437828-598340dfaeb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwbGlmZXN0eWxlJTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMzA5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build a Good Lifestyle Without Overthinking Habits" caption="How to Build a Good Lifestyle Without Overthinking Habits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-EoP2jDCrgfU)" >}}
 
 ### The Simple Power of Routine
 
@@ -36,8 +34,7 @@ Having a Sunday routine, or any weekly ritual, keeps you active and gives you a 
 
 ## Eat Well, Feel Well
 
-![Sport girl](https://images.unsplash.com/photo-1590587478871-7ca2dc0f4210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGh5JTIwbGlmZXN0eWxlJTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMzA5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Good Lifestyle Without Overthinking Habits")
-*How to Build a Good Lifestyle Without Overthinking Habits - Photo by [Yehor Milohrodskyi](https://unsplash.com/@milohrodskyi) on [Unsplash](https://unsplash.com/photos/woman-in-blue-tank-top-and-black-pants-sitting-on-green-grass-field-IVZjht6QLPI)*
+{{< figure src="https://images.unsplash.com/photo-1590587478871-7ca2dc0f4210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGh5JTIwbGlmZXN0eWxlJTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMzA5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Sport girl" title="How to Build a Good Lifestyle Without Overthinking Habits" caption="How to Build a Good Lifestyle Without Overthinking Habits - Photo by [Yehor Milohrodskyi](https://unsplash.com/@milohrodskyi) on [Unsplash](https://unsplash.com/photos/woman-in-blue-tank-top-and-black-pants-sitting-on-green-grass-field-IVZjht6QLPI)" >}}
 
 Eating a balanced diet is just as important as sleep. We all know to avoid too much sugar, but even fruit juices can be tricky. Natural juices may not have added sugar, but they pack in the sugar of many fruits in one small bottle. Your body isn’t made to digest the equivalent of six or ten apples at once. Plus, when you drink juice, you miss out on the benefits of the fruit’s skin, which is full of nutrients.
 
@@ -59,8 +56,7 @@ So, what does it take to feel good and live well? It’s not complicated. Move y
 
 Life is too short not to enjoy it fully. Sometimes, just finding the name of a park or a small detail can bring a smile. It’s these little joys, combined with healthy habits, that make life beautiful.
 
-![Photo by The Worthy Goods](https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGh5JTIwbGlmZXN0eWxlJTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMzA5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Good Lifestyle Without Overthinking Habits")
-*How to Build a Good Lifestyle Without Overthinking Habits - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)*
+{{< figure src="https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGh5JTIwbGlmZXN0eWxlJTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMzA5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of white boxes with black text on a wooden surface" title="How to Build a Good Lifestyle Without Overthinking Habits" caption="How to Build a Good Lifestyle Without Overthinking Habits - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)" >}}
 
 ---
 

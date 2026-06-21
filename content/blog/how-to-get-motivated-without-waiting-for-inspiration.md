@@ -12,8 +12,7 @@ original_title = "Tu manques d'enthousiasme ? Fais ÇA MAINTENANT!"
 source_medium = "https://medium.com/@phenrysay/807575549f9b"
 +++
 
-![audiobook, Jim Rohn](https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1ODU5MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated Without Waiting for Inspiration")
-*How to Get Motivated Without Waiting for Inspiration - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)*
+{{< figure src="https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1ODU5MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="audiobook, Jim Rohn" title="How to Get Motivated Without Waiting for Inspiration" caption="How to Get Motivated Without Waiting for Inspiration - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)" >}}
 
 Many of us wake up feeling tired, not really wanting to go to work, school, or even tackle our personal projects. When it comes to tasks that only affect us, motivation can be hard to find. There’s no boss to fire us if we skip a day, no teacher to give us bad grades. So, we procrastinate. We tell ourselves we’ll do it later, and that’s where the problem starts. The lack of immediate consequences tricks us into thinking our actions don’t matter. But over time, this attitude shapes our success, our wealth, and our happiness.
 
@@ -25,8 +24,7 @@ Surrounding yourself with driven people is just as important. If everyone around
 
 Another powerful tool is to create incentives for yourself. Set up small rewards for completing tasks, even if it’s just a hot chocolate or your favorite coffee. These little treats can make a big difference. For bigger goals, tie your reward to something you really want, like a new phone. Promise yourself you’ll only buy it after you finish your project, publish your book, or launch your app. This turns your desire into a motivator, pushing you to work harder and faster.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1ODU5MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated Without Waiting for Inspiration")
-*How to Get Motivated Without Waiting for Inspiration - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1ODU5MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Get Motivated Without Waiting for Inspiration" caption="How to Get Motivated Without Waiting for Inspiration - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Sometimes, you’ll need to go all in—lock yourself away for a few days to finish what you started. The satisfaction of achieving your goal and earning your reward will be much greater than if you had just bought it without effort. You can also set milestones, like reaching a certain number of users or subscribers, before you allow yourself a treat. Adjust these numbers to fit your own goals.
 
@@ -44,8 +42,7 @@ When your environment and your life support you, you’ll achieve things natural
 
 ## Key Takeaways
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1ODU5MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated Without Waiting for Inspiration")
-*How to Get Motivated Without Waiting for Inspiration - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1ODU5MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Get Motivated Without Waiting for Inspiration" caption="How to Get Motivated Without Waiting for Inspiration - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 - *Set clear goals and deadlines for yourself.*
 - *Reward yourself for progress, both big and small.*

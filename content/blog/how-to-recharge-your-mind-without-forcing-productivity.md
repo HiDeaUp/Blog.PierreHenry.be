@@ -12,8 +12,7 @@ original_title = "Comment rendre tout plus simple & léger 🌤"
 source_medium = "https://medium.com/@phenrysay/d7fe602c75df"
 +++
 
-![Photo by Alexey Demidov](https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MDYwNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mind Without Forcing Productivity")
-*How to Recharge Your Mind Without Forcing Productivity - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)*
+{{< figure src="https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MDYwNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a dock looking at a lake" title="How to Recharge Your Mind Without Forcing Productivity" caption="How to Recharge Your Mind Without Forcing Productivity - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)" >}}
 
 Mental lightness is something we often overlook. We tend to underestimate the power of a real break—a moment to let our minds breathe, to simply rest. Whether it’s a short nap, a ten-minute pause lying on the grass, relaxing by a fountain, soaking up the sun, or even taking a swim, these moments matter more than we think.
 
@@ -25,8 +24,7 @@ There were moments when I desperately needed peace and quiet. When you work so m
 
 Taking a walk in a beautiful place, like the Adelaide Botanic Garden in South Australia where I am now, puts things in perspective. The weather is lovely, and being surrounded by nature reminds me how small my problems really are. It’s like looking up at the stars at night and realizing our worries are just dust compared to the universe.
 
-![Model: @justine_aglr ♡ (Instagram)](https://images.unsplash.com/photo-1623082818347-32e58b883166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MDYwNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mind Without Forcing Productivity")
-*How to Recharge Your Mind Without Forcing Productivity - Photo by [Céline Druguet](https://unsplash.com/@celala) on [Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-sitting-on-brown-wooden-dock-during-daytime-xiwXag_I3L0)*
+{{< figure src="https://images.unsplash.com/photo-1623082818347-32e58b883166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MDYwNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Model: @justine_aglr ♡ (Instagram)" title="How to Recharge Your Mind Without Forcing Productivity" caption="How to Recharge Your Mind Without Forcing Productivity - Photo by [Céline Druguet](https://unsplash.com/@celala) on [Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-sitting-on-brown-wooden-dock-during-daytime-xiwXag_I3L0)" >}}
 
 Sometimes, we think our problems are huge, but in reality, we can decide to change everything tomorrow. Life doesn’t always go as planned, and that’s okay. We need to accept that unexpected things happen. That’s just how life is—ups and downs, always.
 
@@ -43,8 +41,7 @@ In the end, life is about enjoying the little things and being present. Take tim
 > _Sometimes the most productive thing you can do is relax._
 > — Mark Black
 
-![Photo by gaspar zaldo](https://images.unsplash.com/photo-1717200996213-84a62230d162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MDYwNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Recharge Your Mind Without Forcing Productivity")
-*How to Recharge Your Mind Without Forcing Productivity - Photo by [gaspar zaldo](https://unsplash.com/@gasparzaldo) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-rock-near-a-body-of-water-v6fPR0cpllM)*
+{{< figure src="https://images.unsplash.com/photo-1717200996213-84a62230d162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MDYwNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a rock near a body of water" title="How to Recharge Your Mind Without Forcing Productivity" caption="How to Recharge Your Mind Without Forcing Productivity - Photo by [gaspar zaldo](https://unsplash.com/@gasparzaldo) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-rock-near-a-body-of-water-v6fPR0cpllM)" >}}
 
 > _Almost everything will work again if you unplug it for a few minutes, including you._
 > — Anne Lamott

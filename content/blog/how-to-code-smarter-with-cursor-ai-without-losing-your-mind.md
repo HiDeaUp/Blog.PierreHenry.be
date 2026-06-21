@@ -12,8 +12,7 @@ original_title = "Essential Tips for Software Engineers Using Cursor AI to Code 
 source_medium = "https://medium.com/@phenrysay/94861df2be68"
 +++
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwQ3Vyc29yJTIwQUklMjBjb2RpbmclMjB0aXBzfGVufDB8MHx8fDE3NjcyNDY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code Smarter With Cursor AI Without Losing Your Mind")
-*How to Code Smarter With Cursor AI Without Losing Your Mind - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwQ3Vyc29yJTIwQUklMjBjb2RpbmclMjB0aXBzfGVufDB8MHx8fDE3NjcyNDY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="How to Code Smarter With Cursor AI Without Losing Your Mind" caption="How to Code Smarter With Cursor AI Without Losing Your Mind - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 Alright, my friend, let’s get into it. I’m sitting here with my coffee, wearing my watch (mostly for the time, but hey, it’s also nice to know if my heart’s about to explode when I’m stressed). Today, it’s just you and me, and we’re diving into Cursor AI. I’ve been a software engineer for 12 years, and honestly, if you’re not using AI tools now, you’re going to get left behind. I was slow to pick up AI copilots—started in 2023, even though things were already blowing up in 2022. That’s a whole year late, which in AI time is like a decade. But better late than never.
 
@@ -41,8 +40,7 @@ def fix_dependency():
 
 Normally, you wouldn’t see a function like that in your dependency file. But hey, sometimes AI just hallucinates. Accept the changes that make sense, and don’t be afraid to reject the weird stuff.
 
-![Photo by Van Tay Media](https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwQ3Vyc29yJTIwQUklMjBjb2RpbmclMjB0aXBzfGVufDB8MHx8fDE3NjcyNDY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code Smarter With Cursor AI Without Losing Your Mind")
-*How to Code Smarter With Cursor AI Without Losing Your Mind - Photo by [Van Tay Media](https://unsplash.com/@vantaymedia) on [Unsplash](https://unsplash.com/photos/man-in-black-shirt-using-laptop-computer-and-flat-screen-monitor--S2-AKdWQoQ)*
+{{< figure src="https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwQ3Vyc29yJTIwQUklMjBjb2RpbmclMjB0aXBzfGVufDB8MHx8fDE3NjcyNDY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black shirt using laptop and flat screen monitor S2 AKdWQoQ" title="How to Code Smarter With Cursor AI Without Losing Your Mind" caption="How to Code Smarter With Cursor AI Without Losing Your Mind - Photo by [Van Tay Media](https://unsplash.com/@vantaymedia) on [Unsplash](https://unsplash.com/photos/man-in-black-shirt-using-laptop-computer-and-flat-screen-monitor--S2-AKdWQoQ)" >}}
 
 ---
 
@@ -72,8 +70,7 @@ Fetch the most popular posts on r/sideproject. Find common patterns in viral pos
 
 And if you want, you can give ChatGPT more context by pasting your app’s description. The more info you give, the better the results.
 
-![Photo by Nguyen Dang Hoang Nhu](https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwQ3Vyc29yJTIwQUklMjBjb2RpbmclMjB0aXBzfGVufDB8MHx8fDE3NjcyNDY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code Smarter With Cursor AI Without Losing Your Mind")
-*How to Code Smarter With Cursor AI Without Losing Your Mind - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)*
+{{< figure src="https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwQ3Vyc29yJTIwQUklMjBjb2RpbmclMjB0aXBzfGVufDB8MHx8fDE3NjcyNDY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy in blue t shirt sitting on black office rolling chair in front of F" title="How to Code Smarter With Cursor AI Without Losing Your Mind" caption="How to Code Smarter With Cursor AI Without Losing Your Mind - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)" >}}
 
 ---
 

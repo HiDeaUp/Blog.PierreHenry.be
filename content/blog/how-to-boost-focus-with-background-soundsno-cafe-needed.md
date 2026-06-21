@@ -12,8 +12,7 @@ original_title = "Se manufacturer des états de flow dans ses journées"
 source_medium = "https://medium.com/@phenrysay/6feb2af99ce4"
 +++
 
-![Photo by Aedrian Salazar](https://images.unsplash.com/photo-1653971296122-6b384285ed65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmbG93JTIwc3RhdGUlMjBwcm9kdWN0aXZpdHklMjBiYWNrZ3JvdW5kJTIwbm9pc2V8ZW58MHwwfHx8MTc1NTU1NDkwNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus With Background Sounds—No Café Needed")
-*How to Boost Focus With Background Sounds—No Café Needed - Photo by [Aedrian Salazar](https://unsplash.com/@aedrian) on [Unsplash](https://unsplash.com/photos/a-blurry-image-of-a-red-and-blue-wave-e1e2JiEAd70)*
+{{< figure src="https://images.unsplash.com/photo-1653971296122-6b384285ed65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmbG93JTIwc3RhdGUlMjBwcm9kdWN0aXZpdHklMjBiYWNrZ3JvdW5kJTIwbm9pc2V8ZW58MHwwfHx8MTc1NTU1NDkwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A blurry image of a red and blue wave" title="How to Boost Focus With Background Sounds—No Café Needed" caption="How to Boost Focus With Background Sounds—No Café Needed - Photo by [Aedrian Salazar](https://unsplash.com/@aedrian) on [Unsplash](https://unsplash.com/photos/a-blurry-image-of-a-red-and-blue-wave-e1e2JiEAd70)" >}}
 
 Have you ever noticed how sitting in a café can make you more productive? As a freelancer, I often find myself working in cafés, not just for the coffee, but for the unique atmosphere—the gentle hum of conversations, the clinking of cups, the soft background music. Sometimes, though, the café is too crowded, and all that noise becomes overwhelming. Other times, I’m at home or in a quiet place, and I miss that lively background sound that helps me focus.
 
@@ -29,8 +28,7 @@ Sometimes, I want the gentle buzz of a café, but I’m in an airport, a train s
 
 This is where white noise comes in. White noise isn’t just static; it’s any consistent background sound that helps you focus. For me, discovering white noise changed everything. It lets me invite the atmosphere I want into my day, no matter where I am.
 
-![Liquid Cooled | Blender](https://images.unsplash.com/photo-1738168504702-0fd24e844188?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmbG93JTIwc3RhdGUlMjBwcm9kdWN0aXZpdHklMjBiYWNrZ3JvdW5kJTIwbm9pc2V8ZW58MHwwfHx8MTc1NTU1NDkwNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus With Background Sounds—No Café Needed")
-*How to Boost Focus With Background Sounds—No Café Needed - Photo by [Logan Voss](https://unsplash.com/@loganvoss) on [Unsplash](https://unsplash.com/photos/a-blurry-image-of-a-purple-and-white-background-PmH7FSgcefM)*
+{{< figure src="https://images.unsplash.com/photo-1738168504702-0fd24e844188?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmbG93JTIwc3RhdGUlMjBwcm9kdWN0aXZpdHklMjBiYWNrZ3JvdW5kJTIwbm9pc2V8ZW58MHwwfHx8MTc1NTU1NDkwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Liquid Cooled | Blender" title="How to Boost Focus With Background Sounds—No Café Needed" caption="How to Boost Focus With Background Sounds—No Café Needed - Photo by [Logan Voss](https://unsplash.com/@loganvoss) on [Unsplash](https://unsplash.com/photos/a-blurry-image-of-a-purple-and-white-background-PmH7FSgcefM)" >}}
 
 Here are some of my favorite ways to bring the right sounds into my workspace:
 
@@ -58,8 +56,7 @@ The right background sound can transport you into the mood you need for any task
 
 If you’re skeptical, that’s normal. But give it a try—experiment with different sounds and see how they affect your mood and productivity. You might be surprised by how much of a difference it makes.
 
-![Tuning | Blender 3D](https://images.unsplash.com/photo-1739470413063-7ca67be7c344?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmbG93JTIwc3RhdGUlMjBwcm9kdWN0aXZpdHklMjBiYWNrZ3JvdW5kJTIwbm9pc2V8ZW58MHwwfHx8MTc1NTU1NDkwNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus With Background Sounds—No Café Needed")
-*How to Boost Focus With Background Sounds—No Café Needed - Photo by [Logan Voss](https://unsplash.com/@loganvoss) on [Unsplash](https://unsplash.com/photos/a-reflection-of-a-building-in-the-water-ywXfwVJ6pvs)*
+{{< figure src="https://images.unsplash.com/photo-1739470413063-7ca67be7c344?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmbG93JTIwc3RhdGUlMjBwcm9kdWN0aXZpdHklMjBiYWNrZ3JvdW5kJTIwbm9pc2V8ZW58MHwwfHx8MTc1NTU1NDkwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tuning | Blender 3D" title="How to Boost Focus With Background Sounds—No Café Needed" caption="How to Boost Focus With Background Sounds—No Café Needed - Photo by [Logan Voss](https://unsplash.com/@loganvoss) on [Unsplash](https://unsplash.com/photos/a-reflection-of-a-building-in-the-water-ywXfwVJ6pvs)" >}}
 
 ---
 

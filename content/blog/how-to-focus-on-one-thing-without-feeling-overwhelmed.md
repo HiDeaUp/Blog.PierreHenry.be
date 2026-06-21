@@ -12,8 +12,7 @@ original_title = "Comment ne plus se laisser distraire ? 🫢"
 source_medium = "https://medium.com/@phenrysay/3a286af6f70e"
 +++
 
-![While out and about at a music festival, snapped this while enjoy some good tunes!](https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMGRpc3RyYWN0aW9ufGVufDB8MHx8fDE3NTY1MjA5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on One Thing Without Feeling Overwhelmed")
-*How to Focus on One Thing Without Feeling Overwhelmed - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)*
+{{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMGRpc3RyYWN0aW9ufGVufDB8MHx8fDE3NTY1MjA5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Focus on One Thing Without Feeling Overwhelmed" caption="How to Focus on One Thing Without Feeling Overwhelmed - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
 Have you ever found yourself sitting in a café or waiting in line, and suddenly your mind starts racing with a thousand thoughts? You remember you need to reply to a message, answer an email, call someone back, and maybe even finish a task you started earlier. With our phones always within reach, it’s so easy to jump from one app to another, replying to a text, then quickly checking an email, then opening a reminder, and before you know it, you haven’t actually finished anything.
 
@@ -23,8 +22,7 @@ The truth is, we need to take back control. It’s important to pause and remind
 
 If you want to go even further and truly transform your daily life, remember: focus on the present task with all your attention. Only when it’s done should you move on. Don’t let yourself get pulled in every direction by notifications and messages. Turn them off if you have to. Finish what you started, then tackle the next thing.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMGRpc3RyYWN0aW9ufGVufDB8MHx8fDE3NTY1MjA5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on One Thing Without Feeling Overwhelmed")
-*How to Focus on One Thing Without Feeling Overwhelmed - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMGRpc3RyYWN0aW9ufGVufDB8MHx8fDE3NTY1MjA5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Focus on One Thing Without Feeling Overwhelmed" caption="How to Focus on One Thing Without Feeling Overwhelmed - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 It’s the same with simple things, like putting your glasses down somewhere and forgetting where you left them. You start looking for them, get distracted by something else, and end up feeling lost in your own life. The basic principle is simple: one thing at a time. It really does change everything. You’ll see more clearly, both literally and figuratively.
 
@@ -43,8 +41,7 @@ It’s the same with simple things, like putting your glasses down somewhere and
 - *Give yourself permission to focus fully on the present task.*
 - *You’ll accomplish more and feel less scattered.*
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMGRpc3RyYWN0aW9ufGVufDB8MHx8fDE3NTY1MjA5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on One Thing Without Feeling Overwhelmed")
-*How to Focus on One Thing Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMGRpc3RyYWN0aW9ufGVufDB8MHx8fDE3NTY1MjA5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Focus on One Thing Without Feeling Overwhelmed" caption="How to Focus on One Thing Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ---
 

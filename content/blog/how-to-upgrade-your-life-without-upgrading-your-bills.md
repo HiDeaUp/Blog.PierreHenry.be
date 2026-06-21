@@ -12,8 +12,7 @@ original_title = "POURQUOI TOUT LE MONDE EST EN TRAIN DE TOMBER DANS CE PIÈGE D
 source_medium = "https://medium.com/@phenrysay/db11c01de6db"
 +++
 
-![Scrabble letters spelling 'spend' on American bills](https://images.unsplash.com/photo-1650821414390-276561abd95a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlc3R5bGUlMjBpbmZsYXRpb24lMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBzcGVuZGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE5NjA0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Upgrade Your Life Without Upgrading Your Bills")
-*How to Upgrade Your Life Without Upgrading Your Bills - Photo by [Frugal Flyer](https://unsplash.com/@frugalflyer) on [Unsplash](https://unsplash.com/photos/calendar-VbdUnqoe5UU)*
+{{< figure src="https://images.unsplash.com/photo-1650821414390-276561abd95a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlc3R5bGUlMjBpbmZsYXRpb24lMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBzcGVuZGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE5NjA0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Scrabble letters spelling 'spend' on American bills" title="How to Upgrade Your Life Without Upgrading Your Bills" caption="How to Upgrade Your Life Without Upgrading Your Bills - Photo by [Frugal Flyer](https://unsplash.com/@frugalflyer) on [Unsplash](https://unsplash.com/photos/calendar-VbdUnqoe5UU)" >}}
 
 When you start earning more, it feels natural to want to improve your lifestyle. Maybe you’ve gone without for years, and now you want that bigger car, a nicer apartment, a better neighborhood, or even a pet. Sometimes, you might even be thinking about starting a family. There’s nothing wrong with wanting more comfort, especially if you’ve worked hard for it.
 
@@ -27,8 +26,7 @@ I’m writing this during my lunch break in a tiny park. It’s nothing fancy, b
 
 Maybe the smartest investment isn’t in more stuff, but in your quality of life. Experiences, peace of mind, and a healthy environment matter so much more than possessions. Sure, buying something new can make you happy for a day, but that feeling fades fast. On the other hand, investing in your well-being and your surroundings pays off for years.
 
-![Photo by Sasun Bughdaryan](https://images.unsplash.com/photo-1628282928695-29aaa1536c11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlc3R5bGUlMjBpbmZsYXRpb24lMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBzcGVuZGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE5NjA0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Upgrade Your Life Without Upgrading Your Bills")
-*How to Upgrade Your Life Without Upgrading Your Bills - Photo by [Sasun Bughdaryan](https://unsplash.com/@sasun1990) on [Unsplash](https://unsplash.com/photos/woman-in-white-tank-top-holding-pink-pig-figurine-EmGF98ckNSU)*
+{{< figure src="https://images.unsplash.com/photo-1628282928695-29aaa1536c11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlc3R5bGUlMjBpbmZsYXRpb24lMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBzcGVuZGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE5NjA0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white tank top holding pink pig" title="How to Upgrade Your Life Without Upgrading Your Bills" caption="How to Upgrade Your Life Without Upgrading Your Bills - Photo by [Sasun Bughdaryan](https://unsplash.com/@sasun1990) on [Unsplash](https://unsplash.com/photos/woman-in-white-tank-top-holding-pink-pig-figurine-EmGF98ckNSU)" >}}
 
 Think about your mental space. If you live in a place where you’re always worried about safety, where crime is high and you can’t relax, that stress eats away at you. You deserve to live somewhere safe, where you can walk around at any hour and feel secure. If your current environment doesn’t give you that, maybe it’s time to move somewhere that does.
 
@@ -50,8 +48,7 @@ I know from experience—changing my environment changed everything for me. We d
 
 ---
 
-![Man hand open an empty wallet with copy space](https://images.unsplash.com/photo-1624811532681-e58a7e25f273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlc3R5bGUlMjBpbmZsYXRpb24lMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBzcGVuZGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE5NjA0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Upgrade Your Life Without Upgrading Your Bills")
-*How to Upgrade Your Life Without Upgrading Your Bills - Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/photos/person-holding-brown-leather-bifold-wallet-3aGZ7a97qwA)*
+{{< figure src="https://images.unsplash.com/photo-1624811532681-e58a7e25f273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlc3R5bGUlMjBpbmZsYXRpb24lMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBzcGVuZGluZyUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE5NjA0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man hand open an empty wallet with copy space" title="How to Upgrade Your Life Without Upgrading Your Bills" caption="How to Upgrade Your Life Without Upgrading Your Bills - Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/photos/person-holding-brown-leather-bifold-wallet-3aGZ7a97qwA)" >}}
 
 ## Key Takeaways
 

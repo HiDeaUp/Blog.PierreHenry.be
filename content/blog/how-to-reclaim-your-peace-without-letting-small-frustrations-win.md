@@ -12,8 +12,7 @@ original_title = "RESPIRE : DÉLIVRE TON ESPRIT DES POISONS INVISIBLES QUI ENCHA
 source_medium = "https://medium.com/@phenrysay/62203e092569"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1Mzg0NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reclaim Your Peace Without Letting Small Frustrations Win")
-*How to Reclaim Your Peace Without Letting Small Frustrations Win - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1Mzg0NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Reclaim Your Peace Without Letting Small Frustrations Win" caption="How to Reclaim Your Peace Without Letting Small Frustrations Win - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 Mental pollution is something we all face. It sneaks up on us, often when we least expect it. Maybe you’re enjoying a nice meal at a restaurant, and suddenly, something goes wrong. The food isn’t what you ordered, the bill is off, or your meal arrives cold. What started as a pleasant evening quickly turns sour. You feel frustrated, maybe even angry, and it’s hard to let go.
 
@@ -23,8 +22,7 @@ Why does this happen? Why do small setbacks have the power to spoil our mood, ou
 
 It’s not easy. Sometimes, mental pollution takes over. Frustration, anger, sadness, or even a deep sense of unease can settle in, giving us headaches and draining our energy. It can feel impossible to be ourselves, even when we try. Our minds wander, our attention slips, and we’re left feeling empty or disconnected.
 
-![Photo by Marcel Strauß](https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1Mzg0NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reclaim Your Peace Without Letting Small Frustrations Win")
-*How to Reclaim Your Peace Without Letting Small Frustrations Win - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)*
+{{< figure src="https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1Mzg0NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of the word mental health" title="How to Reclaim Your Peace Without Letting Small Frustrations Win" caption="How to Reclaim Your Peace Without Letting Small Frustrations Win - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)" >}}
 
 But there are ways to break this cycle. One simple tool is conscious breathing. Try the triangle exercise: sit down, breathe in through your nose for three seconds, hold your breath for three seconds, then breathe out through your mouth for three seconds. Repeat this pattern—three, three, three. It’s a small act, but it can help clear away the mental fog and bring you back to yourself.
 
@@ -40,8 +38,7 @@ Managing your mood and tension is essential. It’s about how you process these 
 
 ---
 
-![Mental Health](https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1Mzg0NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reclaim Your Peace Without Letting Small Frustrations Win")
-*How to Reclaim Your Peace Without Letting Small Frustrations Win - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)*
+{{< figure src="https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1Mzg0NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health" title="How to Reclaim Your Peace Without Letting Small Frustrations Win" caption="How to Reclaim Your Peace Without Letting Small Frustrations Win - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)" >}}
 
 ## Key Takeaways
 - Small frustrations can pollute your mind and ruin your day if you let them.

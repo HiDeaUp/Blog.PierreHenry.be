@@ -12,8 +12,7 @@ original_title = "Comment construire des projets de vie pour RÉUSSIR VITE 🚊"
 source_medium = "https://medium.com/@phenrysay/48e3b0f04595"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcXVpY2slMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjE0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life Project Without Wasting Your Evenings")
-*How to Build a Life Project Without Wasting Your Evenings - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
+{{< figure src="https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcXVpY2slMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjE0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface WpoS C209uk" title="How to Build a Life Project Without Wasting Your Evenings" caption="How to Build a Life Project Without Wasting Your Evenings - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)" >}}
 
 As the sun sets over the bay, I find myself reflecting on the importance of having a project—something meaningful to work on, day after day. Whether you’re a student, an employee, living with family, a partner, roommates, or even alone, there’s a common feeling that creeps in when you get home: “What now? What should I do?”
 
@@ -25,9 +24,7 @@ Sam Altman is one of the most active CEOs I’ve seen. Maybe he uses tools to he
 
 But let’s get back to the main point. You can spend hours researching online, or you can commit to a long-term project. If you stick with it, even just an hour a day, after a month or two you’ll have something real to show for it. It’s like compound interest: small efforts add up over time. If you just scroll online and never take action, nothing changes. Learning is good, reading is good, but action is what makes the difference.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live your best life, one life, yolo, carpe diem, mindfulness, do not waste time, just do it, move on, let it go, 
-](https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcXVpY2slMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjE0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life Project Without Wasting Your Evenings")
-*How to Build a Life Project Without Wasting Your Evenings - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)*
+{{< figure src="https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcXVpY2slMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjE0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile that says live your best life" title="How to Build a Life Project Without Wasting Your Evenings" caption="How to Build a Life Project Without Wasting Your Evenings - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)" >}}
 
 Taking action isn’t always easy. Sometimes you don’t know where to start. But it’s the most important thing you can do, and it’s the best investment you’ll ever make.
 
@@ -44,8 +41,7 @@ So my suggestion is simple: start a long-term project. Begin now. Even if it’s
 > _“The best way to get something done is to begin.”_
 — Unknown
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcXVpY2slMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjE0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life Project Without Wasting Your Evenings")
-*How to Build a Life Project Without Wasting Your Evenings - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHJvamVjdHMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwcXVpY2slMjBzdWNjZXNzfGVufDB8MHx8fDE3NTU0MjE0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Build a Life Project Without Wasting Your Evenings" caption="How to Build a Life Project Without Wasting Your Evenings - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 > _“Knowledge is of no value unless you put it into practice.”_
 — Anton Chekhov

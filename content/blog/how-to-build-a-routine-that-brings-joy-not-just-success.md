@@ -12,8 +12,7 @@ original_title = "La routine de détente. Qu’est-ce que c’est ? 🍌"
 source_medium = "https://medium.com/@phenrysay/dab1dad822db"
 +++
 
-![Sign with text shoot on film (Fomapan 200 BW)](https://images.unsplash.com/photo-1691085545734-079d01ef3a52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwc2VsZi1jYXJlJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjYzNDA2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Routine That Brings Joy, Not Just Success")
-*How to Build a Routine That Brings Joy, Not Just Success - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-sign-that-says-relaxare-kRPuujqyAhI)*
+{{< figure src="https://images.unsplash.com/photo-1691085545734-079d01ef3a52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwc2VsZi1jYXJlJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjYzNDA2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Sign with text shoot on film (Fomapan 200 BW)" title="How to Build a Routine That Brings Joy, Not Just Success" caption="How to Build a Routine That Brings Joy, Not Just Success - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-sign-that-says-relaxare-kRPuujqyAhI)" >}}
 
 When people talk about routines, it’s usually about productivity, success, or reaching the next big goal. But what if you built routines for things that simply make you happy? Not for the race, not for the title, not for the money—just for you.
 
@@ -27,8 +26,7 @@ This is called “habit stacking.” You take a new habit and attach it to one t
 
 The real magic happens when these routines become a source of happiness. Even if the rest of your day goes sideways, you’ve already had a moment that was just for you. You’ve had your own little date with yourself—a chance to relax, recharge, and enjoy something that matters to you.
 
-![Photo by Andreas Bentele](https://images.unsplash.com/photo-1704782590001-b6afc4e43ad9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwc2VsZi1jYXJlJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjYzNDA2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Routine That Brings Joy, Not Just Success")
-*How to Build a Routine That Brings Joy, Not Just Success - Photo by [Andreas Bentele](https://unsplash.com/@rocketmediaspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-hammock-with-a-view-of-a-lake-86Z8FQN5QMY)*
+{{< figure src="https://images.unsplash.com/photo-1704782590001-b6afc4e43ad9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwc2VsZi1jYXJlJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjYzNDA2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in a hammock with a view of a lake" title="How to Build a Routine That Brings Joy, Not Just Success" caption="How to Build a Routine That Brings Joy, Not Just Success - Photo by [Andreas Bentele](https://unsplash.com/@rocketmediaspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-hammock-with-a-view-of-a-lake-86Z8FQN5QMY)" >}}
 
 ## Making Time for Yourself
 
@@ -52,8 +50,7 @@ The most important thing is to enjoy the process. Make time for what brings you 
 
 ---
 
-![Photo by Slaapwijsheid.nl](https://images.unsplash.com/photo-1688383454444-f150afc0bc9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwc2VsZi1jYXJlJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjYzNDA2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Routine That Brings Joy, Not Just Success")
-*How to Build a Routine That Brings Joy, Not Just Success - Photo by [Slaapwijsheid.nl](https://unsplash.com/@slaapwijsheid) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-holding-a-cup-of-coffee-5VuPtGCEeNY)*
+{{< figure src="https://images.unsplash.com/photo-1688383454444-f150afc0bc9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwc2VsZi1jYXJlJTIwcm91dGluZXN8ZW58MHwwfHx8MTc1NjYzNDA2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a couch holding a cup of coffee" title="How to Build a Routine That Brings Joy, Not Just Success" caption="How to Build a Routine That Brings Joy, Not Just Success - Photo by [Slaapwijsheid.nl](https://unsplash.com/@slaapwijsheid) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-holding-a-cup-of-coffee-5VuPtGCEeNY)" >}}
 
 ## Key Takeaways
 

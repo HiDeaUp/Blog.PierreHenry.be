@@ -12,8 +12,7 @@ original_title = "La question qui OPTIMISE notre temps 🤯"
 source_medium = "https://medium.com/@phenrysay/cc3bb78f3e2d"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTIxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Productivity With One Simple Question")
-*How to Boost Happiness and Productivity With One Simple Question - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTIxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Boost Happiness and Productivity With One Simple Question" caption="How to Boost Happiness and Productivity With One Simple Question - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Have you ever wondered if you’re really making the most of your time? Not just in terms of getting things done, but also in how fulfilled and happy you feel at the end of the day? There’s a simple habit I use that helps me answer this question, and it’s changed the way I live.
 
@@ -23,8 +22,7 @@ By doing this, you get a clear picture of where your time goes and whether it’
 
 Right now, it’s almost noon. I just asked myself: *What have I done these last few hours?* Was I focused? Honestly, my concentration was average. I found myself multitasking and getting a bit scattered, but I still managed to complete about 80% of what I set out to do. That’s not bad. My happiness level is around 7 or 8 out of 10. The weather is nice, which probably helps, and my apartment is clean since I tidied up yesterday. That also adds to my sense of well-being.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTIxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Productivity With One Simple Question")
-*How to Boost Happiness and Productivity With One Simple Question - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTIxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Boost Happiness and Productivity With One Simple Question" caption="How to Boost Happiness and Productivity With One Simple Question - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Reflecting on your happiness is just as important as managing your time. After all, the real goal in life is to be happy. By checking in with yourself throughout the day, you can see what actually makes you feel good and what doesn’t. You’ll start to notice patterns—certain times of day when you’re more productive or happier. Try to repeat those moments as much as possible.
 
@@ -43,8 +41,7 @@ Remember, we only live once, and time goes by much faster than we think. It’s 
 
 ---
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTIxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Productivity With One Simple Question")
-*How to Boost Happiness and Productivity With One Simple Question - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTIxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Boost Happiness and Productivity With One Simple Question" caption="How to Boost Happiness and Productivity With One Simple Question - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 ## Key Takeaways
 

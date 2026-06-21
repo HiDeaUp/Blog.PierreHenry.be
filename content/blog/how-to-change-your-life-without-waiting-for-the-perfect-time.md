@@ -10,8 +10,7 @@ original_title = "Pourquoi faut il passer à l'action maintenant ? Les lois de 
 source_medium = "https://medium.com/@phenrysay/620f3dbfbb33"
 +++
 
-![A man poses for a silhouette ](https://images.unsplash.com/photo-1640117421601-abd470aab1e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTk5NzcyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Waiting for the Perfect Time")
-*How to Change Your Life Without Waiting for the Perfect Time - Photo by [Imani Manyara](https://unsplash.com/@imanimanyara) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-raising-his-arms-in-the-air-p_ek3Tb08dE)*
+{{< figure src="https://images.unsplash.com/photo-1640117421601-abd470aab1e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTk5NzcyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man poses for a silhouette" title="How to Change Your Life Without Waiting for the Perfect Time" caption="How to Change Your Life Without Waiting for the Perfect Time - Photo by [Imani Manyara](https://unsplash.com/@imanimanyara) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-raising-his-arms-in-the-air-p_ek3Tb08dE)" >}}
 
 We all have changes we want to make. Maybe you want to tidy up your apartment, start eating healthier, or finally break a bad habit. The truth is, the right time to act is always now. Waiting for the “perfect” moment is just another way of putting things off.
 
@@ -21,9 +20,7 @@ Maybe you want to gain or lose weight. Don’t tell yourself you’ll start afte
 
 We tend to overestimate how much we can do in a day, a week, or even a lifetime. We think tomorrow will be different, that we’ll suddenly have more energy or motivation. But the only time we truly control is right now.
 
-![Shine Your Light On Me
-](https://images.unsplash.com/photo-1647835150732-4563469e0e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTk5NzcyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Waiting for the Perfect Time")
-*How to Change Your Life Without Waiting for the Perfect Time - Photo by [JIUNN-YIH LAU](https://unsplash.com/@yihology) on [Unsplash](https://unsplash.com/photos/a-man-standing-in-front-of-the-sun-with-his-arms-outstretched-hSEIqbW5km4)*
+{{< figure src="https://images.unsplash.com/photo-1647835150732-4563469e0e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTk5NzcyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Shine Your Light On Me" title="How to Change Your Life Without Waiting for the Perfect Time" caption="How to Change Your Life Without Waiting for the Perfect Time - Photo by [JIUNN-YIH LAU](https://unsplash.com/@yihology) on [Unsplash](https://unsplash.com/photos/a-man-standing-in-front-of-the-sun-with-his-arms-outstretched-hSEIqbW5km4)" >}}
 
 If you want to build a new habit, or stop an old one like smoking or scrolling on your phone before bed, start today. Don’t wait for a “good” opportunity, because no one knows what tomorrow will bring. The only way to shape your future is to take charge of your days, one action at a time.
 
@@ -41,8 +38,7 @@ By acting now, you give yourself the best chance to create the life you want. Th
 
 ## Key Takeaways
 
-![Photo by Sajad Nori](https://images.unsplash.com/photo-1596033741668-1b2456b94516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTk5NzcyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Waiting for the Perfect Time")
-*How to Change Your Life Without Waiting for the Perfect Time - Photo by [Sajad Nori](https://unsplash.com/@sajadnori) on [Unsplash](https://unsplash.com/photos/silhouette-of-man-standing-on-rock-during-sunset-Y-ZjBdZNvEE)*
+{{< figure src="https://images.unsplash.com/photo-1596033741668-1b2456b94516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTk5NzcyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of man on rock during sunset Y" title="How to Change Your Life Without Waiting for the Perfect Time" caption="How to Change Your Life Without Waiting for the Perfect Time - Photo by [Sajad Nori](https://unsplash.com/@sajadnori) on [Unsplash](https://unsplash.com/photos/silhouette-of-man-standing-on-rock-during-sunset-Y-ZjBdZNvEE)" >}}
 
 - *Don’t wait for the perfect moment; start now.*
 - *We often overestimate how much time we have.*

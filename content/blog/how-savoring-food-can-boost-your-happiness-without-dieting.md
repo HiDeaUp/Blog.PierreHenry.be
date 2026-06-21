@@ -12,8 +12,7 @@ original_title = "Nourriture, thérapie du bonheur ?"
 source_medium = "https://medium.com/@phenrysay/a3ea49c04ec1"
 +++
 
-![Lunchtime with stainless steel, ocean-friendly container. Eco-friendly lifestyle, outdoor living, plastic-free lifestyle, kids outside.](https://images.unsplash.com/photo-1614039637497-601fdd12c2d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsJTIwZWF0aW5nJTIwaGFwcGluZXNzJTIwZm9vZCUyMHRoZXJhcHl8ZW58MHwwfHx8MTc1NjYzMzA5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How Savoring Food Can Boost Your Happiness Without Dieting")
-*How Savoring Food Can Boost Your Happiness Without Dieting - Photo by [Sandra Harris](https://unsplash.com/@girasolmom) on [Unsplash](https://unsplash.com/photos/woman-in-gray-long-sleeve-shirt-sitting-on-brown-wooden-dock-during-daytime-91_UaZ6iGE0)*
+{{< figure src="https://images.unsplash.com/photo-1614039637497-601fdd12c2d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsJTIwZWF0aW5nJTIwaGFwcGluZXNzJTIwZm9vZCUyMHRoZXJhcHl8ZW58MHwwfHx8MTc1NjYzMzA5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Lunchtime with stainless steel, ocean-friendly container. Eco-friendly lifestyle, outdoor living, plastic-free lifestyle, kids outside." title="How Savoring Food Can Boost Your Happiness Without Dieting" caption="How Savoring Food Can Boost Your Happiness Without Dieting - Photo by [Sandra Harris](https://unsplash.com/@girasolmom) on [Unsplash](https://unsplash.com/photos/woman-in-gray-long-sleeve-shirt-sitting-on-brown-wooden-dock-during-daytime-91_UaZ6iGE0)" >}}
 
 When was the last time you truly appreciated what you ate? Not just eating to fill up, but really savoring every bite, letting the flavors linger, and feeling grateful for the moment. For me, cheese is my guilty pleasure. I’m a true cheese lover. It’s my little weakness, my playful guide to happiness. I often snack on cheese, and it brings me real joy.
 
@@ -21,8 +20,7 @@ Maybe for you, it’s risotto, jam sandwiches, tuna with rice, or rustic bread w
 
 What really matters is being present. When I eat, I try to put away my phone and computer. I focus only on the food and, if I’m lucky, the company—whether it’s my partner, my family, my kids, or a close friend. Sharing a meal without distractions lets you truly enjoy both the food and the people around you.
 
-![Photo by Divani](https://images.unsplash.com/photo-1599893326170-5d6bb9f3d330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsJTIwZWF0aW5nJTIwaGFwcGluZXNzJTIwZm9vZCUyMHRoZXJhcHl8ZW58MHwwfHx8MTc1NjYzMzA5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How Savoring Food Can Boost Your Happiness Without Dieting")
-*How Savoring Food Can Boost Your Happiness Without Dieting - Photo by [Divani](https://unsplash.com/@heydivani) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-brown-wooden-table-6k3imOWQmS0)*
+{{< figure src="https://images.unsplash.com/photo-1599893326170-5d6bb9f3d330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsJTIwZWF0aW5nJTIwaGFwcGluZXNzJTIwZm9vZCUyMHRoZXJhcHl8ZW58MHwwfHx8MTc1NjYzMzA5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow smiley emoji on brown wooden table" title="How Savoring Food Can Boost Your Happiness Without Dieting" caption="How Savoring Food Can Boost Your Happiness Without Dieting - Photo by [Divani](https://unsplash.com/@heydivani) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-brown-wooden-table-6k3imOWQmS0)" >}}
 
 Even when I’m alone, I make it a point to savor each bite. Take chocolate, for example. I love dark chocolate. Sometimes I break off a square, let it melt slowly in my mouth, and really pay attention to the taste and texture. I close my eyes and focus only on the sensation. This is a kind of meditation. It’s simple, easy, and fun. If you really enjoy it, it can be a moment of pure pleasure.
 
@@ -38,8 +36,7 @@ So, I invite you to try it. Next time you eat something you love, slow down. Pay
 >
 > — Robert Brault
 
-![Photo by Giorgio Trovato](https://images.unsplash.com/photo-1672764259525-5bc33fa84a69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsJTIwZWF0aW5nJTIwaGFwcGluZXNzJTIwZm9vZCUyMHRoZXJhcHl8ZW58MHwwfHx8MTc1NjYzMzA5NHww&ixlib=rb-4.1.0&q=80&w=1080 "How Savoring Food Can Boost Your Happiness Without Dieting")
-*How Savoring Food Can Boost Your Happiness Without Dieting - Photo by [Giorgio Trovato](https://unsplash.com/@giorgiotrovato) on [Unsplash](https://unsplash.com/photos/a-woman-drinking-a-glass-of-water-on-a-couch-wvHrmfc1SNw)*
+{{< figure src="https://images.unsplash.com/photo-1672764259525-5bc33fa84a69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsJTIwZWF0aW5nJTIwaGFwcGluZXNzJTIwZm9vZCUyMHRoZXJhcHl8ZW58MHwwfHx8MTc1NjYzMzA5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman a glass of water on a couch" title="How Savoring Food Can Boost Your Happiness Without Dieting" caption="How Savoring Food Can Boost Your Happiness Without Dieting - Photo by [Giorgio Trovato](https://unsplash.com/@giorgiotrovato) on [Unsplash](https://unsplash.com/photos/a-woman-drinking-a-glass-of-water-on-a-couch-wvHrmfc1SNw)" >}}
 
 ---
 

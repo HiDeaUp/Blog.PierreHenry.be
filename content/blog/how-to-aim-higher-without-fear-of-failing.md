@@ -20,8 +20,7 @@ The only real limits are the ones we create in our own minds. We all have the po
 
 This isn’t just a nice metaphor. It’s a way of thinking that can change your life. The boundaries we see are often just mental habits, shaped by our environment and the people we spend time with. If you want to grow, you need to stretch those boundaries. One of the best ways to do this is to surround yourself—physically or virtually—with people who have already achieved what you want. Watch their talks, read their biographies, listen to their stories. If you can, travel to places where your field is thriving. Sometimes that means going to conferences in the US, or maybe in Asia, depending on your industry.
 
-![Photo by Claudio Schwarz](https://images.unsplash.com/photo-1654525481543-c4621b0bcdb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGJpZyUyMGdvYWwlMjBzZXR0aW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxMTE3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Aim Higher Without Fear of Failing")
-*How to Aim Higher Without Fear of Failing - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/a-man-walking-down-a-street-next-to-a-building-5c0U4CY_lwA)*
+{{< figure src="https://images.unsplash.com/photo-1654525481543-c4621b0bcdb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGJpZyUyMGdvYWwlMjBzZXR0aW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxMTE3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man walking down a street next to a" title="How to Aim Higher Without Fear of Failing" caption="How to Aim Higher Without Fear of Failing - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/a-man-walking-down-a-street-next-to-a-building-5c0U4CY_lwA)" >}}
 
 Time is your most precious resource. Money comes and goes, but time never returns. Instead of asking, “How can I make more money?” ask, “How can I save time? How can I work smarter, not harder?” Sometimes, this means changing your habits, your environment, or even your country. If you keep doing what you’ve always done, don’t expect new results.
 
@@ -35,8 +34,7 @@ Ask yourself: Who do I need to be around, virtually or in person, to reach my go
 > _Shoot for the moon. Even if you miss, you'll land among the stars._
 — Norman Vincent Peale
 
-![A simple message to dream with shimmery purple and pink glitter bokeh.](https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGJpZyUyMGdvYWwlMjBzZXR0aW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxMTE3NHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Aim Higher Without Fear of Failing")
-*How to Aim Higher Without Fear of Failing - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)*
+{{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGJpZyUyMGdvYWwlMjBzZXR0aW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxMTE3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Aim Higher Without Fear of Failing" caption="How to Aim Higher Without Fear of Failing - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 
 ---
 

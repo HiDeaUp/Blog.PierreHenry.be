@@ -10,8 +10,7 @@ original_title = "⚡️Paroles TOXIQUES. Comment s'en DÉBARRASSER ?"
 source_medium = "https://medium.com/@phenrysay/947ed8a09b88"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056508637-1816bf040a91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0b3hpYyUyMHdvcmRzJTIwc2VsZi10YWxrJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Free from Toxic Words Without Self-Doubt")
-*How to Break Free from Toxic Words Without Self-Doubt - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-words-on-a-wooden-surface-n3rG-AWU9RU)*
+{{< figure src="https://images.unsplash.com/photo-1705056508637-1816bf040a91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0b3hpYyUyMHdvcmRzJTIwc2VsZi10YWxrJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out words on a wooden surface n3rG" title="How to Break Free from Toxic Words Without Self-Doubt" caption="How to Break Free from Toxic Words Without Self-Doubt - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-words-on-a-wooden-surface-n3rG-AWU9RU)" >}}
 
 Have you ever noticed how certain phrases, whether whispered by others or repeated in your own mind, quietly shrink your world? These are not just words. They are seeds planted deep in your thoughts, shaping what you believe is possible for yourself. Sometimes, they come from family, friends, or even from your childhood. Maybe you heard, “You’re not smart enough for that,” or perhaps compliments were always reserved for your siblings, never for you. Over time, these words become the invisible bars of a cage you build for yourself.
 
@@ -23,8 +22,7 @@ Let me share a story that illustrates this perfectly. In India, when a baby elep
 
 The same thing happens with invisible fences for dogs. The boundary is marked by a collar that vibrates when the dog gets too close. Even after the collar is removed, many dogs won’t cross the line. The barrier is gone, but the belief remains.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704650334647-254df6f4456b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0b3hpYyUyMHdvcmRzJTIwc2VsZi10YWxrJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Free from Toxic Words Without Self-Doubt")
-*How to Break Free from Toxic Words Without Self-Doubt - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-jellous-on-a-wooden-surface-XhpfBTIXg0k)*
+{{< figure src="https://images.unsplash.com/photo-1704650334647-254df6f4456b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0b3hpYyUyMHdvcmRzJTIwc2VsZi10YWxrJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word jellous on a wooden surface" title="How to Break Free from Toxic Words Without Self-Doubt" caption="How to Break Free from Toxic Words Without Self-Doubt - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-jellous-on-a-wooden-surface-XhpfBTIXg0k)" >}}
 
 This is exactly what happens with the toxic phrases we absorb. They become invisible fences in our minds, shaping our actions and choices long after their source has disappeared. But here’s the good news: these limits are not real. They exist only in your thoughts, and you can change them.
 
@@ -44,8 +42,7 @@ It’s about breaking down those old walls, one thought at a time. The only real
 
 ## Key Takeaways
 
-![How to Say Words](https://images.unsplash.com/photo-1673515336677-ef1cf9e20ea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0b3hpYyUyMHdvcmRzJTIwc2VsZi10YWxrJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Free from Toxic Words Without Self-Doubt")
-*How to Break Free from Toxic Words Without Self-Doubt - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-how-to-say-on-a-wooden-surface-afuNHP3omeQ)*
+{{< figure src="https://images.unsplash.com/photo-1673515336677-ef1cf9e20ea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0b3hpYyUyMHdvcmRzJTIwc2VsZi10YWxrJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDEyNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="How to Say Words" title="How to Break Free from Toxic Words Without Self-Doubt" caption="How to Break Free from Toxic Words Without Self-Doubt - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-how-to-say-on-a-wooden-surface-afuNHP3omeQ)" >}}
 
 - *Everyday words and phrases can quietly limit your potential.*
 - *Most barriers are mental, not real.*

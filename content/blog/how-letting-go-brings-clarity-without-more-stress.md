@@ -12,8 +12,7 @@ original_title = "Bonheur, liberté… Comment être gagnant ?"
 source_medium = "https://medium.com/@phenrysay/3daac3e55974"
 +++
 
-![A girl in a happy jump](https://images.unsplash.com/photo-1699519315173-98bedea4dc5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBmcmVlZG9tJTIwbGV0dGluZyUyMGdvfGVufDB8MHx8fDE3NTU2MTAyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Letting Go Brings Clarity Without More Stress")
-*How Letting Go Brings Clarity Without More Stress - Photo by [Uliana Semenova](https://unsplash.com/@ulyyyanka) on [Unsplash](https://unsplash.com/photos/a-woman-jumping-in-the-air-in-a-grassy-field-8csxmqbBGS4)*
+{{< figure src="https://images.unsplash.com/photo-1699519315173-98bedea4dc5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBmcmVlZG9tJTIwbGV0dGluZyUyMGdvfGVufDB8MHx8fDE3NTU2MTAyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl in a happy jump" title="How Letting Go Brings Clarity Without More Stress" caption="How Letting Go Brings Clarity Without More Stress - Photo by [Uliana Semenova](https://unsplash.com/@ulyyyanka) on [Unsplash](https://unsplash.com/photos/a-woman-jumping-in-the-air-in-a-grassy-field-8csxmqbBGS4)" >}}
 
 Stress is everywhere. It creeps in at work, at home, and even in the smallest details—like noticing a speck of dust and suddenly feeling tense. Sometimes, it’s the noise outside, the rush of cars, or even a disagreement with someone close. All these things pile up and cloud our minds. When stress takes over, it’s as if the brain freezes. Thinking clearly becomes almost impossible.
 
@@ -23,8 +22,7 @@ Relaxing opens the door to creativity. When you’re calm, your mind becomes cle
 
 One simple trick is to jot down important tasks in a note-taking app. Personally, I use SNX 3, but there are plenty of options like Google Tasks or Apple Reminders. The idea is to “externalize” your brain—get those to-dos out of your head and into a safe place. That way, you can focus on the present without the nagging feeling that you’re forgetting something.
 
-![Climb - rebel](https://images.unsplash.com/photo-1587553999378-dc011d8ae57b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBmcmVlZG9tJTIwbGV0dGluZyUyMGdvfGVufDB8MHx8fDE3NTU2MTAyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Letting Go Brings Clarity Without More Stress")
-*How Letting Go Brings Clarity Without More Stress - Photo by [Marit van Wijngaarden](https://unsplash.com/@maritvanwijngaarden) on [Unsplash](https://unsplash.com/photos/silhouette-of-woman-jumping-on-trampoline-8Sz63pwYjHY)*
+{{< figure src="https://images.unsplash.com/photo-1587553999378-dc011d8ae57b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBmcmVlZG9tJTIwbGV0dGluZyUyMGdvfGVufDB8MHx8fDE3NTU2MTAyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Climb - rebel" title="How Letting Go Brings Clarity Without More Stress" caption="How Letting Go Brings Clarity Without More Stress - Photo by [Marit van Wijngaarden](https://unsplash.com/@maritvanwijngaarden) on [Unsplash](https://unsplash.com/photos/silhouette-of-woman-jumping-on-trampoline-8Sz63pwYjHY)" >}}
 
 Letting go is about saying goodbye to distractions and being here, now. Meditation is a powerful tool for this. Think of it as a workout for your brain. When you meditate, you train yourself to let go of intrusive thoughts. You focus on one thing—your breath, the sound of birds, or even the hum of a fan. Everything else gets tossed aside, like taking out the mental trash.
 
@@ -42,8 +40,7 @@ So, today’s exercise is simple. Give yourself moments to disconnect. Be fully 
 
 ## Key Takeaways
 
-![Photo by Morgan Sessions](https://images.unsplash.com/photo-1421986527537-888d998adb74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBmcmVlZG9tJTIwbGV0dGluZyUyMGdvfGVufDB8MHx8fDE3NTU2MTAyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Letting Go Brings Clarity Without More Stress")
-*How Letting Go Brings Clarity Without More Stress - Photo by [Morgan Sessions](https://unsplash.com/@morgansessions) on [Unsplash](https://unsplash.com/photos/focus-photo-of-a-woman-holding-sparklers-YIN4xUBaqnk)*
+{{< figure src="https://images.unsplash.com/photo-1421986527537-888d998adb74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBmcmVlZG9tJTIwbGV0dGluZyUyMGdvfGVufDB8MHx8fDE3NTU2MTAyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Focus photo of a woman holding" title="How Letting Go Brings Clarity Without More Stress" caption="How Letting Go Brings Clarity Without More Stress - Photo by [Morgan Sessions](https://unsplash.com/@morgansessions) on [Unsplash](https://unsplash.com/photos/focus-photo-of-a-woman-holding-sparklers-YIN4xUBaqnk)" >}}
 
 - Stress scatters your thoughts and blocks clear thinking.
 - Relaxation and presence boost creativity and help you notice the important details.

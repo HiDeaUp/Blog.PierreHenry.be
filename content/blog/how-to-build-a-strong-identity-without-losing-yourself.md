@@ -12,8 +12,7 @@ original_title = "Bâtir une personnalité à succès"
 source_medium = "https://medium.com/@phenrysay/d1b79aaec62d"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384679-119488a72a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjBpZGVudGl0eXxlbnwwfDB8fHwxNzU2NTE0NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Strong Identity Without Losing Yourself")
-*How to Build a Strong Identity Without Losing Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabbled-letters-spelling-growth-on-a-wooden-surface-0m-iXOA5wBo)*
+{{< figure src="https://images.unsplash.com/photo-1705234384679-119488a72a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjBpZGVudGl0eXxlbnwwfDB8fHwxNzU2NTE0NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Letters growth on a wooden surface 0m" title="How to Build a Strong Identity Without Losing Yourself" caption="How to Build a Strong Identity Without Losing Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabbled-letters-spelling-growth-on-a-wooden-surface-0m-iXOA5wBo)" >}}
 
 Have you ever stopped to think about who you really are? Not just your name or your job, but the core of your identity. Defining your identity is much more than a philosophical exercise. It’s the foundation that supports your goals, your habits, and the direction of your life.
 
@@ -25,8 +24,7 @@ Here’s a simple exercise: imagine your name as an entry in the dictionary. Wha
 
 Once you have that vision, you can compare it to your current habits. Are your daily actions helping you become that person, or are they holding you back? If there’s a gap, maybe it’s time to change some habits.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384760-376ad2d0334a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjBpZGVudGl0eXxlbnwwfDB8fHwxNzU2NTE0NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Strong Identity Without Losing Yourself")
-*How to Build a Strong Identity Without Losing Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-group-of-scrabble-tiles-spelling-the-word-growth-A7lNltKhv4s)*
+{{< figure src="https://images.unsplash.com/photo-1705234384760-376ad2d0334a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjBpZGVudGl0eXxlbnwwfDB8fHwxNzU2NTE0NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of tiles the word growth" title="How to Build a Strong Identity Without Losing Yourself" caption="How to Build a Strong Identity Without Losing Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-group-of-scrabble-tiles-spelling-the-word-growth-A7lNltKhv4s)" >}}
 
 Ask yourself how you want to define yourself, both personally and professionally. Don’t set any limits. Deep down, what do you really want? This is your chance to shape your own definition, not just for others, but for yourself.
 
@@ -42,8 +40,7 @@ Ask yourself how you want to define yourself, both personally and professionally
 
 ## Key Takeaways
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1554497342-902a4f8da8ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjBpZGVudGl0eXxlbnwwfDB8fHwxNzU2NTE0NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Strong Identity Without Losing Yourself")
-*How to Build a Strong Identity Without Losing Yourself - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/this-is-who-i-am-5yn5rGI5IUw)*
+{{< figure src="https://images.unsplash.com/photo-1554497342-902a4f8da8ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjBpZGVudGl0eXxlbnwwfDB8fHwxNzU2NTE0NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="This is who i am" title="How to Build a Strong Identity Without Losing Yourself" caption="How to Build a Strong Identity Without Losing Yourself - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/this-is-who-i-am-5yn5rGI5IUw)" >}}
 
 - Defining your identity makes it easier to set and reach your goals.
 - Good habits are important, but a strong sense of self makes them stick.

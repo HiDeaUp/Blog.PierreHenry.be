@@ -12,8 +12,7 @@ original_title = "FOMO - Comment s’en débarrasser ?"
 source_medium = "https://medium.com/@phenrysay/bc008b53f652"
 +++
 
-![Photo by Marcel Strauß](https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGT01PJTIwbWVudGFsJTIwaGVhbHRoJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzgyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat FOMO Without Missing Out on Life")
-*How to Beat FOMO Without Missing Out on Life - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)*
+{{< figure src="https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGT01PJTIwbWVudGFsJTIwaGVhbHRoJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzgyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of the word mental health" title="How to Beat FOMO Without Missing Out on Life" caption="How to Beat FOMO Without Missing Out on Life - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)" >}}
 
 FOMO, or Fear of Missing Out, is everywhere. It’s that restless urge to stay connected, to check every notification, to buy yet another book or sign up for another course—even when you already have a stack of unread ones at home. It’s the feeling that if you don’t keep up, you’ll miss something important. Let’s be honest, sometimes it’s not just curiosity; it’s also a bit of imposter syndrome creeping in.
 
@@ -27,8 +26,7 @@ During this week, he would read, write, and think deeply. It was during one of t
 
 Today, you don’t need a cabin in the woods or a personal chef. You can book an Airbnb, leave your phone at home, or lock it away for a week. The important thing is to step out of your usual environment. Take only the books you really want to read, the ones you’ve been putting off for ages. Let yourself be cut off from the noise.
 
-![Mental Health](https://images.unsplash.com/photo-1604480132736-44c188fe4d20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGT01PJTIwbWVudGFsJTIwaGVhbHRoJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzgyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat FOMO Without Missing Out on Life")
-*How to Beat FOMO Without Missing Out on Life - Photo by [Total Shape](https://unsplash.com/@totalshape) on [Unsplash](https://unsplash.com/photos/the-word-mental-health-spelled-with-scrabbles-next-to-a-green-leaf-Ianw4RdVuoo)*
+{{< figure src="https://images.unsplash.com/photo-1604480132736-44c188fe4d20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGT01PJTIwbWVudGFsJTIwaGVhbHRoJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzgyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health" title="How to Beat FOMO Without Missing Out on Life" caption="How to Beat FOMO Without Missing Out on Life - Photo by [Total Shape](https://unsplash.com/@totalshape) on [Unsplash](https://unsplash.com/photos/the-word-mental-health-spelled-with-scrabbles-next-to-a-green-leaf-Ianw4RdVuoo)" >}}
 
 ## Why It Works
 
@@ -48,8 +46,7 @@ The real secret to beating FOMO is learning to be content. You don’t need ever
 
 ---
 
-![Mental Health](https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGT01PJTIwbWVudGFsJTIwaGVhbHRoJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzgyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat FOMO Without Missing Out on Life")
-*How to Beat FOMO Without Missing Out on Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)*
+{{< figure src="https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGT01PJTIwbWVudGFsJTIwaGVhbHRoJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzgyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health" title="How to Beat FOMO Without Missing Out on Life" caption="How to Beat FOMO Without Missing Out on Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)" >}}
 
 ## Key Takeaways
 

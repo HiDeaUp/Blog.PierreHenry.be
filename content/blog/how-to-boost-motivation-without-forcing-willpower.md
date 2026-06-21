@@ -12,8 +12,7 @@ original_title = "Comment gagner en motivation extérieure 🥇"
 source_medium = "https://medium.com/@phenrysay/42d634e7b845"
 +++
 
-![audiobook, Jim Rohn](https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE4MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Motivation Without Forcing Willpower")
-*How to Boost Motivation Without Forcing Willpower - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)*
+{{< figure src="https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE4MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="audiobook, Jim Rohn" title="How to Boost Motivation Without Forcing Willpower" caption="How to Boost Motivation Without Forcing Willpower - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)" >}}
 
 When we talk about motivation, most people think of that inner fire that pushes us forward. But let’s be honest: sometimes, especially in the early morning, that fire just isn’t there. You know you have a lot to do, but the bed feels too comfortable, and the motivation to get up is nowhere to be found.
 
@@ -23,8 +22,7 @@ As adults, we lose that sense of anticipation. Mondays feel heavy, and Fridays a
 
 One way to bring back that energy is to set up small rewards for yourself. If you finish your project, maybe you treat yourself to your favorite coffee at the local café. Or perhaps you finally buy that online course you’ve been eyeing for a while, a new phone, a smartwatch, or even a new piece of furniture. Sometimes, it could be something as simple as a nice meal out, either alone or with someone you care about.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE4MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Motivation Without Forcing Willpower")
-*How to Boost Motivation Without Forcing Willpower - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE4MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Boost Motivation Without Forcing Willpower" caption="How to Boost Motivation Without Forcing Willpower - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 The key is to give yourself something to look forward to. When you know there’s a reward waiting at the end of your effort, getting out of bed early becomes much easier. You’ll find that extra bit of energy, that external push, to get things done.
 
@@ -40,8 +38,7 @@ So, don’t hesitate to reward yourself. It’s not about spoiling yourself, but
 
 ## Key Takeaways
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE4MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Motivation Without Forcing Willpower")
-*How to Boost Motivation Without Forcing Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTE4MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Boost Motivation Without Forcing Willpower" caption="How to Boost Motivation Without Forcing Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 - *Remember the excitement of childhood mornings and try to recreate it in your daily life.*
 - *Set up small rewards for yourself to make even the toughest days feel lighter.*

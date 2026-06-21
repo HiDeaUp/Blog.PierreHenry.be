@@ -12,8 +12,7 @@ original_title = "Être Intuitif et Rapide !"
 source_medium = "https://medium.com/@phenrysay/adb4b5a8f40b"
 +++
 
-![Photo by Edz Norton](https://images.unsplash.com/photo-1627728195483-f628eceaa21c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbiUyMG1ha2luZyUyMGludHVpdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NjM1MDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Decisions Fast Without Overthinking")
-*How to Make Decisions Fast Without Overthinking - Photo by [Edz Norton](https://unsplash.com/@edznorton) on [Unsplash](https://unsplash.com/photos/text-j5itydU55FI)*
+{{< figure src="https://images.unsplash.com/photo-1627728195483-f628eceaa21c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbiUyMG1ha2luZyUyMGludHVpdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NjM1MDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Make Decisions Fast Without Overthinking" caption="How to Make Decisions Fast Without Overthinking - Photo by [Edz Norton](https://unsplash.com/@edznorton) on [Unsplash](https://unsplash.com/photos/text-j5itydU55FI)" >}}
 
 Making decisions quickly and intuitively is a skill that can change your daily life and your professional world. Every day, we face choices—some small, some big. Sometimes, it’s about how we communicate, how we phrase things, and how we do it with both elegance and efficiency. But let’s be honest, it’s not always easy. It takes time, and above all, it takes practice.
 
@@ -29,8 +28,7 @@ The second key is about how you build your arguments and structure your decision
 
 ## 3. Do Less, But Do It Better
 
-!["Gran cabeza habitada". Krebs Helga.](https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMG1ha2luZyUyMGludHVpdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NjM1MDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Decisions Fast Without Overthinking")
-*How to Make Decisions Fast Without Overthinking - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)*
+{{< figure src="https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMG1ha2luZyUyMGludHVpdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NjM1MDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="&quot;Gran cabeza habitada&quot;. Krebs Helga." title="How to Make Decisions Fast Without Overthinking" caption="How to Make Decisions Fast Without Overthinking - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)" >}}
 
 The third key is to aim higher by doing less. Most of us tend to add more and more to our days, thinking we’ll achieve more. But the truth is, the more we add, the more complicated life becomes. Instead, try removing tasks and simplifying your day. The rule of minimalism applies here: the simpler your day, the less you’ll procrastinate. You’ll have more energy for the few important things that remain, and you’ll do them much better.
 
@@ -50,8 +48,7 @@ So, don’t wait for the perfect moment to start. If you think something is wort
 
 ## Key Takeaways
 
-![Photo by Connie de Vries](https://images.unsplash.com/photo-1732551249043-2b12818434ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMG1ha2luZyUyMGludHVpdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NjM1MDA5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Decisions Fast Without Overthinking")
-*How to Make Decisions Fast Without Overthinking - Photo by [Connie de Vries](https://unsplash.com/@conniedevries) on [Unsplash](https://unsplash.com/photos/a-blue-sign-with-an-arrow-pointing-to-the-right-O2HBWjz0OXY)*
+{{< figure src="https://images.unsplash.com/photo-1732551249043-2b12818434ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMG1ha2luZyUyMGludHVpdGlvbiUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NjM1MDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A blue sign with an arrow to the right" title="How to Make Decisions Fast Without Overthinking" caption="How to Make Decisions Fast Without Overthinking - Photo by [Connie de Vries](https://unsplash.com/@conniedevries) on [Unsplash](https://unsplash.com/photos/a-blue-sign-with-an-arrow-pointing-to-the-right-O2HBWjz0OXY)" >}}
 
 - *Practice making decisions every day, even small ones.*
 - *Structure your decision-making process and question your routines.*

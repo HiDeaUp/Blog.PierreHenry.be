@@ -12,8 +12,7 @@ original_title = "Pourquoi La Force Mentale Est Ton Meilleur Atout Caché"
 source_medium = "https://medium.com/@phenrysay/78291463117a"
 +++
 
-![Nah](https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBzdHJlbmd0aCUyMGZvY3VzJTIwZGFpbHklMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE1NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Mental Strength Without Working Harder")
-*How to Build Mental Strength Without Working Harder - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)*
+{{< figure src="https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBzdHJlbmd0aCUyMGZvY3VzJTIwZGFpbHklMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE1NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman right fist" title="How to Build Mental Strength Without Working Harder" caption="How to Build Mental Strength Without Working Harder - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)" >}}
 
 Have you ever noticed how each new day feels like a blank page, full of possibilities? I was thinking about this as I planned for tomorrow. For me, the end of the day isn’t when the sun sets, but when I go to bed. I always sleep at the same hour, and it’s changed everything. I sleep less, but so much better. My body knows when it’s time to rest, and I fall asleep in a minute. I even track it with my Whoop bracelet—straight to sleep, every night. Waking up is just as regular. Once your body clock is set, you don’t even need an alarm. Most days, I wake up two or three minutes before it rings.
 
@@ -27,8 +26,7 @@ Don’t waste your energy on things that don’t matter. Put it where it counts,
 
 Stress is a concentration killer. It burns through your focus like fire. So, spot what stresses you out and remove it from your environment. Your home should be a safe space, free from negativity and distractions. Every evening, I prepare for the next day. I write it down with a pen in a notebook. That’s how I set myself up for a perfect day.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, play to your strengths, prioritise, prioritise, maximise, success, win, thrive, self image, competition, focus, progress, ](https://images.unsplash.com/photo-1635403771527-7b350cf2b6f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBzdHJlbmd0aCUyMGZvY3VzJTIwZGFpbHklMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE1NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Mental Strength Without Working Harder")
-*How to Build Mental Strength Without Working Harder - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-play-to-your-strength-h3CMrN7MVDo)*
+{{< figure src="https://images.unsplash.com/photo-1635403771527-7b350cf2b6f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBzdHJlbmd0aCUyMGZvY3VzJTIwZGFpbHklMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE1NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles play to your" title="How to Build Mental Strength Without Working Harder" caption="How to Build Mental Strength Without Working Harder - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-play-to-your-strength-h3CMrN7MVDo)" >}}
 
 Here’s how you can do it too: When you wake up, picture your ideal day. Spend the first hour on the most important one or two things. One hour a day doesn’t sound like much, but it’s huge. It’s not about how much time you spend, but how you use your energy and attention.
 
@@ -48,8 +46,7 @@ The best time to act is now. Life is short. Don’t put off what you can do toda
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, christian, jesus, mark, gospel, greatest commandment, heart, soul, mind, strength, love the lord, love god, ](https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBzdHJlbmd0aCUyMGZvY3VzJTIwZGFpbHklMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE1NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Mental Strength Without Working Harder")
-*How to Build Mental Strength Without Working Harder - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)*
+{{< figure src="https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBzdHJlbmd0aCUyMGZvY3VzJTIwZGFpbHklMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDE1NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles the words heart soul mind and" title="How to Build Mental Strength Without Working Harder" caption="How to Build Mental Strength Without Working Harder - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)" >}}
 
 ## Key Takeaways
 

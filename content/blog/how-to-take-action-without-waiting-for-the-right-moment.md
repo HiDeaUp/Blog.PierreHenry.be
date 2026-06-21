@@ -12,8 +12,7 @@ original_title = "Mon moteur, ce sont les défis ! Réussir sans se forcer ?"
 source_medium = "https://medium.com/@phenrysay/8e7af278ff03"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, stop making excuses, excuses, procrastination, just do it, get started, commitment, plan, discipline, work, hard work, exercise, diet, ](https://images.unsplash.com/photo-1626159592381-f6e8bccda33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwb3ZlcmNvbWluZyUyMGV4Y3VzZXMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTU1NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the “Right Moment”")
-*How to Take Action Without Waiting for the “Right Moment” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-vFGKWON91Bc)*
+{{< figure src="https://images.unsplash.com/photo-1626159592381-f6e8bccda33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwb3ZlcmNvbWluZyUyMGV4Y3VzZXMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTU1NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Take Action Without Waiting for the “Right Moment”" caption="How to Take Action Without Waiting for the “Right Moment” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-vFGKWON91Bc)" >}}
 
 Have you ever looked at someone and thought, “Wow, this person inspires me. They seem to have it all together. I wish I could live like that”? Maybe you even imagine yourself in their shoes, living their lifestyle, achieving their kind of success. But then, reality kicks in. You tell yourself, “I’m not ready. It’s not the right time. I just changed jobs. I have too many expenses. I just moved. I can’t start this project now.”
 
@@ -29,8 +28,7 @@ Sometimes, you see people living the life you want. Maybe you dream of opening a
 
 Distractions are everywhere. Your phone, your computer, endless notifications—they all pull you away from what matters. Turn off notifications. Put your phone on silent. If your computer is a source of distraction, consider using a device that only lets you write, like an e-ink tablet, or even lock your laptop away for a while. The point is, your project is more important than any device. Sometimes, you have to go to extremes to protect your focus.
 
-![Don’t forget to stretch. ](https://images.unsplash.com/photo-1612032882906-2fa6f7b5f30f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwb3ZlcmNvbWluZyUyMGV4Y3VzZXMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTU1NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the “Right Moment”")
-*How to Take Action Without Waiting for the “Right Moment” - Photo by [Philip Strong](https://unsplash.com/@strong18philip) on [Unsplash](https://unsplash.com/photos/man-in-black-shorts-running-on-track-field-during-daytime-SQvRd2EVqLM)*
+{{< figure src="https://images.unsplash.com/photo-1612032882906-2fa6f7b5f30f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwb3ZlcmNvbWluZyUyMGV4Y3VzZXMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTU1NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Don’t forget to stretch." title="How to Take Action Without Waiting for the “Right Moment”" caption="How to Take Action Without Waiting for the “Right Moment” - Photo by [Philip Strong](https://unsplash.com/@strong18philip) on [Unsplash](https://unsplash.com/photos/man-in-black-shorts-running-on-track-field-during-daytime-SQvRd2EVqLM)" >}}
 
 Of course, I’m not really suggesting you put your laptop in the fridge (that would be a disaster for your computer!). But you get the idea: do whatever it takes to keep yourself on track. Your tools should help you, not hold you back.
 
@@ -54,8 +52,7 @@ I’m with you all the way. I know you can succeed, but you have to take action.
 
 ---
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwb3ZlcmNvbWluZyUyMGV4Y3VzZXMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTU1NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the “Right Moment”")
-*How to Take Action Without Waiting for the “Right Moment” - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwb3ZlcmNvbWluZyUyMGV4Y3VzZXMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTU1NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Take Action Without Waiting for the “Right Moment”" caption="How to Take Action Without Waiting for the “Right Moment” - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Mon système de productivité pour en faire plus en travaillan
 source_medium = "https://medium.com/@phenrysay/c74803971a43"
 +++
 
-![Desktop after work](https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjB3b3JrJTIwc21hcnRlcnxlbnwwfDB8fHwxNzQ5Mzc5NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Working Harder: My Sleep Routine Hack")
-*How to Get More Done Without Working Harder: My Sleep Routine Hack - Photo by [Luca Bravo](https://unsplash.com/@lucabravo) on [Unsplash](https://unsplash.com/photos/apple-macbook-beside-computer-mouse-on-table-9l_326FISzk)*
+{{< figure src="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjB3b3JrJTIwc21hcnRlcnxlbnwwfDB8fHwxNzQ5Mzc5NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Desktop after work" title="How to Get More Done Without Working Harder: My Sleep Routine Hack" caption="How to Get More Done Without Working Harder: My Sleep Routine Hack - Photo by [Luca Bravo](https://unsplash.com/@lucabravo) on [Unsplash](https://unsplash.com/photos/apple-macbook-beside-computer-mouse-on-table-9l_326FISzk)" >}}
 
 When people talk about productivity, they often mention apps, to-do lists, or fancy morning rituals. But the real foundation of my productivity system is much simpler: sticking to a regular routine, especially when it comes to sleep.
 
@@ -25,8 +24,7 @@ Why be so strict? Because once you allow yourself an exception—just one mornin
 
 This is especially true in winter. It’s cold, you’re tired, and it’s so tempting to crawl back into bed, especially if your partner is still sleeping. But I remind myself: I know what’s good for me. I get up, maybe head to a café, and start my day. If I sleep in, I feel like my whole day is wasted, and it’s much harder to get back on track.
 
-![Searching](https://images.unsplash.com/photo-1527689368864-3a821dbccc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjB3b3JrJTIwc21hcnRlcnxlbnwwfDB8fHwxNzQ5Mzc5NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Working Harder: My Sleep Routine Hack")
-*How to Get More Done Without Working Harder: My Sleep Routine Hack - Photo by [KOBU Agency](https://unsplash.com/@kobuagency) on [Unsplash](https://unsplash.com/photos/two-women-talking-while-looking-at-laptop-computer-7okkFhxrxNw)*
+{{< figure src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjB3b3JrJTIwc21hcnRlcnxlbnwwfDB8fHwxNzQ5Mzc5NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Searching" title="How to Get More Done Without Working Harder: My Sleep Routine Hack" caption="How to Get More Done Without Working Harder: My Sleep Routine Hack - Photo by [KOBU Agency](https://unsplash.com/@kobuagency) on [Unsplash](https://unsplash.com/photos/two-women-talking-while-looking-at-laptop-computer-7okkFhxrxNw)" >}}
 
 The same goes for weekends. If you keep your routine, you’ll notice that over time, you start waking up a few minutes before your alarm, even on days off. But if you break the pattern, Monday mornings become a nightmare. The weekend disrupts your weekly rhythm, and it’s even worse after a vacation or a long break. Getting back into the groove feels almost impossible.
 
@@ -46,8 +44,7 @@ I talk about this in my book, *Le succès n’est pas loin* (“Success Is Not F
 
 ## Key Takeaways
 
-![If you feel the desire to write a book, what would it be about?](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjB3b3JrJTIwc21hcnRlcnxlbnwwfDB8fHwxNzQ5Mzc5NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Working Harder: My Sleep Routine Hack")
-*How to Get More Done Without Working Harder: My Sleep Routine Hack - Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-npxXWgQ33ZQ)*
+{{< figure src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzbGVlcCUyMHJvdXRpbmUlMjB3b3JrJTIwc21hcnRlcnxlbnwwfDB8fHwxNzQ5Mzc5NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="If you feel the desire to write a book, what would it be about?" title="How to Get More Done Without Working Harder: My Sleep Routine Hack" caption="How to Get More Done Without Working Harder: My Sleep Routine Hack - Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-npxXWgQ33ZQ)" >}}
 
 - Stick to a fixed bedtime and wake-up time, even on weekends.
 - Don’t allow exceptions—one slip makes it much harder to keep your routine.

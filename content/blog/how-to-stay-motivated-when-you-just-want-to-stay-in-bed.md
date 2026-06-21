@@ -12,8 +12,7 @@ original_title = "Pourquoi l’enthousiasme est-elle tellement importante pour l
 source_medium = "https://medium.com/@phenrysay/fc96717d6cb1"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRodXNpYXNtJTIwc3VjY2VzcyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU4OTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated When You Just Want to Stay in Bed")
-*How to Stay Motivated When You Just Want to Stay in Bed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnRodXNpYXNtJTIwc3VjY2VzcyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU4OTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Stay Motivated When You Just Want to Stay in Bed" caption="How to Stay Motivated When You Just Want to Stay in Bed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 Have you ever noticed how hard it is to get out of bed some mornings? Maybe you don’t feel like going to work, school, or even tackling your own personal projects. When it comes to things that only affect us, we often lack motivation—there’s no immediate consequence if we skip a day. But the truth is, these small choices add up, shaping our success, happiness, and even our wealth.
 
@@ -29,8 +28,7 @@ Routine is key. Make it a habit. And above all, be consistent. Consistency pays 
 
 Where you are and who you’re with can make a huge difference. Today, I’m in Darlinghurst, and the weather is beautiful—even in winter. A pleasant, safe, and clean environment helps you feel motivated. Surround yourself with people who are already where you want to be. If everyone around you is unmotivated, it’s much harder to rise above. We become the average of the people we spend time with.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRodXNpYXNtJTIwc3VjY2VzcyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU4OTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated When You Just Want to Stay in Bed")
-*How to Stay Motivated When You Just Want to Stay in Bed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRodXNpYXNtJTIwc3VjY2VzcyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU4OTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Stay Motivated When You Just Want to Stay in Bed" caption="How to Stay Motivated When You Just Want to Stay in Bed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 If you can’t find motivating people nearby, use the internet—webinars, YouTube videos, audiobooks. Bring positive influences into your life, even virtually. And always challenge yourself: “Where am I now? Where do I want to be?” Keep pushing for the next level.
 
@@ -51,8 +49,7 @@ Don’t fall into the trap of feeling like a victim. Be the actor in your own li
 
 When your environment and your life support you, you’ll achieve things naturally, almost without thinking. It becomes as easy as following a passion.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRodXNpYXNtJTIwc3VjY2VzcyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU4OTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Motivated When You Just Want to Stay in Bed")
-*How to Stay Motivated When You Just Want to Stay in Bed - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRodXNpYXNtJTIwc3VjY2VzcyUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTU4OTA2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Stay Motivated When You Just Want to Stay in Bed" caption="How to Stay Motivated When You Just Want to Stay in Bed - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 ---
 

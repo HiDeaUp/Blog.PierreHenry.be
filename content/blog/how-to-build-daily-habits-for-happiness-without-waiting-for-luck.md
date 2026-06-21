@@ -12,8 +12,7 @@ original_title = "Comment attirer le BONHEUR ? (être heureux plus facilement)"
 source_medium = "https://medium.com/@phenrysay/bbd3a3a273b7"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHBvc2l0aXZlJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits for Happiness Without Waiting for Luck")
-*How to Build Daily Habits for Happiness Without Waiting for Luck - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHBvc2l0aXZlJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Build Daily Habits for Happiness Without Waiting for Luck" caption="How to Build Daily Habits for Happiness Without Waiting for Luck - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 When we talk about happiness, it’s easy to imagine it as something that just happens to us, like a stroke of luck or a blessing we have to pray for. But real happiness isn’t about waiting for miracles. It’s about building habits and routines that make happiness a natural part of your day. Sometimes, we get overwhelmed or don’t even realize our lifestyle is working against us. We end up living on autopilot, without stepping back to see the bigger picture.
 
@@ -29,8 +28,7 @@ For example, you might tell yourself, “Today is going to be a great day. I’l
 
 A well-organized routine is key. Take a moment to look at your day from above—literally, if you can. If you live in a high-rise or have a balcony, step outside and look at your city. Or, if you’re traveling and see a city from an airplane window, notice all the people living their lives. Some of them might become your friends, colleagues, or even partners in the future. This perspective helps you realize how many opportunities are out there and how much good can come your way.
 
-![mug with happiness](https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHBvc2l0aXZlJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits for Happiness Without Waiting for Luck")
-*How to Build Daily Habits for Happiness Without Waiting for Luck - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)*
+{{< figure src="https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHBvc2l0aXZlJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="mug with happiness" title="How to Build Daily Habits for Happiness Without Waiting for Luck" caption="How to Build Daily Habits for Happiness Without Waiting for Luck - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)" >}}
 
 Most people are kind and well-meaning. Sure, sometimes our interests clash—like a buyer and seller negotiating a price, or an employer and employee discussing salary. But that doesn’t make anyone bad. We just have different goals. Even when someone honks at you in traffic, it’s often for your safety, not out of aggression. We tend to take things personally, as if we’re the center of the universe, but the truth is, everyone is just living their own life.
 
@@ -54,8 +52,7 @@ Stop thinking you’re the center of the world. With nearly 8 billion people on 
 
 ## Take Action—Don’t Wait
 
-![Smiley ball in hand.](https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHBvc2l0aXZlJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Habits for Happiness Without Waiting for Luck")
-*How to Build Daily Habits for Happiness Without Waiting for Luck - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)*
+{{< figure src="https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMGhhYml0cyUyMHBvc2l0aXZlJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NDE3MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball in hand." title="How to Build Daily Habits for Happiness Without Waiting for Luck" caption="How to Build Daily Habits for Happiness Without Waiting for Luck - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)" >}}
 
 The most important thing is to act. Don’t be afraid of change. The best moment to start is always now. Don’t put off until tomorrow what you can do today.
 

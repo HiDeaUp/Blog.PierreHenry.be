@@ -12,8 +12,7 @@ original_title = "À LA RECHERCHE DU BONHEUR. CE QUE TU DOIS SAVOIR 🧠"
 source_medium = "https://medium.com/@phenrysay/1b49985e7fc0"
 +++
 
-![smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679](https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNzE0NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Feeling Trapped")
-*How to Build a Life You Love Without Feeling Trapped - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)*
+{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNzE0NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Build a Life You Love Without Feeling Trapped" caption="How to Build a Life You Love Without Feeling Trapped - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
 
 Have you ever felt trapped in a situation you don’t like, with no way out? Many of us find ourselves stuck, thinking there’s no door to escape a life that doesn’t suit us. But finding that door—the way out that leads to a life you actually enjoy—is not just important, it’s essential. The real challenge is figuring out how to put this into practice every day.
 
@@ -28,8 +27,7 @@ For years, I lived in the cheapest hostels, in dorms with dozens of beds. Oddly 
 > _Happiness is not something ready made. It comes from your own actions._
 > — Dalai Lama
 
-![Smiley ball in hand.](https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNzE0NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Feeling Trapped")
-*How to Build a Life You Love Without Feeling Trapped - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)*
+{{< figure src="https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNzE0NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball in hand." title="How to Build a Life You Love Without Feeling Trapped" caption="How to Build a Life You Love Without Feeling Trapped - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)" >}}
 
 Every stage of life brings different desires. Maybe you want something new now. Listen to your heart. Don’t compare yourself to others or let their opinions shape your path. Your needs are yours alone.
 
@@ -48,8 +46,7 @@ Sometimes, it’s about changing how you see a task. I used to dislike cleaning,
 
 Your environment matters too. If you can, work near a window, go to a café, or change your surroundings now and then. It can make a big difference in how you feel.
 
-![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNzE0NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Feeling Trapped")
-*How to Build a Life You Love Without Feeling Trapped - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
+{{< figure src="https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNzE0NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball" title="How to Build a Life You Love Without Feeling Trapped" caption="How to Build a Life You Love Without Feeling Trapped - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)" >}}
 
 Most importantly, surround yourself with positive people who inspire you. Limit your time with those who bring you down, even if they don’t mean to. If you’re sensitive, this is especially important.
 

@@ -12,8 +12,7 @@ original_title = "Optimiser son bonheur 🥹"
 source_medium = "https://medium.com/@phenrysay/4c87dff2f88d"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjUxODYwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find More Happiness by Rearranging Your Day")
-*How to Find More Happiness by Rearranging Your Day - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjUxODYwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find More Happiness by Rearranging Your Day" caption="How to Find More Happiness by Rearranging Your Day - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 What does it really mean to live “the good life”? Most people imagine it’s about big dreams, a perfect job, or a beautiful home. But the truth is, happiness often comes down to something much simpler: how you organize your days.
 
@@ -23,8 +22,7 @@ Sometimes, the problem isn’t the activity itself. It might be your mindset, sh
 
 When you wake up dreading your day, it’s easy to procrastinate. You might hit snooze, stay in bed longer, and drag your feet to work. You know you have to do certain things, but you just don’t want to. It’s like forcing yourself to go to a job you don’t care about. So, what can you change?
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjUxODYwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find More Happiness by Rearranging Your Day")
-*How to Find More Happiness by Rearranging Your Day - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjUxODYwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find More Happiness by Rearranging Your Day" caption="How to Find More Happiness by Rearranging Your Day - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Maybe you could try working from home, switch teams, or change your tasks at work. Even small tweaks—like listening to music while you work or enjoying a good coffee in the morning—can make a big difference. There are so many ways to make your current situation more pleasant, even if you can’t change everything right away.
 
@@ -40,8 +38,7 @@ It’s not always easy to make these changes, but I believe in you. Remember, th
 >
 > — Pierre-Henry Soria
 
-![Don't Worry Be Happy](https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjUxODYwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find More Happiness by Rearranging Your Day")
-*How to Find More Happiness by Rearranging Your Day - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)*
+{{< figure src="https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjUxODYwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Don't Worry Be Happy" title="How to Find More Happiness by Rearranging Your Day" caption="How to Find More Happiness by Rearranging Your Day - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)" >}}
 
 ---
 

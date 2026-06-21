@@ -12,8 +12,7 @@ original_title = "Comment ne plus échouer ? Le système que j’ai construit"
 source_medium = "https://medium.com/@phenrysay/235999b975b5"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, success favours the prepared, success, preparation, work hard, hard work, plan, think ahead, tactics, winning tactics,  ](https://images.unsplash.com/photo-1620632889724-f1ddc7841c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTU4NTkzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Habits That Stick Without Relying on Motivation")
-*How to Build Habits That Stick Without Relying on Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-OpBmvSt07gY)*
+{{< figure src="https://images.unsplash.com/photo-1620632889724-f1ddc7841c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTU4NTkzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build Habits That Stick Without Relying on Motivation" caption="How to Build Habits That Stick Without Relying on Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-OpBmvSt07gY)" >}}
 
 When you have a routine that sticks, everything becomes easier. You no longer need to rely on bursts of motivation to move forward with your projects. Instead, your actions become automatic. Each morning, you follow the same steps, and these habits carry you further than willpower ever could.
 
@@ -23,8 +22,7 @@ But routines don’t have to be rigid. You can adapt them week by week. For exam
 
 There are weeks when you might want to explore new ideas or invest in personal growth. Maybe you’ll dedicate an hour each morning to reading. Other times, your focus could be on your health. Taking care of your body and mind gives you more energy for everything else. When your lifestyle is balanced, you feel better, and that energy spills over into your projects.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTU4NTkzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Habits That Stick Without Relying on Motivation")
-*How to Build Habits That Stick Without Relying on Motivation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTU4NTkzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Build Habits That Stick Without Relying on Motivation" caption="How to Build Habits That Stick Without Relying on Motivation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 A good routine also includes winding down. Going to bed and waking up at the same time each day helps you stay sharp. In the evenings, you might spend a few minutes journaling, reflecting on your day, and noting what you’re grateful for. These small moments of gratitude and self-reflection help you grow a little each day.
 
@@ -44,8 +42,7 @@ This is what matters most. When you work for someone else, you’re building the
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTU4NTkzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Habits That Stick Without Relying on Motivation")
-*How to Build Habits That Stick Without Relying on Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGJ1aWxkaW5nJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMHN1Y2Nlc3MlMjBzdHJhdGVnaWVzfGVufDB8MHx8fDE3NTU4NTkzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Build Habits That Stick Without Relying on Motivation" caption="How to Build Habits That Stick Without Relying on Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 ## Key Takeaways
 

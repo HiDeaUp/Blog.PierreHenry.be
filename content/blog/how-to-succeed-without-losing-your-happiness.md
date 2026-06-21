@@ -12,8 +12,7 @@ original_title = "Réussir, tout en étant heureux ! 😊"
 source_medium = "https://medium.com/@phenrysay/650f0d7a79a9"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFwcGluZXNzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjYyNjgwNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Without Losing Your Happiness")
-*How to Succeed Without Losing Your Happiness - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFwcGluZXNzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjYyNjgwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Succeed Without Losing Your Happiness" caption="How to Succeed Without Losing Your Happiness - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Success is never easy. Wanting to achieve something meaningful takes a lot of perseverance and daily discipline. If you don’t have enough discipline, or if you don’t know exactly where you want to go each day, you’ll end up scattered, pulled in every direction, and your days will lack structure. Without structure, your days won’t add up to much.
 
@@ -27,8 +26,7 @@ It’s important to regularly ask yourself: Do I really want to do this? If so, 
 
 Step by step, you’ll see how you can improve what you do each day to create your best possible day. That’s what real success is: doing something consistently, every day. Discipline is key, but so is perseverance. There will be days when you don’t feel like doing something, but you know it will have a positive impact on your future. If you skip it, you might regret it later, or it might hurt your progress.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFwcGluZXNzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjYyNjgwNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Without Losing Your Happiness")
-*How to Succeed Without Losing Your Happiness - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFwcGluZXNzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjYyNjgwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Succeed Without Losing Your Happiness" caption="How to Succeed Without Losing Your Happiness - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 The more you do something daily, the more it becomes a habit—just like brushing your teeth or taking a shower. You don’t even think about whether you’ll do it or not; it’s simply part of your routine. That’s how you should approach the things that matter to you. Build habits so you don’t have to rely on motivation or your mood. It becomes automatic: you do it because it’s part of who you are.
 
@@ -50,8 +48,7 @@ These are the key ingredients for a successful life—a life you’ll love. I tr
 
 > *A beautiful life is nothing more than a collection of beautiful days.*
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFwcGluZXNzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjYyNjgwNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Without Losing Your Happiness")
-*How to Succeed Without Losing Your Happiness - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)*
+{{< figure src="https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFwcGluZXNzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjYyNjgwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word love on a wooden surface" title="How to Succeed Without Losing Your Happiness" caption="How to Succeed Without Losing Your Happiness - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)" >}}
 
 ---
 

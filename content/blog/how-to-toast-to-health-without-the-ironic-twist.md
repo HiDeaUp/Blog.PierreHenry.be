@@ -12,8 +12,7 @@ original_title = "À ta santé 🥂 Est-ce vraiment sincère ?"
 source_medium = "https://medium.com/@phenrysay/b1485b3f74f3"
 +++
 
-![Photo by Helena Lopes](https://images.unsplash.com/photo-1584108927819-6572e400a7c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0b2FzdHMlMjBhbGNvaG9sJTIwY3VsdHVyZSUyMHNvY2lhbCUyMGN1c3RvbXN8ZW58MHwwfHx8MTc1NjUwNzQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Toast to Health Without the Ironic Twist")
-*How to Toast to Health Without the Ironic Twist - Photo by [Helena Lopes](https://unsplash.com/@helenalopesph) on [Unsplash](https://unsplash.com/photos/woman-in-black-jacket-holding-drinking-glass-CPbANT3CX0A)*
+{{< figure src="https://images.unsplash.com/photo-1584108927819-6572e400a7c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0b2FzdHMlMjBhbGNvaG9sJTIwY3VsdHVyZSUyMHNvY2lhbCUyMGN1c3RvbXN8ZW58MHwwfHx8MTc1NjUwNzQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black jacket holding glass" title="How to Toast to Health Without the Ironic Twist" caption="How to Toast to Health Without the Ironic Twist - Photo by [Helena Lopes](https://unsplash.com/@helenalopesph) on [Unsplash](https://unsplash.com/photos/woman-in-black-jacket-holding-drinking-glass-CPbANT3CX0A)" >}}
 
 Have you ever stopped to wonder why we say “to your health” when we clink glasses, even though what’s in those glasses is often far from healthy? It’s a funny contradiction. We raise a glass of wine, beer, or something even stronger, and wish each other good health. If we really meant it, shouldn’t we be toasting with an apple instead?
 
@@ -25,8 +24,7 @@ Taking care of your health—both physical and mental—is crucial. I can’t sa
 
 Physical activity is important too. Mix up your routines, don’t let stress take over. There are things in life we can’t change, and it’s better to let those go. Focus on what you can actually influence. That’s where your energy is best spent. The rest? Let it fall away, like tossing out the trash.
 
-![Photo by Lu-Andra Limbu](https://images.unsplash.com/photo-1700143159663-1a464297e96d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0b2FzdHMlMjBhbGNvaG9sJTIwY3VsdHVyZSUyMHNvY2lhbCUyMGN1c3RvbXN8ZW58MHwwfHx8MTc1NjUwNzQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Toast to Health Without the Ironic Twist")
-*How to Toast to Health Without the Ironic Twist - Photo by [Lu-Andra Limbu](https://unsplash.com/@luandra) on [Unsplash](https://unsplash.com/photos/a-couple-of-people-holding-glasses-of-wine-JqccH92PGdg)*
+{{< figure src="https://images.unsplash.com/photo-1700143159663-1a464297e96d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0b2FzdHMlMjBhbGNvaG9sJTIwY3VsdHVyZSUyMHNvY2lhbCUyMGN1c3RvbXN8ZW58MHwwfHx8MTc1NjUwNzQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A couple of people holding glasses of wine" title="How to Toast to Health Without the Ironic Twist" caption="How to Toast to Health Without the Ironic Twist - Photo by [Lu-Andra Limbu](https://unsplash.com/@luandra) on [Unsplash](https://unsplash.com/photos/a-couple-of-people-holding-glasses-of-wine-JqccH92PGdg)" >}}
 
 I wish you a day filled with apples—or whatever brings you joy. But more than that, I wish you a good life. It’s funny how, when we leave a shop, we say “have a nice day” or “good afternoon.” Why don’t we wish people a good life instead? It might sound strange, but isn’t that what we really want for each other?
 
@@ -42,8 +40,7 @@ I’m rooting for you. I know you can do it. Here’s to your health, your happi
 
 ## Key Takeaways
 
-![Photo by Quan Nguyen](https://images.unsplash.com/photo-1628336707631-68131ca720c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0b2FzdHMlMjBhbGNvaG9sJTIwY3VsdHVyZSUyMHNvY2lhbCUyMGN1c3RvbXN8ZW58MHwwfHx8MTc1NjUwNzQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Toast to Health Without the Ironic Twist")
-*How to Toast to Health Without the Ironic Twist - Photo by [Quan Nguyen](https://unsplash.com/@skylakestudio) on [Unsplash](https://unsplash.com/photos/people-holding-clear-glass-bottles-during-daytime-yDSe7sggb9Q)*
+{{< figure src="https://images.unsplash.com/photo-1628336707631-68131ca720c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0b2FzdHMlMjBhbGNvaG9sJTIwY3VsdHVyZSUyMHNvY2lhbCUyMGN1c3RvbXN8ZW58MHwwfHx8MTc1NjUwNzQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="People holding clear glass bottles during daytime" title="How to Toast to Health Without the Ironic Twist" caption="How to Toast to Health Without the Ironic Twist - Photo by [Quan Nguyen](https://unsplash.com/@skylakestudio) on [Unsplash](https://unsplash.com/photos/people-holding-clear-glass-bottles-during-daytime-yDSe7sggb9Q)" >}}
 
 - Wishing “to your health” with alcohol is a funny contradiction—maybe we should toast with apples instead.
 - Take care of your physical and mental health; find small ways to relax and feel good.

@@ -12,8 +12,7 @@ original_title = "Comment améliorer un travail pénible ?"
 source_medium = "https://medium.com/@phenrysay/662f32efaca3"
 +++
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqb2IlMjBzYXRpc2ZhY3Rpb24lMjB3b3JrcGxhY2UlMjBtb3RpdmF0aW9uJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NTY1MTMzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Work Without Changing Your Job")
-*How to Enjoy Work Without Changing Your Job - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqb2IlMjBzYXRpc2ZhY3Rpb24lMjB3b3JrcGxhY2UlMjBtb3RpdmF0aW9uJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NTY1MTMzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Enjoy Work Without Changing Your Job" caption="How to Enjoy Work Without Changing Your Job - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 Yesterday, I met up with a friend who looked completely drained. He had just started a new job, but he didn’t like it at all. The only thing keeping him there was the higher salary, which had allowed him to move into a beautiful new apartment—three times more expensive than his last one. Now, he felt trapped. He didn’t know what to do, stuck between a job he disliked and a lifestyle he felt forced to maintain.
 
@@ -23,8 +22,7 @@ Instead, what if you focus on just the next small step? Don’t think about ever
 
 Too often, we see our job as a never-ending list of chores. We think, “After this, I have to do that, and in three months, there’s even more.” It’s no wonder we end up seeing work as torture, something to survive rather than something to enjoy. But if you stop worrying about what comes next, you can start to appreciate each small task for what it is.
 
-![Grounded FW 21](https://images.unsplash.com/photo-1644952350841-070996fad2af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqb2IlMjBzYXRpc2ZhY3Rpb24lMjB3b3JrcGxhY2UlMjBtb3RpdmF0aW9uJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NTY1MTMzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Work Without Changing Your Job")
-*How to Enjoy Work Without Changing Your Job - Photo by [Matthew Moloney](https://unsplash.com/@mattmoloney) on [Unsplash](https://unsplash.com/photos/diagram-engineering-drawing-calendar-mKtfd1SOYDc)*
+{{< figure src="https://images.unsplash.com/photo-1644952350841-070996fad2af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqb2IlMjBzYXRpc2ZhY3Rpb24lMjB3b3JrcGxhY2UlMjBtb3RpdmF0aW9uJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NTY1MTMzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Grounded FW 21" title="How to Enjoy Work Without Changing Your Job" caption="How to Enjoy Work Without Changing Your Job - Photo by [Matthew Moloney](https://unsplash.com/@mattmoloney) on [Unsplash](https://unsplash.com/photos/diagram-engineering-drawing-calendar-mKtfd1SOYDc)" >}}
 
 Imagine waking up and thinking, “Today, I just have to do this one thing. That’s pretty nice.” Tomorrow, it’s another small thing. The day after, another. Each step is a little win. Over time, these small wins can push you toward the career you want.
 
@@ -40,8 +38,7 @@ If you feel like your job is eating up all your time and happiness, try to find 
 > _The secret of getting ahead is getting started._
 > — Mark Twain
 
-![happy businessman smiling with raised arms looking at laptop](https://images.unsplash.com/photo-1713947505775-4e3af92a4ee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqb2IlMjBzYXRpc2ZhY3Rpb24lMjB3b3JrcGxhY2UlMjBtb3RpdmF0aW9uJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NTY1MTMzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Work Without Changing Your Job")
-*How to Enjoy Work Without Changing Your Job - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-with-his-arms-in-the-air-WAq7spN2wYk)*
+{{< figure src="https://images.unsplash.com/photo-1713947505775-4e3af92a4ee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqb2IlMjBzYXRpc2ZhY3Rpb24lMjB3b3JrcGxhY2UlMjBtb3RpdmF0aW9uJTIwbWluZHNldCUyMHNoaWZ0fGVufDB8MHx8fDE3NTY1MTMzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="happy businessman smiling with raised arms looking at laptop" title="How to Enjoy Work Without Changing Your Job" caption="How to Enjoy Work Without Changing Your Job - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-with-his-arms-in-the-air-WAq7spN2wYk)" >}}
 
 ---
 

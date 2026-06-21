@@ -12,8 +12,7 @@ original_title = "Une vie relaxante 😌"
 source_medium = "https://medium.com/@phenrysay/2dd3d486f22c"
 +++
 
-![Guy in front of a blue lake in Austria](https://images.unsplash.com/photo-1585767037930-21d3a2567236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwc2ltcGxlJTIwbGl2aW5nJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjUyNjY3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Overhauling Everything")
-*How to Build a Life You Love Without Overhauling Everything - Photo by [Tim Nöhrer](https://unsplash.com/@timmyspics) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-sitting-on-brown-wooden-boat-on-lake-during-daytime-6YVqqHPfKmA)*
+{{< figure src="https://images.unsplash.com/photo-1585767037930-21d3a2567236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwc2ltcGxlJTIwbGl2aW5nJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjUyNjY3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Guy in front of a blue lake in Austria" title="How to Build a Life You Love Without Overhauling Everything" caption="How to Build a Life You Love Without Overhauling Everything - Photo by [Tim Nöhrer](https://unsplash.com/@timmyspics) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-sitting-on-brown-wooden-boat-on-lake-during-daytime-6YVqqHPfKmA)" >}}
 
 Have you ever felt like you’re just drifting through your days, caught up in routines, without a clear idea of where you’re heading? It’s easy to get lost in the daily grind, living from one day to the next, without ever stopping to ask yourself what you really want. Before you know it, years have passed, and you might look back and wonder why you didn’t do more of what mattered to you.
 
@@ -23,8 +22,7 @@ Most of us have dreams. Maybe you have a job, and you know there’s something m
 
 Start by asking yourself: What’s one thing I can do today that fits with the person I want to become? Take that first step. Tomorrow, take another. It’s like opening a new window on an advent calendar every day. Each small action brings you closer to the life you want. Over time, you’ll see your path more clearly, and your days will start to line up with your real desires.
 
-![Photo by Li Yang](https://images.unsplash.com/photo-1657526666357-6dfea90134bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwc2ltcGxlJTIwbGl2aW5nJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjUyNjY3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Overhauling Everything")
-*How to Build a Life You Love Without Overhauling Everything - Photo by [Li Yang](https://unsplash.com/@ly0ns) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-grass-by-a-tent-YT4bV5ZIKRY)*
+{{< figure src="https://images.unsplash.com/photo-1657526666357-6dfea90134bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwc2ltcGxlJTIwbGl2aW5nJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjUyNjY3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person sitting on grass by a tent" title="How to Build a Life You Love Without Overhauling Everything" caption="How to Build a Life You Love Without Overhauling Everything - Photo by [Li Yang](https://unsplash.com/@ly0ns) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-grass-by-a-tent-YT4bV5ZIKRY)" >}}
 
 > _“The future depends on what you do today.”_
 — Mahatma Gandhi
@@ -40,8 +38,7 @@ We all risk missing out on our own lives if we’re not careful. We get caught u
 > _“Life is what happens when you’re busy making other plans.”_
 — John Lennon
 
-![Photo by Andreas Bentele](https://images.unsplash.com/photo-1704782590001-b6afc4e43ad9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwc2ltcGxlJTIwbGl2aW5nJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjUyNjY3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You Love Without Overhauling Everything")
-*How to Build a Life You Love Without Overhauling Everything - Photo by [Andreas Bentele](https://unsplash.com/@rocketmediaspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-hammock-with-a-view-of-a-lake-86Z8FQN5QMY)*
+{{< figure src="https://images.unsplash.com/photo-1704782590001-b6afc4e43ad9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwc2ltcGxlJTIwbGl2aW5nJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjUyNjY3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in a hammock with a view of a lake" title="How to Build a Life You Love Without Overhauling Everything" caption="How to Build a Life You Love Without Overhauling Everything - Photo by [Andreas Bentele](https://unsplash.com/@rocketmediaspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-hammock-with-a-view-of-a-lake-86Z8FQN5QMY)" >}}
 
 ---
 

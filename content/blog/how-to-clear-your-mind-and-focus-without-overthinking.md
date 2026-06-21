@@ -12,8 +12,7 @@ original_title = "SE LIBÉRER DE LA POLLUTION MENTALE – POUR AGIR ET RÉUSSIR 
 source_medium = "https://medium.com/@phenrysay/a6ada72e1fef"
 +++
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBjbGFyaXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzU1NjM5MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind and Focus Without Overthinking")
-*How to Clear Your Mind and Focus Without Overthinking - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBjbGFyaXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzU1NjM5MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How to Clear Your Mind and Focus Without Overthinking" caption="How to Clear Your Mind and Focus Without Overthinking - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 Having a clear vision for your life is more important than most people realize. When you know where you are headed, you stop drifting and start living with intention. Focusing your energy on your vision, and the plan you have for your future, changes everything. It gives meaning to your actions and helps you move forward, step by step, toward what you truly want to achieve.
 
@@ -23,8 +22,7 @@ When you make this a routine, you no longer feel pressure to force yourself. It 
 
 Every day, ask yourself: What can I do in fifteen minutes, twenty minutes, half an hour, or two hours? The answer is less important than the regularity. Consistency is what counts. If you spend just ten minutes a day writing, after three months you will have a book. After a year, you could have four books. You gain certainty. You are no longer lost in a fog, wondering when things will get done. You know exactly when your project will be finished, because you are making steady progress every day.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBjbGFyaXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzU1NjM5MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind and Focus Without Overthinking")
-*How to Clear Your Mind and Focus Without Overthinking - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)*
+{{< figure src="https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBjbGFyaXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzU1NjM5MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface SNJ1O2 b0IE" title="How to Clear Your Mind and Focus Without Overthinking" caption="How to Clear Your Mind and Focus Without Overthinking - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)" >}}
 
 This approach helps in two ways. First, you avoid the confusion and stress of not knowing when or how you will finish. Second, you see your progress clearly. For example, if you write three pages of your book every day, or code a new feature for your app each week, you will see real results. The same goes for learning new skills, like artificial intelligence tools or cryptocurrency. Learning is good, but it can leave you feeling lost if you do not apply what you learn.
 
@@ -40,8 +38,7 @@ By doing this, you move closer to your vision every day. You grow, you invest in
 
 ---
 
-![Photo by Richie Lai Cheong](https://images.unsplash.com/photo-1661681010889-edc18b619970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBjbGFyaXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzU1NjM5MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Mind and Focus Without Overthinking")
-*How to Clear Your Mind and Focus Without Overthinking - Photo by [Richie Lai Cheong](https://unsplash.com/@richie_slai) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-rocks-XaLMpvz5i0g)*
+{{< figure src="https://images.unsplash.com/photo-1661681010889-edc18b619970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBjbGFyaXR5JTIwcGVyc29uYWwlMjBncm93dGglMjBzdWNjZXNzJTIwc3RyYXRlZ2llc3xlbnwwfDB8fHwxNzU1NjM5MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of rocks" title="How to Clear Your Mind and Focus Without Overthinking" caption="How to Clear Your Mind and Focus Without Overthinking - Photo by [Richie Lai Cheong](https://unsplash.com/@richie_slai) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-rocks-XaLMpvz5i0g)" >}}
 
 ## Key Takeaways
 - Set a clear vision for your life and stick to it.

@@ -12,8 +12,7 @@ original_title = "Comment organiser ses journées comme un système ?"
 source_medium = "https://medium.com/@phenrysay/a04ab1c101c6"
 +++
 
-![Beautiful, powerful and artistic black man thinking. ](https://images.unsplash.com/photo-1604183667964-bce80268b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwc3lzdGVtcyUyMHRoaW5raW5nfGVufDB8MHx8fDE3NDkzOTE4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Days Without Getting Bored")
-*How to Organize Your Days Without Getting Bored - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/man-in-knit-cap-grayscale-photo-o72kVqUV-94)*
+{{< figure src="https://images.unsplash.com/photo-1604183667964-bce80268b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwc3lzdGVtcyUyMHRoaW5raW5nfGVufDB8MHx8fDE3NDkzOTE4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Beautiful, powerful and artistic black man thinking." title="How to Organize Your Days Without Getting Bored" caption="How to Organize Your Days Without Getting Bored - Photo by [Darius Bashar](https://unsplash.com/@dariusbashar) on [Unsplash](https://unsplash.com/photos/man-in-knit-cap-grayscale-photo-o72kVqUV-94)" >}}
 
 Have you ever thought about your day as a system—a kind of engine that keeps you moving forward? That’s what I want to share with you today: the idea of treating your days like a system, using templates and themes you can reuse, just like you would with a good software tool.
 
@@ -31,8 +30,7 @@ I like using Notion for this. I don’t use it much for notes, but for processes
 
 ## Adaptation Is Key
 
-![Photo by William Felipe Seccon](https://images.unsplash.com/photo-1616595707129-de9953028c19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwc3lzdGVtcyUyMHRoaW5raW5nfGVufDB8MHx8fDE3NDkzOTE4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Days Without Getting Bored")
-*How to Organize Your Days Without Getting Bored - Photo by [William Felipe Seccon](https://unsplash.com/@wilhazec) on [Unsplash](https://unsplash.com/photos/woman-in-white-dress-figurine-R2y1K8Fcb-8)*
+{{< figure src="https://images.unsplash.com/photo-1616595707129-de9953028c19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwc3lzdGVtcyUyMHRoaW5raW5nfGVufDB8MHx8fDE3NDkzOTE4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white dress 8" title="How to Organize Your Days Without Getting Bored" caption="How to Organize Your Days Without Getting Bored - Photo by [William Felipe Seccon](https://unsplash.com/@wilhazec) on [Unsplash](https://unsplash.com/photos/woman-in-white-dress-figurine-R2y1K8Fcb-8)" >}}
 
 Continuous adaptation is crucial. Just because something works now doesn’t mean it will work in a year or two. Life changes, and so do you—your skills, your interests, what motivates you. What excites you today might not do the trick tomorrow.
 
@@ -54,8 +52,7 @@ Breathing exercises help, too. Try the “4-4-4” method: inhale for four secon
 
 Discipline might sound strict, but it actually gives you more freedom. If you’re disciplined with your tasks, you’ll have more time for other things. Always compare the time you spend with what you get in return.
 
-![Photo by Z](https://images.unsplash.com/photo-1516738901171-8eb4fc13bd20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwc3lzdGVtcyUyMHRoaW5raW5nfGVufDB8MHx8fDE3NDkzOTE4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Days Without Getting Bored")
-*How to Organize Your Days Without Getting Bored - Photo by [Z](https://unsplash.com/@dead____artist) on [Unsplash](https://unsplash.com/photos/world-map-with-pins-TrhLCn1abMU)*
+{{< figure src="https://images.unsplash.com/photo-1516738901171-8eb4fc13bd20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwc3lzdGVtcyUyMHRoaW5raW5nfGVufDB8MHx8fDE3NDkzOTE4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="World map with pins" title="How to Organize Your Days Without Getting Bored" caption="How to Organize Your Days Without Getting Bored - Photo by [Z](https://unsplash.com/@dead____artist) on [Unsplash](https://unsplash.com/photos/world-map-with-pins-TrhLCn1abMU)" >}}
 
 > *“Discipline is the bridge between goals and accomplishment.”*  
 > —Jim Rohn

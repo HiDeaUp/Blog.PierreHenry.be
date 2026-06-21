@@ -12,8 +12,7 @@ original_title = "LA STRATÉGIE SECRÈTE QUI ÉLIMINE LE GASPILLAGE ET MULTIPLIE
 source_medium = "https://medium.com/@phenrysay/1f48223cadc0"
 +++
 
-![Photo by De an Sun](https://images.unsplash.com/photo-1607856647955-3b566cac6f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhYml0JTIwZm9ybWF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1Mzg1MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Multiply Your Results Without Wasting Your Mornings")
-*How to Multiply Your Results Without Wasting Your Mornings - Photo by [De an Sun](https://unsplash.com/@andyadcon) on [Unsplash](https://unsplash.com/photos/silver-and-white-analog-watch-1OarTWhAmrs)*
+{{< figure src="https://images.unsplash.com/photo-1607856647955-3b566cac6f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhYml0JTIwZm9ybWF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1Mzg1MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Silver and white analog watch" title="How to Multiply Your Results Without Wasting Your Mornings" caption="How to Multiply Your Results Without Wasting Your Mornings - Photo by [De an Sun](https://unsplash.com/@andyadcon) on [Unsplash](https://unsplash.com/photos/silver-and-white-analog-watch-1OarTWhAmrs)" >}}
 
 There’s something special about the environment you wake up in. Every morning, there are new things to notice, little wonders to appreciate. As I prepare my coffee, I’m reminded how these small routines shape the rest of my day.
 
@@ -25,8 +24,7 @@ Back to my morning: after a splash of water on my face, I feel more awake. It’
 
 As I sip my coffee, I watch the train go by outside. There’s something calming about seeing people heading to work, everyone starting their day in their own way. I grab my favorite cushion and settle in. I like these big, soft cushions and minimalist stools—they make the space feel just right.
 
-![Photo by Mpho Mojapelo](https://images.unsplash.com/photo-1468174829941-1d60ae85c487?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhYml0JTIwZm9ybWF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1Mzg1MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Multiply Your Results Without Wasting Your Mornings")
-*How to Multiply Your Results Without Wasting Your Mornings - Photo by [Mpho Mojapelo](https://unsplash.com/@mpho_mojapelo) on [Unsplash](https://unsplash.com/photos/pink-bell-alarm-clock-showing-210-I84vGUYGUtQ)*
+{{< figure src="https://images.unsplash.com/photo-1468174829941-1d60ae85c487?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhYml0JTIwZm9ybWF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1Mzg1MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pink bell alarm clock showing 210" title="How to Multiply Your Results Without Wasting Your Mornings" caption="How to Multiply Your Results Without Wasting Your Mornings - Photo by [Mpho Mojapelo](https://unsplash.com/@mpho_mojapelo) on [Unsplash](https://unsplash.com/photos/pink-bell-alarm-clock-showing-210-I84vGUYGUtQ)" >}}
 
 I spend my mornings working on small projects, often editing videos for my YouTube channel. Editing isn’t glamorous. In fact, most people don’t enjoy it, myself included. It’s not the fun part of creating content, but it’s necessary. If you’ve ever edited a video, you know it can be tedious—cutting, replaying, trimming again. It’s like seeing behind the scenes, and it’s rarely as exciting as it looks.
 
@@ -46,8 +44,7 @@ In the end, what matters is that the work gets done and that it’s effective. M
 
 — Pierre
 
-![breakfast flatlay](https://images.unsplash.com/photo-1588440457536-8d50e82e8882?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhYml0JTIwZm9ybWF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1Mzg1MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Multiply Your Results Without Wasting Your Mornings")
-*How to Multiply Your Results Without Wasting Your Mornings - Photo by [Nakul](https://unsplash.com/@nakul_in) on [Unsplash](https://unsplash.com/photos/doughnut-on-white-ceramic-plate-beside-black-ceramic-mug-gMuo2v1fRck)*
+{{< figure src="https://images.unsplash.com/photo-1588440457536-8d50e82e8882?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMGhhYml0JTIwZm9ybWF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwdGlwc3xlbnwwfDB8fHwxNzU1Mzg1MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="breakfast flatlay" title="How to Multiply Your Results Without Wasting Your Mornings" caption="How to Multiply Your Results Without Wasting Your Mornings - Photo by [Nakul](https://unsplash.com/@nakul_in) on [Unsplash](https://unsplash.com/photos/doughnut-on-white-ceramic-plate-beside-black-ceramic-mug-gMuo2v1fRck)" >}}
 
 ---
 

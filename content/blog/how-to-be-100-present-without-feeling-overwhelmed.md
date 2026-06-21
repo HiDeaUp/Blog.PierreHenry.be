@@ -12,9 +12,7 @@ original_title = "S'investir à 100% dans sa vie méthode de l'instant précieux
 source_medium = "https://medium.com/@phenrysay/9e6c812bfe8b"
 +++
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYmVpbmclMjBwcmVzZW50fGVufDB8MHx8fDE3NTYwMTU1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be 100% Present Without Feeling Overwhelmed")
-*How to Be 100% Present Without Feeling Overwhelmed - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYmVpbmclMjBwcmVzZW50fGVufDB8MHx8fDE3NTYwMTU1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Be 100% Present Without Feeling Overwhelmed" caption="How to Be 100% Present Without Feeling Overwhelmed - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ### The Art of Being Fully Present
 
@@ -28,8 +26,7 @@ Whenever you start something, leave distractions behind. Put all those nagging t
 
 One trick I use is wearing noise-cancelling headphones. When I put them on, I’m completely focused. My attention is on my task, and nothing else.
 
-![Photo by József Szabó](https://images.unsplash.com/photo-1634192814400-54b581877c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYmVpbmclMjBwcmVzZW50fGVufDB8MHx8fDE3NTYwMTU1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be 100% Present Without Feeling Overwhelmed")
-*How to Be 100% Present Without Feeling Overwhelmed - Photo by [József Szabó](https://unsplash.com/@nil_foto) on [Unsplash](https://unsplash.com/photos/a-small-buddha-statue-sitting-on-top-of-a-moss-covered-rock-KZsfiLl66l8)*
+{{< figure src="https://images.unsplash.com/photo-1634192814400-54b581877c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYmVpbmclMjBwcmVzZW50fGVufDB8MHx8fDE3NTYwMTU1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small buddha statue sitting on top of a moss covered rock" title="How to Be 100% Present Without Feeling Overwhelmed" caption="How to Be 100% Present Without Feeling Overwhelmed - Photo by [József Szabó](https://unsplash.com/@nil_foto) on [Unsplash](https://unsplash.com/photos/a-small-buddha-statue-sitting-on-top-of-a-moss-covered-rock-KZsfiLl66l8)" >}}
 
 It’s normal to have distracting thoughts. But if they get in the way, what’s the point? You won’t be able to give your best. When a distracting thought pops up, treat it like an unwelcome guest—show it the door. The more disciplined you are, the easier it gets. Meditation helps a lot with this. Meditate in the morning, at night, or even several times a day. Meditation is like a workout for your brain. You focus on one thing, like your breath, or the sounds around you. I prefer to focus on my breathing and on myself. This strengthens your mind so it doesn’t wander. The more you meditate, the easier it becomes to stay focused.
 
@@ -47,8 +44,7 @@ So, turn off notifications. Turn off the background noise. Be 100% in every mome
 > 
 > — Thich Nhat Hanh
 
-![Photo by József Szabó](https://images.unsplash.com/photo-1634192813753-9d81dd680fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYmVpbmclMjBwcmVzZW50fGVufDB8MHx8fDE3NTYwMTU1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be 100% Present Without Feeling Overwhelmed")
-*How to Be 100% Present Without Feeling Overwhelmed - Photo by [József Szabó](https://unsplash.com/@nil_foto) on [Unsplash](https://unsplash.com/photos/a-small-buddha-statue-sitting-on-top-of-a-moss-covered-rock-TGa4RrMN0U8)*
+{{< figure src="https://images.unsplash.com/photo-1634192813753-9d81dd680fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwYmVpbmclMjBwcmVzZW50fGVufDB8MHx8fDE3NTYwMTU1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small buddha statue sitting on top of a moss covered rock" title="How to Be 100% Present Without Feeling Overwhelmed" caption="How to Be 100% Present Without Feeling Overwhelmed - Photo by [József Szabó](https://unsplash.com/@nil_foto) on [Unsplash](https://unsplash.com/photos/a-small-buddha-statue-sitting-on-top-of-a-moss-covered-rock-TGa4RrMN0U8)" >}}
 
 ---
 

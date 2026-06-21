@@ -12,8 +12,7 @@ original_title = "Perception de la Réalité"
 source_medium = "https://medium.com/@phenrysay/fabefc4e1b5f"
 +++
 
-!["Gran cabeza habitada". Krebs Helga.](https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwcHN5Y2hvbG9neSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjUwNTQwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Reality Without Changing Your Life")
-*How to Change Your Reality Without Changing Your Life - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)*
+{{< figure src="https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwcHN5Y2hvbG9neSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjUwNTQwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="&quot;Gran cabeza habitada&quot;. Krebs Helga." title="How to Change Your Reality Without Changing Your Life" caption="How to Change Your Reality Without Changing Your Life - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)" >}}
 
 Have you ever noticed how your mood and outlook can shift just by changing your surroundings or what you focus on? Let’s talk about psychology, and more specifically, how you can change your interpretation of reality—how you see things, how you feel about them, and how your environment plays a huge role in all of this.
 
@@ -21,8 +20,7 @@ One powerful technique I want to share is about “manufacturing” your environ
 
 Of course, if you suspect something truly dangerous, like asbestos, you should get it checked out. But what I’m really getting at is how our perception of our environment can shape our entire experience. Sometimes, you might be in a place where people are negative, or where there’s more violence, and you start to believe that nothing good is possible. It’s easy to fall into the trap of thinking that everything is going wrong.
 
-![Psychology](https://images.unsplash.com/photo-1593444286621-98245b7d4530?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwcHN5Y2hvbG9neSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjUwNTQwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Reality Without Changing Your Life")
-*How to Change Your Reality Without Changing Your Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-on-it-_dICL6joLRk)*
+{{< figure src="https://images.unsplash.com/photo-1593444286621-98245b7d4530?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwcHN5Y2hvbG9neSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjUwNTQwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Psychology" title="How to Change Your Reality Without Changing Your Life" caption="How to Change Your Reality Without Changing Your Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-on-it-_dICL6joLRk)" >}}
 
 But here’s the thing: you can choose to shape your perception. You can “manufacture” a different reality by focusing on positive things, by changing what you pay attention to, and by deciding how you interpret what’s around you. There isn’t just one fixed reality—there are as many realities as there are ways to see the world. The reality that matters most is the one you build for yourself.
 
@@ -38,8 +36,7 @@ If you fill your mind with positive things, your whole experience changes. The e
 
 The power to change your reality starts with changing your perception. When you realize that, you can start to build a life that feels lighter, more open, and full of possibility.
 
-![This photo was taken for a redesign I did of the album cover to “22, a Million” by Bon Iver. The image is meant to convey the duplicity of emotions that Justin Vernon suggests in the album. The pain, confusion, and searching shown throughout the album is masked by the autotune that he uses, and leaves any remnants of humanity in its dust. This image was an attempt to recognize the hopeless searching and lack of humanity, and his search of deeper meaning to life.](https://images.unsplash.com/photo-1540775674133-d9b9775d82cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwcHN5Y2hvbG9neSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjUwNTQwOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Reality Without Changing Your Life")
-*How to Change Your Reality Without Changing Your Life - Photo by [Alex Bracken](https://unsplash.com/@alexbracken) on [Unsplash](https://unsplash.com/photos/womans-face-on-black-background-ExFvLm0NsjE)*
+{{< figure src="https://images.unsplash.com/photo-1540775674133-d9b9775d82cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwcHN5Y2hvbG9neSUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NjUwNTQwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Womans face on black" title="How to Change Your Reality Without Changing Your Life" caption="How to Change Your Reality Without Changing Your Life - Photo by [Alex Bracken](https://unsplash.com/@alexbracken) on [Unsplash](https://unsplash.com/photos/womans-face-on-black-background-ExFvLm0NsjE)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Un micro business d’infoprenariat dès demain ?"
 source_medium = "https://medium.com/@phenrysay/c9029af7ba26"
 +++
 
-![Photo by Simone Daino](https://images.unsplash.com/photo-1575671883877-71e6519c7570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmZvcHJlbmV1ciUyMG1pY3JvJTIwYnVzaW5lc3MlMjBzaWRlJTIwaHVzdGxlfGVufDB8MHx8fDE3NTU2NTU1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Teaching What You Know by Tomorrow")
-*How to Start Teaching What You Know by Tomorrow - Photo by [Simone Daino](https://unsplash.com/@simonedaino95) on [Unsplash](https://unsplash.com/photos/business-people-store-OR1tCZzoHio)*
+{{< figure src="https://images.unsplash.com/photo-1575671883877-71e6519c7570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmZvcHJlbmV1ciUyMG1pY3JvJTIwYnVzaW5lc3MlMjBzaWRlJTIwaHVzdGxlfGVufDB8MHx8fDE3NTU2NTU1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="People store" title="How to Start Teaching What You Know by Tomorrow" caption="How to Start Teaching What You Know by Tomorrow - Photo by [Simone Daino](https://unsplash.com/@simonedaino95) on [Unsplash](https://unsplash.com/photos/business-people-store-OR1tCZzoHio)" >}}
 
 Sharing ideas and raw information is something I do almost every day. For example, I was just reading "The Dao of Ace"—a great book—and it got me thinking about how we process and pass on what we learn. I’m always consuming information, but when it comes time to teach what I’ve learned, it can feel overwhelming. You might wonder: what’s the best way to teach something new? There are so many options, but honestly, most are pretty mediocre.
 
@@ -23,8 +22,7 @@ When someone chooses your course, it’s partly because they need the skills, bu
 
 Nobody wants to learn from someone who’s bored or boring. You want to learn from someone who makes you feel alive, who brings their own energy and environment into the mix. That’s why I designed a workshop that takes you from a raw idea to a complete course, step by step. You’ll learn how to turn your knowledge into a real product, starting with a beginner-friendly format and building up to something that stands the test of time.
 
-![Photo by Fuzail Ahmad](https://images.unsplash.com/photo-1586764921336-8b37580c7aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmZvcHJlbmV1ciUyMG1pY3JvJTIwYnVzaW5lc3MlMjBzaWRlJTIwaHVzdGxlfGVufDB8MHx8fDE3NTU2NTU1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Teaching What You Know by Tomorrow")
-*How to Start Teaching What You Know by Tomorrow - Photo by [Fuzail Ahmad](https://unsplash.com/@timfuzail) on [Unsplash](https://unsplash.com/photos/text-on-white-and-blue-textile-Bf71pNsQpu4)*
+{{< figure src="https://images.unsplash.com/photo-1586764921336-8b37580c7aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmZvcHJlbmV1ciUyMG1pY3JvJTIwYnVzaW5lc3MlMjBzaWRlJTIwaHVzdGxlfGVufDB8MHx8fDE3NTU2NTU1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text on white and blue textile" title="How to Start Teaching What You Know by Tomorrow" caption="How to Start Teaching What You Know by Tomorrow - Photo by [Fuzail Ahmad](https://unsplash.com/@timfuzail) on [Unsplash](https://unsplash.com/photos/text-on-white-and-blue-textile-Bf71pNsQpu4)" >}}
 
 The goal is to create an evergreen course—one that people will still want years from now. This kind of course doesn’t just teach; it stands out because it’s built around your unique approach. You’ll learn how to identify the biggest problems in your field and solve them in the simplest way, following the Pareto principle: spend 20% of your effort to get 80% of the results.
 
@@ -40,8 +38,7 @@ So, ask yourself: what if, in three months—or even six weeks—you could be re
 > _“People don’t buy courses. They buy transformation and the experience you create.”_  
 — Anonymous
 
-![Happy attractive people cafe workers in aprons are holding yes we are open sign and smiling while standing inside coffee shop. Opening new business and start-up concept.](https://images.unsplash.com/photo-1753351054538-d3bb06a3b14b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmZvcHJlbmV1ciUyMG1pY3JvJTIwYnVzaW5lc3MlMjBzaWRlJTIwaHVzdGxlfGVufDB8MHx8fDE3NTU2NTU1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Teaching What You Know by Tomorrow")
-*How to Start Teaching What You Know by Tomorrow - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-happy-couple-welcomes-customers-we-are-open-CCIpBxpKsuc)*
+{{< figure src="https://images.unsplash.com/photo-1753351054538-d3bb06a3b14b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmZvcHJlbmV1ciUyMG1pY3JvJTIwYnVzaW5lc3MlMjBzaWRlJTIwaHVzdGxlfGVufDB8MHx8fDE3NTU2NTU1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy attractive people cafe workers in aprons are holding yes we are open sign and smiling while standing inside coffee shop. Opening new business and start-up concept." title="How to Start Teaching What You Know by Tomorrow" caption="How to Start Teaching What You Know by Tomorrow - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-happy-couple-welcomes-customers-we-are-open-CCIpBxpKsuc)" >}}
 
 ---
 

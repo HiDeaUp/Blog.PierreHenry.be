@@ -12,8 +12,7 @@ original_title = "Mon moteur, ce sont les défis ! Réussir sans se forcer ?"
 source_medium = "https://medium.com/@phenrysay/f92a6895d17f"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, stop making excuses, excuses, procrastination, just do it, get started, commitment, plan, discipline, work, hard work, exercise, diet, ](https://images.unsplash.com/photo-1626159592381-f6e8bccda33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBvdmVyY29taW5nJTIwZXhjdXNlc3xlbnwwfDB8fHwxNzU1NDE5MDA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the Perfect Moment")
-*How to Take Action Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-vFGKWON91Bc)*
+{{< figure src="https://images.unsplash.com/photo-1626159592381-f6e8bccda33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBvdmVyY29taW5nJTIwZXhjdXNlc3xlbnwwfDB8fHwxNzU1NDE5MDA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Take Action Without Waiting for the Perfect Moment" caption="How to Take Action Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-vFGKWON91Bc)" >}}
 
 Have you ever looked at someone and thought, “Wow, they inspire me. They seem to have it all together. I wish I could be like them”? Maybe you admire their lifestyle, their achievements, or the way they seem to make things happen. But then, almost instantly, you tell yourself, “I’m not ready. It’s not the right time. I have too many expenses, I just changed jobs, I just moved, I have bills to pay. I can’t start that project now.”
 
@@ -27,8 +26,7 @@ Most of the limits we face are the ones we set for ourselves. We say, “I can�
 
 If your dream is to open a coffee shop, don’t just dream about it—do it. Don’t let your dreams stay dreams. Start with the one that matters most to you right now.
 
-![Don’t forget to stretch. ](https://images.unsplash.com/photo-1612032882906-2fa6f7b5f30f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBvdmVyY29taW5nJTIwZXhjdXNlc3xlbnwwfDB8fHwxNzU1NDE5MDA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the Perfect Moment")
-*How to Take Action Without Waiting for the Perfect Moment - Photo by [Philip Strong](https://unsplash.com/@strong18philip) on [Unsplash](https://unsplash.com/photos/man-in-black-shorts-running-on-track-field-during-daytime-SQvRd2EVqLM)*
+{{< figure src="https://images.unsplash.com/photo-1612032882906-2fa6f7b5f30f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBvdmVyY29taW5nJTIwZXhjdXNlc3xlbnwwfDB8fHwxNzU1NDE5MDA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Don’t forget to stretch." title="How to Take Action Without Waiting for the Perfect Moment" caption="How to Take Action Without Waiting for the Perfect Moment - Photo by [Philip Strong](https://unsplash.com/@strong18philip) on [Unsplash](https://unsplash.com/photos/man-in-black-shorts-running-on-track-field-during-daytime-SQvRd2EVqLM)" >}}
 
 Distractions are everywhere. Your phone, your computer, endless notifications—they all pull you away from what really matters. Turn off your notifications. If you have to, put your phone on airplane mode. If your computer keeps distracting you, try using a distraction-free writing device, or even lock your computer away for a while. The point is, do whatever it takes to focus on what’s important to you.
 
@@ -48,8 +46,7 @@ If you think you don’t have the money, find a way. Take a student job, work ni
 
 I’m with you, heart and soul. When your life project becomes your number one obsession, you’ll always find a way to make it happen—even if it seems impossible from where you are now. There are always hacks, always tricks to get past the obstacles.
 
-![Photo by Michael Descharles](https://images.unsplash.com/photo-1565806946558-8d4e1b564c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBvdmVyY29taW5nJTIwZXhjdXNlc3xlbnwwfDB8fHwxNzU1NDE5MDA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the Perfect Moment")
-*How to Take Action Without Waiting for the Perfect Moment - Photo by [Michael Descharles](https://unsplash.com/@michael_exploring) on [Unsplash](https://unsplash.com/photos/person-standing-on-mountain-_Dq9gi7U2sU)*
+{{< figure src="https://images.unsplash.com/photo-1565806946558-8d4e1b564c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBvdmVyY29taW5nJTIwZXhjdXNlc3xlbnwwfDB8fHwxNzU1NDE5MDA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person on" title="How to Take Action Without Waiting for the Perfect Moment" caption="How to Take Action Without Waiting for the Perfect Moment - Photo by [Michael Descharles](https://unsplash.com/@michael_exploring) on [Unsplash](https://unsplash.com/photos/person-standing-on-mountain-_Dq9gi7U2sU)" >}}
 
 > *Don’t let your dreams stay dreams. Make them your reality, one step at a time.*
 >

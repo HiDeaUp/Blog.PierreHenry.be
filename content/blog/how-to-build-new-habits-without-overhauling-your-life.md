@@ -12,8 +12,7 @@ original_title = "Implémentation de nouvelles #habitudes 💥"
 source_medium = "https://medium.com/@phenrysay/7ba8c4d1ea29"
 +++
 
-![Photo by Victor Freitas](https://images.unsplash.com/photo-1521805103424-d8f8430e8933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50JTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NjM4MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overhauling Your Life")
-*How to Build New Habits Without Overhauling Your Life - Photo by [Victor Freitas](https://unsplash.com/@victorfreitas) on [Unsplash](https://unsplash.com/photos/black-barbell-on-tile-flooring-Yuv-iwByVRQ)*
+{{< figure src="https://images.unsplash.com/photo-1521805103424-d8f8430e8933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50JTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NjM4MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black barbell on tile Yuv iwByVRQ" title="How to Build New Habits Without Overhauling Your Life" caption="How to Build New Habits Without Overhauling Your Life - Photo by [Victor Freitas](https://unsplash.com/@victorfreitas) on [Unsplash](https://unsplash.com/photos/black-barbell-on-tile-flooring-Yuv-iwByVRQ)" >}}
 
 Have you ever felt the urge to add a little spice to your life, to break away from the usual and try something different? Life is short, and many of us crave variety. We want to create new connections in our brains, to keep things fresh and exciting. It’s not just about avoiding boredom—it's about challenging ourselves and growing.
 
@@ -21,8 +20,7 @@ One of the best ways to do this is by shaking up your routine. Introducing somet
 
 So, how can you make this happen? Start today. For the next 21 to 31 days, commit to doing something you’ve always wanted to try. It could be as simple as reading for an hour every morning, coding for half an hour before breakfast, or following an online course. The key is to pick one thing that’s different from your usual routine and stick with it daily.
 
-![Photo by Ambitious Studio* | Rick Barrett](https://images.unsplash.com/photo-1674834726923-3ba828d37846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50JTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NjM4MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overhauling Your Life")
-*How to Build New Habits Without Overhauling Your Life - Photo by [Ambitious Studio* | Rick Barrett](https://unsplash.com/@weareambitious) on [Unsplash](https://unsplash.com/photos/a-man-lifting-two-dumbs-in-a-gym-WH-RyVhNEes)*
+{{< figure src="https://images.unsplash.com/photo-1674834726923-3ba828d37846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50JTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NjM4MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man lifting two dumbs in a gym WH" title="How to Build New Habits Without Overhauling Your Life" caption="How to Build New Habits Without Overhauling Your Life - Photo by [Ambitious Studio* | Rick Barrett](https://unsplash.com/@weareambitious) on [Unsplash](https://unsplash.com/photos/a-man-lifting-two-dumbs-in-a-gym-WH-RyVhNEes)" >}}
 
 This isn’t just about ticking off a box. When you introduce a new habit, you’re rewiring your brain, building new pathways, and opening yourself up to fresh experiences. Over time, these small changes can lead to big results. You’ll find yourself more adaptable, more creative, and maybe even more fulfilled.
 
@@ -36,8 +34,7 @@ If you want to see real change, consistency is your best friend. Don’t worry a
 
 ---
 
-![lisbon, run, stair steps, man running, sport](https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50JTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NjM4MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build New Habits Without Overhauling Your Life")
-*How to Build New Habits Without Overhauling Your Life - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)*
+{{< figure src="https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50JTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NjM4MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="lisbon, run, stair steps, man running, sport" title="How to Build New Habits Without Overhauling Your Life" caption="How to Build New Habits Without Overhauling Your Life - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)" >}}
 
 ## Key Takeaways
 - Try something new for 21–31 days to break your routine.

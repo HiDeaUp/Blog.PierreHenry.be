@@ -12,8 +12,7 @@ original_title = "Comment augmenter ses skills ? SIMPLEMENT"
 source_medium = "https://medium.com/@phenrysay/77fd464f2d54"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384679-119488a72a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxza2lsbCUyMGRldmVsb3BtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25zaXN0ZW5jeXxlbnwwfDB8fHwxNzU2NTE5NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Expertise in 30 Minutes a Day Without Burnout")
-*How to Build Expertise in 30 Minutes a Day Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabbled-letters-spelling-growth-on-a-wooden-surface-0m-iXOA5wBo)*
+{{< figure src="https://images.unsplash.com/photo-1705234384679-119488a72a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxza2lsbCUyMGRldmVsb3BtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25zaXN0ZW5jeXxlbnwwfDB8fHwxNzU2NTE5NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Letters growth on a wooden surface 0m" title="How to Build Expertise in 30 Minutes a Day Without Burnout" caption="How to Build Expertise in 30 Minutes a Day Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabbled-letters-spelling-growth-on-a-wooden-surface-0m-iXOA5wBo)" >}}
 
 Becoming an expert in your field is not just a nice-to-have; it’s essential. The real secret? Transform yourself a little every day. When you make small improvements daily, you gradually become an amazing version of yourself. But how do you actually do this?
 
@@ -25,8 +24,7 @@ That’s why a daily rhythm matters so much. Each day, focus on one area of your
 
 This approach is much more effective than cramming all your learning into one long session every now and then. The real magic comes from regularity. It’s like compound interest—the more you invest, the more it grows. If you keep at it every day for a year, you’ll open doors you never imagined. You’ll build up such a level of expertise that few will be able to compete with you. You’ll be in the top 1% of your field.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxza2lsbCUyMGRldmVsb3BtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25zaXN0ZW5jeXxlbnwwfDB8fHwxNzU2NTE5NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Expertise in 30 Minutes a Day Without Burnout")
-*How to Build Expertise in 30 Minutes a Day Without Burnout - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxza2lsbCUyMGRldmVsb3BtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25zaXN0ZW5jeXxlbnwwfDB8fHwxNzU2NTE5NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Build Expertise in 30 Minutes a Day Without Burnout" caption="How to Build Expertise in 30 Minutes a Day Without Burnout - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
@@ -48,8 +46,7 @@ If you’re curious about what I’m reading, you can check out my profile on Go
 - One hour a day adds up quickly—after a month, you’ve invested more than a full day in yourself.
 - Regular practice puts you in the top tier of your field.
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxza2lsbCUyMGRldmVsb3BtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25zaXN0ZW5jeXxlbnwwfDB8fHwxNzU2NTE5NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Expertise in 30 Minutes a Day Without Burnout")
-*How to Build Expertise in 30 Minutes a Day Without Burnout - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxza2lsbCUyMGRldmVsb3BtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBjb25zaXN0ZW5jeXxlbnwwfDB8fHwxNzU2NTE5NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Build Expertise in 30 Minutes a Day Without Burnout" caption="How to Build Expertise in 30 Minutes a Day Without Burnout - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 ## Action Steps
 

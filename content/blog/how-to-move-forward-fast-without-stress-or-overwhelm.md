@@ -12,8 +12,7 @@ original_title = "TON PLAN DE CROISSANCE ULTIME : Progresse À VITESSE GRAND V s
 source_medium = "https://medium.com/@phenrysay/c04b62677953"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NDkzMjA1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Fast WITHOUT Stress or Overwhelm")
-*How to Move Forward Fast WITHOUT Stress or Overwhelm - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NDkzMjA1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Move Forward Fast WITHOUT Stress or Overwhelm" caption="How to Move Forward Fast WITHOUT Stress or Overwhelm - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 The best way to make progress and take action is to have a plan—a clear, defined plan for what you want to do and how you want to grow in your life. If you want to move quickly toward the success you dream of, you need to know exactly what that success looks like for you. Visualize it. Picture where you want to be in three weeks, in two months, and focus only on that. Don’t let yourself get distracted by anything else.
 
@@ -23,8 +22,7 @@ Because I was doing so many things, nothing I did stood out. My work was average
 
 If you try to do everything, you’ll quickly burn out. There will be too much on your plate, and you won’t make fast progress. The risk of burnout goes up. But if you focus on just one thing—one single thing—and nothing else, and you stay persistent and stubborn about it, you’ll get what you want. If you’re 100% persistent and you truly believe it will happen, you’ll always find ways to make it work.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NDkzMjA1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Fast WITHOUT Stress or Overwhelm")
-*How to Move Forward Fast WITHOUT Stress or Overwhelm - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NDkzMjA1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Move Forward Fast WITHOUT Stress or Overwhelm" caption="How to Move Forward Fast WITHOUT Stress or Overwhelm - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 I love this saying: *Everything is possible if you really want it.* If you want something with real passion, you’ll enjoy the process, too.
 
@@ -40,8 +38,7 @@ This changed everything for me. I’m sure it will change everything for you, to
 > *“You can do anything, but not everything.”*  
 > — David Allen
 
-![2010 was a boon year for these butterflies in my garden. I had a dozen chrysalis in all manner of morphs at any one time. In this image you can see the new green chrysalis coloration, one that’s about ready to emerge (the clear one), and a butterfly that’s already come out. They will hang for hours and dry their wings and are, in fact, quite fragile.](https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NDkzMjA1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Fast WITHOUT Stress or Overwhelm")
-*How to Move Forward Fast WITHOUT Stress or Overwhelm - Photo by [Suzanne D. Williams](https://unsplash.com/@scw1217) on [Unsplash](https://unsplash.com/photos/three-pupas-VMKBFR6r_jg)*
+{{< figure src="https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHByb2R1Y3Rpdml0eSUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NDkzMjA1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Three pupas" title="How to Move Forward Fast WITHOUT Stress or Overwhelm" caption="How to Move Forward Fast WITHOUT Stress or Overwhelm - Photo by [Suzanne D. Williams](https://unsplash.com/@scw1217) on [Unsplash](https://unsplash.com/photos/three-pupas-VMKBFR6r_jg)" >}}
 
 ---
 

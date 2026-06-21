@@ -12,8 +12,7 @@ original_title = "Passer de BONS moments 😌"
 source_medium = "https://medium.com/@phenrysay/66c8d621993c"
 +++
 
-![A man stood at the bridge with an umbrella to protect him from the sun.](https://images.unsplash.com/photo-1683090565349-4d3a9451e7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2NTIwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy Without Waiting for Big Moments")
-*How to Find Daily Joy Without Waiting for Big Moments - Photo by [Azaz Ahmad](https://unsplash.com/@azaz08) on [Unsplash](https://unsplash.com/photos/a-person-holding-an-umbrella-in-front-of-the-sun-dqhTQwiFSXA)*
+{{< figure src="https://images.unsplash.com/photo-1683090565349-4d3a9451e7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2NTIwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man stood at the bridge with an umbrella to protect him from the sun." title="How to Find Daily Joy Without Waiting for Big Moments" caption="How to Find Daily Joy Without Waiting for Big Moments - Photo by [Azaz Ahmad](https://unsplash.com/@azaz08) on [Unsplash](https://unsplash.com/photos/a-person-holding-an-umbrella-in-front-of-the-sun-dqhTQwiFSXA)" >}}
 
 Finding moments that truly make you happy is essential for your personal growth. It’s not just about chasing big dreams or waiting for the next holiday. The real magic happens when you learn to create and notice the good moments in your everyday life.
 
@@ -23,8 +22,7 @@ Sometimes, it’s about giving yourself a reward. Not every day, but maybe once 
 
 But don’t forget the simple, everyday joys. These don’t have to be extraordinary. It could be taking a walk and grabbing a hot chocolate, or staying in and reading a book you love. Just moments of relaxation. Breathing exercises can help too: breathe in through your nose, hold it, and then release. This helps you feel grounded and brings you back to the present.
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2NTIwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy Without Waiting for Big Moments")
-*How to Find Daily Joy Without Waiting for Big Moments - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2NTIwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Daily Joy Without Waiting for Big Moments" caption="How to Find Daily Joy Without Waiting for Big Moments - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Sometimes, I like to touch things around me, like a decorative egg box, and it makes me feel good. Or I go for a walk and pet some sheep—if you have sheep in your garden, why not? Their wool is soft and it’s a simple pleasure. Maybe for you, it’s petting your cat, resting on the couch, or watching a series you enjoy. I used to love watching “How I Met Your Mother.” It’s all about finding your own way to relax.
 
@@ -40,8 +38,7 @@ Rewards can also motivate you to tackle challenges. For example, if I get up ear
 
 ---
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2NTIwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy Without Waiting for Big Moments")
-*How to Find Daily Joy Without Waiting for Big Moments - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2NTIwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find Daily Joy Without Waiting for Big Moments" caption="How to Find Daily Joy Without Waiting for Big Moments - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 ## Key Takeaways
 

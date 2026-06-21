@@ -12,8 +12,7 @@ original_title = "La Négativité Peut Pourrir la Vie – Voici Comment Éviter 
 source_medium = "https://medium.com/@phenrysay/64b8610b5632"
 +++
 
-![Photo by Marcel Strauß](https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2aXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NTE2OTA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Negativity From Ruining Your Day")
-*How to Stop Negativity From Ruining Your Day - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/text-fzqxoFJytiE)*
+{{< figure src="https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2aXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NTE2OTA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Stop Negativity From Ruining Your Day" caption="How to Stop Negativity From Ruining Your Day - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/text-fzqxoFJytiE)" >}}
 
 Negativity is like a silent poison. One bad piece of news, a harsh word from someone, or an unexpected emotional blow can ruin your productivity and cast a shadow over your entire day. Sometimes, it’s the stress of waiting for an exam result, a decision, or some other answer that keeps you on edge. Until you get that answer, you feel anxious, unable to think clearly, stuck in a fog of worry about what might happen next.
 
@@ -27,8 +26,7 @@ Sometimes, just taking a walk helps. Or chatting with someone. Personally, I enj
 
 The real problem is when you keep thinking about what’s stressing you. If there’s nothing you can do about it, you have to separate yourself from the stress and the thing causing it. Tell yourself, “I can’t do anything about this right now, so I’ll focus my energy on something else.” Otherwise, you’ll just keep worrying, and that’s not helpful.
 
-![Photo by Joshua Aragon](https://images.unsplash.com/photo-1544980919-a1c3114051e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2aXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NTE2OTA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Negativity From Ruining Your Day")
-*How to Stop Negativity From Ruining Your Day - Photo by [Joshua Aragon](https://unsplash.com/@goshua13) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-man-holding-cap-wOEjYcTsvss)*
+{{< figure src="https://images.unsplash.com/photo-1544980919-a1c3114051e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2aXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NTE2OTA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of man holding cap" title="How to Stop Negativity From Ruining Your Day" caption="How to Stop Negativity From Ruining Your Day - Photo by [Joshua Aragon](https://unsplash.com/@goshua13) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-man-holding-cap-wOEjYcTsvss)" >}}
 
 It’s important to prioritize. Ask yourself: is this stress worth letting it ruin my whole day, my relationships, even my life? That stressful thing doesn’t have the right to take over everything. Sometimes, you just have to take things one at a time. If you can’t do anything about it, let it go and focus on what you can control.
 
@@ -48,8 +46,7 @@ The key is to separate what you can control from what you can’t. If you’ve d
 
 ## Key Takeaways
 
-![Mental Health](https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2aXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NTE2OTA3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Negativity From Ruining Your Day")
-*How to Stop Negativity From Ruining Your Day - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)*
+{{< figure src="https://images.unsplash.com/photo-1653130892581-7c0ae1f4e8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2aXR5JTIwbWVudGFsJTIwaGVhbHRoJTIwc3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU1NTE2OTA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health" title="How to Stop Negativity From Ruining Your Day" caption="How to Stop Negativity From Ruining Your Day - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mental-health-Mjo15Hr9HUg)" >}}
 
 - Negativity and stress can ruin your day if you let them.
 - Most problems are small in the big picture.

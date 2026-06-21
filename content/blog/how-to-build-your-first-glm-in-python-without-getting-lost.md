@@ -12,8 +12,7 @@ original_title = "Start Your Data Science Journey: Build a GLM in Python"
 source_medium = "https://medium.com/@phenrysay/a0a8dd9f8f9b"
 +++
 
-![Photo by Magdalena Grabowska](https://images.unsplash.com/photo-1754419908601-a378c712526f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYXRhJTIwc2NpZW5jZSUyMEdMTSUyMFB5dGhvbnxlbnwwfDB8fHwxNzY3MDczNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your First GLM in Python Without Getting Lost")
-*How to Build Your First GLM in Python Without Getting Lost - Photo by [Magdalena Grabowska](https://unsplash.com/@mvgdeq) on [Unsplash](https://unsplash.com/photos/a-snake-rests-coiled-on-a-dark-surface-E1ytprghpcs)*
+{{< figure src="https://images.unsplash.com/photo-1754419908601-a378c712526f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYXRhJTIwc2NpZW5jZSUyMEdMTSUyMFB5dGhvbnxlbnwwfDB8fHwxNzY3MDczNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A snake rests coiled on a dark surface" title="How to Build Your First GLM in Python Without Getting Lost" caption="How to Build Your First GLM in Python Without Getting Lost - Photo by [Magdalena Grabowska](https://unsplash.com/@mvgdeq) on [Unsplash](https://unsplash.com/photos/a-snake-rests-coiled-on-a-dark-surface-E1ytprghpcs)" >}}
 
 Alright, let’s dive right in. I want to walk you through a little data science learning project I’ve been working on—a GLM, or generalized linear model. If you’re just getting started with regression in Python, this is a great way to get your hands dirty without getting overwhelmed. We’ll keep it simple, practical, and I’ll show you exactly how I set things up, step by step.
 

@@ -12,8 +12,7 @@ original_title = "Comment ne plus procrastiner ?"
 source_medium = "https://medium.com/@phenrysay/6b7146eb1732"
 +++
 
-![Journal on the bed with ink pen](https://images.unsplash.com/photo-1601128688653-7dc405e3ac4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBub3RlLXRha2luZ3xlbnwwfDB8fHwxNzU2MTEzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Getting Stuck in Endless Notes")
-*How to Take Action Without Getting Stuck in Endless Notes - Photo by [Becky Fantham](https://unsplash.com/@hungrybecky) on [Unsplash](https://unsplash.com/photos/brown-and-white-book-on-gray-textile-la6C554Ev_o)*
+{{< figure src="https://images.unsplash.com/photo-1601128688653-7dc405e3ac4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBub3RlLXRha2luZ3xlbnwwfDB8fHwxNzU2MTEzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Journal on the bed with ink pen" title="How to Take Action Without Getting Stuck in Endless Notes" caption="How to Take Action Without Getting Stuck in Endless Notes - Photo by [Becky Fantham](https://unsplash.com/@hungrybecky) on [Unsplash](https://unsplash.com/photos/brown-and-white-book-on-gray-textile-la6C554Ev_o)" >}}
 
 We live in a time where taking notes has become second nature. Every day, we jot down ideas, reminders, and interesting tidbits, thinking we’ll come back to them later. The problem is, we rarely do. Our notes pile up, just like our to-do lists, and instead of helping us move forward, they become another form of procrastination.
 
@@ -21,8 +20,7 @@ It feels good to add a new task or note. There’s a sense of relief—“I won�
 
 The real question we should ask ourselves is: How can I act on this idea right now? When you come across something interesting, don’t just write it down for later. Instead, think about how you can use it in your life immediately. If it’s a helpful tip, try it out today. If it’s a new habit, start implementing it now, even in a small way.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBub3RlLXRha2luZ3xlbnwwfDB8fHwxNzU2MTEzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Getting Stuck in Endless Notes")
-*How to Take Action Without Getting Stuck in Endless Notes - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBub3RlLXRha2luZ3xlbnwwfDB8fHwxNzU2MTEzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Take Action Without Getting Stuck in Endless Notes" caption="How to Take Action Without Getting Stuck in Endless Notes - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Not everything needs to be stored for the future. If an idea truly matters, it should find a place in your daily routine. If it doesn’t fit, maybe it’s not worth keeping. Of course, there are exceptions—sometimes it’s useful to note down specific terms or jargon you might forget. For these, a quick note with a clear tag can help you find them easily when needed.
 
@@ -38,8 +36,7 @@ The next time you read or hear something that sparks your interest, don’t just
 > *“Ideas are easy. Execution is everything.”*  
 — John Doerr
 
-![Photo by Katharina Bornowski](https://images.unsplash.com/photo-1709631042825-da696c071372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBub3RlLXRha2luZ3xlbnwwfDB8fHwxNzU2MTEzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Getting Stuck in Endless Notes")
-*How to Take Action Without Getting Stuck in Endless Notes - Photo by [Katharina Bornowski](https://unsplash.com/@kattavonben) on [Unsplash](https://unsplash.com/photos/a-cat-sleeping-on-top-of-a-wooden-floor-XfxUjwlIMiM)*
+{{< figure src="https://images.unsplash.com/photo-1709631042825-da696c071372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBwcm9kdWN0aXZpdHklMjBub3RlLXRha2luZ3xlbnwwfDB8fHwxNzU2MTEzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat on top of a wooden floor" title="How to Take Action Without Getting Stuck in Endless Notes" caption="How to Take Action Without Getting Stuck in Endless Notes - Photo by [Katharina Bornowski](https://unsplash.com/@kattavonben) on [Unsplash](https://unsplash.com/photos/a-cat-sleeping-on-top-of-a-wooden-floor-XfxUjwlIMiM)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "La Force des Routines 💪"
 source_medium = "https://medium.com/@phenrysay/91dbb3217f85"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lcyUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Routines That Protect Your Goals From Distractions")
-*How to Build Routines That Protect Your Goals From Distractions - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lcyUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Build Routines That Protect Your Goals From Distractions" caption="How to Build Routines That Protect Your Goals From Distractions - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 We all have projects and dreams we want to achieve. Yet, our days are filled with endless distractions, to-do lists, and a constant flood of information. It’s never been easier to lose sight of what truly matters. One moment, a friend shares something interesting, and before you know it, you’re swept away by notifications, news, and social media. The pressure to stay updated is everywhere, and it’s easy to drift away from your goals.
 
@@ -25,8 +24,7 @@ The key is to make that hour count. I turn off all notifications, put my phone i
 
 Here’s a tip that has helped me stay focused: set your phone to black and white. Our phones are designed to be addictive, with colorful icons that trigger our brain’s reward system. Every time you see those bright colors, your brain gets a little hit of pleasure, making you want to check your phone more often. By switching your phone to grayscale, you remove that visual reward. Suddenly, your phone becomes less tempting, and you’re less likely to waste time on it.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lcyUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Routines That Protect Your Goals From Distractions")
-*How to Build Routines That Protect Your Goals From Distractions - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lcyUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Build Routines That Protect Your Goals From Distractions" caption="How to Build Routines That Protect Your Goals From Distractions - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Tristan Harris, a former Google designer and founder of the Center for Humane Technology, has talked about how these design choices affect our brains. He explains that colorful icons make us feel like everything is urgent, pushing us to check our phones constantly. By using grayscale, you can break that cycle and stay focused on what matters.
 
@@ -43,8 +41,7 @@ Another idea I want to share is about making the most of “dead time”—those
 
 If you can, invest in a better seat or a quieter space during your commute. The time you save and the progress you make are worth it. Remember, time is the one thing you can never get back. Money comes and goes, but lost hours are gone forever.
 
-![deadline concept with calendar and alarm clock on pink ](https://images.unsplash.com/photo-1624969862293-b749659ccc4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lcyUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Routines That Protect Your Goals From Distractions")
-*How to Build Routines That Protect Your Goals From Distractions - Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/photos/white-and-pink-analog-alarm-clock-jOeh3Lv88xA)*
+{{< figure src="https://images.unsplash.com/photo-1624969862293-b749659ccc4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lcyUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="deadline concept with calendar and alarm clock on pink" title="How to Build Routines That Protect Your Goals From Distractions" caption="How to Build Routines That Protect Your Goals From Distractions - Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/photos/white-and-pink-analog-alarm-clock-jOeh3Lv88xA)" >}}
 
 > *Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent.*
 — Carl Sandburg

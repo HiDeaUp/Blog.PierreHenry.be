@@ -12,8 +12,7 @@ original_title = "Building React Native Apps Just With Cursor AI - This Is What 
 source_medium = "https://medium.com/@phenrysay/a31d18975c5f"
 +++
 
-![Photo by Safar Safarov](https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxSZWFjdCUyME5hdGl2ZSUyMEN1cnNvciUyMEFJJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZ3xlbnwwfDB8fHwxNzY3MjU0NTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build React Native Apps Without Writing All the Code")
-*How to Build React Native Apps Without Writing All the Code - Photo by [Safar Safarov](https://unsplash.com/@safarslife) on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c)*
+{{< figure src="https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxSZWFjdCUyME5hdGl2ZSUyMEN1cnNvciUyMEFJJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZ3xlbnwwfDB8fHwxNzY3MjU0NTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Turned on macbook pro" title="How to Build React Native Apps Without Writing All the Code" caption="How to Build React Native Apps Without Writing All the Code - Photo by [Safar Safarov](https://unsplash.com/@safarslife) on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c)" >}}
 
 Alright, my friend, let’s get into it. I’m sitting here with my coffee, got my watch on (mostly for the time, but hey, it’s also nice to know if my heart’s racing when I’m stressed out). Today, it’s just you and me, and we’re diving into building React Native apps using Cursor AI. I’ve been a software engineer for 12 years, but now I’m all about changing habits and letting AI do the heavy lifting.
 
@@ -40,8 +39,7 @@ Please fix the parts file currently error.
 
 Sometimes, switching the AI model helps. But if you want to do *everything* with AI, be ready for some weird edge cases. Cursor might spit out something that looks right but isn’t. You have to keep an eye on it.
 
-![Photo by Bernd 📷 Dittrich](https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxSZWFjdCUyME5hdGl2ZSUyMEN1cnNvciUyMEFJJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZ3xlbnwwfDB8fHwxNzY3MjU0NTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build React Native Apps Without Writing All the Code")
-*How to Build React Native Apps Without Writing All the Code - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)*
+{{< figure src="https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxSZWFjdCUyME5hdGl2ZSUyMEN1cnNvciUyMEFJJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZ3xlbnwwfDB8fHwxNzY3MjU0NTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A screen with a bunch of lines on it" title="How to Build React Native Apps Without Writing All the Code" caption="How to Build React Native Apps Without Writing All the Code - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)" >}}
 
 I committed the changes, ran the build, and kept moving. That’s the workflow.
 
@@ -71,8 +69,7 @@ Here’s the kind of prompt I used:
 Fetch on Reddit in r/sideproject the most popular posts, find correlations of the viral ones, and create one for me for my app. Adapt my original post accordingly.
 ```
 
-![Photo by Daniil Komov](https://images.unsplash.com/photo-1763568258696-32147bb44379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxSZWFjdCUyME5hdGl2ZSUyMEN1cnNvciUyMEFJJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZ3xlbnwwfDB8fHwxNzY3MjU0NTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build React Native Apps Without Writing All the Code")
-*How to Build React Native Apps Without Writing All the Code - Photo by [Daniil Komov](https://unsplash.com/@dkomow) on [Unsplash](https://unsplash.com/photos/computer-screen-showing-lines-of-code-d75zdRe5g_s)*
+{{< figure src="https://images.unsplash.com/photo-1763568258696-32147bb44379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxSZWFjdCUyME5hdGl2ZSUyMEN1cnNvciUyMEFJJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZ3xlbnwwfDB8fHwxNzY3MjU0NTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Screen showing lines of code" title="How to Build React Native Apps Without Writing All the Code" caption="How to Build React Native Apps Without Writing All the Code - Photo by [Daniil Komov](https://unsplash.com/@dkomow) on [Unsplash](https://unsplash.com/photos/computer-screen-showing-lines-of-code-d75zdRe5g_s)" >}}
 
 You can even feed it your app description for more context. It’ll spit out a post that’s got a better shot at going viral.
 

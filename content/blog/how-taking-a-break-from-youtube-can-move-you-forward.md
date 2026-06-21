@@ -13,7 +13,7 @@ source_medium = "https://medium.com/@phenrysay/a819f01a0b76"
 source_youtube = "https://www.youtube.com/watch?v=7YS-vxZSM4c"
 +++
 
-![A close up of a cell phone with a youtube logo on it - Photo by Christian Wiediger on Unsplash](https://images.unsplash.com/photo-1548328928-34db1c5fcc1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxIb3clMjBUYWtpbmclMjBhJTIwQnJlYWslMjBGcm9tJTIwWW91VHViZSUyMENhbiUyME1vdmUlMjBZb3UlMjBGb3J3YXJkfGVufDB8MHx8fDE3NzQwNTA2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1548328928-34db1c5fcc1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxIb3clMjBUYWtpbmclMjBhJTIwQnJlYWslMjBGcm9tJTIwWW91VHViZSUyMENhbiUyME1vdmUlMjBZb3UlMjBGb3J3YXJkfGVufDB8MHx8fDE3NzQwNTA2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a cell phone with a youtube logo on it - Photo by Christian Wiediger on Unsplash" >}}
 
 **Sometimes, pressing pause is the right move.**
 
@@ -30,7 +30,7 @@ This is not about abandoning what has been already built. On the contrary, it's 
 
 ## Why a Pause Is Sometimes Necessary
 
-![A laptop computer sitting on top of a bed - Photo by Collabstr on Unsplash](https://images.unsplash.com/photo-1646446890195-a5f18c0e9666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxIb3clMjBUYWtpbmclMjBhJTIwQnJlYWslMjBGcm9tJTIwWW91VHViZSUyMENhbiUyME1vdmUlMjBZb3UlMjBGb3J3YXJkfGVufDB8MHx8fDE3NzQwNTA2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1646446890195-a5f18c0e9666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxIb3clMjBUYWtpbmclMjBhJTIwQnJlYWslMjBGcm9tJTIwWW91VHViZSUyMENhbiUyME1vdmUlMjBZb3UlMjBGb3J3YXJkfGVufDB8MHx8fDE3NzQwNTA2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A laptop computer sitting on top of a bed - Photo by Collabstr on Unsplash" >}}
 
 You might wonder why doing it? 
 
@@ -54,7 +54,7 @@ Use this time to focus on your own growth. Sometimes having a clear set of resou
 
 ## Change Is Good
 
-![A red and white play button on a white card - Photo by Kelly Sikkema on Unsplash](https://images.unsplash.com/photo-1694878981737-2ba5df9e3f72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxIb3clMjBUYWtpbmclMjBhJTIwQnJlYWslMjBGcm9tJTIwWW91VHViZSUyMENhbiUyME1vdmUlMjBZb3UlMjBGb3J3YXJkfGVufDB8MHx8fDE3NzQwNTA2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1694878981737-2ba5df9e3f72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxIb3clMjBUYWtpbmclMjBhJTIwQnJlYWslMjBGcm9tJTIwWW91VHViZSUyMENhbiUyME1vdmUlMjBZb3UlMjBGb3J3YXJkfGVufDB8MHx8fDE3NzQwNTA2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A red and white play button on a white card - Photo by Kelly Sikkema on Unsplash" >}}
 
 I will likely come back later with new ideas and a fresh perspective. The future is never set in stone. For now, I am excited to see where this focus takes me, and I hope you have the same courage to follow your own path.
 

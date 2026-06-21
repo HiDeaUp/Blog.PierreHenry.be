@@ -12,8 +12,7 @@ original_title = "RÉVÉLATION : Ma Stratégie Complète pour Vivre Authentiquem
 source_medium = "https://medium.com/@phenrysay/cbd957af0a7a"
 +++
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdXRoZW50aWMlMjBsaXZpbmclMjBncm93dGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDA2MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Growth Mindset or Stay Stuck in the Past")
-*Adopt a Growth Mindset or Stay Stuck in the Past - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhdXRoZW50aWMlMjBsaXZpbmclMjBncm93dGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDA2MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="Adopt a Growth Mindset or Stay Stuck in the Past" caption="Adopt a Growth Mindset or Stay Stuck in the Past - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 For a long time, the path to a “good life” seemed simple: study hard, get impressive diplomas, and land a stable job where you could spend decades. That’s what our parents and grandparents did. But things have changed. Today, the most important skill isn’t just about formal education. It’s about being curious, learning on your own, and staying open to new possibilities.
 
@@ -23,8 +22,7 @@ If you ask your parents or grandparents, they’ll tell you life was different f
 
 But don’t fall into the trap of doing things just to look clever. If you want to start a business, don’t focus only on what seems “smart.” Focus on what you love and what your users actually want. You can do all the research in the world, but if your customers don’t care, what’s the point? What matters is building something that lasts, something that can grow into your own little empire. And remember, empires aren’t built in a year. They take time.
 
-![Photo by Richie Lai Cheong](https://images.unsplash.com/photo-1661681010889-edc18b619970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdXRoZW50aWMlMjBsaXZpbmclMjBncm93dGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDA2MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Growth Mindset or Stay Stuck in the Past")
-*Adopt a Growth Mindset or Stay Stuck in the Past - Photo by [Richie Lai Cheong](https://unsplash.com/@richie_slai) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-rocks-XaLMpvz5i0g)*
+{{< figure src="https://images.unsplash.com/photo-1661681010889-edc18b619970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhdXRoZW50aWMlMjBsaXZpbmclMjBncm93dGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDA2MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of rocks" title="Adopt a Growth Mindset or Stay Stuck in the Past" caption="Adopt a Growth Mindset or Stay Stuck in the Past - Photo by [Richie Lai Cheong](https://unsplash.com/@richie_slai) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-rocks-XaLMpvz5i0g)" >}}
 
 If you spend just one or two hours every day, consistently, you’ll see the difference. Regularity and perseverance are what set successful people apart. Sometimes, you’ll feel lost or unsure, but if you keep showing up, the rest will follow.
 
@@ -42,8 +40,7 @@ If your product is for men or women, pick a name that fits. If it’s for footba
 
 Building a life or a business that fits you doesn’t happen by accident. It takes intention, patience, and a willingness to adjust when things don’t work out. Life is short, so take it step by step. If you love what you do and know exactly who you’re doing it for, you’ll go far.
 
-![Photo by Andrea Sánchez](https://images.unsplash.com/photo-1622227876140-d848d750ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdXRoZW50aWMlMjBsaXZpbmclMjBncm93dGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDA2MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Growth Mindset or Stay Stuck in the Past")
-*Adopt a Growth Mindset or Stay Stuck in the Past - Photo by [Andrea Sánchez](https://unsplash.com/@andyspidey) on [Unsplash](https://unsplash.com/photos/green-leaf-on-persons-face-1Z9kF1QesXI)*
+{{< figure src="https://images.unsplash.com/photo-1622227876140-d848d750ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdXRoZW50aWMlMjBsaXZpbmclMjBncm93dGglMjBtaW5kc2V0JTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU3NDA2MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leaf on persons face" title="Adopt a Growth Mindset or Stay Stuck in the Past" caption="Adopt a Growth Mindset or Stay Stuck in the Past - Photo by [Andrea Sánchez](https://unsplash.com/@andyspidey) on [Unsplash](https://unsplash.com/photos/green-leaf-on-persons-face-1Z9kF1QesXI)" >}}
 
 > *“Do not wait; the time will never be ‘just right.’ Start where you stand, and work with whatever tools you may have at your command.”*  
 — Napoleon Hill

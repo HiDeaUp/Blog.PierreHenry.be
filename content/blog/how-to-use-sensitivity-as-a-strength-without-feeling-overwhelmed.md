@@ -12,8 +12,7 @@ original_title = "Interview Inédite : Vivre en étant un (hyper)sensible"
 source_medium = "https://medium.com/@phenrysay/5f62cc32c467"
 +++
 
-![Photo by Shawn Day](https://images.unsplash.com/photo-1711409650645-a568a59446f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoeXBlcnNlbnNpdGl2aXR5JTIwZW1vdGlvbmFsJTIwaW50ZWxsaWdlbmNlJTIwc2Vuc29yeSUyMHBlcmNlcHRpb258ZW58MHwwfHx8MTc1NTYwMTQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Sensitivity as a Strength Without Feeling Overwhelmed")
-*How to Use Sensitivity as a Strength Without Feeling Overwhelmed - Photo by [Shawn Day](https://unsplash.com/@whisperingshiba) on [Unsplash](https://unsplash.com/photos/a-white-brain-on-a-black-background-aKMcboPYZZw)*
+{{< figure src="https://images.unsplash.com/photo-1711409650645-a568a59446f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoeXBlcnNlbnNpdGl2aXR5JTIwZW1vdGlvbmFsJTIwaW50ZWxsaWdlbmNlJTIwc2Vuc29yeSUyMHBlcmNlcHRpb258ZW58MHwwfHx8MTc1NTYwMTQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A white brain on a black" title="How to Use Sensitivity as a Strength Without Feeling Overwhelmed" caption="How to Use Sensitivity as a Strength Without Feeling Overwhelmed - Photo by [Shawn Day](https://unsplash.com/@whisperingshiba) on [Unsplash](https://unsplash.com/photos/a-white-brain-on-a-black-background-aKMcboPYZZw)" >}}
 
 Sensitivity is a topic that touches many people, even if we don’t always talk about it openly. Some people are more sensitive than others, but in truth, everyone has their own way of feeling things. Today, I want to share a conversation that goes deeper into what it means to be sensitive—and especially hypersensitive—in our everyday lives.
 
@@ -32,8 +31,7 @@ Hypersensitive people are also more affected by overstimulation. Too much noise,
 > *“To feel intensely is not a symptom of weakness, it is the trademark of the truly alive and compassionate.”*  
 > — Anthon St. Maarten
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoeXBlcnNlbnNpdGl2aXR5JTIwZW1vdGlvbmFsJTIwaW50ZWxsaWdlbmNlJTIwc2Vuc29yeSUyMHBlcmNlcHRpb258ZW58MHwwfHx8MTc1NTYwMTQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Sensitivity as a Strength Without Feeling Overwhelmed")
-*How to Use Sensitivity as a Strength Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoeXBlcnNlbnNpdGl2aXR5JTIwZW1vdGlvbmFsJTIwaW50ZWxsaWdlbmNlJTIwc2Vuc29yeSUyMHBlcmNlcHRpb258ZW58MHwwfHx8MTc1NTYwMTQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Use Sensitivity as a Strength Without Feeling Overwhelmed" caption="How to Use Sensitivity as a Strength Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 ## The Emotional Side
 
@@ -55,8 +53,7 @@ Interestingly, hypersensitive people often use more mental energy than others. T
 
 Not every hypersensitive person reacts to the same things. Some are more sensitive to light, others to sound, touch, or smell. It’s a very personal experience, and it’s important not to label yourself too quickly. There are tests and books that can help you figure out where you stand, but honesty with yourself is essential.
 
-![Photo by Rick Rothenberg](https://images.unsplash.com/photo-1672487914911-ceef7e144255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoeXBlcnNlbnNpdGl2aXR5JTIwZW1vdGlvbmFsJTIwaW50ZWxsaWdlbmNlJTIwc2Vuc29yeSUyMHBlcmNlcHRpb258ZW58MHwwfHx8MTc1NTYwMTQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Use Sensitivity as a Strength Without Feeling Overwhelmed")
-*How to Use Sensitivity as a Strength Without Feeling Overwhelmed - Photo by [Rick Rothenberg](https://unsplash.com/@rick_rothenberg) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-green-and-blue-object-prTbZsZfYvk)*
+{{< figure src="https://images.unsplash.com/photo-1672487914911-ceef7e144255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoeXBlcnNlbnNpdGl2aXR5JTIwZW1vdGlvbmFsJTIwaW50ZWxsaWdlbmNlJTIwc2Vuc29yeSUyMHBlcmNlcHRpb258ZW58MHwwfHx8MTc1NTYwMTQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a green and blue object" title="How to Use Sensitivity as a Strength Without Feeling Overwhelmed" caption="How to Use Sensitivity as a Strength Without Feeling Overwhelmed - Photo by [Rick Rothenberg](https://unsplash.com/@rick_rothenberg) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-green-and-blue-object-prTbZsZfYvk)" >}}
 
 > *“Highly sensitive people are too often perceived as weaklings or damaged goods. To feel intensely is not a symptom of weakness, it is the trademark of the truly alive and compassionate.”*  
 > — Anthon St. Maarten

@@ -12,8 +12,7 @@ original_title = "Les clés pour s’élever et réussir 💪"
 source_medium = "https://medium.com/@phenrysay/6895ac49b2d4"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTExOTE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Week Without Burnout")
-*How to Grow Every Week Without Burnout - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTExOTE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Grow Every Week Without Burnout" caption="How to Grow Every Week Without Burnout - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 Rising above your daily routine and becoming a better version of yourself is not just a nice idea—it is essential. But how do you actually make progress, day after day, without burning out or feeling overwhelmed?
 
@@ -25,8 +24,7 @@ But here is something important—do not put negative pressure on yourself. Too 
 
 Instead, remember that these small weekly goals are your path to your ideal life and your ideal self. The real reward is feeling proud of yourself and building genuine self-confidence. That is why working with small, weekly goals is the best remedy.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTExOTE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Week Without Burnout")
-*How to Grow Every Week Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTExOTE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Grow Every Week Without Burnout" caption="How to Grow Every Week Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 If you like, use a simple calendar—the kind your grandmother or mother might have used, with boxes for each day of the week. Every time you complete your daily task, mark it with a cross. The goal is not to break the chain. Treat it like a game, and keep the streak going. This is how you build habits, improve yourself, and move closer to the life you dream of.
 
@@ -50,8 +48,7 @@ I am rooting for you. If you are reading this, you are already on the right path
 - Avoid negative pressure; improvement should not feel like torture.
 - Building habits is the real secret to long-term success.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTExOTE0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Week Without Burnout")
-*How to Grow Every Week Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)*
+{{< figure src="https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc3VjY2VzcyUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTExOTE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word love on a wooden surface" title="How to Grow Every Week Without Burnout" caption="How to Grow Every Week Without Burnout - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)" >}}
 
 ## Action Steps
 

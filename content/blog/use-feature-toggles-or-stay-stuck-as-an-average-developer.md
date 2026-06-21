@@ -12,8 +12,7 @@ original_title = "Stop Being Average #softwareengineerjob"
 source_medium = "https://medium.com/@phenrysay/b2a863728edd"
 +++
 
-![Photo by Nguyen Dang Hoang Nhu](https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZmVhdHVyZSUyMHRvZ2dsZXMlMjBkZXZlbG9wbWVudCUyMGJlc3QlMjBwcmFjdGljZXN8ZW58MHwwfHx8MTc2NTYzMzU2OXww&ixlib=rb-4.1.0&q=80&w=1080 "Use Feature Toggles or Stay Stuck as an Average Developer")
-*Use Feature Toggles or Stay Stuck as an Average Developer - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)*
+{{< figure src="https://images.unsplash.com/photo-1621036579842-9080c7119f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZmVhdHVyZSUyMHRvZ2dsZXMlMjBkZXZlbG9wbWVudCUyMGJlc3QlMjBwcmFjdGljZXN8ZW58MHwwfHx8MTc2NTYzMzU2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy in blue t shirt sitting on black office rolling chair in front of F" title="Use Feature Toggles or Stay Stuck as an Average Developer" caption="Use Feature Toggles or Stay Stuck as an Average Developer - Photo by [Nguyen Dang Hoang Nhu](https://unsplash.com/@nguyendhn) on [Unsplash](https://unsplash.com/photos/boy-in-blue-t-shirt-sitting-on-black-office-rolling-chair-in-front-of-computer-F-5UxARmads)" >}}
 
 Let’s talk about something that gets overlooked way too often: how you ship features and handle mistakes in production. I see a lot of teams just rolling with the default, average approach—deploy, cross your fingers, and if something breaks, scramble to roll back. But there’s a smarter way, and it starts with thinking outside the box.
 
@@ -34,8 +33,7 @@ else:
 
 Simple, right? But it’s powerful. You can ship, test, and iterate without putting everything at risk.
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZmVhdHVyZSUyMHRvZ2dsZXMlMjBkZXZlbG9wbWVudCUyMGJlc3QlMjBwcmFjdGljZXN8ZW58MHwwfHx8MTc2NTYzMzU2OXww&ixlib=rb-4.1.0&q=80&w=1080 "Use Feature Toggles or Stay Stuck as an Average Developer")
-*Use Feature Toggles or Stay Stuck as an Average Developer - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZmVhdHVyZSUyMHRvZ2dsZXMlMjBkZXZlbG9wbWVudCUyMGJlc3QlMjBwcmFjdGljZXN8ZW58MHwwfHx8MTc2NTYzMzU2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="Use Feature Toggles or Stay Stuck as an Average Developer" caption="Use Feature Toggles or Stay Stuck as an Average Developer - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 ### The Only Limit Is You
 
@@ -53,8 +51,7 @@ So next time you’re about to ship something, ask yourself: am I just doing wha
 
 ---
 
-![Working on new project on Crumble Office in Prishtina, Kosovo.](https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZmVhdHVyZSUyMHRvZ2dsZXMlMjBkZXZlbG9wbWVudCUyMGJlc3QlMjBwcmFjdGljZXN8ZW58MHwwfHx8MTc2NTYzMzU2OXww&ixlib=rb-4.1.0&q=80&w=1080 "Use Feature Toggles or Stay Stuck as an Average Developer")
-*Use Feature Toggles or Stay Stuck as an Average Developer - Photo by [Fatos Bytyqi](https://unsplash.com/@fatosi) on [Unsplash](https://unsplash.com/photos/gray-laptop-computer-on-brown-wooden-desk-Agx5_TLsIf4)*
+{{< figure src="https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwZmVhdHVyZSUyMHRvZ2dsZXMlMjBkZXZlbG9wbWVudCUyMGJlc3QlMjBwcmFjdGljZXN8ZW58MHwwfHx8MTc2NTYzMzU2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Working on new project on Crumble Office in Prishtina, Kosovo." title="Use Feature Toggles or Stay Stuck as an Average Developer" caption="Use Feature Toggles or Stay Stuck as an Average Developer - Photo by [Fatos Bytyqi](https://unsplash.com/@fatosi) on [Unsplash](https://unsplash.com/photos/gray-laptop-computer-on-brown-wooden-desk-Agx5_TLsIf4)" >}}
 
 ## Key Takeaways
 

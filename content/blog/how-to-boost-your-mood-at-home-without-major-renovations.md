@@ -12,8 +12,7 @@ original_title = "SE SENTIR HEUREUX CHEZ SOI / MES top conseils pour transformer
 source_medium = "https://medium.com/@phenrysay/3d2fd25635bc"
 +++
 
-![Photo by The Prototype](https://images.unsplash.com/photo-1731445516807-46c5d43c8f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxob21lJTIwZGVjb3IlMjB3ZWxsLWJlaW5nJTIwaW50ZXJpb3IlMjBkZXNpZ258ZW58MHwwfHx8MTc1NTQyMDE0OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood at Home Without Major Renovations")
-*How to Boost Your Mood at Home Without Major Renovations - Photo by [The Prototype](https://unsplash.com/@theprototype) on [Unsplash](https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-mirror-HdCHDNVo2ms)*
+{{< figure src="https://images.unsplash.com/photo-1731445516807-46c5d43c8f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxob21lJTIwZGVjb3IlMjB3ZWxsLWJlaW5nJTIwaW50ZXJpb3IlMjBkZXNpZ258ZW58MHwwfHx8MTc1NTQyMDE0OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A bedroom with a bed and a mirror" title="How to Boost Your Mood at Home Without Major Renovations" caption="How to Boost Your Mood at Home Without Major Renovations - Photo by [The Prototype](https://unsplash.com/@theprototype) on [Unsplash](https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-mirror-HdCHDNVo2ms)" >}}
 
 We often overlook how much our home environment affects our mood and well-being. The furniture we choose, the colors on our walls, the way we organize our space—all these details can either lift us up or drag us down. Sometimes, the answer to why we feel uneasy or restless at home is right in front of us.
 
@@ -31,8 +30,7 @@ On the other hand, when you fill your home with furniture you genuinely like—m
 
 Whenever you move into a new place, whether it’s a hotel, an Airbnb, or a furnished rental, take a moment to ask yourself: *Do I actually like this furniture? Could I see myself living here for the next ten years?* If the answer is yes, that’s a good sign. If not, maybe it’s not the right fit for you.
 
-![Fresh white yoga & fitness studio. 3D Render made with Adobe Stager.](https://images.unsplash.com/photo-1676496962536-d8ef110ff6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxob21lJTIwZGVjb3IlMjB3ZWxsLWJlaW5nJTIwaW50ZXJpb3IlMjBkZXNpZ258ZW58MHwwfHx8MTc1NTQyMDE0OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood at Home Without Major Renovations")
-*How to Boost Your Mood at Home Without Major Renovations - Photo by [Clearcut Derby](https://unsplash.com/@clearcutderby) on [Unsplash](https://unsplash.com/photos/a-room-with-three-round-windows-and-a-potted-plant-tOeo4_ra6oc)*
+{{< figure src="https://images.unsplash.com/photo-1676496962536-d8ef110ff6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxob21lJTIwZGVjb3IlMjB3ZWxsLWJlaW5nJTIwaW50ZXJpb3IlMjBkZXNpZ258ZW58MHwwfHx8MTc1NTQyMDE0OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Fresh white yoga & fitness studio. 3D Render made with Adobe Stager." title="How to Boost Your Mood at Home Without Major Renovations" caption="How to Boost Your Mood at Home Without Major Renovations - Photo by [Clearcut Derby](https://unsplash.com/@clearcutderby) on [Unsplash](https://unsplash.com/photos/a-room-with-three-round-windows-and-a-potted-plant-tOeo4_ra6oc)" >}}
 
 Your environment should help you grow. When you’re in sync with your surroundings, it’s easier to move towards your goals. Your home is your foundation. If you spend every day in a place you dislike—or worse, hate—it’s hard to build a happy, successful life. You’ll always feel like you’re swimming against the current.
 
@@ -55,8 +53,7 @@ We often hold onto things just because we spent money on them. But keeping somet
 
 ## Your Home Is Not a Storage Unit
 
-![Photo by Jana Heinemann](https://images.unsplash.com/photo-1691752060291-50e019a9a16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxob21lJTIwZGVjb3IlMjB3ZWxsLWJlaW5nJTIwaW50ZXJpb3IlMjBkZXNpZ258ZW58MHwwfHx8MTc1NTQyMDE0OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Mood at Home Without Major Renovations")
-*How to Boost Your Mood at Home Without Major Renovations - Photo by [Jana Heinemann](https://unsplash.com/@heinemann_homestaging) on [Unsplash](https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-U_NwhtIgpqE)*
+{{< figure src="https://images.unsplash.com/photo-1691752060291-50e019a9a16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxob21lJTIwZGVjb3IlMjB3ZWxsLWJlaW5nJTIwaW50ZXJpb3IlMjBkZXNpZ258ZW58MHwwfHx8MTc1NTQyMDE0OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A living room with a couch and a table" title="How to Boost Your Mood at Home Without Major Renovations" caption="How to Boost Your Mood at Home Without Major Renovations - Photo by [Jana Heinemann](https://unsplash.com/@heinemann_homestaging) on [Unsplash](https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-U_NwhtIgpqE)" >}}
 
 Remember, your home is a place to live and feel good—not a storage unit. If you need something, you can always buy or borrow it later. Don’t let your living space become a dumping ground for things you rarely use. Treat your home as a sanctuary, a place that supports your well-being.
 

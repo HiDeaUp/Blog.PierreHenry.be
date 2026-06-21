@@ -12,8 +12,7 @@ original_title = "Les habitudes qui TRANSFORMERONT ton quotidien"
 source_medium = "https://medium.com/@phenrysay/91a17b38dcdf"
 +++
 
-![Tour de France peloton in rainy weather.](https://images.unsplash.com/photo-1589556264800-08ae9e129a8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudCUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc0OTMwMzk2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life Without Chasing More")
-*How to Transform Your Life Without Chasing More - Photo by [Florian Schmetz](https://unsplash.com/@floschmaezz) on [Unsplash](https://unsplash.com/photos/people-riding-bicycle-on-road-during-daytime-lbVKwIAZ6EY)*
+{{< figure src="https://images.unsplash.com/photo-1589556264800-08ae9e129a8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudCUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc0OTMwMzk2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tour de France peloton in rainy weather." title="How to Transform Your Life Without Chasing More" caption="How to Transform Your Life Without Chasing More - Photo by [Florian Schmetz](https://unsplash.com/@floschmaezz) on [Unsplash](https://unsplash.com/photos/people-riding-bicycle-on-road-during-daytime-lbVKwIAZ6EY)" >}}
 
 We often find ourselves caught in what I call the “rat race”—always striving to achieve more, to earn more, to collect more diplomas, to land that prestigious job, or to work for a company with a big name. Maybe you dream of joining Google, OpenAI, or some other tech giant. I remember when my own dream was to work for Badoo, back when dating apps were just starting to take off. I even did an internship in their London office. That was my goal at the time, and I poured myself into it.
 
@@ -31,8 +30,7 @@ Ten years ago, my priorities were completely different. I was single, working no
 
 So ask yourself: are you still in “rat race” mode, or are you ready to slow down and find what really matters to you? Set goals for the short, medium, and long term. Know what you want, and don’t be afraid to change direction if your heart tells you to.
 
-![…breathe! For a full size digital copy (6000x4000px RAW+JPG) of this file, or a high quality print, please contact me via instagram: @timothy.j.g, or email: tim@goedhart-lin.nl That file would be free to use for any means except direct reselling (copywrite is included in metadata). When using this free image online: please tag, credit and if you want, follow me on Instagram.](https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudCUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc0OTMwMzk2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life Without Chasing More")
-*How to Transform Your Life Without Chasing More - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)*
+{{< figure src="https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudCUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc0OTMwMzk2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe neon signage" title="How to Transform Your Life Without Chasing More" caption="How to Transform Your Life Without Chasing More - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)" >}}
 
 ## The Joy of Building—and Letting Go
 
@@ -55,9 +53,7 @@ If you’re struggling with an addiction or a bad habit, try replacing it with s
 
 ## Be the Actor in Your Own Life
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudCUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc0OTMwMzk2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life Without Chasing More")
-*How to Transform Your Life Without Chasing More - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGhhYml0cyUyMHNlbGYlMjBpbXByb3ZlbWVudCUyMHJhdCUyMHJhY2V8ZW58MHwwfHx8MTc0OTMwMzk2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Transform Your Life Without Chasing More" caption="How to Transform Your Life Without Chasing More - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 Don’t just let life happen to you. Take charge. Build your future by investing your time and knowledge wisely. Don’t waste your time on things that don’t matter to you or won’t make a difference in your future. It’s not always easy to know when to move on, but it’s important to keep questioning yourself and your path.
 

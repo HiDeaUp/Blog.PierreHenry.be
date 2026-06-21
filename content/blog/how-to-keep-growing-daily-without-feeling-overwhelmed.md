@@ -12,8 +12,7 @@ original_title = "S’AMÉLIORER UN PEU CHAQUE JOUR (SANS SE METTRE LA PRESSION)
 source_medium = "https://medium.com/@phenrysay/c0dc2544468a"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTE4NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Growing Daily Without Feeling Overwhelmed")
-*How to Keep Growing Daily Without Feeling Overwhelmed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTE4NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Keep Growing Daily Without Feeling Overwhelmed" caption="How to Keep Growing Daily Without Feeling Overwhelmed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever wondered how to keep improving, day after day, without feeling overwhelmed? There’s a simple method that can help you grow, no matter where you are or what you’re doing. It doesn’t require fancy tools or complicated routines—just a notebook and a pen in every room of your home.
 
@@ -21,8 +20,7 @@ Here’s how it works: Place a notebook and a pen in each room—your kitchen, l
 
 For example, after doing the dishes, write a short feedback note. Were you satisfied with how you did it? Did you rush, or did you take your time? If you cooked a meal, write down how it tasted, what you liked, and what you might improve next time. If you’re working from home, at the end of your workday, write about how your day went, what you accomplished, and what you could do differently tomorrow.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTE4NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Growing Daily Without Feeling Overwhelmed")
-*How to Keep Growing Daily Without Feeling Overwhelmed - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTE4NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Keep Growing Daily Without Feeling Overwhelmed" caption="How to Keep Growing Daily Without Feeling Overwhelmed - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 This habit of giving yourself feedback after each action helps you keep track of your mindset and progress. It’s not about being perfect or putting pressure on yourself. It’s about noticing the small things, learning from them, and making tiny adjustments as you go. Over time, these little notes add up. You start to see patterns, understand yourself better, and notice real improvement.
 
@@ -35,8 +33,7 @@ If you try this, you’ll notice real changes—not just in your skills, but in 
 
 ---
 
-![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTE4NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Growing Daily Without Feeling Overwhelmed")
-*How to Keep Growing Daily Without Feeling Overwhelmed - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
+{{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTE4NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Keep Growing Daily Without Feeling Overwhelmed" caption="How to Keep Growing Daily Without Feeling Overwhelmed - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
 ## Key Takeaways
 - Keep a notebook and pen in every room.

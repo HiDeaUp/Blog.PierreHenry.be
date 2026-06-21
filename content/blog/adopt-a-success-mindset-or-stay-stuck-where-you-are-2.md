@@ -12,8 +12,7 @@ original_title = "Le mindset de la réussite 🏆"
 source_medium = "https://medium.com/@phenrysay/f050deb75648"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Success Mindset or Stay Stuck Where You Are")
-*Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="Adopt a Success Mindset or Stay Stuck Where You Are" caption="Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 What sets apart those who succeed at everything they do? It’s not luck or some secret formula. It’s a way of thinking, a mindset that turns every twist and turn into a stepping stone. Let’s break down the key habits and attitudes that make all the difference.
 
@@ -29,8 +28,7 @@ Everyone you meet has something to teach you, no matter their background, age, o
 
 Another trait of people who succeed is that they set big goals. They don’t limit themselves to what seems realistic. If you’re persistent and confident, you can achieve much more than you imagine. Of course, it’s important to know when something isn’t working and to adjust your approach, but perseverance is key. Keep going, and don’t be afraid to aim high.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Success Mindset or Stay Stuck Where You Are")
-*Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="Adopt a Success Mindset or Stay Stuck Where You Are" caption="Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 > *Success is not the result of spontaneous combustion. You must set yourself on fire.*
 >
@@ -54,8 +52,7 @@ These days, you can even rent out furniture or plants to offices. Some companies
 
 Finally, a regular routine is crucial. Good sleep, healthy eating, and a balanced lifestyle all play a big role in your success. When you eat well and sleep at the same time every day, you’ll feel less tired and more focused. Taking care of yourself isn’t just about feeling good—it’s about giving yourself the energy to reach your goals.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080 "Adopt a Success Mindset or Stay Stuck Where You Are")
-*Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMTExOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="Adopt a Success Mindset or Stay Stuck Where You Are" caption="Adopt a Success Mindset or Stay Stuck Where You Are - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 > *Take care of your body. It’s the only place you have to live.*
 >

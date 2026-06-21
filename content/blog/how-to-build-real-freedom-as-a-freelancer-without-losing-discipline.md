@@ -12,8 +12,7 @@ original_title = "La SEULE leçon que j'ai découverte sur la DISCIPLINE en tant
 source_medium = "https://medium.com/@phenrysay/9b89de7b2c04"
 +++
 
-![…breathe! For a full size digital copy (6000x4000px RAW+JPG) of this file, or a high quality print, please contact me via instagram: @timothy.j.g, or email: tim@goedhart-lin.nl That file would be free to use for any means except direct reselling (copywrite is included in metadata). When using this free image online: please tag, credit and if you want, follow me on Instagram.](https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMHNlbGYtZGlzY2lwbGluZSUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc0OTM5OTAxMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline")
-*How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)*
+{{< figure src="https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMHNlbGYtZGlzY2lwbGluZSUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc0OTM5OTAxMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe neon signage" title="How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline" caption="How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)" >}}
 
 When you become a freelancer or start your own business, the first feeling is freedom. No boss, no fixed hours, no one telling you what to do. It sounds perfect. But here’s the truth I learned from my own journey: discipline is everything. And it’s much harder than it looks.
 
@@ -31,9 +30,7 @@ This regularity, these small habits, are what make the difference. Instead of re
 
 Often, we put things off not because we’re lazy, but because starting is hard. The first step feels heavy. So, I looked for ways to make starting easier. How could I make the beginning of a task as simple as possible? Sometimes, it’s about changing your environment. Maybe the problem isn’t you—it’s your surroundings. If your home is full of distractions, maybe you need to rearrange it or work somewhere else.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMHNlbGYtZGlzY2lwbGluZSUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc0OTM5OTAxMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline")
-*How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMHNlbGYtZGlzY2lwbGluZSUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc0OTM5OTAxMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline" caption="How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 You can also add friction to the things that distract you. For example, if scrolling through social media is eating up your time, make it harder to access. I used to spend hours on LinkedIn or X (formerly Twitter), reading interesting posts. But did that really help my business? Not really. Most of the time, it was just noise.
 
@@ -56,8 +53,7 @@ Be minimalist with your time and energy. Do what truly brings you joy and fulfil
 
 ## Step by Step, Task by Task
 
-![Photo by Alisa Anton](https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMHNlbGYtZGlzY2lwbGluZSUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc0OTM5OTAxMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline")
-*How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)*
+{{< figure src="https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMHNlbGYtZGlzY2lwbGluZSUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc0OTM5OTAxMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of gel candle on board beside pillow u_z0X yrJIE" title="How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline" caption="How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)" >}}
 
 Success isn’t about giant leaps. It’s about small steps, one after another. Like writing a book: word by word, page by page. Your achievements will come from doing one task after another, until you reach your big goal.
 

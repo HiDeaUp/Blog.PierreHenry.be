@@ -12,8 +12,7 @@ original_title = "Comment apprendre plus dans ses journées ?"
 source_medium = "https://medium.com/@phenrysay/b8e4b6f92faa"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA4MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Day Without Comparing Yourself to Others")
-*How to Grow Every Day Without Comparing Yourself to Others - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA4MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Grow Every Day Without Comparing Yourself to Others" caption="How to Grow Every Day Without Comparing Yourself to Others - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 We often talk about happiness, well-being, and self-improvement. But today, let’s look at something a bit different: how to become a better version of yourself, not by comparing yourself to others, but by comparing yourself to who you were yesterday. The real challenge is to make sure that tomorrow, you’re a little better than today.
 
@@ -27,8 +26,7 @@ For example, if you want to earn €10,000 a week, break it down by seven days, 
 
 ## Use the Power of Technology and Delegation
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA4MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Day Without Comparing Yourself to Others")
-*How to Grow Every Day Without Comparing Yourself to Others - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA4MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Grow Every Day Without Comparing Yourself to Others" caption="How to Grow Every Day Without Comparing Yourself to Others - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Today, technology makes almost anything possible. You can find services for everything with a simple Google search. Need IT support? Want to hire a manager for your café or restaurant? There are platforms like Upwork, PeoplePerHour, and others where you can find qualified freelancers for marketing, management, or development.
 
@@ -50,8 +48,7 @@ The real secret is to improve a little every day. This is the compound effect: e
 
 ---
 
-![Desk with a keyboard and a planner with the words Marketing Strategy on it](https://images.unsplash.com/photo-1676287565869-6992e7df9bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA4MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Day Without Comparing Yourself to Others")
-*How to Grow Every Day Without Comparing Yourself to Others - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-notepad-with-the-words-marketing-strategy-written-on-it-WJRIxCK4Tsk)*
+{{< figure src="https://images.unsplash.com/photo-1676287565869-6992e7df9bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA4MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Desk with a keyboard and a planner with the words Marketing Strategy on it" title="How to Grow Every Day Without Comparing Yourself to Others" caption="How to Grow Every Day Without Comparing Yourself to Others - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-notepad-with-the-words-marketing-strategy-written-on-it-WJRIxCK4Tsk)" >}}
 
 ## Key Takeaways
 

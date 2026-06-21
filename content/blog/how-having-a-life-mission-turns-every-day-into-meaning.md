@@ -12,8 +12,7 @@ original_title = "Bâtir une mission de vie"
 source_medium = "https://medium.com/@phenrysay/a78c142444d9"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHVycG9zZSUyMHBlcnNvbmFsJTIwbWlzc2lvbiUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU1Nzg4NDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Having a Life Mission Turns Every Day Into Meaning")
-*How Having a Life Mission Turns Every Day Into Meaning - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHVycG9zZSUyMHBlcnNvbmFsJTIwbWlzc2lvbiUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU1Nzg4NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How Having a Life Mission Turns Every Day Into Meaning" caption="How Having a Life Mission Turns Every Day Into Meaning - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Have you ever thought about what you truly want to accomplish in your life? Not just a simple goal or a project, but a real mission—something that gives your days a sense of direction and purpose. As I sit here in a café with my laptop, I can’t help but reflect on why having a mission matters so much.
 
@@ -27,8 +26,7 @@ Even if you have a full-time job, a family, or studies, you can still move forwa
 
 ## The Power of Small Steps
 
-![Push | Follow on Instagram: @timmossholder](https://images.unsplash.com/photo-1525565004407-a1f6f55b5dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHVycG9zZSUyMHBlcnNvbmFsJTIwbWlzc2lvbiUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU1Nzg4NDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Having a Life Mission Turns Every Day Into Meaning")
-*How Having a Life Mission Turns Every Day Into Meaning - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-metal-sign-on-a-red-door-zM9A6RTWUPE)*
+{{< figure src="https://images.unsplash.com/photo-1525565004407-a1f6f55b5dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHVycG9zZSUyMHBlcnNvbmFsJTIwbWlzc2lvbiUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU1Nzg4NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Push | Follow on Instagram: @timmossholder" title="How Having a Life Mission Turns Every Day Into Meaning" caption="How Having a Life Mission Turns Every Day Into Meaning - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-metal-sign-on-a-red-door-zM9A6RTWUPE)" >}}
 
 Think about it like brushing your teeth. You don’t brush for hours at a time—you do it every day, and that’s what keeps your teeth healthy. It’s the same with your mission. Small, regular actions create a snowball effect. Over time, these little steps add up and can change your life in ways you never imagined.
 
@@ -47,8 +45,7 @@ If you love your mission and enjoy working on it, the rest will follow. The envi
 
 ## Key Takeaways
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506061-002a4a6c670d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHVycG9zZSUyMHBlcnNvbmFsJTIwbWlzc2lvbiUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU1Nzg4NDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Having a Life Mission Turns Every Day Into Meaning")
-*How Having a Life Mission Turns Every Day Into Meaning - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-pink-notebook-with-a-quote-on-it-1TWRYr7brTc)*
+{{< figure src="https://images.unsplash.com/photo-1689896506061-002a4a6c670d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHVycG9zZSUyMHBlcnNvbmFsJTIwbWlzc2lvbiUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTU1Nzg4NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A pink with a quote on it" title="How Having a Life Mission Turns Every Day Into Meaning" caption="How Having a Life Mission Turns Every Day Into Meaning - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-pink-notebook-with-a-quote-on-it-1TWRYr7brTc)" >}}
 
 - *A mission gives your days meaning and direction.*
 - *Break your mission into daily steps, no matter how small.*

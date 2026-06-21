@@ -12,9 +12,7 @@ original_title = "Créer en continue et changer de vie"
 source_medium = "https://medium.com/@phenrysay/2049da288362"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, make this the day, don't hesitate, procrastination, decision time, nocrastination, make the jump, exercise, new start, discipline, now is the time, just do it, make the change, diet, weight loss, walk, new leaf, turn over a new leaf, life change, stuck in a rut, move on, 
-](https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBjYXJlZXIlMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2MDE0MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Creation Boosts Your Career Without Burnout")
-*How Daily Creation Boosts Your Career Without Burnout - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)*
+{{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBjYXJlZXIlMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2MDE0MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How Daily Creation Boosts Your Career Without Burnout" caption="How Daily Creation Boosts Your Career Without Burnout - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 
 ### The Power of Small Steps
 
@@ -30,8 +28,7 @@ Here’s a rule that changed everything for me: for every two or three pieces of
 
 But knowledge alone isn’t enough. You have to act. For every two hours you spend consuming content, create something—anything. It doesn’t matter if it’s a short blog post, a tweet, or a video. The point is to make creation a regular part of your routine. This not only helps you remember what you’ve learned, but it also builds your confidence and your public profile.
 
-![Shift Happens](https://images.unsplash.com/photo-1578048421563-9aa187e12baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBjYXJlZXIlMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2MDE0MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Creation Boosts Your Career Without Burnout")
-*How Daily Creation Boosts Your Career Without Burnout - Photo by [SOULSANA](https://unsplash.com/@soulsana) on [Unsplash](https://unsplash.com/photos/scrabble-chips-forming-shift-happens-word-near-white-feather-V5DBwOOv0bo)*
+{{< figure src="https://images.unsplash.com/photo-1578048421563-9aa187e12baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBjYXJlZXIlMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2MDE0MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Shift Happens" title="How Daily Creation Boosts Your Career Without Burnout" caption="How Daily Creation Boosts Your Career Without Burnout - Photo by [SOULSANA](https://unsplash.com/@soulsana) on [Unsplash](https://unsplash.com/photos/scrabble-chips-forming-shift-happens-word-near-white-feather-V5DBwOOv0bo)" >}}
 
 If you want a simple rule, set a timer: after every hour of consuming content, create something. This is much easier than trying to calculate percentages. I use a timer on my watch. After an hour of learning, I switch to creating. This habit has made my life simpler and more rewarding.
 
@@ -47,8 +44,7 @@ Social media, books, videos, and online courses are all ways to share your knowl
 
 If you feel overwhelmed, try breaking your work into 90-minute sprints. Focus deeply, then take a short break. I’ve tested this method with friends and people I coach, and it works wonders. It’s not about doing more, but about doing what matters and enjoying the process.
 
-![Photo by George Van Gosh](https://images.unsplash.com/photo-1566657068469-0483072642f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBjYXJlZXIlMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2MDE0MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How Daily Creation Boosts Your Career Without Burnout")
-*How Daily Creation Boosts Your Career Without Burnout - Photo by [George Van Gosh](https://unsplash.com/@georgevangosh) on [Unsplash](https://unsplash.com/photos/man-wearing-white-crew-neck-shirt-and-black-pants-walking-upstairs-5vK7nSavAjk)*
+{{< figure src="https://images.unsplash.com/photo-1566657068469-0483072642f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBjYXJlZXIlMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2MDE0MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man wearing white crew neck shirt and black pants walking" title="How Daily Creation Boosts Your Career Without Burnout" caption="How Daily Creation Boosts Your Career Without Burnout - Photo by [George Van Gosh](https://unsplash.com/@georgevangosh) on [Unsplash](https://unsplash.com/photos/man-wearing-white-crew-neck-shirt-and-black-pants-walking-upstairs-5vK7nSavAjk)" >}}
 
 Minimalism, clearing out distractions, and focusing on what brings you joy are just as important as productivity. It’s not only about adding value to others, but also about making sure you enjoy what you do.
 

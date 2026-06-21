@@ -12,8 +12,7 @@ original_title = "Le pouvoir secret des couleurs : comment elles contrôlent vos
 source_medium = "https://medium.com/@phenrysay/7b5d7d4367ae"
 +++
 
-![Photo by Solen Feyissa](https://images.unsplash.com/photo-1621188011390-464956910f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2xvciUyMHBzeWNob2xvZ3klMjBlbW90aW9ucyUyMGVudmlyb25tZW50YWwlMjBpbmZsdWVuY2V8ZW58MHwwfHx8MTc1NTUyMDUyM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Mood With Color—Without Even Noticing")
-*How to Shape Your Mood With Color—Without Even Noticing - Photo by [Solen Feyissa](https://unsplash.com/@solenfeyissa) on [Unsplash](https://unsplash.com/photos/pink-yellow-and-blue-smoke-ur_2rC4wc7k)*
+{{< figure src="https://images.unsplash.com/photo-1621188011390-464956910f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2xvciUyMHBzeWNob2xvZ3klMjBlbW90aW9ucyUyMGVudmlyb25tZW50YWwlMjBpbmZsdWVuY2V8ZW58MHwwfHx8MTc1NTUyMDUyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Pink yellow and blue smoke" title="How to Shape Your Mood With Color—Without Even Noticing" caption="How to Shape Your Mood With Color—Without Even Noticing - Photo by [Solen Feyissa](https://unsplash.com/@solenfeyissa) on [Unsplash](https://unsplash.com/photos/pink-yellow-and-blue-smoke-ur_2rC4wc7k)" >}}
 
 Colors are everywhere, quietly soaking into our lives and shaping our minds in ways we rarely notice. We might spend years living in the same space, never realizing how the colors on our walls, furniture, or even our favorite mug can guide our feelings, decisions, and even our future.
 
@@ -27,8 +26,7 @@ This goes further than just drinks. For example, people tend to put more ice in 
 
 Let’s break down what different colors can do:
 
-![Photo by zubair rajpoot](https://images.unsplash.com/photo-1550742660-31caad54eca2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb2xvciUyMHBzeWNob2xvZ3klMjBlbW90aW9ucyUyMGVudmlyb25tZW50YWwlMjBpbmZsdWVuY2V8ZW58MHwwfHx8MTc1NTUyMDUyM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Mood With Color—Without Even Noticing")
-*How to Shape Your Mood With Color—Without Even Noticing - Photo by [zubair rajpoot](https://unsplash.com/@raozubairsaleem) on [Unsplash](https://unsplash.com/photos/a-pair-of-hands-covered-in-colored-powder-jCLmozfgIdA)*
+{{< figure src="https://images.unsplash.com/photo-1550742660-31caad54eca2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb2xvciUyMHBzeWNob2xvZ3klMjBlbW90aW9ucyUyMGVudmlyb25tZW50YWwlMjBpbmZsdWVuY2V8ZW58MHwwfHx8MTc1NTUyMDUyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A pair of hands covered in colored powder" title="How to Shape Your Mood With Color—Without Even Noticing" caption="How to Shape Your Mood With Color—Without Even Noticing - Photo by [zubair rajpoot](https://unsplash.com/@raozubairsaleem) on [Unsplash](https://unsplash.com/photos/a-pair-of-hands-covered-in-colored-powder-jCLmozfgIdA)" >}}
 
 - **Blue**: Often linked to calmness and trust, but can also feel a bit sad or distant. It helps us relax and feel safe.
 - **Violet/Purple**: Lowers stress, brings calm, and sparks curiosity. It’s a color you’ll see more and more on websites because it helps people feel at ease.
@@ -55,8 +53,7 @@ It’s worth paying attention to the colors you surround yourself with. They pla
 
 ## Key Takeaways
 
-![LGBT Wave](https://images.unsplash.com/photo-1744103421891-73126ebdded2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb2xvciUyMHBzeWNob2xvZ3klMjBlbW90aW9ucyUyMGVudmlyb25tZW50YWwlMjBpbmZsdWVuY2V8ZW58MHwwfHx8MTc1NTUyMDUyM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Shape Your Mood With Color—Without Even Noticing")
-*How to Shape Your Mood With Color—Without Even Noticing - Photo by [Igor Omilaev](https://unsplash.com/@omilaev) on [Unsplash](https://unsplash.com/photos/a-rainbow-colored-fabric-displays-pride-and-diversity-cKndprbeuY8)*
+{{< figure src="https://images.unsplash.com/photo-1744103421891-73126ebdded2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb2xvciUyMHBzeWNob2xvZ3klMjBlbW90aW9ucyUyMGVudmlyb25tZW50YWwlMjBpbmZsdWVuY2V8ZW58MHwwfHx8MTc1NTUyMDUyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="LGBT Wave" title="How to Shape Your Mood With Color—Without Even Noticing" caption="How to Shape Your Mood With Color—Without Even Noticing - Photo by [Igor Omilaev](https://unsplash.com/@omilaev) on [Unsplash](https://unsplash.com/photos/a-rainbow-colored-fabric-displays-pride-and-diversity-cKndprbeuY8)" >}}
 
 - The colors around you can change your mood, creativity, and even your heart rate.
 - Bright colors like red and yellow can make you feel tense or energetic, while soft colors like blue and green calm you down.

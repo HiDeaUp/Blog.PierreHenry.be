@@ -12,8 +12,7 @@ original_title = "Les apparences cachées"
 source_medium = "https://medium.com/@phenrysay/e065730693ef"
 +++
 
-!['I Spy' | A perfectly positioned reflection that caught my eye (no pun intended) as I wandered down Leake Street.](https://images.unsplash.com/photo-1687367168095-844e7908b0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwaGlkZGVuJTIwdHJ1dGhzJTIwYXBwZWFyYW5jZXN8ZW58MHwwfHx8MTc1NjUyMDIwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spot Hidden Dangers in Everyday Healthy Foods")
-*How to Spot Hidden Dangers in Everyday Healthy Foods - Photo by [fabian jones](https://unsplash.com/@secondsight) on [Unsplash](https://unsplash.com/photos/a-reflection-of-a-woman-with-a-crown-on-her-head-qD3OoT6jJa4)*
+{{< figure src="https://images.unsplash.com/photo-1687367168095-844e7908b0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwaGlkZGVuJTIwdHJ1dGhzJTIwYXBwZWFyYW5jZXN8ZW58MHwwfHx8MTc1NjUyMDIwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="'I Spy' | A perfectly positioned reflection that caught my eye (no pun intended) as I wandered down Leake Street." title="How to Spot Hidden Dangers in Everyday Healthy Foods" caption="How to Spot Hidden Dangers in Everyday Healthy Foods - Photo by [fabian jones](https://unsplash.com/@secondsight) on [Unsplash](https://unsplash.com/photos/a-reflection-of-a-woman-with-a-crown-on-her-head-qD3OoT6jJa4)" >}}
 
 When you think of an apple, you probably picture something healthy. But, like many things in life, it all depends on where it comes from. An apple might look perfect, but if it grew in an artificial greenhouse, soaked in pesticides and chemicals, it’s not really that healthy after all. Even if it’s a fruit, the environment where it grew changes everything.
 
@@ -23,8 +22,7 @@ This idea goes far beyond apples. It’s the same for almost everything in life.
 
 The real challenge is to find what makes you happy and not to overdo even the good things. For example, I love building software and creating startups. But if I push myself too hard, chasing that dopamine rush, it stops being fun. It starts to feel like someone is forcing me. The joy disappears, replaced by pressure to always do more. Suddenly, what once made me happy becomes a burden.
 
-![God watch](https://images.unsplash.com/photo-1689917472238-76eb5126e349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwaGlkZGVuJTIwdHJ1dGhzJTIwYXBwZWFyYW5jZXN8ZW58MHwwfHx8MTc1NjUyMDIwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spot Hidden Dangers in Everyday Healthy Foods")
-*How to Spot Hidden Dangers in Everyday Healthy Foods - Photo by [Pars Sahin](https://unsplash.com/@byadoniaa) on [Unsplash](https://unsplash.com/photos/a-brick-wall-with-an-eye-painted-on-it-ybxWSM2iTWw)*
+{{< figure src="https://images.unsplash.com/photo-1689917472238-76eb5126e349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwaGlkZGVuJTIwdHJ1dGhzJTIwYXBwZWFyYW5jZXN8ZW58MHwwfHx8MTc1NjUyMDIwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="God watch" title="How to Spot Hidden Dangers in Everyday Healthy Foods" caption="How to Spot Hidden Dangers in Everyday Healthy Foods - Photo by [Pars Sahin](https://unsplash.com/@byadoniaa) on [Unsplash](https://unsplash.com/photos/a-brick-wall-with-an-eye-painted-on-it-ybxWSM2iTWw)" >}}
 
 You might start to question everything. Is this really what life is about? Maybe you’re meant for something else. Even if the setting looks perfect, if you overdo it, or if the environment is wrong, the good turns bad. It’s just like the apple: the context matters.
 
@@ -42,8 +40,7 @@ The message here is simple: context is everything. The environment, the people, 
 >
 > — Dalai Lama
 
-![Female hand showing camera filter.](https://images.unsplash.com/photo-1676335880099-d582e101c120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwaGlkZGVuJTIwdHJ1dGhzJTIwYXBwZWFyYW5jZXN8ZW58MHwwfHx8MTc1NjUyMDIwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Spot Hidden Dangers in Everyday Healthy Foods")
-*How to Spot Hidden Dangers in Everyday Healthy Foods - Photo by [Fast Glass FX](https://unsplash.com/@fastglassfx) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-magnifying-glass-over-a-body-of-water-lXTCREjbjnM)*
+{{< figure src="https://images.unsplash.com/photo-1676335880099-d582e101c120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwaGlkZGVuJTIwdHJ1dGhzJTIwYXBwZWFyYW5jZXN8ZW58MHwwfHx8MTc1NjUyMDIwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Female hand showing camera filter." title="How to Spot Hidden Dangers in Everyday Healthy Foods" caption="How to Spot Hidden Dangers in Everyday Healthy Foods - Photo by [Fast Glass FX](https://unsplash.com/@fastglassfx) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-magnifying-glass-over-a-body-of-water-lXTCREjbjnM)" >}}
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 >

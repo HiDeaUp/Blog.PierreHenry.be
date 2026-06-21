@@ -12,8 +12,7 @@ original_title = "Planifier des moments de reboostage 🚀"
 source_medium = "https://medium.com/@phenrysay/6b14f22f88a6"
 +++
 
-![Mental Health Matters iPad Lettering Quote](https://images.unsplash.com/photo-1621887348744-6b0444f8a058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjByZWNoYXJnaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTYxMTIxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Taking Quiet Breaks Can Boost Your Day Without Burnout")
-*How Taking Quiet Breaks Can Boost Your Day Without Burnout - Photo by [Emily Underworld](https://unsplash.com/@emilyunderworld) on [Unsplash](https://unsplash.com/photos/a-tablet-with-the-words-mental-health-matters-on-it-Ko3EMBFggok)*
+{{< figure src="https://images.unsplash.com/photo-1621887348744-6b0444f8a058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjByZWNoYXJnaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTYxMTIxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health Matters iPad Lettering Quote" title="How Taking Quiet Breaks Can Boost Your Day Without Burnout" caption="How Taking Quiet Breaks Can Boost Your Day Without Burnout - Photo by [Emily Underworld](https://unsplash.com/@emilyunderworld) on [Unsplash](https://unsplash.com/photos/a-tablet-with-the-words-mental-health-matters-on-it-Ko3EMBFggok)" >}}
 
 There’s something special about discovering a place that instantly makes you feel at ease. For me, that spot is the beautiful Darling Harbour. Every time I walk there, I feel relaxed, calm, and completely at peace. It’s a reminder of how important it is to find not only places, but also moments in your day that help you recharge.
 
@@ -23,8 +22,7 @@ Even in the evening, especially during the chilly Sydney winter, the place feels
 
 Identifying your own spots and times for this is crucial. Maybe your day has been stressful or even chaotic. You need to step away, isolate yourself a little, and just breathe. When you find these places or times, you give yourself the chance to relax, lower your heart rate, and let your mind settle. This calm helps you think more clearly and see solutions to problems that seemed impossible before.
 
-![Photo by Hiki App](https://images.unsplash.com/photo-1687360440100-d4fbdc03bff9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjByZWNoYXJnaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTYxMTIxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Taking Quiet Breaks Can Boost Your Day Without Burnout")
-*How Taking Quiet Breaks Can Boost Your Day Without Burnout - Photo by [Hiki App](https://unsplash.com/@hikiapp) on [Unsplash](https://unsplash.com/photos/self-portrait-of-an-autistic-woman-YAVHheaHGi0)*
+{{< figure src="https://images.unsplash.com/photo-1687360440100-d4fbdc03bff9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjByZWNoYXJnaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTYxMTIxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Self of an woman" title="How Taking Quiet Breaks Can Boost Your Day Without Burnout" caption="How Taking Quiet Breaks Can Boost Your Day Without Burnout - Photo by [Hiki App](https://unsplash.com/@hikiapp) on [Unsplash](https://unsplash.com/photos/self-portrait-of-an-autistic-woman-YAVHheaHGi0)" >}}
 
 It’s easy to get stuck in a rut, especially when working on your own projects or business. Sometimes, we keep pushing forward without realizing we’re not working smart. Taking a step back gives you a clearer, bigger picture. Suddenly, you see what you should have done differently, or which strategy makes more sense. It’s like playing chess—you need to see the board, not just the next move.
 
@@ -42,9 +40,7 @@ So, take the time to find your own moments of calm. Use them to think, to plan, 
 
 ---
 
-![Madrona Rose, business coach for social media managers, virtual assistants and online business managers, at a boho-chic style branding shoot. To learn more about her services, head to themadronarose.com
-](https://images.unsplash.com/photo-1621903572317-8153b96042f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjByZWNoYXJnaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTYxMTIxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Taking Quiet Breaks Can Boost Your Day Without Burnout")
-*How Taking Quiet Breaks Can Boost Your Day Without Burnout - Photo by [Madrona Rose](https://unsplash.com/@themadronarose) on [Unsplash](https://unsplash.com/photos/woman-in-white-and-gray-long-sleeve-shirt-covering-her-face-by-white-textile-MmM5zTf3pig)*
+{{< figure src="https://images.unsplash.com/photo-1621903572317-8153b96042f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjByZWNoYXJnaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTYxMTIxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white and gray long sleeve shirt her face by white textile" title="How Taking Quiet Breaks Can Boost Your Day Without Burnout" caption="How Taking Quiet Breaks Can Boost Your Day Without Burnout - Photo by [Madrona Rose](https://unsplash.com/@themadronarose) on [Unsplash](https://unsplash.com/photos/woman-in-white-and-gray-long-sleeve-shirt-covering-her-face-by-white-textile-MmM5zTf3pig)" >}}
 
 ## Key Takeaways
 

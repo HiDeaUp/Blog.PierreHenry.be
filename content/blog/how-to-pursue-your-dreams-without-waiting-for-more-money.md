@@ -12,8 +12,7 @@ original_title = "Peut-on réaliser ses rêves ?"
 source_medium = "https://medium.com/@phenrysay/6fb74c2704ed"
 +++
 
-![A simple message to dream with shimmery purple and pink glitter bokeh.](https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Pursue Your Dreams Without Waiting for More Money")
-*How to Pursue Your Dreams Without Waiting for More Money - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)*
+{{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Pursue Your Dreams Without Waiting for More Money" caption="How to Pursue Your Dreams Without Waiting for More Money - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 
 When we talk about dreams and big projects, money always seems to come up. Many people believe that if only they had enough money, they could finally buy that house, travel the world, or start the life they’ve always imagined. But is money really the key to making our dreams come true?
 
@@ -39,8 +38,7 @@ Don’t let your dreams fly out of your hands because you waited too long. The p
 
 ## Key Takeaways
 
-![The word dream, captured in an ornament on the windowsill, with the early morning sun, casting a beautiful golden light upon it and creating a shadow.](https://images.unsplash.com/photo-1596772160247-e66da3dcb644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Pursue Your Dreams Without Waiting for More Money")
-*How to Pursue Your Dreams Without Waiting for More Money - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/white-love-neon-light-signage-hJXjkEoHDSk)*
+{{< figure src="https://images.unsplash.com/photo-1596772160247-e66da3dcb644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbXMlMjBtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxOTQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="The word dream, captured in an ornament on the windowsill, with the early morning sun, casting a beautiful golden light upon it and creating a shadow." title="How to Pursue Your Dreams Without Waiting for More Money" caption="How to Pursue Your Dreams Without Waiting for More Money - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/white-love-neon-light-signage-hJXjkEoHDSk)" >}}
 
 - There will never be a “perfect” amount of money or a perfect time to start your dream.
 - Stop using “not enough money” as an excuse.

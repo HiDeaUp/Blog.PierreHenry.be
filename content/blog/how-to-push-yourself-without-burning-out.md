@@ -12,8 +12,7 @@ original_title = "Se dépasser facilement... Vraiment ?"
 source_medium = "https://medium.com/@phenrysay/660869236d47"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MDEwMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Push Yourself Without Burning Out")
-*How to Push Yourself Without Burning Out - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MDEwMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Push Yourself Without Burning Out" caption="How to Push Yourself Without Burning Out - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Setting challenges for yourself can truly change your life. When you create your own goals, even small ones, you add a spark to your daily routine. It’s like adding a pinch of salt and pepper to a bland dish—suddenly, everything has more flavor. You can use reminders, apps, or even a simple notebook to keep track of your challenges, but the most important thing is to have something that excites you.
 
@@ -23,8 +22,7 @@ This need for purpose is not just a personal opinion—it’s a basic human trut
 
 Having projects and goals is what keeps us happy and even helps us live longer. Even something as simple as reading a book can keep your mind awake and give you a sense of purpose. Sure, not every book is a masterpiece, but the act of reading itself is stimulating. That’s what I wish for you—to find things that keep you awake and excited about life.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MDEwMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Push Yourself Without Burning Out")
-*How to Push Yourself Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MDEwMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Push Yourself Without Burning Out" caption="How to Push Yourself Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 The best time to start something great is today. Don’t wait for the perfect moment. Take action now, even if it’s a small step. Time is the most precious thing we have. Once you lose ten minutes, you can never get them back. So, make the most of every moment and move forward.
 
@@ -38,8 +36,7 @@ I believe in you. Now it’s your turn to believe in yourself. The best moment i
 
 ---
 
-![Desk with a keyboard and a planner with the words Marketing Strategy on it](https://images.unsplash.com/photo-1676287565869-6992e7df9bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MDEwMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Push Yourself Without Burning Out")
-*How to Push Yourself Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-notepad-with-the-words-marketing-strategy-written-on-it-WJRIxCK4Tsk)*
+{{< figure src="https://images.unsplash.com/photo-1676287565869-6992e7df9bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2MDEwMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Desk with a keyboard and a planner with the words Marketing Strategy on it" title="How to Push Yourself Without Burning Out" caption="How to Push Yourself Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-notepad-with-the-words-marketing-strategy-written-on-it-WJRIxCK4Tsk)" >}}
 
 ## Key Takeaways
 - Set personal challenges to add excitement to your days.

@@ -12,8 +12,7 @@ original_title = "Le bon mindset pour réussir ses projets ?"
 source_medium = "https://medium.com/@phenrysay/af65278a93df"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc2VsZi1saW1pdGluZyUyMGJlbGllZnMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2MDQwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed in Projects Without Letting Doubt Stop You")
-*How to Succeed in Projects Without Letting Doubt Stop You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)*
+{{< figure src="https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwc2VsZi1saW1pdGluZyUyMGJlbGllZnMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2MDQwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word mind" title="How to Succeed in Projects Without Letting Doubt Stop You" caption="How to Succeed in Projects Without Letting Doubt Stop You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)" >}}
 
 Have you ever noticed how your own thoughts can hold you back? Sometimes, without even realizing it, our mindset becomes our biggest obstacle. We carry around negative thoughts, limiting beliefs, and mental barriers that quietly set boundaries on what we think is possible. These limits are not always real—they are often built over time by our upbringing, culture, environment, or even religion. The truth is, the only real limit is the one we create for ourselves.
 
@@ -31,8 +30,7 @@ This is not just about motivation—it’s about creating a new environment for 
 
 ## See Yourself Succeeding
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992877-de3689c1fb58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2VsZi1saW1pdGluZyUyMGJlbGllZnMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2MDQwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed in Projects Without Letting Doubt Stop You")
-*How to Succeed in Projects Without Letting Doubt Stop You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-xACzJ6ZsoyQ)*
+{{< figure src="https://images.unsplash.com/photo-1695370992877-de3689c1fb58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2VsZi1saW1pdGluZyUyMGJlbGllZnMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2MDQwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Succeed in Projects Without Letting Doubt Stop You" caption="How to Succeed in Projects Without Letting Doubt Stop You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-xACzJ6ZsoyQ)" >}}
 
 Vision is powerful. Take a moment to imagine yourself having already achieved your goal. Picture it in detail. Where are you? How do you feel? What does your life look like? When you can see yourself succeeding, it becomes more real.
 
@@ -60,8 +58,7 @@ Stand tall, like someone who has already succeeded. Feel that confidence. Remind
 
 When you have a positive mindset, good things start to happen. It’s like a chain reaction. When you smile at life, life smiles back. If you’re negative and closed off, you miss out on chances. Opportunities don’t come to those who aren’t ready to say yes.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2VsZi1saW1pdGluZyUyMGJlbGllZnMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2MDQwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed in Projects Without Letting Doubt Stop You")
-*How to Succeed in Projects Without Letting Doubt Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2VsZi1saW1pdGluZyUyMGJlbGllZnMlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTU2MDQwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Succeed in Projects Without Letting Doubt Stop You" caption="How to Succeed in Projects Without Letting Doubt Stop You - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 So, say yes to what comes your way. Keep your energy up. The better you feel, the better you think, and the more you can achieve.
 

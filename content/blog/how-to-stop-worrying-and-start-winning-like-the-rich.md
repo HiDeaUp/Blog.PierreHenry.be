@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/6200db960a62"
 source_youtube = "https://www.youtube.com/watch?v=EnCQQ0bYqls"
 +++
 
-![Worry less message on paper with cutout letters](https://images.unsplash.com/photo-1607827448452-6fda561309d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JyeSUyMG1pbmRzZXQlMjB3ZWFsdGh8ZW58MHwwfHx8MTc2ODIyMTgwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Worrying and Start Winning Like the Rich")
-*How to Stop Worrying and Start Winning Like the Rich - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-and-black-i-am-a-good-girl-card-514dv0uzWwk)*
+{{< figure src="https://images.unsplash.com/photo-1607827448452-6fda561309d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JyeSUyMG1pbmRzZXQlMjB3ZWFsdGh8ZW58MHwwfHx8MTc2ODIyMTgwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Worry less message on paper with cutout letters" title="How to Stop Worrying and Start Winning Like the Rich" caption="How to Stop Worrying and Start Winning Like the Rich - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-and-black-i-am-a-good-girl-card-514dv0uzWwk)" >}}
 
 Worrying never solves anything. It just sits there, paralyzing us, making us hesitate, and throwing obstacles in our path. When we worry, we freeze. We become afraid to try new things or to take action. If we keep doing what we’ve always done, we can’t expect our lives to get any better or any different. The only way forward is to act, even if that means making mistakes along the way.
 
@@ -29,8 +28,7 @@ Worrying doesn’t fix anything. That’s nothing new. If you want to be happy, 
 
 Letting go is a bit like holding a stinging nettle in your hand. If you grip it tightly, it hurts. But as soon as you let go, the pain stops. Worry is the same. If you hold on to it, it stings and weighs you down. But when you let go, you feel lighter, as if you’ve taken off a heavy coat. It’s like washing away the grime after a long day. Once you let go, the pain disappears.
 
-![Worry Less message on a wooden table](https://images.unsplash.com/photo-1607827447475-cc1f122d0ff7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JyeSUyMG1pbmRzZXQlMjB3ZWFsdGh8ZW58MHwwfHx8MTc2ODIyMTgwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Worrying and Start Winning Like the Rich")
-*How to Stop Worrying and Start Winning Like the Rich - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-and-black-i-am-a-good-day-card-5yxPOMHymlw)*
+{{< figure src="https://images.unsplash.com/photo-1607827447475-cc1f122d0ff7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JyeSUyMG1pbmRzZXQlMjB3ZWFsdGh8ZW58MHwwfHx8MTc2ODIyMTgwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Worry Less message on a wooden table" title="How to Stop Worrying and Start Winning Like the Rich" caption="How to Stop Worrying and Start Winning Like the Rich - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/white-and-black-i-am-a-good-day-card-5yxPOMHymlw)" >}}
 
 Accept things as they are. Not everything goes as planned. Here’s a question to ask yourself: How can I use this bad experience? Maybe you missed your train. Instead of getting upset, ask, “What can I get out of this?” Maybe now you have an hour to yourself. You could go to a café, read a book, or just enjoy some quiet time. Maybe you’ll learn something new or have a sudden realization about your life. Sometimes, these unexpected moments are the best opportunities.
 
@@ -52,8 +50,7 @@ When you focus on your fears, you’re actually planning your own failure. The m
 > *“The greatest mistake you can make in life is to be continually fearing you will make one.”*  
 > — Elbert Hubbard
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632961974870-14d1f4fe4e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JyeSUyMG1pbmRzZXQlMjB3ZWFsdGh8ZW58MHwwfHx8MTc2ODIyMTgwMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Worrying and Start Winning Like the Rich")
-*How to Stop Worrying and Start Winning Like the Rich - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-worthy-next-to-a-bouquet-of-blue-flowers-PoBsRKy71jw)*
+{{< figure src="https://images.unsplash.com/photo-1632961974870-14d1f4fe4e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JyeSUyMG1pbmRzZXQlMjB3ZWFsdGh8ZW58MHwwfHx8MTc2ODIyMTgwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word worthy next to a bouquet of blue flowers" title="How to Stop Worrying and Start Winning Like the Rich" caption="How to Stop Worrying and Start Winning Like the Rich - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-worthy-next-to-a-bouquet-of-blue-flowers-PoBsRKy71jw)" >}}
 
 ---
 

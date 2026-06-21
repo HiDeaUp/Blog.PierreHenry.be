@@ -12,8 +12,7 @@ original_title = "Le secret de la liberté géographique - Comment et pourquoi ?
 source_medium = "https://medium.com/@phenrysay/bffe422a30e0"
 +++
 
-![Photo by Akshat Jhingran](https://images.unsplash.com/photo-1728723320852-f6badcb34122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnZW9ncmFwaGljJTIwZnJlZWRvbSUyMHJlbW90ZSUyMHdvcmslMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc1NTU3NzAxM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Choose Where You Live and Work Without Quitting Your Career")
-*How to Choose Where You Live and Work Without Quitting Your Career - Photo by [Akshat Jhingran](https://unsplash.com/@akshat_jhingran) on [Unsplash](https://unsplash.com/photos/a-young-boy-riding-a-tricycle-on-the-side-of-a-road-ZAbodV8JIgY)*
+{{< figure src="https://images.unsplash.com/photo-1728723320852-f6badcb34122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnZW9ncmFwaGljJTIwZnJlZWRvbSUyMHJlbW90ZSUyMHdvcmslMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc1NTU3NzAxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A young boy riding a on the side of a road" title="How to Choose Where You Live and Work Without Quitting Your Career" caption="How to Choose Where You Live and Work Without Quitting Your Career - Photo by [Akshat Jhingran](https://unsplash.com/@akshat_jhingran) on [Unsplash](https://unsplash.com/photos/a-young-boy-riding-a-tricycle-on-the-side-of-a-road-ZAbodV8JIgY)" >}}
 
 When we talk about geographic freedom, it’s easy to imagine someone working on a beach with a laptop. But the real story is much deeper: it’s about feeling free in your choices and your path, especially when you work for yourself.
 
@@ -25,8 +24,7 @@ It’s even more freeing if you have your own product. For me, that’s my app. 
 
 In some companies, you can get shares or bonuses, but you always have to negotiate—salary, performance reviews, everything. You have to list your achievements and hope for a raise. That’s because the company and you want different things: the company wants the best employees for the lowest price, and you want the best pay with the most freedom. It’s like buying a house—the buyer wants the lowest price, the seller wants the highest. There’s always a bit of a tug-of-war, and you have to find a compromise.
 
-![Photo by Laura Evans](https://images.unsplash.com/photo-1555723962-671b30addd2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnZW9ncmFwaGljJTIwZnJlZWRvbSUyMHJlbW90ZSUyMHdvcmslMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc1NTU3NzAxM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Choose Where You Live and Work Without Quitting Your Career")
-*How to Choose Where You Live and Work Without Quitting Your Career - Photo by [Laura Evans](https://unsplash.com/@laurapgevans) on [Unsplash](https://unsplash.com/photos/man-sitting-beside-house-279-Hd1NioU)*
+{{< figure src="https://images.unsplash.com/photo-1555723962-671b30addd2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnZW9ncmFwaGljJTIwZnJlZWRvbSUyMHJlbW90ZSUyMHdvcmslMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc1NTU3NzAxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man sitting beside house 279 Hd1NioU" title="How to Choose Where You Live and Work Without Quitting Your Career" caption="How to Choose Where You Live and Work Without Quitting Your Career - Photo by [Laura Evans](https://unsplash.com/@laurapgevans) on [Unsplash](https://unsplash.com/photos/man-sitting-beside-house-279-Hd1NioU)" >}}
 
 But when you work for yourself, things are simpler. That’s what I want you to realize. If you’re thinking about it, remember: living from your knowledge, teaching, or building a business around what you know is possible. When it’s your own thing, you’re in the driver’s seat.
 
@@ -48,8 +46,7 @@ The best time to start is now. Believe in yourself. Everything is possible if yo
 - The sense of pride and ownership is much stronger when you build something for yourself.
 - The best time to take action is now—don’t wait for the perfect moment.
 
-![Photo by Josè Maria Sava](https://images.unsplash.com/photo-1692818808566-f9489e2712a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnZW9ncmFwaGljJTIwZnJlZWRvbSUyMHJlbW90ZSUyMHdvcmslMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc1NTU3NzAxM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Choose Where You Live and Work Without Quitting Your Career")
-*How to Choose Where You Live and Work Without Quitting Your Career - Photo by [Josè Maria Sava](https://unsplash.com/@jose_maria_sava) on [Unsplash](https://unsplash.com/photos/a-truck-with-a-tent-on-the-back-of-it-QR6I0GruA4w)*
+{{< figure src="https://images.unsplash.com/photo-1692818808566-f9489e2712a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnZW9ncmFwaGljJTIwZnJlZWRvbSUyMHJlbW90ZSUyMHdvcmslMjBkaWdpdGFsJTIwbm9tYWR8ZW58MHwwfHx8MTc1NTU3NzAxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A truck with a tent on the back of it" title="How to Choose Where You Live and Work Without Quitting Your Career" caption="How to Choose Where You Live and Work Without Quitting Your Career - Photo by [Josè Maria Sava](https://unsplash.com/@jose_maria_sava) on [Unsplash](https://unsplash.com/photos/a-truck-with-a-tent-on-the-back-of-it-QR6I0GruA4w)" >}}
 
 ## Action Steps
 

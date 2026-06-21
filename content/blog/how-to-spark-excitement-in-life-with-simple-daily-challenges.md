@@ -12,8 +12,7 @@ original_title = "Vie pétillante 🤩"
 source_medium = "https://medium.com/@phenrysay/72a70dcd9c83"
 +++
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MjU3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Excitement in Life With Simple Daily Challenges")
-*How to Spark Excitement in Life With Simple Daily Challenges - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MjU3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Spark Excitement in Life With Simple Daily Challenges" caption="How to Spark Excitement in Life With Simple Daily Challenges - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 If you want a sparkling life, you need to bring excitement into your days. The secret is to find small challenges that truly excite you. These are not just any challenges, but ones rooted in your passions—things you already enjoy doing. When you focus on these, you naturally push yourself a little further, and happiness follows.
 
@@ -21,8 +20,7 @@ Think about what you love. If business is your thing, set a goal to make better 
 
 These small, personal challenges are like little sparks that keep your days lively. They help you grow and bring a sense of achievement. The best part is that these challenges are based on what you already love, so they never feel like a chore. Instead, they make your days brighter and more fulfilling.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MjU3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Spark Excitement in Life With Simple Daily Challenges")
-*How to Spark Excitement in Life With Simple Daily Challenges - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MjU3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Spark Excitement in Life With Simple Daily Challenges" caption="How to Spark Excitement in Life With Simple Daily Challenges - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 > _Happiness is not something ready made. It comes from your own actions._
 — Dalai Lama

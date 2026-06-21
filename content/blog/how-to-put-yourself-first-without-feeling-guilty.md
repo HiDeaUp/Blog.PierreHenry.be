@@ -12,8 +12,7 @@ original_title = "Des journées sur mesure 👌"
 source_medium = "https://medium.com/@phenrysay/0c7bf035ecde"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2MDA3ODEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Put Yourself First Without Feeling Guilty")
-*How to Put Yourself First Without Feeling Guilty - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2MDA3ODEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Put Yourself First Without Feeling Guilty" caption="How to Put Yourself First Without Feeling Guilty - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 We all have dreams and projects we want to bring to life. Maybe it’s launching your own start-up, changing your lifestyle, or simply living the life you always imagined. Yet, days, months, and even years slip by, and it feels almost impossible to break out of the daily grind. Why is it so hard to put ourselves first and move forward with our own goals?
 
@@ -30,8 +29,7 @@ The days pass, and you know deep down that something is missing. Maybe you dream
 
 ## 2. Visualize Your Dream Life
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2MDA3ODEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Put Yourself First Without Feeling Guilty")
-*How to Put Yourself First Without Feeling Guilty - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
+{{< figure src="https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2MDA3ODEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface WpoS C209uk" title="How to Put Yourself First Without Feeling Guilty" caption="How to Put Yourself First Without Feeling Guilty - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)" >}}
 
 The second key is to see your project clearly. Visualize your dream lifestyle in detail. When you have a clear picture in your mind, it becomes easier to believe in it and work towards it. I recommend making this vision part of your daily life. For example, set a photo of your dream destination as your phone wallpaper, or print out images that inspire you.
 
@@ -52,8 +50,7 @@ You don’t have to do the same task every day, but you do need to keep moving. 
 
 One last thing: don’t underestimate the importance of sleep. I’m writing this after a rough night, and I can feel how much it affects my energy and focus. A good night’s sleep is a real investment in your projects and your life. Take care of yourself, so you can take care of your dreams.
 
-![self care](https://images.unsplash.com/photo-1628132031417-8bf59e4dfffe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2MDA3ODEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Put Yourself First Without Feeling Guilty")
-*How to Put Yourself First Without Feeling Guilty - Photo by [Elisa Stone](https://unsplash.com/@ecjs) on [Unsplash](https://unsplash.com/photos/white-and-black-quote-on-gray-wall-7ahL8t9-mEo)*
+{{< figure src="https://images.unsplash.com/photo-1628132031417-8bf59e4dfffe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2MDA3ODEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="self care" title="How to Put Yourself First Without Feeling Guilty" caption="How to Put Yourself First Without Feeling Guilty - Photo by [Elisa Stone](https://unsplash.com/@ecjs) on [Unsplash](https://unsplash.com/photos/white-and-black-quote-on-gray-wall-7ahL8t9-mEo)" >}}
 
 > *“Take care of your body. It’s the only place you have to live.”*  
 — Jim Rohn

@@ -12,8 +12,7 @@ original_title = "L'Art de Solidifier son Épanouissement : Construire des Bases
 source_medium = "https://medium.com/@phenrysay/e29e684f160b"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2UlMjBsaWZlJTIwYmFsYW5jZXxlbnwwfDB8fHwxNzU1NjM5MTY3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Inner Strength Without Letting Life Shake You")
-*How to Build Inner Strength Without Letting Life Shake You - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2UlMjBsaWZlJTIwYmFsYW5jZXxlbnwwfDB8fHwxNzU1NjM5MTY3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How to Build Inner Strength Without Letting Life Shake You" caption="How to Build Inner Strength Without Letting Life Shake You - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 Solidifying your psychology is a fascinating topic. At first, it might sound a bit unusual, but what does it really mean to strengthen your mind? In truth, building up your psychology is an investment. It’s a step toward the next chapter of your life. We all have our own sensitivities and, at times, we’re fragile. When unexpected things happen—like a breakup, a theft, or a sudden setback—they can slow us down. Everyone manages their emotions differently, but these surprises add mental clutter and make it harder to stay present.
 
@@ -29,8 +28,7 @@ Let go of what you can’t control. Accept that some things are out of your hand
 
 There’s also a powerful prayer often used in support groups like Alcoholics Anonymous. It goes like this:
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2UlMjBsaWZlJTIwYmFsYW5jZXxlbnwwfDB8fHwxNzU1NjM5MTY3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Inner Strength Without Letting Life Shake You")
-*How to Build Inner Strength Without Letting Life Shake You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)*
+{{< figure src="https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2UlMjBsaWZlJTIwYmFsYW5jZXxlbnwwfDB8fHwxNzU1NjM5MTY3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads" title="How to Build Inner Strength Without Letting Life Shake You" caption="How to Build Inner Strength Without Letting Life Shake You - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)" >}}
 
 > *Grant me the serenity to accept the things I cannot change,  
 the courage to change the things I can,  
@@ -52,8 +50,7 @@ Take action where you can. Be proactive in your own life. For everything else, a
 
 — Steve Maraboli
 
-![Photo by Dawn Lio](https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2UlMjBsaWZlJTIwYmFsYW5jZXxlbnwwfDB8fHwxNzU1NjM5MTY3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Inner Strength Without Letting Life Shake You")
-*How to Build Inner Strength Without Letting Life Shake You - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)*
+{{< figure src="https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVtb3Rpb25hbCUyMHJlc2lsaWVuY2UlMjBsaWZlJTIwYmFsYW5jZXxlbnwwfDB8fHwxNzU1NjM5MTY3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden log with yellow flower" title="How to Build Inner Strength Without Letting Life Shake You" caption="How to Build Inner Strength Without Letting Life Shake You - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)" >}}
 
 > *You cannot control the wind, but you can adjust your sails.*
 

@@ -12,8 +12,7 @@ original_title = "🎁 La méthode d'ajout de bonheurs 🤗"
 source_medium = "https://medium.com/@phenrysay/73a6a4e8a043"
 +++
 
-![Photo by Cymo Tome](https://images.unsplash.com/photo-1581570376460-f98654e9418f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJpdHVhbHMlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjAxNjYyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Add More Joy to Your Day Without Changing Your Routine")
-*How to Add More Joy to Your Day Without Changing Your Routine - Photo by [Cymo Tome](https://unsplash.com/@ano_tome) on [Unsplash](https://unsplash.com/photos/iLLRb1hzVZo)*
+{{< figure src="https://images.unsplash.com/photo-1581570376460-f98654e9418f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJpdHVhbHMlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjAxNjYyNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A joyful daily ritual for wellbeing" title="How to Add More Joy to Your Day Without Changing Your Routine" caption="How to Add More Joy to Your Day Without Changing Your Routine - Photo by [Cymo Tome](https://unsplash.com/@ano_tome) on [Unsplash](https://unsplash.com/photos/iLLRb1hzVZo)" >}}
 
 Have you ever noticed how a single happy moment can turn a dull day into something special? Sometimes, all it takes is a little intention to sprinkle more joy into our lives. Let me share a simple method to help you add more happiness to your days, making even the most ordinary moments feel extraordinary.
 
@@ -27,8 +26,7 @@ Write down each of these moments. It could be anything—a walk in a nice place,
 
 Once you've listed your happy moments, look for patterns. Are there activities or places that come up more than once? Maybe you enjoyed attending a meetup, cooking a special meal on Fridays, or spending time with certain people. Think about how you can bring these moments back into your life more often.
 
-![Photo by 光术 山影](https://images.unsplash.com/photo-1667013245920-c9f3518866ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJpdHVhbHMlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjAxNjYyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Add More Joy to Your Day Without Changing Your Routine")
-*How to Add More Joy to Your Day Without Changing Your Routine - Photo by [光术 山影](https://unsplash.com/@mrtiger) on [Unsplash](https://unsplash.com/photos/a-person-sitting-in-a-field--OCzJxjvFAM)*
+{{< figure src="https://images.unsplash.com/photo-1667013245920-c9f3518866ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJpdHVhbHMlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjAxNjYyNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person sitting in a field" title="How to Add More Joy to Your Day Without Changing Your Routine" caption="How to Add More Joy to Your Day Without Changing Your Routine - Photo by [光术 山影](https://unsplash.com/@mrtiger) on [Unsplash](https://unsplash.com/photos/a-person-sitting-in-a-field--OCzJxjvFAM)" >}}
 
 Try repeating these experiences and see how you feel. Sometimes, you might realize that what made you happy wasn't the activity itself, but something else—maybe the place, the people, or even just the mood you were in that day. Pay attention to these details and adjust your plans to fit what truly brings you joy.
 
@@ -52,8 +50,7 @@ And don't forget the simple pleasures, like comfort food. Preparing a meal you l
 >
 > — A.A. Milne
 
-![Photo by Simona Toma](https://images.unsplash.com/photo-1697519755368-84be46c440e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJpdHVhbHMlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjAxNjYyNHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Add More Joy to Your Day Without Changing Your Routine")
-*How to Add More Joy to Your Day Without Changing Your Routine - Photo by [Simona Toma](https://unsplash.com/@the_traveler_with_a_romantic_twist) on [Unsplash](https://unsplash.com/photos/a-woman-holding-a-bunch-of-purple-flowers-over-her-head-wjLEeww3hKs)*
+{{< figure src="https://images.unsplash.com/photo-1697519755368-84be46c440e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBkYWlseSUyMHJpdHVhbHMlMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjAxNjYyNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman holding a bunch of purple flowers over her head" title="How to Add More Joy to Your Day Without Changing Your Routine" caption="How to Add More Joy to Your Day Without Changing Your Routine - Photo by [Simona Toma](https://unsplash.com/@the_traveler_with_a_romantic_twist) on [Unsplash](https://unsplash.com/photos/a-woman-holding-a-bunch-of-purple-flowers-over-her-head-wjLEeww3hKs)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "L'ART DE S'ÉLEVER : Comment votre environnement façonne votr
 source_medium = "https://medium.com/@phenrysay/1ced788d64cd"
 +++
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwdHJhbnNmb3JtYXRpb258ZW58MHwwfHx8MTc1NTQxNjc4N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life Without Changing Yourself")
-*How to Transform Your Life Without Changing Yourself - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwdHJhbnNmb3JtYXRpb258ZW58MHwwfHx8MTc1NTQxNjc4N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How to Transform Your Life Without Changing Yourself" caption="How to Transform Your Life Without Changing Yourself - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 Have you ever noticed how certain places just make you feel better? Maybe it’s a quiet bay at sunset, a cozy café with big windows, or a forest clearing where the air feels lighter. These environments aren’t just backdrops to our lives—they’re powerful tools for recharging, finding inspiration, and taking a step back from the daily grind.
 
@@ -33,8 +32,7 @@ I have a little routine when I go to my favorite spot. I bring a hot tea or a dr
 
 I also like to bring a book. Reading in a peaceful place, away from distractions, is one of the best ways to unwind and let new ideas come in. Sometimes, I use an app to scan my snacks and check their quality—just another small way to take care of myself.
 
-![Photo by Jean-Pierre Momot](https://images.unsplash.com/photo-1665354559195-e0ac45c217f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwdHJhbnNmb3JtYXRpb258ZW58MHwwfHx8MTc1NTQxNjc4N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life Without Changing Yourself")
-*How to Transform Your Life Without Changing Yourself - Photo by [Jean-Pierre Momot](https://unsplash.com/@superflegmon) on [Unsplash](https://unsplash.com/photos/a-green-insect-on-a-rock-ilsudP4kdfc)*
+{{< figure src="https://images.unsplash.com/photo-1665354559195-e0ac45c217f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwdHJhbnNmb3JtYXRpb258ZW58MHwwfHx8MTc1NTQxNjc4N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A green insect on a rock" title="How to Transform Your Life Without Changing Yourself" caption="How to Transform Your Life Without Changing Yourself - Photo by [Jean-Pierre Momot](https://unsplash.com/@superflegmon) on [Unsplash](https://unsplash.com/photos/a-green-insect-on-a-rock-ilsudP4kdfc)" >}}
 
 ## We Get Used to Comfort—Fast
 
@@ -62,8 +60,7 @@ We always tell ourselves we don’t have enough time or money to make changes. B
 
 Too many people live lives shaped by social pressure, following paths that don’t fit them. But you’re not here to live someone else’s life. Take time to figure out what you want, what makes you happy, and what kind of environment helps you thrive. We’re all different, and that’s a good thing.
 
-![Small plant with two small leaves coming from soil](https://images.unsplash.com/photo-1626024134882-b1fcdc3e9902?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwdHJhbnNmb3JtYXRpb258ZW58MHwwfHx8MTc1NTQxNjc4N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life Without Changing Yourself")
-*How to Transform Your Life Without Changing Yourself - Photo by [Dr.Sourabh Panari](https://unsplash.com/@_sourabh_) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-ground-878cggGk4FE)*
+{{< figure src="https://images.unsplash.com/photo-1626024134882-b1fcdc3e9902?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwdHJhbnNmb3JtYXRpb258ZW58MHwwfHx8MTc1NTQxNjc4N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Small plant with two small leaves coming from soil" title="How to Transform Your Life Without Changing Yourself" caption="How to Transform Your Life Without Changing Yourself - Photo by [Dr.Sourabh Panari](https://unsplash.com/@_sourabh_) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-ground-878cggGk4FE)" >}}
 
 > _“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.”_
 > — Ralph Waldo Emerson

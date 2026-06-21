@@ -12,8 +12,7 @@ original_title = "La puissance de se lever tôt🏆"
 source_medium = "https://medium.com/@phenrysay/4f467a9dddbb"
 +++
 
-![Photo by Camila Damásio](https://images.unsplash.com/photo-1463099576644-2dc924129fcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUyMzA4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How Waking Up Early Boosts Your Day Without Feeling Tired")
-*How Waking Up Early Boosts Your Day Without Feeling Tired - Photo by [Camila Damásio](https://unsplash.com/@miladamasio) on [Unsplash](https://unsplash.com/photos/green-ceramic-mug-near-analog-alarm-clock-T-7wGjCBMVc)*
+{{< figure src="https://images.unsplash.com/photo-1463099576644-2dc924129fcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUyMzA4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green ceramic mug near analog alarm clock T" title="How Waking Up Early Boosts Your Day Without Feeling Tired" caption="How Waking Up Early Boosts Your Day Without Feeling Tired - Photo by [Camila Damásio](https://unsplash.com/@miladamasio) on [Unsplash](https://unsplash.com/photos/green-ceramic-mug-near-analog-alarm-clock-T-7wGjCBMVc)" >}}
 
 Waking up early is often praised, but few realize just how much it can change your life. When you rise before the world stirs, you gain the entire day ahead of you. There’s a saying that “the early bird catches the worm,” and it holds true in more ways than one.
 
@@ -23,8 +22,7 @@ Another advantage is the peace and quiet of the early morning. Distractions are 
 
 Morning is also the best time to make real progress on what matters to you. When you work on your most important tasks first thing, you know nothing will get in the way. This sense of accomplishment sets a positive tone for the rest of the day. Even if you enjoy staying up late, starting your day early gives you the feeling that you have the whole day ahead. Compare that to waking up at 9 or 10 on weekends—by the time you’re out the door, it’s almost noon, and it feels like half the day is already gone.
 
-![My creative desk setup.](https://images.unsplash.com/photo-1585924015977-32fd3839c21f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUyMzA4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How Waking Up Early Boosts Your Day Without Feeling Tired")
-*How Waking Up Early Boosts Your Day Without Feeling Tired - Photo by [Milena Trifonova](https://unsplash.com/@milenatrifonova) on [Unsplash](https://unsplash.com/photos/white-and-blue-ceramic-mug-beside-black-and-silver-laptop-computer-on-white-table-0fkT8OJRofQ)*
+{{< figure src="https://images.unsplash.com/photo-1585924015977-32fd3839c21f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUyMzA4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="My creative desk setup." title="How Waking Up Early Boosts Your Day Without Feeling Tired" caption="How Waking Up Early Boosts Your Day Without Feeling Tired - Photo by [Milena Trifonova](https://unsplash.com/@milenatrifonova) on [Unsplash](https://unsplash.com/photos/white-and-blue-ceramic-mug-beside-black-and-silver-laptop-computer-on-white-table-0fkT8OJRofQ)" >}}
 
 Starting early also gives you a boost. You can go for a jog, tackle your top priorities, and set yourself up for happiness. If you skip these things, you might feel incomplete or less happy. Personally, I know that waking up late throws off my routine. I feel groggy, as if I’ve woken up in the middle of a deep sleep, and my whole day suffers. Waking up early isn’t always easy, but it makes me feel truly happy and ready to take on the day.
 
@@ -40,8 +38,7 @@ If you want to feel fulfilled and happy, consider making early mornings a part o
 
 ## Key Takeaways
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUyMzA4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How Waking Up Early Boosts Your Day Without Feeling Tired")
-*How Waking Up Early Boosts Your Day Without Feeling Tired - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUyMzA4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How Waking Up Early Boosts Your Day Without Feeling Tired" caption="How Waking Up Early Boosts Your Day Without Feeling Tired - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 - *Waking up early helps you build a strong, healthy routine.*
 - *Early mornings offer peace and time for your most important goals.*

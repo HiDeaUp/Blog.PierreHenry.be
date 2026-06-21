@@ -12,8 +12,7 @@ original_title = "DÉCOUVRE TA PUISSANCE CACHÉE: Comment Te Connaître VRAIMENT
 source_medium = "https://medium.com/@phenrysay/352110f43b8d"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW52ZXN0aW5nJTIwaW4lMjB5b3Vyc2VsZnxlbnwwfDB8fHwxNzU1NDE3NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Changing Your Whole Life")
-*How to Invest in Yourself Without Changing Your Whole Life - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW52ZXN0aW5nJTIwaW4lMjB5b3Vyc2VsZnxlbnwwfDB8fHwxNzU1NDE3NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Invest in Yourself Without Changing Your Whole Life" caption="How to Invest in Yourself Without Changing Your Whole Life - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Investing in yourself starts with knowing what is truly good for you. It’s not just about eating healthy food—though that matters. It’s also about having a balanced life and a daily routine that supports your goals. When you organize your day in a way that helps you get things done, you move closer to the life you want.
 
@@ -23,8 +22,7 @@ A good daily structure doesn’t just help you get more done. It also makes you 
 
 If you want to feel better and achieve more, start by looking at how you spend your time. Even if you think you have zero free time, look closer. Maybe you spend a bit too long eating, or you linger over chores that aren’t really essential. If you can save just five minutes here and there, it adds up. Ten minutes a day is seventy minutes a week. That’s a lot of time you can use for what matters to you.
 
-![Just an aware, present woman re-birthing/re-creating her own world anew with the power of conscious intent, aligned action, passion and creativity ... Life is/as art from the heart ❤️💃☀️📷😻](https://images.unsplash.com/photo-1675654567595-e0db4fb40017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW52ZXN0aW5nJTIwaW4lMjB5b3Vyc2VsZnxlbnwwfDB8fHwxNzU1NDE3NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Changing Your Whole Life")
-*How to Invest in Yourself Without Changing Your Whole Life - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-help-your-self-NiOhazjVVCA)*
+{{< figure src="https://images.unsplash.com/photo-1675654567595-e0db4fb40017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW52ZXN0aW5nJTIwaW4lMjB5b3Vyc2VsZnxlbnwwfDB8fHwxNzU1NDE3NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a sign that says help your self" title="How to Invest in Yourself Without Changing Your Whole Life" caption="How to Invest in Yourself Without Changing Your Whole Life - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-help-your-self-NiOhazjVVCA)" >}}
 
 The best time to take action is always now. There’s no point in waiting for the “perfect” moment—it never comes. Life is short, and that’s exactly why you should invest in yourself and aim high. The more you achieve each day, the better you feel about yourself. You’ll build real confidence, because you’ll see that you can actually do what you set out to do.
 
@@ -42,8 +40,7 @@ Eating well also gives you more energy. Try to go to bed and wake up at the same
 
 So, start today. Change your daily routine, eat better, and make time for the things that matter. Bit by bit, you’ll build the life you want.
 
-![Message written in concrete.](https://images.unsplash.com/photo-1590337199203-111d94c51a80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW52ZXN0aW5nJTIwaW4lMjB5b3Vyc2VsZnxlbnwwfDB8fHwxNzU1NDE3NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Changing Your Whole Life")
-*How to Invest in Yourself Without Changing Your Whole Life - Photo by [Chela B.](https://unsplash.com/@chela_bonky) on [Unsplash](https://unsplash.com/photos/text-LcS81I9uoJI)*
+{{< figure src="https://images.unsplash.com/photo-1590337199203-111d94c51a80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwaW52ZXN0aW5nJTIwaW4lMjB5b3Vyc2VsZnxlbnwwfDB8fHwxNzU1NDE3NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Message written in concrete." title="How to Invest in Yourself Without Changing Your Whole Life" caption="How to Invest in Yourself Without Changing Your Whole Life - Photo by [Chela B.](https://unsplash.com/@chela_bonky) on [Unsplash](https://unsplash.com/photos/text-LcS81I9uoJI)" >}}
 
 ---
 

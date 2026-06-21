@@ -12,8 +12,7 @@ original_title = "Comment investir dans sa vie FACILEMENT?"
 source_medium = "https://medium.com/@phenrysay/57e8c35c84b0"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Overwhelm")
-*How to Invest in Yourself Without Overwhelm - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Invest in Yourself Without Overwhelm" caption="How to Invest in Yourself Without Overwhelm - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Having a long-term plan for your life is like setting a clear destination on a map. When you know exactly where you want to go, everything becomes simpler. Maybe in a year, you want to earn a certain salary. In three years, you might dream of living in Switzerland with a net income of 5,500 euros a month. In five years, perhaps you see yourself owning a house by the beach. Or maybe in six years, you want to buy a home because it finally feels right. When you lay out your goals like this, everything starts to connect.
 
@@ -23,8 +22,7 @@ Of course, things don’t always go as planned. Sometimes you’ll fall behind. 
 
 Other tools I recommend include “Coco Kips” and “SOSD.” While SOSD might not be perfect for long-term goals, it’s still useful. Apple’s Reminders app works too. If you like mind maps, you can use those, but updating them can be a bit tricky. Good old Excel tables or even a Kanban board—like JIRA, Asana, or the popular Trello—are great for planning your long-term journey.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Overwhelm")
-*How to Invest in Yourself Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Invest in Yourself Without Overwhelm" caption="How to Invest in Yourself Without Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 On my own Trello board, I have columns like “Start,” “In Progress,” “Conclusions,” and “Results.” Sometimes, you do things that don’t bring much progress toward your goal, so I use the “Results” column to reflect on that. Every Sunday, I do a little retrospective to see if I’m getting closer to my well-defined goal, whether it’s moving to Switzerland, Australia, Austria, or becoming a French teacher in Costa Rica or Japan. Maybe you want to start a cheese farm in Switzerland or open a chocolate shop in Brussels. Whatever your dream, you can break it down into steps and track your progress.
 
@@ -40,8 +38,7 @@ Planning your goals is crucial. Don’t put off what you want to do today. Start
 
 ---
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself Without Overwhelm")
-*How to Invest in Yourself Without Overwhelm - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU2NTEwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Invest in Yourself Without Overwhelm" caption="How to Invest in Yourself Without Overwhelm - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ## Key Takeaways
 - Set clear, specific long-term goals for your life.

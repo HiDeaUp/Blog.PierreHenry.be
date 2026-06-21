@@ -12,8 +12,7 @@ original_title = "Accomplir une réalisation de vie 💥"
 source_medium = "https://medium.com/@phenrysay/249c562e96a6"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwYWNoaWV2ZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGxvbmctdGVybSUyMGdvYWxzfGVufDB8MHx8fDE3NTY1MjYxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Achieving a Life Goal Changes Everything")
-*How Achieving a Life Goal Changes Everything - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwYWNoaWV2ZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGxvbmctdGVybSUyMGdvYWxzfGVufDB8MHx8fDE3NTY1MjYxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How Achieving a Life Goal Changes Everything" caption="How Achieving a Life Goal Changes Everything - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 What does it mean to accomplish something truly meaningful? It’s not just about ticking off a to-do list or reaching a milestone at work. It’s about doing something that matters deeply to you, something that lights a fire inside and keeps you going, even when things get tough.
 
@@ -23,8 +22,7 @@ Take, for example, the open-source project FarmBot. It’s not cheap, but imagin
 
 You might get up at 5, 6, or even 4:30 in the morning to carve out a couple of hours for your long-term goal. The rest of your day might be filled with other work, but you know that’s not your endgame. Your real purpose is your project, the one you’re building bit by bit every day. That’s what counts, because it reflects who you really are and the life you want to live.
 
-![Man climbing during summer](https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwYWNoaWV2ZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGxvbmctdGVybSUyMGdvYWxzfGVufDB8MHx8fDE3NTY1MjYxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Achieving a Life Goal Changes Everything")
-*How Achieving a Life Goal Changes Everything - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)*
+{{< figure src="https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwYWNoaWV2ZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGxvbmctdGVybSUyMGdvYWxzfGVufDB8MHx8fDE3NTY1MjYxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man climbing during summer" title="How Achieving a Life Goal Changes Everything" caption="How Achieving a Life Goal Changes Everything - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)" >}}
 
 I’m right there with you. You have to believe in your long-term project so strongly that you can see it clearly in your mind. You need to be absolutely sure it’s possible. I once wrote about the law of attraction and how you can use it to stack the odds in your favor and build something amazing. Life is short, and if you keep putting off your goals until tomorrow or the next day, they’ll never happen. There will always be an excuse, and it will never feel like the right time. You’ll always be busy with something else.
 
@@ -40,8 +38,7 @@ Believe in yourself. Everything is possible if you really want it. I believe in 
 
 ---
 
-![Photo by Michael Descharles](https://images.unsplash.com/photo-1565806946558-8d4e1b564c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwYWNoaWV2ZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGxvbmctdGVybSUyMGdvYWxzfGVufDB8MHx8fDE3NTY1MjYxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Achieving a Life Goal Changes Everything")
-*How Achieving a Life Goal Changes Everything - Photo by [Michael Descharles](https://unsplash.com/@michael_exploring) on [Unsplash](https://unsplash.com/photos/person-standing-on-mountain-_Dq9gi7U2sU)*
+{{< figure src="https://images.unsplash.com/photo-1565806946558-8d4e1b564c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwYWNoaWV2ZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGxvbmctdGVybSUyMGdvYWxzfGVufDB8MHx8fDE3NTY1MjYxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person on" title="How Achieving a Life Goal Changes Everything" caption="How Achieving a Life Goal Changes Everything - Photo by [Michael Descharles](https://unsplash.com/@michael_exploring) on [Unsplash](https://unsplash.com/photos/person-standing-on-mountain-_Dq9gi7U2sU)" >}}
 
 ## Key Takeaways
 

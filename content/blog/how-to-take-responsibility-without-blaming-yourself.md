@@ -10,8 +10,7 @@ original_title = "Adaptation positive de son environnement 🚀"
 source_medium = "https://medium.com/@phenrysay/0fb371e5f3ce"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695313486452-db8f5247bcb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBhZGFwdGF0aW9uJTIwcGVyc29uYWwlMjByZXNwb25zaWJpbGl0eXxlbnwwfDB8fHwxNzU2NTI0MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Responsibility Without Blaming Yourself")
-*How to Take Responsibility Without Blaming Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-that-says-positive-discipline-next-to-a-typewriter-xKQvqfcj5h4)*
+{{< figure src="https://images.unsplash.com/photo-1695313486452-db8f5247bcb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBhZGFwdGF0aW9uJTIwcGVyc29uYWwlMjByZXNwb25zaWJpbGl0eXxlbnwwfDB8fHwxNzU2NTI0MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A piece of paper that says next to a" title="How to Take Responsibility Without Blaming Yourself" caption="How to Take Responsibility Without Blaming Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-that-says-positive-discipline-next-to-a-typewriter-xKQvqfcj5h4)" >}}
 
 Have you ever found yourself complaining about your surroundings or blaming others when things don’t go your way? It’s a common reaction. We often see situations only from our own perspective, making it easy to point fingers at others. But what if, instead, we tried to understand the situation more deeply? What if we asked ourselves how we could have acted differently, even when we believe we’re not at fault?
 
@@ -19,8 +18,7 @@ It’s much easier to blame others than to look at our own actions. But adopting
 
 When you start thinking this way, you realize you have some control over almost everything that happens to you. If something goes wrong, ask yourself: Could I have avoided it? Did I say something that could have been misunderstood? Was I clear enough? Maybe the other person didn’t understand me because I wasn’t clear, and that’s on me, too.
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBhZGFwdGF0aW9uJTIwcGVyc29uYWwlMjByZXNwb25zaWJpbGl0eXxlbnwwfDB8fHwxNzU2NTI0MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Responsibility Without Blaming Yourself")
-*How to Take Responsibility Without Blaming Yourself - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBhZGFwdGF0aW9uJTIwcGVyc29uYWwlMjByZXNwb25zaWJpbGl0eXxlbnwwfDB8fHwxNzU2NTI0MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Take Responsibility Without Blaming Yourself" caption="How to Take Responsibility Without Blaming Yourself - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Looking at situations from both your own perspective and that of the other person brings clarity. Even if the other person doesn’t make much effort to understand you, that’s not a reason to wash your hands of the situation. There’s almost always a way to avoid misunderstandings or problems. There are countless ways to resolve what happens to us.
 
@@ -34,8 +32,7 @@ If you want to keep growing and improving yourself, remember that you always hav
 > *“You cannot control the behavior of others, but you can always choose how you respond to it.”*  
 — Roy T. Bennett
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695473507874-2bea519874a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBhZGFwdGF0aW9uJTIwcGVyc29uYWwlMjByZXNwb25zaWJpbGl0eXxlbnwwfDB8fHwxNzU2NTI0MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Responsibility Without Blaming Yourself")
-*How to Take Responsibility Without Blaming Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-A3vKpNZptp8)*
+{{< figure src="https://images.unsplash.com/photo-1695473507874-2bea519874a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBhZGFwdGF0aW9uJTIwcGVyc29uYWwlMjByZXNwb25zaWJpbGl0eXxlbnwwfDB8fHwxNzU2NTI0MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a piece of paper on it" title="How to Take Responsibility Without Blaming Yourself" caption="How to Take Responsibility Without Blaming Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-A3vKpNZptp8)" >}}
 
 ---
 

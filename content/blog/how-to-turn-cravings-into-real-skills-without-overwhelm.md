@@ -12,8 +12,7 @@ original_title = "Comment transformer ses envies 🪄"
 source_medium = "https://medium.com/@phenrysay/b4cf7b7c1804"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGdvYWwtc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTE0MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Cravings Into Real Skills Without Overwhelm")
-*How to Turn Cravings Into Real Skills Without Overwhelm - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGdvYWwtc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTE0MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Turn Cravings Into Real Skills Without Overwhelm" caption="How to Turn Cravings Into Real Skills Without Overwhelm - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Have you ever felt a sudden urge to learn something new? Maybe you want to pick up a fresh skill, get another degree, or dive into a field that’s always fascinated you. These desires are not just fleeting thoughts. With the right approach, they can become the seeds of something meaningful—a new job, a business, or even a passion project that changes your life.
 
@@ -21,8 +20,7 @@ Let’s say you’re curious about the Internet of Things, those connected gadge
 
 For example, imagine you love collecting data and analyzing it. You could create a tool that helps a city measure its water or energy usage. When I lived in Cannes, I thought about how useful it would be to have a way to track water storage or fuel consumption. This kind of idea could work in many fields—nature, science, or even predicting fuel prices using AI and data modeling.
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGdvYWwtc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTE0MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Cravings Into Real Skills Without Overwhelm")
-*How to Turn Cravings Into Real Skills Without Overwhelm - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGdvYWwtc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTE0MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Turn Cravings Into Real Skills Without Overwhelm" caption="How to Turn Cravings Into Real Skills Without Overwhelm - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 The best part? You get to learn and have fun at the same time. When you’re passionate about something, it doesn’t feel like work. You might even end up starting a business or building a team of people who share your excitement.
 
@@ -40,8 +38,7 @@ The key is to keep asking yourself: How can I turn what I love into something va
 >
 > — Eleanor Roosevelt
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGdvYWwtc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTE0MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Cravings Into Real Skills Without Overwhelm")
-*How to Turn Cravings Into Real Skills Without Overwhelm - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGdvYWwtc2V0dGluZ3xlbnwwfDB8fHwxNzU2MTE0MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Turn Cravings Into Real Skills Without Overwhelm" caption="How to Turn Cravings Into Real Skills Without Overwhelm - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 ---
 

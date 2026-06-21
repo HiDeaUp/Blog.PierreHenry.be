@@ -12,8 +12,7 @@ original_title = "Pourquoi avoir un \"DATE\" avec toi-même ? 💙"
 source_medium = "https://medium.com/@phenrysay/cf7505bdd996"
 +++
 
-![Alone ](https://images.unsplash.com/photo-1620131261361-7cc3dc7d68ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBzb2xpdHVkZSUyMHNlbGYtZGF0ZXxlbnwwfDB8fHwxNzU2MDA5MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Alone Time Without Feeling Lonely")
-*How to Enjoy Alone Time Without Feeling Lonely - Photo by [Nik](https://unsplash.com/@helloimnik) on [Unsplash](https://unsplash.com/photos/white-and-red-love-you-print-wall-decor-UQronqE3CDg)*
+{{< figure src="https://images.unsplash.com/photo-1620131261361-7cc3dc7d68ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBzb2xpdHVkZSUyMHNlbGYtZGF0ZXxlbnwwfDB8fHwxNzU2MDA5MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alone" title="How to Enjoy Alone Time Without Feeling Lonely" caption="How to Enjoy Alone Time Without Feeling Lonely - Photo by [Nik](https://unsplash.com/@helloimnik) on [Unsplash](https://unsplash.com/photos/white-and-red-love-you-print-wall-decor-UQronqE3CDg)" >}}
 
 There’s something special about taking a break just for yourself. Today, for example, I treated myself to a little snack: triple cream brie and kombucha. Living in Australia, the cheese brands are different from what you’d find in France, but the feeling is the same. It’s my own version of comfort—a moment to recharge, reflect, and simply enjoy being present.
 
@@ -23,8 +22,7 @@ Usually, I don’t talk or film myself during these times. I just enjoy the mome
 
 You can have these moments anywhere—at home, in a bar, at a restaurant, or even in the mountains. Right now, I’m actually in a hotel, but it feels like home for the moment. The important thing is to carve out time for yourself, whether it’s half an hour a few times a week or a whole weekend once a month.
 
-![Photo by John Lord Vicente](https://images.unsplash.com/photo-1707016762529-0afa9d44d6f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBzb2xpdHVkZSUyMHNlbGYtZGF0ZXxlbnwwfDB8fHwxNzU2MDA5MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Alone Time Without Feeling Lonely")
-*How to Enjoy Alone Time Without Feeling Lonely - Photo by [John Lord Vicente](https://unsplash.com/@john_vicente26) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-bench-near-a-body-of-water-t_8j_1Rs1rA)*
+{{< figure src="https://images.unsplash.com/photo-1707016762529-0afa9d44d6f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBzb2xpdHVkZSUyMHNlbGYtZGF0ZXxlbnwwfDB8fHwxNzU2MDA5MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person sitting on a bench near a body of water" title="How to Enjoy Alone Time Without Feeling Lonely" caption="How to Enjoy Alone Time Without Feeling Lonely - Photo by [John Lord Vicente](https://unsplash.com/@john_vicente26) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-bench-near-a-body-of-water-t_8j_1Rs1rA)" >}}
 
 Bill Gates used to do something similar with his “Think Weeks.” He would disappear to a cabin, completely cut off from everyone, and spend a week reading, thinking, and writing. No one knew where he was, not even his wife. He came back with new ideas and clarity. Of course, he had the resources to make it comfortable, but the real value was in the solitude and focus.
 
@@ -40,8 +38,7 @@ Life is short. Sometimes we wake up and realize years have passed without really
 > *“Solitude is where I place my chaos to rest and awaken my inner peace.”*  
 — Nikki Rowe
 
-![Photo by Eamonn Wang](https://images.unsplash.com/photo-1677770216151-d5a82f768280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBzb2xpdHVkZSUyMHNlbGYtZGF0ZXxlbnwwfDB8fHwxNzU2MDA5MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Alone Time Without Feeling Lonely")
-*How to Enjoy Alone Time Without Feeling Lonely - Photo by [Eamonn Wang](https://unsplash.com/@eamonn7777) on [Unsplash](https://unsplash.com/photos/a-man-and-a-woman-sitting-on-top-of-a-hill-Zf7XWutRvT0)*
+{{< figure src="https://images.unsplash.com/photo-1677770216151-d5a82f768280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBzb2xpdHVkZSUyMHNlbGYtZGF0ZXxlbnwwfDB8fHwxNzU2MDA5MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man and a woman sitting on top of a hill" title="How to Enjoy Alone Time Without Feeling Lonely" caption="How to Enjoy Alone Time Without Feeling Lonely - Photo by [Eamonn Wang](https://unsplash.com/@eamonn7777) on [Unsplash](https://unsplash.com/photos/a-man-and-a-woman-sitting-on-top-of-a-hill-Zf7XWutRvT0)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "RÉORGANISER LES HABITUDES DU QUOTIDIEN ⏰"
 source_medium = "https://medium.com/@phenrysay/2bbbd045dbd3"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTgxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Day Without Relying on To-Do Lists")
-*How to Organize Your Day Without Relying on To-Do Lists - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTgxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Organize Your Day Without Relying on To-Do Lists" caption="How to Organize Your Day Without Relying on To-Do Lists - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 When it comes to organizing your day, most people reach for a to-do list or a calendar. But what if the real secret to a productive, satisfying day isn’t about priorities or time slots, but about building repeatable processes and routines that fit your life?
 
@@ -27,8 +26,7 @@ If you always rely on time slots, you’ll notice you keep pushing tasks to late
 
 Another trick is to optimize your daily processes. Ask yourself, “How could I do this differently or better?” For quick notes, I use an app called Just Press Record. It lets you dictate your thoughts, and then it transcribes them. It’s not perfect, but it helps you find your notes easily. There are similar apps for Android, so don’t worry if you’re not on Apple.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTgxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Day Without Relying on To-Do Lists")
-*How to Organize Your Day Without Relying on To-Do Lists - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTgxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Organize Your Day Without Relying on To-Do Lists" caption="How to Organize Your Day Without Relying on To-Do Lists - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 If you drive a lot or get inspired on the go, you can even dictate a book, ten minutes at a time. After a few months, you’ll have enough material to transcribe and edit into something real. There are plenty of transcription services out there—just search online or use platforms like PeoplePerHour or Fiverr to find someone to help.
 
@@ -50,8 +48,7 @@ In the end, it’s about finding what works for you. For some, time blocking is 
 >
 > — Mike Murdock
 
-![Photo by faizan khan](https://images.unsplash.com/photo-1635267064665-3aa0909b3516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTgxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Day Without Relying on To-Do Lists")
-*How to Organize Your Day Without Relying on To-Do Lists - Photo by [faizan khan](https://unsplash.com/@faizankhan3545) on [Unsplash](https://unsplash.com/photos/a-green-alarm-clock-sitting-on-top-of-a-table-J-TJJpQ_urk)*
+{{< figure src="https://images.unsplash.com/photo-1635267064665-3aa0909b3516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTgxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A green alarm clock sitting on top of a table J" title="How to Organize Your Day Without Relying on To-Do Lists" caption="How to Organize Your Day Without Relying on To-Do Lists - Photo by [faizan khan](https://unsplash.com/@faizankhan3545) on [Unsplash](https://unsplash.com/photos/a-green-alarm-clock-sitting-on-top-of-a-table-J-TJJpQ_urk)" >}}
 
 ---
 

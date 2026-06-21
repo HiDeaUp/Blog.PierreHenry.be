@@ -12,8 +12,7 @@ original_title = "Comment cultiver la gratitude même dans les moments difficile
 source_medium = "https://medium.com/@phenrysay/41bdd8fbb032"
 +++
 
-![A painted stone with the word gratitude.](https://images.unsplash.com/photo-1668027400307-c316968e8015?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxncmF0aXR1ZGUlMjBtZW50YWwlMjBoZWFsdGglMjByZXNpbGllbmNlfGVufDB8MHx8fDE3NTU0MTU5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Gratitude Without Forcing Positivity on Bad Days")
-*How to Find Gratitude Without Forcing Positivity on Bad Days - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-white-and-yellow-object-with-writing-on-it-3Zji01G_ptM)*
+{{< figure src="https://images.unsplash.com/photo-1668027400307-c316968e8015?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxncmF0aXR1ZGUlMjBtZW50YWwlMjBoZWFsdGglMjByZXNpbGllbmNlfGVufDB8MHx8fDE3NTU0MTU5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A painted stone with the word gratitude." title="How to Find Gratitude Without Forcing Positivity on Bad Days" caption="How to Find Gratitude Without Forcing Positivity on Bad Days - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-white-and-yellow-object-with-writing-on-it-3Zji01G_ptM)" >}}
 
 There are days when you wake up and, for no clear reason, your energy just isn’t there. You might have made a solid to-do list the night before, full of things you want to achieve, but when morning comes, you feel flat. You go for a walk, try to get moving, but your mood just doesn’t lift. This happens to everyone, and it’s nothing to be ashamed of.
 
@@ -25,8 +24,7 @@ Gratitude isn’t just about being thankful for the big things. It’s about not
 
 Another simple trick is to change your environment with music. Background sounds, like white noise or calming music, can shift your mood and help you reset. It’s a small change, but it can make a big difference in how you feel.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxncmF0aXR1ZGUlMjBtZW50YWwlMjBoZWFsdGglMjByZXNpbGllbmNlfGVufDB8MHx8fDE3NTU0MTU5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Gratitude Without Forcing Positivity on Bad Days")
-*How to Find Gratitude Without Forcing Positivity on Bad Days - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)*
+{{< figure src="https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxncmF0aXR1ZGUlMjBtZW50YWwlMjBoZWFsdGglMjByZXNpbGllbmNlfGVufDB8MHx8fDE3NTU0MTU5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads" title="How to Find Gratitude Without Forcing Positivity on Bad Days" caption="How to Find Gratitude Without Forcing Positivity on Bad Days - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)" >}}
 
 And don’t forget about your body. The way you stand, your posture, even a quick stretch or a few deep breaths can have a real impact on your mind. Tony Robbins, for example, talks about this in his documentary “I Am Not Your Guru.” Before going on stage, he uses physical exercises to prepare himself mentally. You don’t have to be a guru to benefit from this—just a few minutes of moving your body can help you feel more grounded and ready.
 
@@ -52,8 +50,7 @@ The key is to find what works for you. Maybe it’s writing, maybe it’s music,
 
 ---
 
-![Photo by Martin Sanchez](https://images.unsplash.com/photo-1665504281546-993297b2ff51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxncmF0aXR1ZGUlMjBtZW50YWwlMjBoZWFsdGglMjByZXNpbGllbmNlfGVufDB8MHx8fDE3NTU0MTU5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Gratitude Without Forcing Positivity on Bad Days")
-*How to Find Gratitude Without Forcing Positivity on Bad Days - Photo by [Martin Sanchez](https://unsplash.com/@zekedrone) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-hill-gD3dUQpMlvk)*
+{{< figure src="https://images.unsplash.com/photo-1665504281546-993297b2ff51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxncmF0aXR1ZGUlMjBtZW50YWwlMjBoZWFsdGglMjByZXNpbGllbmNlfGVufDB8MHx8fDE3NTU0MTU5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person on a hill" title="How to Find Gratitude Without Forcing Positivity on Bad Days" caption="How to Find Gratitude Without Forcing Positivity on Bad Days - Photo by [Martin Sanchez](https://unsplash.com/@zekedrone) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-hill-gD3dUQpMlvk)" >}}
 
 ## Action Steps
 

@@ -12,8 +12,7 @@ original_title = "Ce qu'il faut pour une vie LÉGENDAIRE"
 source_medium = "https://medium.com/@phenrysay/c480e4ea289a"
 +++
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTk5ODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest Your Time for a Legendary Life Without Regret")
-*How to Invest Your Time for a Legendary Life Without Regret - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTk5ODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Invest Your Time for a Legendary Life Without Regret" caption="How to Invest Your Time for a Legendary Life Without Regret - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 Have you ever stopped to think about how you spend your time? Not just in the big moments, but in the small, everyday choices that add up to your entire life? Sitting here in a hotel room in Melbourne, I realized something simple yet powerful: most of us don’t invest enough in our time. We let it slip by, often without noticing, and then wonder why we feel stuck or unfulfilled.
 
@@ -29,8 +28,7 @@ Mistakes are how you learn. But there’s a difference between passive learning�
 
 There will be times when you feel lost, like you’re in the middle of a desert with no end in sight. But often, just when you’re about to give up, you notice signs of hope—a bird, a shell, a distant boat. That’s when you realize you’re closer than you think. Most people give up right before they succeed. But if you keep going, even when things are tough, you’ll reach your destination.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, slow down, don't rush, less haste more speed, rush, panic, do not panic, relax, breathe, concentrate, ](https://images.unsplash.com/photo-1620905789653-5bc13d0e8fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTk5ODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest Your Time for a Legendary Life Without Regret")
-*How to Invest Your Time for a Legendary Life Without Regret - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4Rvi7ybXmGo)*
+{{< figure src="https://images.unsplash.com/photo-1620905789653-5bc13d0e8fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTk5ODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Invest Your Time for a Legendary Life Without Regret" caption="How to Invest Your Time for a Legendary Life Without Regret - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4Rvi7ybXmGo)" >}}
 
 > *“The only limit that exists is the one you create for yourself.”*  
 — Pierre
@@ -53,8 +51,7 @@ Always ask yourself positive questions. Instead of worrying about what could go 
 
 So, take charge of your life. Invest in your time, ask for what you want, and never settle for less than you deserve. The legendary life you dream of is within reach—if you start now.
 
-![Photo by Chengyu Wang](https://images.unsplash.com/photo-1752912064335-582974c38b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTk5ODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest Your Time for a Legendary Life Without Regret")
-*How to Invest Your Time for a Legendary Life Without Regret - Photo by [Chengyu Wang](https://unsplash.com/@chenriew) on [Unsplash](https://unsplash.com/photos/people-walk-by-a-clock-on-a-busy-street-SyWTR0P4mL8)*
+{{< figure src="https://images.unsplash.com/photo-1752912064335-582974c38b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGltcHJvdmVtZW50JTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTk5ODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="People walk by a clock on a busy street" title="How to Invest Your Time for a Legendary Life Without Regret" caption="How to Invest Your Time for a Legendary Life Without Regret - Photo by [Chengyu Wang](https://unsplash.com/@chenriew) on [Unsplash](https://unsplash.com/photos/people-walk-by-a-clock-on-a-busy-street-SyWTR0P4mL8)" >}}
 
 ---
 

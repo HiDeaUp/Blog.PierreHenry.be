@@ -12,8 +12,7 @@ original_title = "Comment se transformer pour devenir la nouvelle version de soi
 source_medium = "https://medium.com/@phenrysay/88d7aa5456eb"
 +++
 
-![Photo by Tu Tran Anh](https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NTI2OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Your Best Self Without Overhauling Your Life")
-*How to Become Your Best Self Without Overhauling Your Life - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)*
+{{< figure src="https://images.unsplash.com/photo-1697884007444-41f215f3a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NTI2OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a bench with plants growing out of it" title="How to Become Your Best Self Without Overhauling Your Life" caption="How to Become Your Best Self Without Overhauling Your Life - Photo by [Tu Tran Anh](https://unsplash.com/@tutrananh109) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bench-with-plants-growing-out-of-it-YF18Rvg8uT0)" >}}
 
 Becoming a better version of yourself is not about making huge leaps overnight. It’s about small, steady improvements every single day. If you want to develop real expertise in your field, daily transformation is essential. Becoming an expert is not just a nice-to-have; it’s the foundation for standing out and feeling fulfilled in what you do.
 
@@ -27,8 +26,7 @@ Consistency is the real secret. If you skip a day, then another, and then a thir
 
 ## Why a Daily Rhythm Matters
 
-![a lonely flower that was left behind by another flower and stand alone](https://images.unsplash.com/photo-1737532823991-2ed69a67eb66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NTI2OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Your Best Self Without Overhauling Your Life")
-*How to Become Your Best Self Without Overhauling Your Life - Photo by [Marcilok Gilbert](https://unsplash.com/@photographyfun_marcilok) on [Unsplash](https://unsplash.com/photos/a-small-pink-flower-sitting-on-top-of-a-pile-of-dirt-juoBtviLr54)*
+{{< figure src="https://images.unsplash.com/photo-1737532823991-2ed69a67eb66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NTI2OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="a lonely flower that was left behind by another flower and stand alone" title="How to Become Your Best Self Without Overhauling Your Life" caption="How to Become Your Best Self Without Overhauling Your Life - Photo by [Marcilok Gilbert](https://unsplash.com/@photographyfun_marcilok) on [Unsplash](https://unsplash.com/photos/a-small-pink-flower-sitting-on-top-of-a-pile-of-dirt-juoBtviLr54)" >}}
 
 Focusing on one area each day, or even one area per week if it’s a bigger goal, can make a huge difference. Just think: one hour a day is seven hours a week. In two weeks, that’s fourteen hours. After a month, you’ve spent twenty-eight hours—more than a full day—on your chosen skill. That’s powerful.
 
@@ -50,8 +48,7 @@ If you want to go further in your learning, I’ve put together a lot of resourc
 
 The real transformation comes from the compound effect of daily action. If you stick with your routine, you’ll open doors you never imagined. You’ll gain a level of expertise that few can match. The key is to keep going, even when it feels hard or boring. That’s how you become truly great.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NTI2OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Your Best Self Without Overhauling Your Life")
-*How to Become Your Best Self Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NTI2OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Become Your Best Self Without Overhauling Your Life" caption="How to Become Your Best Self Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 > — Will Durant

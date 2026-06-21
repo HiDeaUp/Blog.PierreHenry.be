@@ -12,8 +12,7 @@ original_title = "Je te partage ma recette du bien-être"
 source_medium = "https://medium.com/@phenrysay/bd034ef78784"
 +++
 
-![Photo by Guilherme Farinha](https://images.unsplash.com/photo-1687639676496-ebb340ee4def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTUzODU3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good Without Leaving Your Safe Space")
-*How to Feel Good Without Leaving Your Safe Space - Photo by [Guilherme Farinha](https://unsplash.com/@ogf) on [Unsplash](https://unsplash.com/photos/a-man-in-a-space-suit-holding-something-in-his-hands-QfFihcWYwBs)*
+{{< figure src="https://images.unsplash.com/photo-1687639676496-ebb340ee4def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTUzODU3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man in a space suit holding in his hands" title="How to Feel Good Without Leaving Your Safe Space" caption="How to Feel Good Without Leaving Your Safe Space - Photo by [Guilherme Farinha](https://unsplash.com/@ogf) on [Unsplash](https://unsplash.com/photos/a-man-in-a-space-suit-holding-something-in-his-hands-QfFihcWYwBs)" >}}
 
 Feeling at peace is a real gift. We all need moments of calm, a sense of safety, and the freedom to just be ourselves. When you feel truly rested and secure, your energy comes back, and you can give the best of yourself. That makes all the difference.
 
@@ -23,8 +22,7 @@ When you create this kind of culture at home or with your family, it changes eve
 
 Right now, I’m rereading an old book that means a lot to me. I even asked my mother to bring it to me all the way to Australia. It’s almost ten years old, but I still find new things in it. There’s something special about rereading a book you loved during a happy time in your life. It brings back those good memories and lets you relive them. Maybe you feel the same way? For me, it’s a real pleasure to remember those moments.
 
-![Photo by Zoltan Tasi](https://images.unsplash.com/photo-1617670376666-14b66ce4d1d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTUzODU3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good Without Leaving Your Safe Space")
-*How to Feel Good Without Leaving Your Safe Space - Photo by [Zoltan Tasi](https://unsplash.com/@zoltantasi) on [Unsplash](https://unsplash.com/photos/man-in-gray-hoodie-standing-on-black-sand-under-starry-night-ORP3RD94nNY)*
+{{< figure src="https://images.unsplash.com/photo-1617670376666-14b66ce4d1d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTUzODU3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in gray hoodie on black sand under starry night" title="How to Feel Good Without Leaving Your Safe Space" caption="How to Feel Good Without Leaving Your Safe Space - Photo by [Zoltan Tasi](https://unsplash.com/@zoltantasi) on [Unsplash](https://unsplash.com/photos/man-in-gray-hoodie-standing-on-black-sand-under-starry-night-ORP3RD94nNY)" >}}
 
 Even if the book is a bit outdated, reading it in a nice place—like on the terrace or in my room with a view of the sea—makes my eyes light up. I feel moved, happy, and grateful. This is something you can do for yourself: revisit information, stories, or books that you love. It could be a novel, a biography, or anything else that brings you joy.
 
@@ -42,8 +40,7 @@ Remember, not everyone starts from the same place. Some people have a head start
 >
 > — Pierre
 
-![Photo by David Young](https://images.unsplash.com/photo-1649951642479-1d3e9a6510f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTUzODU3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good Without Leaving Your Safe Space")
-*How to Feel Good Without Leaving Your Safe Space - Photo by [David Young](https://unsplash.com/@david_young) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-top-of-a-sandy-beach-under-a-night-sky-filled-with-stars-MAmRV53bf80)*
+{{< figure src="https://images.unsplash.com/photo-1649951642479-1d3e9a6510f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTUzODU3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man on top of a sandy beach under a night sky filled with stars" title="How to Feel Good Without Leaving Your Safe Space" caption="How to Feel Good Without Leaving Your Safe Space - Photo by [David Young](https://unsplash.com/@david_young) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-top-of-a-sandy-beach-under-a-night-sky-filled-with-stars-MAmRV53bf80)" >}}
 
 So, enjoy the present moment. Invest in yourself, your well-being, and your happiness. That’s what you deserve. I’m 100% with you, and I know you can succeed. Go for it—you’ll go far. Life is beautiful, but you have to take the first step.
 

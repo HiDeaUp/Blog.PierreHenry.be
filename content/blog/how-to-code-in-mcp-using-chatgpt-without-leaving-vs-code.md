@@ -12,8 +12,7 @@ original_title = "Use ChatGPT Connectors with MCP to work on a codebase directly
 source_medium = "https://medium.com/@phenrysay/a768416369fc"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740393068163-b2be0c47b9f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDaGF0R1BUJTIwTUNQJTIwY29kZWJhc2UlMjBpbnRlZ3JhdGlvbnxlbnwwfDB8fHwxNzY3MDc5MDg0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code in MCP Using ChatGPT Without Leaving VS Code")
-*How to Code in MCP Using ChatGPT Without Leaving VS Code - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-chat-on-a-table-ktrS_unoFTI)*
+{{< figure src="https://images.unsplash.com/photo-1740393068163-b2be0c47b9f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDaGF0R1BUJTIwTUNQJTIwY29kZWJhc2UlMjBpbnRlZ3JhdGlvbnxlbnwwfDB8fHwxNzY3MDc5MDg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word chat on a table" title="How to Code in MCP Using ChatGPT Without Leaving VS Code" caption="How to Code in MCP Using ChatGPT Without Leaving VS Code - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-chat-on-a-table-ktrS_unoFTI)" >}}
 
 Alright, I’ve got something extremely exciting for you today. I’m deep into my MCP project, and I decided to shake things up a bit. So, here’s what happened: I created a prompt for my MCP to improve my MCP server. My existing MCP server was fine, but I thought, “What about building a more exciting MCP server?” I started playing around with prompts, and then I had a lightbulb moment.
 
@@ -71,8 +70,7 @@ So, ChatGPT starts reading my codebase. It suggests returning a status for the u
 
 ChatGPT gives me a new `MCPTypes.ts` file. I didn’t have a types folder or file before, so that’s really exciting. It also suggests improvements for `env.ts`—new variables, better context for routes. It actually reads what I have in my VS Code, which is a good sign.
 
-![Hello World!](https://images.unsplash.com/photo-1636586108931-a8b9b8796ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDaGF0R1BUJTIwTUNQJTIwY29kZWJhc2UlMjBpbnRlZ3JhdGlvbnxlbnwwfDB8fHwxNzY3MDc5MDg0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Code in MCP Using ChatGPT Without Leaving VS Code")
-*How to Code in MCP Using ChatGPT Without Leaving VS Code - Photo by [Taiki Ishikawa](https://unsplash.com/@fl__q) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-text-on-it-PUXFKuVf_84)*
+{{< figure src="https://images.unsplash.com/photo-1636586108931-a8b9b8796ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDaGF0R1BUJTIwTUNQJTIwY29kZWJhc2UlMjBpbnRlZ3JhdGlvbnxlbnwwfDB8fHwxNzY3MDc5MDg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Hello World!" title="How to Code in MCP Using ChatGPT Without Leaving VS Code" caption="How to Code in MCP Using ChatGPT Without Leaving VS Code - Photo by [Taiki Ishikawa](https://unsplash.com/@fl__q) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-text-on-it-PUXFKuVf_84)" >}}
 
 Now, I’m not sure if it can write directly to VS Code. I see “inactive” in the status, which is a bit concerning. Let’s see if it does anything. Nope, still inactive. Then it asks if I want to bundle the changes into a zip file. Sure, why not? But when I unzip it, it’s empty. That’s why I got an error—zip is invalid. Normally, it would give an actual zip, but not here.
 

@@ -12,8 +12,7 @@ original_title = "Hausser ses standards. Est-ce vraiment facile ?"
 source_medium = "https://medium.com/@phenrysay/1d9ec39bb1f6"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Raise Your Standards Without Chasing Perfection")
-*How to Raise Your Standards Without Chasing Perfection - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Raise Your Standards Without Chasing Perfection" caption="How to Raise Your Standards Without Chasing Perfection - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Living well and living elegantly makes all the difference. I often repeat this because it’s true: when you learn to appreciate the little things—a simple coffee, a good meal, or even a small treat like truffles—life takes on a new flavor. Recently, I was at a dinner with my company, and we enjoyed some fine truffles. It wasn’t just about the luxury; it was about savoring the moment, noticing the details, and being present.
 
@@ -23,8 +22,7 @@ Always take action. Always look for what you can do next. Ask yourself, “What�
 
 I genuinely wish you the best from the bottom of my heart. Go for it. Go far. I believe in you, so believe in yourself. There’s no point in putting off what you want to do today. The best time to act is now.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Raise Your Standards Without Chasing Perfection")
-*How to Raise Your Standards Without Chasing Perfection - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Raise Your Standards Without Chasing Perfection" caption="How to Raise Your Standards Without Chasing Perfection - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 It reminds me of that Chinese proverb:  
 > *The best time to plant a tree was twenty years ago. The second best time is now.*  
@@ -44,8 +42,7 @@ Don’t wait for the perfect moment. The perfect moment doesn’t exist. The onl
 
 ---
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Raise Your Standards Without Chasing Perfection")
-*How to Raise Your Standards Without Chasing Perfection - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Raise Your Standards Without Chasing Perfection" caption="How to Raise Your Standards Without Chasing Perfection - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Construire un service en ligne (produit SaaS) et le vendre fac
 source_medium = "https://medium.com/@phenrysay/0e16cbb84de5"
 +++
 
-![Ofspace Digital Agency ](https://images.unsplash.com/photo-1622258416260-cc79f4763be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTYWFTJTIwb25saW5lJTIwc2VydmljZSUyMHN0YXJ0dXB8ZW58MHwwfHx8MTc1NjMzOTY1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build and Sell a SaaS Without Overwhelm")
-*How to Build and Sell a SaaS Without Overwhelm - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/man-in-orange-crew-neck-t-shirt-sitting-on-black-chair-dFYorsGPGDA)*
+{{< figure src="https://images.unsplash.com/photo-1622258416260-cc79f4763be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTYWFTJTIwb25saW5lJTIwc2VydmljZSUyMHN0YXJ0dXB8ZW58MHwwfHx8MTc1NjMzOTY1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Ofspace Digital Agency" title="How to Build and Sell a SaaS Without Overwhelm" caption="How to Build and Sell a SaaS Without Overwhelm - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/man-in-orange-crew-neck-t-shirt-sitting-on-black-chair-dFYorsGPGDA)" >}}
 
 Building a mini startup is much simpler than it seems, especially when you focus on creating a SaaS (Software as a Service) product. The real challenge is not just building the product, but bringing in customers. Let’s break down a practical approach to launching your SaaS and selling it without getting overwhelmed.
 
@@ -37,8 +36,7 @@ Think of it like watering a single plant instead of the whole garden. If you spr
 >
 > — Unknown
 
-![Photo by Erik Mclean](https://images.unsplash.com/photo-1619243142206-381c5aeda31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTYWFTJTIwb25saW5lJTIwc2VydmljZSUyMHN0YXJ0dXB8ZW58MHwwfHx8MTc1NjMzOTY1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build and Sell a SaaS Without Overwhelm")
-*How to Build and Sell a SaaS Without Overwhelm - Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn) on [Unsplash](https://unsplash.com/photos/a-lit-up-sign-that-says-service-i-and-x-C1wiFOegks4)*
+{{< figure src="https://images.unsplash.com/photo-1619243142206-381c5aeda31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTYWFTJTIwb25saW5lJTIwc2VydmljZSUyMHN0YXJ0dXB8ZW58MHwwfHx8MTc1NjMzOTY1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A lit up sign that says service i and x" title="How to Build and Sell a SaaS Without Overwhelm" caption="How to Build and Sell a SaaS Without Overwhelm - Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn) on [Unsplash](https://unsplash.com/photos/a-lit-up-sign-that-says-service-i-and-x-C1wiFOegks4)" >}}
 
 ## Know Your Ideal Customer
 
@@ -66,8 +64,7 @@ For SaaS, consider offering both monthly and yearly subscriptions. Yearly plans 
 
 For freelancers and small agencies, my SaaS Retainer is an all-in-one solution. It handles emails, team communication, dashboards, kanban boards, and more. The goal is to let users scale their business without juggling a dozen different tools.
 
-![Photo by Swello](https://images.unsplash.com/photo-1712217559099-a1fd2318fcb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTYWFTJTIwb25saW5lJTIwc2VydmljZSUyMHN0YXJ0dXB8ZW58MHwwfHx8MTc1NjMzOTY1OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build and Sell a SaaS Without Overwhelm")
-*How to Build and Sell a SaaS Without Overwhelm - Photo by [Swello](https://unsplash.com/@getswello) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-table-LVKTcMLqREM)*
+{{< figure src="https://images.unsplash.com/photo-1712217559099-a1fd2318fcb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTYWFTJTIwb25saW5lJTIwc2VydmljZSUyMHN0YXJ0dXB8ZW58MHwwfHx8MTc1NjMzOTY1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A laptop sitting on top of a table" title="How to Build and Sell a SaaS Without Overwhelm" caption="How to Build and Sell a SaaS Without Overwhelm - Photo by [Swello](https://unsplash.com/@getswello) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-table-LVKTcMLqREM)" >}}
 
 > *The best product is the one people actually use every day.*
 >

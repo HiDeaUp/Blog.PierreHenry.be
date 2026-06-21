@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/adabc2f260f6"
 source_youtube = "https://www.youtube.com/watch?v=v-7VTEj5TiY"
 +++
 
-![Colorful neon sign.](https://images.unsplash.com/photo-1759177670217-72ddf0f95b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NjgyMjAyODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Happiness Portfolio Without Chasing Fame")
-*How to Build a Happiness Portfolio Without Chasing Fame - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/neon-sign-reads-eat-better-be-happier-live-longer-QR9xvv5EBjE)*
+{{< figure src="https://images.unsplash.com/photo-1759177670217-72ddf0f95b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NjgyMjAyODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Colorful neon sign." title="How to Build a Happiness Portfolio Without Chasing Fame" caption="How to Build a Happiness Portfolio Without Chasing Fame - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/neon-sign-reads-eat-better-be-happier-live-longer-QR9xvv5EBjE)" >}}
 
 I spend a lot of my time creating web applications and software. Solving problems through code is something I truly enjoy. But when I step back and look at my life, I realize my purpose goes much deeper than just building apps or chasing after money or recognition. The real goal is to do things that make us happy, that fill us with gratitude.
 
@@ -26,8 +25,7 @@ I’ve also spent years working as a freelancer, building other apps along the w
 >
 > — Dalai Lama
 
-![Photo by Jonathan Cosens Photography](https://images.unsplash.com/photo-1722107761867-99dfc054e7bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NjgyMjAyODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Happiness Portfolio Without Chasing Fame")
-*How to Build a Happiness Portfolio Without Chasing Fame - Photo by [Jonathan Cosens Photography](https://unsplash.com/@jcosens) on [Unsplash](https://unsplash.com/photos/a-smiley-face-painted-on-a-yellow-ball-MRJD6be8cMc)*
+{{< figure src="https://images.unsplash.com/photo-1722107761867-99dfc054e7bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NjgyMjAyODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A smiley face painted on a yellow ball" title="How to Build a Happiness Portfolio Without Chasing Fame" caption="How to Build a Happiness Portfolio Without Chasing Fame - Photo by [Jonathan Cosens Photography](https://unsplash.com/@jcosens) on [Unsplash](https://unsplash.com/photos/a-smiley-face-painted-on-a-yellow-ball-MRJD6be8cMc)" >}}
 
 Everyone should have their own happiness portfolio. It’s not just about work or achievements. It’s about collecting projects, hobbies, or even small moments that make you feel alive. These are the things that feed your well-being and help you grow.
 
@@ -47,8 +45,7 @@ Building your happiness portfolio is about more than just ticking off goals. It�
 
 ## Key Takeaways
 
-![Photo by chaitanya pillala](https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NjgyMjAyODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Happiness Portfolio Without Chasing Fame")
-*How to Build a Happiness Portfolio Without Chasing Fame - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)*
+{{< figure src="https://images.unsplash.com/photo-1565945887714-d5139f4eb0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NjgyMjAyODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball" title="How to Build a Happiness Portfolio Without Chasing Fame" caption="How to Build a Happiness Portfolio Without Chasing Fame - Photo by [chaitanya pillala](https://unsplash.com/@chaiclikz) on [Unsplash](https://unsplash.com/photos/smiley-ball-zDDdoYqQ64U)" >}}
 
 - *Create your own happiness portfolio by collecting projects and moments that make you feel grateful.*
 - *Focus on what brings you joy, not just money or recognition.*

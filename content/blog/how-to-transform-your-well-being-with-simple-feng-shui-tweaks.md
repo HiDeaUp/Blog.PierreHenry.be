@@ -12,8 +12,7 @@ original_title = "Interview: Le Feng Shui chez-soi 🏡"
 source_medium = "https://medium.com/@phenrysay/e918c6f85e7d"
 +++
 
-![A squirrel taking his chance at stealing from Buddha. ](https://images.unsplash.com/photo-1597228986273-33b60fe1fc88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBlbmVyZ3klMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTU2MDE3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Well-being With Simple Feng Shui Tweaks")
-*How to Transform Your Well-being With Simple Feng Shui Tweaks - Photo by [Sashi Shrestha](https://unsplash.com/@posterkidd) on [Unsplash](https://unsplash.com/photos/white-ceramic-figurine-on-brown-wooden-table-wZsVbUL1yuM)*
+{{< figure src="https://images.unsplash.com/photo-1597228986273-33b60fe1fc88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBlbmVyZ3klMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTU2MDE3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A squirrel taking his chance at stealing from Buddha." title="How to Transform Your Well-being With Simple Feng Shui Tweaks" caption="How to Transform Your Well-being With Simple Feng Shui Tweaks - Photo by [Sashi Shrestha](https://unsplash.com/@posterkidd) on [Unsplash](https://unsplash.com/photos/white-ceramic-figurine-on-brown-wooden-table-wZsVbUL1yuM)" >}}
 
 Feng Shui is more than just a trend or a decorative style—it’s a way of living that helps us feel better in our own homes. Many people think Feng Shui is only about how you arrange your furniture, where you put your windows, or the way your house is built. But its influence goes much deeper, often affecting our minds in ways we don’t even notice. Sometimes, we struggle to sleep, feel uneasy, or even get sick, and we don’t realize that the arrangement of our living space might be the cause.
 
@@ -31,8 +30,7 @@ Where you place your bed matters. If your bed is between the door and the window
 
 The same goes for your desk. If there’s an open door behind you, you may not feel fully relaxed or focused, because part of your mind is always alert to what might come through that door. It’s a survival instinct. Rounded furniture and soft shapes help us feel less threatened, while beams on the ceiling or low, uneven ceilings can create a sense of pressure or discomfort.
 
-![Photo by John Collins](https://images.unsplash.com/photo-1579016759615-dcfd5813b6ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBlbmVyZ3klMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTU2MDE3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Well-being With Simple Feng Shui Tweaks")
-*How to Transform Your Well-being With Simple Feng Shui Tweaks - Photo by [John Collins](https://unsplash.com/@johncollins1) on [Unsplash](https://unsplash.com/photos/gautama-buddha-figurine-D3b88gN15u4)*
+{{< figure src="https://images.unsplash.com/photo-1579016759615-dcfd5813b6ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBlbmVyZ3klMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTU2MDE3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gautama buddha" title="How to Transform Your Well-being With Simple Feng Shui Tweaks" caption="How to Transform Your Well-being With Simple Feng Shui Tweaks - Photo by [John Collins](https://unsplash.com/@johncollins1) on [Unsplash](https://unsplash.com/photos/gautama-buddha-figurine-D3b88gN15u4)" >}}
 
 ## Mirrors, Light, and Entryways
 
@@ -54,8 +52,7 @@ When storing food, keep it in dark, cool places, and avoid having the kitchen do
 
 If you can’t change the structure of your home, you can still make small changes—move your bed, add plants, or create a virtual entryway. Even these little adjustments can make a big difference in how you feel.
 
-![Photo by Ademola Rahman](https://images.unsplash.com/photo-1622980675814-6e6fdcc0f896?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBlbmVyZ3klMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTU2MDE3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Well-being With Simple Feng Shui Tweaks")
-*How to Transform Your Well-being With Simple Feng Shui Tweaks - Photo by [Ademola Rahman](https://unsplash.com/@ademolarahman) on [Unsplash](https://unsplash.com/photos/gold-buddha-figurine-on-white-table-qv02vu8CO6U)*
+{{< figure src="https://images.unsplash.com/photo-1622980675814-6e6fdcc0f896?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGZW5nJTIwU2h1aSUyMGhvbWUlMjBlbmVyZ3klMjB3ZWxsLWJlaW5nfGVufDB8MHx8fDE3NTU2MDE3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gold buddha on white table" title="How to Transform Your Well-being With Simple Feng Shui Tweaks" caption="How to Transform Your Well-being With Simple Feng Shui Tweaks - Photo by [Ademola Rahman](https://unsplash.com/@ademolarahman) on [Unsplash](https://unsplash.com/photos/gold-buddha-figurine-on-white-table-qv02vu8CO6U)" >}}
 
 > *Our homes are a reflection of our inner world. When we change our space, we change ourselves.*
 > — Unknown

@@ -12,8 +12,7 @@ original_title = "Vas y ! Passe à l'action avec l’Active Learning 💡"
 source_medium = "https://medium.com/@phenrysay/2cb9a196068a"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992959-79448b2b962d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhY3RpdmUlMjBsZWFybmluZyUyMGV4cGVyaWVudGlhbCUyMGxlYXJuaW5nJTIwdGFrZSUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDExMjUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Faster by Doing Instead of Watching")
-*How to Learn Faster by Doing Instead of Watching - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-an-inquiry-based-learning-sign-enp5d6vPhZo)*
+{{< figure src="https://images.unsplash.com/photo-1695370992959-79448b2b962d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxhY3RpdmUlMjBsZWFybmluZyUyMGV4cGVyaWVudGlhbCUyMGxlYXJuaW5nJTIwdGFrZSUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDExMjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with an inquiry based sign" title="How to Learn Faster by Doing Instead of Watching" caption="How to Learn Faster by Doing Instead of Watching - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-an-inquiry-based-learning-sign-enp5d6vPhZo)" >}}
 
 There’s something powerful about learning something new and putting it into practice right away. When you act on what you learn, it sticks in your mind much more deeply. The information gets reinforced, and you start to see real change. But let’s be honest: most of us don’t take that step. We’d rather watch videos, documentaries, or just dream from the comfort of our couch.
 
@@ -23,8 +22,7 @@ You can watch the most beautiful videos, but if you never take action, you’re 
 
 What truly matters are your own experiences. Building your life around real moments and memories is what changes everything. That’s why I encourage you to shift from being a passive observer to an active doer. The next time you learn something new or watch an inspiring documentary, ask yourself: “How can I put this into practice, even in a small way?”
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live, learn, love, life, live life, live learn love, keep learning, stay open, holistic, mindfulness, loving, learning, living, ](https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhY3RpdmUlMjBsZWFybmluZyUyMGV4cGVyaWVudGlhbCUyMGxlYXJuaW5nJTIwdGFrZSUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDExMjUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Faster by Doing Instead of Watching")
-*How to Learn Faster by Doing Instead of Watching - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)*
+{{< figure src="https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhY3RpdmUlMjBsZWFybmluZyUyMGV4cGVyaWVudGlhbCUyMGxlYXJuaW5nJTIwdGFrZSUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDExMjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Learn Faster by Doing Instead of Watching" caption="How to Learn Faster by Doing Instead of Watching - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)" >}}
 
 Let’s say you see a documentary about a country that fascinates you. Instead of just dreaming, check if you can take a couple of weeks off work. Maybe you already have some vacation hours saved up. Why not use them to go on that trip? Often, we make excuses—work, family, responsibilities. But if something is truly important to you, you’ll find a way. And if the people around you don’t understand, maybe it’s time to ask yourself if they’re supporting your happiness.
 
@@ -40,8 +38,7 @@ I’ll be honest with you—I’m tired today. I barely slept last night, and I 
 
 ---
 
-![Photo by Aleksandar Andreev](https://images.unsplash.com/photo-1717689410647-ccef636c0dd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhY3RpdmUlMjBsZWFybmluZyUyMGV4cGVyaWVudGlhbCUyMGxlYXJuaW5nJTIwdGFrZSUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDExMjUwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn Faster by Doing Instead of Watching")
-*How to Learn Faster by Doing Instead of Watching - Photo by [Aleksandar Andreev](https://unsplash.com/@andreevaleksandar) on [Unsplash](https://unsplash.com/photos/a-group-of-children-holding-hands-in-a-park-lbA4PElMsQk)*
+{{< figure src="https://images.unsplash.com/photo-1717689410647-ccef636c0dd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhY3RpdmUlMjBsZWFybmluZyUyMGV4cGVyaWVudGlhbCUyMGxlYXJuaW5nJTIwdGFrZSUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDExMjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of holding hands in a park" title="How to Learn Faster by Doing Instead of Watching" caption="How to Learn Faster by Doing Instead of Watching - Photo by [Aleksandar Andreev](https://unsplash.com/@andreevaleksandar) on [Unsplash](https://unsplash.com/photos/a-group-of-children-holding-hands-in-a-park-lbA4PElMsQk)" >}}
 
 ## Key Takeaways
 

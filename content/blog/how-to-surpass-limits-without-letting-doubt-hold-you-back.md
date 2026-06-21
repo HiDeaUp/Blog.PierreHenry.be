@@ -12,8 +12,7 @@ original_title = "DÉPASSEMENT : Le succès excède notre imagination"
 source_medium = "https://medium.com/@phenrysay/ee25a27cbfc8"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwOTU5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Surpass Limits Without Letting Doubt Hold You Back")
-*How to Surpass Limits Without Letting Doubt Hold You Back - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwOTU5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Surpass Limits Without Letting Doubt Hold You Back" caption="How to Surpass Limits Without Letting Doubt Hold You Back - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Have you ever noticed how the success we achieve often goes far beyond what we once imagined? This simple idea completely changed my life. We tend to think our imagination sets the boundaries for what we can do, but in reality, our actual success often exceeds those limits.
 
@@ -21,8 +20,7 @@ The main obstacle isn’t our ability, but the mental barriers we create for our
 
 But what if, instead of searching for success as if it were some object to find, we focused on becoming the kind of person who can achieve what we want? The truth is, you are capable of much more than you think. Sometimes, all it takes is a step back to realize you can do it. I often go for walks in a small park near my place. It’s nothing fancy, but it helps me clear my mind. Even in this simple setting, I find the space to reflect and recharge. Taking a break like this can help you see your life from a new angle and remind you that you have what it takes.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwOTU5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Surpass Limits Without Letting Doubt Hold You Back")
-*How to Surpass Limits Without Letting Doubt Hold You Back - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwOTU5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Surpass Limits Without Letting Doubt Hold You Back" caption="How to Surpass Limits Without Letting Doubt Hold You Back - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 However, motivation alone won’t get you there. Motivation fades. What really matters is building a routine. A solid daily routine, even if it’s just ten minutes twice a day, adds up over time. Consistency is what pays off. When you break your routine, like skipping a few days, it’s always harder to start again. That’s why regularity is key. Don’t set limits for yourself before you’ve even begun. Of course, you can’t do the impossible, but most people don’t even know where their real limits are.
 
@@ -38,8 +36,7 @@ Remember this: the success of any person almost always goes beyond what they ima
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwOTU5OHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Surpass Limits Without Letting Doubt Hold You Back")
-*How to Surpass Limits Without Letting Doubt Hold You Back - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwOTU5OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Surpass Limits Without Letting Doubt Hold You Back" caption="How to Surpass Limits Without Letting Doubt Hold You Back - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 ## Key Takeaways
 - Your success can go far beyond what you imagine.

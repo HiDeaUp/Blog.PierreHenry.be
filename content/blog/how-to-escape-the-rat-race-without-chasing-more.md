@@ -12,8 +12,7 @@ original_title = "Ce qu'il faut NE PAS FAIRE pour ne pas tomber dans la Rat Race
 source_medium = "https://medium.com/@phenrysay/4fb7aafb9f7b"
 +++
 
-![A sneaky playmobil horse popping out from a manhole cover to spy on a group of unsuspecting people.](https://images.unsplash.com/photo-1612355524110-07710b589cf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyYXQlMjByYWNlJTIwY2FyZWVyJTIwbWluZHNldCUyMGVzY2FwaW5nJTIwY29uZm9ybWl0eXxlbnwwfDB8fHwxNzU1NTE0NzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the Rat Race Without Chasing “More”")
-*How to Escape the Rat Race Without Chasing “More” - Photo by [Realmac Software](https://unsplash.com/@realmacsoftware) on [Unsplash](https://unsplash.com/photos/brown-and-white-plastic-toy-Ucg0yh7Rkuc)*
+{{< figure src="https://images.unsplash.com/photo-1612355524110-07710b589cf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyYXQlMjByYWNlJTIwY2FyZWVyJTIwbWluZHNldCUyMGVzY2FwaW5nJTIwY29uZm9ybWl0eXxlbnwwfDB8fHwxNzU1NTE0NzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sneaky playmobil horse popping out from a manhole cover to spy on a group of unsuspecting people." title="How to Escape the Rat Race Without Chasing “More”" caption="How to Escape the Rat Race Without Chasing “More” - Photo by [Realmac Software](https://unsplash.com/@realmacsoftware) on [Unsplash](https://unsplash.com/photos/brown-and-white-plastic-toy-Ucg0yh7Rkuc)" >}}
 
 Have you ever wondered how to avoid falling into the rat race? It’s surprisingly easy to get caught in this trap, even if you work for yourself or freelance. The rat race isn’t just about working in a big company or climbing the corporate ladder. It’s a mindset—a constant push for more, for better, for what others expect.
 
@@ -35,8 +34,7 @@ Even as a freelancer, you chase more projects, more money, more recognition. You
 
 It doesn’t stop at work. There’s pressure to start a family, buy a certain kind of house in a certain neighborhood, drive a certain car. If you don’t have children, people ask why. If you have only one child, they pity them for not having siblings. So you make choices not because you want to, but because you feel you have to fit in.
 
-![Urbex graffiti tags animal](https://images.unsplash.com/photo-1512811409797-5057845931b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyYXQlMjByYWNlJTIwY2FyZWVyJTIwbWluZHNldCUyMGVzY2FwaW5nJTIwY29uZm9ybWl0eXxlbnwwfDB8fHwxNzU1NTE0NzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the Rat Race Without Chasing “More”")
-*How to Escape the Rat Race Without Chasing “More” - Photo by [Taton Moïse](https://unsplash.com/@moyse) on [Unsplash](https://unsplash.com/photos/rat-graffiti-cart-oM8ePxGSwso)*
+{{< figure src="https://images.unsplash.com/photo-1512811409797-5057845931b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyYXQlMjByYWNlJTIwY2FyZWVyJTIwbWluZHNldCUyMGVzY2FwaW5nJTIwY29uZm9ybWl0eXxlbnwwfDB8fHwxNzU1NTE0NzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Urbex graffiti tags animal" title="How to Escape the Rat Race Without Chasing “More”" caption="How to Escape the Rat Race Without Chasing “More” - Photo by [Taton Moïse](https://unsplash.com/@moyse) on [Unsplash](https://unsplash.com/photos/rat-graffiti-cart-oM8ePxGSwso)" >}}
 
 All these things come with a cost—financial and personal. You work even harder to afford them, and the cycle continues.
 
@@ -62,8 +60,7 @@ You don’t have to make huge changes overnight. Sometimes, a small shift is eno
 
 If you want to travel but your partner isn’t interested, maybe you go alone and come back refreshed. If you love someone, you want them to be happy, too. There’s always a way to do something, even if it’s not perfect.
 
-![Photo by James Wainscoat](https://images.unsplash.com/photo-1578819207934-56383fcdfb8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyYXQlMjByYWNlJTIwY2FyZWVyJTIwbWluZHNldCUyMGVzY2FwaW5nJTIwY29uZm9ybWl0eXxlbnwwfDB8fHwxNzU1NTE0NzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the Rat Race Without Chasing “More”")
-*How to Escape the Rat Race Without Chasing “More” - Photo by [James Wainscoat](https://unsplash.com/@tumbao1949) on [Unsplash](https://unsplash.com/photos/white-mouse-lot-toy-rjdd1PBqnXg)*
+{{< figure src="https://images.unsplash.com/photo-1578819207934-56383fcdfb8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyYXQlMjByYWNlJTIwY2FyZWVyJTIwbWluZHNldCUyMGVzY2FwaW5nJTIwY29uZm9ybWl0eXxlbnwwfDB8fHwxNzU1NTE0NzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White mouse lot toy" title="How to Escape the Rat Race Without Chasing “More”" caption="How to Escape the Rat Race Without Chasing “More” - Photo by [James Wainscoat](https://unsplash.com/@tumbao1949) on [Unsplash](https://unsplash.com/photos/white-mouse-lot-toy-rjdd1PBqnXg)" >}}
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 

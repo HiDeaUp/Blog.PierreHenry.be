@@ -12,9 +12,7 @@ original_title = "Ce rituel de self-care va CHANGER ta vie ! #réussite #santé 
 source_medium = "https://medium.com/@phenrysay/dc835ca55f07"
 +++
 
-![Skincare
-](https://images.unsplash.com/photo-1594332322527-08753d4473c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBza2luJTIwaGVhbHRoJTIwc3Vuc2NyZWVufGVufDB8MHx8fDE3NTU0MTkyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Protect Your Skin and Health Without Sacrificing Sun Time")
-*How to Protect Your Skin and Health Without Sacrificing Sun Time - Photo by [Arthur Pereira](https://unsplash.com/@arthurpcds) on [Unsplash](https://unsplash.com/photos/person-holding-blue-and-white-tube-bottle-0oB1h0MA_ZA)*
+{{< figure src="https://images.unsplash.com/photo-1594332322527-08753d4473c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBza2luJTIwaGVhbHRoJTIwc3Vuc2NyZWVufGVufDB8MHx8fDE3NTU0MTkyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Skincare" title="How to Protect Your Skin and Health Without Sacrificing Sun Time" caption="How to Protect Your Skin and Health Without Sacrificing Sun Time - Photo by [Arthur Pereira](https://unsplash.com/@arthurpcds) on [Unsplash](https://unsplash.com/photos/person-holding-blue-and-white-tube-bottle-0oB1h0MA_ZA)" >}}
 
 ### A little sun, a little care, a big difference
 
@@ -30,8 +28,7 @@ So, protect your skin. Protect yourself. And don’t stop there—guard yourself
 
 Taking care of yourself isn’t just about sunscreen or healthy habits. It’s about making choices every day to protect your energy, your time, and your happiness. When you do that, you’re not just surviving—you’re thriving.
 
-![Photo by PLANTADEA](https://images.unsplash.com/photo-1744117614606-537f93e908d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBza2luJTIwaGVhbHRoJTIwc3Vuc2NyZWVufGVufDB8MHx8fDE3NTU0MTkyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Protect Your Skin and Health Without Sacrificing Sun Time")
-*How to Protect Your Skin and Health Without Sacrificing Sun Time - Photo by [PLANTADEA](https://unsplash.com/@plantadea) on [Unsplash](https://unsplash.com/photos/woman-holds-skincare-product-by-the-lake-Z1lyoycvci0)*
+{{< figure src="https://images.unsplash.com/photo-1744117614606-537f93e908d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBza2luJTIwaGVhbHRoJTIwc3Vuc2NyZWVufGVufDB8MHx8fDE3NTU0MTkyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman holds product by the lake" title="How to Protect Your Skin and Health Without Sacrificing Sun Time" caption="How to Protect Your Skin and Health Without Sacrificing Sun Time - Photo by [PLANTADEA](https://unsplash.com/@plantadea) on [Unsplash](https://unsplash.com/photos/woman-holds-skincare-product-by-the-lake-Z1lyoycvci0)" >}}
 
 > _Take care of your body. It’s the only place you have to live._
 > — Jim Rohn
@@ -50,8 +47,7 @@ Taking care of yourself isn’t just about sunscreen or healthy habits. It’s a
 
 ## Action Steps
 
-![Photo by Clare Neilson](https://images.unsplash.com/photo-1646562292858-bc81bc260ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBza2luJTIwaGVhbHRoJTIwc3Vuc2NyZWVufGVufDB8MHx8fDE3NTU0MTkyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Protect Your Skin and Health Without Sacrificing Sun Time")
-*How to Protect Your Skin and Health Without Sacrificing Sun Time - Photo by [Clare Neilson](https://unsplash.com/@claremakes) on [Unsplash](https://unsplash.com/photos/a-white-hat-next-to-a-pool-with-a-jar-of-sunscreen-Z2_zBbVPH1Q)*
+{{< figure src="https://images.unsplash.com/photo-1646562292858-bc81bc260ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBza2luJTIwaGVhbHRoJTIwc3Vuc2NyZWVufGVufDB8MHx8fDE3NTU0MTkyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A white hat next to a pool with a jar of" title="How to Protect Your Skin and Health Without Sacrificing Sun Time" caption="How to Protect Your Skin and Health Without Sacrificing Sun Time - Photo by [Clare Neilson](https://unsplash.com/@claremakes) on [Unsplash](https://unsplash.com/photos/a-white-hat-next-to-a-pool-with-a-jar-of-sunscreen-Z2_zBbVPH1Q)" >}}
 
 - Apply sunscreen and practice daily self-care.
 - Be mindful of how you spend your time.

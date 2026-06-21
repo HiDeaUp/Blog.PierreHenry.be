@@ -13,7 +13,7 @@ source_medium = "https://medium.com/@phenrysay/7b0c95edee39"
 source_youtube = "https://www.youtube.com/watch?v=nhhd1T_lpXo"
 +++
 
-![Person holding purple and pink box - Photo by Eden Constantino on Unsplash](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxNb3ZlJTIwRm9yd2FyZCUyMG9yJTIwU3RheSUyMFN0dWNrJTNBJTIwVGhlJTIwU2VjcmV0JTIwdG8lMjBHZXR0aW5nJTIwVGhpbmdzJTIwRG9uZXxlbnwwfDB8fHwxNzc0MDUwOTE5fDA&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxNb3ZlJTIwRm9yd2FyZCUyMG9yJTIwU3RheSUyMFN0dWNrJTNBJTIwVGhlJTIwU2VjcmV0JTIwdG8lMjBHZXR0aW5nJTIwVGhpbmdzJTIwRG9uZXxlbnwwfDB8fHwxNzc0MDUwOTE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box - Photo by Eden Constantino on Unsplash" >}}
 
 **Move Forward Without Hesitation**
 
@@ -30,7 +30,7 @@ Taking action is often the hardest step. Many people wait for the stars to align
 
 It is tempting to juggle several projects at once, thinking that you will achieve more. But spreading your energy too thin rarely leads to real results. When you focus all your energy on a single goal, you give yourself the best chance to succeed. Imagine pouring all your effort into one project instead of dividing it between two or three. The difference is huge.
 
-![Brown wooden letter t-letter - Photo by Brett Jordan on Unsplash](https://images.unsplash.com/photo-1603812079237-c3ec68eb9933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxNb3ZlJTIwRm9yd2FyZCUyMG9yJTIwU3RheSUyMFN0dWNrJTNBJTIwVGhlJTIwU2VjcmV0JTIwdG8lMjBHZXR0aW5nJTIwVGhpbmdzJTIwRG9uZXxlbnwwfDB8fHwxNzc0MDUwOTE5fDA&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1603812079237-c3ec68eb9933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxNb3ZlJTIwRm9yd2FyZCUyMG9yJTIwU3RheSUyMFN0dWNrJTNBJTIwVGhlJTIwU2VjcmV0JTIwdG8lMjBHZXR0aW5nJTIwVGhpbmdzJTIwRG9uZXxlbnwwfDB8fHwxNzc0MDUwOTE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter t-letter - Photo by Brett Jordan on Unsplash" >}}
 
 Think about it: when you put your heart and mind into one thing, you are not just working harder, you are working smarter. You are betting everything on making that one thing happen. This is how real progress is made.
 
@@ -50,7 +50,7 @@ Once you have chosen your project, commit to it fully. Pour all your energy into
 
 ## Action Steps to Move Forward
 
-![Person holding purple and white card - Photo by Eden Constantino on Unsplash](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxNb3ZlJTIwRm9yd2FyZCUyMG9yJTIwU3RheSUyMFN0dWNrJTNBJTIwVGhlJTIwU2VjcmV0JTIwdG8lMjBHZXR0aW5nJTIwVGhpbmdzJTIwRG9uZXxlbnwwfDB8fHwxNzc0MDUwOTE5fDA&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxNb3ZlJTIwRm9yd2FyZCUyMG9yJTIwU3RheSUyMFN0dWNrJTNBJTIwVGhlJTIwU2VjcmV0JTIwdG8lMjBHZXR0aW5nJTIwVGhpbmdzJTIwRG9uZXxlbnwwfDB8fHwxNzc0MDUwOTE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card - Photo by Eden Constantino on Unsplash" >}}
 
 - Pick one project or goal that matters most to you right now.
 - Visualize the end result. See yourself having already achieved it.

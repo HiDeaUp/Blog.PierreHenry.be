@@ -12,8 +12,7 @@ original_title = "La psychologie des couleurs. Je partage l'impact des couleurs"
 source_medium = "https://medium.com/@phenrysay/2bd83246ce24"
 +++
 
-![Colourful inspiration for a great mood!](https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2xvciUyMHBzeWNob2xvZ3klMjBtb29kJTIwaW5mbHVlbmNlJTIwY29sb3IlMjBpbXBhY3R8ZW58MHwwfHx8MTc0OTMwOTYyM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Colors Shape Your Mood Without You Noticing")
-*How Colors Shape Your Mood Without You Noticing - Photo by [Janita Sumeiko](https://unsplash.com/@aajanita) on [Unsplash](https://unsplash.com/photos/yellow-painted-wall-ZK1WQDMQvik)*
+{{< figure src="https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2xvciUyMHBzeWNob2xvZ3klMjBtb29kJTIwaW5mbHVlbmNlJTIwY29sb3IlMjBpbXBhY3R8ZW58MHwwfHx8MTc0OTMwOTYyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Colourful inspiration for a great mood!" title="How Colors Shape Your Mood Without You Noticing" caption="How Colors Shape Your Mood Without You Noticing - Photo by [Janita Sumeiko](https://unsplash.com/@aajanita) on [Unsplash](https://unsplash.com/photos/yellow-painted-wall-ZK1WQDMQvik)" >}}
 
 Colors are everywhere, quietly soaking into our lives. We might not notice them, but they shape our moods, our decisions, and even the way we see the world. You could live for years in a room without ever realizing that the colors around you are guiding your thoughts, your feelings, and sometimes even your destiny.
 
@@ -23,8 +22,7 @@ If you live in a space with little natural light and you choose colors like blac
 
 On the other hand, softer colors can have the opposite effect. Pale blue or even pale yellow can spark creativity and calm. While bright yellow or red might push you toward agitation, pale blue can bring a sense of peace. It's no accident that we often associate blue with calm and red with heat or excitement.
 
-![Photo by Robert Katzki](https://images.unsplash.com/photo-1502691876148-a84978e59af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb2xvciUyMHBzeWNob2xvZ3klMjBtb29kJTIwaW5mbHVlbmNlJTIwY29sb3IlMjBpbXBhY3R8ZW58MHwwfHx8MTc0OTMwOTYyM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Colors Shape Your Mood Without You Noticing")
-*How Colors Shape Your Mood Without You Noticing - Photo by [Robert Katzki](https://unsplash.com/@ro_ka) on [Unsplash](https://unsplash.com/photos/multicolored-wall-in-shallow-focus-photography-jbtfM0XBeRc)*
+{{< figure src="https://images.unsplash.com/photo-1502691876148-a84978e59af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb2xvciUyMHBzeWNob2xvZ3klMjBtb29kJTIwaW5mbHVlbmNlJTIwY29sb3IlMjBpbXBhY3R8ZW58MHwwfHx8MTc0OTMwOTYyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Wall in shallow focus" title="How Colors Shape Your Mood Without You Noticing" caption="How Colors Shape Your Mood Without You Noticing - Photo by [Robert Katzki](https://unsplash.com/@ro_ka) on [Unsplash](https://unsplash.com/photos/multicolored-wall-in-shallow-focus-photography-jbtfM0XBeRc)" >}}
 
 This connection between color and feeling goes beyond just our homes. Even in everyday products, colors send us messages. For example, we often think of hot drinks as being linked to red, and cold drinks to blue. That's why cold drinks often have blue labels. The color of the label tells our brain about the temperature inside, even before we take a sip.
 
@@ -48,8 +46,7 @@ All these little color cues change how we act, how we feel, and even how creativ
 > *“Colors, like features, follow the changes of the emotions.”*  
 > — Pablo Picasso
 
-![Sometimes, a greyish day in February can only be made better with a hefty array of tropical fruits, to remind you sunny days are just around the corner.](https://images.unsplash.com/photo-1487376480913-24046456a727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb2xvciUyMHBzeWNob2xvZ3klMjBtb29kJTIwaW5mbHVlbmNlJTIwY29sb3IlMjBpbXBhY3R8ZW58MHwwfHx8MTc0OTMwOTYyM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Colors Shape Your Mood Without You Noticing")
-*How Colors Shape Your Mood Without You Noticing - Photo by [Brooke Lark](https://unsplash.com/@brookelark) on [Unsplash](https://unsplash.com/photos/flatlay-photography-of-citrus-and-dragon-atzWFItRHy8)*
+{{< figure src="https://images.unsplash.com/photo-1487376480913-24046456a727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb2xvciUyMHBzeWNob2xvZ3klMjBtb29kJTIwaW5mbHVlbmNlJTIwY29sb3IlMjBpbXBhY3R8ZW58MHwwfHx8MTc0OTMwOTYyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Sometimes, a greyish day in February can only be made better with a hefty array of tropical fruits, to remind you sunny days are just around the corner." title="How Colors Shape Your Mood Without You Noticing" caption="How Colors Shape Your Mood Without You Noticing - Photo by [Brooke Lark](https://unsplash.com/@brookelark) on [Unsplash](https://unsplash.com/photos/flatlay-photography-of-citrus-and-dragon-atzWFItRHy8)" >}}
 
 ---
 

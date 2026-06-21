@@ -12,8 +12,7 @@ original_title = "Garder des routines qui augmentent notre succès"
 source_medium = "https://medium.com/@phenrysay/5e9df3f4b4d5"
 +++
 
-![Photo by Solving Healthcare](https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzbGVlcCUyMHJvdXRpbmUlMjBzdWNjZXNzJTIwaGFiaXRzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MTY1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Success by Waking Up at the Same Time Every Day")
-*How to Boost Your Success by Waking Up at the Same Time Every Day - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)*
+{{< figure src="https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzbGVlcCUyMHJvdXRpbmUlMjBzdWNjZXNzJTIwaGFiaXRzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MTY1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man laying in bed with a clock on top of him nqr6 Ix22EQ" title="How to Boost Your Success by Waking Up at the Same Time Every Day" caption="How to Boost Your Success by Waking Up at the Same Time Every Day - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)" >}}
 
 When it comes to routines, nothing beats the impact of a regular sleep schedule. It’s not just about going to bed at a fixed hour, but also about waking up at the same time—every single day, even on weekends. This simple habit can change everything, from your energy to your health.
 
@@ -23,8 +22,7 @@ I remember working in a big office tower in Sydney. The building had all sorts o
 
 Your body loves consistency. If you always wake up at the same time, even on weekends, you’ll notice something amazing: after a while, you’ll start waking up five minutes before your alarm. It becomes automatic. Of course, in winter, it’s tempting to stay in bed, especially if your partner is still sleeping. But if you know what’s good for you, get up and start your day. For me, waking up late makes the whole day feel wasted.
 
-![Exhausted young lady sleeping on laptop at work resting after hard day](https://images.unsplash.com/photo-1713946598572-3d88fcc00291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbGVlcCUyMHJvdXRpbmUlMjBzdWNjZXNzJTIwaGFiaXRzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MTY1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Success by Waking Up at the Same Time Every Day")
-*How to Boost Your Success by Waking Up at the Same Time Every Day - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-laying-her-head-on-a-laptop-Gm20F6kiEhw)*
+{{< figure src="https://images.unsplash.com/photo-1713946598572-3d88fcc00291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbGVlcCUyMHJvdXRpbmUlMjBzdWNjZXNzJTIwaGFiaXRzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MTY1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Exhausted young lady sleeping on laptop at work resting after hard day" title="How to Boost Your Success by Waking Up at the Same Time Every Day" caption="How to Boost Your Success by Waking Up at the Same Time Every Day - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-laying-her-head-on-a-laptop-Gm20F6kiEhw)" >}}
 
 The danger lies in making exceptions. The moment you tell yourself, “Just this once, I’ll sleep in,” it becomes much easier to do it again. One exception leads to another, and soon your routine is gone. That’s why I believe in zero tolerance for exceptions. If you’re exhausted, go to bed earlier, but don’t wake up later. This is for your own good.
 
@@ -40,8 +38,7 @@ The bottom line: keep the habit of waking up at the same time every morning. For
 > *“Discipline is choosing between what you want now and what you want most.”*  
 — Abraham Lincoln
 
-![Photo by Nubelson Fernandes](https://images.unsplash.com/photo-1647942678345-ab6f2c006546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbGVlcCUyMHJvdXRpbmUlMjBzdWNjZXNzJTIwaGFiaXRzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MTY1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Your Success by Waking Up at the Same Time Every Day")
-*How to Boost Your Success by Waking Up at the Same Time Every Day - Photo by [Nubelson Fernandes](https://unsplash.com/@nublson) on [Unsplash](https://unsplash.com/photos/a-man-sleeping-on-a-bed-next-to-a-stack-of-books-9ZctxFWyslk)*
+{{< figure src="https://images.unsplash.com/photo-1647942678345-ab6f2c006546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbGVlcCUyMHJvdXRpbmUlMjBzdWNjZXNzJTIwaGFiaXRzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MTY1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man on a bed next to a stack of books" title="How to Boost Your Success by Waking Up at the Same Time Every Day" caption="How to Boost Your Success by Waking Up at the Same Time Every Day - Photo by [Nubelson Fernandes](https://unsplash.com/@nublson) on [Unsplash](https://unsplash.com/photos/a-man-sleeping-on-a-bed-next-to-a-stack-of-books-9ZctxFWyslk)" >}}
 
 ---
 

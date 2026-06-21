@@ -12,8 +12,7 @@ original_title = "Le vrai DANGER de toujours répéter les MÊMES ACTIONS. Voici
 source_medium = "https://medium.com/@phenrysay/12b9e7fd29e1"
 +++
 
-![Photo by Michael Descharles](https://images.unsplash.com/photo-1565806946558-8d4e1b564c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBjb21mb3J0JTIwem9uZXxlbnwwfDB8fHwxNzY1NDA4MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt New Habits or Stay Stuck in Your Comfort Zone")
-*Adopt New Habits or Stay Stuck in Your Comfort Zone - Photo by [Michael Descharles](https://unsplash.com/@michael_exploring) on [Unsplash](https://unsplash.com/photos/person-standing-on-mountain-_Dq9gi7U2sU)*
+{{< figure src="https://images.unsplash.com/photo-1565806946558-8d4e1b564c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBjb21mb3J0JTIwem9uZXxlbnwwfDB8fHwxNzY1NDA4MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person on" title="Adopt New Habits or Stay Stuck in Your Comfort Zone" caption="Adopt New Habits or Stay Stuck in Your Comfort Zone - Photo by [Michael Descharles](https://unsplash.com/@michael_exploring) on [Unsplash](https://unsplash.com/photos/person-standing-on-mountain-_Dq9gi7U2sU)" >}}
 
 Have you ever noticed how easy it is to fall into the habit of doing the same thing every day, especially if you’re a trainer, speaker, or coach? You develop your method, you repeat it, and before you know it, your daily routine becomes a loop. It feels comfortable, even safe. But there’s a hidden danger in this comfort: if you never question your approach, never seek feedback, and never try to improve, you risk falling behind without even realizing it.
 
@@ -35,8 +34,7 @@ One of the biggest risks of working alone or being your own boss is the lack of 
 
 A practical approach is to keep track of the feedback you receive. If you notice that the same point comes up three or four times, it’s probably worth paying attention to. This is a simple way to filter out the noise and focus on what really matters.
 
-![View of the flat countryside under fog](https://images.unsplash.com/photo-1463316127144-58d3a7571c6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBjb21mb3J0JTIwem9uZXxlbnwwfDB8fHwxNzY1NDA4MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt New Habits or Stay Stuck in Your Comfort Zone")
-*Adopt New Habits or Stay Stuck in Your Comfort Zone - Photo by [Rafael Morais](https://unsplash.com/@rafmrs) on [Unsplash](https://unsplash.com/photos/man-standing-on-a-rock-G9zkaRjVOS4)*
+{{< figure src="https://images.unsplash.com/photo-1463316127144-58d3a7571c6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBjb21mb3J0JTIwem9uZXxlbnwwfDB8fHwxNzY1NDA4MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="View of the flat countryside under fog" title="Adopt New Habits or Stay Stuck in Your Comfort Zone" caption="Adopt New Habits or Stay Stuck in Your Comfort Zone - Photo by [Rafael Morais](https://unsplash.com/@rafmrs) on [Unsplash](https://unsplash.com/photos/man-standing-on-a-rock-G9zkaRjVOS4)" >}}
 
 ## Learning Is Useless Without Action
 
@@ -64,8 +62,7 @@ Always ask yourself: how can I offer something better to my clients, to the peop
 >
 > — Arthur C. Clarke
 
-![Man climbing during summer](https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBjb21mb3J0JTIwem9uZXxlbnwwfDB8fHwxNzY1NDA4MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt New Habits or Stay Stuck in Your Comfort Zone")
-*Adopt New Habits or Stay Stuck in Your Comfort Zone - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)*
+{{< figure src="https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBjb21mb3J0JTIwem9uZXxlbnwwfDB8fHwxNzY1NDA4MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man climbing during summer" title="Adopt New Habits or Stay Stuck in Your Comfort Zone" caption="Adopt New Habits or Stay Stuck in Your Comfort Zone - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)" >}}
 
 ## Keep Raising the Bar
 

@@ -12,8 +12,7 @@ original_title = "Une productivité de folie. Possible ?"
 source_medium = "https://medium.com/@phenrysay/4df80f9248b7"
 +++
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGNvbmNlbnRyYXRpb258ZW58MHwwfHx8MTc1NzQ4MTUyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Doing Less—Without Burnout")
-*How to Achieve More by Doing Less—Without Burnout - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGNvbmNlbnRyYXRpb258ZW58MHwwfHx8MTc1NzQ4MTUyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Achieve More by Doing Less—Without Burnout" caption="How to Achieve More by Doing Less—Without Burnout - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 When it comes to getting things done, nothing beats the power of true concentration. If you want to do something well—really well—you need to focus on just one thing at a time. This is the secret behind not only mastering your craft but also freeing up more time for yourself. Trying to do everything at once only leads to average results and a constant feeling of being stretched thin.
 
@@ -25,8 +24,7 @@ Let me give you a concrete example. Imagine you work in web marketing. You creat
 
 Studies show that every time you switch tasks, it takes about 15 to 18 minutes to get back into the flow. If you stick to one task, you can master it much faster. It's like the difference between a lamp and a laser. A lamp lights up the whole room, but its energy is spread out. A laser, on the other hand, focuses all its energy on a single point. That point is so powerful it can even cut through things. You want to be like the laser—focus all your energy on one thing and do it extremely well.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGNvbmNlbnRyYXRpb258ZW58MHwwfHx8MTc1NzQ4MTUyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Doing Less—Without Burnout")
-*How to Achieve More by Doing Less—Without Burnout - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGNvbmNlbnRyYXRpb258ZW58MHwwfHx8MTc1NzQ4MTUyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Achieve More by Doing Less—Without Burnout" caption="How to Achieve More by Doing Less—Without Burnout - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 > *Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus.*
 >
@@ -48,8 +46,7 @@ When you focus on less, you move faster and achieve more because you become a tr
 
 ---
 
-![Man drinking a cup of coffee on a laptop. Young man drinks coffee. More of my photos and videos Adobe Stock:http://bit.ly/3RqlciK More of my photos and videos Shutterstock: https://www.shutterstock.com/g/ALEKSANDRBERDYUGIN My email: bermix999@gmail.com](https://images.unsplash.com/photo-1673865641439-bb57a00d9305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGNvbmNlbnRyYXRpb258ZW58MHwwfHx8MTc1NzQ4MTUyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Doing Less—Without Burnout")
-*How to Achieve More by Doing Less—Without Burnout - Photo by [Bermix Studio](https://unsplash.com/@bermixstudio) on [Unsplash](https://unsplash.com/photos/a-man-drinking-a-cup-of-coffee-while-using-a-laptop-pJFnESA-YWI)*
+{{< figure src="https://images.unsplash.com/photo-1673865641439-bb57a00d9305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMGNvbmNlbnRyYXRpb258ZW58MHwwfHx8MTc1NzQ4MTUyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man a cup of coffee while using a laptop pJFnESA YWI" title="How to Achieve More by Doing Less—Without Burnout" caption="How to Achieve More by Doing Less—Without Burnout - Photo by [Bermix Studio](https://unsplash.com/@bermixstudio) on [Unsplash](https://unsplash.com/photos/a-man-drinking-a-cup-of-coffee-while-using-a-laptop-pJFnESA-YWI)" >}}
 
 ## Key Takeaways
 

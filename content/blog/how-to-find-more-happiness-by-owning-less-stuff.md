@@ -12,8 +12,7 @@ original_title = "Moins Tu Possèdes, Plus Tu Es Heureux. Voilà Pourquoi"
 source_medium = "https://medium.com/@phenrysay/cf0803e72db4"
 +++
 
-![Photo by Barbora Polednová](https://images.unsplash.com/photo-1546422401-68b415cbf8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwaGFwcGluZXNzJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzQ4NjM2MzY3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find More Happiness by Owning Less Stuff")
-*How to Find More Happiness by Owning Less Stuff - Photo by [Barbora Polednová](https://unsplash.com/@barborapoledn) on [Unsplash](https://unsplash.com/photos/woman-smiling-face-surrounded-by-flowers-dY7Q-sl77L4)*
+{{< figure src="https://images.unsplash.com/photo-1546422401-68b415cbf8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwaGFwcGluZXNzJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzQ4NjM2MzY3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman smiling face by flowers dY7Q sl77L4" title="How to Find More Happiness by Owning Less Stuff" caption="How to Find More Happiness by Owning Less Stuff - Photo by [Barbora Polednová](https://unsplash.com/@barborapoledn) on [Unsplash](https://unsplash.com/photos/woman-smiling-face-surrounded-by-flowers-dY7Q-sl77L4)" >}}
 
 Let’s talk about simplicity. It’s funny how, in life, we often love to make things more complicated than they need to be. We chase challenges, we want to push ourselves, and even when we create something simple—like a straightforward business—we can’t help but add layers. “What if I do this? Or that?” Suddenly, we’re jumping down rabbit holes, piling on features and options.
 
@@ -25,8 +24,7 @@ This tendency shows up everywhere. It’s human nature to test our limits, to pl
 
 The hard truth is, we need to learn to say no. Ask yourself: Do I really need this? Why am I doing this? Is it truly necessary? The rule of simplicity is about making fewer choices, owning fewer things, and focusing on what really matters. Stick to the basics, the essentials, and let the rest go.
 
-![rubber plant](https://images.unsplash.com/photo-1501004318641-b39e6451bec6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwaGFwcGluZXNzJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzQ4NjM2MzY3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find More Happiness by Owning Less Stuff")
-*How to Find More Happiness by Owning Less Stuff - Photo by [Igor Son](https://unsplash.com/@igorson) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-FV_PxCqgtwc)*
+{{< figure src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwaGFwcGluZXNzJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzQ4NjM2MzY3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="rubber plant" title="How to Find More Happiness by Owning Less Stuff" caption="How to Find More Happiness by Owning Less Stuff - Photo by [Igor Son](https://unsplash.com/@igorson) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-FV_PxCqgtwc)" >}}
 
 This reminds me of scenes from “The Social Network.” Every morning, you see students up early, hustling, always wanting more—more money, more recognition, more stuff. We earn more, so we buy luxury cars or try to pay less tax by making our finances more complicated. But do we really need these things? Often, the answer is no. And all this extra stuff just brings more maintenance, more risk, more headaches.
 
@@ -42,8 +40,7 @@ Think of your achievements as steps on a staircase. Instead of saying, “I did 
 
 So, focus on what’s essential. Ask yourself what you really want—not for show, not for others, but for your own satisfaction. Because in the end, less really is more.
 
-![The beauty of nature](https://images.unsplash.com/photo-1504198266287-1659872e6590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwaGFwcGluZXNzJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzQ4NjM2MzY3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find More Happiness by Owning Less Stuff")
-*How to Find More Happiness by Owning Less Stuff - Photo by [Sarah Dorweiler](https://unsplash.com/@sarahdorweiler) on [Unsplash](https://unsplash.com/photos/green-leaf-photography-9Z1KRIfpBTM)*
+{{< figure src="https://images.unsplash.com/photo-1504198266287-1659872e6590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwaGFwcGluZXNzJTIwc2ltcGxpY2l0eXxlbnwwfDB8fHwxNzQ4NjM2MzY3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="The beauty of nature" title="How to Find More Happiness by Owning Less Stuff" caption="How to Find More Happiness by Owning Less Stuff - Photo by [Sarah Dorweiler](https://unsplash.com/@sarahdorweiler) on [Unsplash](https://unsplash.com/photos/green-leaf-photography-9Z1KRIfpBTM)" >}}
 
 > *“It is not the man who has too little, but the man who craves more, that is poor.”*  
 > — Seneca

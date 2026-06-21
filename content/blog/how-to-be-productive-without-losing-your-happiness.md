@@ -12,8 +12,7 @@ original_title = "Le bonheur productif 🤗"
 source_medium = "https://medium.com/@phenrysay/9a1e1c62eb64"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwcm9kdWN0aXZpdHklMjB3b3JrLWxpZmUlMjBiYWxhbmNlfGVufDB8MHx8fDE3NTY1MTUwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Productive Without Losing Your Happiness")
-*How to Be Productive Without Losing Your Happiness - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwcm9kdWN0aXZpdHklMjB3b3JrLWxpZmUlMjBiYWxhbmNlfGVufDB8MHx8fDE3NTY1MTUwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Be Productive Without Losing Your Happiness" caption="How to Be Productive Without Losing Your Happiness - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Many people see happiness and productivity as two separate things. On one side, there’s happiness, and on the other, productivity, which often feels like a constant challenge. Productivity is usually about pushing yourself, always doing more, and sometimes it feels like running an endless race. You keep sprinting, but instead of feeling satisfied, you end up exhausted. It’s as if you’re always checking the clock, making sure you’re not wasting a single minute, and that pressure can be draining.
 
@@ -23,8 +22,7 @@ But what if there’s a better way? What if you could be productive and happy at
 
 The secret is to change how you see what you do. When you focus less on the clock and more on enjoying your work, you start to feel less stressed. Instead of always racing against time, you can actually enjoy the moment. The key is to choose work that makes you happy, work that helps you grow and feel fulfilled. When you love what you do, productivity becomes a natural part of your day, not a burden.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwcm9kdWN0aXZpdHklMjB3b3JrLWxpZmUlMjBiYWxhbmNlfGVufDB8MHx8fDE3NTY1MTUwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Productive Without Losing Your Happiness")
-*How to Be Productive Without Losing Your Happiness - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBwcm9kdWN0aXZpdHklMjB3b3JrLWxpZmUlMjBiYWxhbmNlfGVufDB8MHx8fDE3NTY1MTUwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Be Productive Without Losing Your Happiness" caption="How to Be Productive Without Losing Your Happiness - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 Think of it like a flower opening up. When you do something you love, you blossom. There’s no need to rush or force yourself. You simply enjoy the process, and what you do becomes meaningful. You might even find yourself looking forward to your tasks, taking a coffee break, reflecting, and asking yourself if you’re still enjoying what you’re doing. If not, maybe it’s time to change things up—switch tasks, take a break, or even delegate what doesn’t bring you joy.
 
@@ -40,8 +38,7 @@ Too much of anything can harm your happiness and well-being. It’s important to
 
 If you want to go even further in improving your life, remember that your environment matters too. Even if you live in a small space, you can create a place that feels good and supports your motivation. It’s not about luxury, but about making the most of what you have.
 
-![Photo by Alessandro Sicari](https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwcm9kdWN0aXZpdHklMjB3b3JrLWxpZmUlMjBiYWxhbmNlfGVufDB8MHx8fDE3NTY1MTUwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Be Productive Without Losing Your Happiness")
-*How to Be Productive Without Losing Your Happiness - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)*
+{{< figure src="https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwcm9kdWN0aXZpdHklMjB3b3JrLWxpZmUlMjBiYWxhbmNlfGVufDB8MHx8fDE3NTY1MTUwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green sweater" title="How to Be Productive Without Losing Your Happiness" caption="How to Be Productive Without Losing Your Happiness - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)" >}}
 
 ---
 

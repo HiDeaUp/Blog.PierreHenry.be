@@ -12,8 +12,7 @@ original_title = "Transformer sa vie en utilisant les lieux comme piliers pour s
 source_medium = "https://medium.com/@phenrysay/372222fb00cf"
 +++
 
-![Photo by Andrea Sánchez](https://images.unsplash.com/photo-1622227876140-d848d750ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1NDE4OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life by Changing Where You Spend Time")
-*How to Change Your Life by Changing Where You Spend Time - Photo by [Andrea Sánchez](https://unsplash.com/@andyspidey) on [Unsplash](https://unsplash.com/photos/green-leaf-on-persons-face-1Z9kF1QesXI)*
+{{< figure src="https://images.unsplash.com/photo-1622227876140-d848d750ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1NDE4OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leaf on persons face" title="How to Change Your Life by Changing Where You Spend Time" caption="How to Change Your Life by Changing Where You Spend Time - Photo by [Andrea Sánchez](https://unsplash.com/@andyspidey) on [Unsplash](https://unsplash.com/photos/green-leaf-on-persons-face-1Z9kF1QesXI)" >}}
 
 Have you ever noticed how certain places make you feel lighter, more inspired, or simply at peace? The environments we choose to spend time in are much more than a backdrop to our lives—they can be powerful sources of renewal and creativity. I’ve found that making a habit of visiting places that calm or inspire me has a real impact on my well-being and my ability to step back and see my life clearly.
 
@@ -27,8 +26,7 @@ Nature is another great ally. Walking in the forest can open your mind and spark
 
 I love sitting on my favorite bench, surrounded by nature and the open bay. If everything around me were concrete, even with a nice view, it wouldn’t have the same effect. The combination of nature and openness is key. If you have a nice window at home, add some plants to bring in that natural touch.
 
-![Life in a small pot](https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1NDE4OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life by Changing Where You Spend Time")
-*How to Change Your Life by Changing Where You Spend Time - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)*
+{{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1NDE4OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Change Your Life by Changing Where You Spend Time" caption="How to Change Your Life by Changing Where You Spend Time - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
 Little rituals help too. I like to make myself a good cup of tea or enjoy some fruit energy balls. Chewing on something, even just a piece of fruit or a snack, can help stimulate your mind and creativity. I used to chew gum all the time as a teenager, but now I prefer healthier snacks. There’s a New Zealand brand I like, but you can make your own energy balls at home. I also use an app called Meal Snap to scan my snacks and check their nutrition scores—it’s a fun way to stay mindful about what I eat.
 
@@ -47,8 +45,7 @@ Take the time to get to know yourself. Ask what you really want, and what you ne
 > _“Time is a train that never stops. When you lose two hours of your life, those are two hours of life—and two hours of death—you can never get back.”_  
 > — Pierre
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1NDE4OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life by Changing Where You Spend Time")
-*How to Change Your Life by Changing Where You Spend Time - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGVudmlyb25tZW50JTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1NDE4OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How to Change Your Life by Changing Where You Spend Time" caption="How to Change Your Life by Changing Where You Spend Time - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 > _“Happiness doesn’t have a price. Sometimes, you have to make sacrifices to make space for a healthier, happier life.”_  
 > — Pierre

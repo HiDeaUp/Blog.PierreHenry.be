@@ -12,8 +12,7 @@ original_title = "Comment réorganiser sa vie comme un SYSTÈME ?"
 source_medium = "https://medium.com/@phenrysay/2d84abce6da6"
 +++
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwb3JnYW5pemF0aW9uJTIwc3lzdGVtcyUyMHRoaW5raW5nJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Life Like a System—Without Burning Out")
-*How to Organize Your Life Like a System—Without Burning Out - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwb3JnYW5pemF0aW9uJTIwc3lzdGVtcyUyMHRoaW5raW5nJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Organize Your Life Like a System—Without Burning Out" caption="How to Organize Your Life Like a System—Without Burning Out - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 Have you ever thought about your days as if they were a system—a kind of engine that keeps you moving forward? Imagine using templates, not just for documents or emails, but for your life. Templates are more than just pre-made forms; they’re themes you can adapt and reuse, shaping them to fit your goals and daily needs.
 
@@ -31,8 +30,7 @@ For example, when I was hiring engineers, I had to interview all kinds of people
 
 That’s why you shouldn’t put off what you want to do today. Tomorrow will be different, and your goals and motivations will shift. Focus on today, because if you don’t, you’ll end up lost in your days.
 
-![Ideas waiting to be had](https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwb3JnYW5pemF0aW9uJTIwc3lzdGVtcyUyMHRoaW5raW5nJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Life Like a System—Without Burning Out")
-*How to Organize Your Life Like a System—Without Burning Out - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/six-white-sticky-notes--1_RZL8BGBM)*
+{{< figure src="https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwb3JnYW5pemF0aW9uJTIwc3lzdGVtcyUyMHRoaW5raW5nJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Ideas waiting to be had" title="How to Organize Your Life Like a System—Without Burning Out" caption="How to Organize Your Life Like a System—Without Burning Out - Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/six-white-sticky-notes--1_RZL8BGBM)" >}}
 
 ## The Power of Methodology
 
@@ -56,8 +54,7 @@ Always ask yourself: Is what I’m doing worth the time I’m spending? Compare 
 > _“You do not rise to the level of your goals. You fall to the level of your systems.”_  
 — James Clear
 
-![Photo by Brett Jordan](https://images.unsplash.com/photo-1561720000-29ba434f1b2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwb3JnYW5pemF0aW9uJTIwc3lzdGVtcyUyMHRoaW5raW5nJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Organize Your Life Like a System—Without Burning Out")
-*How to Organize Your Life Like a System—Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/gray-figure-ELLDKLrXMoA)*
+{{< figure src="https://images.unsplash.com/photo-1561720000-29ba434f1b2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwb3JnYW5pemF0aW9uJTIwc3lzdGVtcyUyMHRoaW5raW5nJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTU0MjEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gray figure" title="How to Organize Your Life Like a System—Without Burning Out" caption="How to Organize Your Life Like a System—Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/gray-figure-ELLDKLrXMoA)" >}}
 
 ---
 

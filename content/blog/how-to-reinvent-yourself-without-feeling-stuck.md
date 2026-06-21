@@ -12,8 +12,7 @@ original_title = "Se réinventer. Supprimer ses limites"
 source_medium = "https://medium.com/@phenrysay/8ad07113cb50"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExOTc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reinvent Yourself Without Feeling Stuck")
-*How to Reinvent Yourself Without Feeling Stuck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExOTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Reinvent Yourself Without Feeling Stuck" caption="How to Reinvent Yourself Without Feeling Stuck - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Reinvention is not just a buzzword. It’s a necessity, both in your personal life and your work. Sometimes, we find ourselves stuck in routines, held back by mental barriers and old habits that keep us from moving forward. These limits often come from our upbringing, our past experiences, or simply the way we’ve always done things. But here’s the truth: the only real limits are the ones we set for ourselves.
 
@@ -23,8 +22,7 @@ It’s easy to get stuck, whether in business or in your personal life. Maybe yo
 
 To move forward, you need to believe in your ideas. Perseverance and determination are important, but so is flexibility. Sometimes, you need to change the rules of the game. If something isn’t working, try a new approach. Changing habits and traditions can be tough, but it’s necessary if you want to grow.
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExOTc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reinvent Yourself Without Feeling Stuck")
-*How to Reinvent Yourself Without Feeling Stuck - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)*
+{{< figure src="https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExOTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word next to blue flowers" title="How to Reinvent Yourself Without Feeling Stuck" caption="How to Reinvent Yourself Without Feeling Stuck - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)" >}}
 
 Reinvention means looking at life from a new angle. It’s about being willing to pivot, whether you run a business or just want to improve your daily routine. Take restaurants, for example. Many owners were hesitant to join delivery platforms like Uber Eats or Deliveroo. It’s understandable—they didn’t want to pay commissions or change their way of working. But these platforms opened up new opportunities and brought in new customers. The same goes for hotels using booking sites, or bookstores selling on Amazon. If you refuse to adapt, you risk falling behind.
 
@@ -44,8 +42,7 @@ So, don’t put off the changes you want to make. Start today. Reinventing yours
 
 ---
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExOTc1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reinvent Yourself Without Feeling Stuck")
-*How to Reinvent Yourself Without Feeling Stuck - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExOTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Reinvent Yourself Without Feeling Stuck" caption="How to Reinvent Yourself Without Feeling Stuck - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "La règle de l’accomplissement 💪"
 source_medium = "https://medium.com/@phenrysay/ecf9d60387dc"
 +++
 
-!["Discipline" bench - Trophy Point at the United States Military Academy at West Point](https://images.unsplash.com/photo-1588406235219-0314e168c5e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaXNjaXBsaW5lJTIwc2VsZi1pbXByb3ZlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYxMTA0NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Discipline or Stay Stuck: The Rule of Accomplishment")
-*Adopt Discipline or Stay Stuck: The Rule of Accomplishment - Photo by [Dave Lowe](https://unsplash.com/@thelowedown) on [Unsplash](https://unsplash.com/photos/text-kkQ7oxgQKeM)*
+{{< figure src="https://images.unsplash.com/photo-1588406235219-0314e168c5e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaXNjaXBsaW5lJTIwc2VsZi1pbXByb3ZlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYxMTA0NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="&quot;Discipline&quot; bench - Trophy Point at the United States Military Academy at West Point" title="Adopt Discipline or Stay Stuck: The Rule of Accomplishment" caption="Adopt Discipline or Stay Stuck: The Rule of Accomplishment - Photo by [Dave Lowe](https://unsplash.com/@thelowedown) on [Unsplash](https://unsplash.com/photos/text-kkQ7oxgQKeM)" >}}
 
 When you start a new project—maybe you want to write a book or learn a new skill by reading three books on a topic—discipline becomes your best friend. It’s not just about being strict with yourself. It’s about building consistency into your days and sticking to a routine, no matter what.
 
@@ -25,8 +24,7 @@ What truly matters is having an outcome in mind. Ask yourself: What result do I 
 
 If you want to be a goldfish expert, you might start by buying a few goldfish, observing them, making videos, writing a book, organizing meetups, or hosting events at home. Step by step, you’ll build your expertise. But every day, you need to set aside one or two hours to move closer to that goal.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695313486452-db8f5247bcb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaXNjaXBsaW5lJTIwc2VsZi1pbXByb3ZlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYxMTA0NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Discipline or Stay Stuck: The Rule of Accomplishment")
-*Adopt Discipline or Stay Stuck: The Rule of Accomplishment - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-that-says-positive-discipline-next-to-a-typewriter-xKQvqfcj5h4)*
+{{< figure src="https://images.unsplash.com/photo-1695313486452-db8f5247bcb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaXNjaXBsaW5lJTIwc2VsZi1pbXByb3ZlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYxMTA0NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A piece of paper that says next to a" title="Adopt Discipline or Stay Stuck: The Rule of Accomplishment" caption="Adopt Discipline or Stay Stuck: The Rule of Accomplishment - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-that-says-positive-discipline-next-to-a-typewriter-xKQvqfcj5h4)" >}}
 
 When you know why you’re doing something, it becomes your dream. For example, if I wanted to learn how to grow plants, I’d approach it the same way. The “why” comes first. Then, set a clear result for the week. I like to use a principle I once shared in another video: the “other authors” method. It’s a learning strategy where you dedicate about two and a half hours each day. That adds up to almost 20 hours a week. In a week, you’ll have invested a hundred hours, and after a few weeks, you’ll be the expert—or at least well on your way.
 
@@ -44,8 +42,7 @@ So, here’s my wish for you: dedicate time to your learning. Be disciplined. St
 
 ---
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaXNjaXBsaW5lJTIwc2VsZi1pbXByb3ZlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYxMTA0NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Discipline or Stay Stuck: The Rule of Accomplishment")
-*Adopt Discipline or Stay Stuck: The Rule of Accomplishment - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaXNjaXBsaW5lJTIwc2VsZi1pbXByb3ZlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYxMTA0NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="Adopt Discipline or Stay Stuck: The Rule of Accomplishment" caption="Adopt Discipline or Stay Stuck: The Rule of Accomplishment - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 ## Key Takeaways
 

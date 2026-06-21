@@ -12,8 +12,7 @@ original_title = "LA NÉGATIVITÉ PREND TOUJOURS LE DESSUS. Comment s'en débarr
 source_medium = "https://medium.com/@phenrysay/687a48dc2546"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2aXR5JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZyUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTM4NTYwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Negativity From Ruining Your Whole Day")
-*How to Stop Negativity From Ruining Your Whole Day - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2aXR5JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZyUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTM4NTYwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Stop Negativity From Ruining Your Whole Day" caption="How to Stop Negativity From Ruining Your Whole Day - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 Negativity has a strange power over us. One bad piece of news, a harsh word from someone, or an unexpected emotional blow can wreck your productivity and cast a shadow over your entire day. Suddenly, you feel a weight on your chest, anxiety creeps in, and it becomes hard to focus on anything else.
 
@@ -25,8 +24,7 @@ I’ve noticed this myself, especially when I’m out hiking in the Pyrenees or 
 
 We’re emotional beings. Bad news or the stress of waiting for an answer can ruin our day or slow us down. So what can we do? Simple breathing exercises help. Meditation can help too. One technique I like is the 3-3-3 breathing method: inhale for 3 seconds, hold your breath for 3 seconds, then exhale through your mouth for 3 seconds. Do this five to eight times in a row, and you’ll feel much better.
 
-![Photo by Romina BM](https://images.unsplash.com/photo-1654642750958-30c015edc76a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2aXR5JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZyUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTM4NTYwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Negativity From Ruining Your Whole Day")
-*How to Stop Negativity From Ruining Your Whole Day - Photo by [Romina BM](https://unsplash.com/@hubiita) on [Unsplash](https://unsplash.com/photos/a-plastic-cup-with-a-smiley-face-on-top-of-a-rock-8xY5-H6yQoM)*
+{{< figure src="https://images.unsplash.com/photo-1654642750958-30c015edc76a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2aXR5JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZyUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTM4NTYwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A plastic cup with a smiley face on top of a rock 8xY5 H6yQoM" title="How to Stop Negativity From Ruining Your Whole Day" caption="How to Stop Negativity From Ruining Your Whole Day - Photo by [Romina BM](https://unsplash.com/@hubiita) on [Unsplash](https://unsplash.com/photos/a-plastic-cup-with-a-smiley-face-on-top-of-a-rock-8xY5-H6yQoM)" >}}
 
 Sometimes, a change of scenery helps. I often find myself wandering through Melbourne’s Docklands, which has become almost a ghost town since the pandemic. There are huge shopping centers with barely anyone inside, and even the cafés are quiet. It can feel a bit sad, but it’s also a reminder to get out, walk, and clear my head.
 
@@ -44,8 +42,7 @@ For example, if you’re waiting to hear back about buying a house, you’ve alr
 > *“You can’t stop the waves, but you can learn to surf.”*  
 — Jon Kabat-Zinn
 
-![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2aXR5JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZyUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTM4NTYwM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Negativity From Ruining Your Whole Day")
-*How to Stop Negativity From Ruining Your Whole Day - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)*
+{{< figure src="https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2aXR5JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZyUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTM4NTYwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden framed gray wooden door" title="How to Stop Negativity From Ruining Your Whole Day" caption="How to Stop Negativity From Ruining Your Whole Day - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)" >}}
 
 Remember, you’ve done your part. Now, let life take its course. Focus on what you can do right now, and let the rest go.
 

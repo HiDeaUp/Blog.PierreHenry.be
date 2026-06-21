@@ -12,8 +12,7 @@ original_title = "Comprendre l'incompréhensible"
 source_medium = "https://medium.com/@phenrysay/1055240b48b8"
 +++
 
-![Photo by Axel Ruffini](https://images.unsplash.com/photo-1634169685828-235cd18fae28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9ibGVtJTIwc29sdmluZyUyMHVuY2VydGFpbnR5JTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTc0NjE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Solve Any Problem When You Have No Idea Where to Start")
-*How to Solve Any Problem When You Have No Idea Where to Start - Photo by [Axel Ruffini](https://unsplash.com/@4xel) on [Unsplash](https://unsplash.com/photos/a-group-of-dices-that-are-sitting-on-a-table-4JBeeJqldBI)*
+{{< figure src="https://images.unsplash.com/photo-1634169685828-235cd18fae28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9ibGVtJTIwc29sdmluZyUyMHVuY2VydGFpbnR5JTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTc0NjE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of dices that are sitting on a table" title="How to Solve Any Problem When You Have No Idea Where to Start" caption="How to Solve Any Problem When You Have No Idea Where to Start - Photo by [Axel Ruffini](https://unsplash.com/@4xel) on [Unsplash](https://unsplash.com/photos/a-group-of-dices-that-are-sitting-on-a-table-4JBeeJqldBI)" >}}
 
 Sometimes, life throws you into situations where you have to pretend you know what you’re doing, even when you don’t. Imagine working in a restaurant and suddenly being asked to replace the chef in a cuisine you’ve never touched before. Maybe you’re always in charge of French or Italian dishes, and now you have to handle the Asian kitchen for a week because the regular chef is sick. You find yourself in front of unfamiliar recipes, expected to deliver as if you’ve been doing it for years.
 
@@ -25,8 +24,7 @@ If you ever find yourself in a similar spot—whether it’s in a kitchen, a lib
 
 I rely on note-taking apps to keep track of everything. I use Bear for quick notes, and sometimes Things 3 or Sortee for organizing tasks. I even set timers for myself—thirty minutes to solve a specific problem in the code, for example. This helps me stay focused and gives me a sense of urgency.
 
-![How To Solve A Rubik’s Cube](https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9ibGVtJTIwc29sdmluZyUyMHVuY2VydGFpbnR5JTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTc0NjE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Solve Any Problem When You Have No Idea Where to Start")
-*How to Solve Any Problem When You Have No Idea Where to Start - Photo by [Olav Ahrens Røtne](https://unsplash.com/@olav_ahrens) on [Unsplash](https://unsplash.com/photos/person-playing-magic-cube-4Ennrbj1svk)*
+{{< figure src="https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9ibGVtJTIwc29sdmluZyUyMHVuY2VydGFpbnR5JTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTc0NjE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="How To Solve A Rubik’s Cube" title="How to Solve Any Problem When You Have No Idea Where to Start" caption="How to Solve Any Problem When You Have No Idea Where to Start - Photo by [Olav Ahrens Røtne](https://unsplash.com/@olav_ahrens) on [Unsplash](https://unsplash.com/photos/person-playing-magic-cube-4Ennrbj1svk)" >}}
 
 And yes, sometimes I reward myself with a session in the jacuzzi. If I can combine work with pleasure, why not? There’s a French saying for this: *joindre l’utile à l’agréable*—to combine the useful with the pleasant. If you can do that, you’re already winning.
 
@@ -46,9 +44,7 @@ The next time you’re faced with something that seems impossible to understand,
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, adapt or fail, flexibility, change, manage change, embrace change, improve, observe, mindfulness, 
-](https://images.unsplash.com/photo-1628666173519-66351692f747?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9ibGVtJTIwc29sdmluZyUyMHVuY2VydGFpbnR5JTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTc0NjE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Solve Any Problem When You Have No Idea Where to Start")
-*How to Solve Any Problem When You Have No Idea Where to Start - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-RNoiGmxhf7Y)*
+{{< figure src="https://images.unsplash.com/photo-1628666173519-66351692f747?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9ibGVtJTIwc29sdmluZyUyMHVuY2VydGFpbnR5JTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTc0NjE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter blocks on white surface" title="How to Solve Any Problem When You Have No Idea Where to Start" caption="How to Solve Any Problem When You Have No Idea Where to Start - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-RNoiGmxhf7Y)" >}}
 
 - When you’re thrown into the unknown, start by gathering as much information as possible.
 - Take notes, ask questions, and don’t underestimate small clues from unexpected sources.

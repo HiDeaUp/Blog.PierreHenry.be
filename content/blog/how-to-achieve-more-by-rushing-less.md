@@ -12,8 +12,7 @@ original_title = "De la patience à la performance : Le plan d'action infaillibl
 source_medium = "https://medium.com/@phenrysay/8a768c6ffab4"
 +++
 
-![Photo by Nada](https://images.unsplash.com/photo-1611840892215-22b7a4ee467d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXRpZW5jZSUyMHBlcmZvcm1hbmNlJTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXN8ZW58MHwwfHx8MTc1NTUxODgzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Rushing Less")
-*How to Achieve More by Rushing Less - Photo by [Nada](https://unsplash.com/@framesbynad) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-a-man-in-a-train-station-eYm1zHDSYeo)*
+{{< figure src="https://images.unsplash.com/photo-1611840892215-22b7a4ee467d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXRpZW5jZSUyMHBlcmZvcm1hbmNlJTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXN8ZW58MHwwfHx8MTc1NTUxODgzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of a man in a train station" title="How to Achieve More by Rushing Less" caption="How to Achieve More by Rushing Less - Photo by [Nada](https://unsplash.com/@framesbynad) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-a-man-in-a-train-station-eYm1zHDSYeo)" >}}
 
 When we’re eager to move forward, it’s tempting to rush to the next step. Many people feel this urge, even when they know deep down it’s not logical or justified. They want to go faster, skip steps, or breeze through them. But by doing so, they risk missing out on what really matters.
 
@@ -27,8 +26,7 @@ There’s a definition of MVP that I find spot on: *the minimum effort for the m
 
 Take OpenAI, for example. They love MVPs. As of November 2024, there’s still no feature to change your password in your account settings. Instead, if you want to change your password, you have to log out and use the “forgot password” link. That’s the only way. They don’t waste time on features that don’t add real value. Their focus is on making their AI better—reducing hallucinations and providing more accurate, up-to-date answers. That’s what matters.
 
-![Photo by White Malaki](https://images.unsplash.com/photo-1642670777453-0b5c6c7b4f77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXRpZW5jZSUyMHBlcmZvcm1hbmNlJTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXN8ZW58MHwwfHx8MTc1NTUxODgzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Rushing Less")
-*How to Achieve More by Rushing Less - Photo by [White Malaki](https://unsplash.com/@malakiwhite17) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-in-a-suit-and-headphones-iuwJHKambKI)*
+{{< figure src="https://images.unsplash.com/photo-1642670777453-0b5c6c7b4f77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXRpZW5jZSUyMHBlcmZvcm1hbmNlJTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXN8ZW58MHwwfHx8MTc1NTUxODgzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A of a man in a suit and" title="How to Achieve More by Rushing Less" caption="How to Achieve More by Rushing Less - Photo by [White Malaki](https://unsplash.com/@malakiwhite17) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-in-a-suit-and-headphones-iuwJHKambKI)" >}}
 
 So, as a freelancer, ask yourself: what’s my MVP? Focus on that. Do it better than anyone else.
 
@@ -48,8 +46,7 @@ That’s why the MVP principle is so powerful. Don’t launch a half-baked produ
 
 ## Key Takeaways
 
-![Photo by kimny](https://images.unsplash.com/photo-1654344490041-c64b9d1aaae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXRpZW5jZSUyMHBlcmZvcm1hbmNlJTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXN8ZW58MHwwfHx8MTc1NTUxODgzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve More by Rushing Less")
-*How to Achieve More by Rushing Less - Photo by [kimny](https://unsplash.com/@kimny) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-set-of-stairs-N7d1Onb4QLQ)*
+{{< figure src="https://images.unsplash.com/photo-1654344490041-c64b9d1aaae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXRpZW5jZSUyMHBlcmZvcm1hbmNlJTIwc3VjY2VzcyUyMHN0cmF0ZWdpZXN8ZW58MHwwfHx8MTc1NTUxODgzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a set of stairs" title="How to Achieve More by Rushing Less" caption="How to Achieve More by Rushing Less - Photo by [kimny](https://unsplash.com/@kimny) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-set-of-stairs-N7d1Onb4QLQ)" >}}
 
 - Don’t rush—focus on doing one thing exceptionally well.
 - An MVP is about minimum effort, maximum impact.

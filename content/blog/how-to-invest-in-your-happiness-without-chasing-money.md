@@ -12,8 +12,7 @@ original_title = "Comment réussir à accomplir ses désires"
 source_medium = "https://medium.com/@phenrysay/1314cc272b33"
 +++
 
-![Quit squeezing bro, tryna smile here :)](https://images.unsplash.com/photo-1544018239-bcbbc2c55c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Your Happiness Without Chasing Money")
-*How to Invest in Your Happiness Without Chasing Money - Photo by [Nyabuto Felix](https://unsplash.com/@nyabuto) on [Unsplash](https://unsplash.com/photos/yellow-emoticon-plastic-ball-6M-9CNXO7gw)*
+{{< figure src="https://images.unsplash.com/photo-1544018239-bcbbc2c55c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Quit squeezing bro, tryna smile here :)" title="How to Invest in Your Happiness Without Chasing Money" caption="How to Invest in Your Happiness Without Chasing Money - Photo by [Nyabuto Felix](https://unsplash.com/@nyabuto) on [Unsplash](https://unsplash.com/photos/yellow-emoticon-plastic-ball-6M-9CNXO7gw)" >}}
 
 When we talk about investing, most people think of money or maybe time. But what about investing in your own happiness and fulfillment? The projects you care about, the dreams you’ve held onto for years—these are the things that truly matter. Over the past decade, I’ve experimented, stumbled, and finally discovered what actually works to bring these desires to life.
 
@@ -27,8 +26,7 @@ I once kept a list on my phone of successful people who wake up early. There’s
 
 Personally, I prefer an evening routine—a walk at night to clear my mind. This habit is a big part of my own success. It helps me stay consistent and finish what I start. Too often, we begin new things but never see them through. That’s why perseverance and setting personal challenges are so important. These challenges keep you motivated from within.
 
-![Smiley ball in hand.](https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Your Happiness Without Chasing Money")
-*How to Invest in Your Happiness Without Chasing Money - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)*
+{{< figure src="https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball in hand." title="How to Invest in Your Happiness Without Chasing Money" caption="How to Invest in Your Happiness Without Chasing Money - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)" >}}
 
 Another game-changer for me has been nutrition. Eating well, avoiding too much sugar or heavy food, has a direct impact on motivation, productivity, and mood. When you’re young, you might get away with eating anything, but after 25, your body starts to change. I learned this the hard way. Back in my twenties, I could drink liters of milk and eat cereal all day. Now, if I tried that, I’d feel terrible. Accepting these changes is crucial. There’s no point wasting energy fighting reality. Accept, adapt, and move forward.
 
@@ -48,8 +46,7 @@ There’s a Chinese proverb that says the best time to plant a tree was twenty y
 > *Discipline is choosing between what you want now and what you want most.*
 > — Abraham Lincoln
 
-![Admiration | Instagram: @timmossholder](https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Your Happiness Without Chasing Money")
-*How to Invest in Your Happiness Without Chasing Money - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)*
+{{< figure src="https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Admiration | Instagram: @timmossholder" title="How to Invest in Your Happiness Without Chasing Money" caption="How to Invest in Your Happiness Without Chasing Money - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)" >}}
 
 ---
 

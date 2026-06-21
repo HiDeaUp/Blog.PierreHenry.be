@@ -12,8 +12,7 @@ original_title = "Comment avoir de belles journées, chaque jour"
 source_medium = "https://medium.com/@phenrysay/16d03c1dd291"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwZGFpbHklMjBoYWJpdHMlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYzMjQ1N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Every Day Without Changing Your Life")
-*How to Feel Happier Every Day Without Changing Your Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwZGFpbHklMjBoYWJpdHMlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYzMjQ1N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Feel Happier Every Day Without Changing Your Life" caption="How to Feel Happier Every Day Without Changing Your Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 When we talk about well-being, it’s easy to imagine something grand or out of reach. But real well-being is found in the details of our daily lives. The first step is to get to know yourself, honestly and without judgment. Stand in front of the mirror and ask yourself: What do I like about my days? What drags me down? Take a piece of paper and write down everything that makes you feel good, and everything that makes you feel bad.
 
@@ -21,8 +20,7 @@ For example, I know that if I wake up late, my mood drops. Eating processed food
 
 Here’s a simple challenge: make two lists. One for things you enjoy, and one for things you don’t. Every day, pay attention to your routine. Notice the moments that lift you up and those that weigh you down. The more you spot the good moments, the more you can repeat them. Over time, these moments will become habits.
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwZGFpbHklMjBoYWJpdHMlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYzMjQ1N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Every Day Without Changing Your Life")
-*How to Feel Happier Every Day Without Changing Your Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwZGFpbHklMjBoYWJpdHMlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYzMjQ1N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Feel Happier Every Day Without Changing Your Life" caption="How to Feel Happier Every Day Without Changing Your Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Maybe you love eating a banana in the morning, or being surrounded by plants, or working in a tidy space. Once you know what makes you happy, shape your environment to match. Bit by bit, you’ll build a lifestyle that fits you, one that supports your happiness and growth.
 
@@ -36,8 +34,7 @@ When you feel good in your own skin, you’re more likely to say yes to opportun
 > *The best way to pay for a lovely moment is to enjoy it.*
 > — Richard Bach
 
-![Photo by Alessandro Sicari](https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwZGFpbHklMjBoYWJpdHMlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYzMjQ1N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happier Every Day Without Changing Your Life")
-*How to Feel Happier Every Day Without Changing Your Life - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)*
+{{< figure src="https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwZGFpbHklMjBoYWJpdHMlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYzMjQ1N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green sweater" title="How to Feel Happier Every Day Without Changing Your Life" caption="How to Feel Happier Every Day Without Changing Your Life - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)" >}}
 
 ---
 

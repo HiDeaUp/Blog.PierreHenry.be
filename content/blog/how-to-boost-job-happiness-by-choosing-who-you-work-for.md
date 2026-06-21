@@ -12,8 +12,7 @@ original_title = "Es tu une assistante de direction ? Tu rates quelque chose d'i
 source_medium = "https://medium.com/@phenrysay/5c6b05a20fc6"
 +++
 
-![Photo by Spring Fed Images](https://images.unsplash.com/photo-1558302892-ad7ceb515fc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBjYXJlZXIlMjBhZHZpY2UlMjB3b3JrcGxhY2UlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTU3NzE3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Job Happiness by Choosing Who You Work For")
-*How to Boost Job Happiness by Choosing Who You Work For - Photo by [Spring Fed Images](https://unsplash.com/@spring_fed_images) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-iBrVL-C1Dws)*
+{{< figure src="https://images.unsplash.com/photo-1558302892-ad7ceb515fc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBjYXJlZXIlMjBhZHZpY2UlMjB3b3JrcGxhY2UlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTU3NzE3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant iBrVL C1Dws" title="How to Boost Job Happiness by Choosing Who You Work For" caption="How to Boost Job Happiness by Choosing Who You Work For - Photo by [Spring Fed Images](https://unsplash.com/@spring_fed_images) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-iBrVL-C1Dws)" >}}
 
 Let’s talk honestly about certain jobs and how we see them. This isn’t a criticism—just a personal view that might make you look at your own work differently.
 
@@ -23,8 +22,7 @@ Here’s something I’ve noticed: most people I know who have been executive as
 
 If you’re thinking about becoming an executive assistant, the most important thing is to find a director you truly admire. When you work closely with someone you look up to, it becomes much more than just a job. You’re supporting someone you respect, and that can be a wonderful experience. But if you end up working for just any director—someone who doesn’t inspire you or who isn’t very ambitious—you won’t grow much from the experience.
 
-![Grounded FW 21](https://images.unsplash.com/photo-1644952350841-070996fad2af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBjYXJlZXIlMjBhZHZpY2UlMjB3b3JrcGxhY2UlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTU3NzE3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Job Happiness by Choosing Who You Work For")
-*How to Boost Job Happiness by Choosing Who You Work For - Photo by [Matthew Moloney](https://unsplash.com/@mattmoloney) on [Unsplash](https://unsplash.com/photos/diagram-engineering-drawing-calendar-mKtfd1SOYDc)*
+{{< figure src="https://images.unsplash.com/photo-1644952350841-070996fad2af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBjYXJlZXIlMjBhZHZpY2UlMjB3b3JrcGxhY2UlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTU3NzE3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Grounded FW 21" title="How to Boost Job Happiness by Choosing Who You Work For" caption="How to Boost Job Happiness by Choosing Who You Work For - Photo by [Matthew Moloney](https://unsplash.com/@mattmoloney) on [Unsplash](https://unsplash.com/photos/diagram-engineering-drawing-calendar-mKtfd1SOYDc)" >}}
 
 On the other hand, if you work for a director who is smart, inspiring, and driven, you’ll find yourself growing too. But if your boss is just average, don’t expect your job to lift you up. That’s why it’s so important to be strategic about where—and for whom—you work.
 
@@ -42,8 +40,7 @@ So, whether you’re an executive assistant or a cleaner, the key is to be strat
 > *You are the average of the five people you spend the most time with.*
 > — Jim Rohn
 
-![Women's Day 2023 Sel fLove](https://images.unsplash.com/photo-1685541087053-c9cab78e4a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBjYXJlZXIlMjBhZHZpY2UlMjB3b3JrcGxhY2UlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTU3NzE3Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Job Happiness by Choosing Who You Work For")
-*How to Boost Job Happiness by Choosing Who You Work For - Photo by [Divaris Shirichena](https://unsplash.com/@divaris) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-at-a-desk-with-her-arms-crossed-B-MfAhYPRts)*
+{{< figure src="https://images.unsplash.com/photo-1685541087053-c9cab78e4a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBjYXJlZXIlMjBhZHZpY2UlMjB3b3JrcGxhY2UlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTU3NzE3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Women's Day 2023 Sel fLove" title="How to Boost Job Happiness by Choosing Who You Work For" caption="How to Boost Job Happiness by Choosing Who You Work For - Photo by [Divaris Shirichena](https://unsplash.com/@divaris) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-at-a-desk-with-her-arms-crossed-B-MfAhYPRts)" >}}
 
 ---
 

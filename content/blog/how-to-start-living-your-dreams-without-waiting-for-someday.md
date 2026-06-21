@@ -12,8 +12,7 @@ original_title = "Interview: Comment démarrer ses rêves ?"
 source_medium = "https://medium.com/@phenrysay/2d65dbf1ce74"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1725402694495-7f133a62c4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTYwMTIzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Living Your Dreams Without Waiting for “Someday”")
-*How to Start Living Your Dreams Without Waiting for “Someday” - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-white-sign-with-black-writing-on-it-Pkm7Zq_cZ3M)*
+{{< figure src="https://images.unsplash.com/photo-1725402694495-7f133a62c4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTYwMTIzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A white sign with black writing on it" title="How to Start Living Your Dreams Without Waiting for “Someday”" caption="How to Start Living Your Dreams Without Waiting for “Someday” - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-white-sign-with-black-writing-on-it-Pkm7Zq_cZ3M)" >}}
 
 Reflecting on our lives is something we all do, especially when we look back and wonder if we made the right choices. Often, we find ourselves living not for ourselves, but for others—following paths that were expected of us, not the ones we truly wanted. This article is about those moments of reflection, the regrets we sometimes carry, and, most importantly, how to start living our dreams, no matter our age or circumstances.
 
@@ -33,8 +32,7 @@ It’s important to listen to yourself. If your dream is a priority, make it you
 
 ## If You Could Go Back…
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740560052826-9b4c4455e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTYwMTIzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Living Your Dreams Without Waiting for “Someday”")
-*How to Start Living Your Dreams Without Waiting for “Someday” - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-dream-on-a-table-cngqcgSc_r0)*
+{{< figure src="https://images.unsplash.com/photo-1740560052826-9b4c4455e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTYwMTIzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A block dream on a table" title="How to Start Living Your Dreams Without Waiting for “Someday”" caption="How to Start Living Your Dreams Without Waiting for “Someday” - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-dream-on-a-table-cngqcgSc_r0)" >}}
 
 Imagine you could go back twenty years. Would you do things differently? Many people say yes. They would take more risks, focus more on themselves, learn new things, travel, and worry less about always being there for others. It’s not about being selfish, but about finding a balance—giving time to yourself as well as to others.
 
@@ -57,8 +55,7 @@ Many people think they need to be experts before they start something new. But a
 
 Your environment can influence your perception of what’s possible. If no one around you has succeeded in what you want to do, it’s easy to think you can’t either. But that’s just another story you tell yourself. You can be the one to show others what’s possible.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTYwMTIzM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Living Your Dreams Without Waiting for “Someday”")
-*How to Start Living Your Dreams Without Waiting for “Someday” - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbXN8ZW58MHwwfHx8MTc1NTYwMTIzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Start Living Your Dreams Without Waiting for “Someday”" caption="How to Start Living Your Dreams Without Waiting for “Someday” - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 > _Regret for wasted time is more wasted time._
 > — Mason Cooley

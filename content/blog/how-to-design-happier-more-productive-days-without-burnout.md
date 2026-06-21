@@ -12,8 +12,7 @@ original_title = "Architecturer ses journées. Mode d'emploi"
 source_medium = "https://medium.com/@phenrysay/7c3dbd2e6c01"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NjAwODc3MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Happier, More Productive Days Without Burnout")
-*How to Design Happier, More Productive Days Without Burnout - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NjAwODc3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Design Happier, More Productive Days Without Burnout" caption="How to Design Happier, More Productive Days Without Burnout - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Imagine if you could design your days the way an architect draws up plans for a building. What if you could shape each day to make it stronger, more enjoyable, and more productive? This idea is not just about getting more done. It’s about feeling happier, more fulfilled, and truly at ease with yourself.
 
@@ -27,8 +26,7 @@ Think about building a house. Without a plan, the walls might not stand for long
 
 Every evening, take a moment for a quick review. Ask yourself: How did my day go? What did I manage to do? What didn’t get done? Give your day a score if you like. I often use an app called Sims 3 for this, but you can use anything—Google Tasks, a notebook, your phone, or even a piece of paper. The tool doesn’t matter as much as the habit.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NjAwODc3MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Happier, More Productive Days Without Burnout")
-*How to Design Happier, More Productive Days Without Burnout - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NjAwODc3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Design Happier, More Productive Days Without Burnout" caption="How to Design Happier, More Productive Days Without Burnout - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 The key is to write down what you achieved and what you want to improve tomorrow. Then, pick the three most important things you must do the next day. Don’t overload yourself. These three tasks should take no more than three hours in total, if possible. Try to do them in the morning when your energy is highest.
 
@@ -50,8 +48,7 @@ Life is too short not to make the most of it. You deserve amazing days, filled w
 
 ---
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NjAwODc3MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Happier, More Productive Days Without Burnout")
-*How to Design Happier, More Productive Days Without Burnout - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcGxhbm5pbmd8ZW58MHwwfHx8MTc1NjAwODc3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Design Happier, More Productive Days Without Burnout" caption="How to Design Happier, More Productive Days Without Burnout - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 ## Key Takeaways
 

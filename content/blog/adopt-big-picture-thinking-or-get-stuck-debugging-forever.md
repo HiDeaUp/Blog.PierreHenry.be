@@ -12,8 +12,7 @@ original_title = "Don't Jump Straight Into Code #problemsolving"
 source_medium = "https://medium.com/@phenrysay/ccccd9f5ce8c"
 +++
 
-![Photo by Ofspace LLC](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9ibGVtJTIwc29sdmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBwbGFubmluZ3xlbnwwfDB8fHwxNzY1NjMzODc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Big Picture Thinking or Get Stuck Debugging Forever")
-*Adopt Big Picture Thinking or Get Stuck Debugging Forever - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)*
+{{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9ibGVtJTIwc29sdmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBwbGFubmluZ3xlbnwwfDB8fHwxNzY1NjMzODc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="Adopt Big Picture Thinking or Get Stuck Debugging Forever" caption="Adopt Big Picture Thinking or Get Stuck Debugging Forever - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
 As a software engineer, I can't stress enough how important it is to have a global view—a big picture—of the requirements before you even think about touching the code. I see it all the time: people get excited, they want to dive in, maybe fire up their favorite AI tool, or just start hacking away at files. But here's the thing: before you do any of that, you need to stop and think. What actually needs to be done?
 
@@ -25,8 +24,7 @@ There are always more options than you think. When we're solving problems, it's 
 
 ### Practical Steps Before You Code
 
-![C plus plus code in an coloured editor square strongly foreshortened](https://images.unsplash.com/photo-1568716353609-12ddc5c67f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9ibGVtJTIwc29sdmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBwbGFubmluZ3xlbnwwfDB8fHwxNzY1NjMzODc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Big Picture Thinking or Get Stuck Debugging Forever")
-*Adopt Big Picture Thinking or Get Stuck Debugging Forever - Photo by [Patrick Martin](https://unsplash.com/@patrickmmartin) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-code-on-it-UMlT0bviaek)*
+{{< figure src="https://images.unsplash.com/photo-1568716353609-12ddc5c67f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9ibGVtJTIwc29sdmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBwbGFubmluZ3xlbnwwfDB8fHwxNzY1NjMzODc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="C plus plus code in an coloured editor square strongly foreshortened" title="Adopt Big Picture Thinking or Get Stuck Debugging Forever" caption="Adopt Big Picture Thinking or Get Stuck Debugging Forever - Photo by [Patrick Martin](https://unsplash.com/@patrickmmartin) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-code-on-it-UMlT0bviaek)" >}}
 
 1. **Clarify the requirements.** Talk to stakeholders, product managers, or whoever is driving the project. Make sure you actually understand what needs to be built.
 2. **Prototype or sketch out your solution.** This doesn't have to be fancy. Sometimes a whiteboard or a quick diagram is enough.
@@ -51,8 +49,7 @@ Now, check: does your company already use an auth provider? Is there a library f
 
 ---
 
-![Photo by Christina @ wocintechchat.com](https://images.unsplash.com/photo-1573166801077-d98391a43199?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9ibGVtJTIwc29sdmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBwbGFubmluZ3xlbnwwfDB8fHwxNzY1NjMzODc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "Adopt Big Picture Thinking or Get Stuck Debugging Forever")
-*Adopt Big Picture Thinking or Get Stuck Debugging Forever - Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com/photos/man-standing-near-whiteboard-0g-iLtxmMhA)*
+{{< figure src="https://images.unsplash.com/photo-1573166801077-d98391a43199?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9ibGVtJTIwc29sdmluZyUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBwbGFubmluZ3xlbnwwfDB8fHwxNzY1NjMzODc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man near 0g" title="Adopt Big Picture Thinking or Get Stuck Debugging Forever" caption="Adopt Big Picture Thinking or Get Stuck Debugging Forever - Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com/photos/man-standing-near-whiteboard-0g-iLtxmMhA)" >}}
 
 ## Key Takeaways
 

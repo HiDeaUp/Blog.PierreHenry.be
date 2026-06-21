@@ -12,8 +12,7 @@ original_title = "VIVRE DE SA PASSION NE DOIT PAS ÊTRE DIFFICILE"
 source_medium = "https://medium.com/@phenrysay/fd0ad52909a3"
 +++
 
-![»Passionate« in Gold](https://images.unsplash.com/photo-1618438051699-58c35eb6e614?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwY2FyZWVyJTIwYWR2aWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make a Living From Your Passion Without Struggle")
-*How to Make a Living From Your Passion Without Struggle - Photo by [Etienne Girardet](https://unsplash.com/@etiennegirardet) on [Unsplash](https://unsplash.com/photos/brown-and-black-round-ornament-weYtEB6fsO4)*
+{{< figure src="https://images.unsplash.com/photo-1618438051699-58c35eb6e614?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwY2FyZWVyJTIwYWR2aWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="»Passionate« in Gold" title="How to Make a Living From Your Passion Without Struggle" caption="How to Make a Living From Your Passion Without Struggle - Photo by [Etienne Girardet](https://unsplash.com/@etiennegirardet) on [Unsplash](https://unsplash.com/photos/brown-and-black-round-ornament-weYtEB6fsO4)" >}}
 
 Being passionate about what you do—loving and enjoying every little thing you create—starts with simply doing something you like. That’s the heart of it. A passion project, or a passion you turn into a job, doesn’t have to begin with something huge. It can start as a tiny, almost invisible spark—something you do each day that brings you a bit of joy.
 
@@ -21,8 +20,7 @@ Maybe you have a regular job, a desk, a freelance mission that doesn’t really 
 
 Little by little, this micro-passion can become something more important. It doesn’t mean it will take up more of your time, but you’ll do it better and more efficiently. That’s what makes all the difference for your future. In reality, you’re already investing in yourself.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1586769852388-153870393504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwY2FyZWVyJTIwYWR2aWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make a Living From Your Passion Without Struggle")
-*How to Make a Living From Your Passion Without Struggle - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/white-printer-paper-on-green-typewriter-Zd_vzpPLqOA)*
+{{< figure src="https://images.unsplash.com/photo-1586769852388-153870393504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwY2FyZWVyJTIwYWR2aWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="White printer paper on green" title="How to Make a Living From Your Passion Without Struggle" caption="How to Make a Living From Your Passion Without Struggle - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/white-printer-paper-on-green-typewriter-Zd_vzpPLqOA)" >}}
 
 Even if you only spend two hours a week on this passion, it can eventually become your full-time job. But when that happens, it won’t feel like a job—it will be your passion-job. That’s the real goal: to make your work something you truly enjoy.
 
@@ -36,8 +34,7 @@ At the end of the day, the purpose of life is to be happy. It really is that sim
 
 ---
 
-![Male Rock Climber Mountain](https://images.unsplash.com/photo-1502126361989-34361003b3a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwY2FyZWVyJTIwYWR2aWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make a Living From Your Passion Without Struggle")
-*How to Make a Living From Your Passion Without Struggle - Photo by [Brad Barmore](https://unsplash.com/@bradbarmore) on [Unsplash](https://unsplash.com/photos/man-rock-climbing-on-mountain-iLK1W79UdcU)*
+{{< figure src="https://images.unsplash.com/photo-1502126361989-34361003b3a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwY2FyZWVyJTIwYWR2aWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Male Rock Climber Mountain" title="How to Make a Living From Your Passion Without Struggle" caption="How to Make a Living From Your Passion Without Struggle - Photo by [Brad Barmore](https://unsplash.com/@bradbarmore) on [Unsplash](https://unsplash.com/photos/man-rock-climbing-on-mountain-iLK1W79UdcU)" >}}
 
 ## Key Takeaways
 - Start small: even a tiny passion can grow into something bigger.

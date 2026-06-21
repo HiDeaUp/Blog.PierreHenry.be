@@ -12,8 +12,7 @@ original_title = "Comment réussir à accomplir ce qui doit être fait pour SOI
 source_medium = "https://medium.com/@phenrysay/560d0814571c"
 +++
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc2V2ZXJhbmNlJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTEyODc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Unstuck and Take Action Without Burning Out")
-*How to Get Unstuck and Take Action Without Burning Out - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc2V2ZXJhbmNlJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTEyODc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Get Unstuck and Take Action Without Burning Out" caption="How to Get Unstuck and Take Action Without Burning Out - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 Sometimes, when you want to achieve something for yourself—something you truly care about—you end up feeling frustrated, as if you’re stuck in a hole with no way out. It’s like being in a tunnel where you can’t see the light at the end, and you have no idea how to escape. But here’s the truth: there is always a way out.
 
@@ -25,10 +24,7 @@ This means stepping out of your comfort zone. Start asking: *What can I do now? 
 
 For example, start saving a little every day. Build good habits, one at a time. Surround yourself with people who are good for you—people who are positive, not toxic. Take care of your health: eat well, sleep well, and keep your energy up. This energy is what you’ll need to accomplish your projects, your tasks, and your personal goals, even if you’re working a regular job on the side.
 
-![scrabble, scrabble pieces, lettering, letters, white background, wood, scrabble tiles, wood, words, 
-done is better than perfect, perfectionism, get it done, complete, finish, rough and ready, 
-](https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc2V2ZXJhbmNlJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTEyODc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Unstuck and Take Action Without Burning Out")
-*How to Get Unstuck and Take Action Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)*
+{{< figure src="https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc2V2ZXJhbmNlJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTEyODc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Get Unstuck and Take Action Without Burning Out" caption="How to Get Unstuck and Take Action Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)" >}}
 
 A common excuse is, “I don’t have time or money.” But the sad truth is, you won’t magically have more time or money later. Unexpected expenses and surprises will always pop up. The right moment is now. Even if you think you have no money, start by saving just 10 euros a day, a week, or even a month. It’s a start.
 
@@ -44,8 +40,7 @@ Invest in yourself—learn to manage your time, handle surprises, deal with stre
 
 Don’t wait for the perfect moment. Time is like a train that never stops. If you keep waiting for everything to line up, you’ll be waiting forever. The best moment is today. The best day is now. Don’t put off until tomorrow what you can do today.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc2V2ZXJhbmNlJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTEyODc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Unstuck and Take Action Without Burning Out")
-*How to Get Unstuck and Take Action Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc2V2ZXJhbmNlJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTEyODc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Get Unstuck and Take Action Without Burning Out" caption="How to Get Unstuck and Take Action Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 ---
 

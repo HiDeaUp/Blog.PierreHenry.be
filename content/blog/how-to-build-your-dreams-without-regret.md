@@ -12,8 +12,7 @@ original_title = "(Comment) créer ses rêves ?🎉"
 source_medium = "https://medium.com/@phenrysay/877402a017d1"
 +++
 
-![A simple message to dream with shimmery purple and pink glitter bokeh.](https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2MDEzNjUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Dreams Without Regret")
-*How to Build Your Dreams Without Regret - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)*
+{{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkcmVhbXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2MDEzNjUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Build Your Dreams Without Regret" caption="How to Build Your Dreams Without Regret - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 
 Have you ever thought about what you might regret at the end of your life? For many, the answer is simple: not having chased the dreams that truly mattered. Designing your own life, building and accomplishing things for yourself, is not just a luxury—it’s a necessity if you want to avoid that deep sense of regret later on.
 
@@ -25,8 +24,7 @@ Often, we tell ourselves we can’t pursue a dream because of money, time, or ot
 
 The same goes for time. If your dream is your top priority, it should come before everything else. Maybe your current job is your main focus, or maybe it’s time to make your dream project number one. Side projects are also important. Even if you have a full-time job or freelance work, having something on the side—a side project or a small business—can bring a lot of meaning to your life.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1725402694495-7f133a62c4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2MDEzNjUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Dreams Without Regret")
-*How to Build Your Dreams Without Regret - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-white-sign-with-black-writing-on-it-Pkm7Zq_cZ3M)*
+{{< figure src="https://images.unsplash.com/photo-1725402694495-7f133a62c4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2MDEzNjUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A white sign with black writing on it" title="How to Build Your Dreams Without Regret" caption="How to Build Your Dreams Without Regret - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-white-sign-with-black-writing-on-it-Pkm7Zq_cZ3M)" >}}
 
 You don’t have to dedicate hours every day. Even ten or fifteen minutes daily can make a difference. For example, writing a chapter, recording a short video, or building a small part of your project. After a week, those ten minutes add up. After a month, you’ve already put in five hours. That’s significant.
 
@@ -46,8 +44,7 @@ So, my advice is simple: have projects, keep moving forward, and take action now
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740560052826-9b4c4455e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2MDEzNjUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Dreams Without Regret")
-*How to Build Your Dreams Without Regret - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-dream-on-a-table-cngqcgSc_r0)*
+{{< figure src="https://images.unsplash.com/photo-1740560052826-9b4c4455e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbXMlMjBzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2MDEzNjUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A block dream on a table" title="How to Build Your Dreams Without Regret" caption="How to Build Your Dreams Without Regret - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-dream-on-a-table-cngqcgSc_r0)" >}}
 
 - *Always have dreams and projects in progress—they keep life exciting and meaningful.*
 - *Make a list of your priorities and focus on your number one project.*

@@ -12,8 +12,7 @@ original_title = "Une vie épanouie… 🙃"
 source_medium = "https://medium.com/@phenrysay/8e13b93dc5cf"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2NDI1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Happiness Without Chasing Success")
-*How to Find Happiness Without Chasing Success - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2NDI1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Happiness Without Chasing Success" caption="How to Find Happiness Without Chasing Success - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Many people believe that living a good life means chasing after success. We often think it’s about grabbing the biggest opportunities, getting the best degrees, landing the top jobs, and earning the highest salaries. Maybe you even dream of starting your own business and seeing the biggest number possible in your bank account.
 
@@ -21,8 +20,7 @@ But after all that running, you might realize you have no time left for anything
 
 Isn’t that also part of what success should be? Isn’t a fulfilled life about more than just work and money? For me, true success is also about living a life where you can enjoy these moments with the people you love.
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2NDI1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Happiness Without Chasing Success")
-*How to Find Happiness Without Chasing Success - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)*
+{{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2NDI1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find Happiness Without Chasing Success" caption="How to Find Happiness Without Chasing Success - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 It’s easy to get caught up in the race for more—more achievements, more money, more recognition. But what’s the point if you’re never really present for the things that matter most? The real measure of a fulfilling life isn’t just what you achieve, but how much you truly live and share with others.
 
@@ -36,8 +34,7 @@ It’s easy to get caught up in the race for more—more achievements, more mone
 
 ## Key Takeaways
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2NDI1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Happiness Without Chasing Success")
-*How to Find Happiness Without Chasing Success - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)*
+{{< figure src="https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzdWNjZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY2NDI1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black happy card" title="How to Find Happiness Without Chasing Success" caption="How to Find Happiness Without Chasing Success - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)" >}}
 
 - Chasing traditional success can leave you with little time for what matters most.
 - True fulfillment comes from being present with loved ones and enjoying your personal life.

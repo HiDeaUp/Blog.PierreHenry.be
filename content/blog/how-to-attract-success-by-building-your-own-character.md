@@ -12,8 +12,7 @@ original_title = "Se reconstruire: La méthode FAST pour attirer succès & sér�
 source_medium = "https://medium.com/@phenrysay/e101333f0d2a"
 +++
 
-![I AM BOLD](https://images.unsplash.com/photo-1512242712282-774a8bc0d9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYXV0aGVudGljaXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc1Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Attract Success by Building Your Own Character")
-*How to Attract Success by Building Your Own Character - Photo by [Steve Harvey](https://unsplash.com/@trommelkopf) on [Unsplash](https://unsplash.com/photos/i-am-bold-neon-signage-at-night-time-SoZ3b8LLOdo)*
+{{< figure src="https://images.unsplash.com/photo-1512242712282-774a8bc0d9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYXV0aGVudGljaXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc1Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="I AM BOLD" title="How to Attract Success by Building Your Own Character" caption="How to Attract Success by Building Your Own Character - Photo by [Steve Harvey](https://unsplash.com/@trommelkopf) on [Unsplash](https://unsplash.com/photos/i-am-bold-neon-signage-at-night-time-SoZ3b8LLOdo)" >}}
 
 When you want to create something meaningful online—whether it’s an information product, a business, or simply sharing your ideas—it’s not just about what you offer. It’s about who you are, or more precisely, the character you build and show to the world.
 
@@ -23,8 +22,7 @@ Why does this matter? Because most content online looks and sounds the same. Peo
 
 The key is to focus on your niche. Ask yourself: Who is my audience? What are their real interests? What do they care about that nobody else is talking about? When you answer these questions, you can start building a community—a tribe—around your passion. This isn’t about being loud or flashy. It’s about being real, consistent, and a little bit brave.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, i am, jesus, god, jehovah, jhwh, yahweh, john 8, ](https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYXV0aGVudGljaXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc1Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Attract Success by Building Your Own Character")
-*How to Attract Success by Building Your Own Character - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-8OLfV5F9nO4)*
+{{< figure src="https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYXV0aGVudGljaXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc1Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter t letter" title="How to Attract Success by Building Your Own Character" caption="How to Attract Success by Building Your Own Character - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-8OLfV5F9nO4)" >}}
 
 If you want to create inspiring content, start by being honest about what makes you different. Don’t try to please everyone. Instead, speak directly to your niche, your people. That’s how you build something that lasts, something that feels good, and something that brings both success and peace of mind.
 
@@ -43,8 +41,7 @@ If you want to create inspiring content, start by being honest about what makes 
 - Create content that’s true to you, not just what everyone else is doing.
 - Building a community around your passion brings both success and serenity.
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1554497342-902a4f8da8ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYXV0aGVudGljaXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc1Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Attract Success by Building Your Own Character")
-*How to Attract Success by Building Your Own Character - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/this-is-who-i-am-5yn5rGI5IUw)*
+{{< figure src="https://images.unsplash.com/photo-1554497342-902a4f8da8ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYXV0aGVudGljaXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTc1Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="This is who i am" title="How to Attract Success by Building Your Own Character" caption="How to Attract Success by Building Your Own Character - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/this-is-who-i-am-5yn5rGI5IUw)" >}}
 
 ## Action Steps
 

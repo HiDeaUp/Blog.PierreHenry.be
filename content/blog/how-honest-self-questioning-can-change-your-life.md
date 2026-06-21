@@ -12,8 +12,7 @@ original_title = "Questions importantes à se poser ⚠️"
 source_medium = "https://medium.com/@phenrysay/2c100fa40d17"
 +++
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbC1ncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU2NTE4MzcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Honest Self-Questioning Can Change Your Life")
-*How Honest Self-Questioning Can Change Your Life - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbC1ncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU2NTE4MzcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How Honest Self-Questioning Can Change Your Life" caption="How Honest Self-Questioning Can Change Your Life - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 How often do you ask yourself how you really feel? Not the usual small talk at the bakery or on the bus, but a genuine check-in. We’re all used to the automatic “I’m fine” when someone asks how we are, even if we’re not. It’s easier, more comfortable, and keeps things simple. But what if you took a moment to ask yourself these questions and actually answered honestly?
 
@@ -25,8 +24,7 @@ For me, comfort comes from simple things like making a hot chocolate and taking 
 
 Stress can also make you lose your words, feel stuck, or get frustrated. That frustration can paralyze you and make it even harder to move forward. So, the first rule is to find calm. The second is to do things that bring you joy. And the third is to really get to know yourself.
 
-![Winter at sea via a mirror](https://images.unsplash.com/photo-1722917617363-3d706e50a709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbC1ncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU2NTE4MzcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Honest Self-Questioning Can Change Your Life")
-*How Honest Self-Questioning Can Change Your Life - Photo by [Long (lTiga) Nguyen](https://unsplash.com/@l333) on [Unsplash](https://unsplash.com/photos/a-round-mirror-sitting-on-the-side-of-a-tree-RMr8n34uiUU)*
+{{< figure src="https://images.unsplash.com/photo-1722917617363-3d706e50a709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbC1ncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU2NTE4MzcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Winter at sea via a mirror" title="How Honest Self-Questioning Can Change Your Life" caption="How Honest Self-Questioning Can Change Your Life - Photo by [Long (lTiga) Nguyen](https://unsplash.com/@l333) on [Unsplash](https://unsplash.com/photos/a-round-mirror-sitting-on-the-side-of-a-tree-RMr8n34uiUU)" >}}
 
 Getting to know yourself isn’t as strange as it sounds. It’s about asking yourself real questions: How do I feel today? What could I improve? Why am I stressed? What can I do about it? When you do this, you start to think more clearly.
 
@@ -48,8 +46,7 @@ You can even use tools like mind maps—on paper or with apps—to connect your 
 - *Get to know yourself by asking real questions and mapping out your thoughts.*
 - *Frustration and stress can paralyze you, so focus on calm and self-care.*
 
-![Just an aware, present woman re-birthing/re-creating her own world anew with the power of conscious intent, aligned action, passion and creativity ... Life is/as art from the heart ❤️💃☀️📷😻](https://images.unsplash.com/photo-1675654567595-e0db4fb40017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbC1ncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU2NTE4MzcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Honest Self-Questioning Can Change Your Life")
-*How Honest Self-Questioning Can Change Your Life - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-help-your-self-NiOhazjVVCA)*
+{{< figure src="https://images.unsplash.com/photo-1675654567595-e0db4fb40017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXJlZmxlY3Rpb24lMjBwZXJzb25hbC1ncm93dGglMjBzZWxmLWF3YXJlbmVzc3xlbnwwfDB8fHwxNzU2NTE4MzcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a sign that says help your self" title="How Honest Self-Questioning Can Change Your Life" caption="How Honest Self-Questioning Can Change Your Life - Photo by [Ava Sol](https://unsplash.com/@avasol) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-sign-that-says-help-your-self-NiOhazjVVCA)" >}}
 
 ## Action Steps
 

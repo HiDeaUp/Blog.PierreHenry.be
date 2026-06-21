@@ -12,8 +12,7 @@ original_title = "TU ES EN TRAIN DE TOMBER DANS LA RAT RACE, SANS T’EN RENDRE 
 source_medium = "https://medium.com/@phenrysay/93d47e3ce4b5"
 +++
 
-![Incense Holder](https://images.unsplash.com/photo-1676445353328-2eab8ac1ce99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyYXQlMjByYWNlJTIwbWluZHNldCUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTQxODIyN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the Rat Race Without Leaving Your Job")
-*How to Escape the Rat Race Without Leaving Your Job - Photo by [COPPERTIST WU](https://unsplash.com/@coppertistwu) on [Unsplash](https://unsplash.com/photos/a-figurine-of-a-cat-holding-a-bamboo-stick-9bETAvPqRbA)*
+{{< figure src="https://images.unsplash.com/photo-1676445353328-2eab8ac1ce99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyYXQlMjByYWNlJTIwbWluZHNldCUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTQxODIyN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Incense Holder" title="How to Escape the Rat Race Without Leaving Your Job" caption="How to Escape the Rat Race Without Leaving Your Job - Photo by [COPPERTIST WU](https://unsplash.com/@coppertistwu) on [Unsplash](https://unsplash.com/photos/a-figurine-of-a-cat-holding-a-bamboo-stick-9bETAvPqRbA)" >}}
 
 We often imagine the rat race as something that only happens to people in big companies, stuck in endless meetings and office politics. But the truth is, the rat race is everywhere—even if you’re self-employed, a freelancer, or running your own business. It’s a mindset, a pattern, and it’s easy to fall into without even noticing.
 
@@ -35,8 +34,7 @@ And if you’re independent? The pattern repeats. You want to earn more, land bi
 
 Even outside of work, the rat race follows us. There’s pressure to have the perfect family, the perfect house (not just any house, but one with four walls, a garden, in the right neighborhood). If you don’t have kids, people start asking questions. If you have only one child, there’s gossip. We end up making choices not because we want to, but because we feel we have to fit in.
 
-![Photo by James Wainscoat](https://images.unsplash.com/photo-1578819207934-56383fcdfb8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyYXQlMjByYWNlJTIwbWluZHNldCUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTQxODIyN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the Rat Race Without Leaving Your Job")
-*How to Escape the Rat Race Without Leaving Your Job - Photo by [James Wainscoat](https://unsplash.com/@tumbao1949) on [Unsplash](https://unsplash.com/photos/white-mouse-lot-toy-rjdd1PBqnXg)*
+{{< figure src="https://images.unsplash.com/photo-1578819207934-56383fcdfb8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyYXQlMjByYWNlJTIwbWluZHNldCUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTQxODIyN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="White mouse lot toy" title="How to Escape the Rat Race Without Leaving Your Job" caption="How to Escape the Rat Race Without Leaving Your Job - Photo by [James Wainscoat](https://unsplash.com/@tumbao1949) on [Unsplash](https://unsplash.com/photos/white-mouse-lot-toy-rjdd1PBqnXg)" >}}
 
 All of this comes at a cost: more work, more stress, less time for ourselves. We save and sacrifice, hoping for a reward that never really comes. Is this what life is about? Working endlessly for peanuts?
 
@@ -64,8 +62,7 @@ If you want to change something in your life, don’t wait for someone else to f
 
 ## Don’t Let Life Pass You By
 
-![Rat Reflection](https://images.unsplash.com/photo-1667835153964-3801049e5bf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyYXQlMjByYWNlJTIwbWluZHNldCUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTQxODIyN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Escape the Rat Race Without Leaving Your Job")
-*How to Escape the Rat Race Without Leaving Your Job - Photo by [Patrick Kalkman](https://unsplash.com/@kalkie) on [Unsplash](https://unsplash.com/photos/a-squirrel-eating-a-nut-WSG7DwLxX6o)*
+{{< figure src="https://images.unsplash.com/photo-1667835153964-3801049e5bf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyYXQlMjByYWNlJTIwbWluZHNldCUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTQxODIyN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Rat Reflection" title="How to Escape the Rat Race Without Leaving Your Job" caption="How to Escape the Rat Race Without Leaving Your Job - Photo by [Patrick Kalkman](https://unsplash.com/@kalkie) on [Unsplash](https://unsplash.com/photos/a-squirrel-eating-a-nut-WSG7DwLxX6o)" >}}
 
 If you’re unhappy with your daily routine, take action. Don’t just complain—do something about it. Maybe it’s taking a trip, even if it means going alone. Maybe it’s changing your habits, or just slowing down to enjoy the small things.
 

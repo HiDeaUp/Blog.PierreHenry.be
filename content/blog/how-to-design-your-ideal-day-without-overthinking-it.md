@@ -12,9 +12,7 @@ original_title = "Comment créer une journée idéale ? 🎨"
 source_medium = "https://medium.com/@phenrysay/3e98ef34ee88"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, make this the day, don't hesitate, procrastination, decision time, nocrastination, make the jump, exercise, new start, discipline, now is the time, just do it, make the change, diet, weight loss, walk, new leaf, turn over a new leaf, life change, stuck in a rut, move on, 
-](https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjY0MjEzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Ideal Day Without Overthinking It")
-*How to Design Your Ideal Day Without Overthinking It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)*
+{{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjY0MjEzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How to Design Your Ideal Day Without Overthinking It" caption="How to Design Your Ideal Day Without Overthinking It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 
 ### Why settle for an average day?
 
@@ -30,8 +28,7 @@ For example, maybe you love having a coffee in the morning. Sure, it might cost 
 
 It’s not just about doing more, but about making space for moments that are just for you. After work, you might take a break with a hot chocolate, or book a massage, or even plan a spa weekend once a month. Micro-vacations are another great idea. If you can, leave on a Wednesday or Thursday evening, work remotely on Friday from an Airbnb, and then enjoy the weekend in a new place. Whether it’s Sweden, Switzerland, or Iceland, working from somewhere different can give you a fresh perspective and a real boost in happiness.
 
-![Photo by Claudio Schwarz](https://images.unsplash.com/photo-1579892239804-00e520393fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjY0MjEzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Ideal Day Without Overthinking It")
-*How to Design Your Ideal Day Without Overthinking It - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/black-leather-textile-with-gold-m-OC06JiYuDnI)*
+{{< figure src="https://images.unsplash.com/photo-1579892239804-00e520393fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjY0MjEzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black leather textile with gold m" title="How to Design Your Ideal Day Without Overthinking It" caption="How to Design Your Ideal Day Without Overthinking It - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/black-leather-textile-with-gold-m-OC06JiYuDnI)" >}}
 
 The key is to take action. It’s easy to think, “That sounds nice,” but you have to actually do it. There’s never a perfect time to start. The best moment is always now. Don’t put off what you want to do today.
 
@@ -47,9 +44,7 @@ The same goes for small pleasures. If you enjoy a yogurt with dark chocolate, or
 > 
 > — Dalai Lama
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, type, typography, make this the day, don't hesitate, procrastination, decision time, nocrastination, make the jump, exercise, new start, discipline, now is the time, just do it, make the change, diet, weight loss, walk, new leaf, turn over a new leaf, life change, stuck in a rut, move on, 
-](https://images.unsplash.com/photo-1646121820995-7c3b64c07ac8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjY0MjEzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Ideal Day Without Overthinking It")
-*How to Design Your Ideal Day Without Overthinking It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-make-this-the-day-ufuRO4jAo-M)*
+{{< figure src="https://images.unsplash.com/photo-1646121820995-7c3b64c07ac8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjY0MjEzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles make this the day M" title="How to Design Your Ideal Day Without Overthinking It" caption="How to Design Your Ideal Day Without Overthinking It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-make-this-the-day-ufuRO4jAo-M)" >}}
 
 ---
 

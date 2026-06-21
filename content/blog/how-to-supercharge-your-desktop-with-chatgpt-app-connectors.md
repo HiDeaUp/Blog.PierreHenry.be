@@ -12,8 +12,7 @@ original_title = "MCP & OpenAI ChatGPT Connectors"
 source_medium = "https://medium.com/@phenrysay/9687ed8b2341"
 +++
 
-![Photo by Denis N.](https://images.unsplash.com/photo-1638734255280-8bae834f8297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDaGF0R1BUJTIwZGVza3RvcCUyMGludGVncmF0aW9uJTIwTUNQJTIwY29ubmVjdG9yc3xlbnwwfDB8fHwxNzY3MDk3OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge Your Desktop With ChatGPT App Connectors")
-*How to Supercharge Your Desktop With ChatGPT App Connectors - Photo by [Denis N.](https://unsplash.com/@ndcphoto) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-electronic-equipment-ys0p0euB7fE)*
+{{< figure src="https://images.unsplash.com/photo-1638734255280-8bae834f8297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDaGF0R1BUJTIwZGVza3RvcCUyMGludGVncmF0aW9uJTIwTUNQJTIwY29ubmVjdG9yc3xlbnwwfDB8fHwxNzY3MDk3OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a piece of" title="How to Supercharge Your Desktop With ChatGPT App Connectors" caption="How to Supercharge Your Desktop With ChatGPT App Connectors - Photo by [Denis N.](https://unsplash.com/@ndcphoto) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-piece-of-electronic-equipment-ys0p0euB7fE)" >}}
 
 Alright, so today I want to walk you through some absolutely wild features you can unlock with the desktop version of ChatGPT, especially when you start connecting it to your apps the MCP way. If you haven’t played with this yet, you’re in for a treat. We’re talking about connecting Visual Studio Code, your terminal, cloud drives, and even your email and calendar—basically turning ChatGPT into your own AI-powered command center.
 
@@ -31,8 +30,7 @@ You can also connect your terminal. This is super handy for running scripts, aut
 
 Now, let’s talk connectors. With connectors, you can link up Google Drive, Microsoft OneDrive (which works really well), and, if you’re on the pro version since August 13, you can even connect Gmail, Google Calendar, and Google Contacts. The pro version unlocks a bunch of these integrations, so keep that in mind.
 
-![VIZIO PX65-G1 65-inch 4K UHDTV Input Array](https://images.unsplash.com/photo-1583259034006-5ea8361109e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDaGF0R1BUJTIwZGVza3RvcCUyMGludGVncmF0aW9uJTIwTUNQJTIwY29ubmVjdG9yc3xlbnwwfDB8fHwxNzY3MDk3OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge Your Desktop With ChatGPT App Connectors")
-*How to Supercharge Your Desktop With ChatGPT App Connectors - Photo by [Patrick Campanale](https://unsplash.com/@patrickcampanale) on [Unsplash](https://unsplash.com/photos/black-and-blue-coated-wires-qCilde9fmTk)*
+{{< figure src="https://images.unsplash.com/photo-1583259034006-5ea8361109e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDaGF0R1BUJTIwZGVza3RvcCUyMGludGVncmF0aW9uJTIwTUNQJTIwY29ubmVjdG9yc3xlbnwwfDB8fHwxNzY3MDk3OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="VIZIO PX65-G1 65-inch 4K UHDTV Input Array" title="How to Supercharge Your Desktop With ChatGPT App Connectors" caption="How to Supercharge Your Desktop With ChatGPT App Connectors - Photo by [Patrick Campanale](https://unsplash.com/@patrickcampanale) on [Unsplash](https://unsplash.com/photos/black-and-blue-coated-wires-qCilde9fmTk)" >}}
 
 Once you’ve got these connected, the possibilities are endless. You can ask ChatGPT to summarize your emails, write updates with the latest details, or even generate executive summaries. It’s like having a virtual assistant that actually understands your workflow.
 
@@ -55,8 +53,7 @@ This setup is a game-changer for efficiency. Instead of getting bogged down in t
 
 As I like to say, “You’re the pilot, not the passenger.”
 
-![Photo by Mika Baumeister](https://images.unsplash.com/photo-1612801799318-910e863e6442?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDaGF0R1BUJTIwZGVza3RvcCUyMGludGVncmF0aW9uJTIwTUNQJTIwY29ubmVjdG9yc3xlbnwwfDB8fHwxNzY3MDk3OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge Your Desktop With ChatGPT App Connectors")
-*How to Supercharge Your Desktop With ChatGPT App Connectors - Photo by [Mika Baumeister](https://unsplash.com/@kommumikation) on [Unsplash](https://unsplash.com/photos/white-electronic-device-turned-on-in-a-room-FAmZ41x-z90)*
+{{< figure src="https://images.unsplash.com/photo-1612801799318-910e863e6442?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDaGF0R1BUJTIwZGVza3RvcCUyMGludGVncmF0aW9uJTIwTUNQJTIwY29ubmVjdG9yc3xlbnwwfDB8fHwxNzY3MDk3OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White device turned on in a room FAmZ41x z90" title="How to Supercharge Your Desktop With ChatGPT App Connectors" caption="How to Supercharge Your Desktop With ChatGPT App Connectors - Photo by [Mika Baumeister](https://unsplash.com/@kommumikation) on [Unsplash](https://unsplash.com/photos/white-electronic-device-turned-on-in-a-room-FAmZ41x-z90)" >}}
 
 ---
 

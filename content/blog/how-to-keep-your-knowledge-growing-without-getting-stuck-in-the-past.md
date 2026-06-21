@@ -12,8 +12,7 @@ original_title = "Pourquoi l’évolution de nos connaissances devrait être aus
 source_medium = "https://medium.com/@phenrysay/59b24f38f38d"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992939-be4eb6fddf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxrbm93bGVkZ2UlMjBncm93dGglMjBsaWZlbG9uZyUyMGxlYXJuaW5nJTIwbGFuZ3VhZ2UlMjBza2lsbHN8ZW58MHwwfHx8MTc1NTYzODM3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Your Knowledge Growing Without Getting Stuck in the Past")
-*How to Keep Your Knowledge Growing Without Getting Stuck in the Past - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-jpLyAy2LnA4)*
+{{< figure src="https://images.unsplash.com/photo-1695370992939-be4eb6fddf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxrbm93bGVkZ2UlMjBncm93dGglMjBsaWZlbG9uZyUyMGxlYXJuaW5nJTIwbGFuZ3VhZ2UlMjBza2lsbHN8ZW58MHwwfHx8MTc1NTYzODM3Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Keep Your Knowledge Growing Without Getting Stuck in the Past" caption="How to Keep Your Knowledge Growing Without Getting Stuck in the Past - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-jpLyAy2LnA4)" >}}
 
 Today, I want to share a realization that struck me at work. In the MedTech startup where I work, we recently welcomed a new colleague—a doctor who’s quite well-known in his field, and something of an influencer. He’s British, not Australian as some might think, and he speaks French—very well, in fact. But here’s the interesting part: he learned French when he was young, probably around 18, during his time in the military. He served as a doctor in the navy, working both in the UK and France for 27 years.
 
@@ -23,8 +22,7 @@ That’s when it hit me—when you stop using a language, or any skill for that 
 
 It’s not just about language. As an IT engineer, if I stopped programming for years, I’d probably code like someone stuck in the days of Pascal or BASIC. The same goes for any field—if you stop, your knowledge doesn’t keep up with new trends, tools, or ways of thinking.
 
-![Learn Languages Words](https://images.unsplash.com/photo-1673515334717-da4d85aaf38b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxrbm93bGVkZ2UlMjBncm93dGglMjBsaWZlbG9uZyUyMGxlYXJuaW5nJTIwbGFuZ3VhZ2UlMjBza2lsbHN8ZW58MHwwfHx8MTc1NTYzODM3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Your Knowledge Growing Without Getting Stuck in the Past")
-*How to Keep Your Knowledge Growing Without Getting Stuck in the Past - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-languages-spelled-out-of-scrabble-tiles-TFtIBULUMP0)*
+{{< figure src="https://images.unsplash.com/photo-1673515334717-da4d85aaf38b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxrbm93bGVkZ2UlMjBncm93dGglMjBsaWZlbG9uZyUyMGxlYXJuaW5nJTIwbGFuZ3VhZ2UlMjBza2lsbHN8ZW58MHwwfHx8MTc1NTYzODM3Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Learn Languages Words" title="How to Keep Your Knowledge Growing Without Getting Stuck in the Past" caption="How to Keep Your Knowledge Growing Without Getting Stuck in the Past - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-languages-spelled-out-of-scrabble-tiles-TFtIBULUMP0)" >}}
 
 This is why it’s so important to keep your knowledge moving forward. The world changes, and so do the demands of every profession. If you stop learning, you risk becoming like my colleague—speaking a language, or practicing a skill, that no longer fits the present.
 
@@ -44,8 +42,7 @@ So, ask yourself: which skills do you want to keep alive? Which ones will be use
 >
 > — African Proverb
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxrbm93bGVkZ2UlMjBncm93dGglMjBsaWZlbG9uZyUyMGxlYXJuaW5nJTIwbGFuZ3VhZ2UlMjBza2lsbHN8ZW58MHwwfHx8MTc1NTYzODM3Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Keep Your Knowledge Growing Without Getting Stuck in the Past")
-*How to Keep Your Knowledge Growing Without Getting Stuck in the Past - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)*
+{{< figure src="https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxrbm93bGVkZ2UlMjBncm93dGglMjBsaWZlbG9uZyUyMGxlYXJuaW5nJTIwbGFuZ3VhZ2UlMjBza2lsbHN8ZW58MHwwfHx8MTc1NTYzODM3Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Keep Your Knowledge Growing Without Getting Stuck in the Past" caption="How to Keep Your Knowledge Growing Without Getting Stuck in the Past - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)" >}}
 
 ---
 

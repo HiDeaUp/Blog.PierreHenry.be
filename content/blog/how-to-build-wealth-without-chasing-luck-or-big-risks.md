@@ -12,8 +12,7 @@ original_title = "Qu'est-ce qui peut te rendre riche ? [Guide 2024]"
 source_medium = "https://medium.com/@phenrysay/2dd9da9b9827"
 +++
 
-![Nature mockup postcard](https://images.unsplash.com/photo-1658574255676-2b8326e23fa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWFsdGglMjBidWlsZGluZyUyMGZpbmFuY2lhbCUyMGhhYml0cyUyMHBlcnNvbmFsJTIwZmluYW5jZXxlbnwwfDB8fHwxNzU1ODU4NTIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Wealth Without Chasing Luck or Big Risks")
-*How to Build Wealth Without Chasing Luck or Big Risks - Photo by [Jennie Razumnaya](https://unsplash.com/@jennie_ra) on [Unsplash](https://unsplash.com/photos/a-white-piece-of-paper-with-a-brown-handle-and-a-wooden-spoon-epJPYCKG01Q)*
+{{< figure src="https://images.unsplash.com/photo-1658574255676-2b8326e23fa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWFsdGglMjBidWlsZGluZyUyMGZpbmFuY2lhbCUyMGhhYml0cyUyMHBlcnNvbmFsJTIwZmluYW5jZXxlbnwwfDB8fHwxNzU1ODU4NTIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Nature mockup postcard" title="How to Build Wealth Without Chasing Luck or Big Risks" caption="How to Build Wealth Without Chasing Luck or Big Risks - Photo by [Jennie Razumnaya](https://unsplash.com/@jennie_ra) on [Unsplash](https://unsplash.com/photos/a-white-piece-of-paper-with-a-brown-handle-and-a-wooden-spoon-epJPYCKG01Q)" >}}
 
 Have you ever wondered what really makes someone rich? It’s not just about money or luck. The answer is much more practical: it’s about building the right habits, one on top of another, until they become second nature.
 
@@ -25,10 +24,7 @@ Here’s the key: for every half hour you spend consuming content, spend another
 
 At first, what you make might not be great. But with practice and routine, your work will get better. That’s the difference that counts. Creating content is good, but making it a habit is even better. Stack it onto something you already do—breakfast, coffee, even your shower. For example, when I shower, I review what I learned that day, like new words in Italian, Bisaya, or Japanese. I say them out loud, and it helps me remember.
 
-![🔴 I worked a lot to create this image, please consider sending a small donation to support my work.
-►► My Paypal link is in my profile 
-Thank you so much](https://images.unsplash.com/photo-1624953901718-e24ee7200b85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWFsdGglMjBidWlsZGluZyUyMGZpbmFuY2lhbCUyMGhhYml0cyUyMHBlcnNvbmFsJTIwZmluYW5jZXxlbnwwfDB8fHwxNzU1ODU4NTIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Wealth Without Chasing Luck or Big Risks")
-*How to Build Wealth Without Chasing Luck or Big Risks - Photo by [Mathieu Stern](https://unsplash.com/@mathieustern) on [Unsplash](https://unsplash.com/photos/green-and-white-ceramic-figurine-1fzyz-bmKBw)*
+{{< figure src="https://images.unsplash.com/photo-1624953901718-e24ee7200b85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWFsdGglMjBidWlsZGluZyUyMGZpbmFuY2lhbCUyMGhhYml0cyUyMHBlcnNvbmFsJTIwZmluYW5jZXxlbnwwfDB8fHwxNzU1ODU4NTIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="🔴 I worked a lot to create this image, please consider sending a small donation to support my work. ►► My Paypal link is in my profile Thank you so much" title="How to Build Wealth Without Chasing Luck or Big Risks" caption="How to Build Wealth Without Chasing Luck or Big Risks - Photo by [Mathieu Stern](https://unsplash.com/@mathieustern) on [Unsplash](https://unsplash.com/photos/green-and-white-ceramic-figurine-1fzyz-bmKBw)" >}}
 
 The real benefit is certainty. You don’t have to wonder if you’ll get things done—you just do them. Even when I’m traveling, like now in Bangkok, I keep my habits. Every time I go on vacation, I make a short video by the pool before bed. It’s simple, but it keeps me sharp and helps me share what I know.
 
@@ -48,8 +44,7 @@ Building wealth starts with investing in yourself—your time, your knowledge, a
 
 ## Key Takeaways
 
-![Photo by Kate Ibragimova](https://images.unsplash.com/photo-1696416701135-e1a03346925b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWFsdGglMjBidWlsZGluZyUyMGZpbmFuY2lhbCUyMGhhYml0cyUyMHBlcnNvbmFsJTIwZmluYW5jZXxlbnwwfDB8fHwxNzU1ODU4NTIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Wealth Without Chasing Luck or Big Risks")
-*How to Build Wealth Without Chasing Luck or Big Risks - Photo by [Kate Ibragimova](https://unsplash.com/@kateibragimova) on [Unsplash](https://unsplash.com/photos/a-woman-holding-a-cup-of-coffee-in-her-hands-CmYAAS_ZbtM)*
+{{< figure src="https://images.unsplash.com/photo-1696416701135-e1a03346925b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWFsdGglMjBidWlsZGluZyUyMGZpbmFuY2lhbCUyMGhhYml0cyUyMHBlcnNvbmFsJTIwZmluYW5jZXxlbnwwfDB8fHwxNzU1ODU4NTIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman holding a cup of coffee in her hands" title="How to Build Wealth Without Chasing Luck or Big Risks" caption="How to Build Wealth Without Chasing Luck or Big Risks - Photo by [Kate Ibragimova](https://unsplash.com/@kateibragimova) on [Unsplash](https://unsplash.com/photos/a-woman-holding-a-cup-of-coffee-in-her-hands-CmYAAS_ZbtM)" >}}
 
 - Stack new habits onto things you already do every day.
 - For every half hour you consume content, spend another half hour creating.

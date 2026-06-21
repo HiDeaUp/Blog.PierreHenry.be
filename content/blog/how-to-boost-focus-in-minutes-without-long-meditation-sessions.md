@@ -12,8 +12,7 @@ original_title = "La solution pour accomplir davantage ?"
 source_medium = "https://medium.com/@phenrysay/81d82c3feba9"
 +++
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMG1lZGl0YXRpb258ZW58MHwwfHx8MTc1NjAwNzAyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus in Minutes Without Long Meditation Sessions")
-*How to Boost Focus in Minutes Without Long Meditation Sessions - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMG1lZGl0YXRpb258ZW58MHwwfHx8MTc1NjAwNzAyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Boost Focus in Minutes Without Long Meditation Sessions" caption="How to Boost Focus in Minutes Without Long Meditation Sessions - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 Have you ever wondered why it’s so hard to stay focused, remember what you read, or finish what you start? I’ve found a surprisingly simple answer: productive meditation. This isn’t about sitting for hours in silence or chasing some mystical experience. It’s about taking several short meditation breaks throughout your day—just five to ten minutes each, ideally three times a day.
 
@@ -27,8 +26,7 @@ To help me stay organized, I use an app called Things 3. For example, when I was
 
 Another tool I love is Forest. It lets me set 90-minute work sprints, with short breaks in between. I’ve learned that these breaks shouldn’t last more than fifteen minutes. Any longer, and it’s much harder to get back into the flow of work. During these breaks, I avoid checking emails or messages. Instead, I might step outside, pet my cat or dog, make a coffee, or read a magazine. If you check your messages or watch the news, you risk filling your mind with unnecessary worries—mental clutter that makes it harder to focus.
 
-![Photo by Sam Bhattacharyya](https://images.unsplash.com/photo-1655970580622-4a547789c850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMG1lZGl0YXRpb258ZW58MHwwfHx8MTc1NjAwNzAyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus in Minutes Without Long Meditation Sessions")
-*How to Boost Focus in Minutes Without Long Meditation Sessions - Photo by [Sam Bhattacharyya](https://unsplash.com/@samoz) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-wearing-headphones-jNtsMxWZeko)*
+{{< figure src="https://images.unsplash.com/photo-1655970580622-4a547789c850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMG1lZGl0YXRpb258ZW58MHwwfHx8MTc1NjAwNzAyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a table wearing" title="How to Boost Focus in Minutes Without Long Meditation Sessions" caption="How to Boost Focus in Minutes Without Long Meditation Sessions - Photo by [Sam Bhattacharyya](https://unsplash.com/@samoz) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-wearing-headphones-jNtsMxWZeko)" >}}
 
 Physical activity helps too. I’m a big fan of swimming, but any exercise or change of environment can refresh your mind. Staying in the same workspace every day can get stale. Sometimes, just moving to a different spot can make a world of difference.
 
@@ -48,8 +46,7 @@ Remember, the present moment is all we really have. Don’t wait for tomorrow to
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653213096273-ca9718a64c63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMG1lZGl0YXRpb258ZW58MHwwfHx8MTc1NjAwNzAyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Focus in Minutes Without Long Meditation Sessions")
-*How to Boost Focus in Minutes Without Long Meditation Sessions - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-PVCpwrGS5as)*
+{{< figure src="https://images.unsplash.com/photo-1653213096273-ca9718a64c63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMG1lZGl0YXRpb258ZW58MHwwfHx8MTc1NjAwNzAyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A on a table" title="How to Boost Focus in Minutes Without Long Meditation Sessions" caption="How to Boost Focus in Minutes Without Long Meditation Sessions - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-PVCpwrGS5as)" >}}
 
 ## Key Takeaways
 

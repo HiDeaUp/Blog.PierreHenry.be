@@ -12,8 +12,7 @@ original_title = "Nouvelle manière de penser💡"
 source_medium = "https://medium.com/@phenrysay/a44a942dc234"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTI5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Trying One New Thing a Day Can Change Your Life")
-*How Trying One New Thing a Day Can Change Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTI5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How Trying One New Thing a Day Can Change Your Life" caption="How Trying One New Thing a Day Can Change Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Moving toward new horizons is what I want to share with you today. Imagine this: today is the day you try something different. Maybe you start a new project, do something that scares you a little, or simply visit a coffee shop or restaurant you’ve never been to before. Perhaps you finally go to that cocktail bar you’ve been thinking about, whether alone or with someone. You might have felt shy or hesitant, but today is the day to stretch your comfort zone.
 
@@ -23,8 +22,7 @@ There’s a quote I really like:
 > *To dare is to lose one’s footing for a moment. Not to dare is to lose oneself.*  
 — Søren Kierkegaard
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTI5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Trying One New Thing a Day Can Change Your Life")
-*How Trying One New Thing a Day Can Change Your Life - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTI5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How Trying One New Thing a Day Can Change Your Life" caption="How Trying One New Thing a Day Can Change Your Life - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 This idea rings so true. Daring to do something, even if it feels shaky at first, is what keeps us alive inside. If you never dare, you risk losing the spark that makes life meaningful.
 
@@ -39,8 +37,7 @@ The more you step outside your usual routine, the easier it becomes to do new th
 
 I wish you all the best as you go further. Remember, every day is an opportunity to try something new, to stretch your comfort zone, and to discover more about yourself.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTI5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080 "How Trying One New Thing a Day Can Change Your Life")
-*How Trying One New Thing a Day Can Change Your Life - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTI5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How Trying One New Thing a Day Can Change Your Life" caption="How Trying One New Thing a Day Can Change Your Life - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ---
 

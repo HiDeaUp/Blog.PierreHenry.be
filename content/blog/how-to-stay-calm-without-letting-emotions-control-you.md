@@ -12,8 +12,7 @@ original_title = "Submergé par les émotions ? Voici comment je gère les mienn
 source_medium = "https://medium.com/@phenrysay/8a77478ef70f"
 +++
 
-![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLXJlZ3VsYXRpb24lMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1NDIyNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm Without Letting Emotions Control You")
-*How to Stay Calm Without Letting Emotions Control You - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)*
+{{< figure src="https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLXJlZ3VsYXRpb24lMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1NDIyNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden framed gray wooden door" title="How to Stay Calm Without Letting Emotions Control You" caption="How to Stay Calm Without Letting Emotions Control You - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)" >}}
 
 When emotions take control, it’s easy to say or do things we later regret. Maybe you’ve snapped at someone who did their best, or made a choice you wish you could take back. I’ve been there too. The real danger is letting emotions decide for us, instead of taking a moment to pause and think.
 
@@ -31,8 +30,7 @@ Don’t drown yourself in advice from a hundred different people. Stick to two o
 >
 > — Pierre
 
-!["Gran cabeza habitada". Krebs Helga.](https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLXJlZ3VsYXRpb24lMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1NDIyNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm Without Letting Emotions Control You")
-*How to Stay Calm Without Letting Emotions Control You - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)*
+{{< figure src="https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLXJlZ3VsYXRpb24lMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1NDIyNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="&quot;Gran cabeza habitada&quot;. Krebs Helga." title="How to Stay Calm Without Letting Emotions Control You" caption="How to Stay Calm Without Letting Emotions Control You - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)" >}}
 
 Switch up your reading formats too. Try both paper books and digital ones. There’s something special about holding a real book, but a Kindle is handy when you travel. Don’t let old habits or family traditions decide for you—choose what works best for you, not what you were taught to prefer.
 
@@ -54,8 +52,7 @@ Don’t let emotions trap you or old beliefs hold you back. The world moves forw
 
 ## Key Takeaways
 
-![we walked by this wall at the funfair and while we watches people having fun i captured this picture.](https://images.unsplash.com/photo-1510423011867-b42552d52e07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLXJlZ3VsYXRpb24lMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1NDIyNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Calm Without Letting Emotions Control You")
-*How to Stay Calm Without Letting Emotions Control You - Photo by [Lili Kovac](https://unsplash.com/@lilschk) on [Unsplash](https://unsplash.com/photos/reflection-of-woman-leaning-against-wall-PFjmzTQ47Z0)*
+{{< figure src="https://images.unsplash.com/photo-1510423011867-b42552d52e07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLXJlZ3VsYXRpb24lMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1NDIyNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="we walked by this wall at the funfair and while we watches people having fun i captured this picture." title="How to Stay Calm Without Letting Emotions Control You" caption="How to Stay Calm Without Letting Emotions Control You - Photo by [Lili Kovac](https://unsplash.com/@lilschk) on [Unsplash](https://unsplash.com/photos/reflection-of-woman-leaning-against-wall-PFjmzTQ47Z0)" >}}
 
 - Pause before acting on strong emotions.
 - Give yourself time to reflect—especially before big decisions.

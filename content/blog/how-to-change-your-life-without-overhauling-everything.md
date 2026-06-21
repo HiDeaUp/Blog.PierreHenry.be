@@ -12,8 +12,7 @@ original_title = "Changer le cours de sa vie. Nouvelle façon 🚀"
 source_medium = "https://medium.com/@phenrysay/6c9b96def951"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYyNjcwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Overhauling Everything")
-*How to Change Your Life Without Overhauling Everything - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYyNjcwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Change Your Life Without Overhauling Everything" caption="How to Change Your Life Without Overhauling Everything - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Have you ever noticed how your days can start to blend together, each one feeling just like the last? This sameness can quietly hold you back from making any real, positive changes in your life. If you keep doing what you’ve always done, you shouldn’t expect anything different to happen. It’s as simple as that.
 
@@ -21,8 +20,7 @@ But what if you could look at your life and say, “Maybe things feel a bit dull
 
 That’s exactly the regret I want you to avoid. Don’t let yourself look back and wish you’d made a change earlier. Instead, start now. Shake up your routine. Say yes to new opportunities, even if they push you out of your comfort zone. Try a different job, even if it’s just for a little while. Maybe you’ll work in a café, a restaurant, or even help direct traffic at night—like they do in Australia and New Zealand, where people manage the roads during nighttime construction. It could be anything, really. The point is to do something new, especially with others.
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYyNjcwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Overhauling Everything")
-*How to Change Your Life Without Overhauling Everything - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYyNjcwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Change Your Life Without Overhauling Everything" caption="How to Change Your Life Without Overhauling Everything - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 You could join a bootcamp, study a subject you’ve never tried before, or simply take a class that interests you. When you do, you might find yourself thinking, “This is the kind of life I really enjoy.” The satisfaction comes not just from the activity itself, but from knowing you dared to try.
 
@@ -40,8 +38,7 @@ In the long run, it’s these experiences that make the biggest difference. Ther
 
 So, if you want your days to feel different, start by doing something different. It doesn’t have to be big. Just take the first step, and see where it leads you.
 
-![Photo by Courtney Cantu](https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYyNjcwN3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life Without Overhauling Everything")
-*How to Change Your Life Without Overhauling Everything - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)*
+{{< figure src="https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjYyNjcwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of the ground" title="How to Change Your Life Without Overhauling Everything" caption="How to Change Your Life Without Overhauling Everything - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)" >}}
 
 ---
 

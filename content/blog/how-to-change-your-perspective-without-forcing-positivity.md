@@ -12,8 +12,7 @@ original_title = "Vers une vie plus épanouie / Change ta perception du quotidie
 source_medium = "https://medium.com/@phenrysay/d5a72cca7c72"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2aXR5JTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Perspective Without Forcing Positivity")
-*How to Change Your Perspective Without Forcing Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2aXR5JTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Change Your Perspective Without Forcing Positivity" caption="How to Change Your Perspective Without Forcing Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Positivity changes everything. It’s not just a nice idea—it’s a real force that shapes how we live and feel every single day. There are always different ways to see things, especially when life throws us a curveball. Sometimes, things go wrong. That’s just a fact. But what really matters is how we react to those moments.
 
@@ -23,8 +22,7 @@ Here’s something powerful: everything is, in some way, our responsibility. Tha
 
 Let’s say your train is late. Sure, it’s not your fault directly. But maybe you could have taken an earlier train. Maybe you could have checked online to see if there were delays. The point isn’t to blame yourself, but to see what you could do differently next time. This way, you keep improving. If you always blame others, you never grow. You stay stuck, and in the long run, that’s its own kind of punishment.
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2aXR5JTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Perspective Without Forcing Positivity")
-*How to Change Your Perspective Without Forcing Positivity - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2aXR5JTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Change Your Perspective Without Forcing Positivity" caption="How to Change Your Perspective Without Forcing Positivity - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 So, always look for the positive. Ask yourself: What options do I have? What solutions are available? How can I avoid this happening again? And don’t forget to be grateful for the basics: you’re alive, you’re healthy, and you’re living in a world that’s, for the most part, safe. That alone is a reason to feel thankful.
 
@@ -43,8 +41,7 @@ So, always look for the positive. Ask yourself: What options do I have? What sol
 - Look for solutions, not excuses.
 - Gratitude for the basics can change your mood instantly.
 
-![If you like my work, please support me: paypal.me/viktorforgacs](https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2aXR5JTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Perspective Without Forcing Positivity")
-*How to Change Your Perspective Without Forcing Positivity - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)*
+{{< figure src="https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2aXR5JTIwbWluZHNldCUyMHNoaWZ0JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="If you like my work, please support me: paypal.me/viktorforgacs" title="How to Change Your Perspective Without Forcing Positivity" caption="How to Change Your Perspective Without Forcing Positivity - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)" >}}
 
 ## Action Steps
 

@@ -12,8 +12,7 @@ original_title = "Es-tu assistante de direction... ? Alors, tu passes à côté 
 source_medium = "https://medium.com/@phenrysay/f1dfcca073d5"
 +++
 
-![Job Application](https://images.unsplash.com/photo-1653038417332-6db0ff9d4bfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBqb2IlMjB0aXRsZXMlMjBjYXJlZXIlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQxOTA2MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Choose the Right Boss—Not Just the Right Job Title")
-*How to Choose the Right Boss—Not Just the Right Job Title - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-job-application-printed-on-it-XKKuY4ottJ0)*
+{{< figure src="https://images.unsplash.com/photo-1653038417332-6db0ff9d4bfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBqb2IlMjB0aXRsZXMlMjBjYXJlZXIlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQxOTA2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Job Application" title="How to Choose the Right Boss—Not Just the Right Job Title" caption="How to Choose the Right Boss—Not Just the Right Job Title - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-job-application-printed-on-it-XKKuY4ottJ0)" >}}
 
 Let’s talk honestly about certain jobs and how we see them. This isn’t a criticism—just my personal take, and maybe it’ll make you see things differently.
 
@@ -33,8 +32,7 @@ On the other hand, if you’re assisting just any director—someone who isn’t
 
 ## The Cleaner: The Value of Where You Work
 
-![Download Mega Bundle 5,000+ awesome stock photos with commercial license With 16 categories | Perfect for websites, ads and marketing campaigns in South Asian countries. Get access at 50% discount on www.fotos.pk](https://images.unsplash.com/photo-1659353220570-435990a3bd6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBqb2IlMjB0aXRsZXMlMjBjYXJlZXIlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQxOTA2MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Choose the Right Boss—Not Just the Right Job Title")
-*How to Choose the Right Boss—Not Just the Right Job Title - Photo by [Fotos](https://unsplash.com/@fotospk) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-gun-k-xzciw_mnY)*
+{{< figure src="https://images.unsplash.com/photo-1659353220570-435990a3bd6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBqb2IlMjB0aXRsZXMlMjBjYXJlZXIlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQxOTA2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person holding a gun k" title="How to Choose the Right Boss—Not Just the Right Job Title" caption="How to Choose the Right Boss—Not Just the Right Job Title - Photo by [Fotos](https://unsplash.com/@fotospk) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-gun-k-xzciw_mnY)" >}}
 
 Let’s look at another job: cleaning. The title has changed over the years, too. What used to be called “cleaner” is now often “surface technician” or “cleaning agent.” It sounds better, more technical, but at the end of the day, it’s still about keeping places clean.
 
@@ -60,8 +58,7 @@ Whether you’re an executive assistant or a cleaner, the key is to be thoughtfu
 
 ## Key Takeaways
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740818575141-410fd9685c28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBqb2IlMjB0aXRsZXMlMjBjYXJlZXIlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQxOTA2MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Choose the Right Boss—Not Just the Right Job Title")
-*How to Choose the Right Boss—Not Just the Right Job Title - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/the-word-role-spelled-with-scrabble-blocks-on-a-table-2Op_fWEUJoQ)*
+{{< figure src="https://images.unsplash.com/photo-1740818575141-410fd9685c28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleGVjdXRpdmUlMjBhc3Npc3RhbnQlMjBqb2IlMjB0aXRsZXMlMjBjYXJlZXIlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTQxOTA2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="The word role spelled with blocks on a table" title="How to Choose the Right Boss—Not Just the Right Job Title" caption="How to Choose the Right Boss—Not Just the Right Job Title - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/the-word-role-spelled-with-scrabble-blocks-on-a-table-2Op_fWEUJoQ)" >}}
 
 - Job titles often change, but the core tasks remain similar.
 - The real difference comes from who you work for or where you work.

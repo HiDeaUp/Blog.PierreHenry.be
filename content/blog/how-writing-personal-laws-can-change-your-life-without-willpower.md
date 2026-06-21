@@ -12,8 +12,7 @@ original_title = "La constitution ne m’a jamais rendu aussi heureux"
 source_medium = "https://medium.com/@phenrysay/4b3cf645bcc9"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE4ODgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Writing Personal Laws Can Change Your Life Without Willpower")
-*How Writing Personal Laws Can Change Your Life Without Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE4ODgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How Writing Personal Laws Can Change Your Life Without Willpower" caption="How Writing Personal Laws Can Change Your Life Without Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever thought about writing your own constitution? Not a country’s constitution, but a set of personal laws—rules you promise yourself never to break. It sounds a bit dramatic, but trust me, it’s one of the most powerful things you can do for yourself.
 
@@ -29,8 +28,7 @@ Here’s how I do it:
 
 This might sound simple, but it’s incredibly effective. When you write something down and sign it, it becomes real. You’re not just thinking about quitting a bad habit—you’re making a promise to yourself. And when someone else signs it too, you’re even less likely to break it.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE4ODgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Writing Personal Laws Can Change Your Life Without Willpower")
-*How Writing Personal Laws Can Change Your Life Without Willpower - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE4ODgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How Writing Personal Laws Can Change Your Life Without Willpower" caption="How Writing Personal Laws Can Change Your Life Without Willpower - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 > *Discipline is choosing between what you want now and what you want most.*  
 > — Abraham Lincoln
@@ -45,8 +43,7 @@ And remember, your environment matters too. If you’re surrounded by people or 
 
 ## Key Takeaways
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, i am, jesus, god, jehovah, jhwh, yahweh, john 8, ](https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE4ODgzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Writing Personal Laws Can Change Your Life Without Willpower")
-*How Writing Personal Laws Can Change Your Life Without Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-8OLfV5F9nO4)*
+{{< figure src="https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDE4ODgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter t letter" title="How Writing Personal Laws Can Change Your Life Without Willpower" caption="How Writing Personal Laws Can Change Your Life Without Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-8OLfV5F9nO4)" >}}
 
 - *Write your own personal constitution: a few clear rules you promise never to break.*
 - *Keep it simple—no more than four rules at a time.*

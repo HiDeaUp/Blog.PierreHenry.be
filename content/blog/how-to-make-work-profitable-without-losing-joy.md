@@ -12,8 +12,7 @@ original_title = "Une passion lucrative.  La methode complete"
 source_medium = "https://medium.com/@phenrysay/6184b68939e6"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvZml0YWJsZSUyMHdvcmslMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDE1ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Work Profitable Without Losing Joy")
-*How to Make Work Profitable Without Losing Joy - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)*
+{{< figure src="https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwcHJvZml0YWJsZSUyMHdvcmslMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDE1ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word passion" title="How to Make Work Profitable Without Losing Joy" caption="How to Make Work Profitable Without Losing Joy - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)" >}}
 
 When you spend your days working—whether as an employee, a freelancer, or simply following a hobby that brings in some income—it's important to find pleasure in what you do. If you enjoy your work, everything improves. Your satisfaction grows, your days feel more fulfilling, and your attitude becomes more positive. Loving what you do doesn't just make the task easier; it changes the way you see your entire day.
 
@@ -21,8 +20,7 @@ But how do you turn a regular job or even a dull task into something fun? The se
 
 Sometimes, all it takes is a change of environment. Instead of sitting at the same desk, try moving your workspace near a window or into a cozy, clean kitchen. Some people find inspiration in a café or a bar. There are even trendy solutions like a "studio pod"—a small, glass-walled office you can set up in your garden, letting you work surrounded by nature.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pause, breathe, resume, pause breathe dream, rest, stop, think, mindfulness, don't rush, focus, reset, redux, reboot, perspective, pace yourself, pace, balance, relax, ](https://images.unsplash.com/photo-1624718393399-9d448945f176?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvZml0YWJsZSUyMHdvcmslMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDE1ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Work Profitable Without Losing Joy")
-*How to Make Work Profitable Without Losing Joy - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-fswQZLlHC3Y)*
+{{< figure src="https://images.unsplash.com/photo-1624718393399-9d448945f176?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwcHJvZml0YWJsZSUyMHdvcmslMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDE1ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Make Work Profitable Without Losing Joy" caption="How to Make Work Profitable Without Losing Joy - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-fswQZLlHC3Y)" >}}
 
 You could also try working in a botanical garden, listening to music you love, or simply changing the time of day you tackle certain tasks. Maybe you work better in the evening, or perhaps the early morning suits you. Try working on your balcony, or even rent an Airbnb in a new city for a fresh perspective. The possibilities are endless.
 
@@ -36,8 +34,7 @@ I know it's not always simple, but I'm rooting for you. If you want to go even f
 >
 > — Wayne Dyer
 
-![»Passionate« in Gold](https://images.unsplash.com/photo-1618438051699-58c35eb6e614?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvZml0YWJsZSUyMHdvcmslMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDE1ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Work Profitable Without Losing Joy")
-*How to Make Work Profitable Without Losing Joy - Photo by [Etienne Girardet](https://unsplash.com/@etiennegirardet) on [Unsplash](https://unsplash.com/photos/brown-and-black-round-ornament-weYtEB6fsO4)*
+{{< figure src="https://images.unsplash.com/photo-1618438051699-58c35eb6e614?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwcHJvZml0YWJsZSUyMHdvcmslMjBjYXJlZXIlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2MDE1ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="»Passionate« in Gold" title="How to Make Work Profitable Without Losing Joy" caption="How to Make Work Profitable Without Losing Joy - Photo by [Etienne Girardet](https://unsplash.com/@etiennegirardet) on [Unsplash](https://unsplash.com/photos/brown-and-black-round-ornament-weYtEB6fsO4)" >}}
 
 ---
 

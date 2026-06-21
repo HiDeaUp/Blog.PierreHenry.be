@@ -12,8 +12,7 @@ original_title = "Vivre de manière LIBRE: Le guide COMPLET pour devenir INDÉPE
 source_medium = "https://medium.com/@phenrysay/780da3708273"
 +++
 
-![Reach out to the world](https://images.unsplash.com/photo-1497561813398-8fcc7a37b567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmRlcGVuZGVuY2UlMjBwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDkyODR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Freely Without a 9-to-5 Job")
-*How to Live Freely Without a 9-to-5 Job - Photo by [Benjamin Davies](https://unsplash.com/@bendavisual) on [Unsplash](https://unsplash.com/photos/silhouette-of-man-standing-on-high-ground-under-red-and-blue-skies-FiZTaNTj2Ak)*
+{{< figure src="https://images.unsplash.com/photo-1497561813398-8fcc7a37b567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmRlcGVuZGVuY2UlMjBwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDkyODR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Reach out to the world" title="How to Live Freely Without a 9-to-5 Job" caption="How to Live Freely Without a 9-to-5 Job - Photo by [Benjamin Davies](https://unsplash.com/@bendavisual) on [Unsplash](https://unsplash.com/photos/silhouette-of-man-standing-on-high-ground-under-red-and-blue-skies-FiZTaNTj2Ak)" >}}
 
 Living freely and well is what most people want. At least, that's always been my goal: to have the freedom to design my days, plan my mornings, afternoons, and evenings, and manage my own time. Of course, this means I need to be more organized, but it also means I’m not stuck in a regular 9-to-5 job. I remember when I used to work from 7 AM to 10 PM as a senior lead engineer. The pay was good, but I was giving so many hours that, in the end, my salary didn’t feel that impressive. Sometimes, it’s hard to see the value of your salary compared to the hours you put in. That’s something we don’t talk about enough.
 
@@ -25,8 +24,7 @@ So, how do you make money? The answer is simple: sell what you know. Sell your s
 
 You can help others or create a course on analyzing difficult instructions. Test your market by offering a course on Udemy, YouTube, or another platform. Start small and build from there. But here’s my best advice: do one thing at a time. Don’t spread yourself too thin or get distracted by what other influencers are doing. Focus on one thing. If it doesn’t work, you can switch, but always focus on one thing at a time. Focus pays off. When you know where to put your energy and finish what you start, you actually get things done. If you start a video or a course and give up before publishing, you’ll never know if there was demand for it. You have to finish.
 
-![self care](https://images.unsplash.com/photo-1628132031417-8bf59e4dfffe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmRlcGVuZGVuY2UlMjBwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDkyODR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Freely Without a 9-to-5 Job")
-*How to Live Freely Without a 9-to-5 Job - Photo by [Elisa Stone](https://unsplash.com/@ecjs) on [Unsplash](https://unsplash.com/photos/white-and-black-quote-on-gray-wall-7ahL8t9-mEo)*
+{{< figure src="https://images.unsplash.com/photo-1628132031417-8bf59e4dfffe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmRlcGVuZGVuY2UlMjBwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDkyODR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="self care" title="How to Live Freely Without a 9-to-5 Job" caption="How to Live Freely Without a 9-to-5 Job - Photo by [Elisa Stone](https://unsplash.com/@ecjs) on [Unsplash](https://unsplash.com/photos/white-and-black-quote-on-gray-wall-7ahL8t9-mEo)" >}}
 
 You can start with marketing, ads, or social media, depending on where your audience is—Instagram, Google, TikTok, or even AI chat tools. Do your research. Selling what you’re good at and what you love is the most rewarding thing you can do. Having an online business is also the easiest and cheapest way to start. Opening a physical business or investing in real estate or a restaurant is much more expensive and risky. Online, it’s safer and easier, but there’s also more competition. That’s why you need a real advantage, a unique selling point (USP) to stand out.
 
@@ -43,8 +41,7 @@ The best time to take action and build a life that fits you is today. Don’t pu
 
 ## Key Takeaways
 
-![Shadows can make great stories.](https://images.unsplash.com/photo-1563182150-7abad4f9d362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmRlcGVuZGVuY2UlMjBwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDkyODR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Freely Without a 9-to-5 Job")
-*How to Live Freely Without a 9-to-5 Job - Photo by [Bogdan Todoran](https://unsplash.com/@todoranb_26) on [Unsplash](https://unsplash.com/photos/man-stretching-his-arms-silhouette-at-sunrise-xRT85yVC-8k)*
+{{< figure src="https://images.unsplash.com/photo-1563182150-7abad4f9d362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmRlcGVuZGVuY2UlMjBwZXJzb25hbCUyMGZyZWVkb20lMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDkyODR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Shadows can make great stories." title="How to Live Freely Without a 9-to-5 Job" caption="How to Live Freely Without a 9-to-5 Job - Photo by [Bogdan Todoran](https://unsplash.com/@todoranb_26) on [Unsplash](https://unsplash.com/photos/man-stretching-his-arms-silhouette-at-sunrise-xRT85yVC-8k)" >}}
 
 - *Designing your own life starts with taking control of your time and skills.*
 - *Sell what you know and what you’re naturally good at.*

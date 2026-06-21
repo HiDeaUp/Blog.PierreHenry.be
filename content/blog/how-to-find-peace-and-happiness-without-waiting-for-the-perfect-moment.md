@@ -12,8 +12,7 @@ original_title = "Paix et bonheur : le cadeau le plus précieux que nous puissio
 source_medium = "https://medium.com/@phenrysay/b5305bf9908e"
 +++
 
-![Photo by Kier in Sight Archives](https://images.unsplash.com/photo-1648347109662-4663cf7b79d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZWFjZSUyMGhhcHBpbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDE2NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Peace and Happiness Without Waiting for the Perfect Moment")
-*How to Find Peace and Happiness Without Waiting for the Perfect Moment - Photo by [Kier in Sight Archives](https://unsplash.com/@kierinsightarchives) on [Unsplash](https://unsplash.com/photos/a-piece-of-wood-with-the-word-pepce-spelled-in-it-WjMNw7dOBB0)*
+{{< figure src="https://images.unsplash.com/photo-1648347109662-4663cf7b79d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZWFjZSUyMGhhcHBpbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDE2NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A piece of wood with the word pepce spelled in it" title="How to Find Peace and Happiness Without Waiting for the Perfect Moment" caption="How to Find Peace and Happiness Without Waiting for the Perfect Moment - Photo by [Kier in Sight Archives](https://unsplash.com/@kierinsightarchives) on [Unsplash](https://unsplash.com/photos/a-piece-of-wood-with-the-word-pepce-spelled-in-it-WjMNw7dOBB0)" >}}
 
 What if the best gift you could ever give yourself wasn’t something you could buy, but something you could feel? Peace and happiness—these are the treasures that matter most. They’re not about grand gestures or big sacrifices, but about enjoying the little things, being present, and living with dignity.
 
@@ -25,8 +24,7 @@ It’s up to you to make time for pleasure, to slow down, and to savor your days
 
 Take job hunting, for example. Most people apply to every job posting they see, sending out resumes on LinkedIn or job boards. But there’s a smarter way: find out who the manager is, send them a direct message, and ask for a quick call. This shortcut puts you at the top of the list, while everyone else gets lost in the pile. The same goes for life—if you do what everyone else does, you’ll just be another face in the crowd. Stand out. Be the “purple cow.” Live your life differently.
 
-![Give peace a chance (John Lennon), written in colourful letters](https://images.unsplash.com/photo-1629019333951-08b0d76dae6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZWFjZSUyMGhhcHBpbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDE2NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Peace and Happiness Without Waiting for the Perfect Moment")
-*How to Find Peace and Happiness Without Waiting for the Perfect Moment - Photo by [Daria Nepriakhina 🇺🇦](https://unsplash.com/@epicantus) on [Unsplash](https://unsplash.com/photos/text-fBw24ZcibPU)*
+{{< figure src="https://images.unsplash.com/photo-1629019333951-08b0d76dae6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZWFjZSUyMGhhcHBpbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDE2NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Give peace a chance (John Lennon), written in colourful letters" title="How to Find Peace and Happiness Without Waiting for the Perfect Moment" caption="How to Find Peace and Happiness Without Waiting for the Perfect Moment - Photo by [Daria Nepriakhina 🇺🇦](https://unsplash.com/@epicantus) on [Unsplash](https://unsplash.com/photos/text-fBw24ZcibPU)" >}}
 
 Speaking of happiness, the ancient Greeks had some wisdom worth sharing. For them, happiness wasn’t just about feeling joy—it was about living a life without worry, without constant stress or fear. There’s a difference between being happy and having happiness. Happiness, in the Greek sense, is about living free from trouble. That’s why having enough money to live decently matters—not for luxury, but to avoid the constant anxiety of making ends meet.
 
@@ -44,8 +42,7 @@ Some people say, “You just have to want it.” It sounds simple, but there’s
 
 I’ve spent years and a lot of money learning from conferences and workshops around the world. What I’ve learned is that we’re all students, always learning, always growing. Life changes, and so should we.
 
-![Kamakura, Japan](https://images.unsplash.com/photo-1573102363932-40c3111c5f73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZWFjZSUyMGhhcHBpbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDE2NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Peace and Happiness Without Waiting for the Perfect Moment")
-*How to Find Peace and Happiness Without Waiting for the Perfect Moment - Photo by [Roméo A.](https://unsplash.com/@gronemo) on [Unsplash](https://unsplash.com/photos/three-human-figurines-YsJFEWaTGBU)*
+{{< figure src="https://images.unsplash.com/photo-1573102363932-40c3111c5f73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZWFjZSUyMGhhcHBpbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1NDE2NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Kamakura, Japan" title="How to Find Peace and Happiness Without Waiting for the Perfect Moment" caption="How to Find Peace and Happiness Without Waiting for the Perfect Moment - Photo by [Roméo A.](https://unsplash.com/@gronemo) on [Unsplash](https://unsplash.com/photos/three-human-figurines-YsJFEWaTGBU)" >}}
 
 So, enjoy your life. Savor the small moments. I believe in you—believe in yourself, too. Go for it. You’ll go far.
 

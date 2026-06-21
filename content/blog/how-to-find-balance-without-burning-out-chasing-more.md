@@ -12,8 +12,7 @@ original_title = "L’importance d’avoir une vie équilibrée"
 source_medium = "https://medium.com/@phenrysay/83e9d495cd31"
 +++
 
-![Spinning Dream](https://images.unsplash.com/photo-1533928298208-27ff66555d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwc2VsZi1jYXJlJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NDkzMzAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Balance Without Burning Out Chasing “More”?")
-*How to Find Balance Without Burning Out Chasing “More”? - Photo by [Christophe Hautier](https://unsplash.com/@hautier) on [Unsplash](https://unsplash.com/photos/gray-top-902vnYeoWS4)*
+{{< figure src="https://images.unsplash.com/photo-1533928298208-27ff66555d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwc2VsZi1jYXJlJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NDkzMzAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Spinning Dream" title="How to Find Balance Without Burning Out Chasing “More”?" caption="How to Find Balance Without Burning Out Chasing “More”? - Photo by [Christophe Hautier](https://unsplash.com/@hautier) on [Unsplash](https://unsplash.com/photos/gray-top-902vnYeoWS4)" >}}
 
 We often feel like we always have to do more. There’s this constant pressure to be productive, to keep pushing, to never stop. It’s as if we’re always running after something, and it’s never enough. Discipline and organization are important, of course. But if you don’t take time for yourself, to enjoy life, you’ll run out of positive energy for the things you actually want to do.
 
@@ -23,8 +22,7 @@ But what does “pleasure” really mean? It’s all about balance. If your idea
 
 The same goes for work. I was recently working on an assessment for university—a kind of report, like a mini-thesis. I enjoy doing this kind of research, and I feel proud when I finish. But if I spend the whole day, from morning to night, glued to my computer, I end up feeling terrible. That’s why it’s so important to find balance.
 
-![Photo by Campaign Creators](https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwc2VsZi1jYXJlJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NDkzMzAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Balance Without Burning Out Chasing “More”?")
-*How to Find Balance Without Burning Out Chasing “More”? - Photo by [Campaign Creators](https://unsplash.com/@campaign_creators) on [Unsplash](https://unsplash.com/photos/people-sitting-near-table-with-laptop-computer-qCi_MzVODoU)*
+{{< figure src="https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwc2VsZi1jYXJlJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NDkzMzAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="People sitting near table with laptop" title="How to Find Balance Without Burning Out Chasing “More”?" caption="How to Find Balance Without Burning Out Chasing “More”? - Photo by [Campaign Creators](https://unsplash.com/@campaign_creators) on [Unsplash](https://unsplash.com/photos/people-sitting-near-table-with-laptop-computer-qCi_MzVODoU)" >}}
 
 One thing that changed everything for me was learning to separate different types of activities. For example, mixing manual tasks with more mental ones, or creating special spaces for focus. I discovered “study pods”—little isolated spots, sometimes in your garden or inside your home, where you can concentrate. For me, having a bubble like that made a huge difference.
 
@@ -40,8 +38,7 @@ Your life belongs to you. It’s up to you to decide how to use your days, how t
 
 ---
 
-![Unsplash Power](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwc2VsZi1jYXJlJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NDkzMzAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Balance Without Burning Out Chasing “More”?")
-*How to Find Balance Without Burning Out Chasing “More”? - Photo by [Domenico Loia](https://unsplash.com/@domenicoloia) on [Unsplash](https://unsplash.com/photos/macbook-pro-on-table-beside-white-imac-and-magic-mouse-hGV2TfOh0ns)*
+{{< figure src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwc2VsZi1jYXJlJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NDkzMzAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Unsplash Power" title="How to Find Balance Without Burning Out Chasing “More”?" caption="How to Find Balance Without Burning Out Chasing “More”? - Photo by [Domenico Loia](https://unsplash.com/@domenicoloia) on [Unsplash](https://unsplash.com/photos/macbook-pro-on-table-beside-white-imac-and-magic-mouse-hGV2TfOh0ns)" >}}
 
 ## Key Takeaways
 - Discipline is important, but so is pleasure.

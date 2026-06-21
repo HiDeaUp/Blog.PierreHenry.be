@@ -12,8 +12,7 @@ original_title = "Comment la nature peut bouleverser la vision de vie"
 source_medium = "https://medium.com/@phenrysay/de6e145fb854"
 +++
 
-![A sprout of tree was born and has started to grow on a decaying stub.](https://images.unsplash.com/photo-1624137461186-b1e0196b8702?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBsaWZlJTIwcGVyc3BlY3RpdmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fresh Perspective Without Leaving Your Neighborhood")
-*How to Find Fresh Perspective Without Leaving Your Neighborhood - Photo by [Nagara Oyodo](https://unsplash.com/@nagaranbasaran) on [Unsplash](https://unsplash.com/photos/green-plant-on-gray-rock-kE0o9syjDZQ)*
+{{< figure src="https://images.unsplash.com/photo-1624137461186-b1e0196b8702?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBsaWZlJTIwcGVyc3BlY3RpdmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sprout of tree was born and has started to grow on a decaying stub." title="How to Find Fresh Perspective Without Leaving Your Neighborhood" caption="How to Find Fresh Perspective Without Leaving Your Neighborhood - Photo by [Nagara Oyodo](https://unsplash.com/@nagaranbasaran) on [Unsplash](https://unsplash.com/photos/green-plant-on-gray-rock-kE0o9syjDZQ)" >}}
 
 When was the last time you really paid attention to your surroundings? Not just passing through a park or glancing at a tree from your window, but truly letting nature shape your thoughts. Nature is not just a backdrop to our busy lives; it can become a powerful tool for personal growth and a fresh perspective.
 
@@ -21,8 +20,7 @@ One idea that has always fascinated me is how our environment can give us so muc
 
 This shift in thinking changes everything. Nature becomes more than a place to relax; it becomes a partner in your journey. Whether you live in a city like New York or a small village, the natural world has something to teach you about moving forward.
 
-![Photo by Sebastian Herrmann](https://images.unsplash.com/photo-1548710332-f65936b2ba27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuYXR1cmUlMjBsaWZlJTIwcGVyc3BlY3RpdmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fresh Perspective Without Leaving Your Neighborhood")
-*How to Find Fresh Perspective Without Leaving Your Neighborhood - Photo by [Sebastian Herrmann](https://unsplash.com/@herrherrmann) on [Unsplash](https://unsplash.com/photos/macro-photography-of-green-plants-KzA5drJC-ok)*
+{{< figure src="https://images.unsplash.com/photo-1548710332-f65936b2ba27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuYXR1cmUlMjBsaWZlJTIwcGVyc3BlY3RpdmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Macro of green plants ok" title="How to Find Fresh Perspective Without Leaving Your Neighborhood" caption="How to Find Fresh Perspective Without Leaving Your Neighborhood - Photo by [Sebastian Herrmann](https://unsplash.com/@herrherrmann) on [Unsplash](https://unsplash.com/photos/macro-photography-of-green-plants-KzA5drJC-ok)" >}}
 
 I encourage you to make it a habit: take a walk in nature two or three times a week. Use these moments not just for exercise, but for reflection. Ask yourself what you can learn, how you can grow, and what new ideas might come to you when you step away from screens and noise.
 
@@ -36,8 +34,7 @@ Nature is not just a resource; it is the foundation for everything you want to a
 
 ---
 
-![Lovely plants growing in the forest](https://images.unsplash.com/photo-1753787346105-b570a59916e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjBsaWZlJTIwcGVyc3BlY3RpdmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fresh Perspective Without Leaving Your Neighborhood")
-*How to Find Fresh Perspective Without Leaving Your Neighborhood - Photo by [engin akyurt](https://unsplash.com/@enginakyurt) on [Unsplash](https://unsplash.com/photos/fresh-green-plants-thriving-in-nature-wa25NFRuxBg)*
+{{< figure src="https://images.unsplash.com/photo-1753787346105-b570a59916e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjBsaWZlJTIwcGVyc3BlY3RpdmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Lovely plants growing in the forest" title="How to Find Fresh Perspective Without Leaving Your Neighborhood" caption="How to Find Fresh Perspective Without Leaving Your Neighborhood - Photo by [engin akyurt](https://unsplash.com/@enginakyurt) on [Unsplash](https://unsplash.com/photos/fresh-green-plants-thriving-in-nature-wa25NFRuxBg)" >}}
 
 ## Key Takeaways
 - Nature is more than a background; it can drive your personal progress.

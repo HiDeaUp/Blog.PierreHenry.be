@@ -12,8 +12,7 @@ original_title = "Ce que PERSONNE DIT sur la RÉGULARITÉ (et tout ce que j'ai
 source_medium = "https://medium.com/@phenrysay/543c63020a54"
 +++
 
-![Photo by Solving Healthcare](https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwcm91dGluZSUyMGhlYWx0aHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTQxOTI0MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Energy Every Day WITHOUT Changing Your Routine")
-*How to Boost Energy Every Day WITHOUT Changing Your Routine - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)*
+{{< figure src="https://images.unsplash.com/photo-1721815714586-73849a2a163b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwcm91dGluZSUyMGhlYWx0aHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTQxOTI0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man laying in bed with a clock on top of him nqr6 Ix22EQ" title="How to Boost Energy Every Day WITHOUT Changing Your Routine" caption="How to Boost Energy Every Day WITHOUT Changing Your Routine - Photo by [Solving Healthcare](https://unsplash.com/@solvinghealthcare) on [Unsplash](https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ)" >}}
 
 When people talk about routines, they often focus on productivity hacks or morning rituals. But there’s one thing that rarely gets the attention it deserves: the power of being consistent, especially with your sleep schedule. I’ve learned, sometimes the hard way, that going to bed and waking up at the same time every day is one of the most important habits you can build—not just for your energy, but for your health and peace of mind.
 
@@ -31,8 +30,7 @@ If you’re in an office without such perks, it’s tougher, but even a few minu
 
 ## Why Exceptions Are Dangerous
 
-![sleep](https://images.unsplash.com/photo-1520206183501-b80df61043c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwcm91dGluZSUyMGhlYWx0aHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTQxOTI0MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Energy Every Day WITHOUT Changing Your Routine")
-*How to Boost Energy Every Day WITHOUT Changing Your Routine - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sleeping-on-blue-throw-pillow-s8PTWCu5maQ)*
+{{< figure src="https://images.unsplash.com/photo-1520206183501-b80df61043c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwcm91dGluZSUyMGhlYWx0aHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTQxOTI0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="sleep" title="How to Boost Energy Every Day WITHOUT Changing Your Routine" caption="How to Boost Energy Every Day WITHOUT Changing Your Routine - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sleeping-on-blue-throw-pillow-s8PTWCu5maQ)" >}}
 
 The biggest lesson I’ve learned is that exceptions are a slippery slope. If you allow yourself to sleep in “just this once,” it’s much harder to stick to your routine the next day. Your body’s internal clock gets confused, and waking up becomes a struggle. Over time, you might even find yourself waking up five minutes before your alarm, simply because your body is so used to the rhythm.
 
@@ -55,9 +53,7 @@ There’s another reason to stick to a regular sleep schedule: your health. Stud
 
 Never allow exceptions. If you’re tired, go to bed earlier, or take a nap, but don’t let yourself wake up late. The moment you make an exception, it opens the door for more. No tolerance for exceptions—this is the rule that has kept me consistent, productive, and healthy.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, sleep, eat, lift, weight training, exercise, nutrition, balanced lifestyle, health, healthy, 
-](https://images.unsplash.com/photo-1603804449836-b2e7d05a7bd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwcm91dGluZSUyMGhlYWx0aHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTQxOTI0MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Energy Every Day WITHOUT Changing Your Routine")
-*How to Boost Energy Every Day WITHOUT Changing Your Routine - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-6AAUOte2KAY)*
+{{< figure src="https://images.unsplash.com/photo-1603804449836-b2e7d05a7bd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb25zaXN0ZW5jeSUyMHNsZWVwJTIwcm91dGluZSUyMGhlYWx0aHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTQxOTI0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Boost Energy Every Day WITHOUT Changing Your Routine" caption="How to Boost Energy Every Day WITHOUT Changing Your Routine - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-6AAUOte2KAY)" >}}
 
 ---
 

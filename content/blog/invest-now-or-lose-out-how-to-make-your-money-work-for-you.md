@@ -12,8 +12,7 @@ original_title = "Investir son argent aujourd’hui ou jamais"
 source_medium = "https://medium.com/@phenrysay/c127c2f330a7"
 +++
 
-![Photo by John Vid](https://images.unsplash.com/photo-1705948734578-54b4e4dbf443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnZlc3RpbmclMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBmaW5hbmNpYWwlMjBmcmVlZG9tfGVufDB8MHx8fDE3NTU2MDU2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080 "Invest Now or Lose Out: How to Make Your Money Work for You")
-*Invest Now or Lose Out: How to Make Your Money Work for You - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-stack-of-coins-sitting-on-top-of-a-reflective-surface-DH1dABIkjYo)*
+{{< figure src="https://images.unsplash.com/photo-1705948734578-54b4e4dbf443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnZlc3RpbmclMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBmaW5hbmNpYWwlMjBmcmVlZG9tfGVufDB8MHx8fDE3NTU2MDU2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A stack of coins sitting on top of a surface" title="Invest Now or Lose Out: How to Make Your Money Work for You" caption="Invest Now or Lose Out: How to Make Your Money Work for You - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-stack-of-coins-sitting-on-top-of-a-reflective-surface-DH1dABIkjYo)" >}}
 
 Spending money is important. After all, we work hard to earn it, and life is short. But spending just for the sake of it is not enough. The real key is to spend it wisely and, even more importantly, to invest it so that your money works for you.
 
@@ -23,8 +22,7 @@ Believing in your own business can be one of the best investments you’ll ever 
 
 But here’s something you should never forget: never keep all your money in one place. It’s like the old saying, “Don’t put all your eggs in one basket.” If you leave all your money in a single account or a single investment, you’re taking a big risk. Spreading your money across different sources of potential income is the smart way to go. This could mean some in your business, some in funds, some in stocks, some in term accounts, and so on. Diversifying like this helps you build wealth more securely.
 
-![Photo by John Vid](https://images.unsplash.com/photo-1705948734199-117ec7667630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnZlc3RpbmclMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBmaW5hbmNpYWwlMjBmcmVlZG9tfGVufDB8MHx8fDE3NTU2MDU2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080 "Invest Now or Lose Out: How to Make Your Money Work for You")
-*Invest Now or Lose Out: How to Make Your Money Work for You - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-stack-of-coins-sitting-on-top-of-a-table-JpC-HiaFZII)*
+{{< figure src="https://images.unsplash.com/photo-1705948734199-117ec7667630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnZlc3RpbmclMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBmaW5hbmNpYWwlMjBmcmVlZG9tfGVufDB8MHx8fDE3NTU2MDU2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A stack of coins sitting on top of a table JpC HiaFZII" title="Invest Now or Lose Out: How to Make Your Money Work for You" caption="Invest Now or Lose Out: How to Make Your Money Work for You - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-stack-of-coins-sitting-on-top-of-a-table-JpC-HiaFZII)" >}}
 
 By not putting all your eggs in one basket, you gain more freedom—financial freedom, and the freedom to enjoy life. Making money is also about enjoying yourself and creating more time for what matters. When you invest your money, you’re also investing your time. And when you invest your time well, you’ll find that you can invest your money even better in the future.
 
@@ -44,8 +42,7 @@ By not putting all your eggs in one basket, you gain more freedom—financial fr
 - *Financial freedom comes from smart spending and investing, not just earning.*
 - *Investing your time wisely helps you invest your money better.*
 
-![Photo by John Vid](https://images.unsplash.com/photo-1705948733133-8bac83cbfc67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnZlc3RpbmclMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBmaW5hbmNpYWwlMjBmcmVlZG9tfGVufDB8MHx8fDE3NTU2MDU2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080 "Invest Now or Lose Out: How to Make Your Money Work for You")
-*Invest Now or Lose Out: How to Make Your Money Work for You - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-coin-on-a-white-surface-199pEvO9jkc)*
+{{< figure src="https://images.unsplash.com/photo-1705948733133-8bac83cbfc67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnZlc3RpbmclMjBwZXJzb25hbCUyMGZpbmFuY2UlMjBmaW5hbmNpYWwlMjBmcmVlZG9tfGVufDB8MHx8fDE3NTU2MDU2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a coin on a white surface" title="Invest Now or Lose Out: How to Make Your Money Work for You" caption="Invest Now or Lose Out: How to Make Your Money Work for You - Photo by [John Vid](https://unsplash.com/@vanvid) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-coin-on-a-white-surface-199pEvO9jkc)" >}}
 
 ---
 

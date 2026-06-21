@@ -12,8 +12,7 @@ original_title = "Infra, credits, and deployment pipelines #substack #shorts"
 source_medium = "https://medium.com/@phenrysay/49eaef26e314"
 +++
 
-![Photo by Jadon Johnson](https://images.unsplash.com/photo-1759683745502-e3149b844ddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxEZXZPcHMlMjBDbG91ZGZsYXJlJTIwQVdTJTIwQ3JlZGl0c3xlbnwwfDB8fHwxNzY3MDQ3NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost DevOps Efficiency Without Extra Costs")
-*How to Boost DevOps Efficiency Without Extra Costs - Photo by [Jadon Johnson](https://unsplash.com/@jadonjohnson) on [Unsplash](https://unsplash.com/photos/people-ride-on-a-trolley-car-in-the-city-KEZ8ZmZtvHU)*
+{{< figure src="https://images.unsplash.com/photo-1759683745502-e3149b844ddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxEZXZPcHMlMjBDbG91ZGZsYXJlJTIwQVdTJTIwQ3JlZGl0c3xlbnwwfDB8fHwxNzY3MDQ3NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="People ride on a trolley car in the city" title="How to Boost DevOps Efficiency Without Extra Costs" caption="How to Boost DevOps Efficiency Without Extra Costs - Photo by [Jadon Johnson](https://unsplash.com/@jadonjohnson) on [Unsplash](https://unsplash.com/photos/people-ride-on-a-trolley-car-in-the-city-KEZ8ZmZtvHU)" >}}
 
 Alright, let’s get straight into it. I use Cloudflare for pretty much everything—DNS, image delivery, and especially for DDoS protection. If you haven’t tried Cloudflare for images, you’re missing out. It’s super efficient, and honestly, their free tier is surprisingly generous. I really like Cloudflare, and I recommend it to anyone who wants a simple, effective way to handle DNS and shield their stuff from attacks.
 
@@ -33,8 +32,7 @@ Cloudflare acts as a shield and a traffic director. You point your domain’s DN
 
 Here’s a quick tip: look for AWS Activate, student programs, or even hackathons. They hand out credits like candy. Once you’ve got credits, you can experiment with EC2, S3, and all the other AWS goodies without burning a hole in your wallet.
 
-![Photo by Emanuel Haas](https://images.unsplash.com/photo-1729147945836-ebe82d71be3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxEZXZPcHMlMjBDbG91ZGZsYXJlJTIwQVdTJTIwQ3JlZGl0c3xlbnwwfDB8fHwxNzY3MDQ3NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost DevOps Efficiency Without Extra Costs")
-*How to Boost DevOps Efficiency Without Extra Costs - Photo by [Emanuel Haas](https://unsplash.com/@dermanuskript) on [Unsplash](https://unsplash.com/photos/a-rainbow-appears-in-the-dark-cloudy-sky-2b1vkHPbgyg)*
+{{< figure src="https://images.unsplash.com/photo-1729147945836-ebe82d71be3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxEZXZPcHMlMjBDbG91ZGZsYXJlJTIwQVdTJTIwQ3JlZGl0c3xlbnwwfDB8fHwxNzY3MDQ3NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A rainbow appears in the dark cloudy sky" title="How to Boost DevOps Efficiency Without Extra Costs" caption="How to Boost DevOps Efficiency Without Extra Costs - Photo by [Emanuel Haas](https://unsplash.com/@dermanuskript) on [Unsplash](https://unsplash.com/photos/a-rainbow-appears-in-the-dark-cloudy-sky-2b1vkHPbgyg)" >}}
 
 ### Docker Images on AWS
 
@@ -80,8 +78,7 @@ jobs:
       # Add your ECS deployment steps here
 ```
 
-![Photo by Alin Gavriliuc](https://images.unsplash.com/photo-1741309592823-86be3f19ae30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxEZXZPcHMlMjBDbG91ZGZsYXJlJTIwQVdTJTIwQ3JlZGl0c3xlbnwwfDB8fHwxNzY3MDQ3NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost DevOps Efficiency Without Extra Costs")
-*How to Boost DevOps Efficiency Without Extra Costs - Photo by [Alin Gavriliuc](https://unsplash.com/@alingavriliuc) on [Unsplash](https://unsplash.com/photos/sunlight-peeks-through-overcast-dark-clouds-KQU3j05elpg)*
+{{< figure src="https://images.unsplash.com/photo-1741309592823-86be3f19ae30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxEZXZPcHMlMjBDbG91ZGZsYXJlJTIwQVdTJTIwQ3JlZGl0c3xlbnwwfDB8fHwxNzY3MDQ3NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Peeks through dark clouds" title="How to Boost DevOps Efficiency Without Extra Costs" caption="How to Boost DevOps Efficiency Without Extra Costs - Photo by [Alin Gavriliuc](https://unsplash.com/@alingavriliuc) on [Unsplash](https://unsplash.com/photos/sunlight-peeks-through-overcast-dark-clouds-KQU3j05elpg)" >}}
 
 The most important thing is to have a clear, automated process. Don’t rely on manual steps. If you’re building for scale, you need to think like an architect from the start.
 

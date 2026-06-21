@@ -12,10 +12,7 @@ original_title = "Démarre un projet qui te motive ! Regarde ceci si tu veux qu
 source_medium = "https://medium.com/@phenrysay/3fd65c5d626b"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, white background, wood, scrabble tiles, wood, words, 
-done is better than perfect, perfectionism, get it done, complete, finish, rough and ready, 
-](https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBwcm9qZWN0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxOTA2N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Building Your Own Project Pays Off Without Big Budgets")
-*How Building Your Own Project Pays Off Without Big Budgets - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)*
+{{< figure src="https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBwcm9qZWN0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxOTA2N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How Building Your Own Project Pays Off Without Big Budgets" caption="How Building Your Own Project Pays Off Without Big Budgets - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)" >}}
 
 ### Build Something That Drives You
 
@@ -37,8 +34,7 @@ One of my favorite apps I built is Mil Snap. If you’re curious, you can check 
 
 Long-term and short-term projects can completely change your life. I keep notes on my phone, jotting down ideas for new things to build. This keeps me alert and curious about the world around me. Without these projects, life can feel dull and repetitive. You lose the drive to get out of bed. And time? Time never waits. It keeps moving, whether you do something or not.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBwcm9qZWN0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxOTA2N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Building Your Own Project Pays Off Without Big Budgets")
-*How Building Your Own Project Pays Off Without Big Budgets - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBwcm9qZWN0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxOTA2N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How Building Your Own Project Pays Off Without Big Budgets" caption="How Building Your Own Project Pays Off Without Big Budgets - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 The best investment you can make is in how you use your time. If you don’t, days and years slip by, and nothing changes. You don’t have to do a million things. Don’t fall into the trap of the rat race, always trying to show off how busy you are. The goal is to live a happy life, nothing more.
 
@@ -59,8 +55,7 @@ Never tell yourself, “It’s not for me, I’ll never make it.” Don’t thro
 
 Adopt this mindset: What’s next? What do I need to do to get there? You have to be the “excessor” of your life—someone who excels in everything they do. When you wake up, visualize your perfect day. Just imagining it helps you prepare mentally. If you wake up thinking, “I have an exam, I’m going to fail,” you’re already setting yourself up to fail. Your body won’t give 100% because you’ve already decided you’ll lose.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBwcm9qZWN0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxOTA2N3ww&ixlib=rb-4.1.0&q=80&w=1080 "How Building Your Own Project Pays Off Without Big Budgets")
-*How Building Your Own Project Pays Off Without Big Budgets - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBwcm9qZWN0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxOTA2N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How Building Your Own Project Pays Off Without Big Budgets" caption="How Building Your Own Project Pays Off Without Big Budgets - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 > *Every action you repeat shapes the person you become.*
 > — James Clear

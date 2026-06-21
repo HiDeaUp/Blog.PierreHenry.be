@@ -12,8 +12,7 @@ original_title = "Mes SECRETS pour ATTEINDRE ses objectifs et tâches SANS PRISE
 source_medium = "https://medium.com/@phenrysay/774389429df2"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDMzODY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reach Your Goals Without Stress—The Simple Rule That Works")
-*How to Reach Your Goals Without Stress—The Simple Rule That Works - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDMzODY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Reach Your Goals Without Stress—The Simple Rule That Works" caption="How to Reach Your Goals Without Stress—The Simple Rule That Works - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 There’s a rule of life that almost nobody applies, yet if you start today, you’ll see changes in your happiness, well-being, and productivity by tonight. We all want to feel fulfilled and happy, and we all want to get things done. But the real secret is not about working harder—it’s about working smarter, focusing on what matters, and making your environment and routines work for you.
 
@@ -31,8 +30,7 @@ The same goes for sleep. If you sleep well, you feel better. If you feel better,
 
 ## Structure Your Days (Even If You’re Your Own Boss)
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDMzODY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reach Your Goals Without Stress—The Simple Rule That Works")
-*How to Reach Your Goals Without Stress—The Simple Rule That Works - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDMzODY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Reach Your Goals Without Stress—The Simple Rule That Works" caption="How to Reach Your Goals Without Stress—The Simple Rule That Works - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 If your days have no structure, it’s easy to lose discipline. That’s why, even if you want to start your own business or work freelance, it’s smart to keep a regular job at first. It gives your days a backbone. If you suddenly quit and work for yourself, it’s tempting to sleep late, go to bed late, and end up feeling tired and lost.
 
@@ -60,8 +58,7 @@ It’s not just about routines and environment. Your mindset matters. Try to kee
 
 ## Make It Easy to Start, and Start Today
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDMzODY5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Reach Your Goals Without Stress—The Simple Rule That Works")
-*How to Reach Your Goals Without Stress—The Simple Rule That Works - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMHByb2R1Y3Rpdml0eSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NDMzODY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Reach Your Goals Without Stress—The Simple Rule That Works" caption="How to Reach Your Goals Without Stress—The Simple Rule That Works - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 Don’t wait for the perfect moment. Start today. Make your environment work for you. Structure your days. Remove friction from your tasks. And remember, it’s the small habits, done every day, that make the biggest difference.
 

@@ -12,8 +12,7 @@ original_title = "ENSEIGNER CE QUE TU VEUX APPRENDRE, POUR DEVENIR LE MEILLEUR P
 source_medium = "https://medium.com/@phenrysay/9bdab3f47d3b"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740817748373-118ed2375d3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0ZWFjaGluZyUyMGxlYXJuaW5nJTIwbWFzdGVyeXxlbnwwfDB8fHwxNzU1MzgzOTgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Any Skill by Teaching What You Want to Learn")
-*How to Master Any Skill by Teaching What You Want to Learn - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-master-on-a-table-rSprlMBRvxQ)*
+{{< figure src="https://images.unsplash.com/photo-1740817748373-118ed2375d3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0ZWFjaGluZyUyMGxlYXJuaW5nJTIwbWFzdGVyeXxlbnwwfDB8fHwxNzU1MzgzOTgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word master on a table" title="How to Master Any Skill by Teaching What You Want to Learn" caption="How to Master Any Skill by Teaching What You Want to Learn - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-master-on-a-table-rSprlMBRvxQ)" >}}
 
 Have you ever tried to teach something you thought you knew well, only to realize you weren’t as good as you thought? That happened to me recently. I was working on a course about marketing, and I found myself struggling. I kept thinking, “How is this possible? I know this stuff!” But here’s the truth: explaining something clearly, in a way that makes sense to others, is much harder than just knowing it for yourself.
 
@@ -23,10 +22,7 @@ One of the biggest traps is jumping too quickly from beginner to advanced topics
 
 I realized this while looking at my own notes for the marketing course. They were all over the place. I had to stop and ask myself, “Pierre, what are you doing? You need to go step by step, be precise, and build things logically—like a mathematician or a historian.” But I’m more of an artist, a creative type, and I tend to jump around. I want to share everything, but in the end, it just becomes a mess.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, i am still learning, learning, learn, study, life study, always learning, world student, student of life,
-
-](https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0ZWFjaGluZyUyMGxlYXJuaW5nJTIwbWFzdGVyeXxlbnwwfDB8fHwxNzU1MzgzOTgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Any Skill by Teaching What You Want to Learn")
-*How to Master Any Skill by Teaching What You Want to Learn - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)*
+{{< figure src="https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0ZWFjaGluZyUyMGxlYXJuaW5nJTIwbWFzdGVyeXxlbnwwfDB8fHwxNzU1MzgzOTgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table w7sIj M5Xyc" title="How to Master Any Skill by Teaching What You Want to Learn" caption="How to Master Any Skill by Teaching What You Want to Learn - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)" >}}
 
 So here’s what I learned: teaching is a journey. At first, you’ll feel like you’re not good at it. That’s normal. If you’re making your first course or trying to explain something new, don’t worry if you feel like a mess. The key is not to judge yourself too harshly. Look at your work to improve, not to beat yourself up. If you focus on your mistakes, you’ll just add negativity, and that destroys your confidence.
 
@@ -42,8 +38,7 @@ So, if you want to get better every day, just take action. Don’t wait for the 
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740818576337-774016913c01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0ZWFjaGluZyUyMGxlYXJuaW5nJTIwbWFzdGVyeXxlbnwwfDB8fHwxNzU1MzgzOTgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Master Any Skill by Teaching What You Want to Learn")
-*How to Master Any Skill by Teaching What You Want to Learn - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-out-the-word-teacher-miUxZHydcyo)*
+{{< figure src="https://images.unsplash.com/photo-1740818576337-774016913c01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0ZWFjaGluZyUyMGxlYXJuaW5nJTIwbWFzdGVyeXxlbnwwfDB8fHwxNzU1MzgzOTgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block out the word teacher" title="How to Master Any Skill by Teaching What You Want to Learn" caption="How to Master Any Skill by Teaching What You Want to Learn - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-out-the-word-teacher-miUxZHydcyo)" >}}
 
 ## Key Takeaways
 - Teaching what you want to learn is the best way to master it.

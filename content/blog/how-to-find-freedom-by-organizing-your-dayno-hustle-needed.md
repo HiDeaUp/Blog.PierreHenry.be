@@ -12,8 +12,7 @@ original_title = "Aventure de Vie : La vérité que j'ai découverte"
 source_medium = "https://medium.com/@phenrysay/f79426177a30"
 +++
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Freedom by Organizing Your Day—No Hustle Needed")
-*How to Find Freedom by Organizing Your Day—No Hustle Needed - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Find Freedom by Organizing Your Day—No Hustle Needed" caption="How to Find Freedom by Organizing Your Day—No Hustle Needed - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 When it comes to getting things done, most people think it’s all about working harder or longer. But what if the real secret is in how you organize your day? As a freelance IT engineer working from home, I’ve had to figure this out the hard way. My company is based far away, so flying in every day isn’t an option. That means I need to make the most of my time at home, not just to be more productive at work, but also to free up time for myself.
 
@@ -31,8 +30,7 @@ This idea of optimizing isn’t just for work. Take something as simple as doing
 
 The same goes for keeping water or snacks at your desk. If you’re thirsty, you don’t have to get up and break your focus. Every little thing you can do to avoid distractions adds up.
 
-![Photo by Axel Visoso](https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Freedom by Organizing Your Day—No Hustle Needed")
-*How to Find Freedom by Organizing Your Day—No Hustle Needed - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)*
+{{< figure src="https://images.unsplash.com/photo-1579464023743-d3c0528e037e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of person holding alarm clock" title="How to Find Freedom by Organizing Your Day—No Hustle Needed" caption="How to Find Freedom by Organizing Your Day—No Hustle Needed - Photo by [Axel Visoso](https://unsplash.com/@axelvisoso) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-holding-alarm-clock-wcoVDdpC_8M)" >}}
 
 ## Protect Your Mind from Mental Clutter
 
@@ -58,8 +56,7 @@ If you’ve ever lived in a place with low ceilings, you know how it can make yo
 
 ## The Real Secret: Less Is More
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Freedom by Organizing Your Day—No Hustle Needed")
-*How to Find Freedom by Organizing Your Day—No Hustle Needed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGZvY3VzfGVufDB8MHx8fDE3NTU1ODg4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Find Freedom by Organizing Your Day—No Hustle Needed" caption="How to Find Freedom by Organizing Your Day—No Hustle Needed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 In the end, productivity isn’t about doing more. It’s about doing less, but doing it better. Clear your mind, clear your space, and focus on what matters. You’ll be surprised at how much more you can get done—and how much better you’ll feel.
 

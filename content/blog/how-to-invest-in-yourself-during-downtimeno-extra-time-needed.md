@@ -12,8 +12,7 @@ original_title = "INVESTISSEMENT : LA TOUTE NOUVELLE FAÇON D’UTILISER LES TEM
 source_medium = "https://medium.com/@phenrysay/db9eefec9e78"
 +++
 
-![Photo by 金 运](https://images.unsplash.com/photo-1579227114496-27346f474519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnZlc3RtZW50JTIwZG93bnRpbWUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTEzNTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself During Downtime—No Extra Time Needed")
-*How to Invest in Yourself During Downtime—No Extra Time Needed - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-R2qc9qGVFWI)*
+{{< figure src="https://images.unsplash.com/photo-1579227114496-27346f474519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbnZlc3RtZW50JTIwZG93bnRpbWUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTEzNTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant" title="How to Invest in Yourself During Downtime—No Extra Time Needed" caption="How to Invest in Yourself During Downtime—No Extra Time Needed - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-R2qc9qGVFWI)" >}}
 
 Have you ever noticed how much time slips through your fingers during the day? Those moments when you’re waiting for the bus, standing in line, or just sitting quietly with nothing urgent to do. Most of us let these pauses drift by, scrolling through social media or letting our minds wander into negative thoughts. But what if these small windows of time could become your secret weapon for personal growth and well-being?
 
@@ -21,8 +20,7 @@ I’m writing this while sitting outside, the sky perfectly blue, everything cal
 
 Instead of letting your mind spiral into rumination or negative thinking, you can block those thoughts and replace them with something nourishing. Use your downtime to learn something new, read a few pages of a book, or brainstorm ideas for your business or personal life. Even ten or twenty minutes can make a difference. Waiting for a train? Instead of scrolling aimlessly, try jotting down ideas for how you could improve your work, or simply reflect on what’s going well and what isn’t.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653378972336-103e1ea62721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnZlc3RtZW50JTIwZG93bnRpbWUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTEzNTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself During Downtime—No Extra Time Needed")
-*How to Invest in Yourself During Downtime—No Extra Time Needed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-investments-XhprfVx2gKA)*
+{{< figure src="https://images.unsplash.com/photo-1653378972336-103e1ea62721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnZlc3RtZW50JTIwZG93bnRpbWUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTEzNTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads" title="How to Invest in Yourself During Downtime—No Extra Time Needed" caption="How to Invest in Yourself During Downtime—No Extra Time Needed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-investments-XhprfVx2gKA)" >}}
 
 Downtime is not just about productivity. It’s also about creating space for peace of mind. If you spend these moments replaying worries or negative ideas, you add mental weight that drags you down. But if you use them to do something positive—even something small—you’ll notice a shift. Your days will reflect more positivity, and you’ll feel lighter.
 
@@ -38,8 +36,7 @@ Always look for opportunities to lift yourself up, even in the smallest moments.
 
 ---
 
-![Investment](https://images.unsplash.com/photo-1559067096-49ebca3406aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnZlc3RtZW50JTIwZG93bnRpbWUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTEzNTI0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Invest in Yourself During Downtime—No Extra Time Needed")
-*How to Invest in Yourself During Downtime—No Extra Time Needed - Photo by [Precondo CA](https://unsplash.com/@precondo) on [Unsplash](https://unsplash.com/photos/investment-scrabble-text-OlSGcrLSYkw)*
+{{< figure src="https://images.unsplash.com/photo-1559067096-49ebca3406aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbnZlc3RtZW50JTIwZG93bnRpbWUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTEzNTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Investment" title="How to Invest in Yourself During Downtime—No Extra Time Needed" caption="How to Invest in Yourself During Downtime—No Extra Time Needed - Photo by [Precondo CA](https://unsplash.com/@precondo) on [Unsplash](https://unsplash.com/photos/investment-scrabble-text-OlSGcrLSYkw)" >}}
 
 ## Key Takeaways
 - *Downtime is a hidden opportunity for self-investment and peace of mind.*

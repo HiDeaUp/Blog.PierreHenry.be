@@ -12,8 +12,7 @@ original_title = "Ma Plus Grande Leçon de Vie: J’aurais Voulu Savoir Ça Avan
 source_medium = "https://medium.com/@phenrysay/242e04d1783f"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwbGVzc29ucyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5Mjk2OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Who You Want Without Chasing Success")
-*How to Become Who You Want Without Chasing Success - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwbGVzc29ucyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5Mjk2OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Become Who You Want Without Chasing Success" caption="How to Become Who You Want Without Chasing Success - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 Becoming the person you want to be starts with your mindset. It’s not about chasing success as if it’s something outside of you. Instead, it’s about transforming yourself so you’re ready for success when it comes. The real work is in changing your habits, your relationship with money, your connection to your goals, and what you choose to do every single day.
 
@@ -23,8 +22,7 @@ Every day, you have the chance to do something that acts as an investment in you
 
 It’s worth taking a moment to reflect on this. Ask yourself: what can I do, what can I change, how can I transform my daily routine to create the life I dream of? Sometimes, it’s tough. Sometimes, you don’t know which way to go. You try different paths, and things don’t always work out. But step by step, you start to see progress. That’s how you get the keys to what you don’t have yet.
 
-![Photo by Mathew MacQuarrie](https://images.unsplash.com/photo-1476370648495-3533f64427a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwbGVzc29ucyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5Mjk2OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Who You Want Without Chasing Success")
-*How to Become Who You Want Without Chasing Success - Photo by [Mathew MacQuarrie](https://unsplash.com/@matmacq) on [Unsplash](https://unsplash.com/photos/white-and-black-skull-figurine-on-black-surface-u6OnpbMuZAs)*
+{{< figure src="https://images.unsplash.com/photo-1476370648495-3533f64427a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwbGVzc29ucyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5Mjk2OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black skull on black surface" title="How to Become Who You Want Without Chasing Success" caption="How to Become Who You Want Without Chasing Success - Photo by [Mathew MacQuarrie](https://unsplash.com/@matmacq) on [Unsplash](https://unsplash.com/photos/white-and-black-skull-figurine-on-black-surface-u6OnpbMuZAs)" >}}
 
 Of course, this means searching, sometimes stumbling, and asking yourself: “Okay, I’m here now—what do I need to do next? What do I still need to try?” You might find yourself overthinking, but the most important thing is to stick to your ideas and take action. Thinking is good, having ideas is great, but moving to the next step is even more important.
 
@@ -40,8 +38,7 @@ When you do this, little by little, you’ll notice a real difference. That’s 
 
 So, from the bottom of my heart, I wish you all the best. Go for it. I know you’re going to go far.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwbGVzc29ucyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5Mjk2OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Become Who You Want Without Chasing Success")
-*How to Become Who You Want Without Chasing Success - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwbGVzc29ucyUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwbWluZHNldHxlbnwwfDB8fHwxNzQ5Mjk2OTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Become Who You Want Without Chasing Success" caption="How to Become Who You Want Without Chasing Success - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 ---
 

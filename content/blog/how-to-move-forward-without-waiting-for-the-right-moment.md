@@ -12,8 +12,7 @@ original_title = "3x plus efficace : Le secret pour transformer votre énergie 
 source_medium = "https://medium.com/@phenrysay/682354b75e35"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NTU1MTc4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for the “Right” Moment")
-*How to Move Forward Without Waiting for the “Right” Moment - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NTU1MTc4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Move Forward Without Waiting for the “Right” Moment" caption="How to Move Forward Without Waiting for the “Right” Moment - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Deciding your own life means making choices and taking action. The worst thing that can happen to you isn’t making a mistake—it’s doing nothing. Being stagnant, stuck in fear, and not acting is what truly holds us back. It’s normal to be afraid of making decisions, especially when we don’t know what’s coming. The unknown is scary because we can’t predict the consequences or where it will lead us.
 
@@ -25,8 +24,7 @@ We’re often afraid of making mistakes. Yes, sometimes a decision can change yo
 
 Life is like building with Lego blocks. Each action you take adds to your structure and helps you move forward. That’s why I encourage everyone not to just be an employee, but to try freelancing, or even start your own project. It doesn’t have to be a big startup—just a personal project, something you do on your own. For me, becoming a freelance IT engineer and data scientist changed everything. I could travel, work remotely, and choose my projects. Sometimes companies want you in the office, sometimes not. It depends on the job, but if you have the chance, create your own path. Don’t let your studies or your past define you.
 
-![Photo by DL314 Lin](https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NTU1MTc4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for the “Right” Moment")
-*How to Move Forward Without Waiting for the “Right” Moment - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)*
+{{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NTU1MTc4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How to Move Forward Without Waiting for the “Right” Moment" caption="How to Move Forward Without Waiting for the “Right” Moment - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 Even if you try something and realize it’s not for you—like becoming an influencer or switching careers—you’ve learned something. You’ve gained new skills, especially soft skills like communication. Writing, for example, is something I love, and it’s a skill you can always improve. Life is full of opportunities, but you have to grab them. Luck isn’t real; it’s about being ready and saying yes when opportunities come.
 
@@ -44,8 +42,7 @@ Change is possible. Positivity and mindset matter. Organize your days, rethink h
 > *“Action is the foundational key to all success.”*  
 — Pablo Picasso
 
-![Photo by Courtney Cantu](https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NTU1MTc4Njh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Move Forward Without Waiting for the “Right” Moment")
-*How to Move Forward Without Waiting for the “Right” Moment - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)*
+{{< figure src="https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHRha2luZyUyMGFjdGlvbiUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NTU1MTc4Njh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of the ground" title="How to Move Forward Without Waiting for the “Right” Moment" caption="How to Move Forward Without Waiting for the “Right” Moment - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)" >}}
 
 ---
 

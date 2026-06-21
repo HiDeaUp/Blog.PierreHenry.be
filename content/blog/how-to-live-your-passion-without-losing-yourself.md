@@ -12,8 +12,7 @@ original_title = "Comment vivre sa passion... ?"
 source_medium = "https://medium.com/@phenrysay/f8f28b61d8a4"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE1NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Passion Without Losing Yourself")
-*How to Live Your Passion Without Losing Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)*
+{{< figure src="https://images.unsplash.com/photo-1705234384485-2ff8761c49d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzaW9uJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE1NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word passion" title="How to Live Your Passion Without Losing Yourself" caption="How to Live Your Passion Without Losing Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-passion-XdQGU3TPoAE)" >}}
 
 Living with passion is a wonderful thing. It brings energy, excitement, and a sense of purpose to our days. But sometimes, passion can take up so much space that it crowds out everything else. I know this feeling well. When you’re deeply involved in something you love, it’s easy to let it fill every hour, every thought, every corner of your life.
 
@@ -25,8 +24,7 @@ If you don’t set these boundaries, you’ll look up and realize another hour h
 
 One simple trick is to time yourself. Keep track of how long you spend on your passion each day. This helps you make room for other activities that are just as important. Balanced days lead to a balanced life.
 
-![Photo by Kashawn Hernandez](https://images.unsplash.com/photo-1609800380385-a0d9c8ceae5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE1NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Passion Without Losing Yourself")
-*How to Live Your Passion Without Losing Yourself - Photo by [Kashawn Hernandez](https://unsplash.com/@galacticfantastic) on [Unsplash](https://unsplash.com/photos/white-string-lights-on-street-during-night-time-4a7-WStchn0)*
+{{< figure src="https://images.unsplash.com/photo-1609800380385-a0d9c8ceae5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwYXNzaW9uJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE1NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White string lights on street during night time 4a7 WStchn0" title="How to Live Your Passion Without Losing Yourself" caption="How to Live Your Passion Without Losing Yourself - Photo by [Kashawn Hernandez](https://unsplash.com/@galacticfantastic) on [Unsplash](https://unsplash.com/photos/white-string-lights-on-street-during-night-time-4a7-WStchn0)" >}}
 
 There’s also something powerful about alternating between different types of activities. After spending time on your passion, switch to something social, like being with your partner or friends. Make time for physical activity, rest, and even moments of silence or meditation. Each of these has its own value and helps you stay grounded.
 
@@ -44,8 +42,7 @@ So, remember: having a passion is amazing, but letting it take over your entire 
 
 ## Key Takeaways
 
-![Chasing the light in Yosemite](https://images.unsplash.com/photo-1516864356635-5688f0a3fe31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE1NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Passion Without Losing Yourself")
-*How to Live Your Passion Without Losing Yourself - Photo by [Grant Ritchie](https://unsplash.com/@grantritchie) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-rock-Jd2fqoX3z_0)*
+{{< figure src="https://images.unsplash.com/photo-1516864356635-5688f0a3fe31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwYXNzaW9uJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE1NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chasing the light in Yosemite" title="How to Live Your Passion Without Losing Yourself" caption="How to Live Your Passion Without Losing Yourself - Photo by [Grant Ritchie](https://unsplash.com/@grantritchie) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-rock-Jd2fqoX3z_0)" >}}
 
 - *Passion is great, but balance is essential.*
 - *Set clear limits on how much time you spend on your passion each day.*

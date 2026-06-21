@@ -12,8 +12,7 @@ original_title = "Comment se bouger MAINTENANT ?"
 source_medium = "https://medium.com/@phenrysay/37609eb3db85"
 +++
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTY4NTE5NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for Motivation")
-*How to Take Action Without Waiting for Motivation - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTY4NTE5NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Take Action Without Waiting for Motivation" caption="How to Take Action Without Waiting for Motivation - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Motivation is a tricky thing. Even when you have routines in place, clear to-do lists, and a well-organized day, there are times when motivation just doesn’t show up. You might follow your schedule to the letter, but still feel your spirits are low. Sometimes, it’s because you don’t truly enjoy what you’re doing. Deep down, you know you want something different.
 
@@ -25,8 +24,7 @@ Of course, it’s easier said than done. We often agree with advice we hear—ma
 
 Thinking without acting is the biggest mistake you can make. Life moves much faster than we realize. Time is not unlimited, even if it sometimes feels that way. The more you do now, the more you truly live. The more you act, the more you achieve, and the further you’ll go.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTY4NTE5NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for Motivation")
-*How to Take Action Without Waiting for Motivation - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTY4NTE5NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Take Action Without Waiting for Motivation" caption="How to Take Action Without Waiting for Motivation - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
 Taking action is essential. Don’t be afraid. Most things are simpler in reality than they seem on paper. We tend to overcomplicate things because we haven’t tried them yet, or because we fear the unknown. It’s normal to feel nervous about what you don’t know. That’s just human nature.
 
@@ -48,8 +46,7 @@ My advice is simple: listen to yourself. I know it’s not always easy and it ta
 
 ## Key Takeaways
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTY4NTE5NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for Motivation")
-*How to Take Action Without Waiting for Motivation - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTY4NTE5NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Take Action Without Waiting for Motivation" caption="How to Take Action Without Waiting for Motivation - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 - There is no perfect moment to start—begin now.
 - Overthinking and waiting are the biggest obstacles.

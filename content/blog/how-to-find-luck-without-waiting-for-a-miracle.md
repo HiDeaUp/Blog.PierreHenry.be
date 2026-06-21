@@ -12,8 +12,7 @@ original_title = "La recette du succès. Comment titiller la chance"
 source_medium = "https://medium.com/@phenrysay/7de8c7757f11"
 +++
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbHVjayUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMjA2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Luck Without Waiting for a Miracle")
-*How to Find Luck Without Waiting for a Miracle - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwbHVjayUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMjA2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Find Luck Without Waiting for a Miracle" caption="How to Find Luck Without Waiting for a Miracle - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 Getting something new, or finding fresh opportunities, often feels like a game of hide and seek. Sometimes you look, sometimes you don’t find anything. But the truth is, getting something new is simply about being curious. When you’re curious, when you’re on the lookout for new chances, that’s when you open new doors. That’s when luck starts to nudge you.
 
@@ -35,8 +34,7 @@ Focus on your strengths, your wins, and what makes you unique. This could mean c
 
 The goal is to build a sense of personal pride, which leads to better self-esteem and a more positive mindset. When you do this, you set a completely different tone for everything that follows. You feel better, and you feel more confident.
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbHVjayUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMjA2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Luck Without Waiting for a Miracle")
-*How to Find Luck Without Waiting for a Miracle - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbHVjayUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMjA2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Find Luck Without Waiting for a Miracle" caption="How to Find Luck Without Waiting for a Miracle - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 ### 3. Never Speak Negatively About Yourself
 
@@ -62,8 +60,7 @@ It’s about changing your body language, your words, your posture, and—most i
 
 *As Napoleon Hill said:*
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbHVjayUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMjA2MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Luck Without Waiting for a Miracle")
-*How to Find Luck Without Waiting for a Miracle - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbHVjayUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMjA2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Find Luck Without Waiting for a Miracle" caption="How to Find Luck Without Waiting for a Miracle - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 > *To succeed, you must first transform yourself into someone who can succeed, instead of chasing success as if it were an object.*
 

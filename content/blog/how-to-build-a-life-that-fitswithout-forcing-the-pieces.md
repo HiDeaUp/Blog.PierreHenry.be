@@ -12,8 +12,7 @@ original_title = "DESIGNER la VIE qui te VRAIMENT 🥳"
 source_medium = "https://medium.com/@phenrysay/e71f32d820c3"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjYzNDI5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Fits—Without Forcing the Pieces")
-*How to Build a Life That Fits—Without Forcing the Pieces - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjYzNDI5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Build a Life That Fits—Without Forcing the Pieces" caption="How to Build a Life That Fits—Without Forcing the Pieces - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Have you ever noticed how some days just feel right? Everything seems to fall into place, like the last piece of a puzzle finally clicking in. That sense of satisfaction, of having lived a balanced day, is not just luck. It comes from aligning yourself with what truly matters to you.
 
@@ -21,8 +20,7 @@ Finding the right pieces for your own puzzle means looking for what brings you j
 
 A fulfilling day often includes a mix of activities: a bit of hands-on work, something that challenges your mind, maybe some reading, a little exercise, and time spent with people you care about. Whether it’s family, friends, or your partner, those moments of connection matter. When you look back at your day and see that you’ve touched on all these areas, you realize you’ve lived a day that feels complete and true to yourself.
 
-![Photo by Sabine Freiberger](https://images.unsplash.com/photo-1682350054692-7d2fab9776dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjYzNDI5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Fits—Without Forcing the Pieces")
-*How to Build a Life That Fits—Without Forcing the Pieces - Photo by [Sabine Freiberger](https://unsplash.com/@bine_1) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-mIn-IlifdpE)*
+{{< figure src="https://images.unsplash.com/photo-1682350054692-7d2fab9776dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjYzNDI5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a small plant in a pot mIn IlifdpE" title="How to Build a Life That Fits—Without Forcing the Pieces" caption="How to Build a Life That Fits—Without Forcing the Pieces - Photo by [Sabine Freiberger](https://unsplash.com/@bine_1) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-small-plant-in-a-pot-mIn-IlifdpE)" >}}
 
 The real challenge is to design a life that fits you, not just one that looks good from the outside. It’s about choosing the pieces that make you feel alive and letting go of what doesn’t fit. This isn’t about chasing perfection. It’s about building a life that feels balanced and meaningful to you.
 
@@ -38,8 +36,7 @@ If you want to go even further, think about how you can become the designer of y
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjYzNDI5M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life That Fits—Without Forcing the Pieces")
-*How to Build a Life That Fits—Without Forcing the Pieces - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZGVzaWduJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjYzNDI5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build a Life That Fits—Without Forcing the Pieces" caption="How to Build a Life That Fits—Without Forcing the Pieces - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 ## Key Takeaways
 - Build your days like a puzzle, choosing pieces that bring you joy and balance.

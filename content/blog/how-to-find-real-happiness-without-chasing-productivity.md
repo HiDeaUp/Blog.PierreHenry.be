@@ -12,8 +12,7 @@ original_title = "Ce que personne ne dit sur le bien-être 🤐"
 source_medium = "https://medium.com/@phenrysay/e6c0897dfbcb"
 +++
 
-![Grounded FW 21](https://images.unsplash.com/photo-1644952350841-070996fad2af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwaGFwcGluZXNzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjE1NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Productivity")
-*How to Find Real Happiness Without Chasing Productivity - Photo by [Matthew Moloney](https://unsplash.com/@mattmoloney) on [Unsplash](https://unsplash.com/photos/diagram-engineering-drawing-calendar-mKtfd1SOYDc)*
+{{< figure src="https://images.unsplash.com/photo-1644952350841-070996fad2af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwaGFwcGluZXNzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjE1NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Grounded FW 21" title="How to Find Real Happiness Without Chasing Productivity" caption="How to Find Real Happiness Without Chasing Productivity - Photo by [Matthew Moloney](https://unsplash.com/@mattmoloney) on [Unsplash](https://unsplash.com/photos/diagram-engineering-drawing-calendar-mKtfd1SOYDc)" >}}
 
 We hear a lot about productivity these days. There’s endless advice on how to carve out time blocks, run sprints, and maximize every minute. People talk about 90-minute bursts of work, followed by a fifteen-minute break, then back to another round of tasks. The focus is always on doing more, faster, better.
 
@@ -25,8 +24,7 @@ When I use a tablet or any other device, I get distracted. I end up browsing the
 
 I even have a Freewrite and a Freewrite Traveler, which I use for writing. Let me tell you, it’s not quite like a tablet. The tactile feeling is much closer to paper. I have several notebooks, too—some are just beautiful to look at, and I find inspiration comes more easily when I write in them. I keep notebooks in almost every room of my apartment, so whenever inspiration strikes, I can jot it down right away. The same goes when I travel or go on vacation. If I feel good, if I’m in the zone, I write.
 
-![A set of yellow smiley stickers](https://images.unsplash.com/photo-1585737655161-76ddbd569e5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwaGFwcGluZXNzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjE1NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Productivity")
-*How to Find Real Happiness Without Chasing Productivity - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/yellow-and-black-heart-print-textile-fIEywSUhwFU)*
+{{< figure src="https://images.unsplash.com/photo-1585737655161-76ddbd569e5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwaGFwcGluZXNzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjE1NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A set of yellow smiley stickers" title="How to Find Real Happiness Without Chasing Productivity" caption="How to Find Real Happiness Without Chasing Productivity - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/yellow-and-black-heart-print-textile-fIEywSUhwFU)" >}}
 
 Right now, I’m wearing shorts because it’s summer, and after this, I’ll go for a swim at the beach, which is about an hour away by tram. It’s a popular spot near Adelaide. But before that, I’ll take my gourmet break, write a bit, and just enjoy the moment. These breaks usually last about forty-five minutes.
 
@@ -46,8 +44,7 @@ Taking time for yourself lets you enjoy the moment and do things you actually li
 
 ## Key Takeaways
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwaGFwcGluZXNzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjE1NTR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Productivity")
-*How to Find Real Happiness Without Chasing Productivity - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwaGFwcGluZXNzJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjE1NTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Real Happiness Without Chasing Productivity" caption="How to Find Real Happiness Without Chasing Productivity - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 - Productivity is important, but not at the cost of your well-being.
 - Create real, joyful breaks for yourself—what I call “gourmet breaks.”

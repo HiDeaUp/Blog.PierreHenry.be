@@ -12,8 +12,7 @@ original_title = "Comment supprimer sa charge mentale ?"
 source_medium = "https://medium.com/@phenrysay/dbcca7989ee0"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1653213096268-d232d07c4f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBvdmVybG9hZCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBzaW1wbGlmeWluZyUyMGxpZmV8ZW58MHwwfHx8MTc1NTQyMzMzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How I Beat Mental Overload Without Burning Out")
-*How I Beat Mental Overload Without Burning Out - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-rwrlre7Rz14)*
+{{< figure src="https://images.unsplash.com/photo-1653213096268-d232d07c4f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBvdmVybG9hZCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBzaW1wbGlmeWluZyUyMGxpZmV8ZW58MHwwfHx8MTc1NTQyMzMzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A on a table" title="How I Beat Mental Overload Without Burning Out" caption="How I Beat Mental Overload Without Burning Out - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-rwrlre7Rz14)" >}}
 
 Mental overload is something we all know too well. That constant feeling of having too much on your mind, too many things to do, and not enough time or energy to handle it all. For years, I struggled with this. But then I discovered a method that completely changed the way I think, work, and live. It helped me focus on what matters, increase my happiness, and improve both my personal and professional life. And, surprisingly, it allowed me to do more—but with better quality.
 
@@ -37,8 +36,7 @@ This is where the Pareto Principle (the 80/20 rule) comes in. Ask yourself: What
 
 I like to jot down my tasks and outcomes, either on paper or in a simple notes app on my phone. At the end of each day, I review: Which tasks did I enjoy? Which ones felt like a waste? How can I make tomorrow better?
 
-![Young blond woman is sitting in office working with computer. She is tired after long day at work.](https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBvdmVybG9hZCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBzaW1wbGlmeWluZyUyMGxpZmV8ZW58MHwwfHx8MTc1NTQyMzMzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How I Beat Mental Overload Without Burning Out")
-*How I Beat Mental Overload Without Burning Out - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)*
+{{< figure src="https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBvdmVybG9hZCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBzaW1wbGlmeWluZyUyMGxpZmV8ZW58MHwwfHx8MTc1NTQyMzMzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Young blond woman is sitting in office working with computer. She is tired after long day at work." title="How I Beat Mental Overload Without Burning Out" caption="How I Beat Mental Overload Without Burning Out - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)" >}}
 
 If a task didn’t bring enough value, I reconsider whether I should do it again. Over time, this helps you cut out what doesn’t serve you and maximize what does.
 
@@ -68,8 +66,7 @@ There’s a difference between resilience and stubbornness. If something clearly
 >
 > —Albert Einstein
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1700190614797-1054d4c8996e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBvdmVybG9hZCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBzaW1wbGlmeWluZyUyMGxpZmV8ZW58MHwwfHx8MTc1NTQyMzMzMXww&ixlib=rb-4.1.0&q=80&w=1080 "How I Beat Mental Overload Without Burning Out")
-*How I Beat Mental Overload Without Burning Out - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-shV2KCBapjE)*
+{{< figure src="https://images.unsplash.com/photo-1700190614797-1054d4c8996e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBvdmVybG9hZCUyMHN0cmVzcyUyMG1hbmFnZW1lbnQlMjBzaW1wbGlmeWluZyUyMGxpZmV8ZW58MHwwfHx8MTc1NTQyMzMzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in front of a laptop" title="How I Beat Mental Overload Without Burning Out" caption="How I Beat Mental Overload Without Burning Out - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-shV2KCBapjE)" >}}
 
 ## Align Your Life With Your Values
 

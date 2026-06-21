@@ -12,8 +12,7 @@ original_title = "Secrets des Temps Morts pour Booster Ta Productivité !"
 source_medium = "https://medium.com/@phenrysay/899efd13f15f"
 +++
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRlYWQlMjB0aW1lfGVufDB8MHx8fDE3NTYwMDg2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done on Your Commute Without Extra Stress")
-*How to Get More Done on Your Commute Without Extra Stress - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRlYWQlMjB0aW1lfGVufDB8MHx8fDE3NTYwMDg2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Get More Done on Your Commute Without Extra Stress" caption="How to Get More Done on Your Commute Without Extra Stress - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Have you ever thought about how much time slips through your fingers during those in-between moments? I’m talking about the “dead time”—those stretches when you’re waiting, commuting, or just sitting around. Today, I want to share how these moments can become your most powerful productivity tool.
 
@@ -23,8 +22,7 @@ Why is this so important? Because dead time is everywhere. Instead of scrolling 
 
 Some trains even have little fold-out tables, which is perfect for getting work done. With just over an hour on the train, you’d be surprised how much you can accomplish. I once heard about someone who wrote an entire book just during their daily train rides. They had almost an hour each way, so about two hours a day. By using just an hour and a half each day to write, they finished a book in three months—just by making use of their commute.
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRlYWQlMjB0aW1lfGVufDB8MHx8fDE3NTYwMDg2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done on Your Commute Without Extra Stress")
-*How to Get More Done on Your Commute Without Extra Stress - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRlYWQlMjB0aW1lfGVufDB8MHx8fDE3NTYwMDg2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Get More Done on Your Commute Without Extra Stress" caption="How to Get More Done on Your Commute Without Extra Stress - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 Think about how many people take the train every day. Most of them don’t do much with that time. Some sleep, others just stare out the window. Of course, not everyone can work on a train—my girlfriend, for example, gets travel sick and can only look outside. But if you’re like me and you can focus in transit, you have a golden opportunity.
 
@@ -44,8 +42,7 @@ Life is short. Every hour wasted is an hour you’ll never get back. So why not 
 
 ## Key Takeaways
 
-![Photo by byquincy](https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRlYWQlMjB0aW1lfGVufDB8MHx8fDE3NTYwMDg2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done on Your Commute Without Extra Stress")
-*How to Get More Done on Your Commute Without Extra Stress - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)*
+{{< figure src="https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGRlYWQlMjB0aW1lfGVufDB8MHx8fDE3NTYwMDg2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a clock on a wall" title="How to Get More Done on Your Commute Without Extra Stress" caption="How to Get More Done on Your Commute Without Extra Stress - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)" >}}
 
 - Always carry something productive to do during dead time, like a book or your laptop.
 - Use tools like noise-canceling headphones to stay focused and block distractions.

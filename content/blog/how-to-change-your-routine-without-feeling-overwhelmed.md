@@ -12,8 +12,7 @@ original_title = "87% des Français ne le fait pas. Ce qu'il faut savoir sur l'o
 source_medium = "https://medium.com/@phenrysay/348773dde96c"
 +++
 
-![Fashionable Old man walking](https://images.unsplash.com/photo-1614822204008-7ee3b75842c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmdhbml6YXRpb24lMjByb3V0aW5lcyUyMEZyZW5jaCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjU2MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Routine Without Feeling Overwhelmed")
-*How to Change Your Routine Without Feeling Overwhelmed - Photo by [Julian Alecxander](https://unsplash.com/@alecxanderjulian) on [Unsplash](https://unsplash.com/photos/man-in-brown-shirt-and-black-pants-sitting-on-black-metal-chair-near-blue-wooden-door-r1ISD48h3SI)*
+{{< figure src="https://images.unsplash.com/photo-1614822204008-7ee3b75842c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmdhbml6YXRpb24lMjByb3V0aW5lcyUyMEZyZW5jaCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjU2MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Fashionable Old man walking" title="How to Change Your Routine Without Feeling Overwhelmed" caption="How to Change Your Routine Without Feeling Overwhelmed - Photo by [Julian Alecxander](https://unsplash.com/@alecxanderjulian) on [Unsplash](https://unsplash.com/photos/man-in-brown-shirt-and-black-pants-sitting-on-black-metal-chair-near-blue-wooden-door-r1ISD48h3SI)" >}}
 
 Changing your routine is tough. I know it from experience, and I’m pretty sure you do too. It took me a long time to completely change my own habits. Sometimes, our routines are so deeply rooted that they feel more like rituals or quirks. Maybe you have a bedtime ritual: a cup of tea, some warm milk (I used to do that a lot in winter), or a hot chocolate. You might watch TV or a movie before bed, go to sleep late, and then wake up late, feeling off because it’s already 9 or 10 in the morning.
 
@@ -31,8 +30,7 @@ We all have 24 hours in a day, but we each manage them differently. Investing in
 
 Try this: at the end of the day, rewind your day in your mind, step by step. Write down everything you did, from the moment you woke up. You don’t have to keep this list forever—it’s just to help you spot your good and bad habits. Sometimes, you’ll find habits that aren’t bad, but they don’t match your current goals. You might need to pause them for now to focus on what matters most. Later, you can always pick them up again.
 
-![Photo by Simona Sergi](https://images.unsplash.com/photo-1611333387683-ba05e1d7b59b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcmdhbml6YXRpb24lMjByb3V0aW5lcyUyMEZyZW5jaCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjU2MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Routine Without Feeling Overwhelmed")
-*How to Change Your Routine Without Feeling Overwhelmed - Photo by [Simona Sergi](https://unsplash.com/@i_am_simoesse) on [Unsplash](https://unsplash.com/photos/people-walking-on-sidewalk-near-white-concrete-building-during-daytime-ctEM-XFayCw)*
+{{< figure src="https://images.unsplash.com/photo-1611333387683-ba05e1d7b59b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcmdhbml6YXRpb24lMjByb3V0aW5lcyUyMEZyZW5jaCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjU2MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="People walking on near white during daytime ctEM XFayCw" title="How to Change Your Routine Without Feeling Overwhelmed" caption="How to Change Your Routine Without Feeling Overwhelmed - Photo by [Simona Sergi](https://unsplash.com/@i_am_simoesse) on [Unsplash](https://unsplash.com/photos/people-walking-on-sidewalk-near-white-concrete-building-during-daytime-ctEM-XFayCw)" >}}
 
 Often, we do too much and end up drained, unable to create or study at our best. Our energy is gone, and that’s a real handicap. So, be vigilant. Identify what’s working and what’s not. Analyze, then put in place the habits that will help you reach your goals. It’s easy to make a list of resolutions, but sticking to them is the hard part. If you allow yourself exceptions, your new routine won’t last more than a few days.
 
@@ -54,8 +52,7 @@ Another thing that helps is lowering the barrier to starting a task. The hardest
 
 This approach makes it easier to stick to your new routine and avoid falling back into old patterns. The key is to keep things simple and manageable, so you don’t get overwhelmed and give up.
 
-![Friendship is born at that moment . . when one person says to another, ‘What! You too? I thought I was the only one. ❤️](https://images.unsplash.com/photo-1590877403916-66f835f573ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcmdhbml6YXRpb24lMjByb3V0aW5lcyUyMEZyZW5jaCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjU2MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Routine Without Feeling Overwhelmed")
-*How to Change Your Routine Without Feeling Overwhelmed - Photo by [Ahmed Alwerdani](https://unsplash.com/@alwerdani) on [Unsplash](https://unsplash.com/photos/man-in-red-shirt-riding-bicycle-on-road-near-brown-concrete-building-during-daytime-PfMRoZMBNE4)*
+{{< figure src="https://images.unsplash.com/photo-1590877403916-66f835f573ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcmdhbml6YXRpb24lMjByb3V0aW5lcyUyMEZyZW5jaCUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjU2MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Friendship is born at that moment . . when one person says to another, ‘What! You too? I thought I was the only one. ❤️" title="How to Change Your Routine Without Feeling Overwhelmed" caption="How to Change Your Routine Without Feeling Overwhelmed - Photo by [Ahmed Alwerdani](https://unsplash.com/@alwerdani) on [Unsplash](https://unsplash.com/photos/man-in-red-shirt-riding-bicycle-on-road-near-brown-concrete-building-during-daytime-PfMRoZMBNE4)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Se focaliser sur ces différences 💪 #productivité"
 source_medium = "https://medium.com/@phenrysay/a82d382253bc"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByaW9yaXRpemF0aW9ufGVufDB8MHx8fDE3NTY1Mjc0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on What Matters Without Wasting Energy")
-*How to Focus on What Matters Without Wasting Energy - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByaW9yaXRpemF0aW9ufGVufDB8MHx8fDE3NTY1Mjc0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Focus on What Matters Without Wasting Energy" caption="How to Focus on What Matters Without Wasting Energy - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Every day, we have a long list of things we could do. But the real question is: where should we focus? It’s easy to spend time on tasks that don’t really matter, while the things that could make a real difference get pushed aside.
 
@@ -21,8 +20,7 @@ I want to talk about the importance of always looking for where you can make a d
 
 So, my advice is simple: take a close look at everything you do. Find the areas where you already add real value, because you have strengths that are unique to you. Notice where you naturally do well, and focus even more on those areas.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByaW9yaXRpemF0aW9ufGVufDB8MHx8fDE3NTY1Mjc0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on What Matters Without Wasting Energy")
-*How to Focus on What Matters Without Wasting Energy - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByaW9yaXRpemF0aW9ufGVufDB8MHx8fDE3NTY1Mjc0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Focus on What Matters Without Wasting Energy" caption="How to Focus on What Matters Without Wasting Energy - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 When you identify your strengths and put your energy there, you’ll see bigger results with less wasted effort. It’s not about working harder, but about working smarter—choosing the right things to focus on.
 

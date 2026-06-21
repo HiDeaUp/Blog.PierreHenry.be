@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/30c58326c981"
 source_youtube = "https://www.youtube.com/watch?v=fpW4muqg76Y"
 +++
 
-![Photo by Herlambang Tinasih Gusti](https://images.unsplash.com/photo-1646579886135-068c73800308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMGVuZ2luZWVyaW5nJTIwYXVkaWVuY2UlMjBhdHRlbnRpb24lMjBzeXN0ZW0lMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzY3ODM1ODExfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an AI Audience Tracker Without Docker Headaches")
-*How to Build an AI Audience Tracker Without Docker Headaches - Photo by [Herlambang Tinasih Gusti](https://unsplash.com/@tinasihgusti) on [Unsplash](https://unsplash.com/photos/a-man-standing-in-front-of-a-group-of-people-3kc_75Rdgyk)*
+{{< figure src="https://images.unsplash.com/photo-1646579886135-068c73800308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMGVuZ2luZWVyaW5nJTIwYXVkaWVuY2UlMjBhdHRlbnRpb24lMjBzeXN0ZW0lMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzY3ODM1ODExfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man in front of a group of people" title="How to Build an AI Audience Tracker Without Docker Headaches" caption="How to Build an AI Audience Tracker Without Docker Headaches - Photo by [Herlambang Tinasih Gusti](https://unsplash.com/@tinasihgusti) on [Unsplash](https://unsplash.com/photos/a-man-standing-in-front-of-a-group-of-people-3kc_75Rdgyk)" >}}
 
 # DAY 2: Build an Audience Attention Measurement System from SCRATCH (AI Engineering)
 ## Debugging, Database Setup, and Admin Automation

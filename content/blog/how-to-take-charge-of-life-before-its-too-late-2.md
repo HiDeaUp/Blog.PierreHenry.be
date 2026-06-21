@@ -12,8 +12,7 @@ original_title = "VÉRITÉ La vie peut s'arrêter à tout moment — il prendre 
 source_medium = "https://medium.com/@phenrysay/bac5b2633303"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695473507886-d49ecd5d3c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3MlMjBjYXJwZSUyMGRpZW18ZW58MHwwfHx8MTc1NTQyMjc4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Life Before It’s Too Late")
-*How to Take Charge of Life Before It’s Too Late - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mindfulness-in-6nRyHLIzRMo)*
+{{< figure src="https://images.unsplash.com/photo-1695473507886-d49ecd5d3c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3MlMjBjYXJwZSUyMGRpZW18ZW58MHwwfHx8MTc1NTQyMjc4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads in" title="How to Take Charge of Life Before It’s Too Late" caption="How to Take Charge of Life Before It’s Too Late - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mindfulness-in-6nRyHLIzRMo)" >}}
 
 Most of us live as if our time is unlimited. We plan, we postpone, we put off what matters, thinking there will always be more days, more chances. But the truth is, life does end. One day, it will be over. When you really understand this, your decisions become wiser, and you start to enjoy the simple moments—the ones that bring real happiness and little worry.
 
@@ -25,9 +24,7 @@ We waste so much time at jobs we don’t like, especially when we’re young and
 
 Money comes and goes. Time doesn’t. Time is like a train that never stops. That’s why it’s so important to enjoy where you are, right now. We don’t know how long we have on this planet. I wrote this note early this morning, just after waking up, because it struck me how often we make poor choices, thinking life is endless. But if tomorrow was your last day, what would you regret? That’s what you need to figure out.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3MlMjBjYXJwZSUyMGRpZW18ZW58MHwwfHx8MTc1NTQyMjc4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Life Before It’s Too Late")
-*How to Take Charge of Life Before It’s Too Late - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3MlMjBjYXJwZSUyMGRpZW18ZW58MHwwfHx8MTc1NTQyMjc4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Take Charge of Life Before It’s Too Late" caption="How to Take Charge of Life Before It’s Too Late - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 For me, I want to go to Antarctica. It’s the experiences we miss that we regret, not the things we didn’t buy. You won’t regret not having the latest iPhone, but you might regret not taking a trip or living an adventure. Experiences matter most. If you’re interested, you can always take matters into your own hands and design your ideal life.
 
@@ -47,8 +44,7 @@ Your life is precious, and your time is limited. You have your own train to catc
 
 ## Key Takeaways
 
-![Photo by Matt Busse](https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3MlMjBjYXJwZSUyMGRpZW18ZW58MHwwfHx8MTc1NTQyMjc4Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Life Before It’s Too Late")
-*How to Take Charge of Life Before It’s Too Late - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)*
+{{< figure src="https://images.unsplash.com/photo-1692200089487-9344c09e64c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwYWR2aWNlJTIwbWluZGZ1bG5lc3MlMjBjYXJwZSUyMGRpZW18ZW58MHwwfHx8MTc1NTQyMjc4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on top of a rock next to the ocean" title="How to Take Charge of Life Before It’s Too Late" caption="How to Take Charge of Life Before It’s Too Late - Photo by [Matt Busse](https://unsplash.com/@prbusse) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-rock-next-to-the-ocean-XDMrR13tLas)" >}}
 
 - *Life is not infinite. Every day counts.*
 - *Enjoy simple moments—they bring the most happiness.*

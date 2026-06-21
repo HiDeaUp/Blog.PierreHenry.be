@@ -12,8 +12,7 @@ original_title = "Le principe des trois pierres quotidiennes🗿"
 source_medium = "https://medium.com/@phenrysay/ccb9b277dab0"
 +++
 
-![Photo by Cory Bjork](https://images.unsplash.com/photo-1641924676578-ed2792eb24de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcml0dWFsJTIwZGFpbHklMjBoYWJpdHMlMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2NTA5ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Better Days With the Three Stones Morning Ritual")
-*How to Build Better Days With the Three Stones Morning Ritual - Photo by [Cory Bjork](https://unsplash.com/@corybjork) on [Unsplash](https://unsplash.com/photos/a-tray-of-breakfast-on-a-bed-with-white-sheets-gtEzYq0B7-A)*
+{{< figure src="https://images.unsplash.com/photo-1641924676578-ed2792eb24de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3JuaW5nJTIwcml0dWFsJTIwZGFpbHklMjBoYWJpdHMlMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2NTA5ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tray of on a bed with white sheets A" title="How to Build Better Days With the Three Stones Morning Ritual" caption="How to Build Better Days With the Three Stones Morning Ritual - Photo by [Cory Bjork](https://unsplash.com/@corybjork) on [Unsplash](https://unsplash.com/photos/a-tray-of-breakfast-on-a-bed-with-white-sheets-gtEzYq0B7-A)" >}}
 
 There’s something deeply satisfying about starting your day with intention. Not just any kind of organization, but a way of structuring your mornings that sets the tone for everything that follows. I want to share with you a method that has become essential for me: the principle of the three daily stones.
 
@@ -31,8 +30,7 @@ When you wake up, look at your list. Before breakfast, before checking your phon
 
 In total, you’re dedicating just two hours to your three most important tasks. It might not sound like much, but these focused hours, repeated day after day, have a compounding effect. Like compound interest in finance, small, consistent actions add up to big results over time.
 
-![Photo by The Design Lady](https://images.unsplash.com/photo-1701280315406-d1e526128c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcml0dWFsJTIwZGFpbHklMjBoYWJpdHMlMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2NTA5ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Better Days With the Three Stones Morning Ritual")
-*How to Build Better Days With the Three Stones Morning Ritual - Photo by [The Design Lady](https://unsplash.com/@sarah35) on [Unsplash](https://unsplash.com/photos/a-table-topped-with-a-cup-of-coffee-next-to-a-plate-of-food-ENvkQVWOHic)*
+{{< figure src="https://images.unsplash.com/photo-1701280315406-d1e526128c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcml0dWFsJTIwZGFpbHklMjBoYWJpdHMlMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2NTA5ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A table topped with a cup of coffee next to a plate of food" title="How to Build Better Days With the Three Stones Morning Ritual" caption="How to Build Better Days With the Three Stones Morning Ritual - Photo by [The Design Lady](https://unsplash.com/@sarah35) on [Unsplash](https://unsplash.com/photos/a-table-topped-with-a-cup-of-coffee-next-to-a-plate-of-food-ENvkQVWOHic)" >}}
 
 ## Quality Over Quantity
 
@@ -56,8 +54,7 @@ This evening, take a moment to list your three stones for tomorrow. Ask yourself
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
 — Robert Collier
 
-![Photo by Sixteen Miles Out](https://images.unsplash.com/photo-1637783226061-6d3e55c26cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcml0dWFsJTIwZGFpbHklMjBoYWJpdHMlMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2NTA5ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Better Days With the Three Stones Morning Ritual")
-*How to Build Better Days With the Three Stones Morning Ritual - Photo by [Sixteen Miles Out](https://unsplash.com/@sixteenmilesout) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-sitting-on-top-of-a-blanket-3qzDx-RFXsA)*
+{{< figure src="https://images.unsplash.com/photo-1637783226061-6d3e55c26cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcml0dWFsJTIwZGFpbHklMjBoYWJpdHMlMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2NTA5ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cup of coffee sitting on top of a blanket 3qzDx RFXsA" title="How to Build Better Days With the Three Stones Morning Ritual" caption="How to Build Better Days With the Three Stones Morning Ritual - Photo by [Sixteen Miles Out](https://unsplash.com/@sixteenmilesout) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-sitting-on-top-of-a-blanket-3qzDx-RFXsA)" >}}
 
 ---
 

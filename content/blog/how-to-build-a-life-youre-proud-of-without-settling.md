@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/431b2a580d8b"
 source_youtube = "https://www.youtube.com/watch?v=_Ot-b0zmZ94"
 +++
 
-![Photo by Diogo Fagundes](https://images.unsplash.com/photo-1610382707646-5ab3e74e84ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NjgyMTg3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You’re Proud Of Without Settling")
-*How to Build a Life You’re Proud Of Without Settling - Photo by [Diogo Fagundes](https://unsplash.com/@diofagundes) on [Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-and-black-pants-jumping-on-rocky-mountain-during-daytime-b8B3qDqy8vs)*
+{{< figure src="https://images.unsplash.com/photo-1610382707646-5ab3e74e84ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NjgyMTg3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white long sleeve shirt and black pants jumping on rocky during daytime" title="How to Build a Life You’re Proud Of Without Settling" caption="How to Build a Life You’re Proud Of Without Settling - Photo by [Diogo Fagundes](https://unsplash.com/@diofagundes) on [Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-and-black-pants-jumping-on-rocky-mountain-during-daytime-b8B3qDqy8vs)" >}}
 
 Being satisfied with your life, your achievements, and what you create is a powerful source of motivation. It gives you energy and lifts your spirits. This kind of satisfaction is essential. When you feel inspired, full of ideas and projects, it marks the start of a new adventure. It’s the beginning of something big, something you want to build. Having projects, a vision, and even picturing your days ahead, thinking, “Great, today I’m going to build and create so many things”—that’s the best brick you can lay in the foundation of your life.
 
@@ -28,8 +27,7 @@ It’s easy to swing from one extreme to the other, so you need to stay alert. B
 
 Everyone deserves to have a life project they love—a vision, a goal, something that fills them up and truly matches who they are. Too many people spend their whole lives working for an employer they barely like, doing things they don’t enjoy, only to wake up at seventy and wonder, “What was it all for?” The truth is, you can do so much more, so much faster, by investing in yourself.
 
-![Photo by Guillaume de Germain](https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NjgyMTg3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You’re Proud Of Without Settling")
-*How to Build a Life You’re Proud Of Without Settling - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)*
+{{< figure src="https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NjgyMTg3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man under orange sky" title="How to Build a Life You’re Proud Of Without Settling" caption="How to Build a Life You’re Proud Of Without Settling - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)" >}}
 
 And let’s be clear: it’s never too late. Even if you’re seventy, you can start now. In fact, you might have more time than ever. Having a job, even a prestigious one, is not an excuse to skip your own side project. I work as a software engineer for a company, but that doesn’t stop me from working on open-source projects, writing books, or sharing my passions on platforms like SOstack. There are so many ways to share what you love.
 
@@ -51,8 +49,7 @@ Taking a step back is crucial. Don’t let outside things invade your peace, not
 
 ---
 
-![Photo by Jonathan Cosens Photography](https://images.unsplash.com/photo-1722107761867-99dfc054e7bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NjgyMTg3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Life You’re Proud Of Without Settling")
-*How to Build a Life You’re Proud Of Without Settling - Photo by [Jonathan Cosens Photography](https://unsplash.com/@jcosens) on [Unsplash](https://unsplash.com/photos/a-smiley-face-painted-on-a-yellow-ball-MRJD6be8cMc)*
+{{< figure src="https://images.unsplash.com/photo-1722107761867-99dfc054e7bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwc2F0aXNmYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NjgyMTg3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A smiley face painted on a yellow ball" title="How to Build a Life You’re Proud Of Without Settling" caption="How to Build a Life You’re Proud Of Without Settling - Photo by [Jonathan Cosens Photography](https://unsplash.com/@jcosens) on [Unsplash](https://unsplash.com/photos/a-smiley-face-painted-on-a-yellow-ball-MRJD6be8cMc)" >}}
 
 ## Key Takeaways
 

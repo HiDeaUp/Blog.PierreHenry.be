@@ -12,9 +12,7 @@ original_title = "La rapidité de réalisation 🚀"
 source_medium = "https://medium.com/@phenrysay/a86734799333"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, less haste more speed, slow down, measure twice cut once, breathe, concentrate, do not panic, do not rush, rush job, panic, anxiety, 
-](https://images.unsplash.com/photo-1618675862964-01132ed5a662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzcGVlZCUyMGVmZmljaWVuY3l8ZW58MHwwfHx8MTc1NjUxMTY4NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done in Less Time Without Burning Out")
-*How to Get More Done in Less Time Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-n9rZ5VTGm6M)*
+{{< figure src="https://images.unsplash.com/photo-1618675862964-01132ed5a662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzcGVlZCUyMGVmZmljaWVuY3l8ZW58MHwwfHx8MTc1NjUxMTY4NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Get More Done in Less Time Without Burning Out" caption="How to Get More Done in Less Time Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-n9rZ5VTGm6M)" >}}
 
 ### Sometimes, speed is the real secret ingredient.
 
@@ -34,8 +32,7 @@ For me, coming up with ideas while walking doesn’t work so well. But if I’m 
 
 If you truly dislike something, you always have the option to delegate it or stop doing it altogether. Maybe it’s time to switch careers or simply let go of that task. Life is too short to spend it doing things you hate. The worst thing is to live your life just going through the motions, doing what you think is expected of you, instead of what you actually enjoy.
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzcGVlZCUyMGVmZmljaWVuY3l8ZW58MHwwfHx8MTc1NjUxMTY4NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done in Less Time Without Burning Out")
-*How to Get More Done in Less Time Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzcGVlZCUyMGVmZmljaWVuY3l8ZW58MHwwfHx8MTc1NjUxMTY4NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Get More Done in Less Time Without Burning Out" caption="How to Get More Done in Less Time Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Success isn’t about ticking boxes or meeting society’s standards. It’s about how much you enjoy your own life. If your idea of success is simply feeling joy every day, then you’re already winning. The real achievement is being fully present in every moment, loving what you do, and living life on your own terms.
 
@@ -57,8 +54,7 @@ It’s easy to get distracted or thrown off course—sometimes even a small inte
 
 ## Key Takeaways
 
-![Plan your routines](https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzcGVlZCUyMGVmZmljaWVuY3l8ZW58MHwwfHx8MTc1NjUxMTY4NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done in Less Time Without Burning Out")
-*How to Get More Done in Less Time Without Burning Out - Photo by [Boitumelo](https://unsplash.com/@writecodenow) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-Ed2fRK5ify4)*
+{{< figure src="https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzcGVlZCUyMGVmZmljaWVuY3l8ZW58MHwwfHx8MTc1NjUxMTY4NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Plan your routines" title="How to Get More Done in Less Time Without Burning Out" caption="How to Get More Done in Less Time Without Burning Out - Photo by [Boitumelo](https://unsplash.com/@writecodenow) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-Ed2fRK5ify4)" >}}
 
 - Identify what you don’t enjoy and why.
 - Change your environment or your perception to make tasks more enjoyable.

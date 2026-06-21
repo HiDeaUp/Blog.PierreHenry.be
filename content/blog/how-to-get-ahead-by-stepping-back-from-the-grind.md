@@ -12,8 +12,7 @@ original_title = "Déconnecte-Toi Pour Mieux Réussir 🚀"
 source_medium = "https://medium.com/@phenrysay/b16bcf58d265"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695649558088-d2ba41d9ffc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwZGV0b3glMjBwcm9kdWN0aXZpdHklMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NTU3Njg2MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Ahead by Stepping Back From the Grind")
-*How to Get Ahead by Stepping Back From the Grind - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-paper-that-reads-digital-detox-3i9q3uMMsUI)*
+{{< figure src="https://images.unsplash.com/photo-1695649558088-d2ba41d9ffc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwZGV0b3glMjBwcm9kdWN0aXZpdHklMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NTU3Njg2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A with a paper that reads digital detox" title="How to Get Ahead by Stepping Back From the Grind" caption="How to Get Ahead by Stepping Back From the Grind - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-paper-that-reads-digital-detox-3i9q3uMMsUI)" >}}
 
 Have you ever noticed how easy it is to get hooked on something—even if you didn’t like it at first? It could be a work project, a pet you never wanted, or even a plant you were asked to water for a neighbor. At first, you might not care for it at all. But the more time you spend on it, the more you start to pay attention, to care, and eventually, to enjoy it. This is how habits form, and sometimes, how obsessions begin.
 
@@ -23,8 +22,7 @@ It’s a bit like being asked to take care of a pet when you don’t even like a
 
 But here’s the catch: just because you start to like something doesn’t mean it should take over your life. Especially with work, it’s important to keep a balance. There’s this idea of “work-life balance”—eight hours for work, eight hours for yourself (to relax, exercise, or do something creative), and eight hours for sleep. That’s the ideal 24-hour day.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695462131582-77b777ea8ce8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaWdpdGFsJTIwZGV0b3glMjBwcm9kdWN0aXZpdHklMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NTU3Njg2MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Ahead by Stepping Back From the Grind")
-*How to Get Ahead by Stepping Back From the Grind - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-digital-detox-kri14qh6_WM)*
+{{< figure src="https://images.unsplash.com/photo-1695462131582-77b777ea8ce8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkaWdpdGFsJTIwZGV0b3glMjBwcm9kdWN0aXZpdHklMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NTU3Njg2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads digital detox" title="How to Get Ahead by Stepping Back From the Grind" caption="How to Get Ahead by Stepping Back From the Grind - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-digital-detox-kri14qh6_WM)" >}}
 
 Sleep is crucial. For most people, seven to eight hours is perfect. The real trick is to go to bed and wake up at the same time every day, in a quiet, dark room. It’s not just about the number of hours, but the quality of your sleep. If you keep waking up or your alarm goes off and you barely notice, your sleep isn’t doing its job. Good sleep is the foundation of a good life.
 
@@ -44,8 +42,7 @@ Sometimes, we don’t realize how much our environment shapes us. It’s like ma
 >
 > — African proverb
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695806109247-096650eccc03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaWdpdGFsJTIwZGV0b3glMjBwcm9kdWN0aXZpdHklMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NTU3Njg2MHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Ahead by Stepping Back From the Grind")
-*How to Get Ahead by Stepping Back From the Grind - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-digital-detox-wkqWMKmiTF4)*
+{{< figure src="https://images.unsplash.com/photo-1695806109247-096650eccc03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkaWdpdGFsJTIwZGV0b3glMjBwcm9kdWN0aXZpdHklMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NTU3Njg2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads digital detox" title="How to Get Ahead by Stepping Back From the Grind" caption="How to Get Ahead by Stepping Back From the Grind - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-digital-detox-wkqWMKmiTF4)" >}}
 
 So, take care of your environment, take care of yourself, and don’t be afraid to disconnect. Sometimes, stepping back is the best way to move forward. I believe in you 100%. You can do this.
 

@@ -12,8 +12,7 @@ original_title = "Comment se rendre plus heureux ? Ma méthode. Je te partage TO
 source_medium = "https://medium.com/@phenrysay/eb18d85c8338"
 +++
 
-![Live Colorfully [ IG: @clay.banks ]](https://images.unsplash.com/photo-1488137881216-5bea4b9bac2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjU3NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feed Your Soul and Feel Happier Every Day")
-*How to Feed Your Soul and Feel Happier Every Day - Photo by [Clay Banks](https://unsplash.com/@claybanks) on [Unsplash](https://unsplash.com/photos/live-colorfully-neon-signage-9UBQwEYCAbg)*
+{{< figure src="https://images.unsplash.com/photo-1488137881216-5bea4b9bac2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjU3NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Live Colorfully [ IG: @clay.banks ]" title="How to Feed Your Soul and Feel Happier Every Day" caption="How to Feed Your Soul and Feel Happier Every Day - Photo by [Clay Banks](https://unsplash.com/@claybanks) on [Unsplash](https://unsplash.com/photos/live-colorfully-neon-signage-9UBQwEYCAbg)" >}}
 
 Let’s talk about personal nourishment—feeding your well-being, your soul, and your true self. It’s easy to say, “Be positive,” but what does that really mean? Why does it matter so much? The way you see things, whether you see the glass half full or half empty, changes everything. If you choose positivity, the world often responds in kind.
 
@@ -27,8 +26,7 @@ Your mindset shapes your reality. If you’re excited and full of energy, people
 
 So, what does it mean to nourish yourself? It’s about feeding your soul. You need to know your strengths and values. Learn about yourself. Who are you? How can you communicate better? Taking action is part of personal nourishment. Open your mind to others. Don’t judge people just because they’re different. Everyone has their own background and way of seeing things. If we all made the effort to see things from another’s point of view, the world would be a much better place.
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjU3NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feed Your Soul and Feel Happier Every Day")
-*How to Feed Your Soul and Feel Happier Every Day - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjU3NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Feed Your Soul and Feel Happier Every Day" caption="How to Feed Your Soul and Feel Happier Every Day - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Sometimes misunderstandings happen because we think there’s only one way to see things. But often, the other person’s reaction has nothing to do with you. Keeping an open mind helps you grow and helps others too.
 
@@ -50,8 +48,7 @@ Today, I wanted to share this with you in a relaxed way, like I’m talking to a
 
 ---
 
-![smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679](https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjU3NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Feed Your Soul and Feel Happier Every Day")
-*How to Feed Your Soul and Feel Happier Every Day - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)*
+{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzU1NjU3NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Feed Your Soul and Feel Happier Every Day" caption="How to Feed Your Soul and Feel Happier Every Day - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
 
 ## Key Takeaways
 

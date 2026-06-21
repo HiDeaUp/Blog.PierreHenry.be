@@ -12,8 +12,7 @@ original_title = "Comment Atteindre le Niveau de Réussite Supérieur ? Mes Top 
 source_medium = "https://medium.com/@phenrysay/52f4b0f46e96"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMzE0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Faster WITHOUT Skipping the Steps")
-*How to Succeed Faster WITHOUT Skipping the Steps - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMzE0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Succeed Faster WITHOUT Skipping the Steps" caption="How to Succeed Faster WITHOUT Skipping the Steps - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Many people are in a hurry to get to the next step. Even when they know it’s not rational or justified, they want to go faster, to skip ahead. But by rushing, they often miss important steps or don’t do them well enough. Let’s take the example of launching software: some people want to launch right away, tell everyone about it, and then nothing works. On the other hand, you shouldn’t fall into the opposite trap—spending years perfecting something, only to find out after three years that nobody is interested, or that users’ needs have changed.
 
@@ -30,8 +29,7 @@ So, as a freelancer, it’s even more important to focus on your MVP. Your reput
 > *“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”*  
 — Antoine de Saint-Exupéry
 
-![Photo by Rifki Kurniawan](https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMzE0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Faster WITHOUT Skipping the Steps")
-*How to Succeed Faster WITHOUT Skipping the Steps - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)*
+{{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMzE0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Succeed Faster WITHOUT Skipping the Steps" caption="How to Succeed Faster WITHOUT Skipping the Steps - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 Environment matters too. I love coming to places surrounded by nature. Even if the weather isn’t perfect, the view inspires creativity and new ideas. Just like a tree grows faster in fertile soil, your ideas grow better in the right environment. In some countries, it’s easier and faster to succeed because the entrepreneurial environment is more fertile. The people you surround yourself with and the place you live in can make a huge difference, even if it’s indirect.
 
@@ -52,8 +50,7 @@ If your journey is beautiful, you won’t even care where it leads—you’ll si
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMzE0Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed Faster WITHOUT Skipping the Steps")
-*How to Succeed Faster WITHOUT Skipping the Steps - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc3RyYXRlZ2llcyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NTQyMzE0Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Succeed Faster WITHOUT Skipping the Steps" caption="How to Succeed Faster WITHOUT Skipping the Steps - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 ## Key Takeaways
 

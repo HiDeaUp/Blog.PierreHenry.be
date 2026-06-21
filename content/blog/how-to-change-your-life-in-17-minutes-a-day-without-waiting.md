@@ -12,8 +12,7 @@ original_title = "Passer à l'action. Comment agir dans sa vie en 17 minutes pa
 source_medium = "https://medium.com/@phenrysay/4c3253291eb5"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTYwMDc3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life in 17 Minutes a Day Without Waiting")
-*How to Change Your Life in 17 Minutes a Day Without Waiting - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTYwMDc3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Change Your Life in 17 Minutes a Day Without Waiting" caption="How to Change Your Life in 17 Minutes a Day Without Waiting - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Every day, I meet people who dream of writing a book, starting a business, launching a video course, saving for a house, getting fit, or traveling the world. They say, “Tomorrow I’ll start. Tomorrow I’ll join the gym. Tomorrow I’ll plan that trip to Antarctica.” But tomorrow never comes. There’s always something in the way—never enough money, never enough time, never the perfect moment. Life gets in the way, and those dreams stay dreams.
 
@@ -27,8 +26,7 @@ Tim Ferriss popularized the idea of the “mini-retirement”—taking six month
 
 Maybe your dream is something similar. Maybe you want to travel, start a business, or learn a new skill. The truth is, there’s never a perfect time. You might have to squeeze your budget or juggle your schedule, but if you keep waiting, you’ll never do it. Life only gets busier. You never know what will happen in a month, a year, or even three weeks. So the best time to start is now.
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTYwMDc3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life in 17 Minutes a Day Without Waiting")
-*How to Change Your Life in 17 Minutes a Day Without Waiting - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTYwMDc3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Change Your Life in 17 Minutes a Day Without Waiting" caption="How to Change Your Life in 17 Minutes a Day Without Waiting - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 We all have 24 hours in a day. Sometimes I work from 7 in the morning until 10 or 11 at night because I love what I do. But even then, there are limits. You have to know your limits and recognize that your time is precious. Prioritize what makes you happy. Focus on the things that give you energy and make you feel good. Life is beautiful and deserves to be lived fully.
 
@@ -49,8 +47,7 @@ I also recommend the book *The One Thing*. It’s a great read if you want to im
 > *“What you do every day matters more than what you do once in a while.”*  
 — Gretchen Rubin
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTYwMDc3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life in 17 Minutes a Day Without Waiting")
-*How to Change Your Life in 17 Minutes a Day Without Waiting - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTYwMDc3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Change Your Life in 17 Minutes a Day Without Waiting" caption="How to Change Your Life in 17 Minutes a Day Without Waiting - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 ---
 

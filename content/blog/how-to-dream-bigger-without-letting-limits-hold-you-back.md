@@ -12,8 +12,7 @@ original_title = "Réaliser de grandes choses..."
 source_medium = "https://medium.com/@phenrysay/d41d6050e436"
 +++
 
-![A simple message to dream with shimmery purple and pink glitter bokeh.](https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbSUyMGJpZ3xlbnwwfDB8fHwxNzU2MDA4NjkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Dream Bigger Without Letting Limits Hold You Back")
-*How to Dream Bigger Without Letting Limits Hold You Back - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)*
+{{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbSUyMGJpZ3xlbnwwfDB8fHwxNzU2MDA4NjkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Dream Bigger Without Letting Limits Hold You Back" caption="How to Dream Bigger Without Letting Limits Hold You Back - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 
 Have you ever wanted to accomplish something so big, so bold, that it almost felt out of reach? Maybe you’ve imagined doing something far beyond what you thought you could ever achieve. If you feel this kind of ambition, you’re already on the right path.
 
@@ -37,8 +36,7 @@ Learning never ends. As you grow and pick up new skills, keep updating your appr
 
 Remember, the only limits that exist are the ones you create in your mind. It’s all about how you condition yourself. Now is the time to break down those walls and reach for the next level.
 
-![Photo by Claudio Schwarz](https://images.unsplash.com/photo-1654525481543-c4621b0bcdb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbSUyMGJpZ3xlbnwwfDB8fHwxNzU2MDA4NjkwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Dream Bigger Without Letting Limits Hold You Back")
-*How to Dream Bigger Without Letting Limits Hold You Back - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/a-man-walking-down-a-street-next-to-a-building-5c0U4CY_lwA)*
+{{< figure src="https://images.unsplash.com/photo-1654525481543-c4621b0bcdb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBkcmVhbSUyMGJpZ3xlbnwwfDB8fHwxNzU2MDA4NjkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man walking down a street next to a" title="How to Dream Bigger Without Letting Limits Hold You Back" caption="How to Dream Bigger Without Letting Limits Hold You Back - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/a-man-walking-down-a-street-next-to-a-building-5c0U4CY_lwA)" >}}
 
 ---
 

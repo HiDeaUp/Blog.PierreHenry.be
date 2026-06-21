@@ -12,8 +12,7 @@ original_title = "Le nourrissage positif 😊"
 source_medium = "https://medium.com/@phenrysay/9e80a945f6a5"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBtZW50YWwlMjBoZWFsdGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How a Simple High Five Can Boost Your Mood Without Extra Effort")
-*How a Simple High Five Can Boost Your Mood Without Extra Effort - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBtZW50YWwlMjBoZWFsdGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How a Simple High Five Can Boost Your Mood Without Extra Effort" caption="How a Simple High Five Can Boost Your Mood Without Extra Effort - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 Feeding your mind is just as important as feeding your body. When you give your brain the right kind of nourishment, your daily life becomes more enjoyable, and even the most ordinary routines start to feel special.
 
@@ -25,8 +24,7 @@ This exercise is easy to try. Next time you’re in the bathroom, look in the mi
 
 Another book I recommend is *Hyper Performer* by an Australian author. It’s full of practical advice for different types of people, covering everything from nutrition to daily habits. The idea is to take care of yourself, not to solve every problem at once, but to feel better and let go of negativity, even if only for a while.
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBtZW50YWwlMjBoZWFsdGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How a Simple High Five Can Boost Your Mood Without Extra Effort")
-*How a Simple High Five Can Boost Your Mood Without Extra Effort - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBtZW50YWwlMjBoZWFsdGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How a Simple High Five Can Boost Your Mood Without Extra Effort" caption="How a Simple High Five Can Boost Your Mood Without Extra Effort - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 I also keep beautiful notebooks and cards around. Having nice things, even something as simple as a lovely notebook, can make your day brighter. It’s about surrounding yourself with things that make you feel good and help you breathe a little easier.
 
@@ -44,8 +42,7 @@ Another book I want to mention is *The One Thing*. The idea is to focus on just 
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBtZW50YWwlMjBoZWFsdGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How a Simple High Five Can Boost Your Mood Without Extra Effort")
-*How a Simple High Five Can Boost Your Mood Without Extra Effort - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBtZW50YWwlMjBoZWFsdGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY1MTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How a Simple High Five Can Boost Your Mood Without Extra Effort" caption="How a Simple High Five Can Boost Your Mood Without Extra Effort - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 ## Key Takeaways
 

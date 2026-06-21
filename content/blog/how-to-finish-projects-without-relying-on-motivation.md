@@ -12,8 +12,7 @@ original_title = "Pourquoi Je Gère MA VIE Mieux Que 99% Des Gens"
 source_medium = "https://medium.com/@phenrysay/284b1e181f2d"
 +++
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODU5NDAxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Projects Without Relying on Motivation")
-*How to Finish Projects Without Relying on Motivation - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODU5NDAxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Finish Projects Without Relying on Motivation" caption="How to Finish Projects Without Relying on Motivation - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 Investing yourself in a project is never as easy as it seems at the start. At first, you’re excited—maybe even a little wild, like a puppy eager to chase after something new. You can’t wait to get going. But after a few weeks, that initial spark fades. Suddenly, you’re not as motivated. You feel tired, maybe even bored, and you start to wonder if this project is really for you.
 
@@ -21,8 +20,7 @@ This is the moment when most people start to give up. It’s easy to let things 
 
 So, what do you do when your motivation runs out? You need to set yourself challenges—real, personal challenges that actually matter to you. Not just any challenge, but ones that are tied to your own interests and what you enjoy. If you don’t add a bit of spice to your main project, you’ll lose interest. You’ll stop working on it, and before you know it, the project will be forgotten.
 
-![Photo by Jeremy Beck](https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODU5NDAxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Projects Without Relying on Motivation")
-*How to Finish Projects Without Relying on Motivation - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)*
+{{< figure src="https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODU5NDAxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Imagine text" title="How to Finish Projects Without Relying on Motivation" caption="How to Finish Projects Without Relying on Motivation - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)" >}}
 
 It’s at this point you need to take back control—grab the reins, as the saying goes. If you don’t, you’ll head straight for the exit, and your project will never see the light of day. Who knows? Maybe it could have been a huge success if you’d just stuck with it a little longer.
 
@@ -34,8 +32,7 @@ So, believe in yourself. I believe in you. Keep going, every single day, until w
 
 ---
 
-![Make Things Special](https://images.unsplash.com/photo-1511465390398-532913e8328d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODU5NDAxMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Projects Without Relying on Motivation")
-*How to Finish Projects Without Relying on Motivation - Photo by [Mert Talay](https://unsplash.com/@merttly) on [Unsplash](https://unsplash.com/photos/quote-3d-text-KYZoOmpn1Aw)*
+{{< figure src="https://images.unsplash.com/photo-1511465390398-532913e8328d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODU5NDAxMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Make Things Special" title="How to Finish Projects Without Relying on Motivation" caption="How to Finish Projects Without Relying on Motivation - Photo by [Mert Talay](https://unsplash.com/@merttly) on [Unsplash](https://unsplash.com/photos/quote-3d-text-KYZoOmpn1Aw)" >}}
 
 ## Key Takeaways
 - Motivation fades, but habits and personal challenges keep you going.

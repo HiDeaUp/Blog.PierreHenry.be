@@ -12,8 +12,7 @@ original_title = "Challenges toi et dépasses toi ! 🚀"
 source_medium = "https://medium.com/@phenrysay/f71e39a88128"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU2MDA4OTM1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Leap Forward Without Waiting for the “Right Moment”")
-*How to Leap Forward Without Waiting for the “Right Moment” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU2MDA4OTM1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Leap Forward Without Waiting for the “Right Moment”" caption="How to Leap Forward Without Waiting for the “Right Moment” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever stood somewhere breathtaking and felt a surge of inspiration, a sudden urge to do more, to become more? That’s exactly what happened to me as I found myself in front of the Sydney Opera House, surrounded by peace and beauty, watching a military ship glide by. In that moment, I realized how much this life pushes me to go beyond my limits. It made me want to share with you why it’s so important to always follow your instincts, your dreams, and what you truly want to achieve.
 
@@ -23,8 +22,7 @@ I was writing an article about well-being, and it struck me: to feel truly good,
 
 So, how can you achieve more, and do it faster? Maybe after work, or on weekends, you can start working on those dreams. The important thing is to start. Accomplishing these things matters because, in the end, it’s all about living a life that feels meaningful to you.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU2MDA4OTM1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Leap Forward Without Waiting for the “Right Moment”")
-*How to Leap Forward Without Waiting for the “Right Moment” - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU2MDA4OTM1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Leap Forward Without Waiting for the “Right Moment”" caption="How to Leap Forward Without Waiting for the “Right Moment” - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 Don’t fall into the trap of thinking, “Today isn’t the right time. Maybe tomorrow.” Tomorrow never comes if you keep waiting for the perfect moment. The only time you truly have is now.
 
@@ -42,8 +40,7 @@ The most important thing is to act. Life is happening now. Don’t let it pass y
 
 ---
 
-![Yoga at sunset on the coast](https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU2MDA4OTM1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Leap Forward Without Waiting for the “Right Moment”")
-*How to Leap Forward Without Waiting for the “Right Moment” - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)*
+{{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU2MDA4OTM1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Leap Forward Without Waiting for the “Right Moment”" caption="How to Leap Forward Without Waiting for the “Right Moment” - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Une vie qui te ressemble ✨"
 source_medium = "https://medium.com/@phenrysay/9ce87e182309"
 +++
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY1MDk0MDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Self-Confidence Without Faking It")
-*How to Build Real Self-Confidence Without Faking It - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY1MDk0MDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Build Real Self-Confidence Without Faking It" caption="How to Build Real Self-Confidence Without Faking It - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 Self-confidence is not just a buzzword. It is the foundation of personal growth and well-being. When you feel good about yourself, you open the door to bigger dreams and greater achievements. The more fulfilled you are, the more you dare to aim high and accomplish things you once thought impossible. And the best part? You get there faster.
 
@@ -23,8 +22,7 @@ One powerful technique is to project yourself into the future. Picture yourself 
 
 This approach is much more effective than simply dreaming about success. When you only fantasize, your goals remain out of reach. But when you break your vision down into concrete steps and take action every day, you move closer to your dreams. You start to believe in yourself, because you can already see the path and the progress.
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY1MDk0MDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Self-Confidence Without Faking It")
-*How to Build Real Self-Confidence Without Faking It - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY1MDk0MDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Build Real Self-Confidence Without Faking It" caption="How to Build Real Self-Confidence Without Faking It - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 > *The future belongs to those who believe in the beauty of their dreams.*
 >
@@ -45,8 +43,7 @@ Having a clear vision and a plan is what sets achievers apart. You are not just 
 - *Break big dreams into small, achievable actions and follow through.*
 - *Consistent progress is more powerful than waiting for a perfect moment.*
 
-![Photo by Gaelle Marcel](https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY1MDk0MDN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Real Self-Confidence Without Faking It")
-*How to Build Real Self-Confidence Without Faking It - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)*
+{{< figure src="https://images.unsplash.com/photo-1642866050800-5f0be7926ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTY1MDk0MDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cat looking at itself in a mirror" title="How to Build Real Self-Confidence Without Faking It" caption="How to Build Real Self-Confidence Without Faking It - Photo by [Gaelle Marcel](https://unsplash.com/@gaellemarcel) on [Unsplash](https://unsplash.com/photos/a-cat-looking-at-itself-in-a-mirror-nskqNK8FOoA)" >}}
 
 ---
 

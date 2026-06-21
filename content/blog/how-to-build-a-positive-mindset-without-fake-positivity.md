@@ -12,8 +12,7 @@ original_title = "Comment avoir un bon mindset ?"
 source_medium = "https://medium.com/@phenrysay/cd64259bb73b"
 +++
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwcG9zaXRpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjAwOTkwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Positive Mindset Without Fake Positivity")
-*How to Build a Positive Mindset Without Fake Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwcG9zaXRpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjAwOTkwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Build a Positive Mindset Without Fake Positivity" caption="How to Build a Positive Mindset Without Fake Positivity - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 When we talk about positivity, it’s not just about putting on a happy face or repeating empty slogans. Being positive is about attracting positive energy, which often means new opportunities and unexpected doors opening. Even if you don’t believe in “the universe” sending you things, there’s no denying that your attitude shapes what you notice and what you attract.
 
@@ -27,8 +26,7 @@ This is important: your environment shapes your mindset. If you’re surrounded 
 
 Let’s talk about limiting beliefs. When you condition yourself positively, those beliefs lose their grip. Suddenly, you’re ready to take action—register your business, contact hundreds of clients, or send cold emails. Yes, reaching out to strangers is intimidating, and rejection rates are high. But the more you practice, the better you get. In English-speaking countries, people are often less likely to hang up on you, so if you speak English, that’s a little trick to make things easier.
 
-![If you like my work, please support me: paypal.me/viktorforgacs](https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwcG9zaXRpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjAwOTkwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Positive Mindset Without Fake Positivity")
-*How to Build a Positive Mindset Without Fake Positivity - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)*
+{{< figure src="https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwcG9zaXRpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjAwOTkwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="If you like my work, please support me: paypal.me/viktorforgacs" title="How to Build a Positive Mindset Without Fake Positivity" caption="How to Build a Positive Mindset Without Fake Positivity - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)" >}}
 
 But this is just one example. The real point is about conditioning your mind. Maybe you want to finish that book you’ve been writing for ages. Maybe you want to send it to a publisher, and even if you get rejected, that’s how you grow. Every rejection means you’re moving forward, taking action, and learning. If you want to avoid rejection, you’ll have to do nothing—and if you do nothing, don’t expect anything to change.
 
@@ -48,8 +46,7 @@ Sometimes, you have to find creative ways around obstacles, but there’s always
 
 Another tip: surround yourself with people who are better than you, but not so far ahead that you can’t relate to them. As you grow, you’ll be able to learn from even more advanced people. This gradual exposure opens new doors and helps you keep progressing.
 
-![Stay Positive](https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwcG9zaXRpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjAwOTkwMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Positive Mindset Without Fake Positivity")
-*How to Build a Positive Mindset Without Fake Positivity - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)*
+{{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwcG9zaXRpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjAwOTkwMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Build a Positive Mindset Without Fake Positivity" caption="How to Build a Positive Mindset Without Fake Positivity - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 > _You become the average of the people you spend the most time with._
 — Jim Rohn

@@ -12,8 +12,7 @@ original_title = "Deviens la MEILLEURE VERSION de toi-même ! Les clés d'une vi
 source_medium = "https://medium.com/@phenrysay/3ac091c5b359"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjA3MjgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Habits Raise Your Standards and Change Your Life")
-*How Small Daily Habits Raise Your Standards and Change Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjA3MjgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How Small Daily Habits Raise Your Standards and Change Your Life" caption="How Small Daily Habits Raise Your Standards and Change Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever wondered why some people seem to have it all together, while others drift through their days without direction? The answer often lies in the small, daily choices we make—especially the routines we build for ourselves. Today, I want to share with you some practical methods you can use every day to improve your life, boost your lifestyle, and raise your standards. These are not just tips to help you get by, but real strategies to help you become a better person, with stronger routines and a healthier way of living.
 
@@ -29,8 +28,7 @@ Having a clear reason for your actions makes it much easier to get up in the mor
 
 I always recommend tackling your most important tasks first thing in the morning. You never know how the day will unfold—unexpected things always come up, and as the day goes on, your energy and focus drop. Mental clutter builds up as you think about conversations that didn’t go well, or replay moments with your partner or friends. All this adds to your mental load.
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjA3MjgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Habits Raise Your Standards and Change Your Life")
-*How Small Daily Habits Raise Your Standards and Change Your Life - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjA3MjgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How Small Daily Habits Raise Your Standards and Change Your Life" caption="How Small Daily Habits Raise Your Standards and Change Your Life - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 That’s why it’s so important to start your day with intention. For me, after my morning routine, I finish with a cold shower. It’s a game changer. Ending your shower with cold water really wakes you up and keeps you from crawling back into bed. I talk more about this in my book, but the key idea is to do what matters most, right after you wake up.
 
@@ -52,8 +50,7 @@ Be vigilant. Ask yourself what you really want, and make sure your actions match
 
 ## Take Action—Every Single Day
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjA3MjgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How Small Daily Habits Raise Your Standards and Change Your Life")
-*How Small Daily Habits Raise Your Standards and Change Your Life - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBkYWlseSUyMGhhYml0c3xlbnwwfDB8fHwxNzU1NjA3MjgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How Small Daily Habits Raise Your Standards and Change Your Life" caption="How Small Daily Habits Raise Your Standards and Change Your Life - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 All these routines and systems only work if you take action. Commit to learning, growing, and giving your best. This mindset will change the way you see your daily life. It’s not about perfection, but about progress and being honest with yourself about what you want to achieve.
 

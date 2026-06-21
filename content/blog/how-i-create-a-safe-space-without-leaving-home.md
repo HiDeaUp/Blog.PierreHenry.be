@@ -12,8 +12,7 @@ original_title = "Ma recette perso pour cultiver le bien-être"
 source_medium = "https://medium.com/@phenrysay/1ab9dbf1555e"
 +++
 
-![Satellite in orbit](https://images.unsplash.com/photo-1446776709462-d6b525c57bd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMDgyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Create a Safe Space Without Leaving Home")
-*How I Create a Safe Space Without Leaving Home - Photo by [NASA](https://unsplash.com/@nasa) on [Unsplash](https://unsplash.com/photos/satellite-flying-on-space-8Hjx3GNZYeA)*
+{{< figure src="https://images.unsplash.com/photo-1446776709462-d6b525c57bd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMDgyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Satellite in orbit" title="How I Create a Safe Space Without Leaving Home" caption="How I Create a Safe Space Without Leaving Home - Photo by [NASA](https://unsplash.com/@nasa) on [Unsplash](https://unsplash.com/photos/satellite-flying-on-space-8Hjx3GNZYeA)" >}}
 
 Feeling at peace is a real gift. We all need it—being calm, feeling safe, and recharging our energy so we can give the best of ourselves. When you’re truly rested and calm, in a place where you feel secure, it changes everything. In English, people call this a “safe space”—a place where you can express yourself freely, show your mistakes, learn from others, and not feel judged.
 
@@ -23,8 +22,7 @@ Right now, I’m reading an old book that I first read back in 2015 or 2016. I e
 
 This is something you can create for yourself. Rereading something you love, whether it’s a novel, a biography, or anything else, can bring back those good feelings. I sometimes read on the terrace, sometimes in my room. Sometimes, I just open the window and look at the sea, listen to the birds, and take it all in. It makes me happy. It makes life feel wonderful.
 
-![Satellite over the coast](https://images.unsplash.com/photo-1460186136353-977e9d6085a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMDgyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Create a Safe Space Without Leaving Home")
-*How I Create a Safe Space Without Leaving Home - Photo by [SpaceX](https://unsplash.com/@spacex) on [Unsplash](https://unsplash.com/photos/a-space-satellite-hovering-above-the-coastline-VBNb52J8Trk)*
+{{< figure src="https://images.unsplash.com/photo-1460186136353-977e9d6085a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMDgyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Satellite over the coast" title="How I Create a Safe Space Without Leaving Home" caption="How I Create a Safe Space Without Leaving Home - Photo by [SpaceX](https://unsplash.com/@spacex) on [Unsplash](https://unsplash.com/photos/a-space-satellite-hovering-above-the-coastline-VBNb52J8Trk)" >}}
 
 Speaking of environment and safe spaces, it’s so important to invest in your well-being and your learning. I’ve spent years and a lot of money on seminars and training in the US, Australia, the UK, and Ireland. I do this because I want to keep learning and growing, and I love sharing what I learn. Teaching others helps me organize my thoughts and keeps me learning, too. It’s like having a second brain—putting what I learn somewhere safe, so I can come back to it and share it with you.
 
@@ -40,8 +38,7 @@ At the end of the day, it’s up to you. You can choose to invest in yourself, i
 
 If you really want something, if you’re obsessed with it, you’ll get there if you keep going. Not everyone starts from the same place—some people have a head start. But if you want something badly enough, even if you have to work harder, you’ll get it. I believe in you. That’s why I share what I learn—to give you a head start, to help you invest in your life. It’s the best thing you can do for yourself.
 
-![Photo by Tyler van der Hoeven](https://images.unsplash.com/photo-1504192010706-dd7f569ee2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMDgyMHww&ixlib=rb-4.1.0&q=80&w=1080 "How I Create a Safe Space Without Leaving Home")
-*How I Create a Safe Space Without Leaving Home - Photo by [Tyler van der Hoeven](https://unsplash.com/@tyvdh) on [Unsplash](https://unsplash.com/photos/digital-wallpaper-of-eclipse-_ok8uVzL2gI)*
+{{< figure src="https://images.unsplash.com/photo-1504192010706-dd7f569ee2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwc2FmZSUyMHNwYWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc0OTMxMDgyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Digital of eclipse" title="How I Create a Safe Space Without Leaving Home" caption="How I Create a Safe Space Without Leaving Home - Photo by [Tyler van der Hoeven](https://unsplash.com/@tyvdh) on [Unsplash](https://unsplash.com/photos/digital-wallpaper-of-eclipse-_ok8uVzL2gI)" >}}
 
 ---
 

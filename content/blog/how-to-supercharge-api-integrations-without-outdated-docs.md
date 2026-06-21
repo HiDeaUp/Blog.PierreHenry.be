@@ -12,8 +12,7 @@ original_title = "Cursor Al. Let's be SMARTER!"
 source_medium = "https://medium.com/@phenrysay/3ad31035d6d4"
 +++
 
-![Photo by paolo tognoni](https://images.unsplash.com/photo-1702396303987-ba7478448408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDdXJzb3IlMjBBSSUyMEFQSSUyMGludGVncmF0aW9uJTIwZG9jdW1lbnRhdGlvbnxlbnwwfDB8fHwxNzY3MDc0NTgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge API Integrations Without Outdated Docs")
-*How to Supercharge API Integrations Without Outdated Docs - Photo by [paolo tognoni](https://unsplash.com/@ptognoni) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bunch-of-bees-on-a-tree-uqXiPtOd2j4)*
+{{< figure src="https://images.unsplash.com/photo-1702396303987-ba7478448408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDdXJzb3IlMjBBSSUyMEFQSSUyMGludGVncmF0aW9uJTIwZG9jdW1lbnRhdGlvbnxlbnwwfDB8fHwxNzY3MDc0NTgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a bunch of bees on a tree" title="How to Supercharge API Integrations Without Outdated Docs" caption="How to Supercharge API Integrations Without Outdated Docs - Photo by [paolo tognoni](https://unsplash.com/@ptognoni) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-bunch-of-bees-on-a-tree-uqXiPtOd2j4)" >}}
 
 Something I really enjoy when I have to implement something new with Cursor is that you can, at any time, add and include documentation from an API. For example, if I’m working with a new API, I can just bring in its docs right into my workspace. Here’s how I do it and why it makes my workflow so much smoother.
 
@@ -40,8 +39,7 @@ Here’s how I do it:
 
 Cursor will fetch and index the new documentation. It’s fast — just a couple of minutes and you’re set. Now, Cursor has the latest docs and can give you accurate answers based on the current API, not some outdated version.
 
-![Photo by Meggyn Pomerleau](https://images.unsplash.com/photo-1627515780584-8ebb6a416b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDdXJzb3IlMjBBSSUyMEFQSSUyMGludGVncmF0aW9uJTIwZG9jdW1lbnRhdGlvbnxlbnwwfDB8fHwxNzY3MDc0NTgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge API Integrations Without Outdated Docs")
-*How to Supercharge API Integrations Without Outdated Docs - Photo by [Meggyn Pomerleau](https://unsplash.com/@yungserif) on [Unsplash](https://unsplash.com/photos/brown-and-black-bee-on-white-wooden-board-x7RSSIemOQc)*
+{{< figure src="https://images.unsplash.com/photo-1627515780584-8ebb6a416b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDdXJzb3IlMjBBSSUyMEFQSSUyMGludGVncmF0aW9uJTIwZG9jdW1lbnRhdGlvbnxlbnwwfDB8fHwxNzY3MDc0NTgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown and black bee on white wooden board" title="How to Supercharge API Integrations Without Outdated Docs" caption="How to Supercharge API Integrations Without Outdated Docs - Photo by [Meggyn Pomerleau](https://unsplash.com/@yungserif) on [Unsplash](https://unsplash.com/photos/brown-and-black-bee-on-white-wooden-board-x7RSSIemOQc)" >}}
 
 ### Using the Docs in Practice
 
@@ -78,8 +76,7 @@ Why is this useful? Imagine the Bravo API is down or flaky. If the first request
 
 After making these changes, I commit everything. All the diffs are in the mailing list service. I let Cursor generate a commit message, hit commit, and I’m done. Everything’s neat and tidy.
 
-![Photo by Dmytro Glazunov](https://images.unsplash.com/photo-1688940737518-aa17d894c155?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDdXJzb3IlMjBBSSUyMEFQSSUyMGludGVncmF0aW9uJTIwZG9jdW1lbnRhdGlvbnxlbnwwfDB8fHwxNzY3MDc0NTgxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Supercharge API Integrations Without Outdated Docs")
-*How to Supercharge API Integrations Without Outdated Docs - Photo by [Dmytro Glazunov](https://unsplash.com/@d_glazun0v) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-beehive-with-bees-in-it-QHgmGWCltKE)*
+{{< figure src="https://images.unsplash.com/photo-1688940737518-aa17d894c155?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDdXJzb3IlMjBBSSUyMEFQSSUyMGludGVncmF0aW9uJTIwZG9jdW1lbnRhdGlvbnxlbnwwfDB8fHwxNzY3MDc0NTgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a beehive with bees in it" title="How to Supercharge API Integrations Without Outdated Docs" caption="How to Supercharge API Integrations Without Outdated Docs - Photo by [Dmytro Glazunov](https://unsplash.com/@d_glazun0v) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-beehive-with-bees-in-it-QHgmGWCltKE)" >}}
 
 I’m pretty happy with how this turned out. Cursor, when paired with up-to-date docs, is a game-changer for API work. You get accurate, current suggestions and can iterate quickly.
 

@@ -12,8 +12,7 @@ original_title = "Tout simplifier. Rendre la vie plus simple"
 source_medium = "https://medium.com/@phenrysay/8562437ad59d"
 +++
 
-![Photo by Radu Prodan](https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTExMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Your Life Without Losing What Matters")
-*How to Simplify Your Life Without Losing What Matters - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)*
+{{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTExMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Simplify Your Life Without Losing What Matters" caption="How to Simplify Your Life Without Losing What Matters - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
 Simplicity is a real game-changer. When you make everything simple—whether in your personal life or at work—everything changes. The more you strip away the unnecessary, the more freedom you gain. It’s about working with easy methods, using only what you need, and not getting lost in a mess of tools or gadgets.
 
@@ -23,8 +22,7 @@ The real message here is that simplicity—optimizing everything and sticking to
 
 I encourage you to try this for yourself. Simplify your daily life as much as you can. You’ll feel lighter and more free. The less complexity you have, the more time and mental energy you’ll have for what really matters.
 
-![A minimal home office work space](https://images.unsplash.com/photo-1655988940601-7702d8685f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTExMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Your Life Without Losing What Matters")
-*How to Simplify Your Life Without Losing What Matters - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/a-laptop-on-a-table-Z_pg_rltaKE)*
+{{< figure src="https://images.unsplash.com/photo-1655988940601-7702d8685f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTExMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A minimal home office work space" title="How to Simplify Your Life Without Losing What Matters" caption="How to Simplify Your Life Without Losing What Matters - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/a-laptop-on-a-table-Z_pg_rltaKE)" >}}
 
 Your environment matters too. The space you live in can lift you up or weigh you down. The way you set up your home has a direct impact on your mood and even your success. When your surroundings are simple and clear, your mind follows. It’s all connected.
 
@@ -43,8 +41,7 @@ Your environment matters too. The space you live in can lift you up or weigh you
 - *Quality matters more than quantity—find creative uses for what you already have.*
 - *A simple environment leads to a clearer mind and more success.*
 
-![Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel](https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTExMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Simplify Your Life Without Losing What Matters")
-*How to Simplify Your Life Without Losing What Matters - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)*
+{{< figure src="https://images.unsplash.com/photo-1625585598750-3535fe40efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGljaXR5JTIwbWluaW1hbGlzbSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2NTExMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Instagram - @andrewtneel | Donations - paypal.me/AndrewNeel" title="How to Simplify Your Life Without Losing What Matters" caption="How to Simplify Your Life Without Losing What Matters - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) on [Unsplash](https://unsplash.com/photos/white-round-table-near-white-wall-DLD5LvnFblU)" >}}
 
 ---
 

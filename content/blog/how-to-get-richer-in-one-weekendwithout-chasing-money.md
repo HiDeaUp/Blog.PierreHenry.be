@@ -12,8 +12,7 @@ original_title = "Devenir une version RICHE de soi-même (ma méthode Australien
 source_medium = "https://medium.com/@phenrysay/5734b0ca8675"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NDkzMzMxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Richer in One Weekend—Without Chasing Money")
-*How to Get Richer in One Weekend—Without Chasing Money - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NDkzMzMxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Get Richer in One Weekend—Without Chasing Money" caption="How to Get Richer in One Weekend—Without Chasing Money - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 When people talk about getting rich, the first thing that comes to mind is usually money. But what if the real wealth starts with investing in yourself—your skills, your health, your life experiences? Sure, earning a lot is great, but sometimes, the simplest way to grow your wealth in the long run is to start by growing yourself.
 
@@ -25,8 +24,7 @@ I’ve done this myself many times. I’m a big fan of what I call “Hermit Wee
 
 Right now, I’m sitting in front of Elizabeth Bay in Be Park. The weather changes quickly here—an hour ago it was sunny and hot, now it’s cooler and cloudy. I’ve even swum in this bay (though you have to watch out for sharks—there was an attack not long ago, but thankfully the person survived). Still, the place is beautiful and safe, and I recommend finding your own spot to take a break and breathe.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NDkzMzMxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Richer in One Weekend—Without Chasing Money")
-*How to Get Richer in One Weekend—Without Chasing Money - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NDkzMzMxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Get Richer in One Weekend—Without Chasing Money" caption="How to Get Richer in One Weekend—Without Chasing Money - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 Taking time to do nothing is powerful. Just being present, admiring what’s around you, can change everything. I suggest you try this, even if you think you already know a lot about personal growth. There’s always something new to learn. If you want to get ahead, these breaks can really help.
 
@@ -44,8 +42,7 @@ If you’re not happy, it’s easy to blame others or circumstances, but the ans
 > *“You are the only one responsible for your life. No one else can do it for you.”*  
 > — Anonymous
 
-![2010 was a boon year for these butterflies in my garden. I had a dozen chrysalis in all manner of morphs at any one time. In this image you can see the new green chrysalis coloration, one that’s about ready to emerge (the clear one), and a butterfly that’s already come out. They will hang for hours and dry their wings and are, in fact, quite fragile.](https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NDkzMzMxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Richer in One Weekend—Without Chasing Money")
-*How to Get Richer in One Weekend—Without Chasing Money - Photo by [Suzanne D. Williams](https://unsplash.com/@scw1217) on [Unsplash](https://unsplash.com/photos/three-pupas-VMKBFR6r_jg)*
+{{< figure src="https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NDkzMzMxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Three pupas" title="How to Get Richer in One Weekend—Without Chasing Money" caption="How to Get Richer in One Weekend—Without Chasing Money - Photo by [Suzanne D. Williams](https://unsplash.com/@scw1217) on [Unsplash](https://unsplash.com/photos/three-pupas-VMKBFR6r_jg)" >}}
 
 ---
 

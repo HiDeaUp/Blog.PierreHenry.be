@@ -12,8 +12,7 @@ original_title = "Le plaisir des pauses détentes Fika 🇸🇪"
 source_medium = "https://medium.com/@phenrysay/ee8204978a58"
 +++
 
-![Photo by Oscar van Gend](https://images.unsplash.com/photo-1565693836186-5ad253891b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGaWthJTIwU3dlZGVuJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzQ1NDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm and Connection With the Swedish Fika Ritual")
-*How to Find Calm and Connection With the Swedish Fika Ritual - Photo by [Oscar van Gend](https://unsplash.com/@oscarvangend) on [Unsplash](https://unsplash.com/photos/brown-wooden-house-near-body-of-water-VGAx6SkEdtU)*
+{{< figure src="https://images.unsplash.com/photo-1565693836186-5ad253891b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGaWthJTIwU3dlZGVuJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzQ1NDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden house near body of water" title="How to Find Calm and Connection With the Swedish Fika Ritual" caption="How to Find Calm and Connection With the Swedish Fika Ritual - Photo by [Oscar van Gend](https://unsplash.com/@oscarvangend) on [Unsplash](https://unsplash.com/photos/brown-wooden-house-near-body-of-water-VGAx6SkEdtU)" >}}
 
 If you’ve ever wondered how Swedes manage to balance hard work with a sense of calm, the answer might be found in a simple tradition: the fika break. Fika is more than just a coffee break. It’s a cherished ritual that brings people together, helps them slow down, and reminds them to enjoy the present moment.
 
@@ -23,8 +22,7 @@ Swedes are among the world’s biggest coffee and pastry lovers. At work, they o
 
 This habit is vital. Swedes work hard, but they also know when to step back. Without these breaks, burnout becomes a real risk. Taking time to relax isn’t just a luxury; it’s necessary. Winters in Sweden can be long and cold, with weather that’s anything but cheerful. That’s why people make time to sit by the fire, watch a movie, knit, or simply enjoy a hot chocolate.
 
-![Photo by Lisa Schmidt](https://images.unsplash.com/photo-1659099944052-54a6c836a713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGaWthJTIwU3dlZGVuJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzQ1NDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm and Connection With the Swedish Fika Ritual")
-*How to Find Calm and Connection With the Swedish Fika Ritual - Photo by [Lisa Schmidt](https://unsplash.com/@lsvisualdesign) on [Unsplash](https://unsplash.com/photos/a-flag-on-a-pole-fzwQcNNRlWc)*
+{{< figure src="https://images.unsplash.com/photo-1659099944052-54a6c836a713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxGaWthJTIwU3dlZGVuJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzQ1NDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A flag on a pole" title="How to Find Calm and Connection With the Swedish Fika Ritual" caption="How to Find Calm and Connection With the Swedish Fika Ritual - Photo by [Lisa Schmidt](https://unsplash.com/@lsvisualdesign) on [Unsplash](https://unsplash.com/photos/a-flag-on-a-pole-fzwQcNNRlWc)" >}}
 
 Fika, though, is all about good coffee. Whether at Espresso House or another local café, Swedes make it a point to pause, wherever they are—Stockholm, Helsinki, Oslo, or even Reykjavik. I’ve spent some time in Sweden myself, and I can confirm: they truly love their coffee, their pastries, and especially those cinnamon rolls.
 
@@ -40,8 +38,7 @@ Life moves quickly, and it’s easy to forget to appreciate these small moments.
 
 ---
 
-![A small side lake to Fjellvannet north of Skien on the road to the small village of Luksefjell](https://images.unsplash.com/photo-1696416485951-505da6ef0948?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGaWthJTIwU3dlZGVuJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzQ1NDF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Calm and Connection With the Swedish Fika Ritual")
-*How to Find Calm and Connection With the Swedish Fika Ritual - Photo by [Ian Wetherill](https://unsplash.com/@leuconoid) on [Unsplash](https://unsplash.com/photos/a-body-of-water-surrounded-by-a-forest-2mSN0-JaotU)*
+{{< figure src="https://images.unsplash.com/photo-1696416485951-505da6ef0948?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxGaWthJTIwU3dlZGVuJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzQ1NDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small side lake to Fjellvannet north of Skien on the road to the small village of Luksefjell" title="How to Find Calm and Connection With the Swedish Fika Ritual" caption="How to Find Calm and Connection With the Swedish Fika Ritual - Photo by [Ian Wetherill](https://unsplash.com/@leuconoid) on [Unsplash](https://unsplash.com/photos/a-body-of-water-surrounded-by-a-forest-2mSN0-JaotU)" >}}
 
 ## Key Takeaways
 

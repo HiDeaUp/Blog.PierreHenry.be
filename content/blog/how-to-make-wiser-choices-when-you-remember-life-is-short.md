@@ -12,8 +12,7 @@ original_title = "Redéfinir ses perceptions pour mieux vivre"
 source_medium = "https://medium.com/@phenrysay/ad207ebaef74"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695473507886-d49ecd5d3c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBsZXNzb25zJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU1NDIwNzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Wiser Choices When You Remember Life Is Short")
-*How to Make Wiser Choices When You Remember Life Is Short - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mindfulness-in-6nRyHLIzRMo)*
+{{< figure src="https://images.unsplash.com/photo-1695473507886-d49ecd5d3c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBsZXNzb25zJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU1NDIwNzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads in" title="How to Make Wiser Choices When You Remember Life Is Short" caption="How to Make Wiser Choices When You Remember Life Is Short - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mindfulness-in-6nRyHLIzRMo)" >}}
 
 We often forget that life has an end. We plan our days and make decisions as if our time is unlimited. But the truth is, life does stop one day. When you really understand this, you start making wiser choices. You begin to enjoy the small, simple moments—the ones that often bring the most happiness and the least worries.
 
@@ -27,9 +26,7 @@ For example, I recently had one of my servers hacked. The code had a security fl
 
 When you remember that life is short, you start to question how you spend your time. Many people spend years at jobs they don’t like. I did too, especially when I was younger and eager to learn. My first job was in Dublin, and I loved it. Sometimes I’d stay at the office until 8 or 9 PM, just to chat with my colleagues. It was fun, but looking back, I wonder if it was worth giving so much energy for a fixed salary, with no real share in the company.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBsZXNzb25zJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU1NDIwNzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Wiser Choices When You Remember Life Is Short")
-*How to Make Wiser Choices When You Remember Life Is Short - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBsZXNzb25zJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU1NDIwNzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Make Wiser Choices When You Remember Life Is Short" caption="How to Make Wiser Choices When You Remember Life Is Short - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 Ask yourself what you really want in life. Many of us dream of having our own project, something that belongs to us. Working for a company is fine, but giving them 10 extra hours a week—or more—might not be worth it. I once worked over 70 hours a week for a company. Sure, I earned more, but was it really worth it?
 
@@ -47,8 +44,7 @@ Every couple of hours, I pause and ask myself: am I happy with how I spent the l
 
 Be kind, but protect your time. If someone approaches you in the street and you’re not interested, it’s okay to say no. Your life is precious, and time is a train that never stops. You have your own train to catch, your own interests to pursue. Other people have their own goals, and that’s fine. It’s not about being good or bad—it’s about knowing what matters to you and making the right choices for your life.
 
-![Alone on a Mountain](https://images.unsplash.com/photo-1502325966718-85a90488dc29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBsZXNzb25zJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU1NDIwNzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Wiser Choices When You Remember Life Is Short")
-*How to Make Wiser Choices When You Remember Life Is Short - Photo by [Elijah Hiett](https://unsplash.com/@elijahdhiett) on [Unsplash](https://unsplash.com/photos/man-in-gray-shirt-sits-on-cliff-wW0BUXTTUmU)*
+{{< figure src="https://images.unsplash.com/photo-1502325966718-85a90488dc29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGxpZmUlMjBsZXNzb25zJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU1NDIwNzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alone on a Mountain" title="How to Make Wiser Choices When You Remember Life Is Short" caption="How to Make Wiser Choices When You Remember Life Is Short - Photo by [Elijah Hiett](https://unsplash.com/@elijahdhiett) on [Unsplash](https://unsplash.com/photos/man-in-gray-shirt-sits-on-cliff-wW0BUXTTUmU)" >}}
 
 > *Time is a train that never stops. Make sure you’re on the right one for you.*
 >

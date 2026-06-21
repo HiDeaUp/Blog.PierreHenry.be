@@ -12,8 +12,7 @@ original_title = "VÉRITÉ: Prendre sa vie en main. La vie peut s'arrêter a�
 source_medium = "https://medium.com/@phenrysay/1345ae27bdde"
 +++
 
-![Alone on a Mountain](https://images.unsplash.com/photo-1502325966718-85a90488dc29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHVycG9zZSUyMG1pbmRmdWxuZXNzJTIwbW9ydGFsaXR5fGVufDB8MHx8fDE3NTU0MjAyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Life Before It’s Too Late")
-*How to Take Charge of Life Before It’s Too Late - Photo by [Elijah Hiett](https://unsplash.com/@elijahdhiett) on [Unsplash](https://unsplash.com/photos/man-in-gray-shirt-sits-on-cliff-wW0BUXTTUmU)*
+{{< figure src="https://images.unsplash.com/photo-1502325966718-85a90488dc29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHVycG9zZSUyMG1pbmRmdWxuZXNzJTIwbW9ydGFsaXR5fGVufDB8MHx8fDE3NTU0MjAyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alone on a Mountain" title="How to Take Charge of Life Before It’s Too Late" caption="How to Take Charge of Life Before It’s Too Late - Photo by [Elijah Hiett](https://unsplash.com/@elijahdhiett) on [Unsplash](https://unsplash.com/photos/man-in-gray-shirt-sits-on-cliff-wW0BUXTTUmU)" >}}
 
 Most of us underestimate one simple fact: life has an end. It stops one day, sometimes without warning. Yet, we plan and react as if we’ll be here forever, as if tomorrow is always guaranteed. But when you truly realize that life can stop at any moment, your decisions change. You start to enjoy the small moments more—the simple ones that often bring the most happiness and the least worries.
 
@@ -27,8 +26,7 @@ What do you really want in life? Most of us want to create something of our own,
 
 The real message here is to enjoy the moments you have. Don’t deprive yourself. Money comes and goes, but time never stops. That’s why it’s so important to make the most of where you are, right now. We never know how long we have left on this planet.
 
-![A young boy looking at the mountain view on the top of Katzbegi mountain.](https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHVycG9zZSUyMG1pbmRmdWxuZXNzJTIwbW9ydGFsaXR5fGVufDB8MHx8fDE3NTU0MjAyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Life Before It’s Too Late")
-*How to Take Charge of Life Before It’s Too Late - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)*
+{{< figure src="https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHVycG9zZSUyMG1pbmRmdWxuZXNzJTIwbW9ydGFsaXR5fGVufDB8MHx8fDE3NTU0MjAyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A young boy looking at the mountain view on the top of Katzbegi mountain." title="How to Take Charge of Life Before It’s Too Late" caption="How to Take Charge of Life Before It’s Too Late - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)" >}}
 
 This morning, I woke up at 6:20 and wrote these thoughts down. We don’t always make the best choices because we act as if life is endless. But if tomorrow was your last day, what would you regret? That’s what you need to focus on. For me, I want to go to Antarctica, to Greenland—those life experiences matter. We rarely regret not buying the latest iPhone, unless it would have truly changed our lives. But experiences, the things we don’t do, those are the real regrets.
 
@@ -52,8 +50,7 @@ If someone approaches you in the street and you’re not interested, it’s okay
 > 
 > — Pierre
 
-![thinking quietly at the beach](https://images.unsplash.com/photo-1650862199267-ddd6106b56bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHVycG9zZSUyMG1pbmRmdWxuZXNzJTIwbW9ydGFsaXR5fGVufDB8MHx8fDE3NTU0MjAyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Charge of Life Before It’s Too Late")
-*How to Take Charge of Life Before It’s Too Late - Photo by [Chris Riggs](https://unsplash.com/@bigrig) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-dock-looking-out-at-the-water-10tIQt1BDSw)*
+{{< figure src="https://images.unsplash.com/photo-1650862199267-ddd6106b56bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHVycG9zZSUyMG1pbmRmdWxuZXNzJTIwbW9ydGFsaXR5fGVufDB8MHx8fDE3NTU0MjAyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="thinking quietly at the beach" title="How to Take Charge of Life Before It’s Too Late" caption="How to Take Charge of Life Before It’s Too Late - Photo by [Chris Riggs](https://unsplash.com/@bigrig) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-dock-looking-out-at-the-water-10tIQt1BDSw)" >}}
 
 ---
 

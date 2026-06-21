@@ -12,8 +12,7 @@ original_title = "Prendre des breaks douceurs 🤗"
 source_medium = "https://medium.com/@phenrysay/d2257fdf0ff3"
 +++
 
-![A man stood at the bridge with an umbrella to protect him from the sun.](https://images.unsplash.com/photo-1683090565349-4d3a9451e7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBtaW5kZnVsbmVzcyUyMHdlbGxuZXNzfGVufDB8MHx8fDE3NTY1MTU0ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy Without Waiting for Big Moments")
-*How to Find Daily Joy Without Waiting for Big Moments - Photo by [Azaz Ahmad](https://unsplash.com/@azaz08) on [Unsplash](https://unsplash.com/photos/a-person-holding-an-umbrella-in-front-of-the-sun-dqhTQwiFSXA)*
+{{< figure src="https://images.unsplash.com/photo-1683090565349-4d3a9451e7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBtaW5kZnVsbmVzcyUyMHdlbGxuZXNzfGVufDB8MHx8fDE3NTY1MTU0ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man stood at the bridge with an umbrella to protect him from the sun." title="How to Find Daily Joy Without Waiting for Big Moments" caption="How to Find Daily Joy Without Waiting for Big Moments - Photo by [Azaz Ahmad](https://unsplash.com/@azaz08) on [Unsplash](https://unsplash.com/photos/a-person-holding-an-umbrella-in-front-of-the-sun-dqhTQwiFSXA)" >}}
 
 Have you ever thought about what truly brings you pleasure? Not the big, rare events, but the small things that make your day feel a bit brighter. Sometimes, we forget about the little passions or simple joys we used to love, or we overlook new ones waiting to be found. Taking a moment to reflect on these pleasures can do wonders for your well-being.
 
@@ -23,8 +22,7 @@ That half-hour or hour with my coffee is my time to relax and breathe. I might r
 
 I believe everyone can benefit from these little pockets of relaxation. It doesn’t have to be coffee—maybe it’s a walk, listening to music, or enjoying a favorite snack. The key is to make it a regular part of your routine, even if it’s just for a week. Try to find a small pleasure each morning. Notice how it changes your mood, your energy, and maybe even your outlook on life.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724407-9084cb5b43ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBtaW5kZnVsbmVzcyUyMHdlbGxuZXNzfGVufDB8MHx8fDE3NTY1MTU0ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy Without Waiting for Big Moments")
-*How to Find Daily Joy Without Waiting for Big Moments - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-mindfulness-on-a-wooden-surface-lI9c6wG0E-8)*
+{{< figure src="https://images.unsplash.com/photo-1704969724407-9084cb5b43ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBtaW5kZnVsbmVzcyUyMHdlbGxuZXNzfGVufDB8MHx8fDE3NTY1MTU0ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word on a wooden surface 8" title="How to Find Daily Joy Without Waiting for Big Moments" caption="How to Find Daily Joy Without Waiting for Big Moments - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-mindfulness-on-a-wooden-surface-lI9c6wG0E-8)" >}}
 
 Life is shorter than we think. If we don’t take time for these sweet breaks, we might miss out on the best parts. So, this week, give yourself permission to enjoy the simple things. See how it feels. And if you have other ideas for these gentle breaks, I’d love to hear them.
 
@@ -45,9 +43,7 @@ Life is shorter than we think. If we don’t take time for these sweet breaks, w
 - Make time for moments of calm and presence.
 - Life is short—enjoy the simple joys while you can.
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBtaW5kZnVsbmVzcyUyMHdlbGxuZXNzfGVufDB8MHx8fDE3NTY1MTU0ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Daily Joy Without Waiting for Big Moments")
-*How to Find Daily Joy Without Waiting for Big Moments - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBtaW5kZnVsbmVzcyUyMHdlbGxuZXNzfGVufDB8MHx8fDE3NTY1MTU0ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Find Daily Joy Without Waiting for Big Moments" caption="How to Find Daily Joy Without Waiting for Big Moments - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ## Action Steps
 

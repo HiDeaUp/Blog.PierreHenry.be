@@ -12,8 +12,7 @@ original_title = "La Seule Astuce Qui M’a Aidé à Passer à l’Action (Et Ch
 source_medium = "https://medium.com/@phenrysay/75927beecdfe"
 +++
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1Mzg0ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat Procrastination Without Forcing Willpower")
-*How to Beat Procrastination Without Forcing Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1Mzg0ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Beat Procrastination Without Forcing Willpower" caption="How to Beat Procrastination Without Forcing Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 Procrastination is something we all struggle with. We know what we want to do, but somehow, we keep putting it off. Over the years, I’ve tried many methods to fight this habit, but only one thing truly helped me move forward and change my life: having a clear vision and turning it into daily action.
 
@@ -25,10 +24,7 @@ Here’s how I do it: every evening, I set clear, simple, measurable goals for t
 
 I avoid notifications in the morning because they distract me and fill my mind with noise. That’s why I love early mornings. There are no distractions, no messages popping up. The world is quiet. If I stay up late, I can’t wake up early, so I choose to go to bed early and rise before everyone else. At 5:30 or 6:00 am, the city is peaceful. The sun rises, birds start singing, and the world slowly wakes up. It’s a special moment.
 
-![scrabble, scrabble pieces, lettering, letters, white background, wood, scrabble tiles, wood, words, 
-done is better than perfect, perfectionism, get it done, complete, finish, rough and ready, 
-](https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1Mzg0ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat Procrastination Without Forcing Willpower")
-*How to Beat Procrastination Without Forcing Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)*
+{{< figure src="https://images.unsplash.com/photo-1594482627762-6e876ce1ead4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1Mzg0ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Beat Procrastination Without Forcing Willpower" caption="How to Beat Procrastination Without Forcing Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-fMbRKk2la0s)" >}}
 
 After my coffee, I move on to my second task. If it’s a workday, I go to my regular job, but my personal goals always come first. Working on myself is more valuable than money. Money comes and goes, but time only moves forward. When you lose an hour, you can never get it back. Each second is unique.
 
@@ -45,8 +41,7 @@ Remember, investing in yourself is the best investment you can make. Don’t let
 > _“Time is the most valuable thing a man can spend.”_  
 — Theophrastus
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1Mzg0ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Beat Procrastination Without Forcing Willpower")
-*How to Beat Procrastination Without Forcing Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)*
+{{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBtaW5kc2V0JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1Mzg0ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Beat Procrastination Without Forcing Willpower" caption="How to Beat Procrastination Without Forcing Willpower - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
 > _“You will never find time for anything. If you want time, you must make it.”_  
 — Charles Buxton

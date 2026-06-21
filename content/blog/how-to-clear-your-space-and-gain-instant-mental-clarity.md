@@ -10,9 +10,7 @@ original_title = "Pourquoi tout le monde devrait suivre ce conseil?"
 source_medium = "https://medium.com/@phenrysay/c9a63fc1e9dc"
 +++
 
-![Stationery mockup with dried flower
-](https://images.unsplash.com/photo-1638294622885-6356fca9c62d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwZGVjbHV0dGVyaW5nJTIwbWVudGFsJTIwY2xhcml0eXxlbnwwfDB8fHwxNzU2MDEyMzc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Space and Gain Instant Mental Clarity")
-*How to Clear Your Space and Gain Instant Mental Clarity - Photo by [Angèle Kamp](https://unsplash.com/@angelekamp) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-with-a-flower-sticking-out-of-it-AqKmIgNO9gI)*
+{{< figure src="https://images.unsplash.com/photo-1638294622885-6356fca9c62d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXNtJTIwZGVjbHV0dGVyaW5nJTIwbWVudGFsJTIwY2xhcml0eXxlbnwwfDB8fHwxNzU2MDEyMzc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stationery mockup with dried flower" title="How to Clear Your Space and Gain Instant Mental Clarity" caption="How to Clear Your Space and Gain Instant Mental Clarity - Photo by [Angèle Kamp](https://unsplash.com/@angelekamp) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-with-a-flower-sticking-out-of-it-AqKmIgNO9gI)" >}}
 
 ### Clear Your Space, Clear Your Mind
 
@@ -32,8 +30,7 @@ This mental weight is unnecessary. It slows you down, especially when you have i
 
 Personally, I eat almost the same thing at every meal. It’s one less thing to think about. I also dress in a way that feels right for me, without overthinking it. Unless it’s a special occasion, I keep it simple. When you simplify all aspects of your daily life, you feel lighter, almost like a free and happy bird. That’s what I wish for you: to be free, happy, and able to move forward quickly and efficiently.
 
-![Photo by Angèle Kamp](https://images.unsplash.com/photo-1669975654023-ab2ca92bf98d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwZGVjbHV0dGVyaW5nJTIwbWVudGFsJTIwY2xhcml0eXxlbnwwfDB8fHwxNzU2MDEyMzc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Space and Gain Instant Mental Clarity")
-*How to Clear Your Space and Gain Instant Mental Clarity - Photo by [Angèle Kamp](https://unsplash.com/@angelekamp) on [Unsplash](https://unsplash.com/photos/a-mirror-on-a-wall-4e_q178lMyI)*
+{{< figure src="https://images.unsplash.com/photo-1669975654023-ab2ca92bf98d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwZGVjbHV0dGVyaW5nJTIwbWVudGFsJTIwY2xhcml0eXxlbnwwfDB8fHwxNzU2MDEyMzc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A mirror on a wall" title="How to Clear Your Space and Gain Instant Mental Clarity" caption="How to Clear Your Space and Gain Instant Mental Clarity - Photo by [Angèle Kamp](https://unsplash.com/@angelekamp) on [Unsplash](https://unsplash.com/photos/a-mirror-on-a-wall-4e_q178lMyI)" >}}
 
 Your environment shapes your mindset and your success. If you live in a cluttered or uninspiring space, it becomes harder to achieve your goals. You don’t need to move to a new apartment; just change your immediate environment. Even in a tiny room, you can create a space that feels good, clean, and inspiring.
 
@@ -54,8 +51,7 @@ Here’s a simple challenge: starting today, remove three things from your home.
 
 ---
 
-![Photo by Annie Spratt](https://images.unsplash.com/photo-1614959652319-6299f514328d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwZGVjbHV0dGVyaW5nJTIwbWVudGFsJTIwY2xhcml0eXxlbnwwfDB8fHwxNzU2MDEyMzc3fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Your Space and Gain Instant Mental Clarity")
-*How to Clear Your Space and Gain Instant Mental Clarity - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/white-square-frame-on-white-wall-tcEQC8iqP0o)*
+{{< figure src="https://images.unsplash.com/photo-1614959652319-6299f514328d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXNtJTIwZGVjbHV0dGVyaW5nJTIwbWVudGFsJTIwY2xhcml0eXxlbnwwfDB8fHwxNzU2MDEyMzc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White square frame on white wall" title="How to Clear Your Space and Gain Instant Mental Clarity" caption="How to Clear Your Space and Gain Instant Mental Clarity - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/white-square-frame-on-white-wall-tcEQC8iqP0o)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "The Skills You Need to Become an AI Engineer Today"
 source_medium = "https://medium.com/@phenrysay/676a7f175368"
 +++
 
-![green snake](https://images.unsplash.com/photo-1674421338545-d16368d8c042?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMGVuZ2luZWVyaW5nJTIwUHl0aG9uJTIwcHJvZ3JhbW1pbmclMjBtYWNoaW5lJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA1NTAwMnww&ixlib=rb-4.1.0&q=80&w=1080 "Master Python or Miss Out on Your AI Engineering Career")
-*Master Python or Miss Out on Your AI Engineering Career - Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-green-snakes-head-Y08Li07AmhU)*
+{{< figure src="https://images.unsplash.com/photo-1674421338545-d16368d8c042?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMGVuZ2luZWVyaW5nJTIwUHl0aG9uJTIwcHJvZ3JhbW1pbmclMjBtYWNoaW5lJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA1NTAwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="green snake" title="Master Python or Miss Out on Your AI Engineering Career" caption="Master Python or Miss Out on Your AI Engineering Career - Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-green-snakes-head-Y08Li07AmhU)" >}}
 
 Let’s get straight to it: if you want to become an AI engineer, Python is king. Seriously, Python is just excellent when it comes to machine learning, especially when you’re dealing with tons of data or training models. There’s a reason Python’s popularity has shot up like crazy in recent years. It just crushes it at machine learning and all those data pipeline tasks. Most of the libraries you’ll use for AI—whether it’s FastAPI, FastAI, or whatever—are all in Python. Python is the one.
 
@@ -25,8 +24,7 @@ But here’s the thing: just knowing Python, Jupyter, and how to call an API isn
 
 Here’s what I do: I keep a notebook where I jot down problems I’m facing. Then I brainstorm how I can build a solution, maybe by training a model or automating something. For training models, scikit-learn (yep, another Python library) is fantastic. There are tons of data science packages in Python that are super useful for AI work.
 
-![Photo by pavan adepu](https://images.unsplash.com/photo-1589313388773-9e27fc31e1aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMGVuZ2luZWVyaW5nJTIwUHl0aG9uJTIwcHJvZ3JhbW1pbmclMjBtYWNoaW5lJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA1NTAwMnww&ixlib=rb-4.1.0&q=80&w=1080 "Master Python or Miss Out on Your AI Engineering Career")
-*Master Python or Miss Out on Your AI Engineering Career - Photo by [pavan adepu](https://unsplash.com/@pa1adepu) on [Unsplash](https://unsplash.com/photos/yellow-and-black-snake-on-black-surface-cLuUTA6QvKo)*
+{{< figure src="https://images.unsplash.com/photo-1589313388773-9e27fc31e1aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxBSSUyMGVuZ2luZWVyaW5nJTIwUHl0aG9uJTIwcHJvZ3JhbW1pbmclMjBtYWNoaW5lJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA1NTAwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow and black snake on black surface" title="Master Python or Miss Out on Your AI Engineering Career" caption="Master Python or Miss Out on Your AI Engineering Career - Photo by [pavan adepu](https://unsplash.com/@pa1adepu) on [Unsplash](https://unsplash.com/photos/yellow-and-black-snake-on-black-surface-cLuUTA6QvKo)" >}}
 
 I’ve done R in the past, but honestly, these days R is mostly for academic stuff. If you want to get things done in the real world, learn Python.
 
@@ -50,8 +48,7 @@ It’s a really exciting journey. If you’re into this stuff, you’ll find it 
 - Try running models in the browser for privacy and hands-on learning.
 - Mix your learning sources and reflect daily to reinforce what you’ve picked up.
 
-![The photo is a handheld shot with my canon 5D mark iii using the canon 75-300 f5.6 lens. This snake is actually behind a glass window which made it hard to photograph. I had to position myself multiple times before i could get a decent shot without the reflections on the glass. Another interesting aspect of the photo is that these are pretty lazy creature in captivity at least there fore i had to wait a long time for the snake to lift it's head just enough for me to capture the shot. ](https://images.unsplash.com/photo-1560854940-0d7aa366553d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMGVuZ2luZWVyaW5nJTIwUHl0aG9uJTIwcHJvZ3JhbW1pbmclMjBtYWNoaW5lJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA1NTAwMnww&ixlib=rb-4.1.0&q=80&w=1080 "Master Python or Miss Out on Your AI Engineering Career")
-*Master Python or Miss Out on Your AI Engineering Career - Photo by [Hassan Pasha](https://unsplash.com/@hpzworkz) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-green-snake-3jyiXkuwD7s)*
+{{< figure src="https://images.unsplash.com/photo-1560854940-0d7aa366553d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxBSSUyMGVuZ2luZWVyaW5nJTIwUHl0aG9uJTIwcHJvZ3JhbW1pbmclMjBtYWNoaW5lJTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA1NTAwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Shallow focus photo of green snake" title="Master Python or Miss Out on Your AI Engineering Career" caption="Master Python or Miss Out on Your AI Engineering Career - Photo by [Hassan Pasha](https://unsplash.com/@hpzworkz) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-green-snake-3jyiXkuwD7s)" >}}
 
 > “Learning is good, but we only retain up to 20% of what we learn. When we apply what we learn, we retain 70 to 90%.”
 

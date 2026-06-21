@@ -12,8 +12,7 @@ original_title = "Se dépasser pour réussir 💪"
 source_medium = "https://medium.com/@phenrysay/10189d9f5a3f"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the “Right Moment”")
-*How to Take Action Without Waiting for the “Right Moment” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Take Action Without Waiting for the “Right Moment”" caption="How to Take Action Without Waiting for the “Right Moment” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever looked at someone and thought, “Wow, this person inspires me. They seem to have it all together. I wish I could be like them”? Maybe you admire their lifestyle, their achievements, or the way they seem to make things happen. Even if you know that what people show on the outside is never the whole story, the feeling remains: you’d like to have a life like that.
 
@@ -27,8 +26,7 @@ If you keep telling yourself, “I can’t do this because of where I live, or b
 
 Sometimes, you see people who have opened a coffee shop or started a business and think, “I’d love to do that too.” Well, you can. Don’t leave your dreams as dreams. Make them happen. It all starts with a dream, but it only becomes real when you act.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the “Right Moment”")
-*How to Take Action Without Waiting for the “Right Moment” - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)*
+{{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Take Action Without Waiting for the “Right Moment”" caption="How to Take Action Without Waiting for the “Right Moment” - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 One of the biggest obstacles today is distraction. Notifications on your phone, your computer, endless pings and pop-ups—they all pull you away from what matters. Turn off notifications. If you need to, use a distraction-free device for writing or working. If your computer is too tempting, put it away. Out of sight, out of mind. Sometimes, you have to go to extremes—lock your computer away, or even put it somewhere you can’t reach it easily—just to focus on what matters most.
 
@@ -52,8 +50,7 @@ I believe in you. You deserve to succeed. Stop telling yourself, “I can’t be
 
 ---
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Take Action Without Waiting for the “Right Moment”")
-*How to Take Action Without Waiting for the “Right Moment” - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Take Action Without Waiting for the “Right Moment”" caption="How to Take Action Without Waiting for the “Right Moment” - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 ## Key Takeaways
 

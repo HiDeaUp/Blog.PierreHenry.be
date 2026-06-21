@@ -13,7 +13,7 @@ source_medium = "https://medium.com/@phenrysay/8bbf23804c6b"
 source_youtube = "https://www.youtube.com/watch?v=KQoa3Lv3B0s"
 +++
 
-![Road signage - Photo by Tran Mau Tri Tam ✪ on Unsplash](https://images.unsplash.com/photo-1515420671179-253128516a5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMEZpbmQlMjBEaXJlY3Rpb24lMjBpbiUyMExpZmUlMjBXaXRob3V0JTIwRmVlbGluZyUyMExvc3R8ZW58MHwwfHx8MTc3NDA1MTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1515420671179-253128516a5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMEZpbmQlMjBEaXJlY3Rpb24lMjBpbiUyMExpZmUlMjBXaXRob3V0JTIwRmVlbGluZyUyMExvc3R8ZW58MHwwfHx8MTc3NDA1MTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Road signage - Photo by Tran Mau Tri Tam ✪ on Unsplash" >}}
 
 **Feeling lost? Here’s how to find your way.**
 
@@ -33,7 +33,7 @@ Think of your vision as your guiding star. You might not be able to touch it, bu
 
 While your vision is your guide, your goals are the steps you take every day. Goals are concrete, specific, and measurable. You either achieve them or you don’t. At the end of the day, you know if you’ve reached your goal or if you’ve fallen short.
 
-![Black and white street sign under white clouds during daytime - Photo by Lison Zhao on Unsplash](https://images.unsplash.com/photo-1593131159476-4a4ba11c9b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxIb3clMjB0byUyMEZpbmQlMjBEaXJlY3Rpb24lMjBpbiUyMExpZmUlMjBXaXRob3V0JTIwRmVlbGluZyUyMExvc3R8ZW58MHwwfHx8MTc3NDA1MTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1593131159476-4a4ba11c9b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxIb3clMjB0byUyMEZpbmQlMjBEaXJlY3Rpb24lMjBpbiUyMExpZmUlMjBXaXRob3V0JTIwRmVlbGluZyUyMExvc3R8ZW58MHwwfHx8MTc3NDA1MTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and white street sign under white clouds during daytime - Photo by Lison Zhao on Unsplash" >}}
 
 Setting daily goals gives you something tangible to work toward. Each day, you set a new goal, and each day you move a little closer to your vision. The key is consistency. It’s not about making huge leaps overnight, but about taking small, steady steps, day after day.
 
@@ -57,7 +57,7 @@ Break your vision down into smaller, specific goals. What can you do today that 
 
 ### 3. Stay Consistent
 
-![A signpost with several arrows - Photo by Ian Ward on Unsplash](https://images.unsplash.com/photo-1660129499804-5aa4fdbe2541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxIb3clMjB0byUyMEZpbmQlMjBEaXJlY3Rpb24lMjBpbiUyMExpZmUlMjBXaXRob3V0JTIwRmVlbGluZyUyMExvc3R8ZW58MHwwfHx8MTc3NDA1MTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080)
+{{< figure src="https://images.unsplash.com/photo-1660129499804-5aa4fdbe2541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxIb3clMjB0byUyMEZpbmQlMjBEaXJlY3Rpb24lMjBpbiUyMExpZmUlMjBXaXRob3V0JTIwRmVlbGluZyUyMExvc3R8ZW58MHwwfHx8MTc3NDA1MTUxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A signpost with several arrows - Photo by Ian Ward on Unsplash" >}}
 
 The real magic happens when you show up every day. Even if you only make a little progress, it adds up over time. Consistency is what turns your vision into reality.
 

@@ -12,8 +12,7 @@ original_title = "Force de réalisation 🏆"
 source_medium = "https://medium.com/@phenrysay/354d97d4abff"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0OTMyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Projects You Care About Without Losing Steam")
-*How to Finish Projects You Care About Without Losing Steam - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0OTMyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Finish Projects You Care About Without Losing Steam" caption="How to Finish Projects You Care About Without Losing Steam - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 We all have dreams and projects we want to bring to life. Whether it’s a hobby, a passion, or a long-term goal, these ambitions are what make life exciting. But having a project is just the beginning. The real challenge is finding the strength and motivation to see it through, especially when the initial excitement fades.
 
@@ -23,8 +22,7 @@ That’s why it’s so important to feel a certain “vibration” in your work.
 
 The key is to find a project that not only excites you but also matches your values. For example, I’m currently near Sydney, working on several open-source projects and software on GitHub. I love learning new things, especially in data science, which is my current field of study. Processing huge amounts of data fascinates me. Of course, there are days when motivation dips. That’s normal.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0OTMyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Projects You Care About Without Losing Steam")
-*How to Finish Projects You Care About Without Losing Steam - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0OTMyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Finish Projects You Care About Without Losing Steam" caption="How to Finish Projects You Care About Without Losing Steam - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 When that happens, ask yourself: What can I do to get my energy back? Sometimes, all it takes is to imagine how you’ll feel once you’ve completed your task. Is this really what you want to do? Maybe your interests have shifted, or maybe you just need to look at things from a new angle. There are always different perspectives, and sometimes a fresh viewpoint is all you need to reignite your enthusiasm.
 
@@ -44,8 +42,7 @@ Time is the one resource you can never get back. If you spend three hours on som
 
 ---
 
-![Photo by Eden Constantino](https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0OTMyfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Finish Projects You Care About Without Losing Steam")
-*How to Finish Projects You Care About Without Losing Steam - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)*
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0OTMyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Finish Projects You Care About Without Losing Steam" caption="How to Finish Projects You Care About Without Losing Steam - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 ## Key Takeaways
 

@@ -12,8 +12,7 @@ original_title = "Je dévoile ma nouvelle façon de travailler !"
 source_medium = "https://medium.com/@phenrysay/9d79144b65b7"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU1NDE5MTI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How I Get More Done Without Burnout: The Sprint Method")
-*How I Get More Done Without Burnout: The Sprint Method - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU1NDE5MTI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How I Get More Done Without Burnout: The Sprint Method" caption="How I Get More Done Without Burnout: The Sprint Method - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 For a long time, I struggled with staying focused and productive. Like many people, I would start a task, get distracted, and end up feeling frustrated at the end of the day. But everything changed when I started working in sprints.
 
@@ -33,8 +32,7 @@ I’m a student at James Cook University, studying data science. I often need lo
 
 After a productive sprint, I like to reward myself with a flat white. I picked up this habit in Wellington, New Zealand, where café culture is strong. In Korea, where I’ve also spent time, people love coffee shops too, though the coffee is often sweeter and you can stay for hours. I’ve spent entire days in Korean cafés, working, studying, and soaking up the atmosphere.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU1NDE5MTI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How I Get More Done Without Burnout: The Sprint Method")
-*How I Get More Done Without Burnout: The Sprint Method - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU1NDE5MTI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How I Get More Done Without Burnout: The Sprint Method" caption="How I Get More Done Without Burnout: The Sprint Method - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ## The Importance of Balance
 
@@ -59,8 +57,7 @@ I’ve found that teaching what I learn helps me understand it better. When you 
 
 A lot of people think productivity means doing more at the expense of your well-being. I disagree. Real productivity is about doing more while gaining more time for yourself, your family, and your happiness. It’s not about suffering through endless tasks, but about turning work into something closer to a passion.
 
-![Plan your routines](https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU1NDE5MTI5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How I Get More Done Without Burnout: The Sprint Method")
-*How I Get More Done Without Burnout: The Sprint Method - Photo by [Boitumelo](https://unsplash.com/@writecodenow) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-Ed2fRK5ify4)*
+{{< figure src="https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB3b3JrJTIwc3ByaW50cyUyMGZvY3VzJTIwdGVjaG5pcXVlc3xlbnwwfDB8fHwxNzU1NDE5MTI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Plan your routines" title="How I Get More Done Without Burnout: The Sprint Method" caption="How I Get More Done Without Burnout: The Sprint Method - Photo by [Boitumelo](https://unsplash.com/@writecodenow) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-Ed2fRK5ify4)" >}}
 
 For me, that means alternating between focused work sprints and real breaks, keeping a regular sleep schedule, and respecting my own energy levels. When you wake up and go to bed at the same time every day, your body feels better and your mind is clearer.
 

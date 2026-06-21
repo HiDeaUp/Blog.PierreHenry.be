@@ -12,8 +12,7 @@ original_title = "How I Saved My Crashing React Native App - Cursor AI Debugging
 source_medium = "https://medium.com/@phenrysay/8a8aed7f3367"
 +++
 
-![Photo by Favour Usifo](https://images.unsplash.com/photo-1650234083177-871b96b6c575?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxSZWFjdCUyME5hdGl2ZSUyMEFJJTIwZGVidWdnaW5nJTIwbW9iaWxlJTIwYXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzI1MDQyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Fixed My React Native Crash Using AI Without Losing My Mind")
-*How I Fixed My React Native Crash Using AI Without Losing My Mind - Photo by [Favour Usifo](https://unsplash.com/@favour_usifo) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-in-the-dark-8w8yjqDs3-c)*
+{{< figure src="https://images.unsplash.com/photo-1650234083177-871b96b6c575?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxSZWFjdCUyME5hdGl2ZSUyMEFJJTIwZGVidWdnaW5nJTIwbW9iaWxlJTIwYXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzI1MDQyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a cell phone in the dark c" title="How I Fixed My React Native Crash Using AI Without Losing My Mind" caption="How I Fixed My React Native Crash Using AI Without Losing My Mind - Photo by [Favour Usifo](https://unsplash.com/@favour_usifo) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-in-the-dark-8w8yjqDs3-c)" >}}
 
 Alright, let's get straight into it. No fluff, just the real story of how I wrangled my React Native app back from the brink after an AI-assisted feature addition went sideways. If you've ever let an AI tool like Cursor loose on your codebase and then watched your app crash and burn, you know the feeling. This is my journey—warts, wins, and all.
 
@@ -41,8 +40,7 @@ import { triggerHaptic } from '../helpers/haptic.ts';
 
 ### Reviewing AI Changes: Trust, But Verify
 
-![Photo by Van Tay Media](https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxSZWFjdCUyME5hdGl2ZSUyMEFJJTIwZGVidWdnaW5nJTIwbW9iaWxlJTIwYXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzI1MDQyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Fixed My React Native Crash Using AI Without Losing My Mind")
-*How I Fixed My React Native Crash Using AI Without Losing My Mind - Photo by [Van Tay Media](https://unsplash.com/@vantaymedia) on [Unsplash](https://unsplash.com/photos/man-in-black-shirt-using-laptop-computer-and-flat-screen-monitor--S2-AKdWQoQ)*
+{{< figure src="https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxSZWFjdCUyME5hdGl2ZSUyMEFJJTIwZGVidWdnaW5nJTIwbW9iaWxlJTIwYXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzI1MDQyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black shirt using laptop and flat screen monitor S2 AKdWQoQ" title="How I Fixed My React Native Crash Using AI Without Losing My Mind" caption="How I Fixed My React Native Crash Using AI Without Losing My Mind - Photo by [Van Tay Media](https://unsplash.com/@vantaymedia) on [Unsplash](https://unsplash.com/photos/man-in-black-shirt-using-laptop-computer-and-flat-screen-monitor--S2-AKdWQoQ)" >}}
 
 Cursor is actually pretty good at catching typos and understanding context, but it doesn't always follow established patterns. For example, it replaced imports in a way that broke other components. I had to remind myself: *AI is only as smart as your prompt*. If you're not specific, you'll get generic or even wrong results.
 
@@ -78,8 +76,7 @@ If you give AI too much detail, it gets confused. Too little, and it guesses. It
 
 **Mindset shift:** Instead of blaming AI, ask yourself, *How can I improve my prompt?* This self-improvement mindset pays off big time.
 
-![Pictures for programming, coding, software engineering, STEM, technology.](https://images.unsplash.com/photo-1650234083227-74c0700b295a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxSZWFjdCUyME5hdGl2ZSUyMEFJJTIwZGVidWdnaW5nJTIwbW9iaWxlJTIwYXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzI1MDQyMnww&ixlib=rb-4.1.0&q=80&w=1080 "How I Fixed My React Native Crash Using AI Without Losing My Mind")
-*How I Fixed My React Native Crash Using AI Without Losing My Mind - Photo by [Favour Usifo](https://unsplash.com/@favour_usifo) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-lot-of-words-on-it-WML9sbDe484)*
+{{< figure src="https://images.unsplash.com/photo-1650234083227-74c0700b295a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxSZWFjdCUyME5hdGl2ZSUyMEFJJTIwZGVidWdnaW5nJTIwbW9iaWxlJTIwYXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc2NzI1MDQyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Pictures for programming, coding, software engineering, STEM, technology." title="How I Fixed My React Native Crash Using AI Without Losing My Mind" caption="How I Fixed My React Native Crash Using AI Without Losing My Mind - Photo by [Favour Usifo](https://unsplash.com/@favour_usifo) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-lot-of-words-on-it-WML9sbDe484)" >}}
 
 ### Final Fixes and Dev Tips
 

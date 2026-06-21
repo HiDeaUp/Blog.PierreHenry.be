@@ -12,8 +12,7 @@ original_title = "Quelle est la façon la plus efficace de s’organiser ?"
 source_medium = "https://medium.com/@phenrysay/1098fbde88e4"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmdhbml6YXRpb24lMjBwcm9kdWN0aXZpdHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1OTE0OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Organized Without Overhauling Your Life")
-*How to Get Organized Without Overhauling Your Life - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmdhbml6YXRpb24lMjBwcm9kdWN0aXZpdHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1OTE0OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Get Organized Without Overhauling Your Life" caption="How to Get Organized Without Overhauling Your Life - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Have you ever noticed how easy it is to wake up with big dreams, only to find yourself drifting through the morning, unsure where to start? Even with a head full of projects and ambitions, the day can feel blurry. You check your emails, scroll through social media, maybe poke around on your computer, but nothing truly concrete gets done.
 
@@ -23,8 +22,7 @@ Imagine knowing exactly what you’ll do in the first hour after waking up. You 
 
 But routines aren’t just about solo work. You can boost your progress by teaming up with others on your projects. Partnerships can help you get your name out there, share the workload, and bring in fresh ideas. Another option is to buy existing tools or websites that help you work faster and more efficiently. These shortcuts can multiply your efforts and save you time.
 
-![Social Media content planning on a white board](https://images.unsplash.com/photo-1676276375581-da33fe6d1c8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcmdhbml6YXRpb24lMjBwcm9kdWN0aXZpdHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1OTE0OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Organized Without Overhauling Your Life")
-*How to Get Organized Without Overhauling Your Life - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-zn0JDwLujfA)*
+{{< figure src="https://images.unsplash.com/photo-1676276375581-da33fe6d1c8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcmdhbml6YXRpb24lMjBwcm9kdWN0aXZpdHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1OTE0OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Social Media content planning on a white board" title="How to Get Organized Without Overhauling Your Life" caption="How to Get Organized Without Overhauling Your Life - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-zn0JDwLujfA)" >}}
 
 The real game-changer, though, is how you organize your days. A well-planned routine makes you more effective and helps you move forward faster. It’s not just about speed, but about knowing exactly what you’re doing and why.
 
@@ -46,8 +44,7 @@ One powerful habit is to set aside time every week—maybe on Sundays or Fridays
 - *Teaming up with others or using existing tools can multiply your results.*
 - *Weekly reviews help you see what’s working and what needs to change.*
 
-![A businesswoman working in an office ](https://images.unsplash.com/photo-1616587659117-e60354acfd90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcmdhbml6YXRpb24lMjBwcm9kdWN0aXZpdHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1OTE0OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Organized Without Overhauling Your Life")
-*How to Get Organized Without Overhauling Your Life - Photo by [LinkedIn Sales Solutions](https://unsplash.com/@linkedinsalesnavigator) on [Unsplash](https://unsplash.com/photos/woman-in-red-long-sleeve-shirt-sitting-in-front-of-silver-macbook-hMLDD0Gyd4A)*
+{{< figure src="https://images.unsplash.com/photo-1616587659117-e60354acfd90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvcmdhbml6YXRpb24lMjBwcm9kdWN0aXZpdHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1OTE0OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A businesswoman working in an office" title="How to Get Organized Without Overhauling Your Life" caption="How to Get Organized Without Overhauling Your Life - Photo by [LinkedIn Sales Solutions](https://unsplash.com/@linkedinsalesnavigator) on [Unsplash](https://unsplash.com/photos/woman-in-red-long-sleeve-shirt-sitting-in-front-of-silver-macbook-hMLDD0Gyd4A)" >}}
 
 ## Action Steps
 

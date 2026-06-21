@@ -12,8 +12,7 @@ original_title = "Savoir comment mieux prioritiser ? ⏰"
 source_medium = "https://medium.com/@phenrysay/2497452dfa9c"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MjA1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn What Matters Without Wasting Time")
-*How to Learn What Matters Without Wasting Time - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MjA1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Learn What Matters Without Wasting Time" caption="How to Learn What Matters Without Wasting Time - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Many people spend hours taking courses, reading books, or watching tutorials, hoping to improve their skills or change their lives. But here’s the truth: if you don’t apply what you learn right away, most of that effort is wasted. Think about it. If you study programming languages but never write a line of code, or if you learn Japanese without ever speaking it or going to Japan, you’re not really moving forward. You’re just collecting information.
 
@@ -23,8 +22,7 @@ That’s why it’s so important to act on new knowledge as soon as possible. If
 
 Your attention is limited, and its quality depends on what you focus on. What’s important for one person might not be important for you. For example, if you live in a country where electricity is cheap, there’s no point in taking a course on how to save on your electricity bill. The value of information depends on your situation.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MjA1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn What Matters Without Wasting Time")
-*How to Learn What Matters Without Wasting Time - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MjA1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Learn What Matters Without Wasting Time" caption="How to Learn What Matters Without Wasting Time - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Before you buy a new book or sign up for a new course, ask yourself: have I finished the books I already have? Am I ready to use this new knowledge right now? If not, put the purchase on hold. Finish what you started, and apply what you learn. When you need new knowledge for a specific action, that’s the right time to learn it.
 
@@ -42,8 +40,7 @@ Also, remember that urgent things aren’t always important. You’ll always hav
 
 ## Key Takeaways
 
-![Photo by byquincy](https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MjA1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Learn What Matters Without Wasting Time")
-*How to Learn What Matters Without Wasting Time - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)*
+{{< figure src="https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY1MjA1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a clock on a wall" title="How to Learn What Matters Without Wasting Time" caption="How to Learn What Matters Without Wasting Time - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)" >}}
 
 - *Only learn what you’re ready to use right now.*
 - *Finish and apply what you already have before moving on to something new.*

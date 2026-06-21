@@ -12,8 +12,7 @@ original_title = "Méthode MAGIQUE pour l'amélioration progressive"
 source_medium = "https://medium.com/@phenrysay/c37884a1c2bd"
 +++
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NjA3MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Tiny Daily Habits")
-*How to Transform Your Life With Tiny Daily Habits - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NjA3MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 Improving yourself is not about making huge leaps overnight. It’s about getting a little better every day. Think about your daily habits: taking a shower, brushing your teeth, eating your meals. You don’t question whether you should do these things or not—they’re automatic. They’re so deeply woven into your routine that you just do them without thinking.
 
@@ -23,8 +22,7 @@ Let’s say you live in Adelaide and want to become a guide there. You’d need 
 
 Organize your findings by category. Over time, you might build a website or offer your knowledge as a service to a tourism group. The key is consistency. If you dedicate just 15 minutes a day, after a month you’ll have over four hours of focused work. That’s a huge amount of progress, especially when you realize how much time we all spend on things like showering or waiting for the water to heat up—often more than 15 minutes.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NjA3MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Tiny Daily Habits")
-*How to Transform Your Life With Tiny Daily Habits - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NjA3MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 Everyone has time to improve their daily life. Becoming an expert in something doesn’t require hours every day. Just a quarter of an hour is enough. There are no excuses. It’s all about building the habit.
 
@@ -46,8 +44,7 @@ I truly believe this, and I share it with you from the heart. If you want to go 
 - Spend just 15–20 minutes a day on your goal.
 - Consistency leads to big results over time.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NjA3MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Transform Your Life With Tiny Daily Habits")
-*How to Transform Your Life With Tiny Daily Habits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBmb3JtYXRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NjA3MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 ## Action Steps
 

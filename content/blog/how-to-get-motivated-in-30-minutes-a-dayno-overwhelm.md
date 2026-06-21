@@ -12,8 +12,7 @@ original_title = "PROJETS DE MOTIVATION : les principes stimulants"
 source_medium = "https://medium.com/@phenrysay/bd6954d62a75"
 +++
 
-![audiobook, Jim Rohn](https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDM0ODIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated in 30 Minutes a Day—No Overwhelm")
-*How to Get Motivated in 30 Minutes a Day—No Overwhelm - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)*
+{{< figure src="https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDM0ODIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="audiobook, Jim Rohn" title="How to Get Motivated in 30 Minutes a Day—No Overwhelm" caption="How to Get Motivated in 30 Minutes a Day—No Overwhelm - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)" >}}
 
 Have you ever felt stuck in a rut, wanting to do more but not knowing where to start? Here’s a simple challenge that can bring a real spark to your daily life: every evening, pick a random task from a list of things that truly matter to you, and dedicate yourself to it for just half an hour.
 
@@ -29,8 +28,7 @@ Let’s say your list includes things like:
 
 The key is to focus on one thing at a time. For half an hour (or an hour, depending on the task), put yourself in the shoes of an expert and give it your full attention. Sometimes you’ll find you have a lot to say or do, and sometimes less. If you get completely absorbed, that’s a good sign.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDM0ODIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated in 30 Minutes a Day—No Overwhelm")
-*How to Get Motivated in 30 Minutes a Day—No Overwhelm - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDM0ODIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Get Motivated in 30 Minutes a Day—No Overwhelm" caption="How to Get Motivated in 30 Minutes a Day—No Overwhelm - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 After you’ve completed your task, consider sharing your results with friends or family. Ask for their feedback—what did they think, did they learn something, do they have suggestions? This feedback loop helps you improve and keeps you motivated.
 
@@ -48,8 +46,7 @@ Remember, quality matters more than quantity. When you try to do too much, every
 > _“You don’t have to be great to start, but you have to start to be great.”_  
 — Zig Ziglar
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDM0ODIzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get Motivated in 30 Minutes a Day—No Overwhelm")
-*How to Get Motivated in 30 Minutes a Day—No Overwhelm - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDM0ODIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Get Motivated in 30 Minutes a Day—No Overwhelm" caption="How to Get Motivated in 30 Minutes a Day—No Overwhelm - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 This is your challenge: for one week, pick something meaningful each day, focus on it, and see what happens. Ask for feedback, improve, and repeat. You’ll be surprised at how much you can grow in such a short time.
 

@@ -10,15 +10,13 @@ original_title = "Une vision de vie qui propulse 🚀"
 source_medium = "https://medium.com/@phenrysay/1d7ad83062ce"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRzZXQlMjB2aXNpb258ZW58MHwwfHx8MTc1NzQyMDcxMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger and Change Your Life Without Overwhelm")
-*How to Think Bigger and Change Your Life Without Overwhelm - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)*
+{{< figure src="https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRzZXQlMjB2aXNpb258ZW58MHwwfHx8MTc1NzQyMDcxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word mind" title="How to Think Bigger and Change Your Life Without Overwhelm" caption="How to Think Bigger and Change Your Life Without Overwhelm - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)" >}}
 
 Having a bigger vision for your life is more than just dreaming. It’s about seeing beyond your current situation and daring to imagine what you truly want to achieve. When you set your sights high, you naturally start to fill your days with meaningful goals. These aren’t just vague wishes, but specific, regular objectives that you work on every day.
 
 The real progress happens when you break your big vision down into small, daily steps. Imagine setting aside just half an hour each morning and evening to work on something that matters to you. Over time, these moments add up. You start to notice real progress, brick by brick, as you build the life you want.
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1632556719027-a2e7fa84d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRzZXQlMjB2aXNpb258ZW58MHwwfHx8MTc1NzQyMDcxMXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Bigger and Change Your Life Without Overwhelm")
-*How to Think Bigger and Change Your Life Without Overwhelm - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-spelling-the-word-w-is-down-on-top-of-a-QnRDKNbKl9k)*
+{{< figure src="https://images.unsplash.com/photo-1632556719027-a2e7fa84d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRzZXQlMjB2aXNpb258ZW58MHwwfHx8MTc1NzQyMDcxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A word the word w is down on top of a" title="How to Think Bigger and Change Your Life Without Overwhelm" caption="How to Think Bigger and Change Your Life Without Overwhelm - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-spelling-the-word-w-is-down-on-top-of-a-QnRDKNbKl9k)" >}}
 
 But there’s a catch: your vision needs to be clear, long-term, and specific. Without this clarity, it’s easy to drift through your days without direction. Waking up without a plan often leads to wasting time on things that don’t really matter. You end up spending your energy on activities that add little value to your life.
 

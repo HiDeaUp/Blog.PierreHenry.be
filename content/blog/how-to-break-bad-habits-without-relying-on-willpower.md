@@ -12,8 +12,7 @@ original_title = "COMMENT J’AI (ENFIN) ARRÊTÉ MES MAUVAISES HABITUDES POUR D
 source_medium = "https://medium.com/@phenrysay/3068ac75b6d6"
 +++
 
-![A boy looking to an amazing view ](https://images.unsplash.com/photo-1624561841146-a9a220ee50ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGNoYW5nZSUyMHNlbGYtZGlzY2lwbGluZSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTUxOTgwMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Bad Habits Without Relying on Willpower")
-*How to Break Bad Habits Without Relying on Willpower - Photo by [nasro azaizia](https://unsplash.com/@nasro18dz) on [Unsplash](https://unsplash.com/photos/man-in-red-hoodie-sitting-on-rock-AUtcB1bZbMg)*
+{{< figure src="https://images.unsplash.com/photo-1624561841146-a9a220ee50ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdCUyMGNoYW5nZSUyMHNlbGYtZGlzY2lwbGluZSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTUxOTgwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy looking to an amazing view" title="How to Break Bad Habits Without Relying on Willpower" caption="How to Break Bad Habits Without Relying on Willpower - Photo by [nasro azaizia](https://unsplash.com/@nasro18dz) on [Unsplash](https://unsplash.com/photos/man-in-red-hoodie-sitting-on-rock-AUtcB1bZbMg)" >}}
 
 Have you ever noticed how some habits seem impossible to break, no matter how many times you try? I used to feel the same way. But I stumbled upon a method so simple, yet so powerful, that it completely changed my approach to self-discipline—and it might just change yours too.
 
@@ -29,8 +28,7 @@ For me, this has been a game-changer. I have just three or four of these persona
 
 ## Why This Works
 
-![Photo by Chris Leipelt](https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGNoYW5nZSUyMHNlbGYtZGlzY2lwbGluZSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTUxOTgwMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Bad Habits Without Relying on Willpower")
-*How to Break Bad Habits Without Relying on Willpower - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)*
+{{< figure src="https://images.unsplash.com/photo-1478148054759-b7f4779d7b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGNoYW5nZSUyMHNlbGYtZGlzY2lwbGluZSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTUxOTgwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person on top of hill during golden hour" title="How to Break Bad Habits Without Relying on Willpower" caption="How to Break Bad Habits Without Relying on Willpower - Photo by [Chris Leipelt](https://unsplash.com/@cleipelt) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-top-of-hill-during-golden-hour-JxdaWH8EY70)" >}}
 
 We all follow the laws of our country, but sometimes, what’s legal isn’t always good for us. That’s where your personal constitution comes in. It’s about setting stricter rules for yourself, not to limit your freedom, but to protect it.
 
@@ -55,8 +53,7 @@ Another thing I’ve learned: your environment matters. Sometimes, just changing
 
 If you want to change, surround yourself with positive influences. Listen to inspiring podcasts, read biographies, and connect with people who lift you up. It makes a real difference.
 
-![Photo by Miguel Constantin Montes](https://images.unsplash.com/photo-1482830033991-8eaa49b6cde4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGNoYW5nZSUyMHNlbGYtZGlzY2lwbGluZSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTUxOTgwMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Break Bad Habits Without Relying on Willpower")
-*How to Break Bad Habits Without Relying on Willpower - Photo by [Miguel Constantin Montes](https://unsplash.com/@createwithconstantin) on [Unsplash](https://unsplash.com/photos/man-sitting-on-swing-oMvlBxrGp_4)*
+{{< figure src="https://images.unsplash.com/photo-1482830033991-8eaa49b6cde4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGNoYW5nZSUyMHNlbGYtZGlzY2lwbGluZSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NTUxOTgwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man sitting on swing" title="How to Break Bad Habits Without Relying on Willpower" caption="How to Break Bad Habits Without Relying on Willpower - Photo by [Miguel Constantin Montes](https://unsplash.com/@createwithconstantin) on [Unsplash](https://unsplash.com/photos/man-sitting-on-swing-oMvlBxrGp_4)" >}}
 
 > _“You are the average of the five people you spend the most time with.”_
 > — Jim Rohn

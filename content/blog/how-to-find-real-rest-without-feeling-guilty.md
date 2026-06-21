@@ -12,8 +12,7 @@ original_title = "QUAND PEUT-ON ENFIN SE DÉTENDRE ?"
 source_medium = "https://medium.com/@phenrysay/7077691b4c96"
 +++
 
-![Photo by Leandra Rieger](https://images.unsplash.com/photo-1648128095220-e3a26333f22c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQyMDU2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Rest Without Feeling Guilty")
-*How to Find Real Rest Without Feeling Guilty - Photo by [Leandra Rieger](https://unsplash.com/@leandrarieger) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-gf08gm2quEk)*
+{{< figure src="https://images.unsplash.com/photo-1648128095220-e3a26333f22c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQyMDU2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a table" title="How to Find Real Rest Without Feeling Guilty" caption="How to Find Real Rest Without Feeling Guilty - Photo by [Leandra Rieger](https://unsplash.com/@leandrarieger) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-gf08gm2quEk)" >}}
 
 There are moments in life when we all crave a break—a real pause, not just a quick distraction. I often find myself reflecting on this while sitting in a beautiful place, like the Elizabeth Bay Park on a sunny spring day. The calm, the open space, and the quiet (especially during the week) help me unwind after work. It’s a chance to step back, recharge, and even think about my life’s direction.
 
@@ -25,8 +24,7 @@ There comes a point where you have to be content with what you have, to find hap
 
 I remember when several big cities in the Philippines lost electricity for over a month after a typhoon. People just kept going. They didn’t revolt or complain endlessly—they looked for the little bits of hope and positivity that kept them moving forward. That’s resilience, and it’s a lesson worth following.
 
-![Photo by Angelina Sarycheva](https://images.unsplash.com/photo-1713428856048-d52b6474b5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQyMDU2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Rest Without Feeling Guilty")
-*How to Find Real Rest Without Feeling Guilty - Photo by [Angelina Sarycheva](https://unsplash.com/@oxalife) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-the-floor-with-a-laptop-vFefVZLzQYU)*
+{{< figure src="https://images.unsplash.com/photo-1713428856048-d52b6474b5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQyMDU2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on the floor with a laptop" title="How to Find Real Rest Without Feeling Guilty" caption="How to Find Real Rest Without Feeling Guilty - Photo by [Angelina Sarycheva](https://unsplash.com/@oxalife) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-the-floor-with-a-laptop-vFefVZLzQYU)" >}}
 
 Of course, it’s good to want a better life. That’s why so many Filipinos make sacrifices to move abroad for their families. But the real takeaway is this: even if you’re not fully satisfied with your life, you can still appreciate where you are and what you have—especially if you’re not living in a war zone or extreme poverty.
 
@@ -45,8 +43,7 @@ This isn’t a perfectly structured lesson—just a personal reflection. But I b
 > _Happiness is not having what you want. It is appreciating what you have._
 > — Rabbi Hyman Schachtel
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQyMDU2Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Rest Without Feeling Guilty")
-*How to Find Real Rest Without Feeling Guilty - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc1NTQyMDU2Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Find Real Rest Without Feeling Guilty" caption="How to Find Real Rest Without Feeling Guilty - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 > _Resilience is accepting your new reality, even if it’s less good than the one you had before._
 > — Elizabeth Edwards

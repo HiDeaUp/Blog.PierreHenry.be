@@ -12,8 +12,7 @@ original_title = "La santé. Les traditions à changer 🍏 Quand la santé bous
 source_medium = "https://medium.com/@phenrysay/8e891266f63f"
 +++
 
-![Photo by The Worthy Goods](https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjB0cmFkaXRpb25zJTIwbGlmZXN0eWxlJTIwY2hhbmdlc3xlbnwwfDB8fHwxNzU1NTc3NzMzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Toast to Health Without Raising a Glass of Alcohol")
-*How to Toast to Health Without Raising a Glass of Alcohol - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)*
+{{< figure src="https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjB0cmFkaXRpb25zJTIwbGlmZXN0eWxlJTIwY2hhbmdlc3xlbnwwfDB8fHwxNzU1NTc3NzMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of white boxes with black text on a wooden surface" title="How to Toast to Health Without Raising a Glass of Alcohol" caption="How to Toast to Health Without Raising a Glass of Alcohol - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)" >}}
 
 Have you ever noticed how we raise our glasses and say “to your health” while drinking alcohol? It’s a strange tradition if you think about it. We’re literally toasting to our well-being with something that isn’t exactly good for us. Sure, a glass of wine or beer isn’t the worst thing in the world, but calling it “to your health” feels off. Wouldn’t it make more sense to clink apples together and say “cheers” instead?
 
@@ -29,8 +28,7 @@ Taking care of yourself isn’t just about physical health. Your mental well-bei
 
 ## The Importance of Health—For Everyone
 
-![A South African couple with diabetes prepares a meal with an older friend.](https://images.unsplash.com/photo-1683621284476-549af8467c8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjB0cmFkaXRpb25zJTIwbGlmZXN0eWxlJTIwY2hhbmdlc3xlbnwwfDB8fHwxNzU1NTc3NzMzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Toast to Health Without Raising a Glass of Alcohol")
-*How to Toast to Health Without Raising a Glass of Alcohol - Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes) on [Unsplash](https://unsplash.com/photos/a-group-of-people-standing-around-a-stove-preparing-food-Rtij1ic7Nrc)*
+{{< figure src="https://images.unsplash.com/photo-1683621284476-549af8467c8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjB0cmFkaXRpb25zJTIwbGlmZXN0eWxlJTIwY2hhbmdlc3xlbnwwfDB8fHwxNzU1NTc3NzMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A South African couple with diabetes prepares a meal with an older friend." title="How to Toast to Health Without Raising a Glass of Alcohol" caption="How to Toast to Health Without Raising a Glass of Alcohol - Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes) on [Unsplash](https://unsplash.com/photos/a-group-of-people-standing-around-a-stove-preparing-food-Rtij1ic7Nrc)" >}}
 
 I can’t say it enough: your health is everything. I wish good health for everyone. No one deserves to feel unwell. So please, keep taking care of yourself. Go for walks. Move your body. Mix up your activities. Don’t let stress take over.
 
@@ -54,8 +52,7 @@ Life is short. There’s no point wasting it on things you don’t enjoy. If you
 
 I’m with you on this journey. I know you can do it. Let’s keep moving forward together.
 
-![A young group of South Africans with diabetes enjoying a meal together](https://images.unsplash.com/photo-1683537277115-502a6eecb6ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGglMjB0cmFkaXRpb25zJTIwbGlmZXN0eWxlJTIwY2hhbmdlc3xlbnwwfDB8fHwxNzU1NTc3NzMzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Toast to Health Without Raising a Glass of Alcohol")
-*How to Toast to Health Without Raising a Glass of Alcohol - Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-zbI9maUvcaM)*
+{{< figure src="https://images.unsplash.com/photo-1683537277115-502a6eecb6ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoZWFsdGglMjB0cmFkaXRpb25zJTIwbGlmZXN0eWxlJTIwY2hhbmdlc3xlbnwwfDB8fHwxNzU1NTc3NzMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A young group of South Africans with diabetes enjoying a meal together" title="How to Toast to Health Without Raising a Glass of Alcohol" caption="How to Toast to Health Without Raising a Glass of Alcohol - Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes) on [Unsplash](https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-zbI9maUvcaM)" >}}
 
 ---
 

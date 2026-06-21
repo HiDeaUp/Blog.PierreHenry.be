@@ -12,8 +12,7 @@ original_title = "TOUTES les ÉTAPES d'un petit business d'information"
 source_medium = "https://medium.com/@phenrysay/215be71dae07"
 +++
 
-![Learn Online Words](https://images.unsplash.com/photo-1673515335586-f9f662c01482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmZvcm1hdGlvbiUyMGJ1c2luZXNzJTIwb25saW5lJTIwY291cnNlcyUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTk5ODg1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Teach Your Passion Without Feeling Stuck or Frustrated")
-*How to Teach Your Passion Without Feeling Stuck or Frustrated - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/a-wooden-table-with-scrabble-tiles-spelling-learn-online-mE6ihqJsahk)*
+{{< figure src="https://images.unsplash.com/photo-1673515335586-f9f662c01482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmZvcm1hdGlvbiUyMGJ1c2luZXNzJTIwb25saW5lJTIwY291cnNlcyUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTk5ODg1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Learn Online Words" title="How to Teach Your Passion Without Feeling Stuck or Frustrated" caption="How to Teach Your Passion Without Feeling Stuck or Frustrated - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/a-wooden-table-with-scrabble-tiles-spelling-learn-online-mE6ihqJsahk)" >}}
 
 Have you ever tried to teach someone your passion, only to feel stuck or frustrated? Maybe you’ve attempted to create a course, followed templates, or copied structures you found online, but nothing seemed to work. You might wonder if you’re simply not cut out for this, or if you’re doing something wrong.
 
@@ -27,8 +26,7 @@ Often, when people struggle to learn, it’s not because they lack talent. It’
 
 What I’ve learned is that you need to package your idea into a simple, ready-to-use method. This way, anyone can take action and succeed in your field. Start by focusing on just one product. Don’t try to do everything at once. If you spread yourself too thin, you’ll get lost and end up with mediocre results.
 
-![Photo by mahyar motebassem](https://images.unsplash.com/photo-1694340016914-e684a924f5b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmZvcm1hdGlvbiUyMGJ1c2luZXNzJTIwb25saW5lJTIwY291cnNlcyUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTk5ODg1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Teach Your Passion Without Feeling Stuck or Frustrated")
-*How to Teach Your Passion Without Feeling Stuck or Frustrated - Photo by [mahyar motebassem](https://unsplash.com/@mahyarmotebassem) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-LQTw3KSwcwg)*
+{{< figure src="https://images.unsplash.com/photo-1694340016914-e684a924f5b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmZvcm1hdGlvbiUyMGJ1c2luZXNzJTIwb25saW5lJTIwY291cnNlcyUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTk5ODg1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in front of a laptop" title="How to Teach Your Passion Without Feeling Stuck or Frustrated" caption="How to Teach Your Passion Without Feeling Stuck or Frustrated - Photo by [mahyar motebassem](https://unsplash.com/@mahyarmotebassem) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-LQTw3KSwcwg)" >}}
 
 Focus on creating the best beginner course you can. This is your foundation. Once you have it, you can improve and expand, but always start with one clear offer. This approach helps you stand out and become the go-to expert in your area.
 
@@ -50,8 +48,7 @@ The key is to create a course that’s simple, clear, and memorable. Focus on he
 >
 > — Maya Angelou
 
-![Online word](https://images.unsplash.com/photo-1673515335188-79a859a375fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmZvcm1hdGlvbiUyMGJ1c2luZXNzJTIwb25saW5lJTIwY291cnNlcyUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTk5ODg1NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Teach Your Passion Without Feeling Stuck or Frustrated")
-*How to Teach Your Passion Without Feeling Stuck or Frustrated - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-online-spelled-with-scrabble-letters-on-a-wooden-table-C76OaGvb68U)*
+{{< figure src="https://images.unsplash.com/photo-1673515335188-79a859a375fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmZvcm1hdGlvbiUyMGJ1c2luZXNzJTIwb25saW5lJTIwY291cnNlcyUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc1NTk5ODg1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Online word" title="How to Teach Your Passion Without Feeling Stuck or Frustrated" caption="How to Teach Your Passion Without Feeling Stuck or Frustrated - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-online-spelled-with-scrabble-letters-on-a-wooden-table-C76OaGvb68U)" >}}
 
 ---
 

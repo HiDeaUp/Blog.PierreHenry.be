@@ -12,8 +12,7 @@ original_title = "Importance des priorités: Urgent VS Important"
 source_medium = "https://medium.com/@phenrysay/68d4dc7a35c7"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695473507904-130cd7ba9d7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwdXJnZW50JTIwdnMlMjBpbXBvcnRhbnR8ZW58MHwwfHx8MTc1NTYzOTU1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on What Matters Without Chasing Every Urgency")
-*How to Focus on What Matters Without Chasing Every Urgency - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-WV-bh40bmj4)*
+{{< figure src="https://images.unsplash.com/photo-1695473507904-130cd7ba9d7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwdXJnZW50JTIwdnMlMjBpbXBvcnRhbnR8ZW58MHwwfHx8MTc1NTYzOTU1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it WV" title="How to Focus on What Matters Without Chasing Every Urgency" caption="How to Focus on What Matters Without Chasing Every Urgency - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-WV-bh40bmj4)" >}}
 
 Every day, we’re surrounded by things that demand our attention. There’s always something urgent to do—taking out the trash, paying bills online, cleaning up last night’s dishes, vacuuming, or mopping the floor. These tasks never end. But if you look closely, most of them aren’t truly important to you. They just feel urgent.
 
@@ -25,8 +24,7 @@ The real problem is that we don’t spend enough time on what truly counts. The 
 
 So, here’s a simple invitation: Identify the things that make you genuinely happy or fulfilled. Maybe it’s taking a walk, relaxing, or spending quality time with a friend. It could be going to the park with someone you care about, or even going shopping if that’s something you love. Whatever it is, do it—today.
 
-![Photo by byquincy](https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwdXJnZW50JTIwdnMlMjBpbXBvcnRhbnR8ZW58MHwwfHx8MTc1NTYzOTU1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on What Matters Without Chasing Every Urgency")
-*How to Focus on What Matters Without Chasing Every Urgency - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)*
+{{< figure src="https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwdXJnZW50JTIwdnMlMjBpbXBvcnRhbnR8ZW58MHwwfHx8MTc1NTYzOTU1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a clock on a wall" title="How to Focus on What Matters Without Chasing Every Urgency" caption="How to Focus on What Matters Without Chasing Every Urgency - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)" >}}
 
 Make it a habit to do something important for your well-being at least once a week. Sure, you can spend 10 or 20 minutes each day on small things that add to your happiness, but once a week, set aside a bigger chunk of time—an hour, an hour and a half, or even two hours—for something that truly matters to you.
 
@@ -42,8 +40,7 @@ Waking up early is much easier when you’re excited about your day, when you kn
 > _The key is not to prioritize what’s on your schedule, but to schedule your priorities._
 > — Stephen Covey
 
-![Photo by Dante Candal](https://images.unsplash.com/photo-1548640796-d4eabf3bc53d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwdXJnZW50JTIwdnMlMjBpbXBvcnRhbnR8ZW58MHwwfHx8MTc1NTYzOTU1Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Focus on What Matters Without Chasing Every Urgency")
-*How to Focus on What Matters Without Chasing Every Urgency - Photo by [Dante Candal](https://unsplash.com/@dantecandal) on [Unsplash](https://unsplash.com/photos/low-angle-photography-of-round-street-clock-displaying-300-piHPT9ZY6iE)*
+{{< figure src="https://images.unsplash.com/photo-1548640796-d4eabf3bc53d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmlvcml0aXphdGlvbiUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwdXJnZW50JTIwdnMlMjBpbXBvcnRhbnR8ZW58MHwwfHx8MTc1NTYzOTU1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Low angle of round street clock 300" title="How to Focus on What Matters Without Chasing Every Urgency" caption="How to Focus on What Matters Without Chasing Every Urgency - Photo by [Dante Candal](https://unsplash.com/@dantecandal) on [Unsplash](https://unsplash.com/photos/low-angle-photography-of-round-street-clock-displaying-300-piHPT9ZY6iE)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Comment devenir freelance RAPIDEMENT ?"
 source_medium = "https://medium.com/@phenrysay/706d45c4b3b9"
 +++
 
-![man working on laptop in maldives](https://images.unsplash.com/photo-1649418558488-f98977269b0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMHJlbW90ZSUyMHdvcmslMjBjYXJlZXIlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYzODgzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Freelancing in 2024 Without Years of Experience")
-*How to Start Freelancing in 2024 Without Years of Experience - Photo by [Kemal Esensoy](https://unsplash.com/@kemalesensoy) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-chair-on-a-beach-using-a-laptop-DhX7Gtz33sM)*
+{{< figure src="https://images.unsplash.com/photo-1649418558488-f98977269b0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmVlbGFuY2luZyUyMHJlbW90ZSUyMHdvcmslMjBjYXJlZXIlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYzODgzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="man working on laptop in maldives" title="How to Start Freelancing in 2024 Without Years of Experience" caption="How to Start Freelancing in 2024 Without Years of Experience - Photo by [Kemal Esensoy](https://unsplash.com/@kemalesensoy) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-chair-on-a-beach-using-a-laptop-DhX7Gtz33sM)" >}}
 
 If you’ve ever thought about becoming a freelancer, there’s never been a better time than 2024 and 2025. More and more people are making the jump, and the value of freelancers keeps rising. Companies are starting to truly respect freelancers, and it’s becoming easier to ask for a fair rate for your work.
 
@@ -23,8 +22,7 @@ Of course, it takes some effort. You’ll need to search for the right opportuni
 
 A good script, a strong portfolio, and applying to the right places will change everything for you. And the best part? Freedom. You can travel wherever you want, work from anywhere, and finally live the life you’ve always dreamed of—doing what you love, using your favorite skills.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695462131553-5f532df1768d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMHJlbW90ZSUyMHdvcmslMjBjYXJlZXIlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYzODgzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Freelancing in 2024 Without Years of Experience")
-*How to Start Freelancing in 2024 Without Years of Experience - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-remote-everything-zhvQmZAoND8)*
+{{< figure src="https://images.unsplash.com/photo-1695462131553-5f532df1768d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMHJlbW90ZSUyMHdvcmslMjBjYXJlZXIlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYzODgzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads remote" title="How to Start Freelancing in 2024 Without Years of Experience" caption="How to Start Freelancing in 2024 Without Years of Experience - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-remote-everything-zhvQmZAoND8)" >}}
 
 > _The future belongs to those who believe in the beauty of their dreams._
 >
@@ -46,8 +44,7 @@ A good script, a strong portfolio, and applying to the right places will change 
 
 ## Action Steps
 
-![Photo by Siednji Leon](https://images.unsplash.com/photo-1698124073681-5e78ba5786b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMHJlbW90ZSUyMHdvcmslMjBjYXJlZXIlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYzODgzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Freelancing in 2024 Without Years of Experience")
-*How to Start Freelancing in 2024 Without Years of Experience - Photo by [Siednji Leon](https://unsplash.com/@siednji) on [Unsplash](https://unsplash.com/photos/a-man-and-a-woman-sitting-at-a-table-with-a-laptop-j4VTyhcz1yY)*
+{{< figure src="https://images.unsplash.com/photo-1698124073681-5e78ba5786b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMHJlbW90ZSUyMHdvcmslMjBjYXJlZXIlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYzODgzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man and a woman sitting at a table with a laptop" title="How to Start Freelancing in 2024 Without Years of Experience" caption="How to Start Freelancing in 2024 Without Years of Experience - Photo by [Siednji Leon](https://unsplash.com/@siednji) on [Unsplash](https://unsplash.com/photos/a-man-and-a-woman-sitting-at-a-table-with-a-laptop-j4VTyhcz1yY)" >}}
 
 - Identify your strongest skills.
 - Create or update your portfolio.

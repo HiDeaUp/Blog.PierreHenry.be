@@ -12,8 +12,7 @@ original_title = "Comment créer des choses ?"
 source_medium = "https://medium.com/@phenrysay/5b5a95d11254"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUxOTI1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Magic by Breaking Your Own Limits")
-*How to Create Magic by Breaking Your Own Limits - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)*
+{{< figure src="https://images.unsplash.com/photo-1637399552290-cc9d0bab645e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUxOTI1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on a brick wall that says is" title="How to Create Magic by Breaking Your Own Limits" caption="How to Create Magic by Breaking Your Own Limits - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-on-a-brick-wall-that-says-creativity-is-institution-e3MsK_biLqA)" >}}
 
 Creating things is one of the most magical parts of being alive. It’s not just about making art, starting a business, or building something with your hands. It’s about drawing inspiration from your surroundings and daring to do what you once thought impossible.
 
@@ -25,8 +24,7 @@ If you want to go further, you have to let go of what you’ve been taught, wher
 
 It’s the same with writing emails for references or job applications. Most people just copy and tweak an old template instead of starting fresh. This habit creates mental barriers. If you always do what you’ve always done, you’ll keep getting the same results. If you copy others, you’ll only live their lives, not your own.
 
-![Get in the Flow | Instagram: @timmossholder](https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUxOTI1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Magic by Breaking Your Own Limits")
-*How to Create Magic by Breaking Your Own Limits - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)*
+{{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUxOTI1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How to Create Magic by Breaking Your Own Limits" caption="How to Create Magic by Breaking Your Own Limits - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 To really create, you have to break out of the usual patterns. Otherwise, you’ll feel stuck, boxed in by your own routines. Think of yourself like a cow or a sheep running free in a field—there are no fences. Or like a bird, or any creature that doesn’t see limits. Life is a sandbox, and everything is possible.
 
@@ -46,8 +44,7 @@ There’s a difference between being obsessed and being persistent. If you’re 
 > *If you want a different life, you have to do things differently.*
 > — Unknown
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705313381827-bb166b463daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUxOTI1OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Create Magic by Breaking Your Own Limits")
-*How to Create Magic by Breaking Your Own Limits - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-creativity-on-a-wooden-surface-eu9VJxIsU74)*
+{{< figure src="https://images.unsplash.com/photo-1705313381827-bb166b463daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudCUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUxOTI1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles on a wooden surface" title="How to Create Magic by Breaking Your Own Limits" caption="How to Create Magic by Breaking Your Own Limits - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-creativity-on-a-wooden-surface-eu9VJxIsU74)" >}}
 
 So, raise your limits. If you want to go even further, remember that life is a bit like a TV series—there’s always another season, another adventure. The best thing in life is sharing what you know and learning from others in return. That’s how you grow, and that’s how you help others grow, too.
 

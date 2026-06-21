@@ -12,8 +12,7 @@ original_title = "Comment architecturer ses journées"
 source_medium = "https://medium.com/@phenrysay/7e475e0148de"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDEzMTcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Days for More Happiness and Focus")
-*How to Design Your Days for More Happiness and Focus - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDEzMTcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Design Your Days for More Happiness and Focus" caption="How to Design Your Days for More Happiness and Focus - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Have you ever thought about becoming the architect of your own days? Not just letting time slip by, but actually designing your daily life with care and intention. This idea is simple, but it can change everything: when you plan your days, you improve your productivity, your well-being, and your happiness.
 
@@ -27,8 +26,7 @@ Every evening, take a few minutes to review your day. Give your day a score. Ask
 
 After you review your day, plan for tomorrow. Pick the three most important things you want to accomplish. These should be your top priorities, and together, they should not take more than three hours if possible. Try to schedule them for the morning, when your energy is highest.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDEzMTcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Days for More Happiness and Focus")
-*How to Design Your Days for More Happiness and Focus - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDEzMTcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Design Your Days for More Happiness and Focus" caption="How to Design Your Days for More Happiness and Focus - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 ## The Weekly Plan: Sunday Retrospective
 
@@ -50,8 +48,7 @@ This simple routine—an evening review and a weekly plan—can make your days s
 
 Life is too short not to live it fully. You deserve amazing days, and you can create them, step by step, with a little planning and a lot of heart.
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDEzMTcxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Design Your Days for More Happiness and Focus")
-*How to Design Your Days for More Happiness and Focus - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDEzMTcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Design Your Days for More Happiness and Focus" caption="How to Design Your Days for More Happiness and Focus - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Qui d'autre veut trouver son indicateur de réussite ?"
 source_medium = "https://medium.com/@phenrysay/c4cf67fa1a52"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaW5kaWNhdG9ycyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9ncmVzcyUyMHRyYWNraW5nfGVufDB8MHx8fDE3NTU0MjM3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Track Progress Without Just Working Harder")
-*How to Track Progress Without Just Working Harder - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaW5kaWNhdG9ycyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9ncmVzcyUyMHRyYWNraW5nfGVufDB8MHx8fDE3NTU0MjM3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Track Progress Without Just Working Harder" caption="How to Track Progress Without Just Working Harder - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 We all want to feel that our days matter, that what we do is moving us forward. But how do you know if you’re really making progress? Whether you’re a developer, an architect, a secretary, or even a stay-at-home parent, having a clear sense of direction is essential. It’s not just about being busy—it’s about knowing if your efforts are actually leading somewhere.
 
@@ -27,8 +26,7 @@ Let’s say you want to learn design. You take a couple of online courses, but y
 
 A progress indicator tells you if you’re on the right path. If you’re not improving, it’s a sign that your learning has stalled. We should always be moving forward, even if it’s just a little bit each day.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaW5kaWNhdG9ycyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9ncmVzcyUyMHRyYWNraW5nfGVufDB8MHx8fDE3NTU0MjM3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Track Progress Without Just Working Harder")
-*How to Track Progress Without Just Working Harder - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaW5kaWNhdG9ycyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9ncmVzcyUyMHRyYWNraW5nfGVufDB8MHx8fDE3NTU0MjM3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Track Progress Without Just Working Harder" caption="How to Track Progress Without Just Working Harder - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 ## What About Success Indicators?
 
@@ -50,8 +48,7 @@ Good organization is key. Before you dive into a task—whether it’s coding, d
 
 Planning isn’t wasted time. It’s what makes the execution smoother and faster. Spend time thinking about how you’ll tackle the task, and you’ll save yourself a lot of trouble later.
 
-![Photo by Sigmund](https://images.unsplash.com/photo-1656432318409-04ecb93123ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaW5kaWNhdG9ycyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9ncmVzcyUyMHRyYWNraW5nfGVufDB8MHx8fDE3NTU0MjM3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Track Progress Without Just Working Harder")
-*How to Track Progress Without Just Working Harder - Photo by [Sigmund](https://unsplash.com/@sigmund) on [Unsplash](https://unsplash.com/photos/a-man-looking-at-the-camera-m1uNJ3vpU_g)*
+{{< figure src="https://images.unsplash.com/photo-1656432318409-04ecb93123ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaW5kaWNhdG9ycyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9ncmVzcyUyMHRyYWNraW5nfGVufDB8MHx8fDE3NTU0MjM3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man looking at the camera" title="How to Track Progress Without Just Working Harder" caption="How to Track Progress Without Just Working Harder - Photo by [Sigmund](https://unsplash.com/@sigmund) on [Unsplash](https://unsplash.com/photos/a-man-looking-at-the-camera-m1uNJ3vpU_g)" >}}
 
 ---
 

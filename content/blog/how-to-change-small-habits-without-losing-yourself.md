@@ -10,8 +10,7 @@ original_title = "Ce qu’il faut CHANGER pour pouvoir RÉUSSIR"
 source_medium = "https://medium.com/@phenrysay/82d6257c067c"
 +++
 
-![Photo by Jeremy Bishop](https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDk0MTQzMDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Small Habits Without Losing Yourself")
-*How to Change Small Habits Without Losing Yourself - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)*
+{{< figure src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDk0MTQzMDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Closeup of plant on ground" title="How to Change Small Habits Without Losing Yourself" caption="How to Change Small Habits Without Losing Yourself - Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4)" >}}
 
 We all have things in our lives we can change or improve. But there are also habits that quietly work against us, pulling us down without us even realizing. Sometimes, these habits are picked up simply because we’re influenced by the people around us. You join a group, make new friends, and before you know it, you start adopting their ambitions and goals—even if they’re the opposite of what you truly want.
 
@@ -23,8 +22,7 @@ Habits aren’t just about the people you spend time with. Your environment play
 
 You deserve better than an environment that holds you back. If your surroundings are making it hard for you to live the way you want, it’s time to recognize that and make a change. Maybe you’re stuck in a routine that doesn’t serve you—going to bed late, waking up late, even though you know it doesn’t make you happy. Or maybe your apartment barely gets any sunlight, making it tough to wake up feeling refreshed. Natural light is the best alarm clock, and if you don’t have it, there are sunrise simulators that can help.
 
-![Photo by Austin Distel](https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDk0MTQzMDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Small Habits Without Losing Yourself")
-*How to Change Small Habits Without Losing Yourself - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)*
+{{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDk0MTQzMDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Change Small Habits Without Losing Yourself" caption="How to Change Small Habits Without Losing Yourself - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
 Right now, I’m in Elizabeth Bay, a lovely suburb in Sydney. It’s full of cafes and has a beautiful bay where you can swim in summer—though you have to watch out for sharks and jellyfish! The weather impacts my mood too. On gray, rainy days, it’s harder to feel upbeat. Some people have the luxury of moving to a sunnier place when they need a boost. For example, I could go to Cairns in Queensland, where it’s warm and sunny even in winter, or head to Europe for summer. Your environment matters more than you think.
 
@@ -42,8 +40,7 @@ Let content inspire you, then close the app and get moving. Use that spark to tr
 > *“The best time to plant a tree was twenty years ago. The second best time is now.”*  
 > —Chinese Proverb
 
-![Photo by Alex Hudson](https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDk0MTQzMDl8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Small Habits Without Losing Yourself")
-*How to Change Small Habits Without Losing Yourself - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)*
+{{< figure src="https://images.unsplash.com/photo-1573633509389-0e3075dea01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDk0MTQzMDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiling man holding cup and using" title="How to Change Small Habits Without Losing Yourself" caption="How to Change Small Habits Without Losing Yourself - Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91) on [Unsplash](https://unsplash.com/photos/smiling-man-holding-cup-and-using-smartphone-7AgqAZbogOQ)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "La recette du bonheur …? Actif et curieux …"
 source_medium = "https://medium.com/@phenrysay/24db3c95d0db"
 +++
 
-![photo was taken in the Carpathian Mountains on a beautiful summer day](https://images.unsplash.com/photo-1515743083824-dbbe7f0022ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBjdXJpb3NpdHklMjBhY3RpdmUlMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjAwOTczNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness by Staying Active and Curious")
-*How to Find Real Happiness by Staying Active and Curious - Photo by [Anastasiia Tarasova](https://unsplash.com/@tarasovaanastasiia) on [Unsplash](https://unsplash.com/photos/woman-raising-hands-behind-mountain-covered-by-trees-cfRIm0U4SxQ)*
+{{< figure src="https://images.unsplash.com/photo-1515743083824-dbbe7f0022ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBjdXJpb3NpdHklMjBhY3RpdmUlMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjAwOTczNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="photo was taken in the Carpathian Mountains on a beautiful summer day" title="How to Find Real Happiness by Staying Active and Curious" caption="How to Find Real Happiness by Staying Active and Curious - Photo by [Anastasiia Tarasova](https://unsplash.com/@tarasovaanastasiia) on [Unsplash](https://unsplash.com/photos/woman-raising-hands-behind-mountain-covered-by-trees-cfRIm0U4SxQ)" >}}
 
 There’s a kind of magic in being active and curious. Starting new projects, trying new things, and moving forward with your ideas can completely change your life. If you’re always waiting for the perfect moment to begin something, you’ll find that the right time never really comes. Maybe you tell yourself you’re too busy, you don’t have enough money, or you just don’t feel ready. These excuses pile up, and while you’re waiting, nothing changes—except you get older and lose precious time and energy.
 
@@ -27,8 +26,7 @@ It’s important to follow your dreams and finish your projects. Having dreams i
 
 For example, I recently updated a video for my “lifestyle job” course. I love working on these kinds of projects because they help people build a life that fits them. I share tips, tools, and advice for organizing your life, staying safe online, and even finding the right coworking spaces. I go deep into these topics because I want to help you create a life you love.
 
-![A girl in a happy jump](https://images.unsplash.com/photo-1699519315173-98bedea4dc5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBjdXJpb3NpdHklMjBhY3RpdmUlMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjAwOTczNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness by Staying Active and Curious")
-*How to Find Real Happiness by Staying Active and Curious - Photo by [Uliana Semenova](https://unsplash.com/@ulyyyanka) on [Unsplash](https://unsplash.com/photos/a-woman-jumping-in-the-air-in-a-grassy-field-8csxmqbBGS4)*
+{{< figure src="https://images.unsplash.com/photo-1699519315173-98bedea4dc5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBjdXJpb3NpdHklMjBhY3RpdmUlMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjAwOTczNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl in a happy jump" title="How to Find Real Happiness by Staying Active and Curious" caption="How to Find Real Happiness by Staying Active and Curious - Photo by [Uliana Semenova](https://unsplash.com/@ulyyyanka) on [Unsplash](https://unsplash.com/photos/a-woman-jumping-in-the-air-in-a-grassy-field-8csxmqbBGS4)" >}}
 
 Traveling is another way to create memories and life experiences. I remember a trip to Belgium, where I visited a cupcake shop in Waterloo. These moments stick with you much more than any gadget or thing you buy. Life experiences are what help you grow and learn.
 
@@ -50,8 +48,7 @@ You become what you eat, the people you spend time with, and the thoughts you ha
 
 ## Key Takeaways
 
-![Joyful jump at sunrise](https://images.unsplash.com/photo-1635109943291-8f1d3bb9e8b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBjdXJpb3NpdHklMjBhY3RpdmUlMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjAwOTczNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness by Staying Active and Curious")
-*How to Find Real Happiness by Staying Active and Curious - Photo by [Eugene](https://unsplash.com/@eugenegrunge) on [Unsplash](https://unsplash.com/photos/a-person-jumping-in-the-air-on-a-beach-5qTppkeFetI)*
+{{< figure src="https://images.unsplash.com/photo-1635109943291-8f1d3bb9e8b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBjdXJpb3NpdHklMjBhY3RpdmUlMjBsaWZlc3R5bGV8ZW58MHwwfHx8MTc1NjAwOTczNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Joyful jump at sunrise" title="How to Find Real Happiness by Staying Active and Curious" caption="How to Find Real Happiness by Staying Active and Curious - Photo by [Eugene](https://unsplash.com/@eugenegrunge) on [Unsplash](https://unsplash.com/photos/a-person-jumping-in-the-air-on-a-beach-5qTppkeFetI)" >}}
 
 - Don’t wait for the perfect moment—start now.
 - If a project isn’t working, move on to something new.

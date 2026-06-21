@@ -12,8 +12,7 @@ original_title = "Petites Ameliorations au quotidien"
 source_medium = "https://medium.com/@phenrysay/6e7b3e7f95a3"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With Small Daily Tweaks")
-*How to Change Your Life With Small Daily Tweaks - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Change Your Life With Small Daily Tweaks" caption="How to Change Your Life With Small Daily Tweaks - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Improvement does not always come from grand gestures or dramatic changes. More often, it’s the small, consistent steps we take each day that truly shape who we become. Let’s talk about how you can make these little improvements, one after another, and see real progress in your daily life.
 
@@ -25,8 +24,7 @@ After a week, try removing three habits that don’t serve you. If you tend to s
 
 Positive affirmations are another tool I recommend. Stand in front of the mirror and say, “Today will be an amazing day. I feel great and I’m going to crush it. I believe in myself.” It might sound a bit odd at first, but saying these things out loud, especially to your own reflection, can boost your confidence and energy.
 
-![woman looking at skin in a mirror](https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With Small Daily Tweaks")
-*How to Change Your Life With Small Daily Tweaks - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)*
+{{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Change Your Life With Small Daily Tweaks" caption="How to Change Your Life With Small Daily Tweaks - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
 Your environment also plays a huge role in how you feel and perform. Sometimes, I find myself in a café with classical music playing, and I notice how much it lifts my mood. So, I try to recreate that atmosphere at home. Maybe it’s a speaker with your favorite playlist, or a radio app like Venice Classic Radio or Coffitivity. Even Spotify can do the trick. The right music can make your space feel welcoming and inspiring.
 
@@ -44,8 +42,7 @@ The truth is, small improvements add up. By making tiny changes and sticking wit
 > *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
 — Will Durant
 
-![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Life With Small Daily Tweaks")
-*How to Change Your Life With Small Daily Tweaks - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
+{{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Change Your Life With Small Daily Tweaks" caption="How to Change Your Life With Small Daily Tweaks - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
 ---
 

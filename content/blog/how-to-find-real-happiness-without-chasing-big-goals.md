@@ -12,8 +12,7 @@ original_title = "Pourquoi la VRAIE BELLE VIE semble IMPOSSIBLE à atteindre ?"
 source_medium = "https://medium.com/@phenrysay/1f2e3fd3863b"
 +++
 
-![Happy Heart Concept](https://images.unsplash.com/photo-1625416360482-1f219bf855ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NDE3NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Big Goals")
-*How to Find Real Happiness Without Chasing Big Goals - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/yellow-and-red-smiley-face-JHG8W-YYnpU)*
+{{< figure src="https://images.unsplash.com/photo-1625416360482-1f219bf855ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NDE3NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Concept" title="How to Find Real Happiness Without Chasing Big Goals" caption="How to Find Real Happiness Without Chasing Big Goals - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/yellow-and-red-smiley-face-JHG8W-YYnpU)" >}}
 
 Have you ever woken up in the morning craving a cup of coffee, a croissant, or just a really good breakfast? These little rituals are more than just habits—they’re part of your well-being routine. When you focus your energy on your well-being, when you make happiness and comfort the center of your attention, everything else tends to fall into place more easily.
 
@@ -23,8 +22,7 @@ The key is to find and recognize the things that make you happy. It’s up to yo
 
 Step by step, you’ll notice your happiness and positive energy growing. And the more you feel good, the more positive energy you’ll spread to those around you. It’s contagious. If you walk into a bakery and the person behind the counter barely looks at you, it can leave you feeling flat. But if you go somewhere where they greet you warmly, remember your favorite order, and pay attention to the details, it changes your whole experience. It can turn an ordinary moment into something special.
 
-![Happy Heart Happy Face Concept](https://images.unsplash.com/photo-1634911059332-0cc49b1ae86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NDE3NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Big Goals")
-*How to Find Real Happiness Without Chasing Big Goals - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-fygIoiCC06o)*
+{{< figure src="https://images.unsplash.com/photo-1634911059332-0cc49b1ae86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NDE3NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Happy Face Concept" title="How to Find Real Happiness Without Chasing Big Goals" caption="How to Find Real Happiness Without Chasing Big Goals - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-fygIoiCC06o)" >}}
 
 That’s why I believe that if everyone felt happier and more fulfilled, the world around us would feel lighter too. Never underestimate the power of your own well-being—not just for yourself, but for everyone you meet.
 
@@ -43,8 +41,7 @@ That’s why I believe that if everyone felt happier and more fulfilled, the wor
 - Track your happy moments and look for ways to make your days even better.
 - Your positive energy can lift up those around you—never underestimate its impact.
 
-![Happy Heart Concept](https://images.unsplash.com/photo-1636216009507-ecce6e4f75f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NDE3NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Big Goals")
-*How to Find Real Happiness Without Chasing Big Goals - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-9QGHE1FrvzU)*
+{{< figure src="https://images.unsplash.com/photo-1636216009507-ecce6e4f75f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsLWJlaW5nJTIwbGlmZSUyMHNhdGlzZmFjdGlvbnxlbnwwfDB8fHwxNzU1NDE3NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Concept" title="How to Find Real Happiness Without Chasing Big Goals" caption="How to Find Real Happiness Without Chasing Big Goals - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/a-bunch-of-balls-with-faces-drawn-on-them-9QGHE1FrvzU)" >}}
 
 ## Action Steps
 

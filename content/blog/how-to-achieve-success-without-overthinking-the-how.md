@@ -12,8 +12,7 @@ original_title = "Aller vers son succès - Plan de réussite"
 source_medium = "https://medium.com/@phenrysay/f9e10f5bdffc"
 +++
 
-![Photo by Ronnie Overgoor](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTc0NjM1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Success Without Overthinking the How")
-*How to Achieve Success Without Overthinking the How - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)*
+{{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTc0NjM1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Achieve Success Without Overthinking the How" caption="How to Achieve Success Without Overthinking the How - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 When it comes to success, having a detailed plan is not just helpful, it’s essential. The first step is to know exactly why you want to achieve your goal. The “why” is your driving force. Don’t get stuck worrying about every single “how” along the way. The path will reveal itself as you move forward, but your motivation comes from understanding your purpose and setting a clear deadline.
 
@@ -23,8 +22,7 @@ For example, maybe you decide that every day for the next week, you’ll dedicat
 
 It’s important not to overthink the “how.” If you focus too much on every detail of the process, you’ll end up feeling overwhelmed. That’s when procrastination creeps in, or worse, you might give up entirely. If you saw the full journey from the start, you might never begin. This is true for anyone who has built something big. If they had known all the challenges ahead, they might have walked away. But by starting the adventure, the solutions appeared along the way.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTc0NjM1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Success Without Overthinking the How")
-*How to Achieve Success Without Overthinking the How - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTc0NjM1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Achieve Success Without Overthinking the How" caption="How to Achieve Success Without Overthinking the How - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 Think about running a marathon. If you focus on the pain and effort of every kilometer, you’ll convince yourself you can’t do it. Instead, picture yourself crossing the finish line. Then, each day, just focus on your training. Day after day, you build up your strength until the big day arrives.
 
@@ -40,8 +38,7 @@ By working this way, you’ll find it much easier to avoid procrastination. Ever
 
 ---
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTc0NjM1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Achieve Success Without Overthinking the How")
-*How to Achieve Success Without Overthinking the How - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTc0NjM1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Achieve Success Without Overthinking the How" caption="How to Achieve Success Without Overthinking the How - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 ## Key Takeaways
 

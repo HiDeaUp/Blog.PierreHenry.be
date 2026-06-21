@@ -12,8 +12,7 @@ original_title = "Submerger par ses émotions - Voici comment gérer ses émotio
 source_medium = "https://medium.com/@phenrysay/a781e2043cdb"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBtYW5hZ2VtZW50JTIwc2VsZi1jb250cm9sJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTU1NjExOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Manage Emotions Without Saying Things You Regret")
-*How to Manage Emotions Without Saying Things You Regret - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)*
+{{< figure src="https://images.unsplash.com/photo-1705056509092-5d7b1a789eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbW90aW9uYWwlMjBtYW5hZ2VtZW50JTIwc2VsZi1jb250cm9sJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTU1NjExOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word emotion on a wooden surface" title="How to Manage Emotions Without Saying Things You Regret" caption="How to Manage Emotions Without Saying Things You Regret - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-emotion-on-a-wooden-surface-DNXp55GBExA)" >}}
 
 We’ve all been there: a moment when emotions take the wheel, and before you know it, you’ve said something you regret. Maybe the person in front of you did everything right, gave their all, and yet, a single spark sets off a storm. Later, you wish you could take it back. This is a real danger—acting or speaking without thinking, letting emotions dictate your actions.
 
@@ -29,8 +28,7 @@ The same goes for communication. Whether you’re talking to friends or colleagu
 
 ## Limit Your Sources
 
-![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBtYW5hZ2VtZW50JTIwc2VsZi1jb250cm9sJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTU1NjExOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Manage Emotions Without Saying Things You Regret")
-*How to Manage Emotions Without Saying Things You Regret - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)*
+{{< figure src="https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBtYW5hZ2VtZW50JTIwc2VsZi1jb250cm9sJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTU1NjExOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden framed gray wooden door" title="How to Manage Emotions Without Saying Things You Regret" caption="How to Manage Emotions Without Saying Things You Regret - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)" >}}
 
 Don’t overwhelm yourself with too many opinions. Three sources of inspiration or learning is enough. If you try to learn from dozens of people, you’ll get lost in conflicting advice. Two or three is the sweet spot—enough to get different perspectives, but not so many that you lose your own direction.
 
@@ -56,8 +54,7 @@ If you want something, and you believe in it 100%, you’ll find a way. When you
 >
 > — Pierre
 
-![Photo by Nishaan ahmed](https://images.unsplash.com/photo-1610481005101-50c55ebbb154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBtYW5hZ2VtZW50JTIwc2VsZi1jb250cm9sJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTU1NjExOHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Manage Emotions Without Saying Things You Regret")
-*How to Manage Emotions Without Saying Things You Regret - Photo by [Nishaan ahmed](https://unsplash.com/@nishaan_ahmed) on [Unsplash](https://unsplash.com/photos/brown-egg-on-white-table-JpHzeeLm27s)*
+{{< figure src="https://images.unsplash.com/photo-1610481005101-50c55ebbb154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBtYW5hZ2VtZW50JTIwc2VsZi1jb250cm9sJTIwZGVjaXNpb24lMjBtYWtpbmd8ZW58MHwwfHx8MTc1NTU1NjExOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown egg on white table" title="How to Manage Emotions Without Saying Things You Regret" caption="How to Manage Emotions Without Saying Things You Regret - Photo by [Nishaan ahmed](https://unsplash.com/@nishaan_ahmed) on [Unsplash](https://unsplash.com/photos/brown-egg-on-white-table-JpHzeeLm27s)" >}}
 
 ## Make Choices, Not Excuses
 

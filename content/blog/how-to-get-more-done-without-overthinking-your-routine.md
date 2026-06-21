@@ -12,8 +12,7 @@ original_title = "EFFICACITÉ: LA STRUCTURE EXACTE POUR FAIRE MIEUX PLUS RAPIDEM
 source_medium = "https://medium.com/@phenrysay/f47c534c7b37"
 +++
 
-![Photo by Dawit](https://images.unsplash.com/photo-1723505613384-b55168b80568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlZmZpY2llbmN5JTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NzU1Mjc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Overthinking Your Routine")
-*How to Get More Done Without Overthinking Your Routine - Photo by [Dawit](https://unsplash.com/@oneminch) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-on-a-table-8NZWPenRXDk)*
+{{< figure src="https://images.unsplash.com/photo-1723505613384-b55168b80568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlZmZpY2llbmN5JTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NzU1Mjc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a cell phone on a table" title="How to Get More Done Without Overthinking Your Routine" caption="How to Get More Done Without Overthinking Your Routine - Photo by [Dawit](https://unsplash.com/@oneminch) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-on-a-table-8NZWPenRXDk)" >}}
 
 Being efficient every day starts with having a routine—a clear action plan you follow daily, almost like a template. When you repeat this plan day after day, it becomes a habit. Over time, it turns into an automatic process. Each morning, you wake up and go through your “success routines.” I like to call them that because they set the tone for everything that follows.
 
@@ -23,8 +22,7 @@ The structure is simple. For example, you might spend half an hour on a specific
 
 This approach changes everything. It’s not about doing more, but about doing what matters, consistently. The real magic happens when you stick to your routine, day after day, and see the results build up over time.
 
-![Photo by Content Pixie](https://images.unsplash.com/photo-1564510714747-69c3bc1fab41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlZmZpY2llbmN5JTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NzU1Mjc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Overthinking Your Routine")
-*How to Get More Done Without Overthinking Your Routine - Photo by [Content Pixie](https://unsplash.com/@contentpixie) on [Unsplash](https://unsplash.com/photos/white-printer-paper-beside-filled-mug-l6I8jpzKJQU)*
+{{< figure src="https://images.unsplash.com/photo-1564510714747-69c3bc1fab41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlZmZpY2llbmN5JTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NzU1Mjc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White printer paper beside filled mug" title="How to Get More Done Without Overthinking Your Routine" caption="How to Get More Done Without Overthinking Your Routine - Photo by [Content Pixie](https://unsplash.com/@contentpixie) on [Unsplash](https://unsplash.com/photos/white-printer-paper-beside-filled-mug-l6I8jpzKJQU)" >}}
 
 I’ve seen this work not just for myself, but for many others. Every time I learn something new that works for me, I add it to my own routines. It’s like having a second brain—a way to reinforce and organize what matters most. The key is to start now. There’s no point in waiting for the perfect moment. Begin today, and you’ll see real changes in your life.
 
@@ -45,8 +43,7 @@ If you’re motivated and ready to put these ideas into practice, you’ll notic
 - Small, consistent actions add up to big results over time.
 - Don’t wait for the perfect moment—start now.
 
-![Photo by Slaapwijsheid.nl](https://images.unsplash.com/photo-1686828751885-040f0a0fb77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlZmZpY2llbmN5JTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NzU1Mjc5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Overthinking Your Routine")
-*How to Get More Done Without Overthinking Your Routine - Photo by [Slaapwijsheid.nl](https://unsplash.com/@slaapwijsheid) on [Unsplash](https://unsplash.com/photos/a-woman-putting-a-blue-blanket-on-top-of-a-bed-Y9xl0rnRd1I)*
+{{< figure src="https://images.unsplash.com/photo-1686828751885-040f0a0fb77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlZmZpY2llbmN5JTIwcHJvZHVjdGl2aXR5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1NzU1Mjc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman putting a blue blanket on top of a bed" title="How to Get More Done Without Overthinking Your Routine" caption="How to Get More Done Without Overthinking Your Routine - Photo by [Slaapwijsheid.nl](https://unsplash.com/@slaapwijsheid) on [Unsplash](https://unsplash.com/photos/a-woman-putting-a-blue-blanket-on-top-of-a-bed-Y9xl0rnRd1I)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Optimiser le déroulement de son quotidien"
 source_medium = "https://medium.com/@phenrysay/f34de5152e61"
 +++
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2MTA4Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Day Without Feeling Overwhelmed")
-*How to Plan Your Day Without Feeling Overwhelmed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2MTA4Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Plan Your Day Without Feeling Overwhelmed" caption="How to Plan Your Day Without Feeling Overwhelmed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 Having a clear vision for each day is more powerful than most people realize. When you know exactly what you want to accomplish, your days become more focused and productive. This clarity doesn’t just help you get things done—it also makes it much easier to keep going, day after day.
 
@@ -23,8 +22,7 @@ Your plan doesn’t have to be rigid or boring. In fact, it should change from t
 
 For example, on Monday, you might focus on writing, research, or publishing a book you finished last month. On Tuesday, if you’re a freelancer, you could dedicate time to finding new clients or building your reputation. Be specific—each task should have a clear outcome. Wednesday might be for freelance work, maybe one or two projects at the same time. Thursday could be for something different, like gardening or making a video to share your ideas, just like I’m doing now. On Friday, maybe you attend a meetup, give a talk, or host a webinar. Saturday could be for open source projects or contributing to something you care about. And Sunday? That’s a great day to focus on strategy, brainstorm new ideas, or even relax in a spa or jacuzzi while you think about your next steps.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2MTA4Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Day Without Feeling Overwhelmed")
-*How to Plan Your Day Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2MTA4Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Plan Your Day Without Feeling Overwhelmed" caption="How to Plan Your Day Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 By dedicating time each day to your activities, and having a page for each day, you’ll find it much easier to stay disciplined. You can export your daily plan as a PDF, print it, or use apps like GoodNotes or Notability to write on it directly from your phone. These templates become your daily guide.
 
@@ -42,8 +40,7 @@ Remember, creating systems and procedures for your daily life is not just about 
 
 ## Key Takeaways
 
-![Photo by Joseph Casados](https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2MTA4Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Plan Your Day Without Feeling Overwhelmed")
-*How to Plan Your Day Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)*
+{{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHJvdXRpbmUlMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2MTA4Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Plan Your Day Without Feeling Overwhelmed" caption="How to Plan Your Day Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 - *Have a clear plan for each day of the week.*
 - *Pick one to three main tasks per day, with specific outcomes.*

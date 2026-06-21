@@ -12,8 +12,7 @@ original_title = "Ce que je dévoiles est l’expérience de 10 ans"
 source_medium = "https://medium.com/@phenrysay/83598ec363f0"
 +++
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBsZXNzb25zJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2Mzg2MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Future Without Getting Stuck in the Past")
-*How to Build Your Future Without Getting Stuck in the Past - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBsZXNzb25zJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2Mzg2MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Build Your Future Without Getting Stuck in the Past" caption="How to Build Your Future Without Getting Stuck in the Past - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 We all spend a lot of time turning things over in our minds—replaying old memories, wondering “what if,” and getting stuck in endless loops of regret. But what’s the point? All this rumination drains your time, energy, and mental space. Instead of making real changes in your life, you end up stuck, missing out on what you could be doing right now.
 
@@ -25,8 +24,7 @@ The key is to act on what you can control. Don’t just let life happen to you�
 
 Even the small choices, like what you drink, matter. If you’re always reaching for alcohol or sugary sodas, it’s going to affect your life and your decisions. You become what you consume—not just food and drink, but also the content you watch and read. If you fill your days with junk, you start to see yourself that way. So, make better choices now. Don’t resign yourself to thinking, “That’s just how I am, it’s hopeless.” You’re capable of much more. It’s your habits and routines that drag you down, not your potential.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBsZXNzb25zJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2Mzg2MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Future Without Getting Stuck in the Past")
-*How to Build Your Future Without Getting Stuck in the Past - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBsZXNzb25zJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2Mzg2MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build Your Future Without Getting Stuck in the Past" caption="How to Build Your Future Without Getting Stuck in the Past - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Ask yourself: how can you break free from these bad habits and lift yourself up? If you keep identifying with your old patterns, it’s much harder to escape that fog. It all starts with making better decisions, even if they’re not easy to find at first. Sometimes you have to search for a while before you realize, “If I just do this one thing every day, I’ll get where I want to go.”
 
@@ -44,8 +42,7 @@ So, don’t put off what you want to do. Don’t make excuses about not having e
 
 ---
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBsZXNzb25zJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2Mzg2MTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your Future Without Getting Stuck in the Past")
-*How to Build Your Future Without Getting Stuck in the Past - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjBsZXNzb25zJTIwc2VsZiUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2Mzg2MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Build Your Future Without Getting Stuck in the Past" caption="How to Build Your Future Without Getting Stuck in the Past - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 ## Key Takeaways
 

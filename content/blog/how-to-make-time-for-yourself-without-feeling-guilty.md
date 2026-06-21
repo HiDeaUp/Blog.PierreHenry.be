@@ -12,8 +12,7 @@ original_title = "Moments pour soi 🤗"
 source_medium = "https://medium.com/@phenrysay/20cba1babd80"
 +++
 
-![Mental Health Matters iPad Lettering Quote](https://images.unsplash.com/photo-1621887348744-6b0444f8a058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMHRpbWV8ZW58MHwwfHx8MTc1NjUyMzk1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Time for Yourself Without Feeling Guilty")
-*How to Make Time for Yourself Without Feeling Guilty - Photo by [Emily Underworld](https://unsplash.com/@emilyunderworld) on [Unsplash](https://unsplash.com/photos/a-tablet-with-the-words-mental-health-matters-on-it-Ko3EMBFggok)*
+{{< figure src="https://images.unsplash.com/photo-1621887348744-6b0444f8a058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMHRpbWV8ZW58MHwwfHx8MTc1NjUyMzk1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Mental Health Matters iPad Lettering Quote" title="How to Make Time for Yourself Without Feeling Guilty" caption="How to Make Time for Yourself Without Feeling Guilty - Photo by [Emily Underworld](https://unsplash.com/@emilyunderworld) on [Unsplash](https://unsplash.com/photos/a-tablet-with-the-words-mental-health-matters-on-it-Ko3EMBFggok)" >}}
 
 Finding time for yourself can feel impossible. Many of us struggle to prioritize what truly matters and what actually makes us feel good. Take my own experience: my work keeps me busy, even though I work remotely from home. My days are packed with tasks, and even when I’m in a co-working space, there’s always something that needs my attention.
 
@@ -21,8 +20,7 @@ I often start my day as early as 7:30 in the morning and keep going until 7 or 8
 
 It took me a while to realize that working more doesn’t mean working better. I wanted to share this realization: delegating and organizing your week can make all the difference. The trick is to schedule your personal time in advance, just like you would any important task. If you don’t, you’ll end up spending your whole day doing things that don’t necessarily make you happy.
 
-![Made using Unsplash photos, and created for the Unsplash Photo Club.](https://images.unsplash.com/photo-1620389701363-b1d7a601e0c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMHRpbWV8ZW58MHwwfHx8MTc1NjUyMzk1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Time for Yourself Without Feeling Guilty")
-*How to Make Time for Yourself Without Feeling Guilty - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/i-am-a-good-man-i-am-a-good-man-i-am-a-good-man-i-8tf3e8LaSX0)*
+{{< figure src="https://images.unsplash.com/photo-1620389701363-b1d7a601e0c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMHRpbWV8ZW58MHwwfHx8MTc1NjUyMzk1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Made using Unsplash photos, and created for the Unsplash Photo Club." title="How to Make Time for Yourself Without Feeling Guilty" caption="How to Make Time for Yourself Without Feeling Guilty - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/i-am-a-good-man-i-am-a-good-man-i-am-a-good-man-i-8tf3e8LaSX0)" >}}
 
 A well-planned week with a clear calendar or set commitments can change everything. For example, if you book a theater subscription with your partner for 6 PM, you’re committed. You can’t just say, “I’ll try to come home earlier.” If you’ve reserved a table at a restaurant or bought tickets for a show, you can’t be late. These external commitments force you to leave work on time and make space for life outside your job.
 
@@ -36,8 +34,7 @@ Sometimes, the best ideas come from improvisation. This article wasn’t planned
 > _“Almost everything will work again if you unplug it for a few minutes, including you.”_  
 — Anne Lamott
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMHRpbWV8ZW58MHwwfHx8MTc1NjUyMzk1Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Time for Yourself Without Feeling Guilty")
-*How to Make Time for Yourself Without Feeling Guilty - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNhcmUlMjBtZW50YWwlMjBoZWFsdGglMjBwZXJzb25hbCUyMHRpbWV8ZW58MHwwfHx8MTc1NjUyMzk1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Make Time for Yourself Without Feeling Guilty" caption="How to Make Time for Yourself Without Feeling Guilty - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 ---
 

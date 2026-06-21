@@ -12,8 +12,7 @@ original_title = "CRÉATION D’UNE VIE QUI TE PARLE ENFIN"
 source_medium = "https://medium.com/@phenrysay/fd248f2a03fe"
 +++
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU5OTcwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fulfillment by Slowing Down Your Life")
-*How to Find Fulfillment by Slowing Down Your Life - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU5OTcwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Find Fulfillment by Slowing Down Your Life" caption="How to Find Fulfillment by Slowing Down Your Life - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 Have you ever watched a mail carrier zip by in their little car, moving quickly from one stop to the next? It’s a simple scene, but it made me think about how we often rush through our own lives, always in a hurry to get somewhere, rarely stopping to enjoy the journey.
 
@@ -23,8 +22,7 @@ Many of us get caught up in what people call the “rat race.” We chase after 
 
 So, what if you took a step back? What if you sat down, breathed deeply, and simply looked around? Being present, really soaking in the moment, is a powerful way to reconnect with yourself and your goals. Start a project, but don’t pressure yourself to do everything at once. A little bit each day is more than enough. Otherwise, you risk burning out, giving up, and ending up with nothing to show for your efforts.
 
-![Photo by Wolfgang Hasselmann](https://images.unsplash.com/photo-1551713293-c97632294f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU5OTcwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fulfillment by Slowing Down Your Life")
-*How to Find Fulfillment by Slowing Down Your Life - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-petaled-flower-in-selective-focus-photography-R5xy3c7KN94)*
+{{< figure src="https://images.unsplash.com/photo-1551713293-c97632294f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU5OTcwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow petaled flower in focus" title="How to Find Fulfillment by Slowing Down Your Life" caption="How to Find Fulfillment by Slowing Down Your Life - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-petaled-flower-in-selective-focus-photography-R5xy3c7KN94)" >}}
 
 I often talk about building a beautiful life, about creating long-term projects that matter. Why is this so important? Because it’s not just about getting things done—it’s about feeling fulfilled and happy while you do it.
 
@@ -42,8 +40,7 @@ Regularity pays off. If you stick to your actions every day, keep your goal in m
 > _“The journey of a thousand miles begins with a single step.”_  
 — Lao Tzu
 
-![A young boy looking at the mountain view on the top of Katzbegi mountain.](https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU5OTcwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Fulfillment by Slowing Down Your Life")
-*How to Find Fulfillment by Slowing Down Your Life - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)*
+{{< figure src="https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU5OTcwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A young boy looking at the mountain view on the top of Katzbegi mountain." title="How to Find Fulfillment by Slowing Down Your Life" caption="How to Find Fulfillment by Slowing Down Your Life - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)" >}}
 
 ---
 

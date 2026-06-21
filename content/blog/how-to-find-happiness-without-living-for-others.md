@@ -12,8 +12,7 @@ original_title = "Tu te sens perdu ? Découvre comment retrouver le bonheur !"
 source_medium = "https://medium.com/@phenrysay/872c40690813"
 +++
 
-![photo was taken in the Carpathian Mountains on a beautiful summer day](https://images.unsplash.com/photo-1515743083824-dbbe7f0022ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTE4MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Happiness Without Living for Others")
-*How to Find Happiness Without Living for Others - Photo by [Anastasiia Tarasova](https://unsplash.com/@tarasovaanastasiia) on [Unsplash](https://unsplash.com/photos/woman-raising-hands-behind-mountain-covered-by-trees-cfRIm0U4SxQ)*
+{{< figure src="https://images.unsplash.com/photo-1515743083824-dbbe7f0022ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTE4MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="photo was taken in the Carpathian Mountains on a beautiful summer day" title="How to Find Happiness Without Living for Others" caption="How to Find Happiness Without Living for Others - Photo by [Anastasiia Tarasova](https://unsplash.com/@tarasovaanastasiia) on [Unsplash](https://unsplash.com/photos/woman-raising-hands-behind-mountain-covered-by-trees-cfRIm0U4SxQ)" >}}
 
 Have you ever felt unhappy, like you’re not really living your own life? I know I have. There have been many times when I just didn’t feel good about myself. It was as if I was living for other people, not for myself. Maybe you know what I mean. Sometimes, we do things because of social pressure, because we want to be seen a certain way, or simply because it’s the path others have chosen for us. But deep down, that path doesn’t fit. It doesn’t match who we really are.
 
@@ -25,8 +24,7 @@ Of course, not everyone is built for the same things. Some people just want a si
 
 Sometimes, we think we can change everything about ourselves—become outgoing if we’re shy, or stop being stressed. Yes, you can change a little, especially if your environment changes. For example, some people are shy in one country or culture, but not at all in another. We become what our environment allows us to be. If your surroundings lift you up, help you feel good, and let you be happy, then that’s what matters. That’s why sometimes you need to choose a different environment, maybe even a different country, to become the person you want to be.
 
-![Photo by Mink Mingle](https://images.unsplash.com/photo-1546440765-e7e3c881b5fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTE4MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Happiness Without Living for Others")
-*How to Find Happiness Without Living for Others - Photo by [Mink Mingle](https://unsplash.com/@minkmingle) on [Unsplash](https://unsplash.com/photos/woman-waving-her-hands-during-golden-hour-tXeTUbu9cFg)*
+{{< figure src="https://images.unsplash.com/photo-1546440765-e7e3c881b5fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTE4MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman waving her hands during golden hour" title="How to Find Happiness Without Living for Others" caption="How to Find Happiness Without Living for Others - Photo by [Mink Mingle](https://unsplash.com/@minkmingle) on [Unsplash](https://unsplash.com/photos/woman-waving-her-hands-during-golden-hour-tXeTUbu9cFg)" >}}
 
 One thing I’ve learned is that teaching what you learn is a great way to really understand and remember it. Every time you learn something that excites you, try to teach it to someone else in your own words. It helps you grow, and you become more of an expert in the process.
 
@@ -48,8 +46,7 @@ One thing I’ve learned is that teaching what you learn is a great way to reall
 - Your environment shapes you—sometimes a change of place can help you become who you want to be.
 - Teaching what you learn helps you understand and remember it better.
 
-![The Book of Happy](https://images.unsplash.com/photo-1459369510627-9efbee1e6051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTE4MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Happiness Without Living for Others")
-*How to Find Happiness Without Living for Others - Photo by [Josh Felise](https://unsplash.com/@jfelise) on [Unsplash](https://unsplash.com/photos/person-holding-happy-by-alex-lemon-book-yIMy3ERBc3o)*
+{{< figure src="https://images.unsplash.com/photo-1459369510627-9efbee1e6051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTE4MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="The Book of Happy" title="How to Find Happiness Without Living for Others" caption="How to Find Happiness Without Living for Others - Photo by [Josh Felise](https://unsplash.com/@jfelise) on [Unsplash](https://unsplash.com/photos/person-holding-happy-by-alex-lemon-book-yIMy3ERBc3o)" >}}
 
 ## Action Steps
 

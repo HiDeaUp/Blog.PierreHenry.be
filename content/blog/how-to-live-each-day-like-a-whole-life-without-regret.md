@@ -12,9 +12,7 @@ original_title = "Comment utiliser tout le potentiel de ses journées ?"
 source_medium = "https://medium.com/@phenrysay/674fd092e7bb"
 +++
 
-![“The present moment is filled with joy and happiness. If you are attentive, you will see it.” 
-― Thich Nhat Hanh](https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMGhhYml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MTg0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Each Day Like a Whole Life Without Regret")
-*How to Live Each Day Like a Whole Life Without Regret - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)*
+{{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMGhhYml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MTg0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Live Each Day Like a Whole Life Without Regret" caption="How to Live Each Day Like a Whole Life Without Regret - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
 ### See Your Day as a Whole Life
 
@@ -30,8 +28,7 @@ We never know when our time will run out. None of us can see the future. That’
 
 Take something big, like buying a house. If you have the means, why wait? Money is meant to circulate. Life is short. It’s sad to see people hoard money and never use it to create something meaningful. Money is just a tool to help you do more, to build beautiful things, and maybe even make the world a little better. It might sound simple, but it’s true.
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMGhhYml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MTg0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Each Day Like a Whole Life Without Regret")
-*How to Live Each Day Like a Whole Life Without Regret - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMGhhYml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MTg0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Live Each Day Like a Whole Life Without Regret" caption="How to Live Each Day Like a Whole Life Without Regret - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 If your goal is to save more, then start now. The sooner you begin, the more you can accomplish. Living well means doing what makes you happy and surrounding yourself with an environment you love. If you’re not happy where you are, don’t just accept it. Go and see for yourself what another place feels like.
 
@@ -46,8 +43,7 @@ The same goes for any big decision. If you feel it’s right, do it. Don’t wai
 > *“You are never too old to set another goal or to dream a new dream.”*  
 — C. S. Lewis
 
-![Photo by Julio Lopez](https://images.unsplash.com/photo-1723359133179-075028cd7f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMGhhYml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MTg0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Each Day Like a Whole Life Without Regret")
-*How to Live Each Day Like a Whole Life Without Regret - Photo by [Julio Lopez](https://unsplash.com/@juliolopez) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-field-with-a-helmet-on-9mouXmvcwiY)*
+{{< figure src="https://images.unsplash.com/photo-1723359133179-075028cd7f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMGhhYml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MTg0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in a field with a helmet on" title="How to Live Each Day Like a Whole Life Without Regret" caption="How to Live Each Day Like a Whole Life Without Regret - Photo by [Julio Lopez](https://unsplash.com/@juliolopez) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-field-with-a-helmet-on-9mouXmvcwiY)" >}}
 
 > *“The trouble is, you think you have time.”*  
 — Jack Kornfield

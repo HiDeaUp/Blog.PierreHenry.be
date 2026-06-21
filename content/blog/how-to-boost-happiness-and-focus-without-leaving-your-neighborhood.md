@@ -12,8 +12,7 @@ original_title = "Utiliser les balades dans la nature pour réussir davantage da
 source_medium = "https://medium.com/@phenrysay/530aad8e0ca9"
 +++
 
-![Photo by Henry Be](https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjB3YWxrcyUyMHdlbGwtYmVpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzA3MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Focus Without Leaving Your Neighborhood")
-*How to Boost Happiness and Focus Without Leaving Your Neighborhood - Photo by [Henry Be](https://unsplash.com/@henry_be) on [Unsplash](https://unsplash.com/photos/orange-flowers-IicyiaPYGGI)*
+{{< figure src="https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjB3YWxrcyUyMHdlbGwtYmVpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzA3MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Orange flowers" title="How to Boost Happiness and Focus Without Leaving Your Neighborhood" caption="How to Boost Happiness and Focus Without Leaving Your Neighborhood - Photo by [Henry Be](https://unsplash.com/@henry_be) on [Unsplash](https://unsplash.com/photos/orange-flowers-IicyiaPYGGI)" >}}
 
 When was the last time you took a walk in nature—not just to get somewhere, but to really be there? Many people see a walk as just a way to stretch their legs or pass the time. But what if every walk could become a powerful tool to improve your happiness, well-being, and even your success?
 
@@ -25,10 +24,7 @@ You can choose to be fully aware, noticing the details: the way the leaves move,
 
 But there’s another way. You can use every walk as a lever to lift yourself up. By observing and listening to everything around you, you feed your mind with positive energy. This opens you up to wonder and joy, making you even more present. It’s a virtuous cycle—the opposite of the downward spiral.
 
-![Pink toned thoughts on a hike —
-Everything comes in waves,
-even mountains.](https://images.unsplash.com/photo-1500964757637-c85e8a162699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuYXR1cmUlMjB3YWxrcyUyMHdlbGwtYmVpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzA3MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Focus Without Leaving Your Neighborhood")
-*How to Boost Happiness and Focus Without Leaving Your Neighborhood - Photo by [Simon Berger](https://unsplash.com/@simon_berger) on [Unsplash](https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c)*
+{{< figure src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuYXR1cmUlMjB3YWxrcyUyMHdlbGwtYmVpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzA3MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pink toned thoughts on a hike — Everything comes in waves, even mountains." title="How to Boost Happiness and Focus Without Leaving Your Neighborhood" caption="How to Boost Happiness and Focus Without Leaving Your Neighborhood - Photo by [Simon Berger](https://unsplash.com/@simon_berger) on [Unsplash](https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c)" >}}
 
 > *“Adopt the pace of nature: her secret is patience.”*  
 > — Ralph Waldo Emerson
@@ -46,8 +42,7 @@ Ask yourself: How can I get outside more often? How can I use nature as a suppor
 > *“In every walk with nature one receives far more than he seeks.”*  
 > — John Muir
 
-![Alone in the unspoilt wilderness](https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjB3YWxrcyUyMHdlbGwtYmVpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzA3MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Boost Happiness and Focus Without Leaving Your Neighborhood")
-*How to Boost Happiness and Focus Without Leaving Your Neighborhood - Photo by [Urban Vintage](https://unsplash.com/@urban_vintage) on [Unsplash](https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4)*
+{{< figure src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjB3YWxrcyUyMHdlbGwtYmVpbmclMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzQ5MzA3MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alone in the unspoilt wilderness" title="How to Boost Happiness and Focus Without Leaving Your Neighborhood" caption="How to Boost Happiness and Focus Without Leaving Your Neighborhood - Photo by [Urban Vintage](https://unsplash.com/@urban_vintage) on [Unsplash](https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4)" >}}
 
 Creativity often comes from connecting two things that didn’t seem related before. Walking in nature gives your mind space to make these connections. It’s a simple exercise, but it’s one of the most important things you can do for your personal growth and the way you move forward in life.
 

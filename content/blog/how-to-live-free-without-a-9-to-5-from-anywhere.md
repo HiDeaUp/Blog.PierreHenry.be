@@ -12,8 +12,7 @@ original_title = "Vivre LIBRE : Je t'explique COMMENT devenir INDÉPENDANT"
 source_medium = "https://medium.com/@phenrysay/fd8f9003c925"
 +++
 
-![Design smartphone definition](https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmRlcGVuZGVuY2UlMjBsaWZlc3R5bGUlMjBkZXNpZ24lMjBmcmVlZG9tfGVufDB8MHx8fDE3NDkzMjM1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Free Without a 9-to-5 (From Anywhere)")
-*How to Live Free Without a 9-to-5 (From Anywhere) - Photo by [Edho Pratama](https://unsplash.com/@edhogilangpratama) on [Unsplash](https://unsplash.com/photos/close-up-photo-black-android-smartphone-T6fDN60bMWY)*
+{{< figure src="https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmRlcGVuZGVuY2UlMjBsaWZlc3R5bGUlMjBkZXNpZ24lMjBmcmVlZG9tfGVufDB8MHx8fDE3NDkzMjM1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Design smartphone definition" title="How to Live Free Without a 9-to-5 (From Anywhere)" caption="How to Live Free Without a 9-to-5 (From Anywhere) - Photo by [Edho Pratama](https://unsplash.com/@edhogilangpratama) on [Unsplash](https://unsplash.com/photos/close-up-photo-black-android-smartphone-T6fDN60bMWY)" >}}
 
 Living freely and well is something most people want. For me, it’s always been the goal: to have the freedom to design my days, plan my mornings, afternoons, and evenings, and manage my own time. Sure, it takes more organization, but not having a regular 9-to-5 job is worth it. I remember those days—working from 7 a.m. to 10 p.m. as a senior lead engineer. The pay was good, but the hours were so long that, in the end, my salary didn’t feel that great. It’s easy to lose sight of how much time you give away for money.
 
@@ -23,8 +22,7 @@ But here’s the big question: How do you live freely and well? The truth is, yo
 
 So, how do you make money? By selling what you know—your skills, your know-how. Think about why people call you, why your friends or family ask for your help. Maybe you’re the go-to person for motivation, coaching, tech help, reading, or analyzing tricky problems. For example, my partner is great at understanding complex texts. When I was doing my Master’s in data science, I’d ask her to help me figure out confusing assignments. She could always see what the professor wanted, even when the instructions were vague. Maybe you have a talent like that.
 
-![High-impact designs for influencers > https://creativemarket.com/NordWood](https://images.unsplash.com/photo-1506097425191-7ad538b29cef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmRlcGVuZGVuY2UlMjBsaWZlc3R5bGUlMjBkZXNpZ24lMjBmcmVlZG9tfGVufDB8MHx8fDE3NDkzMjM1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Free Without a 9-to-5 (From Anywhere)")
-*How to Live Free Without a 9-to-5 (From Anywhere) - Photo by [NordWood Themes](https://unsplash.com/@nordwood) on [Unsplash](https://unsplash.com/photos/silver-laptop-computer-with-assorted-logo-screengrab-ubIWo074QlU)*
+{{< figure src="https://images.unsplash.com/photo-1506097425191-7ad538b29cef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmRlcGVuZGVuY2UlMjBsaWZlc3R5bGUlMjBkZXNpZ24lMjBmcmVlZG9tfGVufDB8MHx8fDE3NDkzMjM1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="High-impact designs for influencers > https://creativemarket.com/NordWood" title="How to Live Free Without a 9-to-5 (From Anywhere)" caption="How to Live Free Without a 9-to-5 (From Anywhere) - Photo by [NordWood Themes](https://unsplash.com/@nordwood) on [Unsplash](https://unsplash.com/photos/silver-laptop-computer-with-assorted-logo-screengrab-ubIWo074QlU)" >}}
 
 You can help others, or even create a course about your skill. Test your idea by offering a course on Udemy, YouTube, or another platform. Start small, and step by step, you’ll get going. But here’s the best advice I can give: do one thing at a time. Don’t spread yourself too thin or get distracted by what other people are doing online. Focus on one thing. If it doesn’t work, you can switch, but always do one thing at a time. Focus pays off. Finish what you start. If you never finish, you’ll never know if your idea could have worked.
 
@@ -40,9 +38,7 @@ Life is short. Life doesn’t wait. It’s like a train that never stops. Jump o
 > *“Don’t wait. The time will never be just right.”*  
 > — Napoleon Hill
 
-![Scrabble tiles and smartphone. 
-More awesome freebies here: https://firmbee.com/freebiesun](https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmRlcGVuZGVuY2UlMjBsaWZlc3R5bGUlMjBkZXNpZ24lMjBmcmVlZG9tfGVufDB8MHx8fDE3NDkzMjM1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Free Without a 9-to-5 (From Anywhere)")
-*How to Live Free Without a 9-to-5 (From Anywhere) - Photo by [Firmbee.com](https://unsplash.com/@firmbee) on [Unsplash](https://unsplash.com/photos/person-writing-on-white-paper-gcsNOsPEXfs)*
+{{< figure src="https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmRlcGVuZGVuY2UlMjBsaWZlc3R5bGUlMjBkZXNpZ24lMjBmcmVlZG9tfGVufDB8MHx8fDE3NDkzMjM1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Scrabble tiles and smartphone. More awesome freebies here: https://firmbee.com/freebiesun" title="How to Live Free Without a 9-to-5 (From Anywhere)" caption="How to Live Free Without a 9-to-5 (From Anywhere) - Photo by [Firmbee.com](https://unsplash.com/@firmbee) on [Unsplash](https://unsplash.com/photos/person-writing-on-white-paper-gcsNOsPEXfs)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Le Quality Time. Comment profiter d’une vie de qualité ?"
 source_medium = "https://medium.com/@phenrysay/d7325b68f480"
 +++
 
-![Photo by Marcelo Machry](https://images.unsplash.com/photo-1653355564026-8eddc0cd0f92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxxdWFsaXR5JTIwdGltZSUyMGxpZmUlMjBiYWxhbmNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjAxNTQxNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life More Without Wasting Your Time")
-*How to Enjoy Life More Without Wasting Your Time - Photo by [Marcelo Machry](https://unsplash.com/@marcelo_machry) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-beach-qWApzxOqRKc)*
+{{< figure src="https://images.unsplash.com/photo-1653355564026-8eddc0cd0f92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxxdWFsaXR5JTIwdGltZSUyMGxpZmUlMjBiYWxhbmNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjAxNTQxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A stack of rocks sitting on top of a beach" title="How to Enjoy Life More Without Wasting Your Time" caption="How to Enjoy Life More Without Wasting Your Time - Photo by [Marcelo Machry](https://unsplash.com/@marcelo_machry) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-beach-qWApzxOqRKc)" >}}
 
 Have you ever noticed how easy it is to let your day slip away, scattered between notifications, endless scrolling, and half-hearted conversations? There’s a simple idea that can change the way you experience your life: quality time. Not just any time, but moments when you are fully present, focused, and truly alive in what you’re doing.
 
@@ -25,8 +24,7 @@ I often find myself in a café, enjoying the warmth of a coffee and the gentle b
 
 There’s even a Wikipedia article about “quality time” that explains how important it is to aim for these moments. The key is to protect this time fiercely. Treat it as precious, because it is. You won’t be able to have quality time all day, every day, but even a small window can make a big difference.
 
-![Balance](https://images.unsplash.com/photo-1567848003167-872407c14030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxxdWFsaXR5JTIwdGltZSUyMGxpZmUlMjBiYWxhbmNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjAxNTQxNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life More Without Wasting Your Time")
-*How to Enjoy Life More Without Wasting Your Time - Photo by [Michaela J](https://unsplash.com/@michaelafreshideas) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-balance-stone-during-daytime-TDNysH7vlds)*
+{{< figure src="https://images.unsplash.com/photo-1567848003167-872407c14030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxxdWFsaXR5JTIwdGltZSUyMGxpZmUlMjBiYWxhbmNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjAxNTQxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Balance" title="How to Enjoy Life More Without Wasting Your Time" caption="How to Enjoy Life More Without Wasting Your Time - Photo by [Michaela J](https://unsplash.com/@michaelafreshideas) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-balance-stone-during-daytime-TDNysH7vlds)" >}}
 
 For me, quality time often means working on software projects, since I’m a senior developer. But it could be anything for you—a walk, reading a book, or simply enjoying a coffee while learning something new. The important thing is to block out this time in your calendar. Make it a non-negotiable appointment with yourself.
 
@@ -44,8 +42,7 @@ It might sound simple, maybe even a bit obvious. But try it. Give yourself ten o
 
 ---
 
-![Zen stones shine in the sun on the shores of Lake Superior.](https://images.unsplash.com/photo-1657864194386-fb709c70021a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxxdWFsaXR5JTIwdGltZSUyMGxpZmUlMjBiYWxhbmNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjAxNTQxNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life More Without Wasting Your Time")
-*How to Enjoy Life More Without Wasting Your Time - Photo by [Brad Switzer](https://unsplash.com/@mintchap) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-on-a-beach-DZ9L_gnOXzE)*
+{{< figure src="https://images.unsplash.com/photo-1657864194386-fb709c70021a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxxdWFsaXR5JTIwdGltZSUyMGxpZmUlMjBiYWxhbmNlJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjAxNTQxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Zen stones shine in the sun on the shores of Lake Superior." title="How to Enjoy Life More Without Wasting Your Time" caption="How to Enjoy Life More Without Wasting Your Time - Photo by [Brad Switzer](https://unsplash.com/@mintchap) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-on-a-beach-DZ9L_gnOXzE)" >}}
 
 ## Key Takeaways
 

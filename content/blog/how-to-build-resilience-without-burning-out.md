@@ -12,8 +12,7 @@ original_title = "BULLE D'OXYGÈNE: COMMENT RETROUVER TON SOUFFLE & TA JOIE DE V
 source_medium = "https://medium.com/@phenrysay/2bb9ca4c95ba"
 +++
 
-![scrabble tiles, tiles, scrabble, white background, letters, lettering, typography, wood tiles, wooden tiles, words, phrases, love, laugh, live, love laugh live, lifestyle, attitude, good attitude, priorities, yolo, carpe diem, seize the day, carpe momentum, seize the moment, love life, live life, mindfulness, enjoyment, enjoy yourself, pleasure, joy, delight, entertainment, amusement, diversion, recreation, relaxation, comfort, relief, happiness, merriment, fun, blessing, favour, favor, gratification,](https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwd2VsbGJlaW5nJTIwam95JTIwb2YlMjBsaWZlfGVufDB8MHx8fDE3NTYzMzk2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Resilience Without Burning Out")
-*How to Build Resilience Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)*
+{{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyZXNpbGllbmNlJTIwd2VsbGJlaW5nJTIwam95JTIwb2YlMjBsaWZlfGVufDB8MHx8fDE3NTYzMzk2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Build Resilience Without Burning Out" caption="How to Build Resilience Without Burning Out - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
 Resilience is not just about bouncing back from setbacks. It is the quiet force that keeps you moving toward what you want, step by step, even when the results are not immediate. Being resilient means believing in your goal so much that you keep going, brick by brick, word by word, even when you are not sure if it will work out.
 
@@ -23,8 +22,7 @@ What really pays off is consistency. Doing a little bit every day, knowing exact
 
 It is important to know why you are doing what you do. Set a goal for the week. Maybe you want to finish a chapter, start a course, or reach a certain number of views. Even if you are not sure if your idea is good, do it anyway. You can always adjust and improve as you go. The key is to start and keep moving.
 
-![Young woman in the Anza Borrego Desert.](https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwd2VsbGJlaW5nJTIwam95JTIwb2YlMjBsaWZlfGVufDB8MHx8fDE3NTYzMzk2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Resilience Without Burning Out")
-*How to Build Resilience Without Burning Out - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)*
+{{< figure src="https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZXNpbGllbmNlJTIwd2VsbGJlaW5nJTIwam95JTIwb2YlMjBsaWZlfGVufDB8MHx8fDE3NTYzMzk2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Young woman in the Anza Borrego Desert." title="How to Build Resilience Without Burning Out" caption="How to Build Resilience Without Burning Out - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)" >}}
 
 There is no better time to act than now. Waiting for the perfect moment is a trap. The future is uncertain, and you might have even less time later. The best time to start is today. Time will not magically appear. You have to make it. It is a bit like money. We think we will have more later, but expenses grow too. The best time to invest in yourself or spend on something important is now.
 
@@ -42,8 +40,7 @@ But if you want to turn your passion into something more, think about how you ca
 
 In the end, everyone wants a life and a job that feels good, where you are happy and fulfilled. If you can make money from it, even better. The real secret is to start now, not later. Look at your week, set a goal, and take the first step today. Question yourself, adjust as you go, and keep building, one small action at a time.
 
-![A sign on the wall of Konjed Cafe](https://images.unsplash.com/photo-1579542118150-10ecdf5a78dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwd2VsbGJlaW5nJTIwam95JTIwb2YlMjBsaWZlfGVufDB8MHx8fDE3NTYzMzk2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Resilience Without Burning Out")
-*How to Build Resilience Without Burning Out - Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121) on [Unsplash](https://unsplash.com/photos/red-and-white-stop-sign-v3SJShEjoQI)*
+{{< figure src="https://images.unsplash.com/photo-1579542118150-10ecdf5a78dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZXNpbGllbmNlJTIwd2VsbGJlaW5nJTIwam95JTIwb2YlMjBsaWZlfGVufDB8MHx8fDE3NTYzMzk2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign on the wall of Konjed Cafe" title="How to Build Resilience Without Burning Out" caption="How to Build Resilience Without Burning Out - Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121) on [Unsplash](https://unsplash.com/photos/red-and-white-stop-sign-v3SJShEjoQI)" >}}
 
 ---
 

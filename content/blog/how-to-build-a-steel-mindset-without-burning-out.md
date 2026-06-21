@@ -13,8 +13,7 @@ source_medium = "https://medium.com/@phenrysay/394e81664259"
 source_youtube = "https://www.youtube.com/watch?v=9hNuvd9OiVs"
 +++
 
-![Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background](https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzY4MjE4NTUzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Steel Mindset Without Burning Out")
-*How to Build a Steel Mindset Without Burning Out - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)*
+{{< figure src="https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzY4MjE4NTUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background" title="How to Build a Steel Mindset Without Burning Out" caption="How to Build a Steel Mindset Without Burning Out - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)" >}}
 
 We all have those days when it feels like nothing works. You try one thing after another, hoping for a breakthrough, but you end up right where you started. It’s easy to get discouraged and start thinking, “When will I finally get the results I want?” That’s the moment when your motivation can start to slip away.
 
@@ -38,8 +37,7 @@ When something doesn’t go as planned, ask yourself, “What can I learn from t
 > 
 > —Albert Einstein
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzY4MjE4NTUzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Steel Mindset Without Burning Out")
-*How to Build a Steel Mindset Without Burning Out - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzY4MjE4NTUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Build a Steel Mindset Without Burning Out" caption="How to Build a Steel Mindset Without Burning Out - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 So, how do you actually plan your days to stay productive? Here’s what works for me:
 
@@ -63,8 +61,7 @@ When things go wrong, don’t beat yourself up. Instead, look for the lesson. Wh
 
 Consistency is key. Even small actions, done regularly, add up over time. Each day counts, and each step brings you closer to your goals.
 
-![Photo by 0xk](https://images.unsplash.com/photo-1622988766397-6679659b5e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzY4MjE4NTUzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a Steel Mindset Without Burning Out")
-*How to Build a Steel Mindset Without Burning Out - Photo by [0xk](https://unsplash.com/@0xk) on [Unsplash](https://unsplash.com/photos/text-8wUOqMhNzBo)*
+{{< figure src="https://images.unsplash.com/photo-1622988766397-6679659b5e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHBsYW5uaW5nJTIwbWluZHNldHxlbnwwfDB8fHwxNzY4MjE4NTUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Text" title="How to Build a Steel Mindset Without Burning Out" caption="How to Build a Steel Mindset Without Burning Out - Photo by [0xk](https://unsplash.com/@0xk) on [Unsplash](https://unsplash.com/photos/text-8wUOqMhNzBo)" >}}
 
 > *Don’t put off until tomorrow what you can do today. Every day matters, and every day is a chance to build something great.*
 > 

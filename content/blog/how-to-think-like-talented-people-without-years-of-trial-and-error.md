@@ -12,8 +12,7 @@ original_title = "Les 7 habitudes que les gens talentueux possèdent"
 source_medium = "https://medium.com/@phenrysay/7800c9911fdd"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwdGFsZW50ZWQlMjBwZW9wbGUlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTUzODQ1ODB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Like Talented People Without Years of Trial and Error")
-*How to Think Like Talented People Without Years of Trial and Error - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)*
+{{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaGFiaXRzJTIwdGFsZW50ZWQlMjBwZW9wbGUlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTUzODQ1ODB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Think Like Talented People Without Years of Trial and Error" caption="How to Think Like Talented People Without Years of Trial and Error - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
 After nearly a decade spent reading a staggering number of biographies—enough to make anyone’s head spin—I’ve noticed clear patterns among the world’s most talented and successful people. These aren’t just random traits, but real habits that keep showing up, no matter the person’s background or field. Let’s break down the seven habits that keep coming up, and see how you can use them in your own life.
 
@@ -31,8 +30,7 @@ Reading is a habit that comes up again and again. Books calm the mind, open new 
 
 ## 4. Taking Responsibility
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwdGFsZW50ZWQlMjBwZW9wbGUlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTUzODQ1ODB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Like Talented People Without Years of Trial and Error")
-*How to Think Like Talented People Without Years of Trial and Error - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)*
+{{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFiaXRzJTIwdGFsZW50ZWQlMjBwZW9wbGUlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTUzODQ1ODB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Think Like Talented People Without Years of Trial and Error" caption="How to Think Like Talented People Without Years of Trial and Error - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 Here’s a big one: talented people put the blame on themselves, not others. Instead of saying, “I’m poor because of my country,” they ask, “What can I do about it?” This habit of self-responsibility leads to real change. If you’re late to a meeting, don’t blame traffic—ask what you can do to be on time next time. Blaming others keeps you stuck; taking responsibility helps you grow.
 
@@ -57,8 +55,7 @@ Talented people don’t get stuck in indecision. When faced with a choice, they 
 > _Failure is simply the opportunity to begin again, this time more intelligently._
 > — Henry Ford
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, fail your way to success, persevere, don't give up, try again, get up, move on, keep innovating,  ](https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwdGFsZW50ZWQlMjBwZW9wbGUlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTUzODQ1ODB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Think Like Talented People Without Years of Trial and Error")
-*How to Think Like Talented People Without Years of Trial and Error - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)*
+{{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwdGFsZW50ZWQlMjBwZW9wbGUlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NTUzODQ1ODB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Think Like Talented People Without Years of Trial and Error" caption="How to Think Like Talented People Without Years of Trial and Error - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 ## Enjoying the Journey
 

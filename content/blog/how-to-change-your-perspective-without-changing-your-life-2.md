@@ -12,8 +12,7 @@ original_title = "Comment la perception peut te tirer vers le bas"
 source_medium = "https://medium.com/@phenrysay/d1ac9173239f"
 +++
 
-![…breathe! For a full size digital copy (6000x4000px RAW+JPG) of this file, or a high quality print, please contact me via instagram: @timothy.j.g, or email: tim@goedhart-lin.nl That file would be free to use for any means except direct reselling (copywrite is included in metadata). When using this free image online: please tag, credit and if you want, follow me on Instagram.](https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTM1NDgyNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Perspective Without Changing Your Life")
-*How to Change Your Perspective Without Changing Your Life - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)*
+{{< figure src="https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTM1NDgyNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe neon signage" title="How to Change Your Perspective Without Changing Your Life" caption="How to Change Your Perspective Without Changing Your Life - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)" >}}
 
 Have you ever noticed how changing your perspective can completely change your experience? It's like putting on a different pair of glasses and suddenly, the world looks new. Everything we perceive is tied to who we are—our personality, our upbringing, and especially our past experiences. The same event can trigger totally different reactions in different people, simply because our values and backgrounds are not the same.
 
@@ -25,8 +24,7 @@ Let me share a personal story. When I go to bed late and wake up much later than
 
 For someone else, these things might not matter at all. Maybe you cross the street outside the crosswalk and a car honks at you. One person might feel attacked and upset, while another might just see it as someone trying to keep them safe. There are endless ways to interpret the same situation.
 
-![Photo by Alisa Anton](https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTM1NDgyNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Perspective Without Changing Your Life")
-*How to Change Your Perspective Without Changing Your Life - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)*
+{{< figure src="https://images.unsplash.com/photo-1483095348487-53dbf97d8d5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJjZXB0aW9uJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTM1NDgyNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of gel candle on board beside pillow u_z0X yrJIE" title="How to Change Your Perspective Without Changing Your Life" caption="How to Change Your Perspective Without Changing Your Life - Photo by [Alisa Anton](https://unsplash.com/@alisaanton) on [Unsplash](https://unsplash.com/photos/photo-of-gel-candle-on-board-beside-pillow-u_z0X-yrJIE)" >}}
 
 ### How We React Shapes Our World
 
@@ -44,8 +42,7 @@ Sometimes, you have to ask yourself: what can I do right now to solve the obviou
 
 ### Priorities and Letting Go
 
-![Worthy of Love | Instagram: @timmossholder](https://images.unsplash.com/photo-1508175749578-259ded3db070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTM1NDgyNXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Change Your Perspective Without Changing Your Life")
-*How to Change Your Perspective Without Changing Your Life - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/you-are-worthy-of-love-sign-beside-tree-and-road-SR8ByN6xY3k)*
+{{< figure src="https://images.unsplash.com/photo-1508175749578-259ded3db070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwbWluZHNldCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0OTM1NDgyNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Worthy of Love | Instagram: @timmossholder" title="How to Change Your Perspective Without Changing Your Life" caption="How to Change Your Perspective Without Changing Your Life - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/you-are-worthy-of-love-sign-beside-tree-and-road-SR8ByN6xY3k)" >}}
 
 There will always be things we want to do more of, or things we wish we could perfect. But sometimes, the best thing is to let go of the need for everything to be just right and focus on what really matters. Otherwise, our own perception becomes a ball and chain we drag around, stopping us from moving forward.
 

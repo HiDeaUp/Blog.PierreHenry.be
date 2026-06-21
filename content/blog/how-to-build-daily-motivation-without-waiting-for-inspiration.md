@@ -12,8 +12,7 @@ original_title = "Motivation, temps, argent : le cercle vertueux que tu peux lan
 source_medium = "https://medium.com/@phenrysay/035494818ec8"
 +++
 
-![audiobook, Jim Rohn](https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTE0NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Motivation Without Waiting for Inspiration")
-*How to Build Daily Motivation Without Waiting for Inspiration - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)*
+{{< figure src="https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTE0NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="audiobook, Jim Rohn" title="How to Build Daily Motivation Without Waiting for Inspiration" caption="How to Build Daily Motivation Without Waiting for Inspiration - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)" >}}
 
 Motivation is the fuel that gets us started—whether it’s launching a new project, investing money, or simply investing in ourselves. But what if motivation doesn’t come naturally? What if you wake up on a Saturday morning, planning to go to the market, invest, buy a book, or just clean your home, and you just can’t get out of bed? The alarm rings, it’s 8, 9, 10, even 11 a.m., and you’re still under the covers, feeling like nothing is going right.
 
@@ -35,8 +34,7 @@ The less effort it takes to start something, the more likely you are to do it. F
 
 Habits are great, but even with good habits, motivation can fade. That’s why it’s important to remove as many obstacles as possible. Set up your workspace the night before, lay out your clothes, automate anything you can.
 
-![Photo by Dania Shaeeb](https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTE0NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Motivation Without Waiting for Inspiration")
-*How to Build Daily Motivation Without Waiting for Inspiration - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)*
+{{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTE0NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Build Daily Motivation Without Waiting for Inspiration" caption="How to Build Daily Motivation Without Waiting for Inspiration - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
 ## Let There Be Light
 
@@ -64,8 +62,7 @@ Success isn’t about chasing after something outside of yourself. It’s about 
 
 ## Know Yourself (and Don’t Be Afraid to Change)
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTE0NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Daily Motivation Without Waiting for Inspiration")
-*How to Build Daily Motivation Without Waiting for Inspiration - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcHJvZHVjdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTE0NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Build Daily Motivation Without Waiting for Inspiration" caption="How to Build Daily Motivation Without Waiting for Inspiration - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Sometimes we do things that aren’t really us, just because of our surroundings or the people around us. Your environment and the people you spend time with shape your vision and your motivation. That’s why it’s so important to create a space that lifts you up, not drags you down.
 

@@ -12,8 +12,7 @@ original_title = "Les Principes & Réalité de la Vie 🚀"
 source_medium = "https://medium.com/@phenrysay/ecff6540497f"
 +++
 
-![Photo by Alex Sheldon](https://images.unsplash.com/photo-1697665387559-253e7a645e96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHJpbmNpcGxlcyUyMGh1bWFuJTIwY29ubmVjdGlvbiUyMHNtYWxsJTIwZ2VzdHVyZXN8ZW58MHwwfHx8MTc1NjYzNTc1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Show You Care Without Saying Much")
-*How to Show You Care Without Saying Much - Photo by [Alex Sheldon](https://unsplash.com/@slavewire) on [Unsplash](https://unsplash.com/photos/a-couple-of-people-holding-hands-over-each-other-4kwH0v1DhgA)*
+{{< figure src="https://images.unsplash.com/photo-1697665387559-253e7a645e96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwcHJpbmNpcGxlcyUyMGh1bWFuJTIwY29ubmVjdGlvbiUyMHNtYWxsJTIwZ2VzdHVyZXN8ZW58MHwwfHx8MTc1NjYzNTc1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A couple of people holding hands over each other" title="How to Show You Care Without Saying Much" caption="How to Show You Care Without Saying Much - Photo by [Alex Sheldon](https://unsplash.com/@slavewire) on [Unsplash](https://unsplash.com/photos/a-couple-of-people-holding-hands-over-each-other-4kwH0v1DhgA)" >}}
 
 Have you ever noticed how often people ask, “How are you?” It’s such a simple question, yet it carries a lot of meaning. Most of the time, we answer with a quick “I’m fine,” even if things aren’t going well. We do this because we don’t want to show our problems or bring negativity into the conversation. Still, asking someone how they are shows you care. It’s a sign that you’re paying attention and that you value the person in front of you.
 
@@ -27,8 +26,7 @@ Recently, I started reading a book about Sweden and its culture. It’s fascinat
 
 There’s another book I want to read about Japanese culture and well-being. It’s a big book, so I haven’t borrowed it yet, but I’m sure it will be just as interesting. These books make me think about how our surroundings affect our mood and happiness.
 
-![Photo by Javier González Fotógrafo](https://images.unsplash.com/photo-1713810833936-019909cf225f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHJpbmNpcGxlcyUyMGh1bWFuJTIwY29ubmVjdGlvbiUyMHNtYWxsJTIwZ2VzdHVyZXN8ZW58MHwwfHx8MTc1NjYzNTc1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Show You Care Without Saying Much")
-*How to Show You Care Without Saying Much - Photo by [Javier González Fotógrafo](https://unsplash.com/@livingcolortj) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-person-holding-another-persons-hand-KYwx3DFDCkQ)*
+{{< figure src="https://images.unsplash.com/photo-1713810833936-019909cf225f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwcHJpbmNpcGxlcyUyMGh1bWFuJTIwY29ubmVjdGlvbiUyMHNtYWxsJTIwZ2VzdHVyZXN8ZW58MHwwfHx8MTc1NjYzNTc1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a person holding another persons hand" title="How to Show You Care Without Saying Much" caption="How to Show You Care Without Saying Much - Photo by [Javier González Fotógrafo](https://unsplash.com/@livingcolortj) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-person-holding-another-persons-hand-KYwx3DFDCkQ)" >}}
 
 If you live in a polluted area, surrounded by negative people and poor-quality food, it’s hard to feel joyful. On the other hand, if your environment is pleasant and you spend time with positive people, you naturally feel better. Sometimes, the answer is as simple as moving to a new place or distancing yourself from negative influences. Some might call this selfish, but isn’t it also selfish for others to drag you down with their negativity?
 
@@ -49,8 +47,7 @@ Surround yourself with positive people. If you don’t know many, listen to insp
 > _If you always do what you’ve always done, you’ll always get what you’ve always got._
 > — Henry Ford
 
-![Photo by Tucker  Tangeman](https://images.unsplash.com/photo-1568977632218-e7727a83c2a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHJpbmNpcGxlcyUyMGh1bWFuJTIwY29ubmVjdGlvbiUyMHNtYWxsJTIwZ2VzdHVyZXN8ZW58MHwwfHx8MTc1NjYzNTc1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Show You Care Without Saying Much")
-*How to Show You Care Without Saying Much - Photo by [Tucker  Tangeman](https://unsplash.com/@thor1991) on [Unsplash](https://unsplash.com/photos/persons-left-hand-over-right-hand-SnXraH8PaQ4)*
+{{< figure src="https://images.unsplash.com/photo-1568977632218-e7727a83c2a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwcHJpbmNpcGxlcyUyMGh1bWFuJTIwY29ubmVjdGlvbiUyMHNtYWxsJTIwZ2VzdHVyZXN8ZW58MHwwfHx8MTc1NjYzNTc1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Persons left hand over right hand" title="How to Show You Care Without Saying Much" caption="How to Show You Care Without Saying Much - Photo by [Tucker Tangeman](https://unsplash.com/@thor1991) on [Unsplash](https://unsplash.com/photos/persons-left-hand-over-right-hand-SnXraH8PaQ4)" >}}
 
 > _Sometimes the smallest step in the right direction ends up being the biggest step of your life._
 > — Naeem Callaway

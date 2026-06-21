@@ -12,8 +12,7 @@ original_title = "MARKETING: Comment bien travailler le branding d’un produit 
 source_medium = "https://medium.com/@phenrysay/6bd0d3df9478"
 +++
 
-![Photographie faisant partie de la série de photographies "Letters" : Marketing](https://images.unsplash.com/photo-1696041757866-f19a8e46fab1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTYWFTJTIwYnJhbmRpbmclMjBtYXJrZXRpbmclMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU4MTYzMzIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a SaaS Brand People Love Without Burning Out")
-*How to Build a SaaS Brand People Love Without Burning Out - Photo by [Kim Menikh](https://unsplash.com/@grafiklink) on [Unsplash](https://unsplash.com/photos/the-word-marketing-written-in-white-letters-on-a-black-background-pQPGiRmcbhI)*
+{{< figure src="https://images.unsplash.com/photo-1696041757866-f19a8e46fab1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxTYWFTJTIwYnJhbmRpbmclMjBtYXJrZXRpbmclMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU4MTYzMzIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photographie faisant partie de la série de photographies &quot;Letters&quot; : Marketing" title="How to Build a SaaS Brand People Love Without Burning Out" caption="How to Build a SaaS Brand People Love Without Burning Out - Photo by [Kim Menikh](https://unsplash.com/@grafiklink) on [Unsplash](https://unsplash.com/photos/the-word-marketing-written-in-white-letters-on-a-black-background-pQPGiRmcbhI)" >}}
 
 Building a SaaS brand is a marathon, not a sprint.
 
@@ -33,8 +32,7 @@ When you do this, you’ll notice a drastic difference in how you share your mes
 
 Talk to your users. Interview them. Ask what they like, why they use your service, and why some don’t use it as often. There’s always a reason, even if they can’t put it into words. Your job as CEO and brand ambassador is to guess that reason, to dig deeper. If people don’t use your service, it means your brand or product isn’t strong enough yet.
 
-![Photo by Hank Paul](https://images.unsplash.com/photo-1645658043538-fc2bb1702cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTYWFTJTIwYnJhbmRpbmclMjBtYXJrZXRpbmclMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU4MTYzMzIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a SaaS Brand People Love Without Burning Out")
-*How to Build a SaaS Brand People Love Without Burning Out - Photo by [Hank Paul](https://unsplash.com/@henrypaulphotography) on [Unsplash](https://unsplash.com/photos/a-man-holding-a-book-that-says-designing-brand-identity-wKw5nxOxIZQ)*
+{{< figure src="https://images.unsplash.com/photo-1645658043538-fc2bb1702cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTYWFTJTIwYnJhbmRpbmclMjBtYXJrZXRpbmclMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU4MTYzMzIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man holding a book that says brand" title="How to Build a SaaS Brand People Love Without Burning Out" caption="How to Build a SaaS Brand People Love Without Burning Out - Photo by [Hank Paul](https://unsplash.com/@henrypaulphotography) on [Unsplash](https://unsplash.com/photos/a-man-holding-a-book-that-says-designing-brand-identity-wKw5nxOxIZQ)" >}}
 
 Think about the sound your computer makes when you turn on a Mac. That sound is unique to Apple. It’s instantly recognizable. Microsoft used to have the same effect with Windows in the 80s and 90s. Apple won that round, but the point is, you need to ask yourself: how can I be the best in my space?
 
@@ -51,8 +49,7 @@ My top competitor, for example, has users who are 100% hooked on their service. 
 
 Your job is to constantly ask yourself: how can I make my brand so inspiring that it becomes like a virus, spreading from person to person? You want people to say, “I use this service because I know these people are 100% dedicated.” Being devoted to your service, to your mission, to solving your users’ problems—that’s what sets you apart.
 
-![Photographie faisant partie de la série de photographies "Letters" : Marketing digital](https://images.unsplash.com/photo-1696041756040-c910a971f222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTYWFTJTIwYnJhbmRpbmclMjBtYXJrZXRpbmclMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU4MTYzMzIxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build a SaaS Brand People Love Without Burning Out")
-*How to Build a SaaS Brand People Love Without Burning Out - Photo by [Kim Menikh](https://unsplash.com/@grafiklink) on [Unsplash](https://unsplash.com/photos/the-words-marketing-and-digital-written-on-a-black-surface-07xmnjp5uvs)*
+{{< figure src="https://images.unsplash.com/photo-1696041756040-c910a971f222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxTYWFTJTIwYnJhbmRpbmclMjBtYXJrZXRpbmclMjBzdHJhdGVneXxlbnwwfDB8fHwxNzU4MTYzMzIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photographie faisant partie de la série de photographies &quot;Letters&quot; : Marketing digital" title="How to Build a SaaS Brand People Love Without Burning Out" caption="How to Build a SaaS Brand People Love Without Burning Out - Photo by [Kim Menikh](https://unsplash.com/@grafiklink) on [Unsplash](https://unsplash.com/photos/the-words-marketing-and-digital-written-on-a-black-surface-07xmnjp5uvs)" >}}
 
 > *People don’t buy what you do; they buy why you do it.*  
 > — Simon Sinek

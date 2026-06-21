@@ -12,8 +12,7 @@ original_title = "Pourquoi la prise de décisions peut être néfaste ?"
 source_medium = "https://medium.com/@phenrysay/9fdf7cfb4d54"
 +++
 
-![Photo by Paolo Chiabrando](https://images.unsplash.com/photo-1604785682543-5305d91e0163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbi1tYWtpbmclMjBtZW50YWwlMjBlbmVyZ3klMjBoZXNpdGF0aW9ufGVufDB8MHx8fDE3NTYwMDc1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Decisions Without Draining Your Energy")
-*How to Make Decisions Without Draining Your Energy - Photo by [Paolo Chiabrando](https://unsplash.com/@chiabra) on [Unsplash](https://unsplash.com/photos/white-and-black-road-sign-nJy3u_RzfMQ)*
+{{< figure src="https://images.unsplash.com/photo-1604785682543-5305d91e0163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkZWNpc2lvbi1tYWtpbmclMjBtZW50YWwlMjBlbmVyZ3klMjBoZXNpdGF0aW9ufGVufDB8MHx8fDE3NTYwMDc1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black road sign" title="How to Make Decisions Without Draining Your Energy" caption="How to Make Decisions Without Draining Your Energy - Photo by [Paolo Chiabrando](https://unsplash.com/@chiabra) on [Unsplash](https://unsplash.com/photos/white-and-black-road-sign-nJy3u_RzfMQ)" >}}
 
 Every day, we face countless choices. Sometimes we hesitate, unsure whether to buy that online course or those new shoes. This hesitation, this constant “maybe,” is more than just a small pause—it’s a reflection of doubt. When we say “maybe I’ll do this,” we’re not really committing. Often, we know what we want, but we don’t want to admit it, even to ourselves.
 
@@ -23,8 +22,7 @@ The Latin root of “decide” means “to cut off.” Once you make a decision,
 
 When you keep thinking about whether to buy that piece of jewelry, your entire day—and sometimes your whole life—starts to reflect that doubt. The most proactive thing you can do is to say, “Yes, I’ll buy it,” or “No, I won’t.” If you’re unsure, maybe it’s better not to buy it. Or, you can write it down in a notebook or a note-taking app, like putting it in the fridge for later. After a week, if you still want it, maybe it’s worth buying. But most of the time, if the desire fades, it was just a passing urge.
 
-!["Gran cabeza habitada". Krebs Helga.](https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbi1tYWtpbmclMjBtZW50YWwlMjBlbmVyZ3klMjBoZXNpdGF0aW9ufGVufDB8MHx8fDE3NTYwMDc1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Decisions Without Draining Your Energy")
-*How to Make Decisions Without Draining Your Energy - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)*
+{{< figure src="https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbi1tYWtpbmclMjBtZW50YWwlMjBlbmVyZ3klMjBoZXNpdGF0aW9ufGVufDB8MHx8fDE3NTYwMDc1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="&quot;Gran cabeza habitada&quot;. Krebs Helga." title="How to Make Decisions Without Draining Your Energy" caption="How to Make Decisions Without Draining Your Energy - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)" >}}
 
 This works for everything, even small choices like whether to drink kombucha or beer, eat out or cook at home, or use a food delivery service. Each hesitation eats up your time and energy—time you could spend on something more meaningful.
 
@@ -42,8 +40,7 @@ The fewer decisions you make, the better your decisions will be. When your brain
 > *“It is in your moments of decision that your destiny is shaped.”*  
 — Tony Robbins
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbi1tYWtpbmclMjBtZW50YWwlMjBlbmVyZ3klMjBoZXNpdGF0aW9ufGVufDB8MHx8fDE3NTYwMDc1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Decisions Without Draining Your Energy")
-*How to Make Decisions Without Draining Your Energy - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)*
+{{< figure src="https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbi1tYWtpbmclMjBtZW50YWwlMjBlbmVyZ3klMjBoZXNpdGF0aW9ufGVufDB8MHx8fDE3NTYwMDc1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word mind" title="How to Make Decisions Without Draining Your Energy" caption="How to Make Decisions Without Draining Your Energy - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)" >}}
 
 ---
 

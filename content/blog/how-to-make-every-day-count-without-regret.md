@@ -12,8 +12,7 @@ original_title = "Ce qu’il faut faire pour vivre chaque jour comme si c'était
 source_medium = "https://medium.com/@phenrysay/18da9633f8a1"
 +++
 
-![Don't Worry Be Happy](https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaXZpbmclMjBpbiUyMHRoZSUyMG1vbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTYwOTEzMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day Count Without Regret")
-*How to Make Every Day Count Without Regret - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)*
+{{< figure src="https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaXZpbmclMjBpbiUyMHRoZSUyMG1vbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTYwOTEzMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Don't Worry Be Happy" title="How to Make Every Day Count Without Regret" caption="How to Make Every Day Count Without Regret - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)" >}}
 
 Happiness is often found in the small pleasures of life. Feeling good and making the most of each moment is more important than we sometimes realize. Too often, we get stuck thinking about the past—what we didn’t do, missed opportunities, or frustrations. “If only I had taken that chance a year ago, I’d be somewhere else now.” But the truth is, the best time to take action and take control of your life is today. Not yesterday, not tomorrow—right now.
 
@@ -25,8 +24,7 @@ If that life suits you, that’s fine. But it’s even better to design a life t
 
 Living in the present is crucial. The past is locked away. If you stay stuck there, you’ll never move forward or feel good about yourself. Today is your chance to act and take control. And don’t forget to enjoy the little things. Don’t fall into the trap of always chasing after more. Success is good, but don’t look for it like it’s just another thing to collect. Instead, focus on becoming the kind of person who can succeed.
 
-![Photo by Maria Oswalt](https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaXZpbmclMjBpbiUyMHRoZSUyMG1vbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTYwOTEzMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day Count Without Regret")
-*How to Make Every Day Count Without Regret - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)*
+{{< figure src="https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaXZpbmclMjBpbiUyMHRoZSUyMG1vbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTYwOTEzMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow life printed balloon" title="How to Make Every Day Count Without Regret" caption="How to Make Every Day Count Without Regret - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)" >}}
 
 For example, yesterday I was enjoying a good flat white with almond milk and thinking about how, after moving from one city to another, even the price of coffee can make you pause. Sometimes, you hesitate to treat yourself, but you never know what tomorrow will bring. The best way to live a life you’re proud of is to move forward, enjoy the present, and remember that money comes and goes, but time and happiness are limited. Time is precious, and happiness is tied to how you use it.
 
@@ -46,8 +44,7 @@ Another thing I’ve learned is that life experiences are more valuable than mat
 > _If you can’t think, walk. If you think too much, walk. If you think badly, walk again._
 > — Jean Giono
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaXZpbmclMjBpbiUyMHRoZSUyMG1vbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTYwOTEzMHww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Every Day Count Without Regret")
-*How to Make Every Day Count Without Regret - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)*
+{{< figure src="https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaXZpbmclMjBpbiUyMHRoZSUyMG1vbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBhZHZpY2V8ZW58MHwwfHx8MTc1NTYwOTEzMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black happy card" title="How to Make Every Day Count Without Regret" caption="How to Make Every Day Count Without Regret - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)" >}}
 
 > _Have people you love near you, have freedom, do meaningful work, and spend on life experiences rather than material goods._
 > — Adapted from my own notes

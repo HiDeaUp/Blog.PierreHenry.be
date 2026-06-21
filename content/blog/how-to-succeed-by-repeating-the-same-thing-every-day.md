@@ -12,10 +12,7 @@ original_title = "La vie est une routine 🔂"
 source_medium = "https://medium.com/@phenrysay/c519fbc1f6d9"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, white background, wood, scrabble tiles, wood, words, lift, lower, repeat, weight training, pumping iron, fitness training, fitness, weights, barbell, dumbell, persistence, repetition, reps,
-
-](https://images.unsplash.com/photo-1594107208740-d9b7e8c8d9df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwcmVwZXRpdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNjI4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed by Repeating the Same Thing Every Day")
-*How to Succeed by Repeating the Same Thing Every Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-cdHXJDtnktU)*
+{{< figure src="https://images.unsplash.com/photo-1594107208740-d9b7e8c8d9df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwcmVwZXRpdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNjI4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Succeed by Repeating the Same Thing Every Day" caption="How to Succeed by Repeating the Same Thing Every Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-cdHXJDtnktU)" >}}
 
 ### The secret rhythm behind every achievement
 
@@ -31,8 +28,7 @@ This kind of storytelling distorts our sense of reality. As spectators, we only 
 
 I once wrote a note to myself with a single word that triggered a breakthrough: *Success is a process.* It really is. Step by step, you have to iterate. Nothing worthwhile happens overnight.
 
-![Hovering](https://images.unsplash.com/photo-1609838862173-7c3c5a121791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwcmVwZXRpdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNjI4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed by Repeating the Same Thing Every Day")
-*How to Succeed by Repeating the Same Thing Every Day - Photo by [Stripe Media](https://unsplash.com/@stripemedia) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-2-women-walking-on-the-street-LdxOdbEsUO8)*
+{{< figure src="https://images.unsplash.com/photo-1609838862173-7c3c5a121791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwcmVwZXRpdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNjI4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Hovering" title="How to Succeed by Repeating the Same Thing Every Day" caption="How to Succeed by Repeating the Same Thing Every Day - Photo by [Stripe Media](https://unsplash.com/@stripemedia) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-2-women-walking-on-the-street-LdxOdbEsUO8)" >}}
 
 Life is a routine of repetition. You have to be ready to pay the price for success. If a headline said, “The Pain It Took to Achieve This Incredible Success,” no one would want to read it. That’s why we see dreamy titles like, “How They Got 300,000 Visitors in Two Days,” but never the real story of the effort behind it.
 
@@ -48,8 +44,7 @@ It’s the same for success, and really, for anything in life. You have to pract
 
 ---
 
-![This photo was taken at the Detroit Body Garge located in Detroit, Michigan. This community gym’s mission is to be a vehicle of change through movement and community](https://images.unsplash.com/photo-1514994667787-b48ca37155f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwcmVwZXRpdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNjI4MXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Succeed by Repeating the Same Thing Every Day")
-*How to Succeed by Repeating the Same Thing Every Day - Photo by [Element5 Digital](https://unsplash.com/@element5digital) on [Unsplash](https://unsplash.com/photos/woman-using-jumping-rope-7QYd1VxLRbM)*
+{{< figure src="https://images.unsplash.com/photo-1514994667787-b48ca37155f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lJTIwcmVwZXRpdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjUxNjI4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="This photo was taken at the Detroit Body Garge located in Detroit, Michigan. This community gym’s mission is to be a vehicle of change through movement and community" title="How to Succeed by Repeating the Same Thing Every Day" caption="How to Succeed by Repeating the Same Thing Every Day - Photo by [Element5 Digital](https://unsplash.com/@element5digital) on [Unsplash](https://unsplash.com/photos/woman-using-jumping-rope-7QYd1VxLRbM)" >}}
 
 ## Key Takeaways
 

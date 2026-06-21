@@ -12,8 +12,7 @@ original_title = "Comment se sentir heureux sur demande 🥳"
 source_medium = "https://medium.com/@phenrysay/fd2562bfae2b"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtb29kJTIwYm9vc3RlcnMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDI5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happy Instantly Without Forcing Positivity")
-*How to Feel Happy Instantly Without Forcing Positivity - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtb29kJTIwYm9vc3RlcnMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDI5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Feel Happy Instantly Without Forcing Positivity" caption="How to Feel Happy Instantly Without Forcing Positivity - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 There are days when happiness feels like a distant memory. Maybe it’s a Monday morning, or you’ve just woken up and your energy is low. We all have moments when our spirits are flat and motivation is nowhere to be found. But what if you could generate positive energy and a sense of happiness, almost on command?
 
@@ -25,8 +24,7 @@ For example, I live in Australia. Sometimes, I’ll plan a trip to Brisbane or A
 
 If you do the same, you’ll notice a surge of motivation too. Giving yourself rewards is important. It helps you recharge and move forward. When you’re feeling down, think about something good that’s coming up, or remember a wonderful moment from your past. Visualize it. You can even create a vision board. Before I went to Iceland, I set my computer wallpaper to photos of Reykjavik and its famous cathedral. Every time I saw those images, I felt inspired and motivated to make the trip happen. Eventually, I did, and it was incredible.
 
-![Happy Heart Concept](https://images.unsplash.com/photo-1625416360482-1f219bf855ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtb29kJTIwYm9vc3RlcnMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDI5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happy Instantly Without Forcing Positivity")
-*How to Feel Happy Instantly Without Forcing Positivity - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/yellow-and-red-smiley-face-JHG8W-YYnpU)*
+{{< figure src="https://images.unsplash.com/photo-1625416360482-1f219bf855ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtb29kJTIwYm9vc3RlcnMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDI5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Concept" title="How to Feel Happy Instantly Without Forcing Positivity" caption="How to Feel Happy Instantly Without Forcing Positivity - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/yellow-and-red-smiley-face-JHG8W-YYnpU)" >}}
 
 We all deserve breaks. Sometimes we worry about the cost, but if you can afford it, don’t hold back. Life is unpredictable. Would you rather save money and have dull days, or spend a little more and fill your life with amazing memories? A life made up of many happy days is a happy life. So, treat yourself. Don’t deprive yourself too much. Spend less on things and more on experiences. Experiences bring more lasting joy and satisfaction.
 
@@ -42,8 +40,7 @@ The important thing is to keep moving toward your goals, one small step at a tim
 
 ---
 
-![Admiration | Instagram: @timmossholder](https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtb29kJTIwYm9vc3RlcnMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDI5Mnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Happy Instantly Without Forcing Positivity")
-*How to Feel Happy Instantly Without Forcing Positivity - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)*
+{{< figure src="https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtb29kJTIwYm9vc3RlcnMlMjBzZWxmLWNhcmV8ZW58MHwwfHx8MTc1NjUyMDI5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Admiration | Instagram: @timmossholder" title="How to Feel Happy Instantly Without Forcing Positivity" caption="How to Feel Happy Instantly Without Forcing Positivity - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)" >}}
 
 ## Key Takeaways
 

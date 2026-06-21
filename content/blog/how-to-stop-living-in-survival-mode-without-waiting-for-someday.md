@@ -12,8 +12,7 @@ original_title = "Déclic de vie : Comment passer du mode survie au mode épanou
 source_medium = "https://medium.com/@phenrysay/d4fc2f9534ea"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxODA5Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Living in Survival Mode Without Waiting for “Someday”")
-*How to Stop Living in Survival Mode Without Waiting for “Someday” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxODA5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Stop Living in Survival Mode Without Waiting for “Someday”" caption="How to Stop Living in Survival Mode Without Waiting for “Someday” - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 Have you ever noticed how easy it is to drift through your days, following routines that don’t really make you happy? We often organize our lives in ways that feel natural, but if we look closer, we might realize that our habits and daily structure aren’t serving us. Maybe you wake up late, hold onto habits that drain you, or stay in a job you dislike. The truth is, the answer to a better life is right in front of us. We could change things now, but we keep telling ourselves it’s not the right time.
 
@@ -23,8 +22,7 @@ It’s strange to expect a different life if we keep repeating the same actions.
 
 Of course, life will never be perfect. Our needs and dreams change over time. But by staying proactive and asking yourself, “What’s the best thing I can do right now?” you keep moving forward. Maybe what made you happy yesterday doesn’t work anymore. That’s okay. The real goal in life is simple: to feel happy and fulfilled.
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxODA5Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Living in Survival Mode Without Waiting for “Someday”")
-*How to Stop Living in Survival Mode Without Waiting for “Someday” - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxODA5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Stop Living in Survival Mode Without Waiting for “Someday”" caption="How to Stop Living in Survival Mode Without Waiting for “Someday” - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 The best way to become a better version of yourself is to question your habits and compare yourself only to who you were yesterday. Ask, “How can I make today better than yesterday?” By looking at your day, step by step, you’ll spot what went well and what could be improved. This is how you create better days, one after another.
 
@@ -40,8 +38,7 @@ Don’t compare yourself to others. Compare yourself to who you were yesterday. 
 
 If you want a better life, don’t put things off. The best moment to act is always now. Waiting for the “perfect” time is a trap—the perfect moment never comes. Start today. Invest in yourself and your happiness.
 
-![Photo by Lucas Chizzali](https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxODA5Nnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Living in Survival Mode Without Waiting for “Someday”")
-*How to Stop Living in Survival Mode Without Waiting for “Someday” - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)*
+{{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxODA5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Stop Living in Survival Mode Without Waiting for “Someday”" caption="How to Stop Living in Survival Mode Without Waiting for “Someday” - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ---
 

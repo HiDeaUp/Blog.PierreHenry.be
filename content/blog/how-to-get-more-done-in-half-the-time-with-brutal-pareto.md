@@ -12,8 +12,7 @@ original_title = "Loi de Pareto Brutale 💥"
 source_medium = "https://medium.com/@phenrysay/de0d624bc68a"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxQYXJldG8lMjBQcmluY2lwbGUlMjA4MCUyRjIwJTIwcnVsZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done in Half the Time With Brutal Pareto")
-*How to Get More Done in Half the Time With Brutal Pareto - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxQYXJldG8lMjBQcmluY2lwbGUlMjA4MCUyRjIwJTIwcnVsZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Get More Done in Half the Time With Brutal Pareto" caption="How to Get More Done in Half the Time With Brutal Pareto - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 The Pareto Principle, or the 80/20 rule, is often quoted: focus on the 20% of your efforts that bring 80% of your results. But what happens when you push this idea to the extreme? What if you only had a fraction of your usual time to get things done? That’s where the *Brutal Pareto* comes in—a way of working that forces you to cut the fluff, focus on the essential, and use time as your sharpest tool.
 
@@ -29,8 +28,7 @@ When you’re under pressure, you can’t afford to get lost in distractions. Yo
 
 Time is your most valuable resource. By always focusing on the 10% or 20% of tasks that matter most, you free up hours for other things. The more you do, the more you learn, and the better you get. Practice beats planning every time.
 
-![close up, bokeh, bible, new testament, christian, history, text, reading, bible study, devotions, christianity, scripture, Gospel of Mark, Mark, Synoptic Gospel, Gospel,](https://images.unsplash.com/photo-1717656695826-4e0f92b72ed2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxQYXJldG8lMjBQcmluY2lwbGUlMjA4MCUyRjIwJTIwcnVsZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done in Half the Time With Brutal Pareto")
-*How to Get More Done in Half the Time With Brutal Pareto - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-close-up-of-an-open-book-with-text-7A_Vcpx9xBI)*
+{{< figure src="https://images.unsplash.com/photo-1717656695826-4e0f92b72ed2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxQYXJldG8lMjBQcmluY2lwbGUlMjA4MCUyRjIwJTIwcnVsZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="close up, bokeh, bible, new testament, christian, history, text, reading, bible study, devotions, christianity, scripture, Gospel of Mark, Mark, Synoptic Gospel, Gospel," title="How to Get More Done in Half the Time With Brutal Pareto" caption="How to Get More Done in Half the Time With Brutal Pareto - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-close-up-of-an-open-book-with-text-7A_Vcpx9xBI)" >}}
 
 ## The Surprising Science of Quantity Over Quality
 
@@ -54,8 +52,7 @@ If you want to create the best online course, don’t spend months perfecting a 
 
 You’ll never have more time than you do right now. Life always fills up with new things—more work, more distractions, more excuses. Waiting for the perfect moment is a trap. Even if you only have 10 or 20 minutes a day, use them. Over a week, that’s more than two hours. Anyone can find that time if they really want to.
 
-![A handwritten warning notice, edged in red, which reads "strictly private" is displayed on a wall](https://images.unsplash.com/photo-1717349055908-b0aad350eafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxQYXJldG8lMjBQcmluY2lwbGUlMjA4MCUyRjIwJTIwcnVsZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done in Half the Time With Brutal Pareto")
-*How to Get More Done in Half the Time With Brutal Pareto - Photo by [Sue Winston](https://unsplash.com/@winniepix) on [Unsplash](https://unsplash.com/photos/a-sign-that-is-on-the-side-of-a-building-P3u7gSziuKc)*
+{{< figure src="https://images.unsplash.com/photo-1717349055908-b0aad350eafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxQYXJldG8lMjBQcmluY2lwbGUlMjA4MCUyRjIwJTIwcnVsZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU2MDE0Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A handwritten warning notice, edged in red, which reads &quot;strictly private&quot; is displayed on a wall" title="How to Get More Done in Half the Time With Brutal Pareto" caption="How to Get More Done in Half the Time With Brutal Pareto - Photo by [Sue Winston](https://unsplash.com/@winniepix) on [Unsplash](https://unsplash.com/photos/a-sign-that-is-on-the-side-of-a-building-P3u7gSziuKc)" >}}
 
 The key is to make it a habit, like brushing your teeth. You don’t skip it because you’re not motivated or don’t have time. It’s just part of your day. Treat your projects the same way. Build the habit, and you’ll see results.
 

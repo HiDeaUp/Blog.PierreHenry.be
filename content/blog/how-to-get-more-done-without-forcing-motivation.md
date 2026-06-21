@@ -12,8 +12,7 @@ original_title = "RÉUSSITE FACILE: CETTE STRATÉGIE DE RÉUSSITE QUE TU SOUS-ES
 source_medium = "https://medium.com/@phenrysay/50d7e8b2a999"
 +++
 
-![Do Something Great](https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1yZXdhcmQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTI3ODM1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done WITHOUT Forcing Motivation")
-*How to Get More Done WITHOUT Forcing Motivation - Photo by [Clark Tibbs](https://unsplash.com/@clarktibbs) on [Unsplash](https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI)*
+{{< figure src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1yZXdhcmQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTI3ODM1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Do Something Great" title="How to Get More Done WITHOUT Forcing Motivation" caption="How to Get More Done WITHOUT Forcing Motivation - Photo by [Clark Tibbs](https://unsplash.com/@clarktibbs) on [Unsplash](https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI)" >}}
 
 Have you ever noticed how much easier it is to finish something when there’s a reward waiting for you at the end? I want to share a simple strategy that keeps me motivated, especially when I’m close to finishing a project or a tough task. It’s all about giving yourself a reward—a real, tangible treat that you look forward to.
 
@@ -23,8 +22,7 @@ This principle works for bigger goals too. If I’m working on a long-term proje
 
 Deadlines are also key. Without a clear deadline, it’s too easy to keep putting things off. If you set a date—say, “I want to reach this result in X days”—the reward at the end feels real. It’s not just about the reward, but also about the urgency. For example, here in Australia, coffee shops close early, around 3 p.m. If I want my coffee, I need to finish my work before then. That’s another little push.
 
-![Motivational sign in the window of a boxing gym. ](https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1yZXdhcmQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTI3ODM1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done WITHOUT Forcing Motivation")
-*How to Get More Done WITHOUT Forcing Motivation - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)*
+{{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1yZXdhcmQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTI3ODM1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Get More Done WITHOUT Forcing Motivation" caption="How to Get More Done WITHOUT Forcing Motivation - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
 Some people use different rewards. Maybe after finishing a training session, they’ll have a cold beer—especially if you live somewhere hot and humid where beer is cheap and refreshing. For me, living in Australia, coffee is a big part of the culture. When I lived in Sydney, it was more about wine, like in France. You could have a glass of wine with friends at a restaurant. The key is to find a reward that fits your lifestyle and makes you happy.
 
@@ -40,8 +38,7 @@ So, if you want to stop procrastinating, try this: set a clear goal, give yourse
 > *“The environment you choose can either push you forward or hold you back.”*  
 > — Anonymous
 
-![Photo by Jeremy Beck](https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1yZXdhcmQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTI3ODM1M3ww&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done WITHOUT Forcing Motivation")
-*How to Get More Done WITHOUT Forcing Motivation - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)*
+{{< figure src="https://images.unsplash.com/photo-1507446933-4847a1d12823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1yZXdhcmQlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc0OTI3ODM1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Imagine text" title="How to Get More Done WITHOUT Forcing Motivation" caption="How to Get More Done WITHOUT Forcing Motivation - Photo by [Jeremy Beck](https://unsplash.com/@beckchileno) on [Unsplash](https://unsplash.com/photos/imagine-text-NtxkQvKikWs)" >}}
 
 ---
 

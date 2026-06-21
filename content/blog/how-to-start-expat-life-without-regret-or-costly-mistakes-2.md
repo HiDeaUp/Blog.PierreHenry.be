@@ -12,8 +12,7 @@ original_title = "VIE D'EXPAT / VÉRITÉS CHOC avant de faire le grand saut ?"
 source_medium = "https://medium.com/@phenrysay/0d80fcf6e8d2"
 +++
 
-![Photo by AJ](https://images.unsplash.com/photo-1753821945131-7edc841e2c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZW1vdGUlMjB3b3JrfGVufDB8MHx8fDE3NTU0MjI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Expat Life Without Regret or Costly Mistakes")
-*How to Start Expat Life Without Regret or Costly Mistakes - Photo by [AJ](https://unsplash.com/@cornthechicken) on [Unsplash](https://unsplash.com/photos/red-rocks-frame-mountains-under-a-blue-sky-UMd6zT5fzXo)*
+{{< figure src="https://images.unsplash.com/photo-1753821945131-7edc841e2c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZW1vdGUlMjB3b3JrfGVufDB8MHx8fDE3NTU0MjI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Red rocks frame under a blue sky" title="How to Start Expat Life Without Regret or Costly Mistakes" caption="How to Start Expat Life Without Regret or Costly Mistakes - Photo by [AJ](https://unsplash.com/@cornthechicken) on [Unsplash](https://unsplash.com/photos/red-rocks-frame-mountains-under-a-blue-sky-UMd6zT5fzXo)" >}}
 
 Starting a new life abroad, especially as an expat, is a dream for many. Some people imagine themselves running a small restaurant or bar in a country where the cost of living is lower, maybe even renting out a house on Airbnb. Others see themselves as freelancers, working remotely, or selling a product or service online. Both paths can be exciting, but let’s be honest: this lifestyle isn’t for everyone.
 
@@ -42,8 +41,7 @@ Start with a small, specific niche. If you try to talk to everyone, you end up r
 
 People want to connect with real humans, not anonymous corporations. Show your face, share your ups and downs, and be present on social media. If you’re just another bland business, you’ll blend in with the thousands of others out there. But if you’re authentic and personal, people will remember you.
 
-![The Ridge](https://images.unsplash.com/photo-1753810595970-ced7f5ff8dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZW1vdGUlMjB3b3JrfGVufDB8MHx8fDE3NTU0MjI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Expat Life Without Regret or Costly Mistakes")
-*How to Start Expat Life Without Regret or Costly Mistakes - Photo by [Karsten Winegeart](https://unsplash.com/@karsten116) on [Unsplash](https://unsplash.com/photos/two-people-hike-along-a-ridge-at-dusk--mQAnVfYDC4)*
+{{< figure src="https://images.unsplash.com/photo-1753810595970-ced7f5ff8dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZW1vdGUlMjB3b3JrfGVufDB8MHx8fDE3NTU0MjI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="The Ridge" title="How to Start Expat Life Without Regret or Costly Mistakes" caption="How to Start Expat Life Without Regret or Costly Mistakes - Photo by [Karsten Winegeart](https://unsplash.com/@karsten116) on [Unsplash](https://unsplash.com/photos/two-people-hike-along-a-ridge-at-dusk--mQAnVfYDC4)" >}}
 
 #### Structure Your Message and Mission
 
@@ -75,8 +73,7 @@ Your mood and energy matter. Find ways to boost them—exercise, music, cold sho
 
 #### Set Clear Goals and Deadlines
 
-![Photo by Abheet Singh Sachdeva](https://images.unsplash.com/photo-1753921154409-706359a16567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZW1vdGUlMjB3b3JrfGVufDB8MHx8fDE3NTU0MjI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Start Expat Life Without Regret or Costly Mistakes")
-*How to Start Expat Life Without Regret or Costly Mistakes - Photo by [Abheet Singh Sachdeva](https://unsplash.com/@abheets) on [Unsplash](https://unsplash.com/photos/a-mountain-is-silhouetted-by-the-sun-H163qAX9EJc)*
+{{< figure src="https://images.unsplash.com/photo-1753921154409-706359a16567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZW1vdGUlMjB3b3JrfGVufDB8MHx8fDE3NTU0MjI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A is by the sun" title="How to Start Expat Life Without Regret or Costly Mistakes" caption="How to Start Expat Life Without Regret or Costly Mistakes - Photo by [Abheet Singh Sachdeva](https://unsplash.com/@abheets) on [Unsplash](https://unsplash.com/photos/a-mountain-is-silhouetted-by-the-sun-H163qAX9EJc)" >}}
 
 If your goals are vague, you’ll drift. Know exactly what you want and set a deadline. Even if you only work an hour or two each day, regular effort wins in the long run. It’s the tortoise, not the hare, that gets there in the end.
 

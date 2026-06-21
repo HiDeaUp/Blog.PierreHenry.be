@@ -12,8 +12,7 @@ original_title = "Pensées négatives / comment arriver à les éviter ?"
 source_medium = "https://medium.com/@phenrysay/3c995bc9d023"
 +++
 
-![If you like my work, please support me: paypal.me/viktorforgacs](https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Negative Thoughts Without Ignoring Your Feelings")
-*How to Stop Negative Thoughts Without Ignoring Your Feelings - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)*
+{{< figure src="https://images.unsplash.com/photo-1555880575-9d51c3e12276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="If you like my work, please support me: paypal.me/viktorforgacs" title="How to Stop Negative Thoughts Without Ignoring Your Feelings" caption="How to Stop Negative Thoughts Without Ignoring Your Feelings - Photo by [Viktor Forgacs](https://unsplash.com/@sonance) on [Unsplash](https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0)" >}}
 
 When we look at our lives, it’s easy to blame bad luck or think that nothing ever works out for us. But the truth is, so much of what happens starts in our minds. If your mindset is positive and you trust yourself, you set off a virtuous circle. You’ll smile more, say yes to new opportunities, and things will start to flow your way. That’s what you want, right?
 
@@ -23,8 +22,7 @@ Some people fall into the trap of thinking that everything is always against the
 
 But here’s the thing: coincidences happen. Instead of spiraling, remind yourself that positivity is your best tool. Even when things go wrong, staying positive helps you keep your balance and move forward. It’s not about denying reality, but about choosing your response. Ask yourself, “How could I have avoided this? What part did I play?” Sometimes, things are out of your control, but your reaction is always yours.
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Negative Thoughts Without Ignoring Your Feelings")
-*How to Stop Negative Thoughts Without Ignoring Your Feelings - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)*
+{{< figure src="https://images.unsplash.com/photo-1717544430747-f6c214d0feac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says great minds alike" title="How to Stop Negative Thoughts Without Ignoring Your Feelings" caption="How to Stop Negative Thoughts Without Ignoring Your Feelings - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-great-minds-overthink-alike-2e6aFMFAHuw)" >}}
 
 Remember, your real life is not your online accounts or your possessions. The time you have with people you care about is worth more than anything. So, stick to your positive course. Look ahead. Know that you can always do better, and by staying positive, you increase your chances of success—even if it feels like luck isn’t on your side right now.
 
@@ -40,8 +38,7 @@ Let’s come back to the basics: posture, language, and attention. Change your p
 > *“Happiness does not depend on what you have or who you are. It solely relies on what you think.”*  
 — Buddha
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Stop Negative Thoughts Without Ignoring Your Feelings")
-*How to Stop Negative Thoughts Without Ignoring Your Feelings - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)*
+{{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2ZSUyMHRob3VnaHRzJTIwbWluZHNldCUyMHBvc2l0aXZlJTIwdGhpbmtpbmd8ZW58MHwwfHx8MTc1NTQxOTc3OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Stop Negative Thoughts Without Ignoring Your Feelings" caption="How to Stop Negative Thoughts Without Ignoring Your Feelings - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
 ---
 

@@ -12,8 +12,7 @@ original_title = "Comment maîtriser l'art de l'épanouissement en société ?"
 source_medium = "https://medium.com/@phenrysay/8d7f953cd7c0"
 +++
 
-![Telling Secrets](https://images.unsplash.com/photo-1482356432770-3a99f07aba35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBza2lsbHMlMjBjb21tdW5pY2F0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDE2MjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Thrive Socially Without Awkward Conversations")
-*How to Thrive Socially Without Awkward Conversations - Photo by [Ben White](https://unsplash.com/@benwhitephotography) on [Unsplash](https://unsplash.com/photos/woman-whispering-on-womans-ear-while-hands-on-lips-4Bs9kSDJsdc)*
+{{< figure src="https://images.unsplash.com/photo-1482356432770-3a99f07aba35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBza2lsbHMlMjBjb21tdW5pY2F0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDE2MjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Telling Secrets" title="How to Thrive Socially Without Awkward Conversations" caption="How to Thrive Socially Without Awkward Conversations - Photo by [Ben White](https://unsplash.com/@benwhitephotography) on [Unsplash](https://unsplash.com/photos/woman-whispering-on-womans-ear-while-hands-on-lips-4Bs9kSDJsdc)" >}}
 
 Expressing what we like—and what bothers us—should be normal. Yet, in society, we often hold back. We learn from a young age that saying things that might hurt others, even if we mean well, isn’t right. I’m the first to defend this idea: there’s no point in criticizing others before looking at ourselves. Speaking harshly, especially about people we barely know, rarely helps anyone—unless it’s truly to support them, and even then, how we say things matters.
 
@@ -30,8 +29,7 @@ One technique I love is the “critique sandwich.” Start with a compliment, th
 > _When you focus on the good, the good gets better._
 > — Abraham Hicks
 
-![Two attractive women in casual clothes are having girl time in cafe talking and holding coffee cup and smartphone. Nice cafe interior, customers and modern furniture are visible.](https://images.unsplash.com/photo-1753351058013-995eed991252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2NpYWwlMjBza2lsbHMlMjBjb21tdW5pY2F0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDE2MjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Thrive Socially Without Awkward Conversations")
-*How to Thrive Socially Without Awkward Conversations - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/two-women-converse-at-a-cafe-DVoh8VY4NTQ)*
+{{< figure src="https://images.unsplash.com/photo-1753351058013-995eed991252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzb2NpYWwlMjBza2lsbHMlMjBjb21tdW5pY2F0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDE2MjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two attractive women in casual clothes are having girl time in cafe talking and holding coffee cup and smartphone. Nice cafe interior, customers and modern furniture are visible." title="How to Thrive Socially Without Awkward Conversations" caption="How to Thrive Socially Without Awkward Conversations - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/two-women-converse-at-a-cafe-DVoh8VY4NTQ)" >}}
 
 **Why Saying “No” Isn’t Always Necessary**
 
@@ -50,8 +48,7 @@ Think of yourself as a tree. If you’re planted in concrete, your roots can’t
 
 If you want to change, it starts with you. Don’t blame others or your circumstances. In a race, some people start ahead, others behind, but it’s your responsibility to do your best from where you are. If you always blame others, you’ll never see how you could improve.
 
-![This 2009 image depicts a healthcare practitioner as she was administering the H1N1 live attenuated intranasal vaccine (LAIV) to an Asian woman. Using a small syringe, she was delivering the vaccine mist into the woman’s left nostril. Photographer Jame Gathany](https://images.unsplash.com/photo-1576157401610-2cfa97f399ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2NpYWwlMjBza2lsbHMlMjBjb21tdW5pY2F0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDE2MjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Thrive Socially Without Awkward Conversations")
-*How to Thrive Socially Without Awkward Conversations - Photo by [CDC](https://unsplash.com/@cdc) on [Unsplash](https://unsplash.com/photos/woman-holding-syringe-near-woman-wearing-black-top-VMCU_t2ZL0g)*
+{{< figure src="https://images.unsplash.com/photo-1576157401610-2cfa97f399ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2NpYWwlMjBza2lsbHMlMjBjb21tdW5pY2F0aW9uJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NDE2MjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman holding syringe near woman wearing black top" title="How to Thrive Socially Without Awkward Conversations" caption="How to Thrive Socially Without Awkward Conversations - Photo by [CDC](https://unsplash.com/@cdc) on [Unsplash](https://unsplash.com/photos/woman-holding-syringe-near-woman-wearing-black-top-VMCU_t2ZL0g)" >}}
 
 Set intentions for your life. Use positive affirmations—self-talk that lifts you up. Instead of saying, “I can’t play piano,” say, “I don’t play piano yet.” This small shift tells your mind that it’s possible. With discipline and daily effort, you can achieve what you want. Repeat your intentions every day: “I will become a legend in my field,” “Today will be a fantastic day.” Stand tall and act like the person you want to be.
 

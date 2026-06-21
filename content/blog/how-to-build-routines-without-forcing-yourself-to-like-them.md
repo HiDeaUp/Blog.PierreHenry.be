@@ -12,8 +12,7 @@ original_title = "JE TE PARTAGE MES PRINCIPES SUR LES ROUTINES 💥"
 source_medium = "https://medium.com/@phenrysay/23f0689f1797"
 +++
 
-![Photo by Victor Freitas](https://images.unsplash.com/photo-1521805103424-d8f8430e8933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lcyUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4MzczNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Routines Without Forcing Yourself to Like Them")
-*How to Build Routines Without Forcing Yourself to Like Them - Photo by [Victor Freitas](https://unsplash.com/@victorfreitas) on [Unsplash](https://unsplash.com/photos/black-barbell-on-tile-flooring-Yuv-iwByVRQ)*
+{{< figure src="https://images.unsplash.com/photo-1521805103424-d8f8430e8933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lcyUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4MzczNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black barbell on tile Yuv iwByVRQ" title="How to Build Routines Without Forcing Yourself to Like Them" caption="How to Build Routines Without Forcing Yourself to Like Them - Photo by [Victor Freitas](https://unsplash.com/@victorfreitas) on [Unsplash](https://unsplash.com/photos/black-barbell-on-tile-flooring-Yuv-iwByVRQ)" >}}
 
 Building a routine, a daily rhythm of habits, is one of the simplest ways to bring structure to your life. But let’s be honest: sometimes you just don’t feel like doing what you planned. Maybe you dislike the task, or maybe you’re just not in the mood. Even with a routine in place, it’s easy to skip things you don’t enjoy.
 
@@ -27,8 +26,7 @@ Life is about choices. You have to decide: is this worth doing? Or should you do
 
 Regularity and routines are important, but making tasks easier is even more important. Routines aren’t set in stone. Some days, you just won’t feel like doing something. That’s normal. But remember: investing in yourself is always worth it. Using your time wisely each day brings you closer to where you want to be.
 
-![Photo by Ambitious Studio* | Rick Barrett](https://images.unsplash.com/photo-1674834726923-3ba828d37846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lcyUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4MzczNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Routines Without Forcing Yourself to Like Them")
-*How to Build Routines Without Forcing Yourself to Like Them - Photo by [Ambitious Studio* | Rick Barrett](https://unsplash.com/@weareambitious) on [Unsplash](https://unsplash.com/photos/a-man-lifting-two-dumbs-in-a-gym-WH-RyVhNEes)*
+{{< figure src="https://images.unsplash.com/photo-1674834726923-3ba828d37846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lcyUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4MzczNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man lifting two dumbs in a gym WH" title="How to Build Routines Without Forcing Yourself to Like Them" caption="How to Build Routines Without Forcing Yourself to Like Them - Photo by [Ambitious Studio* | Rick Barrett](https://unsplash.com/@weareambitious) on [Unsplash](https://unsplash.com/photos/a-man-lifting-two-dumbs-in-a-gym-WH-RyVhNEes)" >}}
 
 Every day is a new opportunity to make good choices. Over time, these choices have a huge impact—positive or negative, depending on what you do. The key is to act. Doing nothing leads nowhere. Only those who do nothing expect a different life without changing anything. If you want something different, you have to take action. You’ll make mistakes, but that’s part of the process. Success comes from trying, failing, and learning what works for you.
 
@@ -50,8 +48,7 @@ The best time to take action is today, right now. Don’t put off what you want 
 
 ---
 
-![lisbon, run, stair steps, man running, sport](https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lcyUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4MzczNnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Routines Without Forcing Yourself to Like Them")
-*How to Build Routines Without Forcing Yourself to Like Them - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)*
+{{< figure src="https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyb3V0aW5lcyUyMGhhYml0cyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTM4MzczNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="lisbon, run, stair steps, man running, sport" title="How to Build Routines Without Forcing Yourself to Like Them" caption="How to Build Routines Without Forcing Yourself to Like Them - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)" >}}
 
 ## Key Takeaways
 

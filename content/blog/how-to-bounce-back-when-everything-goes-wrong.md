@@ -10,8 +10,7 @@ original_title = "Que faire quand tout va mal ?"
 source_medium = "https://medium.com/@phenrysay/b2b5a6f99d82"
 +++
 
-![Photo by Alex Shute](https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb3BpbmclMjBzdHJhdGVnaWVzJTIwbWVudGFsJTIwaGVhbHRoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU1ODU5MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Bounce Back When Everything Goes Wrong")
-*How to Bounce Back When Everything Goes Wrong - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)*
+{{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb3BpbmclMjBzdHJhdGVnaWVzJTIwbWVudGFsJTIwaGVhbHRoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU1ODU5MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How to Bounce Back When Everything Goes Wrong" caption="How to Bounce Back When Everything Goes Wrong - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
 Life is a mix of ups and downs. Some days, everything seems to fall into place. Other days, it feels like nothing works out. You might lose your way on the street, misplace your wallet, drop your phone, or even get your Instagram account hacked. Sometimes, it feels like the universe is piling on, one mishap after another, from morning to night. These days can leave you drained and wondering how to break free from the spiral.
 
@@ -21,8 +20,7 @@ It’s easy to fall into the trap of labeling yourself as unlucky or a loser. Th
 
 The real trick is to keep perspective and learn from both the good and the bad. When things are going well, remind yourself, “I succeed in everything I do.” Just saying this to yourself can set the tone for a fantastic day. It’s not magic, but it does help you approach life with more confidence and positivity.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb3BpbmclMjBzdHJhdGVnaWVzJTIwbWVudGFsJTIwaGVhbHRoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU1ODU5MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Bounce Back When Everything Goes Wrong")
-*How to Bounce Back When Everything Goes Wrong - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)*
+{{< figure src="https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb3BpbmclMjBzdHJhdGVnaWVzJTIwbWVudGFsJTIwaGVhbHRoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU1ODU5MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads" title="How to Bounce Back When Everything Goes Wrong" caption="How to Bounce Back When Everything Goes Wrong - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)" >}}
 
 When things go wrong, ask yourself how you could have prevented it. Maybe you could have been more careful with your wallet or chosen a stronger password for your Instagram account. Instead of letting a string of bad events define you, use them as lessons. Don’t slap a “loser” label on your forehead. Stay alert, and keep telling yourself, “Today, I will succeed in everything I do,” even if something didn’t go as planned.
 
@@ -39,8 +37,7 @@ The most important lesson is to always keep the right mindset. Even when things 
 
 ---
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695649557876-cf3cf0458746?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb3BpbmclMjBzdHJhdGVnaWVzJTIwbWVudGFsJTIwaGVhbHRoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU1ODU5MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Bounce Back When Everything Goes Wrong")
-*How to Bounce Back When Everything Goes Wrong - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-sign-that-reads-resilince-building-2hjnNdD34tg)*
+{{< figure src="https://images.unsplash.com/photo-1695649557876-cf3cf0458746?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb3BpbmclMjBzdHJhdGVnaWVzJTIwbWVudGFsJTIwaGVhbHRoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU1ODU5MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A with a sign that reads" title="How to Bounce Back When Everything Goes Wrong" caption="How to Bounce Back When Everything Goes Wrong - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-with-a-sign-that-reads-resilince-building-2hjnNdD34tg)" >}}
 
 ## Key Takeaways
 - Bad days happen to everyone. Don’t let them define you.

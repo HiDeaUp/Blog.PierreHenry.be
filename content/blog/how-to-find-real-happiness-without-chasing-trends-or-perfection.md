@@ -12,8 +12,7 @@ original_title = "La vie est courte. Ce que j'ai à dire..."
 source_medium = "https://medium.com/@phenrysay/ec9730619d08"
 +++
 
-![Photo by Marija Zaric](https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwYWR2aWNlJTIwc2ltcGxpY2l0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTc2MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Trends or Perfection")
-*How to Find Real Happiness Without Chasing Trends or Perfection - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)*
+{{< figure src="https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwYWR2aWNlJTIwc2ltcGxpY2l0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTc2MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black happy card" title="How to Find Real Happiness Without Chasing Trends or Perfection" caption="How to Find Real Happiness Without Chasing Trends or Perfection - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)" >}}
 
 Living a simple life. That’s what I want to talk about today—not because it’s trendy, but because it’s real. Too often, we get caught up in chasing what everyone else seems to want: the most impressive degrees, the fanciest job title, more money, the biggest house, the perfect family, the flashiest car, or living in the “ideal” country. We collect achievements like trophies, thinking they’ll finally make us happy.
 
@@ -25,8 +24,7 @@ For me, I find joy in small things. For example, I’ve been developing an app t
 
 It’s important to do things that make you happy, things that speak to you, things that make you feel alive. It might sound cliché, but it’s true. When you do what truly matches your own desires, you stop living to impress people you don’t even care about. Too many people end up living a life that was chosen or shaped by others, never stopping to ask themselves the right questions. And then, ten or twenty years later, they wake up and realize it’s too late.
 
-![Photo by Amanda Jones](https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwYWR2aWNlJTIwc2ltcGxpY2l0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTc2MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Trends or Perfection")
-*How to Find Real Happiness Without Chasing Trends or Perfection - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/brown-its-simple-scrabble-tiles-oHVdj31R3F4)*
+{{< figure src="https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwYWR2aWNlJTIwc2ltcGxpY2l0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTc2MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown its simple tiles" title="How to Find Real Happiness Without Chasing Trends or Perfection" caption="How to Find Real Happiness Without Chasing Trends or Perfection - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/brown-its-simple-scrabble-tiles-oHVdj31R3F4)" >}}
 
 Time never stops. It’s like a train that never takes a break. You can’t go back. Time is the most precious thing we have, so you have to act now. Make the decisions today that will lead you to the life you love—the life that makes you say, “Wow, this is really me.”
 
@@ -44,8 +42,7 @@ Every evening, I ask myself: What did I do today that made me happy? What didn�
 > _The best time to plant a tree was twenty years ago. The second best time is now._
 > — Chinese Proverb
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, keep things simple, simplify, complexity, clutter, muddle, clear thinking, problem solving, secret of success, kiss, keep it simple stupid, occam razor, occam, ](https://images.unsplash.com/photo-1627453999411-dd9c2604c109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwYWR2aWNlJTIwc2ltcGxpY2l0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTc2MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Find Real Happiness Without Chasing Trends or Perfection")
-*How to Find Real Happiness Without Chasing Trends or Perfection - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-ofpr9Cw8Rj8)*
+{{< figure src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwYWR2aWNlJTIwc2ltcGxpY2l0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTc2MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Find Real Happiness Without Chasing Trends or Perfection" caption="How to Find Real Happiness Without Chasing Trends or Perfection - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-ofpr9Cw8Rj8)" >}}
 
 So, take charge of your life. Stay positive. I believe in you, and I know you can go far. Life is short—don’t waste it living someone else’s dream. Start today.
 

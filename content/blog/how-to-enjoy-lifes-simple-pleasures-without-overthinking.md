@@ -12,15 +12,13 @@ original_title = "Moments 100% bonheur 🎉 Comment ?"
 source_medium = "https://medium.com/@phenrysay/3c126447d976"
 +++
 
-![Happiness sign painted on the pavement](https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU2MTEzMDAzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life’s Simple Pleasures Without Overthinking")
-*How to Enjoy Life’s Simple Pleasures Without Overthinking - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)*
+{{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU2MTEzMDAzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Enjoy Life’s Simple Pleasures Without Overthinking" caption="How to Enjoy Life’s Simple Pleasures Without Overthinking - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
 Taking pleasure in life is not just a luxury—it’s a necessity. Giving yourself permission to enjoy small moments, to think about yourself, and to take little breaks is essential. These pauses, these quiet moments, are when you can step back and reflect on your life. Ask yourself, “What do I really want to do?” Sometimes, the answer is as simple as wanting to be more present.
 
 I started taking short breaks just to be in the moment, to really notice where I am. These pauses help me relax, reduce stress, and simply unwind. They even lower my blood pressure and help me enjoy life more. When you take these moments for yourself, you become more in tune with your surroundings. You notice the world around you, and you feel more connected to it.
 
-![Photo by Felicia Buitenwerf](https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU2MTEzMDAzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life’s Simple Pleasures Without Overthinking")
-*How to Enjoy Life’s Simple Pleasures Without Overthinking - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)*
+{{< figure src="https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU2MTEzMDAzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow card with the words be the creator of your own" title="How to Enjoy Life’s Simple Pleasures Without Overthinking" caption="How to Enjoy Life’s Simple Pleasures Without Overthinking - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)" >}}
 
 Try taking three or four short breaks each day. You’ll see a real difference. You’ll start to enjoy everything around you more—whether it’s a cup of coffee, a hot chocolate, a tasty biscuit, or just a few minutes with a good book or your journal. These little rituals are not just about pleasure; they’re about reconnecting with yourself and your environment.
 
@@ -34,8 +32,7 @@ I encourage you to try this. Give yourself permission to step back, even for a f
 
 ---
 
-![A girl making yoga on the beach](https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU2MTEzMDAzfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Enjoy Life’s Simple Pleasures Without Overthinking")
-*How to Enjoy Life’s Simple Pleasures Without Overthinking - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)*
+{{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNpbXBsZSUyMHBsZWFzdXJlc3xlbnwwfDB8fHwxNzU2MTEzMDAzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Enjoy Life’s Simple Pleasures Without Overthinking" caption="How to Enjoy Life’s Simple Pleasures Without Overthinking - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
 ## Key Takeaways
 - Take small breaks throughout your day to be present and relax.

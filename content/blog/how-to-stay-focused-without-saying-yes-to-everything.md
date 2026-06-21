@@ -12,8 +12,7 @@ original_title = "Gérer ses projets sans se laisser distraire"
 source_medium = "https://medium.com/@phenrysay/8ed187f90f82"
 +++
 
-![Photo by Matilda Alloway](https://images.unsplash.com/photo-1692699203597-b5a4464f3f9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU2MDU3NjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Focused Without Saying Yes to Everything")
-*How to Stay Focused Without Saying Yes to Everything - Photo by [Matilda Alloway](https://unsplash.com/@matildaonthemove) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-project-update-on-a-table-21mUU21Z20Q)*
+{{< figure src="https://images.unsplash.com/photo-1692699203597-b5a4464f3f9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU2MDU3NjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles project update on a table" title="How to Stay Focused Without Saying Yes to Everything" caption="How to Stay Focused Without Saying Yes to Everything - Photo by [Matilda Alloway](https://unsplash.com/@matildaonthemove) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-project-update-on-a-table-21mUU21Z20Q)" >}}
 
 It’s surprisingly easy to get pulled away from what really matters—whether in your business or your personal life. Distractions don’t always look like scrolling on your phone or watching TV. Sometimes, they come disguised as opportunities, requests for help, or small tasks that seem harmless to accept.
 
@@ -25,8 +24,7 @@ Even as an employee, colleagues might ask you to take on tasks that aren’t rea
 
 The same thing happens with clients. If you’re a freelancer, clients might ask if you can offer extra services. It’s tempting to say yes, thinking it’ll bring in a bit more money. But every new service adds complexity and responsibility. If you’re an expert in one tool, like Asana or Jira, and a client asks you to learn and support another competing tool, you’ll need to spend time learning it. That’s more hours, more complexity, and less focus on what you do best.
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU2MDU3NjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Focused Without Saying Yes to Everything")
-*How to Stay Focused Without Saying Yes to Everything - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU2MDU3NjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Stay Focused Without Saying Yes to Everything" caption="How to Stay Focused Without Saying Yes to Everything - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 If you run a web agency and usually build sites with PHP, HTML, CSS, and React, you might get requests for sites in Plone, Django, Java Spring, or even C. Maybe someone on your team knows a bit about these, but taking on these projects adds more complexity. Soon, word gets around that you “also do” these other things, and you end up with more requests outside your core expertise. Your team spends more time learning and less time delivering what you’re really good at. The business slows down, and you drift away from your main value.
 
@@ -46,9 +44,7 @@ Being an expert in one thing is much better than trying to juggle ten, twenty, o
 
 ## Key Takeaways
 
-![User Journey Map is also known as Customer Journey Map is a a visualization of the process that a person goes through in order to accomplish a goal visualization of a user/ customer using your product or service.  
-In its basic form, journey mapping starts by compiling a series of user actions into a timeline. Next, the timeline is fleshed out with user thoughts and emotions in order to create a narrative. This narrative is condensed and polished, ultimately leading to a visualization. ](https://images.unsplash.com/photo-1586863065451-6a82fa7e81b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU2MDU3NjN8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Stay Focused Without Saying Yes to Everything")
-*How to Stay Focused Without Saying Yes to Everything - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/person-holding-yellow-sticky-notes-1V5zGGTYXVc)*
+{{< figure src="https://images.unsplash.com/photo-1586863065451-6a82fa7e81b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU2MDU3NjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding yellow sticky notes" title="How to Stay Focused Without Saying Yes to Everything" caption="How to Stay Focused Without Saying Yes to Everything - Photo by [UX Indonesia](https://unsplash.com/@uxindo) on [Unsplash](https://unsplash.com/photos/person-holding-yellow-sticky-notes-1V5zGGTYXVc)" >}}
 
 - Focus on your main expertise and goals.
 - Saying yes to every request adds complexity and slows you down.

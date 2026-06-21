@@ -12,8 +12,7 @@ original_title = "Comment s’élever au quotidien ?"
 source_medium = "https://medium.com/@phenrysay/814c60cdb36a"
 +++
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, pace yourself, pacing, go the distance, one step at a time, train, running, marathon, cardio, endurance, ](https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTE2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Day Without Overthinking It")
-*How to Grow Every Day Without Overthinking It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)*
+{{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTE2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Grow Every Day Without Overthinking It" caption="How to Grow Every Day Without Overthinking It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 There is something truly life-changing about doing things, even little by little. If you have a specific goal and you start taking action instead of just listening, learning, or researching, everything begins to shift. Reading, listening, and learning are all valuable, but nothing compares to the impact of actually doing.
 
@@ -23,8 +22,7 @@ Every day, dedicate time to your goal. Spend an hour and a half today, an hour t
 
 Living in Melbourne, Australia, I see this energy every day. The city is full of entrepreneurs and startups, especially among young people. Sydney is also famous for its startup scene, but Melbourne feels a bit younger and maybe even a little more rebellious. The vibe here is incredible. There are coworking spaces everywhere, and the city is buzzing with music, art, and a mix of cultures. You can feel the energy pushing you to achieve more, to create, to build.
 
-![plant on orange wall background](https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTE2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Day Without Overthinking It")
-*How to Grow Every Day Without Overthinking It - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)*
+{{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTE2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Grow Every Day Without Overthinking It" caption="How to Grow Every Day Without Overthinking It - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 It’s not just Melbourne. I’ve lived in Adelaide, and it’s similar. Sydney and Melbourne are the most entrepreneurial cities in Australia, with Brisbane following close behind. But here in Melbourne, the drive to accomplish things is everywhere. People are always making things happen.
 
@@ -40,8 +38,7 @@ I’m here to support you. I want to help you take those first steps, to coach y
 
 ---
 
-![Photo by Farshid Zabbahi](https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTE2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Every Day Without Overthinking It")
-*How to Grow Every Day Without Overthinking It - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)*
+{{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwaGFiaXRzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTE2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Grow Every Day Without Overthinking It" caption="How to Grow Every Day Without Overthinking It - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
 ## Key Takeaways
 

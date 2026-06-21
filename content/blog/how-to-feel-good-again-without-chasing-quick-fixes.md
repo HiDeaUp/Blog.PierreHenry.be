@@ -12,8 +12,7 @@ original_title = "Comment bien se sentir (je t’explique TOUT LE POURQUOI)"
 source_medium = "https://medium.com/@phenrysay/9c6a5a71e885"
 +++
 
-![Photo by Dawn Lio](https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQyMTMzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good Again WITHOUT Chasing Quick Fixes")
-*How to Feel Good Again WITHOUT Chasing Quick Fixes - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)*
+{{< figure src="https://images.unsplash.com/photo-1623905771027-d6a1ca77c0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQyMTMzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden log with yellow flower" title="How to Feel Good Again WITHOUT Chasing Quick Fixes" caption="How to Feel Good Again WITHOUT Chasing Quick Fixes - Photo by [Dawn Lio](https://unsplash.com/@mocking_bird) on [Unsplash](https://unsplash.com/photos/brown-wooden-log-with-yellow-flower-jy9mdh4_xr0)" >}}
 
 Feeling good isn’t just about chasing pleasure or ticking off boxes on a to-do list. It’s about being someone who loves to share, who enjoys learning, and who builds their energy around curiosity. When you make learning a habit, you always find new ways to feel better, to grow, and to keep life interesting.
 
@@ -25,10 +24,7 @@ Just because something makes someone else happy doesn’t mean it will work for 
 
 Life is short. Time is like a train that never stops. You have to jump on while it’s moving. Take control of your life instead of just letting it happen. Complaining won’t make things better. You have to act, move forward, and always look for what’s next. That’s how you build a life that feels right, a life that truly reflects who you are.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, words, quote, prove them wrong, prove, them, wrong, live well, best revenge, don't give up, win, persevere, live well, optimism, ambition, good living, living well, life goal, do no harm, golden rule, woke, yolo, intentionality, wellness, mindfulness, mindful,
-
-](https://images.unsplash.com/photo-1603206004521-3946a574d626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQyMTMzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good Again WITHOUT Chasing Quick Fixes")
-*How to Feel Good Again WITHOUT Chasing Quick Fixes - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-8Bv4MLU2RR0)*
+{{< figure src="https://images.unsplash.com/photo-1603206004521-3946a574d626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQyMTMzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Feel Good Again WITHOUT Chasing Quick Fixes" caption="How to Feel Good Again WITHOUT Chasing Quick Fixes - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-8Bv4MLU2RR0)" >}}
 
 Living a life you don’t like, just waiting for retirement or a new job, isn’t the answer. The “perfect moment” will never come on its own. You have to create it. If you keep waiting, you’ll wait forever. Make your own right moment to jump into the future you want.
 
@@ -48,8 +44,7 @@ For me, being surrounded by nature, watching animals, brings me real joy. Right 
 
 So, find what makes you feel alive. Try new things, but don’t force yourself to follow every trend. Listen to yourself. Remember what made you happy as a child. Sometimes, the answer is right there.
 
-![picked a flower on the walk down to the Shotover River (Queenstown NZ)](https://images.unsplash.com/photo-1618268738113-a3838e96181e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQyMTMzOXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Feel Good Again WITHOUT Chasing Quick Fixes")
-*How to Feel Good Again WITHOUT Chasing Quick Fixes - Photo by [Claire Kelly](https://unsplash.com/@claire_k) on [Unsplash](https://unsplash.com/photos/person-holding-white-daisy-flower-mZaJHwkxW2c)*
+{{< figure src="https://images.unsplash.com/photo-1618268738113-a3838e96181e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQyMTMzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="picked a flower on the walk down to the Shotover River (Queenstown NZ)" title="How to Feel Good Again WITHOUT Chasing Quick Fixes" caption="How to Feel Good Again WITHOUT Chasing Quick Fixes - Photo by [Claire Kelly](https://unsplash.com/@claire_k) on [Unsplash](https://unsplash.com/photos/person-holding-white-daisy-flower-mZaJHwkxW2c)" >}}
 
 ---
 

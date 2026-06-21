@@ -12,8 +12,7 @@ original_title = "VIVRE DE SES CONNAISSANCES EN 2024"
 source_medium = "https://medium.com/@phenrysay/4de39b9899a0"
 +++
 
-![Photo by Simone Daino](https://images.unsplash.com/photo-1575671883877-71e6519c7570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxrbm93bGVkZ2UlMjBidXNpbmVzcyUyMHBhc3Npb24lMjB0byUyMHByb2ZpdCUyMG1pY3JvJTIwYnVzaW5lc3N8ZW58MHwwfHx8MTc1NjEwNzQ5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Your Passion Into Income Without Quitting Your Job")
-*How to Turn Your Passion Into Income Without Quitting Your Job - Photo by [Simone Daino](https://unsplash.com/@simonedaino95) on [Unsplash](https://unsplash.com/photos/business-people-store-OR1tCZzoHio)*
+{{< figure src="https://images.unsplash.com/photo-1575671883877-71e6519c7570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxrbm93bGVkZ2UlMjBidXNpbmVzcyUyMHBhc3Npb24lMjB0byUyMHByb2ZpdCUyMG1pY3JvJTIwYnVzaW5lc3N8ZW58MHwwfHx8MTc1NjEwNzQ5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="People store" title="How to Turn Your Passion Into Income Without Quitting Your Job" caption="How to Turn Your Passion Into Income Without Quitting Your Job - Photo by [Simone Daino](https://unsplash.com/@simonedaino95) on [Unsplash](https://unsplash.com/photos/business-people-store-OR1tCZzoHio)" >}}
 
 Have you ever thought about turning your passion into a small business? Maybe you love horse riding, rugby, or tennis, and you want to share your knowledge with others. This idea isn’t about building a huge company. It’s about creating a tiny business—a side project—where you teach what you know in your own way.
 
@@ -28,8 +27,7 @@ As someone who’s worked in IT, I’ve seen beginners waste weeks trying to cho
 
 If you want to teach programming, help beginners avoid the trap of endless comparison. Show them how to focus on the basics, like algorithms and problem-solving. Teach them how to build things that last, not just chase the latest trend.
 
-![Photo by Aleksey Smagin](https://images.unsplash.com/photo-1646166576264-3726d8c66554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxrbm93bGVkZ2UlMjBidXNpbmVzcyUyMHBhc3Npb24lMjB0byUyMHByb2ZpdCUyMG1pY3JvJTIwYnVzaW5lc3N8ZW58MHwwfHx8MTc1NjEwNzQ5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Your Passion Into Income Without Quitting Your Job")
-*How to Turn Your Passion Into Income Without Quitting Your Job - Photo by [Aleksey Smagin](https://unsplash.com/@asmagin) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-business-without-borders-Pt6HAtk0KK4)*
+{{< figure src="https://images.unsplash.com/photo-1646166576264-3726d8c66554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxrbm93bGVkZ2UlMjBidXNpbmVzcyUyMHBhc3Npb24lMjB0byUyMHByb2ZpdCUyMG1pY3JvJTIwYnVzaW5lc3N8ZW58MHwwfHx8MTc1NjEwNzQ5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that says without borders" title="How to Turn Your Passion Into Income Without Quitting Your Job" caption="How to Turn Your Passion Into Income Without Quitting Your Job - Photo by [Aleksey Smagin](https://unsplash.com/@asmagin) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-business-without-borders-Pt6HAtk0KK4)" >}}
 
 Your method should be unique because it’s based on your experience. Maybe you noticed that most courses are too theoretical and boring. Instead, you could offer a solution that goes straight to the point, giving your students a shortcut compared to other courses. This is your unique selling point—your way of standing out.
 
@@ -49,8 +47,7 @@ Here’s what you should do first: list the main problems in your field. Pick on
 
 By focusing on what really matters, you’ll help your students save time and get better results. That’s what makes your tiny business valuable.
 
-![A neon open sign displayed behind the panes of a mechanic shop.](https://images.unsplash.com/photo-1661704450248-87df8749d823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxrbm93bGVkZ2UlMjBidXNpbmVzcyUyMHBhc3Npb24lMjB0byUyMHByb2ZpdCUyMG1pY3JvJTIwYnVzaW5lc3N8ZW58MHwwfHx8MTc1NjEwNzQ5NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Turn Your Passion Into Income Without Quitting Your Job")
-*How to Turn Your Passion Into Income Without Quitting Your Job - Photo by [Justin Ziadeh](https://unsplash.com/@justin_ziadeh) on [Unsplash](https://unsplash.com/photos/a-lighted-sign-with-a-word-on-it-MRaGH7jj9xk)*
+{{< figure src="https://images.unsplash.com/photo-1661704450248-87df8749d823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxrbm93bGVkZ2UlMjBidXNpbmVzcyUyMHBhc3Npb24lMjB0byUyMHByb2ZpdCUyMG1pY3JvJTIwYnVzaW5lc3N8ZW58MHwwfHx8MTc1NjEwNzQ5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon open sign displayed behind the panes of a mechanic shop." title="How to Turn Your Passion Into Income Without Quitting Your Job" caption="How to Turn Your Passion Into Income Without Quitting Your Job - Photo by [Justin Ziadeh](https://unsplash.com/@justin_ziadeh) on [Unsplash](https://unsplash.com/photos/a-lighted-sign-with-a-word-on-it-MRaGH7jj9xk)" >}}
 
 ---
 

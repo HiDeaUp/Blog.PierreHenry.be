@@ -12,8 +12,7 @@ original_title = "Comment surpasser l'encombrement cérébral ?"
 source_medium = "https://medium.com/@phenrysay/e0ebcf3db11a"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZGVjbHV0dGVyaW5nfGVufDB8MHx8fDE3NTU0MjM2ODR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Overhauling Your Life")
-*How to Clear Mental Clutter Without Overhauling Your Life - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZGVjbHV0dGVyaW5nfGVufDB8MHx8fDE3NTU0MjM2ODR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Clear Mental Clutter Without Overhauling Your Life" caption="How to Clear Mental Clutter Without Overhauling Your Life - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Mental clutter is something we all face. That heavy feeling in your head, the endless to-do lists, the sense that you’re always behind. For a long time, I struggled with this too. But then I found a method that completely changed the way I think, work, and live. It didn’t just help me do more—it helped me do more of what matters, and do it better.
 
@@ -37,8 +36,7 @@ This is where the Pareto Principle comes in—the famous 80/20 rule. What are th
 
 ## Measuring Impact, Not Just Activity
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZGVjbHV0dGVyaW5nfGVufDB8MHx8fDE3NTU0MjM2ODR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Overhauling Your Life")
-*How to Clear Mental Clutter Without Overhauling Your Life - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZGVjbHV0dGVyaW5nfGVufDB8MHx8fDE3NTU0MjM2ODR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Clear Mental Clutter Without Overhauling Your Life" caption="How to Clear Mental Clutter Without Overhauling Your Life - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Before starting any task, I ask myself: will this have a real impact? I keep a simple note on my phone (the default Notes app works great, but there are others like Sorted3 or F3) and jot down what I did and what it brought me. Did it make me happier? Did it move me forward? If not, maybe I shouldn’t do it next time.
 
@@ -70,8 +68,7 @@ This is the most important lesson: time is life. Every minute that passes is gon
 
 ## Align Your Actions With Your Values
 
-![Cooking elements on a countertop and a sticky note with the hashtag #BakingTime](https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZGVjbHV0dGVyaW5nfGVufDB8MHx8fDE3NTU0MjM2ODR8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Clear Mental Clutter Without Overhauling Your Life")
-*How to Clear Mental Clutter Without Overhauling Your Life - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)*
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBjbGFyaXR5JTIwcHJvZHVjdGl2aXR5JTIwZGVjbHV0dGVyaW5nfGVufDB8MHx8fDE3NTU0MjM2ODR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Clear Mental Clutter Without Overhauling Your Life" caption="How to Clear Mental Clutter Without Overhauling Your Life - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 It’s easy to get swept up by what others expect, by social pressure, or by habits that don’t really fit you. But you only get one life. Make sure you’re spending your time on things that matter to you, not just what others think you should do.
 

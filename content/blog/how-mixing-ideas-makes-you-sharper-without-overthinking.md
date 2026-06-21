@@ -12,8 +12,7 @@ original_title = "Créativité pour augmenter son succès 💪"
 source_medium = "https://medium.com/@phenrysay/1b7419045529"
 +++
 
-![Get in the Flow | Instagram: @timmossholder](https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc3VjY2VzcyUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUyNDEyOHww&ixlib=rb-4.1.0&q=80&w=1080 "How Mixing Ideas Makes You Sharper Without Overthinking")
-*How Mixing Ideas Makes You Sharper Without Overthinking - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)*
+{{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjcmVhdGl2aXR5JTIwc3VjY2VzcyUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUyNDEyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How Mixing Ideas Makes You Sharper Without Overthinking" caption="How Mixing Ideas Makes You Sharper Without Overthinking - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 Have you ever noticed how mixing different things from your daily life can make you sharper and more creative? This simple habit can help you create content faster, think differently, and even solve problems that seemed impossible before. Sometimes, we get stuck in routines or excuses that slow us down, like dragging a heavy ball and chain. But when you start making unusual connections, everything changes.
 
@@ -23,8 +22,7 @@ This idea works for more than just travel. Think about short video formats like 
 
 Associating your daily routines with something completely different can help you see things in a positive light. It turns your tasks into a game. For example, running a minimalist business might sound tough, but if you treat it like a creative challenge—using just one tool for everything, or writing your business plan on a napkin—it suddenly feels more fun and less like suffering.
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705313381827-bb166b463daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc3VjY2VzcyUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUyNDEyOHww&ixlib=rb-4.1.0&q=80&w=1080 "How Mixing Ideas Makes You Sharper Without Overthinking")
-*How Mixing Ideas Makes You Sharper Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-creativity-on-a-wooden-surface-eu9VJxIsU74)*
+{{< figure src="https://images.unsplash.com/photo-1705313381827-bb166b463daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwc3VjY2VzcyUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUyNDEyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles on a wooden surface" title="How Mixing Ideas Makes You Sharper Without Overthinking" caption="How Mixing Ideas Makes You Sharper Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-creativity-on-a-wooden-surface-eu9VJxIsU74)" >}}
 
 We already do this in other areas. We use Twitter to share big ideas in a few words. We make powerful videos in just one minute. You can do the same in your life and work. The trick is to think differently, to step outside the usual box. Don’t just do things the way everyone else does. Most people are stuck in old habits, but you can find smarter, more effective ways.
 
@@ -47,8 +45,7 @@ The goal isn’t to be original for the sake of it. The goal is to make things w
 - *Focus on what’s essential and cut out the rest.*
 - *Find ways to work smarter, not harder—think outside the box.*
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1705056509266-c80d38d564e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc3VjY2VzcyUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUyNDEyOHww&ixlib=rb-4.1.0&q=80&w=1080 "How Mixing Ideas Makes You Sharper Without Overthinking")
-*How Mixing Ideas Makes You Sharper Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-creative-62P30Uk0qwE)*
+{{< figure src="https://images.unsplash.com/photo-1705056509266-c80d38d564e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwc3VjY2VzcyUyMGlubm92YXRpb258ZW58MHwwfHx8MTc1NjUyNDEyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word" title="How Mixing Ideas Makes You Sharper Without Overthinking" caption="How Mixing Ideas Makes You Sharper Without Overthinking - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-creative-62P30Uk0qwE)" >}}
 
 ## Action Steps
 

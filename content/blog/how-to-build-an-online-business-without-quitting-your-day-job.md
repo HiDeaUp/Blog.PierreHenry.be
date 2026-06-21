@@ -12,8 +12,7 @@ original_title = "Faire décoller ton activité en ligne. Je t'explique TOUT"
 source_medium = "https://medium.com/@phenrysay/325f3ca34ef2"
 +++
 
-![work flow](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8MHx8fDE3NDkyOTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an Online Business Without Quitting Your Day Job")
-*How to Build an Online Business Without Quitting Your Day Job - Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/photos/person-using-laptop-computer-Hcfwew744z4)*
+{{< figure src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8MHx8fDE3NDkyOTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="work flow" title="How to Build an Online Business Without Quitting Your Day Job" caption="How to Build an Online Business Without Quitting Your Day Job - Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/photos/person-using-laptop-computer-Hcfwew744z4)" >}}
 
 Building your own online business isn’t just a trend—it’s a real way to take back control over your work and your life. Sure, it’s important to have skills to be a good employee, but having the freedom to work for yourself, when you want, is priceless. And the good news? There are plenty of ways to get started, even if you’re on your own.
 
@@ -33,8 +32,7 @@ Then there’s e-commerce. You can resell a product—maybe a gadget you find on
 
 ## Stay Consistent and True to Yourself
 
-![together now](https://images.unsplash.com/photo-1516321497487-e288fb19713f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8MHx8fDE3NDkyOTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an Online Business Without Quitting Your Day Job")
-*How to Build an Online Business Without Quitting Your Day Job - Photo by [John](https://unsplash.com/@johnishappysometimes) on [Unsplash](https://unsplash.com/photos/three-person-pointing-the-silver-laptop-computer-2FPjlAyMQTA)*
+{{< figure src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8MHx8fDE3NDkyOTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="together now" title="How to Build an Online Business Without Quitting Your Day Job" caption="How to Build an Online Business Without Quitting Your Day Job - Photo by [John](https://unsplash.com/@johnishappysometimes) on [Unsplash](https://unsplash.com/photos/three-person-pointing-the-silver-laptop-computer-2FPjlAyMQTA)" >}}
 
 Whatever you choose, ask yourself: “What can I do to give value and solve a real problem?” And stay consistent. Ideally, be a user of your own product or service. Have a real passion for the problem you’re solving—enough to stick with it for years, not just because you saw someone else do it. Don’t let yourself be influenced by trends if your heart’s not in it.
 
@@ -60,8 +58,7 @@ The most important thing is to stay consistent and keep going, even when things 
 > *“Perseverance is not a long race; it is many short races one after the other.”*  
 > — Walter Elliot
 
-![Photo by Marvin Meyer](https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8MHx8fDE3NDkyOTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build an Online Business Without Quitting Your Day Job")
-*How to Build an Online Business Without Quitting Your Day Job - Photo by [Marvin Meyer](https://unsplash.com/@marvelous) on [Unsplash](https://unsplash.com/photos/people-sitting-down-near-table-with-assorted-laptop-computers-SYTO3xs06fU)*
+{{< figure src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvbmxpbmUlMjBidXNpbmVzcyUyMGVudHJlcHJlbmV1cnNoaXAlMjBkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8MHx8fDE3NDkyOTYwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="People sitting down near table with laptop" title="How to Build an Online Business Without Quitting Your Day Job" caption="How to Build an Online Business Without Quitting Your Day Job - Photo by [Marvin Meyer](https://unsplash.com/@marvelous) on [Unsplash](https://unsplash.com/photos/people-sitting-down-near-table-with-assorted-laptop-computers-SYTO3xs06fU)" >}}
 
 After more than 14 years of trying, learning, and sometimes failing, I can tell you: determination pays off. If you really want it, it’s possible. The best time to start is now—not tomorrow, not next week. Now.
 

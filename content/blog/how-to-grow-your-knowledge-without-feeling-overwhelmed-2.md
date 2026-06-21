@@ -10,8 +10,7 @@ original_title = "Interview : Comment peut-on approfondir ses connaissances ?"
 source_medium = "https://medium.com/@phenrysay/cf9fc44fd5fd"
 +++
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695370992939-be4eb6fddf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNjk2NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Knowledge Without Feeling Overwhelmed")
-*How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-jpLyAy2LnA4)*
+{{< figure src="https://images.unsplash.com/photo-1695370992939-be4eb6fddf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNjk2NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Grow Your Knowledge Without Feeling Overwhelmed" caption="How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-jpLyAy2LnA4)" >}}
 
 Learning is a journey that never truly ends. The more we know, the wider our view of the world becomes. It’s not just about being able to talk about many topics with others, but also about growing as a person. Cultivating our minds, understanding our history, and staying curious about everything—whether it’s geography, languages, or literature—keeps our minds sharp and our lives richer.
 
@@ -35,8 +34,7 @@ Nothing beats a good book. Books are structured, reliable, and go deep into subj
 > _“Reading is to the mind what exercise is to the body.”_
 — Joseph Addison
 
-![Photo by Markus Winkler](https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNjk2NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Knowledge Without Feeling Overwhelmed")
-*How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)*
+{{< figure src="https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNjk2NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Grow Your Knowledge Without Feeling Overwhelmed" caption="How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)" >}}
 
 ## Don’t Limit Yourself to One Topic
 
@@ -63,10 +61,7 @@ Start by looking at the table of contents. Scan the chapters and pick the ones t
 
 ## Curiosity Is a Habit
 
-![Sadness
-Man staring through the window 
-](https://images.unsplash.com/photo-1612204887145-d45c78091f22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNjk2NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Grow Your Knowledge Without Feeling Overwhelmed")
-*How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Feranmi Ogundeko](https://unsplash.com/@feranmiog) on [Unsplash](https://unsplash.com/photos/man-in-black-and-white-stripe-long-sleeve-shirt-sitting-on-chair-looking-at-the-window-zo48GAMJYDI)*
+{{< figure src="https://images.unsplash.com/photo-1612204887145-d45c78091f22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlbG9uZyUyMGxlYXJuaW5nJTIwY3VyaW9zaXR5JTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTQxNjk2NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Sadness Man staring through the window" title="How to Grow Your Knowledge Without Feeling Overwhelmed" caption="How to Grow Your Knowledge Without Feeling Overwhelmed - Photo by [Feranmi Ogundeko](https://unsplash.com/@feranmiog) on [Unsplash](https://unsplash.com/photos/man-in-black-and-white-stripe-long-sleeve-shirt-sitting-on-chair-looking-at-the-window-zo48GAMJYDI)" >}}
 
 Sometimes we put off reading or visiting an exhibition, telling ourselves we’ll do it later. But the more we do it, the more we want to keep going. It’s a positive cycle: the more we learn, the more confident and curious we become. This habit opens doors, sharpens our judgment, and helps us feel more at ease in any conversation.
 

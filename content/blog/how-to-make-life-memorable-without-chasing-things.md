@@ -12,8 +12,7 @@ original_title = "Comment avoir une vie à sensation"
 source_medium = "https://medium.com/@phenrysay/619ec0c3f7f8"
 +++
 
-![Life?](https://images.unsplash.com/photo-1557070166-2e98641ec749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMG1lbW9yYWJsZSUyMGxpZmV8ZW58MHwwfHx8MTc1NjY0MTI3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Life Memorable Without Chasing Things")
-*How to Make Life Memorable Without Chasing Things - Photo by [kiryl](https://unsplash.com/@kshar2) on [Unsplash](https://unsplash.com/photos/life-logo-qxnXtSxVQ4Y)*
+{{< figure src="https://images.unsplash.com/photo-1557070166-2e98641ec749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMG1lbW9yYWJsZSUyMGxpZmV8ZW58MHwwfHx8MTc1NjY0MTI3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Life?" title="How to Make Life Memorable Without Chasing Things" caption="How to Make Life Memorable Without Chasing Things - Photo by [kiryl](https://unsplash.com/@kshar2) on [Unsplash](https://unsplash.com/photos/life-logo-qxnXtSxVQ4Y)" >}}
 
 Most people go through life as if they’re just ticking off days on a calendar, waiting for something to happen. But life isn’t meant to be endured. It’s meant to be devoured, savored, and remembered. I see it every day—people grumbling over their coffee, even in places where the sun shines and the croissants are warm. Whether in Australia or back in France, the pattern is the same: too many people let life happen to them instead of making life happen for themselves.
 
@@ -37,9 +36,7 @@ Positive energy is precious. One of the best ways to protect it is to stick to a
 
 I use timers and tools like the Pomodoro technique to focus on one thing at a time. When the timer rings, I stop and move on. This keeps me from drifting and losing hours to unimportant tasks.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, live, life, carpe diem, yolo, life advice, mindfulness, 
-](https://images.unsplash.com/photo-1604313476893-31aabc9c7fbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMG1lbW9yYWJsZSUyMGxpZmV8ZW58MHwwfHx8MTc1NjY0MTI3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Life Memorable Without Chasing Things")
-*How to Make Life Memorable Without Chasing Things - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-BOC6WMoax34)*
+{{< figure src="https://images.unsplash.com/photo-1604313476893-31aabc9c7fbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMG1lbW9yYWJsZSUyMGxpZmV8ZW58MHwwfHx8MTc1NjY0MTI3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Make Life Memorable Without Chasing Things" caption="How to Make Life Memorable Without Chasing Things - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-BOC6WMoax34)" >}}
 
 ## Time Boxing and the Power of Focus
 
@@ -67,8 +64,7 @@ Group similar tasks together to save time. For example, edit all your videos in 
 
 Spend time alone, talking to yourself as you would to your best friend. Developers have a trick called “rubber duck debugging”—they explain their problem to a rubber duck, and often, the solution becomes clear just by talking it out. You can do the same with your own challenges.
 
-![scrabble, scrabble pieces, lettering, letters, wood, scrabble tiles, white background, words, quote, letters, type, typography, design, layout, focus, bokeh, blur, photography, images, image, live life, live your life, carpe diem, yolo, mindfulness, make the most of every day, live well, enjoy life, appreciate life, one day at a time, one step at a time, life is a journey, awareness, blessed, ](https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMG1lbW9yYWJsZSUyMGxpZmV8ZW58MHwwfHx8MTc1NjY0MTI3NXww&ixlib=rb-4.1.0&q=80&w=1080 "How to Make Life Memorable Without Chasing Things")
-*How to Make Life Memorable Without Chasing Things - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)*
+{{< figure src="https://images.unsplash.com/photo-1627976402905-41466f40d8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZXhwZXJpZW5jZXMlMjBsaXZpbmclMjBmdWxseSUyMG1lbW9yYWJsZSUyMGxpZmV8ZW58MHwwfHx8MTc1NjY0MTI3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface WpoS C209uk" title="How to Make Life Memorable Without Chasing Things" caption="How to Make Life Memorable Without Chasing Things - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-WpoS-C209uk)" >}}
 
 Have a clear direction for your life. Imagine reading your own name in a dictionary—what would you want it to say about you? Make a list of the things you want to achieve, and take small steps every day to get closer.
 

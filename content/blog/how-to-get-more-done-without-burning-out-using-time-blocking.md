@@ -12,8 +12,7 @@ original_title = "Comment gérer son temps avec le time blocking & time boxing"
 source_medium = "https://medium.com/@phenrysay/317c46fb11a7"
 +++
 
-![Time](https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBibG9ja2luZ3xlbnwwfDB8fHwxNzU2ODUyMzU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Burning Out Using Time Blocking")
-*How to Get More Done Without Burning Out Using Time Blocking - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)*
+{{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBibG9ja2luZ3xlbnwwfDB8fHwxNzU2ODUyMzU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Get More Done Without Burning Out Using Time Blocking" caption="How to Get More Done Without Burning Out Using Time Blocking - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 
 If you want to get more done—whether you’re a freelancer, an office worker, or just working on your own projects for fun—there’s a simple truth: you can always improve how you use your time. Let’s talk about two powerful methods: time blocking and time boxing. These aren’t just buzzwords. They’re practical tools that can help you accomplish more, feel less overwhelmed, and actually finish what you start.
 
@@ -29,8 +28,7 @@ I use the Pomodoro Technique almost every day. It’s simple: set a timer for 25
 
 ## Pareto Principle: Focus on What Matters
 
-![Photo by Mauricio Alarcón](https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBibG9ja2luZ3xlbnwwfDB8fHwxNzU2ODUyMzU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Burning Out Using Time Blocking")
-*How to Get More Done Without Burning Out Using Time Blocking - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)*
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBibG9ja2luZ3xlbnwwfDB8fHwxNzU2ODUyMzU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Get More Done Without Burning Out Using Time Blocking" caption="How to Get More Done Without Burning Out Using Time Blocking - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
 Now, let’s talk about the Pareto Principle, or the 80/20 rule. This means that 20% of your effort gives you 80% of your results. If you’re learning a new language, focus on the most common words and phrases. You’ll be able to have 80% of conversations with just 20% of the vocabulary. The same goes for your work: find the tasks that really move the needle and give them your best time.
 
@@ -54,8 +52,7 @@ I recently had to take a certification exam as a developer. The time was limited
 >
 > — Unknown
 
-![Out of time](https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBibG9ja2luZ3xlbnwwfDB8fHwxNzU2ODUyMzU5fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Get More Done Without Burning Out Using Time Blocking")
-*How to Get More Done Without Burning Out Using Time Blocking - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)*
+{{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBibG9ja2luZ3xlbnwwfDB8fHwxNzU2ODUyMzU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Get More Done Without Burning Out Using Time Blocking" caption="How to Get More Done Without Burning Out Using Time Blocking - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
 ## Your Time Is Limited—Use It Well
 

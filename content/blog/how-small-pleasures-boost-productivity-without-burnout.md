@@ -12,8 +12,7 @@ original_title = "Petits plaisirs qui haussent 🚀"
 source_medium = "https://medium.com/@phenrysay/888ed2ce5fa8"
 +++
 
-![Phone is ringing and we need to stay productive!](https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMHBsZWFzdXJlcyUyMHByb2R1Y3Rpdml0eSUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjUwNzE2OHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Pleasures Boost Productivity Without Burnout")
-*How Small Pleasures Boost Productivity Without Burnout - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)*
+{{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMHBsZWFzdXJlcyUyMHByb2R1Y3Rpdml0eSUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjUwNzE2OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How Small Pleasures Boost Productivity Without Burnout" caption="How Small Pleasures Boost Productivity Without Burnout - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 Sometimes, the best way to get things done is to treat yourself to a small pleasure. For me, that often means heading to a cozy café, not just for the coffee, but for the atmosphere that helps me relax and write. Sure, it can be a bit pricey, but I see it as an investment in my work. There aren’t many cafés around here, and the big chains close early, so finding a nice spot becomes a little adventure in itself.
 
@@ -21,8 +20,7 @@ You can do the same with hotels or even Airbnbs. If you book a four- or five-sta
 
 Take my writing sessions, for example. I use a Freewrite, which is like a portable typewriter, not really a tablet, but perfect for focusing on writing a book or coding a new project. Even if the coffee and cake cost a bit more than usual, the experience is worth it. It’s not just about the treat; it’s about creating a space where I can be productive and enjoy the process.
 
-![Photo by Emily Camp](https://images.unsplash.com/photo-1644371188561-6c8aa8601bc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbWFsbCUyMHBsZWFzdXJlcyUyMHByb2R1Y3Rpdml0eSUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjUwNzE2OHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Pleasures Boost Productivity Without Burnout")
-*How Small Pleasures Boost Productivity Without Burnout - Photo by [Emily Camp](https://unsplash.com/@mscamp0235) on [Unsplash](https://unsplash.com/photos/a-woman-laying-in-a-hammock-reading-a-book-MZ86day32Vs)*
+{{< figure src="https://images.unsplash.com/photo-1644371188561-6c8aa8601bc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbWFsbCUyMHBsZWFzdXJlcyUyMHByb2R1Y3Rpdml0eSUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjUwNzE2OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman laying in a hammock reading a book" title="How Small Pleasures Boost Productivity Without Burnout" caption="How Small Pleasures Boost Productivity Without Burnout - Photo by [Emily Camp](https://unsplash.com/@mscamp0235) on [Unsplash](https://unsplash.com/photos/a-woman-laying-in-a-hammock-reading-a-book-MZ86day32Vs)" >}}
 
 These little rituals are more than just breaks. They’re personal moments that help you step out of your daily routine. Maybe you take a short trip, spend a few days in a new city, or head to the mountains—not for skiing or meeting celebrities, but to work on something important to you. A hotel room or a chalet in Norway or Sweden, it doesn’t matter where, as long as it gives you the space to write, code, read, or even do a quick “think week.”
 
@@ -38,8 +36,7 @@ The point is to try these small moments for yourself. Step outside your routine,
 
 ---
 
-![Photo by Alexas_Fotos](https://images.unsplash.com/photo-1632494483455-a848e1225239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbWFsbCUyMHBsZWFzdXJlcyUyMHByb2R1Y3Rpdml0eSUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjUwNzE2OHww&ixlib=rb-4.1.0&q=80&w=1080 "How Small Pleasures Boost Productivity Without Burnout")
-*How Small Pleasures Boost Productivity Without Burnout - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/a-glass-jar-with-a-message-inside-sitting-on-a-wooden-table-T_hpZ3JLyqk)*
+{{< figure src="https://images.unsplash.com/photo-1632494483455-a848e1225239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbWFsbCUyMHBsZWFzdXJlcyUyMHByb2R1Y3Rpdml0eSUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjUwNzE2OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass jar with a message inside sitting on a wooden table" title="How Small Pleasures Boost Productivity Without Burnout" caption="How Small Pleasures Boost Productivity Without Burnout - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/a-glass-jar-with-a-message-inside-sitting-on-a-wooden-table-T_hpZ3JLyqk)" >}}
 
 ## Key Takeaways
 - Small pleasures like a café visit or a hotel stay can boost your productivity.

@@ -12,8 +12,7 @@ original_title = "Comment ne plus dépendre des autres ?"
 source_medium = "https://medium.com/@phenrysay/922a9686acf5"
 +++
 
-![Tourist in Sri Lanka on Pidurangala Rock.](https://images.unsplash.com/photo-1604951029308-0edcb02b2e69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmRlcGVuZGVuY2UlMjBzZWxmLXJlbGlhbmNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1ODgzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live by Your Own Rules Without Guilt")
-*How to Live by Your Own Rules Without Guilt - Photo by [Joost Broeker](https://unsplash.com/@joostbroeker) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-standing-on-rock-formation-ag0s4Ft8YpM)*
+{{< figure src="https://images.unsplash.com/photo-1604951029308-0edcb02b2e69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmRlcGVuZGVuY2UlMjBzZWxmLXJlbGlhbmNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1ODgzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tourist in Sri Lanka on Pidurangala Rock." title="How to Live by Your Own Rules Without Guilt" caption="How to Live by Your Own Rules Without Guilt - Photo by [Joost Broeker](https://unsplash.com/@joostbroeker) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-standing-on-rock-formation-ag0s4Ft8YpM)" >}}
 
 Living by your own choices means taking responsibility for your decisions and commitments. Many of us, shaped by our upbringing and environment, often feel indebted or obligated to give our time to others. If someone stops us in the street, asks for help, or requests a favor, we feel we must say yes. But here’s the truth: your life belongs to you, and your time is your most precious asset.
 
@@ -23,8 +22,7 @@ When we feel obliged to do things we don’t enjoy, or give away our time just b
 
 Once you adopt this mindset, you start to feel free. Free to make your own decisions, free to live unique experiences that money can’t buy. This is how you build an extraordinary life, one based on your own rules, your own methods, and your own way of seeing things.
 
-![Photo by Doncoombez](https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmRlcGVuZGVuY2UlMjBzZWxmLXJlbGlhbmNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1ODgzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live by Your Own Rules Without Guilt")
-*How to Live by Your Own Rules Without Guilt - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)*
+{{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbmRlcGVuZGVuY2UlMjBzZWxmLXJlbGlhbmNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1ODgzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Live by Your Own Rules Without Guilt" caption="How to Live by Your Own Rules Without Guilt - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
 I encourage you to try this for at least three weeks. There’s a saying that it takes about three weeks to see if a new habit fits you. Less than 21 days isn’t enough to know if a new way of seeing the world is right for you. But if you stick with it for 21 to 30 days, you’ll really see if it matches your personality and lifestyle.
 
@@ -40,8 +38,7 @@ I’m always learning myself. I read, I test, I build in public. Every new proje
 
 The goal of life is to be happy, to live a life that feels right for you, a life that’s truly yours. Don’t wait for tomorrow. Start today. Take action now.
 
-![Photo by Wolfgang Hasselmann](https://images.unsplash.com/photo-1551713293-c97632294f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmRlcGVuZGVuY2UlMjBzZWxmLXJlbGlhbmNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1ODgzMnww&ixlib=rb-4.1.0&q=80&w=1080 "How to Live by Your Own Rules Without Guilt")
-*How to Live by Your Own Rules Without Guilt - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-petaled-flower-in-selective-focus-photography-R5xy3c7KN94)*
+{{< figure src="https://images.unsplash.com/photo-1551713293-c97632294f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpbmRlcGVuZGVuY2UlMjBzZWxmLXJlbGlhbmNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1ODgzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow petaled flower in focus" title="How to Live by Your Own Rules Without Guilt" caption="How to Live by Your Own Rules Without Guilt - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-petaled-flower-in-selective-focus-photography-R5xy3c7KN94)" >}}
 
 ---
 

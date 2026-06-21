@@ -12,8 +12,7 @@ original_title = "Comment refléter sa marque à travers sa personne ? Voici ce 
 source_medium = "https://medium.com/@phenrysay/98f19e30b10b"
 +++
 
-![Photo by Max Böhme](https://images.unsplash.com/photo-1678270835396-458b0cd89468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYnJhbmQlMjBpZGVudGl0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1Mzg2Njc4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Brand Without Feeling Fake")
-*How to Live Your Brand Without Feeling Fake - Photo by [Max Böhme](https://unsplash.com/@max_boehme) on [Unsplash](https://unsplash.com/photos/a-red-neon-sign-that-reads-i-am-bold-PvOkF5AJLSE)*
+{{< figure src="https://images.unsplash.com/photo-1678270835396-458b0cd89468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYnJhbmQlMjBpZGVudGl0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1Mzg2Njc4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A red neon sign that reads i am bold" title="How to Live Your Brand Without Feeling Fake" caption="How to Live Your Brand Without Feeling Fake - Photo by [Max Böhme](https://unsplash.com/@max_boehme) on [Unsplash](https://unsplash.com/photos/a-red-neon-sign-that-reads-i-am-bold-PvOkF5AJLSE)" >}}
 
 Branding is everything. Sure, marketing matters, but your brand—what you stand for, how you live it, how you breathe it—matters even more. When you truly connect with your brand, when you live and even meditate with it, you start to see it as your own child. You pour your time, your money, your energy into it. Your brand becomes your passion.
 
@@ -27,8 +26,7 @@ Your website is your storefront. It’s like walking into a physical shop. The m
 
 Why do people want to work at Apple, OpenAI, Meta, or Sony? Because the brand is strong, clear, and meaningful. Some brands, like Honeywell or Bosch, feel more generic, less focused. But when a brand is strong—like Dior’s “J’adore” or Nike—it creates an instant image in your mind. That’s what you want for your own brand.
 
-![Photo by Hank Paul](https://images.unsplash.com/photo-1645658043538-fc2bb1702cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYnJhbmQlMjBpZGVudGl0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1Mzg2Njc4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Brand Without Feeling Fake")
-*How to Live Your Brand Without Feeling Fake - Photo by [Hank Paul](https://unsplash.com/@henrypaulphotography) on [Unsplash](https://unsplash.com/photos/a-man-holding-a-book-that-says-designing-brand-identity-wKw5nxOxIZQ)*
+{{< figure src="https://images.unsplash.com/photo-1645658043538-fc2bb1702cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYnJhbmQlMjBpZGVudGl0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1Mzg2Njc4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man holding a book that says brand" title="How to Live Your Brand Without Feeling Fake" caption="How to Live Your Brand Without Feeling Fake - Photo by [Hank Paul](https://unsplash.com/@henrypaulphotography) on [Unsplash](https://unsplash.com/photos/a-man-holding-a-book-that-says-designing-brand-identity-wKw5nxOxIZQ)" >}}
 
 Work on your branding every day. Your homepage is your shop window. It’s the face of your business. People remember your service because of your brand. Think of Nike. I highly recommend reading the founder’s biography, *Shoe Dog* by Phil Knight. It’s an incredible story and will inspire you to work on your own brand, to keep improving your business.
 
@@ -52,8 +50,7 @@ A brand is alive. It grows and changes. When you’re 100% dedicated, your brand
 
 ---
 
-![Photo by Jon Tyson](https://images.unsplash.com/photo-1664236745544-c8595c47a631?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYnJhbmQlMjBpZGVudGl0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1Mzg2Njc4fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Live Your Brand Without Feeling Fake")
-*How to Live Your Brand Without Feeling Fake - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-green-and-white-sign-JJUzWt5JjOo)*
+{{< figure src="https://images.unsplash.com/photo-1664236745544-c8595c47a631?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGJyYW5kaW5nJTIwYnJhbmQlMjBpZGVudGl0eSUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1Mzg2Njc4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A green and white sign" title="How to Live Your Brand Without Feeling Fake" caption="How to Live Your Brand Without Feeling Fake - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-green-and-white-sign-JJUzWt5JjOo)" >}}
 
 ## Action Steps
 
