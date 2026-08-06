@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/3e98ef34ee88"
 
 ### Why settle for an average day?
 
-# How to Create Your Ideal Day 🎨
+## How to Create Your Ideal Day 🎨
 
 ### Simple steps to design a day that truly feels like yours
 

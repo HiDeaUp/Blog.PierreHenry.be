@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/4f2054c4e181"
 
 ### The surprising truth about building a winner’s routine
 
-# How to Build a Winner’s Daily Life? 🎯
+## How to Build a Winner’s Daily Life? 🎯
 
 ### Small steps, big results: why consistency beats intensity
 

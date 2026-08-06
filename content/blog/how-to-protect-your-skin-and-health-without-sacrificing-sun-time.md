@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/dc835ca55f07"
 
 ### A little sun, a little care, a big difference
 
-# This Self-Care Ritual Will CHANGE Your Life! #success #health #wellbeing
+## This Self-Care Ritual Will CHANGE Your Life! #success #health #wellbeing
 
 ### The simple daily habit that protects your body, your mind, and your future
 

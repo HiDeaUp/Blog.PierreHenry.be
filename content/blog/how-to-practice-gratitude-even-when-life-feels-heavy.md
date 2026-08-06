@@ -17,7 +17,7 @@ source_youtube = "https://www.youtube.com/watch?v=_UTjRt1NH38"
 
 #### A gentle reminder that gratitude is a daily practice, not just a feeling.
 
-# How to Nurture Gratitude Even in Difficult Times
+## How to Nurture Gratitude Even in Difficult Times
 
 ## Simple ways to keep your gratitude alive—even when life feels heavy
 

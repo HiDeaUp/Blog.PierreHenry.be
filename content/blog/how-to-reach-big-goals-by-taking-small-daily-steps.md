@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/0831b95c9fca"
 
 ### The Power of Small Steps
 
-# How to Make the Right Choices?
+## How to Make the Right Choices?
 
 ### Why your daily rhythm matters more than you think
 

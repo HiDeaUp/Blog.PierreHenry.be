@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/8464666bd14e"
 
 ### Clear Your Mind, Clear Your Life
 
-# How to Stop Letting Your Thoughts Weigh You Down
+## How to Stop Letting Your Thoughts Weigh You Down
 
 ### Simple thinking is just as powerful as a minimalist lifestyle.
 

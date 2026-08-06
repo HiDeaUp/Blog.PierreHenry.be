@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/285cd1cf2940"
 
 _Every engineer hits a plateau. Here’s how to break through it, every single day._
 
-# How Top Software Engineers Keep Getting Better Every Single Day
+## How Top Software Engineers Keep Getting Better Every Single Day
 
 ## Staying Relevant, Avoiding Stagnation, and Embracing Change in Software Engineering
 

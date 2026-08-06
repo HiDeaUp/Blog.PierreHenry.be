@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/d12021e012bd"
 
 ### Small steps, big changes.
 
-# The Power of Daily Actions 💥
+## The Power of Daily Actions 💥
 
 ### How small choices shape your life more than you think
 

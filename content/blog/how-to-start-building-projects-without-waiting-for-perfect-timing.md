@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/f6d000d0e94d"
 
 ### Stop Waiting, Start Building
 
-# From Dream to Reality: How I Bring My Projects to Life
+## From Dream to Reality: How I Bring My Projects to Life
 
 ### Why waiting for the “perfect moment” is a trap—and how small actions can change everything
 

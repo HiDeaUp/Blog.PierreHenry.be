@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/a26239093de3"
 
 ### When It Feels Like the Day Is Lost, Here’s How to Turn It Around
 
-# How to Save a Bad Day?
+## How to Save a Bad Day?
 ### The one thing that can turn your day from wasted to wonderful (and how to actually do it)
 
 Have you ever woken up late on a weekend, maybe with a headache, and realized half the day is already gone? That sinking feeling hits: “It’s already noon, I’ve wasted my day.” Your mood drops, and motivation seems out of reach. But what if you could do just one thing today to make it exceptional? What would that be?

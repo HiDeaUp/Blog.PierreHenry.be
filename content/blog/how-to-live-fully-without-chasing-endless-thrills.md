@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/fb5d9bae3541"
 
 ### Life is too short not to live it fully
 
-# Can We Truly Live Well? Here’s How to Make Life Worthwhile
+## Can We Truly Live Well? Here’s How to Make Life Worthwhile
 
 ### The secret to a fulfilling life is simpler than you think
 

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/9e6c812bfe8b"
 
 ### The Art of Being Fully Present
 
-# Committing 100% to Your Life: The Precious Moment Method
+## Committing 100% to Your Life: The Precious Moment Method
 
 ### How giving your all to every moment changes everything
 

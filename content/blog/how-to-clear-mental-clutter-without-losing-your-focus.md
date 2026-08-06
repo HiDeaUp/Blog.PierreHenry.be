@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/99a9444dd64b"
 
 ### When Distractions Take Over, What Do You Do?
 
-# How to Take Action in Your Life?
+## How to Take Action in Your Life?
 
 ### Stop letting mental clutter steal your time and energy—here’s how to clear your mind and move forward.
 

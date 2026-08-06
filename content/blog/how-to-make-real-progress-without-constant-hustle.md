@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/204fd29c2c6f"
 
 ### Sometimes, the best way forward is to pause.
 
-# How to Seize the Opportunities of the Present⏰
+## How to Seize the Opportunities of the Present⏰
 
 ### Why moments alone with yourself are the key to real progress
 

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/fc4095db7c2f"
 
 ### Get Ahead by Owning What You Learn
 
-# How to Truly Make New Knowledge Your Own
+## How to Truly Make New Knowledge Your Own
 
 ### The secret to staying ahead isn’t just learning more—it’s learning smarter.
 

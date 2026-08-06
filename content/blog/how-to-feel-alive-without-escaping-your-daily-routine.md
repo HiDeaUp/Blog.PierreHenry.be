@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/b775990b3fd6"
 
 ### The Art of Feeling Alive
 
-# RELAXATION. BIEN VIVRE. COMMENT SE RELAXER ?
+## RELAXATION. BIEN VIVRE. COMMENT SE RELAXER ?
 ### How Being Present Changes Everything
 
 Living well starts with feeling alive, being here, and truly sensing, “Now I am living, now I am present.” It sounds simple, but being in the present moment is a skill that takes practice. One of the best ways to do this is to take a short walk every day. This is your time alone, a moment to reflect on what you’ve done in the past weeks, what you want to do next, your new goals, and how you can improve. Think about what didn’t go well and how you might have handled things differently.

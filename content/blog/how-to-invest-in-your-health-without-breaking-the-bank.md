@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/93f29d6ea436"
 
 ### Your health is your real wealth
 
-# Why You Should Invest in Your Health
+## Why You Should Invest in Your Health
 
 ### (Spoiler: It’s worth far more than you think)
 

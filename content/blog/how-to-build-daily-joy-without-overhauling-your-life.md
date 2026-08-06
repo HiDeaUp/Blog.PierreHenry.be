@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/49356f0fee94"
 
 ### The Secret Ingredient to a Good Life
 
-# Feeling Good: My Whole SYSTEM Revealed!
+## Feeling Good: My Whole SYSTEM Revealed!
 
 ### How I Build Daily Joy, One Simple Habit at a Time
 

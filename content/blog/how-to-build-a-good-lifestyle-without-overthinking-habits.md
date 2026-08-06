@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/6a060b066e30"
 
 ### The Simple Power of Routine
 
-# A Good Lifestyle 🚀
+## A Good Lifestyle 🚀
 
 ### Why Small Habits Make All the Difference
 

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/6d372065af78"
 
 ### The Secret Ingredient to Lasting Growth
 
-# Building Your Success: Why Learn Differently?
+## Building Your Success: Why Learn Differently?
 
 ### The missing link between dreams and real progress is not what you think.
 

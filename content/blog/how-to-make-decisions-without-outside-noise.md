@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/9e3dbcf3f174"
 
 ### When logic wins over confusion
 
-# Constructive Reasoning ✨
+## Constructive Reasoning ✨
 
 ### How to make decisions that truly belong to you
 

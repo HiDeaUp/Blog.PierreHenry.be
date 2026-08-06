@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/8cb94fc126d5"
 
 ### Life’s Too Short to Wait
 
-# Why You Must Redefine Your Priorities: My Secrets I Never Share
+## Why You Must Redefine Your Priorities: My Secrets I Never Share
 
 ### The real reason you keep putting things off—and how to finally break the cycle.
 

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/99e8f644d68c"
 
 ### When Curiosity Becomes a Trap
 
-# PERSÉVÈRE et GAGNE : tes CLÉS pour GRAVIR LES ÉCHELONS
+## PERSÉVÈRE et GAGNE : tes CLÉS pour GRAVIR LES ÉCHELONS
 
 ### Why focus and discipline matter more than endless curiosity
 

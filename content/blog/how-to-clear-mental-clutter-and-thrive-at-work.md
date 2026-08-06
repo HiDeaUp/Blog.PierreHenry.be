@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/bf67fd56ab2a"
 
 ### When your mind feels heavy, transformation is possible.
 
-# Transform Yourself for Lasting Success 💪
+## Transform Yourself for Lasting Success 💪
 
 ### How to break free from mental clutter and truly thrive at work
 

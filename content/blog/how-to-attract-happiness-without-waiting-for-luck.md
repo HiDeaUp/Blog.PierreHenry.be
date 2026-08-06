@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/980206b7a868"
 
 ### A fresh look at happiness
 
-# How to Attract Happiness Into Your Life?
+## How to Attract Happiness Into Your Life?
 
 ### Simple routines and a new mindset to make happiness easier every day
 

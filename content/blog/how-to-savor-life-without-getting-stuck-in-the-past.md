@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/5a1f3fdf12ef"
 
 ### Savor Life, Don’t Just Endure It
 
-# How to SAVOR Life Instead of Just Getting Through It?
+## How to SAVOR Life Instead of Just Getting Through It?
 
 ### Why living in the present and making conscious choices is the real secret to happiness
 

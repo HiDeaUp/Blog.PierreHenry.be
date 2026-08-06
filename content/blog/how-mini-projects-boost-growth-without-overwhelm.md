@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/4c97024d49bd"
 
 ### The Secret Power of Small Projects
 
-# Why Invest in Mini-Projects? 🤫
+## Why Invest in Mini-Projects? 🤫
 
 ### How tiny daily challenges can transform your life (and maybe even your career)
 

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/d66c25f052b2"
 
 ### Sometimes, the Only Way Out Is a New Way of Thinking
 
-# Working Differently: How to Take Back Control of Your Life by Thinking Differently
+## Working Differently: How to Take Back Control of Your Life by Thinking Differently
 
 ### If you keep doing what you’ve always done, you’ll keep getting what you’ve always got.
 

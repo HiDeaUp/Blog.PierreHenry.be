@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/1d0a25d74177"
 
 ### Sometimes, the best way forward is to slow down.
 
-# CREATING A LIFE THAT SPEAKS TO YOU
+## CREATING A LIFE THAT SPEAKS TO YOU
 
 ### How small, steady steps can bring real fulfillment
 

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/6bd0d3df9478"
 
 Building a SaaS brand is a marathon, not a sprint.
 
-# MARKETING: How to Build Strong Branding for a SaaS Product?
+## MARKETING: How to Build Strong Branding for a SaaS Product?
 #### The secret sauce behind brands people love (and defend).
 
 Constructing a brand, building something solid, is never easy. It takes perseverance and a constant drive to search, question, and improve. As a founder, you have to be 100% devoted to your brand, giving it your all, just as you would with your own child. Your brand deserves your full attention. If you neglect it, your brand won’t radiate the same energy as those that truly stand out.

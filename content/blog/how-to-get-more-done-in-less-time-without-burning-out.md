@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/a86734799333"
 
 ### Sometimes, speed is the real secret ingredient.
 
-# The Speed of Accomplishment 🚀
+## The Speed of Accomplishment 🚀
 
 ### Why doing things well—and quickly—can change your life
 

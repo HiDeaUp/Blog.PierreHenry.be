@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/13e13e43662c"
 
 ### Build Your Own Bubble of Well-Being
 
-# I BUILT MY OWN WELL-BEING BUNKER!!!
+## I BUILT MY OWN WELL-BEING BUNKER!!!
 ### How creating your own “well-being bunker” can change your life, wherever you live
 
 Have you ever thought about living in a protected bubble—a place where you can truly thrive? Imagine a seed planted in rich, fertile soil. It grows strong and fast, compared to one struggling by the side of a polluted road. The same goes for us. When we’re in the right environment, we grow better, faster, and happier.

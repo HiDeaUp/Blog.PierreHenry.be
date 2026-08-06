@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/674fd092e7bb"
 
 ### See Your Day as a Whole Life
 
-# How to Use the Full Potential of Your Days?
+## How to Use the Full Potential of Your Days?
 
 ### What if you lived each day as if it were your whole life?
 

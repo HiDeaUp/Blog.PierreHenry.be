@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/c9a63fc1e9dc"
 
 ### Clear Your Space, Clear Your Mind
 
-# Why Everyone Should Follow This Advice
+## Why Everyone Should Follow This Advice
 
 ### Minimalism is not just about less stuff—it's about more clarity, energy, and freedom.
 

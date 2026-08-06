@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/f62b4602d021"
 
 {{< figure src="https://images.unsplash.com/photo-1576267422695-a6a97a0e4661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFkZXJzaGlwJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGRlY2lzaW9uJTIwbWFraW5nfGVufDB8MHx8fDE3NjcwNTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Festive holiday office party in #WindowsUglySweater Softwear by @Windows" title="Adopt Real Leadership or Stay Stuck as a Manager" caption="Adopt Real Leadership or Stay Stuck as a Manager - Photo by [Windows](https://unsplash.com/@windows) on [Unsplash](https://unsplash.com/photos/man-wearing-blue-windows-sweater-holding-sticky-note-on-white-board-dUE1NtiIJIA)" >}}
 
-# Stop Managing, Start Leading: What Makes a Great Lead Engineer
+## Stop Managing, Start Leading: What Makes a Great Lead Engineer
 
 ## Decision-Making, Motivation, and the Real Work of Technical Leadership
 

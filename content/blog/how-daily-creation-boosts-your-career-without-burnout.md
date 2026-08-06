@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/2049da288362"
 
 ### The Power of Small Steps
 
-# Creating Consistently and Changing Your Life
+## Creating Consistently and Changing Your Life
 
 ### How daily creation can transform your career, your confidence, and your future
 

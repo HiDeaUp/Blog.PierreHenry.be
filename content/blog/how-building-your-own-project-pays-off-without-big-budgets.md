@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/3fd65c5d626b"
 
 ### Build Something That Drives You
 
-# Start a Project That Motivates You! Watch This If You Want My Help
+## Start a Project That Motivates You! Watch This If You Want My Help
 
 ### Why building your own project is the best investment you can make in yourself
 

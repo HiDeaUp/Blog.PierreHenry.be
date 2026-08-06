@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/c519fbc1f6d9"
 
 ### The secret rhythm behind every achievement
 
-# Life Is a Repeating Routine 🔂
+## Life Is a Repeating Routine 🔂
 
 ### Why repetition is the real engine of success (and why no one talks about it)
 

@@ -17,7 +17,7 @@ source_medium = "https://medium.com/@phenrysay/9dce635be63b"
 Kicker:  
 How Just-in-Time Learning Makes You a Sharper Software Engineer
 
-# Practicing Just-in-Time Learning as a Software Engineer
+## Practicing Just-in-Time Learning as a Software Engineer
 
 *Subtitle: Why learning only what you need, when you need it, is the ultimate developer hack*
 

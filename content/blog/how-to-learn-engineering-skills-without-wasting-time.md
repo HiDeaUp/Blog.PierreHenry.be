@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/c5a513bc806f"
 
 {{< figure src="https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqdXN0LWluLXRpbWUlMjBsZWFybmluZyUyMGVuZ2luZWVyaW5nJTIwc2tpbGxzJTIwZWZmaWNpZW50JTIwbGVhcm5pbmd8ZW58MHwwfHx8MTc2NzA0ODEwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table w7sIj M5Xyc" title="How to Learn Engineering Skills Without Wasting Time" caption="How to Learn Engineering Skills Without Wasting Time - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)" >}}
 
-# How Just-in-Time Learning Makes You a Better Engineer #substack #shorts
+## How Just-in-Time Learning Makes You a Better Engineer #substack #shorts
 
 ## Stop Stockpiling Knowledge: Learn What You Need, When You Need It
 

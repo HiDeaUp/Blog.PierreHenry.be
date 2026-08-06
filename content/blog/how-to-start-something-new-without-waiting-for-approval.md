@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/ac82275b9a6c"
 
 ### The courage to start something new is already a victory.
 
-# Starting Something New…
+## Starting Something New…
 
 ### Why taking the first step matters more than you think
 
