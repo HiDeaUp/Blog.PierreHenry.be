@@ -103,7 +103,9 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Import English markdown articles into Hugo blog posts.")
     parser.add_argument("--source", type=Path, default=DEFAULT_SOURCE, help="Source article directory")
     parser.add_argument("--target", type=Path, default=DEFAULT_TARGET, help="Target Hugo content/blog directory")
-    parser.add_argument("--clean", action="store_true", help="Delete previously generated blog posts before importing")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--clean", action="store_true", help="Delete previously generated blog posts before importing")
+    mode.add_argument("--only-new", action="store_true", help="Import only articles that do not already exist in the target")
     return parser.parse_args()
 
 
@@ -138,6 +140,12 @@ def escape_toml(value: str) -> str:
 
 def tokenize(text: str) -> list[str]:
     return re.findall(r"[a-zA-Z']+", text.lower())
+
+
+def has_valid_title(value: str) -> bool:
+    plain_title = re.sub(r"[*_`#:\[\]]", "", value).strip()
+    words = tokenize(plain_title)
+    return len(words) >= 3 and plain_title.lower() not in {"title", "untitled"}
 
 
 def normalize_keyword_text(text: str) -> str:
@@ -247,6 +255,9 @@ def normalize_sections(body: str) -> str:
     normalized_lines: list[str] = []
     for line in body.splitlines():
         stripped = line.strip()
+        if stripped.startswith("# "):
+            normalized_lines.append(f"## {stripped[2:]}")
+            continue
         plain_label = stripped.strip("*_ ").rstrip(":").lower()
         if plain_label in HEADING_REPLACEMENTS:
             normalized_lines.append(HEADING_REPLACEMENTS[plain_label])
@@ -298,6 +309,54 @@ def strip_markdown(text: str) -> str:
     text = re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", text)
     text = re.sub(r"[`*_>#-]", "", text)
     return re.sub(r"\s+", " ", text).strip()
+
+
+def escape_shortcode_value(value: str) -> str:
+    return re.sub(r"\s+", " ", value).strip().replace("\\", "\\\\").replace('"', "&#34;")
+
+
+def normalize_alt_text(value: str, fallback: str) -> str:
+    alt = re.sub(r"\s*(?:-|--|—)\s*Photo by\s+.*?(?:\s+on\s+Unsplash)?\s*$", "", value, flags=re.I)
+    alt = re.sub(r"\s+", " ", alt).strip()
+    if not alt or alt.lower().startswith("photo by") or len(alt) > 180:
+        return fallback
+    return alt
+
+
+def make_figure_shortcode(src: str, alt: str, title: str, caption: str) -> str:
+    return (
+        f'{{{{< figure src="{escape_shortcode_value(src)}" '
+        f'alt="{escape_shortcode_value(alt)}" '
+        f'title="{escape_shortcode_value(title)}" '
+        f'caption="{escape_shortcode_value(caption)}" >}}}}\n\n'
+    )
+
+
+def convert_markdown_images(body: str, page_title: str) -> str:
+    image_pattern = re.compile(
+        r'(?ms)^!\[(?P<alt>.*?)\]\((?P<src>\S+?)(?:\s+"(?P<title>[^"]*)")?\)\s*$'
+    )
+    image_with_caption_pattern = re.compile(
+        r'(?ms)^!\[(?P<alt>.*?)\]\((?P<src>\S+?)(?:\s+"(?P<title>[^"]*)")?\)\s*\n'
+        r'(?P<caption>\*.*?\*|[^\n]*Photo by[^\n]*)\s*$'
+    )
+
+    def replacement(match: re.Match[str]) -> str:
+        raw_alt = match.group("alt")
+        title = match.group("title") or page_title
+        raw_caption = match.groupdict().get("caption") or ""
+        caption = raw_caption.strip().strip("*").strip()
+        alt = normalize_alt_text(raw_alt, page_title)
+        if not caption:
+            credit_match = re.search(r"(?:-|--|—)\s*(Photo by\s+.*)$", raw_alt, flags=re.I)
+            caption = credit_match.group(1) if credit_match else alt
+        return make_figure_shortcode(match.group("src"), alt, title, caption)
+
+    parts = re.split(r"(?ms)(^```.*?^```)", body)
+    for index in range(0, len(parts), 2):
+        parts[index] = image_with_caption_pattern.sub(replacement, parts[index])
+        parts[index] = image_pattern.sub(replacement, parts[index])
+    return "".join(parts)
 
 
 def extract_summary(body: str) -> str:
@@ -371,7 +430,7 @@ def ensure_clean_target(target: Path) -> None:
         child.unlink()
 
 
-def import_articles(source: Path, target: Path, clean: bool) -> None:
+def import_articles(source: Path, target: Path, clean: bool, only_new: bool) -> None:
     if clean:
         ensure_clean_target(target)
     else:
@@ -379,6 +438,7 @@ def import_articles(source: Path, target: Path, clean: bool) -> None:
 
     imported = 0
     skipped = 0
+    skipped_existing = 0
     priority_count = 0
     topic_counter: Counter[str] = Counter()
     slug_counter: Counter[str] = Counter()
@@ -390,15 +450,21 @@ def import_articles(source: Path, target: Path, clean: bool) -> None:
         text = path.read_text(encoding="utf-8")
         metadata, body = parse_front_matter(text)
 
-        if not metadata.get("optimized_title") or not looks_english(path, metadata, body):
+        title = metadata.get("optimized_title", "").strip()
+        if not has_valid_title(title) or not looks_english(path, metadata, body):
             skipped += 1
             continue
 
-        title = metadata["optimized_title"].strip()
-        cleaned_body = normalize_body(body)
-        summary = extract_summary(cleaned_body)
         tags = split_tags(metadata.get("tags", ""))
-        priority_topics = detect_priority_topics(title, tags, cleaned_body)
+        normalized_body = normalize_body(body)
+        destination = target / f"{slugify(title)}.md"
+        if only_new and destination.exists():
+            skipped_existing += 1
+            continue
+
+        summary = extract_summary(normalized_body)
+        priority_topics = detect_priority_topics(title, tags, normalized_body)
+        cleaned_body = convert_markdown_images(normalized_body, title)
         for topic in priority_topics:
             if topic not in tags:
                 tags.append(topic)
@@ -411,6 +477,9 @@ def import_articles(source: Path, target: Path, clean: bool) -> None:
 
         front_matter = render_front_matter(metadata, title, slug, tags, summary, priority_topics)
         destination = target / f"{slug}.md"
+        if only_new and destination.exists():
+            skipped_existing += 1
+            continue
         destination.write_text(f"{front_matter}\n\n{cleaned_body}", encoding="utf-8")
 
         imported += 1
@@ -420,6 +489,8 @@ def import_articles(source: Path, target: Path, clean: bool) -> None:
 
     print(f"Imported {imported} English articles into {target}")
     print(f"Skipped {skipped} files that were non-English, incomplete, or intentionally excluded")
+    if only_new:
+        print(f"Skipped {skipped_existing} articles already present in the target")
     print(f"Priority articles: {priority_count}")
     if topic_counter:
         print("Priority topic counts:")
@@ -429,7 +500,7 @@ def import_articles(source: Path, target: Path, clean: bool) -> None:
 
 def main() -> None:
     args = parse_args()
-    import_articles(args.source.resolve(), args.target.resolve(), args.clean)
+    import_articles(args.source.resolve(), args.target.resolve(), args.clean, args.only_new)
 
 
 if __name__ == "__main__":
