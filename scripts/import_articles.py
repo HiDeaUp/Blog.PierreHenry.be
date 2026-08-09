@@ -7,6 +7,7 @@ import re
 import shutil
 import unicodedata
 from collections import Counter
+from datetime import datetime
 from pathlib import Path
 
 
@@ -106,6 +107,12 @@ def parse_args() -> argparse.Namespace:
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument("--clean", action="store_true", help="Delete previously generated blog posts before importing")
     mode.add_argument("--only-new", action="store_true", help="Import only articles that do not already exist in the target")
+    parser.add_argument(
+        "--include-slug",
+        action="append",
+        default=[],
+        help="Import only an article with this slug derived from its optimized title. Repeat for curated batches.",
+    )
     return parser.parse_args()
 
 
@@ -136,6 +143,14 @@ def slugify(value: str) -> str:
 
 def escape_toml(value: str) -> str:
     return value.replace("\\", "\\\\").replace('"', '\\"')
+
+
+def normalize_publication_date(value: str) -> str:
+    value = value.strip()
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?", value):
+        offset = datetime.now().astimezone().strftime("%z")
+        return f"{value}{offset[:3]}:{offset[3:]}"
+    return value or "1970-01-01T00:00:00Z"
 
 
 def tokenize(text: str) -> list[str]:
@@ -201,46 +216,46 @@ def detect_priority_topics(title: str, tags: list[str], body: str) -> list[str]:
     return topics
 
 
-def strip_leading_heading_block(body: str) -> str:
+def strip_leading_heading_block(body: str, page_title: str) -> str:
     lines = body.splitlines()
-    kept_prefix: list[str] = []
     index = 0
 
     while index < len(lines):
         stripped = lines[index].strip()
         if not stripped:
-            kept_prefix.append(lines[index])
-            index += 1
-            continue
-        if stripped.startswith("!["):
-            kept_prefix.append(lines[index])
-            index += 1
-            continue
-        if kept_prefix and stripped.startswith("*") and stripped.endswith("*"):
-            kept_prefix.append(lines[index])
             index += 1
             continue
         break
 
-    heading_index = index
-    saw_heading = False
-    checked_non_empty = 0
-    while heading_index < len(lines) and checked_non_empty < 8:
-        stripped = lines[heading_index].strip()
-        if not stripped:
-            heading_index += 1
-            continue
-        checked_non_empty += 1
-        if stripped.startswith("#"):
-            saw_heading = True
-            heading_index += 1
-            continue
-        break
+    # Source articles often begin with a decorative topic label before a heading
+    # that repeats the page title and an unreliable generated subtitle.
+    if (
+        index < len(lines)
+        and re.fullmatch(r"\*\*[^*]+\*\*", lines[index].strip())
+    ):
+        index += 1
+        while index < len(lines) and not lines[index].strip():
+            index += 1
 
-    if saw_heading:
-        trimmed = kept_prefix + ([""] if kept_prefix else []) + lines[heading_index:]
-        return "\n".join(trimmed).strip()
-    return body.strip()
+    if index >= len(lines):
+        return body.strip()
+
+    heading_match = re.match(r"^#{1,6}\s+(.*)$", lines[index].strip())
+    if not heading_match or slugify(heading_match.group(1).strip(" *_")) != slugify(page_title):
+        return body.strip()
+
+    index += 1
+    while index < len(lines) and not lines[index].strip():
+        index += 1
+
+    if index < len(lines):
+        subtitle_match = re.match(r"^#{3,6}\s+(.*)$", lines[index].strip())
+        if subtitle_match:
+            index += 1
+            while index < len(lines) and not lines[index].strip():
+                index += 1
+
+    return "\n".join(lines[index:]).strip()
 
 
 def strip_malformed_media_blocks(body: str) -> str:
@@ -307,7 +322,7 @@ def normalize_sections(body: str) -> str:
 def strip_markdown(text: str) -> str:
     text = re.sub(r"!\[[^\]]*\]\([^\)]*\)", "", text)
     text = re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", text)
-    text = re.sub(r"[`*_>#-]", "", text)
+    text = re.sub(r"[`*_>#-]", " ", text)
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -374,10 +389,10 @@ def extract_summary(body: str) -> str:
     return ""
 
 
-def normalize_body(body: str) -> str:
+def normalize_body(body: str, page_title: str) -> str:
     cleaned = body.lstrip()
     cleaned = strip_malformed_media_blocks(cleaned)
-    cleaned = strip_leading_heading_block(cleaned)
+    cleaned = strip_leading_heading_block(cleaned, page_title)
     cleaned = normalize_sections(cleaned)
     return cleaned.strip() + "\n"
 
@@ -387,7 +402,7 @@ def render_front_matter(metadata: dict[str, str], title: str, slug: str, tags: l
         "+++",
         f'title = "{escape_toml(title)}"',
         f'slug = "{escape_toml(slug)}"',
-        f'date = "{escape_toml(metadata.get("date", "1970-01-01T00:00:00"))}"',
+        f'date = "{escape_toml(normalize_publication_date(metadata.get("date", "")))}"',
         "draft = false",
     ]
 
@@ -430,7 +445,7 @@ def ensure_clean_target(target: Path) -> None:
         child.unlink()
 
 
-def import_articles(source: Path, target: Path, clean: bool, only_new: bool) -> None:
+def import_articles(source: Path, target: Path, clean: bool, only_new: bool, include_slugs: set[str]) -> None:
     if clean:
         ensure_clean_target(target)
     else:
@@ -439,6 +454,7 @@ def import_articles(source: Path, target: Path, clean: bool, only_new: bool) -> 
     imported = 0
     skipped = 0
     skipped_existing = 0
+    skipped_not_selected = 0
     priority_count = 0
     topic_counter: Counter[str] = Counter()
     slug_counter: Counter[str] = Counter()
@@ -455,9 +471,14 @@ def import_articles(source: Path, target: Path, clean: bool, only_new: bool) -> 
             skipped += 1
             continue
 
+        article_slug = slugify(title)
+        if include_slugs and article_slug not in include_slugs:
+            skipped_not_selected += 1
+            continue
+
         tags = split_tags(metadata.get("tags", ""))
-        normalized_body = normalize_body(body)
-        destination = target / f"{slugify(title)}.md"
+        normalized_body = normalize_body(body, title)
+        destination = target / f"{article_slug}.md"
         if only_new and destination.exists():
             skipped_existing += 1
             continue
@@ -470,7 +491,7 @@ def import_articles(source: Path, target: Path, clean: bool, only_new: bool) -> 
                 tags.append(topic)
         tags = sorted(dict.fromkeys(tags))
 
-        slug = slugify(title)
+        slug = article_slug
         slug_counter[slug] += 1
         if slug_counter[slug] > 1:
             slug = f"{slug}-{slug_counter[slug]}"
@@ -491,6 +512,8 @@ def import_articles(source: Path, target: Path, clean: bool, only_new: bool) -> 
     print(f"Skipped {skipped} files that were non-English, incomplete, or intentionally excluded")
     if only_new:
         print(f"Skipped {skipped_existing} articles already present in the target")
+    if include_slugs:
+        print(f"Skipped {skipped_not_selected} articles outside the curated selection")
     print(f"Priority articles: {priority_count}")
     if topic_counter:
         print("Priority topic counts:")
@@ -500,7 +523,13 @@ def import_articles(source: Path, target: Path, clean: bool, only_new: bool) -> 
 
 def main() -> None:
     args = parse_args()
-    import_articles(args.source.resolve(), args.target.resolve(), args.clean, args.only_new)
+    import_articles(
+        args.source.resolve(),
+        args.target.resolve(),
+        args.clean,
+        args.only_new,
+        set(args.include_slug),
+    )
 
 
 if __name__ == "__main__":
