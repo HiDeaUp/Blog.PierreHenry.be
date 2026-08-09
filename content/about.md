@@ -27,8 +27,4 @@ I enjoy Roquefort and other great cheeses, a good coffee (usually an almond flat
 
 ## Find Me Online
 
-- [PierreHenry.Dev](https://pierrehenry.dev)
-- [GitHub](https://github.com/pH-7)
-- [YouTube](https://youtube.com/@pH7Programming)
-- [Bluesky](https://bsky.app/profile/pierrehenry.dev)
-- [X / @phenrysay](https://x.com/phenrysay)
+{{< social-links >}}
