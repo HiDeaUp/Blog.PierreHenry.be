@@ -13,7 +13,7 @@ source_medium = "https://medium.com/@phenrysay/c33cad51b253"
 source_youtube = "https://www.youtube.com/watch?v=2uPhf9mOnCk"
 +++
 
-{{< figure src="/images/blog/how-i-built-a-meaningful-app/mobile-app-development.webp" alt="Developer testing a mobile application beside a laptop" title="Testing a mobile application during development" caption="Testing a mobile application beside the development environment. Photo by [Bayu Syaits](https://unsplash.com/@bayusyaits) on [Unsplash](https://unsplash.com/photos/person-using-smartphone-next-to-laptop-and-tools-s2RD32_OwTw)." >}}
+{{< figure src="/images/blog/how-i-built-a-meaningful-app/mobile-app-development.webp" alt="Developer testing a mobile application beside a laptop" title="Testing a mobile application during development" caption="Testing a mobile application during development - Photo by [Bayu Syaits](https://unsplash.com/@bayusyaits) on [Unsplash](https://unsplash.com/photos/person-using-smartphone-next-to-laptop-and-tools-s2RD32_OwTw)" >}}
 
 **Sustainable Personal Projects**
 
@@ -31,7 +31,7 @@ By setting a clear, non-negotiable window for your project, you make steady prog
 
 For example, I developed M Snap, a food-related app for iPhone, because I wanted a tool to scan and qualify foods based on how processed they are: a feature I couldn’t find elsewhere. This project is close to my heart, but I never let it take over my entire day.
 
-{{< figure src="/images/blog/how-i-built-a-meaningful-app/food-scanning-iphone.webp" alt="Person using an iPhone camera to capture a meal" title="Capturing food with an iPhone" caption="Using an iPhone camera with a meal, close to how M Snap begins its food analysis. Photo by [S O C I A L . C U T](https://unsplash.com/@socialcut) on [Unsplash](https://unsplash.com/photos/person-using-iphone-taking-picture-of-food-Wk6Jx6NQOGY)." >}}
+{{< figure src="/images/blog/how-i-built-a-meaningful-app/food-scanning-iphone.webp" alt="Person using an iPhone camera to capture a meal" title="Capturing food with an iPhone" caption="Capturing food with an iPhone - Photo by [S O C I A L . C U T](https://unsplash.com/@socialcut) on [Unsplash](https://unsplash.com/photos/person-using-iphone-taking-picture-of-food-Wk6Jx6NQOGY)" >}}
 
 Here’s how it fits into my routine: I take a walk, enjoy the outdoors, then settle into a café for my dedicated hour of development. Sometimes, progress is slow. There are days when I barely move the needle, and that can be frustrating. But I’ve learned these moments are part of the process. On other days, everything clicks; I solve a tricky bug, add a new feature, or have a breakthrough idea while showering or walking. That spark of insight often leads to a leap forward the next day.
 
@@ -47,7 +47,7 @@ It’s tempting to postpone your project, telling yourself you’ll start when y
 
 One of the most liberating lessons I’ve learned is to avoid comparing my progress to others. It’s pointless to measure your inside against someone else’s outside. You’re not them. The only comparison that matters is with your past self. Are you moving forward, even a little, compared to yesterday? That’s the real metric of growth.
 
-{{< figure src="/images/blog/how-i-built-a-meaningful-app/daily-cafe-development.webp" alt="Person working on a laptop with coffee inside a cafe" title="A focused development session in a cafe" caption="A short development session in a cafe, matching the daily routine described in this article. Photo by [atelierbyvineeth](https://unsplash.com/@atelierbyvineeth) on [Unsplash](https://unsplash.com/photos/person-working-on-laptop-with-coffee-at-cafe-e9JnKvY6O5A)." >}}
+{{< figure src="/images/blog/how-i-built-a-meaningful-app/daily-cafe-development.webp" alt="Person working on a laptop with coffee inside a cafe" title="A focused development session in a cafe" caption="A focused development session in a cafe - Photo by [atelierbyvineeth](https://unsplash.com/@atelierbyvineeth) on [Unsplash](https://unsplash.com/photos/person-working-on-laptop-with-coffee-at-cafe-e9JnKvY6O5A)" >}}
 
 With each repetition, ask yourself: Is there a better way to do this? Improvement isn’t automatic just because you repeat a task. You have to seek it out, to iterate and refine your approach. That’s how you turn small daily actions into meaningful achievements.
 
