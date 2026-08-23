@@ -34,8 +34,8 @@ You can also use a timer to break your day into 90-minute blocks. Every 90 minut
 
 If you want to boost your energy even more, look up Anthony Robbins and his documentary “I’m Not Your Guru.” Before his seminars, he does some unusual but energizing routines. Even if it feels odd, moving your body and repeating positive phrases can fill you with energy and motivation.
 
-> *“It’s not what we do once in a while that shapes our lives, but what we do consistently.”*  
-— Anthony Robbins
+> *“It’s not what we do once in a while that affects our lives, but what we do consistently.”*
+*Anthony Robbins*
 
 All these small changes add up. By tracking your habits, creating positive environments, and using encouraging self-talk, you can make your daily life better, step by step.
 

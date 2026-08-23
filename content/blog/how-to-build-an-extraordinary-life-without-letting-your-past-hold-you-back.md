@@ -25,10 +25,10 @@ Some people have only one arm, or one leg, or maybe just one foot. And yet, they
 That’s the mindset that makes you unstoppable. It’s about always looking for ways to improve, to change, to flip the situation in your favor. It’s about tenacity, seeing the bright side, and staying positive. Yes, positivity pays off. That’s what makes all the difference. That’s the force that will make you stand out, that will help you win.
 
 > *“Strength does not come from physical capacity. It comes from an indomitable will.”*  
-— Mahatma Gandhi
+*Mahatma Gandhi*
 
 > *“The greatest glory in living lies not in never falling, but in rising every time we fall.”*  
-— Nelson Mandela
+*Nelson Mandela*
 
 ---
 

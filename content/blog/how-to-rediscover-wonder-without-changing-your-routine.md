@@ -27,14 +27,14 @@ Of course, it’s all about how you see things. We each experience life differen
 If you’re not happy where you are, remember that you can always move or change your situation. Take action. Don’t wait for the “right” moment, because it may never come. There’s a Chinese saying I love:
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*  
-— Chinese proverb
+*Chinese proverb*
 
 If you had planted a tree 20 years ago, it would be huge and beautiful today. But if you plant one now, in 20 years it will be just as amazing. This is a reminder to take action now, so that in the future, you can look back and be proud of the life you’ve built.
 
 So, enjoy the little wonders. Be amazed by the world around you. I’m about to drive to the beach near Adelaide, South Australia, and I know I’ll be delighted by the fish jumping in the water. Life is full of these small, beautiful moments if you let yourself notice them.
 
 > *Life is short, and it is up to you to make it sweet.*  
-— Sarah Louise Delany
+*Sarah Louise Delany*
 
 {{< figure src="https://images.unsplash.com/photo-1472162072942-cd5147eb3902?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRodXNpYXNtJTIwbWluZGZ1bG5lc3MlMjBjaGlsZGxpa2UlMjB3b25kZXJ8ZW58MHwwfHx8MTc1NjUyNzk3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy sitting on bench while holding a book" title="How to Rediscover Wonder Without Changing Your Routine" caption="How to Rediscover Wonder Without Changing Your Routine - Photo by [Ben White](https://unsplash.com/@benwhitephotography) on [Unsplash](https://unsplash.com/photos/boy-sitting-on-bench-while-holding-a-book-4K2lIP0zc_k)" >}}
 
@@ -42,7 +42,7 @@ So, enjoy the little wonders. Be amazed by the world around you. I’m about to 
 
 ## Key Takeaways
 - *Find joy in small, everyday things, just like when you were a child.*
-- *Appreciate what you have—nature, comfort, and connection.*
+- *Appreciate what you have: nature, comfort, and connection.*
 - *Don’t wait for the perfect moment to make a change. Start now.*
 - *It’s your responsibility to see life in a way that brings you happiness.*
 

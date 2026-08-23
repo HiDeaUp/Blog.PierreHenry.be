@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/351a44c11596"
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwOTM3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Build a Life That Matters Without Wasting Time" caption="How to Build a Life That Matters Without Wasting Time - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
-Building something for yourself and achieving your own goals is what truly makes a difference in life. Action is essential. If you never take action, if you’re not proactive in your decisions, or if you don’t even know what you really want, you’ll find yourself drifting. I know this feeling well—it’s normal not to always have a clear idea of what you want. But that’s exactly why you need to pause and reflect.
+Building something for yourself and achieving your own goals is what truly makes a difference in life. Action is essential. If you never take action, if you’re not proactive in your decisions, or if you don’t even know what you really want, you’ll find yourself drifting. I know this feeling well; it’s normal not to always have a clear idea of what you want. But that’s exactly why you need to pause and reflect.
 
 One of my favorite ways to do this is to sit in a café for an hour, just thinking and brainstorming. I ask myself: by next week, what do I want to have accomplished? Sometimes, the answer surprises me. We often think we want something because others influence us, but when we dig deeper, we realize it’s not what we truly desire.
 
@@ -30,9 +30,9 @@ Life is too short to make choices that don’t excite you. You need to make the 
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*
 >
-> — Chinese proverb
+> *Chinese proverb*
 
-Don’t put off what you want to do. If you start today, in twenty years you’ll be glad you did. The same goes for your success, your happiness, and your wealth. Take action now. I believe in you, so believe in yourself. Life is short—go for it. Success is worth it.
+Don’t put off what you want to do. If you start today, in twenty years you’ll be glad you did. The same goes for your success, your happiness, and your wealth. Take action now. I believe in you, so believe in yourself. Life is short: go for it. Success is worth it.
 
 {{< figure src="https://images.unsplash.com/photo-1579122383971-50744c185e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTYwOTM3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Time" title="How to Build a Life That Matters Without Wasting Time" caption="How to Build a Life That Matters Without Wasting Time - Photo by [Ralph Hutter](https://unsplash.com/@pixelfreund) on [Unsplash](https://unsplash.com/photos/round-white-and-black-analog-clock-oxX98rqmd_g)" >}}
 

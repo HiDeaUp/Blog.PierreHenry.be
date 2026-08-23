@@ -18,13 +18,13 @@ When we talk about getting rich, most people immediately think of making more mo
 
 ## The Power of Stepping Back
 
-Sometimes, life throws unexpected events our way. These moments can weigh heavily on our minds, making it hard to think big or focus on what really matters—whether that’s your personal life, your business, or your career. That’s why it’s so important to step back and take a break from the daily grind.
+Sometimes, life throws unexpected events our way. These moments can weigh heavily on our minds, making it hard to think big or focus on what really matters: whether that’s your personal life, your business, or your career. That’s why it’s so important to step back and take a break from the daily grind.
 
-One method I find incredibly helpful is taking a personal retreat. Bill Gates made this idea popular with his “Think Week”—he would disappear for a week, completely isolated, with just notebooks and pens. No electronics, no distractions. He used this time to reflect, write, and think deeply about his life and work.
+One method I find incredibly helpful is taking a personal retreat. Bill Gates made this idea popular with his “Think Week”; he would disappear for a week, completely isolated, with just notebooks and pens. No electronics, no distractions. He used this time to reflect, write, and think deeply about his life and work.
 
 I’ve done this myself many times. I’m a huge fan of what I call “hermit weekends.” You simply isolate yourself for a weekend, away from the city, ideally somewhere in nature. It could be the mountains, a quiet bay, or even just a peaceful spot not far from home. The key is to disconnect and give yourself space to breathe.
 
-Right now, I’m sitting by the beautiful Bay Elisabeth. The weather changes quickly here—one moment it’s sunny and warm, the next it’s windy and cool. I’ve even swum in this bay, though you have to watch out for sharks! But honestly, no matter what’s in the water, the place is stunning and safe. That’s what matters.
+Right now, I’m sitting by the beautiful Bay Elisabeth. The weather changes quickly here: one moment it’s sunny and warm, the next it’s windy and cool. I’ve even swum in this bay, though you have to watch out for sharks! But honestly, no matter what’s in the water, the place is stunning and safe. That’s what matters.
 
 ## The Importance of Doing Nothing
 
@@ -46,7 +46,7 @@ Taking action is the most important step. It might be scary, but the best moment
 
 > *The best investment you can make is in yourself.*
 > 
-> — Warren Buffett
+> *Warren Buffett*
 
 > *You are responsible for your own happiness. The answer is within you.*
 
@@ -56,7 +56,7 @@ Taking action is the most important step. It might be scary, but the best moment
 
 ## Key Takeaways
 
-- Investing in yourself—your skills, health, and experiences—brings lasting wealth.
+- Investing in yourself (your skills, health, and experiences) brings lasting wealth.
 - Take regular breaks to step back, reflect, and recharge.
 - Don’t wait for the “perfect” time; start making changes now.
 - You are responsible for your own happiness and choices.

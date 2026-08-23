@@ -3,8 +3,8 @@ title = "How to Make Every Day a Win With One Simple Action"
 slug = "how-to-make-every-day-a-win-with-one-simple-action"
 date = "2025-08-19T22:45:35.001877"
 draft = false
-description = "What is the one thing you want to accomplish today? Not a list of endless tasks, but that single, meaningful action that, if done, would make your day feel like a true success. Imagine finishing yo..."
-summary = "What is the one thing you want to accomplish today? Not a list of endless tasks, but that single, meaningful action that, if done, would make your day feel like a true success. Imagine finishing yo..."
+description = "What is the one thing you want to accomplish today? Not a list of too many tasks, but that single, meaningful action that, if done, would make your day feel like a true success. Imagine finishing yo..."
+summary = "What is the one thing you want to accomplish today? Not a list of too many tasks, but that single, meaningful action that, if done, would make your day feel like a true success. Imagine finishing yo..."
 tags = ["daily habits", "goal setting", "money", "motivation", "nomad", "productivity", "success", "tasks"]
 priority = true
 priority_topics = ["nomad", "money", "tasks", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/4adc1ef80450"
 
 {{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTYwNzUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Make Every Day a Win With One Simple Action" caption="How to Make Every Day a Win With One Simple Action - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
-What is the one thing you want to accomplish today? Not a list of endless tasks, but that single, meaningful action that, if done, would make your day feel like a true success. Imagine finishing your day and thinking, “Yes, I did it. Today was fantastic.” That’s the feeling I want you to aim for.
+What is the one thing you want to accomplish today? Not a list of too many tasks, but that single, meaningful action that, if done, would make your day feel like a true success. Imagine finishing your day and thinking, “Yes, I did it. Today was fantastic.” That’s the feeling I want you to aim for.
 
 The idea is simple: pick one thing that really matters to you. It could be something personal, like going for a jog, hitting the gym, meditating, reading, or even just enjoying a coffee at your favorite spot. For me, it used to be reading at Café Nero or Starbucks, especially when I was traveling. For you, it might be something else entirely. The important part is that it’s something close to your heart.
 
@@ -22,16 +22,16 @@ Write this one thing down. Use a notebook, a journal, your phone, or an app like
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTYwNzUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Every Day a Win With One Simple Action" caption="How to Make Every Day a Win With One Simple Action - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
-Sometimes, your “one thing” might only take ten minutes, like a short meditation. Other times, it could take an hour. The point is to do something for yourself—something that matters. If you get that done, you can feel good about the rest of your day, no matter what else happens.
+Sometimes, your “one thing” might only take ten minutes, like a short meditation. Other times, it could take an hour. The point is to do something for yourself: something that matters. If you get that done, you can feel good about the rest of your day, no matter what else happens.
 
-You can add one or two less important tasks if you want, but keep your main focus on that single, most important action. Write it down the night before or first thing in the morning. I like to start my day with two glasses of water at room temperature (I even wrote about this in my book and on my website). After that, I write down my “one thing” for the day. Once it’s written, you’ve made a commitment to yourself. It’s like signing a contract. There’s no turning back—you’re holding yourself accountable.
+You can add one or two less important tasks if you want, but keep your main focus on that single action. Write it down the night before or first thing in the morning. I like to start my day with two glasses of water at room temperature, then begin before distractions appear.
 
 Treat this daily habit like brushing your teeth or taking a shower. Make it part of your routine. Every day, do your “one thing.” Over time, it becomes second nature, and you’ll notice a real difference in how you feel about your days.
 
 Don’t put off what matters most. There’s an old Chinese proverb that says the best time to plant a tree was twenty years ago. The second-best time is now. If you start today, imagine how much you’ll have grown in twenty years.
 
 > *The best time to plant a tree was twenty years ago. The second-best time is now.*
-> — Chinese Proverb
+> *Chinese Proverb*
 
 {{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTYwNzUzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How to Make Every Day a Win With One Simple Action" caption="How to Make Every Day a Win With One Simple Action - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 
@@ -39,7 +39,7 @@ Don’t put off what matters most. There’s an old Chinese proverb that says th
 
 ## Key Takeaways
 - *Choose one meaningful thing to accomplish each day.*
-- *Write it down—make it a commitment to yourself.*
+- *Write it down: make it a commitment to yourself.*
 - *Do it early, before the day gets away from you.*
 - *Treat it as part of your daily routine, like brushing your teeth.*
 - *Don’t wait for the perfect moment. Start now.*

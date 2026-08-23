@@ -30,11 +30,11 @@ This approach doesn’t just help your business; it transforms your life. You ga
 
 > *If I have seen further, it is by standing on the shoulders of giants.*
 >
-> — Isaac Newton
+> *Isaac Newton*
 
 > *Success leaves clues. Go figure out what someone who was successful did, and model it. Improve it, but learn their steps. They have knowledge.*
 >
-> — Tony Robbins
+> *Tony Robbins*
 
 ---
 
@@ -44,7 +44,7 @@ This approach doesn’t just help your business; it transforms your life. You ga
 - *Learn from those who have already achieved what you want.*
 - *Make it a daily habit to study, listen, or read from the best.*
 - *Adapt their lessons to your own life and challenges.*
-- *Think like an investigator—break down their methods and apply them.*
+- *Think like an investigator: break down their methods and apply them.*
 
 ---
 

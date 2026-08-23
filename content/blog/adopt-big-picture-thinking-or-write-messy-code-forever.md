@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/d4369432c58a"
 
 {{< figure src="https://images.unsplash.com/photo-1568716353609-12ddc5c67f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBjb2RpbmclMjBiZXN0JTIwcHJhY3RpY2VzfGVufDB8MHx8fDE3NjcwNjkxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="C plus plus code in an coloured editor square strongly foreshortened" title="Adopt Big Picture Thinking or Write Messy Code Forever" caption="Adopt Big Picture Thinking or Write Messy Code Forever - Photo by [Patrick Martin](https://unsplash.com/@patrickmmartin) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-code-on-it-UMlT0bviaek)" >}}
 
-You know, as a software engineer, it’s so tempting to just dive right into the code. I get it. There’s this urge to open up your editor, start hammering away, maybe even fire up some AI tool to spit out a few functions for you. But honestly, that’s not the way to build solid, maintainable software. Before you even touch a line of code, you need to have a global view—a big picture—of what you’re actually supposed to build.
+You know, as a software engineer, it’s so tempting to just dive right into the code. I get it. There’s this urge to open up your editor, start hammering away, maybe even fire up some AI tool to spit out a few functions for you. But honestly, that’s not the way to build solid, maintainable software. Before you even touch a line of code, you need to have a global view (a big picture) of what you’re actually supposed to build.
 
 Let’s talk about why that matters.
 
@@ -22,7 +22,7 @@ Let’s talk about why that matters.
 
 I’ve seen it so many times (and yeah, I’ve done it myself): you get a new task, maybe a feature request or a bug report, and your first instinct is to go straight to the codebase. You start changing files, refactoring, or even rewriting stuff, thinking you’re making progress. But without a plan, you’re basically swimming in the dark.
 
-Here’s the thing: you need to stop and think first. What exactly needs to be done? What’s the best way to implement it? Is this even necessary? Sometimes, the answer is no—you don’t need to refactor that codebase at all. Or maybe there’s a third-party service that already does what you need. Maybe, just maybe, another team in your company has already built something similar. Why reinvent the wheel?
+Here’s the thing: you need to stop and think first. What exactly needs to be done? What’s the best way to implement it? Is this even necessary? Sometimes, the answer is no; you don’t need to refactor that codebase at all. Or maybe there’s a third-party service that already does what you need. Maybe, just maybe, another team in your company has already built something similar. Why reinvent the wheel?
 
 ### Prototyping and Planning
 
@@ -46,7 +46,7 @@ Here’s another thing we forget: talk to people. If you’re in a company, reac
 We all like to think we’re smart problem solvers. But even the best of us make silly mistakes when we rush in. Taking a step back, thinking through the problem, and exploring all your options is what separates good engineers from great ones.
 
 > “Measure twice, cut once.”  
-> — Old carpenter’s wisdom, but it applies to code too.
+> *Old carpenter’s wisdom, but it applies to code too.*
 
 ### Practical Example
 
@@ -57,7 +57,7 @@ Let’s say you’re asked to add a new authentication feature. Instead of immed
 - Has another team already implemented something similar?
 - Do we really need to build this, or can we integrate with an existing provider?
 
-A little research and planning can save you hours—or even days—of wasted effort.
+A little research and planning can save you hours (or even days) of wasted effort.
 
 {{< figure src="https://images.unsplash.com/photo-1722080826167-4ea87368cbc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBjb2RpbmclMjBiZXN0JTIwcHJhY3RpY2VzfGVufDB8MHx8fDE3NjcwNjkxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a screen with green text" title="Adopt Big Picture Thinking or Write Messy Code Forever" caption="Adopt Big Picture Thinking or Write Messy Code Forever - Photo by [Wesley Ford](https://unsplash.com/@blender_person) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-green-text-biBRoGc7ir0)" >}}
 
@@ -67,7 +67,7 @@ A little research and planning can save you hours—or even days—of wasted eff
 
 - **Always get a big-picture view before coding.**
 - **Prototype and plan your implementation.**
-- **Ask if the work is really necessary—sometimes the best code is no code.**
+- **Ask if the work is really necessary: sometimes the best code is no code.**
 - **Communicate with your team and other departments.**
 - **Don’t reinvent the wheel if a solution already exists.**
 - **Slowing down at the start saves time (and headaches) later.**

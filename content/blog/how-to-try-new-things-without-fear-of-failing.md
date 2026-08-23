@@ -18,7 +18,7 @@ Have you ever thought about stepping out of your usual routine and trying someth
 
 Think about it. Maybe you’ve seen others do things and thought, “That’s not for me.” But what if you gave it a shot? For example, if you’re not a programmer, why not sign up for a coding bootcamp, just for fun? If you’ve never danced, try a dance class. If you’ve never worked with your hands or done any gardening, plant a few tomatoes or cherries in a small garden. If you’ve never cleaned professionally, try working for a week in a shop or somewhere else, even if it’s just for the experience.
 
-Maybe making coffee isn’t your thing. What if you worked in a coffee shop like Starbucks or Costa for a while? If you don’t usually write, challenge yourself to write a book, even a short one—90 or 100 pages. Take a month or two, maybe even a sabbatical, and go somewhere new. It could be Costa Rica, New Zealand, or Japan. Do it just for the experience.
+Maybe making coffee isn’t your thing. What if you worked in a coffee shop like Starbucks or Costa for a while? If you don’t usually write, challenge yourself to write a book, even a short one: 90 or 100 pages. Take a month or two, maybe even a sabbatical, and go somewhere new. It could be Costa Rica, New Zealand, or Japan. Do it just for the experience.
 
 Life is too short not to try different things, even if it’s just for a short time. For a month or two, start something new. In the end, what matters are the experiences you collect. That’s what makes you rich, that’s what makes you different.
 
@@ -26,11 +26,11 @@ Life is too short not to try different things, even if it’s just for a short t
 
 Sign up for a cooking class or a language course. Go to Tokyo to learn Japanese, or to Rome to learn Italian. These are new life experiences. You’ll meet people you never would have met otherwise. Your network will grow. Maybe you’ll find a business partner for your next project, or even meet the love of your life. If you’re single, or not happy in your relationship, new experiences can bring a fresh perspective.
 
-There’s always something new to try. I encourage you to experiment. Play the game of doing things you’re not used to. Sometimes we say, “That’s interesting, maybe I’ll do it someday.” No—do it now. There’s no better time than today.
+There’s always something new to try. I encourage you to experiment. Play the game of doing things you’re not used to. Sometimes we say, “That’s interesting, maybe I’ll do it someday.” No: do it now. There’s no better time than today.
 
 There’s a well-known Chinese proverb:  
 > *The best time to plant a tree was 20 years ago. The second best time is now.*  
-— Chinese Proverb
+*Chinese Proverb*
 
 If you plant your tree today, in 20 years it will be strong and beautiful. It’s the same with the small experiences and challenges you set for yourself every day.
 
@@ -43,7 +43,7 @@ If you plant your tree today, in 20 years it will be strong and beautiful. It’
 - *Trying new things opens your mind and sparks creativity.*
 - *Short experiences can lead to big changes in your life.*
 - *Meeting new people and learning new skills can change your future.*
-- *Don’t wait for the perfect moment—the best time to start is now.*
+- *Don’t wait for the perfect moment: the best time to start is now.*
 
 ## Reflection
 

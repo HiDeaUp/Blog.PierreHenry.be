@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/ad362a6b1672"
 
 Taking a walk in nature is much more than just a way to stretch your legs. It can be a powerful tool for improving your mental well-being, happiness, and even your success in life. The way you approach these walks makes all the difference.
 
-When you go for a walk, you have a choice. You can use this time as a lever to lift your mood, sharpen your focus, and recharge your energy. Whether you walk alone, with someone you care about, or with a pet, the key is to truly notice the world around you. Look at the trees, watch the butterflies, listen to the crickets and the birds. Feel the atmosphere, breathe in the fresh air, and let yourself be present in the moment.
+When you go for a walk, you have a choice. You can use this time as a lever to lift your mood, improve your focus, and recharge your energy. Whether you walk alone, with someone you care about, or with a pet, the key is to truly notice the world around you. Look at the trees, watch the butterflies, listen to the crickets and the birds. Feel the atmosphere, breathe in the fresh air, and let yourself be present in the moment.
 
-Being present means paying attention to what surrounds you. It’s about observing, listening, and being curious about the little things—maybe even the earthworms on the ground or the pigeons nearby. This simple act of mindfulness feeds your mind with positivity. The more you focus on the present, the easier it becomes to stay grounded and connected to your surroundings.
+Being present means paying attention to what surrounds you. It’s about observing, listening, and being curious about the little things, maybe even the earthworms on the ground or the pigeons nearby. This simple act of mindfulness feeds your mind with positivity. The more you focus on the present, the easier it becomes to stay grounded and connected to your surroundings.
 
 On the other hand, if you ignore the world around you and let your mind fill with complaints or negativity, you risk falling into a vicious cycle. Negativity feeds on itself, making things feel even heavier. But by choosing to be present and open, you create a virtuous circle. The more you appreciate nature, the more you enjoy the world, and the happier and more energetic you become.
 
@@ -28,15 +28,15 @@ Nature acts like a bath for your mind, washing away mental fog and clearing out 
 
 Concentration is another benefit that shouldn’t be overlooked. When you’re focused on what you’re doing, you have more energy to accomplish new things. Every walk outside is a chance to recharge, to breathe in fresh air, and to boost your motivation.
 
-Ask yourself how you can spend more time in nature. How can you use these moments as a springboard for your projects and ideas? Every walk is an opportunity to make new connections in your mind, just like creativity—combining different things to spark new ideas. Walking in nature helps you link thoughts together, leading to fresh perspectives and solutions.
+Ask yourself how you can spend more time in nature. How can you use these moments as a springboard for your projects and ideas? Every walk is an opportunity to make new connections in your mind, just like creativity: combining different things to spark new ideas. Walking in nature helps you link thoughts together, leading to fresh perspectives and solutions.
 
 This exercise is simple, but it’s incredibly important for your personal growth and for thinking clearly. Try it, and you might find yourself loving these moments more than you expected.
 
 > *Look deep into nature, and then you will understand everything better.*
-— Albert Einstein
+*Albert Einstein*
 
 > *Adopt the pace of nature: her secret is patience.*
-— Ralph Waldo Emerson
+*Ralph Waldo Emerson*
 
 {{< figure src="https://images.unsplash.com/photo-1683852709141-390a8d60207d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjB3YWxrcyUyMG1lbnRhbCUyMHdlbGwtYmVpbmclMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTk5Njk4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A path in the middle of a lush green forest" title="How to Boost Focus and Happiness With Simple Nature Walks" caption="How to Boost Focus and Happiness With Simple Nature Walks - Photo by [Naoki Suzuki](https://unsplash.com/@naopp) on [Unsplash](https://unsplash.com/photos/a-path-in-the-middle-of-a-lush-green-forest-kmv3O4Lk2bM)" >}}
 

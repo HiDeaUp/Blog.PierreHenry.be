@@ -20,15 +20,15 @@ The more you know, the more opportunities appear. It’s a bit like those escape
 
 {{< figure src="https://images.unsplash.com/photo-1695370992939-be4eb6fddf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1lbnRhbCUyMHdlbGwtYmVpbmclMjBsaWZlbG9uZyUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NTY1MDU4ODV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Feed Your Mind for a Happier, Non-Toxic Life" caption="How to Feed Your Mind for a Happier, Non-Toxic Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-jpLyAy2LnA4)" >}}
 
-As you gather these clues, you start to see which direction you want to take. Maybe you discover you love a certain kind of village, or a particular activity, and suddenly, you know where you want to head. This is how you move toward a life that truly fits you—a life full of challenge, happiness, fulfillment, and calm.
+As you gather these clues, you start to see which direction you want to take. Maybe you discover you love a certain kind of village, or a particular activity, and suddenly, you know where you want to head. This is how you move toward a life that truly fits you: a life full of challenge, happiness, fulfillment, and calm.
 
 It’s not about chasing after the next big thing or piling up achievements. It’s about clearing out the clutter in your daily routine, making space for what matters, and slowly improving every part of your life. Whether it’s simplifying your day, finding satisfaction in your work, or surrounding yourself with healthy, non-toxic things, every step counts.
 
 > _The more you know, the more doors open. Each clue brings you closer to the life you want._
-> — Pierre
+> *Pierre*
 
 > _Happiness is not something ready made. It comes from your own actions._
-> — Dalai Lama
+> *Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1695548303337-7ca0759400d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1lbnRhbCUyMHdlbGwtYmVpbmclMjBsaWZlbG9uZyUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NTY1MDU4ODV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Feed Your Mind for a Happier, Non-Toxic Life" caption="How to Feed Your Mind for a Happier, Non-Toxic Life - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-XXxCYsJ64Ec)" >}}
 

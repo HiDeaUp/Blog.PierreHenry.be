@@ -30,11 +30,11 @@ Remember, a lost day is lost forever. A day when you are not happy is a day of l
 
 > *A day lost is a day lost forever. A collection of good days makes a good life.*
 >
-> — Pierre
+> *Pierre*
 
 > *The only real limit is the one in your mind. If you are determined, you can achieve anything.*
 >
-> — Pierre
+> *Pierre*
 
 ---
 

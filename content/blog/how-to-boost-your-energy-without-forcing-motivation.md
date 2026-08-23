@@ -24,7 +24,7 @@ Physical exercise is one of the fastest ways to boost your energy. Whether it’
 
 ## Try Tree Therapy
 
-This might sound unusual, but hugging trees or simply spending time with them can have a real impact. It’s not just a joke—studies show that being close to trees can lower your blood pressure, calm your mind, and help you sleep better. Trees are truly wonderful. The next time you’re feeling tense, try spending a few minutes in nature and see how you feel.
+This might sound unusual, but hugging trees or simply spending time with them can have a real impact. It’s not just a joke: studies show that being close to trees can lower your blood pressure, calm your mind, and help you sleep better. Trees are truly wonderful. The next time you’re feeling tense, try spending a few minutes in nature and see how you feel.
 
 {{< figure src="https://images.unsplash.com/photo-1603206004639-22635b71ac08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjB3ZWxsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1ODU4NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter blocks on white surface" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-MwkDKpOQmGc)" >}}
 
@@ -40,23 +40,23 @@ Anthony Robbins, for example, uses music and movement before his talks to get in
 
 ## Eat and Drink Well
 
-What you eat and drink shapes your energy. Eating healthy, balanced meals and drinking enough water will help you feel better. Remember, you become what you consume—not just food, but also information. Avoid filling your mind with negative news or things that drain you. If something important happens, you’ll hear about it from friends or colleagues. Focus on what nourishes you, both inside and out.
+What you eat and drink affects your energy. Eating healthy, balanced meals and drinking enough water will help you feel better. Remember, you become what you consume, not just food, but also information. Avoid filling your mind with negative news or things that drain you. If something important happens, you’ll hear about it from friends or colleagues. Focus on what nourishes you, both inside and out.
 
 When you clear out the negative and fill your life with positive habits, you’ll find yourself with more energy and positivity to do what really matters to you and those around you.
 
 {{< figure src="https://images.unsplash.com/photo-1653212883729-d914974111c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjB3ZWxsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU1ODU4NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="An old with the word energy printed on it" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/an-old-typewriter-with-the-word-energy-printed-on-it-Q_ld9_TSk7k)" >}}
 
 > _You are what you consume, not just in food, but in thoughts and information._
-— Anonymous
+*Anonymous*
 
-> _The energy you bring to each day shapes the life you create._
-— Unknown
+> _The energy you bring to each day affects the life you create._
+*Unknown*
 
 ---
 
 ## Key Takeaways
 - Move your body, even a little, to boost your energy.
-- Spend time in nature—trees can calm and recharge you.
+- Spend time in nature: trees can calm and recharge you.
 - Meditate to train your mind and stay present.
 - Use music to lift your mood and motivation.
 - Eat healthy and avoid negative information.

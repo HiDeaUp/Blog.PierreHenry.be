@@ -18,9 +18,9 @@ Have you ever wished your days could run more smoothly, with less effort and mor
 
 ## The Simple List That Changes Everything
 
-The heart of my method is a simple list. You can use a notebook, a tablet, your phone, or even your laptop—whatever feels right for you. Every evening, before going to bed, take a moment to rate your day from 0 to 20. Ask yourself: How did my day go? Maybe it was a 14 out of 20. Write that down.
+The heart of my method is a simple list. You can use a notebook, a tablet, your phone, or even your laptop: whatever feels right for you. Every evening, before going to bed, take a moment to rate your day from 0 to 20. Ask yourself: How did my day go? Maybe it was a 14 out of 20. Write that down.
 
-Then, rewind your day in your mind, step by step, from evening back to morning—like rewinding an old VHS tape. Look at each moment: What went well? What didn’t? Note the parts that didn’t go as planned. This helps you spot what could be improved.
+Then, rewind your day in your mind, step by step, from evening back to morning, like rewinding an old VHS tape. Look at each moment: What went well? What didn’t? Note the parts that didn’t go as planned. This helps you spot what could be improved.
 
 Now, think about tomorrow. What can you do differently? Write a simple action plan for the next day. This plan should match who you want to become and your long-term goals. Think about where you want to be in a year: Who do you want to be? What do you want to do? How much do you want to earn? What kind of life do you want?
 
@@ -30,9 +30,9 @@ Each evening’s action plan is like adding one stone after another to build the
 
 ## Small Steps, Big Results
 
-For tomorrow, start with a correction—one thing you want to do better than today. Write down the actions you want to take, even if it’s just for 10 minutes. Ten minutes a day adds up to 70 minutes a week. If your goal is to become a trainer or a speaker, for example, just 10 minutes of practice every morning makes a real difference.
+For tomorrow, start with a correction: one thing you want to do better than today. Write down the actions you want to take, even if it’s just for 10 minutes. Ten minutes a day adds up to 70 minutes a week. If your goal is to become a trainer or a speaker, for example, just 10 minutes of practice every morning makes a real difference.
 
-I suggest doing this first thing in the morning, right after you wake up. Once your day starts, other things will always pop up. But if you do the most important thing first, it’s done—no matter what the day brings.
+I suggest doing this first thing in the morning, right after you wake up. Once your day starts, other things will always pop up. But if you do the most important thing first, it’s done: no matter what the day brings.
 
 Break your goal into small parts. Ten minutes a day is easy to stick to, and you’re much less likely to put it off. If you tell yourself you need to work for an hour or two, you’ll probably procrastinate. Plus, it takes up more space in your mind.
 
@@ -44,7 +44,7 @@ By noticing these things, you can keep improving your daily life, bit by bit. Ea
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> —Robert Collier
+> *Robert Collier*
 
 ## No More Waiting for Motivation
 

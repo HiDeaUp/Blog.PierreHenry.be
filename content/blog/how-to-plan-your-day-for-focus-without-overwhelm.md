@@ -20,7 +20,7 @@ Imagine if you had a process so clear that even a virtual assistant could follow
 
 The trick is to plan your key tasks the night before or early in the morning. Write down what needs to be done, and make sure each step is clear. This way, you save a lot of time and avoid second-guessing yourself. If you’ve already decided what’s important and what can wait, you can focus on execution instead of constant planning.
 
-I recommend setting aside time for this kind of strategic pause on Tuesdays or Wednesdays. These are usually the days when our minds are sharpest and we’re most productive. Fridays, on the other hand, are better for simply carrying out your plans, since by then your brain is often tired and less creative. Mondays can also be tough, as it takes a while to get back into the rhythm, and Saturdays are rarely good for deep thinking.
+I recommend setting aside time for this kind of strategic pause on Tuesdays or Wednesdays. These are usually the days when our minds are most focused and we’re most productive. Fridays, on the other hand, are better for simply carrying out your plans, since by then your brain is often tired and less creative. Mondays can also be tough, as it takes a while to get back into the rhythm, and Saturdays are rarely good for deep thinking.
 
 {{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBwbGFubmluZyUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTYxMTM1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Plan Your Day for Focus Without Overwhelm" caption="How to Plan Your Day for Focus Without Overwhelm - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
@@ -32,11 +32,11 @@ The key is to give your best where it counts and not spread yourself too thin. W
 
 > *Success is not about doing more, but about doing what matters most.*
 >
-> — Unknown
+> *Unknown*
 
 > *The best way to get things done is to make a plan and stick to it.*
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 
@@ -47,7 +47,7 @@ The key is to give your best where it counts and not spread yourself too thin. W
 - *Plan your key tasks the night before or early in the morning.*
 - *Use Tuesdays and Wednesdays for strategic thinking and planning.*
 - *Focus on your strengths and delegate or drop tasks that don’t need your expertise.*
-- *Save execution for days when your mind is less sharp, like Fridays.*
+- *Save execution for days when your mind is less focused, like Fridays.*
 - *Write down your plan so you don’t waste time making decisions during the day.*
 
 ---
@@ -56,4 +56,4 @@ The key is to give your best where it counts and not spread yourself too thin. W
 
 - *What are the tasks only you can do best?*
 - *Are you spending too much time on things that could be delegated?*
-- *When is your mind sharpest for planning and reflection?*
+- *When is your mind most focused for planning and reflection?*

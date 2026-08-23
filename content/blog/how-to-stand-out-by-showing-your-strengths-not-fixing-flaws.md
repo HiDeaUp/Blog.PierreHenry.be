@@ -26,11 +26,11 @@ As you focus on improving what you’re already good at, you’ll notice your �
 
 > *Success is not about being perfect, but about making the most of what you already have.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *Don’t dim your light just because others are uncomfortable with your shine.*
 >
-> — Unknown
+> *Unknown*
 
 So, next time you catch yourself worrying about your flaws, remember: your unique strengths are your best tools. Let them shine, and you’ll naturally attract the success you’re looking for.
 

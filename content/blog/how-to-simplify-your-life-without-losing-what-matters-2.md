@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/60158924033b"
 
 Simplifying your life in an elegant way is a powerful approach to getting things done. When you focus on simplification from A to Z, you make everything you do much easier and more effective. This is important because it helps you move forward faster with the tasks that truly matter. By simplifying, you naturally go straight to the essentials.
 
-When you cut out the unnecessary, you end up doing only the most important things each day. All the extra, complicated, or non-essential stuff gets thrown out. You keep only the best of the best—the cream of the crop. This is not just about being tidy; it’s about being able to achieve much more and increasing your chances of success.
+When you cut out the unnecessary, you end up doing only the most important things each day. All the extra, complicated, or non-essential stuff gets thrown out. You keep only the best of the best: the cream of the crop. This is not just about being tidy; it’s about being able to achieve much more and increasing your chances of success.
 
 If you’re running a business, launching a startup, or working on a side project, this mindset is even more crucial. Keep only what’s essential: the simplest product, the simplest payment platform, and nothing more. The rest is just noise that slows you down and distracts you from your real goals.
 
@@ -25,10 +25,10 @@ If you’re running a business, launching a startup, or working on a side projec
 What’s fascinating is how much lighter and more productive you feel when you let go of the clutter. You’re left with clarity and energy to focus on what truly moves the needle. Simplification isn’t about doing less for the sake of it; it’s about making room for what really counts.
 
 > _Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away._
-— Antoine de Saint-Exupéry
+*Antoine de Saint-Exupéry*
 
 > _Simplicity is the ultimate sophistication._
-— Leonardo da Vinci
+*Leonardo da Vinci*
 
 ---
 

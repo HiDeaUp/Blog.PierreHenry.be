@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/bb9a58ee2a83"
 
 Have you ever started a day off with the best intentions, only to realize by the afternoon that the hours have vanished? This happens to me, especially during long weekends or public holidays. You think, “Great, I have four days off. I’ll get so much done!” But then Friday comes, and before you know it, it’s already Monday night, and you’re left wondering what happened.
 
-Let’s take a typical example. Imagine it’s a long weekend—Friday and Monday are public holidays. You wake up on Friday, feeling relaxed. You tell yourself you’ll do a lot, but you end up sleeping in, having a slow breakfast, noticing some dust on the floor, and deciding to clean a bit. Then you realize your laundry basket is full, so you do a load of washing. After that, you scroll through your phone for a while. Suddenly, it’s already 1 pm. You had planned to use the whole day for your own projects, but your time has been swallowed up by small, everyday tasks.
+Let’s take a typical example. Imagine it’s a long weekend: Friday and Monday are public holidays. You wake up on Friday, feeling relaxed. You tell yourself you’ll do a lot, but you end up sleeping in, having a slow breakfast, noticing some dust on the floor, and deciding to clean a bit. Then you realize your laundry basket is full, so you do a load of washing. After that, you scroll through your phone for a while. Suddenly, it’s already 1 pm. You had planned to use the whole day for your own projects, but your time has been swallowed up by small, everyday tasks.
 
-This is what I call “junk food” for your day. If you don’t plan or structure your time, it gets eaten up by things that don’t require much thought. These are the tasks you could easily do in the evening, when your energy is low. But in the morning, your mind is fresh and sharp. That’s when you should focus on what really matters to you—your own projects, the things that could change your career or make you unforgettable.
+This is what I call “junk food” for your day. If you don’t plan or structure your time, it gets eaten up by things that don’t require much thought. These are the tasks you could easily do in the evening, when your energy is low. But in the morning, your mind is fresh and focused. That’s when you should focus on what really matters to you: your own projects, the things that could change your career or make you unforgettable.
 
 If you let your days evaporate like this, you’ll always feel like you’re running after time. The solution is simple: plan your day the night before. Write down the most important things you want to achieve. In the morning, look at your list and start with the hardest or most important task. Don’t let yourself get distracted by other people’s requests, notifications, or emails. Even good news can throw you off track and fill your mind with unnecessary stress.
 
@@ -31,10 +31,10 @@ Brian Tracy calls this “eating the frog.” If you had to eat a disgusting fro
 Sometimes, we avoid making decisions because we’re afraid. Days, months, and even years can pass while we stay stuck in the same place. The only way to move forward is to take action. Organize your days, tackle the most important things in the morning, and you’ll become someone who is fulfilled, successful, and confident. When you see what you’re capable of, your self-belief grows.
 
 > _The best way to get something done is to begin._  
-— Brian Tracy
+*Brian Tracy*
 
 > _If you want to change your life, start by changing your day._  
-— Anonymous
+*Anonymous*
 
 The best moment to take action is today, not tomorrow. Don’t put off what matters to you. Start now.
 
@@ -48,7 +48,7 @@ The best moment to take action is today, not tomorrow. Don’t put off what matt
 - *Use your mornings for the most important or challenging tasks.*
 - *Say no to distractions and protect your time for yourself.*
 - *Taking action, even small steps, builds confidence and momentum.*
-- *Don’t wait for the “perfect” moment—start today.*
+- *Don’t wait for the “perfect” moment: start today.*
 
 ---
 

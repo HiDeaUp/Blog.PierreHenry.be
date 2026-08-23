@@ -26,21 +26,21 @@ This pattern applies to your personal projects too. Even if you’re working on 
 
 By the evening, I’m more tired, and mental load builds up as the day goes on. Maybe you’ve received news or had conversations that add to your thoughts, even if they’re positive. This mental load means you have less energy and attention for important tasks.
 
-One thing I enjoy in the morning is taking a cold shower. It fills me with dopamine and gives me a real boost of energy. I talk about this in my book, *Success Is Not Far Away*. I wrote this book mainly for myself, to organize and reinforce what I’ve learned over more than 12 years. I’ve attended countless seminars in the US, Australia, and the UK, spending over $80,000 (about €60,000–€70,000). The book is a condensed version of everything that has truly worked for me.
+One thing I enjoy in the morning is taking a cold shower. It gives me a real boost of energy and reminds me that I can act before I feel fully ready. The point is not the shower itself. It is the habit of starting with a deliberate action.
 
-I wrote it to pay it forward—sharing what I’ve learned so others can benefit too. When you put all your energy and passion into something, it gives you even more energy in return. But you have to be consistent. Regular habits are what make the difference in the long run. If your motivation drops, try adding a new challenge to keep things interesting. Be regular, create a routine, just like brushing your teeth. You don’t skip brushing your teeth because you’re not motivated, right? Treat your small daily tasks the same way.
+I wrote it to pay it forward: sharing what I’ve learned so others can benefit too. When you put all your energy and passion into something, it gives you even more energy in return. But you have to be consistent. Regular habits are what make the difference in the long run. If your motivation drops, try adding a new challenge to keep things interesting. Be regular, create a routine, just like brushing your teeth. You don’t skip brushing your teeth because you’re not motivated, right? Treat your small daily tasks the same way.
 
 Right now, I’m finishing a book I first read years ago. It’s the second time I’m reading it, and I only have a few pages left. No matter how many times you’ve done something, there’s always value in coming back to it with fresh eyes.
 
-The best time to start a new habit is today, not tomorrow. There’s no point in putting off what you want to do. Go for it—now is the best moment to take action.
+The best time to start a new habit is today, not tomorrow. There’s no point in putting off what you want to do. Go for it: now is the best moment to take action.
 
 > *Consistency is what transforms average into excellence.*
-> —Unknown
+> *Unknown*
 
 {{< figure src="https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhYml0JTIwZm9ybWF0aW9ufGVufDB8MHx8fDE3NTU4NTk0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a clock on a wall" title="How to Build What Matters Without Falling Back on Excuses" caption="How to Build What Matters Without Falling Back on Excuses - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)" >}}
 
 > *You don’t have to be extreme, just consistent.*
-> —Unknown
+> *Unknown*
 
 ---
 
@@ -51,7 +51,7 @@ The best time to start a new habit is today, not tomorrow. There’s no point in
 - Build routines, especially for important tasks.
 - Use your peak energy times wisely.
 - Add challenges to keep motivation up.
-- Treat your habits like brushing your teeth—non-negotiable.
+- Treat your habits like brushing your teeth: non-negotiable.
 
 ## Reflection
 - What’s one habit you keep making exceptions for?

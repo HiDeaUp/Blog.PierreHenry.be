@@ -3,8 +3,8 @@ title = "How to Find Fresh Perspective Without Leaving Your Neighborhood"
 slug = "how-to-find-fresh-perspective-without-leaving-your-neighborhood"
 date = "2025-08-25T18:44:41.797808"
 draft = false
-description = "When was the last time you really paid attention to your surroundings? Not just passing through a park or glancing at a tree from your window, but truly letting nature shape your thoughts. Nature i..."
-summary = "When was the last time you really paid attention to your surroundings? Not just passing through a park or glancing at a tree from your window, but truly letting nature shape your thoughts. Nature i..."
+description = "When was the last time you really paid attention to your surroundings? Not just passing through a park or glancing at a tree from your window, but truly letting nature influence your thoughts. Nature i..."
+summary = "When was the last time you really paid attention to your surroundings? Not just passing through a park or glancing at a tree from your window, but truly letting nature influence your thoughts. Nature i..."
 tags = ["life perspective", "mindfulness", "nature", "personal growth", "self-transcendence", "wellbeing"]
 priority = true
 priority_topics = ["self-transcendence"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/de6e145fb854"
 
 {{< figure src="https://images.unsplash.com/photo-1624137461186-b1e0196b8702?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBsaWZlJTIwcGVyc3BlY3RpdmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sprout of tree was born and has started to grow on a decaying stub." title="How to Find Fresh Perspective Without Leaving Your Neighborhood" caption="How to Find Fresh Perspective Without Leaving Your Neighborhood - Photo by [Nagara Oyodo](https://unsplash.com/@nagaranbasaran) on [Unsplash](https://unsplash.com/photos/green-plant-on-gray-rock-kE0o9syjDZQ)" >}}
 
-When was the last time you really paid attention to your surroundings? Not just passing through a park or glancing at a tree from your window, but truly letting nature shape your thoughts. Nature is not just a backdrop to our busy lives; it can become a powerful tool for personal growth and a fresh perspective.
+When was the last time you really paid attention to your surroundings? Not just passing through a park or glancing at a tree from your window, but truly letting nature influence your thoughts. Nature is not just a backdrop to our busy lives; it can become a powerful tool for personal growth and a fresh perspective.
 
 One idea that has always fascinated me is how our environment can give us so much more than we expect. By simply being present in nature, we open ourselves to new ways of thinking and growing. This is what I call the "progression mindset." Instead of asking, "What can I do today?" try asking, "What can I do thanks to nature?" or "How can I use nature as a lever to go further?"
 
@@ -27,10 +27,10 @@ I encourage you to make it a habit: take a walk in nature two or three times a w
 Nature is not just a resource; it is the foundation for everything you want to achieve. It is your biggest ally, always there, ready to help you see things differently and push you to new heights.
 
 > _Look deep into nature, and then you will understand everything better._
-— Albert Einstein
+*Albert Einstein*
 
 > _In every walk with nature one receives far more than he seeks._
-— John Muir
+*John Muir*
 
 ---
 

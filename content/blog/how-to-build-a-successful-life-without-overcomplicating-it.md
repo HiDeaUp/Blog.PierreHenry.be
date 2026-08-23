@@ -28,11 +28,11 @@ Replace negativity with positive thoughts and actions. Stop saying things that h
 
 {{< figure src="https://images.unsplash.com/photo-1727060591686-54444c494c46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1jb25maWRlbmNlJTIwbGlmZSUyMHRpcHN8ZW58MHwwfHx8MTc1NjAwNzY2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on top of a cement wall" title="How to Build a Successful Life Without Overcomplicating It" caption="How to Build a Successful Life Without Overcomplicating It - Photo by [Tony Chen](https://unsplash.com/@tony1218) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-top-of-a-cement-wall-zrpoQovq2qM)" >}}
 
-A good life is simple: it’s about having control over your own life. When you’re disciplined, you create a beautiful life. A successful life is just a collection of good days—days that bring you joy. If you have many pleasant days, you’ve succeeded.
+A good life is simple: it’s about having control over your own life. When you’re disciplined, you create a beautiful life. A successful life is just a collection of good days: days that bring you joy. If you have many pleasant days, you’ve succeeded.
 
-That’s why it’s so important to believe in your dreams. If you don’t, that’s what you’ll regret at the end of your life. If you accomplish what you truly want, you’ll have a beautiful, successful life—a series of days you enjoyed.
+That’s why it’s so important to believe in your dreams. If you don’t, that’s what you’ll regret at the end of your life. If you accomplish what you truly want, you’ll have a beautiful, successful life: a series of days you enjoyed.
 
-Always keep a positive vision of what you want to achieve and what you know is good for you. If you’re certain you can succeed, and you tell yourself that no matter how hard it gets, you just have to want it enough, you’ll get there. Life is complex, but also simple. Our minds often make things harder than they are. Life isn’t that difficult, but we can feel overwhelmed by all the things we want to do and by daily distractions—like notifications on your phone.
+Always keep a positive vision of what you want to achieve and what you know is good for you. If you’re certain you can succeed, and you tell yourself that no matter how hard it gets, you just have to want it enough, you’ll get there. Life is complex, but also simple. Our minds often make things harder than they are. Life isn’t that difficult, but we can feel overwhelmed by all the things we want to do and by daily distractions, like notifications on your phone.
 
 If you keep things simple, everything gets easier. Living a bit more minimally means fewer problems, because most problems come from the complexity we create in our minds. There’s not as much complexity as we think.
 
@@ -47,10 +47,10 @@ Sometimes, we’re blind to what’s possible. We tell ourselves life is hard, o
 {{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc2VsZi1jb25maWRlbmNlJTIwbGlmZSUyMHRpcHN8ZW58MHwwfHx8MTc1NjAwNzY2MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Build a Successful Life Without Overcomplicating It" caption="How to Build a Successful Life Without Overcomplicating It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
 > *The only limits in your life are those you set yourself.*
-> — Anonymous
+> *Anonymous*
 
 > *A successful life is just a series of good days. Stack enough of them, and you’ve made it.*
-> — Unknown
+> *Unknown*
 
 ---
 

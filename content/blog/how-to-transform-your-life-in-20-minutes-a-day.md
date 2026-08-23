@@ -27,10 +27,10 @@ It’s important to have a clear vision for your life. Be specific about what yo
 Once you start, you’ll notice things begin to flow more easily. Life is too short to keep putting things off until tomorrow. Everyone can find twenty minutes in their day. If you tell yourself you’ll do something for three hours, you’ll probably skip it one day, then another, and soon it will fade away. But if you stick to just twenty minutes a day, every day, you’ll build momentum. This creates a compounding effect, and before you know it, you’ll have achieved so much more than you thought possible. Procrastination will become a thing of the past.
 
 > _“The journey of a thousand miles begins with a single step.”_  
-— Lao Tzu
+*Lao Tzu*
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-— Robert Collier
+*Robert Collier*
 
 ---
 

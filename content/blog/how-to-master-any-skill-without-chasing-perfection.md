@@ -29,10 +29,10 @@ A similar study was done with photography students. One group was asked to take 
 This principle is simple but powerful. If you repeat a task every day, even for just ten minutes, you’ll have practiced it 365 times in a year. After two years, that’s 730 times. This steady, consistent practice builds real skill. Trying to be the best from the start is not only unrealistic, but it also sets you up for disappointment. Practice always wins.
 
 > _“Don’t aim for perfection. Aim for progress, and perfection will follow.”_  
-— Anonymous
+*Anonymous*
 
 > _“Quality is not an act, it is a habit.”_  
-— Aristotle
+*Aristotle*
 
 If you want to impress yourself and others, remember: it’s not about being perfect right away. It’s about showing up, doing the work, and getting a little better every day.
 

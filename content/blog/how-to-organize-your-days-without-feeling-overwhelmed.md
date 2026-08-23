@@ -18,7 +18,7 @@ Sometimes, life feels like a tangled mess. Our minds get crowded with too many t
 
 When your days lack structure, everything feels harder. You struggle to think clearly, and your productivity drops. You might start the day with a list of things you want to achieve, but by the end, you’ve only managed a fraction of it. That’s frustrating. It’s normal to feel disappointed or even useless when this happens. The real danger is that this frustration can turn into a vicious cycle, making things worse instead of better.
 
-What I want to share is how to break out of this cycle. The key is to improve your daily life with the right strategies and habits. When you have clear routines, you’re less likely to put things off. You know exactly what needs to be done and when, so you don’t leave your goals to chance. Otherwise, uncertainty creeps in, and you start forgetting what really matters to you. Over time, this small problem can snowball into something much bigger—like an avalanche that buries you in overwhelm.
+What I want to share is how to break out of this cycle. The key is to improve your daily life with the right strategies and habits. When you have clear routines, you’re less likely to put things off. You know exactly what needs to be done and when, so you don’t leave your goals to chance. Otherwise, uncertainty creeps in, and you start forgetting what really matters to you. Over time, this small problem can snowball into something much bigger, like an avalanche that buries you in overwhelm.
 
 So, what can you do? Start by building good habits into your day. Wake up at the same time. Have a light breakfast. Most importantly, get to know yourself. For example, I know that if I lie down on my couch when I’m tired, I’ll probably fall asleep and lose hours of my evening. I also know that if I go to a buffet, my curiosity will get the best of me, and I’ll end up eating way too much. I love trying new foods from all over the world, but I always regret it when I overeat and feel sluggish afterward.
 
@@ -28,7 +28,7 @@ Learning about yourself is crucial. We all repeat our mistakes, but being aware 
 
 > *Time is the only resource you can never get back. Use it wisely.*
 >
-> — Anonymous
+> *Anonymous*
 
 I’ve spent over twelve years and a lot of money learning about productivity from different cultures and experts. What I’ve learned is that most advice out there focuses on doing more, sleeping less, and working harder. But if being productive makes you unhappy, it’s not worth it. True productivity should help you achieve more while also making you happier and more fulfilled.
 
@@ -38,11 +38,11 @@ The point is, you need to find what works for you and keep improving your routin
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwcm91dGluZXxlbnwwfDB8fHwxNzU1OTk4MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Organize Your Days Without Feeling Overwhelmed" caption="How to Organize Your Days Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
-Remember, the goal isn’t just to get more done—it’s to build a life that feels good to live. When you organize your days around what matters to you, you’ll find more energy, clarity, and satisfaction.
+Remember, the goal isn’t just to get more done; it’s to build a life that feels good to live. When you organize your days around what matters to you, you’ll find more energy, clarity, and satisfaction.
 
 ---
 

@@ -27,10 +27,10 @@ Don’t look for success as if it’s something you can just find. Instead, focu
 If you keep that hope alive, you will go far. You will achieve more than you ever thought possible. You will reach the goals you dream about. I wish you all the best on your journey.
 
 > _“Everything is possible for the one who truly wants it.”_  
-— Anonymous
+*Anonymous*
 
 > _“Success is not something you pursue. Success is something you attract by the person you become.”_  
-— Jim Rohn
+*Jim Rohn*
 
 ---
 

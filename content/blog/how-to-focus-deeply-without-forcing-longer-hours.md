@@ -24,7 +24,7 @@ But you don’t need a fancy pod to benefit from this idea. You can create your 
 
 ## Work in Sprints, Rest in Breaks
 
-One thing I always recommend is working in focused sprints. For me, 90 minutes is the sweet spot. After that, take a real break—about fifteen minutes. During this time, don’t check your emails or messages. The problem with reading messages is that they take up mental space, even if you don’t reply right away. Suddenly, your mind is filled with reminders of things you need to do, and you lose your focus.
+One thing I always recommend is working in focused sprints. For me, 90 minutes is the sweet spot. After that, take a real break: about fifteen minutes. During this time, don’t check your emails or messages. The problem with reading messages is that they take up mental space, even if you don’t reply right away. Suddenly, your mind is filled with reminders of things you need to do, and you lose your focus.
 
 {{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWVwJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHklMjBpc29sYXRpb258ZW58MHwwfHx8MTc1NTYwNjMyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Focus Deeply Without Forcing Longer Hours" caption="How to Focus Deeply Without Forcing Longer Hours - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
@@ -32,7 +32,7 @@ Instead, use your break to relax. Play with your dog or cat, go for a short walk
 
 ## Tools That Help
 
-I use a Pomodoro app called Focus on my watch. It’s simple: 25 minutes of work, then a break. You can pause or resume as needed. You don’t need anything fancy—a kitchen timer works just as well. The most important thing is to fully immerse yourself in your task during these periods.
+I use a Pomodoro app called Focus on my watch. It’s simple: 25 minutes of work, then a break. You can pause or resume as needed. You don’t need anything fancy: a kitchen timer works just as well. The most important thing is to fully immerse yourself in your task during these periods.
 
 ## Plan Your Day and Stack Your Habits
 
@@ -42,15 +42,15 @@ One trick that works well is habit stacking. Attach a new habit to an existing o
 
 ## Think Long-Term
 
-Planning doesn’t stop at your daily schedule. Take time to plan your week and even your month. Set a clear goal for the week, then break it down into daily actions. For example, if your goal is to write more, decide what kind of articles you want to write, and schedule time for them each day. I use different tools for writing—sometimes a simple text editor, sometimes my iPad. The tool matters less than having a clear plan for what you want to achieve.
+Planning doesn’t stop at your daily schedule. Take time to plan your week and even your month. Set a clear goal for the week, then break it down into daily actions. For example, if your goal is to write more, decide what kind of articles you want to write, and schedule time for them each day. I use different tools for writing: sometimes a simple text editor, sometimes my iPad. The tool matters less than having a clear plan for what you want to achieve.
 
 {{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWVwJTIwZm9jdXMlMjBwcm9kdWN0aXZpdHklMjBpc29sYXRpb258ZW58MHwwfHx8MTc1NTYwNjMyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Focus Deeply Without Forcing Longer Hours" caption="How to Focus Deeply Without Forcing Longer Hours - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
-— Robert Collier
+*Robert Collier*
 
 > *“You will never change your life until you change something you do daily. The secret of your success is found in your daily routine.”*  
-— John C. Maxwell
+: John C. Maxwell
 
 ## Key Takeaways
 

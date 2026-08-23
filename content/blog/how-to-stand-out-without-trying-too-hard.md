@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/2c0fc0350ebb"
 
 Standing out is not just about being noticed. It’s about showing your unique personality, your singularity, and making sure you don’t blend into the crowd. This is even more important today, when so many people follow trends and influencers, and it’s easy to get lost in a sea of sameness.
 
-Each of us has our own personal brand, shaped by who we are, what we love, how we dress, the way we speak, and the causes we support. Being singular means showing, in a clear and sometimes bold way, what you like and what you don’t. It’s about letting your true self shine, even if it feels a bit daring.
+Each of us has our own personal brand, influenced by who we are, what we love, how we dress, the way we speak, and the causes we support. Being singular means showing, in a clear and sometimes bold way, what you like and what you don’t. It’s about letting your true self shine, even if it feels a bit daring.
 
 Positive energy is key. People remember you when you smile, when you crack jokes that are typical of you, when your mood is contagious. If you just answer like everyone else, without showing any spark, you’ll be forgotten in no time. In our world, making a difference is essential. You want to be the Purple Cow, the one that stands out in the field.
 
@@ -30,17 +30,17 @@ Building your brand takes time. It doesn’t happen overnight. But the more you 
 
 If you ever feel like your environment is too restrictive, remember that some countries, like the UK, Canada, the US, Australia, or New Zealand, are more open to individuality. There, you can show who you are and wear what you like, as long as your values are respectful.
 
-Maybe you love polka-dot scarves, have a unique accent, or are passionate about tulips. Go for it! There will always be people who become fans of your quirks. Imagine being known as the tulip lover with the polka-dot scarf—how cool is that?
+Maybe you love polka-dot scarves, have a unique accent, or are passionate about tulips. Go for it! There will always be people who become fans of your quirks. Imagine being known as the tulip lover with the polka-dot scarf: how cool is that?
 
 The point is, don’t try to stand out by being rude or making inappropriate comments. Stand out with kindness, with your unique personality, and by sharing your passions. Show your values, but always with respect for others. Accept that people will have different opinions, and that’s fine. The best way to be singular is to show your own views while respecting those of others.
 
 > *To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.*
 >
-> — Ralph Waldo Emerson
+> *Ralph Waldo Emerson*
 
 > *Don’t be afraid to stand for what you believe in, even if that means standing alone.*
 >
-> — Andy Biersack
+> *Andy Biersack*
 
 ---
 
@@ -50,7 +50,7 @@ The point is, don’t try to stand out by being rude or making inappropriate com
 
 - *Know your values and what makes you unique.*
 - *Show your personality through your style, words, and passions.*
-- *Don’t fear being judged—being noticed is better than being invisible.*
+- *Don’t fear being judged: being noticed is better than being invisible.*
 - *Start building your brand online if your environment feels too restrictive.*
 - *Stand out with kindness and respect for others’ opinions.*
 

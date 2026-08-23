@@ -30,13 +30,13 @@ Another trick is to get your body moving. Jump in place, do a quick exercise, or
 
 ## Rest: The Forgotten Pillar
 
-Rest is just as important as action. Too often, we forget to pause. We rush from one task to another, never giving ourselves a real break. But a short moment of calm—a coffee in your favorite spot, a walk in the park, or simply sitting quietly—can reset your mind.
+Rest is just as important as action. Too often, we forget to pause. We rush from one task to another, never giving ourselves a real break. But a short moment of calm (a coffee in your favorite spot, a walk in the park, or simply sitting quietly) can reset your mind.
 
 Try this: take a few minutes to breathe deeply. Inhale through your nose, let your abdomen rise, then exhale slowly through your mouth. Place your hand on your stomach to feel the movement. This simple exercise calms your mind and brings you back to the present. Meditation and good sleep are also key. Don’t underestimate the power of real rest.
 
 ## Happiness: The Source of True Energy
 
-Happiness is essential. When you feel happy, energy follows. But how do you find happiness? Start by noticing what brings you joy. Recall good memories, whether they happened last week or ten years ago. Treat yourself to small pleasures—a meal at your favorite restaurant, a coffee in a cozy café, or simply time alone with your thoughts.
+Happiness is essential. When you feel happy, energy follows. But how do you find happiness? Start by noticing what brings you joy. Recall good memories, whether they happened last week or ten years ago. Treat yourself to small pleasures: a meal at your favorite restaurant, a coffee in a cozy café, or simply time alone with your thoughts.
 
 Practice gratitude, both for yourself and for others. Acknowledge your achievements, no matter how small. Be proud of what you’ve done and celebrate your victories. This self-recognition fuels your happiness and motivates you to keep going.
 
@@ -44,11 +44,11 @@ At the end of each day, take a moment to reflect. Was today a good day? What wen
 
 > _Happiness is not something ready made. It comes from your own actions._
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > _The best way to get started is to quit talking and begin doing._
 >
-> — Walt Disney
+> *Walt Disney*
 
 {{< figure src="https://images.unsplash.com/photo-1650513737590-4a00deeddc7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtb3RpdmF0aW9uJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTYxMTA1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Daily motivation in the office - Do more of what makes you happy!" title="How to Find Daily Happiness Without Burning Out" caption="How to Find Daily Happiness Without Burning Out - Photo by [dlxmedia.hu](https://unsplash.com/@dlxmedia) on [Unsplash](https://unsplash.com/photos/a-white-shelf-with-a-black-and-white-poster-and-a-potted-plant-52AgXRhDaPI)" >}}
 
@@ -56,7 +56,7 @@ At the end of each day, take a moment to reflect. Was today a good day? What wen
 
 ## Key Takeaways
 
-- *Motivation is a mood—don’t rely on it. Build habits instead.*
+- *Motivation is a mood: don’t rely on it. Build habits instead.*
 - *Music and movement can boost your energy instantly.*
 - *Rest is not a luxury; it’s a necessity for happiness and productivity.*
 - *Happiness comes from small joys, gratitude, and self-reflection.*

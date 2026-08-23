@@ -18,7 +18,7 @@ If you’re looking for a productivity trick that could truly change your daily 
 
 ## What Is Time Blocking?
 
-Time blocking is about dividing your day into blocks of time on your calendar. You can use any calendar app—Google Calendar, Outlook, the one on your phone, or even your smartwatch. The key is to pick a calendar that syncs across all your devices, so you can always check or update your schedule, wherever you are.
+Time blocking is about dividing your day into blocks of time on your calendar. You can use any calendar app: Google Calendar, Outlook, the one on your phone, or even your smartwatch. The key is to pick a calendar that syncs across all your devices, so you can always check or update your schedule, wherever you are.
 
 ## When Should You Plan Your Blocks?
 
@@ -28,11 +28,11 @@ If you’re a student or have a 9-to-5 job, you already know your main time comm
 
 ## How to Block Your Time
 
-Start by blocking out your big tasks. These are the ones that take real focus—maybe an hour or two. I recommend not making any single task block longer than two hours, because your concentration will probably drop after that. If you have a big project, split it into smaller chunks.
+Start by blocking out your big tasks. These are the ones that take real focus, maybe an hour or two. I recommend not making any single task block longer than two hours, because your concentration will probably drop after that. If you have a big project, split it into smaller chunks.
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwYmxvY2tpbmclMjBwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2NTI1NDA2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Take Control of Your Day Without Overwhelm" caption="How to Take Control of Your Day Without Overwhelm - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
-Put your most demanding tasks in the morning, when your mind is fresh. Less demanding tasks can go later in the day. For small chores—like checking the mail, doing laundry, or watering the plants—you can group them into a single block. You might even batch all your little tasks for one day a week, like a “household chores hour.”
+Put your most demanding tasks in the morning, when your mind is fresh. Less demanding tasks can go later in the day. For small chores (like checking the mail, doing laundry, or watering the plants) you can group them into a single block. You might even batch all your little tasks for one day a week, like a “household chores hour.”
 
 Every time you finish a block, you know exactly what’s next. No more wondering what to do or losing time between tasks. For example, you might design a logo, then work on a portfolio site, then send an email, then take a lunch break, and so on. Always give yourself a bit more time than you think you’ll need for each block, so you don’t run over into the next one.
 
@@ -59,10 +59,10 @@ Think of batching small tasks like doing all your dishes at once instead of wash
 Time blocking gives you the security of knowing everything has its place. You won’t waste time wondering what to do next, and you’ll have a clear record of what you’ve accomplished. It’s a simple habit that can make your days smoother and your mind calmer.
 
 > _The key is not to prioritize what's on your schedule, but to schedule your priorities._
-> — Stephen Covey
+> *Stephen Covey*
 
 > _You will never find time for anything. If you want time, you must make it._
-> — Charles Buxton
+> *Charles Buxton*
 
 ---
 
@@ -70,10 +70,10 @@ Time blocking gives you the security of knowing everything has its place. You wo
 
 - *Time blocking means planning your day in advance by assigning tasks to specific time slots.*
 - *Use a digital calendar that syncs across all your devices.*
-- *Plan your blocks the night before, in the morning, or weekly—whatever works for you.*
+- *Plan your blocks the night before, in the morning, or weekly: whatever works for you.*
 - *Batch small tasks together to save time and mental energy.*
 - *Leave some flexibility for emergencies and unexpected events.*
-- *Time blocking isn’t just for work—schedule your social life and self-care too.*
+- *Time blocking isn’t just for work: schedule your social life and self-care too.*
 
 ### *Ask Yourself:*
 

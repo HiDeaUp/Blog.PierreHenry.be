@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/5ab0acd6b3ca"
 
 Every day, we face a flood of small decisions that can easily take over our thoughts. These decisions, whether trivial or important, create mental clutter. They make us less productive, less present, and less able to think clearly. It’s like a constant background noise that never really goes away.
 
-Let’s take a simple example. Someone you met at a seminar or a friendly gathering sends you a message on Instagram, Facebook, TikTok, or LinkedIn. Maybe it’s just a nice note saying they enjoyed your conversation. Now you’re left wondering: Should I reply now or later? Is it too late if I wait until tomorrow? What if I wait two weeks—will it seem weird? Should I send a short, polite message or nothing at all? If I do reply, was my message too casual, too formal, or just awkward?
+Let’s take a simple example. Someone you met at a seminar or a friendly gathering sends you a message on Instagram, Facebook, TikTok, or LinkedIn. Maybe it’s just a nice note saying they enjoyed your conversation. Now you’re left wondering: Should I reply now or later? Is it too late if I wait until tomorrow? What if I wait two weeks: will it seem weird? Should I send a short, polite message or nothing at all? If I do reply, was my message too casual, too formal, or just awkward?
 
 These questions may seem small, but they pile up. The more you doubt yourself, the more you start to overthink every detail. Should I add an exclamation mark? Should I keep it neutral? If you’re confident, you just reply and move on. But if you’re unsure, you start to imagine what the other person expects from you, and it becomes a mental burden.
 
@@ -30,7 +30,7 @@ Or think about being invited to a birthday party or a seminar. You start wonderi
 
 All these small decisions are like little parasites in your mind. They keep you from being in the flow, from being truly productive. The solution? Respond right away. As soon as you see a message or a decision to make, deal with it immediately. This way, you can flush out those negative thoughts and free up your mind.
 
-Another powerful tool is meditation. Meditation helps train your brain not to get caught up in endless back-and-forth thoughts. It teaches you to focus on one thing at a time—maybe the sounds around you, the birds outside, or simply your own breathing. Sometimes, I even meditate while eating cheese, focusing only on the taste and the moment.
+Another powerful tool is meditation. Meditation helps train your brain not to get caught up in constant back-and-forth thoughts. It teaches you to focus on one thing at a time, maybe the sounds around you, the birds outside, or simply your own breathing. Sometimes, I even meditate while eating cheese, focusing only on the taste and the moment.
 
 Here’s a practical tip: if a decision takes less than three minutes, do it right away. Set a timer for five minutes, and if you haven’t decided by then, go with your default option. If you need more time, schedule it for later. You can use email scheduling tools like Gmail, Apple Mail, or Outlook to plan your replies. This way, you get the decision out of your head, but you can still adjust it if you change your mind before it’s sent.
 
@@ -38,11 +38,11 @@ For bigger tasks, put them on your to-do list. I use Things 3, but you can use A
 
 > *You will never reach your destination if you stop and throw stones at every dog that barks.*
 >
-> — Winston Churchill
+> *Winston Churchill*
 
 > *The greatest weapon against stress is our ability to choose one thought over another.*
 >
-> — William James
+> *William James*
 
 ---
 

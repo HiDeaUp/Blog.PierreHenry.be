@@ -23,7 +23,7 @@ I’ve also spent years working as a freelancer, building other apps along the w
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1722107761867-99dfc054e7bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwcGVyc29uYWwtZ3Jvd3RofGVufDB8MHx8fDE3NjgyMjAyODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A smiley face painted on a yellow ball" title="How to Build a Happiness Portfolio Without Chasing Fame" caption="How to Build a Happiness Portfolio Without Chasing Fame - Photo by [Jonathan Cosens Photography](https://unsplash.com/@jcosens) on [Unsplash](https://unsplash.com/photos/a-smiley-face-painted-on-a-yellow-ball-MRJD6be8cMc)" >}}
 
@@ -33,13 +33,13 @@ It’s important to have projects that nurture you, that give you a sense of wel
 
 > *Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.*
 >
-> — Albert Schweitzer
+> *Albert Schweitzer*
 
 Building your happiness portfolio is about more than just ticking off goals. It’s about finding what truly matters to you and making space for it in your life. It’s about being the hero of your own story, not someone else’s.
 
 > *The only person you are destined to become is the person you decide to be.*
 >
-> — Ralph Waldo Emerson
+> *Ralph Waldo Emerson*
 
 ---
 

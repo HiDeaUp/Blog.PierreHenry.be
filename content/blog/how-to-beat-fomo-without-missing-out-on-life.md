@@ -3,8 +3,8 @@ title = "How to Beat FOMO Without Missing Out on Life"
 slug = "how-to-beat-fomo-without-missing-out-on-life"
 date = "2025-08-31T21:04:57.854293"
 draft = false
-description = "FOMO, or Fear of Missing Out, is everywhere. It’s that restless urge to stay connected, to check every notification, to buy yet another book or sign up for another course—even when you already have..."
-summary = "FOMO, or Fear of Missing Out, is everywhere. It’s that restless urge to stay connected, to check every notification, to buy yet another book or sign up for another course—even when you already have..."
+description = "FOMO, or Fear of Missing Out, is everywhere. It’s that restless urge to stay connected, to check every notification, to buy yet another book or sign up for another course: even when you already have..."
+summary = "FOMO, or Fear of Missing Out, is everywhere. It’s that restless urge to stay connected, to check every notification, to buy yet another book or sign up for another course: even when you already have..."
 tags = ["anxiety", "fomo", "mental health", "productivity", "social media", "wellbeing"]
 priority = true
 priority_topics = ["productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/bc008b53f652"
 
 {{< figure src="https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGT01PJTIwbWVudGFsJTIwaGVhbHRoJTIwd2VsbGJlaW5nfGVufDB8MHx8fDE3NTY2MzgyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of the word mental health" title="How to Beat FOMO Without Missing Out on Life" caption="How to Beat FOMO Without Missing Out on Life - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)" >}}
 
-FOMO, or Fear of Missing Out, is everywhere. It’s that restless urge to stay connected, to check every notification, to buy yet another book or sign up for another course—even when you already have a stack of unread ones at home. It’s the feeling that if you don’t keep up, you’ll miss something important. Let’s be honest, sometimes it’s not just curiosity; it’s also a bit of imposter syndrome creeping in.
+FOMO, or Fear of Missing Out, is everywhere. It’s that restless urge to stay connected, to check every notification, to buy yet another book or sign up for another course: even when you already have a stack of unread ones at home. It’s the feeling that if you don’t keep up, you’ll miss something important. Let’s be honest, sometimes it’s not just curiosity; it’s also a bit of imposter syndrome creeping in.
 
 But here’s the thing: FOMO is a real syndrome. It keeps us on edge, always worried we’re not doing enough or learning enough. So, what can you do about it? I want to share a simple but powerful technique: the Think Week.
 
@@ -39,10 +39,10 @@ I recently set up a little productivity pod in my garden, powered by solar energ
 The real secret to beating FOMO is learning to be content. You don’t need every new book, every new course, or every update on social media. At some point, you know enough. It’s time to stop consuming and start creating. Be satisfied with what you have, and let yourself feel full for once.
 
 > _“It is not the man who has too little, but the man who craves more, that is poor.”_  
-— Seneca
+*Seneca*
 
 > _“The ability to simplify means to eliminate the unnecessary so that the necessary may speak.”_  
-— Hans Hofmann
+*Hans Hofmann*
 
 ---
 
@@ -56,7 +56,7 @@ The real secret to beating FOMO is learning to be content. You don’t need ever
 
 ## Action Steps
 
-- *Plan your own Think Week—even just a weekend away from screens can help.*
+- *Plan your own Think Week: even just a weekend away from screens can help.*
 - *Pick one book you’ve been meaning to read and actually finish it.*
 - *Lock your phone away for a set period and notice how your mind clears.*
 

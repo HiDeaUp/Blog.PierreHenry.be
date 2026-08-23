@@ -26,11 +26,11 @@ I truly wish you the best on this journey. Remember, peace isn’t something you
 
 > _Sometimes the most important thing in a whole day is the rest we take between two deep breaths._
 >
-> — Etty Hillesum
+> *Etty Hillesum*
 
 > _The little things? The little moments? They aren’t little._
 >
-> — Jon Kabat-Zinn
+> *Jon Kabat-Zinn*
 
 ---
 

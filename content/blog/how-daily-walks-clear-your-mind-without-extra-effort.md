@@ -27,9 +27,9 @@ If you have a job, you can fit a walk in before heading to the office. Or, if yo
 One thing I always suggest is to change up your route. Don’t always walk the same path. Try new streets, parks, or neighborhoods. This is great for your creativity and your brain. When you walk somewhere unfamiliar, your mind wakes up, you notice new things, and you start thinking differently. For example, if you find yourself in a street you’ve never visited, you’ll spot new shops or places and wonder how to get from one point to another. This simple change can spark new ideas and connections in your mind.
 
 > *“All truly great thoughts are conceived while walking.”*  
-— Friedrich Nietzsche
+*Friedrich Nietzsche*
 
-So, next time you head out, try a different route. Let your curiosity guide you. You might be surprised by what you discover—not just in your surroundings, but in your own thoughts.
+So, next time you head out, try a different route. Let your curiosity guide you. You might be surprised by what you discover, not just in your surroundings, but in your own thoughts.
 
 ---
 

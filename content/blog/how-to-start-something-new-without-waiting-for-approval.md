@@ -3,8 +3,8 @@ title = "How to Start Something New Without Waiting for Approval"
 slug = "how-to-start-something-new-without-waiting-for-approval"
 date = "2025-08-31T21:19:32.638551"
 draft = false
-description = "We all feel that urge to begin something new—a fresh adventure, a project, or a challenge. Deep down, it’s not just about proving to others what we can do, but first and foremost, showing ourselves..."
-summary = "We all feel that urge to begin something new—a fresh adventure, a project, or a challenge. Deep down, it’s not just about proving to others what we can do, but first and foremost, showing ourselves..."
+description = "We all feel that urge to begin something new: a fresh adventure, a project, or a challenge. Deep down, it’s not just about proving to others what we can do, but first and foremost, showing ourselves..."
+summary = "We all feel that urge to begin something new: a fresh adventure, a project, or a challenge. Deep down, it’s not just about proving to others what we can do, but first and foremost, showing ourselves..."
 tags = ["courage", "motivation", "new beginnings", "personal growth", "productivity", "taking action", "tasks", "time management"]
 priority = true
 priority_topics = ["time management", "tasks", "productivity"]
@@ -20,7 +20,7 @@ source_medium = "https://medium.com/@phenrysay/ac82275b9a6c"
 
 ### Why taking the first step matters more than you think
 
-We all feel that urge to begin something new—a fresh adventure, a project, or a challenge. Deep down, it’s not just about proving to others what we can do, but first and foremost, showing ourselves that we are capable. Sure, it’s human to want recognition from friends and family, but the real drive should come from within. That’s part of our nature: wanting to belong, to be seen, to be valued. But if you want to start something new, the most important thing is to do it for yourself.
+We all feel that urge to begin something new: a fresh adventure, a project, or a challenge. Deep down, it’s not just about proving to others what we can do, but first and foremost, showing ourselves that we are capable. Sure, it’s human to want recognition from friends and family, but the real drive should come from within. That’s part of our nature: wanting to belong, to be seen, to be valued. But if you want to start something new, the most important thing is to do it for yourself.
 
 The first step is simple: choose something that brings you joy. Life is too short to chase goals just to please others. If you’re proud of what you do, chances are your loved ones will be too. So, focus on what lights you up, not just what looks good from the outside.
 
@@ -35,10 +35,10 @@ Think of it like compound interest. Every day, you add a little more, and over t
 The most important thing is to start. Don’t wait for the perfect moment or for everything to be just right. Begin with what you have, where you are. The journey itself will teach you more than any amount of planning ever could.
 
 > _“The journey of a thousand miles begins with a single step.”_  
-— Lao Tzu
+*Lao Tzu*
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-— Robert Collier
+*Robert Collier*
 
 ---
 

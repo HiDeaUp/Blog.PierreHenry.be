@@ -18,7 +18,7 @@ Have you ever caught yourself saying, “I just don’t have time”? Maybe you�
 
 Let’s be honest: saying you don’t have time is just an excuse. If something is important enough, you find the time. Think about it. You wouldn’t say, “I don’t have time to brush my teeth, I’ll do it tomorrow,” or “I don’t have time to eat, I’ll skip meals for a week.” That would sound ridiculous. Yet, we often treat our dreams and personal projects this way, pushing them aside as if they don’t deserve a spot in our daily routine.
 
-I work a demanding job with long hours and a lot of responsibility. Still, I manage to create things outside of work. I’ve published online courses and worked on personal projects, all because I made them a priority. Even if you only have ten minutes a day, that adds up. Ten minutes a day for a week is over an hour spent learning or creating something new. If you want to learn video editing, for example, and you practice a little each day, by the end of the week, you’ll have made real progress.
+I work a demanding job with long hours and a lot of responsibility. Still, I create tutorials and work on personal projects because I make them a priority. Even ten minutes a day adds up to more than an hour each week. If you want to learn video editing, for example, practice a little each day and review your progress at the end of the week.
 
 The key is to start. Pick something you truly want to do for yourself. It doesn’t have to be big. The important thing is to make it a regular part of your life. If your current routine isn’t the life you want, why not change it? There’s never a perfect moment to begin. The right time is now. Everything seems more complicated in your head, but there’s always a solution if you really want it. When you make something your top priority, everything else falls into place.
 
@@ -28,11 +28,11 @@ Here’s a simple plan: write down what you want to achieve by the end of the we
 
 > _The best time to plant a tree was twenty years ago. The second best time is now._
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 > _Small daily improvements are the key to staggering long-term results._
 >
-> — Robin Sharma
+> *Robin Sharma*
 
 If you want to build a life that makes you happy, start today. Make a plan, take small steps, and keep going. You’ll be surprised at what you can achieve, even with just a few minutes a day.
 

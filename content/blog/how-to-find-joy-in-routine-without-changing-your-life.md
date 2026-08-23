@@ -18,9 +18,9 @@ Sometimes, it feels impossible to find real pleasure in what we do, especially w
 
 Instead of focusing on what you dislike, try asking yourself what this experience could bring you in the long run. Even if you’re only planning to stay in this job for a few months, what can you learn from it? Maybe it’s something you can add to your resume, or perhaps it will open new doors for your future career. Sometimes, a boring plateau in life is exactly what you need to spark a new idea or project that could change your path.
 
-If you feel stuck in your daily life, like there’s no way out, remember there are always different ways to move forward. It’s easy to fall into the trap of thinking life is just “work, sleep, repeat.” But what if you used your downtime—like those quiet moments on the train—to do something that helps you grow? There are plenty of platforms and tools out there that let you make the most of these moments. For example, you can listen to audiobooks, catch up on podcasts, or even learn something new with apps like Blinkist or Medium.
+If you feel stuck in your daily life, like there’s no way out, remember there are always different ways to move forward. It’s easy to fall into the trap of thinking life is just “work, sleep, repeat.” But what if you used your downtime (like those quiet moments on the train) to do something that helps you grow? There are plenty of platforms and tools out there that let you make the most of these moments. For example, you can listen to audiobooks, catch up on podcasts, or even learn something new with apps like Blinkist or Medium.
 
-Personally, I love listening to audio conferences and audiobooks during these moments. It’s a way to turn something boring into something useful. And if you’re in a job you don’t enjoy, remind yourself that it’s only temporary. Maybe you’re saving up for a financial cushion, or you’re just waiting for the right time to move on. Give yourself a deadline—six months, a year—and then plan your next step.
+Personally, I love listening to audio conferences and audiobooks during these moments. It’s a way to turn something boring into something useful. And if you’re in a job you don’t enjoy, remind yourself that it’s only temporary. Maybe you’re saving up for a financial cushion, or you’re just waiting for the right time to move on. Give yourself a deadline (six months, a year), and then plan your next step.
 
 {{< figure src="https://images.unsplash.com/photo-1538788036057-a9cb02471974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwbGVhc3VyZSUyMGZpbmRpbmclMjBqb3klMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MTE0MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="vaporboyz aesthetics" title="How to Find Joy in Routine Without Changing Your Life" caption="How to Find Joy in Routine Without Changing Your Life - Photo by [Kaci Kellman](https://unsplash.com/@kacikellman) on [Unsplash](https://unsplash.com/photos/white-mask-beside-plants-Jo02isHutFo)" >}}
 
@@ -30,11 +30,11 @@ I encourage you to look at your life this way. I’m with you, 100%, and I truly
 
 > *The only real limit is the one you set in your mind.*
 > 
-> — Unknown
+> *Unknown*
 
 > *Sometimes, the plateau you’re standing on is the perfect place to see the next mountain.*
 > 
-> — Anonymous
+> *Anonymous*
 
 ---
 

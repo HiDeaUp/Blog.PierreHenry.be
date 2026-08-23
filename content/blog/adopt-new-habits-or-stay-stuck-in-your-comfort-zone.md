@@ -16,21 +16,21 @@ source_medium = "https://medium.com/@phenrysay/12b9e7fd29e1"
 
 Have you ever noticed how easy it is to fall into the habit of doing the same thing every day, especially if you’re a trainer, speaker, or coach? You develop your method, you repeat it, and before you know it, your daily routine becomes a loop. It feels comfortable, even safe. But there’s a hidden danger in this comfort: if you never question your approach, never seek feedback, and never try to improve, you risk falling behind without even realizing it.
 
-Let’s talk about why it’s so important to keep improving, to self-evaluate, and to push yourself to do better—no matter how long you’ve been in your field.
+Let’s talk about why it’s so important to keep improving, to self-evaluate, and to push yourself to do better: no matter how long you’ve been in your field.
 
 ## The Trap of Routine and the Illusion of Progress
 
 When you repeat the same actions every day, it’s easy to believe you’re getting better just because you’re gaining experience. But experience alone isn’t enough. If you never challenge yourself, if you never look for ways to do things differently or better, your skills can actually stagnate. Worse, what was once considered excellent can become average as the world moves forward.
 
-Think about it: ten years ago, your method might have been revolutionary. Nobody else was doing it. But now, everyone has caught up. What was once special is now the norm. If you keep doing things the same way, you’re not just standing still—you’re falling behind.
+Think about it: ten years ago, your method might have been revolutionary. Nobody else was doing it. But now, everyone has caught up. What was once special is now the norm. If you keep doing things the same way, you’re not just standing still; you’re falling behind.
 
 > *If you always do what you’ve always done, you’ll always get what you’ve always got.*
 >
-> — Henry Ford
+> *Henry Ford*
 
 ## The Importance of Feedback and Self-Improvement
 
-One of the biggest risks of working alone or being your own boss is the lack of feedback. Without someone above you to suggest improvements, it’s easy to get stuck in your ways. That’s why it’s crucial to seek out feedback from others. But be careful—not all feedback is useful. If you try to follow every single suggestion, you’ll lose your way.
+One of the biggest risks of working alone or being your own boss is the lack of feedback. Without someone above you to suggest improvements, it’s easy to get stuck in your ways. That’s why it’s crucial to seek out feedback from others. But be careful, not all feedback is useful. If you try to follow every single suggestion, you’ll lose your way.
 
 A practical approach is to keep track of the feedback you receive. If you notice that the same point comes up three or four times, it’s probably worth paying attention to. This is a simple way to filter out the noise and focus on what really matters.
 
@@ -48,7 +48,7 @@ It’s like keeping your money in cash. Over time, inflation eats away at its va
 
 > *Excellence is not a skill, it’s an attitude.*
 >
-> — Ralph Marston
+> *Ralph Marston*
 
 ## Innovate for a Reason, Not Just for the Sake of It
 
@@ -60,7 +60,7 @@ Always ask yourself: how can I offer something better to my clients, to the peop
 
 > *The only way to discover the limits of the possible is to go beyond them into the impossible.*
 >
-> — Arthur C. Clarke
+> *Arthur C. Clarke*
 
 {{< figure src="https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHN1Y2Nlc3MlMjBoYWJpdHMlMjBjb21mb3J0JTIwem9uZXxlbnwwfDB8fHwxNzY1NDA4MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man climbing during summer" title="Adopt New Habits or Stay Stuck in Your Comfort Zone" caption="Adopt New Habits or Stay Stuck in Your Comfort Zone - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)" >}}
 
@@ -73,9 +73,9 @@ The key is to never settle. Keep looking for ways to improve, even if it’s jus
 ## Key Takeaways
 
 1. *Repeating the same actions without reflection leads to stagnation.*
-2. *Seek feedback, but filter it—focus on recurring themes.*
+2. *Seek feedback, but filter it: focus on recurring themes.*
 3. *Learning is only valuable when you put it into action.*
-4. *The standard for excellence rises over time—keep up or fall behind.*
+4. *The standard for excellence rises over time: keep up or fall behind.*
 5. *Innovate to solve real problems, not just to be different.*
 6. *Small improvements, made consistently, set you apart.*
 

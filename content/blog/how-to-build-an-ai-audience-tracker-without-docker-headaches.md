@@ -3,8 +3,8 @@ title = "How to Build an AI Audience Tracker Without Docker Headaches"
 slug = "how-to-build-an-ai-audience-tracker-without-docker-headaches"
 date = "2026-01-08T09:30:05.716777"
 draft = false
-description = "So, I continued working on our audience attention measurement system. If you missed the first part, we ran into a little snag with the API—turns out Postgres wasn’t installed locally. The quick win..."
-summary = "So, I continued working on our audience attention measurement system. If you missed the first part, we ran into a little snag with the API—turns out Postgres wasn’t installed locally. The quick win..."
+description = "So, I continued working on our audience attention measurement system. If you missed the first part, we ran into a little snag with the API: turns out Postgres wasn’t installed locally. The quick win..."
+summary = "So, I continued working on our audience attention measurement system. If you missed the first part, we ran into a little snag with the API: turns out Postgres wasn’t installed locally. The quick win..."
 tags = ["ai engineering", "audience attention", "database setup", "debugging", "entrepreneurship", "productivity", "system development", "tech"]
 priority = true
 priority_topics = ["tech", "productivity", "entrepreneurship"]
@@ -20,13 +20,13 @@ source_youtube = "https://www.youtube.com/watch?v=fpW4muqg76Y"
 
 ---
 
-So, I continued working on our audience attention measurement system. If you missed the first part, we ran into a little snag with the API—turns out Postgres wasn’t installed locally. The quick win here was just to install Postgres with Homebrew for now. Later, we’ll do it the proper way with Docker, especially for production. But for development, Homebrew gets us moving faster.
+So, I continued working on our audience attention measurement system. If you missed the first part, we ran into a little snag with the API: turns out Postgres wasn’t installed locally. The quick win here was just to install Postgres with Homebrew for now. Later, we’ll do it the proper way with Docker, especially for production. But for development, Homebrew gets us moving faster.
 
-Once Postgres was up, it created a DB user for me—funny enough, it just grabbed my username from the `whoami` Unix command. If you’re not familiar, `whoami` simply spits out your current user in the terminal. That’s how the setup script picked my username for the DB user. After that, it created the database, updated the `.env` file, and we were good to go.
+Once Postgres was up, it created a DB user for me: funny enough, it just grabbed my username from the `whoami` Unix command. If you’re not familiar, `whoami` simply spits out your current user in the terminal. That’s how the setup script picked my username for the DB user. After that, it created the database, updated the `.env` file, and we were good to go.
 
 ## API Troubleshooting: The Classic "Not Found" Headache
 
-With the database sorted, I cd’d into the API directory and fired up the server. But when I hit the endpoint, I kept getting a "not found" response. I was scratching my head—why is it always not found? I double-checked with a POST request and realized, oh, the endpoint is POST, not GET. Classic mistake. I must have mixed up the docs or something. Once I switched to POST, boom—success response.
+With the database sorted, I cd’d into the API directory and fired up the server. But when I hit the endpoint, I kept getting a "not found" response. I was scratching my head: why is it always not found? I double-checked with a POST request and realized, oh, the endpoint is POST, not GET. Classic mistake. I must have mixed up the docs or something. Once I switched to POST, boom: success response.
 
 Here’s a quick example of the POST request payload I used:
 
@@ -40,7 +40,7 @@ If you hit the GET endpoint (which is just for testing), you can do that in the 
 
 ## Port Conflicts and the Mystery Process
 
-Next, I ran into a port conflict—port 3001 was already in use. I couldn’t figure out what was using it. Checked everywhere in the terminal, no luck. The frontend is on 2000, so that’s fine. I switched the API to use 3100, and that solved it. No more timeouts or hanging requests.
+Next, I ran into a port conflict: port 3001 was already in use. I couldn’t figure out what was using it. Checked everywhere in the terminal, no luck. The frontend is on 2000, so that’s fine. I switched the API to use 3100, and that solved it. No more timeouts or hanging requests.
 
 Just a reminder: always check your ports. If something’s not responding, it might be a port issue, not your code.
 
@@ -58,7 +58,7 @@ Just keeping things tidy.
 
 ## Automating Admin User Creation
 
-We talked about this in part one, but I wanted to make sure there’s always an admin user created by default. The code now checks if an admin exists—if not, it inserts one with a hashed password. Super important: always hash your passwords. Never store them in plain text. Here’s a quick rundown:
+We talked about this in part one, but I wanted to make sure there’s always an admin user created by default. The code now checks if an admin exists: if not, it inserts one with a hashed password. Super important: always hash your passwords. Never store them in plain text. Here’s a quick rundown:
 
 - **Hashing**: Use a strong hashing algorithm (like bcrypt) to store passwords.
 - **Salting**: Add a unique salt to each password before hashing for extra security.
@@ -75,9 +75,9 @@ bcrypt.hash(password, saltRounds, function(err, hash) {
 });
 ```
 
-And yes, the default admin password is `admin123`—but **change this immediately in production**. Don’t be that person who ships with default credentials.
+And yes, the default admin password is `admin123`, but **change this immediately in production**. Don’t be that person who ships with default credentials.
 
-> "Hashing and encryption can keep sensitive data safe. Never store plain text passwords—ever."
+> "Hashing and encryption can keep sensitive data safe. Never store plain text passwords: ever."
 
 ## Keeping the Repo Clean
 
@@ -99,13 +99,13 @@ If you want to fork the repo or raise a pull request, go for it. I look at all P
 ## Key Takeaways
 
 - **Install Postgres locally for quick dev setup; switch to Docker for production.**
-- **Always check your API endpoints—POST vs GET matters.**
+- **Always check your API endpoints: POST vs GET matters.**
 - **Port conflicts can cause mysterious issues. Double-check what’s running.**
 - **Hash and salt all passwords. Never store them in plain text.**
 - **Automate admin user creation, but never use default credentials in production.**
-- **Keep your repo clean—remove leftover setup files and double-check commits.**
+- **Keep your repo clean: remove leftover setup files and double-check commits.**
 
-> "It’s not about never making mistakes—it’s about understanding why things break and making sure they don’t break the same way twice."
+> "It’s not about never making mistakes; it’s about understanding why things break and making sure they don’t break the same way twice."
 
 ---
 🤔 [Learn more about me on Dev.to](https://dev.to/pierre)

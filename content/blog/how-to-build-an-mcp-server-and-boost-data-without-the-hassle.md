@@ -18,13 +18,13 @@ Alright, today I want to walk you through the basics of setting up an MCP server
 
 ## What’s an MCP Server Anyway?
 
-Let’s start with the basics. MCP stands for Model Context Protocol. Think of it as a RESTful API, but with a twist: it’s got a very specific set of endpoints and a unique way of returning data. The whole idea is to act as a bridge between an API model and an application—or even between two different applications. Recently, I saw Google Analytics release their own MCP server in Python (it’s open source on GitHub, by the way), which lets LLMs talk directly to Google Analytics. Super cool.
+Let’s start with the basics. MCP stands for Model Context Protocol. Think of it as a RESTful API, but with a twist: it’s got a very specific set of endpoints and a unique way of returning data. The whole idea is to act as a bridge between an API model and an application, or even between two different applications. Recently, I saw Google Analytics release their own MCP server in Python (it’s open source on GitHub, by the way), which lets LLMs talk directly to Google Analytics. Super cool.
 
 ## My Minimal MCP Server Setup
 
 I built a tiny MCP server to show you the essentials. Here’s how I structured it:
 
-- **ENV file**: I use this for storing config info—nothing secret, just stuff like app version, MCP name, description, tags, contact email, website, base URL, and the port. Here’s a peek at what it looks like:
+- **ENV file**: I use this for storing config info: nothing secret, just stuff like app version, MCP name, description, tags, contact email, website, base URL, and the port. Here’s a peek at what it looks like:
 
 ```env
     APP_VERSION=1.0.0
@@ -39,7 +39,7 @@ I built a tiny MCP server to show you the essentials. Here’s how I structured 
 
 - **Fastify**: I’m a big fan of Fastify for JavaScript or TypeScript apps. It’s fast, lightweight, and easy to use. Of course, you could use Express or Nest.js if you prefer, but Fastify just feels right for this kind of project.
 
-- **Static Public Folder**: I register `fastify-static` to serve a public folder. This is where I keep the MCP server’s specification file—just a simple JSON that lays out the API’s structure.
+- **Static Public Folder**: I register `fastify-static` to serve a public folder. This is where I keep the MCP server’s specification file: just a simple JSON that lays out the API’s structure.
 
 - **Entry Point**: My entry point is `server.ts`, but you could call it `index.ts` if you want. The important thing is to set the right entry in your `package.json`:
 
@@ -104,7 +104,7 @@ I generate a citation file for the GitHub repo using AI. It’s just a simple ci
 
 ## Quick Note on MVP vs MCP
 
-Just to clear up any confusion: MVP is Minimum Viable Product—build something with minimal effort for maximum impact. MCP, on the other hand, is Model Context Protocol (or, as I like to call it, Machine Consumable Protocol). Two very different things!
+Just to clear up any confusion: MVP is Minimum Viable Product: build something with minimal effort for maximum impact. MCP, on the other hand, is Model Context Protocol (or, as I like to call it, Machine Consumable Protocol). Two very different things!
 
 ## Example: Splitting Tags
 
@@ -132,12 +132,12 @@ If you have questions or suggestions, let me know! I’m always happy to hear fe
 
 - **MCP servers are lightweight REST APIs with a specific structure for model-to-app communication.**
 - Fastify is a great choice for building MCP servers in JavaScript or TypeScript, but Express or Nest.js work too.
-- Use an ENV file for configuration—keep it simple, no secrets.
+- Use an ENV file for configuration: keep it simple, no secrets.
 - Version your endpoints to avoid breaking changes for clients.
 - The well-known model context path (`/.well-known/model-context`) is becoming a standard for API metadata.
 - Keep dependencies updated and commit your lock files for consistency.
 - Splitting and joining tags is as easy as `.split(',')` and `.join(',')`.
 
-> “Minimum effort for maximum impact—that’s the goal of a good MVP. But with MCP, it’s all about making your API machine-consumable and easy to integrate.”
+> “Minimum effort for maximum impact; that’s the goal of a good MVP. But with MCP, it’s all about making your API machine-consumable and easy to integrate.”
 
 > “If you want to build something useful, start small, keep it clean, and iterate fast.”

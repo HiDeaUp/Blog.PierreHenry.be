@@ -20,13 +20,13 @@ The idea is simple: take action, but do it in small, consistent doses. Imagine m
 
 I’ve noticed, both in my own life and by observing others, that happy people use their time much better. They focus on what really matters. There’s a principle called the 20/80 rule: spend 20% of your time on the things that will bring you 80% of your results. That’s about twenty minutes a day. Use those twenty minutes to plan and act on what truly counts for you.
 
-What if you made a plan for the next three months? Every day, you’d spend those twenty minutes on actions that move you closer to your goals. Each week, you’d adjust your actions a little, making sure you’re always moving forward. Even if something unexpected happens—like dropping a bottle of coconut water—you get right back to your twenty minutes.
+What if you made a plan for the next three months? Every day, you’d spend those twenty minutes on actions that move you closer to your goals. Each week, you’d adjust your actions a little, making sure you’re always moving forward. Even if something unexpected happens (like dropping a bottle of coconut water) you get right back to your twenty minutes.
 
 {{< figure src="https://images.unsplash.com/photo-1635479551123-0abe7e732e96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYWJpdCUyMGJ1aWxkaW5nJTIwc3VzdGFpbmFibGUlMjBhY3Rpb25zJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTE0Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wall with a sign that says habitt on it" title="How to Build Lasting Habits Without Overwhelm" caption="How to Build Lasting Habits Without Overwhelm - Photo by [Adiptalk](https://unsplash.com/@adiptaagung_w) on [Unsplash](https://unsplash.com/photos/a-colorful-wall-with-a-sign-that-says-habitt-on-it-3cfQVjVUnaI)" >}}
 
 The key is to make sure your actions are in line with what you want to achieve. It’s important to have a clear vision for your life. Ask yourself, “What do I absolutely want to accomplish?” Be specific. If you know exactly what you want, and you take small steps every day, you will get there.
 
-But it’s not just about working hard. It’s about working smart. Don’t just bang your head against the wall, hoping things will change. Take care of yourself. Be gentle with your body and mind. Think of your actions like a game of chess—plan your moves, think about your strategy, and decide how you’ll put things into place.
+But it’s not just about working hard. It’s about working smart. Don’t just bang your head against the wall, hoping things will change. Take care of yourself. Be gentle with your body and mind. Think of your actions like a game of chess: plan your moves, think about your strategy, and decide how you’ll put things into place.
 
 Once you start doing this, you’ll see that things begin to flow. Life becomes smoother. The best part? You don’t have to wait for tomorrow. Twenty minutes is all it takes, and everyone can find twenty minutes in their day. Don’t aim for three hours a day, because you’ll skip a day, then another, and soon your goal will fade away. It will become vague, and you’ll drift further from what you want.
 
@@ -34,11 +34,11 @@ That’s why just twenty minutes, every day, really matters. It triggers a compo
 
 > *The journey of a thousand miles begins with a single step.*
 >
-> — Lao Tzu
+> *Lao Tzu*
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 {{< figure src="https://images.unsplash.com/photo-1622227876140-d848d750ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYWJpdCUyMGJ1aWxkaW5nJTIwc3VzdGFpbmFibGUlMjBhY3Rpb25zJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTE0Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leaf on persons face" title="How to Build Lasting Habits Without Overwhelm" caption="How to Build Lasting Habits Without Overwhelm - Photo by [Andrea Sánchez](https://unsplash.com/@andyspidey) on [Unsplash](https://unsplash.com/photos/green-leaf-on-persons-face-1Z9kF1QesXI)" >}}
 
@@ -48,7 +48,7 @@ That’s why just twenty minutes, every day, really matters. It triggers a compo
 - *Small, daily actions are more powerful than big, occasional efforts.*
 - *Focus on the 20% of your time that brings 80% of your results.*
 - *Have a clear vision and align your daily actions with your goals.*
-- *Consistency beats intensity—twenty minutes a day is enough to change your life.*
+- *Consistency beats intensity: twenty minutes a day is enough to change your life.*
 
 ## Reflection
 - *What is one thing you want to achieve in the next three months?*

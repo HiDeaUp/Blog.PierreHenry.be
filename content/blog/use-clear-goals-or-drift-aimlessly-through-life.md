@@ -24,7 +24,7 @@ But it’s not enough to just have a vague idea. You need to be crystal clear ab
 
 Once you have your vision, the next step is to break it down. Ask yourself: What do I need to do each week to get closer to my goal? Imagine you’ve already achieved your dream. Now, work backwards. What were the key steps that got you there? What challenges did you overcome? By visualizing the journey in reverse, you can map out the path ahead.
 
-A simple way to do this is to use a board or a tool like Asana. Create columns for each week: things to do, things in progress, things done, and ideas for the future. This helps you see at a glance what needs your attention and what you’ve already accomplished. It’s a practical way to keep your focus sharp and your motivation high.
+A simple way to do this is to use a board or a tool like Asana. Create columns for each week: things to do, things in progress, things done, and ideas for the future. This helps you see at a glance what needs your attention and what you’ve already accomplished. It’s a practical way to keep your focus focused and your motivation high.
 
 Let’s say you want to start a marketing business. The first week, you register your company and handle the paperwork. The next week, you open a bank account and start looking for clients. The third week, you focus on marketing. The fourth week, you deliver value to your first clients. Each week has a clear purpose, and you can measure your progress.
 
@@ -44,20 +44,20 @@ Every week, take time to review what went well and what didn’t. Focus on repea
 
 ## Write Down Your Goals and Take Action
 
-Don’t just keep your dreams in your head. Write them down. Make a list of the things you absolutely want to achieve in your lifetime—your bucket list. Every week or month, check something off that list. This is how you build an amazing, fulfilling life.
+Don’t just keep your dreams in your head. Write them down. Make a list of the things you absolutely want to achieve in your lifetime: your bucket list. Every week or month, check something off that list. This is how you build an amazing, fulfilling life.
 
 If you don’t decide what you want, you risk waking up one day and realizing you’ve spent your life doing things that didn’t matter to you. It’s like getting into a taxi and not telling the driver where to go. You’ll end up nowhere.
 
 > *Living without a goal is like sailing without a compass.*
-> — Josh Waitzkin
+> *Josh Waitzkin*
 
 > *If you don’t know where you’re going, any road will get you there.*
-> — Lewis Carroll
+> *Lewis Carroll*
 
 {{< figure src="https://images.unsplash.com/photo-1474576038745-8098f7db460a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwZ29hbHMlMjBzZWxmLWRpc2NvdmVyeSUyMHB1cnBvc2V8ZW58MHwwfHx8MTc1NjAxNDc3Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Hiking on rugged rocks" title="Use Clear Goals or Drift Aimlessly Through Life" caption="Use Clear Goals or Drift Aimlessly Through Life - Photo by [Jake Ingle](https://unsplash.com/@ingle_jake) on [Unsplash](https://unsplash.com/photos/man-standing-on-mountain-cliff-8gEmqyg5NPU)" >}}
 
 > *The best way to predict the future is to create it.*
-> — Peter Drucker
+> *Peter Drucker*
 
 ---
 

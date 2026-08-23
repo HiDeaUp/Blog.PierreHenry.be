@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/774036126e90"
 
 When we talk about luck and opportunity, most people imagine some mysterious force that decides who gets ahead and who doesn’t. But if you look closer, you’ll see that what we call “luck” is often just the result of making the right decisions at the right time. Sure, a little bit of luck helps, but it’s not the whole story.
 
-Let’s be honest: I don’t really believe in luck as something magical. But I do think you need a bit of it to get what you want. If you want to have control over your life, you can’t just wait for luck to show up. You have to take action and get used to making decisions—lots of them.
+Let’s be honest: I don’t really believe in luck as something magical. But I do think you need a bit of it to get what you want. If you want to have control over your life, you can’t just wait for luck to show up. You have to take action and get used to making decisions: lots of them.
 
 It’s not about being the smartest person in the room. It’s about making so many decisions that you learn from your mistakes. One decision can change everything. It can change your connections, your finances, your entire path. A bad decision can cost you a lot, while a good one can open doors you never imagined.
 
@@ -30,13 +30,13 @@ Think of life as a pile of choices, like stacking Lego bricks. Each good choice 
 
 Sometimes, luck is about being in the right place at the right time. But you can help luck along by being open-minded, saying yes to new things, and putting yourself out there. Go to meetups, coworking spaces, and events. Get out of your comfort zone. Smile, say hello, and talk about your ideas. The more you do this, the more you increase your chances of being “lucky.”
 
-Small talk might seem pointless, but it’s actually a decision—a choice to be the main character in your own life, not just a bystander. Every time you take action, you’re giving luck a chance to find you.
+Small talk might seem pointless, but it’s actually a decision: a choice to be the main character in your own life, not just a bystander. Every time you take action, you’re giving luck a chance to find you.
 
 *“Luck is what happens when preparation meets opportunity.”*  
-— Seneca
+*Seneca*
 
 *“You miss 100% of the shots you don’t take.”*  
-— Wayne Gretzky
+*Wayne Gretzky*
 
 ---
 

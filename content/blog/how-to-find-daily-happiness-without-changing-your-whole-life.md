@@ -29,10 +29,10 @@ If you’re not enjoying your work, try changing your environment. Move your des
 This simple shift can completely change how you feel about your week. Monday mornings might still be tough, but knowing you’ll be somewhere new by Thursday or Friday can make all the difference. Even just working from a different city can give you a fresh perspective on your routine.
 
 > _Happiness is not something ready made. It comes from your own actions._
-— Dalai Lama
+*Dalai Lama*
 
 > _The smallest change in perspective can transform a routine into an adventure._
-— Anonymous
+*Anonymous*
 
 Taking time to reflect and adjust, even in small ways, can make your days much brighter. Give yourself permission to question, to try something different, and to find what truly feels good for you.
 

@@ -3,8 +3,8 @@ title = "How Raising Small Daily Standards Boosts Your Self-Worth"
 slug = "how-raising-small-daily-standards-boosts-your-self-worth"
 date = "2025-08-30T10:45:54.803300"
 draft = false
-description = "Have you ever noticed how the little things you do for yourself shape the way you feel about your life? Imagine this: yesterday, you had breakfast in your pajamas. Today, you decide you deserve mor..."
-summary = "Have you ever noticed how the little things you do for yourself shape the way you feel about your life? Imagine this: yesterday, you had breakfast in your pajamas. Today, you decide you deserve mor..."
+description = "Have you ever noticed how the little things you do for yourself influence the way you feel about your life? Imagine this: yesterday, you had breakfast in your pajamas. Today, you decide you deserve mor..."
+summary = "Have you ever noticed how the little things you do for yourself influence the way you feel about your life? Imagine this: yesterday, you had breakfast in your pajamas. Today, you decide you deserve mor..."
 tags = ["habits", "motivation", "personal growth", "productivity", "self-improvement", "self-worth"]
 priority = true
 priority_topics = ["productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/ce82c2172abd"
 
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNDc1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How Raising Small Daily Standards Boosts Your Self-Worth" caption="How Raising Small Daily Standards Boosts Your Self-Worth - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
-Have you ever noticed how the little things you do for yourself shape the way you feel about your life? Imagine this: yesterday, you had breakfast in your pajamas. Today, you decide you deserve more, so you put on a nice shirt and treat yourself like a special guest. Suddenly, your morning feels different. You feel different.
+Have you ever noticed how the little things you do for yourself influence the way you feel about your life? Imagine this: yesterday, you had breakfast in your pajamas. Today, you decide you deserve more, so you put on a nice shirt and treat yourself like a special guest. Suddenly, your morning feels different. You feel different.
 
 This is what happens when you raise your standards, even in the smallest ways. Maybe tomorrow, you decide to stop eating yogurt straight from the plastic container and instead serve it in a beautiful bowl. The next day, you might go a step further and set your breakfast table the night before. When you wake up, it feels like you’re in a hotel, with everything ready: the jam jar, the bread basket, your plate waiting for you. You start to realize you deserve more, even if it’s just for yourself.
 
@@ -30,11 +30,11 @@ When you raise your standards, you start to live a better life. You feel more co
 
 > *You yourself, as much as anybody in the entire universe, deserve your love and affection.*
 >
-> — Buddha
+> *Buddha*
 
 > *How you do anything is how you do everything.*
 >
-> — T. Harv Eker
+> *T. Harv Eker*
 
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNDc1M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How Raising Small Daily Standards Boosts Your Self-Worth" caption="How Raising Small Daily Standards Boosts Your Self-Worth - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 

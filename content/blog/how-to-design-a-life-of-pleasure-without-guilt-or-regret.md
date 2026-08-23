@@ -20,25 +20,25 @@ Of course, moving to a country with a lower cost of living comes with trade-offs
 
 On the other hand, if you want the freedom to travel widely, it’s important to earn in a strong currency. I love traveling, so for me, it’s essential to have an income in euros, US dollars, or Canadian dollars. This gives me the flexibility to visit many countries without worrying too much about exchange rates.
 
-Remote work has changed the game. If you can work online for a company based in a country with a strong currency, you can live almost anywhere. For example, I work for a company in Sydney, Australia. My salary is paid in Australian dollars, which is quite strong. I know people who live in small French villages but work for companies in Paris, earning Parisian salaries. The same goes for Australia—many people live in smaller cities or towns but work remotely for companies in Sydney or Melbourne, enjoying higher salaries while living where they love.
+Remote work has changed the game. If you can work online for a company based in a country with a strong currency, you can live almost anywhere. For example, I work for a company in Sydney, Australia. My salary is paid in Australian dollars, which is quite strong. I know people who live in small French villages but work for companies in Paris, earning Parisian salaries. The same goes for Australia: many people live in smaller cities or towns but work remotely for companies in Sydney or Melbourne, enjoying higher salaries while living where they love.
 
-The key is to design your life around what brings you pleasure. Maybe you dream of running a beach club, living on a Mediterranean island, or working as a freelance video editor for YouTubers and influencers. Start small. Build your reputation, gain some recognition, and then you can branch out—maybe write a book or try something new. Step by step, you can shape the life you’ve always wanted.
+The key is to design your life around what brings you pleasure. Maybe you dream of running a beach club, living on a Mediterranean island, or working as a freelance video editor for YouTubers and influencers. Start small. Build your reputation, gain some recognition, and then you can branch out, maybe write a book or try something new. Step by step, you can build the life you’ve always wanted.
 
 {{< figure src="https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsaWZlJTIwZGVzaWduJTIwcGxlYXN1cmUlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NTYwODYzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="In frame - a cup with the quotes &quot; Happiness is having a younger brother who is taller than you&quot;." title="How to Design a Life of Pleasure Without Guilt or Regret" caption="How to Design a Life of Pleasure Without Guilt or Regret - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)" >}}
 
-Personally, I prefer working from a coworking space rather than my apartment. It gives me a clear separation between work and home, and the air conditioning is a lifesaver during hot days. Even though my company is based in Sydney, I often visit the office to see my colleagues. Maybe one day I’ll move to Sydney, even though it’s one of the most expensive cities in the world. It’s the same in the UK—London pays well, but it’s very expensive. Some people live in Scotland and work for London-based companies, enjoying the best of both worlds.
+Personally, I prefer working from a coworking space rather than my apartment. It gives me a clear separation between work and home, and the air conditioning is a lifesaver during hot days. Even though my company is based in Sydney, I often visit the office to see my colleagues. Maybe one day I’ll move to Sydney, even though it’s one of the most expensive cities in the world. It’s the same in the UK: London pays well, but it’s very expensive. Some people live in Scotland and work for London-based companies, enjoying the best of both worlds.
 
-There are also people living in places like Thailand, Cambodia, the Philippines, Malaysia, or Bali, who work for clients in Europe, the US, or Australia. They get paid in strong currencies, while their living costs remain low. For them, earning 200 euros for a project is normal for their clients, but in Bali, 200 euros is a month’s salary—a good one, too.
+There are also people living in places like Thailand, Cambodia, the Philippines, Malaysia, or Bali, who work for clients in Europe, the US, or Australia. They get paid in strong currencies, while their living costs remain low. For them, earning 200 euros for a project is normal for their clients, but in Bali, 200 euros is a month’s salary: a good one, too.
 
 The lesson is simple: design your life for pleasure, on your own terms. Think about what truly brings you joy, and build your lifestyle around it. It might take time, but every step brings you closer to the life you want.
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *The biggest adventure you can take is to live the life of your dreams.*
 >
-> — Oprah Winfrey
+> *Oprah Winfrey*
 
 ---
 
@@ -49,7 +49,7 @@ The lesson is simple: design your life for pleasure, on your own terms. Think ab
 - *Design your life around what brings you real pleasure, not just what’s expected.*
 - *Consider earning in a strong currency if you want the freedom to travel.*
 - *Remote work can let you live where you want while earning more.*
-- *Start small, build your reputation, and shape your dream life step by step.*
+- *Start small, build your reputation, and build your dream life step by step.*
 
 ---
 

@@ -33,10 +33,10 @@ If you doubt yourself, your days will reflect that doubt. Instead, throw your do
 The best time to take action is today. There’s no point in putting off what you want to do. Start now.
 
 > *“The best way to predict the future is to create it.”*  
-— Peter Drucker
+*Peter Drucker*
 
 > *“Don’t be a spectator in your own life. Be the main character.”*  
-— Adapted from the transcript
+*Adapted from the transcript*
 
 ---
 

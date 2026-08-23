@@ -16,11 +16,11 @@ source_medium = "https://medium.com/@phenrysay/85e28eb052b9"
 
 Have you ever wondered what it really takes to feel happy and fulfilled in your life? It’s a bit like a plant: give it the right soil, and it grows tall and blooms. We’re not so different. When we find the right elements for ourselves, we start to thrive.
 
-But sometimes, it’s not so easy. Maybe you feel stuck, like you’re boxed in between two walls, unable to breathe. Your daily routine doesn’t get you where you want to go. Maybe your friends, your surroundings, or even your country just don’t feel right for you. The atmosphere around you isn’t helping—and it’s not always easy to admit that.
+But sometimes, it’s not so easy. Maybe you feel stuck, like you’re boxed in between two walls, unable to breathe. Your daily routine doesn’t get you where you want to go. Maybe your friends, your surroundings, or even your country just don’t feel right for you. The atmosphere around you isn’t helping, and it’s not always easy to admit that.
 
-When you notice these signals, it’s time to make choices. Sometimes, you need to move. Sometimes, you need to try something new. And yes, you might have already tried a lot, and things still aren’t working out. That doesn’t mean you can’t succeed—it just might take longer, or you might need to change your approach.
+When you notice these signals, it’s time to make choices. Sometimes, you need to move. Sometimes, you need to try something new. And yes, you might have already tried a lot, and things still aren’t working out. That doesn’t mean you can’t succeed; it just might take longer, or you might need to change your approach.
 
-One of the biggest boosts you can give yourself is to find an environment that lifts you up. For me, being close to nature makes a huge difference. I also love working from cozy, trendy cafés—they give me energy and make my work feel lighter. If I’m surrounded by grey weather, people who never smile, or a gloomy atmosphere, it drags me down. We’re all sensitive to our environment, even if we don’t always realize it.
+One of the biggest boosts you can give yourself is to find an environment that lifts you up. For me, being close to nature makes a huge difference. I also love working from cozy, trendy cafés; they give me energy and make my work feel lighter. If I’m surrounded by grey weather, people who never smile, or a gloomy atmosphere, it drags me down. We’re all sensitive to our environment, even if we don’t always realize it.
 
 Sometimes, the answer isn’t to move permanently, but simply to travel more. A change of scenery, even for a short while, can do wonders. Today, for example, the weather isn’t great, so I’m inside to avoid the noise and heat. But even then, I know that being in a place that feels good to me helps me recharge.
 
@@ -28,20 +28,20 @@ Sometimes, the answer isn’t to move permanently, but simply to travel more. A 
 
 So, if you feel like you’re stagnating, pay attention to your environment. Is it helping you grow, or holding you back? Don’t be afraid to look for places and people that make you feel alive. Sometimes, that’s all it takes to get moving again.
 
-*The best time to take action is always now. There’s no point in putting off what you want to do today. Go for it—I’m 100% with you. I believe in you. Now’s your moment.*
+*The best time to take action is always now. There’s no point in putting off what you want to do today. Go for it; I’m 100% with you. I believe in you. Now’s your moment.*
 
 > *“The grass is greener where you water it.”*  
-— Neil Barringham
+*Neil Barringham*
 
 > *“You are the average of the five people you spend the most time with.”*  
-— Jim Rohn
+*Jim Rohn*
 
 ---
 
 ## Key Takeaways
 
-- Your environment shapes your happiness and growth.
-- If you feel stuck, look at what’s around you—routine, people, place.
+- Your environment affects your happiness and growth.
+- If you feel stuck, look at what’s around you: routine, people, place.
 - Sometimes, a change of scenery or routine is all you need.
 - Don’t wait for the “perfect” time. Start making changes now.
 
@@ -56,4 +56,4 @@ So, if you feel like you’re stagnating, pay attention to your environment. Is 
 
 ## Reflection
 
-*What is one small change you can make to your environment today? Who or what around you helps you grow—and what holds you back?*
+*What is one small change you can make to your environment today? Who or what around you helps you grow, and what holds you back?*

@@ -31,10 +31,10 @@ I sometimes joke that maybe I have a bit of amnesia myself, forgetting things he
 *You don’t have to wait until you feel ready. You can start acting as if you are already the person you want to become. That’s how you break through those mental barriers and move forward.*
 
 > *“Whether you think you can or you think you can’t, you’re right.”*  
-— Henry Ford
+*Henry Ford*
 
 > *“Act as if what you do makes a difference. It does.”*  
-— William James
+*William James*
 
 {{< figure src="https://images.unsplash.com/photo-1704969724398-ec70386c9b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2hpZnQlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxMzgxMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word mind" title="How to Succeed by Adopting a New Identity Without Self-Doubt" caption="How to Succeed by Adopting a New Identity Without Self-Doubt - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-mind-D7Wat_shQqw)" >}}
 

@@ -23,10 +23,10 @@ Being alert and aware of the small details in other cultures helps you spot what
 The key is to stay curious and open. When you travel with your eyes and mind wide open, you become a collector of useful habits, creative solutions, and even new perspectives on life. Every country has its own little treasures, and by being attentive, you can pick up what truly resonates with you.
 
 > _The real voyage of discovery consists not in seeking new landscapes, but in having new eyes._
-— Marcel Proust
+*Marcel Proust*
 
 > _Travel is fatal to prejudice, bigotry, and narrow-mindedness._
-— Mark Twain
+*Mark Twain*
 
 Learning from other cultures is not just about copying what you see. It is about understanding why people do things differently and seeing if it can help you grow. Sometimes, what feels odd or funny at first can become the very thing that helps you move forward faster and with more confidence.
 

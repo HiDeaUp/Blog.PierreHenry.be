@@ -20,7 +20,7 @@ Imagine you want to start a business and need help from friends or family. If yo
 
 There’s another side to this. When you are not sincere, it gets tricky to remember what you said to whom. You end up tangled in your own words, and you lose consistency. With some people, you say one thing; with others, something else. This confusion leads to doubt, both from others and within yourself.
 
-Mental clutter is another hidden cost. When you are not sincere, your mind is busy keeping track of what you have said and what you are hiding. This slows you down. On the other hand, when you are honest—even about things you are not proud of—you have a clear mind and a clean conscience. You know you have nothing to hide, and that gives you peace.
+Mental clutter is another hidden cost. When you are not sincere, your mind is busy keeping track of what you have said and what you are hiding. This slows you down. On the other hand, when you are honest (even about things you are not proud of) you have a clear mind and a clean conscience. You know you have nothing to hide, and that gives you peace.
 
 When you have secrets or things you want to keep hidden, you always worry they will come out. You might hesitate to take certain actions or share information, and that hesitation can hold you back from opportunities. But when you are transparent, when you show both your good and not-so-good sides, you move forward much faster. That’s the real difference sincerity makes.
 
@@ -38,11 +38,11 @@ In the end, sincerity always pays off, especially in the long run. If you are no
 
 > *Honesty is the first chapter in the book of wisdom.*
 >
-> — Thomas Jefferson
+> *Thomas Jefferson*
 
 > *Better to be slapped with the truth than kissed with a lie.*
 >
-> — Russian Proverb
+> *Russian Proverb*
 
 {{< figure src="https://images.unsplash.com/photo-1580560745423-9a5bdf56849f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW5jZXJpdHklMjBhdXRoZW50aWNpdHklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEwMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow flower in tilt shift lens eaed WStU3M" title="How to Use Sincerity for Trust Without Pretending" caption="How to Use Sincerity for Trust Without Pretending - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-flower-in-tilt-shift-lens-eaed-WStU3M)" >}}
 

@@ -20,7 +20,7 @@ But then, the excuses start. “I’m not ready yet.” “It’s not the right 
 
 If your number one priority is buying a house, then of course, starting a business will come last. But if launching your own project is what matters most, everything else will have to wait. The key is to stop putting things off, stop saying, “I’m too tired today, I’ll do it tomorrow.” Tomorrow will always bring new distractions. There will never be a perfect moment. Procrastination is just another excuse.
 
-The only person responsible for your progress is you. If you want something passionately enough, it becomes an obsession. When that happens, you’ll always find ways to move forward, no matter what stands in your way. The limits you think you have—your background, your education, your circumstances—are often just boundaries you’ve set for yourself. It’s time to break out of that box.
+The only person responsible for your progress is you. If you want something passionately enough, it becomes an obsession. When that happens, you’ll always find ways to move forward, no matter what stands in your way. The limits you think you have (your background, your education, your circumstances) are often just boundaries you’ve set for yourself. It’s time to break out of that box.
 
 If you keep telling yourself, “I can’t do this because of where I live, or because of my situation,” then maybe it’s time to change your environment. If your dream is truly your top priority, you’ll move mountains to make it real.
 
@@ -28,7 +28,7 @@ Sometimes, you see people who have opened a coffee shop or started a business an
 
 {{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2MzQ3MTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Take Action Without Waiting for the “Right Moment”" caption="How to Take Action Without Waiting for the “Right Moment” - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
-One of the biggest obstacles today is distraction. Notifications on your phone, your computer, endless pings and pop-ups—they all pull you away from what matters. Turn off notifications. If you need to, use a distraction-free device for writing or working. If your computer is too tempting, put it away. Out of sight, out of mind. Sometimes, you have to go to extremes—lock your computer away, or even put it somewhere you can’t reach it easily—just to focus on what matters most.
+One of the biggest obstacles today is distraction. Notifications on your phone, your computer, constant pings and pop-ups; they all pull you away from what matters. Turn off notifications. If you need to, use a distraction-free device for writing or working. If your computer is too tempting, put it away. Out of sight, out of mind. Sometimes, you have to go to extremes (lock your computer away, or even put it somewhere you can’t reach it easily) just to focus on what matters most.
 
 A computer is a tool. It should help you, not hold you back. If you find yourself constantly tempted to do something else, take a break from it. The most important thing is to do what matters to you.
 
@@ -36,17 +36,17 @@ There’s a Chinese proverb that says, *The best time to plant a tree was twenty
 
 When you see inspiring people, remember: what you admire in them is possible for you, too. If their lifestyle makes you dream, maybe it’s a sign you should try it for yourself. Don’t just wonder, “What if?” Do it now. Only by trying will you know if it’s right for you.
 
-When your life project becomes your number one obsession, you’ll always find ways to make it work—even if it seems impossible from where you are now. You’ll find tricks, shortcuts, and solutions to get past obstacles. If money is tight, take on a side job, work nights, or do whatever it takes to save up. It might not be your dream job, but it’s a step toward your goal.
+When your life project becomes your number one obsession, you’ll always find ways to make it work: even if it seems impossible from where you are now. You’ll find tricks, shortcuts, and solutions to get past obstacles. If money is tight, take on a side job, work nights, or do whatever it takes to save up. It might not be your dream job, but it’s a step toward your goal.
 
 I believe in you. You deserve to succeed. Stop telling yourself, “I can’t because of this or that.” The right moment is now.
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese proverb
+> *Chinese proverb*
 
 > *If you really want something, you’ll find a way. If you don’t, you’ll find an excuse.*
 >
-> — Jim Rohn
+> *Jim Rohn*
 
 ---
 
@@ -54,7 +54,7 @@ I believe in you. You deserve to succeed. Stop telling yourself, “I can’t be
 
 ## Key Takeaways
 
-- Stop waiting for the perfect moment—start now.
+- Stop waiting for the perfect moment: start now.
 - Your excuses are just that: excuses.
 - Make your dream your top priority and act on it.
 - Remove distractions and focus on what matters.

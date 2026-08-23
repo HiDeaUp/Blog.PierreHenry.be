@@ -22,27 +22,25 @@ The real magic happens when you commit to making small improvements, day after d
 
 The most important thing is consistency. Set aside half an hour to an hour each day to focus on learning or practicing something specific. Choose one area where you want to excel. Maybe you want to write better, or speak more confidently. Whatever it is, practice it every day.
 
-Consistency is the real secret. If you skip a day, then another, and then a third, you’ll quickly lose your rhythm. It’s just like starting a car: the hardest part is getting it moving. Once it’s rolling on the highway, it almost drives itself. Your habits work the same way. If you keep at it every day, soon it becomes second nature. You won’t even have to think about it anymore—it’s just part of your daily life.
+Consistency is the real secret. If you skip a day, then another, and then a third, you’ll quickly lose your rhythm. It’s just like starting a car: the hardest part is getting it moving. Once it’s rolling on the highway, it almost drives itself. Your habits work the same way. If you keep at it every day, soon it becomes second nature. You won’t even have to think about it anymore; it’s just part of your daily life.
 
 ## Why a Daily Rhythm Matters
 
 {{< figure src="https://images.unsplash.com/photo-1737532823991-2ed69a67eb66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NTI2OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="a lonely flower that was left behind by another flower and stand alone" title="How to Become Your Best Self Without Overhauling Your Life" caption="How to Become Your Best Self Without Overhauling Your Life - Photo by [Marcilok Gilbert](https://unsplash.com/@photographyfun_marcilok) on [Unsplash](https://unsplash.com/photos/a-small-pink-flower-sitting-on-top-of-a-pile-of-dirt-juoBtviLr54)" >}}
 
-Focusing on one area each day, or even one area per week if it’s a bigger goal, can make a huge difference. Just think: one hour a day is seven hours a week. In two weeks, that’s fourteen hours. After a month, you’ve spent twenty-eight hours—more than a full day—on your chosen skill. That’s powerful.
+Focusing on one area each day, or even one area per week if it’s a bigger goal, can make a huge difference. Just think: one hour a day is seven hours a week. In two weeks, that’s fourteen hours. After a month, you’ve spent twenty-eight hours (more than a full day) on your chosen skill. That’s powerful.
 
 This approach is much more effective than cramming for three hours once in a while and then forgetting about it. The real value comes from regularity. It’s like compound interest: the more you invest, the more it grows. After a year, you’ll have built up so much expertise that you’ll be among the top 1% in your field.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-> — Robert Collier
+> *Robert Collier*
 
 ## My Own Journey
 
-I’ve seen this work in my own life. I read more than fifty books a year, and most of what I share in my books comes from years of reading, learning, and thinking deeply about these ideas. I encourage you to read my books from start to finish and form your own opinion. Don’t just skim the first few pages and judge—give yourself the chance to discover something new.
+I’ve seen this work in my own life. I read more than fifty books a year, and years of reading, learning, and thinking deeply have influenced what I share. Read books from start to finish before forming an opinion. Don’t skim the first few pages and judge. Give yourself the chance to discover something new.
 
 > *The difference between ordinary and extraordinary is that little extra.*
-> — Jimmy Johnson
-
-If you want to go further in your learning, I’ve put together a lot of resources and methods that have helped me, and I’m sure they can help you too.
+> *Jimmy Johnson*
 
 ## The Compound Effect
 
@@ -51,7 +49,7 @@ The real transformation comes from the compound effect of daily action. If you s
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjB0cmFuc2Zvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NTI2OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Become Your Best Self Without Overhauling Your Life" caption="How to Become Your Best Self Without Overhauling Your Life - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
-> — Will Durant
+> *Will Durant*
 
 ---
 

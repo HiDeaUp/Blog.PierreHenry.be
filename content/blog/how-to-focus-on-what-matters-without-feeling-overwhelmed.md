@@ -3,8 +3,8 @@ title = "How to Focus on What Matters Without Feeling Overwhelmed"
 slug = "how-to-focus-on-what-matters-without-feeling-overwhelmed"
 date = "2025-08-30T09:29:15.554106"
 draft = false
-description = "Concentration is more than just a skill; it is a way of living that shapes our happiness. When you focus fully on what you want to achieve, you give yourself the best chance to feel fulfilled. The..."
-summary = "Concentration is more than just a skill; it is a way of living that shapes our happiness. When you focus fully on what you want to achieve, you give yourself the best chance to feel fulfilled. The..."
+description = "Concentration is more than just a skill; it is a way of living that affects our happiness. When you focus fully on what you want to achieve, you give yourself the best chance to feel fulfilled. The..."
+summary = "Concentration is more than just a skill; it is a way of living that affects our happiness. When you focus fully on what you want to achieve, you give yourself the best chance to feel fulfilled. The..."
 tags = ["concentration", "focus", "happiness", "mindfulness", "personal growth", "productivity", "self-transcendence", "time management"]
 priority = true
 priority_topics = ["self-transcendence", "time management", "productivity"]
@@ -14,9 +14,9 @@ source_medium = "https://medium.com/@phenrysay/0292bce797b3"
 
 {{< figure src="https://images.unsplash.com/photo-1562589725-f486bc3d8d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMGhhcHBpbmVzcyUyMGNvbmNlbnRyYXRpb258ZW58MHwwfHx8MTc1NjUxMDE0NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of man in vehicle" title="How to Focus on What Matters Without Feeling Overwhelmed" caption="How to Focus on What Matters Without Feeling Overwhelmed - Photo by [Lukas Eggers](https://unsplash.com/@beschtephotography) on [Unsplash](https://unsplash.com/photos/grayscale-photography-of-man-in-vehicle-cY9oEMEMwy8)" >}}
 
-Concentration is more than just a skill; it is a way of living that shapes our happiness. When you focus fully on what you want to achieve, you give yourself the best chance to feel fulfilled. The more you can immerse yourself in the things that matter most to you, the more your days will feel meaningful.
+Concentration is more than just a skill; it is a way of living that affects our happiness. When you focus fully on what you want to achieve, you give yourself the best chance to feel fulfilled. The more you can immerse yourself in the things that matter most to you, the more your days will feel meaningful.
 
-The first step is to identify the three to five things that are most important in your life. These are the things that, for you, make all the difference. Write them down. I personally use a notebook—one with birds on the cover that I really like. In it, I jot down the things that matter most to me. This simple act helps me keep my focus on what truly counts, because I know these are the ingredients for my happiness and daily fulfillment.
+The first step is to identify the three to five things that are most important in your life. These are the things that, for you, make all the difference. Write them down. I personally use a notebook: one with birds on the cover that I really like. In it, I jot down the things that matter most to me. This simple act helps me keep my focus on what truly counts, because I know these are the ingredients for my happiness and daily fulfillment.
 
 If I skip these things, I feel less content, less at peace. But when I make sure to include them in my day, my sense of happiness rises. I feel calm, satisfied, and genuinely happy.
 
@@ -30,11 +30,11 @@ Of course, your list might look different, and that’s perfectly normal. We are
 
 > _Happiness is not something ready made. It comes from your own actions._
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > _The things that matter most must never be at the mercy of the things that matter least._
 >
-> — Johann Wolfgang von Goethe
+> *Johann Wolfgang von Goethe*
 
 ---
 

@@ -20,7 +20,7 @@ Let’s be honest: when someone says you’re not motivated, it’s usually beca
 
 Think about it. If a job feels like a chore, maybe it’s not set up right. Maybe it’s not enjoyable, or maybe it’s just not for you. The real problem is rarely the person. It’s almost always the task. If you find yourself dreading something, try changing your environment. Work somewhere more pleasant, listen to music, or find a way to make the task more enjoyable. That’s a great exercise to try.
 
-If someone tells you that you’re not willing enough, remember: it’s not your fault. Maybe you just don’t like the task. We’re all willing when it comes to things we love—our passions, our projects. That’s what really matters.
+If someone tells you that you’re not willing enough, remember: it’s not your fault. Maybe you just don’t like the task. We’re all willing when it comes to things we love: our passions, our projects. That’s what really matters.
 
 {{< figure src="https://images.unsplash.com/photo-1596033741668-1b2456b94516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3aWxscG93ZXIlMjBtb3RpdmF0aW9uJTIwc2VsZi1kaXNjaXBsaW5lfGVufDB8MHx8fDE3NTY1MjIyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Of man on rock during sunset Y" title="How to Find Willpower Without Forcing Yourself to Like the Task" caption="How to Find Willpower Without Forcing Yourself to Like the Task - Photo by [Sajad Nori](https://unsplash.com/@sajadnori) on [Unsplash](https://unsplash.com/photos/silhouette-of-man-standing-on-rock-during-sunset-Y-ZjBdZNvEE)" >}}
 
@@ -28,10 +28,10 @@ Why force yourself to do things that don’t inspire you? Change your perspectiv
 
 If a task is pointless or nearly impossible, why bother? Even if it’s useful, maybe you’re not the right person for it. You can always delegate, ask someone else, or pay someone to do it. That way, your willpower is used where it matters most.
 
-So next time you’re told you lack willpower, ask yourself if it’s really about you—or if it’s just the task that needs to change.
+So next time you’re told you lack willpower, ask yourself if it’s really about you, or if it’s just the task that needs to change.
 
 > *“We are all willing when it comes to things we love. The problem is rarely the person, but almost always the task.”*  
-— Pierre
+*Pierre*
 
 ---
 

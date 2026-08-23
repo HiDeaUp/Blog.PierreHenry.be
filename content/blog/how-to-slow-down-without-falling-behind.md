@@ -3,8 +3,8 @@ title = "How to Slow Down Without Falling Behind"
 slug = "how-to-slow-down-without-falling-behind"
 date = "2025-08-24T11:06:05.016589"
 draft = false
-description = "Rest. It sounds simple, but how often do we really allow ourselves to pause? Today, I found myself in a park, surrounded by people, and it struck me how important it is to rest—even in public space..."
-summary = "Rest. It sounds simple, but how often do we really allow ourselves to pause? Today, I found myself in a park, surrounded by people, and it struck me how important it is to rest—even in public space..."
+description = "Rest. It sounds simple, but how often do we really allow ourselves to pause? Today, I found myself in a park, surrounded by people, and it struck me how important it is to rest: even in public space..."
+summary = "Rest. It sounds simple, but how often do we really allow ourselves to pause? Today, I found myself in a park, surrounded by people, and it struck me how important it is to rest: even in public space..."
 tags = ["entrepreneurship", "life balance", "mental health", "mindfulness", "self-care", "self-transcendence", "taking a break", "tasks", "time management"]
 priority = true
 priority_topics = ["self-transcendence", "time management", "tasks", "entrepreneurship"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/ee759beeed59"
 
 {{< figure src="https://images.unsplash.com/photo-1646963558449-4f49a48af9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWNhcmUlMjBtaW5kZnVsbmVzcyUyMHRha2luZyUyMGElMjBicmVha3xlbnwwfDB8fHwxNzU1OTk3NTYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a dock looking at a lake" title="How to Slow Down Without Falling Behind" caption="How to Slow Down Without Falling Behind - Photo by [Alexey Demidov](https://unsplash.com/@alexeydemidov) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-dock-looking-at-a-lake-45tO0WhNIto)" >}}
 
-Rest. It sounds simple, but how often do we really allow ourselves to pause? Today, I found myself in a park, surrounded by people, and it struck me how important it is to rest—even in public spaces. Of course, if you can find a quieter, more private spot, that’s even better. But sometimes, it depends on where you are. For example, in Sydney, public parks can feel almost private. People mind their own business, and there’s a sense of calm. It’s easy to relax, reflect, and just be.
+Rest. It sounds simple, but how often do we really allow ourselves to pause? Today, I found myself in a park, surrounded by people, and it struck me how important it is to rest: even in public spaces. Of course, if you can find a quieter, more private spot, that’s even better. But sometimes, it depends on where you are. For example, in Sydney, public parks can feel almost private. People mind their own business, and there’s a sense of calm. It’s easy to relax, reflect, and just be.
 
 Taking these small moments for yourself, even if it’s just a few minutes, can make a huge difference. It’s not always about deep reflection or life-changing decisions. Sometimes, it’s just about slowing down, letting your mind wander, and noticing where you are. Most of us live with tunnel vision. We’re always focused, always on our phones, always working or thinking about what’s next. We push ourselves to do more, to be more, to challenge ourselves again and again.
 
@@ -27,10 +27,10 @@ For me, these breaks are like the old cigarette breaks people used to take at wo
 This constant whirlwind is dangerous. You can spend your whole life busy, doing things you don’t even enjoy, and never stop to ask yourself if this is what you really want. That’s why I challenge you today: take a real break. Step outside, leave your phone behind, and just breathe. Give yourself a chance to see your life from a distance. You might be surprised by what you find.
 
 > _Sometimes the most productive thing you can do is relax._
-> — Mark Black
+> *Mark Black*
 
 > _Almost everything will work again if you unplug it for a few minutes, including you._
-> — Anne Lamott
+> *Anne Lamott*
 
 ---
 

@@ -23,13 +23,13 @@ Putting things off only delays your happiness and growth. When you decide to act
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 ## Focus: The Power of Doing One Thing at a Time
 
 I often have new projects on my mind. I love learning new things, and changing projects helps me grow. But I’ve learned that you need to focus on one thing at a time. If you try to do too many things at once, you end up spreading yourself too thin. You might feel busy, but you won’t really get anywhere.
 
-Think of it like a lamp. A regular lamp lights up a room, but only a little. A laser, on the other hand, is so focused that it can burn through a chair. The same goes for your energy. When you concentrate it, you get real results. It’s like tomato paste—because it’s concentrated, you need less of it to get a strong flavor. Focus your energy in the same way, and you’ll see how much more you can achieve.
+Think of it like a lamp. A regular lamp lights up a room, but only a little. A laser, on the other hand, is so focused that it can burn through a chair. The same goes for your energy. When you concentrate it, you get real results. It’s like tomato paste, because it’s concentrated, you need less of it to get a strong flavor. Focus your energy in the same way, and you’ll see how much more you can achieve.
 
 Find the best moments in your day to work on your project. Protect that time. Make it your own.
 
@@ -45,7 +45,7 @@ What about you? What’s your project? What do you want to build? Take a moment 
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 ## Your Environment Matters More Than You Think
 
@@ -55,7 +55,7 @@ It’s not about having the perfect place. It’s about making the most of what 
 
 > *It’s not what we have in life, but who we have in our life that matters.*
 >
-> — Unknown
+> *Unknown*
 
 ## Take Action: The Only Way Forward
 
@@ -67,7 +67,7 @@ Life is short. The only way to move forward is to act now. Everything is possibl
 
 ## Key Takeaways
 
-1. *Start your project now. There is no perfect time—today is the best day to begin.*
+1. *Start your project now. There is no perfect time: today is the best day to begin.*
 2. *Focus on one thing at a time. Concentrated energy brings real results.*
 3. *Protect your time and use your best moments for what matters most to you.*
 4. *Small changes in your environment can make a big difference in your daily life.*

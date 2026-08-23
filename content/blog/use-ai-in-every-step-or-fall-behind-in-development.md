@@ -3,8 +3,8 @@ title = "Use AI in Every Step or Fall Behind in Development"
 slug = "use-ai-in-every-step-or-fall-behind-in-development"
 date = "2025-12-30T09:51:53.299410"
 draft = false
-description = "Today I want to talk about why you should be using AI in every single part of your development workflow. I mean it—everywhere. From the very first design mockup all the way to shipping your app, AI..."
-summary = "Today I want to talk about why you should be using AI in every single part of your development workflow. I mean it—everywhere. From the very first design mockup all the way to shipping your app, AI..."
+description = "Today I want to talk about why you should be using AI in every single part of your development workflow. I mean it: everywhere. From the very first design mockup all the way to shipping your app, AI..."
+summary = "Today I want to talk about why you should be using AI in every single part of your development workflow. I mean it: everywhere. From the very first design mockup all the way to shipping your app, AI..."
 tags = ["ai integration", "developer tools", "productivity", "software development", "tech", "wealth", "workflow automation"]
 priority = true
 priority_topics = ["tech", "wealth", "productivity"]
@@ -14,23 +14,23 @@ source_medium = "https://medium.com/@phenrysay/9a9154fb7c11"
 
 {{< figure src="https://images.unsplash.com/photo-1461695008884-244cb4543d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMGludGVncmF0aW9uJTIwZGV2ZWxvcGVyJTIwdG9vbHMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc2NzA0ODcxMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="monochrome calgary tower" title="Use AI in Every Step or Fall Behind in Development" caption="Use AI in Every Step or Fall Behind in Development - Photo by [Redd Francisco](https://unsplash.com/@reddfrancisco) on [Unsplash](https://unsplash.com/photos/low-angle-photo-of-mirror-glass-building-vUwJ8uu_C1M)" >}}
 
-Today I want to talk about why you should be using AI in every single part of your development workflow. I mean it—everywhere. From the very first design mockup all the way to shipping your app, AI should be in the loop. Let me walk you through how I do it, and why it’s a total game changer.
+Today I want to talk about why you should be using AI in every single part of your development workflow. I mean it: everywhere. From the very first design mockup all the way to shipping your app, AI should be in the loop. Let me walk you through how I do it, and why it’s a total major improvement.
 
 ## AI in the Full App Lifecycle
 
-Let’s start with the basics. When I’m building an app, I use AI from the get-go. That means right from the design phase—mockups, wireframes, you name it. Then, as I move through the pipeline, AI is there for code reviews, automation, and even deployment. If you’re doing web development or building APIs, dashboards, native apps, whatever, you can plug in tools like Codeex, GitHub Actions, or OpenAI’s Codeex to automate a ton of stuff.
+Let’s start with the basics. When I’m building an app, I use AI from the get-go. That means right from the design phase: mockups, wireframes, you name it. Then, as I move through the pipeline, AI is there for code reviews, automation, and even deployment. If you’re doing web development or building APIs, dashboards, native apps, whatever, you can plug in tools like Codeex, GitHub Actions, or OpenAI’s Codeex to automate a ton of stuff.
 
 ### Slash Commands: Your Secret Weapon
 
 One thing I love is using slash commands. Basically, a slash command is just a prompt, but it’s a prompt you can automate. You can set up multiple AI agents to work for you, and with the right prompts, you get speed and efficiency that’s just wild.
 
-But here’s the trick: you have to be super precise with your prompts. Think of the LLM (large language model) as a really good junior developer. If you don’t give enough context, or if you leave any room for misunderstanding, it’s going to get confused. Even if something seems obvious to you, you have to spell it out. Every edge case, every scenario—write it down. If there’s a gap, the LLM will find it, and it’ll do something you didn’t expect.
+But here’s the trick: you have to be super precise with your prompts. Think of the LLM (large language model) as a really good junior developer. If you don’t give enough context, or if you leave any room for misunderstanding, it’s going to get confused. Even if something seems obvious to you, you have to spell it out. Every edge case, every scenario: write it down. If there’s a gap, the LLM will find it, and it’ll do something you didn’t expect.
 
 **You have to be the product owner, the pilot, the one who knows exactly what the vision is.** The AI is there to help, but you’re still in charge.
 
 ### Feeding the Model: Context Is Everything
 
-Don’t be shy about uploading images, assets, logos, color palettes—whatever you have that shows what you want your app to look like. And break things down into smaller prompts. Don’t dump everything at once. It’s like working with a junior dev: give them info bit by bit, more detail as you go.
+Don’t be shy about uploading images, assets, logos, color palettes: whatever you have that shows what you want your app to look like. And break things down into smaller prompts. Don’t dump everything at once. It’s like working with a junior dev: give them info bit by bit, more detail as you go.
 
 Here’s how I do it:
 1. Start with a basic prompt and see what the AI gives you.
@@ -75,7 +75,7 @@ And so on. Each step, I’m giving more detail, testing, and iterating.
 
 ## Why This Matters
 
-Using AI like this doesn’t just make you faster—it makes you a better problem solver. You spend less time on grunt work and more time thinking about what really matters: the vision, the user experience, and the impact.
+Using AI like this doesn’t just make you faster; it makes you a better problem solver. You spend less time on grunt work and more time thinking about what really matters: the vision, the user experience, and the impact.
 
 As I always say, “The more context you give, the better results you’ll get.” And honestly, that’s the key to leveling up as a developer in the age of AI.
 
@@ -88,7 +88,7 @@ As I always say, “The more context you give, the better results you’ll get.�
 - Use AI at every stage of development, from design to deployment.
 - Treat the LLM like a junior developer: give clear, detailed prompts and cover every edge case.
 - Break down tasks into smaller prompts for better results.
-- Iterate on your prompts—if something’s off, it’s probably the prompt, not the AI.
+- Iterate on your prompts: if something’s off, it’s probably the prompt, not the AI.
 - When stuck, try a new approach or ask the AI how to improve your prompt.
 - **Context is everything.** The more you give, the better your outcome.
 
@@ -98,4 +98,4 @@ As I always say, “The more context you give, the better results you’ll get.�
 
 ---
 ## Kicker:  
-AI isn’t just a tool—it’s your new coding sidekick. Use it everywhere, and watch your workflow transform.
+AI isn’t just a tool; it’s your new coding sidekick. Use it everywhere, and watch your workflow transform.

@@ -26,7 +26,7 @@ Little by little, you’ll start to see what your ideal day looks like. You can 
 
 > *You can’t buy back time. Every hour lost is gone for good.*
 >
-> — Pierre
+> *Pierre*
 
 So, take charge. Imagine your perfect day, write it down, and start making it real. I’m right here with you as you create your own recipe for a successful day. Think about what’s necessary for you to feel fulfilled, and let those ingredients guide you toward days you’ll love living.
 
@@ -39,7 +39,7 @@ So, take charge. Imagine your perfect day, write it down, and start making it re
 - If not, define what your ideal day looks like.
 - Write down or sketch out the elements of your perfect day.
 - Take small steps to bring those elements into your daily life.
-- Remember, time is precious—don’t wait to live the days you truly want.
+- Remember, time is precious: don’t wait to live the days you truly want.
 
 ## Action Steps
 - Reflect each evening: Was today the day you wanted?

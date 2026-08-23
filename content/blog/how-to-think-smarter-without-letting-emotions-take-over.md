@@ -26,19 +26,19 @@ Pauses are powerful. We often feel uncomfortable with silence, rushing to fill e
 
 This technique works in everyday conversations too. We often want to talk quickly, to say everything at once. But holding back, letting a pause stretch out, can lead to much richer communication. You’ll notice people share more, and you’ll have better, more meaningful interactions.
 
-Another key point is not letting your emotions dictate your words. If you feel attacked, it’s easy to say things you’ll regret. But often, your reaction is shaped by your own past experiences, not by what’s actually happening. Keeping your cool and asking yourself if reacting emotionally will really help you is crucial. Most of the time, it won’t.
+Another key point is not letting your emotions dictate your words. If you feel attacked, it’s easy to say things you’ll regret. But often, your reaction is influenced by your own past experiences, not by what’s actually happening. Keeping your cool and asking yourself if reacting emotionally will really help you is crucial. Most of the time, it won’t.
 
-The environment matters too. Conversations in a cold, blank office with white walls and grey carpet tend to be less interesting than those in a relaxed setting, like a café. When you’re somewhere comfortable, the conversation feels more natural, more honest. If you want a real, sincere exchange, choose a setting that puts everyone at ease—even a simple walk outside can do wonders.
+The environment matters too. Conversations in a cold, blank office with white walls and grey carpet tend to be less interesting than those in a relaxed setting, like a café. When you’re somewhere comfortable, the conversation feels more natural, more honest. If you want a real, sincere exchange, choose a setting that puts everyone at ease: even a simple walk outside can do wonders.
 
 Thinking smartly is about more than just logic. It’s about pausing, choosing your words, and creating the right environment for real conversation. These small changes can transform your daily interactions and help you grow every day.
 
 > *The greatest weapon against stress is our ability to choose one thought over another.*
 >
-> — William James
+> *William James*
 
 > *Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.*
 >
-> — Viktor E. Frankl
+> *Viktor E. Frankl*
 
 ---
 
@@ -46,7 +46,7 @@ Thinking smartly is about more than just logic. It’s about pausing, choosing y
 
 ## Key Takeaways
 
-- *Pause before you respond—silence can be your best friend.*
+- *Pause before you respond: silence can be your best friend.*
 - *Don’t let emotions control your words; take a moment to think.*
 - *Choose comfortable, natural settings for honest conversations.*
 - *Let others fill the silence; you might hear something important.*

@@ -26,7 +26,7 @@ For some, this key action could be going for a jog, hitting the gym, meditating,
 
 Life is short. Sometimes your meaningful action takes an hour, sometimes just ten minutes. If it’s meditation, it might be quick, but it still counts. The point is to do something for yourself, something that you know is important. If you get that one thing done, you can already feel good about your day.
 
-You can also write down two or three less important tasks if you want, but focus on the main one. You can do this the night before or first thing in the morning. When you wake up, drink two glasses of room temperature water. I talk about this in my self-help book on Amazon, where I share my morning routine secrets. Drinking water in the morning is a great way to start your day.
+You can also write down two or three less important tasks if you want, but focus on the main one. Do this the night before or first thing in the morning. When you wake up, drink two glasses of room-temperature water, then begin your priority before distractions appear.
 
 After your water, write down your most important task for the day. You can do it right away or after breakfast, but once it’s written, you’ve made a commitment to yourself. Writing it down is like signing a contract with yourself. You’re promising to get it done, no matter what else happens.
 
@@ -36,7 +36,7 @@ There’s a famous Chinese proverb that says the best time to plant a tree was t
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZWFuaW5nZnVsJTIwYWN0aW9ucyUyMGRhaWx5JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxMzQ5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Make Every Day a Win With One Simple Habit" caption="How to Make Every Day a Win With One Simple Habit - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 

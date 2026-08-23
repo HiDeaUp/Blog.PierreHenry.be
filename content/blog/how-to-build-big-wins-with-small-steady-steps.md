@@ -20,25 +20,25 @@ The secret behind this is the compounding effect. Imagine dedicating just half a
 
 This principle applies to everything you do. The more consistently you work on something, the easier it becomes, and the more opportunities open up. You might publish your first book, then a second, and soon you’ll have a network and resources that make each new project simpler. Eventually, you’ll be able to delegate or automate parts of your work, so after three, five, or even ten years, you’ll be doing much more in less time.
 
-But how do you start? Begin by setting a simple goal. Focus on one thing you want to dedicate your time and energy to. Maybe you want to develop an app. But don’t just build anything—ask yourself what kind of problem you want to solve. You need to fall in love with the problem first. When you care deeply about a problem, you’ll be motivated to find the best solution. And remember, your first solution won’t be perfect. Over time, as you learn and as technology changes, you’ll keep improving it.
+But how do you start? Begin by setting a simple goal. Focus on one thing you want to dedicate your time and energy to. Maybe you want to develop an app. But don’t just build anything: ask yourself what kind of problem you want to solve. You need to fall in love with the problem first. When you care deeply about a problem, you’ll be motivated to find the best solution. And remember, your first solution won’t be perfect. Over time, as you learn and as technology changes, you’ll keep improving it.
 
 The best way to create a nearly perfect product is to find a problem that is not only painful but also urgent. Why urgent? Because people are willing to pay much more when a problem needs to be solved right now. If a business is on the verge of bankruptcy and has only three days to turn things around, the owner will be ready to pay for a solution that can save the company. If you’re confident your solution can really help, you’ll have no trouble selling it.
 
 {{< figure src="https://images.unsplash.com/photo-1590103514226-48facf4657fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTYwMTAzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person writing on white paper" title="How to Build Big Wins With Small, Steady Steps" caption="How to Build Big Wins With Small, Steady Steps - Photo by [Slidebean](https://unsplash.com/@slidebean) on [Unsplash](https://unsplash.com/photos/person-writing-on-white-paper-HH7OwIClUsY)" >}}
 
-Finding the right problem isn’t always easy. It can take time. But once you find it, you can shape your solution and generate real value. The most rewarding part is helping others. Of course, your price should reflect the value you provide, but it should always be less than the value your solution brings. If your price matches or exceeds the value, people will walk away. So, set a fair price, but don’t sell yourself short. Focus on a niche where the problem is both painful and urgent. Even if you charge five thousand euros, if your solution saves a business, that amount is nothing compared to what’s at stake.
+Finding the right problem isn’t always easy. It can take time. But once you find it, you can influence your solution and generate real value. The most rewarding part is helping others. Of course, your price should reflect the value you provide, but it should always be less than the value your solution brings. If your price matches or exceeds the value, people will walk away. So, set a fair price, but don’t sell yourself short. Focus on a niche where the problem is both painful and urgent. Even if you charge five thousand euros, if your solution saves a business, that amount is nothing compared to what’s at stake.
 
 It’s important to remember that context matters. If someone is dying of thirst in the desert, a bottle of water is priceless. The same goes for urgent business problems.
 
-To get started, grab a notebook and a pen. List out painful and urgent problems you see around you—problems you could see yourself working on for at least three to five years. Once you’ve found a problem you’re passionate about, brainstorm possible solutions. Check if there are competitors. If there are none, it might mean there’s no real demand. But if you see competitors, it’s a good sign you’re in the right market. Then, ask yourself: what’s the simplest solution you can offer right now? Start with that, and as you get your first clients, use their feedback and your earnings to improve your solution.
+To get started, grab a notebook and a pen. List out painful and urgent problems you see around you: problems you could see yourself working on for at least three to five years. Once you’ve found a problem you’re passionate about, brainstorm possible solutions. Check if there are competitors. If there are none, it might mean there’s no real demand. But if you see competitors, it’s a good sign you’re in the right market. Then, ask yourself: what’s the simplest solution you can offer right now? Start with that, and as you get your first clients, use their feedback and your earnings to improve your solution.
 
 One more thing: it’s even better if you’re also a user of your own solution. If you’re solving a problem you face yourself, you’ll have a much easier time perfecting your product. If not, it can be harder to make it truly great.
 
 > *“Great things are not done by impulse, but by a series of small things brought together.”*  
-— Vincent Van Gogh
+*Vincent Van Gogh*
 
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
-— Robert Collier
+*Robert Collier*
 
 ---
 
@@ -47,7 +47,7 @@ One more thing: it’s even better if you’re also a user of your own solution.
 {{< figure src="https://images.unsplash.com/photo-1674340768466-2f1f32c2eb0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnRyZXByZW5ldXJzaGlwJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTYwMTAzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="All businesses open as usual." title="How to Build Big Wins With Small, Steady Steps" caption="How to Build Big Wins With Small, Steady Steps - Photo by [Randy Laybourne](https://unsplash.com/@randylaybourne) on [Unsplash](https://unsplash.com/photos/a-sign-that-is-on-the-side-of-the-road-coyF-lTeWOI)" >}}
 
 - *Small, consistent actions lead to big results over time.*
-- *Find a problem that is both painful and urgent—people pay more for urgent solutions.*
+- *Find a problem that is both painful and urgent: people pay more for urgent solutions.*
 - *Fall in love with the problem, not just the solution.*
 - *Start simple, improve as you go, and don’t be afraid to charge what your solution is worth.*
 - *If you use your own solution, you’ll make it even better.*

@@ -23,7 +23,7 @@ But what if the real problem isn’t the situation itself, but the way we look a
 When you stop treating every decision as a life-or-death moment, you give yourself permission to try, to experiment, and even to fail. That’s when you start to move forward. Confidence isn’t about never doubting yourself. It’s about acting even when you’re not sure, and accepting that mistakes are part of the journey.
 
 > *“The greatest mistake you can make in life is to be continually fearing you will make one.”*  
-— Elbert Hubbard
+*Elbert Hubbard*
 
 Everyone has their own way of building confidence. For some, it’s about preparing as much as possible. For others, it’s about jumping in and learning along the way. There’s no single recipe that works for everyone. The important thing is to find what helps you take that first step, even if it’s a small one.
 
@@ -37,7 +37,7 @@ So next time you feel paralyzed by doubt, remember: you don’t need to have it 
 - Overthinking about failure only increases stress and keeps you stuck.
 - Changing your perspective can help you act, even if you’re unsure.
 - Confidence is not about being fearless, but about moving forward despite your doubts.
-- Find your own way to build confidence—there’s no universal recipe.
+- Find your own way to build confidence; there’s no universal recipe.
 
 ## Reflection
 - What’s one small step you can take today, even if you’re not sure of the outcome?

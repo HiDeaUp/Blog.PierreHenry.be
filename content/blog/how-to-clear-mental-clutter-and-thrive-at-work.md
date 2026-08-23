@@ -56,13 +56,13 @@ If you have a huge task, break it down into smaller parts. If your goal is to ea
 
 ## Your Environment Matters
 
-Sometimes, your environment or the people around you aren’t supportive enough. Choose your surroundings and your company wisely. Even inviting inspiring people into your life virtually—through videos, talks, or audiobooks—can make a huge difference. Learn as much as you can in the area you want to excel in.
+Sometimes, your environment or the people around you aren’t supportive enough. Choose your surroundings and your company wisely. Even inviting inspiring people into your life virtually (through videos, talks, or audiobooks) can make a huge difference. Learn as much as you can in the area you want to excel in.
 
 {{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMHRyYW5zZm9ybWF0aW9uJTIwbWVudGFsJTIwY2xhcml0eSUyMHdvcmtwbGFjZSUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjAwNzk3OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Clear Mental Clutter and Thrive at Work" caption="How to Clear Mental Clutter and Thrive at Work - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 ## Start Small, Start Now
 
@@ -70,7 +70,7 @@ Begin with small steps. The best time to start is today. If you improve by just 
 
 > *The only limit that exists is the one you set in your mind.*
 >
-> — Unknown
+> *Unknown*
 
 If you keep doing what you’ve always done, don’t expect your life to change. To live differently, you have to do things differently. Today is the right day, the right moment. Go for it. I’m with you all the way.
 

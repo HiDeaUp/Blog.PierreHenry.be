@@ -26,11 +26,11 @@ This approach is much more effective than simply dreaming about success. When yo
 
 > *The future belongs to those who believe in the beauty of their dreams.*
 >
-> — Eleanor Roosevelt
+> *Eleanor Roosevelt*
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 Having a clear vision and a plan is what sets achievers apart. You are not just wishing for a better life; you are building it, one action at a time. Every day, you get a little closer to the person you want to become.
 

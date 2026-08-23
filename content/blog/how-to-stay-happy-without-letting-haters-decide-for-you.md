@@ -30,11 +30,11 @@ Don’t let your dreams fade away because of people you’ll never meet. Focus o
 
 > *If you let other people’s opinions stop you, you’re letting them write your story.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *Don’t let someone who gave up on their dreams talk you out of yours.*
 >
-> — Unknown
+> *Unknown*
 
 {{< figure src="https://images.unsplash.com/photo-1737148555294-1221366c8c92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBkZWFsaW5nJTIwd2l0aCUyMGNyaXRpY2lzbSUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTA1NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman looking at her in a mirror" title="How to Stay Happy Without Letting Haters Decide for You" caption="How to Stay Happy Without Letting Haters Decide for You - Photo by [Negar Nikkhah](https://unsplash.com/@negakhah) on [Unsplash](https://unsplash.com/photos/a-woman-looking-at-her-reflection-in-a-mirror-1RjZg_7tfWk)" >}}
 
@@ -44,7 +44,7 @@ Don’t let your dreams fade away because of people you’ll never meet. Focus o
 - Most haters are strangers whose opinions don’t matter.
 - Focus on positive feedback and support.
 - Take breaks when needed to protect your mental space.
-- Practice ignoring negativity—it gets easier with time.
+- Practice ignoring negativity; it gets easier with time.
 
 ## Reflection
 - Are you letting strangers decide how you feel about your work?

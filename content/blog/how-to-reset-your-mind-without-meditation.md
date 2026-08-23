@@ -22,15 +22,15 @@ Start your day by asking yourself: What positive thoughts can I focus on today? 
 
 {{< figure src="https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMHJvdXRpbmVzfGVufDB8MHx8fDE3NTY1MTU0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of the word mental health" title="How to Reset Your Mind Without Meditation" caption="How to Reset Your Mind Without Meditation - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)" >}}
 
-This simple routine is the best way to start your day. I’m right there with you, cheering you on. If you want to go even further in improving your life, there are always more ways to grow. But even this small act—choosing to focus on the good and letting go of the bad—can make a real difference.
+This simple routine is the best way to start your day. I’m right there with you, cheering you on. If you want to go even further in improving your life, there are always more ways to grow. But even this small act (choosing to focus on the good and letting go of the bad) can make a real difference.
 
 Life moves so quickly. It’s too short to let your mind get polluted by negative thoughts. Give yourself the gift of a clean mental space every morning.
 
 > *“The mind is like a garden. If you do not plant flowers, weeds will grow.”*  
-— Anonymous
+*Anonymous*
 
 > *“You cannot control the waves, but you can learn to surf.”*  
-— Jon Kabat-Zinn
+*Jon Kabat-Zinn*
 
 ---
 

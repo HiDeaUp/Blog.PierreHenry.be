@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/45f9a52b80d7"
 
 Investing in yourself is one of the most important things you can do. Personal growth is not just about chasing big goals or waiting for the perfect moment. It is about making small, steady investments in your learning and well-being every single day.
 
-We all need to keep learning new things throughout our lives. The question is, how do you actually do it? The answer is simple: read books, take courses, watch talks. But here’s the catch—consuming endless content without a plan leads nowhere. What matters is having a clear action plan.
+We all need to keep learning new things throughout our lives. The question is, how do you actually do it? The answer is simple: read books, take courses, watch talks. But here’s the catch: consuming constant content without a plan leads nowhere. What matters is having a clear action plan.
 
 One method that works wonders is setting aside just 10 minutes every evening. Pick one thing to learn or practice. For example, read a page from a book on your Kindle. I use the Kindle app myself, but you could also watch a video, maybe at 1.5x or 2x speed to save time. Afterward, ask yourself: “Can I use this information right now? How can I apply it in my life or work?” If it’s useful, take notes and put it into practice. If not, let it go and move on.
 
@@ -31,10 +31,10 @@ You’ll be amazed at how quickly your progress adds up. This daily habit can sp
 For example, sometimes I need to call my girlfriend or do something else. That’s life. But sticking to 10 minutes keeps you on track and respects your other commitments.
 
 > _Success is the sum of small efforts, repeated day in and day out._
-> — Robert Collier
+> *Robert Collier*
 
 > _You do not rise to the level of your goals. You fall to the level of your systems._
-> — James Clear
+> *James Clear*
 
 I truly wish you the best on your journey. Remember, the smallest daily steps can lead to the biggest changes in your life.
 
@@ -46,7 +46,7 @@ I truly wish you the best on your journey. Remember, the smallest daily steps ca
 - Set aside 10 minutes every day for personal learning or growth.
 - Focus on one thing at a time and apply what you learn.
 - Use tools like Kindle and Bear to organize your notes and ideas.
-- Never break the chain—consistency is more important than duration.
+- Never break the chain: consistency is more important than duration.
 - Let go of information that isn’t useful and move on.
 
 ## Action Steps

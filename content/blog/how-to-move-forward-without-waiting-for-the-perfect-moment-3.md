@@ -23,10 +23,10 @@ Many people believe that by not acting, by staying still, they are keeping thems
 Life is short. The best thing you can do is to take action and try something new. When you step out and do things differently, your chances of seeing your life improve are much higher than if you just stay where you are. Even if you make mistakes, those mistakes are not the end of the world. In fact, mistakes are there to teach us. They help us move forward. You need to make mistakes to grow.
 
 > _“The only real mistake is the one from which we learn nothing.”_  
-— Henry Ford
+*Henry Ford*
 
 > _“You don’t have to be great to start, but you have to start to be great.”_  
-— Zig Ziglar
+*Zig Ziglar*
 
 So, if there is something you have been putting off, something that matters to you, today is the day to act. Do not wait for the perfect moment. Take the first step, even if it feels small. Action is what leads to change, and change is what leads to growth.
 
@@ -36,7 +36,7 @@ So, if there is something you have been putting off, something that matters to y
 - Taking action is better than waiting for the perfect moment.
 - If you always do the same thing, nothing will change.
 - Mistakes are part of learning and growing.
-- Life is short—do what matters to you now.
+- Life is short: do what matters to you now.
 
 ## Reflection
 - What have you been putting off that matters to you?

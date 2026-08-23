@@ -14,17 +14,17 @@ source_medium = "https://medium.com/@phenrysay/8f25568ac9a2"
 
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBsaWZlJTIwc2tpbGxzfGVufDB8MHx8fDE3NTUzODUxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Take Control of Your Life Without Stress or Overwhelm" caption="How to Take Control of Your Life Without Stress or Overwhelm - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
-What does it really mean to grow and become better in your daily life? For me, it’s about becoming more skilled at what you do, feeling more at peace, and not letting stress run your days. The Greeks had a word for happiness that meant living a calm life, free from constant worries and fears. Happiness, after all, is just a mood—like sadness. But a calm life, where you invest in yourself and control your actions, is something deeper and more lasting.
+What does it really mean to grow and become better in your daily life? For me, it’s about becoming more skilled at what you do, feeling more at peace, and not letting stress run your days. The Greeks had a word for happiness that meant living a calm life, free from constant worries and fears. Happiness, after all, is just a mood, like sadness. But a calm life, where you invest in yourself and control your actions, is something deeper and more lasting.
 
-You can’t control everything—like the weather or politics—but you can take charge of your own actions. That’s where real responsibility and progress begin. Here’s how I’ve learned to become the expert of my own life, and how you can do the same.
+You can’t control everything (like the weather or politics), but you can take charge of your own actions. That’s where real responsibility and progress begin. Here’s how I’ve learned to become the expert of my own life, and how you can do the same.
 
 ## Learn Fast and Remember More
 
-The first step is learning quickly. Tools like speed reading and spaced repetition can help. For example, if you’re learning Italian, start with 10 or 20 words. The next day, review them—maybe while you’re in the shower. Repeat this process: learn new words, review the old ones the next day, then again after a few days, and so on. Over time, the gaps between reviews get longer, but your memory gets stronger.
+The first step is learning quickly. Tools like speed reading and spaced repetition can help. For example, if you’re learning Italian, start with 10 or 20 words. The next day, review them, maybe while you’re in the shower. Repeat this process: learn new words, review the old ones the next day, then again after a few days, and so on. Over time, the gaps between reviews get longer, but your memory gets stronger.
 
 ## Build Your Own Knowledge Base
 
-Keep a local wiki or a good note-taking app. I use Apple Notes now, but there are many options. You can even set up your own local Wikipedia with software like MediaWiki, or use apps like Kiwix or Pocket to save web pages for later. The key is to have a system where you can store, tag, and easily find your notes and resources—even offline.
+Keep a local wiki or a good note-taking app. I use Apple Notes now, but there are many options. You can even set up your own local Wikipedia with software like MediaWiki, or use apps like Kiwix or Pocket to save web pages for later. The key is to have a system where you can store, tag, and easily find your notes and resources: even offline.
 
 ## Invest in Yourself
 
@@ -32,20 +32,20 @@ Set aside 3% to 10% of your income for your own training and education. Buy book
 
 ## Track Your Time and Tasks
 
-Use tools like Pomodoro timers and task managers (I use Things 3) to track your time and tasks. Always know what you need to do next. Tracking your time is like treating it as a precious stone—you’ll see where it goes and how to use it better.
+Use tools like Pomodoro timers and task managers (I use Things 3) to track your time and tasks. Always know what you need to do next. Tracking your time is like treating it as a precious stone; you’ll see where it goes and how to use it better.
 
 ## Share What You Know
 
-Give talks, host webinars, or create online courses. This builds your credibility and helps you become known in your field. Publishing a book—even a short one—on platforms like Amazon KDP can also boost your reputation. If it fits your area, join a professional association and add it to your LinkedIn or business card. These steps help you build your “assets”—the things you own and control, like your time and your work.
+Give talks, host webinars, or create online courses. This builds your credibility and helps you become known in your field. Publishing a book (even a short one) on platforms like Amazon KDP can also boost your reputation. If it fits your area, join a professional association and add it to your LinkedIn or business card. These steps help you build your “assets”: the things you own and control, like your time and your work.
 
 {{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBsaWZlJTIwc2tpbGxzfGVufDB8MHx8fDE3NTUzODUxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Take Control of Your Life Without Stress or Overwhelm" caption="How to Take Control of Your Life Without Stress or Overwhelm - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
-> _Time is our most precious asset. How you spend it shapes your life._
-> — Pierre
+> _Time is our most precious asset. How you spend it affects your life._
+> *Pierre*
 
 ## Manage Your Workflow
 
-Organize your workflow so you always know what’s next. Use keyboard shortcuts to save time—every second counts. Look up the shortcuts for every app you use and practice them.
+Organize your workflow so you always know what’s next. Use keyboard shortcuts to save time: every second counts. Look up the shortcuts for every app you use and practice them.
 
 ## Delay Non-Essential Tasks
 
@@ -57,11 +57,11 @@ A good password manager saves you time and keeps your accounts safe. Apple’s b
 
 ## Eat Fewer Meals, Be More Present
 
-I often eat just two meals a day. Eating less often saves time and helps me be more mindful when I do eat. When you eat, focus only on your meal—don’t split your attention with your phone or other distractions. We’re all single-taskers at heart, and doing one thing at a time changes everything for your productivity.
+I often eat just two meals a day. Eating less often saves time and helps me be more mindful when I do eat. When you eat, focus only on your meal: don’t split your attention with your phone or other distractions. We’re all single-taskers at heart, and doing one thing at a time changes everything for your productivity.
 
 ## Reduce Choices
 
-Simplify your life by reducing choices. For example, as a vegetarian, I have fewer options at restaurants, which makes decisions easier. The same goes for other habits—set defaults and stick to them.
+Simplify your life by reducing choices. For example, as a vegetarian, I have fewer options at restaurants, which makes decisions easier. The same goes for other habits: set defaults and stick to them.
 
 ## Work in Focused Sprints
 
@@ -74,20 +74,20 @@ Try working in 90-minute sprints, fully immersed in your task. Turn off notifica
 Don’t hesitate to use artificial intelligence and other tools to help you. They can save you time and make your work easier.
 
 > _You are responsible for your life. The answers are in your hands._
-> — Pierre
+> *Pierre*
 
 ## One Task at a Time
 
-Always focus on one task at a time. Multitasking is a myth—real progress comes from giving your full attention to what you’re doing.
+Always focus on one task at a time. Multitasking is a myth: real progress comes from giving your full attention to what you’re doing.
 
 > _Happiness is not a mood, but a way of living in calm and control._
-> — Inspired by Greek philosophy
+> *Inspired by Greek philosophy*
 
 ---
 
 ## Key Takeaways
 
-- *Invest in yourself—your time and learning are your best assets.*
+- *Invest in yourself: your time and learning are your best assets.*
 - *Organize your notes and tasks so you always know what’s next.*
 - *Work in focused sprints and avoid multitasking.*
 - *Simplify choices and routines to save energy and time.*

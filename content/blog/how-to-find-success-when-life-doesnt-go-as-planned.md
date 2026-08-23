@@ -18,19 +18,19 @@ There are moments in life when things simply don’t go our way. We face setback
 
 Comforting ourselves is not just about feeling better; it’s about shifting our perspective. It means accepting that, yes, some things didn’t work out. Maybe you didn’t get that job, or a relationship ended, or a dream slipped through your fingers. But after all, that’s how life goes. Sometimes, we simply have to accept what we can’t change and move forward.
 
-There’s a certain wisdom in telling ourselves that maybe fate—or chance—knows what it’s doing. Maybe things didn’t happen as you wanted because they weren’t meant for you. Maybe you weren’t supposed to land that opportunity, and that’s okay. Life keeps moving, and with it comes a whole new set of possibilities.
+There’s a certain wisdom in telling ourselves that maybe fate (or chance) knows what it’s doing. Maybe things didn’t happen as you wanted because they weren’t meant for you. Maybe you weren’t supposed to land that opportunity, and that’s okay. Life keeps moving, and with it comes a whole new set of possibilities.
 
 {{< figure src="https://images.unsplash.com/photo-1565357253905-9c5e9ba78a4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjaGFuY2UlMjBhY2NlcHRhbmNlJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTM4MzcxOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Wood signage and green leafs" title="How to Find Success When Life Doesn’t Go as Planned" caption="How to Find Success When Life Doesn’t Go as Planned - Photo by [Stefan C. Asafti](https://unsplash.com/@stefanasafti) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-take-changes-and-only-regent-the-things-you-didnt-nW02kL8o-tY)" >}}
 
 Instead of staring at the closed doors behind us, we can look ahead at the new ones opening up. Life is always offering us something new, if we’re willing to see it. The trick is to focus on what we can control, rather than what’s out of our hands. The past is gone, and regrets won’t change it. But the future? That’s still wide open.
 
-So, ask yourself: What can I change, right now, in a positive way? What’s within my reach that I can act on to make my life better? That’s where our energy should go—not into the things we can’t change, but into the things we can.
+So, ask yourself: What can I change, right now, in a positive way? What’s within my reach that I can act on to make my life better? That’s where our energy should go, not into the things we can’t change, but into the things we can.
 
 > _“When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us.”_  
-— Alexander Graham Bell
+*Alexander Graham Bell*
 
 > _“Let go of what you can’t change. Focus on what you can.”_  
-— Unknown
+*Unknown*
 
 ---
 
@@ -38,7 +38,7 @@ So, ask yourself: What can I change, right now, in a positive way? What’s with
 
 ## Key Takeaways
 - Accept what you can’t change and move forward.
-- Life always brings new opportunities—look for them.
+- Life always brings new opportunities: look for them.
 - Focus on what you can control, not on regrets.
 
 ## Reflection

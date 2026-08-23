@@ -37,9 +37,9 @@ This honest self-assessment is not about blame. It is about understanding. I wri
 
 ## Designing Exceptional Days
 
-A perfect life can seem out of reach, but it is simply a collection of good days. Each day is a chance to experiment, adjust, and grow. By focusing on what I can control-my actions, my mindset, my routines-I build a foundation for lasting happiness and freedom.
+A perfect life can seem out of reach, but it is simply a collection of good days. Each day is a chance to experiment, adjust, and grow. By focusing on what I can control, including my actions, mindset, and routines, I build a foundation for lasting happiness and freedom.
 
-{{< figure src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBtdWclMjBvcGVuJTIwam91cm5hbCUyMGRlc2t8ZW58MHwwfHx8MTc4NjI0NTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tools of intention shape a better day" title="How a Daily Review Transformed My Work and Life" caption="Tools of intention shape a better day - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel)" >}}
+{{< figure src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBtdWclMjBvcGVuJTIwam91cm5hbCUyMGRlc2t8ZW58MHwwfHx8MTc4NjI0NTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Intentional tools support a better day" title="How a Daily Review Transformed My Work and Life" caption="Intentional tools support a better day - Photo by [Andrew Neel](https://unsplash.com/@andrewtneel)" >}}
 
 
 Here are the steps I follow:
@@ -51,4 +51,4 @@ Here are the steps I follow:
 - Rate your day and review what could be improved.
 - Set clear intentions each morning based on your reflections.
 
-This approach is not about rigid discipline or relentless productivity. It is about shaping a life that fits you, one day at a time. By focusing your energy on what you can control and seeking small improvements, you create space for joy, creativity, and fulfillment.
+This approach is not about rigid discipline or relentless productivity. It is about building a life that fits you, one day at a time. By focusing your energy on what you can control and seeking small improvements, you create space for joy, creativity, and fulfillment.

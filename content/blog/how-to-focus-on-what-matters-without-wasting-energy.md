@@ -22,13 +22,13 @@ So, my advice is simple: take a close look at everything you do. Find the areas 
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByaW9yaXRpemF0aW9ufGVufDB8MHx8fDE3NTY1Mjc0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Focus on What Matters Without Wasting Energy" caption="How to Focus on What Matters Without Wasting Energy - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
-When you identify your strengths and put your energy there, you’ll see bigger results with less wasted effort. It’s not about working harder, but about working smarter—choosing the right things to focus on.
+When you identify your strengths and put your energy there, you’ll see bigger results with less wasted effort. It’s not about working harder, but about working smarter: choosing the right things to focus on.
 
 *“Success is not about doing more, but about doing what matters.”*  
-— Unknown
+*Unknown*
 
 *“Don’t confuse movement with progress.”*  
-— Denzel Washington
+*Denzel Washington*
 
 ---
 

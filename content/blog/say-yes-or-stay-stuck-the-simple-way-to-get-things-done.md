@@ -23,10 +23,10 @@ What if you could lock in that commitment and protect your time, so nothing else
 The real secret is to never put off until tomorrow what you want to do today. When you say YES to yourself and your plans, you create a space where action becomes natural. The more you delay, the more your enthusiasm drops. But when you act right away, you build momentum and confidence.
 
 > *The best way to get something done is to begin.*
-> — Unknown
+> *Unknown*
 
 > *Procrastination is the thief of time.*
-> — Edward Young
+> *Edward Young*
 
 This YES principle is about honoring your own priorities. It’s about making a promise to yourself and keeping it, no matter what distractions come your way. When you block out time and protect it fiercely, you give yourself the best chance to succeed.
 
@@ -35,7 +35,7 @@ This YES principle is about honoring your own priorities. It’s about making a 
 ## Key Takeaways
 - Say YES to your plans and act on them right away.
 - Protect your time by dedicating specific moments to your goals.
-- Avoid postponing what matters to you—enthusiasm fades with delay.
+- Avoid postponing what matters to you: enthusiasm fades with delay.
 - Make a commitment to yourself and keep it.
 
 ## Reflection

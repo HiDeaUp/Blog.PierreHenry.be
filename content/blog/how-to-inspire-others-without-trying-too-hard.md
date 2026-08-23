@@ -16,11 +16,11 @@ source_medium = "https://medium.com/@phenrysay/6396cd2d75a4"
 
 What does it really mean to be inspiring? When you inspire others, you move crowds. People start following you, sometimes for life. You build a personal brand, a certain reputation, and above all, a unique charisma. Charisma matters. When you stand out, when you show your own flavor, you naturally set yourself apart from everyone else. That’s where inspiration comes in.
 
-Telling stories—especially the ones that are a bit unusual or moving—can make all the difference. When you share anecdotes that spark curiosity or intrigue, people want to know more about you. They become interested in who you are, not just what you do. That’s the secret to being someone who inspires others: you become memorable by being yourself and sharing your experiences.
+Telling stories (especially the ones that are a bit unusual or moving) can make all the difference. When you share anecdotes that spark curiosity or intrigue, people want to know more about you. They become interested in who you are, not just what you do. That’s the secret to being someone who inspires others: you become memorable by being yourself and sharing your experiences.
 
 Let me give you a simple example. Imagine telling your colleagues about a time you went out to buy sushi. You’re in Sydney, near the famous bridge, and you grab some sushi from a food court. As you leave, a seagull swoops down and steals your sushi right out of your hand. Instead of getting upset, you joke that maybe the seagull was hired by McDonald’s to make sure people end up buying burgers instead. So, you shrug, walk over to McDonald’s, and get a Big Mac.
 
-It’s a small story, maybe not the most dramatic, but it’s real. It’s the kind of thing that sticks with people. In fact, one of my colleagues did exactly that—he went to McDonald’s after hearing my story, just because it was funny and relatable. You can even spin the story further, saying the seagull works for McDonald’s marketing department, making sure people walking by end up with a burger instead of sushi. It’s not true, of course, but it makes people smile and remember you.
+It’s a small story, maybe not the most dramatic, but it’s real. It’s the kind of thing that sticks with people. In fact, one of my colleagues did exactly that; he went to McDonald’s after hearing my story, just because it was funny and relatable. You can even spin the story further, saying the seagull works for McDonald’s marketing department, making sure people walking by end up with a burger instead of sushi. It’s not true, of course, but it makes people smile and remember you.
 
 {{< figure src="https://images.unsplash.com/photo-1645658043538-fc2bb1702cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxpbnNwaXJhdGlvbiUyMHN0b3J5dGVsbGluZyUyMHBlcnNvbmFsJTIwYnJhbmRpbmd8ZW58MHwwfHx8MTc1NjUxNzU3MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man holding a book that says brand" title="How to Inspire Others Without Trying Too Hard" caption="How to Inspire Others Without Trying Too Hard - Photo by [Hank Paul](https://unsplash.com/@henrypaulphotography) on [Unsplash](https://unsplash.com/photos/a-man-holding-a-book-that-says-designing-brand-identity-wKw5nxOxIZQ)" >}}
 
@@ -29,10 +29,10 @@ Being inspiring changes everything. I suggest you try it. Start sharing your sto
 Think about your own brand, your character, your personality. Build up a collection of stories that move people, that make them feel something, that spark curiosity. This is how you inspire crowds, even if it’s just a handful of people at a time.
 
 > *Charisma is the ability to influence without logic.*
-> — Quentin Crisp
+> *Quentin Crisp*
 
 > *People will forget what you said, people will forget what you did, but people will never forget how you made them feel.*
-> — Maya Angelou
+> *Maya Angelou*
 
 ---
 
@@ -43,7 +43,7 @@ Think about your own brand, your character, your personality. Build up a collect
 - *Telling personal stories makes you memorable and inspiring.*
 - *Charisma comes from showing your unique self, not copying others.*
 - *Even small, funny anecdotes can have a big impact on how people see you.*
-- *Practice sharing your stories—soon it will feel natural.*
+- *Practice sharing your stories: soon it will feel natural.*
 
 ## Reflection
 

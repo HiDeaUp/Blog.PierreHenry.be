@@ -25,10 +25,10 @@ One trick that works wonders is mixing up your activities throughout the day. Fo
 This rotation keeps things fresh and prevents that sluggish feeling that comes from doing the same thing for too long. By balancing physical, intellectual, and social activities, you keep your energy flowing and your mood lifted. It’s about finding your own rhythm and not being afraid to experiment with what works best for you.
 
 > _Energy is contagious: either you affect people or you infect people._
-> — T. Harv Eker
+> *T. Harv Eker*
 
 > _The secret of change is to focus all of your energy not on fighting the old, but on building the new._
-> — Socrates
+> *Socrates*
 
 If you feel your energy dipping as the week goes on, try switching up your routine. Add a new activity, change your workspace, or simply look at your tasks from a different angle. Over time, you’ll notice that your weeks start to feel less like a chore and more like a series of opportunities to enjoy, learn, and grow.
 
@@ -40,7 +40,7 @@ If you feel your energy dipping as the week goes on, try switching up your routi
 - *Change your routine to keep your energy high all week.*
 - *Mix physical, mental, and social activities for a balanced day.*
 - *Small tweaks in your habits can make a big difference in how you feel.*
-- *Your mindset shapes your experience of the week—try seeing it as a new adventure.*
+- *Your mindset affects your experience of the week: try seeing it as a new adventure.*
 
 ## Reflection
 - *What small change can you make to your routine this week?*

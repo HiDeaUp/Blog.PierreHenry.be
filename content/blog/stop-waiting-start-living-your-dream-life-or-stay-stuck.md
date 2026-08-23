@@ -22,7 +22,7 @@ Maybe your first attempts at new habits won’t be perfect. Maybe you’ll try s
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 The real purpose of life is simple: to be happy and fulfilled. The only way to get there is to keep questioning yourself, to become a new and better version of who you were yesterday. Don’t compare yourself to others. Compare yourself to who you were yesterday. Ask, “How can I make today better than yesterday?” By doing this, you’ll create days that feel good, even great.
 
@@ -32,15 +32,15 @@ Time is precious. Every minute you spend doing something you dislike is a minute
 
 > *The secret of change is to focus all of your energy not on fighting the old, but on building the new.*
 >
-> — Socrates
+> *Socrates*
 
-Our needs change, so it’s important to do this exercise at least once a week. In the beginning, try it every day for a few months. You’ll get to know yourself better and start to feel good—really good—about your days. Sometimes, you’ll have to make tough choices. Maybe your workplace is making you unhappy. Maybe you need to move, even if it’s not to the perfect place right away. Progress happens step by step, not all at once.
+Our needs change, so it’s important to do this exercise at least once a week. In the beginning, try it every day for a few months. You’ll get to know yourself better and start to feel good (really good) about your days. Sometimes, you’ll have to make tough choices. Maybe your workplace is making you unhappy. Maybe you need to move, even if it’s not to the perfect place right away. Progress happens step by step, not all at once.
 
 Don’t aim for the hardest challenge right away. Take small steps. Don’t compare your journey to anyone else’s. Focus on being better than your past self. That’s how you’ll create a life you love, a life that makes sense to you.
 
 > *Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command.*
 >
-> — Napoleon Hill
+> *Napoleon Hill*
 
 Life is short. Start living well today, not tomorrow. The best moment to act is now. Don’t put off what matters to you. The “right time” never comes. It’s always today. Invest in yourself. Invest in your own life.
 
@@ -50,8 +50,8 @@ Life is short. Start living well today, not tomorrow. The best moment to act is 
 
 ## Key Takeaways
 
-- *Your daily habits shape your life. Change them if they don’t serve you.*
-- *Don’t wait for the perfect moment—start now, even if it feels imperfect.*
+- *Your daily habits influence your life. Change them if they don’t serve you.*
+- *Don’t wait for the perfect moment: start now, even if it feels imperfect.*
 - *Review your day every evening to learn and improve.*
 - *Compare yourself only to who you were yesterday.*
 - *Small steps lead to big changes over time.*

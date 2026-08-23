@@ -28,11 +28,11 @@ The truth is, the only real limits are the ones you set for yourself. Often, we 
 
 > *The only limits that exist are the ones you set for yourself in your mind.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *Sometimes, what feels like a mountain is just a pebble when you change your point of view.*
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 
@@ -40,7 +40,7 @@ The truth is, the only real limits are the ones you set for yourself. Often, we 
 
 ## Key Takeaways
 - *Remember your happiest moments to shift your mindset during tough times.*
-- *Most problems are smaller than they appear—try to see them from a wider perspective.*
+- *Most problems are smaller than they appear: try to see them from a wider perspective.*
 - *The only real limits are the ones you create in your own mind.*
 - *Believe in yourself and keep moving forward, even when things seem impossible.*
 

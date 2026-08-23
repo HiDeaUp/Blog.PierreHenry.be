@@ -20,7 +20,7 @@ Improving yourself doesn’t have to mean making huge leaps overnight. The real 
 
 One of the simplest and most effective tools is a notebook. Not just any notebook, but one you use only for tracking your improvements. Each day, write down three things you want to do to get better. It could be as simple as going for a 20-minute run, eating healthier by cutting out sugar and white flour, or treating yourself to something that brings you joy, like a massage.
 
-You can do this on paper, your tablet, or your phone—whatever feels right for you. The key is to make it a daily habit. Every morning, jot down three things you’ll do to improve yourself, and at the end of the day, check in with your progress. The next day, do it again. Over time, these small actions add up.
+You can do this on paper, your tablet, or your phone: whatever feels right for you. The key is to make it a daily habit. Every morning, jot down three things you’ll do to improve yourself, and at the end of the day, check in with your progress. The next day, do it again. Over time, these small actions add up.
 
 ## Remove What Holds You Back
 
@@ -32,8 +32,8 @@ Another powerful tool is positive self-talk. Stand in front of the mirror and sa
 
 {{< figure src="https://images.unsplash.com/photo-1540137084989-7c05e000f93b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjB0cmFja2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2MDcxMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chasing Sunsets" title="How to Track Daily Growth Without Feeling Overwhelmed" caption="How to Track Daily Growth Without Feeling Overwhelmed - Photo by [Claude Piché](https://unsplash.com/@peecho) on [Unsplash](https://unsplash.com/photos/man-walking-on-grass-field-B2oFdd2NFpQ)" >}}
 
-> *“Whether you think you can, or you think you can’t—you’re right.”*  
-— Henry Ford
+> *“Whether you think you can, or you think you can’t; you’re right.”*
+*Henry Ford*
 
 ## Create Environments That Support You
 
@@ -50,7 +50,7 @@ Try working in 90-minute blocks. Set a timer, focus on one activity, and when th
 If you want an extra boost, check out what Tony Robbins does before his seminars. He uses physical movements and positive affirmations to get pumped up. It might look a bit strange, but it works. Try saying, “Today will be fantastic!” while moving your body. You’ll feel more energized and ready to tackle your goals.
 
 > *“The only limit to your impact is your imagination and commitment.”*  
-— Tony Robbins
+*Tony Robbins*
 
 ## Make It Your Own
 

@@ -24,7 +24,7 @@ The first key is focus. It’s so easy to get distracted by everything around us
 
 Once you’ve found that one thing, block out time in your day just for it. I recommend figuring out when you’re at your best for focused, mental work, and when you’re better suited for physical or manual tasks, like exercising or running errands.
 
-Spend a week tracking your energy and productivity. Use a simple notes app or even a piece of paper. Several times a day, jot down the time, what you’re doing, how you feel, and how productive you are. Do this every day for a week. Set up a table with days of the week and hours of the day. After a week, you’ll see patterns—when you’re sharpest for mental tasks and when you have the most physical energy.
+Spend a week tracking your energy and productivity. Use a simple notes app or even a piece of paper. Several times a day, jot down the time, what you’re doing, how you feel, and how productive you are. Do this every day for a week. Set up a table with days of the week and hours of the day. After a week, you’ll see patterns: when you’re most focused for mental tasks and when you have the most physical energy.
 
 Now, when you plan your day, match your most important task to your best time. If it’s a mental task, do it when your mind is clear. If it’s something physical, save it for when your body feels strong.
 
@@ -36,7 +36,7 @@ Sometimes, it helps to find a place where you can really get in the zone. I like
 
 ## Make Sure Your Actions Match Your Vision
 
-Every time you pick your one important thing for the day, ask yourself if it matches your long-term goals. It’s easy to lose sight of the big picture when you’re caught up in daily life. We all have dreams for the future—maybe in two or three years, you want to finish a big project or change your lifestyle. But sometimes, our daily actions go against those dreams.
+Every time you pick your one important thing for the day, ask yourself if it matches your long-term goals. It’s easy to lose sight of the big picture when you’re caught up in daily life. We all have dreams for the future, maybe in two or three years, you want to finish a big project or change your lifestyle. But sometimes, our daily actions go against those dreams.
 
 For example, you might want to lose weight in a year, but today you eat poorly. Or you dream of traveling the world, but you buy a house and get pets, which makes traveling harder. Unless you have a plan for someone to care for your pets, you might be making your dream more difficult without realizing it.
 
@@ -49,22 +49,22 @@ Once you’ve set your priorities, keep going. Make it a habit to do your import
 When you do this, you’ll find yourself moving forward much faster, and you’ll be on your way to real, lasting success.
 
 *“Success is the sum of small efforts, repeated day in and day out.”*  
-— Robert Collier
+*Robert Collier*
 
 {{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbW90aXZhdGlvbiUyMHN1Y2Nlc3N8ZW58MHwwfHx8MTc1NjY0MDUzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Move Forward Without Overthinking Success" caption="How to Move Forward Without Overthinking Success - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
 *“The key is not to prioritize what’s on your schedule, but to schedule your priorities.”*  
-— Stephen R. Covey
+: Stephen R. Covey
 
 ---
 
 ## Key Takeaways
 
-- *Pick one truly important thing to do each day—something that matters to you.*
+- *Pick one truly important thing to do each day: something that matters to you.*
 - *Track your energy and productivity for a week to find your best times for mental and physical tasks.*
 - *Make sure your daily actions match your long-term vision.*
 - *Create a space where you can focus and get in the zone.*
-- *Build habits and never break the chain—consistency is everything.*
+- *Build habits and never break the chain: consistency is everything.*
 
 ---
 

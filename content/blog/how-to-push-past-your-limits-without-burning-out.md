@@ -18,7 +18,7 @@ Pushing yourself beyond your limits is not just a motivational slogan. It’s a 
 
 It’s important to recognize your progress, but it’s even more important to ask yourself, “Can I do better?” This mindset is what keeps you moving forward. Each time you aim higher, you discover new opportunities. You start to see bigger possibilities and your daily routine becomes a series of small experiments: “How can I do this better? What’s working? What isn’t?”
 
-Take content creation, for example. If you’re publishing videos and not seeing much success, maybe it’s time to look at your format, your topics, or even your marketing. Sometimes, the problem is that your content doesn’t grab attention. The title might get clicks, but if the content isn’t interesting, people won’t stick around. It’s like a book with a great cover but nothing inside—no one wants to read it.
+Take content creation, for example. If you’re publishing videos and not seeing much success, maybe it’s time to look at your format, your topics, or even your marketing. Sometimes, the problem is that your content doesn’t grab attention. The title might get clicks, but if the content isn’t interesting, people won’t stick around. It’s like a book with a great cover but nothing inside: no one wants to read it.
 
 This idea goes beyond work. It’s about transforming your life and the lives of others. What you do shouldn’t just be about making quick money. Think long-term. Take pride in your work and always look for ways to improve. Ask yourself how you can save time, how you can make your days more productive, and how you can stay on track with your goals.
 
@@ -31,17 +31,17 @@ Discipline is your best friend. Set a routine and stick to it. For example, wake
 Keep iterating. If something isn’t working, ask yourself how you can do it differently. Update your weekly goals and check if you’re still heading in the right direction. Take time each week to reflect on what went well and what could be improved. This habit of regular retrospection will change everything.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-> —Robert Collier
+> *Robert Collier*
 
 > *Discipline is choosing between what you want now and what you want most.*
-> —Abraham Lincoln
+> *Abraham Lincoln*
 
-Balance is also crucial. Productivity shouldn’t come at the cost of your happiness. Many people think being productive means working more and sleeping less, but that only leads to burnout. True productivity is about balance—mixing work, social time, physical activity, and rest. A great day is one where you’ve worked, connected with friends, moved your body, and taken time to relax.
+Balance is also crucial. Productivity shouldn’t come at the cost of your happiness. Many people think being productive means working more and sleeping less, but that only leads to burnout. True productivity is about balance: mixing work, social time, physical activity, and rest. A great day is one where you’ve worked, connected with friends, moved your body, and taken time to relax.
 
 Break big tasks into small steps. If you do a little bit every day, the results add up. Ten push-ups a day might not seem like much, but after a week, you’ve done seventy. The same goes for learning or working on a project. Small, consistent actions lead to big achievements.
 
 > *Great things are not done by impulse, but by a series of small things brought together.*
-> —Vincent Van Gogh
+> *Vincent Van Gogh*
 
 {{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYwMTMyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Push Past Your Limits Without Burning Out" caption="How to Push Past Your Limits Without Burning Out - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 
@@ -51,7 +51,7 @@ Break big tasks into small steps. If you do a little bit every day, the results 
 - Always ask yourself how you can do better, even if you’re already doing well.
 - Consistency and discipline are more important than chasing new ideas.
 - Reflect on your progress weekly and adjust your goals as needed.
-- Balance productivity with happiness—don’t sacrifice your well-being for short-term gains.
+- Balance productivity with happiness: don’t sacrifice your well-being for short-term gains.
 - Break big goals into small, daily actions.
 
 ## Action Steps

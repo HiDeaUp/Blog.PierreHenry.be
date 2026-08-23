@@ -22,19 +22,19 @@ source_medium = "https://medium.com/@phenrysay/49356f0fee94"
 
 Taking care of yourself is not just a luxury; it is a necessity. I want to share how I bring relaxation and well-being into my daily routine, and how you can do the same. It is about creating small moments just for yourself, moments that recharge you and make life sweeter.
 
-Imagine this: you take a break with a hot chocolate and some biscuits. Maybe you step outside for fresh air, letting your mind wander to happy memories—like a vacation that went well, or simply joyful moments. Sometimes, it is about sitting in a cozy bar if that is your thing, and just enjoying the present for ten, twenty, or even thirty minutes a day. You can even stretch this to an hour, split into little happiness sessions throughout your day: fifteen minutes at noon, fifteen in the morning, and another fifteen in the evening.
+Imagine this: you take a break with a hot chocolate and some biscuits. Maybe you step outside for fresh air, letting your mind wander to happy memories, like a vacation that went well, or simply joyful moments. Sometimes, it is about sitting in a cozy bar if that is your thing, and just enjoying the present for ten, twenty, or even thirty minutes a day. You can even stretch this to an hour, split into little happiness sessions throughout your day: fifteen minutes at noon, fifteen in the morning, and another fifteen in the evening.
 
-These moments can be as simple as a walk in the countryside or a park, listening to birds, the wind rustling through the leaves, or just the quiet around you. It could be a bit of exercise, or eating something healthy—a crisp apple, a slice of lemon, a glass of rose juice, or whatever feels right. The key is to pause, breathe, and give yourself a real break.
+These moments can be as simple as a walk in the countryside or a park, listening to birds, the wind rustling through the leaves, or just the quiet around you. It could be a bit of exercise, or eating something healthy: a crisp apple, a slice of lemon, a glass of rose juice, or whatever feels right. The key is to pause, breathe, and give yourself a real break.
 
 {{< figure src="https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsbmVzcyUyMHNlbGYtY2FyZSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU2NTU5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of white boxes with black text on a wooden surface" title="How to Build Daily Joy Without Overhauling Your Life" caption="How to Build Daily Joy Without Overhauling Your Life - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)" >}}
 
 For me, these are not just breaks. They are essential. They help me step back, recharge, and face the rest of my day with more energy and clarity. Taking time for yourself is not selfish; it is what allows you to keep going and enjoy life more fully.
 
 > _Sometimes the most productive thing you can do is relax._
-— Mark Black
+*Mark Black*
 
 > _Almost everything will work again if you unplug it for a few minutes, including you._
-— Anne Lamott
+*Anne Lamott*
 
 ---
 

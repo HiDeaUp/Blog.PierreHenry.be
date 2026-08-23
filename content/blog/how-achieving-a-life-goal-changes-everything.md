@@ -18,7 +18,7 @@ What does it mean to accomplish something truly meaningful? It’s not just abou
 
 For some, this could mean building a startup around a problem you know inside out, a challenge that keeps you up at night because you care so much about finding the best solution. You might spend months or even years working on it, falling in love with the process, always searching for better answers, maybe even offering different solutions at different price points. For others, accomplishment might look like living a happy, nomadic life, traveling freely, or simply finding security by buying a home and living self-sufficiently.
 
-Take, for example, the open-source project FarmBot. It’s not cheap, but imagine buying your own greenhouse for your garden, growing your own fruits and vegetables with ease. Maybe that’s your dream lifestyle. The point is, having a long-term goal in your mind is crucial. When you wake up in the morning, even if you have a regular job or freelance gigs just to pay the bills, you know that part of your day will be spent on your real project—the one that truly matters to you.
+Take, for example, the open-source project FarmBot. It’s not cheap, but imagine buying your own greenhouse for your garden, growing your own fruits and vegetables with ease. Maybe that’s your dream lifestyle. The point is, having a long-term goal in your mind is crucial. When you wake up in the morning, even if you have a regular job or freelance gigs just to pay the bills, you know that part of your day will be spent on your real project: the one that truly matters to you.
 
 You might get up at 5, 6, or even 4:30 in the morning to carve out a couple of hours for your long-term goal. The rest of your day might be filled with other work, but you know that’s not your endgame. Your real purpose is your project, the one you’re building bit by bit every day. That’s what counts, because it reflects who you really are and the life you want to live.
 
@@ -31,10 +31,10 @@ You have to block out time every day and be disciplined, both with yourself and 
 Believe in yourself. Everything is possible if you really want it. I believe in you, truly. Go for it.
 
 > *“The future belongs to those who believe in the beauty of their dreams.”*  
-— Eleanor Roosevelt
+*Eleanor Roosevelt*
 
 > *“You are never too old to set another goal or to dream a new dream.”*  
-— C.S. Lewis
+: C.S. Lewis
 
 ---
 
@@ -43,7 +43,7 @@ Believe in yourself. Everything is possible if you really want it. I believe in 
 ## Key Takeaways
 
 - *A meaningful long-term goal gives your life direction and energy.*
-- *Discipline and daily commitment are essential—treat your dream like a non-negotiable part of your routine.*
+- *Discipline and daily commitment are essential: treat your dream like a non-negotiable part of your routine.*
 - *Don’t wait for the perfect moment. Start now, even if it’s just for an hour a day.*
 - *Visualize your goal so clearly that it feels real and possible.*
 

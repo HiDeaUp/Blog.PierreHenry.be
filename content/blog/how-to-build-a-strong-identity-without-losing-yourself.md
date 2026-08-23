@@ -26,15 +26,15 @@ Once you have that vision, you can compare it to your current habits. Are your d
 
 {{< figure src="https://images.unsplash.com/photo-1705234384760-376ad2d0334a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBncm93dGglMjBpZGVudGl0eXxlbnwwfDB8fHwxNzU2NTE0NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of tiles the word growth" title="How to Build a Strong Identity Without Losing Yourself" caption="How to Build a Strong Identity Without Losing Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-group-of-scrabble-tiles-spelling-the-word-growth-A7lNltKhv4s)" >}}
 
-Ask yourself how you want to define yourself, both personally and professionally. Don’t set any limits. Deep down, what do you really want? This is your chance to shape your own definition, not just for others, but for yourself.
+Ask yourself how you want to define yourself, both personally and professionally. Don’t set any limits. Deep down, what do you really want? This is your chance to define yourself, not just for others, but for yourself.
 
 ---
 
 > *The privilege of a lifetime is to become who you truly are.*
-— Carl Jung
+*Carl Jung*
 
 > *You are not what happened to you. You are what you choose to become.*
-— Carl Jung
+*Carl Jung*
 
 ---
 
@@ -44,7 +44,7 @@ Ask yourself how you want to define yourself, both personally and professionally
 
 - Defining your identity makes it easier to set and reach your goals.
 - Good habits are important, but a strong sense of self makes them stick.
-- Imagine your name in the dictionary—what would you want it to say?
+- Imagine your name in the dictionary: what would you want it to say?
 - Compare your current habits to your ideal self and adjust as needed.
 
 ## Action Steps

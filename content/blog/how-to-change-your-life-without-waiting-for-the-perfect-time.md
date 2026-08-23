@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/620f3dbfbb33"
 
 We all have changes we want to make. Maybe you want to tidy up your apartment, start eating healthier, or finally break a bad habit. The truth is, the right time to act is always now. Waiting for the “perfect” moment is just another way of putting things off.
 
-Let’s take a simple example: organizing your closet. Don’t wait until tomorrow, or for some magical moment when you feel ready. Start sorting your clothes today. Decide what to keep, what to give away, and what to throw out. The act of sorting, of making decisions right now, is what creates real change. This approach doesn’t just apply to tidying up—it works for everything.
+Let’s take a simple example: organizing your closet. Don’t wait until tomorrow, or for some magical moment when you feel ready. Start sorting your clothes today. Decide what to keep, what to give away, and what to throw out. The act of sorting, of making decisions right now, is what creates real change. This approach doesn’t just apply to tidying up; it works for everything.
 
 Maybe you want to gain or lose weight. Don’t tell yourself you’ll start after the holidays, or when life gets less busy. We often think we’ll have more time in the future, but that’s rarely true. We imagine we’ll accomplish so much during summer break or over the holidays, but time slips by faster than we expect.
 
@@ -22,17 +22,17 @@ We tend to overestimate how much we can do in a day, a week, or even a lifetime.
 
 {{< figure src="https://images.unsplash.com/photo-1647835150732-4563469e0e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTk5NzcyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Shine Your Light On Me" title="How to Change Your Life Without Waiting for the Perfect Time" caption="How to Change Your Life Without Waiting for the Perfect Time - Photo by [JIUNN-YIH LAU](https://unsplash.com/@yihology) on [Unsplash](https://unsplash.com/photos/a-man-standing-in-front-of-the-sun-with-his-arms-outstretched-hSEIqbW5km4)" >}}
 
-If you want to build a new habit, or stop an old one like smoking or scrolling on your phone before bed, start today. Don’t wait for a “good” opportunity, because no one knows what tomorrow will bring. The only way to shape your future is to take charge of your days, one action at a time.
+If you want to build a new habit, or stop an old one like smoking or scrolling on your phone before bed, start today. Don’t wait for a “good” opportunity, because no one knows what tomorrow will bring. The only way to build your future is to take charge of your days, one action at a time.
 
-By acting now, you give yourself the best chance to create the life you want. The future isn’t something that just happens to you—it’s built by the choices you make today. So, if you have a good idea, a goal, or a habit you want to start (or stop), don’t wait. Begin now.
+By acting now, you give yourself the best chance to create the life you want. The future isn’t something that just happens to you; it’s built by the choices you make today. So, if you have a good idea, a goal, or a habit you want to start (or stop), don’t wait. Begin now.
 
 > *The best way to predict the future is to create it yourself.*
 >
-> — Abraham Lincoln
+> *Abraham Lincoln*
 
 > *You will never find time for anything. If you want time, you must make it.*
 >
-> — Charles Buxton
+> *Charles Buxton*
 
 ---
 
@@ -42,8 +42,8 @@ By acting now, you give yourself the best chance to create the life you want. Th
 
 - *Don’t wait for the perfect moment; start now.*
 - *We often overestimate how much time we have.*
-- *Small actions today shape your future.*
-- *Breaking or building habits starts with a single step—right now.*
+- *Small actions today build your future.*
+- *Breaking or building habits starts with a single step: right now.*
 
 ## Reflection
 

@@ -29,10 +29,10 @@ Your life works the same way. You need to know where you want to take yourself, 
 The real message here is to start uprooting the negative things in your mind, just like someone pulling out stubborn roots from the ground. This is how you improve, build confidence, and move closer to the life you want.
 
 > *“The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.”*  
-— William James
+*William James*
 
 > *“You can’t go back and change the beginning, but you can start where you are and change the ending.”*  
-— C.S. Lewis
+: C.S. Lewis
 
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmVqdWRpY2VzJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYwMTY0NDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Uproot Old Beliefs Without Feeling Lost" caption="How to Uproot Old Beliefs Without Feeling Lost - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
@@ -41,7 +41,7 @@ The real message here is to start uprooting the negative things in your mind, ju
 ## Key Takeaways
 - Notice and remove negative thoughts and limiting beliefs.
 - Set clear, simple goals for your day.
-- Treat your mind like a garden—clear out what doesn’t help you grow.
+- Treat your mind like a garden: clear out what doesn’t help you grow.
 - Small steps every day lead to bigger changes over time.
 
 ## Reflection

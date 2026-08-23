@@ -18,21 +18,21 @@ Sometimes, it’s hard to find real pleasure in what we do every day. Maybe you�
 
 Instead of focusing on what you don’t enjoy, try to look at what this job or situation could bring you in the long run. Ask yourself: What can I learn from this experience, even if it only lasts three months? Maybe it will add something valuable to your resume, or open new doors for your career. Sometimes, a job you don’t love is just a stepping stone to something better.
 
-If you feel like your life is at a standstill, maybe this is your chance to start a passion project—something that excites you and could stay with you for years. This period of stagnation might actually be the spark you need to launch a project that will shape your future.
+If you feel like your life is at a standstill, maybe this is your chance to start a passion project: something that excites you and could stay with you for years. This period of stagnation might actually be the spark you need to launch a project that will build your future.
 
-There are always ways to move forward, even when you feel stuck. Life can seem repetitive—work, sleep, work, sleep—but you can always ask yourself, “What else can I do?” For example, if you spend time commuting by train, you could use that time to learn something new. There are plenty of platforms and tools that can help you make the most of these moments. Personally, I love listening to audiobooks and audio conferences during my downtime. It’s a simple way to turn wasted time into something meaningful.
+There are always ways to move forward, even when you feel stuck. Life can seem repetitive (work, sleep, work, sleep), but you can always ask yourself, “What else can I do?” For example, if you spend time commuting by train, you could use that time to learn something new. There are plenty of platforms and tools that can help you make the most of these moments. Personally, I love listening to audiobooks and audio conferences during my downtime. It’s a simple way to turn wasted time into something meaningful.
 
 {{< figure src="https://images.unsplash.com/photo-1512916992933-2c641480924a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmaW5kaW5nJTIwcGxlYXN1cmUlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG92ZXJjb21pbmclMjBib3JlZG9tfGVufDB8MHx8fDE3NTYwMTAzNzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman reading book" title="How to Find Joy in Boring Routines Without Quitting Your Job" caption="How to Find Joy in Boring Routines Without Quitting Your Job - Photo by [Kira auf der Heide](https://unsplash.com/@kadh) on [Unsplash](https://unsplash.com/photos/woman-reading-book-22Ir4PhK2Oc)" >}}
 
-Remember, the job you dislike is only temporary. It’s not your whole life. Maybe you’re saving money now, building a financial safety net, but you know you’ll move on to something else soon. Give yourself a deadline—six months, a year—and then plan your next step. Seeing your life as a series of steps, each leading to something new, is the best way to keep moving forward.
+Remember, the job you dislike is only temporary. It’s not your whole life. Maybe you’re saving money now, building a financial safety net, but you know you’ll move on to something else soon. Give yourself a deadline (six months, a year), and then plan your next step. Seeing your life as a series of steps, each leading to something new, is the best way to keep moving forward.
 
 I encourage you to look at your life this way. Every stage, even the boring ones, can bring you closer to the life you want. The only real limit is the one you set in your mind. So take action now. Don’t put off what you want to do. Start today.
 
 > *The only real limit is the one you set in your mind.*
-> — Anonymous
+> *Anonymous*
 
 > *Sometimes, the plateau you’re standing on is just the launchpad for your next big leap.*
-> — Pierre
+> *Pierre*
 
 ---
 

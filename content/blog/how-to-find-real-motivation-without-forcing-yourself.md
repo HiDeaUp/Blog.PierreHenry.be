@@ -18,9 +18,9 @@ Motivation is a word we hear everywhere, but have you ever stopped to ask yourse
 
 Let’s break it down. Internal motivation is when you do something for yourself, because you love it, because it brings you joy or satisfaction. The reward is built into the action itself. Think of a hobby you’re passionate about, or a project you do just for the pleasure of it. That’s internal motivation at work.
 
-External motivation, on the other hand, is when you do something for a reward that comes from outside—like working for a salary. You might not love the job itself, but you do it for the paycheck. The task isn’t the reward; the outcome is.
+External motivation, on the other hand, is when you do something for a reward that comes from outside, like working for a salary. You might not love the job itself, but you do it for the paycheck. The task isn’t the reward; the outcome is.
 
-Why does this matter? Because we all have moments when we put things off, when we procrastinate. Often, it’s because the task feels too tedious, or we haven’t made it easy enough to start. There’s friction. For example, I used to record my videos indoors, and it just wasn’t enjoyable. Now, I film by the bay, under the sun, and I actually look forward to it. Even though there’s an external motivation—building my reputation and expertise—the internal motivation is there too, because I genuinely enjoy the process.
+Why does this matter? Because we all have moments when we put things off, when we procrastinate. Often, it’s because the task feels too tedious, or we haven’t made it easy enough to start. There’s friction. For example, I used to record my videos indoors, and it just wasn’t enjoyable. Now, I film by the bay, under the sun, and I actually look forward to it. Even though there’s an external motivation (building my reputation and expertise) the internal motivation is there too, because I genuinely enjoy the process.
 
 {{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Find Real Motivation Without Forcing Yourself" caption="How to Find Real Motivation Without Forcing Yourself - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
@@ -34,11 +34,11 @@ So, don’t wait for the perfect moment. The best time to take action is now. En
 
 > *Life is too short to spend it doing things you dislike, just to get by.*
 > 
-> — Pierre
+> *Pierre*
 
 > *When you enjoy what you’re doing, the quality of your work naturally improves.*
 > 
-> — Pierre
+> *Pierre*
 
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU0MTgyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Find Real Motivation Without Forcing Yourself" caption="How to Find Real Motivation Without Forcing Yourself - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
@@ -55,7 +55,7 @@ So, don’t wait for the perfect moment. The best time to take action is now. En
 - Identify what truly motivates you about your daily tasks.
 - Adjust your environment to make your work more enjoyable.
 - Share what you learn with others to reinforce your own knowledge.
-- Don’t wait—start today, even if it’s just a small step.
+- Don’t wait: start today, even if it’s just a small step.
 
 ## Reflection
 - What tasks do I do just for the reward, and which ones do I genuinely enjoy?

@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/415003978781"
 
 {{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY2MzIyMjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Make Your Passion a Daily Habit Without Losing Momentum" caption="How to Make Your Passion a Daily Habit Without Losing Momentum - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
-When it comes to working on your personal projects or passions, time always seems to slip away. Maybe you don’t know when to fit it in, or you keep pushing it to tomorrow. The truth is, the only way to make real progress is to be consistent. Your passion project should become a daily habit, just like taking a shower or brushing your teeth. You don’t question whether you’ll shower today—you just do it, because it’s part of your routine. Your passion deserves the same spot in your day.
+When it comes to working on your personal projects or passions, time always seems to slip away. Maybe you don’t know when to fit it in, or you keep pushing it to tomorrow. The truth is, the only way to make real progress is to be consistent. Your passion project should become a daily habit, just like taking a shower or brushing your teeth. You don’t question whether you’ll shower today; you just do it, because it’s part of your routine. Your passion deserves the same spot in your day.
 
 Even if you’re on vacation, it’s important to carve out time for your project. Tell your family, partner, or friends that you need an hour or two each morning. Maybe you wake up at 6 a.m. and use the quiet hours before everyone else is up. If you’re staying in an Airbnb, claim a room for yourself. If you’re with others, let them go for a walk while you focus. Once you’ve done your most important task, you’re free for the rest of the day.
 
@@ -31,10 +31,10 @@ If I don’t do my work in the morning, I can’t enjoy my day. My mind is elsew
 So, do your most important task first. Then you can enjoy the rest of your day, knowing you’ve already made progress. This simple habit really changes everything.
 
 > _“You will never change your life until you change something you do daily. The secret of your success is found in your daily routine.”_  
-— John C. Maxwell
+: John C. Maxwell
 
 > _“If it’s important to you, you’ll find a way. If not, you’ll find an excuse.”_  
-— Ryan Blair
+*Ryan Blair*
 
 ---
 
@@ -50,7 +50,7 @@ So, do your most important task first. Then you can enjoy the rest of your day, 
 
 ## Action Steps
 
-- *Pick a daily time slot for your passion project—preferably in the morning.*
+- *Pick a daily time slot for your passion project: preferably in the morning.*
 - *Try a focus app like Forest to gamify your routine.*
 - *Set boundaries with family or friends so you can work undisturbed.*
 - *Reflect: What’s your “frog” to eat each morning?*

@@ -20,7 +20,7 @@ Many people never take the time to ask themselves the right questions. Yet, this
 
 These questions are not just for personal growth. Even developers use a similar method called the "rubber duck debugging" principle. You might have heard of it: a developer explains their problem out loud to a little yellow rubber duck. By talking through the issue, they often find the solution themselves. It’s funny, but it works. Sometimes, just saying things out loud creates a spark.
 
-You don’t need a duck. It could be anything—a toy, a plant, or even just yourself. For me, sometimes I talk to a little kangaroo figurine on my desk. I explain my problem, and as I do, the answer often becomes clear. This method isn’t just for technical problems. It works for anything you want to achieve.
+You don’t need a duck. It could be anything: a toy, a plant, or even just yourself. For me, sometimes I talk to a little kangaroo figurine on my desk. I explain my problem, and as I do, the answer often becomes clear. This method isn’t just for technical problems. It works for anything you want to achieve.
 
 Let’s say you launched a new product page, but only a few people visited. Imagine yourself as a visitor: Would you like your own page? Would you buy your product? If you were a customer, how would you find this product? What keywords would you use on Google? Where do your potential clients spend their time online? Are you advertising in the right place?
 
@@ -32,11 +32,11 @@ Once you get into the habit of self-questioning, you can coach yourself. Make a 
 
 > *The quality of your life is determined by the quality of the questions you ask yourself.*
 >
-> — Tony Robbins
+> *Tony Robbins*
 
 > *Sometimes, the answer is not out there, but inside you, waiting for the right question.*
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 
@@ -45,7 +45,7 @@ Once you get into the habit of self-questioning, you can coach yourself. Make a 
 - *Ask yourself honest questions to find better answers.*
 - *Use self-questioning to spot mistakes and discover new solutions.*
 - *You can coach yourself by making this a daily habit.*
-- *Try talking your problems out loud—even to a toy or object—if it helps you think clearly.*
+- *Try talking your problems out loud (even to a toy or object) if it helps you think clearly.*
 
 {{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXF1ZXN0aW9uaW5nJTIwc2VsZi1jb2FjaGluZyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1Njg1MjU5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Coach Yourself to Better Decisions Without Outside Advice" caption="How to Coach Yourself to Better Decisions Without Outside Advice - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 

@@ -26,17 +26,17 @@ So, how can you achieve more, and do it faster? Maybe after work, or on weekends
 
 Don’t fall into the trap of thinking, “Today isn’t the right time. Maybe tomorrow.” Tomorrow never comes if you keep waiting for the perfect moment. The only time you truly have is now.
 
-I’ve seen so many people, including my own mother, make choices that weren’t really theirs. Later in life, they look back with regret. Don’t let that be you. Take the reins of your life. Imagine you’re holding the reins of a horse—grab them firmly and set things in motion. Whether it’s a horse, a mammoth, or anything else, the point is to get moving.
+I’ve seen so many people, including my own mother, make choices that weren’t really theirs. Later in life, they look back with regret. Don’t let that be you. Take the reins of your life. Imagine you’re holding the reins of a horse: grab them firmly and set things in motion. Whether it’s a horse, a mammoth, or anything else, the point is to get moving.
 
 If you want to start a small business, do it tonight. Register your idea, even if it’s just a video game business and everyone tells you it won’t work. If it’s your passion, if it’s all or nothing for you, then go for it. Passion always finds a way. You’ll discover ways to fund your project, even if people say it won’t make money. Don’t choose something else just for the money, or you’ll regret it. Don’t settle for a job you don’t like. Do what you love, and if you’re truly passionate, you’ll find ways to make it work financially. Maybe you’ll teach, or sell something related, but you’ll always find a way.
 
 The most important thing is to act. Life is happening now. Don’t let it pass you by.
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
-> — Chinese Proverb
+> *Chinese Proverb*
 
 > *You are never too old to set another goal or to dream a new dream.*
-> — C.S. Lewis
+> *C.S. Lewis*
 
 ---
 

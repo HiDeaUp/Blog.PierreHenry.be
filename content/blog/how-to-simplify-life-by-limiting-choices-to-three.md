@@ -18,21 +18,21 @@ Have you ever noticed how having too many choices can actually make things harde
 
 Let’s take a simple example. Imagine you want to buy or rent a new home. You start browsing real estate websites, contacting agents, and visiting different places. The more properties you see, the more confused you get. You start thinking, “Maybe there’s something better out there, maybe I can find a cheaper place, or a nicer one.” The search never ends. You keep visiting more and more places, but instead of feeling closer to a decision, you feel lost. Meanwhile, some of the good options you saw earlier get taken by others, and you’re left with fewer choices and more regret.
 
-This is where the Rule of Three comes in. Instead of endlessly searching, limit yourself to three options. Visit only three properties that best match your criteria—price, photos, location, whatever matters most to you. After seeing those three, pick the one that suits you best. Don’t keep looking. This approach doesn’t just apply to real estate. You can use it for almost anything.
+This is where the Rule of Three comes in. Instead of searching over and over, limit yourself to three options. Visit only three properties that best match your criteria: price, photos, location, whatever matters most to you. After seeing those three, pick the one that suits you best. Don’t keep looking. This approach doesn’t just apply to real estate. You can use it for almost anything.
 
-If you’re hesitating between several books to read, narrow it down to three and pick one. Looking for a new job? Limit your job interviews to three companies at a time. If you don’t get an offer, you can add another, but always keep your active choices to three. The same goes for choosing a pet—don’t visit every animal shelter in town. Pick three breeds or three animals and decide from there.
+If you’re hesitating between several books to read, narrow it down to three and pick one. Looking for a new job? Limit your job interviews to three companies at a time. If you don’t get an offer, you can add another, but always keep your active choices to three. The same goes for choosing a pet: don’t visit every animal shelter in town. Pick three breeds or three animals and decide from there.
 
 {{< figure src="https://images.unsplash.com/photo-1683727609398-7693457f4717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbi1tYWtpbmclMjBydWxlJTIwb2YlMjB0aHJlZSUyMHNpbXBsaWNpdHl8ZW58MHwwfHx8MTc1NzQ2MjAzMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two white arrows in on asphalt cM" title="How to Simplify Life by Limiting Choices to Three" caption="How to Simplify Life by Limiting Choices to Three - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/two-white-arrows-pointing-in-opposite-directions-on-asphalt-cM-SE4f8d34)" >}}
 
-Even when buying a phone, don’t drown in endless comparisons. Choose three models that fit your needs and budget, then pick one. The same goes for restaurants. If you’re deciding where to eat, limit yourself to three options. When ordering food delivery, pick three restaurants that fit your cravings and budget, then choose one. If you want to watch a movie, select three films and go with the one that feels right.
+Even when buying a phone, don’t drown in constant comparisons. Choose three models that fit your needs and budget, then pick one. The same goes for restaurants. If you’re deciding where to eat, limit yourself to three options. When ordering food delivery, pick three restaurants that fit your cravings and budget, then choose one. If you want to watch a movie, select three films and go with the one that feels right.
 
 The Rule of Three can save you a lot of time and stress. Try it for three weeks. If it doesn’t work for you, that’s fine, but give it a shot. You might be surprised at how much easier decisions become and how much happier you feel with your choices.
 
 > *“The more options there are, the easier it is to regret anything at all that is disappointing about the option that you chose.”*  
-— Barry Schwartz
+*Barry Schwartz*
 
 > *“Simplicity is the ultimate sophistication.”*  
-— Leonardo da Vinci
+*Leonardo da Vinci*
 
 ---
 

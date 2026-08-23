@@ -16,19 +16,19 @@ source_medium = "https://medium.com/@phenrysay/2bbbd045dbd3"
 
 When it comes to organizing your day, most people reach for a to-do list or a calendar. But what if the real secret to a productive, satisfying day isn’t about priorities or time slots, but about building repeatable processes and routines that fit your life?
 
-Let’s talk about process lists. Instead of focusing on what’s urgent or what time you should do things, imagine having a set of routines that guide your day. For example, I use an app called Sims 3 for my task lists, but there are plenty of others out there—Apple Reminders, GTask (which used to be great for syncing with Google Tasks), or even C Kip. The tool itself isn’t what matters most. What matters is how you use it.
+Let’s talk about process lists. Instead of focusing on what’s urgent or what time you should do things, imagine having a set of routines that guide your day. For example, I use an app called Sims 3 for my task lists, but there are plenty of others out there: Apple Reminders, GTask (which used to be great for syncing with Google Tasks), or even C Kip. The tool itself isn’t what matters most. What matters is how you use it.
 
 Some people like to use their calendar to block out time for specific tasks. This is called time blocking or time boxing. You set aside chunks of your day for different activities, and if something unexpected comes up, you simply move the block to another time, like rearranging Lego bricks. If it doesn’t fit, you push it to another day. This method works for many, but it’s not my personal favorite.
 
 There are also apps like Structured or Sorted that help you organize your time visually. Again, the best app is the one that fits your style. But here’s the key: don’t base your whole system on the clock. Instead, create folders or tags for your tasks. For example, every Monday you might check a folder for manual tasks that don’t require much concentration, since Mondays can be tough after the weekend. Fridays can be for reviewing things that don’t need deep thinking. Tuesdays might be for creative work, with a separate “inbox” for new ideas.
 
-If you always rely on time slots, you’ll notice you keep pushing tasks to later because we all tend to overestimate what we can do in a day. That’s why process-based lists are so powerful—they help you focus on what matters, not just what’s urgent.
+If you always rely on time slots, you’ll notice you keep pushing tasks to later because we all tend to overestimate what we can do in a day. That’s why process-based lists are so powerful; they help you focus on what matters, not just what’s urgent.
 
 Another trick is to optimize your daily processes. Ask yourself, “How could I do this differently or better?” For quick notes, I use an app called Just Press Record. It lets you dictate your thoughts, and then it transcribes them. It’s not perfect, but it helps you find your notes easily. There are similar apps for Android, so don’t worry if you’re not on Apple.
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTgxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Organize Your Day Without Relying on To-Do Lists" caption="How to Organize Your Day Without Relying on To-Do Lists - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
-If you drive a lot or get inspired on the go, you can even dictate a book, ten minutes at a time. After a few months, you’ll have enough material to transcribe and edit into something real. There are plenty of transcription services out there—just search online or use platforms like PeoplePerHour or Fiverr to find someone to help.
+If you drive a lot or get inspired on the go, you can even dictate a book, ten minutes at a time. After a few months, you’ll have enough material to transcribe and edit into something real. There are plenty of transcription services out there: just search online or use platforms like PeoplePerHour or Fiverr to find someone to help.
 
 The real question is always about strategy: How can you improve what you do? How can you get more out of your day without burning out?
 
@@ -42,11 +42,11 @@ In the end, it’s about finding what works for you. For some, time blocking is 
 
 > _Happiness is not something ready made. It comes from your own actions._
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > _The secret of your future is hidden in your daily routine._
 >
-> — Mike Murdock
+> *Mike Murdock*
 
 {{< figure src="https://images.unsplash.com/photo-1635267064665-3aa0909b3516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYWlseSUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU4NTgxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A green alarm clock sitting on top of a table J" title="How to Organize Your Day Without Relying on To-Do Lists" caption="How to Organize Your Day Without Relying on To-Do Lists - Photo by [faizan khan](https://unsplash.com/@faizankhan3545) on [Unsplash](https://unsplash.com/photos/a-green-alarm-clock-sitting-on-top-of-a-table-J-TJJpQ_urk)" >}}
 
@@ -55,7 +55,7 @@ In the end, it’s about finding what works for you. For some, time blocking is 
 ## Key Takeaways
 
 - *Focus on building repeatable processes, not just to-do lists.*
-- *Try different tools and methods—find what fits your style.*
+- *Try different tools and methods: find what fits your style.*
 - *Don’t overload your days; be realistic about what you can achieve.*
 - *Use simple rituals and routines to stay on track.*
 - *Remember, the goal is to feel happier and more accomplished, not just busier.*

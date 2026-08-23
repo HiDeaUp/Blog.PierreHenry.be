@@ -28,7 +28,7 @@ Finally, when I need a real boost, I watch talks or conferences by people who ar
 
 > *The only limit to your impact is your imagination and commitment.*
 >
-> — Tony Robbins
+> *Tony Robbins*
 
 Motivation isn’t always about waiting for inspiration to strike. Sometimes, it’s about taking small steps and putting yourself in the right environment. Whether it’s moving your body, changing your surroundings, or listening to someone who’s already walked the path, these little actions can make a big difference.
 

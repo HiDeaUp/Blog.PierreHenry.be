@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/1df19b612db9"
 
 Have you ever wondered how some people seem to move ahead so quickly, while others stay stuck in the same place? One of the most powerful habits I’ve picked up is to learn from those who are already much further along the path than I am. Instead of reinventing the wheel, why not look at what the best are doing and adapt it to your own life?
 
-The easiest way to do this is by watching talks, reading or listening to books—especially biographies. Many successful people share their stories and lessons, and these are often available in both written and audio formats. Some people remember better when they read, while others, like me, prefer listening because it fits better into a busy day.
+The easiest way to do this is by watching talks, reading or listening to books, especially biographies. Many successful people share their stories and lessons, and these are often available in both written and audio formats. Some people remember better when they read, while others, like me, prefer listening because it fits better into a busy day.
 
 Podcasts are another goldmine. There are so many out there, hosted by people who have already achieved what you want to achieve. The trick is to focus on three or four people who have done, many times over, what you dream of doing. Study them closely. Every morning, maybe at your favorite coffee shop, spend an hour listening, reading, or breaking down what these people have done. The goal is to understand their methods, adapt them to your own style, and apply them to your life, your business, or the problems you’re facing.
 
@@ -28,11 +28,11 @@ This approach gives you a real head start. You’re not just learning from your 
 
 > *If I have seen further, it is by standing on the shoulders of giants.*
 >
-> — Isaac Newton
+> *Isaac Newton*
 
 > *Success leaves clues. Go figure out what someone who was successful did, and model it. Improve it, but learn their steps. They have knowledge.*
 >
-> — Tony Robbins
+> *Tony Robbins*
 
 ---
 
@@ -43,7 +43,7 @@ This approach gives you a real head start. You’re not just learning from your 
 - Focus on learning from people who have already achieved what you want.
 - Use books, talks, and podcasts to study their methods.
 - Adapt what you learn to your own situation.
-- Treat this process like an investigation—dig deep and apply the lessons.
+- Treat this process like an investigation: dig deep and apply the lessons.
 - This habit will help you move forward faster and with more clarity.
 
 ## Reflection

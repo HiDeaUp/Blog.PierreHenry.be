@@ -18,7 +18,7 @@ What truly makes us happy? For me, it’s not just about feeling good or chasing
 
 ## The Power of Vision
 
-When I talk about vision, I don’t mean daydreams or fantasies. I’m talking about practical, down-to-earth goals. Maybe you want to start a business, move to a new country, or simply try living somewhere that fascinates you. For example, I’ve always been drawn to Japan. The culture intrigues me, and I’d love to spend a year there. That’s a vision—a clear picture of something I want to achieve.
+When I talk about vision, I don’t mean daydreams or fantasies. I’m talking about practical, down-to-earth goals. Maybe you want to start a business, move to a new country, or simply try living somewhere that fascinates you. For example, I’ve always been drawn to Japan. The culture intrigues me, and I’d love to spend a year there. That’s a vision: a clear picture of something I want to achieve.
 
 Having a vision gives you direction. You know where you want to go, but it’s also important to ask yourself when and why. Why Japan? For me, it’s the culture and the sense of adventure. But sometimes, other goals or challenges take priority, and that’s okay. Life is about balancing different dreams and knowing when it’s time to pursue a new one.
 
@@ -34,10 +34,10 @@ Happiness isn’t static. What brings you joy today might not do so tomorrow. Wh
 
 Challenges are what keep us alive and motivated. People often say work isn’t enjoyable, but in reality, it’s the sense of challenge, recognition, and responsibility that makes us feel fulfilled. If you stop working or pursuing goals, you might start to feel down, as if you’re not achieving anything.
 
-I’ve found that writing helps me channel my thoughts and ideas. Sometimes I write in my living room, other times in a shared space in my building. I even used to write during flights, using that time to set myself small challenges—like finishing a few pages before landing. It’s not about the medium; it’s about having something to strive for.
+I’ve found that writing helps me channel my thoughts and ideas. Sometimes I write in my living room, other times in a shared space in my building. I even used to write during flights, using that time to set myself small challenges, like finishing a few pages before landing. It’s not about the medium; it’s about having something to strive for.
 
 > _Happiness is not something ready made. It comes from your own actions._
-> — Dalai Lama
+> *Dalai Lama*
 
 ## Anchoring Habits
 
@@ -47,10 +47,10 @@ One trick I’ve learned is to anchor new habits to existing ones. For example, 
 
 Not every day goes as planned. Sometimes I wake up late, and it feels like the whole day is wasted. Yesterday, for instance, I stayed up late with my partner, and this morning I couldn’t get up at my usual time. My head felt heavy, and I struggled to get started. But instead of letting that ruin my day, I decided to make the most of the time I had left.
 
-It’s easy to fall into the trap of thinking a late start means the day is lost. But even if things don’t go perfectly, you can still make the most of the present moment. Like when you’re stuck in traffic on the way to a holiday—you might arrive late, but you can still enjoy what’s left. The important thing is to focus on what you can do now, not what you’ve missed.
+It’s easy to fall into the trap of thinking a late start means the day is lost. But even if things don’t go perfectly, you can still make the most of the present moment. Like when you’re stuck in traffic on the way to a holiday; you might arrive late, but you can still enjoy what’s left. The important thing is to focus on what you can do now, not what you’ve missed.
 
 > _Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment._
-> — Buddha
+> *Buddha*
 
 ## Keep Moving Forward
 
@@ -59,7 +59,7 @@ It’s easy to fall into the trap of thinking a late start means the day is lost
 The real secret to happiness and success is to keep setting new goals and challenges for yourself. Celebrate your achievements, but don’t be afraid to change course when something no longer brings you joy. Life is about growth, and growth comes from doing, from trying, from sometimes failing and starting again.
 
 > _The only way to do great work is to love what you do._
-> — Steve Jobs
+> *Steve Jobs*
 
 ---
 

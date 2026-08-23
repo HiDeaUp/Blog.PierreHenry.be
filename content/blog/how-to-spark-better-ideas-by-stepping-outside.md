@@ -26,11 +26,11 @@ It’s worth making the effort to find and spend time in places that make you fe
 
 > *The sun does not shine for a few trees and flowers, but for the wide world’s joy.*
 >
-> — Henry Ward Beecher
+> *Henry Ward Beecher*
 
 > *Look deep into nature, and then you will understand everything better.*
 >
-> — Albert Einstein
+> *Albert Einstein*
 
 ---
 
@@ -40,7 +40,7 @@ It’s worth making the effort to find and spend time in places that make you fe
 
 - *Choose environments that make you feel good and inspire you.*
 - *Nature and sunlight can boost your creativity and mood.*
-- *Don’t settle for places that drain your energy—seek out spaces that lift you up.*
+- *Don’t settle for places that drain your energy: seek out spaces that lift you up.*
 
 ## Reflection
 

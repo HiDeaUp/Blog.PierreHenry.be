@@ -18,7 +18,7 @@ Alright, let’s get right into it. I want to show you something cool about Curs
 
 ### Ask Cursor Anything (Seriously)
 
-So, here’s the thing: with Cursor, you can basically ask it to do anything you want. Need to minify a file? Done. Want to compress something? No problem. Tasks that would usually have you jumping to some random third-party website or service—Cursor can handle them right inside your editor.
+So, here’s the thing: with Cursor, you can basically ask it to do anything you want. Need to minify a file? Done. Want to compress something? No problem. Tasks that would usually have you jumping to some random third-party website or service: Cursor can handle them right inside your editor.
 
 For example, if you want to format or minify a CSS or JS file, just ask Cursor. It’ll do it for you. It even listens to the output of commands like `yarn`, `npm`, or `pnpm`. You can literally tell it, “Hey, run this command and watch what happens,” and it’ll keep an eye on the output for you.
 
@@ -26,7 +26,7 @@ For example, if you want to format or minify a CSS or JS file, just ask Cursor. 
 
 Let me show you how this plays out. Say you’re running a React dashboard app (or React Native, or whatever you’re working on). You can ask Cursor to run your app with Expo, listen for any errors, and then automatically fix whatever errors it finds. It’s like a feedback loop: Cursor listens, catches the error, tries to fix it, and keeps going.
 
-This is a game changer. You can go make a coffee while Cursor is working through your build errors. Of course, you still need to check what it’s doing. Sometimes it might remove a function or swap out something you didn’t want changed. You can set up rules in the Cursor rules file—like “don’t remove comments” or “don’t touch this function”—but sometimes Cursor (or any AI code editor, really) can be a bit stubborn.
+This is a major improvement. You can go make a coffee while Cursor is working through your build errors. Of course, you still need to check what it’s doing. Sometimes it might remove a function or swap out something you didn’t want changed. You can set up rules in the Cursor rules file (like “don’t remove comments” or “don’t touch this function”), but sometimes Cursor (or any AI code editor, really) can be a bit stubborn.
 
 Here’s what my generic Cursor rules file looks like:
 
@@ -66,7 +66,7 @@ And remember, always review what it does. You’re still the master of your code
 
 ## Key Takeaways
 
-- **Cursor AI can automate tons of repetitive coding tasks**—from minifying files to running and fixing build commands.
+- **Cursor AI can automate tons of repetitive coding tasks**: from minifying files to running and fixing build commands.
 - *Always set clear rules and review Cursor’s changes*, just like you would with a junior developer.
 - The real magic happens when you let Cursor listen to terminal output and auto-correct errors in a loop.
 - Be specific with your prompts. The more context you give, the smarter Cursor gets.

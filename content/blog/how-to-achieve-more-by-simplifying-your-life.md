@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/9a6eec823c12"
 
 Living a lighter life is not about doing less. It’s about doing more with less. When you simplify your days, you create space in your mind and your schedule. This space lets you tackle bigger, more complex projects with greater calm and satisfaction. Simplicity is not just a trend; it’s an elegant, lasting process that lets you achieve much more.
 
-One of the first steps to a lighter life is reducing the number of choices you make. Take clothing, for example. I always wear similar colors and styles—shirts that go with everything. If I pick brown, it looks relaxed; if I pick dark blue, it looks more formal. The same goes for materials and even for shorts. I have a few buttons to play with, but overall, I keep it simple and casual. This approach saves time and energy every morning.
+One of the first steps to a lighter life is reducing the number of choices you make. Take clothing, for example. I always wear similar colors and styles: shirts that go with everything. If I pick brown, it looks relaxed; if I pick dark blue, it looks more formal. The same goes for materials and even for shorts. I have a few buttons to play with, but overall, I keep it simple and casual. This approach saves time and energy every morning.
 
 Food is another area where fewer choices make life easier. Personally, I’m vegan, but the principle works for anyone. You might have a few go-to recipes that you repeat every week. This way, you don’t waste time making shopping lists or deciding what to eat. You buy the same ingredients, avoid impulse purchases like cookies or random snacks, and even stick to the same fruits in the same quantities. This keeps your fridge organized and reduces waste.
 
@@ -33,10 +33,10 @@ Even in business, the fewer products or services you offer, the easier it is to 
 Simplicity is not about deprivation. It’s about making room for what’s important. When you clear away the excess, you find more joy, more freedom, and more time for what truly matters.
 
 *“Simplicity is the ultimate sophistication.”*  
-— Leonardo da Vinci
+*Leonardo da Vinci*
 
 *“The ability to simplify means to eliminate the unnecessary so that the necessary may speak.”*  
-— Hans Hofmann
+*Hans Hofmann*
 
 ---
 

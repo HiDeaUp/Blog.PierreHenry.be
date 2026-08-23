@@ -5,7 +5,7 @@ date = "2025-08-24T16:10:11.377997"
 draft = false
 description = "Moving towards new horizons is what I want to share with you today. Every day is a chance to try something different, to step into a world that might feel a little unfamiliar. Maybe today is the da..."
 summary = "Moving towards new horizons is what I want to share with you today. Every day is a chance to try something different, to step into a world that might feel a little unfamiliar. Maybe today is the da..."
-tags = ["embracing change", "entrepreneurship", "mindset", "money", "new experiences", "personal growth", "self improvement", "self-transcendence", "tasks"]
+tags = ["accepting change", "entrepreneurship", "mindset", "money", "new experiences", "personal growth", "self improvement", "self-transcendence", "tasks"]
 priority = true
 priority_topics = ["money", "self-transcendence", "tasks", "entrepreneurship"]
 original_title = "Nouvelle façon de penser💡"
@@ -22,7 +22,7 @@ One idea that has always stuck with me is this quote:
 
 > *To dare is to lose one’s footing momentarily. Not to dare is to lose oneself.*
 >
-> — Søren Kierkegaard
+> *Søren Kierkegaard*
 
 {{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG5ldyUyMGV4cGVyaWVuY2VzJTIwbWluZHNldHxlbnwwfDB8fHwxNzU2MDE1ODEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How Trying Something New Each Day Changes Your Life" caption="How Trying Something New Each Day Changes Your Life - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 

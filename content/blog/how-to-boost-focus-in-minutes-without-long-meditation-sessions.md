@@ -14,17 +14,17 @@ source_medium = "https://medium.com/@phenrysay/81d82c3feba9"
 
 {{< figure src="https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMG1lZGl0YXRpb258ZW58MHwwfHx8MTc1NjAwNzAyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A glass trophy on a table" title="How to Boost Focus in Minutes Without Long Meditation Sessions" caption="How to Boost Focus in Minutes Without Long Meditation Sessions - Photo by [Radu Prodan](https://unsplash.com/@r_j_me) on [Unsplash](https://unsplash.com/photos/a-glass-trophy-on-a-table-KYQiYkm0xAo)" >}}
 
-Have you ever wondered why it’s so hard to stay focused, remember what you read, or finish what you start? I’ve found a surprisingly simple answer: productive meditation. This isn’t about sitting for hours in silence or chasing some mystical experience. It’s about taking several short meditation breaks throughout your day—just five to ten minutes each, ideally three times a day.
+Have you ever wondered why it’s so hard to stay focused, remember what you read, or finish what you start? I’ve found a surprisingly simple answer: productive meditation. This isn’t about sitting for hours in silence or chasing some mystical experience. It’s about taking several short meditation breaks throughout your day: just five to ten minutes each, ideally three times a day.
 
-These brief sessions are like a workout for your brain. Each time you meditate, you train your mind to focus on one thing—maybe the sound of birds, the silence around you, or your own breathing. By doing this regularly, you teach your brain to stay present and stop wandering off. You’ll notice that you can concentrate better, remember more, and avoid that scattered feeling of jumping from one thing to another.
+These brief sessions are like a workout for your brain. Each time you meditate, you train your mind to focus on one thing, maybe the sound of birds, the silence around you, or your own breathing. By doing this regularly, you teach your brain to stay present and stop wandering off. You’ll notice that you can concentrate better, remember more, and avoid that scattered feeling of jumping from one thing to another.
 
-I recommend starting with just five minutes per session. Meditate in the morning, maybe once in the afternoon, and again in the evening. It’s not about quantity, but about consistency. Over time, you’ll find yourself less distracted and more able to live in the present moment. That’s where real life happens—not in the regrets of the past or the worries about the future.
+I recommend starting with just five minutes per session. Meditate in the morning, maybe once in the afternoon, and again in the evening. It’s not about quantity, but about consistency. Over time, you’ll find yourself less distracted and more able to live in the present moment. That’s where real life happens, not in the regrets of the past or the worries about the future.
 
 When you’re present, you can actually enjoy what you’re doing. You’ll stop flitting from one task to another, never really finishing anything. Instead, you’ll complete one thing, then move on to the next, and so on. This simple shift can make your days feel fuller and more satisfying.
 
 To help me stay organized, I use an app called Things 3. For example, when I was preparing for a trip to South Korea, I listed everything I needed to pack. As I completed each task, I checked it off. The app syncs automatically, so I never have to worry about losing my list. It’s a small thing, but it makes a big difference.
 
-Another tool I love is Forest. It lets me set 90-minute work sprints, with short breaks in between. I’ve learned that these breaks shouldn’t last more than fifteen minutes. Any longer, and it’s much harder to get back into the flow of work. During these breaks, I avoid checking emails or messages. Instead, I might step outside, pet my cat or dog, make a coffee, or read a magazine. If you check your messages or watch the news, you risk filling your mind with unnecessary worries—mental clutter that makes it harder to focus.
+Another tool I love is Forest. It lets me set 90-minute work sprints, with short breaks in between. I’ve learned that these breaks shouldn’t last more than fifteen minutes. Any longer, and it’s much harder to get back into the flow of work. During these breaks, I avoid checking emails or messages. Instead, I might step outside, pet my cat or dog, make a coffee, or read a magazine. If you check your messages or watch the news, you risk filling your mind with unnecessary worries: mental clutter that makes it harder to focus.
 
 {{< figure src="https://images.unsplash.com/photo-1655970580622-4a547789c850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMG1lZGl0YXRpb258ZW58MHwwfHx8MTc1NjAwNzAyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a table wearing" title="How to Boost Focus in Minutes Without Long Meditation Sessions" caption="How to Boost Focus in Minutes Without Long Meditation Sessions - Photo by [Sam Bhattacharyya](https://unsplash.com/@samoz) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-table-wearing-headphones-jNtsMxWZeko)" >}}
 
@@ -35,14 +35,14 @@ When it comes to meditation apps, I use Headspace. It’s changed my life, but t
 One last thought: don’t put off what you want to do. Life is shorter than we think. That little voice telling you to wait for the right moment, or that it’s not reasonable, is just holding you back. The best time to start is now. There’s a Chinese proverb I love:
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
-> — Chinese proverb
+> *Chinese proverb*
 
-So, meditate today. Try two short sessions. And don’t stress about doing it perfectly. Sometimes, when you try too hard not to think, your mind races even more. There’s a trick I learned from Headspace: at the end of a session, you’re invited to let any thought come. Strangely, that’s when your mind finally quiets down. It’s the same with sleep—if you pressure yourself to fall asleep, it gets harder. But if you just lie down and let go, sleep comes naturally.
+So, meditate today. Try two short sessions. And don’t stress about doing it perfectly. Sometimes, when you try too hard not to think, your mind races even more. There’s a trick I learned from Headspace: at the end of a session, you’re invited to let any thought come. Strangely, that’s when your mind finally quiets down. It’s the same with sleep: if you pressure yourself to fall asleep, it gets harder. But if you just lie down and let go, sleep comes naturally.
 
 Remember, the present moment is all we really have. Don’t wait for tomorrow to start living the life you want.
 
 > *Don’t put off until tomorrow what you can do today.*
-> — Attributed to Benjamin Franklin
+> *Attributed to Benjamin Franklin*
 
 ---
 
@@ -54,13 +54,13 @@ Remember, the present moment is all we really have. Don’t wait for tomorrow to
 - *Use simple tools like Things 3 or Forest to organize tasks and structure your work.*
 - *Keep breaks short and avoid mental clutter during them.*
 - *Physical activity and changing your environment can refresh your mind.*
-- *Don’t wait for the perfect moment—start today.*
+- *Don’t wait for the perfect moment: start today.*
 
 ## Action Steps
 
 - *Try three five-minute meditation sessions today.*
 - *Pick one simple productivity app and stick with it for a week.*
-- *During breaks, avoid emails and news—do something calming instead.*
+- *During breaks, avoid emails and news: do something calming instead.*
 - *Move your body or change your workspace if you feel stuck.*
 
 ## Reflection

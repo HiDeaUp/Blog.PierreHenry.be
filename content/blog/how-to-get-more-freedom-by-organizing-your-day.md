@@ -27,10 +27,10 @@ Let me share a bit about my own routine. Even though I work full-time in IT, I a
 It’s not about doing more for the sake of it, but about doing what matters most to you. When you know where you’re going, you can make real progress, step by step.
 
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
-— Robert Collier
+*Robert Collier*
 
 > *“The key is not to prioritize what’s on your schedule, but to schedule your priorities.”*  
-— Stephen Covey
+*Stephen Covey*
 
 ---
 

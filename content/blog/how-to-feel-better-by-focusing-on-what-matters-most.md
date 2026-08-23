@@ -3,8 +3,8 @@ title = "How to Feel Better by Focusing on What Matters Most"
 slug = "how-to-feel-better-by-focusing-on-what-matters-most"
 date = "2025-08-25T17:56:44.556971"
 draft = false
-description = "Concentration is more than just a skill; it’s a way to shape your day and your wellbeing. When you focus fully on what truly matters to you, you give yourself the best chance to feel good and fulfi..."
-summary = "Concentration is more than just a skill; it’s a way to shape your day and your wellbeing. When you focus fully on what truly matters to you, you give yourself the best chance to feel good and fulfi..."
+description = "Concentration is more than just a skill; it’s a way to plan your day and your wellbeing. When you focus fully on what truly matters to you, you give yourself the best chance to feel good and fulfi..."
+summary = "Concentration is more than just a skill; it’s a way to plan your day and your wellbeing. When you focus fully on what truly matters to you, you give yourself the best chance to feel good and fulfi..."
 tags = ["focus", "mental health", "prioritization", "productivity", "self-transcendence", "time management", "well-being"]
 priority = true
 priority_topics = ["self-transcendence", "time management", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/db7c3525ae1a"
 
 {{< figure src="https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMHdlbGwtYmVpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjEwODYwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman right fist" title="How to Feel Better by Focusing on What Matters Most" caption="How to Feel Better by Focusing on What Matters Most - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)" >}}
 
-Concentration is more than just a skill; it’s a way to shape your day and your well-being. When you focus fully on what truly matters to you, you give yourself the best chance to feel good and fulfilled. The more you can immerse yourself in the things that count, the more you’ll notice a positive shift in your mood and satisfaction.
+Concentration is more than just a skill; it’s a way to plan your day and your well-being. When you focus fully on what truly matters to you, you give yourself the best chance to feel good and fulfilled. The more you can immerse yourself in the things that count, the more you’ll notice a positive shift in your mood and satisfaction.
 
 ## The Power of Picking Your Priorities
 
@@ -40,11 +40,11 @@ Of course, your priorities might not be the same as mine. We’re all different.
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *The key is not to prioritize what’s on your schedule, but to schedule your priorities.*
 >
-> — Stephen R. Covey
+> *Stephen R. Covey*
 
 ## Make Your Happiness a Habit
 

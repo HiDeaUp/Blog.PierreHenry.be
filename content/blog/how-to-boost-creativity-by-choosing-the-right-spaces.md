@@ -24,13 +24,13 @@ Once you experience a truly good place, you might wonder why you didn’t seek i
 
 The key is to choose environments that make you feel alive and inspired. Don’t settle for dull, concrete spaces if you have other options. Look for places with natural elements, even small ones. Your mind and body will thank you.
 
-> *The spaces we choose shape the thoughts we have and the lives we build.*
+> *The spaces we choose influence the thoughts we have and the lives we build.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *Creativity is born where comfort meets inspiration.*
 >
-> — Unknown
+> *Unknown*
 
 ---
 

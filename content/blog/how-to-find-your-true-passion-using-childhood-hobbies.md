@@ -27,10 +27,10 @@ If you’re struggling to find your passion or a fulfilling activity, looking ba
 For me, the goal was never about making money from my childhood films. I just wanted to show them to others, maybe play them back on my camera. Now, I find myself loving video even more, and at some point, I had a real breakthrough. I realized that I’ve been doing this since I was much younger. Sometimes, the answers to what you should do next are hidden in your earliest memories.
 
 > _“The child you were holds the map to the adult you want to become.”_
-— Unknown
+*Unknown*
 
 > _“Passion is energy. Feel the power that comes from focusing on what excites you.”_
-— Oprah Winfrey
+*Oprah Winfrey*
 
 ---
 
@@ -39,7 +39,7 @@ For me, the goal was never about making money from my childhood films. I just wa
 ## Key Takeaways
 - Think back to what you loved doing between ages 8 and 13.
 - Childhood passions often point to what will fulfill you as an adult.
-- Don’t worry about money or recognition at first—focus on what brings you joy.
+- Don’t worry about money or recognition at first: focus on what brings you joy.
 - There are many ways to turn your old interests into something meaningful today.
 
 ## Reflection

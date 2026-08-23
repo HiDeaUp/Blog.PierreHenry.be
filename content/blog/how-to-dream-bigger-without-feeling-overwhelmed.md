@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/0a6c86853dad"
 
 Growing your vision of life is not just a nice idea. It is the foundation for everything you want to achieve. When you allow yourself to think bigger, you open the door to new possibilities. But dreaming big is not enough. You need to break down your dreams into small, daily goals. These little steps, repeated every morning and every evening, are what build the real bricks of your future.
 
-Imagine waking up each day with a clear purpose. You know exactly what you want to accomplish, and you have a plan for how to get there. This is how progress happens, little by little. It is not about making huge leaps overnight, but about steady, regular action. Half an hour in the morning, half an hour in the evening—these moments add up. Over time, you will see yourself moving forward.
+Imagine waking up each day with a clear purpose. You know exactly what you want to accomplish, and you have a plan for how to get there. This is how progress happens, little by little. It is not about making huge leaps overnight, but about steady, regular action. Half an hour in the morning, half an hour in the evening: these moments add up. Over time, you will see yourself moving forward.
 
 The key is to have a long-term vision that is clear, specific, and concrete. When your vision is well defined, it becomes real and achievable. Without this clarity, it is easy to waste time on things that do not matter. You end up spending your energy on distractions, instead of on what truly matters to you.
 
@@ -29,10 +29,10 @@ The reason behind your vision does not have to be grand or noble. It can be for 
 I truly wish you all the best in making your projects happen and finding fulfillment in your life. Remember, progress comes from clear goals and daily action. If you want to go even further, there are many ways to keep learning and growing.
 
 > _The future belongs to those who believe in the beauty of their dreams._
-— Eleanor Roosevelt
+*Eleanor Roosevelt*
 
 > _A goal without a plan is just a wish._
-— Antoine de Saint-Exupéry
+*Antoine de Saint-Exupéry*
 
 ---
 
@@ -44,7 +44,7 @@ I truly wish you all the best in making your projects happen and finding fulfill
 - *Break your big dreams into small, daily goals.*
 - *Take regular action, even if it is just half an hour each morning and evening.*
 - *Focus your energy on what truly matters to you.*
-- *Your reason for dreaming big is personal—own it.*
+- *Your reason for dreaming big is personal: own it.*
 
 ## Reflection
 

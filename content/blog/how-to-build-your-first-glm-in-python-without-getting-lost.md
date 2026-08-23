@@ -3,8 +3,8 @@ title = "How to Build Your First GLM in Python Without Getting Lost"
 slug = "how-to-build-your-first-glm-in-python-without-getting-lost"
 date = "2025-12-30T16:48:07.280782"
 draft = false
-description = "Alright, let’s dive right in. I want to walk you through a little data science learning project I’ve been working on—a GLM, or generalized linear model. If you’re just getting started with regressi..."
-summary = "Alright, let’s dive right in. I want to walk you through a little data science learning project I’ve been working on—a GLM, or generalized linear model. If you’re just getting started with regressi..."
+description = "Alright, here is how right in. I want to walk you through a little data science learning project I’ve been working on: a GLM, or generalized linear model. If you’re just getting started with regressi..."
+summary = "Alright, here is how right in. I want to walk you through a little data science learning project I’ve been working on: a GLM, or generalized linear model. If you’re just getting started with regressi..."
 tags = ["beginner tutorial", "data science", "glm", "machine learning", "python", "tech"]
 priority = true
 priority_topics = ["tech"]
@@ -14,11 +14,11 @@ source_medium = "https://medium.com/@phenrysay/a0a8dd9f8f9b"
 
 {{< figure src="https://images.unsplash.com/photo-1754419908601-a378c712526f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkYXRhJTIwc2NpZW5jZSUyMEdMTSUyMFB5dGhvbnxlbnwwfDB8fHwxNzY3MDczNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A snake rests coiled on a dark surface" title="How to Build Your First GLM in Python Without Getting Lost" caption="How to Build Your First GLM in Python Without Getting Lost - Photo by [Magdalena Grabowska](https://unsplash.com/@mvgdeq) on [Unsplash](https://unsplash.com/photos/a-snake-rests-coiled-on-a-dark-surface-E1ytprghpcs)" >}}
 
-Alright, let’s dive right in. I want to walk you through a little data science learning project I’ve been working on—a GLM, or generalized linear model. If you’re just getting started with regression in Python, this is a great way to get your hands dirty without getting overwhelmed. We’ll keep it simple, practical, and I’ll show you exactly how I set things up, step by step.
+Alright, here is how right in. I want to walk you through a little data science learning project I’ve been working on: a GLM, or generalized linear model. If you’re just getting started with regression in Python, this is a great way to get your hands dirty without getting overwhelmed. We’ll keep it simple, practical, and I’ll show you exactly how I set things up, step by step.
 
 ### What’s a GLM, Anyway?
 
-So, GLM stands for generalized linear model. In this context, we’re basically talking about regression. The idea is to fit a model to some sample data—think of it as a learning experiment. Nothing too fancy, but it’s a solid foundation for more complex stuff down the road.
+So, GLM stands for generalized linear model. In this context, we’re basically talking about regression. The idea is to fit a model to some sample data: think of it as a learning experiment. Nothing too fancy, but it’s a solid foundation for more complex stuff down the road.
 
 ### Loading and Exploring the Data
 
@@ -36,7 +36,7 @@ That’s it. If you’re familiar with pandas, this is super straightforward. We
 
 ### Fitting the GLM
 
-Now, let’s get to the core of it: fitting the model. The script is really small and quick—just a few lines to get the regression going. Here’s the basic flow:
+Now, let’s get to the core of it: fitting the model. The script is really small and quick: just a few lines to get the regression going. Here’s the basic flow:
 
 1. Load the data
 2. Process it (if needed)
@@ -51,10 +51,11 @@ import statsmodels.api as sm
 # Assume 'X' is your feature matrix and 'y' is your target variable
 X = data[['feature1', 'feature2']]
 y = data['target']
+```
 
-![Photo by pavan adepu](https://images.unsplash.com/photo-1589313388773-9e27fc31e1aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYXRhJTIwc2NpZW5jZSUyMEdMTSUyMFB5dGhvbnxlbnwwfDB8fHwxNzY3MDczNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your First GLM in Python Without Getting Lost")
-*How to Build Your First GLM in Python Without Getting Lost - Photo by [pavan adepu](https://unsplash.com/@pa1adepu) on [Unsplash](https://unsplash.com/photos/yellow-and-black-snake-on-black-surface-cLuUTA6QvKo)*
+{{< figure src="https://images.unsplash.com/photo-1589313388773-9e27fc31e1aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYXRhJTIwc2NpZW5jZSUyMEdMTSUyMFB5dGhvbnxlbnwwfDB8fHwxNzY3MDczNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow and black snake on a black surface" title="How to Build Your First GLM in Python Without Getting Lost" caption="How to Build Your First GLM in Python Without Getting Lost - Photo by [pavan adepu](https://unsplash.com/@pa1adepu) on [Unsplash](https://unsplash.com/photos/yellow-and-black-snake-on-black-surface-cLuUTA6QvKo)" >}}
 
+```python
 # Add a constant to the model (intercept)
 X = sm.add_constant(X)
 
@@ -106,10 +107,11 @@ results = model.fit()
 
 # Save the model
 joblib.dump(results, 'glm_model.pkl')
+```
 
-![This photo was taken by Mahdi Molaee in 2018-May.](https://images.unsplash.com/photo-1692970502570-3c2802c1e4b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYXRhJTIwc2NpZW5jZSUyMEdMTSUyMFB5dGhvbnxlbnwwfDB8fHwxNzY3MDczNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080 "How to Build Your First GLM in Python Without Getting Lost")
-*How to Build Your First GLM in Python Without Getting Lost - Photo by [Mahdi Molaee](https://unsplash.com/@madiielo) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-snake-on-the-ground-f5eUDWnJPl4)*
+{{< figure src="https://images.unsplash.com/photo-1692970502570-3c2802c1e4b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkYXRhJTIwc2NpZW5jZSUyMEdMTSUyMFB5dGhvbnxlbnwwfDB8fHwxNzY3MDczNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Close-up of a snake on the ground" title="How to Build Your First GLM in Python Without Getting Lost" caption="How to Build Your First GLM in Python Without Getting Lost - Photo by [Mahdi Molaee](https://unsplash.com/@madiielo) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-snake-on-the-ground-f5eUDWnJPl4)" >}}
 
+```python
 # SHAP values for explainability
 explainer = shap.Explainer(model, X)
 shap_values = explainer(X)
@@ -125,7 +127,7 @@ You can see the pipeline is a bit more involved, but still manageable. Using job
 
 ### Building Robust Models
 
-Whenever you’re working with linear or logistic regression—or really any generalized model—it’s important to know exactly what you need to build. Think through your requirements before you start writing code. Understand your data, and make sure your model is robust. If you don’t really know what data you have to process, you’re going to run into trouble.
+Whenever you’re working with linear or logistic regression (or really any generalized model) it’s important to know exactly what you need to build. Think through your requirements before you start writing code. Understand your data, and make sure your model is robust. If you don’t really know what data you have to process, you’re going to run into trouble.
 
 > “You don’t need much for doing a GLM regression, and it’s very straightforward.”
 

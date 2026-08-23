@@ -29,10 +29,10 @@ Once you clear your mind, you can start moving forward. Do things that bring you
 So, take a step back. Ask yourself if your current path is really what you want. Gaining perspective on your life and upcoming events can change everything. When you clear out mental clutter, you make room for better decisions, more happiness, and real progress toward your goals.
 
 *“Sometimes the most productive thing you can do is relax.”*  
-— Mark Black
+*Mark Black*
 
 *“The greatest weapon against stress is our ability to choose one thought over another.”*  
-— William James
+*William James*
 
 ---
 

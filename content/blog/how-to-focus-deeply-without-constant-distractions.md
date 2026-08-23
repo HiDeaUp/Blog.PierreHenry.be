@@ -18,15 +18,15 @@ When I talk about a "protected space," I mean something very simple but powerful
 
 This is what people call "Deep Work." It’s that state where you’re fully absorbed, where time seems to disappear, and you’re just flowing with your work. But you can’t reach this state if your brain is busy scanning for danger or distractions. Every ping, every pop-up, every little mental load keeps you from getting into that deep, focused zone.
 
-That’s why I call this a "safe space"—an environment that helps you be 100% present with what you’re doing. It’s not just about physical space, but about protecting your mental space too. When you create this kind of environment, you give yourself the best chance to do your best work.
+That’s why I call this a "safe space": an environment that helps you be 100% present with what you’re doing. It’s not just about physical space, but about protecting your mental space too. When you create this kind of environment, you give yourself the best chance to do your best work.
 
 > _“You can’t do big things if you’re distracted by small things.”_  
-— Anonymous
+*Anonymous*
 
 {{< figure src="https://images.unsplash.com/photo-1613579837498-8bacefa78f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMGRlZXAlMjB3b3JrfGVufDB8MHx8fDE3NTU1MTQwMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and red ceramic mug" title="How to Focus Deeply Without Constant Distractions" caption="How to Focus Deeply Without Constant Distractions - Photo by [HamZa NOUASRIA](https://unsplash.com/@hamza01nsr) on [Unsplash](https://unsplash.com/photos/white-and-red-ceramic-mug-LSxzFxsDqo4)" >}}
 
 > _“The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.”_  
-— Cal Newport
+*Cal Newport*
 
 If you want to be truly efficient, start by building your own protected space. It’s a simple habit, but it changes everything. Your brain will thank you.
 
@@ -35,7 +35,7 @@ If you want to be truly efficient, start by building your own protected space. I
 ## Key Takeaways
 
 - Remove all distractions and notifications when you need to focus.
-- A "protected space" is both physical and mental—give your brain room to concentrate.
+- A "protected space" is both physical and mental: give your brain room to concentrate.
 - Deep work happens when you’re not on alert for interruptions.
 - Protecting your focus is the first step to real efficiency.
 

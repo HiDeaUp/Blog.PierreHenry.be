@@ -20,7 +20,7 @@ Think about it. If you’ve been brushing your teeth every day for ten or twenty
 
 Recently, I found myself in a hotel room, preparing to check out and visit an apartment in the heart of Sydney. Finding a great place in the city center takes a lot of persistence. Every day, you have to keep searching, keep believing that the right place is out there. If you do this daily, you rarely give up or settle for less. You keep going because you know what you want, and you’re convinced it’s worth the effort.
 
-This daily commitment is what makes the difference. It’s not about grand gestures, but about small, regular actions. If your dream is to go to space, for example, you might start by reaching out to people who have done it, contacting companies that offer such experiences, or looking for financial groups that could help. Maybe you’ll start a crowdfunding campaign, or save a bit of money every day—50 or 100 euros set aside, day after day. Over a year or two, that adds up.
+This daily commitment is what makes the difference. It’s not about grand gestures, but about small, regular actions. If your dream is to go to space, for example, you might start by reaching out to people who have done it, contacting companies that offer such experiences, or looking for financial groups that could help. Maybe you’ll start a crowdfunding campaign, or save a bit of money every day: 50 or 100 euros set aside, day after day. Over a year or two, that adds up.
 
 {{< figure src="https://images.unsplash.com/photo-1555632956-4389a7623158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsb25nZXZpdHklMjBsb25nLXRlcm0lMjB0aGlua2luZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1MDk1NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man looking s" title="How to Achieve Big Dreams Without Burning Out" caption="How to Achieve Big Dreams Without Burning Out - Photo by [Samu. D](https://unsplash.com/@samu_d) on [Unsplash](https://unsplash.com/photos/man-looking-downward-Nq79rdDDL-s)" >}}
 
@@ -28,7 +28,7 @@ The point is, when your dream becomes your number one obsession, when you think 
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 The real danger is forgetting your dream, letting it fade because it’s not anchored in your routine. If you make your goal a daily habit, it becomes as natural as any other part of your life. You wouldn’t skip your shower just because you’re tired, right? The same should go for your dreams.
 
@@ -36,7 +36,7 @@ So, what can you do? Make a plan. Ask yourself what small step you can take ever
 
 > *Great things are not done by impulse, but by a series of small things brought together.*
 >
-> — Vincent Van Gogh
+> *Vincent Van Gogh*
 
 Regularity is your best friend. Treat your dream like a part of your daily hygiene. Make it non-negotiable. That’s how you get closer, day after day, until one day, you realize you’re living the life you once only imagined.
 
@@ -47,7 +47,7 @@ Regularity is your best friend. Treat your dream like a part of your daily hygie
 ## Key Takeaways
 - Make your dream a daily habit, not a distant wish.
 - Small, regular actions matter more than occasional big efforts.
-- Don’t let your goal fade from your routine—keep it present every day.
+- Don’t let your goal fade from your routine: keep it present every day.
 - Persistence and regularity are the real shortcuts to success.
 
 ## Reflection

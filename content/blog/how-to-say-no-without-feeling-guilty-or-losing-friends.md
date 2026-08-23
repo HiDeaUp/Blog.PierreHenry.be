@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/94aed2bad72a"
 
 We all have obligations. There are things we feel we must do, promises we’ve made, or favors we’ve agreed to. Sometimes, these commitments eat up our time and energy. The hours we spend on them could have been used for our own growth, happiness, or simply for things that matter more to us.
 
-Often, we say yes out of habit or because we want to be liked. Maybe a friend asks for help every Sunday afternoon with their theater group—setting up chairs, organizing snacks, or making coffee. Or someone needs help mowing the lawn, moving to a new city, or babysitting their kids. Even if it’s your best friend, if you truly don’t enjoy it or it clashes with your own plans, it’s okay to reconsider.
+Often, we say yes out of habit or because we want to be liked. Maybe a friend asks for help every Sunday afternoon with their theater group: setting up chairs, organizing snacks, or making coffee. Or someone needs help mowing the lawn, moving to a new city, or babysitting their kids. Even if it’s your best friend, if you truly don’t enjoy it or it clashes with your own plans, it’s okay to reconsider.
 
-Many of us are “people pleasers.” We say yes because we want to be loved or accepted. But every yes is a no to something else—often to our own goals or well-being. Time is precious. If you never have a moment to work on what matters to you, even with the best discipline, too many commitments will make it hard to move forward.
+Many of us are “people pleasers.” We say yes because we want to be loved or accepted. But every yes is a no to something else: often to our own goals or well-being. Time is precious. If you never have a moment to work on what matters to you, even with the best discipline, too many commitments will make it hard to move forward.
 
 The first step to reclaiming your time is building habits. Habits are powerful because they don’t rely on motivation. Motivation comes and goes, but habits stick. You can also set up your environment to make it easier to do what you want, but the real magic happens when your actions become automatic.
 
@@ -26,15 +26,15 @@ The first step to reclaiming your time is building habits. Habits are powerful b
 
 However, be careful: obligations can sneak into your routine and become habits themselves. If you’re not careful, your days fill up with things you never really chose. Over time, this can wear you down and pull you away from your true path.
 
-Take a moment to review your commitments—especially those you’ve made to friends, family, or colleagues. Ask yourself if they still serve you. Freeing up your schedule isn’t selfish; it’s necessary if you want to live a life that feels right for you.
+Take a moment to review your commitments, especially those you’ve made to friends, family, or colleagues. Ask yourself if they still serve you. Freeing up your schedule isn’t selfish; it’s necessary if you want to live a life that feels right for you.
 
 Productivity is not just about doing more. It’s about doing what matters and feeling good about it. There’s no point in being busy if it only leads to frustration or takes you further from your own happiness.
 
 > *“The difference between successful people and really successful people is that really successful people say no to almost everything.”*  
-— Warren Buffett
+*Warren Buffett*
 
-> *“You have to decide what your highest priorities are and have the courage—pleasantly, smilingly, non-apologetically—to say ‘no’ to other things. And the way to do that is by having a bigger ‘yes’ burning inside.”*  
-— Stephen R. Covey
+> *“You have to decide what your highest priorities are and have the courage (pleasantly, smilingly, non-apologetically) to say ‘no’ to other things. And the way to do that is by having a bigger ‘yes’ burning inside.”*
+: Stephen R. Covey
 
 ---
 
@@ -42,7 +42,7 @@ Productivity is not just about doing more. It’s about doing what matters and f
 
 ## Key Takeaways
 
-- *Every commitment takes time away from something else—choose wisely.*
+- *Every commitment takes time away from something else: choose wisely.*
 - *Habits are stronger than motivation. Build routines that serve your goals.*
 - *Review your obligations often. Let go of those that no longer fit your life.*
 - *Saying no is not selfish; it’s a way to protect your time and energy.*

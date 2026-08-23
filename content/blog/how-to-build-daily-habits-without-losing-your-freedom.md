@@ -3,8 +3,8 @@ title = "How to Build Daily Habits Without Losing Your Freedom"
 slug = "how-to-build-daily-habits-without-losing-your-freedom"
 date = "2025-08-24T15:22:19.113678"
 draft = false
-description = "A routine is more than just a schedule. It’s the invisible guide that shapes your day, repeating itself from morning to night. When you build a life around routines, you set yourself up to accompli..."
-summary = "A routine is more than just a schedule. It’s the invisible guide that shapes your day, repeating itself from morning to night. When you build a life around routines, you set yourself up to accompli..."
+description = "A routine is more than just a schedule. It’s the invisible guide that affects your day, repeating itself from morning to night. When you build a life around routines, you set yourself up to accompli..."
+summary = "A routine is more than just a schedule. It’s the invisible guide that affects your day, repeating itself from morning to night. When you build a life around routines, you set yourself up to accompli..."
 tags = ["daily habits", "efficiency", "habits", "productivity", "routine", "success", "tasks", "time management"]
 priority = true
 priority_topics = ["time management", "tasks", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/d54fe5868ad8"
 
 {{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxyb3V0aW5lJTIwaGFiaXRzJTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU2MDEyOTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Build Daily Habits Without Losing Your Freedom" caption="How to Build Daily Habits Without Losing Your Freedom - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
-A routine is more than just a schedule. It’s the invisible guide that shapes your day, repeating itself from morning to night. When you build a life around routines, you set yourself up to accomplish what truly matters. The secret ingredient? Discipline. There’s a famous saying: *Discipline equals freedom.* The more disciplined you are, the more freedom you create for yourself down the line.
+A routine is more than just a schedule. It’s the invisible guide that affects your day, repeating itself from morning to night. When you build a life around routines, you set yourself up to accomplish what truly matters. The secret ingredient? Discipline. There’s a famous saying: *Discipline equals freedom.* The more disciplined you are, the more freedom you create for yourself down the line.
 
 Think about it. When you have a steady routine, it turns into a habit. Just like brushing your teeth every morning and night, you don’t even question whether you’ll do it. You don’t procrastinate about brushing your teeth, and the same can be true for any part of your routine. Habits free you from relying on your mood or energy levels. Some days, you wake up feeling sluggish, maybe it’s cold outside and you’d rather stay in bed. But the act of pushing yourself to do one thing, then another, actually builds your energy. Each small action fuels the next, and soon you find yourself in motion, feeling better than when you started.
 
@@ -24,7 +24,7 @@ Sometimes, these habits are as simple as eating unhealthy food. You know it’s 
 
 On the flip side, healthier routines create a positive cycle. Eat better, move more, and you’ll feel more energetic and fulfilled. You’ll get more done, which gives you even more energy and motivation. This is the virtuous circle you want to create. When you feel good, you say yes to more opportunities, and life seems to smile back at you. Luck isn’t something that just happens; you have to go out and create it. When you’re happy and fulfilled, you naturally attract more good things.
 
-{{< figure src="https://images.unsplash.com/photo-1634545580395-316c38f794ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwaGFiaXRzJTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU2MDEyOTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A word that says embrace routine on a white" title="How to Build Daily Habits Without Losing Your Freedom" caption="How to Build Daily Habits Without Losing Your Freedom - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-that-says-embrace-routine-on-a-white-background-CLUAe_iI6qs)" >}}
+{{< figure src="https://images.unsplash.com/photo-1634545580395-316c38f794ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwaGFiaXRzJTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU2MDEyOTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A word that says accept routine on a white" title="How to Build Daily Habits Without Losing Your Freedom" caption="How to Build Daily Habits Without Losing Your Freedom - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabbled-word-that-says-embrace-routine-on-a-white-background-CLUAe_iI6qs)" >}}
 
 Setting up routines is key to making progress without having to rely on willpower alone. For example, if you want to read every morning, set your Kindle or book next to your breakfast spot the night before. That way, when you sit down, it’s right there, ready to go. The same goes for writing. I use a Freewrite device, which is distraction-free and perfect for drafting. No internet, just pure writing. If you prefer, you can use a Remarkable tablet or even a regular notebook. The point is to tie your desired habit to an existing routine, like writing while you have your morning coffee or evening hot chocolate.
 
@@ -36,11 +36,11 @@ Sometimes, little reminders help. I use apps to keep track of what I want to do 
 
 > *Discipline equals freedom.*
 >  
-> — Jocko Willink
+> *Jocko Willink*
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 >  
-> — Will Durant
+> *Will Durant*
 
 ---
 

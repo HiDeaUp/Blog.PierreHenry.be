@@ -29,10 +29,10 @@ One thing I love about working in places where I don’t know the language is th
 If you stick to this method, you’ll see real progress. You’ll be more productive, and you’ll actually finish the things you set out to do. It’s not just about getting more done; it’s about feeling more free and fulfilled in your life. When you have a clear plan and a set time to work, your priorities become clearer, and you know exactly what you want to achieve each day.
 
 > *“The secret of getting ahead is getting started.”*  
-— Mark Twain
+*Mark Twain*
 
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
-— Robert Collier
+*Robert Collier*
 
 ---
 

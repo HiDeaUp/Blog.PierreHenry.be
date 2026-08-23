@@ -23,10 +23,10 @@ Curiosity can also mean picking up books about subjects completely different fro
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjdXJpb3NpdHklMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NzQ2MjgyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="Adopt Curiosity and Watch Your Life Change" caption="Adopt Curiosity and Watch Your Life Change - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
 > *Curiosity is the wick in the candle of learning.*  
-— William Arthur Ward
+*William Arthur Ward*
 
 > *The important thing is not to stop questioning. Curiosity has its own reason for existing.*  
-— Albert Einstein
+*Albert Einstein*
 
 If you want to evolve, to become a better version of yourself, curiosity is your best friend. It pushes you to ask questions, to seek out new experiences, and to never settle for what you already know. The more curious you are, the more you will discover, and the faster you will grow.
 

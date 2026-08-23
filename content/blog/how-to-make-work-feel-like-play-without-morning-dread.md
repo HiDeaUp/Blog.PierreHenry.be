@@ -21,7 +21,7 @@ But what if we could change how we see work? What if, instead of seeing it as a 
 
 > *The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.*
 >
-> — Marcel Proust
+> *Marcel Proust*
 
 When you’re about to start something new, something that’s supposed to make you happy or inspired, it’s important to look forward to it. Imagine the final result. Every small accomplishment is another stone in the building of your life. Each task is a new chance to learn, to do something differently, or to find a better, more fun way to do it.
 
@@ -37,13 +37,13 @@ We all have the power to change how we approach our tasks. If you’re not enjoy
 
 One practical tip is to change your environment. Don’t always work in the same place. Moving to a new spot can break the monotony and make things feel lighter. Our brains are great at linking places and smells to memories. If something bad happened in a certain place, going back there can bring up those feelings again. That’s why changing your surroundings can help you reset your mindset.
 
-Think about the dentist’s office. The smell and the sound of the drill are instantly recognizable and not very pleasant for most people. But for the dentist, it’s just part of the job. This shows how much our perception shapes our experience.
+Think about the dentist’s office. The smell and the sound of the drill are instantly recognizable and not very pleasant for most people. But for the dentist, it’s just part of the job. This shows how much our perception affects our experience.
 
 Redefining your life, your environment, and your routines can make a huge difference. Try using different tools for your tasks. For example, if cleaning with a noisy vacuum annoys you, try using a brush instead. In the kitchen, maybe you can upgrade your utensils or organize things differently to make cooking more enjoyable.
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 You can even turn a task you used to dislike into something you look forward to. I used to hate mowing the lawn, but now I listen to podcasts or audiobooks while I do it. Suddenly, it’s my favorite time to catch up on things I love.
 
@@ -51,7 +51,7 @@ The most important thing is to keep an open mind. Try new things, change your en
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 >
-> — Aristotle
+> *Aristotle*
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrZmxvdyUyMHByb2R1Y3Rpdml0eSUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NjgyMTkwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Work Feel Like Play Without Morning Dread" caption="How to Make Work Feel Like Play Without Morning Dread - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
@@ -59,7 +59,7 @@ The most important thing is to keep an open mind. Try new things, change your en
 
 ## Key Takeaways
 
-- *Your perception of work shapes your experience. Try to see each task as a new opportunity, not a burden.*
+- *Your perception of work affects your experience. Try to see each task as a new opportunity, not a burden.*
 - *Change your environment or tools to make routine tasks feel fresh.*
 - *Find ways to add enjoyment to your work, like listening to music or podcasts.*
 - *Take a step back and ask if there’s a better or more fun way to do what you’re doing.*

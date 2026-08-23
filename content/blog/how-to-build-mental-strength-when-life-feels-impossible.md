@@ -3,8 +3,8 @@ title = "How to Build Mental Strength When Life Feels Impossible"
 slug = "how-to-build-mental-strength-when-life-feels-impossible"
 date = "2025-08-25T18:50:05.769300"
 draft = false
-description = "There are moments in life when you face challenges that feel impossible to overcome. Sometimes, these trials are not just difficult—they are downright painful. It is in these moments that you need..."
-summary = "There are moments in life when you face challenges that feel impossible to overcome. Sometimes, these trials are not just difficult—they are downright painful. It is in these moments that you need..."
+description = "There are moments in life when you face challenges that feel impossible to overcome. Sometimes, these trials are not just difficult; they are downright painful. It is in these moments that you need..."
+summary = "There are moments in life when you face challenges that feel impossible to overcome. Sometimes, these trials are not just difficult; they are downright painful. It is in these moments that you need..."
 tags = ["mental strength", "motivation", "overcoming challenges", "positive energy", "resilience", "tasks"]
 priority = true
 priority_topics = ["tasks"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/7114d3c41ddb"
 
 {{< figure src="https://images.unsplash.com/photo-1641706531193-03f3fa564779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBzdHJlbmd0aCUyMHJlc2lsaWVuY2UlMjBwb3NpdGl2ZSUyMGVuZXJneXxlbnwwfDB8fHwxNzU2MTExODA0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A type block the word" title="How to Build Mental Strength When Life Feels Impossible" caption="How to Build Mental Strength When Life Feels Impossible - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-scrabble-type-block-spelling-the-word-resilince-4lA1sDFr8Y8)" >}}
 
-There are moments in life when you face challenges that feel impossible to overcome. Sometimes, these trials are not just difficult—they are downright painful. It is in these moments that you need a special kind of strength, a strength that lifts you up instead of dragging you down.
+There are moments in life when you face challenges that feel impossible to overcome. Sometimes, these trials are not just difficult; they are downright painful. It is in these moments that you need a special kind of strength, a strength that lifts you up instead of dragging you down.
 
 Too often, people rely on a force that pulls them deeper into negativity. But what you really need during tough times is positive energy. When everything seems dark, when your mind can only see the negative, it is easy to fall into a vicious cycle. You become so overwhelmed by bad news that you lose the ability to make good decisions. You might even miss the chance to avoid problems before they hit you head-on.
 
@@ -27,10 +27,10 @@ Even when everyone around you says it cannot be done, you have two choices. You 
 This is really a matter of mindset. Life is not easy, and obstacles will always appear. But there is always a way out, and you have to believe in yourself. When things get tough, take time to step back and think. Maybe you need a break, a moment to relax, or a weekend in the countryside. Give yourself space to brainstorm and find new strategies. That is how you find the solutions you need.
 
 > *“Everything is possible. The only limits are the ones you set for yourself.”*  
-— Unknown
+*Unknown*
 
 > *“When you change the way you look at things, the things you look at change.”*  
-— Wayne Dyer
+*Wayne Dyer*
 
 ---
 

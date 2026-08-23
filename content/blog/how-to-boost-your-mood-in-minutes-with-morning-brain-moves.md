@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/439bd38913b9"
 
 When we hear “brain gymnastics,” we often think of memory games or tricky puzzles. But what if I told you it’s much more than that? The real power of brain gymnastics lies in challenging yourself to start your day with a positive mindset, just like you might stretch your body when you wake up.
 
-Think about those gentle morning stretches—reaching out your arms, rolling your neck, waking up your muscles. Now, imagine doing the same for your mind. Instead of letting dark thoughts or worries take over, you sweep them away. All those nagging thoughts that go back and forth, disturbing your peace, belong in the trash. You don’t need them.
+Think about those gentle morning stretches: reaching out your arms, rolling your neck, waking up your muscles. Now, imagine doing the same for your mind. Instead of letting dark thoughts or worries take over, you sweep them away. All those nagging thoughts that go back and forth, disturbing your peace, belong in the trash. You don’t need them.
 
 Start your day by asking yourself: What can I think about that’s positive? What good things can I focus on today? It’s like feeding your brain with fresh fruit juice instead of junk food. You give yourself a clean slate, a chance to build your day on good foundations.
 
@@ -27,10 +27,10 @@ This simple routine is about clearing away the bad vibes and negative thoughts. 
 I’m with you, one hundred percent. Life moves so quickly, and it’s too precious to let it be clouded by negative thoughts. Every morning is a new chance to choose what you feed your mind.
 
 > *“The mind is everything. What you think, you become.”*  
-— Buddha
+*Buddha*
 
 > *“Happiness is not something ready made. It comes from your own actions.”*  
-— Dalai Lama
+*Dalai Lama*
 
 ---
 
@@ -39,7 +39,7 @@ I’m with you, one hundred percent. Life moves so quickly, and it’s too preci
 ## Key Takeaways
 - Start your day by clearing out negative thoughts, just like stretching your body.
 - Focus on positive ideas to give your mind a fresh start.
-- Treat your brain to good “food”—positive thoughts and intentions.
+- Treat your brain to good “food”: positive thoughts and intentions.
 - Life is too short to let negativity take over your mornings.
 
 ## Action Steps

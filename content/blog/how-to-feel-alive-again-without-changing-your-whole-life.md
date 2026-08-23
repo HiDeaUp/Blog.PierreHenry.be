@@ -27,10 +27,10 @@ This feeling of living again, of being motivated and full of energy, can transfo
 Being awake to your surroundings means putting your attention on the little things. I like to jot down new ideas in a notebook. You can do the same, whether it’s on paper or your tablet. Write down what you want to learn, the new things you want to try. This simple habit can lead you to create new projects, and maybe even turn your passion into something more.
 
 > *The more you are present to what surrounds you, the more life surprises you with new joys.*
-> — Anonymous
+> *Anonymous*
 
 > *Happiness is not something ready made. It comes from your own actions.*
-> — Dalai Lama
+> *Dalai Lama*
 
 ---
 

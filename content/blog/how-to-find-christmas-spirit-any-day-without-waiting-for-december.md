@@ -26,15 +26,15 @@ A life plan doesn’t have to be complicated. Break your days into categories an
 
 If you dedicate just one hour a day to something that matters to you, that’s about thirty hours a month. That’s more than a full workweek for many people. In most office jobs, a lot of time is lost to coffee breaks, pointless meetings, and distractions. But if you focus your time on what truly makes you happy, you can achieve so much more.
 
-You can even become a completely different person—someone who is happier, more fulfilled, and more ambitious. That’s why I’m sharing this with you: to help you become a better version of yourself, to encourage you to live a more ambitious and satisfying life.
+You can even become a completely different person: someone who is happier, more fulfilled, and more ambitious. That’s why I’m sharing this with you: to help you become a better version of yourself, to encourage you to live a more ambitious and satisfying life.
 
-So, create something good. Do things that make you feel alive. Let your days be filled with moments that go “bam, bam, boom”—the rhythm of a life well-lived. Because in the end, happiness is simply the realization of your own life.
+So, create something good. Do things that make you feel alive. Let your days be filled with moments that go “bam, bam, boom”: the rhythm of a life well-lived. Because in the end, happiness is simply the realization of your own life.
 
 > _Happiness is not something ready made. It comes from your own actions._
-— Dalai Lama
+*Dalai Lama*
 
 > _The best way to pay for a lovely moment is to enjoy it._
-— Richard Bach
+*Richard Bach*
 
 ---
 
@@ -42,7 +42,7 @@ So, create something good. Do things that make you feel alive. Let your days be 
 
 {{< figure src="https://images.unsplash.com/photo-1640396666613-061429302e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxDaHJpc3RtYXMlMjBNaW5kc2V0JTIwUG9zaXRpdml0eXxlbnwwfDB8fHwxNzU3NDYyMTkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wall that has some writing on it" title="How to Find Christmas Spirit Any Day Without Waiting for December" caption="How to Find Christmas Spirit Any Day Without Waiting for December - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-wall-that-has-some-writing-on-it-5_eKieKQy1o)" >}}
 
-- Life is beautiful—don’t miss it by moving too slowly.
+- Life is beautiful: don’t miss it by moving too slowly.
 - Make your own happiness by focusing on what brings you joy.
 - Set a simple life plan: one meaningful task a day adds up to big changes.
 - Use your time wisely; even one hour a day can transform your life.

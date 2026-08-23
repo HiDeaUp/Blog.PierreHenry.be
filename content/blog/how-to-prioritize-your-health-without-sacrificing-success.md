@@ -16,11 +16,11 @@ source_medium = "https://medium.com/@phenrysay/96995e4d2f34"
 
 When you think about what truly matters in life, it’s easy to get caught up in the daily grind. Many people believe that working more, earning more, and hustling harder is the only way to get ahead. But what if the real key to a better life is much simpler? What if the most important investment you can make is in your own health and well-being?
 
-Taking care of yourself—through what you eat, how you manage stress, how well you sleep, and even the environment you live in—is the foundation for everything else. If you’re always chasing money, working three or four jobs, or clocking in 70 to 80 hours a week just to make ends meet, maybe it’s time to ask yourself if this is really the life you want. Sometimes, the best move is to make a big change, even if it means relocating to a place where life is less expensive and you can focus more on your health and happiness.
+Taking care of yourself (through what you eat, how you manage stress, how well you sleep, and even the environment you live in) is the foundation for everything else. If you’re always chasing money, working three or four jobs, or clocking in 70 to 80 hours a week just to make ends meet, maybe it’s time to ask yourself if this is really the life you want. Sometimes, the best move is to make a big change, even if it means relocating to a place where life is less expensive and you can focus more on your health and happiness.
 
-Imagine living with less stress, giving yourself more space to think, and having moments of calm. These changes can spark creativity and open your mind to new possibilities you never considered before. You’ll find yourself eating better, sleeping more soundly, and enjoying a more balanced life. You’ll have more time for yourself and for the people who matter most—people who, just like you, are only here for a limited time.
+Imagine living with less stress, giving yourself more space to think, and having moments of calm. These changes can spark creativity and open your mind to new possibilities you never considered before. You’ll find yourself eating better, sleeping more soundly, and enjoying a more balanced life. You’ll have more time for yourself and for the people who matter most: people who, just like you, are only here for a limited time.
 
-Living in the present becomes much easier when you’re not stuck in the cycle of work-sleep-repeat. Work is just a small part of human history, not the purpose of life. The real challenge is to be smart enough to find a way to live more freely. Often, the simplest way to do this is by moving somewhere new. Sometimes, just changing your location can make life easier—whether it’s because the paperwork is simpler, or because the pace of life is slower.
+Living in the present becomes much easier when you’re not stuck in the cycle of work-sleep-repeat. Work is just a small part of human history, not the purpose of life. The real challenge is to be smart enough to find a way to live more freely. Often, the simplest way to do this is by moving somewhere new. Sometimes, just changing your location can make life easier: whether it’s because the paperwork is simpler, or because the pace of life is slower.
 
 {{< figure src="https://images.unsplash.com/photo-1598901865264-4f5f30954532?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjB3ZWxsLWJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTY1MjM0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in white t shirt" title="How to Prioritize Your Health Without Sacrificing Success" caption="How to Prioritize Your Health Without Sacrificing Success - Photo by [Katherine Hanlon](https://unsplash.com/@tinymountain) on [Unsplash](https://unsplash.com/photos/woman-in-white-t-shirt-83RTpUBjyYY)" >}}
 
@@ -32,11 +32,11 @@ Why keep suffering through a life that wears you down? It might seem hard to mak
 
 > *Take care of your body. It’s the only place you have to live.*
 >
-> — Jim Rohn
+> *Jim Rohn*
 
 > *The greatest wealth is health.*
 >
-> — Virgil
+> *Virgil*
 
 ---
 
@@ -44,7 +44,7 @@ Why keep suffering through a life that wears you down? It might seem hard to mak
 
 ## Key Takeaways
 
-- *Your health is your most important investment—everything else comes after.*
+- *Your health is your most important investment: everything else comes after.*
 - *If your current life is draining you, consider making a big change, even if it feels scary.*
 - *Don’t let other people’s opinions or stories hold you back from trying something new.*
 - *Living in the present and enjoying life is possible when you put your well-being first.*

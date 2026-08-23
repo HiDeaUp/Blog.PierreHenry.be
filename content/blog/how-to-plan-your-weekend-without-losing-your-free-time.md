@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/e5d5bea47eb2"
 
 Have you ever noticed how easy it is to let a whole Saturday slip away? You wake up late, maybe it’s already 11 a.m. or even noon, and half the day is gone. If you’re like most people, you work during the week and look forward to the weekend as your own time. But too often, that time just disappears. Every day matters, and every day is a chance to do something for yourself. Over time, these small actions add up and can change your life.
 
-It’s not about making money or starting a side hustle—though that’s fine if you want to. Sometimes, it’s just about a personal project, reading a book, or taking a moment for yourself. Staying in bed feels good, but most of the time, we stay there because we haven’t planned our day. It’s almost as if we haven’t planned our life at all.
+It’s not about making money or starting a side hustle: though that’s fine if you want to. Sometimes, it’s just about a personal project, reading a book, or taking a moment for yourself. Staying in bed feels good, but most of the time, we stay there because we haven’t planned our day. It’s almost as if we haven’t planned our life at all.
 
 But imagine if, on Friday night, you already knew exactly what you wanted to do the next day. You’d be so excited that you’d wake up at 5 a.m. on Saturday, full of energy and ready to go. Picture yourself walking through the city, grabbing a coffee, feeling that spark in your eyes. You’re doing things, making progress, and you can actually see it.
 
@@ -26,15 +26,15 @@ Recently, I started a memory training program by Jim Kwik. I read his book a cou
 
 We all need rest, and it’s normal to feel tired. But our time is limited. We’re all here for a certain period, and we don’t know when it will end. That’s why it’s so important to do things that really matter to us. The goal of life is to be happy, to enjoy it 100%, and to love what we do. It starts with organizing and planning what we want to achieve in the long term.
 
-Ask yourself: Where do I want to be in three months? What do I need to do every day to get there? Even if it’s just fifteen minutes a day, it adds up. Ten minutes a day is over an hour a week—seventy minutes! In a year, fifteen minutes a day is almost four days. That’s a lot of time for something that seems so small.
+Ask yourself: Where do I want to be in three months? What do I need to do every day to get there? Even if it’s just fifteen minutes a day, it adds up. Ten minutes a day is over an hour a week: seventy minutes! In a year, fifteen minutes a day is almost four days. That’s a lot of time for something that seems so small.
 
-So, take action. Even if it’s just ten minutes a day for something you love, it will make a big difference. Don’t wait for the perfect moment—start now.
+So, take action. Even if it’s just ten minutes a day for something you love, it will make a big difference. Don’t wait for the perfect moment: start now.
 
 > *“The best way to get something done is to begin.”*  
-> — Unknown
+> *Unknown*
 
 > *“Happiness is not something ready made. It comes from your own actions.”*  
-> — Dalai Lama
+> *Dalai Lama*
 
 ---
 

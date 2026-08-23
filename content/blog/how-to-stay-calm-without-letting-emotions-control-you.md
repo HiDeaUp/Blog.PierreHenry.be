@@ -18,7 +18,7 @@ When emotions take control, it’s easy to say or do things we later regret. May
 
 ## Acting Without Regret
 
-It’s important to act, not just sit around and do nothing. But acting blindly, like a rabbit darting in every direction, leads nowhere. The trick is to act smart: give yourself time to think before making a move. For example, if you’re tempted by a big purchase, wait a week. After that, check in with yourself—do you still want it? Most of the time, the urge fades, and you realize it wasn’t worth it. But if you still want it after a week, maybe it’s the right choice.
+It’s important to act, not just sit around and do nothing. But acting blindly, like a rabbit darting in every direction, leads nowhere. The trick is to act smart: give yourself time to think before making a move. For example, if you’re tempted by a big purchase, wait a week. After that, check in with yourself: do you still want it? Most of the time, the urge fades, and you realize it wasn’t worth it. But if you still want it after a week, maybe it’s the right choice.
 
 This same idea works in conversations. Whether you’re at work or with friends, the way you speak matters. Words have power. Sometimes we try to be funny or trendy, but habits stick, and it’s hard to change them later. Don’t let your environment or the people around you push you into choices you’ll regret. Do what feels right for you.
 
@@ -28,21 +28,21 @@ Don’t drown yourself in advice from a hundred different people. Stick to two o
 
 > *The real value of reading a book isn’t just the information inside, but the focus and thinking it inspires in you.*
 >
-> — Pierre
+> *Pierre*
 
 {{< figure src="https://images.unsplash.com/photo-1732780769402-b4ca6455ded0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLXJlZ3VsYXRpb24lMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1NDIyNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="&quot;Gran cabeza habitada&quot;. Krebs Helga." title="How to Stay Calm Without Letting Emotions Control You" caption="How to Stay Calm Without Letting Emotions Control You - Photo by [Wiki Sinaloa](https://unsplash.com/@wikisinaloa) on [Unsplash](https://unsplash.com/photos/raJrSL-LfVg)" >}}
 
-Switch up your reading formats too. Try both paper books and digital ones. There’s something special about holding a real book, but a Kindle is handy when you travel. Don’t let old habits or family traditions decide for you—choose what works best for you, not what you were taught to prefer.
+Switch up your reading formats too. Try both paper books and digital ones. There’s something special about holding a real book, but a Kindle is handy when you travel. Don’t let old habits or family traditions decide for you: choose what works best for you, not what you were taught to prefer.
 
 ## Break Free from Limiting Beliefs
 
 Most limits are in our heads. If you want something and truly believe in it, you’ll find a way. The key is to fall in love with the problem, not the solution. If you’re only attached to one answer, you’ll get stuck. But if you care about solving the problem, you’ll always find better ways.
 
-This isn’t just for business—it’s for life. Maybe you had a lamp that worked fine, but now there’s a better one. Don’t hold on to the old just because it’s familiar. Let yourself grow and change.
+This isn’t just for business; it’s for life. Maybe you had a lamp that worked fine, but now there’s a better one. Don’t hold on to the old just because it’s familiar. Let yourself grow and change.
 
 > *The only real limits are the ones we set for ourselves.*
 >
-> — Pierre
+> *Pierre*
 
 ## Make Decisions with Care
 
@@ -55,7 +55,7 @@ Don’t let emotions trap you or old beliefs hold you back. The world moves forw
 {{< figure src="https://images.unsplash.com/photo-1510423011867-b42552d52e07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbW90aW9uYWwlMjBpbnRlbGxpZ2VuY2UlMjBzZWxmLXJlZ3VsYXRpb24lMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwwfDB8fHwxNzU1NDIyNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="we walked by this wall at the funfair and while we watches people having fun i captured this picture." title="How to Stay Calm Without Letting Emotions Control You" caption="How to Stay Calm Without Letting Emotions Control You - Photo by [Lili Kovac](https://unsplash.com/@lilschk) on [Unsplash](https://unsplash.com/photos/reflection-of-woman-leaning-against-wall-PFjmzTQ47Z0)" >}}
 
 - Pause before acting on strong emotions.
-- Give yourself time to reflect—especially before big decisions.
+- Give yourself time to reflect, especially before big decisions.
 - Limit your sources of advice to two or three.
 - Switch up your learning formats for fresh perspectives.
 - Don’t let old habits or beliefs hold you back.

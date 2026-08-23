@@ -22,7 +22,7 @@ Sometimes, you just need to accept that things didn’t go as planned. Maybe you
 
 {{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwNTUxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Salvage Your Day Without Starting at Sunrise" caption="How to Salvage Your Day Without Starting at Sunrise - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
-One simple way to reset your day is to jump straight into focused work. Even if it’s just 10, 20, or 30 minutes, or a deep work session of 90 minutes with short breaks, you can make real progress. You might need to make a few sacrifices—maybe skip that dinner out you had planned—but it’s worth it if it helps you move forward.
+One simple way to reset your day is to jump straight into focused work. Even if it’s just 10, 20, or 30 minutes, or a deep work session of 90 minutes with short breaks, you can make real progress. You might need to make a few sacrifices (maybe skip that dinner out you had planned), but it’s worth it if it helps you move forward.
 
 The key is to avoid letting negative energy take over. Don’t let your mind get polluted with guilt or disappointment. Instead, throw those feelings away and focus on what you can do right now. Use the Pareto principle: focus on the 20% of tasks that will give you 80% of the results. Maybe your training session will be shorter, but more condensed and even higher quality.
 
@@ -30,18 +30,18 @@ What matters is not how your day started, but how you choose to finish it. There
 
 > *Discipline is choosing between what you want now and what you want most.*
 >
-> — Abraham Lincoln
+> *Abraham Lincoln*
 
 > *You can’t go back and change the beginning, but you can start where you are and change the ending.*
 >
-> — C.S. Lewis
+> *C.S. Lewis*
 
 {{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NTYwNTUxNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Salvage Your Day Without Starting at Sunrise" caption="How to Salvage Your Day Without Starting at Sunrise - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
 ---
 
 ## Key Takeaways
-- *Don’t let a rough start ruin your day—there’s always a way to catch up.*
+- *Don’t let a rough start ruin your day; there’s always a way to catch up.*
 - *Jump into focused work, even if it’s just for a short time.*
 - *Let go of negative thoughts and focus on what you can do now.*
 - *Use the Pareto principle: focus on the tasks that matter most.*

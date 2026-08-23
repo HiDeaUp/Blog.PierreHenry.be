@@ -20,13 +20,13 @@ This isn’t just about cooking. It happens everywhere. In my own experience, I 
 
 I had to figure out how everything worked, with barely any guidance. The outgoing developer was swamped with final tasks and couldn’t answer all my questions. So I had to become a kind of archaeologist, digging through old code, reading every note, and checking the history of every change. It’s like piecing together a puzzle with missing pieces.
 
-If you ever find yourself in a similar spot—whether it’s in a kitchen, a library, or any other field—the key is to gather as much information as you can. Ask questions, even if you think someone might not have the answer. Sometimes, a small detail from an unexpected source can be the missing piece you need.
+If you ever find yourself in a similar spot (whether it’s in a kitchen, a library, or any other field) the key is to gather as much information as you can. Ask questions, even if you think someone might not have the answer. Sometimes, a small detail from an unexpected source can be the missing piece you need.
 
-I rely on note-taking apps to keep track of everything. I use Bear for quick notes, and sometimes Things 3 or Sortee for organizing tasks. I even set timers for myself—thirty minutes to solve a specific problem in the code, for example. This helps me stay focused and gives me a sense of urgency.
+I rely on note-taking apps to keep track of everything. I use Bear for quick notes, and sometimes Things 3 or Sortee for organizing tasks. I even set timers for myself: thirty minutes to solve a specific problem in the code, for example. This helps me stay focused and gives me a sense of urgency.
 
 {{< figure src="https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9ibGVtJTIwc29sdmluZyUyMHVuY2VydGFpbnR5JTIwYWRhcHRhYmlsaXR5fGVufDB8MHx8fDE3NTc0NjE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="How To Solve A Rubik’s Cube" title="How to Solve Any Problem When You Have No Idea Where to Start" caption="How to Solve Any Problem When You Have No Idea Where to Start - Photo by [Olav Ahrens Røtne](https://unsplash.com/@olav_ahrens) on [Unsplash](https://unsplash.com/photos/person-playing-magic-cube-4Ennrbj1svk)" >}}
 
-And yes, sometimes I reward myself with a session in the jacuzzi. If I can combine work with pleasure, why not? There’s a French saying for this: *joindre l’utile à l’agréable*—to combine the useful with the pleasant. If you can do that, you’re already winning.
+And yes, sometimes I reward myself with a session in the jacuzzi. If I can combine work with pleasure, why not? There’s a French saying for this: *joindre l’utile à l’agréable*: to combine the useful with the pleasant. If you can do that, you’re already winning.
 
 Whenever I get stuck, I remind myself that the only real limits are the ones we set for ourselves. As children, our parents set boundaries for us, telling us what’s possible and what isn’t. We trust them, so we believe them. But as adults, we have to question those limits. Just because something seems impossible doesn’t mean it is. There’s always another way to look at a problem, another angle to try.
 
@@ -34,11 +34,11 @@ The next time you’re faced with something that seems impossible to understand,
 
 > *The only real limits are the ones we set for ourselves.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *If you can combine the useful with the pleasant, you’re already winning.*
 >
-> — French proverb
+> *French proverb*
 
 ---
 
@@ -49,7 +49,7 @@ The next time you’re faced with something that seems impossible to understand,
 - When you’re thrown into the unknown, start by gathering as much information as possible.
 - Take notes, ask questions, and don’t underestimate small clues from unexpected sources.
 - Use tools and time blocks to stay organized and focused.
-- Combine work with pleasure whenever you can—it makes the journey better.
+- Combine work with pleasure whenever you can; it makes the journey better.
 - The limits you believe in are often just in your head.
 
 ---

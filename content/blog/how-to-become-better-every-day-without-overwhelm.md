@@ -29,10 +29,10 @@ Thanks to technology, almost anything is possible. With a quick search, you can 
 Excuses only make us feel better in the moment, but they don’t help us move forward. Don’t let them hold you back. I truly believe in you. The goal is to improve a little every day. This is the power of small, consistent actions. Each day, do something just a bit better than yesterday, and over time, you’ll reach your ultimate goal.
 
 > *The journey of a thousand miles begins with a single step.*
-> — Lao Tzu
+> *Lao Tzu*
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-> — Robert Collier
+> *Robert Collier*
 
 ---
 

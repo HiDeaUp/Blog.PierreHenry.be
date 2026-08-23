@@ -23,10 +23,10 @@ It’s a bit like climbing a hill. At some point, you start going down, losing e
 {{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBzZWxmLWNhcmUlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MjUyMzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Recharge Your Motivation Without Long Breaks" caption="How to Recharge Your Motivation Without Long Breaks - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
 > *Sometimes the most productive thing you can do is relax.*  
-— Mark Black
+*Mark Black*
 
 > *Almost everything will work again if you unplug it for a few minutes, including you.*  
-— Anne Lamott
+*Anne Lamott*
 
 So, next time you feel your motivation slipping, don’t ignore it. Take a real break. Enjoy something that lifts your mood, even if it’s just for a few minutes. Visualize your goal, savor the feeling of progress, and let that energy carry you forward.
 

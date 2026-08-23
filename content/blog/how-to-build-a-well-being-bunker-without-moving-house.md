@@ -19,13 +19,13 @@ source_medium = "https://medium.com/@phenrysay/13e13e43662c"
 ## I BUILT MY OWN WELL-BEING BUNKER!!!
 ### How creating your own “well-being bunker” can change your life, wherever you live
 
-Have you ever thought about living in a protected bubble—a place where you can truly thrive? Imagine a seed planted in rich, fertile soil. It grows strong and fast, compared to one struggling by the side of a polluted road. The same goes for us. When we’re in the right environment, we grow better, faster, and happier.
+Have you ever thought about living in a protected bubble: a place where you can truly thrive? Imagine a seed planted in rich, fertile soil. It grows strong and fast, compared to one struggling by the side of a polluted road. The same goes for us. When we’re in the right environment, we grow better, faster, and happier.
 
-This idea is not just about where you live or how much money you have. It’s about creating your own “well-being bunker”—a space, both physical and mental, where you can feel safe, clear-headed, and positive.
+This idea is not just about where you live or how much money you have. It’s about creating your own “well-being bunker”: a space, both physical and mental, where you can feel safe, clear-headed, and positive.
 
-Let’s be honest: life can be tough, especially if you’re an entrepreneur or just trying to get by in a place with endless rules, paperwork, and taxes. Sure, you can succeed anywhere, but it’s much harder and takes more energy. When things are always difficult, you get tired, make more mistakes, and sometimes you just want to give up.
+Let’s be honest: life can be tough, especially if you’re an entrepreneur or just trying to get by in a place with constant rules, paperwork, and taxes. Sure, you can succeed anywhere, but it’s much harder and takes more energy. When things are always difficult, you get tired, make more mistakes, and sometimes you just want to give up.
 
-But what if you could build your own little world that lifts you up instead of dragging you down? A place that’s clean, safe, and filled with positive energy. A home where you don’t feel overwhelmed by clutter or chaos. This is the lifestyle I want to introduce to you—a life where you feel good, grow, and always have the energy to reach the next level.
+But what if you could build your own little world that lifts you up instead of dragging you down? A place that’s clean, safe, and filled with positive energy. A home where you don’t feel overwhelmed by clutter or chaos. This is the lifestyle I want to introduce to you: a life where you feel good, grow, and always have the energy to reach the next level.
 
 Now, you might say, “But I live in a tiny apartment, how can I have a beautiful life?” The truth is, it starts in your mind. And even if your space is small, you can make it wonderful.
 
@@ -35,13 +35,13 @@ Start by looking at everything you own. Most of us have so many things we never 
 
 The next step is to make your space pleasant to live in. For example, I like to keep doors and closets closed. Open doors and messy wardrobes make a place feel chaotic. It’s a small habit, but it makes a big difference. Don’t leave cabinets open, don’t leave things lying around. When you take something out, put it back right away. Clean as you go. Don’t let dishes pile up in the sink. It might seem like nothing, but all this mess adds to your mental load. Don’t leave scraps of paper or fabric lying around. Leave nothing out of place. This alone can change everything.
 
-After that, add some plants. Plants are cheap—at IKEA, you can get one for just a couple of euros. If you have money for candy, you have money for a plant. And honestly, candy is bad for you anyway. Cut out junk food and use the money you save to buy something that brings life and calm to your home. The same goes for cigarettes and other unhealthy habits.
+After that, add some plants. Plants are cheap: at IKEA, you can get one for just a couple of euros. If you have money for candy, you have money for a plant. And honestly, candy is bad for you anyway. Cut out junk food and use the money you save to buy something that brings life and calm to your home. The same goes for cigarettes and other unhealthy habits.
 
-> _“The space you create around you shapes the person you become.”_
-> — Unknown
+> _“The space you create around you affects the person you become.”_
+> *Unknown*
 
 > _“You don’t need more space. You need less stuff.”_
-> — Joshua Becker
+> *Joshua Becker*
 
 Building your own well-being bunker isn’t about having a big house or lots of money. It’s about making the most of what you have, clearing out what you don’t need, and filling your space with things that help you feel good and grow. It’s about habits, not excuses. Start small, and you’ll see big changes.
 
@@ -50,9 +50,9 @@ Building your own well-being bunker isn’t about having a big house or lots of 
 ---
 
 ## Key Takeaways
-- Your environment shapes your happiness and growth.
+- Your environment affects your happiness and growth.
 - Declutter: Store unused items, review in 3-6 months, and let go of what you don’t use.
-- Keep your space tidy—clean as you go, close doors and cabinets, and don’t let mess pile up.
+- Keep your space tidy: clean as you go, close doors and cabinets, and don’t let mess pile up.
 - Add plants for life and calm; swap junk food for something that brings you joy.
 - It’s not about where you live, but how you live in your space.
 

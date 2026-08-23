@@ -27,7 +27,7 @@ When you respect your own priorities, you’re not being selfish. You’re makin
 So, next time you’re stopped in the street or asked for a favor, remember: it’s okay to say, “I’m in a hurry, I have to go.” Your priorities matter. Take care of what’s important to you first. That’s how you can truly show up for others, too.
 
 > *If you are happy with yourself, you will be happier with others and give more to them.*
-— Pierre
+*Pierre*
 
 ---
 

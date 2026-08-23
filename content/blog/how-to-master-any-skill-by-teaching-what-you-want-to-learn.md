@@ -3,8 +3,8 @@ title = "How to Master Any Skill by Teaching What You Want to Learn"
 slug = "how-to-master-any-skill-by-teaching-what-you-want-to-learn"
 date = "2025-08-17T08:39:43.334864"
 draft = false
-description = "Have you ever tried to teach something you thought you knew well, only to realize you weren’t as good as you thought? That happened to me recently. I was working on a course about marketing, and I..."
-summary = "Have you ever tried to teach something you thought you knew well, only to realize you weren’t as good as you thought? That happened to me recently. I was working on a course about marketing, and I..."
+description = "Have you ever tried to teach something you thought you knew well, only to realize you weren’t as good as you thought? That happened to me while I was preparing a marketing lesson."
+summary = "Have you ever tried to teach something you thought you knew well, only to realize you weren’t as good as you thought? That happened to me while I was preparing a marketing lesson."
 tags = ["education", "learning", "mastery", "productivity", "self-improvement", "teaching"]
 priority = true
 priority_topics = ["productivity"]
@@ -14,13 +14,13 @@ source_medium = "https://medium.com/@phenrysay/9bdab3f47d3b"
 
 {{< figure src="https://images.unsplash.com/photo-1740817748373-118ed2375d3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx0ZWFjaGluZyUyMGxlYXJuaW5nJTIwbWFzdGVyeXxlbnwwfDB8fHwxNzU1MzgzOTgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word master on a table" title="How to Master Any Skill by Teaching What You Want to Learn" caption="How to Master Any Skill by Teaching What You Want to Learn - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-master-on-a-table-rSprlMBRvxQ)" >}}
 
-Have you ever tried to teach something you thought you knew well, only to realize you weren’t as good as you thought? That happened to me recently. I was working on a course about marketing, and I found myself struggling. I kept thinking, “How is this possible? I know this stuff!” But here’s the truth: explaining something clearly, in a way that makes sense to others, is much harder than just knowing it for yourself.
+Have you ever tried to teach something you thought you knew well, only to realize you weren’t as good as you thought? That happened to me recently. I was preparing a marketing lesson, and I found myself struggling. I kept thinking, “How is this possible? I know this stuff!” But here’s the truth: explaining something clearly, in a way that makes sense to others, is much harder than just knowing it for yourself.
 
 When you teach, you’re forced to restructure your knowledge. You have to make it simple, clear, and understandable for someone else. That’s not easy. In fact, it’s really tough. Even if you’re an expert in one area, when you start teaching a new topic, you’ll probably feel lost at first. You might know the material, but getting it out of your head and into someone else’s in a simple way is a whole different challenge.
 
 One of the biggest traps is jumping too quickly from beginner to advanced topics, or scattering your ideas everywhere because you’re excited. I know this is my weakness. I get passionate about a subject and want to share everything at once. But that just confuses the person on the other side of the screen. They get lost, and the message is lost with them.
 
-I realized this while looking at my own notes for the marketing course. They were all over the place. I had to stop and ask myself, “Pierre, what are you doing? You need to go step by step, be precise, and build things logically—like a mathematician or a historian.” But I’m more of an artist, a creative type, and I tend to jump around. I want to share everything, but in the end, it just becomes a mess.
+I realized this while looking at my teaching notes for the marketing lesson. They were all over the place. I had to stop and ask myself, “Pierre, what are you doing? You need to go step by step, be precise, and build things logically, like a mathematician or a historian.” But I’m more of an artist, a creative type, and I tend to jump around. I want to share everything, but in the end, it just becomes a mess.
 
 {{< figure src="https://images.unsplash.com/photo-1603205431143-ce58f21799a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0ZWFjaGluZyUyMGxlYXJuaW5nJTIwbWFzdGVyeXxlbnwwfDB8fHwxNzU1MzgzOTgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table w7sIj M5Xyc" title="How to Master Any Skill by Teaching What You Want to Learn" caption="How to Master Any Skill by Teaching What You Want to Learn - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc)" >}}
 
@@ -32,7 +32,7 @@ Even if you only teach for ten minutes a day, that adds up. After a week, that�
 
 > *Perseverance is not a long race; it is many short races one after the other.*
 >
-> —Walter Elliot
+> *Walter Elliot*
 
 So, if you want to get better every day, just take action. Don’t wait for the perfect moment. The best time to start is now. Every day, do a little bit more, and you’ll be amazed at how far you can go.
 
@@ -56,4 +56,4 @@ So, if you want to get better every day, just take action. Don’t wait for the 
 ## Reflection
 - What’s one thing you want to master? Could you try teaching it to someone else?
 - Are you comparing yourself to others, or just to your past self?
-- What’s one small step you can take today to become a better teacher—or learner?
+- What’s one small step you can take today to become a better teacher, or learner?

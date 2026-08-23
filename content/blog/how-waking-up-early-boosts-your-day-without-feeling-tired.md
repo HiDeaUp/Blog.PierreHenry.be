@@ -18,9 +18,9 @@ Waking up early is often praised, but few realize just how much it can change yo
 
 The first and perhaps most important benefit of waking up early is the routine it creates. By consistently getting up and going to bed at the same time, you train your body and mind. This regularity improves your sleep quality, even if you sleep a little less. Over time, your internal clock adapts so well that you might not even need an alarm anymore.
 
-Another advantage is the peace and quiet of the early morning. Distractions are rare. The world is still, and you have a window of calm—often an hour or two—just for yourself. This is precious time to focus on your projects and goals, free from interruptions, noise, or unexpected events. If you wake up around 5 or 5:30, you’ll find yourself with a stretch of tranquility that’s hard to find at any other time of day.
+Another advantage is the peace and quiet of the early morning. Distractions are rare. The world is still, and you have a window of calm (often an hour or two) just for yourself. This is precious time to focus on your projects and goals, free from interruptions, noise, or unexpected events. If you wake up around 5 or 5:30, you’ll find yourself with a stretch of tranquility that’s hard to find at any other time of day.
 
-Morning is also the best time to make real progress on what matters to you. When you work on your most important tasks first thing, you know nothing will get in the way. This sense of accomplishment sets a positive tone for the rest of the day. Even if you enjoy staying up late, starting your day early gives you the feeling that you have the whole day ahead. Compare that to waking up at 9 or 10 on weekends—by the time you’re out the door, it’s almost noon, and it feels like half the day is already gone.
+Morning is also the best time to make real progress on what matters to you. When you work on your most important tasks first thing, you know nothing will get in the way. This sense of accomplishment sets a positive tone for the rest of the day. Even if you enjoy staying up late, starting your day early gives you the feeling that you have the whole day ahead. Compare that to waking up at 9 or 10 on weekends: by the time you’re out the door, it’s almost noon, and it feels like half the day is already gone.
 
 {{< figure src="https://images.unsplash.com/photo-1585924015977-32fd3839c21f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3JuaW5nJTIwcm91dGluZSUyMHByb2R1Y3Rpdml0eSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnR8ZW58MHwwfHx8MTc1NjUyMzA4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="My creative desk setup." title="How Waking Up Early Boosts Your Day Without Feeling Tired" caption="How Waking Up Early Boosts Your Day Without Feeling Tired - Photo by [Milena Trifonova](https://unsplash.com/@milenatrifonova) on [Unsplash](https://unsplash.com/photos/white-and-blue-ceramic-mug-beside-black-and-silver-laptop-computer-on-white-table-0fkT8OJRofQ)" >}}
 
@@ -30,7 +30,7 @@ The way you start your morning is the foundation for everything that follows. If
 
 > *How you start your day is how you live your day. How you live your day is how you live your life.*
 >
-> — Louise Hay
+> *Louise Hay*
 
 If you want to feel fulfilled and happy, consider making early mornings a part of your life. It’s not about being perfect every day, but about giving yourself the best chance to thrive.
 

@@ -21,15 +21,15 @@ This feeling of being stuck, of watching life pass by without grabbing what you 
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> —Chinese Proverb
+> *Chinese Proverb*
 
 ### Why Wait? The Time and Money Trap
 
 A common excuse is, “I don’t have enough time or money.” But let’s be honest, we never really feel like we have enough of either. If you keep waiting for the perfect moment, it will never come. The real secret is to start with what you have, right now.
 
-Sometimes, I find myself just enjoying the simple things—like seeing my laptop on the bed, or remembering childhood pillow fights with friends and my sister. Those moments remind me that life is about the little joys, but also about taking action. If you want to become the person you admire, you have to start today.
+Sometimes, I find myself just enjoying the simple things, like seeing my laptop on the bed, or remembering childhood pillow fights with friends and my sister. Those moments remind me that life is about the little joys, but also about taking action. If you want to become the person you admire, you have to start today.
 
-### Take Initiative—Every Single Day
+### Take Initiative: Every Single Day
 
 Every day, I make it a point to take initiative. It’s not always easy to stay focused. In fact, staying on track is one of the hardest things for me. I try to tackle one project at a time. Right now, I’m working on a nutrition app called M Snap. It lets you scan your food and see if you’re eating in a balanced way. You can track your progress day by day and see if you’re on the right path or if you need to take better care of your health.
 
@@ -39,13 +39,13 @@ Designing this app took a lot of thought. I wanted it to be simple and easy to u
 
 ### Don’t Get Lost in Distractions
 
-It’s easy to lose your way. Sometimes, you start searching for something online—like the name of a celebrity who only ate spaghetti with parmesan on a reality show—and before you know it, hours have passed. You’ve done nothing meaningful. Years can go by like that if you’re not careful. You end up spending your time on distractions instead of building the life you want.
+It’s easy to lose your way. Sometimes, you start searching for something online (like the name of a celebrity who only ate spaghetti with parmesan on a reality show), and before you know it, hours have passed. You’ve done nothing meaningful. Years can go by like that if you’re not careful. You end up spending your time on distractions instead of building the life you want.
 
 > *You will never change your life until you change something you do daily. The secret of your success is found in your daily routine.*
 >
-> —John C. Maxwell
+> *John C. Maxwell*
 
-### Take Control—Start Now
+### Take Control: Start Now
 
 At some point, you have to take control of your life. For me, that meant building my app and creating new habits. It’s about making choices that move you forward, not just letting time slip away.
 
@@ -74,13 +74,13 @@ A lot of productivity advice focuses on working harder and being more discipline
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> —Dalai Lama
+> *Dalai Lama*
 
 ---
 
 ## Key Takeaways
 
-- *You only get one life—make it count.*
+- *You only get one life: make it count.*
 - *Start today, even if you don’t feel ready.*
 - *Focus on one thing at a time for real progress.*
 - *Track your habits and cut out distractions.*

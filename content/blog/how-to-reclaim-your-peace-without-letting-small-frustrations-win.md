@@ -18,23 +18,23 @@ Mental pollution is something we all face. It sneaks up on us, often when we lea
 
 Or perhaps you’re spending a day at an amusement park with your kids. You imagine laughter and fun, but instead, you’re stuck in a three-hour line for a ride, then another hour just to get food. The tension builds, your patience wears thin, and suddenly, the day feels ruined. You try to remind yourself, “It’s still a beautiful day, we’re here to have fun,” but sometimes it’s just too much. You can’t shake the feeling that things aren’t going as planned, and that disappointment colors everything.
 
-Why does this happen? Why do small setbacks have the power to spoil our mood, our day, or even our sense of self? The answer lies in how we handle the unexpected. Life rarely goes exactly as we imagine. There are always outside factors—delays, mistakes, misunderstandings. The real challenge is not avoiding these moments, but learning how to manage them.
+Why does this happen? Why do small setbacks have the power to spoil our mood, our day, or even our sense of self? The answer lies in how we handle the unexpected. Life rarely goes exactly as we imagine. There are always outside factors: delays, mistakes, misunderstandings. The real challenge is not avoiding these moments, but learning how to manage them.
 
 It’s not easy. Sometimes, mental pollution takes over. Frustration, anger, sadness, or even a deep sense of unease can settle in, giving us headaches and draining our energy. It can feel impossible to be ourselves, even when we try. Our minds wander, our attention slips, and we’re left feeling empty or disconnected.
 
 {{< figure src="https://images.unsplash.com/photo-1620147512372-9e00421556bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU1Mzg0NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of the word mental health" title="How to Reclaim Your Peace Without Letting Small Frustrations Win" caption="How to Reclaim Your Peace Without Letting Small Frustrations Win - Photo by [Marcel Strauß](https://unsplash.com/@martzzl) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-mental-health-nhUYyqi8yRE)" >}}
 
-But there are ways to break this cycle. One simple tool is conscious breathing. Try the triangle exercise: sit down, breathe in through your nose for three seconds, hold your breath for three seconds, then breathe out through your mouth for three seconds. Repeat this pattern—three, three, three. It’s a small act, but it can help clear away the mental fog and bring you back to yourself.
+But there are ways to break this cycle. One simple tool is conscious breathing. Try the triangle exercise: sit down, breathe in through your nose for three seconds, hold your breath for three seconds, then breathe out through your mouth for three seconds. Repeat this pattern: three, three, three. It’s a small act, but it can help clear away the mental fog and bring you back to yourself.
 
-Meditation can also help, though it’s not for everyone. Sometimes, just stepping outside for fresh air or taking a walk is enough. The key is to stop replaying what went wrong. Let your mind empty itself. Most of the problems that upset us are tiny in the grand scheme of things—mere specks in the universe. They don’t deserve the power to ruin our time, especially not the moments we share with those we love most.
+Meditation can also help, though it’s not for everyone. Sometimes, just stepping outside for fresh air or taking a walk is enough. The key is to stop replaying what went wrong. Let your mind empty itself. Most of the problems that upset us are tiny in the grand scheme of things: mere specks in the universe. They don’t deserve the power to ruin our time, especially not the moments we share with those we love most.
 
-Managing your mood and tension is essential. It’s about how you process these moments. Sometimes, you just can’t be yourself, no matter how hard you try, because your mind is elsewhere. Your soul feels absent. The solution is to come back to the basics—return to yourself.
+Managing your mood and tension is essential. It’s about how you process these moments. Sometimes, you just can’t be yourself, no matter how hard you try, because your mind is elsewhere. Your soul feels absent. The solution is to come back to the basics: return to yourself.
 
 > *“Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.”*  
-— Viktor E. Frankl
+: Viktor E. Frankl
 
 > *“You can’t stop the waves, but you can learn to surf.”*  
-— Jon Kabat-Zinn
+*Jon Kabat-Zinn*
 
 ---
 

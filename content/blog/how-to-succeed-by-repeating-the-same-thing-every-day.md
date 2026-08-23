@@ -22,7 +22,7 @@ source_medium = "https://medium.com/@phenrysay/c519fbc1f6d9"
 
 Life is a routine of repetition. To reach your goals, to get the results you want, you have to repeat, repeat, and repeat again. Practice is not just important, it is essential. You have to do it all day, every day. Nothing happens until you stack up enough repetitions of the things you need to master. Whether you want to become an expert, gain knowledge, or excel in your field, it all comes down to this: repetition.
 
-When you hear stories in the news about someone raising three billion euros, or someone winning a marathon, the headlines never mention the massive effort it took to get there. No one wants to read about the years of sacrifice and hard work behind the scenes. Instead, we see headlines like, “How This Person Made 3,000 Euros in Three Days.” It sounds magical, but it hides the reality: months, even years, of practice, failed projects, and endless trial and error.
+When you hear stories in the news about someone raising three billion euros, or someone winning a marathon, the headlines never mention the massive effort it took to get there. No one wants to read about the years of sacrifice and hard work behind the scenes. Instead, we see headlines like, “How This Person Made 3,000 Euros in Three Days.” It sounds magical, but it hides the reality: months, even years, of practice, failed projects, and constant trial and error.
 
 This kind of storytelling distorts our sense of reality. As spectators, we only see the shiny result, not the grind that made it possible. But the truth is, every day you have to practice. You have to build habits, repeat actions, and keep going, even when it feels pointless.
 
@@ -37,10 +37,10 @@ Sometimes, with enough practice, you develop a kind of sixth sense. You don’t 
 It’s the same for success, and really, for anything in life. You have to practice. So, start now. Practice the things you want to achieve in your field. That’s how you get better. That’s how you excel.
 
 > *Success is a process, not an event.*
-> — Unknown
+> *Unknown*
 
 > *Repetition is the mother of skill.*
-> — Tony Robbins
+> *Tony Robbins*
 
 ---
 

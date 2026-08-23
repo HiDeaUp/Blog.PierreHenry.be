@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/ac0198fd2e08"
 
 Self-confidence is one of those things everyone talks about, but few people really feel deep down. After a run, catching my breath, I realized how much energy and drive come from believing in yourself. When you have that spark, you stand tall, you say what you want to say, and you move through life with purpose. That’s what matters most.
 
-But let’s be honest: sometimes confidence slips away. We start thinking we’re less than others, that we don’t measure up. I caught myself comparing my height to a little kangaroo koala—silly, right? But it’s a reminder that comparison is a trap. The real key is practice. Confidence grows when you act with it, even if you’re not sure you have enough.
+But let’s be honest: sometimes confidence slips away. We start thinking we’re less than others, that we don’t measure up. I caught myself comparing my height to a little kangaroo koala: silly, right? But it’s a reminder that comparison is a trap. The real key is practice. Confidence grows when you act with it, even if you’re not sure you have enough.
 
 You might not know everything about every topic, but you definitely know more than others in some areas. That’s your strength. So why not go for it? Trust yourself. Life is too short to let self-doubt hold you back.
 
@@ -30,13 +30,13 @@ Here’s how I see it:
 2. **Don’t let judgment stop you.** Some people will always have opinions about who you are or what you do. Let them. Keep pushing forward, higher and further. That’s what really counts.
 3. **Take action.** Confidence comes from doing. Keep practicing, keep moving ahead. Every step builds your belief in yourself.
 
-I’m right there with you. If you want to go even further, I’ve poured my heart into resources that can help you grow.
+I’m right there with you.
 
 > *“Comparison is the thief of joy.”*  
-— Theodore Roosevelt
+*Theodore Roosevelt*
 
 > *“The only person you are destined to become is the person you decide to be.”*  
-— Ralph Waldo Emerson
+*Ralph Waldo Emerson*
 
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbWVudGFsJTIwc3RyZW5ndGh8ZW58MHwwfHx8MTc1NjUxMzY3MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Build Real Confidence Without Comparing Yourself" caption="How to Build Real Confidence Without Comparing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 

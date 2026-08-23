@@ -25,10 +25,10 @@ This kind of thing happens to all of us. We get caught up in small tasks and for
 Paying attention is a basic principle, but it’s easy to overlook. We often think we can multitask or rush through things, but that’s when mistakes happen. By slowing down and focusing on what we’re doing, we can avoid many little accidents and frustrations.
 
 > _The difference between ordinary and extraordinary is that little extra._
-— Jimmy Johnson
+*Jimmy Johnson*
 
 > _Attention is the rarest and purest form of generosity._
-— Simone Weil
+*Simone Weil*
 
 ---
 

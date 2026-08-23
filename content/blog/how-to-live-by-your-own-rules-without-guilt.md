@@ -3,8 +3,8 @@ title = "How to Live by Your Own Rules Without Guilt"
 slug = "how-to-live-by-your-own-rules-without-guilt"
 date = "2025-08-22T20:33:55.612682"
 draft = false
-description = "Living by your own choices means taking responsibility for your decisions and commitments. Many of us, shaped by our upbringing and environment, often feel indebted or obligated to give our time to..."
-summary = "Living by your own choices means taking responsibility for your decisions and commitments. Many of us, shaped by our upbringing and environment, often feel indebted or obligated to give our time to..."
+description = "Living by your own choices means taking responsibility for your decisions and commitments. Many of us, influenced by our upbringing and environment, often feel indebted or obligated to give our time to..."
+summary = "Living by your own choices means taking responsibility for your decisions and commitments. Many of us, influenced by our upbringing and environment, often feel indebted or obligated to give our time to..."
 tags = ["decision making", "freedom", "independence", "money", "personal growth", "productivity", "self-reliance", "self-transcendence", "tasks", "wealth"]
 priority = true
 priority_topics = ["money", "wealth", "self-transcendence", "tasks", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/922a9686acf5"
 
 {{< figure src="https://images.unsplash.com/photo-1604951029308-0edcb02b2e69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxpbmRlcGVuZGVuY2UlMjBzZWxmLXJlbGlhbmNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTg1ODgzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tourist in Sri Lanka on Pidurangala Rock." title="How to Live by Your Own Rules Without Guilt" caption="How to Live by Your Own Rules Without Guilt - Photo by [Joost Broeker](https://unsplash.com/@joostbroeker) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-person-standing-on-rock-formation-ag0s4Ft8YpM)" >}}
 
-Living by your own choices means taking responsibility for your decisions and commitments. Many of us, shaped by our upbringing and environment, often feel indebted or obligated to give our time to others. If someone stops us in the street, asks for help, or requests a favor, we feel we must say yes. But here’s the truth: your life belongs to you, and your time is your most precious asset.
+Living by your own choices means taking responsibility for your decisions and commitments. Many of us, influenced by our upbringing and environment, often feel indebted or obligated to give our time to others. If someone stops us in the street, asks for help, or requests a favor, we feel we must say yes. But here’s the truth: your life belongs to you, and your time is your most precious asset.
 
 Time is life. It’s your plate, your heritage, your legacy. Living well is about collecting experiences, not just ticking off tasks or pleasing others. Experiences are what fuel our energy and enthusiasm. They are what make us feel alive. Building a life rich in experiences is what truly sets us apart.
 
@@ -30,11 +30,11 @@ Often, we buy things or accumulate stuff, but rarely do these things bring us la
 
 That’s what I suggest you do: build a life full of experiences. Try new projects, both long-term and short-term. Experiment with habits, challenge your addictions, and change your perspective on what’s good or bad for you. Swap out old habits for better ones. Keep learning, keep growing.
 
-I’m always learning myself. I read, I test, I build in public. Every new project, every new habit, is another experience that shapes who I am. And I believe that if you focus on building your own foundation, your own way of living, you’ll find the same sense of freedom and fulfillment.
+I’m always learning myself. I read, I test, I build in public. Every new project, every new habit, is another experience that affects who I am. And I believe that if you focus on building your own foundation, your own way of living, you’ll find the same sense of freedom and fulfillment.
 
 > _If the path is beautiful and pleasant, you don’t ask where it leads._
 >
-> — Anatole France
+> *Anatole France*
 
 The goal of life is to be happy, to live a life that feels right for you, a life that’s truly yours. Don’t wait for tomorrow. Start today. Take action now.
 
@@ -43,7 +43,7 @@ The goal of life is to be happy, to live a life that feels right for you, a life
 ---
 
 ## Key Takeaways
-- Your time is your life—protect it.
+- Your time is your life: protect it.
 - True freedom means making your own choices, even if they’re not the cheapest or easiest.
 - Experiences matter more than things.
 - Try living by your own rules for at least 21 days to see real change.

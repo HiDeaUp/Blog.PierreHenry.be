@@ -24,7 +24,7 @@ The first step is to pause and take a hard look at your life. Ask yourself: Is t
 
 When you start making choices that align with your values, you’ll notice a boost in your self-confidence. You’ll feel more in control, and your self-esteem will grow. Bit by bit, you’ll get clearer about what you love and what’s important to you.
 
-## Stand Tall—Literally and Figuratively
+## Stand Tall: Literally and Figuratively
 
 {{< figure src="https://images.unsplash.com/photo-1689896506061-002a4a6c670d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjQwNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A pink with a quote on it" title="How to Realign Your Life Without Losing What Matters Most" caption="How to Realign Your Life Without Losing What Matters Most - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-pink-notebook-with-a-quote-on-it-1TWRYr7brTc)" >}}
 
@@ -43,12 +43,12 @@ It’s important to recognize these things about yourself. If I don’t get enou
 Arranging your daily habits and rituals to fit your real needs makes a huge difference. It’s one of the most important keys to a life that feels right. When you start living according to your own rules, you’ll see everything change for the better.
 
 > _“The privilege of a lifetime is to become who you truly are.”_  
-— Carl Jung
+*Carl Jung*
 
 {{< figure src="https://images.unsplash.com/photo-1516864356635-5688f0a3fe31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbGlmZSUyMGJhbGFuY2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjQwNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chasing the light in Yosemite" title="How to Realign Your Life Without Losing What Matters Most" caption="How to Realign Your Life Without Losing What Matters Most - Photo by [Grant Ritchie](https://unsplash.com/@grantritchie) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-on-rock-Jd2fqoX3z_0)" >}}
 
 > _“Happiness is when what you think, what you say, and what you do are in harmony.”_  
-— Mahatma Gandhi
+*Mahatma Gandhi*
 
 ---
 

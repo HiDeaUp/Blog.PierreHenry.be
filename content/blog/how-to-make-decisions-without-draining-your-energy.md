@@ -16,23 +16,23 @@ source_medium = "https://medium.com/@phenrysay/9cde4d43ac84"
 
 Every day, we face a mountain of choices. Some are big, some are small, but all of them take up space in our minds. Whether it’s deciding what to wear, what to eat, or when to send that email, each decision chips away at our mental energy. Sometimes, we hesitate or overthink, unsure of the right move or the perfect moment. This constant rumination can leave us feeling confused and stuck, making it even harder to move forward.
 
-One of the best ways to lighten this mental load is to reduce the number of decisions you have to make each day. Try to remove as many unnecessary choices as possible. For example, I always dress in the same color tones—blue, white, and beige. These colors go well together, so I never have to wonder what matches. I just get dressed and move on.
+One of the best ways to lighten this mental load is to reduce the number of decisions you have to make each day. Try to remove as many unnecessary choices as possible. For example, I always dress in the same color tones: blue, white, and beige. These colors go well together, so I never have to wonder what matches. I just get dressed and move on.
 
-The same goes for food. As a vegetarian, my options are already limited, which makes things easier. Most restaurants only offer one or two vegetarian dishes, so I pick one and that’s it. No endless menu scanning, no second-guessing. This minimalist approach saves me time and energy.
+The same goes for food. As a vegetarian, my options are already limited, which makes things easier. Most restaurants only offer one or two vegetarian dishes, so I pick one and that’s it. No constant menu scanning, no second-guessing. This minimalist approach saves me time and energy.
 
 {{< figure src="https://images.unsplash.com/photo-1612251018789-6dcc3b631f92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBoZWFsdGglMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjYzMjMwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="a college student studying at a coffee shop" title="How to Make Decisions Without Draining Your Energy" caption="How to Make Decisions Without Draining Your Energy - Photo by [Sam Battaglieri](https://unsplash.com/@st_b) on [Unsplash](https://unsplash.com/photos/woman-in-blue-shirt-sitting-by-the-table-_PXtCCQ4Dj0)" >}}
 
 But it’s not just about cutting down on choices. It’s also about learning to let go once a decision is made. When you pick something, stick with it. Even if it turns out not to be the best choice, at least you made a decision and can move forward. The word “decide” actually comes from the Latin “decidere,” which means “to cut off.” Once you decide, you cut off other options and move on. There’s no going back, and that’s a good thing.
 
-Sometimes, it helps to set a time limit for making decisions. Give yourself five or ten minutes, and when the time’s up, make your choice and don’t look back. This “time boxing” method keeps you from getting stuck in endless loops of indecision. It also frees up mental space for more important things, like creativity or meaningful work.
+Sometimes, it helps to set a time limit for making decisions. Give yourself five or ten minutes, and when the time’s up, make your choice and don’t look back. This “time boxing” method keeps you from getting stuck in constant loops of indecision. It also frees up mental space for more important things, like creativity or meaningful work.
 
-Remember, making decisions is a bit like playing the lottery. No one knows in advance which choice is best. You only find out after you’ve acted, and by then, it’s already done. So don’t waste hours or days waiting for the perfect moment—it rarely comes. Decide, move on, and keep living your life.
+Remember, making decisions is a bit like playing the lottery. No one knows in advance which choice is best. You only find out after you’ve acted, and by then, it’s already done. So don’t waste hours or days waiting for the perfect moment; it rarely comes. Decide, move on, and keep living your life.
 
 > *“Once you make a decision, the universe conspires to make it happen.”*  
-— Ralph Waldo Emerson
+*Ralph Waldo Emerson*
 
 > *“The risk of a wrong decision is preferable to the terror of indecision.”*  
-— Maimonides
+*Maimonides*
 
 {{< figure src="https://images.unsplash.com/photo-1713946598253-59d6418cb85b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBoZWFsdGglMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjYzMjMwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Middle-aged brunet sleeping at work putting head on table sitting at desk alone" title="How to Make Decisions Without Draining Your Energy" caption="How to Make Decisions Without Draining Your Energy - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-man-leaning-his-head-on-his-desk-ruXhnGsPLeg)" >}}
 

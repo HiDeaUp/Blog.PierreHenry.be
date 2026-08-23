@@ -3,8 +3,8 @@ title = "How to Find Calm Without Doing More"
 slug = "how-to-find-calm-without-doing-more"
 date = "2025-05-30T18:29:22.969632"
 draft = false
-description = "Finding time to rest and enjoy some peace is not just a luxury—it's essential. These days, stress seems to be everywhere. There's always something new to do, more tasks piling up, and our days are..."
-summary = "Finding time to rest and enjoy some peace is not just a luxury—it's essential. These days, stress seems to be everywhere. There's always something new to do, more tasks piling up, and our days are..."
+description = "Finding time to rest and enjoy some peace is not just a luxury; it's essential. These days, stress seems to be everywhere. There's always something new to do, more tasks piling up, and our days are..."
+summary = "Finding time to rest and enjoy some peace is not just a luxury; it's essential. These days, stress seems to be everywhere. There's always something new to do, more tasks piling up, and our days are..."
 tags = ["mental health", "productivity", "relaxation techniques", "serenity", "stress management", "tasks", "work-life balance"]
 priority = true
 priority_topics = ["tasks", "productivity"]
@@ -14,11 +14,11 @@ source_medium = "https://medium.com/@phenrysay/ff5c7daf1fcd"
 
 {{< figure src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwcmVsYXhhdGlvbiUyMHRlY2huaXF1ZXMlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0ODU5Mzc2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="healing hands" title="How to Find Calm Without Doing More" caption="How to Find Calm Without Doing More - Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/photos/person-holding-amber-glass-bottle-0MoF-Fe0w0A)" >}}
 
-Finding time to rest and enjoy some peace is not just a luxury—it's essential. These days, stress seems to be everywhere. There's always something new to do, more tasks piling up, and our days are still only 24 hours long. Yet, we keep adding more and more to our plates.
+Finding time to rest and enjoy some peace is not just a luxury; it's essential. These days, stress seems to be everywhere. There's always something new to do, more tasks piling up, and our days are still only 24 hours long. Yet, we keep adding more and more to our plates.
 
-We end up sleeping poorly, stressing out, and going to bed at odd hours. This only makes things worse. Fatigue sets in, and we feel overwhelmed. When you're overwhelmed, things rarely go well. This isn't just a personal problem—it's a sign of how our society works. We're always trying to show more, achieve more, and push ourselves further, whether it's with personal projects, investments, or at work. All of this adds a lot of stress.
+We end up sleeping poorly, stressing out, and going to bed at odd hours. This only makes things worse. Fatigue sets in, and we feel overwhelmed. When you're overwhelmed, things rarely go well. This isn't just a personal problem; it's a sign of how our society works. We're always trying to show more, achieve more, and push ourselves further, whether it's with personal projects, investments, or at work. All of this adds a lot of stress.
 
-To cope, we try to squeeze even more into our days. We cut back on sleep, go to bed at 2 a.m., and wake up late, rushing out the door in minutes to get to work. It's a never-ending cycle.
+To cope, we try to squeeze even more into our days. We cut back on sleep, go to bed at 2 a.m. and wake up late, rushing out the door in minutes to get to work. It's a never-ending cycle.
 
 {{< figure src="https://images.unsplash.com/photo-1494390248081-4e521a5940db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwcmVsYXhhdGlvbiUyMHRlY2huaXF1ZXMlMjBtZW50YWwlMjBoZWFsdGh8ZW58MHwwfHx8MTc0ODU5Mzc2MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Put together all of my favorite eats on one plate. Because, as much as I adore the kids homemade pancakes, a bowl of fresh fruit is what I really want for Mother’s Day." title="How to Find Calm Without Doing More" caption="How to Find Calm Without Doing More - Photo by [Brooke Lark](https://unsplash.com/@brookelark) on [Unsplash](https://unsplash.com/photos/black-and-red-cherries-on-white-bowl-nTZOILVZuOg)" >}}
 
@@ -41,7 +41,7 @@ So, do less. Do it better. And you'll feel calmer and more at peace.
 
 ## Action Steps
 - Choose a fixed bedtime and keep it.
-- Cut down your to-do list—prioritize what matters.
+- Cut down your to-do list: prioritize what matters.
 - Stop multitasking; do one thing at a time, and do it well.
 
 ## Reflection

@@ -32,11 +32,11 @@ But if you want to turn your passion into something more, think about how you ca
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 In the end, everyone wants a life and a job that feels good, where you are happy and fulfilled. If you can make money from it, even better. The real secret is to start now, not later. Look at your week, set a goal, and take the first step today. Question yourself, adjust as you go, and keep building, one small action at a time.
 
@@ -47,7 +47,7 @@ In the end, everyone wants a life and a job that feels good, where you are happy
 ## Key Takeaways
 - *Resilience is about steady, consistent action toward your goal.*
 - *Ten minutes a day adds up to big results over time.*
-- *Start now—waiting for the perfect moment only delays your progress.*
+- *Start now: waiting for the perfect moment only delays your progress.*
 - *Ask yourself the right questions and focus on what you love.*
 - *Combine passion and practicality for a happier, more fulfilling life.*
 

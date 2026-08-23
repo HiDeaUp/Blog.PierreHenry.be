@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/934be48a31b9"
 
 When you start looking at life with a long-term perspective, something magical happens. You begin to prepare for your future in a way that feels both exciting and meaningful. Imagine yourself five years from now. Maybe you dream of buying a house by a river, a lake, the sea, or even in the mountains of Switzerland or Austria. Personally, I picture myself owning a villa by the Gogost river, paddling on the water every morning. That image pushes me to act differently today.
 
-The beauty of thinking long-term is that it gives your daily actions a clear direction. Each morning, you can ask yourself: What project will I work on today? What will I learn? Every small thing you do shapes not only your future but also your character. It’s worth pausing to consider: Are my actions today bringing me closer to my goal, or pulling me away from it? If they’re helping, that’s fantastic. If not, it’s a sign that something needs to change.
+The beauty of thinking long-term is that it gives your daily actions a clear direction. Each morning, you can ask yourself: What project will I work on today? What will I learn? Every small thing you do affects not only your future but also your character. It’s worth pausing to consider: Are my actions today bringing me closer to my goal, or pulling me away from it? If they’re helping, that’s fantastic. If not, it’s a sign that something needs to change.
 
 The more you focus on your long-term goal, the more your daily life starts to align with it. Visualizing your dream, whether it’s a new home, a different lifestyle, or a personal achievement, keeps you motivated. The sense of fulfillment you get from moving closer to your goal, even in tiny steps, is incredibly rewarding.
 
@@ -27,10 +27,10 @@ Your dream might be a peaceful life in the countryside, surrounded by fields and
 Once you’ve found what makes you tick, make it visible. Set a photo of your dream house, your ideal village, or your future self as your computer or smartwatch background. If you want to become a public speaker, fill your space with images of speakers who inspire you. For me, my grandfather was a huge inspiration. He was an explorer who discovered Amazonian tribes and lived in Latin America for years. My mother spent her childhood there because of his adventures. Their stories have always pushed me to chase what makes me feel alive.
 
 > *The future belongs to those who believe in the beauty of their dreams.*
-> — Eleanor Roosevelt
+> *Eleanor Roosevelt*
 
 > *Small daily improvements are the key to staggering long-term results.*
-> — Robin Sharma
+> *Robin Sharma*
 
 Whatever your dream is, keep it close and let it guide your choices. Every day is a chance to move a little closer to the life you want.
 

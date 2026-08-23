@@ -16,11 +16,11 @@ source_medium = "https://medium.com/@phenrysay/ed144d6586e9"
 
 This morning, I found myself at Elisabeth Bay in Sydney. It’s a popular spot, and for good reason. Unlike the nearby marina, which is packed with boats and doesn’t really have a beach, Elisabeth Bay has a small stretch of sand where people come to swim. There’s something special about this place. Even though it attracts a crowd, it keeps its charm. When you come here early, around six or seven in the morning, it feels like your own private garden.
 
-Today, I went for a swim. The water was warm enough to attract plenty of little fish, which swam right up to my ankles. I even got stung by a jellyfish—my leg turned bright red—but I didn’t mind. There’s a gentle, welcoming atmosphere here. Sometimes you’ll hear someone playing guitar, or see families celebrating their children’s birthdays. Others come just to read, relax, or, like me, to talk and reflect.
+Today, I went for a swim. The water was warm enough to attract plenty of little fish, which swam right up to my ankles. I even got stung by a jellyfish (my leg turned bright red), but I didn’t mind. There’s a gentle, welcoming atmosphere here. Sometimes you’ll hear someone playing guitar, or see families celebrating their children’s birthdays. Others come just to read, relax, or, like me, to talk and reflect.
 
 This got me thinking about what it really takes to feel good in your daily life. Especially if you’re working a regular job, it’s easy to feel irritated or weighed down. Maybe your manager is getting on your nerves, or there’s a pressure you can’t quite put your finger on. It’s not always visible, but you feel it, like someone watching you from behind a window. That constant pressure can wear you down. You start to boil inside, and eventually, you might explode. Some days, you just don’t feel right. Maybe you have a headache, or you had a small argument with your partner, and suddenly the whole day feels off.
 
-So what can you do to fix it? How do you get back on track and stop these negative moments from repeating? After all, we only get one life. It’s important to love it, to have a life that lets you relax and feel good. Sometimes, all you need is a little cocoon—a moment to yourself where you can be amazed by the simplest things, just like a child. That sense of wonder, especially for the small stuff, is what brings real joy. It’s what makes you feel alive and creative.
+So what can you do to fix it? How do you get back on track and stop these negative moments from repeating? After all, we only get one life. It’s important to love it, to have a life that lets you relax and feel good. Sometimes, all you need is a little cocoon: a moment to yourself where you can be amazed by the simplest things, just like a child. That sense of wonder, especially for the small stuff, is what brings real joy. It’s what makes you feel alive and creative.
 
 {{< figure src="https://images.unsplash.com/photo-1642430206049-af570fbc75a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJvdXRpbmUlMjBzZWxmLWltcHJvdmVtZW50JTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2MDA3MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person on a dock near a body of water O1_0ecB ra4" title="How to Feel Good Again With a Simple Morning Walk" caption="How to Feel Good Again With a Simple Morning Walk - Photo by [Sara](https://unsplash.com/@eretree) on [Unsplash](https://unsplash.com/photos/a-person-standing-on-a-dock-near-a-body-of-water-O1_0ecB-ra4)" >}}
 
@@ -28,11 +28,11 @@ If you’re not feeling happy, if you’re not feeling well, that’s a problem 
 
 > *Happiness is not something ready made. It comes from your own actions.*
 > 
-> — Dalai Lama
+> *Dalai Lama*
 
 > *Sometimes, the smallest things take up the most room in your heart.*
 > 
-> — A. A. Milne
+> *A. A. Milne*
 
 ---
 

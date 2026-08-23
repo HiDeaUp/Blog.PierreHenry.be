@@ -67,7 +67,7 @@ See? Same logic, but way easier to read and update later. That's what I mean by 
 When you keep things simple, you make your life easier. You make your teammates' lives easier. You make your future self's life easier. And honestly, you make your users happier, too. Whether it's code, documentation, or just explaining what you did in a project, less is more.
 
 > "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."  
-> — Antoine de Saint-Exupéry
+> *Antoine de Saint-Exupéry*
 
 {{< figure src="https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxPY2NhbXMlMjBSYXpvciUyMHNpbXBsaWNpdHklMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzA2NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A screen with a bunch of lines on it" title="How to Write Less Code and Build Better Apps" caption="How to Write Less Code and Build Better Apps - Photo by [Bernd 📷 Dittrich](https://unsplash.com/@hdbernd) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-lines-on-it-aYosQyFcC8k)" >}}
 

@@ -28,7 +28,7 @@ But there’s a catch. If you enjoy something too often, it can lose its magic. 
 
 ## Don’t Let Pleasures Become Routine
 
-When a pleasure turns into a habit, it stops feeling special. For example, if you love watching movies, doing it every day might make it less enjoyable. You might even start to feel bored or less accomplished. The same goes for food. I love cheese—Camembert, blue cheese, feta, you name it. But if I eat it every day, it just becomes another meal. The pleasure fades.
+When a pleasure turns into a habit, it stops feeling special. For example, if you love watching movies, doing it every day might make it less enjoyable. You might even start to feel bored or less accomplished. The same goes for food. I love cheese: Camembert, blue cheese, feta, you name it. But if I eat it every day, it just becomes another meal. The pleasure fades.
 
 {{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2NTIwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find More Joy in Everyday Moments Without Changing Your Life" caption="How to Find More Joy in Everyday Moments Without Changing Your Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
@@ -42,19 +42,19 @@ This is a process. By tracking your mood and your pleasures, you can find the ri
 
 ## Make It Your Own Personal Project
 
-Think of this as a little project for yourself. It’s not work in the usual sense. The word “work” comes from the Latin “tripalium,” which means torture—so let’s not call it work! Instead, see it as a personal mission to improve your happiness and well-being.
+Think of this as a little project for yourself. It’s not work in the usual sense. The word “work” comes from the Latin “tripalium,” which means torture, so let’s not call it work! Instead, see it as a personal mission to improve your happiness and well-being.
 
 By paying attention to your pleasures, increasing them wisely, and keeping them special, you’ll find yourself feeling more fulfilled and content.
 
 ---
 
 > _Happiness is not something ready made. It comes from your own actions._
-— Dalai Lama
+*Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2NTIwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find More Joy in Everyday Moments Without Changing Your Life" caption="How to Find More Joy in Everyday Moments Without Changing Your Life - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 > _The little things? The little moments? They aren’t little._
-— Jon Kabat-Zinn
+*Jon Kabat-Zinn*
 
 ---
 

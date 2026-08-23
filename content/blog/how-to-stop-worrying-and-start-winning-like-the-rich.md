@@ -22,9 +22,9 @@ But what does “mistake” really mean? Most of us grew up thinking mistakes ar
 If you aim for something ambitious, you will make mistakes. Even with the best coach or mentor, you’ll still follow your own path, your own gut feeling. And just because something worked in the past doesn’t mean it will work now. Life is always changing. No one can predict the future. We don’t have a crystal ball. So, by definition, you’ll make choices that might not be the best, and that’s perfectly normal.
 
 > *“Success is not the absence of failure; it’s the persistence through failure.”*  
-> — Aisha Tyler
+> *Aisha Tyler*
 
-Worrying doesn’t fix anything. That’s nothing new. If you want to be happy, you have to stop sweating the small stuff. Those little problems that pop up—they’re just there. If you focus on problems, you’ll never be happy. You have to let go.
+Worrying doesn’t fix anything. That’s nothing new. If you want to be happy, you have to stop sweating the small stuff. Those little problems that pop up; they’re just there. If you focus on problems, you’ll never be happy. You have to let go.
 
 Letting go is a bit like holding a stinging nettle in your hand. If you grip it tightly, it hurts. But as soon as you let go, the pain stops. Worry is the same. If you hold on to it, it stings and weighs you down. But when you let go, you feel lighter, as if you’ve taken off a heavy coat. It’s like washing away the grime after a long day. Once you let go, the pain disappears.
 
@@ -38,17 +38,17 @@ Don’t just let life happen to you. Take action. Do things that have real resul
 
 Fear doesn’t protect you from danger. Often, we’re scared of what might happen, but worrying doesn’t change anything. In fact, it can ruin your whole day. And once a day is lost, you can’t get it back. There’s no backup, no restore button. That day is gone forever.
 
-So, if you’re anxious about tomorrow’s exam or a big meeting, remember: no one knows the future. We fear the unknown, but the only thing we can do is live in the present. Don’t think about what might happen. Let go of your worries. Take a hot bath, relax, and imagine shedding your worries like old clothes. Picture your anxiety as a nettle in your hand—let it go, throw it away, and feel the relief.
+So, if you’re anxious about tomorrow’s exam or a big meeting, remember: no one knows the future. We fear the unknown, but the only thing we can do is live in the present. Don’t think about what might happen. Let go of your worries. Take a hot bath, relax, and imagine shedding your worries like old clothes. Picture your anxiety as a nettle in your hand: let it go, throw it away, and feel the relief.
 
-Replace worry and stress with calm. Associate those anxious feelings with something positive—a hot chocolate, your favorite drink, or a cozy moment. The more you practice this, the easier it gets, and the more your life will change.
+Replace worry and stress with calm. Associate those anxious feelings with something positive: a hot chocolate, your favorite drink, or a cozy moment. The more you practice this, the easier it gets, and the more your life will change.
 
 > *“Worry does not empty tomorrow of its sorrow, it empties today of its strength.”*  
-> — Corrie ten Boom
+> *Corrie ten Boom*
 
 When you focus on your fears, you’re actually planning your own failure. The more you stress, the more you set yourself up to crash. If you let go of stress and focus on what’s good, you’ll feel free. It’s like a race car driver: if he focuses on not crashing, he’ll crash. But if he focuses on the road ahead, he’ll stay on track. Your life works the same way.
 
 > *“The greatest mistake you can make in life is to be continually fearing you will make one.”*  
-> — Elbert Hubbard
+> *Elbert Hubbard*
 
 {{< figure src="https://images.unsplash.com/photo-1632961974870-14d1f4fe4e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JyeSUyMG1pbmRzZXQlMjB3ZWFsdGh8ZW58MHwwfHx8MTc2ODIyMTgwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word worthy next to a bouquet of blue flowers" title="How to Stop Worrying and Start Winning Like the Rich" caption="How to Stop Worrying and Start Winning Like the Rich - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-worthy-next-to-a-bouquet-of-blue-flowers-PoBsRKy71jw)" >}}
 

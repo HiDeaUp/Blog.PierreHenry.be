@@ -20,9 +20,9 @@ Let’s break this down into simple, practical steps that can help you feel more
 
 ## Rethink Your Daily Routine
 
-Take a look at how your days are structured. If you spend too much time in front of a computer, try mixing things up. Alternate your activities: do some manual tasks, then switch to something social—maybe have a conversation or just take a break. Even something as simple as petting your cat or enjoying a cup of coffee or tea can reset your mind.
+Take a look at how your days are structured. If you spend too much time in front of a computer, try mixing things up. Alternate your activities: do some manual tasks, then switch to something social, maybe have a conversation or just take a break. Even something as simple as petting your cat or enjoying a cup of coffee or tea can reset your mind.
 
-After your break, get back to work. In the afternoon, consider changing your environment—work from a café or a park. This variety can make your days feel less repetitive and more enjoyable.
+After your break, get back to work. In the afternoon, consider changing your environment: work from a café or a park. This variety can make your days feel less repetitive and more enjoyable.
 
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBjaGFuZ2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Change Your Habits for More Confidence and Joy" caption="How to Change Your Habits for More Confidence and Joy - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
@@ -37,17 +37,17 @@ If you struggle with self-confidence or low self-esteem, remember that it’s so
 
 ## Balance Your Lifestyle
 
-A balanced lifestyle is key. Eat healthy, nutritious food. Choose content that supports your goals. If you want to boost your self-esteem, look for books, videos, or podcasts that encourage confidence and self-worth. Avoid “junk food” content that drags you down. What you consume—both physically and mentally—shapes how you feel.
+A balanced lifestyle is key. Eat healthy, nutritious food. Choose content that supports your goals. If you want to boost your self-esteem, look for books, videos, or podcasts that encourage confidence and self-worth. Avoid “junk food” content that drags you down. What you consume (both physically and mentally) affects how you feel.
 
 Try to change your activities every two hours. This keeps your mind fresh and your energy up. Mix physical, social, and creative tasks throughout your day.
 
 > _“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”_  
-— Aristotle
+*Aristotle*
 
 {{< figure src="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXQlMjBjaGFuZ2UlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1NTc3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface JD0D lReHFE" title="How to Change Your Habits for More Confidence and Joy" caption="How to Change Your Habits for More Confidence and Joy - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-JD0D-lReHFE)" >}}
 
 > _“Your habits will determine your future.”_  
-— Jack Canfield
+*Jack Canfield*
 
 ---
 
@@ -66,5 +66,5 @@ Try to change your activities every two hours. This keeps your mind fresh and yo
 
 ## Reflection
 - What small change can I make today to feel better?
-- Who in my life lifts me up—and who brings me down?
+- Who in my life lifts me up, and who brings me down?
 - Am I feeding my mind and body with what truly helps me grow?

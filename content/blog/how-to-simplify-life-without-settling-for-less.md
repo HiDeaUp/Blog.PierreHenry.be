@@ -3,8 +3,8 @@ title = "How to Simplify Life Without Settling for Less"
 slug = "how-to-simplify-life-without-settling-for-less"
 date = "2025-06-01T12:33:10.821882"
 draft = false
-description = "One thing I’ve learned about success—or rather, about the perseverance needed to succeed—is that you always have to iterate. It’s not enough to just do something for a week and hope for the best. Y..."
-summary = "One thing I’ve learned about success—or rather, about the perseverance needed to succeed—is that you always have to iterate. It’s not enough to just do something for a week and hope for the best. Y..."
+description = "One thing I’ve learned about success (or rather, about the perseverance needed to succeed) is that you always have to iterate. It’s not enough to just do something for a week and hope for the best. Y..."
+summary = "One thing I’ve learned about success (or rather, about the perseverance needed to succeed) is that you always have to iterate. It’s not enough to just do something for a week and hope for the best. Y..."
 tags = ["entrepreneurship", "perseverance", "perspective", "reflection", "self-improvement", "simplicity", "tasks"]
 priority = true
 priority_topics = ["tasks", "entrepreneurship"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/24574d8bd9f0"
 
 {{< figure src="https://images.unsplash.com/photo-1462774603919-1d8087e62cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzcGVjdGl2ZSUyMHNpbXBsaWNpdHklMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDg3NDUxODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Rockefeller sky" title="How to Simplify Life Without Settling for Less" caption="How to Simplify Life Without Settling for Less - Photo by [Anders Jildén](https://unsplash.com/@andersjilden) on [Unsplash](https://unsplash.com/photos/worms-eye-view-of-brown-building-TZCehSn-T-o)" >}}
 
-One thing I’ve learned about success—or rather, about the perseverance needed to succeed—is that you always have to iterate. It’s not enough to just do something for a week and hope for the best. You have to ask yourself: “Did this actually change anything?” Maybe you tried working a bit differently. Did it really make a difference in your work, in what you set up? Yes or no?
+One thing I’ve learned about success (or rather, about the perseverance needed to succeed) is that you always have to iterate. It’s not enough to just do something for a week and hope for the best. You have to ask yourself: “Did this actually change anything?” Maybe you tried working a bit differently. Did it really make a difference in your work, in what you set up? Yes or no?
 
 Let’s say you tried marketing a product. You spent $300 on ads. How many users did you actually convert? More importantly, how many of them stuck around and didn’t ask for a refund? What kind of users were the right ones? Was it the right acquisition channel? Maybe advertising is the way to go, but maybe you didn’t target the right audience. These are the kinds of questions you need to keep asking yourself.
 
@@ -22,14 +22,14 @@ Perseverance is your best ally, your closest friend. But it’s not just about p
 
 {{< figure src="https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzcGVjdGl2ZSUyMHNpbXBsaWNpdHklMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NDg3NDUxODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Breathe neon signage" title="How to Simplify Life Without Settling for Less" caption="How to Simplify Life Without Settling for Less - Photo by [Tim Goedhart](https://unsplash.com/@nofilter_noglory) on [Unsplash](https://unsplash.com/photos/breathe-neon-signage-vnpTRdmtQ30)" >}}
 
-You need to keep that drive, that urge to push yourself, to always want to do better. It can become an addiction—a good one. If you fall in love with your passion, with what you want to do, it’s powerful. Of course, you shouldn’t overdo it. Too much of anything is bad for you, and if you push too hard, you’ll end up disgusted or burnt out.
+You need to keep that drive, that urge to push yourself, to always want to do better. It can become an addiction: a good one. If you fall in love with your passion, with what you want to do, it’s powerful. Of course, you shouldn’t overdo it. Too much of anything is bad for you, and if you push too hard, you’ll end up disgusted or burnt out.
 
 Addiction, in this sense, is a bit like a habit. If you do something all the time, it becomes second nature. If one day you don’t do it, it feels strange, because you’re so used to it. That’s how you build momentum. By repeating, by iterating, by changing things up, by looking at what went well and what didn’t, you get closer to the success you want.
 
-It helps to do retrospectives at the end of your days. Ask yourself: Was today a good day? How could I have done things differently? Could I have changed something in my routine? Maybe tried a different acquisition channel? Maybe I was tired, not in great shape, didn’t sleep well—your lifestyle matters a lot.
+It helps to do retrospectives at the end of your days. Ask yourself: Was today a good day? How could I have done things differently? Could I have changed something in my routine? Maybe tried a different acquisition channel? Maybe I was tired, not at my best, didn’t sleep well: your lifestyle matters a lot.
 
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
-> — Robert Collier
+> *Robert Collier*
 
 The key is to keep moving, keep questioning, and keep improving. Don’t settle for “good enough.” The best day to take action is today.
 

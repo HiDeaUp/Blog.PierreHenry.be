@@ -27,10 +27,10 @@ If you want to go even further and truly transform your daily life, remember: fo
 It’s the same with simple things, like putting your glasses down somewhere and forgetting where you left them. You start looking for them, get distracted by something else, and end up feeling lost in your own life. The basic principle is simple: one thing at a time. It really does change everything. You’ll see more clearly, both literally and figuratively.
 
 > *“The successful warrior is the average man, with laser-like focus.”*  
-— Bruce Lee
+*Bruce Lee*
 
 > *“You will never reach your destination if you stop and throw stones at every dog that barks.”*  
-— Winston Churchill
+*Winston Churchill*
 
 ---
 

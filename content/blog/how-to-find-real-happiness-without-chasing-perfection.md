@@ -46,13 +46,13 @@ There are many ways to push yourself to complete tasks quickly and simply. The m
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmdWxmaWxsbWVudCUyMGhhcHBpbmVzcyUyMGxpZmUlMjBwdXJwb3NlfGVufDB8MHx8fDE3NTY4NTIwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow card with the words be the creator of your own" title="How to Find Real Happiness Without Chasing Perfection" caption="How to Find Real Happiness Without Chasing Perfection - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)" >}}
 
 > *The best way to get started is to quit talking and begin doing.*
 >
-> — Walt Disney
+> *Walt Disney*
 
 ---
 

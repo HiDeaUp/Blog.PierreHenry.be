@@ -28,7 +28,7 @@ Now, some people get motion sickness and can’t read or work during their commu
 
 If you’re comfortable working on the train, you can do even more. In Europe, first-class train tickets cost more, but that extra money can be a great investment if it gives you a quiet space to write, read, or work on your projects. I once read about an author who wrote a book every year just by using his daily train rides to write instead of scrolling through social media or sending messages. He used his commute to create something meaningful, something that would last.
 
-Sending a text or scrolling through your feed might feel like you’re doing something, but it’s like eating junk food for your brain. It doesn’t add real value. But writing a book, learning a new skill, or even just reflecting on your goals—these are things that can change your life.
+Sending a text or scrolling through your feed might feel like you’re doing something, but it’s like eating junk food for your brain. It doesn’t add real value. But writing a book, learning a new skill, or even just reflecting on your goals: these are things that can change your life.
 
 ## The Pareto Principle and Time Management
 
@@ -36,7 +36,7 @@ This brings me to the Pareto Principle: 80% of your results come from 20% of you
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2MDAwOTIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Every Hour Count Without Burning Out" caption="How to Make Every Hour Count Without Burning Out - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
-Delegate or eliminate tasks that don’t add value or that you don’t enjoy. If you’re a dentist, for example, don’t spend a whole week every year doing your own accounting just because you want control. Hire an expert. Yes, it costs money, but it frees up your time to do what you’re best at—and what brings you joy and real value. In the long run, this approach will make you richer, not just in money but in time and satisfaction.
+Delegate or eliminate tasks that don’t add value or that you don’t enjoy. If you’re a dentist, for example, don’t spend a whole week every year doing your own accounting just because you want control. Hire an expert. Yes, it costs money, but it frees up your time to do what you’re best at, and what brings you joy and real value. In the long run, this approach will make you richer, not just in money but in time and satisfaction.
 
 ## Time Is More Valuable Than Money
 
@@ -48,7 +48,7 @@ Try putting a price on your time. Decide that one hour of your life is worth 3,0
 
 Every Sunday, take a moment to look back at your week. Ask yourself: Did I use my time well? What went right? What could I have done better? Give yourself a score from 0 to 20. If you’re not satisfied, think about what you could change next week. Do the same every couple of hours during your day. Pause, reflect, and adjust.
 
-This habit of regular reflection is like a game. It keeps you sharp and helps you avoid falling into routines that don’t serve you. If you realize you’ve spent two hours in a pointless or even toxic conversation, ask yourself if you could have used that time better.
+This habit of regular reflection is like a game. It keeps you focused and helps you avoid falling into routines that don’t serve you. If you realize you’ve spent two hours in a pointless or even toxic conversation, ask yourself if you could have used that time better.
 
 ## Consistency Beats Intensity
 
@@ -64,15 +64,15 @@ Vision boards can help. Put up pictures of the life you want, the places you wan
 
 > *Daring is losing your balance for a moment. Not daring is losing your life.*
 > 
-> — Søren Kierkegaard
+> *Søren Kierkegaard*
 
 > *If you always do what you’ve always done, don’t expect a different life.*
 > 
-> — (Often attributed to Albert Einstein)
+> *(Often attributed to Albert Einstein)*
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*
 > 
-> — Chinese Proverb
+> *Chinese Proverb*
 
 Don’t wait for the perfect moment. Start now, even if it’s just a small step. Over time, those small steps will add up to something amazing.
 
@@ -80,11 +80,11 @@ Don’t wait for the perfect moment. Start now, even if it’s just a small step
 
 ## Key Takeaways
 
-- *We all have the same 24 hours—what matters is how we use them.*
+- *We all have the same 24 hours: what matters is how we use them.*
 - *Turn dead time (like commuting or waiting) into learning or creating time.*
 - *Delegate or eliminate tasks that don’t add value or joy.*
 - *Reflect weekly and daily on how you use your time, and adjust as needed.*
-- *Consistency is more powerful than intensity—small daily actions add up.*
+- *Consistency is more powerful than intensity: small daily actions add up.*
 - *Challenge your self-imposed limits and keep your vision in sight.*
 
 ---

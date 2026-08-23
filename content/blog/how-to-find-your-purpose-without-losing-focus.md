@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/6e5c46585d77"
 
 Having a vision is not just about dreaming big. It is about building something that lasts, something that grows with you over time. A good vision is simple, yet it allows you to set new goals as you move forward. It is the foundation for a life that feels meaningful and focused.
 
-We all have routines and habits. Sometimes, though, we get pulled away from our main vision. Friends, family, and even strangers can influence us. They might ask for help with small things—mowing the lawn, joining them for a surf session, or teaching a class. These requests are often pleasant and seem harmless. But we all have only 24 hours in a day. Every time you say yes to something else, you take time away from your own goals.
+We all have routines and habits. Sometimes, though, we get pulled away from our main vision. Friends, family, and even strangers can influence us. They might ask for help with small things: mowing the lawn, joining them for a surf session, or teaching a class. These requests are often pleasant and seem harmless. But we all have only 24 hours in a day. Every time you say yes to something else, you take time away from your own goals.
 
 Of course, taking breaks is important. Without them, you risk burning out and losing your edge. But knowing how to use your time well each day is just as important. When you have a clear vision, you know exactly what you need to do. You can set aside blocks of time that are non-negotiable. Nothing should disturb these moments. If you let small interruptions in, they start to add up. What seems like a one-time exception quickly becomes a habit.
 
@@ -31,10 +31,10 @@ But the truth is, you do not need to be perfect. What matters is discipline and 
 Positive self-talk helps too. Remind yourself that you have what it takes. Use affirmations to boost your confidence. Tell yourself you are the best at what you do. These simple habits can make a huge difference.
 
 > *Discipline is the bridge between goals and accomplishment.*
-> — Jim Rohn
+> *Jim Rohn*
 
 > *The secret of your future is hidden in your daily routine.*
-> — Mike Murdock
+> *Mike Murdock*
 
 ---
 

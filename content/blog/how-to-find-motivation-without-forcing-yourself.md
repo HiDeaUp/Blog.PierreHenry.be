@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/cabc61fbb763"
 
 {{< figure src="https://images.unsplash.com/photo-1640077596554-37bffdb7ce9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwcHJvamVjdCUyMG1hbmFnZW1lbnQlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2NjM4ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles the word plan start work" title="How to Find Motivation Without Forcing Yourself" caption="How to Find Motivation Without Forcing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-word-plan-start-work-V0A181B9n6Q)" >}}
 
-Have you ever noticed how some projects just light a fire inside you, while others feel like a chore? I was reflecting on this as I sat in my hotel room in Sydney, writing a bit for my book on my Freewrite device. I actually have two of them: a Freewrite Travel and a regular Freewrite. I love using them, even though they’re not magic tools, and they’re pretty expensive. What I really enjoy is supporting the community and the story behind the company.
+Have you ever noticed how some projects give you energy, while others feel like a chore? I was reflecting on this as I sat in my hotel room in Sydney, writing on my Freewrite device. I actually have two of them: a Freewrite Traveler and the original model.
 
 Right now, I’m in Sydney for my company’s Christmas party. I flew in and decided to stay for the weekend. The weather is beautiful, the sun is shining, and it’s the perfect setting to think about what truly motivates us.
 
@@ -30,15 +30,15 @@ For me, writing is something I love, but I found myself getting distracted on my
 
 Recently, I received a fantastic Australian book as a Christmas gift from my company. Everyone got a copy, and it made my weekend in Sydney even better. I’m staying here for four days, and I plan to take the book to Max Brenner, a chocolate café, to enjoy some sweets and a good read. These little things make my day feel successful and fulfilling.
 
-My advice is to find what will make your day feel “remade”—what will make you feel happier, more optimistic, and more satisfied with what you accomplish. Take some time to think about it and see what small changes you can make.
+My advice is to find what will make your day feel “remade”: what will make you feel happier, more optimistic, and more satisfied with what you accomplish. Take some time to think about it and see what small changes you can make.
 
 > *The key is not to prioritize what's on your schedule, but to schedule your priorities.*
 >
-> — Stephen Covey
+> *Stephen Covey*
 
 > *Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.*
 >
-> — Albert Schweitzer
+> *Albert Schweitzer*
 
 ---
 

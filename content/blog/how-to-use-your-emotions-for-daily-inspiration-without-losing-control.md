@@ -25,10 +25,10 @@ Imagine yourself as the pilot of your own emotions. You are in charge. The emoti
 This way of living does not happen overnight. It takes practice and patience. The more you work on it, the more natural it becomes. Over time, you will find better opportunities and avoid regrets from situations where emotions once got the better of you.
 
 > *“You are the pilot of your emotions. Let them ride with you, but never let them steer.”*  
-— Pierre
+*Pierre*
 
 > *“Feelings are much like waves. We can’t stop them from coming but we can choose which one to surf.”*  
-— Jonatan Mårtensson
+*Jonatan Mårtensson*
 
 ---
 

@@ -3,8 +3,8 @@ title = "How to Stay Focused Without Saying Yes to Everything"
 slug = "how-to-stay-focused-without-saying-yes-to-everything"
 date = "2025-08-19T22:16:04.176230"
 draft = false
-description = "It’s surprisingly easy to get pulled away from what really matters—whether in your business or your personal life. Distractions don’t always look like scrolling on your phone or watching TV. Someti..."
-summary = "It’s surprisingly easy to get pulled away from what really matters—whether in your business or your personal life. Distractions don’t always look like scrolling on your phone or watching TV. Someti..."
+description = "It’s surprisingly easy to get pulled away from what really matters: whether in your business or your personal life. Distractions don’t always look like scrolling on your phone or watching TV. Someti..."
+summary = "It’s surprisingly easy to get pulled away from what really matters: whether in your business or your personal life. Distractions don’t always look like scrolling on your phone or watching TV. Someti..."
 tags = ["distractions", "entrepreneurship", "focus", "freelancing", "money", "productivity", "project management", "tasks", "tech", "time management"]
 priority = true
 priority_topics = ["tech", "money", "time management", "tasks", "productivity", "entrepreneurship"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/8ed187f90f82"
 
 {{< figure src="https://images.unsplash.com/photo-1692699203597-b5a4464f3f9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aXZpdHklMjBmb2N1cyUyMHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTU2MDU3NjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles project update on a table" title="How to Stay Focused Without Saying Yes to Everything" caption="How to Stay Focused Without Saying Yes to Everything - Photo by [Matilda Alloway](https://unsplash.com/@matildaonthemove) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-project-update-on-a-table-21mUU21Z20Q)" >}}
 
-It’s surprisingly easy to get pulled away from what really matters—whether in your business or your personal life. Distractions don’t always look like scrolling on your phone or watching TV. Sometimes, they come disguised as opportunities, requests for help, or small tasks that seem harmless to accept.
+It’s surprisingly easy to get pulled away from what really matters: whether in your business or your personal life. Distractions don’t always look like scrolling on your phone or watching TV. Sometimes, they come disguised as opportunities, requests for help, or small tasks that seem harmless to accept.
 
 If you’re a freelancer, you know how tempting it is to say yes to every job that comes your way. Maybe a client asks you to tweak their website, proofread a document, or do some maintenance work. Sure, you know how to do it. But is it really what you want to focus on? Is it your area of expertise, or is it just another thing pulling you away from your main goal?
 
@@ -28,17 +28,17 @@ The same thing happens with clients. If you’re a freelancer, clients might ask
 
 If you run a web agency and usually build sites with PHP, HTML, CSS, and React, you might get requests for sites in Plone, Django, Java Spring, or even C. Maybe someone on your team knows a bit about these, but taking on these projects adds more complexity. Soon, word gets around that you “also do” these other things, and you end up with more requests outside your core expertise. Your team spends more time learning and less time delivering what you’re really good at. The business slows down, and you drift away from your main value.
 
-It’s important to say yes only to the things you know how to do and actually want to do—things that match your short- and long-term goals and your core values. Don’t say yes just to please others or for a quick extra paycheck. In the long run, it slows you down, adds complexity, and takes you further from a simple, manageable business.
+It’s important to say yes only to the things you know how to do and actually want to do: things that match your short- and long-term goals and your core values. Don’t say yes just to please others or for a quick extra paycheck. In the long run, it slows you down, adds complexity, and takes you further from a simple, manageable business.
 
 Being an expert in one thing is much better than trying to juggle ten, twenty, or fifty different things at once. At first, it might seem manageable, but soon it becomes a burden. Once you commit, you have to see it through, so think twice before saying yes.
 
 > *Saying yes to everything means saying no to your own priorities.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *Complexity is the enemy of execution.*
 >
-> — Tony Robbins
+> *Tony Robbins*
 
 ---
 
@@ -53,7 +53,7 @@ Being an expert in one thing is much better than trying to juggle ten, twenty, o
 
 ## Action Steps
 
-- Review your current commitments—are they aligned with your main goals?
+- Review your current commitments: are they aligned with your main goals?
 - Practice saying no politely but firmly.
 - Teach others to handle their own tasks when possible.
 - Regularly remind yourself of your core mission.

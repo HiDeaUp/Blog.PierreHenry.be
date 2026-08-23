@@ -3,8 +3,8 @@ title = "How to Boost DevOps Efficiency Without Extra Costs"
 slug = "how-to-boost-devops-efficiency-without-extra-costs"
 date = "2025-12-30T09:31:55.055349"
 draft = false
-description = "Alright, let’s get straight into it. I use Cloudflare for pretty much everything—DNS, image delivery, and especially for DDoS protection. If you haven’t tried Cloudflare for images, you’re missing..."
-summary = "Alright, let’s get straight into it. I use Cloudflare for pretty much everything—DNS, image delivery, and especially for DDoS protection. If you haven’t tried Cloudflare for images, you’re missing..."
+description = "Alright, let’s get straight into it. I use Cloudflare for pretty much everything: DNS, image delivery, and especially for DDoS protection. If you haven’t tried Cloudflare for images, you’re missing..."
+summary = "Alright, let’s get straight into it. I use Cloudflare for pretty much everything: DNS, image delivery, and especially for DDoS protection. If you haven’t tried Cloudflare for images, you’re missing..."
 tags = ["aws credits", "cloudflare", "deployment pipelines", "devops", "entrepreneurship", "infrastructure", "productivity"]
 priority = true
 priority_topics = ["productivity", "entrepreneurship"]
@@ -14,11 +14,11 @@ source_medium = "https://medium.com/@phenrysay/49eaef26e314"
 
 {{< figure src="https://images.unsplash.com/photo-1759683745502-e3149b844ddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxEZXZPcHMlMjBDbG91ZGZsYXJlJTIwQVdTJTIwQ3JlZGl0c3xlbnwwfDB8fHwxNzY3MDQ3NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="People ride on a trolley car in the city" title="How to Boost DevOps Efficiency Without Extra Costs" caption="How to Boost DevOps Efficiency Without Extra Costs - Photo by [Jadon Johnson](https://unsplash.com/@jadonjohnson) on [Unsplash](https://unsplash.com/photos/people-ride-on-a-trolley-car-in-the-city-KEZ8ZmZtvHU)" >}}
 
-Alright, let’s get straight into it. I use Cloudflare for pretty much everything—DNS, image delivery, and especially for DDoS protection. If you haven’t tried Cloudflare for images, you’re missing out. It’s super efficient, and honestly, their free tier is surprisingly generous. I really like Cloudflare, and I recommend it to anyone who wants a simple, effective way to handle DNS and shield their stuff from attacks.
+Alright, let’s get straight into it. I use Cloudflare for pretty much everything: DNS, image delivery, and especially for DDoS protection. If you haven’t tried Cloudflare for images, you’re missing out. It’s super efficient, and honestly, their free tier is surprisingly generous. I really like Cloudflare, and I recommend it to anyone who wants a simple, effective way to handle DNS and shield their stuff from attacks.
 
 Now, let’s talk AWS. Getting free credits on AWS is way easier than most people think. You don’t have to be some big startup or even a registered company. Almost everyone can get AWS credits if you know where to look and how to apply. It’s not some secret club. Just go through the application process, and you’ll probably get a chunk of credits to play with.
 
-So, here’s how I usually set things up: I’ll have my Docker containers—Docker images, really—hosted on AWS. Everything sits there, nice and tidy. But the real game changer is setting up proper deployment pipelines for your team or department. This is where you move from “just running stuff in the cloud” to actually having a professional, repeatable process.
+So, here’s how I usually set things up: I’ll have my Docker containers (Docker images, really) hosted on AWS. Everything sits there, nice and tidy. But the real major improvement is setting up proper deployment pipelines for your team or department. This is where you move from “just running stuff in the cloud” to actually having a professional, repeatable process.
 
 If you’re a software architect, or you’re aiming to build something like a streaming video platform, you need to think about architecture from day one. That means not just spinning up containers, but designing your pipelines so you can deploy, test, and scale without headaches.
 
@@ -51,7 +51,7 @@ docker push <your-account-id>.dkr.ecr.us-east-1.amazonaws.com/my-app:latest
 
 ### Building Deployment Pipelines
 
-This is the part that separates hobby projects from real products. Set up CI/CD pipelines—GitHub Actions, GitLab CI, or AWS CodePipeline. Automate your builds, tests, and deployments. For a streaming video platform, you’ll want to automate everything from encoding to delivery.
+This is the part that separates hobby projects from real products. Set up CI/CD pipelines: GitHub Actions, GitLab CI, or AWS CodePipeline. Automate your builds, tests, and deployments. For a streaming video platform, you’ll want to automate everything from encoding to delivery.
 
 Here’s a simple pipeline step for deploying a Docker container with GitHub Actions:
 
@@ -83,13 +83,13 @@ jobs:
 The most important thing is to have a clear, automated process. Don’t rely on manual steps. If you’re building for scale, you need to think like an architect from the start.
 
 > “The best infrastructure is the one you don’t have to think about after you set it up.”  
-> — Me, after too many late-night deployments
+> *Me, after too many late-night deployments*
 
 ---
 
 ## Key Takeaways
 
-- Cloudflare is a must for DNS, image delivery, and DDoS protection—especially on the free tier.
+- Cloudflare is a must for DNS, image delivery, and DDoS protection, especially on the free tier.
 - AWS credits are easy to get, even if you’re not a big company. Use them to experiment and build.
 - Host your Docker images on AWS ECR for easy integration with deployment pipelines.
 - Automate everything with CI/CD pipelines. Manual deployments are for amateurs.

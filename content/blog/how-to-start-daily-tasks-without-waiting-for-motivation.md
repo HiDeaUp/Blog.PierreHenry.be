@@ -18,7 +18,7 @@ Sometimes, starting a task feels like climbing a mountain. You know you need to 
 
 Here’s the thing: if you rely on motivation to get things done, you’re setting yourself up for disappointment. Motivation is a mood. It comes and goes, just like a roller coaster. If you wait for that perfect moment when you feel motivated, you’ll end up skipping your tasks more often than not.
 
-The real secret? Make your tasks part of your routine. Think about brushing your teeth. You don’t ask yourself whether you feel like it or not—you just do it because it’s part of your day. The same principle applies to your work and creative projects. When you turn your tasks into habits, you remove the emotional debate. It’s no longer about “Do I feel like it?” but simply “Is it time to do it?”
+The real secret? Make your tasks part of your routine. Think about brushing your teeth. You don’t ask yourself whether you feel like it or not; you just do it because it’s part of your day. The same principle applies to your work and creative projects. When you turn your tasks into habits, you remove the emotional debate. It’s no longer about “Do I feel like it?” but simply “Is it time to do it?”
 
 {{< figure src="https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHRhc2tzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NjM5NTY4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile with words that spell out work rest play live" title="How to Start Daily Tasks Without Waiting for Motivation" caption="How to Start Daily Tasks Without Waiting for Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)" >}}
 
@@ -26,7 +26,7 @@ This approach might sound mechanical, but it’s surprisingly freeing. You stop 
 
 > *Motivation is what gets you started. Habit is what keeps you going.*
 >
-> —Jim Ryun
+> *Jim Ryun*
 
 So, next time you’re hesitating to start, remember: don’t wait for motivation. Build routines that carry you forward, even when you’d rather do anything else.
 
@@ -35,7 +35,7 @@ So, next time you’re hesitating to start, remember: don’t wait for motivatio
 ## Key Takeaways
 - Motivation is unreliable; it comes and goes.
 - Routines make starting tasks automatic.
-- Treat your important tasks like brushing your teeth—just do them, no questions asked.
+- Treat your important tasks like brushing your teeth: just do them, no questions asked.
 
 {{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMHRhc2tzJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2NjM5NTY4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Start Daily Tasks Without Waiting for Motivation" caption="How to Start Daily Tasks Without Waiting for Motivation - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 

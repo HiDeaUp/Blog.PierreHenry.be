@@ -20,7 +20,7 @@ Real happiness starts with knowing yourself. It’s easy to overlook your own va
 
 The more you question yourself, the more you’ll discover what makes you happy. This self-awareness is the first step toward a free and fulfilling life. Once you know what you enjoy, you can focus on repeating those things as much as possible. The more you fill your days with what you love, the happier you’ll become.
 
-{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLXJlZmxlY3Rpb24lMjBsaWZlJTIwcHVycG9zZXxlbnwwfDB8fHwxNzU2MTA3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
+{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLXJlZmxlY3Rpb24lMjBsaWZlJTIwcHVycG9zZXxlbnwwfDB8fHwxNzU2MTA3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley. Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact: zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
 
 A happy life isn’t about grand achievements. It’s about a collection of days where you feel good, fulfilled, and at peace with yourself. For me, that’s what a beautiful life looks like. It’s a life with few constraints, where you don’t constantly compare yourself to others or feel jealous. It’s about surrounding yourself with people who aren’t toxic, who aren’t out to bring you down, but who inspire you to become the person you want to be.
 
@@ -31,7 +31,7 @@ There’s a saying that you are the average of the three people you spend the mo
 So, it’s important to know yourself and choose your circle wisely. Surround yourself with people who reflect the person you want to become. This is the key to building a life that feels right for you.
 
 > *You are only as good as the people you surround yourself with.*
-> — Unknown
+> *Unknown*
 
 {{< figure src="https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBzZWxmLXJlZmxlY3Rpb24lMjBsaWZlJTIwcHVycG9zZXxlbnwwfDB8fHwxNzU2MTA3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow card with the words be the creator of your own" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)" >}}
 
@@ -41,7 +41,7 @@ So, it’s important to know yourself and choose your circle wisely. Surround yo
 - Happiness starts with knowing yourself and your values.
 - Fill your days with activities and people that truly make you happy.
 - Avoid comparing yourself to others or chasing their approval.
-- The people you spend time with shape who you become—choose them carefully.
+- The people you spend time with influence who you become: choose them carefully.
 
 ## Reflection
 - Who are the three people I spend the most time with?

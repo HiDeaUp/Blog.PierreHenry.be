@@ -18,17 +18,17 @@ When you become a freelancer or start your own business, the first feeling is fr
 
 ## The Hidden Challenge of Self-Motivation
 
-When you work for someone else, it’s simple. You wake up, you go to the office, you know the rules. If you don’t show up, there are consequences. But when you work for yourself, it’s a different story. Waking up at the same time every morning, saying no to friends who want to hang out, or even telling your family that you’re not available—these things become much harder. People around you might not understand that being at home doesn’t mean you’re free. You have to set boundaries, or better yet, rules for yourself.
+When you work for someone else, it’s simple. You wake up, you go to the office, you know the rules. If you don’t show up, there are consequences. But when you work for yourself, it’s a different story. Waking up at the same time every morning, saying no to friends who want to hang out, or even telling your family that you’re not available: these things become much harder. People around you might not understand that being at home doesn’t mean you’re free. You have to set boundaries, or better yet, rules for yourself.
 
 ## Setting Boundaries and Building Routines
 
-You need to create your own structure. For me, that meant deciding on a wake-up time and sticking to it, no matter what. I even joked about hanging a “Do Not Disturb” sign on my office door, just like in a hotel. Sometimes, I’d put on noise-canceling headphones or lock myself in a coworking space. In Australia, I tried many coworking spaces—Watso, Hub Australia—and these places helped me focus. During the pandemic, they were almost empty, which was perfect for getting work done. I could even use meeting rooms without booking them because nobody was around.
+You need to create your own structure. For me, that meant deciding on a wake-up time and sticking to it, no matter what. I even joked about hanging a “Do Not Disturb” sign on my office door, just like in a hotel. Sometimes, I’d put on noise-canceling headphones or lock myself in a coworking space. In Australia, I tried many coworking spaces (Watso, Hub Australia), and these places helped me focus. During the pandemic, they were almost empty, which was perfect for getting work done. I could even use meeting rooms without booking them because nobody was around.
 
-This regularity, these small habits, are what make the difference. Instead of relying on motivation—which comes and goes—I built routines. Every morning, I’d do the same things in the same order. Over time, these habits became automatic, and I didn’t have to think about them anymore.
+This regularity, these small habits, are what make the difference. Instead of relying on motivation (which comes and goes) I built routines. Every morning, I’d do the same things in the same order. Over time, these habits became automatic, and I didn’t have to think about them anymore.
 
 ## Lowering the Barriers to Start
 
-Often, we put things off not because we’re lazy, but because starting is hard. The first step feels heavy. So, I looked for ways to make starting easier. How could I make the beginning of a task as simple as possible? Sometimes, it’s about changing your environment. Maybe the problem isn’t you—it’s your surroundings. If your home is full of distractions, maybe you need to rearrange it or work somewhere else.
+Often, we put things off not because we’re lazy, but because starting is hard. The first step feels heavy. So, I looked for ways to make starting easier. How could I make the beginning of a task as simple as possible? Sometimes, it’s about changing your environment. Maybe the problem isn’t you; it’s your surroundings. If your home is full of distractions, maybe you need to rearrange it or work somewhere else.
 
 {{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMHNlbGYtZGlzY2lwbGluZSUyMGVudHJlcHJlbmV1cnNoaXB8ZW58MHwwfHx8MTc0OTM5OTAxMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline" caption="How to Build Real Freedom as a Freelancer WITHOUT Losing Discipline - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
@@ -36,18 +36,18 @@ You can also add friction to the things that distract you. For example, if scrol
 
 Instead, I switched to reading books on my Kindle before bed. No phone, no notifications. It helped me sleep better and gave me deeper knowledge, not just fast-food content.
 
-## Your Environment Shapes Your Success
+## Your Environment Affects Your Success
 
-Sometimes, the biggest obstacle is right in front of you, but you don’t see it. The people around you, the mood in your workspace, even the layout of your desk—all these things matter. If someone comes into your room in a bad mood, it can affect you. Try to maximize positive energy and minimize the negative.
+Sometimes, the biggest obstacle is right in front of you, but you don’t see it. The people around you, the mood in your workspace, even the layout of your desk: all these things matter. If someone comes into your room in a bad mood, it can affect you. Try to maximize positive energy and minimize the negative.
 
 Optimize your space so it lifts you up, not drags you down. The goal is to create an environment that pushes you forward.
 
 > *“Discipline equals freedom.”*  
-> — Jocko Willink
+> *Jocko Willink*
 
 ## Focus on What Matters Most
 
-Everyone wants to be independent. There are more freelancers than ever on platforms like Fiverr, Comet, Upwork, and PeoplePerHour. But before you can succeed, you need to build your portfolio. That means focusing on the efforts that really count—the famous 80/20 rule. Do the 20% of tasks that bring 80% of the results. Don’t waste time on things that don’t matter.
+Everyone wants to be independent. There are more freelancers than ever on platforms like Fiverr, Comet, Upwork, and PeoplePerHour. But before you can succeed, you need to build your portfolio. That means focusing on the efforts that really count: the famous 80/20 rule. Do the 20% of tasks that bring 80% of the results. Don’t waste time on things that don’t matter.
 
 Be minimalist with your time and energy. Do what truly brings you joy and fulfillment. At the end of the day, the goal is to be happy, to feel good about your life. That’s what I wish for you.
 
@@ -58,9 +58,9 @@ Be minimalist with your time and energy. Do what truly brings you joy and fulfil
 Success isn’t about giant leaps. It’s about small steps, one after another. Like writing a book: word by word, page by page. Your achievements will come from doing one task after another, until you reach your big goal.
 
 > *“The best time to plant a tree was twenty years ago. The second best time is now.”*  
-> — Chinese Proverb
+> *Chinese Proverb*
 
-Don’t wait for tomorrow. The best moment to act is today. If the path feels good, enjoy it. Don’t worry too much about where it leads—just keep moving.
+Don’t wait for tomorrow. The best moment to act is today. If the path feels good, enjoy it. Don’t worry too much about where it leads: just keep moving.
 
 ---
 

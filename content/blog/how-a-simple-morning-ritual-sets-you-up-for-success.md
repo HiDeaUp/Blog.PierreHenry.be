@@ -14,9 +14,9 @@ source_medium = "https://medium.com/@phenrysay/fcb14efea296"
 
 Many people underestimate the power of a good morning routine. For me, daily hygiene is not just about cleanliness, but about setting the right tone for the day. There are mornings when I haven’t slept enough or I struggle to wake up, even though I try to go to bed and get up at the same time. Life happens, and sometimes it’s just not possible.
 
-That’s why taking a shower in the morning is so important. It wakes you up, makes you feel fresh, and gives you a sense of starting anew. This isn’t just about being clean; it’s about your whole approach to life. You might think, “Isn’t it obvious? Why make a big deal out of taking a shower?” But here’s the thing—many people shower at night, and I do that too sometimes. After a long day, especially if you live in a big city like Paris or Brussels, you feel the pollution on your skin. It feels good to wash it all off before getting into bed, so you can sleep feeling clean.
+That’s why taking a shower in the morning is so important. It wakes you up, makes you feel fresh, and gives you a sense of starting anew. This isn’t just about being clean; it’s about your whole approach to life. You might think, “Isn’t it obvious? Why make a big deal out of taking a shower?” But here’s the thing: many people shower at night, and I do that too sometimes. After a long day, especially if you live in a big city like Paris or Brussels, you feel the pollution on your skin. It feels good to wash it all off before getting into bed, so you can sleep feeling clean.
 
-But if you don’t live in a big, polluted city—say, you’re in Adelaide, Sydney, or even London (which, by the way, is apparently very polluted because of the fog)—the feeling is different. You might not feel as dirty in the evening. Still, there’s something about a morning shower that changes everything. Even if you don’t want a full shower, just freshening up your body can make a big difference.
+But if you don’t live in a big, polluted city (say, you’re in Adelaide, Sydney, or even London (which, by the way, is apparently very polluted because of the fog)) the feeling is different. You might not feel as dirty in the evening. Still, there’s something about a morning shower that changes everything. Even if you don’t want a full shower, just freshening up your body can make a big difference.
 
 Another great way to start the day is to put on your sneakers and head straight to the gym. After a workout, you can take a shower there. Most gyms have showers, sinks, and shampoo. Sometimes you need to bring your own towel, but it’s simple. It might sound basic, but these small habits are what set you up for a great day.
 
@@ -28,7 +28,7 @@ Sometimes you wake up with a headache or just not feeling your best. That’s no
 
 > *A beautiful life is simply a collection of beautiful days.*
 >
-> — Anonymous
+> *Anonymous*
 
 Life is too short to spend your mornings feeling groggy, unwell, or struggling to wake up. Get up, take a shower, go for a walk, or hit the gym. These small actions change everything. I wish you all the best in building your own beautiful mornings, because a great day is the first step to a great life.
 
@@ -41,7 +41,7 @@ Life is too short to spend your mornings feeling groggy, unwell, or struggling t
 - A simple morning routine, like taking a shower or going to the gym, can transform your day.
 - Feeling fresh and clean helps you start with energy and positivity.
 - Small habits in the morning set the tone for everything you do.
-- Life is made up of many good days—start each one right.
+- Life is made up of many good days: start each one right.
 
 ---
 

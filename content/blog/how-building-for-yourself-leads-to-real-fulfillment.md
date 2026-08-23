@@ -3,8 +3,8 @@ title = "How Building for Yourself Leads to Real Fulfillment"
 slug = "how-building-for-yourself-leads-to-real-fulfillment"
 date = "2025-08-30T11:33:56.414941"
 draft = false
-description = "Have you ever felt the urge to create something just for yourself? Maybe you’ve dreamed of starting an investment fund, launching a startup, writing a book, or designing a course—maybe even a progr..."
-summary = "Have you ever felt the urge to create something just for yourself? Maybe you’ve dreamed of starting an investment fund, launching a startup, writing a book, or designing a course—maybe even a progr..."
+description = "Have you ever felt the urge to create something just for yourself? Maybe you’ve dreamed of starting an investment fund, launching a startup, writing a book, or designing a course, maybe even a progr..."
+summary = "Have you ever felt the urge to create something just for yourself? Maybe you’ve dreamed of starting an investment fund, launching a startup, writing a book, or designing a course, maybe even a progr..."
 tags = ["entrepreneurship", "goal setting", "money", "motivation", "personal development", "productivity", "self achievement", "self improvement", "self-transcendence", "tech", "time management"]
 priority = true
 priority_topics = ["tech", "money", "self-transcendence", "time management", "productivity", "entrepreneurship"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/4d34bc0e787e"
 
 {{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGFjaGlldmVtZW50JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNzYzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How Building for Yourself Leads to Real Fulfillment" caption="How Building for Yourself Leads to Real Fulfillment - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
-Have you ever felt the urge to create something just for yourself? Maybe you’ve dreamed of starting an investment fund, launching a startup, writing a book, or designing a course—maybe even a programming course. It could be something as simple as a wellness workshop, gardening, or even saving up to buy a Dalmatian. These personal projects, passions, or long-term visions—whatever you want to call them—are more important than we often admit.
+Have you ever felt the urge to create something just for yourself? Maybe you’ve dreamed of starting an investment fund, launching a startup, writing a book, or designing a course, maybe even a programming course. It could be something as simple as a wellness workshop, gardening, or even saving up to buy a Dalmatian. These personal projects, passions, or long-term visions (whatever you want to call them) are more important than we often admit.
 
 What really matters is that these goals are for you. Not the kind of goals that feel like chores, but the ones that genuinely bring you joy. There’s a big difference between an obligation and a personal ambition. Here, I’m talking about goals that improve your well-being, things you accomplish for yourself.
 
@@ -31,10 +31,10 @@ I truly wish you the best. I believe in you. I know you can go far with your pro
 ---
 
 > *The future belongs to those who believe in the beauty of their dreams.*
-— Eleanor Roosevelt
+*Eleanor Roosevelt*
 
 > *Happiness is not something ready made. It comes from your own actions.*
-— Dalai Lama
+*Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGFjaGlldmVtZW50JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNzYzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How Building for Yourself Leads to Real Fulfillment" caption="How Building for Yourself Leads to Real Fulfillment - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 

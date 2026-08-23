@@ -22,7 +22,7 @@ But what if you could be 100% present, even when the moment is not pleasant? Bei
 
 Of course, there is nothing wrong with enjoying good memories. Reminiscing about happy times can bring real joy. But if you spend all your time thinking about the past, you will never create new memories. You will always be stuck in what was, instead of living what is.
 
-The same goes for the future. It is easy to fall into the trap of worrying about what might happen. But the future does not exist yet. The best way to shape your future is to make good choices now, to build the life you want step by step.
+The same goes for the future. It is easy to fall into the trap of worrying about what might happen. But the future does not exist yet. The best way to build your future is to make good choices now, to build the life you want step by step.
 
 {{< figure src="https://images.unsplash.com/photo-1661972700757-25f8bbe0afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjAwNzU2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A girl making yoga on the beach" title="How to Live in the Present Without Dwelling on the Past" caption="How to Live in the Present Without Dwelling on the Past - Photo by [Julia Андрэй](https://unsplash.com/@foksia) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-beach-nJx5VV8cDeM)" >}}
 
@@ -30,27 +30,27 @@ I once wrote a note to myself:
 
 > *The best way to predict the future is to build it.*
 
-— Peter Drucker
+*Peter Drucker*
 
 If you are worried about your finances, for example, the way to a better future is to take action today. Worrying alone changes nothing. If you do not act, nothing new will happen. Nothing will fall from the sky. You have to be clear about what matters most to you and focus on that in the present.
 
-Living in the present lets you build your future and create more memories worth remembering. The past will always be there, but do not fall into the trap of living in it or letting it control you. The future is unknown, and worry will not solve anything. The best way to shape what comes next is to make the right choices now.
+Living in the present lets you build your future and create more memories worth remembering. The past will always be there, but do not fall into the trap of living in it or letting it control you. The future is unknown, and worry will not solve anything. The best way to influence what comes next is to make the right choices now.
 
 > *Worry never robs tomorrow of its sorrow, it only saps today of its joy.*
 
-— Leo Buscaglia
+*Leo Buscaglia*
 
 {{< figure src="https://images.unsplash.com/photo-1732998377326-e5c542a2f690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudCUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjAwNzU2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a log in the woods Zi" title="How to Live in the Present Without Dwelling on the Past" caption="How to Live in the Present Without Dwelling on the Past - Photo by [Emrecan Dora](https://unsplash.com/@emrecandora) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-log-in-the-woods-Zi-oIkhLvwU)" >}}
 
 > *Yesterday is history, tomorrow is a mystery, today is a gift. That is why it is called the present.*
 
-— Alice Morse Earle
+*Alice Morse Earle*
 
 ---
 
 ## Key Takeaways
 
-- *The present is the only real moment you have—make the most of it.*
+- *The present is the only real moment you have: make the most of it.*
 - *Dwelling on the past or worrying about the future keeps you from living now.*
-- *Taking action in the present is the best way to shape your future.*
+- *Taking action in the present is the best way to build your future.*
 - *Ask yourself: What is truly important to me right now? Am I living in the present or stuck in the past or future?*

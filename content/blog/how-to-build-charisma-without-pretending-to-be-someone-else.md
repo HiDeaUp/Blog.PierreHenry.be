@@ -18,21 +18,21 @@ Having a charisma that inspires is more than just a nice trait. It starts with a
 
 But real change begins when you pause, look yourself in the eye, and say, “This is the kind of person I want to become.” Sometimes, it helps to find inspiration in unexpected places. Television series, for example, can be a great source. Characters in shows like *How I Met Your Mother* or *Friends* are often exaggerated, with clear and strong personality traits. Because their characteristics are so obvious, it becomes easier to absorb and learn from them.
 
-You might find yourself drawn to a particular actor or actress. Maybe you think, “If I could be even 5% like that person, I’d be proud of myself.” The goal isn’t to become someone else, but to become a version of yourself that truly inspires you. It’s about shaping yourself into the type of person you admire.
+You might find yourself drawn to a particular actor or actress. Maybe you think, “If I could be even 5% like that person, I’d be proud of myself.” The goal isn’t to become someone else, but to become a version of yourself that truly inspires you. It’s about influencing yourself into the type of person you admire.
 
 This process is ongoing. Think of it as a continuous learning curve. Every day, ask yourself: What should I do today? How should I stand? Shoulders back, good posture. How do I speak? How do I dress? What does my environment look like? Who are my friends? Set reminders for yourself. For example, remind yourself to stand tall. At first, you might walk with perfect posture, but after five or ten minutes, you slip back into old habits. The same goes for speaking. Maybe you start out sounding confident, but soon your voice returns to its usual tone.
 
 {{< figure src="https://images.unsplash.com/photo-1651457178842-aa894704baac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjaGFyaXNtYSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTc0NjI2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Konica EFJ Fomapan 100" title="How to Build Charisma Without Pretending to Be Someone Else" caption="How to Build Charisma Without Pretending to Be Someone Else - Photo by [Qian Shawn](https://unsplash.com/@dejavusq) on [Unsplash](https://unsplash.com/photos/a-person-lying-on-the-ground-ygW1V1JxnqA)" >}}
 
-That’s why reminders are important. They help you stay on track and remember where you want to go. Bit by bit, you shape yourself into the person you want to be.
+That’s why reminders are important. They help you stay on track and remember where you want to go. Bit by bit, you influence yourself into the person you want to be.
 
 > *Charisma is not about being someone else. It’s about becoming the version of yourself that makes you proud.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *Every day is a chance to become the person you admire.*
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 

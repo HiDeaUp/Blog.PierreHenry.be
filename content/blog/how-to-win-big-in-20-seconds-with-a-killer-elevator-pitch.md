@@ -3,8 +3,8 @@ title = "How to Win Big in 20 Seconds With a Killer Elevator Pitch"
 slug = "how-to-win-big-in-20-seconds-with-a-killer-elevator-pitch"
 date = "2025-06-08T19:25:30.108299"
 draft = false
-description = "Imagine stepping into an elevator and realizing you have only a few seconds to introduce your startup idea to someone who could change your life—a potential investor, a future client, or even a tal..."
-summary = "Imagine stepping into an elevator and realizing you have only a few seconds to introduce your startup idea to someone who could change your life—a potential investor, a future client, or even a tal..."
+description = "Imagine stepping into an elevator and realizing you have only a few seconds to introduce your startup idea to someone who could change your life: a potential investor, a future client, or even a tal..."
+summary = "Imagine stepping into an elevator and realizing you have only a few seconds to introduce your startup idea to someone who could change your life: a potential investor, a future client, or even a tal..."
 tags = ["business communication", "elevator pitch", "entrepreneurship", "networking", "pitching", "productivity", "startup"]
 priority = true
 priority_topics = ["productivity", "entrepreneurship"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/2adc73c7d808"
 
 {{< figure src="https://images.unsplash.com/photo-1520110120835-c96534a4c984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbGV2YXRvciUyMHBpdGNoJTIwc3RhcnR1cCUyMG5ldHdvcmtpbmd8ZW58MHwwfHx8MTc0OTM3NDcyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Took some photos at a local tech event." title="How to Win Big in 20 Seconds With a Killer Elevator Pitch" caption="How to Win Big in 20 Seconds With a Killer Elevator Pitch - Photo by [Nik](https://unsplash.com/@helloimnik) on [Unsplash](https://unsplash.com/photos/man-sitting-on-blue-bean-bag-usinglaptop-73_kRzs9sqo)" >}}
 
-Imagine stepping into an elevator and realizing you have only a few seconds to introduce your startup idea to someone who could change your life—a potential investor, a future client, or even a talented person you want on your team. This is where the famous "elevator pitch" comes in. It’s not just about talking in an elevator; it’s about making the most of a brief moment to present your idea with clarity and spark real interest.
+Imagine stepping into an elevator and realizing you have only a few seconds to introduce your startup idea to someone who could change your life: a potential investor, a future client, or even a talented person you want on your team. This is where the famous "elevator pitch" comes in. It’s not just about talking in an elevator; it’s about making the most of a brief moment to present your idea with clarity and spark real interest.
 
 The elevator pitch is all about maturity and confidence. It’s your chance to show you believe in your project and can express it simply. You only have 10 or 20 seconds, so every word counts. The goal? Convince the other person before the elevator doors open.
 
@@ -22,15 +22,15 @@ Your elevator pitch will change depending on who you’re talking to. If you’r
 
 {{< figure src="https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbGV2YXRvciUyMHBpdGNoJTIwc3RhcnR1cCUyMG5ldHdvcmtpbmd8ZW58MHwwfHx8MTc0OTM3NDcyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Crowd of people in lobby" title="How to Win Big in 20 Seconds With a Killer Elevator Pitch" caption="How to Win Big in 20 Seconds With a Killer Elevator Pitch - Photo by [Product School](https://unsplash.com/@productschool) on [Unsplash](https://unsplash.com/photos/crowd-of-people-in-building-lobby-nOvIa_x_tfo)" >}}
 
-But no matter who’s in front of you, your pitch must be concise. In just a few words, the person should immediately understand what your startup does. Even better, they should feel a spark—something that makes them think, “Wow, I want to be part of this!” That’s the magic of a good elevator pitch.
+But no matter who’s in front of you, your pitch must be concise. In just a few words, the person should immediately understand what your startup does. Even better, they should feel a spark: something that makes them think, “Wow, I want to be part of this!” That’s the magic of a good elevator pitch.
 
 It’s not about reciting a script. It’s about being real, direct, and making your idea irresistible. When you speak with passion and clarity, people remember you. They want to know more, and sometimes, that’s all you need to get your foot in the door.
 
 > *“If you can’t explain it simply, you don’t understand it well enough.”*  
-> — Albert Einstein
+> *Albert Einstein*
 
 > *“You never get a second chance to make a first impression.”*  
-> — Will Rogers
+> *Will Rogers*
 
 So next time you find yourself with just a few seconds to share your idea, remember: be clear, be brief, and make it count. Sometimes, a single sentence can open doors you never imagined.
 

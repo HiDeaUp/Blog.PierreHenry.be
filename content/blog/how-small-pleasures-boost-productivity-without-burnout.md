@@ -22,17 +22,17 @@ Take my writing sessions, for example. I use a Freewrite, which is like a portab
 
 {{< figure src="https://images.unsplash.com/photo-1644371188561-6c8aa8601bc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbWFsbCUyMHBsZWFzdXJlcyUyMHByb2R1Y3Rpdml0eSUyMHdlbGwtYmVpbmd8ZW58MHwwfHx8MTc1NjUwNzE2OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman laying in a hammock reading a book" title="How Small Pleasures Boost Productivity Without Burnout" caption="How Small Pleasures Boost Productivity Without Burnout - Photo by [Emily Camp](https://unsplash.com/@mscamp0235) on [Unsplash](https://unsplash.com/photos/a-woman-laying-in-a-hammock-reading-a-book-MZ86day32Vs)" >}}
 
-These little rituals are more than just breaks. They’re personal moments that help you step out of your daily routine. Maybe you take a short trip, spend a few days in a new city, or head to the mountains—not for skiing or meeting celebrities, but to work on something important to you. A hotel room or a chalet in Norway or Sweden, it doesn’t matter where, as long as it gives you the space to write, code, read, or even do a quick “think week.”
+These little rituals are more than just breaks. They’re personal moments that help you step out of your daily routine. Maybe you take a short trip, spend a few days in a new city, or head to the mountains, not for skiing or meeting celebrities, but to work on something important to you. A hotel room or a chalet in Norway or Sweden, it doesn’t matter where, as long as it gives you the space to write, code, read, or even do a quick “think week.”
 
 I once wrote about “think weeks” on my site, and I still believe they’re a great way to step back, reflect, and move forward with your personal projects. The key is to know what you want to work on before you go. Even sitting in a café with a slice of cake, I ask myself, “What am I going to do now?” Sometimes, I continue building a food app that helps people track what they eat and make better choices. Other times, I just enjoy the moment and let ideas come.
 
 The point is to try these small moments for yourself. Step outside your routine, find a new spot, and give yourself permission to focus on your passion projects. These little pleasures can help you feel more aligned and motivated.
 
 > *“Sometimes, the smallest step in the right direction ends up being the biggest step of your life.”*  
-— Naeem Callaway
+*Naeem Callaway*
 
 > *“Take time to do what makes your soul happy.”*  
-— Unknown
+*Unknown*
 
 ---
 

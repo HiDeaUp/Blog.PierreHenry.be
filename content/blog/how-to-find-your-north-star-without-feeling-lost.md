@@ -47,10 +47,10 @@ At the end of each week, take a moment to reflect. What went well? What didn’t
 This habit of regular review helps you improve week after week. It’s not about being perfect, but about making steady progress.
 
 > _Living without a goal is like sailing without a compass._
-> — Josh Waitzkin
+> *Josh Waitzkin*
 
 > _If you don’t know where you’re going, any road will get you there._
-> — Lewis Carroll
+> *Lewis Carroll*
 
 ## The Taxi Metaphor
 

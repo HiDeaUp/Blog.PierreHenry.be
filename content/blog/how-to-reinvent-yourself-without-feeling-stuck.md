@@ -24,7 +24,7 @@ To move forward, you need to believe in your ideas. Perseverance and determinati
 
 {{< figure src="https://images.unsplash.com/photo-1632961975602-5339cb3569bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTExOTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block the word next to blue flowers" title="How to Reinvent Yourself Without Feeling Stuck" caption="How to Reinvent Yourself Without Feeling Stuck - Photo by [Alex Shute](https://unsplash.com/@faithgiant) on [Unsplash](https://unsplash.com/photos/a-wooden-block-spelling-the-word-devotion-next-to-blue-flowers-3i7OTG9ibh4)" >}}
 
-Reinvention means looking at life from a new angle. It’s about being willing to pivot, whether you run a business or just want to improve your daily routine. Take restaurants, for example. Many owners were hesitant to join delivery platforms like Uber Eats or Deliveroo. It’s understandable—they didn’t want to pay commissions or change their way of working. But these platforms opened up new opportunities and brought in new customers. The same goes for hotels using booking sites, or bookstores selling on Amazon. If you refuse to adapt, you risk falling behind.
+Reinvention means looking at life from a new angle. It’s about being willing to pivot, whether you run a business or just want to improve your daily routine. Take restaurants, for example. Many owners were hesitant to join delivery platforms like Uber Eats or Deliveroo. It’s understandable; they didn’t want to pay commissions or change their way of working. But these platforms opened up new opportunities and brought in new customers. The same goes for hotels using booking sites, or bookstores selling on Amazon. If you refuse to adapt, you risk falling behind.
 
 The world is always changing. To keep up, you need to adapt to new ways of doing things. At first, it might feel uncomfortable. But the more you travel, read, and expose yourself to new ideas, the easier it becomes. You’ll find yourself ahead of the curve, able to bounce back from setbacks and seize new opportunities.
 
@@ -32,11 +32,11 @@ Another key to reinvention is your environment. The people you spend time with, 
 
 > *The only limits that exist are the ones you create in your mind.*
 >
-> — Unknown
+> *Unknown*
 
 > *If you want something you’ve never had, you must be willing to do something you’ve never done.*
 >
-> — Thomas Jefferson
+> *Thomas Jefferson*
 
 So, don’t put off the changes you want to make. Start today. Reinventing yourself is not about becoming someone else, but about seeing new possibilities and giving yourself permission to try.
 
@@ -49,7 +49,7 @@ So, don’t put off the changes you want to make. Start today. Reinventing yours
 - *Your biggest limits are often self-imposed.*
 - *Changing your habits and environment can open new doors.*
 - *Surround yourself with people who inspire you to aim higher.*
-- *Start making small changes today—don’t wait for tomorrow.*
+- *Start making small changes today: don’t wait for tomorrow.*
 
 ## Reflection
 

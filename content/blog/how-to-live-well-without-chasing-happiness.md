@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/7b2029f791fb"
 
 Have you ever stopped to think about what it really means to live well? It sounds like a simple question, but it’s actually one of the most important things you can ask yourself. We all want a life that feels good, a life that lifts us up instead of dragging us down. But so often, we get stuck complaining about everything that’s wrong, forgetting that some things are just out of our hands.
 
-Here’s the truth: there are things you can control, and things you can’t. The weather, politics, the decisions made by your country—these are out of your reach. You can complain about them, but it won’t change a thing. All it does is fill your mind with noise and stress, leaving less room for what really matters.
+Here’s the truth: there are things you can control, and things you can’t. The weather, politics, the decisions made by your country: these are out of your reach. You can complain about them, but it won’t change a thing. All it does is fill your mind with noise and stress, leaving less room for what really matters.
 
 Instead, focus on what you can actually change. If your city is dirty, you can choose to move. If you don’t like your job, you can look for another. You can’t clean the whole city yourself, and you can’t single-handedly fix the government. But you are responsible for your own choices and actions.
 
@@ -26,11 +26,11 @@ This is the key: separate what you can control from what you can’t. Just doing
 
 When you put your energy into the small things you can change, those small things add up. Over time, they become big changes. Maybe you’ll even move to a new country if that’s what you want. And remember, nothing is forever. The place you move to might not always be better, and your home country might improve. Life is always changing, and the best thing you can do is keep moving forward, always looking for where you can grow.
 
-Don’t fall into the trap of thinking you’re stuck. You’re not here to suffer through life—you’re here to shape it. Be the actor, not the spectator. That’s the real difference.
+Don’t fall into the trap of thinking you’re stuck. You’re not here to suffer through life; you’re here to influence it. Be the actor, not the spectator. That’s the real difference.
 
 > *If the path is beautiful, we don’t even ask where it leads. If the journey of life feels good, that’s the real goal: to be happy, satisfied, and to have a life that truly fits us.*
 >
-> — Anonymous
+> *Anonymous*
 
 So, take a good look at your life. What can you change? What do you need to let go of? The beauty of life is in making these choices, raising your standards, and building the life you’ve always dreamed of. I believe in you 100%. You can do it. Go for it, and let’s work on this together.
 
@@ -41,7 +41,7 @@ So, take a good look at your life. What can you change? What do you need to let 
 ## Key Takeaways
 - *Focus on what you can control; let go of what you can’t.*
 - *Small changes in your daily life lead to big results over time.*
-- *You are the main character in your own life—don’t just watch, act.*
+- *You are the main character in your own life: don’t just watch, act.*
 - *Happiness comes from building a life that fits you, not from fixing the world.*
 
 ## Reflection

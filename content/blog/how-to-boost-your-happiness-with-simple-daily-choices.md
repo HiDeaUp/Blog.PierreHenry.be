@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/8e1269d084cc"
 
 {{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwaGFwcGluZXNzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NjUxMzU4OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Boost Your Happiness With Simple Daily Choices" caption="How to Boost Your Happiness With Simple Daily Choices - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
-Have you ever noticed how some mornings you wake up craving a coffee or a croissant, eager for a comforting breakfast? These little rituals are not just habits; they are part of your personal well-being routine. When you focus your energy on your well-being, especially on what feels most central to you—your happiness—everything else tends to fall into place more easily.
+Have you ever noticed how some mornings you wake up craving a coffee or a croissant, eager for a comforting breakfast? These little rituals are not just habits; they are part of your personal well-being routine. When you focus your energy on your well-being, especially on what feels most central to you (your happiness) everything else tends to fall into place more easily.
 
 The best advice I can give is to make your well-being a priority. Take time to step back and identify the things that truly contribute to your sense of happiness. Sometimes, it’s as simple as a warm croissant or a fresh cup of coffee. These small pleasures can genuinely lift your mood, even if, in the long run, a croissant every day might not be the healthiest choice. The key is to find comfort foods and routines that are also good for your health. For example, if you love kiwis or bananas, why not blend up a banana milkshake with yogurt? It’s delicious and nourishing.
 
@@ -28,11 +28,11 @@ If everyone took care of their own happiness and well-being, the world around us
 
 > _Happiness is not something ready made. It comes from your own actions._
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > _The best way to cheer yourself up is to try to cheer somebody else up._
 >
-> — Mark Twain
+> *Mark Twain*
 
 ---
 
@@ -42,7 +42,7 @@ If everyone took care of their own happiness and well-being, the world around us
 
 - *Well-being starts with small, daily choices that make you happy.*
 - *Identify and track what brings you joy, and look for ways to improve those moments.*
-- *Positive energy is contagious—your happiness can lift others, too.*
+- *Positive energy is contagious: your happiness can lift others, too.*
 - *Kindness and attention to detail in everyday interactions can transform your day.*
 
 ## Reflection

@@ -24,20 +24,20 @@ Right now, it’s almost noon. I just asked myself: *What have I done these last
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMHByb2R1Y3Rpdml0eSUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTYwMTIxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Boost Happiness and Productivity With One Simple Question" caption="How to Boost Happiness and Productivity With One Simple Question - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
-Reflecting on your happiness is just as important as managing your time. After all, the real goal in life is to be happy. By checking in with yourself throughout the day, you can see what actually makes you feel good and what doesn’t. You’ll start to notice patterns—certain times of day when you’re more productive or happier. Try to repeat those moments as much as possible.
+Reflecting on your happiness is just as important as managing your time. After all, the real goal in life is to be happy. By checking in with yourself throughout the day, you can see what actually makes you feel good and what doesn’t. You’ll start to notice patterns: certain times of day when you’re more productive or happier. Try to repeat those moments as much as possible.
 
 It’s also useful to spot the times when you’re tired or less motivated. That’s when you might switch to something lighter, like watching a documentary, listening to a podcast, reading, or even cooking. Mixing up your activities during the day can really boost your sense of fulfillment. If you spend all day doing just one thing, like programming or writing, you might not feel great by the evening. Variety is key.
 
-Remember, we only live once, and time goes by much faster than we think. It’s so easy to let life slip by without really living it. Act now. Do things that matter to you. Life isn’t meant to be endured—it’s meant to be loved and enjoyed. Bite into life with all your energy. Be happy. Find the best times for each activity, avoid what drags you down, and focus on what lifts you up.
+Remember, we only live once, and time goes by much faster than we think. It’s so easy to let life slip by without really living it. Act now. Do things that matter to you. Life isn’t meant to be endured; it’s meant to be loved and enjoyed. Bite into life with all your energy. Be happy. Find the best times for each activity, avoid what drags you down, and focus on what lifts you up.
 
 > *Life is not meant to be endured, but to be loved and enjoyed.*
-> — Anonymous
+> *Anonymous*
 
 > *If you lose two hours, that’s two hours of your life gone forever.*
-> — The Author
+> *The Author*
 
 > *The real goal in life is to be happy.*
-> — The Author
+> *The Author*
 
 ---
 
@@ -48,7 +48,7 @@ Remember, we only live once, and time goes by much faster than we think. It’s 
 - *Pause several times a day to ask if your time was well spent and if it made you happier or more fulfilled.*
 - *Notice when you’re most productive or happy, and try to repeat those moments.*
 - *Mix up your daily activities to boost your sense of fulfillment.*
-- *Don’t let life slip by—focus on what truly matters to you.*
+- *Don’t let life slip by: focus on what truly matters to you.*
 
 ## Reflection
 

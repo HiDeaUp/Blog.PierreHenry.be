@@ -26,13 +26,13 @@ What does that look like? It could be traveling, spending a weekend at a five-st
 
 Think about a trip to Antarctica, a journey to Costa Rica, or even taking a language course in another country. It could be a cooking class in your own city, learning Italian cuisine, or anything else that gives you a sense of immersion. Investing in experiences is the real key.
 
-I've noticed something important: people who struggle financially often spend their money on lots of things—big TVs, clothes, shoes, tables, and so on. Meanwhile, people who are financially comfortable use their money for life experiences, like conferences, webinars, or classes. This isn't about judging anyone. We're all here to grow and improve ourselves.
+I've noticed something important: people who struggle financially often spend their money on lots of things: big TVs, clothes, shoes, tables, and so on. Meanwhile, people who are financially comfortable use their money for life experiences, like conferences, webinars, or classes. This isn't about judging anyone. We're all here to grow and improve ourselves.
 
 > _“In the end, we only regret the chances we didn’t take.”_
-> — Lewis Carroll
+> *Lewis Carroll*
 
 > _“Fill your life with experiences, not things. Have stories to tell, not stuff to show.”_
-> — Unknown
+> *Unknown*
 
 ---
 

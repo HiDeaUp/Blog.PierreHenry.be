@@ -24,14 +24,14 @@ The trick is to create triggers that push you straight into action. For example,
 
 {{< figure src="https://images.unsplash.com/photo-1673865641439-bb57a00d9305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbGlmZSUyMGhhY2tzfGVufDB8MHx8fDE3NTY2MzU2NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man a cup of coffee while using a laptop pJFnESA YWI" title="How to Stop Wasting Days Without Forcing Productivity" caption="How to Stop Wasting Days Without Forcing Productivity - Photo by [Bermix Studio](https://unsplash.com/@bermixstudio) on [Unsplash](https://unsplash.com/photos/a-man-drinking-a-cup-of-coffee-while-using-a-laptop-pJFnESA-YWI)" >}}
 
-It’s like taking a shower or a bath. You don’t spend hours debating when to do it—you just do it. The same goes for your key tasks, even if they take more effort. The sooner you start, the easier it becomes.
+It’s like taking a shower or a bath. You don’t spend hours debating when to do it; you just do it. The same goes for your key tasks, even if they take more effort. The sooner you start, the easier it becomes.
 
 Here’s an even better tip: break every task into ten-minute chunks. If you have a big project, like recording a video or working through a course, don’t try to do it all at once. Just do ten minutes a day. By the end of the week, you’ll have made real progress, and it won’t feel overwhelming. Ten minutes is easy to start. But if you think about the whole two or three hours, you’ll keep putting it off.
 
 Brian Tracy talks about this in his book *Eat That Frog*. He says you should tackle your hardest task first thing in the morning. If you had to eat a frog, it’s better to do it right away than to spend the whole day dreading it. The longer you wait, the more space it takes up in your mind, and the harder it gets. But if you just do it, it’s over, and you can enjoy the rest of your day.
 
 > *If you have to eat a live frog, do it first thing in the morning. Nothing worse will happen to you the rest of the day.*
-> — Brian Tracy
+> *Brian Tracy*
 
 The real danger is not doing nothing, but getting stuck in a kind of limbo. You hesitate, you’re not sure what to do, so you end up snacking, scrolling on your phone, reading a few lines here and there, maybe wandering around the house. An hour passes, and nothing important has happened.
 
@@ -40,7 +40,7 @@ The solution is simple: act right away. Move from one task to the next, and cut 
 {{< figure src="https://images.unsplash.com/photo-1669384536177-8301c2f14ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbGlmZSUyMGhhY2tzfGVufDB8MHx8fDE3NTY2MzU2NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Circle eco-friendly sticker with go hack yourself logo applied to a stainless steel water bottle" title="How to Stop Wasting Days Without Forcing Productivity" caption="How to Stop Wasting Days Without Forcing Productivity - Photo by [Sticker it](https://unsplash.com/@stickerit_co) on [Unsplash](https://unsplash.com/photos/a-red-sign-on-a-glass-door-4zeJH14O2lQ)" >}}
 
 > *The best way to get something done is to begin.*
-> — Unknown
+> *Unknown*
 
 ---
 
@@ -49,7 +49,7 @@ The solution is simple: act right away. Move from one task to the next, and cut 
 - *Use triggers to move straight into your important tasks.*
 - *Break big tasks into ten-minute pieces to make them easier to start.*
 - *Do the hardest thing first, then enjoy the rest of your day.*
-- *Cut out the empty, indecisive moments—they’re the real time thieves.*
+- *Cut out the empty, indecisive moments; they’re the real time thieves.*
 
 ## Reflection
 - *What is one task I keep putting off that I could start right after my next routine activity?*

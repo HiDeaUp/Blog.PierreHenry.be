@@ -19,7 +19,7 @@ Taking control of your life starts with reorganizing your days. It’s about bui
 
 This habit is a real mental trap. We create mental clutter for no reason. For example, imagine you’re heading to a job interview. Before you’ve even been offered the job, your mind is already racing: “If I get hired, how will I get there every day? It’s a bit far, what about the commute?” But you haven’t even signed a contract yet! You’re worrying about a future that isn’t real.
 
-This is just human nature. We invent problems out of thin air and fill our minds with mental pollution that shouldn’t even be there. Instead of letting these thoughts take over, it’s time to take back control of your life. The first step is to breathe—literally.
+This is just human nature. We invent problems out of thin air and fill our minds with mental pollution that shouldn’t even be there. Instead of letting these thoughts take over, it’s time to take back control of your life. The first step is to breathe: literally.
 
 One of my favorite breathing exercises comes from sophrology. It’s simple and effective. I call it the “4-4 triangle.” Here’s how it works:
 
@@ -32,14 +32,14 @@ One of my favorite breathing exercises comes from sophrology. It’s simple and 
 That’s it. This small practice can make a huge difference. It helps clear your mind, reduces stress, and gives you a sense of calm. When you make space for this kind of breathing, you’ll notice a real shift in how you feel and how you live. You’ll find it easier to focus on what matters and stop feeding your mind with unnecessary worries.
 
 > *“Worry does not empty tomorrow of its sorrow, it empties today of its strength.”*  
-— Corrie ten Boom
+*Corrie ten Boom*
 
-Building a life you truly enjoy starts with these small steps. Instead of letting your mind spiral into endless “what ifs,” bring yourself back to the present. Focus on what you can control right now. Organize your day, set up routines that support you, and use simple tools like breathing exercises to keep your mind clear.
+Building a life you truly enjoy starts with these small steps. Instead of letting your mind spiral into constant “what ifs,” bring yourself back to the present. Focus on what you can control right now. Organize your day, set up routines that support you, and use simple tools like breathing exercises to keep your mind clear.
 
 Remember, most of the things we worry about never happen. The future is always different from what we imagine. So why waste your energy on problems that aren’t real? Take a moment to breathe, reset, and give yourself permission to live in the present.
 
 > *“You don’t have to control your thoughts. You just have to stop letting them control you.”*  
-— Dan Millman
+*Dan Millman*
 
 When you start to let go of imaginary problems and focus on what you can actually do today, you’ll notice a real change. Life becomes lighter, more enjoyable, and you’ll have more energy to put into the things that truly matter.
 
@@ -50,9 +50,9 @@ When you start to let go of imaginary problems and focus on what you can actuall
 ## Key Takeaways
 
 - *Reorganize your days to take control of your life.*
-- *Stop inventing problems that don’t exist—focus on the present.*
+- *Stop inventing problems that don’t exist: focus on the present.*
 - *Use simple breathing exercises like the 4-4 triangle to clear your mind.*
-- *Most worries are just mental clutter—let them go.*
+- *Most worries are just mental clutter: let them go.*
 - *A better routine leads to a life you actually enjoy.*
 
 ---

@@ -26,13 +26,13 @@ Having a goal, even a small one, can give your day meaning. It becomes the spark
 
 > *The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.*
 >
-> — Ralph Waldo Emerson
+> *Ralph Waldo Emerson*
 
 When you set a specific goal for your day, you give yourself a reason to act. It doesn't have to be something huge. Even a simple project can make a big difference in how you feel and what you achieve. The key is to find something that matters to you, something that makes you want to get up and get going.
 
 > *You are never too old to set another goal or to dream a new dream.*
 >
-> — C.S. Lewis
+> *C.S. Lewis*
 
 So next time you find yourself sleeping in and feeling like the day is slipping away, ask yourself: What is my goal today? What would make me excited to get up and start living?
 

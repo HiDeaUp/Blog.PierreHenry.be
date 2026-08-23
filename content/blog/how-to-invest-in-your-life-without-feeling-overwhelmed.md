@@ -22,7 +22,7 @@ You do not need to spend your entire day on it. Maybe you have a job, or you are
 
 {{< figure src="https://images.unsplash.com/photo-1689258594280-1f4124dfb8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGludmVzdG1lbnQlMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjAxNjI5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A of wooden blocks the words enjoy joy joy and" title="How to Invest in Your Life Without Feeling Overwhelmed" caption="How to Invest in Your Life Without Feeling Overwhelmed - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-of-wooden-blocks-spelling-the-words-enjoy-joy-joy-and-TFmkRvxPbSk)" >}}
 
-The key is to use your week and your time to focus on one thing. If you step back, you will notice how many distractions pull you away from your main goal. There are always chores and tasks: trimming the hedge, fixing the electricity, making dinner, or changing the bed. These are normal and necessary, but when it comes to your personal projects—like drawing, uploading videos, writing a book, or creating a new service—these are the things that need your full attention.
+The key is to use your week and your time to focus on one thing. If you step back, you will notice how many distractions pull you away from your main goal. There are always chores and tasks: trimming the hedge, fixing the electricity, making dinner, or changing the bed. These are normal and necessary, but when it comes to your personal projects (like drawing, uploading videos, writing a book, or creating a new service) these are the things that need your full attention.
 
 It is good to have a balanced day, mixing manual and intellectual activities. But often, we have so many ideas and tasks swirling in our heads that we end up spreading ourselves too thin. We feel busy, but we do not actually get anything done. That is the real message I want to share with you: this week, try focusing all your energy on just one thing.
 
@@ -32,7 +32,7 @@ The real power comes from focusing on one project, one goal, at a time. I wish y
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 It is also important to balance your activities. A rich and fulfilling day is not just about productivity, but about variety. Sometimes, spending the whole day in front of a computer leaves you feeling drained. Start by clearing out the clutter and building a solid foundation. Then, you can explore minimalism, different types of activities, and how to feel more fulfilled while achieving more. The goal is to enjoy your life and make the most of your freed-up time.
 

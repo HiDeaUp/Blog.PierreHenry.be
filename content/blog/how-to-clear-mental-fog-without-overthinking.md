@@ -30,17 +30,17 @@ I encourage you to try these simple exercises. Take time to relax and look at th
 
 When your mind is clear, you stop ruminating and start seeing things more clearly. You’ll often find you’re more creative and able to get things done. Mental pollution is toxic. Sometimes, you can’t even focus on an interesting video because your mind is elsewhere. Meditation helps, too. Just sitting, walking, doing yoga, or working out can make a big difference.
 
-These days, many public parks have exercise equipment. Whether you’re in France, Australia, or elsewhere, you can use these tools to move your body and clear your mind. Or just meet a friend for coffee, have a chat, or spend some time alone with a drink you enjoy. Read, reflect, but try not to check your messages or emails during this time—they only add to your mental load.
+These days, many public parks have exercise equipment. Whether you’re in France, Australia, or elsewhere, you can use these tools to move your body and clear your mind. Or just meet a friend for coffee, have a chat, or spend some time alone with a drink you enjoy. Read, reflect, but try not to check your messages or emails during this time; they only add to your mental load.
 
 It’s not easy to get rid of mental fog. You won’t just snap your fingers and make it disappear. The cloud sticks around, but the more you practice these habits, the less power it has over you. Eventually, you’ll find yourself living more in the present, not weighed down by the past or future.
 
 It takes practice. You won’t get rid of your mental load overnight. But by being aware of it, and noticing how negativity affects your life, you can start to move forward.
 
 > *You can’t stop the waves, but you can learn to surf.*  
-— Jon Kabat-Zinn
+*Jon Kabat-Zinn*
 
 > *The greatest weapon against stress is our ability to choose one thought over another.*  
-— William James
+*William James*
 
 {{< figure src="https://images.unsplash.com/photo-1650862199267-ddd6106b56bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjBzdHJlc3MlMjByZWxpZWYlMjBtaW5kZnVsbmVzc3xlbnwwfDB8fHwxNzU2MDEwNjk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="thinking quietly at the beach" title="How to Clear Mental Fog Without Overthinking" caption="How to Clear Mental Fog Without Overthinking - Photo by [Chris Riggs](https://unsplash.com/@bigrig) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-a-dock-looking-out-at-the-water-10tIQt1BDSw)" >}}
 
@@ -50,7 +50,7 @@ It takes practice. You won’t get rid of your mental load overnight. But by bei
 - Mental pollution builds up from daily stress, frustration, and overthinking.
 - Simple activities like walking, exercising, or spending time with pets can help clear your mind.
 - Letting go of the mental load allows you to see life’s beauty and regain creativity.
-- Practice is key—mental clarity comes with time and awareness.
+- Practice is key: mental clarity comes with time and awareness.
 
 ## Action Steps
 - Take a walk or do light exercise daily.

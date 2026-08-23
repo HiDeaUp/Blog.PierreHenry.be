@@ -18,7 +18,7 @@ When you work for yourself, there’s no boss breathing down your neck, no one t
 
 ## Manufacture Your Own Manager
 
-One of the most powerful ideas is to create your own manager. There’s a service called Boss as a Service that does exactly this. You sign up, and suddenly you have a “boss” who checks in on your progress. You’ll get emails asking for updates, screenshots, or proof that you’ve finished what you said you would. There’s a real person on the other end, not just a bot, so you can’t just ignore it. This simple act of having someone to report to—even if you’re technically your own boss—makes a huge difference.
+One of the most powerful ideas is to create your own manager. There’s a service called Boss as a Service that does exactly this. You sign up, and suddenly you have a “boss” who checks in on your progress. You’ll get emails asking for updates, screenshots, or proof that you’ve finished what you said you would. There’s a real person on the other end, not just a bot, so you can’t just ignore it. This simple act of having someone to report to (even if you’re technically your own boss) makes a huge difference.
 
 ## The Power of Focused Work Sessions
 
@@ -26,17 +26,17 @@ Another tool I love is Focusmate. It’s a bit like those “study with me” Yo
 
 ## Why Public Commitment Works
 
-There’s a reason this works so well. When you commit to something publicly—to a friend, on Twitter, or even by inviting people over for dinner—you can’t back out easily. You’ve made a promise, and you want to keep your word. This is the same principle behind accountability partners. Once you’ve told someone else what you’re going to do, you’re much more likely to follow through. If you only make promises to yourself, it’s too easy to let yourself off the hook.
+There’s a reason this works so well. When you commit to something publicly (to a friend, on Twitter, or even by inviting people over for dinner) you can’t back out easily. You’ve made a promise, and you want to keep your word. This is the same principle behind accountability partners. Once you’ve told someone else what you’re going to do, you’re much more likely to follow through. If you only make promises to yourself, it’s too easy to let yourself off the hook.
 
 {{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBlZmZpY2llbmN5JTIwc2VsZi1tYW5hZ2VtZW50fGVufDB8MHx8fDE3NTY1MjgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to 10x Your Productivity Without a Boss Watching" caption="How to 10x Your Productivity Without a Boss Watching - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
 > *“Discipline is choosing between what you want now and what you want most.”*
 >
-> — Abraham Lincoln
+> *Abraham Lincoln*
 
 ## Make It Official
 
-You can even take it further by making a contract with someone you live with—a partner, a friend, or a roommate. Write down your commitment, sign it, and agree to check in with each other. This turns your intention into a real obligation, just like signing an employment contract.
+You can even take it further by making a contract with someone you live with: a partner, a friend, or a roommate. Write down your commitment, sign it, and agree to check in with each other. This turns your intention into a real obligation, just like signing an employment contract.
 
 ## Track Your Progress
 
@@ -44,7 +44,7 @@ To keep yourself honest, use tools like Toggl to track your hours and tasks. If 
 
 > *“What gets measured gets managed.”*
 >
-> — Peter Drucker
+> *Peter Drucker*
 
 ## The Social Power of Commitment
 
@@ -52,7 +52,7 @@ All these methods boil down to one thing: making your commitments visible to oth
 
 > *“Accountability breeds response-ability.”*
 >
-> — Stephen R. Covey
+> *Stephen R. Covey*
 
 {{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBlZmZpY2llbmN5JTIwc2VsZi1tYW5hZ2VtZW50fGVufDB8MHx8fDE3NTY1MjgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to 10x Your Productivity Without a Boss Watching" caption="How to 10x Your Productivity Without a Boss Watching - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
@@ -69,7 +69,7 @@ All these methods boil down to one thing: making your commitments visible to oth
 ## Action Steps
 
 - Try booking a Focusmate session for your next big task.
-- Tell a friend or tweet about your next goal—make it public.
+- Tell a friend or tweet about your next goal: make it public.
 - Set up a simple contract with a partner or roommate for daily habits.
 - Start tracking your work hours and tasks to see your real progress.
 

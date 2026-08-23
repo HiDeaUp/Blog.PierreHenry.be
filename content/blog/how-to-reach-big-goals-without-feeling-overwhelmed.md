@@ -22,19 +22,19 @@ Imagine setting a daily routine, even a tiny one, that moves you closer to your 
 
 By doing a little bit every day, without skipping, you’ll see progress. Over time, this steady effort adds up. You’ll build something meaningful, and you’ll create beautiful results. Step by step, you’ll also develop a sense of trust in yourself and in your ability to follow through on what matters to you.
 
-This is how you weave a strong connection with your own resilience and your dreams. The routine becomes more than a habit—it becomes proof that you can rely on yourself, even when things don’t go as planned.
+This is how you weave a strong connection with your own resilience and your dreams. The routine becomes more than a habit; it becomes proof that you can rely on yourself, even when things don’t go as planned.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-— Robert Collier
+*Robert Collier*
 
 > *Great things are not done by impulse, but by a series of small things brought together.*
-— Vincent Van Gogh
+*Vincent Van Gogh*
 
 ---
 
 ## Key Takeaways
 - Start with a small daily routine to move toward your goals.
-- Don’t worry if you don’t finish everything in one day—just keep going the next day.
+- Don’t worry if you don’t finish everything in one day: just keep going the next day.
 - Consistency matters more than intensity.
 - Over time, these small steps build trust in yourself and real progress.
 

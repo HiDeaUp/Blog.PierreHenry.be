@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/74f1edd4288f"
 
 Life often feels like a mix of ups and downs. Sometimes, you find yourself stuck in a rough patch, thinking there’s nothing good left to hold onto. But here’s something I’ve learned: no matter how hard things get, there’s always a part of you that remains, something positive that you can count on. It might not be obvious at first, but it’s there, quietly waiting for you to notice.
 
-When you’re facing a challenge, it’s easy to focus on what’s going wrong. But what if you tried to see things differently? What if, instead of getting stuck on the negative, you looked for that small piece of good that’s still present? Maybe it’s the courage to keep going, or the ability to see life from a new angle. Sometimes, it’s as simple as deciding to do something different—like making yourself a hot chocolate or taking a walk in the rain. These little choices can shift your whole perspective.
+When you’re facing a challenge, it’s easy to focus on what’s going wrong. But what if you tried to see things differently? What if, instead of getting stuck on the negative, you looked for that small piece of good that’s still present? Maybe it’s the courage to keep going, or the ability to see life from a new angle. Sometimes, it’s as simple as deciding to do something different, like making yourself a hot chocolate or taking a walk in the rain. These little choices can shift your whole perspective.
 
 You always have a choice. You can let the weight of your problems pin you down, or you can step back and see what’s still beautiful around you. Maybe it’s someone’s smile, a kind word, or just the calm that comes after a storm. By focusing on these positive moments, you gather more energy to move forward and find your own path.
 
@@ -25,17 +25,17 @@ You always have a choice. You can let the weight of your problems pin you down, 
 The truth is, life is full of moments that can lift you up if you let them. It’s about noticing what’s good, even when things seem bleak. This way, you give yourself the chance to live better, to find more joy, and to keep going with a lighter heart.
 
 > *“Happiness is not the absence of problems, it’s the ability to deal with them.”*  
-— Steve Maraboli
+*Steve Maraboli*
 
 > *“Wherever you go, no matter what the weather, always bring your own sunshine.”*  
-— Anthony J. D’Angelo
+: Anthony J. D’Angelo
 
 ---
 
 ## Key Takeaways
 
 - *There’s always something positive to hold onto, even in tough times.*
-- *You have the power to choose how you see things—focus on what’s good.*
+- *You have the power to choose how you see things: focus on what’s good.*
 - *Small actions, like enjoying a hot drink or walking in the rain, can change your mood.*
 - *Noticing the positive gives you more energy to move forward.*
 

@@ -18,7 +18,7 @@ When we talk about dreams and big projects, money always seems to come up. Many 
 
 Let’s be honest: there will always be expenses. Even if you manage to save €10,000, €20,000, or €50,000, something else will come up. Maybe you’ll want a better lifestyle, or you’ll face unexpected health issues, or your family will grow. Suddenly, what seemed like enough money is no longer enough. The target keeps moving. Today you think you need €30,000, but tomorrow it might be €40,000 or even €100,000.
 
-Some people call this “fucking money”—the idea that you need a certain amount before you can finally do what you want. I’ve seen many people stuck in this trap, especially those who move to cities like London or Dubai, telling themselves they’ll save up for a few years and then finally start living their dream. But the truth is, there’s never a perfect amount, and there’s never a perfect moment. If you keep waiting for the stars to align, you’ll never get started.
+Some people call this “fucking money”: the idea that you need a certain amount before you can finally do what you want. I’ve seen many people stuck in this trap, especially those who move to cities like London or Dubai, telling themselves they’ll save up for a few years and then finally start living their dream. But the truth is, there’s never a perfect amount, and there’s never a perfect moment. If you keep waiting for the stars to align, you’ll never get started.
 
 Here’s the real message: stop using “not enough money” or “not the right time” as excuses. Instead, ask yourself what project or dream you can start now that could actually generate the money you need. Often, it’s the project itself that brings in the resources, not the other way around.
 
@@ -29,10 +29,10 @@ Discipline is key. Make a habit of saving, even if it’s just a small amount ev
 Don’t let your dreams fly out of your hands because you waited too long. The perfect moment doesn’t exist. If you want something badly enough, and you go after it with real intensity, you’ll find a way to make it happen.
 
 > *The perfect moment is a myth. Start now, with what you have, and let your project create the path forward.*
-> — Anonymous
+> *Anonymous*
 
 > *Life is too short to watch your dreams slip away while you wait for the stars to align.*
-> — Pierre
+> *Pierre*
 
 ---
 
@@ -44,7 +44,7 @@ Don’t let your dreams fly out of your hands because you waited too long. The p
 - Stop using “not enough money” as an excuse.
 - Start a project that can generate the resources you need.
 - Be disciplined with your savings, even if it’s a small amount.
-- Take action as soon as you can—life is too short to wait.
+- Take action as soon as you can: life is too short to wait.
 
 ---
 

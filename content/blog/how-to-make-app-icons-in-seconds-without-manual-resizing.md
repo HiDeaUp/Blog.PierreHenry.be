@@ -30,7 +30,7 @@ ChatGPT then gave me a zip archive file I could download directly. I downloaded 
 
 Once I had the icons, I could see them, and they looked good. I just uploaded them for my app and that was it. Super simple. You can really use this for so many different purposes: making icons for your iOS app, your Android app, your MacOS app, and so on.
 
-I hope this was helpful. It’s honestly a game-changer for speeding up the boring parts of app development.
+I hope this was helpful. It’s honestly a major improvement for speeding up the boring parts of app development.
 
 ---
 
@@ -40,7 +40,7 @@ I hope this was helpful. It’s honestly a game-changer for speeding up the bori
 
 - You can generate all required iOS and Android app icon sizes instantly using ChatGPT with a simple prompt and your image.
 - Make sure to download the generated zip file immediately, as the download link will expire.
-- You don’t need to specify every technical detail in your prompt—just be clear about what you want (centered image, background color, good contrast).
+- You don’t need to specify every technical detail in your prompt: just be clear about what you want (centered image, background color, good contrast).
 - This method saves a ton of time compared to manual resizing or using third-party icon generators.
 
 > “That’s important for a nice looking icon, you know.”

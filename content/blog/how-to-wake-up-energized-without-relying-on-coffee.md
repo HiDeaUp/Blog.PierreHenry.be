@@ -31,10 +31,10 @@ Of course, you have to love what you’re doing. That’s why I call it a passio
 Imagine a project you know you’ll still love in a year or two, maybe even three. It can change and grow with you, but the core passion will stay the same. The main theme will remain, even as the details shift over time.
 
 > _“The only way to do great work is to love what you do.”_  
-— Steve Jobs
+*Steve Jobs*
 
 > _“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”_  
-— Albert Schweitzer
+*Albert Schweitzer*
 
 So, think about what truly excites you. Write it down. Give yourself an hour each day to work on it. You’ll be surprised at how much more energy and motivation you’ll have, not just in the morning, but throughout your day.
 

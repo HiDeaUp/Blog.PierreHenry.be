@@ -27,10 +27,10 @@ On my Trello board, for example, I have columns for "Start," "In Progress," "Com
 Ask yourself, "Am I where I wanted to be?" If it's February, will you reach your goal by August? Sometimes you'll move faster, sometimes you'll fall behind because life always brings surprises. That's normal. The key is to adjust and keep moving forward. This way, you bend your path toward success much more easily.
 
 > _A clear vision, backed by definite plans, gives you a tremendous feeling of confidence and personal power._
-> — Brian Tracy
+> *Brian Tracy*
 
 > _Success is the sum of small efforts, repeated day in and day out._
-> — Robert Collier
+> *Robert Collier*
 
 Planning your goal is essential. Don't put off what you want to do today. Start now, and you'll see how much simpler everything becomes.
 
@@ -44,7 +44,7 @@ Planning your goal is essential. Don't put off what you want to do today. Start 
 - *Break your goals into smaller, weekly or monthly tasks.*
 - *Use tools like Trello, Things 3, or simple spreadsheets to track your progress.*
 - *Review your progress regularly and adjust your plan as needed.*
-- *Start today—don't wait for the perfect moment.*
+- *Start today: don't wait for the perfect moment.*
 
 ---
 

@@ -25,10 +25,10 @@ You don't need to copy everything exactly. The idea is to capture the essence of
 Your environment is not just a backdrop. It's a source of energy, comfort, and inspiration. By making your space pleasant and personal, you give yourself a boost every day. You deserve to feel good where you are.
 
 > _Happiness is not something ready made. It comes from your own actions._
-— Dalai Lama
+*Dalai Lama*
 
 > _The details are not the details. They make the design._
-— Charles Eames
+*Charles Eames*
 
 ---
 

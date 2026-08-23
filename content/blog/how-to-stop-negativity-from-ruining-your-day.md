@@ -22,7 +22,7 @@ If you think about it, most of our problems are tiny specks in the grand scheme 
 
 We’re emotional beings. We all have feelings, and bad news or uncertainty can slow us down or even ruin our day. But there are ways to help ourselves. Breathing exercises, for example, can make a real difference. Meditation helps too. One breathing exercise I like is the “3-3-3” method: breathe in for three seconds, hold for three seconds, then breathe out through your mouth for three seconds. Do this five, six, or seven times in a row, and you’ll feel much better.
 
-Sometimes, just taking a walk helps. Or chatting with someone. Personally, I enjoy cat cafés—though they’re not everywhere. If you live in Japan or South Korea, you’ll find some great ones. In Seoul, there are several in the city center, and in Tokyo and Kyoto, too. In Australia, they’re rare, but I remember one in Sydney. Spending time with animals, even just walking a dog, can be a kind of therapy. It distracts you from what’s stressing you out and helps you change your mindset.
+Sometimes, just taking a walk helps. Or chatting with someone. Personally, I enjoy cat cafés: though they’re not everywhere. If you live in Japan or South Korea, you’ll find some great ones. In Seoul, there are several in the city center, and in Tokyo and Kyoto, too. In Australia, they’re rare, but I remember one in Sydney. Spending time with animals, even just walking a dog, can be a kind of therapy. It distracts you from what’s stressing you out and helps you change your mindset.
 
 The real problem is when you keep thinking about what’s stressing you. If there’s nothing you can do about it, you have to separate yourself from the stress and the thing causing it. Tell yourself, “I can’t do anything about this right now, so I’ll focus my energy on something else.” Otherwise, you’ll just keep worrying, and that’s not helpful.
 
@@ -37,10 +37,10 @@ The key is to separate what you can control from what you can’t. If you’ve d
 ---
 
 > _“You can’t stop the waves, but you can learn to surf.”_  
-— Jon Kabat-Zinn
+*Jon Kabat-Zinn*
 
 > _“Worrying does not take away tomorrow’s troubles, it takes away today’s peace.”_  
-— Anonymous
+*Anonymous*
 
 ---
 
@@ -58,7 +58,7 @@ The key is to separate what you can control from what you can’t. If you’ve d
 
 - Try the 3-3-3 breathing exercise next time you feel stressed.
 - Take a walk or talk to someone when negativity hits.
-- Make a list of what you can and can’t control—focus only on your side.
+- Make a list of what you can and can’t control: focus only on your side.
 - Find small ways to enjoy the present, even when things are uncertain.
 
 ## Reflection

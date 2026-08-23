@@ -27,10 +27,10 @@ This mindset doesn’t mean you have to accept blame for everything. It means re
 If you want to keep growing and improving yourself, remember that you always have a share of the responsibility. Even when someone else is rude, maybe they’re just quick-tempered, and you’re not. But you can still adjust your approach to make things better.
 
 > *“When we are no longer able to change a situation, we are challenged to change ourselves.”*  
-— Viktor E. Frankl
+: Viktor E. Frankl
 
 > *“You cannot control the behavior of others, but you can always choose how you respond to it.”*  
-— Roy T. Bennett
+: Roy T. Bennett
 
 {{< figure src="https://images.unsplash.com/photo-1695473507874-2bea519874a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwb3NpdGl2ZSUyMG1pbmRzZXQlMjBhZGFwdGF0aW9uJTIwcGVyc29uYWwlMjByZXNwb25zaWJpbGl0eXxlbnwwfDB8fHwxNzU2NTI0MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a piece of paper on it" title="How to Take Responsibility Without Blaming Yourself" caption="How to Take Responsibility Without Blaming Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-A3vKpNZptp8)" >}}
 

@@ -20,7 +20,7 @@ Philosophy isn’t just about big ideas or ancient books. It’s about the energ
 
 Imagine you notice someone’s shoes and say, “Hey, I really like those shoes, they’re great!” It’s such a small thing, but it creates a pleasant moment. You make others dream a little, and if you ever want to sell something, it becomes much easier because people feel your energy.
 
-I encourage you to try this. Show a bit of praise, a bit of charisma when you speak. Little by little, you’ll see your conversations change. The art of talking with others will transform your interactions. First, you’ll be fully present in every discussion. Second, you’ll notice things around you—maybe a communal garden where everyone can plant their own flowers or vegetables. You might say, “This is the first time I’ve seen something like this, it’s fun!” You’ll share, you’ll connect, and you’ll be 100% in the moment.
+I encourage you to try this. Show a bit of praise, a bit of charisma when you speak. Little by little, you’ll see your conversations change. The art of talking with others will transform your interactions. First, you’ll be fully present in every discussion. Second, you’ll notice things around you, maybe a communal garden where everyone can plant their own flowers or vegetables. You might say, “This is the first time I’ve seen something like this, it’s fun!” You’ll share, you’ll connect, and you’ll be 100% in the moment.
 
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcmVpbnZlbnRpb24lMjBwYXNzaW9ufGVufDB8MHx8fDE3NTYxMTI2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Live With Passion Without Losing Yourself in Routine" caption="How to Live With Passion Without Losing Yourself in Routine - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
@@ -31,10 +31,10 @@ If you want to go even further in changing your daily life, you can start right 
 We’ll talk about clearing away what’s holding you back, about small steps you can take every day to make your life better. I wish you all the best from the bottom of my heart. I hope this article inspires you and helps you move forward.
 
 > _“People will forget what you said, people will forget what you did, but people will never forget how you made them feel.”_  
-— Maya Angelou
+*Maya Angelou*
 
 > _“The only way to make sense out of change is to plunge into it, move with it, and join the dance.”_  
-— Alan Watts
+*Alan Watts*
 
 ---
 

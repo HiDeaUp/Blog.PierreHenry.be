@@ -26,7 +26,7 @@ What makes this method powerful is its focus. Instead of spreading yourself thin
 
 Let’s say you want to open a business in Costa Rica. For 2.5 hours each day, you could study Spanish, research the local market, and build your business plan. If your dream is to live in Japan, spend that time learning Japanese, understanding the culture, and figuring out the steps to move there. After seven weeks, you’ll be ready to take the leap.
 
-The key is discipline. Every day, you know exactly what you need to do. Set a timer for 2.5 hours—no more, no less. At the end of each session, ask yourself: What did I accomplish today? What concrete result did I achieve? This daily outcome is essential. It keeps you on track and helps you see real progress.
+The key is discipline. Every day, you know exactly what you need to do. Set a timer for 2.5 hours: no more, no less. At the end of each session, ask yourself: What did I accomplish today? What concrete result did I achieve? This daily outcome is essential. It keeps you on track and helps you see real progress.
 
 {{< figure src="https://images.unsplash.com/photo-1654344490041-c64b9d1aaae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="How to Achieve Big Goals in 130 Hours Without Burnout" title="How to Achieve Big Goals in 130 Hours Without Burnout" caption="How to Achieve Big Goals in 130 Hours Without Burnout - Photo by kimny on Unsplash" link="https://images.unsplash.com/photo-1654344490041-c64b9d1aaae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMHN0cmF0ZWdpZXMlMjBnb2FsJTIwYWNoaWV2ZW1lbnQlMjBjb25zaXN0ZW50JTIwZWZmb3J0fGVufDB8MHx8fDE3NTYxMTE3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" >}}
 
@@ -43,10 +43,10 @@ You might think 2.5 hours a day is too much, but it’s actually less than 20 ho
 If you want to master something or simply get back on track, this focused time will change everything. It’s surprising how much you can achieve in just seven weeks.
 
 > _Discipline is the bridge between goals and accomplishment._
-> — Jim Rohn
+> *Jim Rohn*
 
 > _Small daily improvements are the key to staggering long-term results._
-> — Robin Sharma
+> *Robin Sharma*
 
 ## Make It Your Own
 
@@ -58,7 +58,7 @@ You don’t have to follow my plan exactly. Adapt it to your life and your goals
 
 ## Key Takeaways
 
-- *Dedicate 2.5 hours a day to one goal for seven weeks—130 hours in total.*
+- *Dedicate 2.5 hours a day to one goal for seven weeks: 130 hours in total.*
 - *Prepare your tasks the night before and reflect after each session.*
 - *Focus on daily outcomes, not just time spent.*
 - *Discipline and consistency matter more than talent or luck.*

@@ -28,15 +28,15 @@ Start by identifying the moments that make you happy. Notice when you feel good,
 
 Another key idea is to gradually remove the things that bring you less pleasure. Over time, as you focus on what you love and let go of what you don’t, your days become better and better. Imagine, after a few weeks, having days that feel almost perfect. If you can string together enough perfect days, you end up with a life that feels just right.
 
-For me, I find joy in beautiful surroundings. Right now, I’m near Neutral Bay in Sydney, enjoying the calm of the water and the peaceful view. These are the moments that recharge me and help me feel at ease. Everyone has their own version of this—find yours.
+For me, I find joy in beautiful surroundings. Right now, I’m near Neutral Bay in Sydney, enjoying the calm of the water and the peaceful view. These are the moments that recharge me and help me feel at ease. Everyone has their own version of this: find yours.
 
 > _Happiness is not something ready made. It comes from your own actions._
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > _The more you praise and celebrate your life, the more there is in life to celebrate._
 >
-> — Oprah Winfrey
+> *Oprah Winfrey*
 
 So, start today. When you wake up, look for those moments that make you feel good. Notice them, enjoy them, and let them guide you toward a life that feels more and more like your own.
 

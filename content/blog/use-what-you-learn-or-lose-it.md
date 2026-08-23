@@ -28,11 +28,11 @@ Reading books like these is great, but the real magic happens when you apply wha
 
 > *Knowledge is only potential power. It becomes real power when you put it into action.*
 >
-> — Tony Robbins
+> *Tony Robbins*
 
 > *It is not enough to have knowledge, one must also apply it; it is not enough to want, one must also act.*
 >
-> — Johann Wolfgang von Goethe
+> *Johann Wolfgang von Goethe*
 
 If you want to go even further in your learning, remember: it’s not about how much you know, but how much you do with what you know. Make every lesson count.
 
@@ -42,7 +42,7 @@ If you want to go even further in your learning, remember: it’s not about how 
 
 {{< figure src="https://images.unsplash.com/photo-1673515334386-2b24073bb22f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcmFjdGljYWwlMjBsZWFybmluZyUyMHRha2luZyUyMGFjdGlvbiUyMGtub3dsZWRnZSUyMGFwcGxpY2F0aW9ufGVufDB8MHx8fDE3NTY2NDE4OTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Learn word" title="Use What You Learn or Lose It" caption="Use What You Learn or Lose It - Photo by [Ling App](https://unsplash.com/@lingapp) on [Unsplash](https://unsplash.com/photos/the-word-learn-spelled-with-scrabble-letters-on-a-wooden-table-IQSy7cU5BxQ)" >}}
 
-- Apply what you learn immediately—don’t just collect information.
+- Apply what you learn immediately: don’t just collect information.
 - Focus on the essential: do one thing at a time.
 - Concentrate on the 20% that brings 80% of the results.
 - Don’t chase perfection on things that don’t matter.

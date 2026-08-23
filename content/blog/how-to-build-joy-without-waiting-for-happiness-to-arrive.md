@@ -18,9 +18,9 @@ Most people think joy is something that just happens to us, like a sudden burst 
 
 By default, we are neither joyful nor unhappy. We simply exist. Our brains, however, are wired to notice the negative far more than the positive. This is a leftover from our prehistoric days, when being alert to danger was a matter of survival. Our minds are always on the lookout for threats, which makes us more sensitive to negative events than to positive ones.
 
-Even today, this ancient instinct shapes our daily lives. We tend to dwell on bad news and let it replay in our minds, while positive moments often slip by unnoticed. This is not because we are pessimists by nature, but because our brains are designed to protect us. Yet, in modern life, this focus on negativity is less useful and can even get in the way of our happiness.
+Even today, this ancient instinct affects our daily lives. We tend to dwell on bad news and let it replay in our minds, while positive moments often slip by unnoticed. This is not because we are pessimists by nature, but because our brains are designed to protect us. Yet, in modern life, this focus on negativity is less useful and can even get in the way of our happiness.
 
-So, if our brains are not naturally tuned to joy, how do we create it? The answer is simple: we manufacture it. Joy is something we can build by intentionally creating moments and experiences that bring us pleasure—not just in the short term, but over the long haul.
+So, if our brains are not naturally tuned to joy, how do we create it? The answer is simple: we manufacture it. Joy is something we can build by intentionally creating moments and experiences that bring us pleasure, not just in the short term, but over the long haul.
 
 The key is to focus on activities that give you lasting satisfaction. Scrolling through social media might feel good for a moment, but it rarely leaves you with a sense of fulfillment. At the end of the year, you probably won't look back and say, "That was a great year because I spent so much time on social media." Instead, real joy comes from projects and goals that reflect your values and give you a sense of progress.
 
@@ -34,7 +34,7 @@ Use technology to your advantage. There are plenty of great apps for building ha
 
 Start small. If you want to get fit, don’t tell yourself you have to do fifty push-ups every morning. Promise yourself you’ll do just one. Once you start, you’ll often find the energy to do more. The hardest part is getting started. The same goes for chores: if cleaning the whole house feels overwhelming, commit to cleaning just the smallest room. Once you’re in motion, you’ll likely keep going and do more than you planned.
 
-These mini-habits are powerful. They help you accomplish more, and each small win builds your confidence and joy. Over time, you’ll find yourself achieving things that truly matter to you—things that align with your values and contribute to your sense of purpose.
+These mini-habits are powerful. They help you accomplish more, and each small win builds your confidence and joy. Over time, you’ll find yourself achieving things that truly matter to you: things that align with your values and contribute to your sense of purpose.
 
 It’s important to have both short-term and long-term goals. Maybe by December you want to play the piano, but in five years, you dream of performing on stage. Or perhaps you want to become a programmer at a top company, or open your own coffee shop. Even if your plans change, the progress you make toward your goals will open up new opportunities and help you grow.
 
@@ -42,13 +42,13 @@ The more you focus on meaningful projects, the more joy you’ll create in your 
 
 > *Joy is not in things; it is in us.*
 >
-> — Richard Wagner
+> *Richard Wagner*
 
-{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqb3klMjBoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDgzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley . Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact : zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Build Joy Without Waiting for Happiness to Arrive" caption="How to Build Joy Without Waiting for Happiness to Arrive - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
+{{< figure src="https://images.unsplash.com/photo-1567578923208-5cc60003892d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxqb3klMjBoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTU2MDgzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="smiley. Be Happy! If you like my photos please follow me on Instagram❤️ www.Instagram.com/spirit619power Contact: zayyerrn@gmail.com / 🇲🇻 /+960 7433679" title="How to Build Joy Without Waiting for Happiness to Arrive" caption="How to Build Joy Without Waiting for Happiness to Arrive - Photo by [Ahmed Zayan](https://unsplash.com/@zayyerrn) on [Unsplash](https://unsplash.com/photos/a-yellow-ball-with-a-smiley-face-sitting-in-the-grass-ABUWC-0a7_A)" >}}
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 ---
 
@@ -61,7 +61,7 @@ The more you focus on meaningful projects, the more joy you’ll create in your 
 
 ## Action Steps
 - Choose one meaningful goal and set a clear deadline.
-- Break it down into tiny daily habits—make the first step so easy you can’t say no.
+- Break it down into tiny daily habits: make the first step so easy you can’t say no.
 - Use reminders, apps, or visual cues to keep your goal front and center.
 - Celebrate small wins and keep building on them.
 

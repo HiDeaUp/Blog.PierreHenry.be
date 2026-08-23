@@ -32,15 +32,15 @@ If you want to make real progress, try this: at the end of each day, rate your d
 
 > *If the path is beautiful, don’t ask where it leads. Just enjoy the journey and the present moment.*
 > 
-> — Anonymous
+> *Anonymous*
 
 > *The best time to plant a tree was 20 years ago. The second-best time is now.*
 > 
-> — Chinese Proverb
+> *Chinese Proverb*
 
 > *If you want something badly enough, you’ll find a way. If not, you’ll find an excuse.*
 > 
-> — Jim Rohn
+> *Jim Rohn*
 
 ---
 

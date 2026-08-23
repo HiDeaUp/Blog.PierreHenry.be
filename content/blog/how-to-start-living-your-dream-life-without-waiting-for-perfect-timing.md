@@ -29,7 +29,7 @@ There’s never a perfect time to start. The best time is now. There’s a Chine
 I believe in you. Go for it. Take action. Grow. We grow together.
 
 > *The best time to plant a tree was twenty years ago. The second-best time is now.*
-> — Chinese Proverb
+> *Chinese Proverb*
 
 ---
 

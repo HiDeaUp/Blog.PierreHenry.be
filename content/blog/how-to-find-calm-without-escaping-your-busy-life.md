@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/7796e937b8a5"
 
 Sometimes, life feels like a whirlwind. Stress piles up, tasks never seem to end, and before you know it, you’re no longer present. You’re not really here. You’re just running from one thing to the next, forgetting to notice the little wonders around you.
 
-But what if you could pause? What if you could simply take a moment, breathe deeply, and reconnect with yourself and your surroundings? This is what I call a “zen moment.” It’s about giving yourself permission to decompress, to rest, and to be fully present—right now.
+But what if you could pause? What if you could simply take a moment, breathe deeply, and reconnect with yourself and your surroundings? This is what I call a “zen moment.” It’s about giving yourself permission to decompress, to rest, and to be fully present: right now.
 
-When you’re overwhelmed, you lose touch with the present. You stop enjoying the small pleasures that make life beautiful. The sound of birds, the warmth of sunlight, the taste of your favorite tea—these moments slip by unnoticed. But when you slow down, even for a minute, you can rediscover them.
+When you’re overwhelmed, you lose touch with the present. You stop enjoying the small pleasures that make life beautiful. The sound of birds, the warmth of sunlight, the taste of your favorite tea: these moments slip by unnoticed. But when you slow down, even for a minute, you can rediscover them.
 
 Try this: take a deep breath, filling your belly with air. Inhale, exhale. Let yourself relax. This simple act helps you reset your rhythm. It brings back a gentle pace, a sense of joy, and the ability to appreciate life’s simple gifts.
 
@@ -27,10 +27,10 @@ Try this: take a deep breath, filling your belly with air. Inhale, exhale. Let y
 I truly wish you the best on this journey. Remember, happiness often hides in the smallest details. When you allow yourself to smile again, to breathe freely, you open the door to a more peaceful and joyful life.
 
 > _Happiness is not something ready made. It comes from your own actions._
-— Dalai Lama
+*Dalai Lama*
 
 > _Sometimes the most productive thing you can do is relax._
-— Mark Black
+*Mark Black*
 
 ---
 

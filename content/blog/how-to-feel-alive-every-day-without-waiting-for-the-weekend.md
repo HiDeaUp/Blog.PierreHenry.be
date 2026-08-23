@@ -33,10 +33,10 @@ Even small annoyances can be turned around. For example, if you get ink on your 
 So, next time you have to take a plane or wait somewhere, don’t see it as a problem. See it as a chance to do something without distractions. Look for the little opportunities in every situation, and ask yourself how you can turn problems into chances to grow.
 
 > *“The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.”*  
-— Marcel Proust
+*Marcel Proust*
 
 > *“Happiness is not something ready made. It comes from your own actions.”*  
-— Dalai Lama
+*Dalai Lama*
 
 Minimalism can help too. When your environment is clear and simple, you can focus on what matters. Having less means you carry less weight, both physically and mentally. Your home, your workspace, and your life all become lighter, and you can move forward more easily.
 
@@ -50,7 +50,7 @@ So, take a look at your surroundings. What can you clear out? What can you see d
 - Use every moment, even the boring ones, to do something meaningful.
 - Change your perspective and see opportunities instead of problems.
 - Minimalism helps you focus on what matters most.
-- Your environment shapes your mood and your success.
+- Your environment affects your mood and your success.
 
 ## Action Steps
 - Next time you’re stuck waiting, try learning something new or working on a personal project.

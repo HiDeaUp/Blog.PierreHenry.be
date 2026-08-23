@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/41bdd8fbb032"
 
 There are days when you wake up and, for no clear reason, your energy just isn’t there. You might have made a solid to-do list the night before, full of things you want to achieve, but when morning comes, you feel flat. You go for a walk, try to get moving, but your mood just doesn’t lift. This happens to everyone, and it’s nothing to be ashamed of.
 
-What can help in these moments is the simple act of remembering. Not just any memories, but those small, joyful moments that made you feel alive—times with your loved ones, your partner, your children, your grandchildren, or even memories from your teenage years, like playing badminton or tennis. These don’t have to be extraordinary events. Just moments that made you smile.
+What can help in these moments is the simple act of remembering. Not just any memories, but those small, joyful moments that made you feel alive: times with your loved ones, your partner, your children, your grandchildren, or even memories from your teenage years, like playing badminton or tennis. These don’t have to be extraordinary events. Just moments that made you smile.
 
 Writing down these memories, or even just thinking about them, can bring a sense of gratitude and pride. It’s like giving yourself a gentle push to move forward. Without these reminders, it’s easy to feel stuck, trapped by the present moment and unable to see beyond it.
 
@@ -26,17 +26,17 @@ Another simple trick is to change your environment with music. Background sounds
 
 {{< figure src="https://images.unsplash.com/photo-1695891835539-f0b44212fb0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxncmF0aXR1ZGUlMjBtZW50YWwlMjBoZWFsdGglMjByZXNpbGllbmNlfGVufDB8MHx8fDE3NTU0MTU5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads" title="How to Find Gratitude Without Forcing Positivity on Bad Days" caption="How to Find Gratitude Without Forcing Positivity on Bad Days - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-resilince-building-BwWykc_mHVI)" >}}
 
-And don’t forget about your body. The way you stand, your posture, even a quick stretch or a few deep breaths can have a real impact on your mind. Tony Robbins, for example, talks about this in his documentary “I Am Not Your Guru.” Before going on stage, he uses physical exercises to prepare himself mentally. You don’t have to be a guru to benefit from this—just a few minutes of moving your body can help you feel more grounded and ready.
+And don’t forget about your body. The way you stand, your posture, even a quick stretch or a few deep breaths can have a real impact on your mind. Tony Robbins, for example, talks about this in his documentary “I Am Not Your Guru.” Before going on stage, he uses physical exercises to prepare himself mentally. You don’t have to be a guru to benefit from this: just a few minutes of moving your body can help you feel more grounded and ready.
 
 The key is to find what works for you. Maybe it’s writing, maybe it’s music, maybe it’s movement. The important thing is to give yourself permission to remember the good, even when things are tough.
 
 > _Gratitude turns what we have into enough._
 >
-> — Anonymous
+> *Anonymous*
 
 > _Sometimes, the smallest things take up the most room in your heart._
 >
-> — A.A. Milne
+> *A.A. Milne*
 
 ---
 
@@ -46,7 +46,7 @@ The key is to find what works for you. Maybe it’s writing, maybe it’s music,
 - Write down memories that make you feel grateful.
 - Use music or background sounds to change your atmosphere.
 - Pay attention to your posture and move your body to help your mind.
-- It’s normal to feel low sometimes—give yourself grace and try simple tools to lift yourself up.
+- It’s normal to feel low sometimes: give yourself grace and try simple tools to lift yourself up.
 
 ---
 

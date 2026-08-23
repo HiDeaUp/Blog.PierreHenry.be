@@ -18,7 +18,7 @@ When we hear “brain gymnastics,” we often think of memory games or mental ma
 
 Think about how you stretch your body in the morning. Maybe you reach your arms up, roll your neck, or stretch your legs to wake up your muscles. Brain gymnastics works the same way, but for your mind. Instead of letting negative thoughts and worries bounce around in your head, you can choose to clear them out and make space for positive ones.
 
-Every morning, give yourself a fresh start. Imagine tossing all those dark, nagging thoughts into the trash. The worries, the regrets, the things that keep you up at night—let them go. Begin your day by asking yourself, “What good things can I focus on today?” Feed your mind with positive ideas, just like you’d nourish your body with a healthy breakfast.
+Every morning, give yourself a fresh start. Imagine tossing all those dark, nagging thoughts into the trash. The worries, the regrets, the things that keep you up at night: let them go. Begin your day by asking yourself, “What good things can I focus on today?” Feed your mind with positive ideas, just like you’d nourish your body with a healthy breakfast.
 
 {{< figure src="https://images.unsplash.com/photo-1497369753325-69e1f26b7f56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxicmFpbiUyMGZpdG5lc3MlMjBtb3JuaW5nJTIwcm91dGluZSUyMG1lbnRhbCUyMHdlbGxuZXNzfGVufDB8MHx8fDE3NTY2NDIyOTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A lady in pursuit to inspire and challenge the human body to push it’s limits and live a healthy active life. Thanks for the wild ride!" title="How to Clear Your Mind Each Morning Without Meditation" caption="How to Clear Your Mind Each Morning Without Meditation - Photo by [Becca Matimba](https://unsplash.com/@bmatimbaphoto) on [Unsplash](https://unsplash.com/photos/woman-doing-pull-up-exercise-xzu52UX-1jc)" >}}
 
@@ -27,10 +27,10 @@ This simple practice is like giving your brain a glass of fresh juice. You sweep
 I’m right here with you, cheering you on. Life moves quickly, and it’s too short to let negative thoughts take over. You deserve mornings filled with hope and days that start with a smile.
 
 > *“The mind is everything. What you think, you become.”*  
-— Buddha
+*Buddha*
 
 > *“Happiness is not something ready made. It comes from your own actions.”*  
-— Dalai Lama
+*Dalai Lama*
 
 ---
 

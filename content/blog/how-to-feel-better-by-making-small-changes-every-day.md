@@ -27,10 +27,10 @@ One of the most powerful habits you can develop is to take a few minutes at the 
 The goal is not to be perfect. The goal is to improve, little by little. When you pay attention to your days, you start to notice what brings you happiness and what holds you back. You can then make choices that help you feel better, day after day.
 
 > *“You do not rise to the level of your goals. You fall to the level of your systems.”*  
-— James Clear
+*James Clear*
 
 > *“Insanity is doing the same thing over and over again and expecting different results.”*  
-— Attributed to Albert Einstein
+*Attributed to Albert Einstein*
 
 ---
 

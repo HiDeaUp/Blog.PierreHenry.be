@@ -24,12 +24,12 @@ Another example is jogging. If you go for a run every day, you can listen to a p
 
 Habit stacking works because it uses the strength of your current routines. New habits are fragile at first. It’s easy to forget them or drop them after a few days. But when you attach a new habit to something you already do, it becomes much more stable. It’s like taping two things together so they don’t get lost.
 
-Here’s another idea: if you always brush your teeth at night, you can use that time to review what you learned during the day. For example, if you’re learning a new language, you can go over the twenty new words you picked up while brushing your teeth. This way, you’re not trying to find extra time in your day—you're simply making better use of the routines you already have.
+Here’s another idea: if you always brush your teeth at night, you can use that time to review what you learned during the day. For example, if you’re learning a new language, you can go over the twenty new words you picked up while brushing your teeth. This way, you’re not trying to find extra time in your day; you're simply making better use of the routines you already have.
 
 Habit stacking is powerful because it helps you build new habits without needing extra willpower. You just piggyback on what you already do. Over time, these small changes add up and can lead to big improvements in your life.
 
-*“Success is the product of daily habits—not once-in-a-lifetime transformations.”*  
-— James Clear
+*“Success is the product of daily habits, not once-in-a-lifetime transformations.”*
+*James Clear*
 
 ---
 

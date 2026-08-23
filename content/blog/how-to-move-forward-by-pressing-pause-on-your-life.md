@@ -32,7 +32,7 @@ If you want to move forward, you have to act. There is a famous Chinese proverb:
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*
 >
-> — Chinese proverb
+> *Chinese proverb*
 
 This applies to your life, your success, and your happiness. If you had started 20 years ago, you would already see the results. But if you start today, in 20 years you will be glad you did.
 

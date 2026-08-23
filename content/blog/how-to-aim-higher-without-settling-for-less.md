@@ -18,7 +18,7 @@ Ambition is that restless urge to go beyond what’s expected. It’s not just a
 
 If most people think having a steady job is the ultimate goal, and you find yourself thinking, “That’s not enough, I want more,” then you’re already a bit more ambitious than the crowd. And that’s a good thing. It’s important to challenge yourself, to keep pushing your own limits. But there’s a trap: being too ambitious, getting overwhelmed, and then giving up because the goal seems impossible. Don’t fall for that. The key is to stay ambitious, accept that the road might be long, and always keep your eyes on the final destination.
 
-I always focus on who I’ll become in three or five years, not on every single step along the way. Each day, I do a little bit more, but I keep picturing myself as the person I want to be. Life is short, and it’s crucial to know exactly where you want to go. If you’re not ambitious, or if you let yourself be influenced by your environment, you risk blending in and losing your spark. It’s like being a tea bag in hot water—eventually, you just soak up whatever’s around you.
+I always focus on who I’ll become in three or five years, not on every single step along the way. Each day, I do a little bit more, but I keep picturing myself as the person I want to be. Life is short, and it’s crucial to know exactly where you want to go. If you’re not ambitious, or if you let yourself be influenced by your environment, you risk blending in and losing your spark. It’s like being a tea bag in hot water: eventually, you just soak up whatever’s around you.
 
 Your environment sets your reference point for success. That’s why sometimes moving to a new place can change everything. If you’re a footballer, imagine moving to Brazil, where the average skill level is much higher. Or if you dream of playing basketball professionally, going to the US and joining an NBA team would push you to new heights. Even if you’re not the best, just being surrounded by people who are better than you will raise your own standards.
 
@@ -32,13 +32,13 @@ One exercise I find helpful is to imagine yourself having already succeeded. Pic
 
 Don’t just think, “That’s interesting,” and then forget about it. Do the exercise now. Life is short, and this simple step can have a dramatic effect on your progress.
 
-Sometimes, creativity comes from seeing things differently. Like using old blinds as a room divider—everything can be recycled, even ideas. Stay imaginative, stay bold, and remember: you truly deserve success.
+Sometimes, creativity comes from seeing things differently. Like using old blinds as a room divider: everything can be recycled, even ideas. Stay imaginative, stay bold, and remember: you truly deserve success.
 
 > *Ambition is the path to success. Persistence is the vehicle you arrive in.*
-> — Bill Bradley
+> *Bill Bradley*
 
 > *You are the average of the five people you spend the most time with.*
-> — Jim Rohn
+> *Jim Rohn*
 
 ---
 
@@ -46,8 +46,8 @@ Sometimes, creativity comes from seeing things differently. Like using old blind
 
 ## Key Takeaways
 
-- *Ambition means wanting more than what’s around you—don’t be afraid to aim higher.*
-- *Your environment shapes your limits. Change it, even virtually, to raise your standards.*
+- *Ambition means wanting more than what’s around you: don’t be afraid to aim higher.*
+- *Your environment affects your limits. Change it, even virtually, to raise your standards.*
 - *Visualize your future self, then work backward to map out the steps you need to take.*
 - *Take daily action, no matter how small, toward your big goal.*
 - *Surround yourself with people who inspire you, and limit time with those who hold you back.*

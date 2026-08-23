@@ -20,19 +20,19 @@ Every day is a chance to do something new. I invite you to make it a habit: do o
 
 > *To dare is to lose one’s footing momentarily. Not to dare is to lose oneself.*
 >
-> — Søren Kierkegaard
+> *Søren Kierkegaard*
 
 {{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGNvbWZvcnQlMjB6b25lJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU1NTUzNDU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Stretch Your Comfort Zone Without Feeling Overwhelmed" caption="How to Stretch Your Comfort Zone Without Feeling Overwhelmed - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
-This quote rings so true. When you dare, you might feel off balance for a moment. But if you never dare, you risk losing your life’s spark. So, do something new every day. It could open doors to new opportunities. Maybe you’ll get fresh ideas, or you’ll realize, “This is what I’ve wanted to do for years.” Sometimes, trying something new gives you that “aha” moment—a sudden realization that feels just right.
+This quote rings so true. When you dare, you might feel off balance for a moment. But if you never dare, you risk losing your life’s spark. So, do something new every day. It could open doors to new opportunities. Maybe you’ll get fresh ideas, or you’ll realize, “This is what I’ve wanted to do for years.” Sometimes, trying something new gives you that “aha” moment: a sudden realization that feels just right.
 
-When I go to different places, even just taking a new route to work or visiting a new café in the evening, I find inspiration. I care a lot about my environment. I love being in pleasant places, and I try to absorb what the environment gives me. It’s like building with Legos—I collect pieces from everything around me, and they help me create new ideas I never would have thought of before.
+When I go to different places, even just taking a new route to work or visiting a new café in the evening, I find inspiration. I care a lot about my environment. I love being in pleasant places, and I try to absorb what the environment gives me. It’s like building with Legos; I collect pieces from everything around me, and they help me create new ideas I never would have thought of before.
 
 By stretching your comfort zone, you’ll find it easier to try new things. The more you do things that scare you a little, the less scary they become. The first time you do something new, it feels intimidating. Think about a job interview: the first one is nerve-wracking, but by the tenth, it feels almost routine.
 
 > *The cave you fear to enter holds the treasure you seek.*
 >
-> — Joseph Campbell
+> *Joseph Campbell*
 
 So, I wish you all the best as you try new things. Remember, every small step counts. You never know what you might discover about yourself or the world around you.
 
@@ -43,7 +43,7 @@ So, I wish you all the best as you try new things. Remember, every small step co
 ## Key Takeaways
 - *Do one new thing every day, no matter how small.*
 - *Stretching your comfort zone makes new things less scary over time.*
-- *Your environment can inspire you—change it up whenever you can.*
+- *Your environment can inspire you: change it up whenever you can.*
 - *A single new experience can spark ideas or realizations you’ve been waiting for.*
 
 ## Reflection

@@ -22,15 +22,15 @@ A trick I often use is the “24-hour rule.” Give yourself a clear deadline to
 
 {{< figure src="https://images.unsplash.com/photo-1662631241973-7d567806d8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvYmplY3Rpb25zJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1Mjc4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A boy holding a picture frame" title="How to Turn Daily Doubts Into Your Best Opportunities" caption="How to Turn Daily Doubts Into Your Best Opportunities - Photo by [Bohdan Stocek](https://unsplash.com/@bohdans) on [Unsplash](https://unsplash.com/photos/a-boy-holding-a-picture-frame-1qI_LnQ24Ds)" >}}
 
-The next day, try to do it even better. Keep iterating. Each day, aim for a new and improved version of yourself. Today might be version one, tomorrow version two, and so on. This is how you become the best at what you do—not by staying still, but by always seeking a better version of your previous day.
+The next day, try to do it even better. Keep iterating. Each day, aim for a new and improved version of yourself. Today might be version one, tomorrow version two, and so on. This is how you become the best at what you do, not by staying still, but by always seeking a better version of your previous day.
 
 Iteration is powerful because it’s the opposite of stagnation. When you iterate, you’re always searching for a new way, a better way. That’s how progress happens, step by step, sprint by sprint.
 
 > _The only way to get better is to keep trying, keep iterating, and never settle for yesterday’s version of yourself._
-— Anonymous
+*Anonymous*
 
 > _Progress is born from the courage to question, to try, and to try again._
-— Anonymous
+*Anonymous*
 
 If you feel like you’re repeating yourself or things aren’t moving fast enough, remember that every small improvement counts. Even if you’re quiet or distracted, keep going. Close the door, focus, and give yourself the space to iterate.
 
@@ -39,7 +39,7 @@ If you feel like you’re repeating yourself or things aren’t moving fast enou
 {{< figure src="https://images.unsplash.com/photo-1703783413562-d2577d9c4e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxvYmplY3Rpb25zJTIwc2VsZi1kb3VidCUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY1Mjc4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says be your self on a brick wall" title="How to Turn Daily Doubts Into Your Best Opportunities" caption="How to Turn Daily Doubts Into Your Best Opportunities - Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-be-your-self-on-a-brick-wall-wxJk58kuw54)" >}}
 
 ## Key Takeaways
-- Objections are normal—use them as signals to try new approaches.
+- Objections are normal: use them as signals to try new approaches.
 - Iteration is your best friend: improve a little every day.
 - Use time limits and sprints to boost your efficiency.
 - Don’t settle for yesterday’s version of yourself.

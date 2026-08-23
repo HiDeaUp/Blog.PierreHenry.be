@@ -18,11 +18,11 @@ Have you ever felt unhappy, like you’re not really living your own life? I kno
 
 It’s easy to get caught up in what others expect. You might find yourself making choices just to please people or to fit in. But at the end of the day, you’re the one who has to live your life. You have to make your own decisions. Sometimes, that means leaving your job, your city, or even your country. It means taking a risk, even when people around you say, “How do you know it will be better?” The truth is, you don’t know. But if you never try, you’ll never find out.
 
-We only get one life. So why not try? Maybe you dream of living in the countryside, raising sheep, and making honey. Maybe you think that’s your thing, and after a few years, you realize it’s not for you at all. But at least you lived the experience. The same goes for starting a business. It’s stressful, you lose sleep, but if it excites you, if it pushes you to grow, if it makes you feel alive—then go for it.
+We only get one life. So why not try? Maybe you dream of living in the countryside, raising sheep, and making honey. Maybe you think that’s your thing, and after a few years, you realize it’s not for you at all. But at least you lived the experience. The same goes for starting a business. It’s stressful, you lose sleep, but if it excites you, if it pushes you to grow, if it makes you feel alive: then go for it.
 
-Of course, not everyone is built for the same things. Some people just want a simple, peaceful life, without stress or worries. And that’s perfectly fine. Creating a startup, for example, is not a calm life. Some people handle stress better than others, and that’s just how it is. We’re all different. The way we grew up, our families, our personalities—they all shape us. Sure, we can change a little, improve a bit, but at the end of the day, we are who we are. You can’t become someone completely different. You’ll always come back to your true self.
+Of course, not everyone is built for the same things. Some people just want a simple, peaceful life, without stress or worries. And that’s perfectly fine. Creating a startup, for example, is not a calm life. Some people handle stress better than others, and that’s just how it is. We’re all different. The way we grew up, our families, our personalities; they all influence us. Sure, we can change a little, improve a bit, but at the end of the day, we are who we are. You can’t become someone completely different. You’ll always come back to your true self.
 
-Sometimes, we think we can change everything about ourselves—become outgoing if we’re shy, or stop being stressed. Yes, you can change a little, especially if your environment changes. For example, some people are shy in one country or culture, but not at all in another. We become what our environment allows us to be. If your surroundings lift you up, help you feel good, and let you be happy, then that’s what matters. That’s why sometimes you need to choose a different environment, maybe even a different country, to become the person you want to be.
+Sometimes, we think we can change everything about ourselves: become outgoing if we’re shy, or stop being stressed. Yes, you can change a little, especially if your environment changes. For example, some people are shy in one country or culture, but not at all in another. We become what our environment allows us to be. If your surroundings lift you up, help you feel good, and let you be happy, then that’s what matters. That’s why sometimes you need to choose a different environment, maybe even a different country, to become the person you want to be.
 
 {{< figure src="https://images.unsplash.com/photo-1546440765-e7e3c881b5fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTE4MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman waving her hands during golden hour" title="How to Find Happiness Without Living for Others" caption="How to Find Happiness Without Living for Others - Photo by [Mink Mingle](https://unsplash.com/@minkmingle) on [Unsplash](https://unsplash.com/photos/woman-waving-her-hands-during-golden-hour-tXeTUbu9cFg)" >}}
 
@@ -31,10 +31,10 @@ One thing I’ve learned is that teaching what you learn is a great way to reall
 *At the end of the day, you have to live your own life. Make choices for yourself, not for others. Try new things, even if you’re not sure they’ll work out. You’ll learn, you’ll grow, and you’ll get closer to real happiness.*
 
 > *The only way to do great work is to love what you do.*
-— Steve Jobs
+*Steve Jobs*
 
 > *Happiness is not something ready made. It comes from your own actions.*
-— Dalai Lama
+*Dalai Lama*
 
 ---
 
@@ -43,7 +43,7 @@ One thing I’ve learned is that teaching what you learn is a great way to reall
 - Living for others will never make you truly happy.
 - You have to make your own choices, even if it means taking risks.
 - Trying new things, even if they don’t work out, is better than never trying at all.
-- Your environment shapes you—sometimes a change of place can help you become who you want to be.
+- Your environment affects you: sometimes a change of place can help you become who you want to be.
 - Teaching what you learn helps you understand and remember it better.
 
 {{< figure src="https://images.unsplash.com/photo-1459369510627-9efbee1e6051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWRpc2NvdmVyeSUyMGhhcHBpbmVzcyUyMGF1dGhlbnRpY2l0eXxlbnwwfDB8fHwxNzU1NTE4MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="The Book of Happy" title="How to Find Happiness Without Living for Others" caption="How to Find Happiness Without Living for Others - Photo by [Josh Felise](https://unsplash.com/@jfelise) on [Unsplash](https://unsplash.com/photos/person-holding-happy-by-alex-lemon-book-yIMy3ERBc3o)" >}}

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/31a06ba631fa"
 
 We often tell ourselves that we don’t have the time or motivation to start something new. Maybe you’ve thought, “I’ll never manage to do that,” or “That’s just not for me.” Sometimes, it’s the way we were raised or the habits we’ve picked up that make us believe certain things are impossible. But what if the real issue is just the way we look at the problem?
 
-Let’s say you want to create something—a course, a project, or even just a new habit—but you only have a minute to spare. The truth is, everyone can find a minute. Even the busiest people in the world have a spare moment. If you use that minute wisely, you can start something meaningful. For example, you could create a short training session, break it into tiny parts, and later compile them into a full course. Platforms like Podia or others make it easy to share these mini-sessions, whether they’re about well-being, psychology, or any other topic.
+Let’s say you want to create something (a course, a project, or even just a new habit), but you only have a minute to spare. The truth is, everyone can find a minute. Even the busiest people in the world have a spare moment. If you use that minute wisely, you can start something meaningful. For example, you could create a short training session, break it into tiny parts, and later compile them into a full course. Platforms like Podia or others make it easy to share these mini-sessions, whether they’re about well-being, psychology, or any other topic.
 
 If you’re thinking about something more technical, like programming, you can still break it down into small, manageable steps. Sure, it might take a bit more editing, but you can always ask for help on platforms like Fiverr or PeoplePerHour. There’s really no excuse to say, “I can’t do this because I don’t know how.” Even ten-minute chunks add up. After a week, that’s an hour of progress. In that time, you could create a full training session, a sales video, and even a short clip for TikTok, Instagram Reels, or YouTube Shorts.
 
@@ -26,17 +26,17 @@ So, I invite you to change the way you think about “thinking outside the box.�
 
 {{< figure src="https://images.unsplash.com/photo-1618170309794-edae678bb286?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2ZSUyMHRoaW5raW5nJTIwcHJvYmxlbSUyMHNvbHZpbmclMjBtaW5kc2V0JTIwc2hpZnR8ZW58MHwwfHx8MTc1NjUwNjg1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that is on the side of a wall" title="How to Think Differently Without More Time or Motivation" caption="How to Think Differently Without More Time or Motivation - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-is-on-the-side-of-a-wall-uMYl0PJSro0)" >}}
 
-Think of it like starting a car with a manual transmission—the beginning is the toughest. So, how can you make the start less painful? If you want to write a book, for example, set up your workspace so it’s ready for writing. That way, your brain knows it’s time to work. Prepare your computer with the right program, whether it’s Word or something else. Maybe you’d rather use a tablet and a different app. Why not make a fun little training session using Apple Notes and record your iPad screen? You could even do it at a café, making the process more enjoyable.
+Think of it like starting a car with a manual transmission: the beginning is the toughest. So, how can you make the start less painful? If you want to write a book, for example, set up your workspace so it’s ready for writing. That way, your brain knows it’s time to work. Prepare your computer with the right program, whether it’s Word or something else. Maybe you’d rather use a tablet and a different app. Why not make a fun little training session using Apple Notes and record your iPad screen? You could even do it at a café, making the process more enjoyable.
 
 You can combine learning with other activities, like having an espresso while you work. The point is to make things more pleasant and less of a chore. Every time you hit a roadblock, instead of forcing yourself through it, ask: “How could I do this differently? Is there a better way? Can I change how I see this problem?” That’s where real breakthroughs happen.
 
 > *The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.*
 >
-> — Marcel Proust
+> *Marcel Proust*
 
 > *If you change the way you look at things, the things you look at change.*
 >
-> — Wayne Dyer
+> *Wayne Dyer*
 
 When you start to see obstacles as opportunities to try something new, you’ll find progress comes more easily. Sometimes, it’s just about taking small steps and making the beginning as simple as possible.
 
@@ -48,7 +48,7 @@ When you start to see obstacles as opportunities to try something new, you’ll 
 
 - *Break big tasks into tiny steps; even a minute a day adds up.*
 - *Change your environment or routine to see problems differently.*
-- *Make starting as easy as possible—set up your tools and space in advance.*
+- *Make starting as easy as possible: set up your tools and space in advance.*
 - *Ask yourself how you can do things differently, not just harder.*
 - *Travel, new experiences, and fresh perspectives can spark creative solutions.*
 

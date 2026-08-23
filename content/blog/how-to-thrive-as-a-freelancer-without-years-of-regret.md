@@ -32,7 +32,7 @@ One thing I’ve learned is that you never want to be the smartest person in the
 
 Let me give you a simple example. I recently visited a dermatologist in Australia. It cost $200, which is much more than the usual $60 or $70. But here’s the difference: the appointment lasted 40 minutes, not five. The doctor explained everything, took detailed photos, and gave me access to a portal where I can track changes in my skin over time. They use advanced tools and take the time to make sure nothing is missed.
 
-Most places rush you in and out. Here, I felt cared for. I paid more, but I got real value. This is what sets a great service apart. People are willing to pay more if they know they’ll get something special—attention, care, and peace of mind.
+Most places rush you in and out. Here, I felt cared for. I paid more, but I got real value. This is what sets a great service apart. People are willing to pay more if they know they’ll get something special: attention, care, and peace of mind.
 
 ## Create Magical Moments for Your Clients
 
@@ -42,12 +42,12 @@ If you offer something unique, people will come back to you, even if you charge 
 
 ## Go Beyond Expectations
 
-I talk about this a lot in my self-help book, but it’s worth repeating: always look for ways to go beyond what’s expected. Surprise your clients, your team, or anyone you work with. Give them something memorable. That’s how you build loyalty and stand out.
+Always look for ways to go beyond what’s expected. Surprise your clients, your team, or anyone you work with. Give them something memorable. That’s how you build loyalty and stand out.
 
 > _If the journey is beautiful, we don’t ask where it leads. We just enjoy the path._
-> — Anonymous
+> *Anonymous*
 
-## Don’t Wait—Start Now
+## Don’t Wait: Start Now
 
 {{< figure src="https://images.unsplash.com/photo-1657781328616-ac5fd9f77041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlbGFuY2luZyUyMGxpZmUlMjBsZXNzb25zJTIwZW50cmVwcmVuZXVyc2hpcHxlbnwwfDB8fHwxNzU1NjA4NDAzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Unknown Destination" title="How to Thrive as a Freelancer Without Years of Regret" caption="How to Thrive as a Freelancer Without Years of Regret - Photo by [Firosnv. Photography](https://unsplash.com/@firosnv) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-stump-yr6WkYdPZIs)" >}}
 
@@ -59,7 +59,7 @@ The best time to take action is today. Don’t put off what you want to do. Go f
 
 - *Team culture and small gestures matter more than you think.*
 - *Surround yourself with people who challenge and inspire you.*
-- *Go the extra mile for your clients—those little extras make you unforgettable.*
+- *Go the extra mile for your clients: those little extras make you unforgettable.*
 - *Don’t wait for the perfect moment. Start now.*
 
 ## Reflection

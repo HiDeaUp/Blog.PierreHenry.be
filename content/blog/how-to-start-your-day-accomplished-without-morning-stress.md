@@ -25,10 +25,10 @@ One trick that works wonders is taking a cold shower right after you wake up. It
 Once you’re awake and refreshed, you start working through your list, one task at a time. There’s no rush, just steady progress. By the time you finish, you have the rest of the day for yourself, for work, or for anything else that matters to you. This simple routine can change the way you experience your days.
 
 > _“The way you start your day determines how well you live your day.”_
-— Robin Sharma
+*Robin Sharma*
 
 > _“Discipline is choosing between what you want now and what you want most.”_
-— Abraham Lincoln
+*Abraham Lincoln*
 
 ---
 

@@ -18,7 +18,7 @@ Making progress each day is critical. When you move forward, accomplish things, 
 
 Too often, we get stuck on tiny details, chasing perfection, or spending hours on tasks that add little value. These things might feel important in the moment, but over time, they don’t give much back. Yet, it’s easy to lose hours on them without even noticing.
 
-The solution is to plan your week ahead, using a system that breaks your goals into focused sprints. You might have heard of Kanban or Scrum—these are methods from the tech world, but you can use their ideas in your daily life. The point is to organize your days so that every action lines up with your main goal for the week.
+The solution is to plan your week ahead, using a system that breaks your goals into focused sprints. You might have heard of Kanban or Scrum: these are methods from the tech world, but you can use their ideas in your daily life. The point is to organize your days so that every action lines up with your main goal for the week.
 
 Optimization here doesn’t mean squeezing every second out of your day. It means doing only what’s necessary and skipping the rest. Don’t overload yourself with tasks that don’t move you forward.
 
@@ -26,9 +26,9 @@ Optimization here doesn’t mean squeezing every second out of your day. It mean
 
 Let me give you a concrete example. Today is the start of my own sprint. I’ve set a clear goal: maybe it’s reaching 20,000 visitors on my YouTube channel, or launching a new feature for my product. I break this big goal into small tasks, or tickets. You can use tools like Trello or Asana for this. Jira is more for big companies and can be expensive, so I don’t recommend it unless you really need it.
 
-Take a big task and split it into smaller pieces. For example, if you want to add a member area to your website, break it down: one ticket for the login page, another for the design, another for the registration page, one for data validation, another for logout, and so on. If you’re working with APIs, create a separate ticket for each endpoint—each unique URL that handles a specific action.
+Take a big task and split it into smaller pieces. For example, if you want to add a member area to your website, break it down: one ticket for the login page, another for the design, another for the registration page, one for data validation, another for logout, and so on. If you’re working with APIs, create a separate ticket for each endpoint: each unique URL that handles a specific action.
 
-This approach isn’t just for tech projects. You can use it for anything, even cleaning your house. Break the job into small tickets: windows, bathroom, bedroom, living room, and so on. Each day, pick a couple of these tasks. By the end of your sprint—whether it’s a week, two weeks, or whatever fits your life—you’ll have completed everything you set out to do.
+This approach isn’t just for tech projects. You can use it for anything, even cleaning your house. Break the job into small tickets: windows, bathroom, bedroom, living room, and so on. Each day, pick a couple of these tasks. By the end of your sprint (whether it’s a week, two weeks, or whatever fits your life) you’ll have completed everything you set out to do.
 
 Working this way means you wake up knowing exactly what to do. You don’t waste time wondering where to start. There’s no back and forth, no jumping between unfinished tasks. You finish one, move it to “done,” and start the next. This rhythm helps you finish your days faster and with a real sense of accomplishment.
 
@@ -36,11 +36,11 @@ The length of your sprint is up to you. It could be a week, two weeks, or whatev
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 > *What gets measured gets managed.*
 >
-> — Peter Drucker
+> *Peter Drucker*
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMGdvYWwlMjBzZXR0aW5nfGVufDB8MHx8fDE3NTYzMzk3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Make Real Progress Without Wasting Your Day" caption="How to Make Real Progress Without Wasting Your Day - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 

@@ -30,7 +30,7 @@ Let’s talk about fear. It can be so strong that it stops us in our tracks. But
 
 {{< figure src="https://images.unsplash.com/photo-1629596233085-5afb30509f41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwaG9iaWFzJTIwb3ZlcmNvbWluZyUyMGZlYXJzJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTI2MTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="https://www.havenofear.live/" title="How to Face Your Fears Without Feeling Overwhelmed" caption="How to Face Your Fears Without Feeling Overwhelmed - Photo by [Dylan Hunter](https://unsplash.com/@dylhunter) on [Unsplash](https://unsplash.com/photos/a-piece-of-paper-that-says-have-no-fear-on-it-IVr-MaXMHaI)" >}}
 
-If you’re afraid of drowning, the ocean, or even sharks, the best way to overcome that fear is to gently expose yourself to it, step by step. Start by visualizing what scares you. For example, if you’re afraid of spiders, begin by watching short documentaries or videos about them—just a few minutes a week. Gradually increase the time you spend watching these videos.
+If you’re afraid of drowning, the ocean, or even sharks, the best way to overcome that fear is to gently expose yourself to it, step by step. Start by visualizing what scares you. For example, if you’re afraid of spiders, begin by watching short documentaries or videos about them: just a few minutes a week. Gradually increase the time you spend watching these videos.
 
 Once you’re comfortable with that, visit an animal park where you can see real spiders. At first, just observe them. Imagine yourself getting closer. The next step is to try touching a spider, even if it’s just brushing against one. Ask someone to help you if needed. Each small step chips away at your fear.
 
@@ -42,11 +42,11 @@ The more you practice facing your fear, the less power it has over you. Experien
 
 > *Courage is not the absence of fear, but the triumph over it.*
 >
-> — Nelson Mandela
+> *Nelson Mandela*
 
 > *Do the thing you fear, and the death of fear is certain.*
 >
-> — Ralph Waldo Emerson
+> *Ralph Waldo Emerson*
 
 ---
 

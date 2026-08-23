@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/c4cf67fa1a52"
 
 {{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwaW5kaWNhdG9ycyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBwcm9ncmVzcyUyMHRyYWNraW5nfGVufDB8MHx8fDE3NTU0MjM3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Track Progress Without Just Working Harder" caption="How to Track Progress Without Just Working Harder - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
-We all want to feel that our days matter, that what we do is moving us forward. But how do you know if you’re really making progress? Whether you’re a developer, an architect, a secretary, or even a stay-at-home parent, having a clear sense of direction is essential. It’s not just about being busy—it’s about knowing if your efforts are actually leading somewhere.
+We all want to feel that our days matter, that what we do is moving us forward. But how do you know if you’re really making progress? Whether you’re a developer, an architect, a secretary, or even a stay-at-home parent, having a clear sense of direction is essential. It’s not just about being busy; it’s about knowing if your efforts are actually leading somewhere.
 
 ## Why You Need Success Indicators
 
@@ -22,7 +22,7 @@ Without clear indicators, we’re just wandering in the fog. You might spend hou
 
 ## The Power of Progress Indicators
 
-Let’s say you want to learn design. You take a couple of online courses, but you’re not sure if you’re actually improving. The real learning happens when you practice—when you try to recreate a design on your own, without the course video. The same goes for coding: after following a tutorial, try to write the code from memory the next day. This is how you measure your progress, step by step.
+Let’s say you want to learn design. You take a couple of online courses, but you’re not sure if you’re actually improving. The real learning happens when you practice: when you try to recreate a design on your own, without the course video. The same goes for coding: after following a tutorial, try to write the code from memory the next day. This is how you measure your progress, step by step.
 
 A progress indicator tells you if you’re on the right path. If you’re not improving, it’s a sign that your learning has stalled. We should always be moving forward, even if it’s just a little bit each day.
 
@@ -30,7 +30,7 @@ A progress indicator tells you if you’re on the right path. If you’re not im
 
 ## What About Success Indicators?
 
-While progress indicators help you see your daily or weekly improvement, success indicators give you a bigger picture. They’re about your long-term vision. Maybe your goal is to become a senior designer at a certain company, or to build a business that earns a specific amount and helps a particular group of people. Set a clear target—like reaching your goal in three and a half months.
+While progress indicators help you see your daily or weekly improvement, success indicators give you a bigger picture. They’re about your long-term vision. Maybe your goal is to become a senior designer at a certain company, or to build a business that earns a specific amount and helps a particular group of people. Set a clear target, like reaching your goal in three and a half months.
 
 Every week (not just every month), review your progress. Look back at what you’ve done, and see if you’re getting closer to your goal. This weekly check-in keeps you honest and helps you adjust your strategy before you drift too far off course.
 
@@ -40,11 +40,11 @@ It’s tempting to jump from one course or book to another, thinking you’ll le
 
 ## Plan Before You Start
 
-Good organization is key. Before you dive into a task—whether it’s coding, designing, or anything else—take time to plan. There’s a famous quote that sums this up perfectly:
+Good organization is key. Before you dive into a task (whether it’s coding, designing, or anything else) take time to plan. There’s a famous quote that sums this up perfectly:
 
-> *If you give me six hours to chop down a tree, I will spend the first four sharpening the axe.*
+> *If you give me six hours to chop down a tree, I will spend the first four preparing the axe.*
 >
-> — Abraham Lincoln
+> *Abraham Lincoln*
 
 Planning isn’t wasted time. It’s what makes the execution smoother and faster. Spend time thinking about how you’ll tackle the task, and you’ll save yourself a lot of trouble later.
 
@@ -57,7 +57,7 @@ Planning isn’t wasted time. It’s what makes the execution smoother and faste
 - *Set clear progress and success indicators to know if you’re moving forward.*
 - *Track your time and review your progress every week, not just monthly.*
 - *Stick to one or two main resources to avoid confusion and stay focused.*
-- *Plan your approach before starting any task—preparation is everything.*
+- *Plan your approach before starting any task: preparation is everything.*
 
 ---
 

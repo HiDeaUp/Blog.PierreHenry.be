@@ -25,10 +25,10 @@ One powerful method to help you stay resilient is what I call "rabbit stacking."
 Progress is rarely about giant leaps. It is about steady, gradual improvement. The curve of progress is real: at first, results may seem slow, but if you keep going, you will see real change. Every small step counts, and each day you stick to your habits, you move closer to where you want to be.
 
 > _Success is the sum of small efforts, repeated day in and day out._
-> — Robert Collier
+> *Robert Collier*
 
 > _Resilience is not about never falling, but about always getting back up with your eyes on the goal._
-> — Anonymous
+> *Anonymous*
 
 ---
 
@@ -39,7 +39,7 @@ Progress is rarely about giant leaps. It is about steady, gradual improvement. T
 - *Resilience requires effort, but it gets easier with a clear goal.*
 - *Define your destination and set a deadline to simplify your path.*
 - *Turn actions into habits using the "rabbit stacking" principle.*
-- *Progress is gradual—trust the process and keep moving forward.*
+- *Progress is gradual: trust the process and keep moving forward.*
 
 ---
 

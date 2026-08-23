@@ -29,10 +29,10 @@ But learning doesn’t stop with you. Teaching what you’ve learned to others h
 Improvement is a slow, steady process. By repeating these small steps, you become a better version of yourself, day after day. If you want to take things further, consider how your environment and mindset play a role. Vary your activities, keep your surroundings simple and supportive, and pay attention to how these changes affect your happiness and learning.
 
 > *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
-— Aristotle
+*Aristotle*
 
 > *“The journey of a thousand miles begins with a single step.”*  
-— Lao Tzu
+*Lao Tzu*
 
 {{< figure src="https://images.unsplash.com/photo-1646270719264-2d29b44e0bea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2tpbGwlMjBpbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTU5OTc4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in silhouette skipping rocks at sunset on the beach" title="How to Grow Your Skills Every Day Without Feeling Overwhelmed" caption="How to Grow Your Skills Every Day Without Feeling Overwhelmed - Photo by [Megs Harrison](https://unsplash.com/@mharrisonphotography) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-man-throwing-a-frisbee-at-sunset-NrHU5Em3K7U)" >}}
 
@@ -42,7 +42,7 @@ Improvement is a slow, steady process. By repeating these small steps, you becom
 - Every day is a new chance to learn and grow, no matter how small the step.
 - Reflect on what you read or do, and write down your takeaways.
 - Teaching others helps you remember and organize what you’ve learned.
-- Your environment and mindset matter—keep them simple and supportive.
+- Your environment and mindset matter: keep them simple and supportive.
 
 ## Reflection
 - What did I learn today, and how can I use it?

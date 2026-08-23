@@ -26,17 +26,17 @@ Right now, as I write this, it is six in the morning. It is still dark outside, 
 
 This is what iteration is all about: making small adjustments, testing new solutions, and seeing what works for you. It is the best way to improve your habits, your character, and your sense of self.
 
-There are many ways to boost your happiness, but it all starts with questioning yourself and being willing to search for a lifestyle that truly fits you. Sometimes, your routine is almost perfect, but you still have a project close to your heart. To make it happen, you need to create a habit. At first, forcing yourself to do something every day might sound negative, but if it leads to real satisfaction—like writing a book or finishing a project—you will be proud of yourself. In the long run, this daily effort pays off.
+There are many ways to boost your happiness, but it all starts with questioning yourself and being willing to search for a lifestyle that truly fits you. Sometimes, your routine is almost perfect, but you still have a project close to your heart. To make it happen, you need to create a habit. At first, forcing yourself to do something every day might sound negative, but if it leads to real satisfaction (like writing a book or finishing a project) you will be proud of yourself. In the long run, this daily effort pays off.
 
 So, set aside an hour each day for what matters to you. Stick with it. The feeling of accomplishment will be worth it.
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 >
-> — Aristotle
+> *Aristotle*
 
 ---
 
@@ -47,7 +47,7 @@ So, set aside an hour each day for what matters to you. Stick with it. The feeli
 - *Reflect on your happiest and most frustrating moments to understand yourself better.*
 - *Keep notes to identify patterns in your mood and behavior.*
 - *Make small, practical changes to your routines and habits.*
-- *Test new solutions and adjust as needed—iteration is key.*
+- *Test new solutions and adjust as needed: iteration is key.*
 - *Daily effort towards a meaningful goal brings long-term satisfaction.*
 
 ## Reflection

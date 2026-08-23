@@ -22,11 +22,11 @@ We keep these traditions going without thinking about them. Maybe it’s time to
 
 ## Finding Comfort and Relaxation
 
-Let’s talk about comfort for a moment. I love relaxing chairs—the kind you can sink into and just let go. I should get one for my home. There’s something about finding a spot where you can truly relax that does wonders for your mind. Even little things, like a soft green cushion, can make a difference. It’s about creating spaces that feel good for you.
+Let’s talk about comfort for a moment. I love relaxing chairs: the kind you can sink into and just let go. I should get one for my home. There’s something about finding a spot where you can truly relax that does wonders for your mind. Even little things, like a soft green cushion, can make a difference. It’s about creating spaces that feel good for you.
 
 Taking care of yourself isn’t just about physical health. Your mental well-being matters just as much. Surround yourself with things and places that make you feel at ease. It’s a simple way to support your own happiness.
 
-## The Importance of Health—For Everyone
+## The Importance of Health: For Everyone
 
 {{< figure src="https://images.unsplash.com/photo-1683621284476-549af8467c8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjB0cmFkaXRpb25zJTIwbGlmZXN0eWxlJTIwY2hhbmdlc3xlbnwwfDB8fHwxNzU1NTc3NzMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A South African couple with diabetes prepares a meal with an older friend." title="How to Toast to Health Without Raising a Glass of Alcohol" caption="How to Toast to Health Without Raising a Glass of Alcohol - Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes) on [Unsplash](https://unsplash.com/photos/a-group-of-people-standing-around-a-stove-preparing-food-Rtij1ic7Nrc)" >}}
 
@@ -35,20 +35,20 @@ I can’t say it enough: your health is everything. I wish good health for every
 There are things in life we can’t change. For those, let them go. Focus on what you can change, and put your energy there. The rest? Toss it out, just like you’d throw away an apple core.
 
 > _“The greatest wealth is health.”_  
-> — Virgil
+> *Virgil*
 
 ## Traditions, Habits, and a Touch of Humor
 
-Sometimes, you see things that make you smile—a Christmas tree in August, for example. It’s a reminder that life doesn’t always follow the rules, and that’s okay. Find joy in the little things, even if they seem out of place.
+Sometimes, you see things that make you smile: a Christmas tree in August, for example. It’s a reminder that life doesn’t always follow the rules, and that’s okay. Find joy in the little things, even if they seem out of place.
 
 Here’s another thought: when we leave a store, we say “have a nice day.” But why stop there? Why not wish people a good life? It might sound strange, but isn’t that what we really want for each other? Next time, try it. Wish someone an excellent life. It might just make their day.
 
-## Don’t Wait—Start Now
+## Don’t Wait: Start Now
 
 Life is short. There’s no point wasting it on things you don’t enjoy. If you want to do something, start now. There will never be a perfect moment. The right time is always now. Don’t put off what matters to you. Take action today.
 
 > _“Don’t put off until tomorrow what you can do today.”_  
-> — Benjamin Franklin
+> *Benjamin Franklin*
 
 I’m with you on this journey. I know you can do it. Let’s keep moving forward together.
 
@@ -58,11 +58,11 @@ I’m with you on this journey. I know you can do it. Let’s keep moving forwar
 
 ## Key Takeaways
 
-- Question old traditions—do they really make sense?
+- Question old traditions: do they really make sense?
 - Take care of your health, both body and mind.
 - Create spaces that help you relax and feel good.
 - Focus on what you can change; let go of what you can’t.
-- Don’t wait for the “right moment”—start now.
+- Don’t wait for the “right moment”: start now.
 - Wish others not just a good day, but a good life.
 
 ## Action Steps
@@ -70,7 +70,7 @@ I’m with you on this journey. I know you can do it. Let’s keep moving forwar
 - Next time you toast, try it with something healthy.
 - Make your environment comfortable for your mind and body.
 - Let go of stress you can’t control.
-- Begin that thing you’ve been putting off—today.
+- Begin that thing you’ve been putting off: today.
 
 ## Reflection
 

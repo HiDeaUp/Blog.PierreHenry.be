@@ -37,7 +37,7 @@ Build something that lasts. Something that matters. And remember, empires aren�
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 If you give just one or two hours every day, every single day, you’ll see the difference. Consistency is the secret ingredient. That’s what I wish for you.
 
@@ -53,7 +53,7 @@ If something isn’t working, pivot. Change your angle. Imagine you’re running
 
 > *It does not matter how slowly you go as long as you do not stop.*
 >
-> — Confucius
+> *Confucius*
 
 ## Build for Real People
 
@@ -67,17 +67,13 @@ Don’t forget the details. Their age, their likes and dislikes, their job, thei
 
 > *The secret of getting ahead is getting started.*
 >
-> — Mark Twain
+> *Mark Twain*
 
 ## Your Empire, Your Rules
 
-I create for myself first. It helps me organize what I learn, to make sense of it all. My workshops are my second brain. But I realized I shouldn’t keep everything to myself. Sharing what I know helps others, and that’s where the real value lies.
+I create for myself first. It helps me organize what I learn and make sense of it all. Sharing what I know can then help someone else, and that’s where the real value lies.
 
 {{< figure src="https://images.unsplash.com/photo-1678221420340-cd736d15b155?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kJTIwbGV0dGluZyUyMGdvJTIwcGFwZXIlMjBwbGFuZXxlbnwwfDB8fHwxNzgyMDQwNDgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Launching dreams beyond old limitations" title="How to Start Living for Yourself Without Following Old Rules" caption="Launching dreams beyond old limitations - Photo by [Ben Soyka](https://unsplash.com/@bsoyka)" >}}
-
-But I also believe in keeping things precious. Like diamonds, value comes from rarity. If everyone has it, it loses its shine. That’s why I don’t make my workshops available to everyone, all the time. I want them to stay special, for those who are truly ready to go further.
-
-Even if you’ve learned from the biggest names in personal growth and productivity, I’m sure my workshops will surprise you. They’re made for people like you, people who want to live life on their own terms.
 
 So, here’s my wish for you: keep moving forward, step by step. Life won’t wait for you. If you love what you do, if you know who you’re doing it for, you’ll go far. Passion and clarity are your compass.
 
@@ -90,5 +86,5 @@ So, here’s my wish for you: keep moving forward, step by step. Life won’t wa
 - *Consistency beats talent and luck. Show up every day.*
 - *Perseverance is good; stubbornness is not. Pivot when needed.*
 - *Know your audience deeply. Create for real people, not faceless crowds.*
-- *Keep your work precious. Value comes from rarity and intention.*
+- *Share what you learn when it can help someone else.*
 - *Ask yourself: Am I living for myself, or just following someone else’s script?*

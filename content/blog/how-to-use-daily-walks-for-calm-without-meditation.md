@@ -22,15 +22,15 @@ The next morning, I look at the notes I took during my walk. I try to avoid repe
 
 {{< figure src="https://images.unsplash.com/photo-1711934046952-88c0b0604315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwd2VsbC1iZWluZyUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTIwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman walking down a next to a tree" title="How to Use Daily Walks for Calm Without Meditation" caption="How to Use Daily Walks for Calm Without Meditation - Photo by [Alex Gallegos](https://unsplash.com/@alexgallegos) on [Unsplash](https://unsplash.com/photos/a-woman-walking-down-a-sidewalk-next-to-a-tree-0SOZQbxp3U8)" >}}
 
-This practice is about questioning yourself in a gentle way. Was I productive today? Did I spend too much time on something that wasn’t really worth it? What could I do differently tomorrow? By asking these questions, you start to shape your days to fit the life you want.
+This practice is about questioning yourself in a gentle way. Was I productive today? Did I spend too much time on something that wasn’t really worth it? What could I do differently tomorrow? By asking these questions, you start to plan your days to fit the life you want.
 
 You don’t need anything special to start. Just take a walk, think about your day, and be honest with yourself. Over time, you’ll notice real changes. Your days will feel more meaningful, and you’ll move closer to the life you want to live.
 
 > *Happiness is not something ready-made. It comes from your own actions.*
-— Dalai Lama
+*Dalai Lama*
 
 > *The journey of a thousand miles begins with a single step.*
-— Lao Tzu
+*Lao Tzu*
 
 ---
 

@@ -24,7 +24,7 @@ Have you ever wondered what your perfect day would look like? Not just a day off
 
 The first step is to get clear about what kind of day you really want. Imagine it in detail. What would you do from morning to night? Once you have that vision, start making small changes to your current routines. Bit by bit, swap out habits that don’t serve you for ones that make you feel good.
 
-For example, maybe you love having a coffee in the morning. Sure, it might cost a little more if you go to a café, but if it boosts your happiness, why not? Maybe you’re more productive there, or you enjoy reading while you sip your coffee. You could even use it as a reward—after finishing a task or a training session, treat yourself to a good coffee or a nice meal out. These little rituals can make your day feel special.
+For example, maybe you love having a coffee in the morning. Sure, it might cost a little more if you go to a café, but if it boosts your happiness, why not? Maybe you’re more productive there, or you enjoy reading while you sip your coffee. You could even use it as a reward: after finishing a task or a training session, treat yourself to a good coffee or a nice meal out. These little rituals can make your day feel special.
 
 It’s not just about doing more, but about making space for moments that are just for you. After work, you might take a break with a hot chocolate, or book a massage, or even plan a spa weekend once a month. Micro-vacations are another great idea. If you can, leave on a Wednesday or Thursday evening, work remotely on Friday from an Airbnb, and then enjoy the weekend in a new place. Whether it’s Sweden, Switzerland, or Iceland, working from somewhere different can give you a fresh perspective and a real boost in happiness.
 
@@ -32,17 +32,17 @@ It’s not just about doing more, but about making space for moments that are ju
 
 The key is to take action. It’s easy to think, “That sounds nice,” but you have to actually do it. There’s never a perfect time to start. The best moment is always now. Don’t put off what you want to do today.
 
-This applies to bigger dreams too. If you want to write a book, start with one chapter now. Write a little every day, even just half an hour. Wake up a bit earlier if you need to. The important thing is to keep going, day after day, without breaking the chain. Soon, it will become as natural as taking a shower—something you wouldn’t skip, no matter how busy you are.
+This applies to bigger dreams too. If you want to write a book, start with one chapter now. Write a little every day, even just half an hour. Wake up a bit earlier if you need to. The important thing is to keep going, day after day, without breaking the chain. Soon, it will become as natural as taking a shower: something you wouldn’t skip, no matter how busy you are.
 
 The same goes for small pleasures. If you enjoy a yogurt with dark chocolate, or a walk in the park near your home, make it a daily habit. Or maybe you want to spend a month in another country. It might not be as expensive as you think, and if it makes you happier, it’s worth it. Life is too short not to enjoy it fully.
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 > 
-> — Chinese Proverb
+> *Chinese Proverb*
 
 > *Happiness is not something ready made. It comes from your own actions.*
 > 
-> — Dalai Lama
+> *Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1646121820995-7c3b64c07ac8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxpZGVhbCUyMGRheSUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjY0MjEzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles make this the day M" title="How to Design Your Ideal Day Without Overthinking It" caption="How to Design Your Ideal Day Without Overthinking It - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-make-this-the-day-ufuRO4jAo-M)" >}}
 
@@ -52,7 +52,7 @@ The same goes for small pleasures. If you enjoy a yogurt with dark chocolate, or
 
 - *Picture your ideal day and make small changes to your routine to get closer to it.*
 - *Add simple pleasures and rewards to your daily life.*
-- *Don’t wait for the perfect moment—start now, even with tiny steps.*
+- *Don’t wait for the perfect moment: start now, even with tiny steps.*
 - *Stay consistent and make your new habits part of your daily routine.*
 - *Life is short, so fill it with moments that make you happy.*
 

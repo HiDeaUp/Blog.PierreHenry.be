@@ -14,13 +14,13 @@ source_medium = "https://medium.com/@phenrysay/549a102ef7cc"
 
 {{< figure src="https://images.unsplash.com/photo-1655722724170-b3ab67a48791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZWxvY2F0aW9uJTIwdGlwc3xlbnwwfDB8fHwxNzU1NDIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Map" title="How to Start Expat Life Without Losing Yourself" caption="How to Start Expat Life Without Losing Yourself - Photo by [Global Residence Index](https://unsplash.com/@globalresidenceindex) on [Unsplash](https://unsplash.com/photos/map-9l0N1zyo_sA)" >}}
 
-Starting a new life abroad is a dream for many. The idea of living passionately, fully invested in what you want, is tempting. But before you pack your bags, it’s important to know that the expat life isn’t for everyone—and that’s not a bad thing. Let’s get real about what it means to build a life elsewhere, especially if you want to make it on your own terms.
+Starting a new life abroad is a dream for many. The idea of living passionately, fully invested in what you want, is tempting. But before you pack your bags, it’s important to know that the expat life isn’t for everyone, and that’s not a bad thing. Let’s get real about what it means to build a life elsewhere, especially if you want to make it on your own terms.
 
 ## Two Main Paths: Settling Down or Staying on the Move
 
 Many expats choose to settle in a country where the cost of living is lower. They might buy a restaurant, open a bar, or invest in a house to rent out on Airbnb. This is an exciting adventure, but it’s not for everyone.
 
-Others prefer to keep moving, working as freelancers or running their own businesses. This could mean selling a product, offering a service, or even launching a mobile app. You don’t always have to create something from scratch—you can buy an existing app, update it, and sell subscriptions. The key is to find a problem that needs solving and offer a solution, even if it’s not perfect at first.
+Others prefer to keep moving, working as freelancers or running their own businesses. This could mean selling a product, offering a service, or even launching a mobile app. You don’t always have to create something from scratch; you can buy an existing app, update it, and sell subscriptions. The key is to find a problem that needs solving and offer a solution, even if it’s not perfect at first.
 
 ## The Power of a Unique Message
 
@@ -29,13 +29,13 @@ Standing out is crucial. You don’t have to reinvent the wheel, but you do need
 Your business needs a unique selling point (USP) too. It could be a fast turnaround, a money-back guarantee, or a specific result. The more concrete and measurable your promise, the more people will remember you. For example, “Get your logo in 20 minutes or it’s free.” People remember numbers and clear outcomes.
 
 > *“If you can’t explain it simply, you don’t understand it well enough.”*  
-— Albert Einstein
+*Albert Einstein*
 
 ## Tell Your Story
 
-People connect with stories. Share why you do what you do. Maybe you started selling organic health products because your mother got sick from bad ingredients. Maybe you struggled, doubted yourself, and almost gave up—but you kept going. That journey, that “crossing the desert,” is what makes your story real and relatable.
+People connect with stories. Share why you do what you do. Maybe you started selling organic health products because your mother got sick from bad ingredients. Maybe you struggled, doubted yourself, and almost gave up, but you kept going. That journey, that “crossing the desert,” is what makes your story real and relatable.
 
-Start with a small, clear niche. If you try to talk to everyone, you’ll reach no one. Make sure you understand your audience, or hire someone who does. Your language, your style, your values—they all need to fit your niche.
+Start with a small, clear niche. If you try to talk to everyone, you’ll reach no one. Make sure you understand your audience, or hire someone who does. Your language, your style, your values; they all need to fit your niche.
 
 ## Be Human, Not a Faceless Brand
 
@@ -46,7 +46,7 @@ People want to follow real people, not anonymous corporations. Show your face, s
 Your mission and your message should be clear and consistent. If you say “get moving, do sports,” but you don’t believe it or live it yourself, people will notice. Speak from the heart. Be the ambassador of your cause.
 
 > *“The best way to predict the future is to create it.”*  
-— Peter Drucker
+*Peter Drucker*
 
 ## Make Your Message Stick
 
@@ -54,7 +54,7 @@ A short, memorable name and a punchy tagline help people remember you. Think of 
 
 Practice your pitch. Record yourself, share it with someone who knows nothing about your field, and ask if they understand. If not, keep refining.
 
-## Take Action—Every Single Day
+## Take Action: Every Single Day
 
 The most important advice is also the hardest: act. Do the most important thing first thing in the morning, before distractions pile up. At the end of each day, rate your day from 0 to 20. Ask yourself why you gave it that score. What went well? What could have been better? Write it down.
 
@@ -67,11 +67,11 @@ If you want to open a café, spend those first hours each day negotiating leases
 Life changes, and so will your goals. Accept that what you want at 25 might not be what you want at 35. Build flexibility into your plans. The best way to avoid feeling lost is to know why you’re doing what you’re doing.
 
 > *“Success is not final, failure is not fatal: it is the courage to continue that counts.”*  
-— Winston Churchill
+*Winston Churchill*
 
 ## Learn from Failure
 
-Don’t be afraid to fail. Every mistake is a lesson. If you try two businesses, one will always do better than the other. That doesn’t mean the other was a waste—it’s part of the process. The only real failure is not learning from your mistakes.
+Don’t be afraid to fail. Every mistake is a lesson. If you try two businesses, one will always do better than the other. That doesn’t mean the other was a waste; it’s part of the process. The only real failure is not learning from your mistakes.
 
 {{< figure src="https://images.unsplash.com/photo-1654163600133-452eb7274426?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxleHBhdCUyMGxpZmUlMjBsaXZpbmclMjBhYnJvYWQlMjByZWxvY2F0aW9uJTIwdGlwc3xlbnwwfDB8fHwxNzU1NDIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A hand holding a over a map" title="How to Start Expat Life Without Losing Yourself" caption="How to Start Expat Life Without Losing Yourself - Photo by [Global Residence Index](https://unsplash.com/@globalresidenceindex) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-passport-over-a-map-wOj5HTw2YMc)" >}}
 
@@ -93,11 +93,11 @@ I believe in you. Believe in yourself, and don’t put off what you want to do. 
 
 ## Key Takeaways
 - *Choose your expat path: settle or stay mobile, but know yourself first.*
-- *Stand out with a clear, unique promise—numbers and specifics help.*
+- *Stand out with a clear, unique promise: numbers and specifics help.*
 - *Share your real story and connect with people as a human, not a brand.*
 - *Niche down: talk to a specific audience, not everyone.*
 - *Act every day, especially in the morning, and review your progress.*
-- *Accept change and learn from failure—don’t let fear hold you back.*
+- *Accept change and learn from failure: don’t let fear hold you back.*
 - *Keep your vision clear and your goals specific. Consistency beats speed.*
 
 ## Action Steps

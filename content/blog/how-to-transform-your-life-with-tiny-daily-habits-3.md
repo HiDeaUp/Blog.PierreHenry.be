@@ -18,7 +18,7 @@ Improvement is not about making huge leaps overnight. It’s about taking small,
 
 The secret is to turn your goals into habits. Start by writing down what you want to improve. Use a notebook or a notes app on your phone. Maybe you want to learn 50 words of Japanese in a week, or pick up some Russian, or even break through a programming block. Perhaps you dream of becoming a tour guide in your city. For me, living in Adelaide, if I wanted to guide visitors around, I’d need to learn more about the city.
 
-Here’s how I’d do it: every day, I’d spend 20 minutes researching Adelaide. I’d jot down notes in an app like Apple Notes or Google Keep. Maybe I’d even record a short video about the city’s must-see spots—vineyards, beautiful parks, beaches, and more. I’d organize my notes by category, and after a while, maybe I’d build a website or offer my services to a tourist group or the city’s tourism office.
+Here’s how I’d do it: every day, I’d spend 20 minutes researching Adelaide. I’d jot down notes in an app like Apple Notes or Google Keep. Maybe I’d even record a short video about the city’s must-see spots: vineyards, beautiful parks, beaches, and more. I’d organize my notes by category, and after a while, maybe I’d build a website or offer my services to a tourist group or the city’s tourism office.
 
 Fifteen minutes a day might not sound like much, but after a month, that’s over four hours of focused work. That’s a lot of progress, even if it’s just research. Think about it: you probably spend more than 15 minutes just showering, drying off, and getting dressed. We all have time to improve our daily lives, even if it’s just a quarter of an hour.
 
@@ -27,10 +27,10 @@ Fifteen minutes a day might not sound like much, but after a month, that’s ove
 If you want to become an expert at something, just give it 15 minutes a day. No excuses. It’s all about building the habit. I truly believe this, and I’m sharing it with you from the heart.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-> — Robert Collier
+> *Robert Collier*
 
 > *Great things are not done by impulse, but by a series of small things brought together.*
-> — Vincent Van Gogh
+> *Vincent Van Gogh*
 
 ---
 
@@ -38,7 +38,7 @@ If you want to become an expert at something, just give it 15 minutes a day. No 
 
 - *Small, daily actions add up to big improvements over time.*
 - *Turn your goals into habits by making them automatic, like brushing your teeth.*
-- *Fifteen minutes a day is enough to make real progress—no matter how busy you are.*
+- *Fifteen minutes a day is enough to make real progress: no matter how busy you are.*
 - *Write down your goals, track your progress, and stay consistent.*
 
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxNTk3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Transform Your Life With Tiny Daily Habits" caption="How to Transform Your Life With Tiny Daily Habits - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}

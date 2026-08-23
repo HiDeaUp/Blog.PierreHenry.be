@@ -35,7 +35,7 @@ Breathing exercises are not just about relaxation. They help you reconnect with 
 
 > *The purpose of life is to be happy and fulfilled. Life goes by much faster than we think, and time is the only resource we cannot recover.*
 >
-> — Pierre
+> *Pierre*
 
 ---
 

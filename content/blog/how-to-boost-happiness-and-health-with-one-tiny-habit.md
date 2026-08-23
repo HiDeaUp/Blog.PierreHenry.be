@@ -29,10 +29,10 @@ Cold showers have become a cornerstone of my daily routine. They help me stay mo
 If you want to feel more in charge of your life, try adding a cold shower to your morning routine. Start with just a minute or two. It might be uncomfortable at first, but the benefits are worth it. You’ll find yourself more resilient, motivated, and ready to face whatever comes your way.
 
 > *“The best way out is always through.”*  
-— Robert Frost
+*Robert Frost*
 
 > *“Discomfort is the price of admission to a meaningful life.”*  
-— Susan David
+*Susan David*
 
 Building routines like this gives us more control over our lives. The cold shower is the first habit I recommend to anyone who wants to feel more empowered and less at the mercy of their moods. It’s a small step, but it can change everything.
 

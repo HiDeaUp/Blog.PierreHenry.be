@@ -25,17 +25,17 @@ The present is filled with small treasures, moments that can easily slip by unno
 You can’t manufacture more hours in a day, but you can decide how to use the ones you have. The real challenge is to notice when you’re most alive, most focused, and to give those moments your full attention. That’s where the real impact happens.
 
 > *The present moment is the only time over which we have dominion.*
-— Thích Nhất Hạnh
+*Thích Nhất Hạnh*
 
 > *Lost time is never found again.*
-— Benjamin Franklin
+*Benjamin Franklin*
 
 ---
 
 ## Key Takeaways
 - Time never waits. Once it’s gone, it’s gone for good.
 - Everyone has the same 24 hours, but how you use them makes all the difference.
-- Focus on the present and savor the small moments—they add up to a meaningful life.
+- Focus on the present and savor the small moments; they add up to a meaningful life.
 - Notice your energy patterns and use your best moments for what matters most.
 
 ## Reflection

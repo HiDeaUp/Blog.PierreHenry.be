@@ -22,7 +22,7 @@ source_medium = "https://medium.com/@phenrysay/1d0a25d74177"
 
 Have you ever watched a mail carrier zip by in their little car, moving quickly from one stop to the next? It’s almost funny how fast they go, focused on their route, never really stopping to take in what’s around them. This made me think about how we often rush through our own lives, always chasing the next thing, rarely pausing to breathe and enjoy the moment.
 
-I want to share some thoughts about what it means to feel fulfilled. Not just ticking off tasks or chasing endless goals, but truly feeling accomplished and content with what you do. It’s easy to get distracted by our surroundings or caught up in the so-called “rat race,” where we’re always trying to do more, be more, and achieve more. But when we’re always pushing ourselves, where’s the joy in that?
+I want to share some thoughts about what it means to feel fulfilled. Not just ticking off tasks or chasing too many goals, but truly feeling accomplished and content with what you do. It’s easy to get distracted by our surroundings or caught up in the so-called “rat race,” where we’re always trying to do more, be more, and achieve more. But when we’re always pushing ourselves, where’s the joy in that?
 
 The truth is, having projects and passions is great. But if you’re always piling on more and more, you’ll end up losing the pleasure of living. Life isn’t about constant hustle. Sometimes, the best thing you can do is take a step back, sit down, and just breathe. Look around you. Be present. Enjoy what’s happening right now.
 
@@ -32,7 +32,7 @@ When you want to accomplish something meaningful, especially something close to 
 
 I often talk about building a beautiful life, about creating long-term projects that matter. Why is this so important? Because it’s not just about the end result. It’s about your happiness and well-being along the way. You can achieve a lot and still feel good, as long as you don’t lose yourself in the process.
 
-One thing I love to remind myself is that life should be simple. Create small projects for yourself, things you can do every day. This is where the power of habits and regularity comes in. When you do something new each day, even if it’s just a small step, you’re moving forward. It’s like walking—one step after another, you make progress.
+One thing I love to remind myself is that life should be simple. Create small projects for yourself, things you can do every day. This is where the power of habits and regularity comes in. When you do something new each day, even if it’s just a small step, you’re moving forward. It’s like walking: one step after another, you make progress.
 
 But you need to know where you’re going. Imagine driving a car without a destination. You’d just wander around, never really getting anywhere. But if you set your GPS, know your route, and have a clear destination, everything falls into place. Your life works the same way. Set a project with a deadline. Decide where you want to be in two months, for example. What’s the result you want? Maybe it’s becoming more like the person you want to be, reaching a certain financial goal, or something else that matters to you.
 
@@ -42,11 +42,11 @@ Regularity is powerful. If you’re consistent and know your goal, you can look 
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 > *It does not matter how slowly you go as long as you do not stop.*
 >
-> — Confucius
+> *Confucius*
 
 {{< figure src="https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRmdWxuZXNzJTIwbGlmZSUyMGZ1bGZpbGxtZW50fGVufDB8MHx8fDE3NTU4NTgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A young boy looking at the mountain view on the top of Katzbegi mountain." title="How to Find Fulfillment by Slowing Down Your Life" caption="How to Find Fulfillment by Slowing Down Your Life - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)" >}}
 

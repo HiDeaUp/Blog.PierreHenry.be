@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/c9a63fc1e9dc"
 
 ## Why Everyone Should Follow This Advice
 
-### Minimalism is not just about less stuff—it's about more clarity, energy, and freedom.
+### Minimalism is not just about less stuff; it's about more clarity, energy, and freedom.
 
 Minimalism is often misunderstood as simply getting rid of things. But at its core, it's about simplifying everything around us so that our lives become lighter and our minds clearer. When you choose to live with less, you remove not just physical clutter but also the invisible energy these objects carry. The more things you have, the more complicated your environment becomes, and this complexity seeps into your daily life.
 
@@ -26,28 +26,28 @@ Objects are not just things; they carry a kind of useless energy. All those trin
 
 Imagine a table with nothing on it. It’s beautiful, inviting, and calming. Compare that to a table covered in papers, receipts, and random mail. The first thing many people do when they get home is drop things on the nearest surface, turning it into a catch-all. Later, sorting through the mess takes up precious time and energy. If you remove the possibility of clutter, you make your life lighter and your mind clearer.
 
-This mental weight is unnecessary. It slows you down, especially when you have important decisions to make. Studies show that our ability to make good choices is strongest at the start of the day and declines as we make more decisions. By reducing the number of choices you face—like eating similar meals or wearing the same style of clothes—you save your mental energy for what really matters.
+This mental weight is unnecessary. It slows you down, especially when you have important decisions to make. Studies show that our ability to make good choices is strongest at the start of the day and declines as we make more decisions. By reducing the number of choices you face (like eating similar meals or wearing the same style of clothes) you save your mental energy for what really matters.
 
 Personally, I eat almost the same thing at every meal. It’s one less thing to think about. I also dress in a way that feels right for me, without overthinking it. Unless it’s a special occasion, I keep it simple. When you simplify all aspects of your daily life, you feel lighter, almost like a free and happy bird. That’s what I wish for you: to be free, happy, and able to move forward quickly and efficiently.
 
 {{< figure src="https://images.unsplash.com/photo-1669975654023-ab2ca92bf98d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXNtJTIwZGVjbHV0dGVyaW5nJTIwbWVudGFsJTIwY2xhcml0eXxlbnwwfDB8fHwxNzU2MDEyMzc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A mirror on a wall" title="How to Clear Your Space and Gain Instant Mental Clarity" caption="How to Clear Your Space and Gain Instant Mental Clarity - Photo by [Angèle Kamp](https://unsplash.com/@angelekamp) on [Unsplash](https://unsplash.com/photos/a-mirror-on-a-wall-4e_q178lMyI)" >}}
 
-Your environment shapes your mindset and your success. If you live in a cluttered or uninspiring space, it becomes harder to achieve your goals. You don’t need to move to a new apartment; just change your immediate environment. Even in a tiny room, you can create a space that feels good, clean, and inspiring.
+Your environment affects your mindset and your success. If you live in a cluttered or uninspiring space, it becomes harder to achieve your goals. You don’t need to move to a new apartment; just change your immediate environment. Even in a tiny room, you can create a space that feels good, clean, and inspiring.
 
-Music can also play a big role in shaping your mood and motivation. A good playlist can transform the atmosphere and help you live more joyfully and elegantly. When you treat yourself as someone special, worthy of a beautiful space, you start to live up to your own standards.
+Music can also play a big role in influencing your mood and motivation. A good playlist can transform the atmosphere and help you live more joyfully and elegantly. When you treat yourself as someone special, worthy of a beautiful space, you start to live up to your own standards.
 
 Sometimes, you need to change your surroundings and your way of seeing things. Your mental conditioning is directly linked to your success. If your environment doesn’t match your ambitions, it will hold you back. Make your home a place that supports your goals, not a storage unit for “just in case” items.
 
-Here’s a simple challenge: starting today, remove three things from your home. Every day, let go of three more. Donate, recycle, or sell them, but don’t keep duplicates or things you don’t love. Your home is not a storage space—that’s what stores are for. If you ever need something, you can always get it later.
+Here’s a simple challenge: starting today, remove three things from your home. Every day, let go of three more. Donate, recycle, or sell them, but don’t keep duplicates or things you don’t love. Your home is not a storage space; that’s what stores are for. If you ever need something, you can always get it later.
 
 > *“The things you own end up owning you.”*  
-— Chuck Palahniuk
+*Chuck Palahniuk*
 
 > *“Simplicity is the ultimate sophistication.”*  
-— Leonardo da Vinci
+*Leonardo da Vinci*
 
 > *“Your home should be the antidote to stress, not the cause of it.”*  
-— Peter Walsh
+*Peter Walsh*
 
 ---
 
@@ -58,7 +58,7 @@ Here’s a simple challenge: starting today, remove three things from your home.
 - *Minimalism is about clearing both physical and mental clutter.*
 - *A tidy space leads to a lighter mind and easier decision-making.*
 - *Reduce daily choices to save mental energy for what matters.*
-- *Your environment shapes your mood, motivation, and success.*
+- *Your environment affects your mood, motivation, and success.*
 - *Start today: remove three unnecessary things from your home.*
 
 ---

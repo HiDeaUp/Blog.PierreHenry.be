@@ -27,10 +27,10 @@ Of course, there’s a trap to avoid. Sometimes, you might be tempted to buy mor
 This approach works in supermarkets too. Use your loyalty cards and you’ll easily collect points or small discounts. It might seem like just a few dollars here and there, but over time, if you do this in every store, it adds up to a nice sum. That money can go toward your next vacation, a treat for yourself, or anything else you want.
 
 > _“Small daily savings, when added up, can fund your biggest dreams.”_  
-— Unknown
+*Unknown*
 
 > _“It’s not about how much you make, but how much you keep.”_  
-— Unknown
+*Unknown*
 
 ---
 
@@ -38,7 +38,7 @@ This approach works in supermarkets too. Use your loyalty cards and you’ll eas
 
 - *Use loyalty cards and apps wherever you shop.*
 - *Don’t buy things you don’t need just for a discount or freebie.*
-- *Small savings add up over time—think long term.*
+- *Small savings add up over time: think long term.*
 - *Spend on what you love, but do it smartly.*
 
 {{< figure src="https://images.unsplash.com/photo-1547341074-c5e9b0f9c335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzbWFydCUyMHNwZW5kaW5nJTIwbW9uZXklMjBzYXZpbmclMjBsb3lhbHR5JTIwcHJvZ3JhbXN8ZW58MHwwfHx8MTc1NjUyMTU1Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Money styled stock photo and money flat lay photo for personal finance bloggers, business coaches, and entrepreneurs." title="How to Save More Without Cutting Back on What You Love" caption="How to Save More Without Cutting Back on What You Love - Photo by [Katie Harp](https://unsplash.com/@kharp) on [Unsplash](https://unsplash.com/photos/three-assorted-us-dollar-banknotes-QqAkoMIN5Jk)" >}}

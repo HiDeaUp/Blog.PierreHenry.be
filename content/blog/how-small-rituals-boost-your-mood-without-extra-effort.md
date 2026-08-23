@@ -20,7 +20,7 @@ Think about it: maybe every morning you make your coffee the same way, at the sa
 
 For me, every morning starts with a short walk around the block. It only takes about ten minutes, but it’s my way to begin the day. I live by the bay, so I get to watch the sunrise with palm trees in the background. It’s a simple pleasure, but it’s become part of who I am.
 
-This idea of rituals isn’t new. Take Queen Elizabeth II, for example. She had her own set of daily rituals. Every evening, she enjoyed a small glass of whisky and took a bath with a yellow rubber duck—apparently a gift from her grandchildren. She was known for her sense of humor, even if her smile was a bit reserved. These little routines probably brought her moments of joy, especially when shared with her family.
+This idea of rituals isn’t new. Take Queen Elizabeth II, for example. She had her own set of daily rituals. Every evening, she enjoyed a small glass of whisky and took a bath with a yellow rubber duck: apparently a gift from her grandchildren. She was known for her sense of humor, even if her smile was a bit reserved. These little routines probably brought her moments of joy, especially when shared with her family.
 
 Another one of her rituals was having tea at exactly five o’clock. She never missed it. That’s the thing about rituals: they’re often done with the same regularity as a religious practice. Most people have one or two that they stick to every day, not dozens. It’s about quality, not quantity.
 
@@ -28,17 +28,17 @@ Another one of her rituals was having tea at exactly five o’clock. She never m
 
 Maybe your ritual is drinking a glass of milk every morning, or listening to the radio while you eat breakfast. These are the things that make you feel good, the things you’d miss if you stopped doing them.
 
-It’s important to make a distinction here. There are negative rituals, like compulsive behaviors—washing your hands ten times in a row because you’re afraid of germs, or checking if the door is locked over and over. These habits pull you down. The rituals I’m talking about are the ones that lift you up, the ones that make you feel good about yourself.
+It’s important to make a distinction here. There are negative rituals, like compulsive behaviors: washing your hands ten times in a row because you’re afraid of germs, or checking if the door is locked over and over. These habits pull you down. The rituals I’m talking about are the ones that lift you up, the ones that make you feel good about yourself.
 
 For example, I love to read every night before bed. I grab my Kindle, get comfortable, and read until I’m ready to sleep. It’s my little evening ritual, and I can’t imagine going to bed without it. It helps me relax and drift off peacefully.
 
 The beauty of these rituals is that they’re yours. They don’t have to be big or impressive. They just have to make you feel good.
 
 > *“Happiness is not something ready made. It comes from your own actions.”*  
-— Dalai Lama
+*Dalai Lama*
 
 > *“The secret of your future is hidden in your daily routine.”*  
-— Mike Murdock
+*Mike Murdock*
 
 ---
 
@@ -48,7 +48,7 @@ The beauty of these rituals is that they’re yours. They don’t have to be big
 
 - *Soul rituals are small, positive habits that bring comfort and joy.*
 - *They’re different from negative, compulsive routines.*
-- *You don’t need many—just one or two meaningful rituals can make a big difference.*
+- *You don’t need many: just one or two meaningful rituals can make a big difference.*
 - *These habits can help you feel grounded, grateful, and more at peace.*
 
 ## Reflection

@@ -28,18 +28,18 @@ Finally, the people around you have a huge impact. We tend to measure ourselves 
 
 > *You are the average of the five people you spend the most time with.*
 >
-> — Jim Rohn
+> *Jim Rohn*
 
 > *Creativity is intelligence having fun.*
 >
-> — Albert Einstein
+> *Albert Einstein*
 
 ---
 
 {{< figure src="https://images.unsplash.com/photo-1537861295351-76bb831ece99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwaW5zcGlyYXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NzQ2MjI2N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Get in the Flow | Instagram: @timmossholder" title="How to Spark Creativity Without Overthinking It" caption="How to Spark Creativity Without Overthinking It - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/creativity-flowing-advertisement-SZgVZPbQ7RE)" >}}
 
 ## Key Takeaways
-- *Your environment shapes your inspiration.*
+- *Your environment affects your inspiration.*
 - *Practice and trying new things boost creativity.*
 - *Regular creative routines make inspiration more frequent.*
 - *Surround yourself with inspiring people.*

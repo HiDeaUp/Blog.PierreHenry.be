@@ -31,18 +31,18 @@ The journey itself is beautiful, especially when you’re working on something y
 Never put off until tomorrow what you want to achieve today. There’s a famous Chinese proverb:
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
-> — Chinese proverb
+> *Chinese proverb*
 
 If you had planted that tree twenty years ago, it would be magnificent today. But if you plant it now, in twenty years it will still be beautiful and strong. The same goes for your life and your passion projects. Don’t wait for the perfect moment, because it will never come. The best time is now. If you start today, you’ll be amazed at what you can achieve.
 
-It’s not enough to just learn passively. If you only consume information without applying it, you’ll never truly improve. Real progress comes from active learning—by doing, by making mistakes, and by learning from them. This is how you anchor new knowledge in your mind and organize it so you can share it with others.
+It’s not enough to just learn passively. If you only consume information without applying it, you’ll never truly improve. Real progress comes from active learning: by doing, by making mistakes, and by learning from them. This is how you anchor new knowledge in your mind and organize it so you can share it with others.
 
 As you grow, you’ll start teaching others, maybe through online courses or videos. You’ll get feedback, realize what’s clear to you might not be obvious to others, and keep improving. You can even involve your family or friends in your projects for instant feedback.
 
 Having a daily routine and a clear plan for your passion project changes everything. It helps you move forward with confidence and purpose. I truly wish you all the best on your journey. Believe in yourself, because I believe in you. You can achieve what matters most to you.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-> — Robert Collier
+> *Robert Collier*
 
 ---
 
@@ -52,7 +52,7 @@ Having a daily routine and a clear plan for your passion project changes everyth
 
 - A daily routine gives structure and clarity to your life.
 - Small, consistent actions lead to big results over time.
-- Start today—waiting for the perfect moment only delays your progress.
+- Start today: waiting for the perfect moment only delays your progress.
 - Active learning and feedback are essential for real growth.
 - Know why you’re doing what you do, and keep your vision clear.
 

@@ -25,16 +25,16 @@ There’s a real shift that happens when I start my day with intention. Some mor
 
 ## The Three Foundations of My Morning
 
-The first and most important step is movement. Physical exercise—whether it’s a walk, a run, or a gym session—acts as a reset. If there’s a gym in your building, that’s a bonus, but it doesn’t have to be complicated. The key is to get moving and get your blood circulating. This clears my mind and sets a positive tone for the day.
+The first and most important step is movement. Physical exercise (whether it’s a walk, a run, or a gym session) acts as a reset. If there’s a gym in your building, that’s a bonus, but it doesn’t have to be complicated. The key is to get moving and get your blood circulating. This clears my mind and sets a positive tone for the day.
 
-Next, I focus on a project that matters to me. For me, that’s my work on a health application called Mil Snap, which is about nutrition. Every morning, I spend thirty minutes on this project. This isn’t just about getting things done—it’s about starting my day with something meaningful. By focusing on Mil Snap first, I build momentum that carries into the rest of my day.
+Next, I focus on a project that matters to me. For me, that’s my work on a health application called Mil Snap, which is about nutrition. Every morning, I spend thirty minutes on this project. This isn’t just about getting things done; it’s about starting my day with something meaningful. By focusing on Mil Snap first, I build momentum that carries into the rest of my day.
 
-The third step is a change of environment. After getting some fresh air, I’ll go to a café or return home and set aside a block of time—between half an hour and an hour—to work on Mil Snap. This change of setting helps me shift from physical activity to focused work, and it marks the transition from routine to the rest of my day.
+The third step is a change of environment. After getting some fresh air, I’ll go to a café or return home and set aside a block of time (between half an hour and an hour) to work on Mil Snap. This change of setting helps me shift from physical activity to focused work, and it marks the transition from routine to the rest of my day.
 
 {{< figure src="https://images.unsplash.com/photo-1761657456935-2e9fcb390cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjb2ZmZWUlMjBtdWclMjBjb3p5JTIwd29ya3NwYWNlJTIwd2luZG93fGVufDB8MHx8fDE3ODU2Njk0NjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Nature views fueling mindful morning rituals" title="How Three Simple Steps Transformed My Mornings" caption="Nature views fueling mindful morning rituals - Photo by [Clay Banks](https://unsplash.com/@claybanks)" >}}
 
 ## Why This Routine Works
 
-These three steps—movement, meaningful work, and a deliberate environment—are the foundation of my day. They’re simple, but they make a real difference. Once I’ve done them, I feel ready for whatever comes next, whether that’s going to the office, traveling, or exploring a national park.
+These three steps (movement, meaningful work, and a deliberate environment) are the foundation of my day. They’re simple, but they make a real difference. Once I’ve done them, I feel ready for whatever comes next, whether that’s going to the office, traveling, or exploring a national park.
 
 What matters isn’t the specific project or place, but the structure: move your body, focus your mind, and create a space that supports your goals. This routine anchors me, so even on tough mornings, I can elevate myself and keep improving.

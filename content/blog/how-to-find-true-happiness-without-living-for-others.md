@@ -18,7 +18,7 @@ For a long time, I often felt unhappy. I didn’t feel comfortable in my own ski
 
 It’s easy to fall into the trap of living for others. We want to be accepted, to avoid conflict, and sometimes we even end up pushing people away depending on how we express ourselves. There’s a whole art to communicating your ideas in a way that people can accept, but at the end of the day, you have to live your own life. You have to make your own decisions.
 
-Sometimes, that means leaving—leaving your country, your city, your job. Yes, even your job. You might not know if another choice will be better for you, and people around you will remind you of that. But if you don’t try, you’ll never know. We only have one life, so it’s worth trying. Maybe you dream of living in the countryside with sheep and making honey, and after three years you realize it’s not for you. At least you tried, and you know what it’s like.
+Sometimes, that means leaving: leaving your country, your city, your job. Yes, even your job. You might not know if another choice will be better for you, and people around you will remind you of that. But if you don’t try, you’ll never know. We only have one life, so it’s worth trying. Maybe you dream of living in the countryside with sheep and making honey, and after three years you realize it’s not for you. At least you tried, and you know what it’s like.
 
 The same goes for starting a business. It’s a lot of stress and sleepless nights, but if you love it, if it pushes you to grow, if it excites you and makes you feel alive, then you should do it. On the other hand, some people just aren’t built for that kind of life. For them, happiness is a simple, peaceful life without worries. And that’s perfectly fine too.
 
@@ -26,12 +26,12 @@ The same goes for starting a business. It’s a lot of stress and sleepless nigh
 
 We’re all different. Some people handle stress better than others. Some people don’t worry much, while others do. We each grew up in different families, with different personalities. Sure, we can change a little, improve ourselves, but at the end of the day, we are who we are. We can’t become someone completely different. We always come back to our true selves.
 
-Sometimes we think we can change completely—become outgoing if we’re shy, or stop being stressed altogether. But the truth is, even if you become more social or less introverted because your environment is more welcoming, you’re still you. Environment matters a lot. Some people are very shy in one country or culture, but not at all in another. We become what our environment allows us to be. If your environment lifts you up and makes you happy, that’s great.
+Sometimes we think we can change completely: become outgoing if we’re shy, or stop being stressed altogether. But the truth is, even if you become more social or less introverted because your environment is more welcoming, you’re still you. Environment matters a lot. Some people are very shy in one country or culture, but not at all in another. We become what our environment allows us to be. If your environment lifts you up and makes you happy, that’s great.
 
 That’s why sometimes you need to choose a different environment, a different country, a place that lets you become the person you want to be.
 
 > *“The privilege of a lifetime is to become who you truly are.”*  
-> — Carl Jung
+> *Carl Jung*
 
 Teaching is another way I’ve found to grow. When you teach something you’ve learned, you have to restructure the information in your mind. It helps you remember it better and understand it more deeply. Every time you learn something that excites you, try explaining it in your own words. It’s a great way to learn and grow at the same time. When you teach, you become more of an expert, and your understanding gets stronger.
 
@@ -43,8 +43,8 @@ So, whether you choose to go on your own journey or find guidance, remember that
 
 ## Key Takeaways
 - *Happiness comes from living for yourself, not for others.*
-- *Trying new things—even if you fail—teaches you what truly fits you.*
-- *Your environment shapes who you are; sometimes you need to change it to become your best self.*
+- *Trying new things (even if you fail) teaches you what truly fits you.*
+- *Your environment affects who you are; sometimes you need to change it to become your best self.*
 - *Teaching what you learn helps you grow and remember better.*
 
 ## Reflection

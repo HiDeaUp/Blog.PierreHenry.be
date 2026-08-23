@@ -32,11 +32,11 @@ Remember, a day lost is a day lost forever. A day when you are not happy is a da
 
 > *The only real limit is the one you set in your own mind.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *A day lost is a day lost forever. Many good days make a beautiful life.*
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 

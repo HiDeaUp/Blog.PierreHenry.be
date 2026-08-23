@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/9f1a54f13b86"
 
 {{< figure src="https://images.unsplash.com/photo-1647331248134-bde24920eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaW5kc2V0JTIwbWVudGFsJTIwc3RyZW5ndGglMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDEyMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles the words heart soul mind and" title="How to Strengthen Your Mind Without Letting Self-Doubt Win" caption="How to Strengthen Your Mind Without Letting Self-Doubt Win - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-the-words-heart-soul-mind-and-strength-TiNDfCqhrsk)" >}}
 
-Mental strength is the foundation for achieving anything meaningful. Often, what keeps us from moving forward are not external obstacles, but the invisible barriers we build for ourselves. These self-imposed limits shape our view of life, making us believe that certain things are out of reach. Over time, we get used to these boundaries, and it becomes hard to admit that we are the ones holding ourselves back.
+Mental strength is the foundation for achieving anything meaningful. Often, what keeps us from moving forward are not external obstacles, but the invisible barriers we build for ourselves. These self-imposed limits influence our view of life, making us believe that certain things are out of reach. Over time, we get used to these boundaries, and it becomes hard to admit that we are the ones holding ourselves back.
 
 It can be frustrating to realize that years have gone by, and the main thing stopping us was our own mindset. Sometimes, we even deny it, refusing to accept that our way of thinking is the real issue. But the truth is, many of us are conditioned by our upbringing, our culture, or past experiences to see life a certain way. We end up punishing ourselves for things that are not our fault, and this keeps us from growing.
 
@@ -28,13 +28,13 @@ Many people dismiss this as useless or awkward, but it works if you stick with i
 
 It’s important to remember that most problems are not as complicated as we think. We tend to make a big deal out of simple issues because we believe the problem is outside of us. In reality, the obstacle is often within. To succeed, you need to become the kind of person who is ready for success. This means changing how you see problems and how you see yourself.
 
-Every day, do one small thing that moves you closer to your goal. Success is not about one big leap, but a series of small steps taken consistently. A successful life is simply a collection of good days—days filled with things you enjoy, things that matter to you, and things that align with your values and goals.
+Every day, do one small thing that moves you closer to your goal. Success is not about one big leap, but a series of small steps taken consistently. A successful life is simply a collection of good days: days filled with things you enjoy, things that matter to you, and things that align with your values and goals.
 
 > *“The only limits in our lives are those we accept in our minds.”*  
-— Anonymous
+*Anonymous*
 
 > *“You are not the obstacle. You are the solution.”*  
-— Pierre-Henri
+*Pierre-Henri*
 
 So, focus on changing your mindset. Ask yourself each day: How can I make today exceptional? How can I improve, iterate, and transform my days so that my life becomes a reflection of who I truly am?
 
@@ -43,7 +43,7 @@ So, focus on changing your mindset. Ask yourself each day: How can I make today 
 ---
 
 ## Key Takeaways
-- *Your mindset shapes your reality. Change your thoughts, and you change your life.*
+- *Your mindset affects your reality. Change your thoughts, and you change your life.*
 - *Let go of limiting beliefs and start fresh, just like fertile ground after a fire.*
 - *Daily positive affirmations can shift your perspective and boost your confidence.*
 - *Success comes from small, consistent actions that align with your values and goals.*

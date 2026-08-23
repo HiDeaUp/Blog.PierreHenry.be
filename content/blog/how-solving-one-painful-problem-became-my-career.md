@@ -19,13 +19,13 @@ source_youtube = "https://www.youtube.com/watch?v=1Wl3r0z1LcE"
 
 Imagine investing a small amount every month and watching your returns multiply over time. This is the principle of compound interest, and it’s also the foundation of how I approach progress in my life and business. Real progress is granular: it’s the result of small, consistent actions that accumulate until you’ve built something substantial.
 
-I’ve built my career by focusing on solving a single, urgent, and painful problem—just one. Not several at once. This focused, incremental approach is the most powerful way I know to create lasting success.
+I’ve built my career by focusing on solving a single, urgent, and painful problem: just one. Not several at once. This focused, incremental approach is the most powerful way I know to create lasting success.
 
 ## Progress Is Cumulative
 
 Success rarely comes from sudden breakthroughs. Instead, it’s built step by step, day by day. Like compound interest, each effort builds on the last. If you dedicate just half an hour each day to a single project, those hours add up. At first, progress is slow and barely visible. But as you continue, momentum builds. You publish a book, then another. Your network expands. You find partners, delegate, and automate. After a few years, you achieve more with less effort, and your results far exceed the sum of your daily actions.
 
-This is the compounding effect of small, consistent efforts. It’s not glamorous, but it’s transformative.
+This is the compounding effect of small, consistent efforts. It’s not glamorous, but it can make a real difference.
 
 ## Focus on One Objective
 
@@ -41,7 +41,7 @@ To build a business or career around solving a problem, it must be both urgent a
 
 For example, if a company is on the brink of bankruptcy and has only three days to act, the owner will pay almost anything for a solution that works. The pain and urgency make the value of your solution clear and immediate.
 
-If the problem is merely annoying and can wait, people will postpone solving it. But if it’s urgent and painful, they’ll act now—and pay for the privilege.
+If the problem is merely annoying and can wait, people will postpone solving it. But if it’s urgent and painful, they’ll act now, and pay for the privilege.
 
 ## Iterate and Improve
 
@@ -63,12 +63,12 @@ If you use your own solution, you’ll understand the problem intimately and spo
 
 ## A Practical Exercise: List Your Problems
 
-If you’re unsure where to start, try this: grab a notebook and list ten problems that are both urgent and painful—problems you could see yourself working on for three to five years. Don’t rush. The right problem is the foundation of everything that follows.
+If you’re unsure where to start, try this: grab a notebook and list ten problems that are both urgent and painful: problems you could see yourself working on for three to five years. Don’t rush. The right problem is the foundation of everything that follows.
 
 Once you have your list, consider possible solutions. Look at what competitors are doing. If there are no competitors, it might mean there’s no real demand. If others are tackling the problem, you’re in a viable market. Find the simplest solution you can offer now, sell it, and use feedback and revenue to iterate toward something better.
 
 ## The Joy of Helping Others
 
-The most rewarding part of this journey is helping others solve a problem that truly matters. When you focus on one urgent, painful issue, pour your energy into solving it, and iterate until your solution is the best it can be, you create real value—for yourself and those you serve.
+The most rewarding part of this journey is helping others solve a problem that truly matters. When you focus on one urgent, painful issue, pour your energy into solving it, and iterate until your solution is the best it can be, you create real value: for yourself and those you serve.
 
 If you can fall in love with the problem and see yourself working on it for years, you’ll have the motivation and resilience to keep going when things get tough.

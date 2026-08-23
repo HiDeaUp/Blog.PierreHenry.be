@@ -28,13 +28,13 @@ There’s even a phrase for this: “fuck you money.” It’s the idea that if 
 
 The same goes for time. If you don’t set boundaries, work will eat up every minute. Try this: set an alarm for when you want to leave work. Even if it’s just 5:25 PM instead of 5:00, stick to it. Those extra minutes add up, and over a week, you’ll see you’ve gained hours for yourself.
 
-The real lesson is this: start living your dreams now. Life is beautiful, but it’s also short—much shorter than we think. Don’t wait for the perfect amount of money or the perfect moment. If you keep saying, “I’ll do it when…” you’ll never truly enjoy what you have.
+The real lesson is this: start living your dreams now. Life is beautiful, but it’s also short: much shorter than we think. Don’t wait for the perfect amount of money or the perfect moment. If you keep saying, “I’ll do it when…” you’ll never truly enjoy what you have.
 
 > *“The present moment is filled with joy and happiness. If you are attentive, you will see it.”*  
-> —Thich Nhat Hanh
+> *Thich Nhat Hanh*
 
 > *“You will never find time for anything. If you want time, you must make it.”*  
-> —Charles Buxton
+> *Charles Buxton*
 
 You deserve to live fully, right now. Don’t let worries about the future steal today’s happiness. The best time to start is always now.
 
@@ -43,7 +43,7 @@ You deserve to live fully, right now. Don’t let worries about the future steal
 ---
 
 ## Key Takeaways
-- Stop waiting for the “right” time or enough money—those moments rarely come.
+- Stop waiting for the “right” time or enough money: those moments rarely come.
 - Enjoy where you are, right now, and make space for your dreams.
 - Set clear boundaries for your time and stick to them.
 - Remember: Life is shorter than you think. Don’t let it pass you by.

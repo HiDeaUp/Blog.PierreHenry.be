@@ -31,10 +31,10 @@ Let me share something from my own journey. I’ve spent years studying success,
 If you don’t, you’ll always be trailing behind, wondering why others seem to move ahead so easily. The key is to start now. Get to know your strengths and weaknesses. Practice positive affirmations every day. Break down the mental walls you’ve built from past experiences or your upbringing. This is how you create your own definition of success.
 
 > *“The only limits in our lives are those we accept in our minds.”*  
-— Anonymous
+*Anonymous*
 
 > *“Change is never a matter of ability, it’s always a matter of motivation.”*  
-— Tony Robbins
+*Tony Robbins*
 
 ---
 
@@ -51,7 +51,7 @@ If you don’t, you’ll always be trailing behind, wondering why others seem to
 
 - *Identify one area where you’re resisting change and try a new approach this week.*
 - *Write down three positive affirmations and repeat them every morning.*
-- *Reflect on your current comfort zone—what’s one step you can take to expand it?*
+- *Reflect on your current comfort zone: what’s one step you can take to expand it?*
 
 ---
 

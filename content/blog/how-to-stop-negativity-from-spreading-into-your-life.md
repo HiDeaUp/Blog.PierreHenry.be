@@ -18,9 +18,9 @@ There is a kind of virus that spreads without us even noticing. It’s not just 
 
 Being around people who constantly say, “That’s not possible,” or “Stop dreaming, be realistic,” can slowly pull you down. If you spend too much time with these voices, you start to absorb their outlook, just like a tea bag infuses water. Before you know it, you become the water, steeped in their negativity.
 
-I like to think of it as a transfer of mood. Sometimes, it’s not even words—just a sigh or a gloomy look can change the whole atmosphere of a room. You might walk in feeling neutral, but after a few minutes with a negative person, you feel your own mood shift.
+I like to think of it as a transfer of mood. Sometimes, it’s not even words: just a sigh or a gloomy look can change the whole atmosphere of a room. You might walk in feeling neutral, but after a few minutes with a negative person, you feel your own mood shift.
 
-That’s why it’s so important to be careful about who you spend time with. Imagine someone sneezing all over you—you’d want to protect yourself, right? The same goes for your mental well-being. The more positive energy you have, the more you can create, build, and achieve. Protecting yourself from negativity is not selfish; it’s necessary for your own happiness and growth.
+That’s why it’s so important to be careful about who you spend time with. Imagine someone sneezing all over you; you’d want to protect yourself, right? The same goes for your mental well-being. The more positive energy you have, the more you can create, build, and achieve. Protecting yourself from negativity is not selfish; it’s necessary for your own happiness and growth.
 
 {{< figure src="https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZWdhdGl2aXR5JTIwZW1vdGlvbmFsJTIwY29udGFnaW9uJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTY2MzIzNzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden framed gray wooden door" title="How to Stop Negativity From Spreading Into Your Life" caption="How to Stop Negativity From Spreading Into Your Life - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)" >}}
 
@@ -32,11 +32,11 @@ So, be extra careful about who you let into your circle. Invite as much positivi
 
 > *You are the average of the five people you spend the most time with.*
 >
-> — Jim Rohn
+> *Jim Rohn*
 
 > *Negativity is like a virus. Protect your mind as you would your health.*
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 

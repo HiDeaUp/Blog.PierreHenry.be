@@ -24,15 +24,15 @@ But what if, instead of searching for success as if it were some object to find,
 
 However, motivation alone won’t get you there. Motivation fades. What really matters is building a routine. A solid daily routine, even if it’s just ten minutes twice a day, adds up over time. Consistency is what pays off. When you break your routine, like skipping a few days, it’s always harder to start again. That’s why regularity is key. Don’t set limits for yourself before you’ve even begun. Of course, you can’t do the impossible, but most people don’t even know where their real limits are.
 
-Instead of worrying about the future or asking yourself endless questions, focus on doing a little bit every day. No one knows what tomorrow will bring, but the best way to build your future is to take action today. Take control of your life. Don’t just let things happen to you—be the main character in your own story. You are the only one who can truly make decisions for your life.
+Instead of worrying about the future or asking yourself too many questions, focus on doing a little bit every day. No one knows what tomorrow will bring, but the best way to build your future is to take action today. Take control of your life. Don’t just let things happen to you: be the main character in your own story. You are the only one who can truly make decisions for your life.
 
 Remember this: the success of any person almost always goes beyond what they imagined. We often think, “I’d like to do this, but it’s not possible.” Then, five years later, we look back and realize we’ve gone much further than we ever thought we could. The key is to be consistent and have a clear plan of action. If you are determined and stick to it every day, you will get there. Everything is possible if you really want it.
 
 > *The only limits that exist are the ones you place on yourself.*
-> — Unknown
+> *Unknown*
 
 > *Success is not about being the best. It’s about always getting better.*
-> — Behance
+> *Behance*
 
 ---
 
@@ -41,12 +41,12 @@ Remember this: the success of any person almost always goes beyond what they ima
 ## Key Takeaways
 - Your success can go far beyond what you imagine.
 - Most limits are self-imposed and come from past experiences or beliefs.
-- Build a daily routine and stick to it—consistency is more important than motivation.
+- Build a daily routine and stick to it: consistency is more important than motivation.
 - Don’t worry about tomorrow. Focus on doing a little bit today.
 - Take control of your life and make your own decisions.
 
 ## Action Steps
-- Identify one area where you’ve set a limit for yourself—challenge it.
+- Identify one area where you’ve set a limit for yourself: challenge it.
 - Start a simple daily routine, even if it’s just ten minutes.
 - Reflect on your progress every week and adjust your plan as needed.
 

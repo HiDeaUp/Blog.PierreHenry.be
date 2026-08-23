@@ -25,29 +25,29 @@ When you make new decisions, when you ask yourself, “What’s the next decisio
 
 > _If you always do what you’ve always done, you’ll always get what you’ve always got._
 >
-> — Henry Ford
+> *Henry Ford*
 
-Don’t hesitate to add new habits to your daily life. Maybe you’ve never gone jogging in the morning—why not try it? You don’t know if it’s good for you until you try. Sometimes, we close doors to opportunities because we say, “That’s not for me.” But maybe it is. Trying a new habit isn’t twisting yourself into someone else; it’s just giving something a shot. If it doesn’t fit, don’t force it, but at least you tried.
+Don’t hesitate to add new habits to your daily life. Maybe you’ve never gone jogging in the morning: why not try it? You don’t know if it’s good for you until you try. Sometimes, we close doors to opportunities because we say, “That’s not for me.” But maybe it is. Trying a new habit isn’t twisting yourself into someone else; it’s just giving something a shot. If it doesn’t fit, don’t force it, but at least you tried.
 
 {{< figure src="https://images.unsplash.com/photo-1526378722484-bd91ca387e72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY29tZm9ydCUyMHpvbmUlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzY4MjIyMjA5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="artificial intelligence is on it’s way" title="How to Grow Fast or Get Left Behind by AI" caption="How to Grow Fast or Get Left Behind by AI - Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/photos/person-holding-green-paper-t1PaIbMTJIM)" >}}
 
 Here’s a trick I used to motivate myself: I’d go to bed wearing my jogging clothes. That way, when I woke up, I was already dressed to run. Otherwise, I’d wake up, shower, and then think, “Not today, it’s too late, I’ll do something else instead.” But if you go to bed ready, you’re more likely to follow through. There’s nothing wrong with that. Sometimes, you have to make it as easy as possible for yourself to take action.
 
-The best time to take action is today. Not tomorrow, not next week—today. We often undervalue ourselves for no reason, closing doors and not allowing ourselves to do things we could easily do. We put up limiting beliefs and barriers that hold us back. Instead, tell yourself, “Of course I can do it. Of course this is for me. I’m going for it.”
+The best time to take action is today. Not tomorrow, not next week: today. We often undervalue ourselves for no reason, closing doors and not allowing ourselves to do things we could easily do. We put up limiting beliefs and barriers that hold us back. Instead, tell yourself, “Of course I can do it. Of course this is for me. I’m going for it.”
 
 > _Do one thing every day that scares you._
 >
-> — Eleanor Roosevelt
+> *Eleanor Roosevelt*
 
-This mindset—“It’s for me, I’m doing it”—is what will help you push your limits. Instead of being someone who hopes for change but never actually changes, you’ll be the one who does something new every day. Every day, do something that gives you a little chill, something that scares you just a bit, because that’s how you expand your comfort zone. Stay true to your values, but try something new that helps you grow. Pushing yourself is the best gift you can give yourself, because it truly improves your performance and skills.
+This mindset (“It’s for me, I’m doing it”) is what will help you push your limits. Instead of being someone who hopes for change but never actually changes, you’ll be the one who does something new every day. Every day, do something that gives you a little chill, something that scares you just a bit, because that’s how you expand your comfort zone. Stay true to your values, but try something new that helps you grow. Pushing yourself is the best gift you can give yourself, because it truly improves your performance and skills.
 
-Always look for new opportunities and things you can do to reach the next level. I’ve spent over twelve years and more than $94,000 on seminars and training in the US, Ireland, the UK, Canada, Singapore, New Zealand, and Australia. I’ve condensed all that experience into my workshops and courses. For me, these are like my second brain—a way to organize and put into practice everything I’ve learned. Once I see something works for me, I share it with others.
+Always look for new opportunities to learn and apply what you discover. The value does not come from collecting more material. It comes from testing ideas in your own work, keeping what helps, and sharing clear lessons with others.
 
 At first, I kept all this knowledge to myself, storing it in Google Drive and note apps. But I realized I needed to stop being selfish and share it with others. That’s why I put everything on a platform where people can access it and benefit too. I want you to know that you can always improve, always expand your comfort zone, and always find new ways to grow.
 
 > _The only limits in our life are those we impose on ourselves._
 >
-> — Bob Proctor
+> *Bob Proctor*
 
 ---
 

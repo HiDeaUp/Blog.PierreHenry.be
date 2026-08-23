@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/d41d6050e436"
 
 Have you ever wanted to accomplish something so big, so bold, that it almost felt out of reach? Maybe you’ve imagined doing something far beyond what you thought you could ever achieve. If you feel this kind of ambition, you’re already on the right path.
 
-Our limits often hold us back, but here’s the thing: those limits are usually self-imposed. They come from how we see ourselves, how we interpret our abilities, and the stories we tell ourselves about what’s possible. We’re all shaped by certain boundaries, and these boundaries reflect what we believe we can achieve—nothing more.
+Our limits often hold us back, but here’s the thing: those limits are usually self-imposed. They come from how we see ourselves, how we interpret our abilities, and the stories we tell ourselves about what’s possible. We’re all influenced by certain boundaries, and these boundaries reflect what we believe we can achieve: nothing more.
 
 Success and the projects we bring to life are directly tied to these beliefs. What we think is possible, and what we think we can do, sets the ceiling for our achievements. But in reality, anything is possible. The sky is not the limit; it’s just the beginning.
 
@@ -27,10 +27,10 @@ There’s always a better way to do things. Moving forward means questioning you
 When you want something so much that it becomes an obsession, you’ll find the triggers and levers that open new doors. You’ll discover ways to create new possibilities for yourself. That’s what I encourage you to do: go further, push your boundaries, and see what you’re truly capable of.
 
 > _The only real limits are the ones you set in your mind._
-> — Unknown
+> *Unknown*
 
 > _If you want something you've never had, you must be willing to do something you've never done._
-> — Thomas Jefferson
+> *Thomas Jefferson*
 
 Learning never ends. As you grow and pick up new skills, keep updating your approach. The journey is ongoing, and every new lesson can help you move ahead faster than before. The shortcut to progress is to keep questioning, keep learning, and keep pushing your own boundaries.
 
@@ -41,10 +41,10 @@ Remember, the only limits that exist are the ones you create in your mind. It’
 ---
 
 ## Key Takeaways
-- *Your limits are self-imposed—challenge them.*
+- *Your limits are self-imposed: challenge them.*
 - *Question your habits and routines to find better ways forward.*
 - *Obsession and passion can help you break through barriers.*
-- *Learning and growth are never finished—keep updating your approach.*
+- *Learning and growth are never finished: keep updating your approach.*
 
 ## Reflection
 - *What’s one belief about yourself that’s holding you back?*

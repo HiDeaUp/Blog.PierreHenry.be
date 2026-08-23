@@ -3,8 +3,8 @@ title = "How to Boost Your Mood in Seconds With Laughter"
 slug = "how-to-boost-your-mood-in-seconds-with-laughter"
 date = "2025-08-30T09:11:35.132785"
 draft = false
-description = "Have you ever noticed that you can't really be sad and happy at the same time? It's a bit like trying to do two mental tasks at once—our brains just aren't wired for it. When it comes to our mood,..."
-summary = "Have you ever noticed that you can't really be sad and happy at the same time? It's a bit like trying to do two mental tasks at once—our brains just aren't wired for it. When it comes to our mood,..."
+description = "Have you ever noticed that you can't really be sad and happy at the same time? It's a bit like trying to do two mental tasks at once: our brains just aren't wired for it. When it comes to our mood,..."
+summary = "Have you ever noticed that you can't really be sad and happy at the same time? It's a bit like trying to do two mental tasks at once: our brains just aren't wired for it. When it comes to our mood,..."
 tags = ["entrepreneurship", "happiness", "laughter therapy", "mental health", "mood improvement", "tasks", "wellness"]
 priority = true
 priority_topics = ["tasks", "entrepreneurship"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/c25a4e2ce2e0"
 
 {{< figure src="https://images.unsplash.com/photo-1640599568994-e1a18603ec7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsYXVnaHRlciUyMHRoZXJhcHklMjB3ZWxsbmVzcyUyMG1vb2QlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA5MDkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman with curly hair and looking up" title="How to Boost Your Mood in Seconds With Laughter" caption="How to Boost Your Mood in Seconds With Laughter - Photo by [Fausto García-Menéndez](https://unsplash.com/@faustogarmen) on [Unsplash](https://unsplash.com/photos/a-woman-with-curly-hair-laughing-and-looking-up-8FTSRCHU0p0)" >}}
 
-Have you ever noticed that you can't really be sad and happy at the same time? It's a bit like trying to do two mental tasks at once—our brains just aren't wired for it. When it comes to our mood, it's the same story. You can't be both joyful and downhearted in the same moment. It's either one or the other.
+Have you ever noticed that you can't really be sad and happy at the same time? It's a bit like trying to do two mental tasks at once: our brains just aren't wired for it. When it comes to our mood, it's the same story. You can't be both joyful and downhearted in the same moment. It's either one or the other.
 
 That's where laughter comes in. There are even laughter festivals in some cities, where people gather just to laugh together. At first, it might seem a little strange or forced, but the effect is real. Even if you laugh artificially, just for yourself, it can make a difference. Think of it like a breathing exercise for your mood.
 
@@ -25,10 +25,10 @@ You don't need an audience. You can do this alone in your room. Just start laugh
 The key idea is simple: laughter, even when it feels artificial, can break the cycle of negative emotions. It's a tool you can use anytime, anywhere, to bring a bit more happiness into your day.
 
 > *Laughter is the shortest distance between two people.*  
-— Victor Borge
+*Victor Borge*
 
 > *Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.*  
-— Thich Nhat Hanh
+*Thich Nhat Hanh*
 
 ---
 

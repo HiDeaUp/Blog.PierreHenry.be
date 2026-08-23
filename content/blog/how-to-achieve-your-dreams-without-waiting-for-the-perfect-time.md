@@ -22,7 +22,7 @@ If this is your dream, invest all your time and energy into it. Life is too shor
 
 If you’re not sure whether your idea is good or not, do it anyway. Otherwise, you’ll never know. Not taking action is a kind of slow death. Don’t expect anything new in your life if you keep doing what you’ve always done. You have to act, make decisions. Sometimes you’ll make the wrong choice, but that’s how you learn. Making ten bad decisions is still better than doing nothing, because one of those decisions might be the right one, and that’s what will make all the difference.
 
-Don’t spend your life trying to impress people you don’t even like. So many of us do things—study a subject, buy a fancy car, choose a career—just to look good in the eyes of others, whether it’s our parents, family, or colleagues. But if that thing doesn’t interest you, what’s the point? If you know deep down that something is your dream, your investment, and you’re proud of it, do it for yourself. But if you’re only doing it to impress others, stop. Why spend money or time for people you don’t care about? Society pushes us to do things for appearances, but it’s much better to stay true to yourself.
+Don’t spend your life trying to impress people you don’t even like. So many of us do things (study a subject, buy a fancy car, choose a career) just to look good in the eyes of others, whether it’s our parents, family, or colleagues. But if that thing doesn’t interest you, what’s the point? If you know deep down that something is your dream, your investment, and you’re proud of it, do it for yourself. But if you’re only doing it to impress others, stop. Why spend money or time for people you don’t care about? Society pushes us to do things for appearances, but it’s much better to stay true to yourself.
 
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMHBlcnNvbmFsLWdyb3d0aHxlbnwwfDB8fHwxNzU1NjU2OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Achieve Your Dreams Without Waiting for the Perfect Time" caption="How to Achieve Your Dreams Without Waiting for the Perfect Time - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
@@ -32,18 +32,18 @@ There’s a saying: *If the road is beautiful, don’t ask where it leads. Just 
 
 > *The best time to plant a tree was 20 years ago. The second-best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 > *If the road is beautiful, don’t ask where it leads. Just enjoy the journey.*
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 
 ## Key Takeaways
 
 - What you can achieve is only limited by how much you want it.
-- Start now—waiting only wastes time you’ll never get back.
+- Start now: waiting only wastes time you’ll never get back.
 - Don’t live for others’ approval; do what matters to you.
 - Take action, even if you’re unsure. Mistakes teach more than inaction.
 - Reflect on your days, learn, and improve. That’s how you build a life you love.
@@ -52,7 +52,7 @@ There’s a saying: *If the road is beautiful, don’t ask where it leads. Just 
 
 ## Action Steps
 
-- Write down your real dream—what you want, not what others expect.
+- Write down your real dream: what you want, not what others expect.
 - Take one step toward it today, no matter how small.
 - At the end of each day, rate your day and note what you can improve.
 - Stop spending time or money to impress people you don’t care about.

@@ -39,10 +39,10 @@ This mental exercise is powerful. For your brain, it’s almost as if the decisi
 Always reason things out for yourself. Visualize your options, give yourself a real chance to try them, and see what fits. This way, you move forward instead of staying stuck. You don’t have to let fear hold you back. Sometimes, just taking a small step is enough to break the deadlock. If it feels right, keep going.
 
 > *“The best way to predict your future is to create it.”*  
-— Peter Drucker
+*Peter Drucker*
 
 > *“You are always one decision away from a totally different life.”*  
-— Anonymous
+*Anonymous*
 
 ---
 
@@ -54,7 +54,7 @@ Always reason things out for yourself. Visualize your options, give yourself a r
 - *Write down the pros and cons of your choices to see them clearly.*
 - *Test your decisions with real-life experiments before making big changes.*
 - *Visualize yourself living your new choice to see if it truly fits you.*
-- *You can always go back if it doesn’t feel right—give yourself that safety net.*
+- *You can always go back if it doesn’t feel right: give yourself that safety net.*
 
 ---
 

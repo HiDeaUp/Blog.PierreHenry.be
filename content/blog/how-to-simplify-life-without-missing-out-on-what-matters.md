@@ -14,13 +14,13 @@ source_medium = "https://medium.com/@phenrysay/65104f5ae5b4"
 
 {{< figure src="https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzaW1wbGljaXR5JTIwb3ZlcnRoaW5raW5nJTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTA3NDMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown its simple tiles" title="How to Simplify Life Without Missing Out on What Matters" caption="How to Simplify Life Without Missing Out on What Matters - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/brown-its-simple-scrabble-tiles-oHVdj31R3F4)" >}}
 
-We often make life harder than it needs to be. Whether it’s in our daily routines, decision-making, or even when starting a business, we tend to overcomplicate things that could be simple. This habit shows up everywhere: we want to have every tool, every gadget, every possible solution—even before we actually need them.
+We often make life harder than it needs to be. Whether it’s in our daily routines, decision-making, or even when starting a business, we tend to overcomplicate things that could be simple. This habit shows up everywhere: we want to have every tool, every gadget, every possible solution: even before we actually need them.
 
 Take starting a business, for example. Many people believe it’s complicated from the start. They want the latest website, the best email marketing service, a fancy payment system, and a tool for every little task, even before they have their first client. But the real first step is simple: get clients. Only after that should you think about optimizing your tools and processes. There’s no point in searching for the perfect payment connector or automation tool if you don’t even have customers yet.
 
 This urge to complicate things isn’t just about business. It’s everywhere in life. We often think that making things complicated is a sign of intelligence or sophistication. We believe that if something is hard to understand, it must be smart. But the truth is the opposite. The more complicated things are, the more likely you are to make mistakes, get frustrated, and give up.
 
-It’s better to have one simple tool that you know well than a dozen you barely understand. For example, in the world of online business, you might end up with several tools that do the same thing, just because you were tempted by the latest trend or influenced by what others are using. This is the classic “shiny object syndrome.” Every time a new app comes out, you want to try it—note-taking apps, reminder apps, productivity apps. You end up with so many that you forget why you started using them in the first place.
+It’s better to have one simple tool that you know well than a dozen you barely understand. For example, in the world of online business, you might end up with several tools that do the same thing, just because you were tempted by the latest trend or influenced by what others are using. This is the classic “shiny object syndrome.” Every time a new app comes out, you want to try it: note-taking apps, reminder apps, productivity apps. You end up with so many that you forget why you started using them in the first place.
 
 The best approach is to use the tool you know best, preferably the simplest one. If you like using a particular app or method, stick with it. The goal of organizing your day is to make your life easier, not more complicated. If your system makes things harder, it’s missing the point.
 
@@ -35,10 +35,10 @@ The same goes for your phone numbers, your travel habits, and everything else. I
 Minimalism isn’t just about owning less. It’s about making your life lighter, clearer, and more focused. When you keep things simple, you free up energy and attention for what really matters.
 
 > _Simplicity is the ultimate sophistication._
-> — Leonardo da Vinci
+> *Leonardo da Vinci*
 
 > _The ability to simplify means to eliminate the unnecessary so that the necessary may speak._
-> — Hans Hofmann
+> *Hans Hofmann*
 
 ---
 

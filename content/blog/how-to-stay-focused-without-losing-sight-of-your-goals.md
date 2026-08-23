@@ -16,12 +16,12 @@ source_medium = "https://medium.com/@phenrysay/883d7f93a81e"
 
 Have you ever noticed how easy it is to lose sight of what you truly want to achieve? You start with a clear goal, full of energy and excitement. But soon, distractions creep in. Trends shift, new ideas pop up, and suddenly, you’re pulled in a dozen different directions. You learn new things, which is great, but you drift away from your main objective. In the end, you never really become an expert in what you set out to do. The more you stray, the harder it becomes to finish what you started.
 
-This is why staying focused is so important. Every morning, you need to remember why you began. Determination and persistence are not just words—they are the fuel that keeps you moving forward, even when things get tough. When you believe in yourself and your project, you start to see that the only real limits are the ones you set in your own mind.
+This is why staying focused is so important. Every morning, you need to remember why you began. Determination and persistence are not just words; they are the fuel that keeps you moving forward, even when things get tough. When you believe in yourself and your project, you start to see that the only real limits are the ones you set in your own mind.
 
-Our upbringing, our experiences, and the expectations we absorb over the years shape how big we allow ourselves to dream. These mental barriers can either open doors or shut them tight. The key is to break those barriers, to remind yourself that everything is possible if you truly want it. If you can see your goal clearly, if you can picture the end result, you’re already halfway there.
+Our upbringing, our experiences, and the expectations we absorb over the years influence how big we allow ourselves to dream. These mental barriers can either open doors or shut them tight. The key is to break those barriers, to remind yourself that everything is possible if you truly want it. If you can see your goal clearly, if you can picture the end result, you’re already halfway there.
 
-> *“Whether you think you can, or you think you can't—you're right.”*  
-— Henry Ford
+> *“Whether you think you can, or you think you can't; you're right.”*
+*Henry Ford*
 
 Believing in yourself and staying determined are what make the difference. Don’t let yourself get distracted by every new trend or by what others are doing. When you’re confident that you’ll succeed, you will. Every morning, wake up and decide that today will be a fantastic day. Feel the satisfaction and gratitude that comes from progress, no matter how small.
 
@@ -29,17 +29,17 @@ Believing in yourself and staying determined are what make the difference. Don�
 
 It’s not just about having a strong mindset. You also need a plan. Sometimes you sit down at your computer and don’t know what to do next. That’s why it’s important to know your priorities. The Pareto principle is a great guide: 20% of your actions will bring 80% of your results. Focus on what really matters.
 
-Prepare your actions in advance. Planning isn’t a waste of time—it’s a victory. When you know exactly what you need to do, you save time and energy. Preparation is what sets you up for success.
+Prepare your actions in advance. Planning isn’t a waste of time; it’s a victory. When you know exactly what you need to do, you save time and energy. Preparation is what sets you up for success.
 
 Your environment matters, too. Surround yourself with the right people and the right atmosphere. This makes everything easier and helps you stay motivated. The right environment supports your goals and makes your journey smoother.
 
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
-— Robert Collier
+*Robert Collier*
 
 Even small changes can make a huge difference. Simple, practical tools can help you see things more clearly and take action. Sometimes, all it takes is a shift in your mindset or a tweak in your routine to change everything.
 
 > *“The only limit to our realization of tomorrow will be our doubts of today.”*  
-— Franklin D. Roosevelt
+: Franklin D. Roosevelt
 
 ---
 

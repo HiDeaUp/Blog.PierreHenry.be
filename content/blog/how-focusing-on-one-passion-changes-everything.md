@@ -27,10 +27,10 @@ If you spread yourself thin, your efforts light up everything just a little. But
 So, if you want to win, pick that one thing that matters most to you. Pour your energy into it. Don’t get distracted by a hundred little things. Go all in. That’s how you win the game.
 
 > *When you focus on one thing, you give yourself the best chance to succeed.*
-— Pierre
+*Pierre*
 
 > *What you want is possible. You just have to want it enough.*
-— Pierre
+*Pierre*
 
 ---
 

@@ -25,7 +25,7 @@ If you always see the negative, if you only see the glass as half empty, you mis
 
 > *The happiness of your life depends upon the quality of your thoughts.*
 >
-> — Marcus Aurelius
+> *Marcus Aurelius*
 
 Ask yourself: does life deserve to be lived half full or half empty? I’m convinced you should always choose the half full side. There are so many wonderful things, so many moments that bring real joy. Right now, I’m about to get productive on my computer. This is my productivity time. These little things lift me up. I feel good because I focus on what’s happening now, not on what’s missing.
 
@@ -33,7 +33,7 @@ Ask yourself: does life deserve to be lived half full or half empty? I’m convi
 
 {{< figure src="https://images.unsplash.com/photo-1664464707747-7c4ffbcb31a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtYW4lMjBzdGVwcGluZyUyMG91dHNpZGUlMjBzdW5saWdodHxlbnwwfDB8fHwxNzgyNjc5NjkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Take the first step without hesitation" title="How to Start Living Fully Without Waiting for the Perfect Moment" caption="Take the first step without hesitation - Photo by [Roman Denisenko](https://unsplash.com/@romandempire)" >}}
 
-There are endless chances to see things negatively. But there are just as many opportunities to see things positively. Focus on the good. Put on the right glasses and you’ll notice a huge difference. It changes everything about how you live.
+There are constant chances to see things negatively. But there are just as many opportunities to see things positively. Focus on the good. Put on the right glasses and you’ll notice a huge difference. It changes everything about how you live.
 
 Remember, life is limited. We’re here for a short time, and we don’t know how long we have. Why spend it suffering, waiting for retirement? That was the old way, work hard, maybe too hard, then hope for comfort later. But is that really what you deserve? At 67, you might finally retire, but at 77, you won’t have the same energy, the same spark, the same mindset. When you’re younger, everything feels possible. As you age, your perspective shifts.
 
@@ -49,7 +49,7 @@ It’s good to focus, but if you do only one thing all day, it becomes a chore. 
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 ## Small Steps, Big Results
 
@@ -63,7 +63,7 @@ Let me show you something: I’ve been working on a nutrition app. Every day, I 
 
 ## The Importance of Environment
 
-Sometimes, I like to work from a café. There’s a place in Sydney called Siro Rice Cake that I love. If you ever visit, we could meet there and talk about entrepreneurship. The environment matters. Where you work, where you relax, it shapes your experience. I’ve spent many nights in World Square, finishing my master’s in data science, working until midnight to meet deadlines. Some memories are good, some less so, but looking back, even the tough times weren’t so bad.
+Sometimes, I like to work from a café. There’s a place in Sydney called Siro Rice Cake that I love. If you ever visit, we could meet there and talk about entrepreneurship. The environment matters. Where you work, where you relax, it affects your experience. I’ve spent many nights in World Square, finishing my master’s in data science, working until midnight to meet deadlines. Some memories are good, some less so, but looking back, even the tough times weren’t so bad.
 
 Find places that inspire you. For me, cafés like Siro, Cartouche, and Black and White in Sydney are favorites. They open early, have great coffee, and the atmosphere is perfect for getting things done or just enjoying the moment. The right environment can make all the difference.
 
@@ -73,7 +73,7 @@ There’s never a perfect time to start. Waiting for tomorrow, next week, or som
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 {{< figure src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmcmllbmRzJTIwbGF1Z2hpbmclMjBjaXR5JTIwcm9vZnRvcHxlbnwwfDB8fHwxNzgyNjc5Njk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Laughter blossoms when you choose now" title="How to Start Living Fully Without Waiting for the Perfect Moment" caption="Laughter blossoms when you choose now - Photo by [Helena Lopes](https://unsplash.com/@helenalopesph)" >}}
 

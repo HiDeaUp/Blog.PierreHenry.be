@@ -24,17 +24,17 @@ But don’t forget the simple, everyday joys. These don’t have to be extraordi
 
 {{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtaW5kZnVsbmVzcyUyMHNlbGYtY2FyZXxlbnwwfDB8fHwxNzU2NTIwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Daily Joy Without Waiting for Big Moments" caption="How to Find Daily Joy Without Waiting for Big Moments - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
-Sometimes, I like to touch things around me, like a decorative egg box, and it makes me feel good. Or I go for a walk and pet some sheep—if you have sheep in your garden, why not? Their wool is soft and it’s a simple pleasure. Maybe for you, it’s petting your cat, resting on the couch, or watching a series you enjoy. I used to love watching “How I Met Your Mother.” It’s all about finding your own way to relax.
+Sometimes, I like to touch things around me, like a decorative egg box, and it makes me feel good. Or I go for a walk and pet some sheep: if you have sheep in your garden, why not? Their wool is soft and it’s a simple pleasure. Maybe for you, it’s petting your cat, resting on the couch, or watching a series you enjoy. I used to love watching “How I Met Your Mother.” It’s all about finding your own way to relax.
 
 Rewards can also motivate you to tackle challenges. For example, if I get up early and finish a project before work, I might treat myself to a movie that evening. Giving yourself these little rewards, on top of your daily moments of well-being, can make a big difference. The key is that rewards aren’t for every day, but when you do give yourself a gift, make it count.
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *Enjoy the little things, for one day you may look back and realize they were the big things.*
 >
-> — Robert Brault
+> *Robert Brault*
 
 ---
 

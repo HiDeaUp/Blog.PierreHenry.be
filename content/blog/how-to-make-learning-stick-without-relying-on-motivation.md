@@ -14,18 +14,18 @@ source_medium = "https://medium.com/@phenrysay/07ba46ef756e"
 
 {{< figure src="https://images.unsplash.com/photo-1606295834251-36d654991797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMHRlY2huaXF1ZXMlMjBzdHVkeSUyMGhhYml0cyUyMG1lbW9yeSUyMHJldGVudGlvbnxlbnwwfDB8fHwxNzU1NTc5NDI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="UK COVID-19 Home Test kit next to teenage boy who feels unwell" title="How to Make Learning Stick Without Relying on Motivation" caption="How to Make Learning Stick Without Relying on Motivation - Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/photos/boy-in-gray-hoodie-reading-book-on-brown-wooden-table-A9WQ-pHeeIU)" >}}
 
-Learning isn’t just about cramming facts or chasing motivation. If you want to really grow, you need a method that fits into your life, works every day, and helps you remember what matters. That’s where the ACQUIS technique comes in—a simple approach to learning that’s all about routine, action, and making knowledge last.
+Learning isn’t just about cramming facts or chasing motivation. If you want to really grow, you need a method that fits into your life, works every day, and helps you remember what matters. That’s where the ACQUIS technique comes in: a simple approach to learning that’s all about routine, action, and making knowledge last.
 
 ## Why Relying on Motivation Doesn’t Work
 
-Motivation is great when it’s there, but it comes and goes. Instead, set up a daily routine—just half an hour a day is enough. The key is to learn something you can use right away. It doesn’t have to be about business or marketing (unless that’s what you need). It could be learning a new language, picking up a life hack, or mastering a small skill that makes your day smoother.
+Motivation is great when it’s there, but it comes and goes. Instead, set up a daily routine: just half an hour a day is enough. The key is to learn something you can use right away. It doesn’t have to be about business or marketing (unless that’s what you need). It could be learning a new language, picking up a life hack, or mastering a small skill that makes your day smoother.
 
 ## Short-Term vs. Long-Term Learning
 
-Some things you learn once and use forever—like tying a Windsor knot, making a better omelet, or folding clothes quickly. These are quick wins. Other things, like learning a language, need a bit every day and spaced repetition. You won’t become fluent in Japanese in half an hour, but if you learn a few words daily and review them each week, you’ll make real progress.
+Some things you learn once and use forever, like tying a Windsor knot, making a better omelet, or folding clothes quickly. These are quick wins. Other things, like learning a language, need a bit every day and spaced repetition. You won’t become fluent in Japanese in half an hour, but if you learn a few words daily and review them each week, you’ll make real progress.
 
 > _“The best way to learn is to do; the worst way to teach is to talk.”_  
-— Paul Halmos
+*Paul Halmos*
 
 ## Learn, Use, Repeat
 
@@ -43,9 +43,9 @@ Don’t try to learn everything at once. Learning for hours in one go just leads
 
 ## Mix It Up: Life Hacks and Useful Skills
 
-Learning isn’t just about big topics. Try picking up small hacks that make life easier—like folding clothes in ten seconds, keeping your zipper up with a key ring, or making better coffee. These little tricks save time and open up new opportunities.
+Learning isn’t just about big topics. Try picking up small hacks that make life easier, like folding clothes in ten seconds, keeping your zipper up with a key ring, or making better coffee. These little tricks save time and open up new opportunities.
 
-Treat learning like brushing your teeth or eating well: a small, daily habit that keeps you sharp and ready for anything.
+Treat learning like brushing your teeth or eating well: a small, daily habit that keeps you focused and ready for anything.
 
 ## Spaced Repetition: The Secret to Remembering
 
@@ -56,14 +56,14 @@ Spaced repetition means reviewing what you’ve learned over time, not just once
 Try out different techniques and see what works for you. Maybe meditation helps you sleep better, or a new breathing exercise calms your nerves. Track your results. If something works, keep it. If not, try another method. Everyone’s different, so find what fits your life.
 
 > _“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”_  
-— Will Durant
+*Will Durant*
 
 ## Practical Examples
 
 {{< figure src="https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsZWFybmluZyUyMHRlY2huaXF1ZXMlMjBzdHVkeSUyMGhhYml0cyUyMG1lbW9yeSUyMHJldGVudGlvbnxlbnwwfDB8fHwxNzU1NTc5NDI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A circuit board with a brain on it" title="How to Make Learning Stick Without Relying on Motivation" caption="How to Make Learning Stick Without Relying on Motivation - Photo by [Ecliptic Graphic](https://unsplash.com/@eclipticgraphic) on [Unsplash](https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_jg8xh2SsXQ)" >}}
 
 - **Better Sleep:** Try blackout curtains, a sleep mask, cooler room temperature, or changing your pillow. Test what helps you sleep best.
-- **Breathing Techniques:** Use the 4-4-4 triangle method—inhale for 4 seconds, hold for 4, exhale for 4. Or try 4-7-8: inhale for 4, hold for 7, exhale for 8. Practice daily and see how you feel.
+- **Breathing Techniques:** Use the 4-4-4 triangle method: inhale for 4 seconds, hold for 4, exhale for 4. Or try 4-7-8: inhale for 4, hold for 7, exhale for 8. Practice daily and see how you feel.
 - **Fitness:** Learn a new exercise routine, like CrossFit, and see if it boosts your energy.
 - **Reading Faster:** Learn speed reading in one session, then use it every day.
 
@@ -73,12 +73,12 @@ The point is to always learn something you can use right away. This keeps learni
 
 ## Key Takeaways
 
-- *Learn a little every day—half an hour is enough.*
+- *Learn a little every day: half an hour is enough.*
 - *Focus on skills or knowledge you can use right away.*
 - *Use spaced repetition for long-term learning (especially for languages).*
 - *Teach what you learn to remember it better.*
 - *Mix practical life hacks with bigger learning goals.*
-- *Test and track what works for you—everyone’s different.*
+- *Test and track what works for you: everyone’s different.*
 
 ## Action Steps
 

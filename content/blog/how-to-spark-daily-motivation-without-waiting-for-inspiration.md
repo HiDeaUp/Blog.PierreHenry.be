@@ -40,14 +40,14 @@ If you can, take short trips on weekends. Stay in an Airbnb in the countryside o
 
 ## The Power of Rituals
 
-Before big moments, create a ritual to boost your energy. Tony Robbins, for example, jumps and moves around before speaking to crowds. This simple act helps him get into the right state of mind. You can do the same before starting your day or tackling a big task. Move, stretch, or dance—whatever gets your blood flowing.
+Before big moments, create a ritual to boost your energy. Tony Robbins, for example, jumps and moves around before speaking to crowds. This simple act helps him get into the right state of mind. You can do the same before starting your day or tackling a big task. Move, stretch, or dance: whatever gets your blood flowing.
 
 > *“The only limit to your impact is your imagination and commitment.”*  
-— Tony Robbins
+*Tony Robbins*
 
 ## Recapture Childlike Excitement
 
-Remember how you felt as a child before your birthday or the holidays? That pure excitement is still inside you. The key is to find ways to bring it back every morning. Life is too short not to live it at 300%. Fill your days with energy, curiosity, and joy—just like when you were a kid.
+Remember how you felt as a child before your birthday or the holidays? That pure excitement is still inside you. The key is to find ways to bring it back every morning. Life is too short not to live it at 300%. Fill your days with energy, curiosity, and joy: just like when you were a kid.
 
 {{< figure src="https://images.unsplash.com/photo-1636127171118-f33d34e5e77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwaGFwcGluZXNzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxNjEzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="In frame - a cup with the quotes &quot; Happiness is having a younger brother who is taller than you&quot;." title="How to Spark Daily Motivation Without Waiting for Inspiration" caption="How to Spark Daily Motivation Without Waiting for Inspiration - Photo by [Deepak N](https://unsplash.com/@deepak6020) on [Unsplash](https://unsplash.com/photos/a-coffee-mug-sitting-next-to-a-computer-keyboard-4brp5yDFXMY)" >}}
 
@@ -55,7 +55,7 @@ Remember how you felt as a child before your birthday or the holidays? That pure
 
 ## Key Takeaways
 
-- *Your environment shapes your mood and motivation. Keep it inspiring and clutter-free.*
+- *Your environment affects your mood and motivation. Keep it inspiring and clutter-free.*
 - *Use music and lighting as triggers to set the right tone for your day.*
 - *Change locations throughout the day to stay inspired and avoid feeling stuck.*
 - *Create simple rituals to boost your energy before important moments.*

@@ -59,10 +59,10 @@ Improving your self-esteem is about using these eight keys every day. The less y
 *Self-esteem isn’t just a feeling. It’s a daily practice, a way of living that helps you become the best version of yourself.*
 
 > *“The better you know yourself, the less you let others define you.”*  
-— Anonymous
+*Anonymous*
 
 > *“Failure is simply the opportunity to begin again, this time more intelligently.”*  
-— Henry Ford
+*Henry Ford*
 
 ---
 

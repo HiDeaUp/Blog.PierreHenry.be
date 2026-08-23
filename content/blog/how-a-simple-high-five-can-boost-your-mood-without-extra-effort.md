@@ -35,10 +35,10 @@ So here’s my challenge for you: pick a non-fiction book, read one chapter, and
 Another book I want to mention is *The One Thing*. The idea is to focus on just one thing at a time. When you put all your energy into a single task, you do it better, and you actually end up with more time to enjoy life. It’s about doing less, but doing it well, and not giving up too soon. In the long run, you achieve more because you stick with it.
 
 > *You can’t laugh and feel down at the same time. The brain just can’t manage two opposite moods at once.*
-> — Mel Robbins
+> *Mel Robbins*
 
 > *When you put yourself first, even in small ways, you make space for positivity to grow.*
-> — Pierre
+> *Pierre*
 
 ---
 

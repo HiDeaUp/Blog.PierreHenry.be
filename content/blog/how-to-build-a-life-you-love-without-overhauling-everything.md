@@ -25,7 +25,7 @@ Start by asking yourself: What’s one thing I can do today that fits with the p
 {{< figure src="https://images.unsplash.com/photo-1657526666357-6dfea90134bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWxheGF0aW9uJTIwc2ltcGxlJTIwbGl2aW5nJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjUyNjY3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person sitting on grass by a tent" title="How to Build a Life You Love Without Overhauling Everything" caption="How to Build a Life You Love Without Overhauling Everything - Photo by [Li Yang](https://unsplash.com/@ly0ns) on [Unsplash](https://unsplash.com/photos/a-person-sitting-on-grass-by-a-tent-YT4bV5ZIKRY)" >}}
 
 > _“The future depends on what you do today.”_
-— Mahatma Gandhi
+*Mahatma Gandhi*
 
 Don’t let your dreams slip away just because you keep putting them off. It’s better to repeat yourself and remind yourself of what matters than to keep postponing the things you want to do. Everything is possible if you decide to go for it.
 
@@ -36,7 +36,7 @@ I use a schedule for my notifications: from 9 am to 5 pm, they’re on, but outs
 We all risk missing out on our own lives if we’re not careful. We get caught up in distractions and forget to focus on what’s truly important. But you can build amazing things, even huge, beautiful things, if you start with small, daily actions.
 
 > _“Life is what happens when you’re busy making other plans.”_
-— John Lennon
+*John Lennon*
 
 {{< figure src="https://images.unsplash.com/photo-1704782590001-b6afc4e43ad9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxheGF0aW9uJTIwc2ltcGxlJTIwbGl2aW5nJTIwbWluZGZ1bG5lc3N8ZW58MHwwfHx8MTc1NjUyNjY3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in a hammock with a view of a lake" title="How to Build a Life You Love Without Overhauling Everything" caption="How to Build a Life You Love Without Overhauling Everything - Photo by [Andreas Bentele](https://unsplash.com/@rocketmediaspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-hammock-with-a-view-of-a-lake-86Z8FQN5QMY)" >}}
 
@@ -46,7 +46,7 @@ We all risk missing out on our own lives if we’re not careful. We get caught u
 - *A relaxing life starts with a clear vision of what you want.*
 - *Take small, daily actions that match your dreams and values.*
 - *Set boundaries with distractions like notifications to be present for yourself.*
-- *Don’t wait—start today, even with the smallest step.*
+- *Don’t wait: start today, even with the smallest step.*
 
 ## Reflection
 - *What’s one small action you can take today to move closer to the life you want?*

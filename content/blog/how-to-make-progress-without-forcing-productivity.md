@@ -30,23 +30,23 @@ It’s easy to fall into the trap of thinking you must keep going at all costs. 
 
 ## The Power of Taking a Break
 
-The solution is simple, yet often overlooked: take a break. When you notice things aren’t working, step away. Do something else. Go for a walk, swim, hit the gym, or just clear your mind. When you return to your task later—maybe after a few hours or even a few days—you’ll often find that everything flows much more easily.
+The solution is simple, yet often overlooked: take a break. When you notice things aren’t working, step away. Do something else. Go for a walk, swim, hit the gym, or just clear your mind. When you return to your task later (maybe after a few hours or even a few days) you’ll often find that everything flows much more easily.
 
 This isn’t procrastination. It’s about recognizing that now isn’t the right moment. By giving yourself permission to pause, you allow your mind to reset. You come back with fresh energy, clear ideas, and a new perspective.
 
 > *Sometimes the most productive thing you can do is relax.*
 >
-> — Mark Black
+> *Mark Black*
 
 ## Productivity Isn’t Constant
 
-Everyone has moments when their mind feels cloudy or their energy is low. Some days, everything clicks and you breeze through your work. Other days, you feel like you’re moving through fog. That’s normal. Productivity isn’t a constant state. It comes and goes, depending on many factors—sleep, mood, even the weather.
+Everyone has moments when their mind feels cloudy or their energy is low. Some days, everything clicks and you breeze through your work. Other days, you feel like you’re moving through fog. That’s normal. Productivity isn’t a constant state. It comes and goes, depending on many factors: sleep, mood, even the weather.
 
 When you’re not at your best, don’t force it. Accept that it’s not the right time. Put the task aside, close the drawer, and come back to it later. You’ll often find that after a break, you can finish the task quickly and well.
 
 > *Rest is not idleness, and to lie sometimes on the grass under trees on a summer’s day, listening to the murmur of water, or watching the clouds float across the sky, is by no means a waste of time.*
 >
-> — John Lubbock
+> *John Lubbock*
 
 ## Letting Go Is Not Giving Up
 
@@ -58,14 +58,14 @@ Everyone experiences these moments. Sometimes you wake up tired, or your mind is
 
 > *Almost everything will work again if you unplug it for a few minutes, including you.*
 >
-> — Anne Lamott
+> *Anne Lamott*
 
 ## Key Takeaways
 
 ---
 
 * *Notice when things aren’t working and give yourself permission to take a break.*
-* *Taking time for yourself isn’t procrastination—it’s a smart way to recharge.*
+* *Taking time for yourself isn’t procrastination; it’s a smart way to recharge.*
 * *Productivity comes in waves. Don’t force it when you’re not at your best.*
 * *Letting go for a while can help you come back stronger and more focused.*
 * *Ask yourself: Am I forcing things right now? What would happen if I stepped back for a moment?*

@@ -24,17 +24,17 @@ Another key is to have a clear vision. Picture yourself having already achieved 
 
 {{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYwMTAxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Break Mental Limits Without Losing Motivation" caption="How to Break Mental Limits Without Losing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
-The real magic happens when you start acting like the person who has already succeeded. Stand tall, look at yourself in the mirror, and tell yourself, “Today, I’m going to make it happen. Everything is possible. I believe in myself. I am the best. Today is going to be an amazing day.” It might feel strange at first, but these daily affirmations are powerful. They shape your mindset and help you move forward with confidence.
+The real magic happens when you start acting like the person who has already succeeded. Stand tall, look at yourself in the mirror, and tell yourself, “Today, I’m going to make it happen. Everything is possible. I believe in myself. I am the best. Today is going to be an amazing day.” It might feel strange at first, but these daily affirmations are powerful. They influence your mindset and help you move forward with confidence.
 
 Remember, when you’re positive, opportunities seem to find you. It’s like a virtuous circle: the more you smile at life, the more life smiles back. But if you’re negative, if you don’t smile, you won’t see the chances that come your way. So say yes to opportunities, even the small ones. When you’re in a good mood and full of energy, it’s much easier to say yes and move forward.
 
 > *The only limits in our lives are those we accept in our minds.*
 >
-> — Anonymous
+> *Anonymous*
 
-> *Whether you think you can, or you think you can’t—you’re right.*
+> *Whether you think you can, or you think you can’t; you’re right.*
 >
-> — Henry Ford
+> *Henry Ford*
 
 {{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc3VjY2VzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTYwMTAxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Break Mental Limits Without Losing Motivation" caption="How to Break Mental Limits Without Losing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
@@ -51,5 +51,5 @@ Remember, when you’re positive, opportunities seem to find you. It’s like a 
 
 ## Reflection
 - *What limiting beliefs are holding you back right now?*
-- *How can you start acting like the person you want to become—today?*
+- *How can you start acting like the person you want to become: today?*
 - *What’s one small step you can take this week toward your goal?*

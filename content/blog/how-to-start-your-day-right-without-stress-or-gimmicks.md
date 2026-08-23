@@ -22,7 +22,7 @@ Belief in yourself is the first step. Top athletes know this well. They train th
 
 > *Whether you think you can, or you think you can't – you're right.*
 >
-> — Henry Ford
+> *Henry Ford*
 
 Visualizing your day in the morning works the same way. Picture your day going well. Imagine yourself achieving the three or four things you want to get done. Don’t overload your list. Focus on a few key tasks. This increases the odds that your day will go the way you want.
 
@@ -40,13 +40,13 @@ This daily review is deeply satisfying. It gives me a sense of pride to keep opt
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 If you want to improve your days from start to finish, try these simple steps. You don’t need to change everything at once. Start with your morning routine, add your to-do and not-to-do lists, and finish each day with a quick review. Over time, you’ll notice real changes.
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 ---
 

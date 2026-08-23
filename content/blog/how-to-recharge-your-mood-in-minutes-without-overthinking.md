@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/3ec1981bfd58"
 
 Have you ever woken up feeling off, with a heavy head and no clear reason why? Sometimes, the weight of everything you need to do seems to fall on you before you’ve even had your first coffee. It’s as if all your worries and unfinished business are waiting for you at the edge of your bed. On those mornings, the best thing you can do is get outside and find a bit of nature.
 
-Even if it means driving for half an hour, taking a train, or walking a bit further than usual, spending time in a green space can make a huge difference. If you’re lucky enough to live near mountains, forests, or even a large park, take advantage of it. I remember a recent trip to the border between Austria and Slovenia. The scenery was breathtaking, with endless greenery and beautiful trails. I’ve also found stunning parks in places like the Czech Republic, Lithuania, and Latvia. Even in cities, you can often find a small oasis of green.
+Even if it means driving for half an hour, taking a train, or walking a bit further than usual, spending time in a green space can make a huge difference. If you’re lucky enough to live near mountains, forests, or even a large park, take advantage of it. I remember a recent trip to the border between Austria and Slovenia. The scenery was breathtaking, with constant greenery and beautiful trails. I’ve also found stunning parks in places like the Czech Republic, Lithuania, and Latvia. Even in cities, you can often find a small oasis of green.
 
 Of course, not everyone can escape to the Alps or the forests of Finland every weekend. But even a short walk in a local park or a patch of grass can help. If you’re feeling low, try planning a little getaway for yourself. Book a weekend alone in a cabin, bring a few books, and leave your phone and laptop switched off. These moments of disconnect are precious. They help you refocus on yourself and what truly matters. After a few hours or days like this, you’ll come back feeling refreshed and recharged. It really does change everything.
 
@@ -30,11 +30,11 @@ Don’t underestimate the value of these small moments. Even if you spend five d
 
 > *In every walk with nature, one receives far more than he seeks.*
 >
-> — John Muir
+> *John Muir*
 
 > *Almost everything will work again if you unplug it for a few minutes, including you.*
 >
-> — Anne Lamott
+> *Anne Lamott*
 
 ---
 

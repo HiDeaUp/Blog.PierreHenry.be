@@ -12,9 +12,9 @@ original_title = "Comment réussir à accomplir ses désires"
 source_medium = "https://medium.com/@phenrysay/1314cc272b33"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1544018239-bcbbc2c55c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Quit squeezing bro, tryna smile here :)" title="How to Invest in Your Happiness Without Chasing Money" caption="How to Invest in Your Happiness Without Chasing Money - Photo by [Nyabuto Felix](https://unsplash.com/@nyabuto) on [Unsplash](https://unsplash.com/photos/yellow-emoticon-plastic-ball-6M-9CNXO7gw)" >}}
+{{< figure src="https://images.unsplash.com/photo-1544018239-bcbbc2c55c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Quit squeezing bro, tryna smile here:)" title="How to Invest in Your Happiness Without Chasing Money" caption="How to Invest in Your Happiness Without Chasing Money - Photo by [Nyabuto Felix](https://unsplash.com/@nyabuto) on [Unsplash](https://unsplash.com/photos/yellow-emoticon-plastic-ball-6M-9CNXO7gw)" >}}
 
-When we talk about investing, most people think of money or maybe time. But what about investing in your own happiness and fulfillment? The projects you care about, the dreams you’ve held onto for years—these are the things that truly matter. Over the past decade, I’ve experimented, stumbled, and finally discovered what actually works to bring these desires to life.
+When we talk about investing, most people think of money or maybe time. But what about investing in your own happiness and fulfillment? The projects you care about, the dreams you’ve held onto for years: these are the things that truly matter. Over the past decade, I’ve experimented, stumbled, and finally discovered what actually works to bring these desires to life.
 
 Let’s get straight to the point. The first and most important thing is simple: routines. Not just any routines, but the ones you’ve already put effort into building. These routines are the foundation for any project, whether it’s a week-long passion project or a dream you’ve chased for years.
 
@@ -24,13 +24,13 @@ The answer is yes, but only if you stick to them. Waking up early, for example, 
 
 I once kept a list on my phone of successful people who wake up early. There’s the Disney executive who gets up at 4:15 am, Ryan the top real estate agent in New York at 4:30 am, and Amélie Nothomb, the novelist, who writes for hours every morning starting at 4 am. Their routines are non-negotiable, and that’s what sets them apart.
 
-Personally, I prefer an evening routine—a walk at night to clear my mind. This habit is a big part of my own success. It helps me stay consistent and finish what I start. Too often, we begin new things but never see them through. That’s why perseverance and setting personal challenges are so important. These challenges keep you motivated from within.
+Personally, I prefer an evening routine: a walk at night to clear my mind. This habit is a big part of my own success. It helps me stay consistent and finish what I start. Too often, we begin new things but never see them through. That’s why perseverance and setting personal challenges are so important. These challenges keep you motivated from within.
 
 {{< figure src="https://images.unsplash.com/photo-1599113615507-13f78150fb2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Smiley ball in hand." title="How to Invest in Your Happiness Without Chasing Money" caption="How to Invest in Your Happiness Without Chasing Money - Photo by [Shaurya Sagar](https://unsplash.com/@shauryasagar) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-yellow-smiley-face-ball-A4wa3SpyOsg)" >}}
 
-Another game-changer for me has been nutrition. Eating well, avoiding too much sugar or heavy food, has a direct impact on motivation, productivity, and mood. When you’re young, you might get away with eating anything, but after 25, your body starts to change. I learned this the hard way. Back in my twenties, I could drink liters of milk and eat cereal all day. Now, if I tried that, I’d feel terrible. Accepting these changes is crucial. There’s no point wasting energy fighting reality. Accept, adapt, and move forward.
+Another major improvement for me has been nutrition. Eating well, avoiding too much sugar or heavy food, has a direct impact on motivation, productivity, and mood. When you’re young, you might get away with eating anything, but after 25, your body starts to change. I learned this the hard way. Back in my twenties, I could drink liters of milk and eat cereal all day. Now, if I tried that, I’d feel terrible. Accepting these changes is crucial. There’s no point wasting energy fighting reality. Accept, adapt, and move forward.
 
-If something goes wrong—say, someone steals your motorbike—you can either dwell on it or see it as a sign that maybe it was time for a change. Don’t waste time digging up old problems. Time is the only thing you can’t get back. Lose three hours, and those hours are gone forever.
+If something goes wrong (say, someone steals your motorbike) you can either dwell on it or see it as a sign that maybe it was time for a change. Don’t waste time digging up old problems. Time is the only thing you can’t get back. Lose three hours, and those hours are gone forever.
 
 To achieve your goals, set up routines and add positive constraints to your environment. For example, if you want to eat healthier, don’t keep junk food at home. If you want to focus, surround yourself with people who inspire you. Your environment is powerful. It can make discipline almost automatic.
 
@@ -41,10 +41,10 @@ Take time to reflect. I like to sit in a café, think about my life, and ask mys
 There’s a Chinese proverb that says the best time to plant a tree was twenty years ago. The second-best time is now. If you start today, in twenty years, you’ll have something strong and beautiful. The same goes for your life. Start now, and your future self will thank you.
 
 > *The best time to plant a tree was twenty years ago. The second-best time is now.*
-> — Chinese Proverb
+> *Chinese Proverb*
 
 > *Discipline is choosing between what you want now and what you want most.*
-> — Abraham Lincoln
+> *Abraham Lincoln*
 
 {{< figure src="https://images.unsplash.com/photo-1579600161224-cac5a2971069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGhhcHBpbmVzcyUyMHNlbGYtaW52ZXN0bWVudHxlbnwwfDB8fHwxNzU2MDE1MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Admiration | Instagram: @timmossholder" title="How to Invest in Your Happiness Without Chasing Money" caption="How to Invest in Your Happiness Without Chasing Money - Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-gray-textile-8R-mXppeakM)" >}}
 
@@ -52,11 +52,11 @@ There’s a Chinese proverb that says the best time to plant a tree was twenty y
 
 ## Key Takeaways
 
-- Build and stick to routines—they are the backbone of any achievement.
+- Build and stick to routines; they are the backbone of any achievement.
 - Set up your environment to support your goals, not sabotage them.
 - Accept changes in yourself and your circumstances; adapt instead of resisting.
 - Finish what you start, and add personal challenges to stay motivated.
-- Take care of your body—nutrition and rest matter more than you think.
+- Take care of your body: nutrition and rest matter more than you think.
 - Surround yourself with inspiring people and content.
 - Take time to reflect and adjust your path as needed.
 - Start today. The sooner you begin, the sooner you’ll see results.

@@ -18,15 +18,15 @@ source_medium = "https://medium.com/@phenrysay/a86734799333"
 
 ## The Speed of Accomplishment 🚀
 
-### Why doing things well—and quickly—can change your life
+### Why doing things well (and quickly) can change your life
 
 When it comes to getting things done, there’s something special about not just finishing tasks, but doing them well and fast. It’s even better when you genuinely enjoy what you’re working on. But what happens when you realize you don’t actually like the things you’re doing? Or maybe you discover that a certain task just isn’t your thing at all.
 
 The first step is to figure out why you don’t enjoy a particular activity. Ask yourself: what exactly bothers you about it? Is it the task itself, the environment, or maybe a memory tied to it? Pinpointing the discomfort is key. Once you know what’s wrong, you can start to change it.
 
-Sometimes, a simple change of scenery can make a huge difference. For example, I know I don’t like working on my computer facing a wall in my bedroom, or sitting on my bed. But if I go to a café, or even one of those new productivity pods popping up in coworking spaces or shopping centers, everything feels different. You can even buy a pod for your garden, watch the birds, and enjoy the sunlight or the stars if you work late. The environment shapes your experience more than you might think.
+Sometimes, a simple change of scenery can make a huge difference. For example, I know I don’t like working on my computer facing a wall in my bedroom, or sitting on my bed. But if I go to a café, or even one of those new productivity pods popping up in coworking spaces or shopping centers, everything feels different. You can even buy a pod for your garden, watch the birds, and enjoy the sunlight or the stars if you work late. The environment affects your experience more than you might think.
 
-But sometimes, it’s not the place—it’s a bad memory from the past that sticks to the task. Your brain links the activity to that old discomfort, and every time you try to do it, you feel the same way. The challenge is to change your perception, so you can finally enjoy what you’re doing. This isn’t always easy. It takes some honest self-reflection and maybe a bit of brainstorming.
+But sometimes, it’s not the place; it’s a bad memory from the past that sticks to the task. Your brain links the activity to that old discomfort, and every time you try to do it, you feel the same way. The challenge is to change your perception, so you can finally enjoy what you’re doing. This isn’t always easy. It takes some honest self-reflection and maybe a bit of brainstorming.
 
 For me, coming up with ideas while walking doesn’t work so well. But if I’m soaking in a hot bath or relaxing in a spa, my mind opens up. When I lived in New Zealand, I loved going to the Polynesian Spa in Rotorua. It was the perfect place for creative thinking. Even my kitchen is a good spot for brainstorming. But for tasks that need deep focus, I need a different setup. It’s all about matching the right environment to the right job.
 
@@ -42,13 +42,13 @@ If you want a different life, you have to change your habits. Don’t expect any
 
 > _“Happiness is not something ready made. It comes from your own actions.”_
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > _“The real measure of your wealth is how much you’d be worth if you lost all your money.”_
 >
-> — Unknown
+> *Unknown*
 
-It’s easy to get distracted or thrown off course—sometimes even a small interruption can make you lose your train of thought. Life is fragile that way. But that’s also what makes it beautiful. There’s always room to grow, to improve, and to enjoy the process. The most important thing is to focus on what you love.
+It’s easy to get distracted or thrown off course: sometimes even a small interruption can make you lose your train of thought. Life is fragile that way. But that’s also what makes it beautiful. There’s always room to grow, to improve, and to enjoy the process. The most important thing is to focus on what you love.
 
 ---
 

@@ -29,13 +29,13 @@ I’ve noticed that the environment around us also plays a big role in how we fe
 Treating yourself with respect is the best investment you can make. If you neglect your health, everything else suffers. But if you take care of your body, you’ll find that your productivity, memory, and overall happiness improve. It’s not about being perfect, but about making small choices every day that show you value yourself.
 
 > *Our body is the greatest piece of real estate we ever own.*
-> — Unknown
+> *Unknown*
 
 > *Take care of your body. It’s the only place you have to live.*
-> — Jim Rohn
+> *Jim Rohn*
 
 > *Respect your body. It’s the only one you get.*
-> — Anonymous
+> *Anonymous*
 
 ---
 

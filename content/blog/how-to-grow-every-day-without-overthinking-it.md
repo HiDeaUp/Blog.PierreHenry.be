@@ -31,10 +31,10 @@ On the other hand, I sometimes see people who are always learning but never feel
 I’m here to support you. I want to help you take those first steps, to coach you through the process. Remember, you don’t have to be perfect or completely ready. The most important thing is to start.
 
 > _“You don’t have to be great to start, but you have to start to be great.”_  
-— Zig Ziglar
+*Zig Ziglar*
 
 > _“Action is the foundational key to all success.”_  
-— Pablo Picasso
+*Pablo Picasso*
 
 ---
 
@@ -42,10 +42,10 @@ I’m here to support you. I want to help you take those first steps, to coach y
 
 ## Key Takeaways
 
-- *Action is more powerful than endless learning.*
+- *Action is more powerful than passive learning.*
 - *Set a clear goal and a deadline.*
 - *Commit daily, even if it’s just a small step.*
-- *Don’t wait to feel “ready”—start now.*
+- *Don’t wait to feel “ready”: start now.*
 - *Surround yourself with positive energy and people who are also taking action.*
 
 ## Reflection

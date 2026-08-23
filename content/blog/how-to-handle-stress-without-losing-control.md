@@ -18,7 +18,7 @@ Imagine your emotions and stress levels as a pressure valve, much like the ones 
 
 You can do the same for yourself. There are times during the day when you know stress will be higher, or when you’ll be put to the test. Instead of waiting for stress to overwhelm you, you can prepare ahead of time. This might mean scheduling moments of relaxation, like taking a warm bath or enjoying a hot chocolate. Not only does this give you a pleasant break, but it also helps you feel more relaxed and ready to face what comes next.
 
-Meditation is another powerful tool. Practicing meditation every morning helps train your mind to focus. It teaches your brain not to jump from one thought to another, but to concentrate on one thing—your breath, the air around you, or even just the silence. This focus becomes especially helpful when you find yourself in tough situations, like dealing with an angry client or facing criticism. If you meditate or relax beforehand, you’ll be calmer and better equipped to handle whatever comes your way.
+Meditation is another powerful tool. Practicing meditation every morning helps train your mind to focus. It teaches your brain not to jump from one thought to another, but to concentrate on one thing: your breath, the air around you, or even just the silence. This focus becomes especially helpful when you find yourself in tough situations, like dealing with an angry client or facing criticism. If you meditate or relax beforehand, you’ll be calmer and better equipped to handle whatever comes your way.
 
 {{< figure src="https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZ3VsYXRpb24lMjBzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwaW50ZWxsaWdlbmNlfGVufDB8MHx8fDE3NTY2MzU1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden framed gray wooden door" title="How to Handle Stress Without Losing Control" caption="How to Handle Stress Without Losing Control - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)" >}}
 
@@ -30,11 +30,11 @@ Preparing for difficult situations and rewarding yourself afterward are both imp
 
 > *You can’t stop the waves, but you can learn to surf.*
 >
-> — Jon Kabat-Zinn
+> *Jon Kabat-Zinn*
 
 > *Self-care is not a luxury. It is a necessity.*
 >
-> — Audre Lorde
+> *Audre Lorde*
 
 ---
 
@@ -43,7 +43,7 @@ Preparing for difficult situations and rewarding yourself afterward are both imp
 ## Key Takeaways
 - Prepare for stressful moments by planning relaxation or meditation ahead of time.
 - Treat yourself to small rewards after facing challenges, no matter how big or small.
-- Anticipate difficult situations like you would anticipate a surge in energy use—adjust your “valve” to manage your own pressure.
+- Anticipate difficult situations like you would anticipate a surge in energy use: adjust your “valve” to manage your own pressure.
 - Recognize your efforts and celebrate your progress.
 
 ## Action Steps

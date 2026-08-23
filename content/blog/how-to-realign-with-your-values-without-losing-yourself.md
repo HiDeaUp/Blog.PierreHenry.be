@@ -24,11 +24,11 @@ The first step is to pause and say, “Enough. This isn’t me.” It’s about 
 
 When you decide to stop doing what you dislike and return to what feels right, you’ll notice a boost in your confidence. You’ll start to feel better about yourself, and your self-esteem will grow. Little by little, you’ll identify what you love, what you appreciate, and what is truly important to you.
 
-## Stand Tall—Literally and Figuratively
+## Stand Tall: Literally and Figuratively
 
 {{< figure src="https://images.unsplash.com/photo-1521020781921-ce0d582b7665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjB2YWx1ZXMlMjBsaWZlJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU1NjA3Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man under orange sky" title="How to Realign With Your Values Without Losing Yourself" caption="How to Realign With Your Values Without Losing Yourself - Photo by [Guillaume de Germain](https://unsplash.com/@guillaumedegermain) on [Unsplash](https://unsplash.com/photos/man-standing-under-orange-sky-rEVQCk1dqrA)" >}}
 
-It’s also important to adopt the posture of the person you want to become. If you want more confidence, stand with confidence. Your posture affects your mindset and your character. Practicing good posture—shoulders back, standing straight—can make a real difference. It’s not just about how others see you, but how you see yourself.
+It’s also important to adopt the posture of the person you want to become. If you want more confidence, stand with confidence. Your posture affects your mindset and your character. Practicing good posture (shoulders back, standing straight) can make a real difference. It’s not just about how others see you, but how you see yourself.
 
 When you affirm your choices and stand tall, you’ll notice a shift. Your life may not have been perfect before, but now, it’s improving because you’re making your own choices. You’re living in line with your values and what you enjoy. Otherwise, you risk staying frustrated and feeling out of place, which is where problems begin.
 
@@ -42,11 +42,11 @@ You’ll see that this changes everything. It’s one of the best keys to a happ
 
 > *The biggest adventure you can take is to live the life of your dreams.*
 >
-> — Oprah Winfrey
+> *Oprah Winfrey*
 
 > *Happiness is not something ready-made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1632757053128-c12d3093cb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjB2YWx1ZXMlMjBsaWZlJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU1NjA3Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile that says live your best life" title="How to Realign With Your Values Without Losing Yourself" caption="How to Realign With Your Values Without Losing Yourself - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-that-says-live-your-best-life-KAAPZK37d5g)" >}}
 
@@ -56,7 +56,7 @@ You’ll see that this changes everything. It’s one of the best keys to a happ
 
 - *Identify what truly matters to you and make it a priority.*
 - *Say no to what doesn’t fit your values, even if it’s hard.*
-- *Adopt a confident posture—your body and mind are connected.*
+- *Adopt a confident posture: your body and mind are connected.*
 - *Set boundaries, even with loved ones, to protect your well-being.*
 - *Small daily choices add up to a life that feels right for you.*
 
@@ -64,4 +64,4 @@ You’ll see that this changes everything. It’s one of the best keys to a happ
 
 - *What habits or routines are pulling you away from your true self?*
 - *Where can you start saying “no” to things that don’t serve you?*
-- *How can you stand taller—both physically and in your choices—today?*
+- *How can you stand taller (both physically and in your choices) today?*

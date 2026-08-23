@@ -28,7 +28,7 @@ If you’re working on something really big, something that marks a major milest
 {{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBoYWJpdCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3Njc5MzE0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Become Your Best Self Without Waiting for Big Changes" caption="How to Become Your Best Self Without Waiting for Big Changes - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 > _Discipline is the bridge between goals and accomplishment._
-> —Jim Rohn
+> *Jim Rohn*
 
 This approach changed everything for me. At first, it might sound a bit silly, like you’re training yourself with treats. But it’s not about comparing yourself to anyone else. It works, and it works well.
 
@@ -39,7 +39,7 @@ When you finish something meaningful, give yourself a meaningful reward. For sma
 So go for it. Give it your all. I’m cheering you on, one hundred percent.
 
 > _Success is the sum of small efforts, repeated day in and day out._
-> —Robert Collier
+> *Robert Collier*
 
 ---
 
@@ -51,7 +51,7 @@ So go for it. Give it your all. I’m cheering you on, one hundred percent.
 - *Use simple treats to motivate yourself and mark progress.*
 - *Discipline is not just about pushing through, but also about celebrating wins.*
 - *Keep up the habit of rewarding yourself, just like you did as a child.*
-- *Don’t compare your rewards to others—focus on what motivates you.*
+- *Don’t compare your rewards to others: focus on what motivates you.*
 
 ## Reflection
 

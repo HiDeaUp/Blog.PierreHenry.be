@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/fa93bdd0deb9"
 
 Have you ever wondered what your perfect day would look like? Not just a dream vacation, but a regular day that feels just right for you. The truth is, you can create your own version of a perfect day, and it starts with a simple plan.
 
-First, take a moment to imagine the kind of day you would love to have. What would make you feel happy, fulfilled, and at peace? Maybe it’s starting your morning with a good coffee, even if it costs a little more than usual. If that small pleasure lifts your mood and helps you feel more productive—maybe you read more, or you wake up earlier—then it’s worth it.
+First, take a moment to imagine the kind of day you would love to have. What would make you feel happy, fulfilled, and at peace? Maybe it’s starting your morning with a good coffee, even if it costs a little more than usual. If that small pleasure lifts your mood and helps you feel more productive (maybe you read more, or you wake up earlier) then it’s worth it.
 
 Rewarding yourself can also be a powerful motivator. For example, after finishing a task or completing a course, treat yourself to a nice coffee or a meal out. Sometimes, just taking a moment to check in with yourself can be a reward in itself.
 
@@ -26,15 +26,15 @@ But creating your ideal day isn’t just about doing more. It’s also about mak
 
 The key is to take action. It’s easy to say, “That sounds interesting,” but the real change happens when you start. There’s never a perfect time. The best time is now. Don’t put off what you want to do today.
 
-If you dream of writing a book, start with one chapter now. Write a little every day, even just half an hour. Wake up a bit earlier if you need to. The important thing is to stay consistent. If you never break the chain of your new habit, it will become part of your routine—just like taking a shower. No one says, “I’ll skip my shower tonight, I don’t have time.” Treat your small joys the same way.
+If you dream of writing a book, start with one chapter now. Write a little every day, even just half an hour. Wake up a bit earlier if you need to. The important thing is to stay consistent. If you never break the chain of your new habit, it will become part of your routine: just like taking a shower. No one says, “I’ll skip my shower tonight, I don’t have time.” Treat your small joys the same way.
 
 If you love having yogurt with dark chocolate, or taking a walk in the park near your home, make it a daily ritual. Or maybe you want to spend a month in another country. It might not be as expensive as you think, and if it brings you more happiness, it’s priceless. Do it, because life is too short not to enjoy it fully.
 
 > *Happiness is not something ready made. It comes from your own actions.*  
-— Dalai Lama
+*Dalai Lama*
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*  
-— Chinese Proverb
+*Chinese Proverb*
 
 ---
 
@@ -44,7 +44,7 @@ If you love having yogurt with dark chocolate, or taking a walk in the park near
 - Imagine your perfect day and write down what would make you happy.
 - Add small pleasures and rewards to your daily routine.
 - Make time for yourself, both at home and with little getaways.
-- Start now—there’s never a perfect moment to begin.
+- Start now; there’s never a perfect moment to begin.
 - Stay consistent; let your new habits become as natural as brushing your teeth.
 
 ## Action Steps

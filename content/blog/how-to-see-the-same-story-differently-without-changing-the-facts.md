@@ -12,7 +12,7 @@ source_medium = "https://medium.com/@phenrysay/5a2503d347e9"
 
 {{< figure src="https://images.unsplash.com/photo-1611324012162-07fa1ba0e246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJjZXB0aW9uJTIwc2VsZi1yZWZsZWN0aW9uJTIwc3ViamVjdGl2aXR5fGVufDB8MHx8fDE3NTc0NjIzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Photo of man in black jacket and pants on court q0" title="How to See the Same Story Differently Without Changing the Facts" caption="How to See the Same Story Differently Without Changing the Facts - Photo by [JF Martin](https://unsplash.com/@numericcitizen) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-man-in-black-jacket-and-pants-standing-on-basketball-court-q0-kr2qaF9w)" >}}
 
-Have you ever noticed how two people can watch the same movie, read the same news, or hear the same story, and come away with completely different feelings? This isn’t just about taste or mood. It’s about how our past, our upbringing, and even the people we spend time with shape the way we see the world.
+Have you ever noticed how two people can watch the same movie, read the same news, or hear the same story, and come away with completely different feelings? This isn’t just about taste or mood. It’s about how our past, our upbringing, and even the people we spend time with influence the way we see the world.
 
 Let’s take a simple example. Imagine you and a friend go to the cinema together. You both watch the same film, but when you talk about it afterward, you realize that certain scenes touched you deeply, while your friend barely noticed them. Maybe you found the story uplifting, while your friend saw it as sad or even boring. This happens all the time, not just with movies, but with everything we experience.
 
@@ -26,13 +26,13 @@ This is how our minds work. Our education, our childhood, and even the mood of o
 
 That’s why it’s so important to be aware of how we interpret the world. The way we see things is often not the way others see them. If you want to feel better about life, try to feed your mind with good things. Watch positive videos, read uplifting stories, and spend time with people who make you feel happy. If your environment isn’t positive, you can always look for inspiration online, or even think about changing your surroundings.
 
-Life is short. Don’t wait for tomorrow to start living the way you want. The only real limits are the ones you set for yourself, often shaped by your own perception, your environment, and your upbringing. Sometimes, even the country or culture you live in can influence how you see things.
+Life is short. Don’t wait for tomorrow to start living the way you want. The only real limits are the ones you set for yourself, often influenced by your own perception, your environment, and your upbringing. Sometimes, even the country or culture you live in can influence how you see things.
 
 Remember, everyone has their own unique way of interpreting life. That’s what makes each of us special.
 
 > *We don’t see things as they are, we see them as we are.*
 >
-> — Anaïs Nin
+> *Anaïs Nin*
 
 ---
 
@@ -46,6 +46,6 @@ Remember, everyone has their own unique way of interpreting life. That’s what 
 
 ## Reflection
 
-- *How do your past experiences shape the way you see everyday situations?*
+- *How do your past experiences influence the way you see everyday situations?*
 - *Are you feeding your mind with positive or negative stories?*
 - *What small change can you make today to see life in a brighter way?*

@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/c65a8b9631f4"
 
 {{< figure src="https://images.unsplash.com/photo-1653647054667-c99dc7f914ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDdXJzb3IlMjBBSSUyMHByb2R1Y3Rpdml0eSUyMGN1c3RvbSUyMHdvcmtmbG93c3xlbnwwfDB8fHwxNzY3MDc2Njc3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Designing process" title="How to Boost Productivity in Cursor Without Manual Switching" caption="How to Boost Productivity in Cursor Without Manual Switching - Photo by [Budka Damdinsuren](https://unsplash.com/@buudkaanaa) on [Unsplash](https://unsplash.com/photos/a-woman-is-looking-at-a-computer-screen-xPjsMamUBK4)" >}}
 
-Alright, this is going to be a quick one, but I really wanted to show you a feature in Cursor AI that’s just too good to skip. If you’re like me and you spend a lot of time bouncing between different tasks—debugging, reviewing, or just poking at code—you’ll appreciate this.
+Alright, this is going to be a quick one, but I really wanted to show you a feature in Cursor AI that’s just too good to skip. If you’re like me and you spend a lot of time bouncing between different tasks (debugging, reviewing, or just poking at code) you’ll appreciate this.
 
 So, you know how Cursor has those default modes? Usually, you get the standard three: agent, ask manual, and whatever else is in there. But here’s the cool part: you can add your own custom modes. Seriously, this changes everything.
 
@@ -36,9 +36,9 @@ That’s it. Now, whenever I switch to this mode, the agent knows exactly what i
 
 ### Why This Matters
 
-This is a game changer. Instead of having one generic agent doing everything, you can have specialized agents for each task. Debugging? Use the debug agent. Need to review code? Make a review agent. Each one is laser-focused on its job.
+This is a major improvement. Instead of having one generic agent doing everything, you can have specialized agents for each task. Debugging? Use the debug agent. Need to review code? Make a review agent. Each one is laser-focused on its job.
 
-You can even add multiple chats—just hit the plus button. So you might have one chat for debugging, another for code review, and another for something else entirely. Switching between them is instant, and you stay organized without losing context.
+You can even add multiple chats: just hit the plus button. So you might have one chat for debugging, another for code review, and another for something else entirely. Switching between them is instant, and you stay organized without losing context.
 
 **The result? You’re way more productive and your results are more efficient.** Each agent is responsible for a specific task, and you don’t have to keep re-explaining what you want. It’s like having a team of specialists, each handling their own thing.
 
@@ -74,4 +74,4 @@ Now, whenever you need to debug, just switch to this mode. Want to add another a
 
 ---
 
-#### The right tool for the right job—Cursor’s custom modes make it easy.
+#### The right tool for the right job: Cursor’s custom modes make it easy.

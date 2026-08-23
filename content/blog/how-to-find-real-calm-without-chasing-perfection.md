@@ -18,7 +18,7 @@ Reinvention is essential. It’s not just about chasing new opportunities or cha
 
 This idea goes beyond business or branding. It’s the same with how we behave. If you make videos, for example, you need to be charismatic and unique. Show your singularity. That’s what makes you stand out. Always move forward. Live simply. Be present in your life and enjoy the small things. In the end, it’s the little things that fill us with wonder. A peaceful, simple life lets you be happy and truly enjoy what life is.
 
-If you spend all your time in front of a screen, from morning to night, it’s hard to feel fulfilled. Living a virtual life isn’t really what we want deep down. That’s why I keep coming back to the importance of questioning yourself, reinventing yourself, and living in this way—always breathing, always reflecting, and always enjoying the small pleasures of life. That’s what makes the difference.
+If you spend all your time in front of a screen, from morning to night, it’s hard to feel fulfilled. Living a virtual life isn’t really what we want deep down. That’s why I keep coming back to the importance of questioning yourself, reinventing yourself, and living in this way: always breathing, always reflecting, and always enjoying the small pleasures of life. That’s what makes the difference.
 
 {{< figure src="https://images.unsplash.com/photo-1608746377208-9162f075b386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzaW1wbGUlMjBsaXZpbmclMjBpbm5lciUyMHBlYWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NDYzNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Buddha meditating" title="How to Find Real Calm Without Chasing Perfection" caption="How to Find Real Calm Without Chasing Perfection - Photo by [Charles Betito Filho](https://unsplash.com/@cbetito) on [Unsplash](https://unsplash.com/photos/buddha-statue-on-green-grass-field-during-daytime-C-MBNmwSi3Y)" >}}
 
@@ -26,23 +26,23 @@ Living in observation with your environment is key. When you travel, for example
 
 Life is short. You have to act. Taking action is the best way to live. But action can also mean enjoying life, questioning yourself, and improving. If you’re always in the virtual world and stop trying to get better, that’s a problem.
 
-So, simply love life, relax, and keep questioning yourself. It might sound contradictory, but really, it’s just two ways of living that, when mixed, bring calm success—a happy life, a life without worry.
+So, simply love life, relax, and keep questioning yourself. It might sound contradictory, but really, it’s just two ways of living that, when mixed, bring calm success: a happy life, a life without worry.
 
 > _“Happiness is not something ready made. It comes from your own actions.”_  
-— Dalai Lama
+*Dalai Lama*
 
 > _“The simple things are also the most extraordinary things, and only the wise can see them.”_  
-— Paulo Coelho
+*Paulo Coelho*
 
 {{< figure src="https://images.unsplash.com/photo-1696410964425-8652883c9e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzaW1wbGUlMjBsaXZpbmclMjBpbm5lciUyMHBlYWNlJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NTM4NDYzNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A black buddha statue sitting on top of a wooden table" title="How to Find Real Calm Without Chasing Perfection" caption="How to Find Real Calm Without Chasing Perfection - Photo by [Rinku Shemar](https://unsplash.com/@rinkushemar) on [Unsplash](https://unsplash.com/photos/a-black-buddha-statue-sitting-on-top-of-a-wooden-table-C7MmU5RPkjU)" >}}
 
 ---
 
 ## Key Takeaways
-- Reinvent yourself often—don’t get stuck in what works now.
+- Reinvent yourself often: don’t get stuck in what works now.
 - Stand out by being different, not just better.
 - Enjoy the small things; they bring real happiness.
-- Don’t live only in the virtual world—be present in your real life.
+- Don’t live only in the virtual world: be present in your real life.
 - Question yourself, relax, and take action to improve.
 
 ## Reflection

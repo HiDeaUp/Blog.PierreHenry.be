@@ -22,13 +22,13 @@ The real problem is not having a clear plan. Without one, we end up repeating th
 
 Setting a goal gives you direction. It could be anything: launching a business, buying a house, changing your lifestyle, or simply growing as a person. When you have a goal, your days become more focused. You stop wandering and start building, one step at a time. Think of it like climbing a staircase. Each step brings you closer to the top, and you know exactly what awaits you.
 
-Even if you have a regular job or work as a freelancer, having a personal project or passion makes a big difference. It gives you a reason to get up and a sense of purpose. Every day, you add another stone to your building, slowly but surely shaping your future.
+Even if you have a regular job or work as a freelancer, having a personal project or passion makes a big difference. It gives you a reason to get up and a sense of purpose. Every day, you add another stone to your building, slowly but surely influencing your future.
 
 The key is to know where you want to go. Once you have that, you can take the right actions every day. Progress becomes natural, and you move forward much faster.
 
 > _If you don’t know where you’re going, any road will take you there._
 >
-> — Lewis Carroll
+> *Lewis Carroll*
 
 ---
 
@@ -38,5 +38,5 @@ The key is to know where you want to go. Once you have that, you can take the ri
 
 - *Set clear goals for yourself. Don’t drift through your days.*
 - *Make a simple plan and take small steps every day.*
-- *Treat your progress like building a staircase—one step at a time.*
+- *Treat your progress like building a staircase: one step at a time.*
 - *Ask yourself: Where do I want to be in a week, a month, a year? What can I do today to get closer?*

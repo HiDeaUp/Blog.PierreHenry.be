@@ -22,13 +22,13 @@ But what if you decided to challenge these beliefs? Maybe your background, your 
 
 The secret is to visualize your success before it happens. Picture yourself having already achieved what you want. Suddenly, the goal feels closer. All that’s left is to connect where you are now to where you want to be. This is where a plan comes in. Break your journey into steps, and commit to taking action every day. In a year, or maybe three, you’ll find yourself at the level you once thought was out of reach.
 
-It all comes down to how you see success. Your mindset shapes your reality. The good news is, you can break down those mental walls and build new beliefs that serve you better. If you’re ready to go further, remember that you’re not alone on this path.
+It all comes down to how you see success. Your mindset affects your reality. The good news is, you can break down those mental walls and build new beliefs that serve you better. If you’re ready to go further, remember that you’re not alone on this path.
 
-> *“Whether you think you can, or you think you can’t—you’re right.”*  
-— Henry Ford
+> *“Whether you think you can, or you think you can’t; you’re right.”*
+*Henry Ford*
 
 > *“The only limits in our life are those we impose on ourselves.”*  
-— Bob Proctor
+*Bob Proctor*
 
 ---
 

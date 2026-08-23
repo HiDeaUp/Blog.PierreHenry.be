@@ -27,10 +27,10 @@ As you try new activities, your network expands. You meet new people, and those 
 The real secret is consistency. Every day, take a step outside your usual routine. Over time, these small changes add up to something much bigger than you could have imagined.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-— Robert Collier
+*Robert Collier*
 
 > *The only way to grow is to step into the unknown, one day at a time.*
-— Anonymous
+*Anonymous*
 
 ---
 

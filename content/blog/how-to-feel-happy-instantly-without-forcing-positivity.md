@@ -16,11 +16,11 @@ source_medium = "https://medium.com/@phenrysay/fd2562bfae2b"
 
 There are days when happiness feels like a distant memory. Maybe it’s a Monday morning, or you’ve just woken up and your energy is low. We all have moments when our spirits are flat and motivation is nowhere to be found. But what if you could generate positive energy and a sense of happiness, almost on command?
 
-The good news is, you can. It starts with your thoughts. Think about beautiful moments—things you’ve achieved in the past or exciting things coming up. When I was a kid, I would get excited about my birthday months in advance. My birthday is at the end of November, so it was the start of a whole season of celebrations: my birthday, then the end-of-year holidays, Christmas, and New Year’s. That time of year was pure excitement for me.
+The good news is, you can. It starts with your thoughts. Think about beautiful moments: things you’ve achieved in the past or exciting things coming up. When I was a kid, I would get excited about my birthday months in advance. My birthday is at the end of November, so it was the start of a whole season of celebrations: my birthday, then the end-of-year holidays, Christmas, and New Year’s. That time of year was pure excitement for me.
 
-As adults, birthdays might lose some of their magic, but there are still things to look forward to. Maybe it’s a gathering with friends, a family reunion, or a trip you’ve been planning. The key is to give yourself rewards. When you’re working hard on a project, promise yourself something special when it’s done. It could be something material, but even better, make it an experience—a trip to a new city, a visit to another country, or simply a small treat.
+As adults, birthdays might lose some of their magic, but there are still things to look forward to. Maybe it’s a gathering with friends, a family reunion, or a trip you’ve been planning. The key is to give yourself rewards. When you’re working hard on a project, promise yourself something special when it’s done. It could be something material, but even better, make it an experience: a trip to a new city, a visit to another country, or simply a small treat.
 
-For example, I live in Australia. Sometimes, I’ll plan a trip to Brisbane or Adelaide, or maybe somewhere further. For you, it might be Korea, Luxembourg, Malta, Italy, or Ireland. The reward doesn’t have to be big. It could be as simple as a book you’ve wanted to read or your favorite coffee. Personally, after finishing a video course or a new version of an app I’m developing, I treat myself to a caramel macchiato at Starbucks while reading a great book on my Kindle. That little ritual gives me a real boost. It motivates me, fills me with energy, and makes me feel ready to take on anything.
+For example, I live in Australia. Sometimes, I’ll plan a trip to Brisbane or Adelaide, or maybe somewhere further. For you, it might be Korea, Luxembourg, Malta, Italy, or Ireland. The reward doesn’t have to be big. It could be as simple as a book you’ve wanted to read or your favorite coffee. Personally, after finishing an educational video project or a new version of an app I’m developing, I treat myself to a caramel macchiato at Starbucks while reading a great book on my Kindle. That little ritual gives me a real boost. It motivates me, fills me with energy, and makes me feel ready to take on anything.
 
 If you do the same, you’ll notice a surge of motivation too. Giving yourself rewards is important. It helps you recharge and move forward. When you’re feeling down, think about something good that’s coming up, or remember a wonderful moment from your past. Visualize it. You can even create a vision board. Before I went to Iceland, I set my computer wallpaper to photos of Reykjavik and its famous cathedral. Every time I saw those images, I felt inspired and motivated to make the trip happen. Eventually, I did, and it was incredible.
 
@@ -33,10 +33,10 @@ Even your passion projects can bring happiness. Maybe you love making strawberry
 The important thing is to keep moving toward your goals, one small step at a time. Every day, take action, even if it’s just a little. Over time, those steps add up and bring you closer to where you want to be.
 
 > _A multitude of happy days adds up to a happy life._
-> — Anonymous
+> *Anonymous*
 
 > _Sometimes the smallest reward can give you the biggest boost._
-> — Pierre
+> *Pierre*
 
 ---
 
@@ -45,7 +45,7 @@ The important thing is to keep moving toward your goals, one small step at a tim
 ## Key Takeaways
 
 - *Happiness can be created by focusing on positive memories or future rewards.*
-- *Give yourself small or big rewards for your efforts—experiences are often more fulfilling than things.*
+- *Give yourself small or big rewards for your efforts: experiences are often more fulfilling than things.*
 - *Visualize your goals and keep reminders around you to stay motivated.*
 - *Don’t be afraid to spend on experiences that make life richer.*
 - *Turn your passions into projects, and take small steps every day toward your dreams.*

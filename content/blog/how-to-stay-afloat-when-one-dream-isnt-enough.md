@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/4abf2ddde349"
 
 Have you ever had a project or a dream you wanted to start, but something held you back? Maybe you want to travel the world, move to another country, buy a farm, or build a business from scratch. These dreams are exciting, but what happens if you put all your energy into just one idea and it doesn’t work out? If you have nothing else to hold on to, you might feel like you’re drowning.
 
-That’s why having a lifeline is so important. If you focus only on one goal and it fails, the fall can be brutal. But if you have something else stable in your life, you always have a safety net. This lifeline can be anything—a strong relationship, a supportive partner, a job that pays the bills, or even a home you love. Knowing you have something solid to rely on makes it easier to take risks and chase your dreams.
+That’s why having a lifeline is so important. If you focus only on one goal and it fails, the fall can be brutal. But if you have something else stable in your life, you always have a safety net. This lifeline can be anything: a strong relationship, a supportive partner, a job that pays the bills, or even a home you love. Knowing you have something solid to rely on makes it easier to take risks and chase your dreams.
 
 For some, the lifeline is a loving partner who supports you no matter what. Maybe your partner has a steady job, and you know that whatever happens, you’ll be okay together. For others, it’s having a dream home or children who bring you joy and pride. These things remind you that, even if your business idea fails, you still have something meaningful and lasting.
 
@@ -31,10 +31,10 @@ So, if you’re not happy with your life right now, maybe start by working on yo
 This applies to everything, whether you want to start a business, get a degree, or pursue any big goal. First, work on your personal life. Build strong foundations so you can take on new challenges with confidence.
 
 > *“Success is not final, failure is not fatal: it is the courage to continue that counts.”*  
-— Winston Churchill
+*Winston Churchill*
 
 > *“Happiness is not something ready made. It comes from your own actions.”*  
-— Dalai Lama
+*Dalai Lama*
 
 ---
 
@@ -42,7 +42,7 @@ This applies to everything, whether you want to start a business, get a degree, 
 
 ## Key Takeaways
 
-- *Don’t put all your hopes into one dream—have a lifeline.*
+- *Don’t put all your hopes into one dream: have a lifeline.*
 - *Balance your life with stable relationships, achievements, or things that make you proud.*
 - *Work on your personal happiness and stability before taking big risks.*
 - *Past successes and strong foundations make failure less scary.*

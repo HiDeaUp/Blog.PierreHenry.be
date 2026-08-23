@@ -28,11 +28,11 @@ I truly wish you all the best as you work towards your goals and find fulfillmen
 
 > *The future belongs to those who believe in the beauty of their dreams.*
 >
-> — Eleanor Roosevelt
+> *Eleanor Roosevelt*
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 ---
 

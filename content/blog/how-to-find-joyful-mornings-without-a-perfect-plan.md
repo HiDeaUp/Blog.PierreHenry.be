@@ -22,7 +22,7 @@ For example, if you read about a new productivity method, try it out the same da
 
 There’s a famous saying:  
 > *Living days without purpose is like sailing without a compass*  
-— Unknown
+*Unknown*
 
 {{< figure src="https://images.unsplash.com/photo-1515743083824-dbbe7f0022ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxqb3lmdWwlMjBsaXZpbmclMjBoYXBwaW5lc3MlMjB0aXBzJTIwbW9ybmluZyUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjAxMjc3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="photo was taken in the Carpathian Mountains on a beautiful summer day" title="How to Find Joyful Mornings Without a Perfect Plan" caption="How to Find Joyful Mornings Without a Perfect Plan - Photo by [Anastasiia Tarasova](https://unsplash.com/@tarasovaanastasiia) on [Unsplash](https://unsplash.com/photos/woman-raising-hands-behind-mountain-covered-by-trees-cfRIm0U4SxQ)" >}}
 
@@ -33,7 +33,7 @@ Try this: every evening, write down one or two things you want to try or learn t
 It’s not about being perfectly efficient every minute. It’s about making sure the things you learn actually become part of your life. That’s how you build a joyful, meaningful routine.
 
 > *Knowledge is of no value unless you put it into practice*  
-— Anton Chekhov
+*Anton Chekhov*
 
 ---
 

@@ -24,15 +24,15 @@ For those in roles like product owner, there are books dedicated to writing bett
 
 {{< figure src="https://images.unsplash.com/photo-1680501906410-c4c550dc4fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1ODI1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Flatlay books including the E-myth, Ten Year Career, Anything You Want and Rich Dad Poor Dad." title="How to Grow Your Career With Small Daily Actions" caption="How to Grow Your Career With Small Daily Actions - Photo by [Jodie Cook](https://unsplash.com/@jodiecook) on [Unsplash](https://unsplash.com/photos/a-bunch-of-books-that-are-on-a-table-5TMNRiwBHEg)" >}}
 
-This habit of daily iteration—reading, reflecting, writing, and sharing—slowly transforms you. You become a better version of yourself, one small step at a time.
+This habit of daily iteration (reading, reflecting, writing, and sharing) slowly transforms you. You become a better version of yourself, one small step at a time.
 
 If you want to go further, consider how you structure your day. Vary your activities, pay attention to your mindset, and simplify your environment. Minimalism isn’t just about having less; it’s about making space for what truly matters. Your surroundings play a huge role in your happiness, fulfillment, and ability to learn. When you improve your environment, you improve yourself.
 
 > *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
-— Aristotle
+*Aristotle*
 
 > *“Small daily improvements are the key to staggering long-term results.”*  
-— Robin Sharma
+*Robin Sharma*
 
 ---
 
@@ -41,7 +41,7 @@ If you want to go further, consider how you structure your day. Vary your activi
 {{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjYXJlZXIlMjBkZXZlbG9wbWVudCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NTg1ODI1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Grow Your Career With Small Daily Actions" caption="How to Grow Your Career With Small Daily Actions - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
 - Every day is a new chance to learn and grow.
-- Reflect on what you consume—don’t just scroll or read passively.
+- Reflect on what you consume: don’t just scroll or read passively.
 - Write down what you learn and share it with others to reinforce your knowledge.
 - Small, consistent actions lead to big changes over time.
 - Your environment and mindset matter more than you think.

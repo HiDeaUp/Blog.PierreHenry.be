@@ -28,11 +28,11 @@ This shift isn’t about being reckless or rushing. It’s about trusting yourse
 
 > *Action is the foundational key to all success.*
 >
-> — Pablo Picasso
+> *Pablo Picasso*
 
 > *You don’t have to be great to start, but you have to start to be great.*
 >
-> — Zig Ziglar
+> *Zig Ziglar*
 
 ---
 

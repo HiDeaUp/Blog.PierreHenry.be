@@ -31,10 +31,10 @@ If you see that there’s no demand, or that your idea isn’t working, it’s o
 What matters is not how long you’ve stuck with something, but whether you’re willing to learn, adapt, and move forward. Sometimes, letting go is the bravest thing you can do.
 
 > _“Insanity is doing the same thing over and over again and expecting different results.”_  
-— Albert Einstein
+*Albert Einstein*
 
 > _“Sometimes letting things go is an act of far greater power than defending or hanging on.”_  
-— Eckhart Tolle
+*Eckhart Tolle*
 
 {{< figure src="https://images.unsplash.com/photo-1617208771413-b0a587991425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHViYm9ybm5lc3MlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYlMjBpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2MTEwMjAyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White ceramic cup on brown dried leaves" title="How to Let Go Without Feeling Like You’ve Failed" caption="How to Let Go Without Feeling Like You’ve Failed - Photo by [Jametlene Reskp](https://unsplash.com/@reskp) on [Unsplash](https://unsplash.com/photos/white-ceramic-cup-on-brown-dried-leaves-ngCjrdo3hKc)" >}}
 

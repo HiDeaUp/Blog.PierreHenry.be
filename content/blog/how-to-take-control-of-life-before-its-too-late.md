@@ -20,7 +20,7 @@ There’s a famous saying: *The reach of a person always exceeds their imaginati
 
 If you dream of living an amazing life but think it’s impossible because of where you live, your background, or other reasons, maybe you’ll have to work harder or be more persistent than others. But again, the reach of a person always exceeds their imagination.
 
-We don’t know when life will end. Sadly, it’s often shorter than we expect. We tend to think we have endless time, that there will always be another day to start a new project. But one day you wake up and you’re 40, 50, 60, or even 70. It’s sad, because that’s not the time to start doing everything you could have done earlier.
+We don’t know when life will end. Sadly, it’s often shorter than we expect. We tend to think we have unlimited time, that there will always be another day to start a new project. But one day you wake up and you’re 40, 50, 60, or even 70. It’s sad, because that’s not the time to start doing everything you could have done earlier.
 
 Don’t put off what you want to do today. The best time to start was yesterday. The second-best time is now. There’s no other option. You have to act. Take action. That’s what I wish for you.
 
@@ -35,7 +35,7 @@ Do great things. Follow your own path, because it’s the most beautiful journey
 Challenge yourself in a positive way. Don’t push yourself just to suffer or do things you hate. That’s not the right kind of challenge. But if something scares you a little, if it feels intimidating but you know the result will be worth it, that’s the good kind of challenge. Sometimes things are tough at first, but if you keep going, the reward will be worth it.
 
 > *The reach of a person always exceeds their imagination.*
-> — William Blake
+> *William Blake*
 
 If you want a different life, you have to clear out the clutter. Start with the basics. Build strong foundations. Then you can focus on your long-term and short-term projects, your routines, your health, your decisions, your mindset, your good and bad habits. Sometimes, our bad habits hold us back from what we really want. We do things that go against our goals, even when we know better. That’s why it’s so important to clean up your life and make sure everything is aligned with what you want.
 

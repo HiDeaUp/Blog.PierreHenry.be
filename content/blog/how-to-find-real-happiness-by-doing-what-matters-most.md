@@ -37,7 +37,7 @@ We often hear that work isn’t enjoyable, but I believe it’s the challenges t
 It’s the little wins that matter. When you finish something you didn’t think you could do, you surprise yourself. That feeling is priceless.
 
 > _Happiness is not something ready made. It comes from your own actions._
-> — Dalai Lama
+> *Dalai Lama*
 
 ## Making the Most of Every Moment
 
@@ -46,7 +46,7 @@ Not every day goes as planned. Sometimes, you wake up late and feel like you’v
 It’s the same when you’re stuck in traffic on the way to a vacation. Instead of thinking the day is ruined, ask yourself what you can do now to make the most of it. This mindset shift makes a huge difference.
 
 > _The only way to make sense out of change is to plunge into it, move with it, and join the dance._
-> — Alan Watts
+> *Alan Watts*
 
 {{< figure src="https://images.unsplash.com/photo-1554424944-d72b391975b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwbGVzc29ucyUyMGhhcHBpbmVzcyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTU2NTYwNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow life printed balloon" title="How to Find Real Happiness by Doing What Matters Most" caption="How to Find Real Happiness by Doing What Matters Most - Photo by [Maria Oswalt](https://unsplash.com/@mcoswalt) on [Unsplash](https://unsplash.com/photos/yellow-life-printed-balloon-b9AEmlWZpCs)" >}}
 

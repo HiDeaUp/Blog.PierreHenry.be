@@ -33,10 +33,10 @@ The trick is to catch that energy and use it for something good. Don’t let it 
 *It’s not about letting anger control you. It’s about steering it in a direction that helps you grow.*
 
 > *“Out of every crisis, every tribulation, every disaster, mankind rises with some share of greater knowledge, of higher decency, of purer purpose.”*  
-— Franklin D. Roosevelt
+: Franklin D. Roosevelt
 
 > *“Anger is never without a reason, but seldom with a good one.”*  
-— Benjamin Franklin
+*Benjamin Franklin*
 
 ---
 
@@ -46,7 +46,7 @@ The trick is to catch that energy and use it for something good. Don’t let it 
 
 - Anger can be a powerful source of energy if you channel it into positive action.
 - Use moments of frustration as motivation to start something new or fix a problem.
-- Don’t let anger destroy relationships or make you bitter—let it push you to grow.
+- Don’t let anger destroy relationships or make you bitter: let it push you to grow.
 - Next time you feel angry, ask yourself: *How can I use this energy to improve my life?*
 
 ---

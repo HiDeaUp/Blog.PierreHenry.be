@@ -26,15 +26,15 @@ The real change happens when you break your routine, take the initiative, and we
 
 Trying something new doesn’t have to be a huge leap. It could be joining a study group, signing up for a bootcamp, or learning a skill you never thought you’d try. Even if it’s just for an hour or two a week, you might meet new people or discover a part-time job that brings you joy. The important thing is to give yourself the chance to experience something different.
 
-What really matters in life are the experiences you collect. These are the memories that stay with you, long after the excitement of buying something new fades away. There’s an interesting observation: people who don’t have much money often spend what they do have on material things, like a new TV or gadgets. It’s understandable—they want to show they can afford nice things. But people who are more comfortable financially tend to spend their money on experiences: travel, dining out, learning new languages, or even just taking classes for fun. These experiences are what truly change your life.
+What really matters in life are the experiences you collect. These are the memories that stay with you, long after the excitement of buying something new fades away. There’s an interesting observation: people who don’t have much money often spend what they do have on material things, like a new TV or gadgets. It’s understandable; they want to show they can afford nice things. But people who are more comfortable financially tend to spend their money on experiences: travel, dining out, learning new languages, or even just taking classes for fun. These experiences are what truly change your life.
 
 If you want your days to feel more meaningful, start by changing your surroundings and your habits. Ask yourself, “How can I make my days more fulfilling?” Try new things, even if it’s just once a week. You never know who you’ll meet or what you’ll discover about yourself. The only way to know is to try.
 
 > *The only thing standing between you and a life you love is the courage to try something new.*
-— Anonymous
+*Anonymous*
 
 > *In the end, we only regret the chances we didn’t take.*
-— Lewis Carroll
+*Lewis Carroll*
 
 ---
 
@@ -43,7 +43,7 @@ If you want your days to feel more meaningful, start by changing your surroundin
 ## Key Takeaways
 
 - *If every day feels the same, it’s time to try something new.*
-- *Small changes—like a new class or a part-time job—can lead to big shifts in your life.*
+- *Small changes (like a new class or a part-time job) can lead to big shifts in your life.*
 - *Experiences matter more than things. Collect memories, not just possessions.*
 - *Don’t wait until you regret not acting sooner. Start today.*
 

@@ -40,11 +40,11 @@ The real secret is to improve a little every day. This is the compound effect: e
 
 > _Success is the sum of small efforts, repeated day in and day out._
 >
-> — Robert Collier
+> *Robert Collier*
 
 > _Don’t compare yourself to others. Compare yourself to the person you were yesterday._
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 
@@ -55,7 +55,7 @@ The real secret is to improve a little every day. This is the compound effect: e
 - Visualize your future self and work backwards to map out the steps.
 - Break big goals into small, manageable tasks.
 - Use technology and delegation to save time and energy.
-- Avoid excuses—take action, even if it’s just a small step today.
+- Avoid excuses: take action, even if it’s just a small step today.
 - Improvement is about doing a little better each day.
 
 ## Action Steps

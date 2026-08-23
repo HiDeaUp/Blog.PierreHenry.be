@@ -20,7 +20,7 @@ Let’s talk about how to bring your attention back to the present moment and ke
 
 ## The Power of Letting Go of Distracting Thoughts
 
-One of the best tricks I’ve found is to treat distracting thoughts like unwanted guests. When a thought pops up that has nothing to do with what you’re doing, imagine grabbing it and tossing it out—either into the trash or out the window. Don’t dwell on it. Just let it go and move on. This simple mental gesture helps clear your mind and lets you focus on what matters.
+One of the best tricks I’ve found is to treat distracting thoughts like unwanted guests. When a thought pops up that has nothing to do with what you’re doing, imagine grabbing it and tossing it out: either into the trash or out the window. Don’t dwell on it. Just let it go and move on. This simple mental gesture helps clear your mind and lets you focus on what matters.
 
 It might sound a bit odd, but it really works. Every time you notice your mind wandering, do this little mental “reset.” The more you practice, the easier it becomes to stay focused.
 
@@ -38,21 +38,21 @@ Physical activity is another great way to reset your attention. Go for a walk, d
 
 ## The Focus Timer Trick
 
-Here’s a practical exercise: before starting a focused work session, set a timer for five minutes. During this time, let your mind wander and get all those stray thoughts out. Once the timer goes off, it’s time to get to work. Set another timer for your focus session—maybe an hour—and commit to not letting any distractions in. This simple ritual helps you draw a clear line between “thinking time” and “doing time.”
+Here’s a practical exercise: before starting a focused work session, set a timer for five minutes. During this time, let your mind wander and get all those stray thoughts out. Once the timer goes off, it’s time to get to work. Set another timer for your focus session (maybe an hour), and commit to not letting any distractions in. This simple ritual helps you draw a clear line between “thinking time” and “doing time.”
 
 ## Sleep and Notifications: The Unsung Heroes of Focus
 
-Don’t underestimate the power of good sleep. Going to bed and waking up at the same time every day helps your brain stay sharp and focused. And when you’re working, turn off all notifications—email, phone, everything. Give yourself the gift of undisturbed time. You’ll be amazed at how much more you can get done.
+Don’t underestimate the power of good sleep. Going to bed and waking up at the same time every day helps your brain stay focused and focused. And when you’re working, turn off all notifications: email, phone, everything. Give yourself the gift of undisturbed time. You’ll be amazed at how much more you can get done.
 
 {{< figure src="https://images.unsplash.com/photo-1724500729999-2f498716730b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxhdHRlbnRpb24lMjBtYW5hZ2VtZW50JTIwcHJvZHVjdGl2aXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NjUxMzIzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="People walking past the glass facade in front of the elevator inside the Tate Modern museum." title="How to Focus Better Without Fighting Distractions" caption="How to Focus Better Without Fighting Distractions - Photo by [Uran Wang](https://unsplash.com/@uranwang) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-train-station-PsGWexhEBeY)" >}}
 
 > *The mind is like water. When it’s turbulent, it’s difficult to see. When it’s calm, everything becomes clear.*
 >
-> — Prasad Mahes
+> *Prasad Mahes*
 
 > *You will never reach your destination if you stop and throw stones at every dog that barks.*
 >
-> — Winston Churchill
+> *Winston Churchill*
 
 ---
 

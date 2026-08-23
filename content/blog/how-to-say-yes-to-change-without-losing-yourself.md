@@ -31,10 +31,10 @@ Take the way we pay for things. Some people still use cash, others use cards, an
 It’s important to ask yourself whether your hesitation is based on real concerns or just fear of the unknown. If there’s no good reason to hold back, why not choose the option that makes your life easier? Remember, just because you’ve always done something a certain way doesn’t mean it’s the best way. There might be a better solution waiting for you.
 
 > *The measure of intelligence is the ability to change.*
-> — Albert Einstein
+> *Albert Einstein*
 
 > *Progress is impossible without change, and those who cannot change their minds cannot change anything.*
-> — George Bernard Shaw
+> *George Bernard Shaw*
 
 So, say yes to new things. Try out better ways of doing what you already do. Life is too short to waste time on habits that no longer serve you. Use your time and energy to do things that matter, and don’t be afraid to upgrade your approach when a better one comes along.
 
@@ -47,7 +47,7 @@ So, say yes to new things. Try out better ways of doing what you already do. Lif
 - *Change is part of life; resisting it only holds you back.*
 - *Ask yourself if your hesitation is based on real reasons or just habit.*
 - *Trying new things can make your life easier and open new opportunities.*
-- *Life is short—choose what works best for you, not just what you’re used to.*
+- *Life is short: choose what works best for you, not just what you’re used to.*
 
 ## Reflection
 

@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/dd5d1f23735c"
 
 {{< figure src="https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMHZhbHVlcyUyMGF1dGhlbnRpY2l0eSUyMHNlbGYtZGlzY292ZXJ5fGVufDB8MHx8fDE3NTU3Mjc0MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter t letter" title="How to Live by Your Values Without Pleasing Everyone Else" caption="How to Live by Your Values Without Pleasing Everyone Else - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-t-letter-8OLfV5F9nO4)" >}}
 
-We all have our own values. What truly matters is building a life and working on projects that align with those values. Too often, we find ourselves doing things that don’t feel right, things that don’t represent who we are. We end up unhappy, sometimes just to fit into a social mold. Sometimes, we do it to please people we don’t even care about—or who don’t care about us. But really, what’s the point?
+We all have our own values. What truly matters is building a life and working on projects that align with those values. Too often, we find ourselves doing things that don’t feel right, things that don’t represent who we are. We end up unhappy, sometimes just to fit into a social mold. Sometimes, we do it to please people we don’t even care about, or who don’t care about us. But really, what’s the point?
 
 It’s easy to slip into this cycle. You get asked to help out, or someone offers you an opportunity, and you say yes by default. Later, you wonder, “Do I actually enjoy this? Does it fulfill me?” If the answer is no, why keep doing it?
 
@@ -26,7 +26,7 @@ We often convince ourselves that we need to be brave, that we have to push throu
 
 > *The privilege of a lifetime is to become who you truly are.*
 > 
-> — Carl Jung
+> *Carl Jung*
 
 The best time to start living according to your values, to do things that make you happy, is right now. Don’t wait for the perfect moment. Today is the day to take action and move toward what matters to you.
 

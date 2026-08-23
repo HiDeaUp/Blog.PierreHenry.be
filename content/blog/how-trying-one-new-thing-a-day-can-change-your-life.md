@@ -20,7 +20,7 @@ Instead of just stepping out of your comfort zone, think about expanding it. Eve
 
 There’s a quote I really like:  
 > *To dare is to lose one’s footing for a moment. Not to dare is to lose oneself.*  
-— Søren Kierkegaard
+*Søren Kierkegaard*
 
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTI5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How Trying One New Thing a Day Can Change Your Life" caption="How Trying One New Thing a Day Can Change Your Life - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
@@ -28,12 +28,12 @@ This idea rings so true. Daring to do something, even if it feels shaky at first
 
 Try something new every day. It might open doors you never expected. You could get new ideas or realize something important about yourself. Sometimes, when you try something different, you suddenly know, “Yes, this is what I’ve wanted to do for years.” It’s like a lightbulb moment, a feeling that you’ve found your place or your thing. Or maybe it simply gives you fresh ideas for what you’re already doing.
 
-Personally, I love changing my environment. Even taking a different route to work or going to a new restaurant at night gives me inspiration. I pay a lot of attention to my surroundings. I love being in pleasant places, and I try to absorb the atmosphere around me. It’s like building with Lego bricks—each new experience helps me build new ideas I never would have imagined before.
+Personally, I love changing my environment. Even taking a different route to work or going to a new restaurant at night gives me inspiration. I pay a lot of attention to my surroundings. I love being in pleasant places, and I try to absorb the atmosphere around me. It’s like building with Lego bricks: each new experience helps me build new ideas I never would have imagined before.
 
 The more you step outside your usual routine, the easier it becomes to do new things. The first time you try something that scares you, it feels intimidating. But the second or third time, it starts to feel normal. It’s the same with job interviews or any challenge. What once felt scary becomes just another part of life.
 
 > *Life begins at the end of your comfort zone.*  
-— Neale Donald Walsch
+*Neale Donald Walsch*
 
 I wish you all the best as you go further. Remember, every day is an opportunity to try something new, to stretch your comfort zone, and to discover more about yourself.
 

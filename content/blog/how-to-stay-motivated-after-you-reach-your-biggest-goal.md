@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/36ccced3a23e"
 
 {{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0OTMyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Stay Motivated After You Reach Your Biggest Goal" caption="How to Stay Motivated After You Reach Your Biggest Goal - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
-Have you ever poured your heart and soul into a project, a business, or a big exam? Maybe you trained like an Olympic athlete, or spent months, even years, preparing for a major milestone. Every day was shaped by that one goal. You gave it everything—sometimes it felt like 300% of yourself.
+Have you ever poured your heart and soul into a project, a business, or a big exam? Maybe you trained like an Olympic athlete, or spent months, even years, preparing for a major milestone. Every day was influenced by that one goal. You gave it everything: sometimes it felt like 300% of yourself.
 
 And then, suddenly, you reach the end. You sell the company, you pass the exam, you win the medal. There’s a rush of pride and relief. But after the celebration fades, something unexpected happens: you feel empty. The days that were once packed with purpose now seem hollow. You wake up and wonder, “What do I do with myself now?”
 
@@ -22,7 +22,7 @@ This feeling is more common than you might think. It’s not just athletes or en
 
 I’m writing this from a beautiful hotel in Sydney. It’s the kind of place where a night costs more than most people would ever spend. Being here reminds me how much effort it takes to reach certain milestones. Whether you’re building a business, training for a competition, or studying for a degree, you give so much of yourself. But once you’ve achieved what you set out to do, you might find your days suddenly feel empty. The drive that pushed you forward is gone, and you’re left wondering what’s next.
 
-That’s why it’s so important to always have new challenges, new dreams, and new things to build—whether they’re big or small. These new goals give your days meaning again. They help you recharge and keep moving forward. When you stop dreaming, everything else can start to fall apart.
+That’s why it’s so important to always have new challenges, new dreams, and new things to build: whether they’re big or small. These new goals give your days meaning again. They help you recharge and keep moving forward. When you stop dreaming, everything else can start to fall apart.
 
 {{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwZ29hbCUyMHNldHRpbmclMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0OTMyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Stay Motivated After You Reach Your Biggest Goal" caption="How to Stay Motivated After You Reach Your Biggest Goal - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
@@ -31,17 +31,17 @@ This is something I’ve seen in many places, even in retirement homes. After th
 So, if you’ve reached the end of your list of dreams, it’s time to write a new one. Update your bucket list. Find new things you want to accomplish, no matter how small. This is what keeps life exciting and meaningful.
 
 > *“The purpose of life is not to arrive at the finish line, but to keep running towards new horizons.”*  
-— Unknown
+*Unknown*
 
 > *“When you stop chasing dreams, you start dying slowly.”*  
-— Anonymous
+*Anonymous*
 
 ---
 
 ## Key Takeaways
 
 - Always have dreams or goals in progress, no matter how big or small.
-- Achieving a goal can leave you feeling empty—new dreams keep you motivated.
+- Achieving a goal can leave you feeling empty: new dreams keep you motivated.
 - Life feels meaningful when you have something to look forward to.
 - Update your list of dreams regularly to keep your days full of purpose.
 

@@ -28,11 +28,11 @@ Walking at night is like giving yourself a mini retrospective. You replay your d
 
 > *Sometimes the most productive thing you can do is step outside and let your mind wander.*
 >
-> — Unknown
+> *Unknown*
 
 > *A change of scenery can change your mind.*
 >
-> — Mary Lou Cook
+> *Mary Lou Cook*
 
 ---
 
@@ -43,7 +43,7 @@ Walking at night is like giving yourself a mini retrospective. You replay your d
 - *Night walks help spark new ideas and fresh thinking.*
 - *Changing your environment, even for a short time, can break mental blocks.*
 - *Quiet moments outside give you space to reflect and make better decisions.*
-- *Treat your evening walk as a daily review—see what worked, what didn’t, and what you want to try next.*
+- *Treat your evening walk as a daily review: see what worked, what didn’t, and what you want to try next.*
 
 ## Reflection
 

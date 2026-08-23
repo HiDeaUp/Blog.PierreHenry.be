@@ -18,7 +18,7 @@ Have you ever noticed how easy it is to drift through your days, following routi
 
 We wait. Days go by. Nothing changes.
 
-It’s strange to expect a different life if we keep repeating the same actions. Real change only happens when we decide to do things differently—even if it feels uncomfortable at first. Maybe the new habits you try won’t be perfect, but by making change a habit, you’ll become less afraid of it. You’ll learn, adjust, and slowly build a life that feels better.
+It’s strange to expect a different life if we keep repeating the same actions. Real change only happens when we decide to do things differently: even if it feels uncomfortable at first. Maybe the new habits you try won’t be perfect, but by making change a habit, you’ll become less afraid of it. You’ll learn, adjust, and slowly build a life that feels better.
 
 Of course, life will never be perfect. Our needs and dreams change over time. But by staying proactive and asking yourself, “What’s the best thing I can do right now?” you keep moving forward. Maybe what made you happy yesterday doesn’t work anymore. That’s okay. The real goal in life is simple: to feel happy and fulfilled.
 
@@ -28,26 +28,26 @@ The best way to become a better version of yourself is to question your habits a
 
 Time is precious. Every minute spent on something you dislike is a minute lost forever. You can’t rewind. But you can review your day each evening. Take a few minutes to look back: What went well? What didn’t? What could you do differently tomorrow? Write it down if it helps. This simple habit is the best investment you can make in yourself.
 
-At first, try this every day for a few months. Later, once a week is enough. You’ll get to know yourself better, and you’ll notice your needs changing. Sometimes, you’ll have to make big choices—like leaving a toxic workplace or moving to a new place. It might not be perfect right away, but step by step, you’ll get closer to what feels right.
+At first, try this every day for a few months. Later, once a week is enough. You’ll get to know yourself better, and you’ll notice your needs changing. Sometimes, you’ll have to make big choices, like leaving a toxic workplace or moving to a new place. It might not be perfect right away, but step by step, you’ll get closer to what feels right.
 
-Don’t compare yourself to others. Compare yourself to who you were yesterday. That’s how you build a life you love—a life that makes sense to you.
+Don’t compare yourself to others. Compare yourself to who you were yesterday. That’s how you build a life you love: a life that makes sense to you.
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
-If you want a better life, don’t put things off. The best moment to act is always now. Waiting for the “perfect” time is a trap—the perfect moment never comes. Start today. Invest in yourself and your happiness.
+If you want a better life, don’t put things off. The best moment to act is always now. Waiting for the “perfect” time is a trap: the perfect moment never comes. Start today. Invest in yourself and your happiness.
 
 {{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTQxODA5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Stop Living in Survival Mode Without Waiting for “Someday”" caption="How to Stop Living in Survival Mode Without Waiting for “Someday” - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
 ---
 
 ## Key Takeaways
-- *Your daily routine shapes your life—question it often.*
+- *Your daily routine affects your life: question it often.*
 - *Don’t wait for the “right moment” to change. Start now, even if it feels small.*
 - *Compare yourself to who you were yesterday, not to others.*
 - *Review your day each evening to spot what worked and what didn’t.*
-- *Time is precious—spend it on things that matter to you.*
+- *Time is precious: spend it on things that matter to you.*
 
 ## Reflection
 - *What’s one small change I can make today to feel better tomorrow?*

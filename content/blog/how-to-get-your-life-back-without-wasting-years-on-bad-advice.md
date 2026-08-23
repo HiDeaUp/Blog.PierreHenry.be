@@ -51,11 +51,11 @@ Limit your time on social media and distracting websites to 30 minutes a day. Ch
 Replace time-wasting activities with something that brings you more joy or value. Instead of scrolling through Facebook or TikTok, find alternatives that make you feel better and help you grow. Remember, time is your most valuable resource.
 
 > *Time is what we want most, but what we use worst.*
-> — William Penn
+> *William Penn*
 
 ## Use Tools That Help You Focus
 
-Apps like Forest, Flora, and Stay Focused can help you stay on track. I personally use Forest for its gamified approach. For notes, Google Keep is great if you’re on Android, and Apple’s built-in tools work well too. Use a password manager and enable quick unlock features on your phone to save time.
+Apps like Forest, Flora, and Stay Focused can help you stay on track. I personally use Forest for its gamified approach. For notes, Google Keep is great if you’re on Android, and Apple’s built-in tools work well too. Use a password manager and enable quick access features on your phone to save time.
 
 ## Batch and Delay Recurring Tasks
 
@@ -67,7 +67,7 @@ Work in focused sprints of 90 minutes. Wake up early when it’s quiet. Use your
 
 ## Make Faster Decisions
 
-Set a timer when making choices—five, ten, or twenty minutes depending on the decision. If you haven’t decided by the end, go with your default option. This prevents endless hesitation and frees up mental space.
+Set a timer when making choices: five, ten, or twenty minutes depending on the decision. If you haven’t decided by the end, go with your default option. This prevents constant hesitation and frees up mental space.
 
 ## Automate and Use AI
 
@@ -80,14 +80,14 @@ Don’t hesitate to automate repetitive tasks. Use AI tools to save time where p
 Treat your time as if it were precious stones. Money comes and goes, but lost time never returns. Use money to buy back your time whenever possible.
 
 > *Lost time is never found again.*
-> — Benjamin Franklin
+> *Benjamin Franklin*
 
 ## Live With Intention
 
 Every day is a new chance to move forward. Don’t let negative thoughts weigh you down. Take them out of your mind and throw them away. If you control your time, you control your life.
 
 > *Discipline equals freedom.*
-> — Jocko Willink
+> *Jocko Willink*
 
 ---
 

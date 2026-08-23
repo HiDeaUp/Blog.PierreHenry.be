@@ -18,9 +18,9 @@ When you start earning more, it feels natural to want to improve your lifestyle.
 
 But here’s the catch: as your income grows, your spending often grows even faster. If you double your salary but also double your expenses, you’re not really getting ahead. Sure, your life might feel more comfortable, but saving money becomes just as hard as before. You end up squeezed at the end of the month, no matter how much you earn.
 
-Let’s be honest—sometimes we buy things just because we think we deserve them, or because society tells us we should. There’s a lot of pressure to keep up, to show off, to prove something to people we barely know or even like. But is that really what makes us happy?
+Let’s be honest: sometimes we buy things just because we think we deserve them, or because society tells us we should. There’s a lot of pressure to keep up, to show off, to prove something to people we barely know or even like. But is that really what makes us happy?
 
-Instead of rushing into bigger purchases, take a moment to think about what truly brings you joy. Not just a quick thrill from buying something new, but real, lasting satisfaction. Sometimes, the best move isn’t a new car or a bigger TV—it’s changing your environment entirely. Moving to a new city or even a new country can make a huge difference in your happiness and well-being.
+Instead of rushing into bigger purchases, take a moment to think about what truly brings you joy. Not just a quick thrill from buying something new, but real, lasting satisfaction. Sometimes, the best move isn’t a new car or a bigger TV; it’s changing your environment entirely. Moving to a new city or even a new country can make a huge difference in your happiness and well-being.
 
 I’m writing this during my lunch break in a tiny park. It’s nothing fancy, but I love it here. The weather is nice, the houses are beautiful, the people are friendly. It might sound a bit idealistic, but being in a place that matches your values and lifts you up is so important. Surround yourself with people who support you, not those who drag you down.
 
@@ -32,11 +32,11 @@ Think about your mental space. If you live in a place where you’re always worr
 
 Your mental space is your most valuable asset. If you’re always stressed, you don’t have the energy or clarity to make good decisions or to invest in yourself. But if you have peace of mind, you can think clearly, plan ahead, and move forward in life much faster than others.
 
-We often underestimate the power of our environment. Instead of pouring money into things that don’t matter, focus on building a life that supports your happiness and growth. A healthy life isn’t just about what you eat—it’s about reducing mental clutter and avoiding toxic people. Don’t waste your energy on things or people that bring you down.
+We often underestimate the power of our environment. Instead of pouring money into things that don’t matter, focus on building a life that supports your happiness and growth. A healthy life isn’t just about what you eat; it’s about reducing mental clutter and avoiding toxic people. Don’t waste your energy on things or people that bring you down.
 
 If you want to see real change, make the move. Invest in your quality of life and your peace of mind. That’s the best long-term investment you can make. When you have more mental space, you can focus on what really matters and make better choices for yourself.
 
-I know from experience—changing my environment changed everything for me. We don’t realize how much where we live and who we’re around affects us. Instead of spending on things that don’t last, spend on what truly makes you happy and healthy.
+I know from experience: changing my environment changed everything for me. We don’t realize how much where we live and who we’re around affects us. Instead of spending on things that don’t last, spend on what truly makes you happy and healthy.
 
 > _A successful life is a happy life. The goal is to live a life that reflects who you are, where you feel good, and where you’re truly present._
 >
@@ -44,7 +44,7 @@ I know from experience—changing my environment changed everything for me. We d
 >
 > _If you want to be the actor in your own life, start making good decisions now, enjoy your life today, and always move forward._
 
-— Pierre
+*Pierre*
 
 ---
 

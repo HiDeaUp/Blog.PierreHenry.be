@@ -27,18 +27,18 @@ It’s easy to think, “I’ll start tomorrow,” or “I’ll wait for the rig
 {{< figure src="https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkYWlseSUyMHJvdXRpbmUlMjBsaWZlJTIwcGxhbm5pbmclMjBnb2FsJTIwc2V0dGluZ3xlbnwwfDB8fHwxNzU1NjA2NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Wide view image of blank black spiral note pad and white marker with calligraphic inscription plan on yellow background" title="How to Plan Your Life Without Waiting for the Perfect Moment" caption="How to Plan Your Life Without Waiting for the Perfect Moment - Photo by [Volodymyr Hryshchenko](https://unsplash.com/@lunarts) on [Unsplash](https://unsplash.com/photos/a-black-rectangular-device-x_OKGbxB3fA)" >}}
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*
-> — Chinese Proverb
+> *Chinese Proverb*
 
-If you had planted that tree 20 years ago, it would be beautiful today. But if you plant it now, in 20 years, it will be just as magnificent. The same goes for your life and your passion projects. Don’t wait for the perfect time—start now.
+If you had planted that tree 20 years ago, it would be beautiful today. But if you plant it now, in 20 years, it will be just as magnificent. The same goes for your life and your passion projects. Don’t wait for the perfect time: start now.
 
 Another key point: don’t just be a passive learner. If you only read, watch, or listen, but never put what you learn into action, you won’t really improve. You have to be an active learner. Apply what you learn, make mistakes, get feedback, and adjust. That’s how you really grow. For example, after you master your cake recipe, you can teach others, film your lessons, and share them online. You’ll get feedback, realize what’s clear and what isn’t, and improve your teaching. You can even involve your family or friends for instant feedback.
 
-Having a daily routine and a clear learning plan changes everything. It gives you structure, helps you move forward, and brings you closer to your goals. I truly wish you the best on your journey. Believe in yourself—I believe in you, and I’m rooting for you to achieve what matters most to you.
+Having a daily routine and a clear learning plan changes everything. It gives you structure, helps you move forward, and brings you closer to your goals. I truly wish you the best on your journey. Believe in yourself; I believe in you, and I’m rooting for you to achieve what matters most to you.
 
 ---
 
 ## Key Takeaways
-- *A daily routine gives you clarity and direction—no more working in the fog.*
+- *A daily routine gives you clarity and direction: no more working in the fog.*
 - *Start now; the perfect moment doesn’t exist.*
 - *Be an active learner: apply what you learn, get feedback, and improve.*
 - *Step by step, you can become an expert in anything you care about.*
@@ -49,7 +49,7 @@ Having a daily routine and a clear learning plan changes everything. It gives yo
 - *Pick one thing you want to improve or achieve.*
 - *Commit to working on it every day, even for just an hour.*
 - *Share your progress and get feedback from others.*
-- *Teach what you learn—it will help you grow even more.*
+- *Teach what you learn; it will help you grow even more.*
 
 ## Reflection
 - *What’s one small step you can take today toward your goal?*
@@ -57,4 +57,4 @@ Having a daily routine and a clear learning plan changes everything. It gives yo
 - *How can you turn your learning into action, starting today?*
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-> — Robert Collier
+> *Robert Collier*

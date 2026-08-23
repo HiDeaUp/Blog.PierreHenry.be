@@ -25,7 +25,7 @@ Negative thoughts don’t deserve to tear you down. They don’t have the right 
 
 So, what can you do? You need to clean house. Maybe you put on a playlist that inspires you, something that lifts you up. Maybe you go for a run, or you try a simple breathing exercise. One of my favorites is the triangle technique: inhale through your nose for four seconds, hold your breath for four seconds, then exhale through your mouth for four seconds. As you breathe out, let your abdomen deflate. Repeat this three, four, five, even six or seven times in a row. Each cycle helps you let go a little more.
 
-Meditation works in a similar way. It’s about focusing on just one thing, often your breath. That’s why breathing exercises help so much: they anchor your attention, pulling you away from everything else. But you can focus on anything, really, as long as it helps you empty your mind and stop the endless chatter. Try meditating for five to ten minutes, once a day or even more if you need it. There are apps like Headspace, or another one I like called Petit Bambou, that can guide you through it.
+Meditation works in a similar way. It’s about focusing on just one thing, often your breath. That’s why breathing exercises help so much: they anchor your attention, pulling you away from everything else. But you can focus on anything, really, as long as it helps you empty your mind and stop the constant chatter. Try meditating for five to ten minutes, once a day or even more if you need it. There are apps like Headspace, or another one I like called Petit Bambou, that can guide you through it.
 
 {{< figure src="https://images.unsplash.com/photo-1622495966349-2857f74777a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzbWlsaW5nJTIwZnJpZW5kcyUyMHBpY25pYyUyMGdyYXNzfGVufDB8MHx8fDE3ODIwMzk4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Shared joy, unique paths to happiness" title="How to Focus on Happiness Without Losing Yourself" caption="Shared joy, unique paths to happiness - Photo by [Jarritos Mexican Soda](https://unsplash.com/@jarritos)" >}}
 
@@ -33,7 +33,7 @@ Physical movement helps too. Go for a jog. Hit the gym. Anything that gets you m
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 ## Clearing Out the Mental Clutter
 
@@ -41,7 +41,7 @@ It’s easy to let other people’s words or actions take up space in your mind.
 
 > *The greatest weapon against stress is our ability to choose one thought over another.*
 >
-> — William James
+> *William James*
 
 ## Simple Steps to Reclaim Your Happiness
 
@@ -55,7 +55,7 @@ It’s easy to let other people’s words or actions take up space in your mind.
 
 > *You cannot control the wind, but you can adjust your sails.*
 >
-> — Unknown
+> *Unknown*
 
 {{< figure src="https://images.unsplash.com/photo-1592859600972-1b0834d83747?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2xpdGFyeSUyMHdhbGslMjBmb3Jlc3QlMjBwYXRofGVufDB8MHx8fDE3ODIwMzk4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Choosing your direction, finding yourself" title="How to Focus on Happiness Without Losing Yourself" caption="Choosing your direction, finding yourself - Photo by [Maksim Shutov](https://unsplash.com/@maksimshutov)" >}}
 

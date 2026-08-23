@@ -3,8 +3,8 @@ title = "How to Change Your Life With Small Daily Tweaks"
 slug = "how-to-change-your-life-with-small-daily-tweaks"
 date = "2025-08-24T15:43:34.867674"
 draft = false
-description = "Improvement does not always come from grand gestures or dramatic changes. More often, it’s the small, consistent steps we take each day that truly shape who we become. Let’s talk about how you can..."
-summary = "Improvement does not always come from grand gestures or dramatic changes. More often, it’s the small, consistent steps we take each day that truly shape who we become. Let’s talk about how you can..."
+description = "Improvement does not always come from grand gestures or dramatic changes. More often, it’s the small, consistent steps we take each day that truly influence who we become. Let’s talk about how you can..."
+summary = "Improvement does not always come from grand gestures or dramatic changes. More often, it’s the small, consistent steps we take each day that truly influence who we become. Let’s talk about how you can..."
 tags = ["consistency", "daily habits", "lifestyle changes", "personal growth", "productivity", "self-improvement", "tasks"]
 priority = true
 priority_topics = ["tasks", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/6e7b3e7f95a3"
 
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Change Your Life With Small Daily Tweaks" caption="How to Change Your Life With Small Daily Tweaks - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
-Improvement does not always come from grand gestures or dramatic changes. More often, it’s the small, consistent steps we take each day that truly shape who we become. Let’s talk about how you can make these little improvements, one after another, and see real progress in your daily life.
+Improvement does not always come from grand gestures or dramatic changes. More often, it’s the small, consistent steps we take each day that truly influence who we become. Let’s talk about how you can make these little improvements, one after another, and see real progress in your daily life.
 
 One of the simplest ways to track your growth is by using a notebook. I like to keep a dedicated journal just for the improvements I want to make. Each day, I write down what I plan to work on. You can do this on paper, a tablet, or your phone. The important thing is to make it a habit: today, I will improve by doing this, this, and this.
 
@@ -37,10 +37,10 @@ If you’re looking for more inspiration, check out the documentary “I Am Not 
 The truth is, small improvements add up. By making tiny changes and sticking with them, you’ll find yourself moving closer to the life you want, step by step.
 
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
-— Robert Collier
+*Robert Collier*
 
 > *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
-— Will Durant
+*Will Durant*
 
 {{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MDE0MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Change Your Life With Small Daily Tweaks" caption="How to Change Your Life With Small Daily Tweaks - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 

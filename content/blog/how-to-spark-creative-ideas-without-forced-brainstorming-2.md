@@ -16,9 +16,9 @@ When it comes to creativity, there’s a principle I love to use: marination. Ju
 
 ## What Is Idea Marination?
 
-Marination, in this sense, is the process of gathering a handful of different ideas—let’s say ten to twelve—and letting them sit together in your mind. Unlike brainstorming, where you throw out ideas quickly, marination is about combining and associating them. You look for common threads, surprising connections, or ways to merge two or more concepts into something fresh.
+Marination, in this sense, is the process of gathering a handful of different ideas (let’s say ten to twelve), and letting them sit together in your mind. Unlike brainstorming, where you throw out ideas quickly, marination is about combining and associating them. You look for common threads, surprising connections, or ways to merge two or more concepts into something fresh.
 
-Think of it like making a classic Provençal ratatouille. You take zucchini, tomatoes, eggplants, potatoes, onions—each ingredient brings its own taste. When you let them cook together for hours, the flavors blend and something special happens. Your ideas work the same way. Gather your “ingredients,” put them together, and let them simmer.
+Think of it like making a classic Provençal ratatouille. You take zucchini, tomatoes, eggplants, potatoes, onions: each ingredient brings its own taste. When you let them cook together for hours, the flavors blend and something special happens. Your ideas work the same way. Gather your “ingredients,” put them together, and let them simmer.
 
 ## How to Marinate Your Ideas
 
@@ -27,7 +27,7 @@ This method works especially well for writing, but you can use it for any creati
 {{< figure src="https://images.unsplash.com/photo-1623303609291-a6b922d4d641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjcmVhdGl2aXR5JTIwaWRlYSUyMGdlbmVyYXRpb24lMjBjcmVhdGl2ZSUyMHByb2Nlc3N8ZW58MHwwfHx8MTc1NTQyMTM5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Idea Generation & Brainwalking Workshop by FORTYTWO, September 2019." title="How to Spark Creative Ideas Without Forced Brainstorming" caption="How to Spark Creative Ideas Without Forced Brainstorming - Photo by [FORTYTWO](https://unsplash.com/@byfortytwo) on [Unsplash](https://unsplash.com/photos/a-person-writing-on-a-piece-of-paper-uzpnF8dINtY)" >}}
 
 1. **Before bed, gather your ideas.** Don’t wait until you’re lying down, because you might fall asleep too quickly. Stand by your bed, dim the lights, and jot down five, ten, or even twelve different ideas.
-2. **Think about how they might fit together.** Imagine you’re preparing a dish—how could these ideas combine? What new “flavor” could they create?
+2. **Think about how they might fit together.** Imagine you’re preparing a dish: how could these ideas combine? What new “flavor” could they create?
 3. **Let them simmer overnight.** Leave your notes aside and go to sleep. Your mind will keep working in the background.
 4. **Check in the next morning.** Often, you’ll wake up with a new perspective or a sudden “aha!” moment. This is when the magic happens.
 
@@ -35,19 +35,19 @@ This simple routine can lead to unexpected breakthroughs. Sometimes, an idea pop
 
 ## Why Marination Works
 
-Our minds are good at making connections when we’re not forcing them. By letting your ideas rest, you give your brain time to process and mix them in new ways. It’s a gentle, natural way to boost creativity—no pressure, just patience.
+Our minds are good at making connections when we’re not forcing them. By letting your ideas rest, you give your brain time to process and mix them in new ways. It’s a gentle, natural way to boost creativity: no pressure, just patience.
 
 > *Creativity is intelligence having fun.*
 >
-> — Albert Einstein
+> *Albert Einstein*
 
 > *The best ideas come as jokes. Make your thinking as funny as possible.*
 >
-> — David Ogilvy
+> *David Ogilvy*
 
 ## More Than Just Ideas
 
-Creativity isn’t just about coming up with new thoughts. It’s about solving problems, finding clever solutions, and building habits that support your goals. I talk about all of this—creativity, brainstorming, memory, branding, philosophy, morning routines, healthy habits, and more—in my book. These are the basics of a good life, and creativity is at the heart of it all.
+Creativity isn’t just about coming up with new thoughts. It’s about solving problems, finding clever solutions, and building habits that support your goals. Creativity connects with memory, philosophy, health, and daily routines because all of them improve when you pay closer attention.
 
 ---
 
@@ -57,7 +57,7 @@ Creativity isn’t just about coming up with new thoughts. It’s about solving 
 
 - Let your ideas “marinate” overnight to spark creativity.
 - Gather 10–12 ideas before bed, and think about how they might connect.
-- Don’t rush—let your mind do the work while you sleep.
+- Don’t rush: let your mind do the work while you sleep.
 - Check your notes in the morning for new insights.
 
 ## Action Steps

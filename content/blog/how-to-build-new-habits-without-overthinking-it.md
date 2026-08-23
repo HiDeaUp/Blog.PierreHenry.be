@@ -16,7 +16,7 @@ Building something new is not just about chasing big goals or ticking off achiev
 
 When you try something new, your brain forms fresh connections. These aren’t just random sparks; they’re the start of seeing the world in ways you never imagined. Suddenly, you notice things you would have missed before. You open doors to possibilities that were invisible until you took that first step.
 
-Let me give you a personal example. I’m a pretty cerebral person. My background is in computer engineering, so I spend a lot of time in front of a screen. But if you asked me to make a rum baba (I don’t know why I always mention rum baba—maybe because my mother used to make it when I was a kid), or a strawberry charlotte, or a clafoutis, or even a ratatouille, I’d be out of my comfort zone. But that’s the point.
+Let me give you a personal example. I’m a pretty cerebral person. My background is in computer engineering, so I spend a lot of time in front of a screen. But if you asked me to make a rum baba (I don’t know why I always mention rum baba, maybe because my mother used to make it when I was a kid), or a strawberry charlotte, or a clafoutis, or even a ratatouille, I’d be out of my comfort zone. But that’s the point.
 
 {{< figure src="https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZXclMjBiZWdpbm5pbmdzJTIwaGFiaXQlMjBidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2NDAyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on brown soil" title="How to Build New Habits Without Overthinking It" caption="How to Build New Habits Without Overthinking It - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)" >}}
 
@@ -27,10 +27,10 @@ You only get one life. Sorry, you don’t have seven (at least, I don’t think 
 Listen to yourself. Trust your instincts. Do things that speak to you, things that feel like you. I’m right here with you, 100%. I hope you really take this to heart, because building new habits and trying different things every day is what makes life richer and more interesting.
 
 > _If you always do what you’ve always done, you’ll always get what you’ve always got._
-> — Henry Ford
+> *Henry Ford*
 
 > _You only live once, but if you do it right, once is enough._
-> — Mae West
+> *Mae West*
 
 {{< figure src="https://images.unsplash.com/photo-1617208771413-b0a587991425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZXclMjBiZWdpbm5pbmdzJTIwaGFiaXQlMjBidWlsZGluZyUyMHBlcnNvbmFsJTIwZ3Jvd3RofGVufDB8MHx8fDE3NTY2NDAyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="White ceramic cup on brown dried leaves" title="How to Build New Habits Without Overthinking It" caption="How to Build New Habits Without Overthinking It - Photo by [Jametlene Reskp](https://unsplash.com/@reskp) on [Unsplash](https://unsplash.com/photos/white-ceramic-cup-on-brown-dried-leaves-ngCjrdo3hKc)" >}}
 
@@ -38,7 +38,7 @@ Listen to yourself. Trust your instincts. Do things that speak to you, things th
 
 ## Key Takeaways
 - Trying new things builds new connections in your brain and opens up new possibilities.
-- Don’t wait for tomorrow—start building new habits today.
+- Don’t wait for tomorrow: start building new habits today.
 - Listen to your own voice, not just what others are doing.
 - Life is too short to live someone else’s story.
 

@@ -27,10 +27,10 @@ Sometimes, it’s about making small adjustments at home. If you want to cook mo
 There are always things you can do to improve your daily life, but the most important step is to take action. Don’t put off until tomorrow what you can do today. Action is what makes the difference between wishing for change and actually living it.
 
 > _“The best way to get started is to quit talking and begin doing.”_  
-— Walt Disney
+*Walt Disney*
 
 > _“Small deeds done are better than great deeds planned.”_  
-— Peter Marshall
+*Peter Marshall*
 
 I truly wish you the best. Take action, don’t wait for the perfect moment. I’m with you, cheering you on every step of the way.
 
@@ -41,7 +41,7 @@ I truly wish you the best. Take action, don’t wait for the perfect moment. I�
 ## Key Takeaways
 - Notice what you want to change in your life.
 - Sit down, reflect, and write out possible actions.
-- Start with small, practical steps—like a new morning routine or batch cooking.
+- Start with small, practical steps, like a new morning routine or batch cooking.
 - Taking action is the only way to move forward.
 - Don’t wait for tomorrow; begin today.
 

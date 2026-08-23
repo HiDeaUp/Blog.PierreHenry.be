@@ -27,10 +27,10 @@ By planning these small, personal challenges, you start to see your days differe
 The more you focus on what makes you happy, the more you do, and the better you feel. Looking back, you'll realize you've achieved more than you thought possible. This feeling of progress adds even more confidence and satisfaction to your life.
 
 > _Happiness is not something ready made. It comes from your own actions._
-— Dalai Lama
+*Dalai Lama*
 
 > _The only person you are destined to become is the person you decide to be._
-— Ralph Waldo Emerson
+*Ralph Waldo Emerson*
 
 ---
 

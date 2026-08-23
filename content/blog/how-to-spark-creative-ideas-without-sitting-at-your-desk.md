@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/45c3197dec20"
 
 {{< figure src="https://images.unsplash.com/photo-1573496004846-eb89fae542b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxicmFpbnN0b3JtaW5nJTIwY3JlYXRpdmUlMjBzcGFjZXMlMjBpZGVhJTIwZ2VuZXJhdGlvbnxlbnwwfDB8fHwxNzU3NDYxNDY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two women beside white board j64" title="How to Spark Creative Ideas Without Sitting at Your Desk" caption="How to Spark Creative Ideas Without Sitting at Your Desk - Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com/photos/two-women-standing-beside-white-board-j64-40UYDu0)" >}}
 
-When it comes to finding new ideas for my businesses or the open-source projects I work on every day, I’ve discovered something that might surprise you. I often get my best ideas not at my desk, but in a sauna. Yes, you read that right—a sauna.
+When it comes to finding new ideas for my businesses or the open-source projects I work on every day, I’ve discovered something that might surprise you. I often get my best ideas not at my desk, but in a sauna. Yes, you read that right: a sauna.
 
 There’s something about stepping into a warm, quiet space that helps my mind wander and connect thoughts in ways that just don’t happen in front of a computer. Whether you’re into programming, cooking, or building a business, changing your environment can make a huge difference. For me, it’s the sauna, a spa, or even a jacuzzi. For you, it might be somewhere else, but the principle is the same: when you step out of your usual routine, your brain gets a chance to breathe.
 
@@ -22,13 +22,13 @@ Here’s how I use these places to boost my creativity. I make it a habit to go 
 
 {{< figure src="https://images.unsplash.com/photo-1497409988347-cbfaac2f0b12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxicmFpbnN0b3JtaW5nJTIwY3JlYXRpdmUlMjBzcGFjZXMlMjBpZGVhJTIwZ2VuZXJhdGlvbnxlbnwwfDB8fHwxNzU3NDYxNDY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Business plan on a whiteboard" title="How to Spark Creative Ideas Without Sitting at Your Desk" caption="How to Spark Creative Ideas Without Sitting at Your Desk - Photo by [Paul Hanaoka](https://unsplash.com/@plhnk) on [Unsplash](https://unsplash.com/photos/white-dry-erase-board-eWw2BKvKX_0)" >}}
 
-The key is to give yourself permission to step away from your usual workspace. Let your mind relax. Don’t force the ideas—just let them come naturally. You might be surprised at what bubbles up when you’re not trying so hard.
+The key is to give yourself permission to step away from your usual workspace. Let your mind relax. Don’t force the ideas: just let them come naturally. You might be surprised at what bubbles up when you’re not trying so hard.
 
 > *“You can’t use up creativity. The more you use, the more you have.”*  
-— Maya Angelou
+*Maya Angelou*
 
 > *“Sometimes the most productive thing you can do is relax.”*  
-— Mark Black
+*Mark Black*
 
 ---
 
@@ -38,7 +38,7 @@ The key is to give yourself permission to step away from your usual workspace. L
 
 - Changing your environment, like going to a sauna or spa, can help spark new ideas.
 - Set a clear intention before your session to focus your mind.
-- Let yourself relax and don’t force creativity—let it come naturally.
+- Let yourself relax and don’t force creativity: let it come naturally.
 - Try making this a regular habit to keep your ideas fresh.
 
 ---

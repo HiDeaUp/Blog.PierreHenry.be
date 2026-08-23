@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/fc3dd686a2e6"
 
 If you want to truly grow and become a better version of yourself, the secret lies in small, consistent steps. It's not about grand gestures or sudden transformations. Instead, it's about setting clear weekly goals and sticking to them every single day.
 
-Start by writing down three or four simple objectives for the week. Don't overload yourself—choose just a few that matter. These should be small enough to tackle daily, but meaningful enough to push you forward. The key is to work on them every day, without breaking the chain. Consistency is what builds real progress.
+Start by writing down three or four simple objectives for the week. Don't overload yourself: choose just a few that matter. These should be small enough to tackle daily, but meaningful enough to push you forward. The key is to work on them every day, without breaking the chain. Consistency is what builds real progress.
 
 For me, regular means daily. If you want to improve, you need to show up for your goals every day, even if it's just for half an hour or forty-five minutes. This daily commitment is what sets apart those who dream from those who achieve.
 
@@ -28,11 +28,11 @@ Improvement is not about competing with others, but about becoming better than y
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 >
-> — Will Durant
+> *Will Durant*
 
 ---
 
@@ -49,7 +49,7 @@ Improvement is not about competing with others, but about becoming better than y
 ## Action Steps
 
 - Write your weekly goals every Sunday or Monday.
-- Track your daily progress—don't break the chain.
+- Track your daily progress: don't break the chain.
 - Review your week and plan improvements.
 
 ## Reflection

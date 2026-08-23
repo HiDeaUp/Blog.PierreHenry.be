@@ -16,15 +16,15 @@ source_medium = "https://medium.com/@phenrysay/74ae514c80f7"
 
 Productivity is not just about doing more. It’s about understanding yourself and how you spend your days. Many people think that getting more done means cramming as many tasks as possible into their schedule. In reality, the key is to know what kind of tasks you do best at different times of the day and to build habits that make you faster and more efficient.
 
-The first step is self-awareness. Some people are more creative in the morning, while others find it easier to focus on demanding tasks early in the day because their minds are sharper. If you’re someone who wakes up full of energy, you might want to tackle your most challenging work first. On the other hand, if mornings are tough for you, it might be better to start with simple, routine tasks like accounting or admin work, and save the more demanding projects for the afternoon.
+The first step is self-awareness. Some people are more creative in the morning, while others find it easier to focus on demanding tasks early in the day because their minds are more focused. If you’re someone who wakes up full of energy, you might want to tackle your most challenging work first. On the other hand, if mornings are tough for you, it might be better to start with simple, routine tasks like accounting or admin work, and save the more demanding projects for the afternoon.
 
-Switching up your tasks every 90 minutes is important. Taking breaks is not just a luxury—it’s essential. No one can work eight hours straight and stay productive. Even though many employees are expected to do this, the truth is that our productivity drops, and we end up giving less of ourselves than we could. Short breaks help you recharge and come back stronger.
+Switching up your tasks every 90 minutes is important. Taking breaks is not just a luxury; it’s essential. No one can work eight hours straight and stay productive. Even though many employees are expected to do this, the truth is that our productivity drops, and we end up giving less of ourselves than we could. Short breaks help you recharge and come back stronger.
 
 Deep work sessions are valuable, but they shouldn’t last forever. For some, two hours of focused work is the sweet spot. Others, like me, can sometimes go for three or four hours without losing focus. But everyone is different. If you notice your attention slipping after an hour, it’s time to step away. Go for a walk, get some fresh air, or spend a moment with your pet. These small transitions help you reset and return to your work with more energy.
 
 {{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjB0aW1lJTIwbWFuYWdlbWVudCUyMHdvcmslMjBzbWFydGVyfGVufDB8MHx8fDE3NTY1MjU5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Get More Done Without Burning Out" caption="How to Get More Done Without Burning Out - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
-Building routines and repeating the same types of tasks each day also makes you more productive. The more you practice, the faster you get. Another helpful trick is to work in sprints—set aside 90 minutes, two hours, or even three hours, depending on what works for you. Ask yourself: Am I a morning person, or do I work better in the afternoon or evening? When do I have the most focus for tasks that require memory and concentration? Save the less demanding tasks for when your energy is lower.
+Building routines and repeating the same types of tasks each day also makes you more productive. The more you practice, the faster you get. Another helpful trick is to work in sprints: set aside 90 minutes, two hours, or even three hours, depending on what works for you. Ask yourself: Am I a morning person, or do I work better in the afternoon or evening? When do I have the most focus for tasks that require memory and concentration? Save the less demanding tasks for when your energy is lower.
 
 Changing your environment can also boost your productivity. If you’re stuck, try working from a café or a sunny spot. A new setting can spark new ideas and help you transition smoothly between different activities.
 
@@ -34,11 +34,11 @@ It’s also important to set three main priorities for your day. Accept that you
 
 > *The key is not to prioritize what’s on your schedule, but to schedule your priorities.*
 >
-> — Stephen R. Covey
+> *Stephen R. Covey*
 
 > *Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort.*
 >
-> — Paul J. Meyer
+> *Paul J. Meyer*
 
 ---
 
@@ -52,7 +52,7 @@ It’s also important to set three main priorities for your day. Accept that you
 - Change your environment if you feel stuck.
 - Plan your day the night before.
 - Set three main priorities and accept you can’t do it all.
-- Enjoy your day—don’t turn it into a race.
+- Enjoy your day: don’t turn it into a race.
 
 ---
 

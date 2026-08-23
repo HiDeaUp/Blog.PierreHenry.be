@@ -20,9 +20,9 @@ One of the most important questions you can ask yourself is whether you have a p
 
 When you have a passion project, you might even become an expert in your field. You could be invited to share your knowledge, to help others, or to join organizations that matter to you. Life feels brighter and more joyful when you’re working on something that matters to you.
 
-Let me share a bit about my own journey. I love programming. I spend a lot of my free time working on open source projects, writing content management systems and frameworks that help other developers. I’m also an engineer, and I enjoy using my weekends to contribute to these projects. I create video courses on programming for platforms like Udemy and YouTube, and I love making tutorials that help others learn.
+Let me share a bit about my own journey. I love programming. I spend a lot of my free time working on open-source projects, writing content management systems and frameworks that help other developers. I’m also an engineer, and I enjoy using my weekends to contribute to these projects. I create programming tutorials for platforms like YouTube, and I love helping others learn.
 
-But my interests don’t stop there. I also teach about happiness, well-being, and personal growth. I’ve published two books, and writing is another passion of mine. Sometimes, I go on writing retreats—my last one was in Austria, tucked away in a small chalet. There’s something magical about writing in a quiet place, surrounded by nature.
+But my interests don’t stop there. I also teach about happiness, well-being, and personal growth. I’ve published two books, and writing is another passion of mine. Sometimes, I go on writing retreats: my last one was in Austria, tucked away in a small chalet. There’s something magical about writing in a quiet place, surrounded by nature.
 
 {{< figure src="https://images.unsplash.com/photo-1553984840-89becb4c4435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXJlZmxlY3Rpb24lMjBsaWZlLWJhbGFuY2UlMjBwZXJzb25hbC1ncm93dGh8ZW58MHwwfHx8MTc1NjExMjYwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of person" title="How to Find Your Passion Without Losing Yourself in the Rush" caption="How to Find Your Passion Without Losing Yourself in the Rush - Photo by [Johannes Plenio](https://unsplash.com/@jplenio) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-X6nxssH3CU4)" >}}
 
@@ -34,15 +34,15 @@ The real beauty of a passion project is that it gives your life meaning. It’s 
 
 > _Happiness is not something ready made. It comes from your own actions._
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > _The best way to find yourself is to lose yourself in the service of others._
 >
-> — Mahatma Gandhi
+> *Mahatma Gandhi*
 
 > _Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command._
 >
-> — Napoleon Hill
+> *Napoleon Hill*
 
 ---
 

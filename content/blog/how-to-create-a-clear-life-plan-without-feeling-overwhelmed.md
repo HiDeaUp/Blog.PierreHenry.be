@@ -18,7 +18,7 @@ Having a simple set of rules or a plan is more important than most people think.
 
 Too often, people say things like, “I’d like to do this,” or “I want to be rich,” or “I want to live abroad.” But they don’t set a date, they don’t have a real vision, and they can’t picture exactly how it will happen. If you can’t imagine how things will unfold, it’s like waking up in the morning without any idea of what you’ll do next.
 
-Let’s say you wake up and just go through the motions. You see the day ahead, maybe you’ll use your computer, maybe you’ll do something else. But if you actually visualize your day in your mind—“I’ll do this, then that, then I’ll achieve this, and maybe I’ll get to that other thing too”—step by step, you start to accomplish real things.
+Let’s say you wake up and just go through the motions. You see the day ahead, maybe you’ll use your computer, maybe you’ll do something else. But if you actually visualize your day in your mind (“I’ll do this, then that, then I’ll achieve this, and maybe I’ll get to that other thing too”) step by step, you start to accomplish real things.
 
 Writing down your plan, even something as simple as “I’ll write this, then I’ll do that, maybe I’ll use my computer, maybe I’ll do something else,” helps you know exactly where you’re going. When you have a clear vision for your day, and you know what you want to achieve before you even get out of bed, everything becomes simpler.
 
@@ -28,15 +28,15 @@ Just by imagining your day unfolding, you set things in motion. Your day will fl
 
 It’s like that old saying, “everything goes smoothly, like clockwork.” When your days are well defined, life becomes much simpler. That’s the real message I want to share.
 
-The same goes for your longer-term goals. If your three-month or six-month goals are already clear in your mind, you know exactly what you’ll do next. Then, every day, you just have to ask yourself, “What do I need to do today to move closer to my long-term goal?” Step by step, you’ll get there—sometimes even faster than the deadline you set for yourself.
+The same goes for your longer-term goals. If your three-month or six-month goals are already clear in your mind, you know exactly what you’ll do next. Then, every day, you just have to ask yourself, “What do I need to do today to move closer to my long-term goal?” Step by step, you’ll get there: sometimes even faster than the deadline you set for yourself.
 
 So, don’t live in a blur. Always try to have the clearest idea possible. I truly wish you all the best from the bottom of my heart.
 
 > _“The clearer your vision, the easier your path.”_  
-— Unknown
+*Unknown*
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-— Robert Collier
+*Robert Collier*
 
 ---
 

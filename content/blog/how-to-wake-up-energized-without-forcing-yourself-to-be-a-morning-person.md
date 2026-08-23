@@ -23,7 +23,7 @@ Think about it: when you have something meaningful to work on, even if it’s sm
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 ## Why the Right Project Length Matters
 
@@ -43,7 +43,7 @@ Imagine waking up and thinking, “Yes! I get to work on my project today.” Th
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 ## The Morning Ritual That Changes Everything
 
@@ -55,7 +55,7 @@ Start your day with something that excites you, and you’ll notice a shift. You
 
 > *The future depends on what you do today.*, Mahatma Gandhi*
 >
-> — -
+> *-*
 
 ## Reflection
 

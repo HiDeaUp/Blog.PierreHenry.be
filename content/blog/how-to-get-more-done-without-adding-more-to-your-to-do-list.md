@@ -17,7 +17,7 @@ source_youtube = "https://www.youtube.com/watch?v=exexDob6iuY"
 
 **The secret to real productivity isn’t doing more, it’s doing what matters most.**
 
-Have you ever felt like you’re drifting through your day, busy yet strangely unproductive? You tick off tasks, but at the end of it all, nothing truly meaningful seems to have moved forward. That’s the trap of confusing activity with impact. The real magic of productivity isn’t about cramming more into your to-do list. It’s about choosing the right things to do, and doing them when your mind is sharpest.
+Have you ever felt like you’re drifting through your day, busy yet strangely unproductive? You tick off tasks, but at the end of it all, nothing truly meaningful seems to have moved forward. That’s the trap of confusing activity with impact. The real magic of productivity isn’t about cramming more into your to-do list. It’s about choosing the right things to do, and doing them when your mind is most focused.
 
 ## Why Most To-Do Lists Fail
 
@@ -27,7 +27,7 @@ The problem is simple: we rarely prioritize. Our lists grow longer, but not smar
 
 > *The key is not to prioritize what’s on your schedule, but to schedule your priorities.*
 >
-> — Stephen Covey
+> *Stephen Covey*
 
 ## The Power of One Big Thing
 
@@ -49,19 +49,19 @@ I use a simple task manager app to keep track of those minor tasks. They go into
 
 > *If you chase two rabbits, you will not catch either one.*
 >
-> — Russian proverb
+> *Russian proverb*
 
 ## Make Each Day a Mini Life
 
 There’s a movement that treats each day as a miniature version of your whole life. What if today were your last? What would you want to accomplish? How would you want to feel? This mindset brings clarity. It pushes you to focus on what truly matters, to live with intention, and to end each day with a sense of pride.
 
-{{< figure src="https://images.unsplash.com/photo-1664791492464-b74cd173da2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGNyb3NzaW5nJTIwb3V0JTIwY29tcGxldGVkJTIwdGFzayUyMG5vdGVib29rfGVufDB8MHx8fDE3ODI2ODAyMzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Focus sharpens what truly matters" title="How to Get More Done Without Adding More to Your To-Do List" caption="Focus sharpens what truly matters - Photo by [Marquise de Photographie](https://unsplash.com/@gmanor)" >}}
+{{< figure src="https://images.unsplash.com/photo-1664791492464-b74cd173da2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGNyb3NzaW5nJTIwb3V0JTIwY29tcGxldGVkJTIwdGFzayUyMG5vdGVib29rfGVufDB8MHx8fDE3ODI2ODAyMzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Focus improves what truly matters" title="How to Get More Done Without Adding More to Your To-Do List" caption="Focus improves what truly matters - Photo by [Marquise de Photographie](https://unsplash.com/@gmanor)" >}}
 
 Every morning, I ask myself: What project can I complete today that will make me proud tonight? By prioritizing this way, I end my day knowing I’ve moved forward, not just spun my wheels.
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese proverb
+> *Chinese proverb*
 
 ## Action Steps for Real Impact
 

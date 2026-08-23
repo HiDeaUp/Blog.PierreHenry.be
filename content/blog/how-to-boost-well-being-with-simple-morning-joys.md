@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/012de1ffeb75"
 
 {{< figure src="https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1vcm5pbmclMjByb3V0aW5lfGVufDB8MHx8fDE3NTY1MTY4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on white bed while" title="How to Boost Well-Being With Simple Morning Joys" caption="How to Boost Well-Being With Simple Morning Joys - Photo by [bruce mars](https://unsplash.com/@brucemars) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-white-bed-while-stretching-wBuPCQiweuA)" >}}
 
-Have you ever noticed how the first moments of your day can set the tone for everything that follows? Maybe you wake up craving a coffee, a croissant, or a delicious breakfast. These small rituals are not just habits—they are part of your well-being routine.
+Have you ever noticed how the first moments of your day can set the tone for everything that follows? Maybe you wake up craving a coffee, a croissant, or a delicious breakfast. These small rituals are not just habits; they are part of your well-being routine.
 
 When you focus your energy on your well-being, especially on what feels most central to you, everything else tends to fall into place more easily. Happiness and well-being are deeply connected. If you make your well-being a priority, you’ll find that the rest of your life becomes lighter and more manageable.
 
@@ -26,17 +26,17 @@ The key is to find and recognize what truly makes you happy. You can even track 
 
 By paying attention to these details, you will gradually improve your happiness and your positive energy. The better you feel, the more positive energy you will share with those around you. This energy is contagious. When you feel good, you naturally help others feel better too.
 
-Think about your daily interactions. If you go to the bakery and the person serving you barely smiles, it can leave you feeling flat. But if you buy a croissant from someone who is kind and attentive, who remembers you and makes you feel special, it can brighten your whole day. These small exchanges matter. They shape your experience and can lift your mood.
+Think about your daily interactions. If you go to the bakery and the person serving you barely smiles, it can leave you feeling flat. But if you buy a croissant from someone who is kind and attentive, who remembers you and makes you feel special, it can brighten your whole day. These small exchanges matter. They influence your experience and can lift your mood.
 
 That’s why it’s so important not to overlook your own well-being. When you feel fulfilled and happy, you help create a better atmosphere for everyone around you.
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *The best way to cheer yourself is to try to cheer someone else up.*
 >
-> — Mark Twain
+> *Mark Twain*
 
 ---
 
@@ -47,7 +47,7 @@ That’s why it’s so important not to overlook your own well-being. When you f
 - *Start your day with small rituals that bring you joy.*
 - *Choose comfort foods that are also good for your health.*
 - *Track your happiness and look for ways to improve your daily moments.*
-- *Share your positive energy with others—kindness is contagious.*
+- *Share your positive energy with others: kindness is contagious.*
 - *Pay attention to how small interactions can change your day.*
 
 ---

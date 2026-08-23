@@ -30,11 +30,11 @@ Your main job is to enjoy what you love, whether it’s theater, piano, ceramics
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.*
 >
-> — Albert Schweitzer
+> *Albert Schweitzer*
 
 {{< figure src="https://images.unsplash.com/photo-1646121821002-6d2357b4cf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZGFpbHklMjBoYWJpdHMlMjByb3V0aW5lfGVufDB8MHx8fDE3NTYwMTUwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles that say make this the day" title="How to Build a Success Routine Without Chasing Trophies" caption="How to Build a Success Routine Without Chasing Trophies - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-that-say-make-this-the-day-3bSXr9dDOlo)" >}}
 

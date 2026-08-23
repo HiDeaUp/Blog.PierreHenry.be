@@ -20,21 +20,21 @@ This habit of thinking ahead can actually pull us out of the present. Instead of
 
 One way to break this cycle is to visualize the end of the conversation before it even starts. Imagine what you want to ask or say, and keep those points in mind. If you tend to forget names or details, try using simple memory tricks. For example, link the person’s name to something memorable about them. This can help you remember to bring up topics or questions that matter to you.
 
-It’s also okay to admit when you don’t recognize someone right away. If you see someone and realize you didn’t greet them last time because you didn’t recognize them, just apologize. Most people understand—it happens to everyone.
+It’s also okay to admit when you don’t recognize someone right away. If you see someone and realize you didn’t greet them last time because you didn’t recognize them, just apologize. Most people understand; it happens to everyone.
 
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2VsZi1hd2FyZW5lc3MlMjBjb21tdW5pY2F0aW9ufGVufDB8MHx8fDE3NTYwMTUwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Pause Before You React Without Losing Your Voice" caption="How to Pause Before You React Without Losing Your Voice - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
-Sometimes, nerves get in the way and you might stumble over your words or feel uncomfortable. A simple breathing exercise can help. Before a meeting or conversation, take a moment to breathe deeply: inhale through your nose, fill your abdomen, hold your breath for a moment, then exhale slowly through your mouth. This helps calm your nerves and brings you back to the present. You don’t have to do this in front of the person—just take a minute before you walk into the room.
+Sometimes, nerves get in the way and you might stumble over your words or feel uncomfortable. A simple breathing exercise can help. Before a meeting or conversation, take a moment to breathe deeply: inhale through your nose, fill your abdomen, hold your breath for a moment, then exhale slowly through your mouth. This helps calm your nerves and brings you back to the present. You don’t have to do this in front of the person: just take a minute before you walk into the room.
 
 Another key point is to be comfortable with yourself, even if you’re not sure what to say. It’s normal to feel overwhelmed by everything you want to do or say in a day. When you push yourself too hard, you end up tired and scattered. That’s why it’s important to give yourself moments of rest. Take a break, look around, and notice your surroundings. These pauses help you feel calmer and more confident.
 
-If you’re exhausted—mentally or physically—it’s much harder to find your words or stay present in a conversation. So, take care of yourself. Eat well, stay hydrated, and allow yourself time to rest. Even something as simple as drinking water after a long day can make a difference.
+If you’re exhausted (mentally or physically) it’s much harder to find your words or stay present in a conversation. So, take care of yourself. Eat well, stay hydrated, and allow yourself time to rest. Even something as simple as drinking water after a long day can make a difference.
 
 > *“The greatest gift you can give another is the purity of your attention.”*  
-— Richard Moss
+*Richard Moss*
 
 > *“Sometimes the most productive thing you can do is relax.”*  
-— Mark Black
+*Mark Black*
 
 ---
 

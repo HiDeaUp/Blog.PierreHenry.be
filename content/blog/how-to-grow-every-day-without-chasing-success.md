@@ -22,11 +22,11 @@ It’s all about habits. It’s about repeating, tweaking, and changing. Only a 
 
 > _Success is not the result of spontaneous combustion. You must set yourself on fire._
 >
-> — Arnold H. Glasow
+> *Arnold H. Glasow*
 
 > _We are what we repeatedly do. Excellence, then, is not an act, but a habit._
 >
-> — Will Durant
+> *Will Durant*
 
 If you want to improve, start with your daily actions. Change a little, every day. That’s how you become the person you want to be.
 
@@ -35,7 +35,7 @@ If you want to improve, start with your daily actions. Change a little, every da
 ## Key Takeaways
 - Success is about transforming yourself, not chasing after rewards.
 - Focus on what you can change in your habits and daily actions.
-- Consistency—doing a little bit every day—makes all the difference.
+- Consistency (doing a little bit every day) makes all the difference.
 - If you want new results, you have to try new things and keep adjusting.
 
 ## Reflection

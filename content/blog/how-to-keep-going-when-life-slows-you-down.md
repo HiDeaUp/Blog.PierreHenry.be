@@ -20,15 +20,15 @@ The more you push ahead, the more you start searching for new ideas and possibil
 
 {{< figure src="https://images.unsplash.com/photo-1597698639798-32d54e443f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwcmVzaWxpZW5jZSUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTAwNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Man climbing during summer" title="How to Keep Going When Life Slows You Down" caption="How to Keep Going When Life Slows You Down - Photo by [Yente Van Eynde](https://unsplash.com/@yente95) on [Unsplash](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-EnYOqyxfFAc)" >}}
 
-When you keep looking for what’s next, you stop dwelling on what went wrong. You start focusing on what you can do, instead of what you can’t change. This mindset doesn’t just help you get through tough times—it actually helps you grow stronger and more resilient.
+When you keep looking for what’s next, you stop dwelling on what went wrong. You start focusing on what you can do, instead of what you can’t change. This mindset doesn’t just help you get through tough times; it actually helps you grow stronger and more resilient.
 
 > _Success is not final, failure is not fatal: it is the courage to continue that counts._
-— Winston Churchill
+*Winston Churchill*
 
 > _The only way to make sense out of change is to plunge into it, move with it, and join the dance._
-— Alan Watts
+*Alan Watts*
 
-So, whenever you feel like giving up, remember that moving forward—even with small steps—can bring back your energy and motivation. It’s the best way to feel better about yourself and to keep building the life you want.
+So, whenever you feel like giving up, remember that moving forward (even with small steps) can bring back your energy and motivation. It’s the best way to feel better about yourself and to keep building the life you want.
 
 ---
 

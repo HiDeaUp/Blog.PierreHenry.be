@@ -17,9 +17,9 @@ source_youtube = "https://www.youtube.com/watch?v=mcB22Q8pc8Q"
 
 **The secret to achieving more is closer than you think.**
 
-The drive to accomplish, to keep moving forward, to always do more, this is what gives you the power to create things that match your vision. Not just any vision, but the one that matters to you in the months ahead and the one that shapes who you want to become years from now.
+The drive to accomplish, to keep moving forward, to always do more, this is what gives you the power to create things that match your vision. Not just any vision, but the one that matters to you in the months ahead and the one that affects who you want to become years from now.
 
-## The Two Visions That Shape Your Life
+## The Two Visions That Influence Your Life
 
 There’s something powerful about having two kinds of vision. The first is what I call your short-term vision. This is your focus for the next six months. What’s the main goal you want to achieve? What’s that one thing that matters most to you right now?
 
@@ -27,7 +27,7 @@ Then there’s your long-term vision. This one is a bit hazier. It’s not just 
 
 > *The future belongs to those who believe in the beauty of their dreams.*
 >
-> — Eleanor Roosevelt
+> *Eleanor Roosevelt*
 
 ## Investing in Yourself, Day by Day
 
@@ -47,11 +47,11 @@ Maybe in winter, you write more. Maybe in summer, you take more courses or try n
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 ## Design Your Ideal Day, And Your Ideal Life
 
-Take a moment to imagine your ideal day. What would it look like? Meditate on it. Look back at your past days and weeks. What worked? What didn’t? Bit by bit, you’ll start to shape your ideal week, your ideal month. The real goal in life is to be happy, to live a life that excites you, a life that feels right.
+Take a moment to imagine your ideal day. What would it look like? Meditate on it. Look back at your past days and weeks. What worked? What didn’t? Bit by bit, you’ll start to design your ideal week, your ideal month. The real goal in life is to be happy, to live a life that excites you, a life that feels right.
 
 The best time to take action is always now. There’s no point in putting off what you want to do today. The right moment is today. Not tomorrow, not next week, today.
 
@@ -59,7 +59,7 @@ The best time to take action is always now. There’s no point in putting off wh
 
 > *All our dreams can come true, if we have the courage to pursue them.*
 >
-> — Walt Disney
+> *Walt Disney*
 
 ## Make Yourself Your Top Priority
 

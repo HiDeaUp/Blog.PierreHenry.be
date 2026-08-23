@@ -18,15 +18,15 @@ There’s something deeply satisfying about starting your day with intention. No
 
 ## Why the Morning Matters Most
 
-The morning is a blank slate. It’s when your mind is clear, your energy is fresh, and the world hasn’t yet thrown its curveballs at you. As the day goes on, distractions pile up—emails, unexpected news, people who test your patience. All of this adds mental weight and can lead to rumination. Unlike procrastination, rumination is when your mind keeps circling around worries, making it hard to focus or get things done.
+The morning is a blank slate. It’s when your mind is clear, your energy is fresh, and the world hasn’t yet thrown its curveballs at you. As the day goes on, distractions pile up: emails, unexpected news, people who test your patience. All of this adds mental weight and can lead to rumination. Unlike procrastination, rumination is when your mind keeps circling around worries, making it hard to focus or get things done.
 
 That’s why it’s crucial to tackle your most important tasks first thing in the morning. If you wait until later, you risk being sidetracked by mental clutter. The earlier you act, the more likely you are to give your best energy to what truly matters.
 
 ## The Three Stones Ritual
 
-Here’s how it works. Every evening before bed, write down the three most important things you want to accomplish the next day. These are your “stones”—the pillars of your day. List them clearly, either on paper or a sticky note. I recommend using paper instead of your phone to avoid digital distractions.
+Here’s how it works. Every evening before bed, write down the three most important things you want to accomplish the next day. These are your “stones”: the pillars of your day. List them clearly, either on paper or a sticky note. I recommend using paper instead of your phone to avoid digital distractions.
 
-When you wake up, look at your list. Before breakfast, before checking your phone, start with the first stone. This should take about 45 minutes to an hour. The next two stones can be completed in the following hour, with a short break in between—no more than 15 minutes, to keep your momentum.
+When you wake up, look at your list. Before breakfast, before checking your phone, start with the first stone. This should take about 45 minutes to an hour. The next two stones can be completed in the following hour, with a short break in between: no more than 15 minutes, to keep your momentum.
 
 In total, you’re dedicating just two hours to your three most important tasks. It might not sound like much, but these focused hours, repeated day after day, have a compounding effect. Like compound interest in finance, small, consistent actions add up to big results over time.
 
@@ -40,7 +40,7 @@ Set a timer for each stone. When the timer goes off, move on. This keeps you fro
 
 ## Building Your Day, Building Your Life
 
-Think of each day as a mini-life. If you fill it with meaningful actions, you’ll look back on a collection of beautiful days—and, by extension, a beautiful life. The three stones method helps you focus on what truly matters, stripping away the unnecessary so you can give your best to what counts.
+Think of each day as a mini-life. If you fill it with meaningful actions, you’ll look back on a collection of beautiful days, and, by extension, a beautiful life. The three stones method helps you focus on what truly matters, stripping away the unnecessary so you can give your best to what counts.
 
 If you have a full-time job, these two hours are for you. Use them for personal projects, creative work, or anything that brings you closer to your goals. Over time, you’ll see the value of compressing your efforts into focused bursts, just like concentrated tomato paste packs more flavor into less space.
 
@@ -49,10 +49,10 @@ If you have a full-time job, these two hours are for you. Use them for personal 
 This evening, take a moment to list your three stones for tomorrow. Ask yourself: If I could only accomplish three things, what would make me proud? What would move me forward? Write them down, and tomorrow morning, tackle them before anything else. With practice, you’ll get better at choosing what matters and letting go of the rest.
 
 > _“The key is not to prioritize what’s on your schedule, but to schedule your priorities.”_  
-— Stephen Covey
+*Stephen Covey*
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-— Robert Collier
+*Robert Collier*
 
 {{< figure src="https://images.unsplash.com/photo-1637783226061-6d3e55c26cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3JuaW5nJTIwcml0dWFsJTIwZGFpbHklMjBoYWJpdHMlMjBpbnRlbnRpb25hbCUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2NTA5ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A cup of coffee sitting on top of a blanket 3qzDx RFXsA" title="How to Build Better Days With the Three Stones Morning Ritual" caption="How to Build Better Days With the Three Stones Morning Ritual - Photo by [Sixteen Miles Out](https://unsplash.com/@sixteenmilesout) on [Unsplash](https://unsplash.com/photos/a-cup-of-coffee-sitting-on-top-of-a-blanket-3qzDx-RFXsA)" >}}
 
@@ -60,7 +60,7 @@ This evening, take a moment to list your three stones for tomorrow. Ask yourself
 
 ## Key Takeaways
 
-- *Start your day with your three most important tasks—the “stones.”*
+- *Start your day with your three most important tasks: the “stones.”*
 - *Write them down the night before, and tackle them first thing in the morning.*
 - *Limit your focus to two hours for all three stones to boost quality and avoid distractions.*
 - *Use a timer to keep yourself on track and avoid perfectionism.*
@@ -70,7 +70,7 @@ This evening, take a moment to list your three stones for tomorrow. Ask yourself
 
 - *Tonight: Write down your three stones for tomorrow.*
 - *Tomorrow morning: Start with the first stone before breakfast or distractions.*
-- *Keep your break short—no more than 15 minutes.*
+- *Keep your break short: no more than 15 minutes.*
 - *Reflect at the end of the day: Did you move closer to what matters?*
 
 ## Reflection

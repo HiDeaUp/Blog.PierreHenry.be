@@ -26,17 +26,17 @@ Think of it like brushing your teeth or getting dressed. You never say, “I don
 
 I like to show my own morning setup because I hope it inspires you. If I can inspire you, that’s already a win for me. Find something that motivates you, something that makes you want to get up and work on your dreams. Let your environment inspire you. That’s priceless.
 
-Create something that drives you, something that lifts you up. This will take you far—not just in your projects, but in your life. When you have something that pulls you forward, you’ll go much further than you think.
+Create something that drives you, something that lifts you up. This will take you far, not just in your projects, but in your life. When you have something that pulls you forward, you’ll go much further than you think.
 
 > _“The best investment you can make is in yourself.”_  
-> — Warren Buffett
+> *Warren Buffett*
 
 If you want to go even further in your daily improvement, remember that every step counts. Even if you’ve tried other ways before, don’t give up. People often tell me they’ve learned new things even after many courses. The key is to keep your learning fresh and personal. Imagine you’re sitting next to a friend, working together on your goals. That’s the spirit I want to share: we’re in this together, side by side.
 
 Perseverance is a huge advantage. If you’re reading this, you’re already aware of how important it is to stay motivated and to invest in yourself. Keep going deeper, keep building, and you’ll see real change.
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-> — Robert Collier
+> *Robert Collier*
 
 {{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBpbnZlc3RpbmclMjBpbiUyMHlvdXJzZWxmfGVufDB8MHx8fDE3NTU1NzY3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Invest in Yourself Without Overwhelm" caption="How to Invest in Yourself Without Overwhelm - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 

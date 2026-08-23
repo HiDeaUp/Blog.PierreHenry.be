@@ -31,7 +31,7 @@ If you want to go even further, start today. If it’s morning, use that time no
 I truly believe you can do it. Start now, and you’ll see the difference.
 
 > _“The best time to plant a tree was twenty years ago. The second best time is now.”_
-— Chinese Proverb
+*Chinese Proverb*
 
 {{< figure src="https://images.unsplash.com/photo-1533626904905-cc52fd99285e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx2YWx1ZSUyMGNyZWF0aW9uJTIwcGVyc29uYWwlMjBncm93dGglMjBlbnRyZXByZW5ldXJzaGlwfGVufDB8MHx8fDE3NTU4NTk3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Life in a small pot" title="How to Create Real Value Without Building a Startup" caption="How to Create Real Value Without Building a Startup - Photo by [Paula Brustur](https://unsplash.com/@creative_clicks) on [Unsplash](https://unsplash.com/photos/potted-green-plant-inside-room-ZT5VWmiVAQw)" >}}
 
@@ -39,7 +39,7 @@ I truly believe you can do it. Start now, and you’ll see the difference.
 
 ## Key Takeaways
 - *Create value by building something of your own, even if you have a full-time job.*
-- *Use your mornings or evenings to work on your project—consistency is more important than intensity.*
+- *Use your mornings or evenings to work on your project: consistency is more important than intensity.*
 - *Building your expertise and personal brand will set you apart in the long run.*
 - *Two hours a day is enough to see real progress over time.*
 

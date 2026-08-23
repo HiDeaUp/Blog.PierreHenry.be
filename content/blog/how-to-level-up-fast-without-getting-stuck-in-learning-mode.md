@@ -22,13 +22,13 @@ This is the real problem: if you don’t take action, you don’t improve. You s
 
 Growth happens through practice. It’s by doing that you expand your skills and your impact. Mistakes and successes both teach us more than any lesson or theory ever could. When you look back at your achievements, ask yourself: what did I do to succeed? Maybe you were more resilient, or more persistent than you are now. Maybe it’s time to bring that persistence back.
 
-This is the real path to success: act, learn from your results, and keep moving forward. Don’t get stuck in endless preparation. The only way to grow is to do.
+This is the real path to success: act, learn from your results, and keep moving forward. Don’t get stuck in too much preparation. The only way to grow is to do.
 
 > _Success is not the result of spontaneous combustion. You must set yourself on fire._
-— Arnold H. Glasow
+: Arnold H. Glasow
 
 > _You don’t have to be great to start, but you have to start to be great._
-— Zig Ziglar
+*Zig Ziglar*
 
 ---
 

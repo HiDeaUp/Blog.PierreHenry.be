@@ -16,21 +16,21 @@ Have you ever noticed how a walk at the end of the day can feel like a reset but
 
 After work, when the day is winding down, I like to take a walk. It’s not about exercise or getting somewhere. It’s about thinking. I use this time to look back on my day and ask myself: What did I actually do today? Did I do it well? Could I have done it better? Sometimes, you can do this kind of reflection in the shower, but I find it works best after the day is truly over.
 
-For me, it’s usually around 7 p.m., after the office is closed and the world is a little quieter. As I walk, I check in with myself: How fulfilled do I feel? How happy am I, really? I might rate my happiness at a 6 out of 10. Then I ask, what could have made it an 8? What small thing could I change tomorrow?
+For me, it’s usually around 7 p.m. after the office is closed and the world is a little quieter. As I walk, I check in with myself: How fulfilled do I feel? How happy am I, really? I might rate my happiness at a 6 out of 10. Then I ask, what could have made it an 8? What small thing could I change tomorrow?
 
 {{< figure src="https://images.unsplash.com/photo-1574985163277-3fa01bfffc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3YWxraW5nJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLXJlZmxlY3Rpb258ZW58MHwwfHx8MTc1NTQxNjA1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in red top walking on beach" title="How Daily Walks Build a Better Life Without Extra Effort" caption="How Daily Walks Build a Better Life Without Extra Effort - Photo by [alex geerts](https://unsplash.com/@alexgeerts) on [Unsplash](https://unsplash.com/photos/woman-in-red-top-walking-on-beach-_4CqNN233S0)" >}}
 
-I jot down a few notes—nothing fancy, just honest thoughts. The next morning, I read them and try to avoid the things that dragged my mood down the day before. Maybe I spent too much time on something that didn’t matter. Maybe I wasn’t as productive as I could have been, or maybe I was, but I could have chosen a better way to spend my energy.
+I jot down a few notes: nothing fancy, just honest thoughts. The next morning, I read them and try to avoid the things that dragged my mood down the day before. Maybe I spent too much time on something that didn’t matter. Maybe I wasn’t as productive as I could have been, or maybe I was, but I could have chosen a better way to spend my energy.
 
 This is how you improve your days, bit by bit. It’s not about huge changes overnight. It’s about small, honest questions and tiny adjustments. Each day, you iterate. Each day, you get a little closer to the life you actually want.
 
 If you keep asking yourself, “How can I make today just a little better than yesterday?” you’ll be surprised at how much changes over time. You start to question your habits, your choices, and even your definition of happiness. And slowly, you bend your life toward the version you truly want to live.
 
 > _“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”_  
-— Aristotle
+*Aristotle*
 
 > _“Happiness is not something ready made. It comes from your own actions.”_  
-— Dalai Lama
+*Dalai Lama*
 
 ---
 

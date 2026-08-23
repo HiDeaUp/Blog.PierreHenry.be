@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/855241ebfc91"
 
 When people talk about becoming a millionaire or even a billionaire, the conversation usually turns to finance, investments, or business strategies. But the real keys to success have little to do with money itself. They are about daily habits, the way you prepare for your day, how you see things, and how you interpret and live your life. These habits can completely change how you organize your days and how you perceive your progress.
 
-Let’s look at the habits that truly make a difference—not just for your bank account, but for your entire life.
+Let’s look at the habits that truly make a difference, not just for your bank account, but for your entire life.
 
 ## The Power of Early Mornings
 
@@ -30,9 +30,9 @@ Physical activity is essential. If you feel tired, go for a walk or a run. Avoid
 
 Networking is not just about meeting people. It’s about surrounding yourself with those who share your ambitions and values. Spend time with people who lift you up, not those who drag you down. Attend conferences, meet inspiring people, and learn from those who know more than you.
 
-## Plan Your Days—And Your “Not To Do” List
+## Plan Your Days, And Your “Not To Do” List
 
-Always plan your day the night before. Have a clear to-do list, but also a “not to do” list—things you commit to avoiding. Each morning, know exactly what you want to accomplish by 9 a.m. This clarity will change everything.
+Always plan your day the night before. Have a clear to-do list, but also a “not to do” list: things you commit to avoiding. Each morning, know exactly what you want to accomplish by 9 a.m. This clarity will change everything.
 
 ## Cut Out the Noise
 
@@ -48,7 +48,7 @@ Read biographies of people who have achieved what you want. Learn from their jou
 
 Think long term, but break your goals into smaller steps. Decide where you want to be in three months, then break it down to what you need to do each month, each week, and each day. Every day, spend a few hours working toward your long-term outcome. Set a deadline and know exactly what you need to do to get there.
 
-## Learn from Others—And from Your Mistakes
+## Learn from Others, And from Your Mistakes
 
 There is always something to learn from others, from their experiences and lifestyles. Instead of criticizing, look for what you can learn. For every situation, ask yourself what positive lesson you can take away. Even from mistakes, there is always something to gain.
 
@@ -65,7 +65,7 @@ It is always better to act than to do nothing. Even if you make the wrong choice
 Not asking is the same as getting a no. In life, you don’t get what you deserve, you get what you negotiate. Always ask, because it costs nothing and increases your chances of getting what you want.
 
 > *In life, you never get what you deserve, but what you negotiate.*
-> — Pierre
+> *Pierre*
 
 ## Focus on What You Want
 
@@ -78,7 +78,7 @@ Always focus on what you want, not on what you don’t want. Your days will refl
 Know exactly what you want in the long term. If your vision is vague, your results will be too. Give your mind a precise destination, just like you would give an address to a taxi driver. The clearer your vision, the easier it is to take the right actions.
 
 > *If you don’t know where you’re going, any road will take you there.*
-> — Lewis Carroll
+> *Lewis Carroll*
 
 ## Know Yourself
 
@@ -98,7 +98,7 @@ What you want is unique to you. Learn to know yourself, your desires, and your g
 - Learn from others and from your own mistakes.
 - Eat healthy and dress in a way that supports your ambitions.
 - Always take action, even if it’s imperfect.
-- Ask for what you want—don’t wait for things to come to you.
+- Ask for what you want: don’t wait for things to come to you.
 - Focus on your goals, not your fears.
 - Have a clear, precise vision of your future.
 - Know yourself and what you truly want.

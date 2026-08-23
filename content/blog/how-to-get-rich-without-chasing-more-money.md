@@ -3,8 +3,8 @@ title = "How to Get Rich Without Chasing More Money"
 slug = "how-to-get-rich-without-chasing-more-money"
 date = "2025-08-17T19:12:20.155501"
 draft = false
-description = "When people talk about getting rich, most think of making more money. But there’s another way—one that often pays off much more in the long run: investing in yourself. This means putting your time,..."
-summary = "When people talk about getting rich, most think of making more money. But there’s another way—one that often pays off much more in the long run: investing in yourself. This means putting your time,..."
+description = "When people talk about getting rich, most think of making more money. But there’s another way: one that often pays off much more in the long run: investing in yourself. This means putting your time,..."
+summary = "When people talk about getting rich, most think of making more money. But there’s another way: one that often pays off much more in the long run: investing in yourself. This means putting your time,..."
 tags = ["financial advice", "money", "nomad", "personal growth", "productivity", "self-improvement", "self-investment", "tasks", "wealth", "wealth building"]
 priority = true
 priority_topics = ["nomad", "money", "wealth", "tasks", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/d135ac8c3a19"
 
 {{< figure src="https://images.unsplash.com/photo-1579227114496-27346f474519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMHdlYWx0aCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3NTU0MjE5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant" title="How to Get Rich Without Chasing More Money" caption="How to Get Rich Without Chasing More Money - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-R2qc9qGVFWI)" >}}
 
-When people talk about getting rich, most think of making more money. But there’s another way—one that often pays off much more in the long run: investing in yourself. This means putting your time, energy, and even some money into your skills, your experiences, and your well-being.
+When people talk about getting rich, most think of making more money. But there’s another way: one that often pays off much more in the long run: investing in yourself. This means putting your time, energy, and even some money into your skills, your experiences, and your well-being.
 
 It’s easy to focus on earning more, but if you’re not making a lot right now, the simplest way to get ahead is to grow as a person first. That’s where the real value is. When you invest in your abilities, your knowledge, and your health, you set yourself up for bigger wins down the road.
 
@@ -22,13 +22,13 @@ It’s easy to focus on earning more, but if you’re not making a lot right now
 
 Sometimes, life throws something at you that you didn’t see coming. It can weigh you down, fill your mind with stress, and stop you from thinking big. When that happens, you need to step back. Give yourself some space to breathe and reflect.
 
-Bill Gates made this idea famous with his “Think Week.” He would disappear for a week, alone, with just a stack of papers and notebooks—no electronics, no distractions. He’d use that time to think deeply, write, and plan. That’s how some of Microsoft’s biggest ideas were born.
+Bill Gates made this idea famous with his “Think Week.” He would disappear for a week, alone, with just a stack of papers and notebooks: no electronics, no distractions. He’d use that time to think deeply, write, and plan. That’s how some of Microsoft’s biggest ideas were born.
 
 You don’t have to be Bill Gates to do this. I’ve done it myself, many times. I’m a big fan of what I call “hermit weekends.” Just a couple of days away from everything can help you see things more clearly. It’s not about running away from your problems, but about giving your mind room to breathe.
 
 ## Find Your Own Retreat
 
-You don’t need to travel far. Sometimes, just being by the sea or in the mountains is enough. I’m writing this while looking out at Elizabeth Bay. The weather changes quickly here—one moment it’s sunny, the next it’s windy and cool. I’ve even swum in this bay, though you have to watch out for sharks! But the point is, the place itself is beautiful and peaceful.
+You don’t need to travel far. Sometimes, just being by the sea or in the mountains is enough. I’m writing this while looking out at Elizabeth Bay. The weather changes quickly here: one moment it’s sunny, the next it’s windy and cool. I’ve even swum in this bay, though you have to watch out for sharks! But the point is, the place itself is beautiful and peaceful.
 
 {{< figure src="https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMHdlYWx0aCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3NTU0MjE5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on brown round coins" title="How to Get Rich Without Chasing More Money" caption="How to Get Rich Without Chasing More Money - Photo by [micheile henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-round-coins-lZ_4nPFKcV8)" >}}
 
@@ -51,21 +51,21 @@ If you want things to be different, you have to act. It’s not always easy, but
 *Everything is possible if you really want it. It might not be easy, but it’s always worth it.*
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
-> — Chinese Proverb
+> *Chinese Proverb*
 
 {{< figure src="https://images.unsplash.com/photo-1579227113447-f1e32cc6bd42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW52ZXN0bWVudCUyMHdlYWx0aCUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3NTU0MjE5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant" title="How to Get Rich Without Chasing More Money" caption="How to Get Rich Without Chasing More Money - Photo by [金 运](https://unsplash.com/@jinyun) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-xhqUamhJaMI)" >}}
 
 > *You are the answer to your own questions.*
-> — Anonymous
+> *Anonymous*
 
 ---
 
 ## Key Takeaways
 
-- Real wealth starts with investing in yourself—your skills, experiences, and health.
+- Real wealth starts with investing in yourself: your skills, experiences, and health.
 - Take time to step back and reflect, especially after unexpected events.
 - Find a quiet place, disconnect, and let your mind rest.
-- Don’t wait for the “perfect” time or enough money—start now, even with small steps.
+- Don’t wait for the “perfect” time or enough money: start now, even with small steps.
 - You are responsible for your own happiness and growth.
 
 ## Action Steps

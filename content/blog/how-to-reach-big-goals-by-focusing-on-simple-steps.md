@@ -22,15 +22,15 @@ Let’s say you set a goal for the week. You decide, “By the end of this week,
 
 If possible, do your task first thing in the morning. You never know what the rest of the day might bring, so getting it done early means you’ve already made progress. The next day, move on to the next piece. By the end of the week, you’ll have completed your goal, step by step.
 
-This simple approach—setting a weekly goal, breaking it into daily actions, and starting each day with a small win—can change everything. You’ll see the difference for yourself.
+This simple approach (setting a weekly goal, breaking it into daily actions, and starting each day with a small win) can change everything. You’ll see the difference for yourself.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 > *The secret of getting ahead is getting started.*
 >
-> — Mark Twain
+> *Mark Twain*
 
 ---
 

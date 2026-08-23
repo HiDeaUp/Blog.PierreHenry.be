@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/02d5fe40b396"
 
 Questioning yourself is one of the most important habits you can develop. When you regularly take a step back and examine your choices, you give yourself a real chance to grow. It’s not always easy to admit that a decision you made wasn’t the best, or that maybe you could have done something differently. But this honest look at your actions is what helps you move forward.
 
-There’s a big difference between healthy self-questioning and simply doubting yourself all the time. The goal isn’t to get stuck in endless loops of regret or overthinking. Instead, it’s about asking, “What could I do better next time?” This simple question can open up new possibilities, whether it’s about your weekend plans or bigger life decisions.
+There’s a big difference between healthy self-questioning and simply doubting yourself all the time. The goal isn’t to get stuck in constant loops of regret or overthinking. Instead, it’s about asking, “What could I do better next time?” This simple question can open up new possibilities, whether it’s about your weekend plans or bigger life decisions.
 
 Imagine you want to make your weekend more meaningful. Instead of just letting it pass by, you might ask yourself, “How could I make this weekend more enjoyable or challenging?” Maybe you decide to add a small project you love, like painting, or plan a swim at the beach. You could organize a board game night with your family, sharing hot chocolate or coffee together. These little changes, sparked by self-reflection, can turn an ordinary weekend into something more balanced and satisfying.
 
@@ -34,11 +34,11 @@ In the end, questioning yourself is about finding the right direction for your l
 
 > *The unexamined life is not worth living.*
 >
-> — Socrates
+> *Socrates*
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 ---
 

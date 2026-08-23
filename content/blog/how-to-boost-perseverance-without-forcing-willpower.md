@@ -29,14 +29,14 @@ Think about it: what if you had a fixed amount of money for your entire life, an
 If you want to achieve your goals, you have to use your time wisely. Don’t expect different results if you keep doing the same things. Take action. Even small steps can make a big difference. We only have one life, so decide today what you want to do with it. Most of the limits we face are the ones we create in our own minds. Challenge those limits and set yourself up for success.
 
 > _“Time is the most valuable thing a man can spend.”_  
-— Theophrastus
+*Theophrastus*
 
 > _“You will never find time for anything. If you want time, you must make it.”_  
-— Charles Buxton
+*Charles Buxton*
 
 If you want to see real change, start by changing your environment and your habits. Even a small shift can give you a clearer vision of what you can improve for your well-being and happiness. A successful life is not about big gestures, but about a series of small, meaningful actions that add up over time.
 
-So, treat each day as a unique opportunity. Savor your life fully, and remember: the way you use your time shapes your happiness.
+So, treat each day as a unique opportunity. Savor your life fully, and remember: the way you use your time affects your happiness.
 
 {{< figure src="https://images.unsplash.com/photo-1633597568557-4a8e08c606c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzZXZlcmFuY2UlMjBwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudHxlbnwwfDB8fHwxNzU2MDE1NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A tile with words that spell out work rest play live" title="How to Boost Perseverance Without Forcing Willpower" caption="How to Boost Perseverance Without Forcing Willpower - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabble-tile-with-words-that-spell-out-work-rest-play-live-lGiSti3FoH8)" >}}
 
@@ -45,7 +45,7 @@ So, treat each day as a unique opportunity. Savor your life fully, and remember:
 ## Key Takeaways
 - Assign specific tasks to specific environments to boost focus.
 - Remove distractions by creating self-imposed constraints.
-- Treat your time as your most precious resource—more valuable than money.
+- Treat your time as your most precious resource: more valuable than money.
 - Challenge the limits you set for yourself and take action, even if it’s small.
 
 ## Reflection

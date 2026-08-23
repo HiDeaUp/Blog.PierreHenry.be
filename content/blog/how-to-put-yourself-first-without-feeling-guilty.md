@@ -20,12 +20,12 @@ Let me share with you three keys that have helped me, and might just help you to
 
 ## 1. Put Yourself First and Take Action
 
-The first key is determination. You have to put your own projects and priorities first. Too often, we get caught up in urgent tasks, routines, and responsibilities—work, family, kids, or even just the comfort of our habits. This comfort zone can become a trap. It’s not painful enough to force a change, but it’s not the life you truly want either.
+The first key is determination. You have to put your own projects and priorities first. Too often, we get caught up in urgent tasks, routines, and responsibilities: work, family, kids, or even just the comfort of our habits. This comfort zone can become a trap. It’s not painful enough to force a change, but it’s not the life you truly want either.
 
 The days pass, and you know deep down that something is missing. Maybe you dream of moving to another country, traveling the world, or simply living differently. But change is hard, especially when life is comfortable. The trick is to make your own projects your top priority, every single day. Even small steps matter. If you do a little bit each day, you create a snowball effect. This is what Darren Hardy calls the “Compound Effect” in his book. Small, daily actions add up and open new doors for you. Over time, it becomes easier and more natural to keep moving forward.
 
 > *“Small, smart choices, completed consistently over time, will create radical differences.”*  
-— Darren Hardy
+*Darren Hardy*
 
 ## 2. Visualize Your Dream Life
 
@@ -33,12 +33,12 @@ The days pass, and you know deep down that something is missing. Maybe you dream
 
 The second key is to see your project clearly. Visualize your dream lifestyle in detail. When you have a clear picture in your mind, it becomes easier to believe in it and work towards it. I recommend making this vision part of your daily life. For example, set a photo of your dream destination as your phone wallpaper, or print out images that inspire you.
 
-I remember when I wanted to spend time volunteering in Iceland. I put photos of Iceland’s landscapes and famous buildings everywhere—on my computer, my phone, even on my walls. Seeing these images every day kept my goal alive and pushed me to take real steps: booking flights, finding places to stay, and eventually making the trip happen.
+I remember when I wanted to spend time volunteering in Iceland. I put photos of Iceland’s landscapes and famous buildings everywhere: on my computer, my phone, even on my walls. Seeing these images every day kept my goal alive and pushed me to take real steps: booking flights, finding places to stay, and eventually making the trip happen.
 
 This constant visualization works like the law of attraction. The more you surround yourself with reminders of your goal, the more your mind will spot opportunities to make it real. You’ll notice the right announcements, meet the right people, and find the clues you need. When you’re obsessed with a goal, you always find a way.
 
 > *“What you think, you become. What you feel, you attract. What you imagine, you create.”*  
-— Buddha
+*Buddha*
 
 ## 3. Work in 90-Day Sprints
 
@@ -53,7 +53,7 @@ One last thing: don’t underestimate the importance of sleep. I’m writing thi
 {{< figure src="https://images.unsplash.com/photo-1628132031417-8bf59e4dfffe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZiUyMGltcHJvdmVtZW50JTIwbGlmZSUyMGRlc2lnbnxlbnwwfDB8fHwxNzU2MDA3ODEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="self care" title="How to Put Yourself First Without Feeling Guilty" caption="How to Put Yourself First Without Feeling Guilty - Photo by [Elisa Stone](https://unsplash.com/@ecjs) on [Unsplash](https://unsplash.com/photos/white-and-black-quote-on-gray-wall-7ahL8t9-mEo)" >}}
 
 > *“Take care of your body. It’s the only place you have to live.”*  
-— Jim Rohn
+*Jim Rohn*
 
 ---
 

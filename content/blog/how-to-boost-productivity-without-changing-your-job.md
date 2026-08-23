@@ -20,14 +20,14 @@ As someone who spends a lot of time coding and solving technical problems, I kno
 
 {{< figure src="https://images.unsplash.com/photo-1629787155650-9ce3697dcb38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHklMjB3b3Jrc3BhY2UlMjBkZXNpZ258ZW58MHwwfHx8MTc1NjYzMzAyNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Channelead Office" title="How to Boost Productivity Without Changing Your Job" caption="How to Boost Productivity Without Changing Your Job - Photo by [Moein Ghezelbash](https://unsplash.com/@moeinghezelbash) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-on-white-wooden-desk-km7OJKBnTXU)" >}}
 
-Sometimes, I’ll work from a hotel lobby or even a fancy hotel lounge. I find that these places give me a boost of confidence. The calm music, the gentle conversations happening around me—these details make a difference. But the real magic comes from simply changing things up. One day I’ll sit by the window, another day I’ll work on my balcony, or even at my kitchen counter. I love working from kitchens for some reason. Sometimes I’m at my company’s office in Sydney, or I’ll find another spot entirely. Each new place gives me a burst of energy and motivation.
+Sometimes, I’ll work from a hotel lobby or even a fancy hotel lounge. I find that these places give me a boost of confidence. The calm music, the gentle conversations happening around me: these details make a difference. But the real magic comes from simply changing things up. One day I’ll sit by the window, another day I’ll work on my balcony, or even at my kitchen counter. I love working from kitchens for some reason. Sometimes I’m at my company’s office in Sydney, or I’ll find another spot entirely. Each new place gives me a burst of energy and motivation.
 
 This habit of moving around has completely changed the way I work. I’m more productive, and most importantly, I’m happier. It’s a simple shift, but it makes a huge difference.
 
 > _“The environment you choose is the silent partner in every project you tackle.”_
-— Pierre
+*Pierre*
 
-If you’ve never tried changing your work environment, you might be surprised by how much it can help. It’s not just about learning new methods or reading about productivity. The real key is to take action and actually try working from different places. Don’t put it off—start today.
+If you’ve never tried changing your work environment, you might be surprised by how much it can help. It’s not just about learning new methods or reading about productivity. The real key is to take action and actually try working from different places. Don’t put it off: start today.
 
 ---
 
@@ -36,7 +36,7 @@ If you’ve never tried changing your work environment, you might be surprised b
 ## Key Takeaways
 - *Changing your work environment can boost both productivity and happiness.*
 - *Even small shifts, like moving to a different room or working from a café, can make a big difference.*
-- *Don’t just read about it—try it for yourself and notice the change.*
+- *Don’t just read about it: try it for yourself and notice the change.*
 
 ## Reflection
 - *When was the last time you changed your work environment?*

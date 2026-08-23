@@ -22,7 +22,7 @@ Organizing your tasks by type or by day of the week can help you avoid the trap 
 
 Another helpful habit is to regularly review and optimize your processes. Ask yourself how you could do things differently or more efficiently. For capturing ideas on the go, I use an app called Just Press Record. It lets you dictate notes, which are then transcribed automatically. While the transcription isn’t perfect, it’s good enough for finding your notes later. If you’re often inspired while driving or walking, you can even dictate parts of a book each day. After a few months, you’ll have enough material to transcribe into a full manuscript. There are many transcription services available, and you can always find someone on platforms like Upwork or Fiverr to help with this.
 
-Thinking strategically about your workflow is essential. If time blocking works for you, great—stick with it. If not, try another method. Your environment also matters. Sometimes, a change of scenery can make a big difference in your productivity. I often carry two phones and a backpack with everything I need, so I can work wherever I feel most comfortable.
+Thinking strategically about your workflow is essential. If time blocking works for you, great: stick with it. If not, try another method. Your environment also matters. Sometimes, a change of scenery can make a big difference in your productivity. I often carry two phones and a backpack with everything I need, so I can work wherever I feel most comfortable.
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx0aW1lJTIwbWFuYWdlbWVudCUyMGRhaWx5JTIwcm91dGluZXMlMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjExMjQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Organize Your Day Without Overthinking Priorities" caption="How to Organize Your Day Without Overthinking Priorities - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
@@ -30,17 +30,17 @@ You don’t have to rely solely on reminders or calendar events to stay organize
 
 Time blocking, in particular, can help you build simple work rituals that keep you focused. When one block ends, you move straight to the next, instead of wondering what to do next. If something unexpected comes up, just move the block to another day. This method also makes your to-do list more visual and satisfying, since you can see what you’ve accomplished and easily reschedule unfinished tasks.
 
-You can even schedule things like lunch or cleaning your house, fitting them into your day like pieces of a puzzle. It’s a bit like playing with building blocks—everything fits together, and you can adjust as needed.
+You can even schedule things like lunch or cleaning your house, fitting them into your day like pieces of a puzzle. It’s a bit like playing with building blocks: everything fits together, and you can adjust as needed.
 
 For me, time blocking isn’t always the best fit, but if it works for you, it’s a solid way to structure your days. The most important thing is to find a system that suits your style and helps you feel more productive and fulfilled.
 
 > _Happiness is not about doing more, but about doing what matters most._
 >
-> — Unknown
+> *Unknown*
 
 > _Small changes in your routine can lead to big results over time._
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 
@@ -52,7 +52,7 @@ For me, time blocking isn’t always the best fit, but if it works for you, it�
 - *Try time blocking to assign tasks to specific periods, making your schedule more visual and manageable.*
 - *Regularly review and optimize your workflow to find what works best for you.*
 - *Capture ideas on the go with voice recording apps and consider dictating longer projects like books.*
-- *Your environment matters—work where you feel most productive.*
+- *Your environment matters: work where you feel most productive.*
 - *Find a system that fits your style, whether it’s time blocking, process lists, or another method.*
 
 ## Reflection

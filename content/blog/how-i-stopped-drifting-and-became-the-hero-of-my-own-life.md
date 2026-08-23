@@ -17,13 +17,13 @@ source_youtube = "https://www.youtube.com/watch?v=JLmHLbFVTp0"
 
 **Intentional Living**
 
-It’s easy to let a day slip away. Maybe it’s a Saturday: you wake up without a plan, drift from one website to another, and by evening, realize you’ve accomplished nothing. That sense of wasted time isn’t just frustrating—it’s a sign you’re not steering your own story. To become the hero of your life, you must take control, define your vision, and act with intention.
+It’s easy to let a day slip away. Maybe it’s a Saturday: you wake up without a plan, drift from one website to another, and by evening, realize you’ve accomplished nothing. That sense of wasted time isn’t just frustrating; it’s a sign you’re not steering your own story. To become the hero of your life, you must take control, define your vision, and act with intention.
 
 ## Take Control: Be the Actor in Your Own Story
 
-Becoming the hero of your life starts with a decision: to be the main character, not a bystander. This means taking responsibility for your choices and shaping your days around your goals.
+Becoming the hero of your life starts with a decision: to be the main character, not a bystander. This means taking responsibility for your choices and organizing your days around your goals.
 
-For me, this meant investing in projects that mattered—saving for a home, planning a trip around the world, or building a business to support a nomadic lifestyle. The specifics will differ for everyone, but the principle is the same: your time and energy should move you closer to the life you want.
+For me, this meant investing in projects that mattered: saving for a home, planning a trip around the world, or building a business to support a nomadic lifestyle. The specifics will differ for everyone, but the principle is the same: your time and energy should move you closer to the life you want.
 
 ## Define Your Vision and Plan Your Days
 
@@ -43,14 +43,14 @@ When I begin my day by working on something meaningful, I feel more energized an
 
 ## Stay Curious to Keep Growing
 
-Growth isn’t just about following a plan—it’s about staying curious. Curiosity keeps life interesting and drives you to learn and improve. Without it, you risk stagnation and miss new opportunities.
+Growth isn’t just about following a plan; it’s about staying curious. Curiosity keeps life interesting and drives you to learn and improve. Without it, you risk stagnation and miss new opportunities.
 
 {{< figure src="https://images.unsplash.com/photo-1759781944944-20790f95c45b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxlbXB0eSUyMHBhcmslMjBiZW5jaCUyMGF1dHVtbiUyMGxlYXZlc3xlbnwwfDB8fHwxNzg1NDU5ODQ2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Finding purpose where I once saw pause" title="How I Stopped Drifting and Became the Hero of My Own Life" caption="Finding purpose where I once saw pause - Photo by [Andrea Mancini](https://unsplash.com/@pennello)" >}}
 
-Curiosity pushes you to try new things and discover new skills. You might start with the goal of building a business to support your travels, but along the way, uncover a passion for something unexpected. Staying curious means you’re always evolving.
+Curiosity pushes you to try new things and discover new skills. You might start with the goal of building a business to support your travels, but along the way, uncover a passion for something unexpected. Staying curious means you’re always changing.
 
 ## Become the Person You’re Proud Of
 
-When you combine vision, intentional action, and curiosity, you set yourself on a path of continuous improvement. You become the best version of yourself—not by chasing someone else’s idea of success, but by living in alignment with your own dreams.
+When you combine vision, intentional action, and curiosity, you set yourself on a path of continuous improvement. You become the best version of yourself, not by chasing someone else’s idea of success, but by living in alignment with your own dreams.
 
-This is how you become the hero of your own life: invest in yourself, act with purpose, and stay open to learning. Over time, you’ll look back and see a life you’re proud of—a life that’s truly yours.
+This is how you become the hero of your own life: invest in yourself, act with purpose, and stay open to learning. Over time, you’ll look back and see a life you’re proud of: a life that’s truly yours.

@@ -16,25 +16,25 @@ source_medium = "https://medium.com/@phenrysay/709ed02068cf"
 
 There are days when you feel tired, your head feels heavy, and it’s just hard to get moving again. Motivation seems out of reach. You know you should do something, but your body and mind are dragging. It’s tough to get started, because, well, you’re exhausted. But here’s something I’ve learned: you can actually trigger or recreate certain moods and energy levels, almost on command.
 
-How? By doing a simple activity or exercise right before you need to get going—something that wakes up your senses. For example, going for a run, doing some quick exercise, or even taking a cold shower. Jumping up and down, shaking out your limbs—these things really work. Tony Robbins talks about this in his documentary *I Am Not Your Guru*. He shares exercises you can do to reach the energy or mood you want. And it’s true: these little rituals help you get into the right state of mind to tackle whatever task is in front of you, and to do it as well as you can.
+How? By doing a simple activity or exercise right before you need to get going: something that wakes up your senses. For example, going for a run, doing some quick exercise, or even taking a cold shower. Jumping up and down, shaking out your limbs: these things really work. Tony Robbins talks about this in his documentary *I Am Not Your Guru*. He shares exercises you can do to reach the energy or mood you want. And it’s true: these little rituals help you get into the right state of mind to tackle whatever task is in front of you, and to do it as well as you can.
 
-If you’re tired and you try to push through without changing your state, you’ll probably do a poor job. The same goes for important moments—like an interview or a meeting—when you need to be at your best and can’t just put things off. That’s when it’s especially useful to generate the mood or energy you need.
+If you’re tired and you try to push through without changing your state, you’ll probably do a poor job. The same goes for important moments (like an interview or a meeting) when you need to be at your best and can’t just put things off. That’s when it’s especially useful to generate the mood or energy you need.
 
 Another trick: use noise-cancelling headphones and listen to music or sounds that put you in the right mood. Create a playlist that lifts you up or calms you down, depending on what you need. Lighting also makes a difference. Try using LED lights or colored bulbs to set a specific atmosphere. These little changes have helped me so much, and that’s why I want to share them with you.
 
 {{< figure src="https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtb3RpdmF0aW9uJTIwc2VsZi1oZWxwJTIwZW5lcmd5JTIwYm9vc3R8ZW58MHwwfHx8MTc0OTM5NTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Power pylons at sunset" title="How to Get Motivated When You Feel Too Tired to Start" caption="How to Get Motivated When You Feel Too Tired to Start - Photo by [Matthew Henry](https://unsplash.com/@matthewhenry) on [Unsplash](https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI)" >}}
 
 > *“The energy you bring is often the energy you create.”*  
-> — Tony Robbins
+> *Tony Robbins*
 
-If you want to go even further, I’ve put together a lot of resources and methods that go deeper into creating the right environment for yourself. Even if you live in a tiny apartment or a crowded building, you can set up your space to boost your productivity and mood. The key is to actually put these ideas into practice. If you’re determined and ready to try, you’ll see real changes—starting as soon as tomorrow.
+Even in a tiny apartment or a crowded building, you can adjust your space to support focus and make starting easier.
 
-Whenever I learn something new that really works for me, I update my resources and share it. Teaching what I’ve just learned helps me organize my thoughts and reinforce my own knowledge. And you get the benefit of all the latest tips and tricks, without having to pay again for every update.
+Whenever I learn something that works for me, I write it down and test it again. Explaining it in my own words helps me organize my thoughts and reinforce what I learned.
 
 But even if you don’t go further with me, remember this: you can always generate the mood and energy you need. Don’t wait for motivation to magically appear. Take action, even if it’s just a small one, and your mood will follow.
 
 > *“Action is the foundational key to all success.”*  
-> — Pablo Picasso
+> *Pablo Picasso*
 
 ---
 
@@ -44,7 +44,7 @@ But even if you don’t go further with me, remember this: you can always genera
 - You can create the mood and energy you need, even when you feel drained.
 - Try quick exercises, cold showers, or music to shift your state.
 - Adjust your environment with lighting or sound to help you focus.
-- Don’t wait for motivation—take action, and your mood will catch up.
+- Don’t wait for motivation: take action, and your mood will catch up.
 
 ## Action Steps
 - Pick one quick activity (exercise, shower, music) to try before your next task.

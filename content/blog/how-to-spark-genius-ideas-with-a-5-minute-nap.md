@@ -20,7 +20,7 @@ The idea is not just to rest, but to use a very short nap to connect with your s
 
 ## The Art of the Mini-Nap
 
-The creative nap, sometimes called a “micro-nap,” is all about catching yourself right at the edge of sleep. You settle into a comfortable chair, holding something that makes noise when it falls—keys are the classic choice, but marbles or anything similar will do.
+The creative nap, sometimes called a “micro-nap,” is all about catching yourself right at the edge of sleep. You settle into a comfortable chair, holding something that makes noise when it falls: keys are the classic choice, but marbles or anything similar will do.
 
 As you start to drift off, your muscles relax. The object slips from your hand, hits the floor, and wakes you up. This moment, right as you’re waking, is when your mind is most open. It’s the sweet spot between sleep and wakefulness, where your conscious mind hasn’t yet started filtering your thoughts.
 
@@ -30,7 +30,7 @@ As you start to drift off, your muscles relax. The object slips from your hand, 
 
 Before you begin the nap, set a clear intention. Ask yourself what problem you want to solve or what idea you want to develop. Maybe you’re stuck on a technical issue, or you’re searching for a breakthrough in your business. Repeat your goal in your mind as you get comfortable.
 
-When you wake up, grab a notebook or a voice recorder—avoid your phone if possible, since notifications can distract you. Quickly jot down any ideas that come to mind. At this stage, your logical brain hasn’t had the chance to dismiss your thoughts as impossible or unreasonable. You might be surprised by the creative solutions that appear.
+When you wake up, grab a notebook or a voice recorder: avoid your phone if possible, since notifications can distract you. Quickly jot down any ideas that come to mind. At this stage, your logical brain hasn’t had the chance to dismiss your thoughts as impossible or unreasonable. You might be surprised by the creative solutions that appear.
 
 This method is especially powerful for creative ideas, which is why Edison used it so often. It’s like opening a new door in your mind, letting in fresh solutions and perspectives that your conscious mind might block.
 
@@ -38,7 +38,7 @@ This method is especially powerful for creative ideas, which is why Edison used 
 
 There are several stages of sleep, and this technique catches you right as you enter the “beta” stage, just before deeper sleep. At this point, your brain is more connected to the unconscious, making it easier to access ideas that are usually hidden.
 
-If you’re curious, you can find many articles and studies about Edison’s creativity nap online. Search for “Thomas Edison creativity nap” and you’ll see how well-documented this technique is. You’ll also come across information about brain waves—alpha, theta, and delta—which relate to different sleep stages. The creative nap taps into the stage where your mind is most receptive.
+If you’re curious, you can find many articles and studies about Edison’s creativity nap online. Search for “Thomas Edison creativity nap” and you’ll see how well-documented this technique is. You’ll also come across information about brain waves (alpha, theta, and delta) which relate to different sleep stages. The creative nap taps into the stage where your mind is most receptive.
 
 ## My Experience
 
@@ -49,10 +49,10 @@ If you want to solve problems or boost your creativity, I highly recommend givin
 {{< figure src="https://images.unsplash.com/photo-1611827514651-7a52584000e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjcmVhdGl2aXR5JTIwbmFwcGluZyUyMGludmVudG9yc3xlbnwwfDB8fHwxNzU2NTE5MTA1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pure happiness is found in nothing but in the innocent smile of a baby." title="How to Spark Genius Ideas With a 5-Minute Nap" caption="How to Spark Genius Ideas With a 5-Minute Nap - Photo by [Ashish Sangai](https://unsplash.com/@aksangai) on [Unsplash](https://unsplash.com/photos/girl-in-pink-jacket-lying-on-red-and-black-hammock-egvVU7k76WQ)" >}}
 
 *“Genius is one percent inspiration and ninety-nine percent perspiration.”*  
-— Thomas Edison
+*Thomas Edison*
 
 *“The best ideas often come when you stop trying so hard to find them.”*  
-— Anonymous
+*Anonymous*
 
 ---
 

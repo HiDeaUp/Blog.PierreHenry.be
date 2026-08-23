@@ -29,12 +29,12 @@ One simple trick is to time yourself. Keep track of how long you spend on your p
 There’s also something powerful about alternating between different types of activities. After spending time on your passion, switch to something social, like being with your partner or friends. Make time for physical activity, rest, and even moments of silence or meditation. Each of these has its own value and helps you stay grounded.
 
 > _“Passion is energy. Feel the power that comes from focusing on what excites you.”_
-> — Oprah Winfrey
+> *Oprah Winfrey*
 
 Taking care of yourself means more than just following your passion. It means making sure your days are full and varied, not just filled with one thing. When you find this balance, your passion becomes a source of joy, not stress.
 
 > _“Happiness is not a matter of intensity but of balance, order, rhythm and harmony.”_
-> — Thomas Merton
+> *Thomas Merton*
 
 So, remember: having a passion is amazing, but letting it take over your entire life can leave you feeling empty and disconnected from everything else that matters. The real secret is to marry your passion with a balanced day. That’s where you’ll find the most satisfaction.
 

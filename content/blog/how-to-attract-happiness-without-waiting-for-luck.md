@@ -20,7 +20,7 @@ source_medium = "https://medium.com/@phenrysay/980206b7a868"
 
 ### Simple routines and a new mindset to make happiness easier every day
 
-Happiness isn’t just something you wish for or hope will fall into your lap. It’s not about crossing your fingers and waiting for good things to happen. Real happiness comes from the habits you build and the way you organize your days. Sometimes, we get so caught up in daily life that we don’t even realize our routines are working against us. We might feel overwhelmed, or maybe our lifestyle isn’t as healthy as we think. Often, we don’t take a step back to see the bigger picture—we’re living inside our lives instead of looking at them from above.
+Happiness isn’t just something you wish for or hope will fall into your lap. It’s not about crossing your fingers and waiting for good things to happen. Real happiness comes from the habits you build and the way you organize your days. Sometimes, we get so caught up in daily life that we don’t even realize our routines are working against us. We might feel overwhelmed, or maybe our lifestyle isn’t as healthy as we think. Often, we don’t take a step back to see the bigger picture; we’re living inside our lives instead of looking at them from above.
 
 Let’s talk about how to make happiness easier to reach, not by magic, but by changing the way you approach your day.
 
@@ -36,11 +36,11 @@ A good routine is like a strong foundation for your happiness. For example, I ha
 
 {{< figure src="https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtaW5kc2V0JTIwZGFpbHklMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDIwMDg1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="mug with happiness" title="How to Attract Happiness Without Waiting for Luck" caption="How to Attract Happiness Without Waiting for Luck - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)" >}}
 
-If you live in a high-rise or have a balcony with a view, take a moment to look out over your city. Or, go for a walk early in the morning and see your town from a hill. Imagine all the people out there—some of them might become your friends, colleagues, or even partners in the future. This perspective helps you realize how many possibilities are out there, waiting for you.
+If you live in a high-rise or have a balcony with a view, take a moment to look out over your city. Or, go for a walk early in the morning and see your town from a hill. Imagine all the people out there: some of them might become your friends, colleagues, or even partners in the future. This perspective helps you realize how many possibilities are out there, waiting for you.
 
 ## Most People Are Good
 
-It’s easy to get caught up in negativity, especially when you feel like people are against you. But the truth is, most people are kind and well-meaning. Sure, sometimes our interests clash—like when you’re buying or selling a house, or negotiating at work—but that doesn’t mean anyone is out to get you.
+It’s easy to get caught up in negativity, especially when you feel like people are against you. But the truth is, most people are kind and well-meaning. Sure, sometimes our interests clash (like when you’re buying or selling a house, or negotiating at work), but that doesn’t mean anyone is out to get you.
 
 Sometimes, someone honks at you in traffic or seems impatient. It’s not always aggression; maybe they’re just trying to keep you safe. We tend to see everything through our own lens, as if we’re the center of the universe. But the world is full of people, and most of them are just living their lives, not thinking about us at all.
 
@@ -48,7 +48,7 @@ Sometimes, someone honks at you in traffic or seems impatient. It’s not always
 
 There’s a saying I love:  
 > *Discipline equals freedom.*  
-— Jocko Willink
+*Jocko Willink*
 
 It might sound strange, but having discipline in your life actually gives you more time and peace of mind. When you organize your days and stick to healthy habits, you free up space for the things that matter most to you. You get to know yourself better, and you create room for happiness to grow.
 
@@ -59,9 +59,9 @@ Don’t let mistakes or failures drag you down. See them as steps on the way to 
 {{< figure src="https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBtaW5kc2V0JTIwZGFpbHklMjByb3V0aW5lc3xlbnwwfDB8fHwxNzU1NDIwMDg1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Don't Worry Be Happy" title="How to Attract Happiness Without Waiting for Luck" caption="How to Attract Happiness Without Waiting for Luck - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)" >}}
 
 > *Happiness is not something ready made. It comes from your own actions.*  
-— Dalai Lama
+*Dalai Lama*
 
-## Take Action—Today
+## Take Action: Today
 
 The best time to make a change is now. Don’t wait for the perfect moment or put things off until tomorrow. Start building better habits, set your intentions, and organize your days in a way that makes happiness easier to find. Life has so much to offer, but you have to take the first step.
 

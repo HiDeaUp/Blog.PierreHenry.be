@@ -29,7 +29,7 @@ This mental reset lets you focus on what truly matters. You can finally think ab
 So, next time you feel stuck, try these simple steps. You’ll be surprised at how much lighter and clearer your mind becomes.
 
 *“The greatest weapon against stress is our ability to choose one thought over another.”*  
-— William James
+*William James*
 
 ---
 

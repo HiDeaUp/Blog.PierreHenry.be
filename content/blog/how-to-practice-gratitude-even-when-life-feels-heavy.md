@@ -19,14 +19,14 @@ source_youtube = "https://www.youtube.com/watch?v=_UTjRt1NH38"
 
 ## How to Nurture Gratitude Even in Difficult Times
 
-## Simple ways to keep your gratitude alive—even when life feels heavy
+## Simple ways to keep your gratitude alive: even when life feels heavy
 
 There are days when everything feels a bit off. You wake up, and even though you made a solid to-do list the night before, your energy just isn’t there. You feel low, maybe even a little lost. You take a walk, try to shake it off, but the heaviness lingers. This happens to everyone, and it’s perfectly normal.
 
 What can really help in these moments is to remember the good times. Not just the big, life-changing events, but the small, everyday moments that made you smile. Maybe it was a quiet afternoon with your partner, a game of tennis when you were sixteen, or a simple dinner with your family. These memories are powerful. When you write them down or just take a moment to recall them, you start to feel a sense of gratitude and pride. It’s like giving yourself a little boost of energy to move forward.
 
 > *Gratitude turns what we have into enough.*  
-> — Anonymous
+> *Anonymous*
 
 Without this habit of remembering and appreciating the good, it’s easy to feel boxed in by the present. You might only see what’s right in front of you and forget how much you’ve already experienced and achieved. That’s why it’s so important to make time for these memories.
 
@@ -38,18 +38,18 @@ Here are a few simple ways to keep your gratitude alive, even when things are to
 
 #### 1. Write Down Good Moments
 
-Take a notebook and jot down moments that made you feel happy or proud. They don’t have to be extraordinary—just things you genuinely enjoyed. Maybe it was a laugh with a friend, a walk in the park, or a project you finished. The act of writing helps you relive those feelings and brings them into your present.
+Take a notebook and jot down moments that made you feel happy or proud. They don’t have to be extraordinary: just things you genuinely enjoyed. Maybe it was a laugh with a friend, a walk in the park, or a project you finished. The act of writing helps you relive those feelings and brings them into your present.
 
 #### 2. Use Music to Shift Your Mood
 
-Music can change the atmosphere in an instant. Try playing some background music or even white noise. It doesn’t have to be your favorite song—just something that helps you feel calm or uplifted. Music has a way of shifting your mindset and making you feel more at ease.
+Music can change the atmosphere in an instant. Try playing some background music or even white noise. It doesn’t have to be your favorite song: just something that helps you feel calm or uplifted. Music has a way of shifting your mindset and making you feel more at ease.
 
 #### 3. Pay Attention to Your Body
 
-How you hold yourself affects how you feel. Stand up straight, stretch, or do a quick exercise. Even a few minutes can make a difference. Tony Robbins, for example, uses physical movement to prepare himself mentally before going on stage. You don’t have to be a motivational speaker to benefit from this—just moving your body can help you reset your mind.
+How you hold yourself affects how you feel. Stand up straight, stretch, or do a quick exercise. Even a few minutes can make a difference. Tony Robbins, for example, uses physical movement to prepare himself mentally before going on stage. You don’t have to be a motivational speaker to benefit from this: just moving your body can help you reset your mind.
 
 > *Happiness is not something ready made. It comes from your own actions.*  
-> — Dalai Lama
+> *Dalai Lama*
 
 ### Why This Matters
 
@@ -58,7 +58,7 @@ When you practice gratitude, you give yourself the energy to take the next step,
 {{< figure src="https://images.unsplash.com/photo-1611071496337-9882cd6c0e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxncmF0aXR1ZGUlMjBtaW5kZnVsbmVzcyUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc2ODIyMTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Gray buddha statue during daytime" title="How to Practice Gratitude Even When Life Feels Heavy" caption="How to Practice Gratitude Even When Life Feels Heavy - Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com/photos/gray-concrete-buddha-statue-during-daytime-bxlB513KSQ8)" >}}
 
 > *The more you praise and celebrate your life, the more there is in life to celebrate.*  
-> — Oprah Winfrey
+> *Oprah Winfrey*
 
 ---
 

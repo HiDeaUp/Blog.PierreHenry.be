@@ -16,15 +16,15 @@ source_medium = "https://medium.com/@phenrysay/082eadada523"
 
 Have you ever felt drained, tired, or just a bit “off” for no clear reason? Maybe you blame yourself, thinking you’re lazy or not motivated enough. But what if the real problem isn’t you at all, but the environment around you?
 
-## Your Energy Is Shaped by Your Surroundings
+## Your Energy Is Influenced by Your Surroundings
 
-Many people underestimate how much their environment affects their energy and mood. If you spend all day inside, especially in a dark room with little sunlight, it’s no wonder you feel sluggish. It’s easy to fall into the trap of self-blame—wondering why you can’t get more done, or why you don’t feel like doing anything. But often, it’s the atmosphere, not your willpower, that’s holding you back.
+Many people underestimate how much their environment affects their energy and mood. If you spend all day inside, especially in a dark room with little sunlight, it’s no wonder you feel sluggish. It’s easy to fall into the trap of self-blame: wondering why you can’t get more done, or why you don’t feel like doing anything. But often, it’s the atmosphere, not your willpower, that’s holding you back.
 
-Changing your environment—even just rearranging your space, moving to a brighter room, or spending time outside—can make a huge difference. Sometimes, it’s not about pushing yourself harder, but about making your surroundings work for you.
+Changing your environment (even just rearranging your space, moving to a brighter room, or spending time outside) can make a huge difference. Sometimes, it’s not about pushing yourself harder, but about making your surroundings work for you.
 
 ## Habits Are Stronger Than Motivation
 
-Motivation comes and goes, but habits stick. Think about brushing your teeth or taking a shower. You don’t debate whether you have time for it—you just do it. That’s the power of routine. When something becomes a habit, it runs on autopilot.
+Motivation comes and goes, but habits stick. Think about brushing your teeth or taking a shower. You don’t debate whether you have time for it; you just do it. That’s the power of routine. When something becomes a habit, it runs on autopilot.
 
 The same goes for exercise, writing, or learning. If you want to build a new habit, make it as easy as possible to start. For example, if you want to write every morning, leave your laptop open to your writing app the night before. If you want to jog, set out your running clothes and shoes by your bed. The fewer obstacles between you and the task, the more likely you are to do it.
 
@@ -32,9 +32,9 @@ The same goes for exercise, writing, or learning. If you want to build a new hab
 
 ## Remove Friction, Remove Excuses
 
-Success isn’t about being superhuman. It’s about removing as many barriers as possible. If you make it easy to start, you’re less likely to procrastinate. And don’t give yourself exceptions—skipping once makes it easier to skip again, and soon the habit is gone.
+Success isn’t about being superhuman. It’s about removing as many barriers as possible. If you make it easy to start, you’re less likely to procrastinate. And don’t give yourself exceptions: skipping once makes it easier to skip again, and soon the habit is gone.
 
-Organize your day so that your habits fit naturally. Reduce the friction for every task, and you’ll find it much easier to do what you want—or need—to do.
+Organize your day so that your habits fit naturally. Reduce the friction for every task, and you’ll find it much easier to do what you want (or need) to do.
 
 ## Sometimes, You Just Need a Change of Scenery
 
@@ -42,13 +42,13 @@ If you’re feeling stuck, try changing your environment. Some places just don�
 
 Don’t be afraid to accept that your environment might be working against you. Stay open-minded, and be willing to change your surroundings or your daily structure. That’s often the best way to move forward and truly excel.
 
-> _We are shaped by our environment far more than we realize. Sometimes, the first step to change is simply moving to a place that lets us grow._
+> _We are influenced by our environment far more than we realize. Sometimes, the first step to change is simply moving to a place that lets us grow._
 >
-> — Anonymous
+> *Anonymous*
 
 > _Habits are the invisible architecture of daily life._
 >
-> — Gretchen Rubin
+> *Gretchen Rubin*
 
 ---
 
@@ -57,10 +57,10 @@ Don’t be afraid to accept that your environment might be working against you. 
 ## Key Takeaways
 
 - Your energy and motivation are deeply affected by your environment.
-- Build habits, not just motivation—make them automatic.
+- Build habits, not just motivation: make them automatic.
 - Remove obstacles to make starting tasks easier.
 - Don’t give yourself exceptions; consistency is key.
-- If you feel stuck, try changing your surroundings—it’s not always your fault.
+- If you feel stuck, try changing your surroundings; it’s not always your fault.
 
 ## Action Steps
 

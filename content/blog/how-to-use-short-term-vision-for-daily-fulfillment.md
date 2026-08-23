@@ -20,23 +20,23 @@ Long-term visions are like a compass. They give you direction, a sense of where 
 
 For example, you might challenge yourself this week to eat healthier, exercise a bit more, go to bed and wake up at the same time every day, or simply improve your sleep quality. These short-term visions often become habits, or they can be new things you want to try out. Maybe you want to read a book this week. That’s a vision too.
 
-The word “vision” might sound grand, like something reserved for success stories or big achievements. But in reality, it’s about the little things—mini habits that build up over time. Think of the “small steps” method: one step after another, and you can walk 30 kilometers. One word after another, and you can write a book. One small habit, repeated every day for a week, can help you finish a book, improve at a specific skill, or simply feel better about yourself.
+The word “vision” might sound grand, like something reserved for success stories or big achievements. But in reality, it’s about the little things: mini habits that build up over time. Think of the “small steps” method: one step after another, and you can walk 30 kilometers. One word after another, and you can write a book. One small habit, repeated every day for a week, can help you finish a book, improve at a specific skill, or simply feel better about yourself.
 
 Let’s say you want to get better at playing guitar. You decide to practice every day for 10 or 20 minutes. By the end of the week, your vision is to play a song better, or maybe sing it more like your favorite artist. You picture yourself in seven days, having made real progress. It’s easier to stay motivated when the finish line is so close. Seven days is nothing, but it’s enough to achieve something meaningful.
 
 {{< figure src="https://images.unsplash.com/photo-1585776245865-b92df54c6b25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZlJTIwdmlzaW9uJTIwc2hvcnQtdGVybSUyMGdvYWxzJTIwZGFpbHklMjBoYWJpdHN8ZW58MHwwfHx8MTc1NjYzMjE0MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="What are your goals in life?" title="How to Use Short-Term Vision for Daily Fulfillment" caption="How to Use Short-Term Vision for Daily Fulfillment - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/black-and-white-typewriter-on-green-textile-LNzuOK1GxRU)" >}}
 
-If you spend just 10 minutes a day, that’s 70 minutes in a week—over an hour of focused effort. If you do 20 minutes a day, that’s more than two hours. The beauty of this approach is that you’re less likely to give up. You don’t feel like you’re climbing a mountain. Instead, you’re just taking a few steps each day, and you can see the results quickly.
+If you spend just 10 minutes a day, that’s 70 minutes in a week: over an hour of focused effort. If you do 20 minutes a day, that’s more than two hours. The beauty of this approach is that you’re less likely to give up. You don’t feel like you’re climbing a mountain. Instead, you’re just taking a few steps each day, and you can see the results quickly.
 
 The key is to set a vision for the very near future. Tell yourself, “In seven days, I’ll be able to do this.” It’s much better for motivation. You’re less likely to throw in the towel because the goal feels close and achievable.
 
 > *A journey of a thousand miles begins with a single step.*
 >
-> — Lao Tzu
+> *Lao Tzu*
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 ---
 

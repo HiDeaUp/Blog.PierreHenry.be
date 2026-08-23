@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/a98546e220b3"
 
 Life has a way of reminding us that nothing is handed to us on a silver platter. If you want things to change, you have to take responsibility for your actions. It’s easy to blame others, the weather, or even the government when things go wrong. But deep down, you know the answer lies within you.
 
-If you missed your train, maybe you could have left earlier, checked the schedule more carefully, or simply planned ahead. This way of thinking—accepting that you’re responsible—opens the door to real improvement. When you always blame others, you stay stuck. But if you admit that you could have been more careful, you start to ask yourself: “How can I avoid this next time?”
+If you missed your train, maybe you could have left earlier, checked the schedule more carefully, or simply planned ahead. This way of thinking (accepting that you’re responsible) opens the door to real improvement. When you always blame others, you stay stuck. But if you admit that you could have been more careful, you start to ask yourself: “How can I avoid this next time?”
 
 This is the mindset that helps you grow. Instead of playing the victim and thinking, “It’s not my fault, it’s everyone else’s,” you start to see what you can do better. That’s how you build what I call a “growth mindset.” You stop seeing yourself as a victim and start seeing yourself as the person who can change things.
 
@@ -28,15 +28,15 @@ If you keep blaming others, you’ll never move forward. You’ll just stay wher
 
 This is what having a growth mindset is all about: always looking for ways to improve, always asking yourself what you can do tomorrow to avoid today’s problems. It’s about being resilient, facing obstacles head-on, and not being afraid to make decisions. If you spend too much time hesitating, you’ll get stuck. So when something blocks your path, ask yourself: “What’s the best decision I can make right now to move forward?”
 
-People often think that complaining gives them an edge, but it doesn’t. The real advantage comes from knowing that you have the qualities and the ability to find solutions. Most of the time, the answers are right in front of you. You don’t need to look far—they’re usually within reach.
+People often think that complaining gives them an edge, but it doesn’t. The real advantage comes from knowing that you have the qualities and the ability to find solutions. Most of the time, the answers are right in front of you. You don’t need to look far; they’re usually within reach.
 
 So, when you face a problem, ask yourself what you can do to prevent it from happening again. Be pragmatic, be proactive. The solutions are in your hands. Don’t wait for others to approve or help you. The only approval you need is your own.
 
 > *“The only person you are destined to become is the person you decide to be.”*  
-> — Ralph Waldo Emerson
+> *Ralph Waldo Emerson*
 
 > *“You cannot control the wind, but you can adjust your sails.”*  
-> — Unknown
+> *Unknown*
 
 {{< figure src="https://images.unsplash.com/photo-1505489304219-85ce17010209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWF3YXJlbmVzcyUyMHBlcnNvbmFsJTIwcmVzcG9uc2liaWxpdHklMjBtaW5kc2V0JTIwc2hpZnR8ZW58MHwwfHx8MTc0OTMzMDc0NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman holding a cup of coffee at right hand and reading book on her lap while holding it open with her left hand in a well lit room" title="How to Take Responsibility Without Blaming the World" caption="How to Take Responsibility Without Blaming the World - Photo by [Anthony Tran](https://unsplash.com/@anthonytran) on [Unsplash](https://unsplash.com/photos/woman-holding-a-cup-of-coffee-at-right-hand-and-reading-book-on-her-lap-while-holding-it-open-with-her-left-hand-in-a-well-lit-room-8i2fHtStfxk)" >}}
 
@@ -46,7 +46,7 @@ So, when you face a problem, ask yourself what you can do to prevent it from hap
 - Take responsibility for your actions, even when it’s hard.
 - Stop blaming others or outside circumstances.
 - Always ask yourself how you can do better next time.
-- Don’t wait for approval—move forward with your own decisions.
+- Don’t wait for approval: move forward with your own decisions.
 
 ## Action Steps
 - Next time something goes wrong, pause and ask: “What could I have done differently?”

@@ -16,11 +16,11 @@ source_medium = "https://medium.com/@phenrysay/685af318e250"
 
 Most people don’t realize that the brain operates in cycles, much like our sleep patterns. Just as sleep is divided into 90-minute cycles, our productivity during the day follows a similar rhythm. If you want to get more done without burning out, it makes sense to divide your workday into focused sprints of about 90 minutes each.
 
-The brain is naturally efficient when you respect these cycles. Sometimes a cycle might be a bit longer or shorter, but 90 minutes is a solid average. This mirrors the way we sleep, and it’s no coincidence—our bodies are wired for these rhythms.
+The brain is naturally efficient when you respect these cycles. Sometimes a cycle might be a bit longer or shorter, but 90 minutes is a solid average. This mirrors the way we sleep, and it’s no coincidence: our bodies are wired for these rhythms.
 
 If you want to be truly productive, try breaking your tasks into 90-minute sprints. After each sprint, take a real break for 10 to 15 minutes. And by “real break,” I mean stepping away from anything that adds mental clutter. Don’t check your messages, notifications, or emails. Even if these things aren’t negative, they can add a mental load that weighs you down. Instead, use this time to recharge.
 
-Personally, I love grabbing a flat white with oat milk during my breaks. Sometimes I just listen to the hum of the world around me, which has a calming effect. Other times, I take a short walk if the weather is nice. You could even hit the gym for a quick session, but be careful—unexpected stressors like loud sirens or running into people can disrupt your flow. The best breaks are those that keep you in your own space, away from distractions that might affect your next cycle.
+Personally, I love grabbing a flat white with oat milk during my breaks. Sometimes I just listen to the hum of the world around me, which has a calming effect. Other times, I take a short walk if the weather is nice. You could even hit the gym for a quick session, but be careful: unexpected stressors like loud sirens or running into people can disrupt your flow. The best breaks are those that keep you in your own space, away from distractions that might affect your next cycle.
 
 Aim for two to four of these 90-minute sprints each day. That adds up to about three to six hours of deep, focused work. It might not sound like much compared to a full day, but the quality of your output will skyrocket. During each sprint, immerse yourself completely in the task at hand. Forget about your phone, messages, or anything else. If you need the internet, limit your access to only what’s necessary. Tools like Screen Time on Mac or certain browser extensions can help you block distracting sites and keep you on track.
 
@@ -28,15 +28,15 @@ Aim for two to four of these 90-minute sprints each day. That adds up to about t
 
 You can even hide suggested videos on YouTube with extensions, so you’re not tempted to click away. Some people create a separate user account on their computer for work, but I find that a bit cumbersome. What really matters is discipline. As the saying goes, *discipline equals freedom*. When you’re disciplined, you gain the freedom to achieve what you truly want.
 
-Set clear goals for yourself. Know exactly what you want to accomplish and by when. Give yourself a deadline—three weeks, three months, whatever fits your project. Then, calculate how many 90-minute sprints you’ll need each day to reach your goal. It’s also helpful to keep up the habit on weekends, even if it’s just one or two sprints. Taking a complete break makes it harder to get back into the groove, just like returning to work after a vacation or a weekend off.
+Set clear goals for yourself. Know exactly what you want to accomplish and by when. Give yourself a deadline: three weeks, three months, whatever fits your project. Then, calculate how many 90-minute sprints you’ll need each day to reach your goal. It’s also helpful to keep up the habit on weekends, even if it’s just one or two sprints. Taking a complete break makes it harder to get back into the groove, just like returning to work after a vacation or a weekend off.
 
 The key is consistency. The more you stick to your cycles, the easier it becomes to slip into that productive flow. Remember, the best time to take action is today.
 
 > *Discipline equals freedom.*
-> — Jocko Willink
+> *Jocko Willink*
 
 > *The quality of your work improves when you respect your natural rhythms.*
-> — Anonymous
+> *Anonymous*
 
 ---
 
@@ -45,7 +45,7 @@ The key is consistency. The more you stick to your cycles, the easier it becomes
 {{< figure src="https://images.unsplash.com/photo-1495364141860-b0d03eccd065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBicmFpbiUyMGN5Y2xlcyUyMHdvcmslMjBoYWJpdHN8ZW58MHwwfHx8MTc1NjAwNjg1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Alarm clock friends situation with hand" title="How to Boost Focus in 90 Minutes Without Burning Out" caption="How to Boost Focus in 90 Minutes Without Burning Out - Photo by [Lukas Blazek](https://unsplash.com/@goumbik) on [Unsplash](https://unsplash.com/photos/person-holding-white-mini-bell-alarmclock-UAvYasdkzq8)" >}}
 
 - *Work in 90-minute focused sprints, followed by 10–15 minute real breaks.*
-- *Avoid mental clutter during breaks—no messages, emails, or notifications.*
+- *Avoid mental clutter during breaks: no messages, emails, or notifications.*
 - *Aim for 2–4 sprints per day for 3–6 hours of high-quality productivity.*
 - *Use tools and discipline to block distractions and stay on track.*
 - *Set clear goals and deadlines, and keep up the habit even on weekends.*

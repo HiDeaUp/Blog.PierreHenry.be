@@ -18,21 +18,21 @@ Alright, let's get into it. Today, I'm walking you through how I built a complet
 
 ## Setting Up: Credits, Tokens, and Sanity Checks
 
-First things first, you need credits to use CL Code. My balance was negative (classic), so I topped up with $6. Quick tip: I don't recommend auto-reload for credits. CL Code can chew through tokens pretty fast, and you don't want any surprise charges. Always keep an eye on your token usage. There are open-source extensions like `code-terminal` or `code-use-monitor` that help you track this. It's a sanity check—trust me, you'll want it if you're using CL Code a lot.
+First things first, you need credits to use CL Code. My balance was negative (classic), so I topped up with $6. Quick tip: I don't recommend auto-reload for credits. CL Code can chew through tokens pretty fast, and you don't want any surprise charges. Always keep an eye on your token usage. There are open-source extensions like `code-terminal` or `code-use-monitor` that help you track this. It's a sanity check: trust me, you'll want it if you're using CL Code a lot.
 
 ## Workspace Organization and Terminal Choices
 
-Before diving in, I set up a new workspace for the project: `coffee-house-mini-ordering-app`. Keeping things tidy from the start saves headaches later. For my terminal, I usually use my own AI terminal emulator, PH7 Console (named after my nickname, PH7—P. Henry, pH neutral, you get it). But for this walkthrough, I went with Ghostty, which is super stable and widely used. I want to make sure any issues are from the project, not the terminal.
+Before diving in, I set up a new workspace for the project: `coffee-house-mini-ordering-app`. Keeping things tidy from the start saves headaches later. For my terminal, I usually use my own AI terminal emulator, PH7 Console (named after my nickname, PH7: P. Henry, pH neutral, you get it). But for this walkthrough, I went with Ghostty, which is super stable and widely used. I want to make sure any issues are from the project, not the terminal.
 
 ## Updating and Installing CL Code
 
-I ran into some permission issues updating CL Code—nothing major, just needed to reinstall with the right permissions. If you hit similar problems, it's probably just a local setup thing. Once that's sorted, you get access to all the slash commands, including cost tracking, which is key for managing your credits.
+I ran into some permission issues updating CL Code: nothing major, just needed to reinstall with the right permissions. If you hit similar problems, it's probably just a local setup thing. Once that's sorted, you get access to all the slash commands, including cost tracking, which is key for managing your credits.
 
 ## Scoping the App: Minimal Clicks, Maximum Coffee
 
 Here's the brief I gave to CL Code:
 
-> Build a lightweight online ordering app using Flutter for iOS and Android, designed for a coffee shop called Pierre's Cafe. Users should be able to order a variety of coffees (flat white, espresso, Americano, etc.) and some fresh, healthy baked goods. The app should be super quick to use—fewer clicks, the better. Integrate Apple Pay and Google Pay. The color scheme: light brown, nature green, and pale yellow.
+> Build a lightweight online ordering app using Flutter for iOS and Android, designed for a coffee shop called Pierre's Cafe. Users should be able to order a variety of coffees (flat white, espresso, Americano, etc.) and some fresh, healthy baked goods. The app should be super quick to use: fewer clicks, the better. Integrate Apple Pay and Google Pay. The color scheme: light brown, nature green, and pale yellow.
 
 I love how you can just describe what you want, and CL Code gets to work. You can literally watch your tokens burn as it thinks, but it's worth it.
 
@@ -40,27 +40,27 @@ I love how you can just describe what you want, and CL Code gets to work. You ca
 
 ## Coffee Menu Research (and a Bit of Fun)
 
-I double-checked my coffee spelling (capuccino, not cappuccino—AI will fix your typos, but still). I also looked up popular coffee types for the menu. Flat white, latte, long black, dirty chai, Turkish coffee, Irish coffee—it's all fair game. If you're building for a real shop, do a bit of research on what sells well in your region.
+I double-checked my coffee spelling (capuccino, not cappuccino: AI will fix your typos, but still). I also looked up popular coffee types for the menu. Flat white, latte, long black, dirty chai, Turkish coffee, Irish coffee; it's all fair game. If you're building for a real shop, do a bit of research on what sells well in your region.
 
 ## Flutter Project Initialization
 
-CL Code handled the Flutter project setup. I specified the color palette and minimal click UX. If you're curious about design, Material Design palettes are a great resource. I used to love Materialize CSS back in the day, but it's not maintained anymore—still, it was top-notch for its time.
+CL Code handled the Flutter project setup. I specified the color palette and minimal click UX. If you're curious about design, Material Design palettes are a great resource. I used to love Materialize CSS back in the day, but it's not maintained anymore: still, it was top-notch for its time.
 
 While waiting for dependencies to install, I checked my balance (yep, tokens dropping fast). But honestly, seeing the app come together so quickly is worth every cent.
 
 ## Why Flutter? Why Not React Native?
 
-I've done a lot of React Native in the past—CLI, Expo, you name it. Expo used to be called Exponent, by the way. React Native is great, especially now with TypeScript support, but sometimes you want everything in one language. If your backend is Node/TypeScript and your frontend is React/TypeScript, it feels nice to keep your native apps in TypeScript too. That's where Electron or Tauri come in for desktop apps. Tauri is super fast thanks to Rust, and I'm a big fan. But for this project, Flutter (Dart) was the way to go.
+I've done a lot of React Native in the past: CLI, Expo, you name it. Expo used to be called Exponent, by the way. React Native is great, especially now with TypeScript support, but sometimes you want everything in one language. If your backend is Node/TypeScript and your frontend is React/TypeScript, it feels nice to keep your native apps in TypeScript too. That's where Electron or Tauri come in for desktop apps. Tauri is super fast thanks to Rust, and I'm a big fan. But for this project, Flutter (Dart) was the way to go.
 
 ## Icon Generation and Project Structure
 
-Once the app skeleton was ready, I asked CL Code to generate all the required app icons for the App Store and Google Play. There's even a handy Python script for creating icons—simple, but effective. If you're into automation, scripts like this save a ton of time.
+Once the app skeleton was ready, I asked CL Code to generate all the required app icons for the App Store and Google Play. There's even a handy Python script for creating icons: simple, but effective. If you're into automation, scripts like this save a ton of time.
 
 I also set up a `cloud.md` (cloud markdown) file. This is where you document project decisions, architecture, and any "do this, not that" notes. It's invaluable for keeping track of why you made certain choices, especially if you revisit the project months later.
 
 ## GitHub Integration and Aliases
 
-I initialized a Git repo, added a `.gitignore` (CL Code can generate a solid one for Flutter), and pushed everything to GitHub. I use a bunch of Git aliases in my `.zshrc` to speed things up—stuff like `g` for `git`, `ph` for `push`, `cm` for `commit`. If you want my dotfiles, they're on my [GitHub](https://github.com/pH-7/dotfiles).
+I initialized a Git repo, added a `.gitignore` (CL Code can generate a solid one for Flutter), and pushed everything to GitHub. I use a bunch of Git aliases in my `.zshrc` to speed things up: stuff like `g` for `git`, `ph` for `push`, `cm` for `commit`. If you want my dotfiles, they're on my [GitHub](https://github.com/pH-7/dotfiles).
 
 ## Running and Testing the App
 
@@ -72,21 +72,21 @@ With dependencies installed, you can run the app on iOS or Android. I only had X
 
 One thing I love about the CL Code VS Code extension: you can ask it to refactor code directly. For example, I had some duplicated payment config code in the checkout screen. I just told CL Code to use the `getApplePayConfig` and `getGooglePayConfig` functions from `paymentconfig.dart`, and it handled the refactor. The extension is cleaner and more elegant than Copilot or Cursor, in my opinion.
 
-You can also ask CL Code for suggestions—like, "Should I store these configs as constants for cleaner code?" It's like having a copilot that actually listens and adapts.
+You can also ask CL Code for suggestions, like, "Should I store these configs as constants for cleaner code?" It's like having a copilot that actually listens and adapts.
 
 ## Wrapping Up: Project Structure and Next Steps
 
 The final project structure looks neat: Android and iOS folders, a `lib` folder with all the Dart files, config files, and a well-documented `cloud.md`. You can open the iOS project in Xcode, Android in Android Studio, and everything is ready to go.
 
-If you want to extend the app, just ask CL Code to add more options—turn it into a burrito ordering app, frozen yogurt, bubble tea, whatever. The only limit is your imagination.
+If you want to extend the app, just ask CL Code to add more options: turn it into a burrito ordering app, frozen yogurt, bubble tea, whatever. The only limit is your imagination.
 
 ## Key Takeaways
 
 - **CL Code is powerful for rapid prototyping and building full apps from scratch.**
-- Always monitor your token usage—CL Code can burn through credits quickly.
+- Always monitor your token usage: CL Code can burn through credits quickly.
 - Use a dedicated workspace and stable terminal to avoid unrelated issues.
 - Document your project decisions in a markdown file (`cloud.md`) for future reference.
 - The CL Code VS Code extension is cleaner and more flexible than Copilot or Cursor.
 - Automate repetitive tasks (like icon generation) with simple scripts.
-- "We are the pilots and Claude Code is the copilot. If you see inefficiency, just tell it—don't be afraid to ask for better code."
+- "We are the pilots and Claude Code is the copilot. If you see inefficiency, just tell it: don't be afraid to ask for better code."
 - *"At the end of the day, it's about solving real and painful problems. If you just create projects for gigs and don't go further, you won't learn much."*

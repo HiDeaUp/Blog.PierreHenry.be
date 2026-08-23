@@ -18,7 +18,7 @@ Improving yourself is not about making huge leaps overnight. It’s about taking
 
 If you want to get better at something, start by writing down what you want to improve. Use a notebook or a notes app on your phone. Maybe you want to learn 50 words of Japanese in a week, or 60 words of Russian, or pick up a new skill. Perhaps you want to overcome a programming block, or you dream of becoming a tour guide in your city.
 
-For example, I live in Adelaide. If I wanted to become a tour guide here, I’d need to learn more about the city. My plan would be simple: every day, for 20 minutes, I’d research and take notes using an app like Apple Notes or Google Keep. I might even record a short video about the city, sharing what visitors should see—like the vineyards, national parks, or beautiful beaches. I’d organize my research by category, and maybe later, build a website or offer my services to a tourist group or the city’s tourism office.
+For example, I live in Adelaide. If I wanted to become a tour guide here, I’d need to learn more about the city. My plan would be simple: every day, for 20 minutes, I’d research and take notes using an app like Apple Notes or Google Keep. I might even record a short video about the city, sharing what visitors should see, like the vineyards, national parks, or beautiful beaches. I’d organize my research by category, and maybe later, build a website or offer my services to a tourist group or the city’s tourism office.
 
 Fifteen minutes a day may not sound like much, but after a month, that’s over four hours of focused work. Even if it’s just research, that’s a lot of time well spent. Think about it: taking a shower, getting undressed, waiting for the water to heat up, soaping up, drying off, and getting dressed again easily takes more than 15 minutes. We all have time to improve our lives, even if it’s just a quarter of an hour a day.
 
@@ -27,10 +27,10 @@ Fifteen minutes a day may not sound like much, but after a month, that’s over 
 If you want to become an expert in something, remember this: fifteen minutes a day is enough. There are no excuses. It’s just a matter of building the habit. I believe this with all my heart. That’s why I’m sharing it with you.
 
 > _Great things are not done by impulse, but by a series of small things brought together._
-> — Vincent Van Gogh
+> *Vincent Van Gogh*
 
 > _We are what we repeatedly do. Excellence, then, is not an act, but a habit._
-> — Will Durant
+> *Will Durant*
 
 ---
 
@@ -48,7 +48,7 @@ If you want to become an expert in something, remember this: fifteen minutes a d
 - *Pick one thing you want to improve.*
 - *Set aside 15 minutes a day for it.*
 - *Track your progress in a notebook or app.*
-- *Celebrate your small wins—they add up!*
+- *Celebrate your small wins; they add up!*
 
 ## Reflection
 

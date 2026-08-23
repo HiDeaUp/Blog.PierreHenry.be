@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/e8a025ad4a38"
 
 Setting your values is one of the most important things you can do for yourself. Whether it’s about your professional life or your personal relationships, knowing what truly matters to you makes every decision clearer and every path more honest.
 
-Let’s say you’re looking for a job or searching for a partner. If you don’t know your own values, you might end up wasting time, hoping things will work out, only to realize later that you and the other person—or the company—just don’t match. Instead, when you’re clear about your values, you can put them on the table right away. This saves you from disappointment and helps you connect with people or organizations that really fit you.
+Let’s say you’re looking for a job or searching for a partner. If you don’t know your own values, you might end up wasting time, hoping things will work out, only to realize later that you and the other person (or the company) just don’t match. Instead, when you’re clear about your values, you can put them on the table right away. This saves you from disappointment and helps you connect with people or organizations that really fit you.
 
 The same goes for finding a company to work for. If you’re job hunting, it’s much easier to know if a company is right for you when you have your values set. You can quickly see if everything lines up. If it does, that’s a strong sign you’ve found the right place.
 
@@ -33,10 +33,10 @@ Too often, we don’t set enough goals or aim for things we can actually reach. 
 If you want to make this real, write your values and goals down. Use a notebook, your phone, or anything that works for you. The key is to make it concrete.
 
 > *“When your values are clear to you, making decisions becomes easier.”*  
-— Roy E. Disney
+: Roy E. Disney
 
 > *“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”*  
-— Albert Schweitzer
+*Albert Schweitzer*
 
 {{< figure src="https://images.unsplash.com/photo-1545945774-73922eb27813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwdmFsdWVzJTIwc2VsZi1kaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2MTA3NzUxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Celebrating the sunset" title="How to Find Your Life Values Without Second-Guessing Every Choice" caption="How to Find Your Life Values Without Second-Guessing Every Choice - Photo by [Debby Hudson](https://unsplash.com/@hudsoncrafted) on [Unsplash](https://unsplash.com/photos/silhouette-of-person-spreading-hands-VIr-KKzL2eg)" >}}
 

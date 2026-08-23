@@ -28,7 +28,7 @@ Step by step, you’ll see how you can improve what you do each day to create yo
 
 {{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwaGFwcGluZXNzJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjYyNjgwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Succeed Without Losing Your Happiness" caption="How to Succeed Without Losing Your Happiness - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
-The more you do something daily, the more it becomes a habit—just like brushing your teeth or taking a shower. You don’t even think about whether you’ll do it or not; it’s simply part of your routine. That’s how you should approach the things that matter to you. Build habits so you don’t have to rely on motivation or your mood. It becomes automatic: you do it because it’s part of who you are.
+The more you do something daily, the more it becomes a habit: just like brushing your teeth or taking a shower. You don’t even think about whether you’ll do it or not; it’s simply part of your routine. That’s how you should approach the things that matter to you. Build habits so you don’t have to rely on motivation or your mood. It becomes automatic: you do it because it’s part of who you are.
 
 For example, if you go to bed and wake up at the same time every day, your body gets used to it. You’ll wake up feeling less tired, and sometimes you’ll even wake up just before your alarm. That’s a great feeling, because you start your day energized and ready to accomplish what matters.
 
@@ -40,11 +40,11 @@ Balance is everything. If you spend all day on one thing, your day won’t be ha
 
 It’s easy to fall into the trap of thinking you have to finish everything, but if you overdo it, you’ll end up with a day that feels wasted. That’s why it’s important to rate your day and see what you could have done differently.
 
-These are the key ingredients for a successful life—a life you’ll love. I truly wish you the best, and I know you can succeed at shaping your days. It takes practice, and it won’t happen overnight. But little by little, you’ll move closer to your own version of success, rich not just in money, but in happiness too. Because there’s no point in being wealthy if you don’t enjoy your days or your life. In the end, a beautiful life is made up of many beautiful days.
+These are the key ingredients for a successful life: a life you’ll love. I truly wish you the best, and I know you can succeed at planning your days. It takes practice, and it won’t happen overnight. But little by little, you’ll move closer to your own version of success, rich not just in money, but in happiness too. Because there’s no point in being wealthy if you don’t enjoy your days or your life. In the end, a beautiful life is made up of many beautiful days.
 
 > *Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.*
 >
-> — Albert Schweitzer
+> *Albert Schweitzer*
 
 > *A beautiful life is nothing more than a collection of beautiful days.*
 
@@ -56,7 +56,7 @@ These are the key ingredients for a successful life—a life you’ll love. I tr
 
 - *Visualize your day each morning and focus on what truly matters.*
 - *Build habits so important actions become automatic, not dependent on motivation.*
-- *Balance your activities—don’t overdo even the things you love.*
+- *Balance your activities: don’t overdo even the things you love.*
 - *Reflect on your day, rate it, and adjust for more happiness and success tomorrow.*
 - *Perseverance is good, but know when to adapt and change course.*
 

@@ -16,11 +16,11 @@ source_medium = "https://medium.com/@phenrysay/8bf3fe4235af"
 
 Many people spend their lives chasing what they think is success. For most, that means having a lot of money, driving the best cars, getting the highest degrees, landing the top jobs, or building and selling startups for huge sums. The dream is to own the most beautiful houses, maybe even several, scattered around the world. But in this race, something important gets lost: actually enjoying life and feeling well.
 
-I want to talk about a different kind of success—the kind measured by happiness and well-being in your daily life. For me, real success is simply living a happy life. It’s waking up in the morning without stress, feeling good, and having enough money to be free from worry. You don’t need to be a billionaire. You just need enough to live comfortably, to treat yourself now and then, maybe go out to eat when you want, or travel if you feel like it.
+I want to talk about a different kind of success: the kind measured by happiness and well-being in your daily life. For me, real success is simply living a happy life. It’s waking up in the morning without stress, feeling good, and having enough money to be free from worry. You don’t need to be a billionaire. You just need enough to live comfortably, to treat yourself now and then, maybe go out to eat when you want, or travel if you feel like it.
 
 You don’t need a mountain of cash sitting in your bank account, gathering dust. What matters is having a safety net. If you want to take a year off work, you know you’ll be fine. If you get sick, you know you can take care of yourself. That’s real freedom. Chasing the status of being a millionaire or billionaire just for the title doesn’t bring much value to your life.
 
-So, how do you get there? Start by finding a hobby or passion that you can turn into a source of income. Maybe you teach, offer a service, or do some coaching. For example, I sell my courses on a platform called Podia. It’s not about having the most students or the highest ratings. If you focus only on numbers, you’ll end up in another race, always chasing more and enjoying less.
+So, how do you get there? Start by finding a hobby or passion that you can turn into a source of income. Maybe you teach, offer a service, or build something useful. The goal is not to reach the largest audience. It is to do work that supports the life you want.
 
 {{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBkYWlseSUyMGxpZmUlMjBzdWNjZXNzfGVufDB8MHx8fDE3NTY2MzUxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find Real Happiness Without Chasing Success" caption="How to Find Real Happiness Without Chasing Success - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
@@ -32,11 +32,11 @@ In the end, success isn’t about having the most money or the biggest company. 
 
 > *Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.*
 >
-> — Albert Schweitzer
+> *Albert Schweitzer*
 
 > *The happiest people don’t have the best of everything, they just make the best of everything.*
 >
-> — Unknown
+> *Unknown*
 
 ---
 

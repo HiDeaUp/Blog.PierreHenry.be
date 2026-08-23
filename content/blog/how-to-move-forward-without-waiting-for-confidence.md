@@ -31,12 +31,12 @@ Your life is the same. If everything went smoothly all the time, it would be bor
 This is the real secret: you don’t need to wait for confidence to act. You build confidence by acting, by trying, by learning from what happens. Every step forward, even the ones that don’t go as planned, makes you stronger.
 
 > *Life is a series of chapters. When one doesn’t go as planned, start writing the next one.*
-— Pierre
+*Pierre*
 
 If you want to go further in improving your life, you have options. You can figure things out on your own, or you can take a shortcut by learning from others. Choose the path that feels right for you. It’s your life, and you get to decide how you want to live it.
 
 > *The most beautiful sunsets need both clouds and light.*
-— Pierre
+*Pierre*
 
 ---
 
@@ -45,7 +45,7 @@ If you want to go further in improving your life, you have options. You can figu
 ## Key Takeaways
 
 - *Confidence grows with action, not before it.*
-- *Setbacks are not failures—they’re just experiences that turned out differently.*
+- *Setbacks are not failures; they’re just experiences that turned out differently.*
 - *Contrast makes life richer and more interesting.*
 - *You always have a choice: stay stuck or move forward to the next chapter.*
 

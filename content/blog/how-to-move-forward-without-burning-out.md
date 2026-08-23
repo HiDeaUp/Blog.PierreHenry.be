@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/95c74086172e"
 
 Have you ever felt like your mind is frozen, just like a computer that suddenly stops responding? You keep pushing, doing more, working harder, and before you know it, you’re stuck in the same old routine. The days blend together, and you rarely stop to ask yourself if what you’re doing actually makes you happy.
 
-It’s easy to get caught up in the daily grind. We chase after more—more tasks, more achievements, more work—without ever stepping back to see if any of it truly matters to us. Sometimes, the most important thing you can do is slow down and question your direction.
+It’s easy to get caught up in the daily grind. We chase after more (more tasks, more achievements, more work) without ever stepping back to see if any of it truly matters to us. Sometimes, the most important thing you can do is slow down and question your direction.
 
 Ask yourself: Does what I’m doing right now really interest me? Does it bring me joy? Is there real value in it, not just for me, but for others? Maybe there’s a better way to do things, a way that would bring even greater results or satisfaction.
 
@@ -27,10 +27,10 @@ Taking a step back isn’t about giving up. It’s about making sure you’re on
 When you allow yourself to question your choices, you open the door to real improvement. You give yourself the chance to find new ways, better ways, and maybe even discover what truly makes you happy.
 
 > _“The unexamined life is not worth living.”_  
-— Socrates
+*Socrates*
 
 > _“Sometimes the questions are complicated and the answers are simple.”_  
-— Dr. Seuss
+: Dr. Seuss
 
 ---
 

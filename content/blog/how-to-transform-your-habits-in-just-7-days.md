@@ -29,10 +29,10 @@ Even something as simple as learning to tie a Windsor knot can become a challeng
 What matters most is the commitment. For one week, you focus on one thing. You push yourself, and you learn something new about your abilities. It’s not about perfection, but about progress. You might surprise yourself with what you can achieve in just seven days.
 
 > _We are what we repeatedly do. Excellence, then, is not an act, but a habit._
-— Aristotle
+*Aristotle*
 
 > _The journey of a thousand miles begins with a single step._
-— Lao Tzu
+*Lao Tzu*
 
 ---
 

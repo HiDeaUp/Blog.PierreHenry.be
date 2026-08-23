@@ -20,7 +20,7 @@ Many people tell themselves, “It’s not the right time yet. I need to save mo
 
 Here’s the truth: there is no perfect moment. The best time to start is now. If you’re waiting for a sign, this is it. Begin today.
 
-Of course, it’s easier said than done. We often agree with advice we hear—maybe you’re nodding along right now, thinking, “Yes, that makes sense.” But then, nothing changes. The hardest part is getting started.
+Of course, it’s easier said than done. We often agree with advice we hear, maybe you’re nodding along right now, thinking, “Yes, that makes sense.” But then, nothing changes. The hardest part is getting started.
 
 Thinking without acting is the biggest mistake you can make. Life moves much faster than we realize. Time is not unlimited, even if it sometimes feels that way. The more you do now, the more you truly live. The more you act, the more you achieve, and the further you’ll go.
 
@@ -36,11 +36,11 @@ My advice is simple: listen to yourself. I know it’s not always easy and it ta
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 > *You don’t have to be great to start, but you have to start to be great.*
 >
-> — Zig Ziglar
+> *Zig Ziglar*
 
 ---
 
@@ -48,7 +48,7 @@ My advice is simple: listen to yourself. I know it’s not always easy and it ta
 
 {{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwdGFraW5nJTIwYWN0aW9uJTIwcHJvY3Jhc3RpbmF0aW9ufGVufDB8MHx8fDE3NTY4NTE5NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Take Action Without Waiting for Motivation" caption="How to Take Action Without Waiting for Motivation - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
-- There is no perfect moment to start—begin now.
+- There is no perfect moment to start: begin now.
 - Overthinking and waiting are the biggest obstacles.
 - Most changes are simpler than they seem.
 - Doing what you love boosts your confidence and well-being.

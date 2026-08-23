@@ -3,8 +3,8 @@ title = "How to Handle Markdown Images Without Tedious Formatting"
 slug = "how-to-handle-markdown-images-without-tedious-formatting"
 date = "2025-12-31T00:17:27.759472"
 draft = false
-description = "Alright, so today I want to show you a tiny but super handy trick with AI—specifically, how I use Copilot to make my life easier when working with Markdown files. This isn’t some grand, worldchangi..."
-summary = "Alright, so today I want to show you a tiny but super handy trick with AI—specifically, how I use Copilot to make my life easier when working with Markdown files. This isn’t some grand, worldchangi..."
+description = "Alright, so today I want to show you a tiny but super handy trick with AI: specifically, how I use Copilot to make my life easier when working with Markdown files. This isn’t some grand, worldchangi..."
+summary = "Alright, so today I want to show you a tiny but super handy trick with AI: specifically, how I use Copilot to make my life easier when working with Markdown files. This isn’t some grand, worldchangi..."
 tags = ["ai productivity", "copilot tips", "image handling", "markdown automation", "productivity", "tasks", "tech", "wealth", "workflow optimization"]
 priority = true
 priority_topics = ["tech", "wealth", "tasks", "productivity"]
@@ -14,9 +14,9 @@ source_medium = "https://medium.com/@phenrysay/d1ae4a5c3cb3"
 
 {{< figure src="https://images.unsplash.com/photo-1668204865291-9e01578bfcd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxBSSUyMHByb2R1Y3Rpdml0eSUyMENvcGlsb3QlMjB0aXBzJTIwTWFya2Rvd24lMjBhdXRvbWF0aW9ufGVufDB8MHx8fDE3NjcxMDA2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock hangs from the ceiling" title="How to Handle Markdown Images Without Tedious Formatting" caption="How to Handle Markdown Images Without Tedious Formatting - Photo by [Jonas Schöne](https://unsplash.com/@schoene) on [Unsplash](https://unsplash.com/photos/a-clock-hangs-from-the-ceiling-dC_VulRVRPM)" >}}
 
-Alright, so today I want to show you a tiny but super handy trick with AI—specifically, how I use Copilot to make my life easier when working with Markdown files. This isn’t some grand, world-changing feature, but it’s one of those little things that saves you time and just makes you feel a bit lazier (in a good way).
+Alright, so today I want to show you a tiny but super handy trick with AI: specifically, how I use Copilot to make my life easier when working with Markdown files. This isn’t some grand, world-changing feature, but it’s one of those little things that saves you time and just makes you feel a bit lazier (in a good way).
 
-Let’s say you’re putting together a README or some documentation. You already know the Markdown syntax, right? But you want to spice things up a bit—maybe make your intro more engaging, maybe even a little clickbaity. And of course, you want a nice image or screenshot to go along with it.
+Let’s say you’re putting together a README or some documentation. You already know the Markdown syntax, right? But you want to spice things up a bit, maybe make your intro more engaging, maybe even a little clickbaity. And of course, you want a nice image or screenshot to go along with it.
 
 Here’s what I do.
 
@@ -48,7 +48,7 @@ That’s it. I don’t have to overthink it. The AI does the heavy lifting, and 
 
 ## Centering Images in Markdown (Or Not)
 
-Now, if you want to center the image, you might think, “Can I just ask Copilot to do that?” Well, in Markdown, you can’t really center images with pure syntax—there’s no style attribute. If you need it centered, you’ll have to use HTML inside your Markdown:
+Now, if you want to center the image, you might think, “Can I just ask Copilot to do that?” Well, in Markdown, you can’t really center images with pure syntax; there’s no style attribute. If you need it centered, you’ll have to use HTML inside your Markdown:
 
 ```html
 <p align="center">
@@ -69,11 +69,11 @@ Once I’m happy with how everything looks, I check the README preview to make s
 You might be thinking, “Isn’t this just basic stuff?” Sure, but the point is to let AI handle the repetitive, boring parts so you can focus on the interesting stuff. It’s about being efficient, not lazy. Or maybe a little bit of both.
 
 > “The best programmers aren’t the ones who know the most, but the ones who know how to automate the boring stuff.”  
-> — Me, probably
+> *Me, probably*
 
 ## Key Takeaways
 
 - Use AI like Copilot to automate file naming, alt text, and title attributes for images in Markdown.
-- Don’t waste time on repetitive tasks—let the AI handle it and just review the output.
+- Don’t waste time on repetitive tasks: let the AI handle it and just review the output.
 - Markdown can’t center images natively, but you can use HTML if you need to.
 - Commit your changes once you’re happy, and move on to more interesting problems.

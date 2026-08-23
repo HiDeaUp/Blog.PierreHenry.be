@@ -26,7 +26,7 @@ So, how do you clear this mental clutter?
 
 ## 1. Respond Right Away
 
-When you get a message or a small task, answer it as soon as you see it—if it takes less than five minutes. This way, you flush out those thoughts before they have a chance to linger and distract you. If you can’t do it right away, write it down or schedule it. Many email apps let you plan messages to send later, so you can get it off your mind but still have time to adjust if you think of something better.
+When you get a message or a small task, answer it as soon as you see it: if it takes less than five minutes. This way, you flush out those thoughts before they have a chance to linger and distract you. If you can’t do it right away, write it down or schedule it. Many email apps let you plan messages to send later, so you can get it off your mind but still have time to adjust if you think of something better.
 
 {{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBjbGFyaXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTYwNzQ1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Clear Mental Clutter Without Overthinking Every Choice" caption="How to Clear Mental Clutter Without Overthinking Every Choice - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
@@ -36,7 +36,7 @@ Meditation is a powerful tool to train your brain. It helps you focus on one thi
 
 ## 3. Set a Default Option
 
-For decisions that take longer, give yourself a time limit—five minutes, for example. If you can’t decide after that, go with your default choice. This keeps you from getting stuck in endless loops of indecision. Sometimes, I write down my options and schedule a decision for later. If I think of a better idea before the deadline, I can always adjust. The key is to keep moving forward and not let small choices block your progress.
+For decisions that take longer, give yourself a time limit: five minutes, for example. If you can’t decide after that, go with your default choice. This keeps you from getting stuck in constant loops of indecision. Sometimes, I write down my options and schedule a decision for later. If I think of a better idea before the deadline, I can always adjust. The key is to keep moving forward and not let small choices block your progress.
 
 ## 4. Use Tools to Offload Your Mind
 
@@ -45,10 +45,10 @@ If a task or decision will take more than five minutes, put it on a to-do list o
 By handling small decisions quickly, meditating, setting defaults, and using tools to manage your tasks, you can free up mental space. This lets you be more productive, more present, and less stressed by the little things.
 
 > _“The more decisions you have to make, the less energy you have for the important ones.”_  
-— James Clear
+*James Clear*
 
 > _“Clarity comes from action, not thought.”_  
-— Marie Forleo
+*Marie Forleo*
 
 {{< figure src="https://images.unsplash.com/photo-1560930997-0694471b425b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMGZhdGlndWUlMjBtZW50YWwlMjBjbGFyaXR5JTIwZm9jdXN8ZW58MHwwfHx8MTc1NTYwNzQ1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Of man" title="How to Clear Mental Clutter Without Overthinking Every Choice" caption="How to Clear Mental Clutter Without Overthinking Every Choice - Photo by [alvaro ortiz](https://unsplash.com/@furilo) on [Unsplash](https://unsplash.com/photos/silhouette-photography-of-man-sFjMDft1W9k)" >}}
 

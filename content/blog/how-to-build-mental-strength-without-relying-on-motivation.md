@@ -14,9 +14,9 @@ source_medium = "https://medium.com/@phenrysay/bd6c64f06085"
 
 {{< figure src="https://images.unsplash.com/photo-1521805103424-d8f8430e8933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBzdHJlbmd0aCUyMG1vcm5pbmclMjByb3V0aW5lJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU3NDYyNTA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black barbell on tile Yuv iwByVRQ" title="How to Build Mental Strength Without Relying on Motivation" caption="How to Build Mental Strength Without Relying on Motivation - Photo by [Victor Freitas](https://unsplash.com/@victorfreitas) on [Unsplash](https://unsplash.com/photos/black-barbell-on-tile-flooring-Yuv-iwByVRQ)" >}}
 
-Mental strength is a game-changer. Waking up with a clear sense of purpose, knowing exactly what you want to achieve or what you want to change in your daily routine, can transform everything. It’s not just about motivation; it’s about having that inner drive that pushes you to take action, even when it’s tough.
+Mental strength is a major improvement. Waking up with a clear sense of purpose, knowing exactly what you want to achieve or what you want to change in your daily routine, can transform everything. It’s not just about motivation; it’s about having that inner drive that pushes you to take action, even when it’s tough.
 
-Imagine starting your day with a goal in mind. Maybe you want to learn a new language. Not just any language, but one that excites you—Italian, German, or even Japanese. You decide, “This is it. I’m going to learn Japanese.” Every morning, you dedicate an hour, or even just forty-five minutes, to this goal. You might head to a café, open up an app like Busuu or Duolingo, and get to work. That’s mental strength in action. It’s the commitment to show up for yourself, day after day.
+Imagine starting your day with a goal in mind. Maybe you want to learn a new language. Not just any language, but one that excites you: Italian, German, or even Japanese. You decide, “This is it. I’m going to learn Japanese.” Every morning, you dedicate an hour, or even just forty-five minutes, to this goal. You might head to a café, open up an app like Busuu or Duolingo, and get to work. That’s mental strength in action. It’s the commitment to show up for yourself, day after day.
 
 {{< figure src="https://images.unsplash.com/photo-1582936675318-01a9d4638a80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBzdHJlbmd0aCUyMG1vcm5pbmclMjByb3V0aW5lJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU3NDYyNTA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chasing the sun" title="How to Build Mental Strength Without Relying on Motivation" caption="How to Build Mental Strength Without Relying on Motivation - Photo by [Óscar Aguilar Elías](https://unsplash.com/@okiaguilar) on [Unsplash](https://unsplash.com/photos/woman-in-white-shirt-and-black-shorts-walking-on-brown-sand-during-daytime-Ku8MDO-FcaY)" >}}
 
@@ -25,10 +25,10 @@ For me, programming is both my job and my passion. It’s what I do full-time, b
 Mental strength isn’t just about pushing through difficulties. It’s about creating a routine that supports your growth, whether it’s learning a language, mastering a skill, or simply making your day a little better than yesterday. It’s about deciding what matters to you and giving it your all, even when no one is watching.
 
 > *Strength does not come from physical capacity. It comes from an indomitable will.*
-— Mahatma Gandhi
+*Mahatma Gandhi*
 
 > *The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.*
-— Vince Lombardi
+*Vince Lombardi*
 
 ---
 

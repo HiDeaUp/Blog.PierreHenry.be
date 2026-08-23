@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/a6ada72e1fef"
 
 Having a clear vision for your life is more important than most people realize. When you know where you are headed, you stop drifting and start living with intention. Focusing your energy on your vision, and the plan you have for your future, changes everything. It gives meaning to your actions and helps you move forward, step by step, toward what you truly want to achieve.
 
-The key is to stick to your vision and make it a daily habit to work toward it. Even if you only dedicate ten or twenty minutes a day, that small investment adds up. Each day, set yourself a simple goal—just one thing to accomplish for yourself. It could be as little as ten minutes of focused work. The important thing is to do it every day.
+The key is to stick to your vision and make it a daily habit to work toward it. Even if you only dedicate ten or twenty minutes a day, that small investment adds up. Each day, set yourself a simple goal: just one thing to accomplish for yourself. It could be as little as ten minutes of focused work. The important thing is to do it every day.
 
 When you make this a routine, you no longer feel pressure to force yourself. It becomes automatic. You block out twenty minutes for your project, for your life, or maybe even to help someone close to you. If your project is about earning money, that money can be reinvested in your own well-being, in the happiness of your loved ones, or in a cause that matters to you. This can be a powerful motivation.
 
@@ -31,10 +31,10 @@ A practical method is to spend the first twenty minutes learning, and the next t
 By doing this, you move closer to your vision every day. You grow, you invest in yourself, and you build a project that matters to you. That is worth more than gold. When you create something meaningful, you feel a deep sense of pride and motivation. Maybe your vision is to help your family, buy a house, travel the world, or gain financial freedom. Whatever your reason, let it guide you. This is your vision, your why.
 
 > _Success is the sum of small efforts, repeated day in and day out._
-> — Robert Collier
+> *Robert Collier*
 
 > _The future depends on what you do today._
-> — Mahatma Gandhi
+> *Mahatma Gandhi*
 
 ---
 

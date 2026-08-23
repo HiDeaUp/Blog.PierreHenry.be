@@ -29,10 +29,10 @@ Some companies have even started using small lights in open offices. If the ligh
 Creating a Safe Space is about more than just productivity. It’s about giving yourself permission to disconnect and focus on what matters, whether that’s work or your own well-being.
 
 > _“Almost everything will work again if you unplug it for a few minutes, including you.”_  
-— Anne Lamott
+*Anne Lamott*
 
 > _“You can’t do big things if you’re distracted by small things.”_  
-— Anonymous
+*Anonymous*
 
 ---
 

@@ -20,17 +20,17 @@ So, what’s your action plan for today? What can you do right now to move close
 
 It’s easy to feel like you’re doing a lot by starting many things at once. But in reality, when you spread yourself too thin, you end up finishing nothing. You look busy, but you’re not really moving forward. The real progress comes from doing one thing at a time and finishing it before moving on to the next.
 
-Don’t let yourself be tempted by influencers, bloggers, or whatever is trending. Even if what you’re working on seems old-fashioned, do it well. Excel at it. Trends come and go, especially in technology. What was cool in 2010 or 2012—like PHP scripts—might seem outdated now, but sometimes these things come back under new names or with a different twist. For example, SaaS was all the rage in 2014, and now in 2024, it’s popular again. The same goes for other tech trends. So don’t be afraid if what you’re doing isn’t the latest thing. If you do it well, and maybe give it a fresh name or a new brand, you can make it stand out.
+Don’t let yourself be tempted by influencers, bloggers, or whatever is trending. Even if what you’re working on seems old-fashioned, do it well. Excel at it. Trends come and go, especially in technology. What was cool in 2010 or 2012 (like PHP scripts) might seem outdated now, but sometimes these things come back under new names or with a different twist. For example, SaaS was all the rage in 2014, and now in 2024, it’s popular again. The same goes for other tech trends. So don’t be afraid if what you’re doing isn’t the latest thing. If you do it well, and maybe give it a fresh name or a new brand, you can make it stand out.
 
 {{< figure src="https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMGdvYWwtc2V0dGluZ3xlbnwwfDB8fHwxNzU1OTk4MjkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman right fist" title="How to Finish What You Start Without Losing Focus" caption="How to Finish What You Start Without Losing Focus - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)" >}}
 
 The key is to focus, finish what you start, and not get distracted by what everyone else is doing. This is how you make real progress and set yourself apart.
 
 *“Success is not about doing more, but about finishing what you start.”*  
-— Pierre
+*Pierre*
 
 *“Trends come and go, but quality work always stands out.”*  
-— Pierre
+*Pierre*
 
 ---
 

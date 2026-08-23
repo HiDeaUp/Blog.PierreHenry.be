@@ -1,5 +1,5 @@
 +++
-title = "How to Beat Procrastination Using Commitment—No Willpower Needed"
+title = "How to Beat Procrastination Using Commitment: No Willpower Needed"
 slug = "how-to-beat-procrastination-using-commitmentno-willpower-needed"
 date = "2025-08-31T18:02:40.642033"
 draft = false
@@ -12,9 +12,9 @@ original_title = "Éviter de procrastiner avec le principe d’engagement + Les 
 source_medium = "https://medium.com/@phenrysay/47057a12c1bc"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Beat Procrastination Using Commitment—No Willpower Needed" caption="How to Beat Procrastination Using Commitment—No Willpower Needed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
+{{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Beat Procrastination Using Commitment: No Willpower Needed" caption="How to Beat Procrastination Using Commitment: No Willpower Needed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
-Procrastination is a sneaky trap, especially when you work for yourself or from home. It’s easy to push things to later, start your day late, and end up feeling like you never have time for yourself. This creates a vicious cycle that’s hard to break. But what if the real problem is a lack of commitment—not to others, but to yourself?
+Procrastination is a sneaky trap, especially when you work for yourself or from home. It’s easy to push things to later, start your day late, and end up feeling like you never have time for yourself. This creates a vicious cycle that’s hard to break. But what if the real problem is a lack of commitment, not to others, but to yourself?
 
 Let’s talk about how making real commitments can boost your productivity and help you stop procrastinating, plus the practical tools I use every day.
 
@@ -26,7 +26,7 @@ The key difference? Accountability. When you commit to someone else, you’re mu
 
 ## The Accountability Partner Trick
 
-One of the best ways to stay on track is to find an accountability partner. Tell your friends, family, or even your social circle what you plan to do and by when. For example, announce, “In three weeks, I’ll deliver this project.” It’s like inviting everyone to a restaurant—you wouldn’t cancel an hour before unless it was really serious. We don’t like to look unreliable or break our word, so we’re more likely to do what we said.
+One of the best ways to stay on track is to find an accountability partner. Tell your friends, family, or even your social circle what you plan to do and by when. For example, announce, “In three weeks, I’ll deliver this project.” It’s like inviting everyone to a restaurant; you wouldn’t cancel an hour before unless it was really serious. We don’t like to look unreliable or break our word, so we’re more likely to do what we said.
 
 If you keep your goals to yourself, you’re more likely to procrastinate. Sharing them makes them real.
 
@@ -34,7 +34,7 @@ If you keep your goals to yourself, you’re more likely to procrastinate. Shari
 
 Here are some tools that help me stay productive and keep my commitments:
 
-{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Beat Procrastination Using Commitment—No Willpower Needed" caption="How to Beat Procrastination Using Commitment—No Willpower Needed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
+{{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Beat Procrastination Using Commitment: No Willpower Needed" caption="How to Beat Procrastination Using Commitment: No Willpower Needed - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
 ### 1. **Toggl**
 
@@ -46,27 +46,27 @@ Trello is perfect for organizing tasks with its Kanban board system. There’s e
 
 ### 3. **Boss as a Service**
 
-Sometimes, you need a bit of outside pressure. Boss as a Service is a brilliant service created by a woman from India. You set your goals for the day or week, and at the end of the period, someone from the service checks in and asks for proof—screenshots, videos, whatever shows you did the work. It’s like having your own boss, even if you’re self-employed. This manufactured pressure can be exactly what you need to finish your tasks on time.
+Sometimes, you need a bit of outside pressure. Boss as a Service is a brilliant service created by a woman from India. You set your goals for the day or week, and at the end of the period, someone from the service checks in and asks for proof: screenshots, videos, whatever shows you did the work. It’s like having your own boss, even if you’re self-employed. This manufactured pressure can be exactly what you need to finish your tasks on time.
 
 ### 4. **Focusmate**
 
-Focusmate is like a virtual coworking session. You book a session with someone (often a stranger), say what you plan to do, and then both of you work silently for a set period—25, 50, or 75 minutes. At the end, you check in and share how it went. It’s motivating to know someone else is working alongside you, even if it’s just through a screen. You might even meet interesting people, like writers or musicians, who are working on their own projects.
+Focusmate is like a virtual coworking session. You book a session with someone (often a stranger), say what you plan to do, and then both of you work silently for a set period: 25, 50, or 75 minutes. At the end, you check in and share how it went. It’s motivating to know someone else is working alongside you, even if it’s just through a screen. You might even meet interesting people, like writers or musicians, who are working on their own projects.
 
 ### 5. **Sign a Contract with Yourself**
 
-This might sound odd, but it works. Write out a contract with yourself (or even with your partner) stating what you’ll do and by when. If you’re a student studying abroad, commit to spending three hours every evening on your master’s degree. Make it official. The act of signing—even if it’s just with yourself—makes it harder to back out.
+This might sound odd, but it works. Write out a contract with yourself (or even with your partner) stating what you’ll do and by when. If you’re a student studying abroad, commit to spending three hours every evening on your master’s degree. Make it official. The act of signing (even if it’s just with yourself) makes it harder to back out.
 
 > _“Motivation gets you started. Commitment keeps you going.”_
-> — Jim Rohn
+> *Jim Rohn*
 
 > _“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”_
-> — Will Durant
+> *Will Durant*
 
-{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Beat Procrastination Using Commitment—No Willpower Needed" caption="How to Beat Procrastination Using Commitment—No Willpower Needed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
+{{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9jcmFzdGluYXRpb24lMjBjb21taXRtZW50JTIwcHJpbmNpcGxlJTIwcHJvZHVjdGl2aXR5fGVufDB8MHx8fDE3NTY2MjczNTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Beat Procrastination Using Commitment: No Willpower Needed" caption="How to Beat Procrastination Using Commitment: No Willpower Needed - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
 ## The Real Secret: Manufacture Your Own Pressure
 
-When you work for someone else, you have to deliver. When you work for yourself, you need to create that same sense of urgency. Tools like Boss as a Service and Focusmate help you do just that. They give you the push you need to finish what you start and avoid the endless loop of procrastination.
+When you work for someone else, you have to deliver. When you work for yourself, you need to create that same sense of urgency. Tools like Boss as a Service and Focusmate help you do just that. They give you the push you need to finish what you start and avoid the repeating loop of procrastination.
 
 Syncing Toggl with Coda or Trello lets you see your progress and keeps you honest. And signing a contract with yourself is a powerful way to make your goals real.
 
@@ -77,7 +77,7 @@ Syncing Toggl with Coda or Trello lets you see your progress and keeps you hones
 - **Accountability is the antidote to procrastination.**
 - **Share your goals with others or use accountability partners.**
 - **Use tools like Toggl, Trello, Boss as a Service, and Focusmate to track and commit.**
-- **Make your commitments official—even with yourself.**
+- **Make your commitments official: even with yourself.**
 - **Create your own pressure to get things done.**
 
 ---

@@ -24,17 +24,17 @@ What truly matters are your own experiences. Building your life around real mome
 
 {{< figure src="https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxhY3RpdmUlMjBsZWFybmluZyUyMGV4cGVyaWVudGlhbCUyMGxlYXJuaW5nJTIwdGFrZSUyMGFjdGlvbnxlbnwwfDB8fHwxNzU2MDExMjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Learn Faster by Doing Instead of Watching" caption="How to Learn Faster by Doing Instead of Watching - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-4csdTPXTM1A)" >}}
 
-Let’s say you see a documentary about a country that fascinates you. Instead of just dreaming, check if you can take a couple of weeks off work. Maybe you already have some vacation hours saved up. Why not use them to go on that trip? Often, we make excuses—work, family, responsibilities. But if something is truly important to you, you’ll find a way. And if the people around you don’t understand, maybe it’s time to ask yourself if they’re supporting your happiness.
+Let’s say you see a documentary about a country that fascinates you. Instead of just dreaming, check if you can take a couple of weeks off work. Maybe you already have some vacation hours saved up. Why not use them to go on that trip? Often, we make excuses: work, family, responsibilities. But if something is truly important to you, you’ll find a way. And if the people around you don’t understand, maybe it’s time to ask yourself if they’re supporting your happiness.
 
 Don’t keep putting your dreams off for “the right moment.” That perfect time never comes. The best time to act is now. There’s a Chinese proverb that says, *The best time to plant a tree was 20 years ago. The second-best time is now.* If you start today, in twenty years you’ll be glad you did. It’s just like compound interest: the sooner you start, the more it grows.
 
-I’ll be honest with you—I’m tired today. I barely slept last night, and I have a lot on my plate. But I’m still taking action, and I hope you will too. We’re in this together. I believe in you, and I’m cheering you on every step of the way.
+I’ll be honest with you; I’m tired today. I barely slept last night, and I have a lot on my plate. But I’m still taking action, and I hope you will too. We’re in this together. I believe in you, and I’m cheering you on every step of the way.
 
 > *The best time to plant a tree was 20 years ago. The second-best time is now.*
-> — Chinese proverb
+> *Chinese proverb*
 
 > *You don’t have to be great to start, but you have to start to be great.*
-> — Zig Ziglar
+> *Zig Ziglar*
 
 ---
 
@@ -44,7 +44,7 @@ I’ll be honest with you—I’m tired today. I barely slept last night, and I 
 
 - *Taking action reinforces what you learn and makes it stick.*
 - *Watching others live their dreams is not the same as living your own.*
-- *Don’t wait for the perfect moment—the best time to start is now.*
+- *Don’t wait for the perfect moment: the best time to start is now.*
 - *Your experiences are what matter most in the end.*
 
 ## Reflection

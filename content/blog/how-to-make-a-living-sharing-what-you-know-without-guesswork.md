@@ -20,7 +20,7 @@ If you’re reading this, you probably have skills or expertise in a specific ar
 
 But there’s more. You need to package your knowledge in a way that stands out. If your method is unique, people can’t compare it to others, and that means your price can’t be compared either. You gain the freedom to set your own value.
 
-Imagine you have water to sell, but no bottle. No matter how pure your water is, if the bottle isn’t appealing, nobody will buy it. The packaging matters as much as the content. It’s like a book cover—if it doesn’t spark curiosity, people won’t open it, no matter how good the story inside. My method gives you that bottle, that packaging, so your knowledge becomes irresistible.
+Imagine you have water to sell, but no bottle. No matter how pure your water is, if the bottle isn’t appealing, nobody will buy it. The packaging matters as much as the content. It’s like a book cover: if it doesn’t spark curiosity, people won’t open it, no matter how good the story inside. My method gives you that bottle, that packaging, so your knowledge becomes irresistible.
 
 But I don’t stop there. I’ll show you how to organize your ideas into a clear structure, making it much easier for your students to learn. When your teaching is effective, word of mouth spreads naturally. Your reputation and marketing grow on their own.
 
@@ -30,16 +30,16 @@ This is what I call natural marketing. When your method solves a real problem di
 
 I also want to talk about a subscription model you can offer. This isn’t just about breaking your course into weekly modules. It’s a deeper approach that gives you steady income, and it’s different from anything you’ve seen elsewhere.
 
-The environment where you teach matters too. You need to create a space that inspires your audience, not just sell them an idea. Transport your students into a setting that feels special, where learning becomes a pleasure. If you do this, your students won’t just learn because they have to—they’ll actually enjoy following you. That’s the secret to making your teaching addictive.
+The environment where you teach matters too. You need to create a space that inspires your audience, not just sell them an idea. Transport your students into a setting that feels special, where learning becomes a pleasure. If you do this, your students won’t just learn because they have to; they’ll actually enjoy following you. That’s the secret to making your teaching addictive.
 
 > _If you try to speak to everyone, you’ll end up reaching no one._
-> — Unknown
+> *Unknown*
 
 > _The packaging matters as much as the content._
-> — Pierre
+> *Pierre*
 
 > _Make your teaching so engaging that it becomes addictive._
-> — Pierre
+> *Pierre*
 
 ---
 

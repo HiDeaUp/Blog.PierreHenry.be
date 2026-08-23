@@ -30,7 +30,7 @@ This isn’t just about getting things done. It’s about feeling good while you
 
 > _Where focus goes, energy flows._
 >
-> — Tony Robbins
+> *Tony Robbins*
 
 So, next time you feel scattered, remember: choose one thing that matters, check in with your energy, and if you need a boost, move your body and play some music. These small changes can truly transform your day.
 

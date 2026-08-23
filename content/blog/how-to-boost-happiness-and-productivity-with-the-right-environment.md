@@ -20,15 +20,15 @@ I often find myself drawn to certain places when I want to write or think. There
 
 {{< figure src="https://images.unsplash.com/photo-1538229121019-39a762c54c45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbnZpcm9ubWVudCUyMHByb2R1Y3Rpdml0eSUyMGhhcHBpbmVzc3xlbnwwfDB8fHwxNzU2NTE5MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow in bloom" title="How to Boost Happiness and Productivity With the Right Environment" caption="How to Boost Happiness and Productivity With the Right Environment - Photo by [Felix Mittermeier](https://unsplash.com/@felix_mittermeier) on [Unsplash](https://unsplash.com/photos/yellow-sunflower-in-bloom-bnaEYcd36uc)" >}}
 
-The more I pay attention, the more convinced I am that our environment shapes us. It’s not just about comfort. The right place can spark creativity, help you focus, and even make you happier. That’s why it’s so important to find spots that feel right for you. Maybe it’s a quiet corner in your home, a park bench, or a cozy café. Once you find these places, you’ll notice how much easier it is to do your best work and feel at peace.
+The more I pay attention, the more convinced I am that our environment affects us. It’s not just about comfort. The right place can spark creativity, help you focus, and even make you happier. That’s why it’s so important to find spots that feel right for you. Maybe it’s a quiet corner in your home, a park bench, or a cozy café. Once you find these places, you’ll notice how much easier it is to do your best work and feel at peace.
 
-If you want to go deeper, think about how you can create these environments for yourself. It’s not just about where you are, but how you set up your space to support what you want to do. When you take the time to shape your surroundings, you’ll see a real difference in your daily life. You might even find that you can get more done with less effort, and feel more fulfilled at the same time.
+If you want to go deeper, think about how you can create these environments for yourself. It’s not just about where you are, but how you set up your space to support what you want to do. When you take the time to arrange your surroundings, you’ll see a real difference in your daily life. You might even find that you can get more done with less effort, and feel more fulfilled at the same time.
 
-> _“The environment you choose shapes the person you become.”_  
-— Unknown
+> _“The environment you choose affects the person you become.”_
+*Unknown*
 
 > _“Sometimes, the best way to change your life is to change your surroundings.”_  
-— Anonymous
+*Anonymous*
 
 ---
 

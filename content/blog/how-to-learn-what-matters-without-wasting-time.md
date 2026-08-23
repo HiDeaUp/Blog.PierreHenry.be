@@ -31,10 +31,10 @@ This approach will boost your productivity. Most people are passive learners. Th
 Also, remember that urgent things aren’t always important. You’ll always have urgent tasks, but that doesn’t mean they matter to you. Focus on what’s truly important for your own goals and life.
 
 > _“Knowledge is of no value unless you put it into practice.”_  
-— Anton Chekhov
+*Anton Chekhov*
 
 > _“The things that matter most must never be at the mercy of the things that matter least.”_  
-— Johann Wolfgang von Goethe
+*Johann Wolfgang von Goethe*
 
 ---
 
@@ -44,7 +44,7 @@ Also, remember that urgent things aren’t always important. You’ll always hav
 
 - *Only learn what you’re ready to use right now.*
 - *Finish and apply what you already have before moving on to something new.*
-- *Don’t confuse urgency with importance—focus on what matters to you.*
+- *Don’t confuse urgency with importance: focus on what matters to you.*
 - *Active learning beats passive learning every time.*
 
 ---

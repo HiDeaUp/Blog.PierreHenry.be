@@ -3,8 +3,8 @@ title = "How to Boost Motivation by Changing Your Environment"
 slug = "how-to-boost-motivation-by-changing-your-environment"
 date = "2025-08-30T11:19:33.725696"
 draft = false
-description = "Have you ever noticed how much the atmosphere around you shapes your energy and motivation? Right now, I’m sitting in my hotel room in Melbourne, and it’s striking how the mood of a place can eithe..."
-summary = "Have you ever noticed how much the atmosphere around you shapes your energy and motivation? Right now, I’m sitting in my hotel room in Melbourne, and it’s striking how the mood of a place can eithe..."
+description = "Have you ever noticed how much the atmosphere around you affects your energy and motivation? Right now, I’m sitting in my hotel room in Melbourne, and it’s striking how the mood of a place can eithe..."
+summary = "Have you ever noticed how much the atmosphere around you affects your energy and motivation? Right now, I’m sitting in my hotel room in Melbourne, and it’s striking how the mood of a place can eithe..."
 tags = ["environment", "motivation", "personal development", "productivity", "success", "tasks"]
 priority = true
 priority_topics = ["tasks", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/32a86827a13d"
 
 {{< figure src="https://images.unsplash.com/photo-1707908824049-3af2343ffbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudCUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjUxNjc2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Single tree on open field" title="How to Boost Motivation by Changing Your Environment" caption="How to Boost Motivation by Changing Your Environment - Photo by [Johannes Bätz](https://unsplash.com/@beezen) on [Unsplash](https://unsplash.com/photos/a-lone-tree-on-a-grassy-hill-under-a-blue-sky-QZxb6AMjtyg)" >}}
 
-Have you ever noticed how much the atmosphere around you shapes your energy and motivation? Right now, I’m sitting in my hotel room in Melbourne, and it’s striking how the mood of a place can either lift you up or weigh you down. When you find yourself in an environment that feels right, that matches your own vibe, everything seems possible. You see people outside enjoying themselves, and you start to wonder: what could I do today to push myself further, to reach for something new?
+Have you ever noticed how much the atmosphere around you affects your energy and motivation? Right now, I’m sitting in my hotel room in Melbourne, and it’s striking how the mood of a place can either lift you up or weigh you down. When you find yourself in an environment that feels right, that matches your own vibe, everything seems possible. You see people outside enjoying themselves, and you start to wonder: what could I do today to push myself further, to reach for something new?
 
 This is where the idea of surpassing yourself comes in. It’s not just about being somewhere different, but about making the most of where you are. Every day, you have the chance to do something meaningful. But let’s be honest, we all tend to put things off. We tell ourselves we’ll do it tomorrow, or next week, and before we know it, the important things slip away.
 
@@ -31,17 +31,17 @@ Take a moment to reflect. What are the things that, if you did them today, would
 This simple habit, done every day, can change your life. It’s not about being perfect, but about being intentional. Focus on what matters, and let the rest go.
 
 > *“It is not the daily increase but daily decrease. Hack away at the unessential.”*  
-— Bruce Lee
+*Bruce Lee*
 
 > *“Success is not the result of spontaneous combustion. You must set yourself on fire.”*  
-— Arnold H. Glasow
+: Arnold H. Glasow
 
 {{< figure src="https://images.unsplash.com/photo-1515542678685-fdd4b9ebc45e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbnZpcm9ubWVudCUyMG1vdGl2YXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjUxNjc2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green leafed plant potted in white pot near window 58" title="How to Boost Motivation by Changing Your Environment" caption="How to Boost Motivation by Changing Your Environment - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-potted-in-white-pot-near-window-58-iZiXTwNA)" >}}
 
 ---
 
 ## Key Takeaways
-- The atmosphere around you shapes your motivation and results.
+- The atmosphere around you affects your motivation and results.
 - Each day, choose three important tasks that will make the biggest difference.
 - Focus on what matters, not on doing more.
 - Reflect daily on what worked and adjust as needed.

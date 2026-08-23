@@ -24,13 +24,13 @@ One of the easiest ways to boost your motivation is to change your surroundings.
 
 ### Use Music and Atmosphere
 
-Music plays a big role. Find a playlist that lifts your spirits and put on noise-canceling headphones. It’s almost like creating a mini escape, a little bubble where you feel alive again. For me, it’s about capturing that vibe—the energy of a good bar or a fun place—and bringing it to your space. When you do this, you tap into a feeling of possibility, and suddenly, tasks don’t seem so heavy.
+Music plays a big role. Find a playlist that lifts your spirits and put on noise-canceling headphones. It’s almost like creating a mini escape, a little bubble where you feel alive again. For me, it’s about capturing that vibe (the energy of a good bar or a fun place), and bringing it to your space. When you do this, you tap into a feeling of possibility, and suddenly, tasks don’t seem so heavy.
 
 ---
 
 ### Physical Movement and Physiological Tricks
 
-Anthony Robbins talks about this a lot. He suggests that jumping on the spot or doing quick physical exercises before starting something can really help. It’s a way to shake off the heaviness and get your body moving. When I do this, I feel more alert and ready to tackle whatever’s in front of me. It’s simple but effective—just a few jumps or stretches can change your whole mindset.
+Anthony Robbins talks about this a lot. He suggests that jumping on the spot or doing quick physical exercises before starting something can really help. It’s a way to shake off the heaviness and get your body moving. When I do this, I feel more alert and ready to tackle whatever’s in front of me. It’s simple but effective: just a few jumps or stretches can change your whole mindset.
 
 ---
 
@@ -49,12 +49,6 @@ Sometimes, the hardest part is just beginning. To avoid friction, I suggest simp
 ### Create a Little Escape
 
 When I’m in a hotel or a nice place, I tell myself I can’t miss out on the experience. I’ll lock myself in my room until I finish what I need to do. That way, I combine work with pleasure, and it makes the process more enjoyable. It’s about creating little initiatives that turn work into a more pleasant experience.
-
----
-
-### Final Thoughts
-
-I hope these ideas help you. If you want to go even further, I have a lot of training programs in the links below. There’s an immersion workshop and other courses that guide you step-by-step to live a better life. Everything you need is at your fingertips, ready to start tomorrow morning. Even if you’re not ready now, I recommend taking the plunge and starting today. The more you follow the steps I give, the more you’ll see real change.
 
 ---
 

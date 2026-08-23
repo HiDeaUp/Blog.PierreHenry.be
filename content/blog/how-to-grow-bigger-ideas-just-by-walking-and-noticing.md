@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/3bdda25258b2"
 
 Have you ever noticed how much you can learn just by being curious about the world around you? Today, I want to talk about something simple but powerful: using your everyday walks, your daily moments, as sessions to lift yourself up, to become “bigger” in your own way.
 
-When you invest in yourself—whether it’s through reading, watching films or documentaries, or just by looking for new ways to grow—you’re actually making one of the best investments possible. I call this a lever for growth. Everything around you can become a clue, a hint, a spark for your next idea.
+When you invest in yourself (whether it’s through reading, watching films or documentaries, or just by looking for new ways to grow) you’re actually making one of the best investments possible. I call this a lever for growth. Everything around you can become a clue, a hint, a spark for your next idea.
 
 Even if something seems completely unrelated to what you’re doing, let your imagination play with it. Ask yourself: “How can I use what’s around me to get a new idea, to have that ‘aha’ moment?” Sometimes, it’s these random connections that help you rise higher and do something greater.
 
@@ -24,15 +24,15 @@ When I’m not sure where I’m going, I look around. I notice the buildings, th
 
 {{< figure src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjdXJpb3NpdHklMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc0ODc0NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Person using macbook pro" title="How to Grow Bigger Ideas Just by Walking and Noticing" caption="How to Grow Bigger Ideas Just by Walking and Noticing - Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ)" >}}
 
-Or maybe I spot a bike I like. I wonder where it comes from. I find out it’s from an online shop, and then I look up the founders. Sometimes, I realize they live nearby. That’s networking, right there—just by being alert and curious about what’s around you.
+Or maybe I spot a bike I like. I wonder where it comes from. I find out it’s from an online shop, and then I look up the founders. Sometimes, I realize they live nearby. That’s networking, right there: just by being alert and curious about what’s around you.
 
 This habit of always being on the lookout is a very effective way to grow. It’s about making connections between things that don’t seem related at all. In the end, everything can be connected if you let your mind wander and make those links.
 
 > *“Curiosity is the wick in the candle of learning.”*  
-> —William Arthur Ward
+> *William Arthur Ward*
 
 > *“The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.”*  
-> —Marcel Proust
+> *Marcel Proust*
 
 So, next time you’re out and about, pay attention. Notice the café behind you, the people you meet, the things that catch your eye. Each one could be the start of something new, something inspiring. The best time to take action is today, right now. There’s no point in putting off what you want to do. Go for it.
 
@@ -44,7 +44,7 @@ So, next time you’re out and about, pay attention. Notice the café behind you
 - Use your daily life as a chance to grow.
 - Stay curious about everything, even things that seem unrelated.
 - Make connections between what you see and what you want to achieve.
-- Take action now—don’t wait for the “perfect” moment.
+- Take action now: don’t wait for the “perfect” moment.
 
 ## Action Steps
 - Look around you and pick one thing to learn more about today.

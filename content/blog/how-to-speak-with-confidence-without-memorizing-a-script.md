@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/b67a031951a8"
 
 {{< figure src="https://images.unsplash.com/photo-1505462110798-9eb50316b29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBzcGVha2luZyUyMGNvbmZpZGVuY2UlMjBjb21tdW5pY2F0aW9uJTIwc2tpbGxzfGVufDB8MHx8fDE3NDkyOTQzNDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Boy doing bicycle tricks in front of many people" title="How to Speak With Confidence Without Memorizing a Script" caption="How to Speak With Confidence Without Memorizing a Script - Photo by [Andhika Soreng](https://unsplash.com/@dhika88) on [Unsplash](https://unsplash.com/photos/boy-doing-bicycle-tricks-in-front-of-many-people-gETYcifklpU)" >}}
 
-Speaking in public can feel daunting, whether you’re addressing your family or a room full of professionals. But taking the floor doesn’t have to be a nerve-wracking experience. Let’s break down some practical steps to help you speak with more confidence and clarity—no matter the audience.
+Speaking in public can feel daunting, whether you’re addressing your family or a room full of professionals. But taking the floor doesn’t have to be a nerve-wracking experience. Let’s break down some practical steps to help you speak with more confidence and clarity: no matter the audience.
 
 ## Picture the Setting
 
@@ -22,7 +22,7 @@ Before you even open your mouth, take a moment to imagine where you’ll be spea
 
 ## Know Your Message, Not Your Script
 
-It’s tempting to prepare every single word in advance, but this often backfires. Instead, focus on the main idea you want to share. What’s the core message you want to put on the table? Use this as your guide. Having a clear direction is much more helpful than memorizing sentences. When you speak from a place of understanding, your words flow more naturally—and you sound more genuine.
+It’s tempting to prepare every single word in advance, but this often backfires. Instead, focus on the main idea you want to share. What’s the core message you want to put on the table? Use this as your guide. Having a clear direction is much more helpful than memorizing sentences. When you speak from a place of understanding, your words flow more naturally, and you sound more genuine.
 
 ## Breathe From the Belly
 
@@ -36,23 +36,23 @@ Don’t underestimate the power of a glass of water. When you’re nervous, your
 
 ## Meditate and Practice
 
-A few moments of meditation before speaking can help clear your mind. But nothing beats practice. The more you speak in public, the easier it gets. Stand tall, keep your shoulders back, and remember—your posture affects your mindset. If you slouch, you’ll feel less confident, and it will show in your voice.
+A few moments of meditation before speaking can help clear your mind. But nothing beats practice. The more you speak in public, the easier it gets. Stand tall, keep your shoulders back, and remember: your posture affects your mindset. If you slouch, you’ll feel less confident, and it will show in your voice.
 
 ## Loosen Up (Within Reason)
 
-If you’re at a social event or a meetup, having a drink or two (like a glass of wine or beer) can help you relax and chat with people before you go on stage. Just don’t overdo it—a sweet cocktail might not be the best for your voice. The goal is to loosen up, not lose control.
+If you’re at a social event or a meetup, having a drink or two (like a glass of wine or beer) can help you relax and chat with people before you go on stage. Just don’t overdo it: a sweet cocktail might not be the best for your voice. The goal is to loosen up, not lose control.
 
 ## People Are Kinder Than You Think
 
 One last thing to remember: most people are much more understanding and supportive than you imagine. At the end of the day, your audience wants you to succeed. They’re not there to judge every word. So, take a breath, stand tall, and share your message.
 
 > *“The way you speak to yourself matters as much as the way you speak to others.”*  
-> — Unknown
+> *Unknown*
 
 {{< figure src="https://images.unsplash.com/photo-1499159058454-75067059248a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwdWJsaWMlMjBzcGVha2luZyUyMGNvbmZpZGVuY2UlMjBjb21tdW5pY2F0aW9uJTIwc2tpbGxzfGVufDB8MHx8fDE3NDkyOTQzNDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Teléfono" title="How to Speak With Confidence Without Memorizing a Script" caption="How to Speak With Confidence Without Memorizing a Script - Photo by [Quino Al](https://unsplash.com/@quinoal) on [Unsplash](https://unsplash.com/photos/black-corded-telephone-4SNUcHPiC8c)" >}}
 
 > *“Courage is not the absence of fear, but the triumph over it.”*  
-> — Nelson Mandela
+> *Nelson Mandela*
 
 ---
 
@@ -63,7 +63,7 @@ One last thing to remember: most people are much more understanding and supporti
 - Practice deep belly breathing.
 - Drink water before you speak.
 - Meditate and keep practicing.
-- Stand tall—posture matters.
+- Stand tall: posture matters.
 - Relax and remember: people are on your side.
 
 ---

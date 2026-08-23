@@ -23,10 +23,10 @@ I recommend dedicating just 10 to 20 minutes daily to this focused effort. It do
 This minimalist approach isn’t about doing less for the sake of it. It’s about making every minute count, so you can see real progress without burning out. By visualizing your end goal and breaking it down into tiny, manageable steps, you’ll find it much easier to stay motivated and consistent.
 
 > _Small daily improvements are the key to staggering long-term results._
-— James Clear
+*James Clear*
 
 > _You do not rise to the level of your goals. You fall to the level of your systems._
-— James Clear
+*James Clear*
 
 ---
 

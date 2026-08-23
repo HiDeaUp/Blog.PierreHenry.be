@@ -28,17 +28,17 @@ The key is to keep questioning, keep organizing, and keep improving. That’s ho
 
 > _The way you spend your days is the way you spend your life._
 >
-> — Annie Dillard
+> *Annie Dillard*
 
 > _Don’t count the days, make the days count._
 >
-> — Muhammad Ali
+> *Muhammad Ali*
 
 ---
 
 ## Key Takeaways
 
-- Life is meant to be lived fully—fill your days with what lifts you up.
+- Life is meant to be lived fully: fill your days with what lifts you up.
 - Organize your daily life and question how you spend your time.
 - Reflect on what truly matters and make small changes that add up.
 - Keep challenging yourself and aim to give your best every day.

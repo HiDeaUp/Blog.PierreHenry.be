@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/4d354656c3cb"
 
 {{< figure src="https://images.unsplash.com/photo-1720698992920-052009f42671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3ZWxsLWJlaW5nJTIwbW9ybmluZyUyMHJvdXRpbmVzJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTU1MjEyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="mug with happiness" title="How to Start Your Day Happy Without Changing Your Whole Life" caption="How to Start Your Day Happy Without Changing Your Whole Life - Photo by [Glen Carrie](https://unsplash.com/@glencarrie) on [Unsplash](https://unsplash.com/photos/a-yellow-coffee-mug-with-the-words-happiness-written-on-it-pfTr23Js_oE)" >}}
 
-Have you ever noticed how the smallest things can set the tone for your entire day? Maybe it’s that first sip of coffee, the smell of a fresh croissant, or the comfort of a simple breakfast. These little rituals aren’t just habits—they’re the foundation of your well-being.
+Have you ever noticed how the smallest things can set the tone for your entire day? Maybe it’s that first sip of coffee, the smell of a fresh croissant, or the comfort of a simple breakfast. These little rituals aren’t just habits; they’re the foundation of your well-being.
 
 When you focus your energy on your own well-being, everything else tends to fall into place. Happiness and well-being are at the center of a good life. If you make them your priority, the rest becomes much easier.
 
@@ -30,7 +30,7 @@ One way to get better at this is to track your happiness. After you enjoy a mome
 
 {{< figure src="https://images.unsplash.com/photo-1559709451-1b5dc3c0038c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwbW9ybmluZyUyMHJvdXRpbmVzJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTU1MjEyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman wearing pink top while holding mug" title="How to Start Your Day Happy Without Changing Your Whole Life" caption="How to Start Your Day Happy Without Changing Your Whole Life - Photo by [Amanda Lins](https://unsplash.com/@amandalins) on [Unsplash](https://unsplash.com/photos/woman-wearing-pink-top-while-holding-mug-MwYWBv1Arpw)" >}}
 
-By paying attention to these details, you’ll slowly improve your happiness and boost your positive energy. The better you feel, the more positive energy you’ll share with others. It’s contagious—your good mood can lift up the people around you.
+By paying attention to these details, you’ll slowly improve your happiness and boost your positive energy. The better you feel, the more positive energy you’ll share with others. It’s contagious: your good mood can lift up the people around you.
 
 ## The Ripple Effect of Kindness
 
@@ -41,10 +41,10 @@ This is why it’s so important to take care of your own well-being. When you fe
 *If everyone felt happy and fulfilled, the people around them would feel better too. Never underestimate the power of your own well-being.*
 
 > *Happiness is not something ready made. It comes from your own actions.*  
-— Dalai Lama
+*Dalai Lama*
 
 > *The best way to cheer yourself is to try to cheer someone else up.*  
-— Mark Twain
+*Mark Twain*
 
 ---
 
@@ -55,7 +55,7 @@ This is why it’s so important to take care of your own well-being. When you fe
 - Focus on your well-being; everything else will follow.
 - Find small, healthy pleasures and make them part of your routine.
 - Track your happiness and look for ways to improve your days.
-- Positive energy is contagious—spread it around.
+- Positive energy is contagious: spread it around.
 - Kindness and attention to detail can change someone’s whole day.
 
 ## Action Steps

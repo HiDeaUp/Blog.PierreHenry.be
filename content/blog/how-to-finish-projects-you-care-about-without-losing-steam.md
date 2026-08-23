@@ -32,13 +32,13 @@ Fall in love with the problem, not just the solution. Your solution will change 
 
 > *When you find a project that matches your values and passions, it becomes the fuel that powers your mornings and keeps you going through the tough days.*
 >
-> — Pierre
+> *Pierre*
 
-Time is the one resource you can never get back. If you spend three hours on something you don’t enjoy, that’s three hours lost forever. That’s why it’s so important to use your time wisely, focusing on what truly matters to you. Motivation, values, long-term vision—these are the pillars of a fulfilling project and, ultimately, a fulfilling life.
+Time is the one resource you can never get back. If you spend three hours on something you don’t enjoy, that’s three hours lost forever. That’s why it’s so important to use your time wisely, focusing on what truly matters to you. Motivation, values, long-term vision: these are the pillars of a fulfilling project and, ultimately, a fulfilling life.
 
 > *The secret is not to prioritize what’s on your schedule, but to schedule your priorities.*
 >
-> — Stephen Covey
+> *Stephen Covey*
 
 ---
 
@@ -50,7 +50,7 @@ Time is the one resource you can never get back. If you spend three hours on som
 - Motivation comes from passion and a clear sense of purpose.
 - When energy dips, look for new perspectives or delegate less enjoyable tasks.
 - Focus on what you do best, and communicate your passion to others.
-- Time is precious—spend it on what matters most.
+- Time is precious: spend it on what matters most.
 
 ## Reflection
 

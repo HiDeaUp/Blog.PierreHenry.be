@@ -18,7 +18,7 @@ Have you ever woken up early, set your alarm for 5 or 6 AM, only to find yoursel
 
 This is exactly what I want to talk about today.
 
-Positive energy doesn’t just appear out of nowhere. It’s often sparked by a passion project, something you love doing, something that makes you proud. It could be anything—a side business, a creative hobby, or even a simple daily ritual. The key is that it’s yours, and it lights you up inside. When you finish it, you can look at yourself and say, “Wow, I did that. I’m proud of myself.”
+Positive energy doesn’t just appear out of nowhere. It’s often sparked by a passion project, something you love doing, something that makes you proud. It could be anything: a side business, a creative hobby, or even a simple daily ritual. The key is that it’s yours, and it lights you up inside. When you finish it, you can look at yourself and say, “Wow, I did that. I’m proud of myself.”
 
 Let’s get practical. Take a piece of paper, a notebook, your phone, or your laptop, and write down what you want to achieve. What is your passion project? What’s your vision? Where do you want to go? Once you have a clear idea, ask yourself: What can I do every day, for just one hour, to move this project forward?
 
@@ -30,15 +30,15 @@ Whatever it is, before you start teaching others, make sure you’re at least be
 
 The real magic happens when you’re proud of what you’re doing. If you’re not, your energy will fade, and you’ll go back to dragging yourself out of bed. So, imagine a project you know you’ll still love in a year or two, maybe even three. Of course, your project can change and grow over time, but the core passion should stay the same.
 
-The heart of your passion will remain, even as the details shift. Month after month, year after year, you’ll stretch and shape it, but the main theme will stick with you.
+The heart of your passion will remain, even as the details shift. Month after month, year after year, you’ll stretch and influence it, but the main theme will stick with you.
 
 > *The only way to do great work is to love what you do.*
 >
-> — Steve Jobs
+> *Steve Jobs*
 
 > *Passion is energy. Feel the power that comes from focusing on what excites you.*
 >
-> — Oprah Winfrey
+> *Oprah Winfrey*
 
 ---
 
@@ -49,7 +49,7 @@ The heart of your passion will remain, even as the details shift. Month after mo
 - Find a passion project that truly excites you.
 - Write down your vision and break it into daily steps.
 - Dedicate at least one hour each day to your project.
-- Make sure you’re proud of what you’re doing—let it energize you.
+- Make sure you’re proud of what you’re doing: let it energize you.
 - Your passion can evolve, but the core should always make you feel alive.
 
 ---

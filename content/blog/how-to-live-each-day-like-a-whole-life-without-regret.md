@@ -41,19 +41,19 @@ Some say Sydney is too busy, but honestly, it’s very relaxed compared to citie
 The same goes for any big decision. If you feel it’s right, do it. Don’t wait for approval from friends or colleagues. Treat your day like a life. If you’ve wanted to move for a long time, do it now. If you dream of traveling the world, book that trip. You’ll figure out the rest as you go.
 
 > *“You are never too old to set another goal or to dream a new dream.”*  
-— C. S. Lewis
+: C. S. Lewis
 
 {{< figure src="https://images.unsplash.com/photo-1723359133179-075028cd7f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjBkYWlseSUyMGhhYml0cyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MTg0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting in a field with a helmet on" title="How to Live Each Day Like a Whole Life Without Regret" caption="How to Live Each Day Like a Whole Life Without Regret - Photo by [Julio Lopez](https://unsplash.com/@juliolopez) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-a-field-with-a-helmet-on-9mouXmvcwiY)" >}}
 
 > *“The trouble is, you think you have time.”*  
-— Jack Kornfield
+*Jack Kornfield*
 
 ---
 
 ## Key Takeaways
 - Treat each day as if it were your whole life.
 - Don’t wait for the perfect moment to do what matters.
-- Money is a tool—use it to create and experience more.
+- Money is a tool: use it to create and experience more.
 - Trust your own judgment over others’ opinions.
 - Try new places and experiences to find what truly suits you.
 

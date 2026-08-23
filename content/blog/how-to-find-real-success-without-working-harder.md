@@ -26,11 +26,11 @@ We all need projects. That’s why, sadly, many people in retirement homes often
 
 We all need reasons to live. That’s what keeps us going, makes us happy, and even helps us live longer. So yes, you need projects that excite you, that make you want to get up in the morning. Even reading books can be a source of stimulation. Maybe the book isn’t the most thrilling, but just the act of reading keeps your mind awake. That’s what I wish for you, and what I suggest you do. You’ll see, it makes all the difference.
 
-From the bottom of my heart, I’m with you. The best time to do great things is today. You have to make those great things happen, and I’m cheering you on all the way. If you want to go even further in your daily growth and improvement, I’ve put together resources that can help you. Remember, life is the most precious resource we have. Time is unique and once it’s gone, you can never get it back. Even losing ten minutes is a loss you can’t recover. So now is the time to take action and move forward.
+From the bottom of my heart, I’m with you. The best time to do meaningful work is today. You have to make it happen, one action at a time.
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 Don’t wait for the perfect moment. Create projects, find what excites you, and give yourself reasons to wake up with energy. That’s what you deserve, and that’s what I wish for you. I believe in you. The best moment is now. Take action.
 
@@ -42,7 +42,7 @@ Don’t wait for the perfect moment. Create projects, find what excites you, and
 - *Set personal challenges to add excitement to your days.*
 - *Have both long-term and short-term projects to look forward to.*
 - *Even small goals or reading a book can keep your mind active.*
-- *Don’t let your days slip by without purpose—create your own reasons to get up in the morning.*
+- *Don’t let your days slip by without purpose: create your own reasons to get up in the morning.*
 
 ## Reflection
 - *What challenge can I set for myself this week?*

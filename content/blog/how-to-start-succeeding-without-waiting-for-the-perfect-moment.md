@@ -18,7 +18,7 @@ Have you ever wanted to start something new, only to feel a wave of stress and h
 
 Instead of taking action, we procrastinate. We do nothing. The fear of things not working out as we hope keeps us stuck in place.
 
-But what if you changed your perspective? What if, instead of seeing a failed attempt as a defeat, you saw it as just that—an attempt? Every try is a chance to learn. If things don’t work out, you haven’t failed; you’ve simply gathered information for your next step. You grow, you move forward, and at least you’re not standing still.
+But what if you changed your perspective? What if, instead of seeing a failed attempt as a defeat, you saw it as just that: an attempt? Every try is a chance to learn. If things don’t work out, you haven’t failed; you’ve simply gathered information for your next step. You grow, you move forward, and at least you’re not standing still.
 
 Life is a bit like climbing a staircase. With each step, you move forward. Some steps are easy, others are shaky, but each one is necessary. Sometimes things go well, and that’s great. Sometimes they don’t, and that’s normal too. Life is full of both beautiful moments and disappointments. If you focus only on what might go wrong, you’ll freeze. You won’t take action, and you’ll stay exactly where you are.
 
@@ -29,10 +29,10 @@ If you do nothing, don’t expect your life to change. Don’t expect new opport
 With time, you’ll look back and realize that trying was worth it. You’ll be glad you took the chance, even if it didn’t work out as you hoped. Otherwise, you’d never know if your idea was a good one.
 
 > _“Success is not final, failure is not fatal: it is the courage to continue that counts.”_  
-— Winston Churchill
+*Winston Churchill*
 
 > _“You miss 100% of the shots you don’t take.”_  
-— Wayne Gretzky
+*Wayne Gretzky*
 
 ---
 
@@ -42,7 +42,7 @@ With time, you’ll look back and realize that trying was worth it. You’ll be 
 
 - *Fear of failure often stops us before we even start.*
 - *Every attempt is a lesson, not a defeat.*
-- *Life’s beauty lies in its contrasts—both successes and setbacks.*
+- *Life’s beauty lies in its contrasts: both successes and setbacks.*
 - *If you never act, nothing will change.*
 
 ## Reflection

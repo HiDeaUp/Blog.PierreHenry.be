@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/1110fbbe1147"
 
 Have you ever wondered why some people seem to get so much more out of their day than others? We all have the same 24 hours, yet the difference in what we achieve can be huge. The secret often lies in how we use our time, and more importantly, how we reflect on it.
 
-One idea that has changed my life is to see every day as a series of opportunities to improve. After finishing any task—whether it’s cleaning, doing laundry, handling work, caring for your kids, spending time with your partner, or even just shopping—pause for a moment and ask yourself: *Did I use that time well?*
+One idea that has changed my life is to see every day as a series of opportunities to improve. After finishing any task (whether it’s cleaning, doing laundry, handling work, caring for your kids, spending time with your partner, or even just shopping) pause for a moment and ask yourself: *Did I use that time well?*
 
 This isn’t about being hard on yourself. It’s about being honest and curious. Maybe you spent three hours on something. Was it worth it? Could you have used that time for something that would have made a bigger difference? Did you waste time waiting, or get lost scrolling through social media? Or did you invest it in something that truly mattered to you?
 
@@ -26,15 +26,15 @@ Try checking in with yourself every few hours. For example, every three hours, a
 
 Success isn’t always about doing more. Sometimes, it’s about doing what matters most to you. For some, success is measured in money, because it’s a reward for the value you bring. For others, it’s about gratitude, recognition, or simply living differently. The key is to define what matters to you, not to compare yourself to others.
 
-If you want to build self-esteem, focus on improving yourself, day by day. Don’t compare your journey to anyone else’s—not even your friends. The only real comparison is with the person you were yesterday.
+If you want to build self-esteem, focus on improving yourself, day by day. Don’t compare your journey to anyone else’s, not even your friends. The only real comparison is with the person you were yesterday.
 
 > *The way you spend your days is the way you spend your life.*
 >
-> — Annie Dillard
+> *Annie Dillard*
 
 > *Don’t compare your beginning to someone else’s middle.*
 >
-> — Jon Acuff
+> *Jon Acuff*
 
 By making small, regular improvements and reflecting on your choices, you’ll find yourself growing in confidence and satisfaction. Every day becomes a chance to become a little better than before.
 

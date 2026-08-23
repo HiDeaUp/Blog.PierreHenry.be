@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/4f48c92b469f"
 
 {{< figure src="https://images.unsplash.com/photo-1514825558068-37ce538f9704?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLXJlZmxlY3Rpb24lMjBkYWlseSUyMGV2YWx1YXRpb24lMjBldmVuaW5nJTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NTIxMDgyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Focus photo of vehicle side mirror during golden hour" title="How Evening Walks Boost Happiness Without Extra Effort" caption="How Evening Walks Boost Happiness Without Extra Effort - Photo by [Emerson Lima](https://unsplash.com/@emersonlima) on [Unsplash](https://unsplash.com/photos/selective-focus-photo-of-vehicle-side-mirror-during-golden-hour-ZuoPmU3tm1Q)" >}}
 
-Taking a walk at the end of the day is more than just a way to stretch your legs. It’s a moment to pause and reflect on what you’ve accomplished, what went well, and what could have been better. I find these walks essential, especially after a long day at the office. Around 7 p.m., I like to head outside, clear my mind, and think about how my day unfolded.
+Taking a walk at the end of the day is more than just a way to stretch your legs. It’s a moment to pause and reflect on what you’ve accomplished, what went well, and what could have been better. I find these walks essential, especially after a long day at the office. Around 7 p.m. I like to head outside, clear my mind, and think about how my day unfolded.
 
 During these walks, I ask myself: Was I productive today? Did I do something meaningful? Could I have improved anything? I also try to measure my happiness or fulfillment on a scale from 1 to 10. If I feel like I’m at a 6, I wonder what could have made it an 8. This simple habit helps me see where I can make small changes for a better tomorrow.
 
@@ -26,7 +26,7 @@ This process is not about being perfect. It’s about gradually improving, step 
 
 > _Happiness is not something ready made. It comes from your own actions._
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 If you keep questioning yourself in this gentle way, you’ll see everything shift. You’ll start to live more intentionally, and your days will feel more satisfying. I wish you the best on this journey. Remember, it’s the small steps that lead to big changes.
 

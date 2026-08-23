@@ -33,10 +33,10 @@ Think of it like cleaning out a closet. When you throw away what you don’t nee
 This shift won’t happen in a day. It takes daily effort and a bit of stubbornness. But if you stick with it, you’ll notice a real difference. You’ll feel lighter, more focused, and more in charge of your life. Remember, it’s about taking action on what you can change and letting go of the rest.
 
 > *“You don’t have to control your thoughts. You just have to stop letting them control you.”*  
-— Dan Millman
+*Dan Millman*
 
 > *“Worry is like a rocking chair: it gives you something to do but gets you nowhere.”*  
-— Erma Bombeck
+*Erma Bombeck*
 
 {{< figure src="https://images.unsplash.com/photo-1700709678022-8e0c4767434e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMG1lbnRhbCUyMGRlY2x1dHRlcmluZyUyMG1pbmltYWxpc218ZW58MHwwfHx8MTc1NjUxOTk2OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="render with Taitopia Render" title="How to Clear Mental Clutter Without Overthinking" caption="How to Clear Mental Clutter Without Overthinking - Photo by [Taitopia Render](https://unsplash.com/@taitopiarender) on [Unsplash](https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-table-d84kZacg3tc)" >}}
 

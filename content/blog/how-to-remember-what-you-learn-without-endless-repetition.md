@@ -1,5 +1,5 @@
 +++
-title = "How to Remember What You Learn Without Endless Repetition"
+title = "How to Remember What You Learn Without Repeated Drills"
 slug = "how-to-remember-what-you-learn-without-endless-repetition"
 date = "2025-08-30T13:14:08.467446"
 draft = false
@@ -12,9 +12,9 @@ original_title = "L’apprentissage à feedback 🔁"
 source_medium = "https://medium.com/@phenrysay/becb4f3116c4"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1556030366-ace48a370886?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of letters that spell out the word real" title="How to Remember What You Learn Without Endless Repetition" caption="How to Remember What You Learn Without Endless Repetition - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-group-of-letters-that-spell-out-the-word-real-BfViPzWiW_g)" >}}
+{{< figure src="https://images.unsplash.com/photo-1556030366-ace48a370886?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of letters that spell out the word real" title="How to Remember What You Learn Without Repeated Drills" caption="How to Remember What You Learn Without Repeated Drills - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-group-of-letters-that-spell-out-the-word-real-BfViPzWiW_g)" >}}
 
-Have you ever noticed how easy it is to forget what you learned just a day or two ago? Maybe you spent twenty minutes memorizing Japanese words, or you tried to master a new programming language, only to realize later that most of it slipped away. This is where the power of feedback-based learning comes in—a simple, daily habit that can change the way you remember and use new knowledge.
+Have you ever noticed how easy it is to forget what you learned just a day or two ago? Maybe you spent twenty minutes memorizing Japanese words, or you tried to master a new programming language, only to realize later that most of it slipped away. This is where the power of feedback-based learning comes in: a simple, daily habit that can change the way you remember and use new knowledge.
 
 ## The Power of Daily Retrospective
 
@@ -24,7 +24,7 @@ This process isn’t just for languages. Whether you’re gardening, learning to
 
 ## Weekly Reviews: The Next Level
 
-{{< figure src="https://images.unsplash.com/photo-1676276376282-fe8118ee0afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman writing the word &quot;relevant&quot; next to a sticky note with a hashtag on it" title="How to Remember What You Learn Without Endless Repetition" caption="How to Remember What You Learn Without Endless Repetition - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-woman-writing-on-a-white-board-with-a-marker-mrS65fiGFeA)" >}}
+{{< figure src="https://images.unsplash.com/photo-1676276376282-fe8118ee0afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman writing the word &quot;relevant&quot; next to a sticky note with a hashtag on it" title="How to Remember What You Learn Without Repeated Drills" caption="How to Remember What You Learn Without Repeated Drills - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-woman-writing-on-a-white-board-with-a-marker-mrS65fiGFeA)" >}}
 
 At the end of each week, do a bigger review. Look back at everything you learned over the past seven days. Which parts are still clear? Which ones feel vague or fuzzy? Focus on the areas that need more work. This weekly check-in helps you spot gaps before they become forgotten knowledge.
 
@@ -34,15 +34,15 @@ When you repeat information regularly, you’re telling your brain, “This is i
 
 ## Teach to Remember
 
-One of the most powerful ways to lock in what you’ve learned is to teach it to someone else. When you explain a concept, you have to reorganize it in your mind, making it simple and clear for others. This process often reveals gaps in your own understanding. If you stumble or feel uncertain, it’s a sign you need to go deeper. Go back, review, and then try teaching again—whether it’s out loud, in a video, or in writing.
+One of the most powerful ways to lock in what you’ve learned is to teach it to someone else. When you explain a concept, you have to reorganize it in your mind, making it simple and clear for others. This process often reveals gaps in your own understanding. If you stumble or feel uncertain, it’s a sign you need to go deeper. Go back, review, and then try teaching again: whether it’s out loud, in a video, or in writing.
 
 Teaching is not just about helping others. It’s about making sure you truly understand the material yourself. It forces you to see knowledge from a new angle and makes it stick.
 
 > *Learning is a game that never ends. The more you play, the better you get at remembering the rules.*
 >
-> — Pierre Loichet
+> *Pierre Loichet*
 
-{{< figure src="https://images.unsplash.com/photo-1580894740397-0946742deb4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Female software engineer uses whiteboard" title="How to Remember What You Learn Without Endless Repetition" caption="How to Remember What You Learn Without Endless Repetition - Photo by [ThisisEngineering](https://unsplash.com/@thisisengineering) on [Unsplash](https://unsplash.com/photos/woman-writing-on-white-paper-4dR9LmMzhT0)" >}}
+{{< figure src="https://images.unsplash.com/photo-1580894740397-0946742deb4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmZWVkYmFjayUyMGxlYXJuaW5nJTIwbWVtb3J5JTIwcmV0ZW50aW9ufGVufDB8MHx8fDE3NTY1MjM2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Female software engineer uses whiteboard" title="How to Remember What You Learn Without Repeated Drills" caption="How to Remember What You Learn Without Repeated Drills - Photo by [ThisisEngineering](https://unsplash.com/@thisisengineering) on [Unsplash](https://unsplash.com/photos/woman-writing-on-white-paper-4dR9LmMzhT0)" >}}
 
 ## Make Learning a Game
 

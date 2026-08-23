@@ -20,13 +20,13 @@ The real progress happens when you break your big vision down into small, daily 
 
 But there’s a catch: your vision needs to be clear, long-term, and specific. Without this clarity, it’s easy to drift through your days without direction. Waking up without a plan often leads to wasting time on things that don’t really matter. You end up spending your energy on activities that add little value to your life.
 
-When you know exactly what you want and why, every small action becomes a step toward something bigger. You stop feeling lost and start feeling purposeful. This is how you turn your dreams into reality—by seeing big, acting small, and staying consistent.
+When you know exactly what you want and why, every small action becomes a step toward something bigger. You stop feeling lost and start feeling purposeful. This is how you turn your dreams into reality: by seeing big, acting small, and staying consistent.
 
 > _“The future belongs to those who believe in the beauty of their dreams.”_  
-— Eleanor Roosevelt
+*Eleanor Roosevelt*
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-— Robert Collier
+*Robert Collier*
 
 ---
 

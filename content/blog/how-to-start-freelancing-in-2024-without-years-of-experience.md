@@ -18,19 +18,19 @@ If you’ve ever thought about becoming a freelancer, there’s never been a bet
 
 Not so long ago, many businesses insisted their teams work in the office. Now, remote work is widely accepted, and hiring freelancers is no longer a big deal for most companies. In fact, freelancers are getting paid better than ever. If you have the right skills and apply where those skills are needed, you won’t have trouble finding work that suits you.
 
-Of course, it takes some effort. You’ll need to search for the right opportunities, build a portfolio to show what you can do, and prepare a script to sell your skills. Think of it like the scripts used by salespeople who call you out of the blue—they have to convince you, even though you don’t know them. It’s the same for you: you need to convince companies that you’re the right person for the job.
+Of course, it takes some effort. You’ll need to search for the right opportunities, build a portfolio to show what you can do, and prepare a script to sell your skills. Think of it like the scripts used by salespeople who call you out of the blue; they have to convince you, even though you don’t know them. It’s the same for you: you need to convince companies that you’re the right person for the job.
 
-A good script, a strong portfolio, and applying to the right places will change everything for you. And the best part? Freedom. You can travel wherever you want, work from anywhere, and finally live the life you’ve always dreamed of—doing what you love, using your favorite skills.
+A good script, a strong portfolio, and applying to the right places will change everything for you. And the best part? Freedom. You can travel wherever you want, work from anywhere, and finally live the life you’ve always dreamed of: doing what you love, using your favorite skills.
 
 {{< figure src="https://images.unsplash.com/photo-1695462131553-5f532df1768d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlbGFuY2luZyUyMHJlbW90ZSUyMHdvcmslMjBjYXJlZXIlMjBjaGFuZ2V8ZW58MHwwfHx8MTc1NTYzODgzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads remote" title="How to Start Freelancing in 2024 Without Years of Experience" caption="How to Start Freelancing in 2024 Without Years of Experience - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-remote-everything-zhvQmZAoND8)" >}}
 
 > _The future belongs to those who believe in the beauty of their dreams._
 >
-> —Eleanor Roosevelt
+> *Eleanor Roosevelt*
 
 > _Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful._
 >
-> —Albert Schweitzer
+> *Albert Schweitzer*
 
 ---
 

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/ae46cc4d82fd"
 
 Have you ever noticed how much lighter life feels when you cut out the clutter? When you simplify everything, from your morning routine to the things you own, life itself becomes simple. There’s no more searching for lost items, no more frustration over a messy bathroom, and no more feeling overwhelmed by too much stuff. Instead, you gain mental space to focus on what truly matters.
 
-When you choose simplicity, you stop wasting energy on things that don’t deserve your attention. You’re no longer distracted by the endless hunt for things you’ve misplaced or buried under piles of “stuff.” Minimalism isn’t just about having fewer things; it’s about making everything clear and easy. Even cleaning becomes enjoyable because you’re surrounded only by things you love. Yes, quality items might cost more, but you only need one of each. The moment you have two things that serve the same purpose, sell or give away the extra. There are so many platforms for this—Facebook Marketplace is just one example.
+When you choose simplicity, you stop wasting energy on things that don’t deserve your attention. You’re no longer distracted by the constant hunt for things you’ve misplaced or buried under piles of “stuff.” Minimalism isn’t just about having fewer things; it’s about making everything clear and easy. Even cleaning becomes enjoyable because you’re surrounded only by things you love. Yes, quality items might cost more, but you only need one of each. The moment you have two things that serve the same purpose, sell or give away the extra. There are so many platforms for this: Facebook Marketplace is just one example.
 
 Think of stores as your storage space. Why fill your home with things you rarely use? If you need something, the supermarket is always there. Or, you can simply knock on your neighbor’s door and ask to borrow a plate or two when you have guests. Not only does this solve your problem, but it also gives you a chance to connect with your neighbors. If that’s not possible, you can always buy what you need when the situation arises. There’s no need to create problems that don’t exist by cluttering your home with “just in case” items.
 
@@ -27,10 +27,10 @@ The real mindset shift is to simplify your daily life as much as possible and re
 This approach also applies to children’s toys. A few beautiful wooden toys are far better than piles of plastic ones. Plastic toys not only take up space and break easily, but they also set a poor example for children and harm the environment. Too many toys can actually stifle a child’s creativity. When kids play outside with dirt and air, their imagination comes alive. The best toys are those that inspire creativity, not those that end up in the trash after a few uses.
 
 > _Simplicity is the ultimate sophistication._
-— Leonardo da Vinci
+*Leonardo da Vinci*
 
 > _The less you have, the more you see what truly matters._
-— Anonymous
+*Anonymous*
 
 ---
 

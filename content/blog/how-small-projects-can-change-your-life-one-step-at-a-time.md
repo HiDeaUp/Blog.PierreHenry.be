@@ -26,17 +26,17 @@ If you wake up in the morning and don’t know what to do, it’s often because 
 
 {{< figure src="https://images.unsplash.com/photo-1692699203597-b5a4464f3f9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaWNyby1wcm9qZWN0cyUyMHBlcnNvbmFsJTIwZGV2ZWxvcG1lbnQlMjBzbWFsbCUyMGdvYWxzfGVufDB8MHx8fDE3NTY1MTQ1MTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two tiles project update on a table" title="How Small Projects Can Change Your Life One Step at a Time" caption="How Small Projects Can Change Your Life One Step at a Time - Photo by [Matilda Alloway](https://unsplash.com/@matildaonthemove) on [Unsplash](https://unsplash.com/photos/two-scrabble-tiles-spelling-project-update-on-a-table-21mUU21Z20Q)" >}}
 
-Learning is good, but passive learning doesn’t get you far. Watching videos all day is like binge-watching Netflix—it doesn’t lead to real progress. The real change happens when you practice, when you actually build something. That’s how you develop your skills, create a portfolio, and learn in the best possible way.
+Learning is good, but passive learning doesn’t get you far. Watching videos all day is like binge-watching Netflix; it doesn’t lead to real progress. The real change happens when you practice, when you actually build something. That’s how you develop your skills, create a portfolio, and learn in the best possible way.
 
 Over time, these small projects can even turn into micro-businesses or side hustles. You might end up with a whole portfolio of tiny businesses that bring in money over the long term. The key is commitment: learn every day, but also practice every day. Passive learning alone is useless. You have to take action.
 
 When you take action, you build better skills and knowledge for your future. You open new doors, discover new opportunities, and maybe even find your dream career. Step by step, you move closer to the life you want.
 
 > _The best way to predict the future is to create it yourself._
-— Peter Drucker
+*Peter Drucker*
 
 > _Action is the foundational key to all success._
-— Pablo Picasso
+*Pablo Picasso*
 
 So, don’t put off what you want to do. Start today. Decide what kind of life you want, and take the first step. Each small project is a step toward your dream life.
 
@@ -45,7 +45,7 @@ So, don’t put off what you want to do. Start today. Decide what kind of life y
 ---
 
 ## Key Takeaways
-- Start a small personal project—don’t wait for the perfect moment.
+- Start a small personal project: don’t wait for the perfect moment.
 - Passive learning isn’t enough; practice and action are what matter.
 - Every project, no matter how small, helps you build skills and confidence.
 - Over time, these projects can become sources of income or even new careers.

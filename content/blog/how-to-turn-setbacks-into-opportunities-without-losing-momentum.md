@@ -43,12 +43,12 @@ Every business, even something as classic as a bakery, holds hidden chances to g
 Success is also about taking care of your body. Good sleep, healthy food, and a regular routine make a huge difference. When you eat well and sleep at the same time each night, you have more energy and can handle challenges better. It’s a simple step, but it’s often overlooked.
 
 > _Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful._
-— Albert Schweitzer
+*Albert Schweitzer*
 
 {{< figure src="https://images.unsplash.com/photo-1697370011505-b3d3dc0485d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHBlcnNvbmFsJTIwZ3Jvd3RoJTIwcmVzaWxpZW5jZXxlbnwwfDB8fHwxNzU3NDYyOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A branch of a tree with small green leaves" title="How to Turn Setbacks Into Opportunities Without Losing Momentum" caption="How to Turn Setbacks Into Opportunities Without Losing Momentum - Photo by [DL314 Lin](https://unsplash.com/@dickenslin76) on [Unsplash](https://unsplash.com/photos/a-branch-of-a-tree-with-small-green-leaves-ftAk_CHPBdI)" >}}
 
 > _Opportunities are usually disguised as hard work, so most people don’t recognize them._
-— Ann Landers
+*Ann Landers*
 
 ---
 

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/2fe5b9a5fd74"
 
 Resilience is not just about bouncing back from setbacks. It’s about building a mindset of steel, one that keeps you moving forward no matter what. The real secret is to set yourself small, concrete challenges and stick to them, even when the conditions are far from perfect.
 
-Imagine you decide to run every day for a month. Maybe you live near a river, with beautiful hotels lining the banks, and you think, “This is the perfect opportunity to go jogging every day.” But then, it rains. Or maybe it’s so hot that even the birds are hiding. Still, you go out and run. If it’s pouring, you put on your shoes and go anyway. If the heat is unbearable, you get up earlier—maybe at 6 a.m.—to beat the sun. Right now, as I’m sharing this with you, it’s 7:18 in the morning and already quite warm, but that’s no excuse.
+Imagine you decide to run every day for a month. Maybe you live near a river, with beautiful hotels lining the banks, and you think, “This is the perfect opportunity to go jogging every day.” But then, it rains. Or maybe it’s so hot that even the birds are hiding. Still, you go out and run. If it’s pouring, you put on your shoes and go anyway. If the heat is unbearable, you get up earlier, maybe at 6 a.m. to beat the sun. Right now, as I’m sharing this with you, it’s 7:18 in the morning and already quite warm, but that’s no excuse.
 
 This approach goes beyond running. Maybe you want to learn programming. You sign up for a bootcamp and commit to it for two or three months. You set yourself the challenge: before the end of the year, you’ll apply to as many companies as possible and land at least one internship. That’s a motivating goal. It gives you a reason to get up every morning and take action.
 
@@ -25,10 +25,10 @@ This approach goes beyond running. Maybe you want to learn programming. You sign
 What matters most is this drive, this spark that pushes you to keep going, even when things get tough. It’s not about being perfect or never failing. It’s about showing up, rain or shine, and doing what you promised yourself you would do.
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-— Robert Collier
+*Robert Collier*
 
 > _“The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.”_  
-— Vince Lombardi
+*Vince Lombardi*
 
 If you want to go even further in improving your daily life, remember that it all starts with these small, consistent actions. The more you challenge yourself, the more resilient you become.
 

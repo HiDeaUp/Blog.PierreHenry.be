@@ -29,10 +29,10 @@ Sometimes, simply getting some fresh air is enough. If you have a pet, spending 
 The main idea is to do something radically different from what caused your frustration. This break helps your mind reset and lets you move forward with a lighter spirit.
 
 *“Sometimes the most productive thing you can do is relax.”*  
-— Mark Black
+*Mark Black*
 
 *“You can’t stop the waves, but you can learn to surf.”*  
-— Jon Kabat-Zinn
+*Jon Kabat-Zinn*
 
 ---
 

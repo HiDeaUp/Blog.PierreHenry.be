@@ -17,15 +17,15 @@ source_youtube = "https://www.youtube.com/watch?v=dUcLI6BR8Uw"
 
 **Living by Your Values**
 
-Have you ever found yourself doing things that just don’t feel like you? Maybe you keep going to a gym where you never feel at home, or you’re living in a place that doesn’t suit you, or spending time with people who don’t lift you up. Often, these choices aren’t intentional—they’re just the easiest options. We fall into them because they’re convenient, expected, or because someone asked us for help. But what do we lose by always choosing what’s easiest?
+Have you ever found yourself doing things that just don’t feel like you? Maybe you keep going to a gym where you never feel at home, or you’re living in a place that doesn’t suit you, or spending time with people who don’t lift you up. Often, these choices aren’t intentional; they’re just the easiest options. We fall into them because they’re convenient, expected, or because someone asked us for help. But what do we lose by always choosing what’s easiest?
 
 ## The Trap of Default Choices
 
-Too often, we agree to things that don’t align with our values. Maybe it’s a project at work that leaves you uninspired, or a social event you attend out of obligation. Sometimes, we do these things to please people we don’t even care for—or who don’t care for us. We tell ourselves it’s just part of being a good person, or that it’s necessary to fit in. But deep down, we know something’s wrong.
+Too often, we agree to things that don’t align with our values. Maybe it’s a project at work that leaves you uninspired, or a social event you attend out of obligation. Sometimes, we do these things to please people we don’t even care for, or who don’t care for us. We tell ourselves it’s just part of being a good person, or that it’s necessary to fit in. But deep down, we know something’s wrong.
 
 It’s easy to justify these decisions: “The gym is close and cheap, so I should go, even if I hate the atmosphere.” Or, “I should help with this project because it’s the right thing to do, even if it drains me.” But every time you force yourself into a situation that doesn’t fit, you pay a price.
 
-{{< figure src="https://images.unsplash.com/photo-1721272225279-c6612d3be01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMGNoYWlyJTIwaW4lMjBjb3p5JTIwcm9vbXxlbnwwfDB8fHwxNzg1NDc4ODAwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Spaces shaped by habits, not by heart" title="Why Default Choices Can Leave You Feeling Unfulfilled" caption="Spaces shaped by habits, not by heart - Photo by [marke](https://unsplash.com/@sabinajeinku)" >}}
+{{< figure src="https://images.unsplash.com/photo-1721272225279-c6612d3be01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMGNoYWlyJTIwaW4lMjBjb3p5JTIwcm9vbXxlbnwwfDB8fHwxNzg1NDc4ODAwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Spaces influenced by habits, not by heart" title="Why Default Choices Can Leave You Feeling Unfulfilled" caption="Spaces influenced by habits, not by heart - Photo by [marke](https://unsplash.com/@sabinajeinku)" >}}
 
 ## The Courage to Step Back
 
@@ -37,12 +37,12 @@ This isn’t about avoiding all discomfort. Growth often happens outside your co
 
 Here’s the challenge: pause for a moment and ask yourself, “Do I really enjoy this? Does it fill me up?” If the answer is no, give yourself permission to step away.
 
-This isn’t selfish—it’s self-respect. When you honor your values, you make space for projects, relationships, and experiences that matter to you. You stop living by default and start living by design.
+This isn’t selfish; it’s self-respect. When you honor your values, you make space for projects, relationships, and experiences that matter to you. You stop living by default and start living by design.
 
 {{< figure src="https://images.unsplash.com/photo-1746950862748-df7d2c5af81d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoaWtpbmclMjBhbG9uZSUyMG1vdW50YWluJTIwc3VucmlzZXxlbnwwfDB8fHwxNzg1NDc4ODAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Real fulfillment lies beyond the familiar horizon" title="Why Default Choices Can Leave You Feeling Unfulfilled" caption="Real fulfillment lies beyond the familiar horizon - Photo by [Dario Jud](https://unsplash.com/@dariojud_)" >}}
 
 ## Today Is the Best Time to Start
 
-You don’t need to wait for the perfect moment. The best time to realign your life with your values is now. Every day spent on things that don’t resonate is a day lost to what could have been. The sooner you start, the sooner you’ll find yourself on a path that feels right—where your actions and environment reflect who you truly are.
+You don’t need to wait for the perfect moment. The best time to realign your life with your values is now. Every day spent on things that don’t resonate is a day lost to what could have been. The sooner you start, the sooner you’ll find yourself on a path that feels right: where your actions and environment reflect who you truly are.
 
 Take a breath. Ask yourself the hard questions. If something doesn’t fit, let it go. The life you want begins the moment you choose it.

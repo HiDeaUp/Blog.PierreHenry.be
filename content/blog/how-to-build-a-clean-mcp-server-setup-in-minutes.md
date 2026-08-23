@@ -92,7 +92,7 @@ That’s it. It’s a really simple API, but it’s built specifically for my MC
 ## Key Takeaways
 
 - Keep your routes organized in a dedicated file for clarity and scalability.
-- Use environment variables for config like port numbers—don’t hardcode them.
+- Use environment variables for config like port numbers: don’t hardcode them.
 - Fastify, Express, NestJS: pick the framework that fits your style. They all work.
 - Simplicity wins. Don’t overcomplicate your server setup if you don’t need to.
 - “All code is guilty until proven innocent.” (Robert C. Martin)

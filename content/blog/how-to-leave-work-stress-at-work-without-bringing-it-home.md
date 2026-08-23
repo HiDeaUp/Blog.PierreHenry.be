@@ -16,7 +16,7 @@ At some point, most of us have felt the weight of our thoughts, especially those
 
 In many workplaces, negative thoughts and mental strain are common. Even if you work regular hours, say from 9 to 5, the pressure doesn’t always end when you leave your desk. If you work in an office, you might find yourself carrying this mental load long after the workday is over. Sometimes, it’s not about having toxic colleagues, but simply about the constant need to perform and the responsibilities that never seem to let up.
 
-I remember my earlier jobs—summer gigs at Disneyland Paris or Starbucks. When I finished my shift, I felt light, as if I could leave everything behind. But now, as a senior engineer for a large food franchise in Australia, the pressure is different. The responsibilities are bigger, and the expectations are higher. It’s a traditional company, similar to McDonald’s, but with healthier food. The pressure is always there, and it can be overwhelming.
+I remember my earlier jobs: summer gigs at Disneyland Paris or Starbucks. When I finished my shift, I felt light, as if I could leave everything behind. But now, as a senior engineer for a large food franchise in Australia, the pressure is different. The responsibilities are bigger, and the expectations are higher. It’s a traditional company, similar to McDonald’s, but with healthier food. The pressure is always there, and it can be overwhelming.
 
 This mental load becomes even heavier when you’re tired or lacking motivation. That’s when negative thoughts creep in, distracting you and pulling you back into memories of past jobs or difficult managers. These thoughts can drag you down, creating a vicious cycle: the more tired you are, the heavier your mind feels. The more pressure you feel, the less energy and motivation you have. The less motivation you have, the more you get weighed down by these thoughts, and your energy drops even further.
 
@@ -29,10 +29,10 @@ It’s not easy to ignore criticism or pressure, especially when it feels so rea
 The most important thing is not to sacrifice your health. Protect yourself. Life is too short not to be happy, not to feel fulfilled, and not to be appreciated. Make sure you keep a balance. Don’t let work take over your life.
 
 > _“Life is too short to spend it at war with yourself.”_  
-— Unknown
+*Unknown*
 
 > _“You can’t pour from an empty cup. Take care of yourself first.”_  
-— Unknown
+*Unknown*
 
 ---
 

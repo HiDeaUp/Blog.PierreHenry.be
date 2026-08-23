@@ -3,8 +3,8 @@ title = "How to Boost Your Workday by Changing Where You Work"
 slug = "how-to-boost-your-workday-by-changing-where-you-work"
 date = "2025-08-31T21:56:59.832678"
 draft = false
-description = "Working today from the Adelaide Botanic Garden, I can’t help but notice how much the environment shapes my mood and productivity. There’s something special about working in a place you genuinely en..."
-summary = "Working today from the Adelaide Botanic Garden, I can’t help but notice how much the environment shapes my mood and productivity. There’s something special about working in a place you genuinely en..."
+description = "Working today from the Adelaide Botanic Garden, I can’t help but notice how much the environment affects my mood and productivity. There’s something special about working in a place you genuinely en..."
+summary = "Working today from the Adelaide Botanic Garden, I can’t help but notice how much the environment affects my mood and productivity. There’s something special about working in a place you genuinely en..."
 tags = ["money", "nature", "nomad", "productivity", "remote work", "wellbeing", "work environment"]
 priority = true
 priority_topics = ["nomad", "money", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/455876c5e299"
 
 {{< figure src="https://images.unsplash.com/photo-1694057335633-a16d90dc49e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjY0MTQxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting on a couch in front of a laptop" title="How to Boost Your Workday by Changing Where You Work" caption="How to Boost Your Workday by Changing Where You Work - Photo by [Rifki Kurniawan](https://unsplash.com/@kurniawann) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-couch-in-front-of-a-laptop--cbZ5SD8d5I)" >}}
 
-Working today from the Adelaide Botanic Garden, I can’t help but notice how much the environment shapes my mood and productivity. There’s something special about working in a place you genuinely enjoy. It’s relaxing, uplifting, and it makes the whole experience of working so much more pleasant.
+Working today from the Adelaide Botanic Garden, I can’t help but notice how much the environment affects my mood and productivity. There’s something special about working in a place you genuinely enjoy. It’s relaxing, uplifting, and it makes the whole experience of working so much more pleasant.
 
 The first thing I’ve noticed is that a good environment simply makes work more enjoyable. That’s obvious, but it’s worth repeating. The second thing is the boost in energy I get. Personally, I find it much easier to concentrate when I’m surrounded by nature. I know that’s not the case for everyone, but for me, being in a green space helps me focus.
 
@@ -30,11 +30,11 @@ Here’s my laptop, right here in the garden. It’s just great to be out in nat
 
 When I lived in Dublin, I’d sometimes go to Sweden, Norway, Iceland, or Finland for a change of scenery. I love the Nordic countries, but you could just as easily go to Denmark, Luxembourg, Italy, Spain, or Malta. Book an Airbnb near the beach if you’re somewhere warm, or a little cabin if you’re up north. Work remotely on Thursday and Friday, then enjoy the weekend in a new place.
 
-Yes, it can be a bit expensive, but life is short. The money you have is meant to be used, not just saved endlessly. Sometimes we get caught up in always wanting more, but are we really happy right now? That’s what matters most. If you’re always saving but not enjoying your life, what’s the point? You never know how long you have, so it’s important to make the most of it if you can.
+Yes, it can be a bit expensive, but life is short. The money you have is meant to be used, not just saved repeatedly. Sometimes we get caught up in always wanting more, but are we really happy right now? That’s what matters most. If you’re always saving but not enjoying your life, what’s the point? You never know how long you have, so it’s important to make the most of it if you can.
 
 Optimizing your happiness is key. You’ll always find ways to save, but being happy now can actually make you more creative and productive. You might even come up with better business ideas or perform better at work, which could lead to a promotion. When you’re happy and in a great environment, you give your best, and often, the money follows.
 
-Of course, this isn’t possible for everyone, but if it’s an option for you—especially if you’re an engineer, designer, or freelancer—give it a try. The trees here are just amazing. I really encourage you to try this, even just once.
+Of course, this isn’t possible for everyone, but if it’s an option for you (especially if you’re an engineer, designer, or freelancer) give it a try. The trees here are just amazing. I really encourage you to try this, even just once.
 
 I remember working from a cabin in Norway. It was incredible. Sure, after landing at the airport, there’s sometimes a bus ride or two, but that’s part of the adventure. Once you arrive, you work well on Thursday and Friday, and for me, I was always more productive. In winter, with the fireplace crackling, it was just perfect.
 
@@ -42,7 +42,7 @@ So, my suggestion is simple: try working from a place you love, even just once. 
 
 > *The goal of life is to love your life and savor every golden moment.*
 >
-> — Pierre
+> *Pierre*
 
 {{< figure src="https://images.unsplash.com/photo-1752650735615-9829d8008a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3b3JrJTIwZW52aXJvbm1lbnQlMjBwcm9kdWN0aXZpdHklMjB3ZWxsYmVpbmd8ZW58MHwwfHx8MTc1NjY0MTQxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Young blond woman is sitting in office working with computer. She is tired after long day at work." title="How to Boost Your Workday by Changing Where You Work" caption="How to Boost Your Workday by Changing Where You Work - Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack) on [Unsplash](https://unsplash.com/photos/a-woman-appears-stressed-while-working-on-laptop-AP7KmJXEVVI)" >}}
 
@@ -52,9 +52,9 @@ So, my suggestion is simple: try working from a place you love, even just once. 
 
 - Your work environment can make a huge difference in your mood, focus, and energy.
 - Try working from places you genuinely enjoy, especially if you can be close to nature.
-- Don’t be afraid to spend a little to improve your daily life—happiness now is worth it.
+- Don’t be afraid to spend a little to improve your daily life: happiness now is worth it.
 - If your job allows, experiment with remote work from new locations, even if just for a day or two.
-- A great life is built from great days—optimize your daily routine for joy.
+- A great life is built from great days: optimize your daily routine for joy.
 
 ## Reflection
 

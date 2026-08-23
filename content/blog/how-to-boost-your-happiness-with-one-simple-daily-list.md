@@ -18,7 +18,7 @@ Everyone faces those moments when life feels a bit repetitive. The daily grind, 
 
 One idea that has truly changed the way I approach my days is to make sure I set aside at least half an hour to an hour for something that brings me joy. This isn’t about waiting for the weekend or a special occasion. It’s about finding little pockets of time, even on the busiest days, to do something that lifts your spirits.
 
-The best way to make this happen is to keep a list. It could be on your phone, in a notebook, or on a scrap of paper—whatever works for you. Write down two, three, maybe five things that you know always make you happy. These don’t have to be big or complicated. Maybe it’s listening to your favorite song, taking a short walk, reading a few pages of a book, or calling a friend.
+The best way to make this happen is to keep a list. It could be on your phone, in a notebook, or on a scrap of paper: whatever works for you. Write down two, three, maybe five things that you know always make you happy. These don’t have to be big or complicated. Maybe it’s listening to your favorite song, taking a short walk, reading a few pages of a book, or calling a friend.
 
 When you find yourself with a bit of free time or when you feel stuck in a rut, pick something from your list and do it. You’ll notice that you feel more energized and positive. This small boost can help you tackle the less enjoyable tasks with a better attitude. It’s like giving yourself a little reward, which in turn makes it easier to get through the chores and routines.
 
@@ -28,11 +28,11 @@ By focusing on these small moments of pleasure, you’ll find that you’re more
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *The little things? The little moments? They aren’t little.*
 >
-> — Jon Kabat-Zinn
+> *Jon Kabat-Zinn*
 
 ---
 

@@ -31,7 +31,7 @@ Instead of worrying about being perfect, focus on having a few key phrases ready
 Think of conversation like rolling out a red carpet. Once you start, it unrolls by itself. You introduce yourself, ask a question, and soon enough, the talk starts to flow. The more you practice these routines, the more natural they become. Over time, you’ll find that your social instinct grows stronger, and those awkward moments become less frequent.
 
 > _“The best way to get out of your head is to get into the moment with someone else.”_
-— Pierre
+*Pierre*
 
 ## Let the Conversation Unfold
 

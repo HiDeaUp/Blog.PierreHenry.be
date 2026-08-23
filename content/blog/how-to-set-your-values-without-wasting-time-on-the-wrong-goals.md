@@ -29,10 +29,10 @@ Too often, we don’t set enough goals or we don’t make them clear enough. But
 If you want to make this real, write your values and your goals down. Use a notebook, a journal, or even your phone. What matters is to actually do it. This simple step can change everything.
 
 > *“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”*
-— Albert Schweitzer
+*Albert Schweitzer*
 
 > *“Your beliefs become your thoughts, your thoughts become your words, your words become your actions, your actions become your habits, your habits become your values, your values become your destiny.”*
-— Mahatma Gandhi
+*Mahatma Gandhi*
 
 ---
 

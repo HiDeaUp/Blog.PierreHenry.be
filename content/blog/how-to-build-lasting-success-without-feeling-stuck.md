@@ -24,7 +24,7 @@ Have you ever felt lost about what to learn next, or how to move forward with yo
 
 What I’ve discovered is that the journey to achieving your dreams is split in two: half is about learning, and the other half is about doing. Imagine you wake up early, say at 6 or 6:30 in the morning, and dedicate an hour to learning something directly related to your dream or side project. Then, later in the day, you put that new knowledge into action. This approach turns learning into a kind of superpower, letting you immediately apply what you’ve just picked up.
 
-I remember when I lived in Adelaide, South Australia. I would wake up before sunrise, step out onto my balcony, and dive into books—two, sometimes three—on topics connected to my passion project. After my day job, I’d come home and put those ideas into practice. Sometimes I watched videos, attended webinars, or listened to audiobooks. I took notes, used apps to record my thoughts, and made sure to revisit what I’d learned. This habit of active learning—absorbing and then applying—became my secret weapon.
+I remember when I lived in Adelaide, South Australia. I would wake up before sunrise, step out onto my balcony, and dive into books (two, sometimes three) on topics connected to my passion project. After my day job, I’d come home and put those ideas into practice. Sometimes I watched videos, attended webinars, or listened to audiobooks. I took notes, used apps to record my thoughts, and made sure to revisit what I’d learned. This habit of active learning (absorbing and then applying) became my secret weapon.
 
 There’s a big difference between passive and active learning. Passive learning is when you just consume content without doing anything with it. Active learning, on the other hand, is about taking what you’ve learned and using it right away. For example, if I saw a marketing poster, I’d ask myself how I could use that idea in my own business. When I was working on a food app, I’d notice features in other apps and think about how to adapt them for my project.
 
@@ -36,15 +36,15 @@ Another key is to capture your ideas. I used to use apps like Bear or Apple Note
 
 Your environment also plays a huge role. Sometimes, the people you spend time with or the things you keep around you can either help or hurt your progress. If your environment is filled with distractions or negative influences, it can pull you away from your goals. On the other hand, a supportive environment makes it easier to build good habits and take action.
 
-Often, the hardest things are actually the simplest—if you have the right techniques and tools. After years of experimenting, I’ve found that small changes in your daily routine, combined with active learning and a supportive environment, can speed up your progress more than you might expect.
+Often, the hardest things are actually the simplest: if you have the right techniques and tools. After years of experimenting, I’ve found that small changes in your daily routine, combined with active learning and a supportive environment, can speed up your progress more than you might expect.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 >
-> — Will Durant
+> *Will Durant*
 
 ---
 
@@ -52,10 +52,10 @@ Often, the hardest things are actually the simplest—if you have the right tech
 
 ## Key Takeaways
 
-- *Split your time between learning and doing—both are essential.*
+- *Split your time between learning and doing: both are essential.*
 - *Make learning active: apply what you learn right away.*
 - *Capture ideas and review them regularly.*
-- *Shape your environment to support your goals.*
+- *Change your environment to support your goals.*
 - *Consistency beats motivation every time.*
 
 ## Reflection

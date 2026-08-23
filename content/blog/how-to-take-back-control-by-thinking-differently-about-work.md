@@ -30,7 +30,7 @@ First, ask yourself: what would happen if you simply stopped doing the things yo
 
 ## Automate and Delegate
 
-Automation is a powerful tool. In my previous company, we used automation all the time. For example, when someone sent an email, a tool like Zapier would send the message to ChatGPT, which would generate a helpful reply based on a detailed prompt. The prompt included everything ChatGPT needed to know—how to update payment details, how to delete an account, how to find a dashboard, and so on. If the client replied again, then a real person would step in to help. This mix of automation and delegation saved us a lot of time.
+Automation is a powerful tool. In my previous company, we used automation all the time. For example, when someone sent an email, a tool like Zapier would send the message to ChatGPT, which would generate a helpful reply based on a detailed prompt. The prompt included everything ChatGPT needed to know: how to update payment details, how to delete an account, how to find a dashboard, and so on. If the client replied again, then a real person would step in to help. This mix of automation and delegation saved us a lot of time.
 
 You can often combine automation and delegation. Let technology handle the repetitive stuff, and let people handle the exceptions. This frees up your time for things that matter more.
 
@@ -38,15 +38,15 @@ You can often combine automation and delegation. Let technology handle the repet
 
 {{< figure src="https://images.unsplash.com/photo-1740645580467-57444f093646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kc2V0JTIwc2hpZnQlMjBjYXJlZXIlMjBjaGFuZ2UlMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A block change on a table" title="How to Take Back Control by Thinking Differently About Work" caption="How to Take Back Control by Thinking Differently About Work - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-scrabble-block-spelling-change-on-a-table-wVODnQtbFsM)" >}}
 
-Sometimes, we create our own prisons. We convince ourselves there’s no way out, but that’s rarely true. There’s almost always a door—you just have to look for it and be willing to try something different. If you want a different life, you have to do things differently. If you keep repeating the same actions, you’ll keep getting the same results.
+Sometimes, we create our own prisons. We convince ourselves there’s no way out, but that’s rarely true. There’s almost always a door; you just have to look for it and be willing to try something different. If you want a different life, you have to do things differently. If you keep repeating the same actions, you’ll keep getting the same results.
 
 Trying new things means you’ll make mistakes, but you’ll also learn. Over time, you’ll find the solutions that work for you. That’s how you move forward.
 
 ## Organize, Affirm, and Act
 
-A big part of living well is planning ahead. Organize your day the night before. Practice a little self-love—stand in front of the mirror and say something positive to yourself. These small rituals can boost your confidence and help you feel proud of who you are.
+A big part of living well is planning ahead. Organize your day the night before. Practice a little self-love: stand in front of the mirror and say something positive to yourself. These small rituals can boost your confidence and help you feel proud of who you are.
 
-Your posture, your words, and your habits all shape your future. One choice can change everything. Good habits lead to long-term success. Doing nothing—lying in bed all day, watching videos—won’t change your life. Instead, treat each day as an investment. Use your time well, because you can never get it back.
+Your posture, your words, and your habits all build your future. One choice can change everything. Good habits lead to long-term success. Doing nothing (lying in bed all day, watching videos) won’t change your life. Instead, treat each day as an investment. Use your time well, because you can never get it back.
 
 ## The Beauty of the Journey
 
@@ -54,15 +54,15 @@ Life is like a path. If you enjoy what you’re doing, you don’t worry about w
 
 > *If you always do what you’ve always done, you’ll always get what you’ve always got.*
 >
-> — Henry Ford
+> *Henry Ford*
 
 > *There is always a door. Sometimes, you just have to look for it and dare to open it.*
 >
-> — Pierre
+> *Pierre*
 
 > *One choice can change everything. Don’t let today slip away unused.*
 >
-> — Pierre
+> *Pierre*
 
 {{< figure src="https://images.unsplash.com/photo-1662493724051-01a5046b530b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kc2V0JTIwc2hpZnQlMjBjYXJlZXIlMjBjaGFuZ2UlMjBzZWxmJTIwaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="The word change in black lettering" title="How to Take Back Control by Thinking Differently About Work" caption="How to Take Back Control by Thinking Differently About Work - Photo by [Nick Fewings](https://unsplash.com/@jannerboy62) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-sign-nd83DgVp4Oo)" >}}
 
@@ -70,10 +70,10 @@ Life is like a path. If you enjoy what you’re doing, you don’t worry about w
 
 ## Key Takeaways
 
-- There’s always someone who likes what you dislike—don’t feel trapped.
+- There’s always someone who likes what you dislike: don’t feel trapped.
 - Stop doing what you hate, or find ways to automate or delegate it.
 - Automation and delegation free up your time for what matters.
-- Don’t build a prison in your mind—there’s almost always a way out.
+- Don’t build a prison in your mind; there’s almost always a way out.
 - Organize your days, practice self-love, and build good habits.
 - Enjoy the journey, not just the destination.
 

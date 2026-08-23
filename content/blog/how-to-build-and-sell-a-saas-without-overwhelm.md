@@ -24,7 +24,7 @@ A SaaS business only works if you have customers. To get them, you need to think
 
 **Organic channels** are things like YouTube videos, Facebook posts, Instagram, or TikTok content. These take more time but can build trust and a loyal following. Don’t forget about direct methods like forums, word-of-mouth, Reddit posts, Hacker News, cold emailing, or even hiring someone to call prospects with a convincing script (which you can easily create with AI tools).
 
-All these channels feed into your SaaS “machine.” For example, my own SaaS is called Retainer (wi.io), which I built for freelancers and digital agencies. But your SaaS could be anything—maybe a service for selling clothes, dog walking, or something hyper-local for your region.
+All these channels feed into your SaaS “machine.” For example, my own SaaS is called Retainer (wi.io), which I built for freelancers and digital agencies. But your SaaS could be anything, maybe a service for selling clothes, dog walking, or something hyper-local for your region.
 
 ## Go Niche Before You Go Big
 
@@ -34,7 +34,7 @@ Think of it like watering a single plant instead of the whole garden. If you spr
 
 > *If you try to please everyone, you end up pleasing no one.*
 >
-> — Unknown
+> *Unknown*
 
 {{< figure src="https://images.unsplash.com/photo-1619243142206-381c5aeda31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxTYWFTJTIwb25saW5lJTIwc2VydmljZSUyMHN0YXJ0dXB8ZW58MHwwfHx8MTc1NjMzOTY1OHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A lit up sign that says service i and x" title="How to Build and Sell a SaaS Without Overwhelm" caption="How to Build and Sell a SaaS Without Overwhelm - Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn) on [Unsplash](https://unsplash.com/photos/a-lit-up-sign-that-says-service-i-and-x-C1wiFOegks4)" >}}
 
@@ -44,17 +44,17 @@ To market your SaaS well, you need to know exactly who you’re talking to. Crea
 
 Julie is a freelance graphic designer who loves video games and manga. Bastien is a web developer focused on frontend work. Both are perfectionists who want to deliver the best to their clients, but they’re overwhelmed by all the admin work that comes with freelancing.
 
-Retainer (my SaaS) is designed to help them handle payments, operations, workflow, and client communication—all in one place. Knowing these avatars helps me decide where to market. Julie and Bastien spend time on platforms like Fiverr, Upwork, and LinkedIn, not so much on casual social media. So, I focus my efforts there.
+Retainer (my SaaS) is designed to help them handle payments, operations, workflow, and client communication: all in one place. Knowing these avatars helps me decide where to market. Julie and Bastien spend time on platforms like Fiverr, Upwork, and LinkedIn, not so much on casual social media. So, I focus my efforts there.
 
 ## Test, Learn, and Focus
 
-I’ve tried LinkedIn ads, but honestly, they didn’t work well for me. The organic posts on LinkedIn performed better. The same goes for Twitter (now X)—it’s worth testing, but don’t expect miracles. The key is to keep your focus on where your avatars actually spend their time.
+I’ve tried LinkedIn ads, but honestly, they didn’t work well for me. The organic posts on LinkedIn performed better. The same goes for Twitter (now X); it’s worth testing, but don’t expect miracles. The key is to keep your focus on where your avatars actually spend their time.
 
 Having clear avatars helps you write better messages, create more relevant content, and avoid spreading yourself too thin. It’s like the “Pumpkin Plan” from the book of the same name: water only your best pumpkin, not the whole field.
 
-> *Don’t water the whole field—focus on your best pumpkin so it can grow big and strong.*
+> *Don’t water the whole field: focus on your best pumpkin so it can grow big and strong.*
 >
-> — Mike Michalowicz
+> *Mike Michalowicz*
 
 ## Build a Product People Use Every Day
 
@@ -68,7 +68,7 @@ For freelancers and small agencies, my SaaS Retainer is an all-in-one solution. 
 
 > *The best product is the one people actually use every day.*
 >
-> — Adapted from common wisdom
+> *Adapted from common wisdom*
 
 ## Keep Your Focus, Grow Your Impact
 
@@ -79,7 +79,7 @@ In the end, the secret is to focus your energy on what matters: a clear target a
 ## Key Takeaways
 
 - Start with a clear customer profile (avatar) and focus your marketing on where they actually spend time.
-- Go niche before you try to go big—target a specific group or region first.
+- Go niche before you try to go big: target a specific group or region first.
 - Test different acquisition channels, but don’t waste time or money on what doesn’t work.
 - Build a product that solves real problems and becomes part of your users’ daily routine.
 - Offer both monthly and yearly plans for stability, but always focus on delivering value.

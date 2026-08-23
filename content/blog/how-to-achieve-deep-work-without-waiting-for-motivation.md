@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/5e1589975444"
 
 When we talk about focus, most people imagine a burst of motivation, a sudden urge to work, or a magical flow state that just happens. But the truth is, deep work isn’t about waiting for motivation to strike. It’s about creating the right environment and routines that make focus almost automatic.
 
-Let’s start with the idea of isolation. Right now, I’m sitting in a small booth—a pod, really—designed for productivity. It’s a bit like those glass pods you can now buy for your garden, completely sealed off, letting you see the birds and trees while you work. The point is to have a space that’s tailored and optimized for your productivity, away from distractions.
+Let’s start with the idea of isolation. Right now, I’m sitting in a small booth (a pod, really) designed for productivity. It’s a bit like those glass pods you can now buy for your garden, completely sealed off, letting you see the birds and trees while you work. The point is to have a space that’s tailored and optimized for your productivity, away from distractions.
 
-But isolation alone isn’t enough. You need structure. One method I swear by is working in focused sprints—90 minutes of deep work, followed by a real break. Not just any break, but one where you don’t check emails, messages, or even talk to family or friends. Why? Because every notification, every conversation, even the positive ones, takes up mental space. It pulls your mind away from the task and fills your head with new thoughts and to-dos.
+But isolation alone isn’t enough. You need structure. One method I swear by is working in focused sprints: 90 minutes of deep work, followed by a real break. Not just any break, but one where you don’t check emails, messages, or even talk to family or friends. Why? Because every notification, every conversation, even the positive ones, takes up mental space. It pulls your mind away from the task and fills your head with new thoughts and to-dos.
 
 Instead, use your break to relax: walk your dog, pet your cat, or just stretch your legs. The goal is to let your brain breathe, not fill it with more noise.
 
@@ -28,17 +28,17 @@ To keep myself on track, I use a Pomodoro timer app called Focus. It’s simple:
 
 But what happens after your sprint? This is where planning comes in. Have a clear plan for your day, so you know exactly what to do after each work session. Don’t leave it up to chance, or you’ll end up wasting time deciding what’s next.
 
-Another trick: anchor your tasks to existing routines. For example, if you have breakfast every morning, use that time to review an article or do a quick read-through. This habit stacking—linking a new habit to an existing one—makes it much harder to procrastinate.
+Another trick: anchor your tasks to existing routines. For example, if you have breakfast every morning, use that time to review an article or do a quick read-through. This habit stacking (linking a new habit to an existing one) makes it much harder to procrastinate.
 
-Long-term planning matters too. Map out your week with clear goals. Ask yourself: What’s my main objective this week? What small steps can I take each day to get there? If you’re a writer, for instance, don’t just plan to “write”—decide what kind of article you’ll work on, or what specific pitch you’ll send.
+Long-term planning matters too. Map out your week with clear goals. Ask yourself: What’s my main objective this week? What small steps can I take each day to get there? If you’re a writer, for instance, don’t just plan to “write”: decide what kind of article you’ll work on, or what specific pitch you’ll send.
 
 The bottom line: Deep work isn’t about waiting for motivation. It’s about building an environment and routines that make focus the default, not the exception.
 
 > *“You do not rise to the level of your goals. You fall to the level of your systems.”*  
-— James Clear
+*James Clear*
 
 > *“The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.”*  
-— Cal Newport
+*Cal Newport*
 
 ---
 
@@ -48,7 +48,7 @@ The bottom line: Deep work isn’t about waiting for motivation. It’s about bu
 
 - Deep work is about environment and routine, not motivation.
 - Isolate yourself in a space optimized for focus.
-- Work in sprints (e.g., 90 minutes), then take real breaks—no emails, no messages.
+- Work in sprints (e.g. 90 minutes), then take real breaks: no emails, no messages.
 - Anchor new habits to existing routines (habit stacking).
 - Plan your days and weeks in advance with clear, specific tasks.
 

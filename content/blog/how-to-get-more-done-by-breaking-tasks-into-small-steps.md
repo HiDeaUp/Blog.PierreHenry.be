@@ -18,7 +18,7 @@ Productivity always wins. When you are productive, when you get things done in a
 
 For example, you might decide, “From now until forty-five minutes from now, I’m going to finish this task.” Or you might say, “Every morning, I’ll spend twenty minutes on this one thing.” Sometimes, you might even go for a ninety-minute sprint and ask yourself, “What task can I break into smaller pieces and tackle in this focused block of time?”
 
-Let’s say you have a big project, like creating a software program. That can feel overwhelming if you look at it as one giant task. But if you break it down into smaller steps—like building the sign-up page, saving data in a database, setting up sessions and logins, working on the frontend, and finally hosting it—you suddenly have a clear path. Each step is manageable. You can even split these into tickets or mini-tasks, each taking thirty to forty-five minutes, or up to ninety minutes.
+Let’s say you have a big project, like creating a software program. That can feel overwhelming if you look at it as one giant task. But if you break it down into smaller steps (like building the sign-up page, saving data in a database, setting up sessions and logins, working on the frontend, and finally hosting it) you suddenly have a clear path. Each step is manageable. You can even split these into tickets or mini-tasks, each taking thirty to forty-five minutes, or up to ninety minutes.
 
 {{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcHJvZHVjdGl2aXR5JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NjQ1MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Get More Done by Breaking Tasks Into Small Steps" caption="How to Get More Done by Breaking Tasks Into Small Steps - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
@@ -27,10 +27,10 @@ This approach makes everything feel lighter. The friction to get started drops b
 That’s the real power of good organization and breaking things down. It’s not just about getting things done; it’s about making it easier to start and keep going. Planning your day the night before, or even just splitting your tasks into bite-sized pieces, can make all the difference.
 
 > _“The secret of getting ahead is getting started.”_  
-— Mark Twain
+*Mark Twain*
 
 > _“Great things are not done by impulse, but by a series of small things brought together.”_  
-— Vincent Van Gogh
+*Vincent Van Gogh*
 
 ---
 

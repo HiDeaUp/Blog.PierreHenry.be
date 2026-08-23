@@ -27,10 +27,10 @@ The real surprise is how quickly your mind starts to work this way once you get 
 The more you push yourself to find these connections, the more natural it becomes. Your daily life gets easier, bit by bit, as you find clever fixes for the little things that bug you.
 
 > *Creativity is just connecting things.*
-— Steve Jobs
+*Steve Jobs*
 
 > *The best way to have a good idea is to have a lot of ideas.*
-— Linus Pauling
+*Linus Pauling*
 
 ---
 

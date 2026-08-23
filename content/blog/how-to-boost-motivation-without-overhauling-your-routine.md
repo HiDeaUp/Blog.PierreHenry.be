@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/5dd0b6ff9e44"
 
 {{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY1MDgxMzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Boost Motivation Without Overhauling Your Routine" caption="How to Boost Motivation Without Overhauling Your Routine - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
-Motivation is not just a buzzword. It is the fuel that gets you out of bed in the morning, helps you focus on your work, and keeps you moving forward even when your mind starts to wander. We all know those moments when our thoughts drift, and suddenly, we are thinking about everything except the task at hand. It is easy to get lost in the endless list of things to do. But what if you could change your perspective and bring more energy and satisfaction into your daily routine?
+Motivation is not just a buzzword. It is the fuel that gets you out of bed in the morning, helps you focus on your work, and keeps you moving forward even when your mind starts to wander. We all know those moments when our thoughts drift, and suddenly, we are thinking about everything except the task at hand. It is easy to get lost in the long list of things to do. But what if you could change your perspective and bring more energy and satisfaction into your daily routine?
 
 One of the most powerful things you can do is to set a clear goal for your day. Tell yourself, “This is what I am going to do now.” Imagine yourself once you have finished that task. Picture the satisfaction and gratitude you will feel. For me, when I am working on something, I think about how proud and happy I will be once it is done. That feeling of accomplishment is a reward in itself.
 
@@ -33,10 +33,10 @@ Some people might say it is a waste of money. But if you finish things faster an
 I promise, if you start celebrating your small victories and shift your perspective, your days will be filled with more motivation and positive energy. Life is short. You deserve days full of motivation and joy.
 
 > *Happiness is not something ready made. It comes from your own actions.*
-— Dalai Lama
+*Dalai Lama*
 
 > *Celebrate every tiny victory. Each one is a step toward a more fulfilling life.*
-— Anonymous
+*Anonymous*
 
 {{< figure src="https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGRhaWx5JTIwaGFiaXRzfGVufDB8MHx8fDE3NTY1MDgxMzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="lisbon, run, stair steps, man running, sport" title="How to Boost Motivation Without Overhauling Your Routine" caption="How to Boost Motivation Without Overhauling Your Routine - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)" >}}
 

@@ -18,9 +18,9 @@ Many people go through life as if they’re passengers on a train: wake up, go t
 
 But what if you decided to become the main actor in your own story? What if you made your happiness and fulfillment your top priority, above all else?
 
-Right now, I’m standing in a beautiful spot in nature, and it reminds me just how important it is to make choices that bring you joy. It sounds obvious, but so many of us don’t make enough decisions for ourselves. We’re not as independent as we should be when it comes to shaping our lives and making choices that matter.
+Right now, I’m standing in a beautiful spot in nature, and it reminds me just how important it is to make choices that bring you joy. It sounds obvious, but so many of us don’t make enough decisions for ourselves. We’re not as independent as we should be when it comes to influencing our lives and making choices that matter.
 
-Being independent and making your own choices should feel natural. If tomorrow I wanted to spend three weeks in Iceland, I’d take time off and go. Of course, you might think, “I don’t have time,” or “I have a family,” or “I don’t have the money.” But if something is truly your number one priority, you’ll find a way to make it happen. If it isn’t, then it’s just not at the top of your list, and that’s okay—but be honest with yourself about it.
+Being independent and making your own choices should feel natural. If tomorrow I wanted to spend three weeks in Iceland, I’d take time off and go. Of course, you might think, “I don’t have time,” or “I have a family,” or “I don’t have the money.” But if something is truly your number one priority, you’ll find a way to make it happen. If it isn’t, then it’s just not at the top of your list, and that’s okay, but be honest with yourself about it.
 
 {{< figure src="https://images.unsplash.com/photo-1623314688217-1a365a26dcce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWVtcG93ZXJtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBsaWZlJTIwY2hvaWNlc3xlbnwwfDB8fHwxNzU2MDExNTg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A wooden block that says i am the life" title="How to Take Charge of Your Life Without Waiting for Permission" caption="How to Take Charge of Your Life Without Waiting for Permission - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/a-scrabbled-wooden-block-that-says-i-am-the-life-2qyV8jYF8X8)" >}}
 
@@ -32,22 +32,22 @@ The goal of life is to be happy. If you’re just enduring your days and not cha
 
 Even as I walk, I notice how my mood shifts depending on my surroundings. When I’m close to nature, I feel better. If you love something, like the countryside, and it’s not in your life, make it a priority to bring it in. If you want it badly enough, you’ll find a way.
 
-> *If the path is beautiful and pleasant, you don’t wonder where it leads—you just keep going because it feels right.*
-> —Anonymous
+> *If the path is beautiful and pleasant, you don’t wonder where it leads; you just keep going because it feels right.*
+> *Anonymous*
 
 This is what it means to have a job or a passion that fits your lifestyle. When you love what you do, it becomes a natural part of your life. You’ll do better work, be more effective, and stand out from others because you’re driven by genuine happiness.
 
 {{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWVtcG93ZXJtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBsaWZlJTIwY2hvaWNlc3xlbnwwfDB8fHwxNzU2MDExNTg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Take Charge of Your Life Without Waiting for Permission" caption="How to Take Charge of Your Life Without Waiting for Permission - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
-Remember, even if the weather is gloomy, the sun is still behind the clouds. It’s the same with happiness. Some days are gray, but it’s up to you to decide how you interpret things. Worry and stress don’t solve anything. It’s your actions and mindset that shape your life.
+Remember, even if the weather is gloomy, the sun is still behind the clouds. It’s the same with happiness. Some days are gray, but it’s up to you to decide how you interpret things. Worry and stress don’t solve anything. It’s your actions and mindset that influence your life.
 
 ---
 
 ## Key Takeaways
 - Rate your day and adjust until you reach fulfillment.
-- Make your dreams your top priority—if you want something enough, you’ll make it happen.
+- Make your dreams your top priority: if you want something enough, you’ll make it happen.
 - Your happiness depends on your choices, not your circumstances.
-- Don’t wait for the “right time”—take action now.
+- Don’t wait for the “right time”: take action now.
 
 ## Reflection
 - Are you the main actor in your life, or just a passenger?

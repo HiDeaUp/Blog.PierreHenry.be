@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/4f6e998f395a"
 
 When you pour all your energy into a single goal, something incredible happens. You become unstoppable. The moment you decide to give 300, even 3,000 percent to one project, refusing to give up until you succeed, you set yourself up for the best chance at real achievement.
 
-This isn’t just about working hard. It’s about being so determined, so persistent, and so sure of your path that you can’t help but get results—often much faster than you’d expect. The real danger isn’t failure. It’s distraction. Spreading yourself thin across too many projects or trying to multitask can feel productive, but it’s a trap. When your mind is constantly jumping from one thing to another, you lose the deep focus needed to solve tough problems and make real progress.
+This isn’t just about working hard. It’s about being so determined, so persistent, and so sure of your path that you can’t help but get results: often much faster than you’d expect. The real danger isn’t failure. It’s distraction. Spreading yourself thin across too many projects or trying to multitask can feel productive, but it’s a trap. When your mind is constantly jumping from one thing to another, you lose the deep focus needed to solve tough problems and make real progress.
 
 Imagine if you spent every waking moment thinking about how to solve just one challenge. Your mind would eventually come up with solutions you never would have considered otherwise. This is the ultimate way forward.
 
@@ -26,15 +26,15 @@ There’s a saying: *If you really want something, anything is possible.* When y
 
 > *When you want something so much that you give it everything, you’ll find solutions you never imagined.*
 >
-> — Anonymous
+> *Anonymous*
 
-The real key is focus. Don’t let yourself get distracted—not by competitors, not by friends doing different things, not by the idea that the grass is greener elsewhere. Make everything else invisible. Be 3,000 percent in your own lane.
+The real key is focus. Don’t let yourself get distracted, not by competitors, not by friends doing different things, not by the idea that the grass is greener elsewhere. Make everything else invisible. Be 3,000 percent in your own lane.
 
 This is the same principle behind deep work. When you sit down for a few hours of deep, focused work, everything else fades away. You’re in your productivity bubble, just you and your task. Even if there were chaos around you, you wouldn’t notice. That’s how powerful focus can be.
 
 Of course, building this kind of focus takes practice. Your brain needs training to resist distractions and wandering thoughts. That’s why meditation is so helpful. Meditating every day is like lifting weights for your mind. Over time, you get better at staying centered on one thing.
 
-Here’s a trick: sometimes, trying too hard to focus can backfire. If you tell yourself, “I must sleep now,” you put pressure on yourself and can’t sleep. But if you say, “I don’t need to sleep, I’ll just lie here,” you relax and drift off. The same goes for focus—sometimes letting go a little helps you get into the zone.
+Here’s a trick: sometimes, trying too hard to focus can backfire. If you tell yourself, “I must sleep now,” you put pressure on yourself and can’t sleep. But if you say, “I don’t need to sleep, I’ll just lie here,” you relax and drift off. The same goes for focus: sometimes letting go a little helps you get into the zone.
 
 In the end, the number one key to success is focus. Don’t let yourself get distracted by what others are doing. Ignore the noise. Put all your energy and attention into what matters most to you. That’s how you win.
 
@@ -42,13 +42,13 @@ In the end, the number one key to success is focus. Don’t let yourself get dis
 
 > *Focus is the number one key to success. Everything else is just noise.*
 >
-> — Anonymous
+> *Anonymous*
 
 ---
 
 ## Key Takeaways
 - *Put all your energy into one goal for the fastest results.*
-- *Distraction is the real enemy—avoid multitasking and spreading yourself thin.*
+- *Distraction is the real enemy: avoid multitasking and spreading yourself thin.*
 - *Practice deep work and meditation to train your focus.*
 - *Ignore what others are doing and stay in your own lane.*
 

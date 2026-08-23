@@ -20,7 +20,7 @@ Think about it: a fork and a knife are just utensils, but together, they make ea
 
 This isn’t just about inventions. You can use this method in your daily life, your business, or even your personal routines. If you love two different things, ask yourself: how can I mix them to create my ideal day or lifestyle?
 
-Let’s say you’re passionate about Japan and you also love crêpes. Why not create a fusion kitchen? That’s how “fusion restaurants” are born—by mixing French desserts like crêpes with Japanese flavors. Koreans are masters at this. For example, the “croffle” is a mix of a croissant and a waffle. Or the “cronut,” which blends a donut and a croissant. These creative combinations are everywhere in Korea because people enjoy trying new things.
+Let’s say you’re passionate about Japan and you also love crêpes. Why not create a fusion kitchen? That’s how “fusion restaurants” are born: by mixing French desserts like crêpes with Japanese flavors. Koreans are masters at this. For example, the “croffle” is a mix of a croissant and a waffle. Or the “cronut,” which blends a donut and a croissant. These creative combinations are everywhere in Korea because people enjoy trying new things.
 
 There’s even a trend where hotels and vacations are combined into “resorts.” You stay in a hotel, but it feels like a full vacation experience. Even the word “selfie” is an association: “self” and “photography” combined to describe taking a photo of yourself.
 
@@ -35,10 +35,10 @@ The real magic happens when you take action. Don’t wait for the perfect moment
 I believe in you 100%. Go for it. Try new combinations, create your own methods, and see how far you can go. The power of association is often underestimated, but it can truly change your life.
 
 > *If you want something you’ve never had, you must be willing to do something you’ve never done.*
-> — Thomas Jefferson
+> *Thomas Jefferson*
 
 > *Creativity is just connecting things.*
-> — Steve Jobs
+> *Steve Jobs*
 
 ---
 

@@ -18,7 +18,7 @@ Investing yourself in a project is never as easy as it seems at the beginning. A
 
 This drop in motivation is completely normal. It’s usually after the first few weeks that you start to lose steam. The temptation to quit is at its highest right then. You might stop working on your project, skip a day of writing if you’re working on a book, or just let things slide. The enthusiasm you had at the start seems far away.
 
-So, what can you do when you hit this wall? The answer is to set yourself challenges—real, personal challenges that are tied to what you actually enjoy. If you don’t add a bit of spice to your main project, you’ll eventually stop working on it. You might skip creating content, stop learning, or just let your project gather dust. That’s when you need to take back control, to “grab the reins,” as we say. If you don’t, you’ll end up at the exit door before you’ve even given your project a real chance.
+So, what can you do when you hit this wall? The answer is to set yourself challenges: real, personal challenges that are tied to what you actually enjoy. If you don’t add a bit of spice to your main project, you’ll eventually stop working on it. You might skip creating content, stop learning, or just let your project gather dust. That’s when you need to take back control, to “grab the reins,” as we say. If you don’t, you’ll end up at the exit door before you’ve even given your project a real chance.
 
 But there’s a difference between being persistent and being stubborn. Stubbornness is when you keep pushing at something that clearly isn’t working, just for the sake of it. It’s like banging your head against a wall, hoping it’ll eventually give way. That’s not helpful. Persistence, on the other hand, is believing in your project and knowing that it can work if you keep going. It’s about continuing with purpose, not just out of habit.
 
@@ -29,16 +29,16 @@ Persistence is a rare and valuable quality. It’s something you can be proud of
 The key is to make persistence a habit. Work on your project every day, even if it’s just a little bit. Once it becomes part of your routine, it gets easier. It becomes second nature, and you don’t have to force yourself anymore.
 
 > *Success is not the result of spontaneous combustion. You must set yourself on fire.*  
-— Arnold H. Glasow
+: Arnold H. Glasow
 
 > *Perseverance is not a long race; it is many short races one after the other.*  
-— Walter Elliot
+*Walter Elliot*
 
 ---
 
 ## Key Takeaways
 
-- *Motivation fades after the initial excitement—this is normal.*
+- *Motivation fades after the initial excitement; this is normal.*
 - *Set personal, meaningful challenges to keep your project interesting.*
 - *Persistence is valuable, but don’t confuse it with stubbornness.*
 - *Make working on your project a daily habit to build momentum.*

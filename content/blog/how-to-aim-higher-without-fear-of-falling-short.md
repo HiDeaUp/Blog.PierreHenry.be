@@ -24,13 +24,13 @@ But ambition alone isn’t enough. Your goal needs to be specific. Give it a dea
 
 > *Shoot for the moon. Even if you miss, you'll land among the stars.*
 >
-> — Norman Vincent Peale
+> *Norman Vincent Peale*
 
 > *Ambition is enthusiasm with a purpose.*
 >
-> — Frank Tyger
+> *Frank Tyger*
 
-Mental strength is about being a little bit “vicious” with your goals—never settling for less, always pushing for more. It’s about being honest with yourself about what you want, and not being afraid to go after it with everything you have.
+Mental strength is about being a little bit “vicious” with your goals: never settling for less, always pushing for more. It’s about being honest with yourself about what you want, and not being afraid to go after it with everything you have.
 
 ---
 
@@ -40,7 +40,7 @@ Mental strength is about being a little bit “vicious” with your goals—neve
 - Set ambitious goals that excite you.
 - Make your objectives specific and give them a deadline.
 - Let your goal become a daily focus.
-- Don’t be afraid to aim high—even if you fall short, you’ll still move forward.
+- Don’t be afraid to aim high: even if you fall short, you’ll still move forward.
 
 ## Reflection
 - Are your goals ambitious enough to motivate you every day?

@@ -18,9 +18,9 @@ Sleep debt is a silent problem that most of us carry without even realizing it. 
 
 Even losing just half an hour of sleep each night adds up. It might not seem like much, but over weeks and months, that missing sleep becomes a real burden. This is what we call sleep debt. If you’re curious, you can look up the term online, but the idea is simple: every night you sleep less than you need, you’re borrowing from your own energy and well-being.
 
-I remember reading about this while sitting in a café, reflecting on how our culture shapes our decisions, including how we sleep. What struck me is how important it is to set a regular sleep schedule. Many people try to fix their sleep by going to bed earlier once in a while, but the real trick is to wake up at the same time every day. The time you get up is more important than the time you go to bed.
+I remember reading about this while sitting in a café, reflecting on how our culture affects our decisions, including how we sleep. What struck me is how important it is to set a regular sleep schedule. Many people try to fix their sleep by going to bed earlier once in a while, but the real trick is to wake up at the same time every day. The time you get up is more important than the time you go to bed.
 
-If you keep your wake-up time steady—say, always getting up at 9 a.m.—you’ll feel much more rested and alert, even if you sometimes go to bed later than you’d like. Consistency is key. Of course, it’s ideal to go to bed at the same time too, but if you can’t manage both, at least protect your morning routine.
+If you keep your wake-up time steady: say, always getting up at 9 a.m. you’ll feel much more rested and alert, even if you sometimes go to bed later than you’d like. Consistency is key. Of course, it’s ideal to go to bed at the same time too, but if you can’t manage both, at least protect your morning routine.
 
 {{< figure src="https://images.unsplash.com/photo-1603804449836-b2e7d05a7bd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzbGVlcCUyMGRlYnQlMjBzbGVlcCUyMGhlYWx0aCUyMHJlc3RvcmF0aW9ufGVufDB8MHx8fDE3NTYxMTA2MDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Repay Your Sleep Debt Without Losing Your Routine" caption="How to Repay Your Sleep Debt Without Losing Your Routine - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-6AAUOte2KAY)" >}}
 
@@ -28,18 +28,18 @@ Try this: for a week, go to bed just twenty minutes earlier than usual, but alwa
 
 > *The best bridge between despair and hope is a good night’s sleep.*
 >
-> — E. Joseph Cossman
+> *E. Joseph Cossman*
 
 > *Sleep is the golden chain that ties health and our bodies together.*
 >
-> — Thomas Dekker
+> *Thomas Dekker*
 
 ---
 
 ## Key Takeaways
 
 - Sleep debt builds up when you regularly miss out on sleep, even by just half an hour.
-- Our modern habits—TV, internet, phones—have slowly stolen our sleep.
+- Our modern habits (TV, internet, phones) have slowly stolen our sleep.
 - The most important thing is to wake up at the same time every day.
 - Try going to bed a bit earlier for a week, but always keep your wake-up time steady.
 - You’ll feel more rested, focused, and energetic.

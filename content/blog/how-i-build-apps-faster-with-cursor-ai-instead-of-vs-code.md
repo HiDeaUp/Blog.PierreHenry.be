@@ -16,11 +16,11 @@ source_medium = "https://medium.com/@phenrysay/03292da11e25"
 
 Let me walk you through something I genuinely enjoy about working with Cursor: it just gets out of my way and does things for me. For example, when I’m building an app, Cursor will automatically try to execute the right program. So, if I’m working on an iOS app, it’ll run `npm run ios` and fire up the emulator without me having to fiddle around. Same deal for Android. That’s a feature I really appreciate, because honestly, I don’t want to spend time on boilerplate stuff like launching emulators.
 
-I’ve used Copilot and other AI assistants in JetBrains IDEs, and they just don’t offer this kind of automation. Cursor goes way beyond what you get from the usual AI copilot plugins or IDE tools. It’s not just about code suggestions—it’s about actually running your project and managing the workflow.
+I’ve used Copilot and other AI assistants in JetBrains IDEs, and they just don’t offer this kind of automation. Cursor goes way beyond what you get from the usual AI copilot plugins or IDE tools. It’s not just about code suggestions; it’s about actually running your project and managing the workflow.
 
 ### Debugging and Project Structure Fixes
 
-Now, not everything is always smooth. Sometimes you’ll open your app and the screen is just blank. That happened to me—the simulator was running, but nothing was showing up. Turns out, my `src` folder was empty. So, I switched to edit mode, moved the `src` folder to the right place, and that sorted it out. Cursor made it easy to spot and fix the issue.
+Now, not everything is always smooth. Sometimes you’ll open your app and the screen is just blank. That happened to me: the simulator was running, but nothing was showing up. Turns out, my `src` folder was empty. So, I switched to edit mode, moved the `src` folder to the right place, and that sorted it out. Cursor made it easy to spot and fix the issue.
 
 Here’s a quick example of what I did:
 ```bash
@@ -35,7 +35,7 @@ and waited for the iOS emulator to spin up. This time, the app loaded as expecte
 
 ### Building Features and UI
 
-I wanted the app to show sleep statistics—like, if I slept from 6 to 9, it should tell me how much sleep I got, and display stats for today as well as the whole week (Monday to Sunday). Turns out, Cursor’s AI was smart enough to already have some of that logic in place. Sometimes I doubt it, but then I check and, yeah, it’s already there. That’s pretty cool.
+I wanted the app to show sleep statistics, like, if I slept from 6 to 9, it should tell me how much sleep I got, and display stats for today as well as the whole week (Monday to Sunday). Turns out, Cursor’s AI was smart enough to already have some of that logic in place. Sometimes I doubt it, but then I check and, yeah, it’s already there. That’s pretty cool.
 
 {{< figure src="https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxDdXJzb3IlMjBBSSUyMGFwcCUyMGRldmVsb3BtZW50JTIwVlMlMjBDb2RlJTIwYWx0ZXJuYXRpdmV8ZW58MHwwfHx8MTc2NzEwMTU1MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Turned on macbook pro" title="How I Build Apps Faster With Cursor AI Instead of VS Code" caption="How I Build Apps Faster With Cursor AI Instead of VS Code - Photo by [Safar Safarov](https://unsplash.com/@safarslife) on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c)" >}}
 
@@ -51,7 +51,7 @@ Here’s what that looked like:
 npm install
 npm run build-deployer
 ```
-If something didn’t work—like a missing package version—I could just copy the error into Cursor’s chat and ask for help. That’s super handy. If you hit a wall, you can always run `expo build` manually, but having the AI there to troubleshoot is a big time-saver.
+If something didn’t work (like a missing package version) I could just copy the error into Cursor’s chat and ask for help. That’s super handy. If you hit a wall, you can always run `expo build` manually, but having the AI there to troubleshoot is a big time-saver.
 
 ### Git Integration and Commit Messages
 
@@ -65,9 +65,9 @@ Then I push to a new private repo on GitHub. Cursor even finds errors by itself 
 
 ### Handling Permissions and Final Steps
 
-Sometimes you’ll hit permission issues when deploying. If that happens, just type your password when prompted, and you’re good. Cursor will walk you through the rest—submitting to the App Store, testing, and even updating your README with deployment instructions.
+Sometimes you’ll hit permission issues when deploying. If that happens, just type your password when prompted, and you’re good. Cursor will walk you through the rest: submitting to the App Store, testing, and even updating your README with deployment instructions.
 
-**It’s really exciting to see how much Cursor automates. It’s not just an AI code assistant—it’s like having a junior developer who handles the boring stuff and lets you focus on building.**
+**It’s really exciting to see how much Cursor automates. It’s not just an AI code assistant; it’s like having a junior developer who handles the boring stuff and lets you focus on building.**
 
 ---
 
@@ -77,7 +77,7 @@ Sometimes you’ll hit permission issues when deploying. If that happens, just t
 
 - Cursor automates project setup, emulator launching, and even deployment scripts, saving tons of time.
 - The AI assistant is more proactive than Copilot or JetBrains plugins, handling workflow tasks, not just code suggestions.
-- Debugging is easier—just ask Cursor about errors, and it’ll help you fix them or generate scripts.
+- Debugging is easier: just ask Cursor about errors, and it’ll help you fix them or generate scripts.
 - Git integration is smooth, with AI-generated commit messages and error detection.
 - Cursor’s automation lets you focus on building features, not fighting with your tools.
 

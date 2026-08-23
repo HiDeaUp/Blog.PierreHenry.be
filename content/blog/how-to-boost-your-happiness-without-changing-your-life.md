@@ -30,11 +30,11 @@ I am with you, truly, and I hope these thoughts help you. Wishing you a wonderfu
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *The best way to pay for a lovely moment is to enjoy it.*
 >
-> — Richard Bach
+> *Richard Bach*
 
 ---
 

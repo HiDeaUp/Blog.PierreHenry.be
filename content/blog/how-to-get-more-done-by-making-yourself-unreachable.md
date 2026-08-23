@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/9228a197054e"
 
 Have you ever tried to work on something important and wished you could just cut the world off for a while? There’s a principle I live by: I am not to be disturbed, no matter what. This simple rule has changed the way I work and helped me get more done in less time.
 
-When you want to focus, you need to make yourself unreachable. That means turning off every notification, putting your phone away—out of sight, out of mind—and giving your full attention to the task at hand. I used to use apps like Forest or Flora to help with this, but now I just switch my phone off and hide it somewhere I can’t see it. The temptation disappears, and I can finally concentrate.
+When you want to focus, you need to make yourself unreachable. That means turning off every notification, putting your phone away (out of sight, out of mind), and giving your full attention to the task at hand. I used to use apps like Forest or Flora to help with this, but now I just switch my phone off and hide it somewhere I can’t see it. The temptation disappears, and I can finally concentrate.
 
-Writing is a big part of my life. I love it, and to keep distractions at bay, I use a Freewrite typewriter. It’s a bit pricey, but if you’re easily distracted, it’s worth every penny. If that’s not for you, just clear your computer of anything that could break your focus. Tell everyone around you that you’re not available—no calls, no messages, nothing—especially during your chosen focus time, like Saturday mornings. Once people know you’re off-limits during those hours, they’ll stop trying to reach you, and you’ll have a clear mind to get your work done.
+Writing is a big part of my life. I love it, and to keep distractions at bay, I use a Freewrite typewriter. It’s a bit pricey, but if you’re easily distracted, it’s worth every penny. If that’s not for you, just clear your computer of anything that could break your focus. Tell everyone around you that you’re not available (no calls, no messages, nothing) especially during your chosen focus time, like Saturday mornings. Once people know you’re off-limits during those hours, they’ll stop trying to reach you, and you’ll have a clear mind to get your work done.
 
 Setting up this kind of routine is key. For me, Saturday mornings are sacred. My friends and family know I’m in “hermit mode” and can’t be disturbed. You should create your own routine like this. When people know you’re not available, you don’t have to worry about missing out or feeling guilty. Your mind is free, and you can give your best to whatever you’re doing.
 
@@ -26,13 +26,13 @@ Setting up this kind of routine is key. For me, Saturday mornings are sacred. My
 
 Another habit that helps is meditation. Before I start my deep work session, I meditate for five minutes. This trains my brain not to wander, not to get caught up in random thoughts or worries. I focus on my breath, the sound of birds, or just the air around me. Doing this every day makes your mind stronger and more disciplined. Instead of thinking about the milk you need to put in the fridge or the call you forgot to make, you stay present and focused.
 
-This discipline leads to better productivity and helps you get into the “zone”—that state where everything just flows. I call these sessions my “I am not to be disturbed” time, but you can name them whatever you like. The important thing is to protect this time fiercely.
+This discipline leads to better productivity and helps you get into the “zone”; that state where everything just flows. I call these sessions my “I am not to be disturbed” time, but you can name them whatever you like. The important thing is to protect this time fiercely.
 
-> _“The ability to concentrate and to use your time well is everything if you want to succeed in business—or almost anywhere else for that matter.”_
-— Lee Iacocca
+> _“The ability to concentrate and to use your time well is everything if you want to succeed in business, or almost anywhere else for that matter.”_
+*Lee Iacocca*
 
-> _“You have to decide what your highest priorities are and have the courage—pleasantly, smilingly, non-apologetically—to say ‘no’ to other things. And the way to do that is by having a bigger ‘yes’ burning inside.”_
-— Stephen Covey
+> _“You have to decide what your highest priorities are and have the courage (pleasantly, smilingly, non-apologetically) to say ‘no’ to other things. And the way to do that is by having a bigger ‘yes’ burning inside.”_
+*Stephen Covey*
 
 ---
 
@@ -40,7 +40,7 @@ This discipline leads to better productivity and helps you get into the “zone�
 
 ## Key Takeaways
 
-- Make yourself unreachable during deep work sessions—turn off your phone, clear distractions, and let people know you’re not available.
+- Make yourself unreachable during deep work sessions: turn off your phone, clear distractions, and let people know you’re not available.
 - Build a routine so others respect your focus time.
 - Meditate before starting to train your mind to stay present and disciplined.
 - Protect your “zone” time and treat it as non-negotiable.

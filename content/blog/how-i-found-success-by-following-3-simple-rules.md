@@ -3,8 +3,8 @@ title = "How I Found Success by Following 3 Simple Rules"
 slug = "how-i-found-success-by-following-3-simple-rules"
 date = "2025-08-18T22:14:47.948424"
 draft = false
-description = "Success is often painted as a mysterious formula, a secret recipe that only a few seem to know. But after years of coaching, mentoring, and simply observing people from all walks of life—close frie..."
-summary = "Success is often painted as a mysterious formula, a secret recipe that only a few seem to know. But after years of coaching, mentoring, and simply observing people from all walks of life—close frie..."
+description = "Success is often painted as a mysterious formula that only a few seem to know. After years of mentoring and observing people from many walks of life, I found three practical principles."
+summary = "Success is often painted as a mysterious formula that only a few seem to know. After years of mentoring and observing people from many walks of life, I found three practical principles."
 tags = ["entrepreneurship", "mindset", "money", "opportunity", "personal development", "productivity", "self-improvement", "success", "wealth"]
 priority = true
 priority_topics = ["money", "wealth", "productivity", "entrepreneurship"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/20dd0dfe54e2"
 
 {{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NTUxOTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How I Found Success by Following 3 Simple Rules" caption="How I Found Success by Following 3 Simple Rules - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
-Success is often painted as a mysterious formula, a secret recipe that only a few seem to know. But after years of coaching, mentoring, and simply observing people from all walks of life—close friends, distant contacts, and everyone in between—I’ve realized that the real keys are much simpler than we think. Here are the three principles that have made the biggest difference for me, and that I see again and again in the stories of those who truly move forward.
+Success is often painted as a mysterious formula, a secret recipe that only a few seem to know. But after years of mentoring and simply observing people from all walks of life (close friends, distant contacts, and everyone in between) I’ve realized that the real keys are much simpler than we think. Here are the three principles that have made the biggest difference for me, and that I see again and again in the stories of those who truly move forward.
 
 ---
 
@@ -30,7 +30,7 @@ Being open doesn’t mean saying yes to everything. It means being willing to li
 
 ## 2. Trust That Everything Happens for a Reason
 
-The second key is to believe that things work out as they should. If someone rejects your idea, if you don’t get the job, if your visa application is denied, or if a relationship ends—tell yourself that it was meant to be this way. Don’t let failure or disappointment feed your mind with negativity. Instead, see it as a sign that the future has something else in store for you.
+The second key is to believe that things work out as they should. If someone rejects your idea, if you don’t get the job, if your visa application is denied, or if a relationship ends: tell yourself that it was meant to be this way. Don’t let failure or disappointment feed your mind with negativity. Instead, see it as a sign that the future has something else in store for you.
 
 {{< figure src="https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1pbmRzZXR8ZW58MHwwfHx8MTc1NTUxOTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface SNJ1O2 b0IE" title="How I Found Success by Following 3 Simple Rules" caption="How I Found Success by Following 3 Simple Rules - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)" >}}
 
@@ -42,15 +42,15 @@ Of course, this isn’t always easy. It takes resilience and a bit of self-refle
 
 ## 3. Value Your Time Above All
 
-The third key is to manage your time well. We hear this all the time, but it’s true: time is our most precious resource. Once you understand this, you start to see things differently. I always think about the 80/20 rule—what’s the one thing I can do that will give me 80% of the results, instead of spending 80% of my time for only 20% of the outcome?
+The third key is to manage your time well. We hear this all the time, but it’s true: time is our most precious resource. Once you understand this, you start to see things differently. I always think about the 80/20 rule: what’s the one thing I can do that will give me 80% of the results, instead of spending 80% of my time for only 20% of the outcome?
 
-For example, when learning a new language, I focus on the 20% of words that will let me communicate with 80% of people. The same goes for work: set strict deadlines for yourself. If you give yourself five hours to write an essay, you’ll use all five. But if you only have one hour, you’ll get it done in one. This is the principle behind Parkinson’s Law—work expands to fill the time you give it.
+For example, when learning a new language, I focus on the 20% of words that will let me communicate with 80% of people. The same goes for work: set strict deadlines for yourself. If you give yourself five hours to write an essay, you’ll use all five. But if you only have one hour, you’ll get it done in one. This is the principle behind Parkinson’s Law: work expands to fill the time you give it.
 
 Remember, discipline is freedom. The more you respect your own time, the more you’ll get out of every day.
 
 > *Discipline equals freedom.*
 > 
-> — Jocko Willink
+> *Jocko Willink*
 
 ---
 
@@ -60,7 +60,7 @@ Remember, discipline is freedom. The more you respect your own time, the more yo
 
 - Stay open to new opportunities, even if they seem unimportant at first.
 - Trust that setbacks are part of the journey and move on quickly.
-- Manage your time carefully—focus on what really matters and set clear deadlines.
+- Manage your time carefully: focus on what really matters and set clear deadlines.
 
 ---
 

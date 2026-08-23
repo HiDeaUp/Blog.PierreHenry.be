@@ -20,7 +20,7 @@ But here’s the thing: instead of focusing on what you can’t do, start with w
 
 Life isn’t a race. It’s not about who gets there first. The only person you should compare yourself to is who you were yesterday. If you’re better today than you were yesterday, that’s progress. If you keep looking at others who seem to be doing more, you’ll only end up frustrated. That frustration drains your energy and keeps you from moving forward.
 
-Think of life as climbing a mountain. Each step, no matter how small, brings you closer to the top. If you start with nothing in your bank account and your currency is weak, maybe your first step is to study or work in a country with a stronger currency, or to do freelance work for clients in wealthier countries. In many developing countries, fixed-term deposit accounts offer high interest rates—sometimes 8 to 12%. This can be a powerful tool. Your money is safe, and after a few years, you’ll have more to work with. It’s less risky than putting everything into the stock market.
+Think of life as climbing a mountain. Each step, no matter how small, brings you closer to the top. If you start with nothing in your bank account and your currency is weak, maybe your first step is to study or work in a country with a stronger currency, or to do freelance work for clients in wealthier countries. In many developing countries, fixed-term deposit accounts offer high interest rates: sometimes 8 to 12%. This can be a powerful tool. Your money is safe, and after a few years, you’ll have more to work with. It’s less risky than putting everything into the stock market.
 
 {{< figure src="https://images.unsplash.com/photo-1605515112545-a41e3593ba7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmcmVlZG9tJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY2MzE3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Man in black jacket and black pants jumping on green grass field during daytime" title="How to Find Real Freedom Without Comparing Yourself to Others" caption="How to Find Real Freedom Without Comparing Yourself to Others - Photo by [I Do Nothing But Love](https://unsplash.com/@idonothingbutlove) on [Unsplash](https://unsplash.com/photos/man-in-black-jacket-and-black-pants-jumping-on-green-grass-field-during-daytime-W50fFCL5Dfc)" >}}
 
@@ -32,13 +32,13 @@ This is what people call the “compound effect.” There’s a book by Darren H
 
 This is true in every part of life. Every choice matters. Be aware of what you do each day. That’s the real key to success.
 
-The people you spend time with matter too. The content you consume shapes you. You become what you eat, but also what you read, watch, and listen to. Meditation is another example. If you meditate every day, your mind gets stronger and calmer over time. You’ll be able to handle distractions and negative thoughts much better.
+The people you spend time with matter too. The content you consume affects you. You become what you eat, but also what you read, watch, and listen to. Meditation is another example. If you meditate every day, your mind gets stronger and calmer over time. You’ll be able to handle distractions and negative thoughts much better.
 
 > *“You become what you repeatedly do. Excellence, then, is not an act, but a habit.”*  
-— Aristotle
+*Aristotle*
 
 > *“Comparison is the thief of joy.”*  
-— Theodore Roosevelt
+*Theodore Roosevelt*
 
 {{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmcmVlZG9tJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY2MzE3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Find Real Freedom Without Comparing Yourself to Others" caption="How to Find Real Freedom Without Comparing Yourself to Others - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
@@ -49,10 +49,10 @@ If you want to feed your mind with good things, start with small daily actions. 
 ## Key Takeaways
 - Comparing yourself to others only leads to frustration. Focus on your own progress.
 - Small, consistent actions have a powerful compound effect over time.
-- Every choice you make—what you eat, what you read, who you spend time with—shapes your life.
+- Every choice you make (what you eat, what you read, who you spend time with) affects your life.
 - Start with what you can do today, and build from there.
 
 ## Reflection
 - What small step can I take today to move closer to my goals?
 - Am I spending too much energy comparing myself to others?
-- What habits or people are shaping my life right now?
+- What habits or people are influencing my life right now?

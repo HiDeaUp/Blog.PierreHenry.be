@@ -3,8 +3,8 @@ title = "How to Spot Opportunity Everywhere Without Waiting for Luck"
 slug = "how-to-spot-opportunity-everywhere-without-waiting-for-luck"
 date = "2025-09-10T10:05:51.563503"
 draft = false
-description = "Success is not just about talent or luck. It’s about how you see the world and what you do with what you have. Here are some of the most important keys to success that have shaped my journey and ca..."
-summary = "Success is not just about talent or luck. It’s about how you see the world and what you do with what you have. Here are some of the most important keys to success that have shaped my journey and ca..."
+description = "Success is not just about talent or luck. It’s about how you see the world and what you do with what you have. Here are some of the most important keys to success that have influenced my journey and ca..."
+summary = "Success is not just about talent or luck. It’s about how you see the world and what you do with what you have. Here are some of the most important keys to success that have influenced my journey and ca..."
 tags = ["entrepreneurship", "mindset", "opportunity", "positivity", "productivity", "self-improvement", "success"]
 priority = true
 priority_topics = ["productivity", "entrepreneurship"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/14be8943116f"
 
 {{< figure src="https://images.unsplash.com/photo-1698047681452-08eba22d0c64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdWNjZXNzJTIwb3Bwb3J0dW5pdHklMjBwb3NpdGl2aXR5fGVufDB8MHx8fDE3NTc0NjI3NTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Confident, Beautiful Asian Woman in suit is smiling during job interview in office environment" title="How to Spot Opportunity Everywhere Without Waiting for Luck" caption="How to Spot Opportunity Everywhere Without Waiting for Luck - Photo by [Resume Genius](https://unsplash.com/@resumegenius) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-at-a-table-with-a-piece-of-paper-in-front-of-her-72D3z_LfrQA)" >}}
 
-Success is not just about talent or luck. It’s about how you see the world and what you do with what you have. Here are some of the most important keys to success that have shaped my journey and can make a real difference in yours.
+Success is not just about talent or luck. It’s about how you see the world and what you do with what you have. Here are some of the most important keys to success that have influenced my journey and can make a real difference in yours.
 
 ## See Opportunity Everywhere
 
@@ -35,10 +35,10 @@ It’s easy to complain about the weather, politics, or things that are simply o
 It’s tempting to get caught up in bad news and negativity. But if you spend your time focusing on everything that’s wrong with the world, you’ll only feel worse. Instead, look for ways to make things better, even in small ways. Be the person who brings positivity to those around you. If everyone is complaining or afraid, don’t wait for someone else to change things. Be the one who leads by example, inspires others, and makes a difference.
 
 > *The only real limits are the ones you set for yourself.*
-> — Unknown
+> *Unknown*
 
 > *If you want to go fast, go alone. If you want to go far, go together.*
-> — African proverb
+> *African proverb*
 
 ---
 
@@ -47,7 +47,7 @@ It’s tempting to get caught up in bad news and negativity. But if you spend yo
 ## Key Takeaways
 
 - *Look for opportunities in every situation and environment.*
-- *Don’t let setbacks define you—see them as redirections.*
+- *Don’t let setbacks define you: see them as redirections.*
 - *Focus on what you can control, not what you can’t.*
 - *Choose to be positive and inspire others, even when it’s hard.*
 

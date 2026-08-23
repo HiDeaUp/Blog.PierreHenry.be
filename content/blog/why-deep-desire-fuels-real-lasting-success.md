@@ -19,7 +19,7 @@ source_youtube = "https://www.youtube.com/watch?v=gcxdAnMp-u8"
 
 The Myth of Overnight Success: Why Wanting Is Everything
 
-Success isn’t reserved for the lucky few or those with secret formulas. The real difference lies in how deeply you want it. Everything becomes possible the moment you decide—truly decide—that you want it enough to keep going, no matter what. The intensity of your desire is the foundation.
+Success isn’t reserved for the lucky few or those with secret formulas. The real difference lies in how deeply you want it. Everything becomes possible the moment you decide (truly decide) that you want it enough to keep going, no matter what. The intensity of your desire is the foundation.
 
 This isn’t about wishful thinking. It’s about building a conviction so strong that nothing can stop you. When you believe that anything is possible, you tap into the energy needed to move forward, overcome obstacles, and persist through challenges.
 
@@ -27,7 +27,7 @@ This isn’t about wishful thinking. It’s about building a conviction so stron
 
 Big dreams are built one day at a time. Each day is a building block for the life you want. The key is to start every morning with intention: What will I create today? What step, however small, will I take toward my goal?
 
-Progress comes from steady, incremental steps—not grand gestures or overnight changes. Focus on becoming a better version of yourself each day, compared only to who you were yesterday. This is the only comparison that matters.
+Progress comes from steady, incremental steps, not grand gestures or overnight changes. Focus on becoming a better version of yourself each day, compared only to who you were yesterday. This is the only comparison that matters.
 
 {{< figure src="https://images.unsplash.com/photo-1609761973820-17fe079a78dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtYW4lMjBmb2N1c2VkJTIwd3JpdGluZyUyMGRlc2slMjBsYW1wfGVufDB8MHx8fDE3ODU0NzgyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Quiet moments fuel unstoppable ambition" title="Why Deep Desire Fuels Real, Lasting Success" caption="Quiet moments fuel unstoppable ambition - Photo by [Thomas Franke](https://unsplash.com/@thomas094)" >}}
 

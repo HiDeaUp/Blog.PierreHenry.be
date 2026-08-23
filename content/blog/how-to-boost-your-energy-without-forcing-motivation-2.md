@@ -20,13 +20,13 @@ Let’s talk about something most people never mention when it comes to success:
 
 ## The Hidden Weight of Your Environment
 
-We often underestimate how much our environment shapes our energy and motivation. If you spend your whole day indoors, especially in a dark or cramped space, it’s no wonder you feel sluggish. Instead of blaming yourself for not getting things done, take a closer look at where you spend your time. Sometimes, it’s the atmosphere itself that drags us down.
+We often underestimate how much our environment affects our energy and motivation. If you spend your whole day indoors, especially in a dark or cramped space, it’s no wonder you feel sluggish. Instead of blaming yourself for not getting things done, take a closer look at where you spend your time. Sometimes, it’s the atmosphere itself that drags us down.
 
-It’s easy to fall into the trap of self-blame. You might wonder, “Why am I so lazy? Why can’t I get anything done?” But the truth is, your environment might simply not be helping you. Changing your surroundings—even moving to a different room, city, or country—can make a huge difference. It gives you a chance to see if another place suits you better and helps you adjust your habits for more energy and success.
+It’s easy to fall into the trap of self-blame. You might wonder, “Why am I so lazy? Why can’t I get anything done?” But the truth is, your environment might simply not be helping you. Changing your surroundings (even moving to a different room, city, or country) can make a huge difference. It gives you a chance to see if another place suits you better and helps you adjust your habits for more energy and success.
 
 ## Routines: The Real Secret to Consistency
 
-Motivation is great, but it doesn’t last. What really keeps us going are habits and routines. When something becomes a habit, you do it automatically—like brushing your teeth or taking a shower. You don’t question it or skip it because it’s part of your daily life.
+Motivation is great, but it doesn’t last. What really keeps us going are habits and routines. When something becomes a habit, you do it automatically, like brushing your teeth or taking a shower. You don’t question it or skip it because it’s part of your daily life.
 
 {{< figure src="https://images.unsplash.com/photo-1606235729097-f7b9460abcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-nd2fFCkXWTw)" >}}
 
@@ -45,10 +45,10 @@ If you find yourself in a place with no windows or a negative vibe, don’t forc
 Stay open-minded about changing your environment and the way you organize your day. This is one of the most effective ways to boost your energy and excel in what you do.
 
 > *You do not rise to the level of your goals. You fall to the level of your systems.*  
-— James Clear
+*James Clear*
 
 > *Don’t adapt to the energy in the room. Influence the energy in the room.*  
-— Unknown
+*Unknown*
 
 {{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwZW52aXJvbm1lbnQlMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTU0MTczMTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Boost Your Energy Without Forcing Motivation" caption="How to Boost Your Energy Without Forcing Motivation - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
@@ -57,7 +57,7 @@ Stay open-minded about changing your environment and the way you organize your d
 ## Key Takeaways
 
 - Your environment has a huge impact on your energy and motivation.
-- Don’t blame yourself if you feel stuck—sometimes, it’s your surroundings.
+- Don’t blame yourself if you feel stuck: sometimes, it’s your surroundings.
 - Build strong routines so important tasks become automatic.
 - Make starting tasks as easy as possible by preparing in advance.
 - Avoid giving yourself exceptions that break your habits.

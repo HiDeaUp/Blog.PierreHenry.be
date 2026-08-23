@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/13083ce29d05"
 
 Have you ever wondered how to break free from the routine and make your everyday life feel more meaningful? Let’s talk about raising your standards and how this simple shift can help you boost your motivation, improve your daily habits, and turn what feels “normal” into something truly exceptional.
 
-Most of us have days that feel basic or just “okay.” But what if you could turn those ordinary days into something intense and fabulous? The truth is, what you do every day shapes who you become. Every action, no matter how small, has a long-term impact.
+Most of us have days that feel basic or just “okay.” But what if you could turn those ordinary days into something intense and fabulous? The truth is, what you do every day affects who you become. Every action, no matter how small, has a long-term impact.
 
 Here’s the idea that changed everything for me: If you challenge yourself every day, even for just 10 minutes, you can make real progress. Ten minutes is short enough that you won’t put it off, because everyone can find 10 minutes in their day. But it’s also long enough to make a difference over time.
 
@@ -25,14 +25,14 @@ Here’s the idea that changed everything for me: If you challenge yourself ever
 Think about it. Ten minutes a day adds up to 70 minutes a week. That’s already a good chunk of time. After a month, you’ll have spent over four and a half hours improving yourself. It’s not about waiting for the perfect moment or pushing things to tomorrow. There’s a famous Chinese proverb that says:
 
 > *The best time to plant a tree was 20 years ago. The second best time is now.*
-> — Chinese Proverb
+> *Chinese Proverb*
 
 If you had started 20 years ago, your tree would be tall and beautiful today. But if you plant it now, in 20 years it will still be majestic. Waiting only delays your growth. The same goes for your goals and dreams. If you keep postponing, you’re only pushing your progress further away.
 
 Life is much shorter than we think. At the end of the day, your life is in your hands. So go for it. Take action now. Do the things you want to do, today.
 
 > *What you do every day matters more than what you do once in a while.*
-> — Gretchen Rubin
+> *Gretchen Rubin*
 
 {{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwlMjBncm93dGglMjBtb3RpdmF0aW9ufGVufDB8MHx8fDE3NTY1MDU5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Raise Your Standards Without Overhauling Your Life" caption="How to Raise Your Standards Without Overhauling Your Life - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
@@ -40,9 +40,9 @@ Life is much shorter than we think. At the end of the day, your life is in your 
 
 ## Key Takeaways
 - Small daily actions add up to big changes over time.
-- Don’t wait for the perfect moment—start today.
+- Don’t wait for the perfect moment: start today.
 - Ten minutes a day is enough to make a real difference.
-- Your daily habits shape who you become.
+- Your daily habits influence who you become.
 
 ### *Ask Yourself:*
 - What is one small thing you can do today to raise your standards?

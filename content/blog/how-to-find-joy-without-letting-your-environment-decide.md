@@ -20,9 +20,9 @@ Let’s say freedom is important to you, or maybe you’re sensitive to bad news
 
 This difference in attitude is huge. When you feel constantly judged or watched, it affects your mind. Living in Sydney now, I can dress how I want without feeling those stares. Sometimes, you just sense when people are watching you, but here, it never happens. In other countries, it does, and it throws you off balance. If you’re sensitive, this can be a big deal.
 
-The tray incident is just a small example, but it shows how the environment can impact you. If you find that a place, a country, or a culture doesn’t support you or bring out your best, you have choices. You can try to create your ideal life by inviting positive influences virtually—through podcasts, webinars, audiobooks. I have plenty of audiobooks on my phone, and I’m always learning. This is like inviting good people into your life, even if they’re not physically present.
+The tray incident is just a small example, but it shows how the environment can impact you. If you find that a place, a country, or a culture doesn’t support you or bring out your best, you have choices. You can try to create your ideal life by inviting positive influences virtually: through podcasts, webinars, audiobooks. I have plenty of audiobooks on my phone, and I’m always learning. This is like inviting good people into your life, even if they’re not physically present.
 
-But sometimes, that’s not enough. Sometimes, you need to take a bigger step—move somewhere new, even if just for a month. Try it for three or four weeks. Often, it’s worth it. You can make a list of pros and cons, write it all down, and see what really matters to you.
+But sometimes, that’s not enough. Sometimes, you need to take a bigger step: move somewhere new, even if just for a month. Try it for three or four weeks. Often, it’s worth it. You can make a list of pros and cons, write it all down, and see what really matters to you.
 
 {{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBzZWxmLWltcHJvdmVtZW50JTIwbWluZHNldHxlbnwwfDB8fHwxNzU2NjI2OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Find Joy Without Letting Your Environment Decide" caption="How to Find Joy Without Letting Your Environment Decide - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
@@ -36,11 +36,11 @@ Ask yourself: is comfort your top priority, or is it a new, different life? Some
 
 > *You will never be able to back up or restore the time of your life. Once you lose a day, it’s gone forever.*
 >
-> — Pierre
+> *Pierre*
 
 > *If you keep doing what you’ve always done, don’t expect a different result.*
 >
-> — Pierre
+> *Pierre*
 
 ---
 
@@ -48,10 +48,10 @@ Ask yourself: is comfort your top priority, or is it a new, different life? Some
 
 ## Key Takeaways
 
-- *Your environment shapes your mindset more than you think.*
+- *Your environment affects your mindset more than you think.*
 - *If you feel judged or unsupported, it’s okay to seek a new place or new influences.*
 - *Taking action is always better than waiting for things to change on their own.*
-- *Time is your most precious resource—don’t waste it living a life you don’t enjoy.*
+- *Time is your most precious resource: don’t waste it living a life you don’t enjoy.*
 - *Make your happiness your top priority and be willing to get uncomfortable for it.*
 
 ## Reflection

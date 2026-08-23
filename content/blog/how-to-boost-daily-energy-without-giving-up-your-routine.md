@@ -18,7 +18,7 @@ Have you ever wondered why some days you feel like you could conquer the world, 
 
 ## The Hidden Traps of Everyday Habits
 
-It’s easy to fall into routines without even noticing. For example, I work as a software engineer at a burrito company. After a big meal—like the burrito I just had—I often feel sluggish, heavy, and tired. It’s not just about food; sometimes we sleep too much, or not enough, and then wonder why we feel like a zombie, with no spark or fresh ideas.
+It’s easy to fall into routines without even noticing. For example, I work as a software engineer at a burrito company. After a big meal (like the burrito I just had) I often feel sluggish, heavy, and tired. It’s not just about food; sometimes we sleep too much, or not enough, and then wonder why we feel like a zombie, with no spark or fresh ideas.
 
 We keep repeating these habits, even when they go against our goals. We eat too much, stay up late, or skip exercise, and then feel frustrated when we don’t have the energy to start new projects or finish what we planned. This frustration only adds more negative energy to our days.
 
@@ -28,7 +28,7 @@ One thing that always lifts my spirits is the magic of the holiday season. Even 
 
 ## Food, Fasting, and Listening to Your Body
 
-After eating too much, it’s normal to feel tired—your body is busy digesting. I’ve experimented with fasting, sometimes for up to five days. Even just skipping breakfast and eating only at noon gives me a surprising boost of energy. But if you overeat, you’ll feel drained, and that’s not helpful if you have things you want to achieve.
+After eating too much, it’s normal to feel tired: your body is busy digesting. I’ve experimented with fasting, sometimes for up to five days. Even just skipping breakfast and eating only at noon gives me a surprising boost of energy. But if you overeat, you’ll feel drained, and that’s not helpful if you have things you want to achieve.
 
 {{< figure src="https://images.unsplash.com/photo-1590587478871-7ca2dc0f4210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxlbmVyZ3klMjBib29zdCUyMGRhaWx5JTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMDg1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Sport girl" title="How to Boost Daily Energy Without Giving Up Your Routine" caption="How to Boost Daily Energy Without Giving Up Your Routine - Photo by [Yehor Milohrodskyi](https://unsplash.com/@milohrodskyi) on [Unsplash](https://unsplash.com/photos/woman-in-blue-tank-top-and-black-pants-sitting-on-green-grass-field-IVZjht6QLPI)" >}}
 
@@ -36,13 +36,13 @@ The key is to be aware of your habits. If you want to keep your energy up, you n
 
 ## Music, Movement, and Mindset
 
-Music can be a powerful tool. I keep playlists ready for moments when I need a lift. Physical movement helps too—even just jumping in place or changing your posture can wake up your body and mind. These small actions can make a big difference.
+Music can be a powerful tool. I keep playlists ready for moments when I need a lift. Physical movement helps too: even just jumping in place or changing your posture can wake up your body and mind. These small actions can make a big difference.
 
-It’s also important to keep your routines in check. Good sleep hygiene matters: not too much, not too little—six or seven hours is usually enough, but everyone is different. Going to bed and waking up at the same time every day helps your body stay balanced. If you stay out late on the weekend, try to wake up at your usual time and take a nap later, instead of sleeping in and throwing off your rhythm.
+It’s also important to keep your routines in check. Good sleep hygiene matters: not too much, not too little: six or seven hours is usually enough, but everyone is different. Going to bed and waking up at the same time every day helps your body stay balanced. If you stay out late on the weekend, try to wake up at your usual time and take a nap later, instead of sleeping in and throwing off your rhythm.
 
-Studies show that irregular sleep patterns can increase your risk of serious health problems. So, keeping a steady schedule isn’t just about feeling good—it’s about staying healthy.
+Studies show that irregular sleep patterns can increase your risk of serious health problems. So, keeping a steady schedule isn’t just about feeling good; it’s about staying healthy.
 
-## Your Environment Shapes Your Energy
+## Your Environment Affects Your Energy
 
 Where you spend your time matters. A lively, inspiring environment can boost your mood and energy. Getting outside for fresh air, or doing some physical exercise, can change everything. Even a short walk or a quick workout can leave you feeling refreshed and ready to tackle your day.
 
@@ -52,13 +52,13 @@ If you spend all day in front of a computer, like I do, it’s important to swit
 
 > *Life is short, and it deserves to be enjoyed to the fullest.*
 >
-> — Anonymous
+> *Anonymous*
 
 {{< figure src="https://images.unsplash.com/photo-1605606437828-598340dfaeb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxlbmVyZ3klMjBib29zdCUyMGRhaWx5JTIwaGFiaXRzJTIwd2VsbG5lc3N8ZW58MHwwfHx8MTc1NjAxMDg1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Boost Daily Energy Without Giving Up Your Routine" caption="How to Boost Daily Energy Without Giving Up Your Routine - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-EoP2jDCrgfU)" >}}
 
 > *The magic you seek is in the small moments you create for yourself.*
 >
-> — Anonymous
+> *Anonymous*
 
 ## Know Yourself and Break the Cycle
 
@@ -68,7 +68,7 @@ The most important thing is to know yourself. Be aware of the habits that drain 
 
 ## Key Takeaways
 
-- *Be aware of your daily habits—they can either boost or drain your energy.*
+- *Be aware of your daily habits; they can either boost or drain your energy.*
 - *Find joy in small things, like music or festive decorations, to recharge your spirit.*
 - *Keep your sleep schedule regular and listen to your body’s needs.*
 - *Mix up your activities to avoid burnout and keep your mind fresh.*

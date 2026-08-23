@@ -26,7 +26,7 @@ One thing that helps me a lot is a simple breathing exercise called the 4-7-8 me
 - Hold your breath for 7 seconds.
 - Breathe out slowly through your mouth for 8 seconds, letting your belly relax.
 
-It sounds simple, but it really makes a difference. When I’m frustrated—like when my computer acts up—this method helps me calm down almost instantly.
+It sounds simple, but it really makes a difference. When I’m frustrated (like when my computer acts up) this method helps me calm down almost instantly.
 
 There’s also the 4-4-4 method, which is even simpler:
 
@@ -40,21 +40,21 @@ Both techniques can change your mood and help you feel better, even when things 
 
 ## Letting Go of Frustration
 
-It’s easy to get stuck in a cycle of anger and negativity. Maybe you lost a file, your computer crashed, or something valuable got stolen. The first reaction is to get upset and try to fix everything right away. But sometimes, the best thing you can do is let go for a moment. Enjoy the small things around you. For example, I still had some cheese left from yesterday’s dinner—just enjoying that simple pleasure helped me shift my mood.
+It’s easy to get stuck in a cycle of anger and negativity. Maybe you lost a file, your computer crashed, or something valuable got stolen. The first reaction is to get upset and try to fix everything right away. But sometimes, the best thing you can do is let go for a moment. Enjoy the small things around you. For example, I still had some cheese left from yesterday’s dinner: just enjoying that simple pleasure helped me shift my mood.
 
 When you’re calm, you can think more clearly and make better decisions. Instead of smashing your keyboard or deleting everything in a panic, you can ask yourself, “What’s the smartest thing I can do right now?” Maybe it’s just going to the Apple Store before it closes, or maybe it’s taking a break and coming back with a fresh mind.
 
 > *“Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.”*  
-> —Viktor E. Frankl
+> *Viktor E. Frankl*
 
 ## Don’t Let Frustration Steal Your Time
 
 Time is your most precious resource. Money comes and goes, but time only moves forward. If you spend hours being angry or frustrated, that’s time you’ll never get back. I’ve lost files, money, and even whole computers, but what hurts most is the time lost to negativity.
 
-Instead, I try to invest my time in things that make me feel good. If I wake up late and start feeling guilty, I remind myself that adding negativity to my day only makes things worse. The best thing to do is to get moving—go to the gym, do something productive, and flush that negativity away.
+Instead, I try to invest my time in things that make me feel good. If I wake up late and start feeling guilty, I remind myself that adding negativity to my day only makes things worse. The best thing to do is to get moving: go to the gym, do something productive, and flush that negativity away.
 
 > *“The best time to plant a tree was twenty years ago. The second best time is now.”*  
-> —Chinese Proverb
+> *Chinese Proverb*
 
 ## Build Positive Routines
 
@@ -69,7 +69,7 @@ There are activities that can help you create the mood you want. For me, having 
 - Frustration is normal, but you don’t have to let it control your day.
 - Simple breathing exercises (4-7-8 or 4-4-4) can help you calm down fast.
 - Enjoy small pleasures and let go of negativity before making decisions.
-- Time is more valuable than money—don’t waste it on anger.
+- Time is more valuable than money: don’t waste it on anger.
 - Positive routines and small actions can change your mood and your life.
 
 ---

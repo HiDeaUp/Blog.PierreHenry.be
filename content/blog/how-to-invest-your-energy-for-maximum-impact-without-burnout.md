@@ -3,8 +3,8 @@ title = "How to Invest Your Energy for Maximum Impact Without Burnout"
 slug = "how-to-invest-your-energy-for-maximum-impact-without-burnout"
 date = "2025-08-30T11:14:10.563851"
 draft = false
-description = "Every day, we have a limited amount of time and energy. The way we choose to invest these resources shapes what we get out of life. You can spend a whole day doing many things, but not all of them..."
-summary = "Every day, we have a limited amount of time and energy. The way we choose to invest these resources shapes what we get out of life. You can spend a whole day doing many things, but not all of them..."
+description = "Every day, we have a limited amount of time and energy. The way we choose to invest these resources affects what we get out of life. You can spend a whole day doing many things, but not all of them..."
+summary = "Every day, we have a limited amount of time and energy. The way we choose to invest these resources affects what we get out of life. You can spend a whole day doing many things, but not all of them..."
 tags = ["money", "personal development", "prioritization", "productivity", "self-investment", "self-transcendence", "tasks", "time management", "wealth"]
 priority = true
 priority_topics = ["money", "wealth", "self-transcendence", "time management", "tasks", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/cb7bc04cc3ef"
 
 {{< figure src="https://images.unsplash.com/photo-1694905472184-dcfab2382ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwdGltZSUyMG1hbmFnZW1lbnQlMjBwcmlvcml0aXphdGlvbnxlbnwwfDB8fHwxNzU2NTE2NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Out of time" title="How to Invest Your Energy for Maximum Impact Without Burnout" caption="How to Invest Your Energy for Maximum Impact Without Burnout - Photo by [Nataly K](https://unsplash.com/@natalyk8) on [Unsplash](https://unsplash.com/photos/a-wooden-toy-standing-next-to-a-clock-3OTA_SU3ubI)" >}}
 
-Every day, we have a limited amount of time and energy. The way we choose to invest these resources shapes what we get out of life. You can spend a whole day doing many things, but not all of them matter equally. Some tasks eat up your hours without really moving you forward, while others—often just a few—make a real difference.
+Every day, we have a limited amount of time and energy. The way we choose to invest these resources affects what we get out of life. You can spend a whole day doing many things, but not all of them matter equally. Some tasks eat up your hours without really moving you forward, while others (often just a few) make a real difference.
 
 The key is knowing where to focus. It’s easy to get caught up in activities that feel urgent but are not truly important. We all do it: answering emails, tidying up, or getting lost in small details. But if you step back and ask yourself, “Where can I really make a difference? Where am I naturally good?” you start to see things differently.
 
@@ -27,10 +27,10 @@ Start by identifying your strengths. What are you already good at? Where do you 
 The point is not to do more, but to do better. When you invest yourself in the right places, you get more satisfaction and better results. It’s about quality, not quantity.
 
 > *It is not enough to be busy. So are the ants. The question is: What are we busy about?*  
-— Henry David Thoreau
+*Henry David Thoreau*
 
 > *Success is not about doing more things. It’s about doing the right things.*  
-— Anonymous
+*Anonymous*
 
 If you want your days to count, make sure you’re putting your energy where it matters most. That’s how you create real progress and a sense of fulfillment.
 

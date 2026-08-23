@@ -40,7 +40,7 @@ Even if you have a regular job, you need to push yourself to get promotions or r
 
 > _If you do what you love, you’ll never work a day in your life._
 >
-> — Confucius
+> *Confucius*
 
 The best time to start is today, not tomorrow. Don’t put off what you can do now. The journey itself is beautiful. When you’re passionate, you don’t keep asking, “Is it over yet?” You just enjoy the ride. That’s why you need to do something that excites you. Otherwise, every day will feel like a struggle.
 

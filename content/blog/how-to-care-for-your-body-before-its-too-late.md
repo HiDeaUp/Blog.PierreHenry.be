@@ -3,8 +3,8 @@ title = "How to Care for Your Body Before It’s Too Late"
 slug = "how-to-care-for-your-body-before-its-too-late"
 date = "2025-08-25T17:48:51.832497"
 draft = false
-description = "When was the last time you truly thought about your body—not just how it looks, but what it does for you every single day? Most of us take our bodies for granted. We eat poorly, stay up too late, d..."
-summary = "When was the last time you truly thought about your body—not just how it looks, but what it does for you every single day? Most of us take our bodies for granted. We eat poorly, stay up too late, d..."
+description = "When was the last time you truly thought about your body, not just how it looks, but what it does for you every single day? Most of us take our bodies for granted. We eat poorly, stay up too late, d..."
+summary = "When was the last time you truly thought about your body, not just how it looks, but what it does for you every single day? Most of us take our bodies for granted. We eat poorly, stay up too late, d..."
 tags = ["body appreciation", "body awareness", "health perception", "money", "self-care", "wellness"]
 priority = true
 priority_topics = ["money"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/18e10f053657"
 
 {{< figure src="https://images.unsplash.com/photo-1617710501559-858f449528e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxib2R5JTIwYXdhcmVuZXNzJTIwc2VsZi1jYXJlJTIwaGVhbHRoJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU2MTA4MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black no smoking sign" title="How to Care for Your Body Before It’s Too Late" caption="How to Care for Your Body Before It’s Too Late - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/white-and-black-no-smoking-sign-uniYYjZOejc)" >}}
 
-When was the last time you truly thought about your body—not just how it looks, but what it does for you every single day? Most of us take our bodies for granted. We eat poorly, stay up too late, drink too much, and sometimes treat our health as if it’s replaceable. But the truth is, we only get one body, and it’s the only real possession we can never swap out.
+When was the last time you truly thought about your body, not just how it looks, but what it does for you every single day? Most of us take our bodies for granted. We eat poorly, stay up too late, drink too much, and sometimes treat our health as if it’s replaceable. But the truth is, we only get one body, and it’s the only real possession we can never swap out.
 
 This realization hit me one morning in a quiet public park. I’d forgotten my microphone, despite all my routines and rituals to keep things in order. It was a small mistake, but it reminded me that even with the best intentions, we’re not perfect. We forget things. We slip up. But when it comes to our health, some mistakes are harder to fix.
 
@@ -35,7 +35,7 @@ Your body is your most valuable possession. You can’t trade it in for a new on
 I love the saying in English:  
 > *Our body is the greatest piece of real estate we ever own.*
 
-— Unknown
+*Unknown*
 
 It’s true. Your body is the only thing you truly own, and it’s up to you to look after it.
 
@@ -51,19 +51,19 @@ Just having a healthy lifestyle can boost your productivity, help you remember t
 
 > *Take care of your body. It’s the only place you have to live.*
 
-— Jim Rohn
+*Jim Rohn*
 
 {{< figure src="https://images.unsplash.com/photo-1669355106052-b7456721510c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxib2R5JTIwYXdhcmVuZXNzJTIwc2VsZi1jYXJlJTIwaGVhbHRoJTIwcGVyY2VwdGlvbnxlbnwwfDB8fHwxNzU2MTA4MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of white boxes with black text on a wooden surface" title="How to Care for Your Body Before It’s Too Late" caption="How to Care for Your Body Before It’s Too Late - Photo by [The Worthy Goods](https://unsplash.com/@theworthygoods) on [Unsplash](https://unsplash.com/photos/a-group-of-white-boxes-with-black-text-on-a-wooden-surface-Tuy2n9md0AI)" >}}
 
 > *Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy.*
 
-— Robert Tew
+*Robert Tew*
 
 ---
 
 ## Key Takeaways
 
-- You only have one body—treat it with respect.
+- You only have one body: treat it with respect.
 - Don’t let peer pressure or trends push you into unhealthy habits.
 - Your environment affects your well-being, so choose places and people that lift you up.
 - Small, healthy choices every day make a big difference over time.

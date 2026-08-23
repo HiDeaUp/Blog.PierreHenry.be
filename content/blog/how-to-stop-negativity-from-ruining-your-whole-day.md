@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/687a48dc2546"
 
 Negativity has a strange power over us. One bad piece of news, a harsh word from someone, or an unexpected emotional blow can wreck your productivity and cast a shadow over your entire day. Suddenly, you feel a weight on your chest, anxiety creeps in, and it becomes hard to focus on anything else.
 
-Often, this happens when we’re waiting for something important—a test result, a decision, or any answer that matters to us. The stress builds up until we finally get the news. Until then, our minds are stuck in a fog of worry, unable to think clearly. We fear what might happen, and the uncertainty eats away at us. We don’t like not knowing. We don’t like change. We don’t like the unknown.
+Often, this happens when we’re waiting for something important: a test result, a decision, or any answer that matters to us. The stress builds up until we finally get the news. Until then, our minds are stuck in a fog of worry, unable to think clearly. We fear what might happen, and the uncertainty eats away at us. We don’t like not knowing. We don’t like change. We don’t like the unknown.
 
 This is the real problem: we lose the ability to live in the present. Instead, we’re always anxious, always stressed, unable to take back control of our lives and just breathe. If we could step back, take a deep breath, and see things from a distance, we’d realize that most of our problems are tiny specks in the grand scheme of the universe. They’re crumbs, not mountains.
 
@@ -28,7 +28,7 @@ We’re emotional beings. Bad news or the stress of waiting for an answer can ru
 
 Sometimes, a change of scenery helps. I often find myself wandering through Melbourne’s Docklands, which has become almost a ghost town since the pandemic. There are huge shopping centers with barely anyone inside, and even the cafés are quiet. It can feel a bit sad, but it’s also a reminder to get out, walk, and clear my head.
 
-Talking helps too. I love cat cafés—unfortunately, they’re not everywhere. But if you live in Japan or South Korea, you’ll find some great ones. Even in Australia, there are a few if you know where to look. Spending time with animals, whether it’s a cat café or walking a dog, is a kind of therapy. It distracts you from your worries and helps you reset.
+Talking helps too. I love cat cafés: unfortunately, they’re not everywhere. But if you live in Japan or South Korea, you’ll find some great ones. Even in Australia, there are a few if you know where to look. Spending time with animals, whether it’s a cat café or walking a dog, is a kind of therapy. It distracts you from your worries and helps you reset.
 
 The key is to break the cycle of stress. When you can’t do anything about a situation, you have to separate yourself from it. Tell yourself, “I’ve done everything I can. Now I need to focus my energy elsewhere.” Otherwise, you’ll keep stressing, and it won’t help you at all.
 
@@ -37,10 +37,10 @@ Think about your priorities. Don’t let stress from one thing ruin your whole d
 For example, if you’re waiting to hear back about buying a house, you’ve already done everything you can. Now, all you can do is wait. Instead of letting the waiting eat away at you, try to enjoy the present moment. Don’t let yourself get lost in the fog of worry. Remind yourself: “I have control over some things, and for the rest, I just have to wait.”
 
 > *“Worrying does not take away tomorrow’s troubles. It takes away today’s peace.”*  
-— Unknown
+*Unknown*
 
 > *“You can’t stop the waves, but you can learn to surf.”*  
-— Jon Kabat-Zinn
+*Jon Kabat-Zinn*
 
 {{< figure src="https://images.unsplash.com/photo-1605909247405-077c153bc75b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZWdhdGl2aXR5JTIwZW1vdGlvbmFsJTIwd2VsbC1iZWluZyUyMHN0cmVzcyUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTM4NTYwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden framed gray wooden door" title="How to Stop Negativity From Ruining Your Whole Day" caption="How to Stop Negativity From Ruining Your Whole Day - Photo by [Alexas_Fotos](https://unsplash.com/@alexas_fotos) on [Unsplash](https://unsplash.com/photos/brown-wooden-framed-gray-wooden-door-WoPxj4W58C0)" >}}
 

@@ -28,7 +28,7 @@ If you’ve been telling yourself for years that you’ll write a book, but you 
 
 {{< figure src="https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsYmVpbmclMjBtb3JuaW5nJTIwcml0dWFscyUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MDk1MDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in brown knit sweater holding brown ceramic cup" title="How to Create Beautiful Days Without Changing Your Routine" caption="How to Create Beautiful Days Without Changing Your Routine - Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com/photos/woman-in-brown-knit-sweater-holding-brown-ceramic-cup-VsI_74zRzAo)" >}}
 
-The answer is often simple: you need to organize your time better and be more disciplined with yourself. Try setting aside a fixed block of time each morning—say, an hour and a half—where you do nothing but work on your main goal. No distractions, no multitasking. If you want to write, write. If you want to create a video course, open your computer and start recording. Prepare everything in advance so you can begin right away.
+The answer is often simple: you need to organize your time better and be more disciplined with yourself. Try setting aside a fixed block of time each morning (say, an hour and a half) where you do nothing but work on your main goal. No distractions, no multitasking. If you want to write, write. If you want to create a video course, open your computer and start recording. Prepare everything in advance so you can begin right away.
 
 Sometimes the hardest part is just getting started. If you want to make a video, have your recording software ready to go. If you want to write, have your document open and waiting. The key is to stop wandering online or doing things that don’t bring you real joy or progress.
 
@@ -37,10 +37,10 @@ It’s not just about productivity. It’s about happiness, too. You don’t hav
 If you can create days that feel beautiful and balanced, you’ll look back and realize you’ve built a beautiful life.
 
 *“Happiness is not something ready made. It comes from your own actions.”*  
-— Dalai Lama
+*Dalai Lama*
 
 *“The best way to pay for a lovely moment is to enjoy it.”*  
-— Richard Bach
+*Richard Bach*
 
 ---
 
@@ -52,7 +52,7 @@ If you can create days that feel beautiful and balanced, you’ll look back and 
 - *Reflect on what truly brings you joy and meaning.*
 - *Organize your time to focus on what matters most.*
 - *Balance work with quality time for yourself and loved ones.*
-- *Small daily choices shape your whole life.*
+- *Small daily choices influence your whole life.*
 
 ## Reflection
 

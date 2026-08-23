@@ -49,7 +49,7 @@ Here’s how you can put this into practice:
 
 ### 1. Define Your Vision
 
-Ask yourself: What do I want my life to look like in five or ten years? Don’t worry if it feels unclear. Write down your thoughts, even if they’re a bit fuzzy. Your vision doesn’t have to be perfect—it just needs to inspire you.
+Ask yourself: What do I want my life to look like in five or ten years? Don’t worry if it feels unclear. Write down your thoughts, even if they’re a bit fuzzy. Your vision doesn’t have to be perfect; it just needs to inspire you.
 
 ### 2. Set Clear, Achievable Goals
 

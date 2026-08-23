@@ -18,7 +18,7 @@ Have you ever found yourself stuck in the cycle of wanting to create something, 
 
 This is a common trap. The problem isn’t that you lack ideas or resources. It’s that you break the chain of habit. One day you skip your routine, then another, and soon you lose interest. That’s why it’s so important to make creation a regular part of your life, not something you do only when you feel motivated. Motivation is temporary. Habit is what lasts.
 
-## The Power of Starting—And Finishing
+## The Power of Starting, And Finishing
 
 We are all capable of creating meaningful things. The only real difference between those who succeed and those who don’t is that some people simply start. They don’t wait until they feel “ready.” They don’t keep buying more courses or books, hoping for the magic answer. How many of us have shelves or Kindles full of unread books, yet we’re already looking for the next one? This is the “shiny object syndrome.” New things always seem better, and buying them gives us a quick hit of excitement. But that feeling fades, and we’re left with nothing finished.
 
@@ -33,10 +33,10 @@ There’s a simple rule: if you read three books on any topic, especially from d
 It’s rare for someone’s first book to become a bestseller, or for a director’s first film to be their best. You need experience. Start with small projects, build your skills, and over time, you’ll become truly good at what you do. Courses are helpful, but practice is what really counts.
 
 > _“You don’t have to be great to start, but you have to start to be great.”_
-— Zig Ziglar
+*Zig Ziglar*
 
 > _“The expert in anything was once a beginner.”_
-— Helen Hayes
+*Helen Hayes*
 
 ## Make Creation a Habit
 
@@ -47,9 +47,9 @@ If you want to stand out, make creating a habit. Even if you’re not good at fi
 ---
 
 ## Key Takeaways
-- *Don’t wait for the perfect moment—start now.*
+- *Don’t wait for the perfect moment: start now.*
 - *Make creation a habit, not just a burst of motivation.*
-- *Practice is more valuable than endless preparation.*
+- *Practice is more valuable than too much preparation.*
 - *Finishing projects builds confidence and expertise.*
 - *You become an expert by doing, not just learning.*
 

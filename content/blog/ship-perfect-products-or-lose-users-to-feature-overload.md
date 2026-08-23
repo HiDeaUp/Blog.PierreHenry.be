@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/f1bbbd171750"
 
 Let’s talk about a trap I see a lot of dev teams fall into: building out every possible feature just to check boxes, instead of actually solving the problems users care about. I’ve been there. You think, “Oh, users might want this option, or maybe that integration,” and before you know it, your backlog is overflowing with features nobody asked for.
 
-Here’s what I do now: when someone requests a feature, I don’t just add it to the roadmap. I ask, “Do you want to be notified when this is ready?” If they say yes, that’s a real signal. If a bunch of people say yes, now we’re talking—this is something worth prioritizing.
+Here’s what I do now: when someone requests a feature, I don’t just add it to the roadmap. I ask, “Do you want to be notified when this is ready?” If they say yes, that’s a real signal. If a bunch of people say yes, now we’re talking; this is something worth prioritizing.
 
 But if barely anyone cares, or nobody wants to be notified, that’s a red flag. It’s so easy to assume users need something, but the reality is, most of the time, they don’t. You end up wasting time building stuff that doesn’t move the needle for anyone.
 
@@ -26,7 +26,7 @@ So, what should you focus on? The most painful problems. The stuff that makes us
 
 Let me repeat that, because it’s the core of my approach:  
 **Ship a perfect product, not a complete one.**  
-If you focus on perfection for the most painful problems, you’ll ship faster, prioritize better, and—most importantly—your users will be happier.
+If you focus on perfection for the most painful problems, you’ll ship faster, prioritize better, and (most importantly) your users will be happier.
 
 ## Key Takeaways
 
@@ -34,4 +34,4 @@ If you focus on perfection for the most painful problems, you’ll ship faster, 
 - Validate feature requests by asking users if they want to be notified when it’s ready.  
 - Prioritize the most painful problems for users, not hypothetical “nice-to-haves.”  
 - Ship a perfect solution to a real problem, not a complete product full of unused features.  
-- “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” — Antoine de Saint-Exupéry
+- “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”: Antoine de Saint-Exupéry

@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/50874e732c63"
 
 {{< figure src="https://images.unsplash.com/photo-1586380488686-9ef4250bbb91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxiZWF1dGlmdWwlMjBsaWZlJTIwc2ltcGxpY2l0eSUyMHByb2FjdGl2ZSUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2MDExNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="White and black happy card" title="How Being Proactive Makes Life Simpler and Happier" caption="How Being Proactive Makes Life Simpler and Happier - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/white-and-black-happy-birthday-greeting-card-2kvkNViXagI)" >}}
 
-Life is not something to be endured. It is not a burden to carry or a routine to sleepwalk through. The real beauty of life lies in simplicity and in the choices we make every day. If there are things in your life that you do not like, it is up to you to make the right decisions. You have the power to move forward, to take action, and to shape your own path.
+Life is not something to be endured. It is not a burden to carry or a routine to sleepwalk through. The real beauty of life lies in simplicity and in the choices we make every day. If there are things in your life that you do not like, it is up to you to make the right decisions. You have the power to move forward, to take action, and to choose your own path.
 
 Instead of letting life happen to you, become the main character in your own story. When you are proactive, you see things clearly. You can set up an action plan, ask yourself what you want to do next, and decide on your own strategy. This approach changes everything. It is the difference between climbing mountains and staying stuck in the same place.
 
@@ -26,13 +26,13 @@ On the other hand, when you take charge, you can achieve things that truly make 
 
 Being proactive means looking at what you enjoy and what you do not. It means always moving forward, trying new things, and sometimes even changing your approach. You might even find yourself in a position or a place you never imagined, simply because you decided to take action.
 
-When you live this way, you can make choices that truly make you happy. You can create a plan for your life—not just for your job, but for your lifestyle. This way, you collect amazing experiences and memories that make life worth living.
+When you live this way, you can make choices that truly make you happy. You can create a plan for your life, not just for your job, but for your lifestyle. This way, you collect amazing experiences and memories that make life worth living.
 
 > _“The best way to predict the future is to create it.”_  
-— Peter Drucker
+*Peter Drucker*
 
 > _“Life is what happens when you’re busy making other plans.”_  
-— John Lennon
+*John Lennon*
 
 {{< figure src="https://images.unsplash.com/photo-1681465637438-8854d230fcfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxiZWF1dGlmdWwlMjBsaWZlJTIwc2ltcGxpY2l0eSUyMHByb2FjdGl2ZSUyMGxpdmluZ3xlbnwwfDB8fHwxNzU2MDExNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A living room with a couch table and a potted plant" title="How Being Proactive Makes Life Simpler and Happier" caption="How Being Proactive Makes Life Simpler and Happier - Photo by [Alan Alves](https://unsplash.com/@alanalves) on [Unsplash](https://unsplash.com/photos/a-living-room-with-a-couch-table-and-a-potted-plant-0qT8Z4kj538)" >}}
 

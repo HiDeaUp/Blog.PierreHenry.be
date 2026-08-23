@@ -18,7 +18,7 @@ Happiness is something we all want. It’s natural, and it’s essential for fee
 
 Yet, so often, we let worries and doubts creep in. Maybe you’re enjoying a holiday, but you can’t help thinking, “It’ll be over in a few days.” Or you’re happy with someone, but a voice in your head says, “This is too good to last.” Sometimes, you compare yourself to others and think, “I’m not as smart as them.” These thoughts can break the flow of our happiness, and that’s a real problem.
 
-Instead of simply enjoying the pleasure that comes our way, we tend to overthink. Our minds love to complicate things. Rather than having a simple, positive mindset—like, “This is great, I love where I am, I love who I’m with, and I’m making the most of it”—we find reasons to worry. Maybe there’s construction next door, or the meal could have been hotter, or your pet leaves hair everywhere. We always find a way to see the downside, instead of fully enjoying the moment.
+Instead of simply enjoying the pleasure that comes our way, we tend to overthink. Our minds love to complicate things. Rather than having a simple, positive mindset (like, “This is great, I love where I am, I love who I’m with, and I’m making the most of it”) we find reasons to worry. Maybe there’s construction next door, or the meal could have been hotter, or your pet leaves hair everywhere. We always find a way to see the downside, instead of fully enjoying the moment.
 
 The real philosophy of happiness is about enjoying what you have, right now, without always looking for what’s missing or what could go wrong. Of course, it’s good to want more for yourself, but if you’re always chasing something better, you risk destroying your own happiness. It can even get in the way of your personal growth.
 
@@ -30,11 +30,11 @@ The more you feel grateful, the better you feel. The better you feel, the more y
 
 > *Happiness is not having what you want. It is appreciating what you have.*
 >
-> — Unknown
+> *Unknown*
 
 > *Gratitude turns what we have into enough.*
 >
-> — Aesop
+> *Aesop*
 
 ---
 
@@ -48,7 +48,7 @@ The more you feel grateful, the better you feel. The better you feel, the more y
 
 ## Action Steps
 
-- *Practice gratitude daily—notice and appreciate the small things around you.*
+- *Practice gratitude daily: notice and appreciate the small things around you.*
 - *Catch yourself when you start to overthink or worry, and gently bring your focus back to the present.*
 - *Remind yourself: “I am enough, and what I have is enough, right now.”*
 

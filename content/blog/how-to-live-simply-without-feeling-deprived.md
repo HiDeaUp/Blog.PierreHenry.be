@@ -29,10 +29,10 @@ A cluttered environment leads to wasted time and energy. You end up searching fo
 Living simply isn’t just about having fewer things. It’s about making space in your life for what really matters. When you have less, you lose less. You always know where your things are, and you spend less time searching and more time living.
 
 > _Simplicity is the ultimate sophistication._
-— Leonardo da Vinci
+*Leonardo da Vinci*
 
 > _The things you own end up owning you._
-— Chuck Palahniuk
+*Chuck Palahniuk*
 
 ---
 

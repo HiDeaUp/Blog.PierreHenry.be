@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/6df0788ae3ea"
 
 Building real confidence starts with your own achievements and knowing exactly where you want to go. It’s not just about feeling good or putting on a brave face. It’s about making sure your choices match what you truly want, not just what others expect from you.
 
-Too often, we end up doing things that don’t really fit us. Maybe it’s because of a quick decision or just wanting to please someone else. But life is short. There’s no room for mental clutter, endless procrastination, or replaying the same worries in your head. The real challenge is to make decisions that come from your heart, not from a need to make everyone else happy.
+Too often, we end up doing things that don’t really fit us. Maybe it’s because of a quick decision or just wanting to please someone else. But life is short. There’s no room for mental clutter, continued procrastination, or replaying the same worries in your head. The real challenge is to make decisions that come from your heart, not from a need to make everyone else happy.
 
 If you always try to please others, someone will always lose out. And if that someone is you, you’ll never feel truly satisfied. What matters most is that your actions come from the heart. When you can say, “Wow, I love what I’m doing, I’m giving it my all,” that’s when you know you’re on the right track.
 
@@ -29,10 +29,10 @@ A good relationship, whether it’s personal or professional, starts with honest
 Being upfront is key. Don’t give false promises. Say things as they are, just as you’d want to hear them yourself. If you know you’re not going to follow through, say it now, not later. This way, you avoid disappointment and keep your mind clear.
 
 > _“The privilege of a lifetime is to become who you truly are.”_  
-> — Carl Jung
+> *Carl Jung*
 
 > _“Honesty is the first chapter in the book of wisdom.”_  
-> — Thomas Jefferson
+> *Thomas Jefferson*
 
 {{< figure src="https://images.unsplash.com/photo-1549890762-0a3f8933bc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWNvbmZpZGVuY2UlMjBwZXJzb25hbCUyMGdyb3d0aCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjUxODUyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yoga at sunset on the coast" title="How to Build Real Confidence Without Faking It" caption="How to Build Real Confidence Without Faking It - Photo by [Tim Foster](https://unsplash.com/@timberfoster) on [Unsplash](https://unsplash.com/photos/shillouette-photo-of-person-standing-at-the-peak-3wAPJB57w6s)" >}}
 

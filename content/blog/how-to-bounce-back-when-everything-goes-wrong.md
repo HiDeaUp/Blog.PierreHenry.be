@@ -27,13 +27,13 @@ When things go wrong, ask yourself how you could have prevented it. Maybe you co
 The most important lesson is to always keep the right mindset. Even when things start to fall apart, hold on to a positive attitude. If you let doubt, fear, or negativity take over, your day will reflect that. Stay vigilant and look for what you can learn from your mistakes. Try saying affirmations in front of the mirror, like, “Today will be an incredible day. I will succeed in everything I do.” It might sound simple, but it can make a real difference.
 
 > *Whether you think you can, or you think you can't – you're right.*
-— Henry Ford
+*Henry Ford*
 
 > *Our greatest glory is not in never falling, but in rising every time we fall.*
-— Confucius
+*Confucius*
 
 > *You are not defined by your setbacks, but by how you respond to them.*
-— Anonymous
+*Anonymous*
 
 ---
 

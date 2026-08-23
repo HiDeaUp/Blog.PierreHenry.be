@@ -22,17 +22,17 @@ Why 21 to 31 days? Because after about three weeks, a new activity often becomes
 
 {{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxuZXclMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmVzdHlsZSUyMGNoYW5nZXxlbnwwfDB8fHwxNzU2NTE4MDM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Spark Big Growth With One Small Change" caption="How to Spark Big Growth With One Small Change - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
-If you decide a new habit isn’t adding anything to your life, you can simply let it go and try something else. The important thing is to keep adding new strings to your bow. I like to think of it as building an “arc of skills”—a collection of abilities that make you more capable and adaptable.
+If you decide a new habit isn’t adding anything to your life, you can simply let it go and try something else. The important thing is to keep adding new strings to your bow. I like to think of it as building an “arc of skills”: a collection of abilities that make you more capable and adaptable.
 
 Trying something you’ve never done before, like rock climbing, mountain biking, or even just cleaning your windows in a new way, can teach you more than you expect. We all have homes, but how often do we really think about the best way to clean our windows? Maybe you’ll discover a faster method or a better product. There’s always a way to improve, to iterate, and to do things better than before.
 
 So, here’s to experimenting with your routine and creating new habits. Every small change is a chance to grow, to learn, and to make life a little more interesting.
 
 > _“The chains of habit are too weak to be felt until they are too strong to be broken.”_  
-— Samuel Johnson
+*Samuel Johnson*
 
 > _“You’ll never change your life until you change something you do daily. The secret of your success is found in your daily routine.”_  
-— John C. Maxwell
+: John C. Maxwell
 
 {{< figure src="https://images.unsplash.com/photo-1600189528280-a793b6b931d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxuZXclMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmVzdHlsZSUyMGNoYW5nZXxlbnwwfDB8fHwxNzU2NTE4MDM2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="People walking up stairs in Guggenheim Bilbao." title="How to Spark Big Growth With One Small Change" caption="How to Spark Big Growth With One Small Change - Photo by [Carlos Torres](https://unsplash.com/@elcarito) on [Unsplash](https://unsplash.com/photos/man-in-white-shirt-and-black-pants-walking-on-gray-concrete-stairs-PpT8SfhtqHI)" >}}
 

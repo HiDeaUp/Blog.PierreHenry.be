@@ -25,10 +25,10 @@ It’s not just about physical comfort. The environment around us has a real imp
 If you want to boost your creativity, pay attention to where you spend your time. Sometimes, all it takes is stepping into a different room or going outside for a few minutes. The space you choose can either limit your imagination or help it soar.
 
 > *The mind is not a vessel to be filled, but a fire to be kindled.*
-— Plutarch
+*Plutarch*
 
 > *Creativity takes courage.*
-— Henri Matisse
+*Henri Matisse*
 
 ---
 

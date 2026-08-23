@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/2e9c08eeba49"
 
 We often make life much harder than it needs to be. When faced with choices, our minds tend to complicate things. We overthink, we hesitate, and the more we analyze, the more our brains invent problems that keep us stuck. Instead of moving forward, we freeze, telling ourselves, “Maybe it’s not the right choice. Maybe I should just stick to my routine.” But if you keep doing what you’ve always done, don’t expect your life to change.
 
-Change only happens when you make a decision, even if it feels risky or uncomfortable. Sticking to the same old habits guarantees the same old results. That’s why making choices is like a breath of fresh air. Sometimes, it’s not about picking the perfect option. It’s about doing something—anything—rather than nothing.
+Change only happens when you make a decision, even if it feels risky or uncomfortable. Sticking to the same old habits guarantees the same old results. That’s why making choices is like a breath of fresh air. Sometimes, it’s not about picking the perfect option. It’s about doing something (anything) rather than nothing.
 
-Imagine you’re considering a big move: maybe a new job that excites you, or a master’s degree in a foreign country. Sure, it might be expensive. You might wonder if the diploma is really worth it. But deep down, you want the experience. If you wait too long, life will pile on new responsibilities—maybe a family, maybe kids—and the window will close. Saying “not this year” can easily turn into “not ever.”
+Imagine you’re considering a big move: maybe a new job that excites you, or a master’s degree in a foreign country. Sure, it might be expensive. You might wonder if the diploma is really worth it. But deep down, you want the experience. If you wait too long, life will pile on new responsibilities (maybe a family, maybe kids), and the window will close. Saying “not this year” can easily turn into “not ever.”
 
 {{< figure src="https://images.unsplash.com/photo-1627686068712-36aca204758d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjB0aXBzJTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTYxMTAzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Taken at the very top of New Zealand." title="How to Make Better Choices Without Overthinking" caption="How to Make Better Choices Without Overthinking - Photo by [Joshua Harris](https://unsplash.com/@j_harris_391) on [Unsplash](https://unsplash.com/photos/a-pole-with-a-bunch-of-yellow-street-signs-on-it-BwH31YGYXho)" >}}
 
@@ -31,10 +31,10 @@ One trick I use is to set a timer for my decisions. Give yourself ten or twenty 
 Right now, I’m in Sydney, near the Opera House. I could set a timer on my watch for thirty minutes, and when it’s done, my choice is made. No more second-guessing. This habit helps me keep momentum in life, and it can help you too.
 
 > _“If you want something you’ve never had, you must be willing to do something you’ve never done.”_
-> — Thomas Jefferson
+> *Thomas Jefferson*
 
 > _“The cost of not following your heart is spending the rest of your life wishing you had.”_
-> — J. Paulsen
+> *J. Paulsen*
 
 {{< figure src="https://images.unsplash.com/photo-1603812079345-2fec46ae21b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkZWNpc2lvbiUyMG1ha2luZyUyMHN1Y2Nlc3MlMjB0aXBzJTIwb3ZlcnRoaW5raW5nfGVufDB8MHx8fDE3NTYxMTAzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table" title="How to Make Better Choices Without Overthinking" caption="How to Make Better Choices Without Overthinking - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-KZC6LjGhrco)" >}}
 
@@ -42,8 +42,8 @@ Right now, I’m in Sydney, near the Opera House. I could set a timer on my watc
 
 ## Key Takeaways
 - Overthinking keeps you stuck; action creates change.
-- Don’t wait for the perfect moment—make a choice and move forward.
-- Use a timer to limit decision time and avoid endless hesitation.
+- Don’t wait for the perfect moment: make a choice and move forward.
+- Use a timer to limit decision time and avoid constant hesitation.
 - Growth happens outside your comfort zone.
 
 ## Reflection

@@ -33,10 +33,10 @@ A practical way to boost your happiness is to focus on positive emotions and exp
 The more you practice gratitude, the better you’ll feel, and the more you’ll be able to help others. This is a virtuous circle, and it’s truly beautiful.
 
 > *Happiness is not having what you want, but wanting what you have.*
-> — Rabbi Hyman Schachtel
+> *Rabbi Hyman Schachtel*
 
 > *Gratitude turns what we have into enough.*
-> — Anonymous
+> *Anonymous*
 
 {{< figure src="https://images.unsplash.com/photo-1612128712587-4de7c72a027a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwaGlsb3NvcGh5JTIwb2YlMjBsaWZlJTIwd2VsbC1iZWluZ3xlbnwwfDB8fHwxNzU2NTEwNTM3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Bee happy." title="How to Enjoy Life Without Sabotaging Your Own Happiness" caption="How to Enjoy Life Without Sabotaging Your Own Happiness - Photo by [Jon Gibbins](https://unsplash.com/@dotjay) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happy-with-a-bee-on-it-JYLGFacHy8k)" >}}
 

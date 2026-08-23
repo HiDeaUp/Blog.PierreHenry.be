@@ -19,19 +19,19 @@ source_youtube = "https://www.youtube.com/watch?v=v-7VTEj5TiY"
 
 ## How Building Projects Became My Portfolio of Happiness
 
-### Focusing on meaningful work and mindful self-care, I found lasting satisfaction by creating things that matter to me—not chasing external success.
+### Focusing on meaningful work and mindful self-care, I found lasting satisfaction by creating things that matter to me, not chasing external success.
 
 Becoming the Hero of Your Own Life
 
-Becoming the hero of your own life isn’t about chasing wealth or fame. For me, it’s about creating, solving problems, and finding fulfillment in the process. My journey began with building web applications and software—not for recognition, but for the satisfaction of making something meaningful.
+Becoming the hero of your own life isn’t about chasing wealth or fame. For me, it’s about creating, solving problems, and finding fulfillment in the process. My journey began with building web applications and software, not for recognition, but for the satisfaction of making something meaningful.
 
 Over time, I realized my purpose goes beyond writing code or launching products. The real goal is to accomplish things that bring happiness and gratitude. It’s about those moments when you step back and feel genuinely satisfied with what you’ve built.
 
-One example is my application M Snap. Each time I release a new version, I feel a surge of happiness and contentment. M Snap lets users scan foods and instantly see if they’re healthy—a simple idea that brings real value. Every update adds to my sense of accomplishment, not just technically, but personally.
+One example is my application M Snap. Each time I release a new version, I feel a surge of happiness and contentment. M Snap lets users scan foods and instantly see if they’re healthy: a simple idea that brings real value. Every update adds to my sense of accomplishment, not just technically, but personally.
 
-{{< figure src="https://images.unsplash.com/photo-1763192903082-27dcc980ba3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHNtaWxpbmclMjBnYXJkZW4lMjBzdW5saWdodHxlbnwwfDB8fHwxNzg1NjY2NzYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Embracing uniqueness in a garden of dreams" title="How Building Projects Became My Portfolio of Happiness" caption="Embracing uniqueness in a garden of dreams - Photo by [Chidera Faustina Okeke](https://unsplash.com/@thefourthwxll)" >}}
+{{< figure src="https://images.unsplash.com/photo-1763192903082-27dcc980ba3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHNtaWxpbmclMjBnYXJkZW4lMjBzdW5saWdodHxlbnwwfDB8fHwxNzg1NjY2NzYyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Accepting uniqueness in a garden of dreams" title="How Building Projects Became My Portfolio of Happiness" caption="Accepting uniqueness in a garden of dreams - Photo by [Chidera Faustina Okeke](https://unsplash.com/@thefourthwxll)" >}}
 
-This feeling isn’t limited to M Snap. As a freelancer, I’ve developed other applications too. Each project, big or small, forms part of what I call my “portfolio of happiness”—a collection of things that make me feel grateful and fulfilled. I believe everyone should have their own portfolio: projects or activities that nourish well-being and provide a sense of purpose.
+This feeling isn’t limited to M Snap. As a freelancer, I’ve developed other applications too. Each project, big or small, forms part of what I call my “portfolio of happiness”: a collection of things that make me feel grateful and fulfilled. I believe everyone should have their own portfolio: projects or activities that nourish well-being and provide a sense of purpose.
 
 ## Building Your Portfolio of Happiness
 
@@ -40,12 +40,12 @@ It’s easy to get caught up in external measures of success like money or statu
 Here’s what I’ve learned:
 
 - **Choose projects that genuinely excite you.** Don’t follow trends or others’ expectations. Focus on what brings you joy and gratitude.
-- **Balance your time.** To avoid burnout, I “inbox” my time—dedicating one hour to a task, then moving on, even if it’s not finished. This keeps my energy high and prevents exhaustion.
+- **Balance your time.** To avoid burnout, I “inbox” my time: dedicating one hour to a task, then moving on, even if it’s not finished. This keeps my energy high and prevents exhaustion.
 - **Celebrate small wins.** Each completed project or new feature is a reason to feel proud. These moments build a resilient foundation of happiness.
 
 ## Avoiding Burnout and Growing Along the Way
 
-Growth is steady progress, not overnight change. It comes from meaningful work and mindful self-care. By structuring your time and focusing on projects that matter to you, you can avoid burnout—a common pitfall for creators.
+Growth is steady progress, not overnight change. It comes from meaningful work and mindful self-care. By structuring your time and focusing on projects that matter to you, you can avoid burnout: a common pitfall for creators.
 
 {{< figure src="https://images.unsplash.com/photo-1601642964568-1917224f4e4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b3Jrc3BhY2UlMjB0b29scyUyMG5hdHVyYWwlMjBsaWdodHxlbnwwfDB8fHwxNzg1NjY2NzYzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Simple moments build a foundation of fulfillment" title="How Building Projects Became My Portfolio of Happiness" caption="Simple moments build a foundation of fulfillment - Photo by [Dagny Reese](https://unsplash.com/@dagny_2020)" >}}
 

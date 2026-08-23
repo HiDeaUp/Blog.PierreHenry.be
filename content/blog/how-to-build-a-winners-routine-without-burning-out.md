@@ -24,7 +24,7 @@ Most of us underestimate how much time we really have each day. We imagine we ca
 
 Here’s the thing: accomplishment isn’t about cramming as much as possible into a single day. It’s about doing a little, every day, and sticking with it. Imagine spending just ten minutes a day learning a new language, or reflecting on something important, or teaching something you care about. Over time, these small, regular actions add up and change your life.
 
-If you focus on personal growth, or maybe you want to learn to code, or take a course, even twenty or thirty minutes a day can move you forward—both in your personal life and your career. It’s much more effective than trying to do everything at once.
+If you focus on personal growth, or maybe you want to learn to code, or take a course, even twenty or thirty minutes a day can move you forward: both in your personal life and your career. It’s much more effective than trying to do everything at once.
 
 We all know how quickly the day disappears. You plan to do three big things, but by the end of the day, you’re already getting ready for bed. You tell yourself you’ll wake up early and catch up, but when the alarm rings, it’s tempting to stay in bed. Before you know it, it’s late, and you’ve lost your morning. This is a trap we all fall into.
 
@@ -37,10 +37,10 @@ Your life belongs to you. You have to take action and do amazing things, because
 In the morning, read your action list. Try to make today better than yesterday, even if it’s just a little. Step by step, you’ll stretch yourself and grow.
 
 > _Success is the sum of small efforts, repeated day in and day out._
-> — Robert Collier
+> *Robert Collier*
 
 > _The future depends on what you do today._
-> — Mahatma Gandhi
+> *Mahatma Gandhi*
 
 ---
 

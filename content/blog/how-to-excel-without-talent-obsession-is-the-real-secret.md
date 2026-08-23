@@ -5,7 +5,7 @@ date = "2025-08-25T19:18:05.427131"
 draft = false
 description = "Autumn is here. The leaves are falling, and there’s something beautiful about it. Watching them drift down reminds me of how success often works. It’s not always about being the best from the start..."
 summary = "Autumn is here. The leaves are falling, and there’s something beautiful about it. Watching them drift down reminds me of how success often works. It’s not always about being the best from the start..."
-tags = ["effortless achievement", "motivation", "obsession", "self-improvement", "success"]
+tags = ["simple achievement", "motivation", "obsession", "self-improvement", "success"]
 original_title = "Comment exceller. Mais SANS effort ?"
 source_medium = "https://medium.com/@phenrysay/4f798b4a20c6"
 +++
@@ -16,11 +16,11 @@ Autumn is here. The leaves are falling, and there’s something beautiful about 
 
 Recently, I read a biography of Van Gogh. What struck me was that he wasn’t naturally gifted at painting. In fact, he wasn’t even supposed to become an artist. He faced a lot of obstacles and started off with no real talent for painting. But he kept experimenting, trying again and again. He became obsessed with his craft. That obsession, not talent, is what led him to succeed.
 
-This isn’t just true for Van Gogh. It applies to any kind of success. If you’re obsessed—if it’s all or nothing for you—then you’ll find a way. I love the saying, “Everything is possible.” The only real limits are the ones we create in our own minds.
+This isn’t just true for Van Gogh. It applies to any kind of success. If you’re obsessed (if it’s all or nothing for you) then you’ll find a way. I love the saying, “Everything is possible.” The only real limits are the ones we create in our own minds.
 
 If you want something badly enough, you’ll think about it morning, noon, and night. At breakfast, lunch, and dinner, it’ll be on your mind. Even in the shower, you’ll be asking yourself, “How can I do better? How can I succeed?” You’ll start to change the rules of the game to suit yourself, just like you might transform a garden into something tropical with palm trees. You can change your environment and your approach to fit your goals.
 
-Take jazz, for example. There was a guitarist who had a problem with his hands. He played the guitar in a strange, different way because of it. For him, this wasn’t a setback. He didn’t see it as a limit. He kept playing, and through his unique style, he helped create jazz—a whole new kind of music. Others might have given up, thinking their problem was the end. But he kept going, and that made all the difference.
+Take jazz, for example. There was a guitarist who had a problem with his hands. He played the guitar in a strange, different way because of it. For him, this wasn’t a setback. He didn’t see it as a limit. He kept playing, and through his unique style, he helped create jazz: a whole new kind of music. Others might have given up, thinking their problem was the end. But he kept going, and that made all the difference.
 
 {{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwZWZmb3J0bGVzcyUyMGFjaGlldmVtZW50JTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU2MTEzNDg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Excel Without Talent? Obsession Is the Real Secret" caption="How to Excel Without Talent? Obsession Is the Real Secret - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
@@ -29,10 +29,10 @@ So, once again, everything is possible. The key isn’t just to be stubborn, but
 It’s also important to choose the right environment. Being in a good environment helps you stay on the right path and makes it easier to keep moving forward.
 
 > *The only limits are the ones you set in your mind.*
-> — Unknown
+> *Unknown*
 
 > *Obsession is the wellspring of creation.*
-> — Anonymous
+> *Anonymous*
 
 ---
 

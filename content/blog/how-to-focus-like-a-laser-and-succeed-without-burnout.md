@@ -18,7 +18,7 @@ Success is not just about working hard. It’s about seeing further, thinking ah
 
 Consistency is your best friend here. Each week, look back and ask yourself what went well and what could be better. This simple habit of reflection helps you stretch your progress and measure what needs improvement. By tracking both your wins and your setbacks, you create a clear path to your goal.
 
-One of the biggest traps is trying to do everything at once. When you spread yourself too thin, you end up achieving nothing. The key is to find the one thing that matters most to you right now. Focus all your energy on that, like a laser. When your mind is scattered, it feels like you don’t have enough energy or ability to finish a project. But if you channel all your focus into one task—say, working on your main project every morning for an hour or two—you’ll see real, solid progress.
+One of the biggest traps is trying to do everything at once. When you spread yourself too thin, you end up achieving nothing. The key is to find the one thing that matters most to you right now. Focus all your energy on that, like a laser. When your mind is scattered, it feels like you don’t have enough energy or ability to finish a project. But if you channel all your focus into one task (say, working on your main project every morning for an hour or two) you’ll see real, solid progress.
 
 {{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwbWluZHNldCUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTY1MTA3MTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Focus Like a Laser and Succeed Without Burnout" caption="How to Focus Like a Laser and Succeed Without Burnout - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
@@ -26,11 +26,11 @@ This approach doesn’t just help you succeed. It changes your life. When you pr
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 > *What you focus on grows. Where your attention goes, energy flows.*
 >
-> — Tony Robbins
+> *Tony Robbins*
 
 ---
 
@@ -40,7 +40,7 @@ This approach doesn’t just help you succeed. It changes your life. When you pr
 - *Take small, consistent steps every day.*
 - *Reflect weekly on what worked and what didn’t.*
 - *Focus your energy on one main goal at a time.*
-- *Believe in your ability to succeed—your mindset shapes your reality.*
+- *Believe in your ability to succeed: your mindset affects your reality.*
 
 {{< figure src="https://images.unsplash.com/photo-1606235729016-2940ba826a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwbWluZHNldCUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3NTY1MTA3MTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface SNJ1O2 b0IE" title="How to Focus Like a Laser and Succeed Without Burnout" caption="How to Focus Like a Laser and Succeed Without Burnout - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-SNJ1O2-b0IE)" >}}
 

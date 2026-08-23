@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/cadc33cdb0cf"
 
 {{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwcm91dGluZSUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTk5ODUyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Boost Your Mood in 5 Minutes a Day Without Meditation" caption="How to Boost Your Mood in 5 Minutes a Day Without Meditation - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
-Positivity is not just a feel-good word. When you focus on something positive, your mind instantly brings up a positive image. This message goes straight to your brain and lifts your mood. If you do this seriously and truly believe in it, you will feel better—calmer, lighter, and genuinely at peace.
+Positivity is not just a feel-good word. When you focus on something positive, your mind instantly brings up a positive image. This message goes straight to your brain and lifts your mood. If you do this seriously and truly believe in it, you will feel better: calmer, lighter, and genuinely at peace.
 
 The reason is simple: our brains do not really distinguish between reality and imagination. When you recall a happy memory or focus on a positive thought, your brain reacts as if it is happening right now. You feel the benefits in your body and mind. This is a powerful exercise, yet most of us do not practice it enough. But it can make a real difference in your daily life.
 
@@ -26,7 +26,7 @@ As you practice this, you might start to notice things around you that inspire y
 
 {{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwcm91dGluZSUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTk5ODUyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Boost Your Mood in 5 Minutes a Day Without Meditation" caption="How to Boost Your Mood in 5 Minutes a Day Without Meditation - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
-Having at least one moment of well-being each day is so important. I know this from experience. There was a time when I was working non-stop—lead engineer, manager, student, and juggling other part-time activities. I barely had time for my family, my partner, or even myself. Studying for a master’s in data science was rewarding, but it was also stressful, with constant deadlines and pressure. I forgot how to relax, to take time off, to recharge.
+Having at least one moment of well-being each day is so important. I know this from experience. There was a time when I was working non-stop: lead engineer, manager, student, and juggling other part-time activities. I barely had time for my family, my partner, or even myself. Studying for a master’s in data science was rewarding, but it was also stressful, with constant deadlines and pressure. I forgot how to relax, to take time off, to recharge.
 
 But when you allow yourself moments of rest, you recharge your batteries. You come back stronger, ready to reach the next level. That is what I wish for you.
 
@@ -34,22 +34,22 @@ If you want to go further, remember this: the best time to plant a tree was twen
 
 To get there, set a clear goal and a deadline. Maybe once a week, look back and see what went well and what could be better. You can even rate your day or week from 0 to 20. This is how you improve, little by little.
 
-And remember: if the journey is beautiful, you do not worry about where it leads. But if it is unpleasant, you end up just enduring life. Do not just endure—take action and shape your own path.
+And remember: if the journey is beautiful, you do not worry about where it leads. But if it is unpleasant, you end up just enduring life. Do not just endure: take action and choose your own path.
 
 > *If the journey is beautiful, you do not ask where it leads.*
-> — Anatole France
+> *Anatole France*
 
 {{< figure src="https://images.unsplash.com/photo-1665598215450-95f3d46d91e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGRhaWx5JTIwcm91dGluZSUyMHBvc2l0aXZpdHl8ZW58MHwwfHx8MTc1NTk5ODUyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign with glasses on it" title="How to Boost Your Mood in 5 Minutes a Day Without Meditation" caption="How to Boost Your Mood in 5 Minutes a Day Without Meditation - Photo by [Binti Malu](https://unsplash.com/@bintimalu) on [Unsplash](https://unsplash.com/photos/a-sign-with-glasses-on-it-hxt8qHOW61Y)" >}}
 
 > *The best time to plant a tree was twenty years ago. The second-best time is now.*
-> — Chinese Proverb
+> *Chinese Proverb*
 
 ---
 
 ## Key Takeaways
 - Focus on positive thoughts daily to boost your mood and well-being.
 - Practice the 4-4-4 breathing method to feel calmer and more present.
-- Take time to rest and recharge—this is essential for long-term growth.
+- Take time to rest and recharge; this is essential for long-term growth.
 - Set clear goals and review your progress regularly.
 - Remember, small daily actions lead to big changes over time.
 

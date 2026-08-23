@@ -22,7 +22,7 @@ Every Sunday evening, take a few minutes to write down the most important things
 
 On Monday morning, begin with your number one priority. I recommend waking up one or two hours earlier than usual. If you normally get up at 8 a.m. and rush straight to work, try waking up at 6 a.m. Use this extra time to tackle your two most important tasks of the day. On Tuesday, move on to the next two tasks, which are a bit less important, and continue this pattern throughout the week. By Thursday and Friday, you’ll be working on the least urgent tasks.
 
-This approach guarantees that your most important task is always completed first thing Monday morning. At the end of the week, on Sunday, take ten minutes for a retrospective. Check if you managed to complete all your tasks. Make this review part of your routine—set a reminder in your phone for Sunday at 1 p.m., for example, and block out those ten minutes.
+This approach guarantees that your most important task is always completed first thing Monday morning. At the end of the week, on Sunday, take ten minutes for a retrospective. Check if you managed to complete all your tasks. Make this review part of your routine: set a reminder in your phone for Sunday at 1 p.m. for example, and block out those ten minutes.
 
 {{< figure src="https://images.unsplash.com/photo-1683673940036-106de8a52705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjByb3V0aW5lJTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTYwNTkzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A clock sitting on top of a table next to chess pieces w" title="How to Get More Done Each Week Without Feeling Overwhelmed" caption="How to Get More Done Each Week Without Feeling Overwhelmed - Photo by [Joseph Casados](https://unsplash.com/@xtreme50cal) on [Unsplash](https://unsplash.com/photos/a-clock-sitting-on-top-of-a-table-next-to-chess-pieces-27lOLCZ_u-w)" >}}
 
@@ -36,19 +36,19 @@ Your one-year goal should be a bit broader, but still clear enough to guide you.
 
 ## Actionable Steps Every Day
 
-Each day, focus on actionable steps. Don’t just read or learn—do something concrete. Build, create, or finish something that moves you closer to your weekly goals. The first day of the week should always be dedicated to your most important tasks. If today is Wednesday, don’t wait until next Monday—start tomorrow.
+Each day, focus on actionable steps. Don’t just read or learn: do something concrete. Build, create, or finish something that moves you closer to your weekly goals. The first day of the week should always be dedicated to your most important tasks. If today is Wednesday, don’t wait until next Monday: start tomorrow.
 
 At the end of each week, review what went well, what you want to keep doing, and what didn’t work. Focus on the 20% of tasks that bring 80% of the results. This is the Pareto principle in action. Don’t waste time on tiny details that nobody notices. Spend most of your time on what brings the biggest results, whether that’s revenue, influence, or more views on your content.
 
 > *The key is not to prioritize what's on your schedule, but to schedule your priorities.*
-> — Stephen R. Covey
+> *Stephen R. Covey*
 
 {{< figure src="https://images.unsplash.com/photo-1722096650999-1d9fc47a03fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjByb3V0aW5lJTIwdGltZSUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc1NTYwNTkzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="A black and white photo of a clock on a wall" title="How to Get More Done Each Week Without Feeling Overwhelmed" caption="How to Get More Done Each Week Without Feeling Overwhelmed - Photo by [byquincy](https://unsplash.com/@byquincy) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-clock-on-a-wall-6JjtKJJq8nc)" >}}
 
 > *You do not rise to the level of your goals. You fall to the level of your systems.*
-> — James Clear
+> *James Clear*
 
-Try this method for a month—21 to 28 days. Give it a real shot, then look back and see if it works for you. You might be surprised by how much you can achieve with a simple, consistent routine.
+Try this method for a month: 21 to 28 days. Give it a real shot, then look back and see if it works for you. You might be surprised by how much you can achieve with a simple, consistent routine.
 
 ---
 

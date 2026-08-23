@@ -3,8 +3,8 @@ title = "How to Build a Happy Life Without Chasing Perfection"
 slug = "how-to-build-a-happy-life-without-chasing-perfection"
 date = "2025-08-17T18:34:43.938451"
 draft = false
-description = "Today was a good day. I got a lot done, and I felt genuinely happy. I spent time working on my project, 1 Snap, an app that lets you scan your meals and drinks—basically, everything you put into yo..."
-summary = "Today was a good day. I got a lot done, and I felt genuinely happy. I spent time working on my project, 1 Snap, an app that lets you scan your meals and drinks—basically, everything you put into yo..."
+description = "Today was a good day. I got a lot done, and I felt genuinely happy. I spent time working on my project, 1 Snap, an app that lets you scan your meals and drinks: basically, everything you put into yo..."
+summary = "Today was a good day. I got a lot done, and I felt genuinely happy. I spent time working on my project, 1 Snap, an app that lets you scan your meals and drinks: basically, everything you put into yo..."
 tags = ["happiness", "life lessons", "personal growth", "productivity", "self-improvement", "tasks", "wellbeing"]
 priority = true
 priority_topics = ["tasks", "productivity"]
@@ -14,15 +14,15 @@ source_medium = "https://medium.com/@phenrysay/73bdf63d5de2"
 
 {{< figure src="https://images.unsplash.com/photo-1580640611343-3f53b12a5b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTQxOTY4Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy neon sign hip" title="How to Build a Happy Life Without Chasing Perfection" caption="How to Build a Happy Life Without Chasing Perfection - Photo by [Stan B](https://unsplash.com/@stanislas1) on [Unsplash](https://unsplash.com/photos/red-love-neon-light-signage-F7m0W7QLP1s)" >}}
 
-Today was a good day. I got a lot done, and I felt genuinely happy. I spent time working on my project, 1 Snap, an app that lets you scan your meals and drinks—basically, everything you put into your body. It uses artificial intelligence to help you track your food, see your nutrition scores, and even mark your favorites. Every time I release a new version, I see real progress. That feeling of moving forward, of building something meaningful, is something I’m proud of.
+Today was a good day. I got a lot done, and I felt genuinely happy. I spent time working on my project, 1 Snap, an app that lets you scan your meals and drinks: basically, everything you put into your body. It uses artificial intelligence to help you track your food, see your nutrition scores, and even mark your favorites. Every time I release a new version, I see real progress. That feeling of moving forward, of building something meaningful, is something I’m proud of.
 
 I worked on this outside, in a park in Sydney, with boats and the marina nearby. There’s water, places to fish, and a sense of calm. I love these moments of peace, where I feel both relaxed and accomplished. It’s something I believe everyone should have: time invested in yourself, time spent well.
 
 ## Why We Do What We Do
 
-Sometimes, we get caught up in doing things just to do them. Maybe you’re writing a chapter of a book, building a new program, or chasing the next big achievement. But is it making you happy? Are you just running after what society expects—degrees, a good job, a family—without stopping to ask if it’s what you really want?
+Sometimes, we get caught up in doing things just to do them. Maybe you’re writing a chapter of a book, building a new program, or chasing the next big achievement. But is it making you happy? Are you just running after what society expects (degrees, a good job, a family) without stopping to ask if it’s what you really want?
 
-There’s a kind of “rat race” mentality: always chasing the next diploma, the next job title, the next milestone. But that’s not what brings real happiness. That’s just following a script handed down by others. What matters is finding what drives you—what gives you energy and makes you feel alive.
+There’s a kind of “rat race” mentality: always chasing the next diploma, the next job title, the next milestone. But that’s not what brings real happiness. That’s just following a script handed down by others. What matters is finding what drives you: what gives you energy and makes you feel alive.
 
 ## Find Your Drive
 
@@ -41,30 +41,30 @@ Pride rituals are intentional practices to strengthen your self-confidence. They
 {{< figure src="https://images.unsplash.com/photo-1459369510627-9efbee1e6051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzJTIwbGlmZSUyMGxlc3NvbnN8ZW58MHwwfHx8MTc1NTQxOTY4Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="The Book of Happy" title="How to Build a Happy Life Without Chasing Perfection" caption="How to Build a Happy Life Without Chasing Perfection - Photo by [Josh Felise](https://unsplash.com/@jfelise) on [Unsplash](https://unsplash.com/photos/person-holding-happy-by-alex-lemon-book-yIMy3ERBc3o)" >}}
 
 > _“The only person you should try to be better than is the person you were yesterday.”_  
-> — Anonymous
+> *Anonymous*
 
 ## Celebrate What Makes You Unique
 
 We all have things we’re proud of. Maybe it’s a project, a habit, or a personal achievement. Take time to recognize these. Tell yourself, “I am capable. I can do this. I deserve happiness.” Celebrate your wins, even if it’s just by writing them in a journal or sharing them with someone close.
 
-The goal is to plant and grow a sense of personal pride. This builds your self-esteem and a more positive mindset. It changes everything—how you work, how you live, and how you feel.
+The goal is to plant and grow a sense of personal pride. This builds your self-esteem and a more positive mindset. It changes everything: how you work, how you live, and how you feel.
 
 ## Living in Alignment
 
-I love being in nature, working on projects that matter to me, and raising my standards for health and well-being. That’s why I care so much about 1 Snap. Yesterday, I ate an ice cream—honestly, it wasn’t great. It was ultra-processed, high in sugar, and low in protein. The app suggested a better choice: a smaller portion, maybe a sorbet with fresh fruit. It’s about making small changes for better nutrition.
+I love being in nature, working on projects that matter to me, and raising my standards for health and well-being. That’s why I care so much about 1 Snap. Yesterday, I ate an ice cream: honestly, it wasn’t great. It was ultra-processed, high in sugar, and low in protein. The app suggested a better choice: a smaller portion, maybe a sorbet with fresh fruit. It’s about making small changes for better nutrition.
 
 The app also tracks calories, and if you go over your daily limit, it lets you know. It’s a simple way to stay aware of your choices.
 
 ## The Importance of Reflection
 
-Everyone deserves to do things they love, things that match their values and boost their energy. The real goal in life is to be happy—not to impress others with a fancy car or a big job title, but to impress yourself. Compare yourself to who you were yesterday, not to other people. You never really know what’s going on in someone else’s life, even if they seem happy on the outside.
+Everyone deserves to do things they love, things that match their values and boost their energy. The real goal in life is to be happy, not to impress others with a fancy car or a big job title, but to impress yourself. Compare yourself to who you were yesterday, not to other people. You never really know what’s going on in someone else’s life, even if they seem happy on the outside.
 
 Here’s an exercise: at the end of each day, sit down and rate your day from 0 to 20 (skip the “average” numbers like 15 or 17). Think back through your day, step by step. What went well? What didn’t? What could you have done differently to make it a better day? Write down your plan for tomorrow, so you can avoid repeating what didn’t work and do more of what made you happy.
 
-I used to do this every two hours—pause, reflect, and ask myself if I was happy with how I spent my time. Little by little, you make progress.
+I used to do this every two hours: pause, reflect, and ask myself if I was happy with how I spent my time. Little by little, you make progress.
 
 > _“Happiness is not something ready made. It comes from your own actions.”_  
-> — Dalai Lama
+> *Dalai Lama*
 
 ## It’s All About the Frame
 
@@ -77,7 +77,7 @@ One thing I’ve learned from living in Australia is that changing the environme
 Evening walks help me unwind and reflect on my day. I notice the trees, the birds, the boats. I’m in the moment, aware of what’s around me. It’s a simple way to relax and reset.
 
 > _“Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.”_  
-> — Buddha
+> *Buddha*
 
 ---
 
@@ -96,7 +96,7 @@ Evening walks help me unwind and reflect on my day. I notice the trees, the bird
 - Identify one thing today that made you feel proud.
 - Try a pride ritual in front of the mirror.
 - Rate your day tonight and write down one thing to improve tomorrow.
-- Take a walk and notice your surroundings—be present.
+- Take a walk and notice your surroundings: be present.
 
 ## Reflection
 

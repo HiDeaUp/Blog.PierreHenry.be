@@ -24,16 +24,16 @@ The lesson is simple: do one thing at a time. If you set out to build three apps
 
 {{< figure src="https://images.unsplash.com/photo-1531323386183-43890b5c766d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtdWx0aXRhc2tpbmclMjBwcm9kdWN0aXZpdHklMjBmb2N1c3xlbnwwfDB8fHwxNzQ4NzQyOTY5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman right fist" title="How to Get More Done WITHOUT Falling for the Multitasking Trap" caption="How to Get More Done WITHOUT Falling for the Multitasking Trap - Photo by [Chase Clark](https://unsplash.com/@chaseelliottclark) on [Unsplash](https://unsplash.com/photos/woman-right-fist-dGqWUPPesrQ)" >}}
 
-This mindset applies to everything you create. For example, I was building an app to make YouTube thumbnails. I ran into some problems, but instead of fixing them, I jumped to the next app. By the end of the weekend, I had two unfinished projects and unresolved issues. I promised myself: this can’t happen again. I’m writing it into my own personal “constitution”—a rule I refuse to break.
+This mindset applies to everything you create. For example, I was building an app to make YouTube thumbnails. I ran into some problems, but instead of fixing them, I jumped to the next app. By the end of the weekend, I had two unfinished projects and unresolved issues. I promised myself: this can’t happen again. I’m writing it into my own personal “constitution”: a rule I refuse to break.
 
 Making these promises to yourself is powerful. It helps you improve, grow, and become a better version of yourself. So ask yourself: what can you do better? What haven’t you mastered yet? There’s always room for improvement, no matter how much progress you’ve made. The challenge never ends, but that’s what makes it interesting.
 
 I like to think of my hero as myself in ten years. That’s my vision. My hero is me, ten years from now, always moving forward. I don’t compare myself to others. I compare myself to my future self, because I know that person will be amazing. So what can I do today to get closer to that hero? That’s the real question.
 
 > *“Don’t compare yourself to others. Compare yourself to the person you were yesterday.”*  
-> — Jordan Peterson
+> *Jordan Peterson*
 
-The best time to start is now. Don’t wait for the perfect moment, because it never comes. There will always be unexpected problems, always something missing. If you keep waiting, you’ll just end up with less time and more excuses. Make a little time, invest a little in yourself, and start something big—but start with just one thing.
+The best time to start is now. Don’t wait for the perfect moment, because it never comes. There will always be unexpected problems, always something missing. If you keep waiting, you’ll just end up with less time and more excuses. Make a little time, invest a little in yourself, and start something big, but start with just one thing.
 
 ---
 

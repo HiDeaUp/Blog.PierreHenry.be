@@ -28,19 +28,19 @@ Even small decisions, like what you drink, can have a big impact. If you choose 
 
 Sometimes, it’s hard to know what the right action is. You might search for a long time before you realize, “If I just do this one thing every day, I’ll get where I want to go.” Being stuck in a fog of bad habits can feel like being trapped in a basement. The longer you stay there, the harder it is to see what’s possible.
 
-We often build invisible barriers in our minds. Think of the story of the elephant in India: when it was young, it was tied to a small stake and couldn’t break free. As it grew, it became strong enough to break the rope, but it never tried, because it believed it couldn’t. We do the same thing to ourselves. Just because something wasn’t possible before doesn’t mean it’s impossible now. Your environment, your upbringing, your past—they don’t have to define your future.
+We often build invisible barriers in our minds. Think of the story of the elephant in India: when it was young, it was tied to a small stake and couldn’t break free. As it grew, it became strong enough to break the rope, but it never tried, because it believed it couldn’t. We do the same thing to ourselves. Just because something wasn’t possible before doesn’t mean it’s impossible now. Your environment, your upbringing, your past; they don’t have to define your future.
 
 The only real limits are the ones you set for yourself. It’s time to go further and push past those limits. Make sure your actions line up with your long-term goals. If your habits are pulling you away from where you want to be, it’s time to change. Success isn’t something you chase after like an object. It’s about transforming yourself so you’re ready for it.
 
 > *The best time to plant a tree was twenty years ago. The second-best time is now.*
 >
-> — Chinese proverb
+> *Chinese proverb*
 
 So, don’t put off what you want to do. Don’t make excuses about time or money. Today is the only day you have. If you start now, in twenty years you’ll be amazed at how far you’ve come. Even in just one year, you’ll see a real difference.
 
 > *You become what you repeatedly do. Excellence, then, is not an act, but a habit.*
 >
-> — Will Durant
+> *Will Durant*
 
 ---
 
@@ -48,8 +48,8 @@ So, don’t put off what you want to do. Don’t make excuses about time or mone
 
 ## Key Takeaways
 
-- Stop replaying the past—focus on actions you can take today.
-- Small daily choices shape your future more than big sacrifices.
+- Stop replaying the past: focus on actions you can take today.
+- Small daily choices build your future more than big sacrifices.
 - Break free from limiting beliefs and old habits.
 - Align your actions with your long-term goals.
 - Start now; the sooner you begin, the sooner you’ll see results.

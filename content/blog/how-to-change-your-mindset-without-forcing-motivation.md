@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/efd48e568540"
 
 Success is not just about what you do, but about who you become. Changing yourself for the better means shifting your posture, your way of thinking, and your overall mindset. Many people limit themselves without even realizing it. They might have all the skills and opportunities, but their thinking holds them back. If your beliefs and mindset are not aligned with your goals, reaching them becomes much harder.
 
-From a young age, we are shaped by our upbringing, our education, and our past experiences. This conditioning can create invisible barriers in our minds. We might think we have no limits, but in reality, we often build walls for ourselves. These mental walls are just as real as physical ones, even if we cannot see them. To move forward, we need to break down these barriers and open ourselves up to new possibilities.
+From a young age, we are influenced by our upbringing, our education, and our past experiences. This conditioning can create invisible barriers in our minds. We might think we have no limits, but in reality, we often build walls for ourselves. These mental walls are just as real as physical ones, even if we cannot see them. To move forward, we need to break down these barriers and open ourselves up to new possibilities.
 
 It is important to realize that the only real limits are the ones we set for ourselves. Imagine the walls around you; in your mind, they can be just as confining. Becoming aware of these self-imposed limits is the first step to overcoming them.
 
@@ -24,7 +24,7 @@ Another key point is how we see ourselves. Often, we have a mental image of who 
 
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMG1pbmRzZXQlMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYwMTUyNTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Change Your Mindset Without Forcing Motivation" caption="How to Change Your Mindset Without Forcing Motivation - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
-The way we interpret events also shapes our choices and, ultimately, our success. A sunny day might lift your spirits, while a rainy one might bring you down. If you complain about small things, you might make different choices in your business or personal life, and these choices can affect your level of success. Being aware of how you interpret situations helps you make better decisions.
+The way we interpret events also affects our choices and, ultimately, our success. A sunny day might lift your spirits, while a rainy one might bring you down. If you complain about small things, you might make different choices in your business or personal life, and these choices can affect your level of success. Being aware of how you interpret situations helps you make better decisions.
 
 Our idea of success is deeply personal. For some, a successful life means being happy. For others, it is about financial security, a big family, or moving to a dream country. Some people see success as leading a large company or earning a prestigious degree. We all have different goals and ways of seeing life.
 
@@ -34,11 +34,11 @@ Learning is a lifelong process. The more you learn, the more you realize how muc
 
 > *The only real limits are the ones you set for yourself.*
 >
-> — Unknown
+> *Unknown*
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 ---
 
@@ -48,9 +48,9 @@ Learning is a lifelong process. The more you learn, the more you realize how muc
 
 - Your mindset and self-image directly influence your success.
 - Most limits are self-imposed and can be broken down.
-- Success means different things to different people—define it for yourself.
+- Success means different things to different people: define it for yourself.
 - Regularly question your beliefs and keep learning to move forward.
-- The way you interpret events shapes your choices and your future.
+- The way you interpret events affects your choices and your future.
 
 ---
 

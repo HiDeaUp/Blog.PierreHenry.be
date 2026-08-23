@@ -22,13 +22,13 @@ But too often, we put unnecessary pressure on ourselves. We try to juggle ten th
 
 The truth is, you only need to do one or two things at a time, but do them well. When you focus on a single task and give it your best, you feel proud of yourself. Progress becomes steady and lasting. It’s not about how much you do, but how well you do it. Each day, just a little bit of focused effort is enough.
 
-Good organization, healthy routines, and quality sleep make all the difference. Going to bed and waking up at the same time every day can change everything. It helps you feel better, happier, and more fulfilled. This creates a positive cycle—when you feel good, everything else in your life starts to fall into place.
+Good organization, healthy routines, and quality sleep make all the difference. Going to bed and waking up at the same time every day can change everything. It helps you feel better, happier, and more fulfilled. This creates a positive cycle: when you feel good, everything else in your life starts to fall into place.
 
-> _It’s not the quantity, but the quality of your actions that shapes your life._
-— Anonymous
+> _It’s not the quantity, but the quality of your actions that affects your life._
+*Anonymous*
 
 > _Small daily improvements are the key to staggering long-term results._
-— Robin Sharma
+*Robin Sharma*
 
 ---
 

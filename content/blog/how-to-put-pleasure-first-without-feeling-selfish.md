@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/a1b495086b4b"
 
 Many people go through life taking things far too seriously. We make choices that don’t really make us happy or fulfilled, and this has a huge impact on our sense of well-being. The way we organize our days affects how we see time, how enthusiastic we feel, and even how much energy we have left for our passions at the end of the day.
 
-Think about a typical weekday: you wake up, rush through breakfast, head to work, and spend your day ticking off all the necessary tasks. You pay bills, handle paperwork, tidy up, cook, and take care of personal hygiene. Only after all that, with whatever little time and energy you have left, do you try to squeeze in something for yourself—a project, a hobby, or a dream. But by then, you’re running on empty. The result? Frustration and mediocre results, not because you lack talent, but because you put yourself last.
+Think about a typical weekday: you wake up, rush through breakfast, head to work, and spend your day ticking off all the necessary tasks. You pay bills, handle paperwork, tidy up, cook, and take care of personal hygiene. Only after all that, with whatever little time and energy you have left, do you try to squeeze in something for yourself: a project, a hobby, or a dream. But by then, you’re running on empty. The result? Frustration and mediocre results, not because you lack talent, but because you put yourself last.
 
 This way of living is often inherited from previous generations who believed that work should always come first. But if your job isn’t your passion, or if it doesn’t reward you enough, why should it be your top priority? Instead, your happiness and the lifestyle you want should come first. Money comes and goes, but time is irreplaceable. Lose an hour, a day, or a month, and you can never get it back.
 
@@ -29,10 +29,10 @@ This might mean completely changing your routine. If you want to live a legendar
 When you always put yourself last, you end up frustrated and doubting your abilities. Mistakes and setbacks pile up, not because you’re not good enough, but because you never gave yourself a real chance. Live a life that truly excites you, one that matches who you are. That’s what makes all the difference and brings real happiness.
 
 > _Time is the only wealth we're given. Spend it on what makes you come alive._
-— Anonymous
+*Anonymous*
 
 > _Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive._
-— Howard Thurman
+*Howard Thurman*
 
 ---
 
@@ -41,7 +41,7 @@ When you always put yourself last, you end up frustrated and doubting your abili
 ## Key Takeaways
 - Organize your day around what excites you, not just obligations.
 - Give your best energy to your passions, not what’s left over.
-- Time is more valuable than money—spend it on what matters to you.
+- Time is more valuable than money: spend it on what matters to you.
 - Challenge routines that don’t serve your happiness.
 
 ## Action Steps

@@ -3,8 +3,8 @@ title = "How to Organize Code Folders Without Losing Your Mind"
 slug = "how-to-organize-code-folders-without-losing-your-mind"
 date = "2026-01-08T19:52:56.873792"
 draft = false
-description = "Alright, let’s get straight to it. I’ve been in the industry for over 12 years, and if there’s one thing I’ve seen everywhere—startups, big companies, you name it—it’s that everyone eventually land..."
-summary = "Alright, let’s get straight to it. I’ve been in the industry for over 12 years, and if there’s one thing I’ve seen everywhere—startups, big companies, you name it—it’s that everyone eventually land..."
+description = "Alright, let’s get straight to it. I’ve been in the industry for over 12 years, and if there’s one thing I’ve seen everywhere (startups, big companies, you name it) it’s that everyone eventually land..."
+summary = "Alright, let’s get straight to it. I’ve been in the industry for over 12 years, and if there’s one thing I’ve seen everywhere (startups, big companies, you name it) it’s that everyone eventually land..."
 tags = ["code organization", "development workflow", "folder management", "money", "productivity", "project organization", "repository structure", "tech", "time management"]
 priority = true
 priority_topics = ["tech", "money", "time management", "productivity"]
@@ -15,21 +15,21 @@ source_youtube = "https://www.youtube.com/watch?v=gxVAvm1YdBg"
 
 {{< figure src="https://images.unsplash.com/photo-1724331340768-4d1fe9f11aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2RlJTIwb3JnYW5pemF0aW9uJTIwcmVwb3NpdG9yeSUyMHN0cnVjdHVyZSUyMGZvbGRlciUyMG1hbmFnZW1lbnR8ZW58MHwwfHx8MTc2Nzg3MzE4MXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A image of a tower" title="How to Organize Code Folders Without Losing Your Mind" caption="How to Organize Code Folders Without Losing Your Mind - Photo by [BoliviaInteligente](https://unsplash.com/@boliviainteligente) on [Unsplash](https://unsplash.com/photos/a-computer-generated-image-of-a-computer-tower-O3qYNyl9xIU)" >}}
 
-Alright, let’s get straight to it. I’ve been in the industry for over 12 years, and if there’s one thing I’ve seen everywhere—startups, big companies, you name it—it’s that everyone eventually lands on the same basic convention for organizing code on their local machines. It’s not rocket science, but it’s one of those things that, if you get it right, makes your life (and your teammates’ lives) way easier.
+Alright, let’s get straight to it. I’ve been in the industry for over 12 years, and if there’s one thing I’ve seen everywhere (startups, big companies, you name it) it’s that everyone eventually lands on the same basic convention for organizing code on their local machines. It’s not rocket science, but it’s one of those things that, if you get it right, makes your life (and your teammates’ lives) way easier.
 
-I’m going to show you the most common way to organize your projects locally, why it works, and a few alternatives you might run into. I’ll also share some personal tips and a bit of the history behind these conventions. Let’s dive in.
+I’m going to show you the most common way to organize your projects locally, why it works, and a few alternatives you might run into. I’ll also share some personal tips and a bit of the history behind these conventions. Here is how.
 
 ## Why Consistency Matters
 
 First off, consistency is your best friend here. If you and your teammates all keep your cloned repos in the same place, it’s a breeze to help each other out. Ever had to debug something on someone else’s computer and spent five minutes just looking for the right folder? Yeah, let’s avoid that.
 
-> “It’s like driving home—you don’t think about every turn, you just get there. Your folder structure should feel the same.”
+> “It’s like driving home; you don’t think about every turn, you just get there. Your folder structure should feel the same.”
 
 ## The Standard: The `Code` Folder
 
 The most common convention is to have a folder called `Code` (or `code`) in your home directory. That’s it. Super simple.
 
-On my machine, I’m in my home directory (let’s say `/home/pierre/`), and I create a folder called `Code`. Now, you can go with lowercase or uppercase—personally, I like to capitalize the C. Why? On Linux, uppercase folders show up at the top when you list directories in the terminal. It’s a small thing, but it makes a difference when you’re jumping around quickly.
+On my machine, I’m in my home directory (let’s say `/home/pierre/`), and I create a folder called `Code`. Now, you can go with lowercase or uppercase: personally, I like to capitalize the C. Why? On Linux, uppercase folders show up at the top when you list directories in the terminal. It’s a small thing, but it makes a difference when you’re jumping around quickly.
 
 ```bash
 # In your home directory
@@ -47,13 +47,13 @@ You might notice that files like `README` and `LICENSE` are in uppercase. That�
 
 ## Alternatives: `projects`, `www`, and the Old School
 
-You might see some folks use `projects` instead of `code`. That’s fine, just less common. The key is to pick one and stick with it everywhere—work machine, personal laptop, whatever.
+You might see some folks use `projects` instead of `code`. That’s fine, just less common. The key is to pick one and stick with it everywhere: work machine, personal laptop, whatever.
 
 Back in the day, especially for web stuff, people used folders like `www` or `htdocs`. That’s mostly a holdover from web server setups (think Apache’s `public_html` or `htdocs`). If you’re working with PHP or legacy web projects, you might still see this, but for most modern development, just stick with `code` or `projects`.
 
 ## Organizing Inside the Code Folder
 
-Here’s where things get interesting. Let’s say I’m working on a side project—a food tracking app. It’s got a React Native frontend and a Go backend. Instead of dumping both repos straight into `Code`, I create a folder for the project:
+Here’s where things get interesting. Let’s say I’m working on a side project: a food tracking app. It’s got a React Native frontend and a Go backend. Instead of dumping both repos straight into `Code`, I create a folder for the project:
 
 ---
 ```bash
@@ -105,7 +105,7 @@ You might have shared components or packages used across projects. I usually kee
 
 ## The Bottom Line
 
-Organizing your workflow this way is a game changer. You’ll always know where you are, what you’re working on, and you’ll never lose track of your projects. Whether you’re a total beginner or a senior engineer, this is one of those habits that pays off every single day.
+Organizing your workflow this way is a major improvement. You’ll always know where you are, what you’re working on, and you’ll never lose track of your projects. Whether you’re a total beginner or a senior engineer, this is one of those habits that pays off every single day.
 
 > “Consistency is key at the end of the day.”
 

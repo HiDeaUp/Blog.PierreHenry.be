@@ -22,15 +22,15 @@ The trick is to spot these boosters and use them when you need them most. During
 
 Personally, I love sitting by the fireplace in my living room, listening to the crackling fire, and petting my Labrador. It’s a simple pleasure, but it makes a huge difference. Afterward, I feel recharged and ready to tackle whatever comes next.
 
-We all have these little rituals. They’re like crutches that help us get back on our feet and move forward with more energy. The key is to recognize them and use them wisely. They’re not just treats—they’re tools for feeling better and living well.
+We all have these little rituals. They’re like crutches that help us get back on our feet and move forward with more energy. The key is to recognize them and use them wisely. They’re not just treats; they’re tools for feeling better and living well.
 
 > *Happiness often sneaks in through a door you didn’t know you left open.*
 >
-> — John Barrymore
+> *John Barrymore*
 
 > *Sometimes the smallest things take up the most room in your heart.*
 >
-> — A.A. Milne
+> *A.A. Milne*
 
 ---
 

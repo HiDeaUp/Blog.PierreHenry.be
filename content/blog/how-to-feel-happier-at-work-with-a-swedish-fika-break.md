@@ -3,8 +3,8 @@ title = "How to Feel Happier at Work With a Swedish Fika Break"
 slug = "how-to-feel-happier-at-work-with-a-swedish-fika-break"
 date = "2025-08-30T14:03:16.723363"
 draft = false
-description = "When was the last time you truly paused in your day—not just to scroll through your phone or gulp down a coffee, but to actually stop, breathe, and connect with someone? The Swedish tradition of fi..."
-summary = "When was the last time you truly paused in your day—not just to scroll through your phone or gulp down a coffee, but to actually stop, breathe, and connect with someone? The Swedish tradition of fi..."
+description = "When was the last time you truly paused in your day, not just to scroll through your phone or gulp down a coffee, but to actually stop, breathe, and connect with someone? The Swedish tradition of fi..."
+summary = "When was the last time you truly paused in your day, not just to scroll through your phone or gulp down a coffee, but to actually stop, breathe, and connect with someone? The Swedish tradition of fi..."
 tags = ["coffee break", "entrepreneurship", "fika", "mindfulness", "productivity", "self-transcendence", "swedish culture", "tasks", "work-life balance"]
 priority = true
 priority_topics = ["self-transcendence", "tasks", "productivity", "entrepreneurship"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/8c097800d19a"
 
 {{< figure src="https://images.unsplash.com/photo-1738502149746-debd62943eff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxGaWthJTIwU3dlZGlzaCUyMGN1bHR1cmUlMjBjb2ZmZWUlMjBicmVha3xlbnwwfDB8fHwxNzU2NTI2NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A couple of men next to each other" title="How to Feel Happier at Work With a Swedish Fika Break" caption="How to Feel Happier at Work With a Swedish Fika Break - Photo by [Richard Wang](https://unsplash.com/@rrricharddd) on [Unsplash](https://unsplash.com/photos/a-couple-of-men-standing-next-to-each-other-4eq2hiJGSCc)" >}}
 
-When was the last time you truly paused in your day—not just to scroll through your phone or gulp down a coffee, but to actually stop, breathe, and connect with someone? The Swedish tradition of fika is all about that. It’s a simple, beautiful ritual that can make work and life feel lighter.
+When was the last time you truly paused in your day, not just to scroll through your phone or gulp down a coffee, but to actually stop, breathe, and connect with someone? The Swedish tradition of fika is all about that. It’s a simple, beautiful ritual that can make work and life feel lighter.
 
 Fika is more than just a coffee break. It’s a cherished Swedish custom, usually happening twice a day, around 10 am and 3 pm. During fika, people gather with colleagues or friends, share a coffee, maybe a cinnamon roll or a pastry, and most importantly, leave work talk behind. The rule is simple: no business, no stress, just genuine conversation and a chance to recharge.
 
@@ -27,10 +27,10 @@ Fika isn’t just for offices. If you work from a coworking space or even from h
 This pause is a gift you give yourself. It’s a moment to decompress, to let go, and to come back to your work with fresh energy and a positive mindset. Life moves quickly, and it’s easy to forget to take care of ourselves. Fika reminds us that a little break, shared or solo, can make all the difference.
 
 > _Sometimes the most productive thing you can do is relax._
-> — Mark Black
+> *Mark Black*
 
 > _Taking time to do nothing often brings everything into perspective._
-> — Doe Zantamata
+> *Doe Zantamata*
 
 So, next time you feel the day rushing by, try a fika break. Even if you’re alone, set aside ten or fifteen minutes, make yourself a coffee, and just be. You’ll be surprised at how much better you feel.
 

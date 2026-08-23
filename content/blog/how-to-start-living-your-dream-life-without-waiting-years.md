@@ -22,7 +22,7 @@ Now, picture this: if you had a magic wand and could organize your day from star
 
 Here’s a simple exercise: grab a piece of paper, a tablet, or just a notebook and a pen. Go to a café you like, sit down, and spend an hour thinking about your ideal day. Let your mind wander. Once you have a clear picture, ask yourself: what is one thing I can start doing tomorrow to get closer to this life?
 
-Make two columns on your paper. In the first, write down things you want to add to your life—your passions, new habits, or experiences you want to try. In the second, list the things you want to stop doing, the habits or routines that no longer serve you.
+Make two columns on your paper. In the first, write down things you want to add to your life: your passions, new habits, or experiences you want to try. In the second, list the things you want to stop doing, the habits or routines that no longer serve you.
 
 {{< figure src="https://images.unsplash.com/photo-1612967146202-8dff19b52a70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGxpZmUlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTM4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Don't forget to dream" title="How to Start Living Your Dream Life Without Waiting Years" caption="How to Start Living Your Dream Life Without Waiting Years - Photo by [Pink Pixie](https://unsplash.com/@pinkpixie) on [Unsplash](https://unsplash.com/photos/green-plastic-hair-clip-beside-white-and-blue-soft-tubes-cVJPxpPb8K4)" >}}
 
@@ -32,15 +32,15 @@ Take small steps. If you have a partner or family, bring them along for a short 
 
 This approach works for your passions and hobbies, too. Test new activities, see what excites you, and let go of what doesn’t. Over time, these small changes add up, and you’ll find yourself living a life that feels just right for you.
 
-I love traveling and discovering new places because it helps me see what truly fits my style of living. Sometimes, you try something and realize it’s not for you. That’s fine—just move on and try something else. The important thing is to keep searching for what makes you happy.
+I love traveling and discovering new places because it helps me see what truly fits my style of living. Sometimes, you try something and realize it’s not for you. That’s fine: just move on and try something else. The important thing is to keep searching for what makes you happy.
 
 Bit by bit, you’ll build your dream life. That’s what matters most.
 
 > *The journey to your dream life isn’t about giant leaps, but about small, steady steps that bring you closer to what truly matters to you.*
-— Pierre
+*Pierre*
 
 > *If you want something you've never had, you must be willing to do something you've never done.*
-— Thomas Jefferson
+*Thomas Jefferson*
 
 {{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGxpZmUlMjBwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwbGlmZSUyMGltcHJvdmVtZW50fGVufDB8MHx8fDE3NTYxMTM4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Start Living Your Dream Life Without Waiting Years" caption="How to Start Living Your Dream Life Without Waiting Years - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 

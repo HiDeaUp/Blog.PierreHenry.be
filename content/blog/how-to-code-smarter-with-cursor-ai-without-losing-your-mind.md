@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/94861df2be68"
 
 {{< figure src="https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTIwQ3Vyc29yJTIwQUklMjBjb2RpbmclMjB0aXBzfGVufDB8MHx8fDE3NjcyNDY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A man sitting at a desk using a 5CFy4V 7WzU" title="How to Code Smarter With Cursor AI Without Losing Your Mind" caption="How to Code Smarter With Cursor AI Without Losing Your Mind - Photo by [Ofspace LLC](https://unsplash.com/@ofspace) on [Unsplash](https://unsplash.com/photos/a-man-sitting-at-a-desk-using-a-computer-5CFy4V-7WzU)" >}}
 
-Alright, my friend, let’s get into it. I’m sitting here with my coffee, wearing my watch (mostly for the time, but hey, it’s also nice to know if my heart’s about to explode when I’m stressed). Today, it’s just you and me, and we’re diving into Cursor AI. I’ve been a software engineer for 12 years, and honestly, if you’re not using AI tools now, you’re going to get left behind. I was slow to pick up AI copilots—started in 2023, even though things were already blowing up in 2022. That’s a whole year late, which in AI time is like a decade. But better late than never.
+Alright, my friend, let’s get into it. I’m sitting here with my coffee, wearing my watch (mostly for the time, but hey, it’s also nice to know if my heart’s about to explode when I’m stressed). Today, it’s just you and me, and we’re diving into Cursor AI. I’ve been a software engineer for 12 years, and honestly, if you’re not using AI tools now, you’re going to get left behind. I was slow to pick up AI copilots: started in 2023, even though things were already blowing up in 2022. That’s a whole year late, which in AI time is like a decade. But better late than never.
 
 Now, I use AI for coding all the time. If you don’t, you risk becoming that solo, old-school engineer who’s stuck in the past. It’s the same story as with crypto and web3. I dove into that in 2021, built a bunch of dApps, and now… well, who knows if web3 is even alive. But that’s not today’s topic.
 
@@ -54,7 +54,7 @@ That said, AI is getting scary good. People used to say it was like having a jun
 
 ## Automating the Boring Stuff (Even Marketing)
 
-I’m building a bunch of apps in parallel (that’s just how I roll), and AI helps me move faster. For example, I asked Cursor to generate screenshots and descriptions for the App Store. Soon, you’ll be able to automate your marketing too—imagine a script that posts your app updates to Reddit automatically.
+I’m building a bunch of apps in parallel (that’s just how I roll), and AI helps me move faster. For example, I asked Cursor to generate screenshots and descriptions for the App Store. Soon, you’ll be able to automate your marketing too: imagine a script that posts your app updates to Reddit automatically.
 
 Here’s how I use AI for that:
 
@@ -86,5 +86,5 @@ Submitting apps is way easier with tools like Expo. I just run a command to buil
 - **AI isn’t perfect.** Double-check its work, especially for edge cases or weird outputs.
 - **Automate everything you can.** From coding to marketing, let AI handle the boring stuff.
 - **Stay in control.** Use AI as a tool, not a crutch. Your job is to think, not just execute.
-- **“With AI, you can almost code blindfolded—but don’t let it make you blind.”**
+- **“With AI, you can almost code blindfolded, but don’t let it make you blind.”**
 - **“AI is moving from junior to senior engineer status fast. Be ready to level up your own role.”**

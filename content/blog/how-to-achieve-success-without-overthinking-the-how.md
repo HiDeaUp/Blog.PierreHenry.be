@@ -31,10 +31,10 @@ Your journey to success works the same way. Train yourself a little bit every da
 By working this way, you’ll find it much easier to avoid procrastination. Everyone can find half an hour a day. Take one small step after another, and before you know it, you’ll reach your destination.
 
 > _Success is the sum of small efforts, repeated day in and day out._
-> — Robert Collier
+> *Robert Collier*
 
 > _The journey of a thousand miles begins with a single step._
-> — Lao Tzu
+> *Lao Tzu*
 
 ---
 

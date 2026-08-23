@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/2c100fa40d17"
 
 How often do you ask yourself how you really feel? Not the usual small talk at the bakery or on the bus, but a genuine check-in. We’re all used to the automatic “I’m fine” when someone asks how we are, even if we’re not. It’s easier, more comfortable, and keeps things simple. But what if you took a moment to ask yourself these questions and actually answered honestly?
 
-These everyday questions—How are you? Are you happy?—are more important than they seem. When you ask yourself sincerely, you open the door to real change. If you’re not feeling great, it’s easy to brush it off or hide it, even from yourself. But ignoring it doesn’t make it go away. Instead, it’s worth asking: What could I improve in my daily life? What’s not working? Am I stressed? If so, why? And most importantly, how can I deal with it?
+These everyday questions: How are you? Are you happy? are more important than they seem. When you ask yourself sincerely, you open the door to real change. If you’re not feeling great, it’s easy to brush it off or hide it, even from yourself. But ignoring it doesn’t make it go away. Instead, it’s worth asking: What could I improve in my daily life? What’s not working? Am I stressed? If so, why? And most importantly, how can I deal with it?
 
 Worry and anxiety don’t solve anything. In fact, they make it harder to think clearly and find solutions. The more you worry, the more negative and stuck you feel. It’s a trap that leads to frustration and even more stress. The real key is to find calm moments in your day, to do things that make you happy, and to get to know yourself better.
 
@@ -28,13 +28,13 @@ Stress can also make you lose your words, feel stuck, or get frustrated. That fr
 
 Getting to know yourself isn’t as strange as it sounds. It’s about asking yourself real questions: How do I feel today? What could I improve? Why am I stressed? What can I do about it? When you do this, you start to think more clearly.
 
-You can even use tools like mind maps—on paper or with apps—to connect your problems to possible solutions. Seeing things laid out visually can make everything easier to understand.
+You can even use tools like mind maps (on paper or with apps) to connect your problems to possible solutions. Seeing things laid out visually can make everything easier to understand.
 
 > _Worry never robs tomorrow of its sorrow, it only saps today of its joy._
-> — Leo Buscaglia
+> *Leo Buscaglia*
 
 > _The greatest weapon against stress is our ability to choose one thought over another._
-> — William James
+> *William James*
 
 ---
 
@@ -57,6 +57,6 @@ You can even use tools like mind maps—on paper or with apps—to connect your 
 
 ## Reflection
 
-- *When was the last time you answered “How are you?” honestly—to yourself?*
+- *When was the last time you answered “How are you?” honestly: to yourself?*
 - *What small change could make your daily life better?*
 - *What’s one thing you can do today to feel more relaxed?*

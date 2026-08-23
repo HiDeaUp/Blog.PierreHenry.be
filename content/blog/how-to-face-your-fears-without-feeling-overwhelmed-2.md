@@ -3,8 +3,8 @@ title = "How to Face Your Fears Without Feeling Overwhelmed"
 slug = "how-to-face-your-fears-without-feeling-overwhelmed-2"
 date = "2025-08-31T22:02:20.619050"
 draft = false
-description = "When we want to achieve something, three questions often come up: What do I want to do? Why do I want to do it? How am I going to make it happen? These questions—what, why, and how—are the foundati..."
-summary = "When we want to achieve something, three questions often come up: What do I want to do? Why do I want to do it? How am I going to make it happen? These questions—what, why, and how—are the foundati..."
+description = "When we want to achieve something, three questions often come up: What do I want to do? Why do I want to do it? How am I going to make it happen? These questions (what, why, and how) are the foundati..."
+summary = "When we want to achieve something, three questions often come up: What do I want to do? Why do I want to do it? How am I going to make it happen? These questions (what, why, and how) are the foundati..."
 tags = ["motivation", "nomad", "overcoming fears", "personal growth", "positive mindset", "self-improvement", "tasks"]
 priority = true
 priority_topics = ["nomad", "tasks"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/95c94679f1b7"
 
 {{< figure src="https://images.unsplash.com/photo-1610939233240-5f96059f0137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvdmVyY29taW5nJTIwZmVhcnMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTczNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Young woman in the Anza Borrego Desert." title="How to Face Your Fears Without Feeling Overwhelmed" caption="How to Face Your Fears Without Feeling Overwhelmed - Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-and-blue-denim-jeans-standing-on-brown-rock-formation-during-EjpspHpQokM)" >}}
 
-When we want to achieve something, three questions often come up: What do I want to do? Why do I want to do it? How am I going to make it happen? These questions—what, why, and how—are the foundation for any goal, big or small.
+When we want to achieve something, three questions often come up: What do I want to do? Why do I want to do it? How am I going to make it happen? These questions (what, why, and how) are the foundation for any goal, big or small.
 
 The "what" is simple. It’s the thing you want to accomplish. Maybe you want to become an expert in a field, or perhaps you have a challenge that’s been sitting on your bucket list for years. The "why" is your motivation. It could be a personal challenge, a long-held dream, or a desire to become someone you admire. The "how" is the path you’ll take to get there.
 
@@ -22,7 +22,7 @@ But there’s a catch. Sometimes, fear gets in the way. Fear can be paralyzing, 
 
 I once heard an Australian surfer talk about this at a conference. He was a bit wild, one of the most famous surfers in Australia, and he explained that the best way to beat your fears is to practice the very thing you’re afraid of. If you’re scared of drowning, the ocean, or sharks, the best way to overcome it is to face it gently, step by step.
 
-Start by visualizing your fear. For example, if you’re afraid of spiders, begin by watching documentaries or short videos about spiders. Just a few minutes a week at first. Then, increase the frequency—maybe watch a video every day. Imagine yourself touching a spider, even if it’s just in your mind.
+Start by visualizing your fear. For example, if you’re afraid of spiders, begin by watching documentaries or short videos about spiders. Just a few minutes a week at first. Then, increase the frequency, maybe watch a video every day. Imagine yourself touching a spider, even if it’s just in your mind.
 
 {{< figure src="https://images.unsplash.com/photo-1695120193812-55a946ce8bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvdmVyY29taW5nJTIwZmVhcnMlMjBwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjY0MTczNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Two small yellow flowers growing out of the ground" title="How to Face Your Fears Without Feeling Overwhelmed" caption="How to Face Your Fears Without Feeling Overwhelmed - Photo by [Doncoombez](https://unsplash.com/@coombez) on [Unsplash](https://unsplash.com/photos/two-small-yellow-flowers-growing-out-of-the-ground-3ehnv3CzvuU)" >}}
 
@@ -36,11 +36,11 @@ The secret is simple: practice, little by little, until what once scared you bec
 
 > *Courage is not the absence of fear, but the triumph over it.*
 > 
-> — Nelson Mandela
+> *Nelson Mandela*
 
 > *Do the thing you fear, and the death of fear is certain.*
 > 
-> — Ralph Waldo Emerson
+> *Ralph Waldo Emerson*
 
 ---
 
@@ -50,7 +50,7 @@ The secret is simple: practice, little by little, until what once scared you bec
 
 - *Break down your fear into small, manageable steps.*
 - *Start with visualization, then gradually expose yourself to the real thing.*
-- *Practice is the key to reducing fear—experience makes it less intimidating.*
+- *Practice is the key to reducing fear: experience makes it less intimidating.*
 - *Remember your "what," "why," and "how" for every goal.*
 
 ## Reflection

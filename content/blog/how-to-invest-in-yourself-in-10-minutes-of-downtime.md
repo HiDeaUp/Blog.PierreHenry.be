@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/aa69edfc08ed"
 
 Have you ever noticed how much time we spend just waiting? Waiting for the bus, waiting for a friend, standing in line, or sitting in a café with nothing urgent to do. Most of us let these moments slip by, scrolling through our news feeds or letting our minds wander into negative thoughts. But what if these little pockets of time could become your best tool for personal growth?
 
-I’m writing this while sitting by the water, enjoying the calm and the beautiful blue sky. It struck me how often we overlook the value of these “dead times”—those moments when nothing is scheduled, and we’re just waiting. Instead of letting them go to waste, we can use them to invest in ourselves.
+I’m writing this while sitting by the water, enjoying the calm and the beautiful blue sky. It struck me how often we overlook the value of these “dead times”: those moments when nothing is scheduled, and we’re just waiting. Instead of letting them go to waste, we can use them to invest in ourselves.
 
 ## Turning Downtime Into Growth
 
@@ -28,7 +28,7 @@ Instead of scrolling aimlessly or waiting without purpose, I try to create somet
 
 ## Leverage Every Spare Minute
 
-Think of downtime as a lever—a way to get more out of life. It’s not just about productivity; it’s about well-being too. Using these moments to reflect, learn, or plan helps clear mental clutter and brings a sense of calm. If we let negative thoughts take over during these times, they weigh us down and color our entire day.
+Think of downtime as a lever: a way to get more out of life. It’s not just about productivity; it’s about well-being too. Using these moments to reflect, learn, or plan helps clear mental clutter and brings a sense of calm. If we let negative thoughts take over during these times, they weigh us down and color our entire day.
 
 Instead, I choose to do something positive, something that brings me joy or helps me grow. Sometimes that means taking a short course, writing down what’s going well and what isn’t, or simply making a list of what I’m grateful for. This small habit lifts my mood and helps me see my day in a better light.
 
@@ -37,17 +37,17 @@ Instead, I choose to do something positive, something that brings me joy or help
 Life is short. If we don’t seize these small opportunities, they slip away, and so does our chance to build the life we want. By using downtime wisely, you can structure your days better and give yourself the chance to rise above the noise.
 
 > _“The best investment you can make is in yourself.”_
-> — Warren Buffett
+> *Warren Buffett*
 
-> _“You are the sum of your habits. What you do in your spare moments shapes your future.”_
-> — James Clear
+> _“You are the sum of your habits. What you do in your spare moments affects your future.”_
+> *James Clear*
 
 {{< figure src="https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMHNlbGYtaW1wcm92ZW1lbnQlMjBkb3dudGltZSUyMHByb2R1Y3Rpdml0eXxlbnwwfDB8fHwxNzU1NDE1NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Phone is ringing and we need to stay productive!" title="How to Invest in Yourself in 10 Minutes of Downtime" caption="How to Invest in Yourself in 10 Minutes of Downtime - Photo by [Andreas Klassen](https://unsplash.com/@schmaendels) on [Unsplash](https://unsplash.com/photos/man-holding-smartphone-looking-at-productivity-wall-decor-gZB-i-dA6ns)" >}}
 
 ---
 
 ## Key Takeaways
-- *Use waiting time to invest in yourself—read, learn, reflect, or create.*
+- *Use waiting time to invest in yourself: read, learn, reflect, or create.*
 - *Block negative thoughts and replace them with positive actions.*
 - *Small moments add up to big changes in your life and well-being.*
 

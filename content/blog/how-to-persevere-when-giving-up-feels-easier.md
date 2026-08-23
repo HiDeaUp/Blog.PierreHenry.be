@@ -22,11 +22,11 @@ What if, instead, we flipped the situation around? There’s always another way 
 
 > *Success is not final, failure is not fatal: it is the courage to continue that counts.*
 >
-> — Winston Churchill
+> *Winston Churchill*
 
 > *Many of life’s failures are people who did not realize how close they were to success when they gave up.*
 >
-> — Thomas Edison
+> *Thomas Edison*
 
 Perseverance isn’t about never feeling doubt or frustration. It’s about refusing to let those feelings decide your next move. When you feel like giving up, remember: the breakthrough might be just around the corner. Change your approach, shift your perspective, and you might surprise yourself with what you can achieve.
 

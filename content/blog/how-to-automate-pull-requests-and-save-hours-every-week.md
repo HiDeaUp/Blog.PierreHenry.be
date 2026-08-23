@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/0bd6b7eba891"
 
 {{< figure src="https://images.unsplash.com/photo-1695426585371-2052b20d260d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwdWxsJTIwcmVxdWVzdHMlMjBhdXRvbWF0aW9uJTIwQUklMjB0b29sc3xlbnwwfDB8fHwxNzY3MDU3Mzk5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="waiting to go to work" title="How to Automate Pull Requests and Save Hours Every Week" caption="How to Automate Pull Requests and Save Hours Every Week - Photo by [Townsend Walton](https://unsplash.com/@twalton) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-cordless-drill-b5ThA54YsC8)" >}}
 
-Let’s talk about something that’s saved me a ridiculous amount of time: automating pull requests with tools like Clo Code Actions. If you’re still manually writing out every detail in your PR descriptions, you’re living in the past, my friend. I used to spend hours—literally hours—writing out what changed, why it changed, and all the requirements. I’d even throw in screenshots, especially when working with remote teams. Back then, there was no AI to help, so you had to be super specific, or your teammates would ping you non-stop for context.
+Let’s talk about something that’s saved me a ridiculous amount of time: automating pull requests with tools like Clo Code Actions. If you’re still manually writing out every detail in your PR descriptions, you’re living in the past, my friend. I used to spend hours (literally hours) writing out what changed, why it changed, and all the requirements. I’d even throw in screenshots, especially when working with remote teams. Back then, there was no AI to help, so you had to be super specific, or your teammates would ping you non-stop for context.
 
 Now, with tools like Clo Code Actions, you can generate a pull request straight from your terminal. It’s not just Clo, either. Codeex and a bunch of other tools do the same thing. The point is, you want to automate as much as possible. Not only does it save you time, but these tools often generate better descriptions than if you wrote them yourself. Seriously, the AI is pretty good at summarizing what’s changed and why.
 
@@ -29,7 +29,7 @@ Let me show you how I do it:
 clo pr create --auto-describe --attach-screenshots
 ```
 
-That’s it. The tool grabs the relevant changes, generates a solid description, and even attaches screenshots if you want. No more endless typing or copy-pasting Jira tickets.
+That’s it. The tool grabs the relevant changes, generates a solid description, and even attaches screenshots if you want. No more constant typing or copy-pasting Jira tickets.
 
 If you’re not using something like this, you’re wasting time and probably annoying your teammates. Automate your PRs, and you’ll free up hours every week. Plus, your team will thank you for making their lives easier.
 

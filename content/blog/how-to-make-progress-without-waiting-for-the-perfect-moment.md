@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/381ec17dee93"
 
 {{< figure src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGFjY29tcGxpc2htZW50fGVufDB8MHx8fDE3NDkzNzQxMzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Do Something Great" title="How to Make Progress Without Waiting for the Perfect Moment" caption="How to Make Progress Without Waiting for the Perfect Moment - Photo by [Clark Tibbs](https://unsplash.com/@clarktibbs) on [Unsplash](https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI)" >}}
 
-Accomplishment. That’s the word of the day. Maybe you’re reading this on a Monday, or perhaps it’s Friday, Thursday, or Wednesday. The day doesn’t matter. What matters is that today is the right day to accomplish something—no matter how small.
+Accomplishment. That’s the word of the day. Maybe you’re reading this on a Monday, or perhaps it’s Friday, Thursday, or Wednesday. The day doesn’t matter. What matters is that today is the right day to accomplish something: no matter how small.
 
 Accomplishing something isn’t about grand gestures or ticking off huge goals. It’s about making a small realization, doing something for yourself, and growing from it. Every time you achieve something, you give yourself a chance to learn, to invest in yourself, and to move forward.
 
@@ -22,15 +22,15 @@ This can happen at work. Maybe you’re an employee and you want to outperform o
 
 {{< figure src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwbW90aXZhdGlvbiUyMGFjY29tcGxpc2htZW50fGVufDB8MHx8fDE3NDkzNzQxMzh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Motivational sign in the window of a boxing gym." title="How to Make Progress Without Waiting for the Perfect Moment" caption="How to Make Progress Without Waiting for the Perfect Moment - Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/text-UN4PadDppAU)" >}}
 
-But where I really encourage you to focus is your personal life. What if today you learned to dance? Maybe you try breakdancing for the first time. Or you pick up a book and ask yourself, “What can I take from this? What can I put into practice in my daily life?” Maybe you try a new recipe, cook a little better, eat a little healthier, or do a bit of exercise. The point isn’t to become a master overnight, but to do something—anything—that makes you a little better than yesterday.
+But where I really encourage you to focus is your personal life. What if today you learned to dance? Maybe you try breakdancing for the first time. Or you pick up a book and ask yourself, “What can I take from this? What can I put into practice in my daily life?” Maybe you try a new recipe, cook a little better, eat a little healthier, or do a bit of exercise. The point isn’t to become a master overnight, but to do something (anything) that makes you a little better than yesterday.
 
 Accomplishing something, no matter how small, is a way to remind yourself that you’re alive, that you’re moving, and that you’re not stuck. It’s about progress, not perfection. The satisfaction comes from knowing you did something, not from waiting for the perfect moment or the perfect plan.
 
 > *“The journey of a thousand miles begins with a single step.”*  
-> — Lao Tzu
+> *Lao Tzu*
 
 > *“Success is the sum of small efforts, repeated day in and day out.”*  
-> — Robert Collier
+> *Robert Collier*
 
 So, don’t wait for the stars to align. Don’t wait for Monday, or for the right mood, or for someone to give you permission. Today is the best day to accomplish something, no matter how small. And tomorrow, do it again.
 
@@ -41,7 +41,7 @@ So, don’t wait for the stars to align. Don’t wait for Monday, or for the rig
 ## Key Takeaways
 - Every day is a good day to accomplish something, even something small.
 - Focus on progress, not perfection.
-- Try something new, learn, and grow—at work or in your personal life.
+- Try something new, learn, and grow: at work or in your personal life.
 
 ## Action Steps
 - Pick one small thing to accomplish today.

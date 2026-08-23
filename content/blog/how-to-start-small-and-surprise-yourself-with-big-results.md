@@ -28,11 +28,11 @@ The real secret is to keep going, even if your first attempt isn’t perfect. As
 
 > *The journey of a thousand miles begins with a single step.*
 >
-> — Lao Tzu
+> *Lao Tzu*
 
 > *Passion is energy. Feel the power that comes from focusing on what excites you.*
 >
-> — Oprah Winfrey
+> *Oprah Winfrey*
 
 ---
 

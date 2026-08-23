@@ -34,11 +34,11 @@ Sometimes, before a talk or a meetup, chatting with people or having a drink can
 
 Finally, remember that people are usually much kinder and more understanding than we think. Most listeners want you to do well. At the end of the day, people are supportive.
 
-> *The way you speak to yourself shapes the way you speak to the world.*
-— Unknown
+> *The way you speak to yourself affects the way you speak to the world.*
+*Unknown*
 
 > *Courage is not the absence of fear, but the triumph over it.*
-— Nelson Mandela
+*Nelson Mandela*
 
 ---
 

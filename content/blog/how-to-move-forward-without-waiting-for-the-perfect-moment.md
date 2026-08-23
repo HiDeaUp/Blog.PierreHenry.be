@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/dadbfa8b6f4c"
 
 Taking action is the real secret to moving forward in life. When you act, you progress faster in everything you do. You always stay one step ahead because your decision-making becomes much quicker. Instead of spending hours or even days overthinking, you simply decide and move. If you hesitate, maybe it’s not the right choice. But if deep down you know you want something, and the only thing holding you back is what others might think or what seems “reasonable,” then it’s probably the right decision for you.
 
-Let’s talk about real-life choices. I live in Australia, and recently I wanted to travel to Asia—Malaysia, Thailand, Korea, Japan. I hesitated for ages. I hadn’t taken a vacation in over three years. I’d just started a new job, had fewer days off, wanted to make a good impression, and had a mountain of work. But travel is in my DNA. It’s a passion, and yes, it’s expensive, but I could afford it. Still, I kept asking myself: Should I really do this?
+Let’s talk about real-life choices. I live in Australia, and recently I wanted to travel to Asia: Malaysia, Thailand, Korea, Japan. I hesitated for ages. I hadn’t taken a vacation in over three years. I’d just started a new job, had fewer days off, wanted to make a good impression, and had a mountain of work. But travel is in my DNA. It’s a passion, and yes, it’s expensive, but I could afford it. Still, I kept asking myself: Should I really do this?
 
 Making these decisions isn’t easy. You go back and forth, but deep down, you know what you want. The idea of leaving for two months, spending a week in each country, is exciting. Rewards matter. Some people might say, “After the holidays, it’s back to the daily grind. Nothing changes.” That’s not true. You come back from a trip refreshed, with new energy and ideas. You learn so much, meet new people, and sometimes those connections change your life. Maybe you’ll meet a future business partner or even someone special.
 
@@ -26,7 +26,7 @@ But here’s the thing: you have to act. Sometimes you hesitate because of your 
 
 {{< figure src="https://images.unsplash.com/photo-1606235729070-5da8437f6e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudCUyMG1vdGl2YXRpb258ZW58MHwwfHx8MTc1NjUyMTg5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white table 38lLT lopwU" title="How to Move Forward Without Waiting for the Perfect Moment" caption="How to Move Forward Without Waiting for the Perfect Moment - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-table-38lLT-lopwU)" >}}
 
-Think about the airplane safety instructions: you’re told to put your own oxygen mask on first before helping others. If you don’t, you might pass out and be unable to help anyone. The same goes for life. If you don’t take care of yourself—physically and mentally—you won’t be able to help others. Psychologists know this too; they need to keep a healthy distance to be able to help their clients. You need to protect your own space to give your best.
+Think about the airplane safety instructions: you’re told to put your own oxygen mask on first before helping others. If you don’t, you might pass out and be unable to help anyone. The same goes for life. If you don’t take care of yourself (physically and mentally) you won’t be able to help others. Psychologists know this too; they need to keep a healthy distance to be able to help their clients. You need to protect your own space to give your best.
 
 That’s why taking breaks and vacations is so important. If you don’t, your performance drops, you get frustrated, and it becomes a vicious cycle. The more frustrated you are, the less well you work, and the worse you feel. But if you know how to take care of yourself, take breaks, eat well, and keep a balanced life, things start to go right. It becomes a positive cycle.
 
@@ -34,11 +34,11 @@ So, when it comes to your dreams and the things you want to do, act now. Make de
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *The best time to plant a tree was twenty years ago. The second best time is now.*
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 ---
 
@@ -48,7 +48,7 @@ So, when it comes to your dreams and the things you want to do, act now. Make de
 
 - *Acting quickly helps you move forward and stand out.*
 - *If you know deep down you want something, don’t let fear or others’ opinions stop you.*
-- *Taking care of yourself is not selfish—it’s necessary to give your best to others.*
+- *Taking care of yourself is not selfish; it’s necessary to give your best to others.*
 - *Vacations and breaks are vital for your well-being and performance.*
 - *Ask yourself: Will I regret not doing this later? If yes, go for it.*
 

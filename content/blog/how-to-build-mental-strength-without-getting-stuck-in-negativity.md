@@ -32,7 +32,7 @@ That’s the real strategy: give yourself space to think, recharge, and look for
 
 > *There is always a bright side, even in the worst situations. The problem is, our minds often refuse to see it.*
 
-— Pierre
+*Pierre*
 
 ---
 
@@ -44,7 +44,7 @@ That’s the real strategy: give yourself space to think, recharge, and look for
 - *There is always a solution, even if it seems impossible.*
 - *Believing in yourself is the first step to overcoming any challenge.*
 - *Take time to clear your mind and brainstorm new strategies.*
-- *Your mindset shapes your reality.*
+- *Your mindset affects your reality.*
 
 ---
 

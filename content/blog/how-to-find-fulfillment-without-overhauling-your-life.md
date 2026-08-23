@@ -29,10 +29,10 @@ You are closer to your goal than you realize. Sometimes, you just need to try a 
 When you feel like you’re at rock bottom, that way of thinking can trap you in a vicious cycle. But if you focus on what you can change, even small things, you start to create a positive loop. Ask yourself, “How can I change my day, even a little, to move toward the life I want?” That’s how you build a virtuous circle and get closer to the life you’ve been waiting for.
 
 > *You are always closer to your ideal life than you think.*
-> — Pierre
+> *Pierre*
 
 > *Persistence is your greatest ally on the road to fulfillment.*
-> — Pierre
+> *Pierre*
 
 I truly wish you the best from the bottom of my heart. Take a moment to look at your daily life. What small thing could you change today? I promise, you are really close. Sometimes, it’s just a matter of mindset. Even if you don’t change much, a small shift in how you think can make all the difference.
 
@@ -44,7 +44,7 @@ I truly wish you the best from the bottom of my heart. Take a moment to look at 
 - You are often just one small step away from a more fulfilling life.
 - Sometimes, the problem is not as big as it seems; a tiny change can have a big impact.
 - Persistence and small adjustments can help you reach your goals.
-- Your mindset shapes your reality—focus on what you can improve, even if it’s minor.
+- Your mindset affects your reality: focus on what you can improve, even if it’s minor.
 
 ## Reflection
 - What is the one small thing I could change in my daily routine?

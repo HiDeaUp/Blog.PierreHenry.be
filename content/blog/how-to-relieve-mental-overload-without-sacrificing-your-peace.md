@@ -14,13 +14,13 @@ source_medium = "https://medium.com/@phenrysay/11ddfe28ec7f"
 
 {{< figure src="https://images.unsplash.com/photo-1653213096268-d232d07c4f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwcmVsaWVmJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU1Nzc1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A on a table" title="How to Relieve Mental Overload Without Sacrificing Your Peace" caption="How to Relieve Mental Overload Without Sacrificing Your Peace - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-typewriter-on-a-table-rwrlre7Rz14)" >}}
 
-Do you ever feel like stress is always there, lurking in the background? Notifications keep popping up, messages demand your attention, and there’s always something else to do. The list of obligations never seems to end. You get home, glance at the clock, and realize it’s already late—you haven’t even had a moment for yourself. It’s easy to wonder: what’s the point? Is this really the life you want?
+Do you ever feel like stress is always there, lurking in the background? Notifications keep popping up, messages demand your attention, and there’s always something else to do. The list of obligations never seems to end. You get home, glance at the clock, and realize it’s already late; you haven’t even had a moment for yourself. It’s easy to wonder: what’s the point? Is this really the life you want?
 
-This kind of nonstop mental load can wear you down. The pressure never lets up, and it feels like you’re always running behind. In these moments, it’s crucial to disconnect from the constant flow of demands—messages, emails, notifications, and even household chores. If you never take a break, you’ll never find space to breathe.
+This kind of nonstop mental load can wear you down. The pressure never lets up, and it feels like you’re always running behind. In these moments, it’s crucial to disconnect from the constant flow of demands: messages, emails, notifications, and even household chores. If you never take a break, you’ll never find space to breathe.
 
 ## The Power of Stepping Back
 
-One of the best things you can do is create moments of pause—blank spaces in your schedule where you can step back and catch your breath. For example, if you have a free weekend coming up, let your friends and family know you’re not available. Give yourself a “hermit weekend,” or what some call a “think weekend.” Bill Gates made this idea famous: twice a year, he would disappear for a week, away from his company, his family, and all distractions, just to read and reflect. No internet, no computer—just time to think and write.
+One of the best things you can do is create moments of pause: blank spaces in your schedule where you can step back and catch your breath. For example, if you have a free weekend coming up, let your friends and family know you’re not available. Give yourself a “hermit weekend,” or what some call a “think weekend.” Bill Gates made this idea famous: twice a year, he would disappear for a week, away from his company, his family, and all distractions, just to read and reflect. No internet, no computer: just time to think and write.
 
 You don’t have to go to the same extremes, but the principle is the same. Take a step back and look at your life. Ask yourself: How did I get here? Am I organizing my days in a way that works for me? Should I move? What changes could I make to improve things? Maybe you’re not asking for enough help from your partner, or you assume they’re too busy themselves. But there are always new ways to lighten your load and make life more enjoyable.
 
@@ -36,25 +36,25 @@ It’s important to talk about these things early, before you reach your breakin
 
 ## Turning Problems Into Opportunities
 
-There are so many things you can do to carve out more time for yourself. If you see every challenge as an opportunity—like hiring a babysitter, getting better organized, or finding a system that works for you—you’ll start a positive cycle. Personally, I use the app SX 3 to manage my tasks and projects. There’s also GTasks, Apple Reminders, and Google Keep for Android. These tools help you organize your life into areas and projects, making it easier to see what needs your attention.
+There are so many things you can do to carve out more time for yourself. If you see every challenge as an opportunity (like hiring a babysitter, getting better organized, or finding a system that works for you) you’ll start a positive cycle. Personally, I use the app SX 3 to manage my tasks and projects. There’s also GTasks, Apple Reminders, and Google Keep for Android. These tools help you organize your life into areas and projects, making it easier to see what needs your attention.
 
-When you treat every challenge as a chance to improve, you’ll find even more ways to make your days better. Maybe it’s time to wake up earlier, eat healthier, or stick to a regular sleep schedule. Go to bed and wake up at the same time every day, even on weekends—you’ll need less sleep and feel more energized.
+When you treat every challenge as a chance to improve, you’ll find even more ways to make your days better. Maybe it’s time to wake up earlier, eat healthier, or stick to a regular sleep schedule. Go to bed and wake up at the same time every day, even on weekends; you’ll need less sleep and feel more energized.
 
 There are countless ways to lighten your mental load. I can’t cover them all here, but the key is to start somewhere. Focus on what truly matters, simplify where you can, and always remember: your happiness comes first.
 
 > *Happiness is not something ready made. It comes from your own actions.*  
-— Dalai Lama
+*Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1713865471942-9551458f612f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBsb2FkJTIwc3RyZXNzJTIwcmVsaWVmJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU1Nzc1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a couch with a cup of coffee" title="How to Relieve Mental Overload Without Sacrificing Your Peace" caption="How to Relieve Mental Overload Without Sacrificing Your Peace - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-a-cup-of-coffee-3GOfXlhkpxQ)" >}}
 
 > *The greatest weapon against stress is our ability to choose one thought over another.*  
-— William James
+*William James*
 
 ---
 
 ## Key Takeaways
 - Take regular breaks from notifications and obligations.
-- Schedule “blank” time just for yourself—no guilt.
+- Schedule “blank” time just for yourself: no guilt.
 - Ask for help and consider outsourcing tasks if possible.
 - See every problem as an opportunity to improve your life.
 - Use simple tools to organize your tasks and projects.

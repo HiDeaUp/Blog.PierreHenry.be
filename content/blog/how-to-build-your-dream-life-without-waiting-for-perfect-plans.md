@@ -31,19 +31,19 @@ The key is to create something that matters to you. Don’t chase after the shin
 The most important thing is to act. Don’t waste your time scrolling the internet, looking for the perfect solution. When you take action, you learn from your mistakes. Instead of spending days searching for the best idea, do something concrete. Build, create, and learn as you go.
 
 > *“The best way to get started is to quit talking and begin doing.”*  
-— Walt Disney
+*Walt Disney*
 
 > *“You don’t have to be great to start, but you have to start to be great.”*  
-— Zig Ziglar
+*Zig Ziglar*
 
 ---
 
 ## Key Takeaways
 
-- Stop waiting for the perfect plan—take action now.
+- Stop waiting for the perfect plan: take action now.
 - Solve a problem that bothers you personally.
 - Make sure your solution is affordable to build and solves a real, frequent pain point.
-- Don’t get stuck in endless research; learn by doing.
+- Don’t get stuck in too much research; learn by doing.
 - Use available tools and platforms to get started, even if you have to start small.
 
 {{< figure src="https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwc2VsZi1pbXByb3ZlbWVudCUyMGxpZmUlMjBnb2Fsc3xlbnwwfDB8fHwxNzU2MTA4NzcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden letter i and i love you letter MHS7g_q 6mE" title="How to Build Your Dream Life Without Waiting for Perfect Plans" caption="How to Build Your Dream Life Without Waiting for Perfect Plans - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-letter-i-and-i-love-you-letter-MHS7g_q-6mE)" >}}

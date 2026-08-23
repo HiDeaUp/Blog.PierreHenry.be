@@ -28,15 +28,15 @@ When you make action a habit, it gets easier. Each time you push yourself to do 
 
 > _Action is the foundational key to all success._
 >
-> — Pablo Picasso
+> *Pablo Picasso*
 
 > _You don’t have to be great to start, but you have to start to be great._
 >
-> — Zig Ziglar
+> *Zig Ziglar*
 
 > _The best time to plant a tree was twenty years ago. The second best time is now._
 >
-> — Chinese Proverb
+> *Chinese Proverb*
 
 ---
 

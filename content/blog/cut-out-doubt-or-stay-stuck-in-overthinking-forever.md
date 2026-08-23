@@ -21,7 +21,7 @@ There’s a moment when you realize that thinking alone gets you nowhere. The mo
 
 > *Doubt kills more dreams than failure ever will.*
 >
-> — Suzy Kassem
+> *Suzy Kassem*
 
 Mental clutter is pollution. It clouds your vision and pulls you away from your goals. If you want to move forward, you need to clear that fog. Ask yourself: What proactive choices can I make right now to push my life ahead? Don’t wait for the perfect plan. Action is the antidote to doubt.
 
@@ -35,11 +35,11 @@ If you’re struggling with something, chances are you’re not alone. Others ou
 
 > *The best way to find yourself is to lose yourself in the service of others.*
 >
-> — Mahatma Gandhi
+> *Mahatma Gandhi*
 
 ## Build a Life That Serves You
 
-When you create something that solves a real problem, you’re not just building a business. You’re shaping a life that works for you. Your routines shift. Your days gain meaning. The product or solution you create adapts to your lifestyle, not the other way around. You fall in love with the problem, not the solution. Why? Because solutions change. Technology moves forward. The world shifts. If you cling to one answer, you risk being left behind.
+When you create something that solves a real problem, you’re not just building a business. You’re building a life that works for you. Your routines shift. Your days gain meaning. The product or solution you create adapts to your lifestyle, not the other way around. You fall in love with the problem, not the solution. Why? Because solutions change. Technology moves forward. The world shifts. If you cling to one answer, you risk being left behind.
 
 Stay focused on the problem. Keep asking, “How can I solve this better?” Iterate. Improve. Stay curious. The product you build today might be born from a burst of inspiration or a late-night coding session. But it won’t stay the same forever. If it does, it will be overtaken by others. Your solution must evolve, but the core problem often remains.
 
@@ -51,7 +51,7 @@ Maybe you’ve built something that works. Maybe it’s better than what’s out
 
 > *Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.*
 >
-> — Albert Schweitzer
+> *Albert Schweitzer*
 
 By focusing on the problem and staying open to new solutions, you create a life that’s always moving, always improving. You become the hero, not just for yourself, but for everyone who shares your struggle.
 

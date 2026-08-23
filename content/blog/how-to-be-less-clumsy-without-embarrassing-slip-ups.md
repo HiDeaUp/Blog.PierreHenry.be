@@ -29,10 +29,10 @@ I remember another time in Lanzarote when I put my laptop on a chair. It wasn’
 Every mistake is a chance to become a better version of yourself than you were yesterday. The goal is not to be perfect, but to be a little more mindful each day.
 
 > *Awareness is the first step to change.*
-— Nathaniel Branden
+*Nathaniel Branden*
 
 > *We do not learn from experience... we learn from reflecting on experience.*
-— John Dewey
+*John Dewey*
 
 ---
 

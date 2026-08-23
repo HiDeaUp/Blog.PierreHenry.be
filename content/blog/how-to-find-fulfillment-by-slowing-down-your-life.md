@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/fd248f2a03fe"
 
 Have you ever watched a mail carrier zip by in their little car, moving quickly from one stop to the next? It’s a simple scene, but it made me think about how we often rush through our own lives, always in a hurry to get somewhere, rarely stopping to enjoy the journey.
 
-This reflection led me to a question: How can we truly accomplish something meaningful, something close to our hearts, without drowning in endless work or losing the joy along the way?
+This reflection led me to a question: How can we truly accomplish something meaningful, something close to our hearts, without drowning in constant work or losing the joy along the way?
 
 Many of us get caught up in what people call the “rat race.” We chase after more and more, piling up projects and tasks, hoping that the next achievement will finally bring satisfaction. But when life becomes a constant sprint, pleasure disappears. The joy of creating, of building something that matters, fades away.
 
@@ -24,7 +24,7 @@ So, what if you took a step back? What if you sat down, breathed deeply, and sim
 
 {{< figure src="https://images.unsplash.com/photo-1551713293-c97632294f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU5OTcwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow petaled flower in focus" title="How to Find Fulfillment by Slowing Down Your Life" caption="How to Find Fulfillment by Slowing Down Your Life - Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann) on [Unsplash](https://unsplash.com/photos/yellow-petaled-flower-in-selective-focus-photography-R5xy3c7KN94)" >}}
 
-I often talk about building a beautiful life, about creating long-term projects that matter. Why is this so important? Because it’s not just about getting things done—it’s about feeling fulfilled and happy while you do it.
+I often talk about building a beautiful life, about creating long-term projects that matter. Why is this so important? Because it’s not just about getting things done; it’s about feeling fulfilled and happy while you do it.
 
 Here’s a simple truth: Life should be simple. Create small projects for yourself, things you can repeat every day. This is where the power of habits and regularity comes in. Doing something new each day, even if it’s just a small step, moves you forward. Think of it as taking one step after another, slowly but surely making progress.
 
@@ -35,10 +35,10 @@ For example, if you spend just 20 minutes a day on your project, that adds up to
 Regularity pays off. If you stick to your actions every day, keep your goal in mind, and regularly look back to see your progress, you’ll notice real change. Always ask yourself how you can improve, step by step. This makes all the difference.
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-— Robert Collier
+*Robert Collier*
 
 > _“The journey of a thousand miles begins with a single step.”_  
-— Lao Tzu
+*Lao Tzu*
 
 {{< figure src="https://images.unsplash.com/photo-1658752777631-6458598712ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGdyb3d0aCUyMGxpZmUlMjB0cmFuc2Zvcm1hdGlvbiUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU5OTcwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A young boy looking at the mountain view on the top of Katzbegi mountain." title="How to Find Fulfillment by Slowing Down Your Life" caption="How to Find Fulfillment by Slowing Down Your Life - Photo by [Koar Studio | Georgia](https://unsplash.com/@koar_studio) on [Unsplash](https://unsplash.com/photos/a-man-standing-on-a-mountain-opQ7sdUyY6w)" >}}
 

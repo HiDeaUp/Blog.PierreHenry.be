@@ -28,11 +28,11 @@ The principle is simple: the more you act, the less you fear acting. The less yo
 
 > *Action is the foundational key to all success.*
 >
-> — Pablo Picasso
+> *Pablo Picasso*
 
 > *You don’t have to be great to start, but you have to start to be great.*
 >
-> — Zig Ziglar
+> *Zig Ziglar*
 
 ---
 
@@ -48,7 +48,7 @@ The principle is simple: the more you act, the less you fear acting. The less yo
 ## Action Steps
 
 - Pick one thing you’ve been putting off and do it today.
-- Notice how you feel after acting—does it get easier next time?
+- Notice how you feel after acting: does it get easier next time?
 - Challenge yourself to act immediately on small decisions this week.
 
 ## Reflection

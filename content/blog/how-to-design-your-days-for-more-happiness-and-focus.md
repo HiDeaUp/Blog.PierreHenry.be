@@ -22,7 +22,7 @@ Think about how an architect draws up plans before building a house. The plan he
 
 ## The Daily Briefing: Your Evening Ritual
 
-Every evening, take a few minutes to review your day. Give your day a score. Ask yourself what went well, what you managed to do, and what you missed. You can use any tool you like for this—an app, a notebook, your phone, or even just a piece of paper. The tool is not important; what matters is the habit.
+Every evening, take a few minutes to review your day. Give your day a score. Ask yourself what went well, what you managed to do, and what you missed. You can use any tool you like for this: an app, a notebook, your phone, or even just a piece of paper. The tool is not important; what matters is the habit.
 
 After you review your day, plan for tomorrow. Pick the three most important things you want to accomplish. These should be your top priorities, and together, they should not take more than three hours if possible. Try to schedule them for the morning, when your energy is highest.
 
@@ -36,15 +36,15 @@ Each week can have its own focus, depending on what you want to improve or chang
 
 ## Why This Works
 
-This simple routine—an evening review and a weekly plan—can make your days smoother and your life more satisfying. You avoid the trap of drifting through your days without direction. Instead, you build your life, one day at a time, just like an architect builds a house.
+This simple routine (an evening review and a weekly plan) can make your days smoother and your life more satisfying. You avoid the trap of drifting through your days without direction. Instead, you build your life, one day at a time, just like an architect builds a house.
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *The best way to predict the future is to create it.*
 >
-> — Peter Drucker
+> *Peter Drucker*
 
 Life is too short not to live it fully. You deserve amazing days, and you can create them, step by step, with a little planning and a lot of heart.
 
@@ -55,7 +55,7 @@ Life is too short not to live it fully. You deserve amazing days, and you can cr
 ## Key Takeaways
 
 - *Review your day every evening. Give it a score and note what worked or didn’t.*
-- *Plan three key tasks for tomorrow—no more than three hours total if possible.*
+- *Plan three key tasks for tomorrow: no more than three hours total if possible.*
 - *Every Sunday, look back at your week and plan the next one with a clear focus.*
 - *Use any tool you like, but make the habit stick.*
 - *Remember: you are the architect of your own life.*

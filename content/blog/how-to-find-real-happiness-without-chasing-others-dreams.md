@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/61a2b515ceb5"
 
 {{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwcHVyc3VpdCUyMG9mJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTYwMTM3MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Find Real Happiness Without Chasing Others’ Dreams" caption="How to Find Real Happiness Without Chasing Others’ Dreams - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
-Many of us grow up surrounded by the idea that success and happiness are tightly linked to certain achievements. We’re told that getting the best grades, earning the top degrees, and landing a prestigious job—maybe in a bank or a hedge fund in London—will bring us fulfillment. The truth is, this path often leads us to live for the approval of others, or simply to meet expectations set by our environment.
+Many of us grow up surrounded by the idea that success and happiness are tightly linked to certain achievements. We’re told that getting the best grades, earning the top degrees, and landing a prestigious job (maybe in a bank or a hedge fund in London) will bring us fulfillment. The truth is, this path often leads us to live for the approval of others, or simply to meet expectations set by our environment.
 
 It’s easy to get stuck in this cycle. You work hard, aiming for the highest salary, the most respected title, and the admiration of your peers. But what if, after all those years of effort, you realize you’re not happy? Maybe you’re working 80 hours a week, barely have time to see your partner, your friends, or your children. Your hobbies and personal life are pushed aside, and you start to wonder: who am I really living for?
 
@@ -32,9 +32,9 @@ Make it a habit to take action, to try new things, to keep moving forward. Don�
 
 > *The biggest risk is not taking any risk. In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks at all.*
 >
-> — Mark Zuckerberg
+> *Mark Zuckerberg*
 
-If you want to go further in shaping your life, I encourage you to keep learning, keep questioning, and keep moving. The best time to start is now. Take small steps every day toward your dream. Visualize it, work on it, and let the power of small, consistent actions build up over time. The compound effect of daily progress can transform your life.
+If you want to go further in building a life that suits you, I encourage you to keep learning, keep questioning, and keep moving. The best time to start is now. Take small steps every day toward your dream. Visualize it, work on it, and let the power of small, consistent actions build up over time. The compound effect of daily progress can transform your life.
 
 {{< figure src="https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwZXJzb25hbCUyMGZ1bGZpbGxtZW50JTIwcHVyc3VpdCUyMG9mJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTYwMTM3MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A yellow card with the words be the creator of your own" title="How to Find Real Happiness Without Chasing Others’ Dreams" caption="How to Find Real Happiness Without Chasing Others’ Dreams - Photo by [Felicia Buitenwerf](https://unsplash.com/@iamfelicia) on [Unsplash](https://unsplash.com/photos/a-yellow-greeting-card-with-the-words-be-the-creator-of-your-own-happiness-6CuOUVt87e0)" >}}
 

@@ -14,11 +14,11 @@ source_medium = "https://medium.com/@phenrysay/94096eadbf61"
 
 {{< figure src="https://images.unsplash.com/photo-1763568258388-25a20ddd8a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxDbGF1ZGUlMjBBSSUyMGNvZGUlMjBhZ2VudHMlMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3NjcwNzE4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Laptop screen code with a small octopus toy" title="How to Code Faster With Claude Agents Without Extra Hassle" caption="How to Code Faster With Claude Agents Without Extra Hassle - Photo by [Daniil Komov](https://unsplash.com/@dkomow) on [Unsplash](https://unsplash.com/photos/laptop-screen-displaying-code-with-a-small-octopus-toy-SbRnEcFKMn4)" >}}
 
-Let’s talk about something that’s honestly a game-changer for anyone working with Claude’s code features: creating your own agents. If you’re not using custom agents yet, you’re missing out on a massive productivity boost.
+Let’s talk about something that’s honestly a major improvement for anyone working with Claude’s code features: creating your own agents. If you’re not using custom agents yet, you’re missing out on a massive productivity boost.
 
 ### Why You Need Custom Agents
 
-Here’s the deal. When you use the `/agents` command, you can spin up new agents tailored to whatever you need. Think of each agent as a little specialist you can call in for a specific job. You’re not stuck with just the default models. You can create, for example, a “rethink” agent—literally a model whose job is to go back and review or re-evaluate code that’s already been written.
+Here’s the deal. When you use the `/agents` command, you can spin up new agents tailored to whatever you need. Think of each agent as a little specialist you can call in for a specific job. You’re not stuck with just the default models. You can create, for example, a “rethink” agent: literally a model whose job is to go back and review or re-evaluate code that’s already been written.
 
 Every slash command is basically a prompt. If you’re building custom ones, you’re just writing your own prompts. That’s the magic. You’re not limited to what’s out of the box. You can make agents that fit your workflow, your quirks, your project’s weird requirements.
 
@@ -47,7 +47,7 @@ Now, whenever you need a bug hunt, just call your debug agent. No need to rephra
 
 ### Why This Matters
 
-This approach makes you way more efficient. You’re not wasting time re-explaining what you want. Each agent is laser-focused. You can stack them, too—run your code through the debug agent, then the review agent, then the rethink agent. It’s like having a pit crew for your code.
+This approach makes you way more efficient. You’re not wasting time re-explaining what you want. Each agent is laser-focused. You can stack them, too: run your code through the debug agent, then the review agent, then the rethink agent. It’s like having a pit crew for your code.
 
 > “Every slash command is a kind of prompt. If you create custom ones, you’re building your own workflow, not just using someone else’s.”
 
@@ -61,6 +61,6 @@ If you want to be super productive, start thinking in terms of agents. Build you
 
 - Use `/agents` to create custom Claude code agents for specific tasks.
 - Specialize: have a debug agent, a review agent, a rethink agent, and more.
-- Each agent is just a custom prompt—make them fit your workflow.
+- Each agent is just a custom prompt: make them fit your workflow.
 - Stack agents for maximum code quality and efficiency.
 - Don’t settle for generic tools. Build your own AI-powered workflow.

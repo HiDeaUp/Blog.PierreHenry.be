@@ -23,20 +23,20 @@ The magic of 1% daily progress is that it compounds. If you improve by 1% every 
 But if you focus on small wins each day, you create a virtuous circle. Every Sunday, look back at your week. What went well? What did you enjoy? How can you repeat those things? And for what didn’t go so well, what can you change so it doesn’t happen again? This simple habit can transform your life.
 
 > *Discipline is the bridge between goals and accomplishments.*
-> — Jim Rohn
+> *Jim Rohn*
 
 Discipline is what connects your dreams to your achievements. There’s another quote I love: *Discipline equals freedom.* If you’re disciplined in your daily routines, you build healthy habits that support your goals. For example, starting your day with a healthy breakfast, not too sweet, helps your productivity and focus. Even something as simple as taking a cold shower can make a difference. It’s uncomfortable, but afterwards you feel proud, energized, and ready to tackle anything else the day throws at you.
 
 {{< figure src="https://images.unsplash.com/photo-1570554634503-9d0f79c97dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="woman looking at skin in a mirror" title="How to Change Your Life 1% at a Time Without Overwhelm" caption="How to Change Your Life 1% at a Time Without Overwhelm - Photo by [Curology](https://unsplash.com/@curology) on [Unsplash](https://unsplash.com/photos/man-wearing-white-shirt-facing-on-wall-mirror-3kZvBqduNVE)" >}}
 
-Cold showers aren’t just a test of willpower. They’re great for your health, your immune system, your mood, and even fertility. If you’re curious, look it up—there’s plenty of research on the benefits. And don’t forget to drink two glasses of water as soon as you wake up, before breakfast. I talk about this in my book, and it’s a habit that has made a big difference for me.
+Cold showers aren’t just a test of willpower. They can influence your mood and how alert you feel. Don’t forget to drink two glasses of water when you wake up, before breakfast. That habit has made a big difference for me.
 
-My own morning routine is simple: two glasses of water, a cold shower, and a light breakfast—usually a boiled egg, some nuts, and dried fruit. No coffee, because it can mess with your natural energy and leave you feeling tired later in the day. When I’m productive in the morning, I get more done and have my evenings free. Discipline really does give you freedom.
+My own morning routine is simple: two glasses of water, a cold shower, and a light breakfast: usually a boiled egg, some nuts, and dried fruit. No coffee, because it can mess with your natural energy and leave you feeling tired later in the day. When I’m productive in the morning, I get more done and have my evenings free. Discipline really does give you freedom.
 
 Darren Hardy, in his book *The Compound Effect*, explains how good habits work like compound interest. Small, positive actions add up over time, just as bad habits can drag you down. It’s all about the choices you make each day.
 
 > *Small daily improvements are the key to staggering long-term results.*
-> — Unknown
+> *Unknown*
 
 Balance is also important. If you spend all day at your computer, you’ll feel drained. But if you break up your day with walks, exercise, or different activities, you’ll feel better and your days will seem longer and more satisfying. Your brain needs fresh air and movement to function well.
 
@@ -49,14 +49,14 @@ Finally, alternate your activities. If you’re working on a computer, switch to
 {{< figure src="https://images.unsplash.com/photo-1621448920724-34f674bee0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU1ODYwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman in black tank top and black doing yoga on green grass field during daytime" title="How to Change Your Life 1% at a Time Without Overwhelm" caption="How to Change Your Life 1% at a Time Without Overwhelm - Photo by [Farshid Zabbahi](https://unsplash.com/@farshidzabbahi) on [Unsplash](https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-doing-yoga-on-green-grass-field-during-daytime-y5Otr8Z_5oE)" >}}
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-> — Robert Collier
+> *Robert Collier*
 
-The secret isn’t in grand gestures or overnight transformations. It’s in the small, steady steps you take every day. With discipline, balance, and a focus on what matters most to you, you can change your life—one percent at a time.
+The secret isn’t in grand gestures or overnight transformations. It’s in the small, steady steps you take every day. With discipline, balance, and a focus on what matters most to you, you can change your life: one percent at a time.
 
 ---
 
 ## Key Takeaways
-- *Aim to be 1% better each day—small progress adds up.*
+- *Aim to be 1% better each day: small progress adds up.*
 - *Track your days and reflect weekly on what works and what doesn’t.*
 - *Discipline in your routines leads to freedom and happiness.*
 - *Balance your activities and reward yourself in moderation.*

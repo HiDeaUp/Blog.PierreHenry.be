@@ -22,7 +22,7 @@ So, how do you keep going when you feel like you’ve lost your footing? The ans
 
 ## The Power of Having a Mission
 
-Having a mission gives you strength. It could be anything—a cause you care about, a long-term project like writing a book, or even saving up for a trip around the world. If you want to travel, you might need to start a small business to earn the money. The best part is, you don’t need a lot to get started. You can coach people online, offer freelance services, or teach something you’re good at, even from your living room.
+Having a mission gives you strength. It could be anything: a cause you care about, a long-term project like writing a book, or even saving up for a trip around the world. If you want to travel, you might need to start a small business to earn the money. The best part is, you don’t need a lot to get started. You can coach people online, offer freelance services, or teach something you’re good at, even from your living room.
 
 Pick one social media platform and focus on finding your audience there. If you’re good with kids, maybe your platform is different than if you’re coaching retirees on how to manage their assets. The point is, your first goal might not be your final destination. Maybe you’re just trying to earn enough to fund your real dream.
 
@@ -55,15 +55,15 @@ Music can also change your mood instantly. Create playlists that make you feel g
 Be careful what you watch and read. If you’re feeling down, avoid shows or movies that leave you feeling worse. Instead, watch documentaries, read biographies, or listen to podcasts about people who inspire you. Fill your mind with stories that lift you up and remind you of what’s possible.
 
 > _Happiness is not something ready made. It comes from your own actions._
-> — Dalai Lama
+> *Dalai Lama*
 
 > _The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well._
-> — Ralph Waldo Emerson
+> *Ralph Waldo Emerson*
 
 {{< figure src="https://images.unsplash.com/photo-1693027285937-1bb46e3309e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjBwb3NpdGl2aXR5JTIwc2VsZi1pbXByb3ZlbWVudHxlbnwwfDB8fHwxNzU2NTIxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A sign that says on the side of a" title="How to Build a Positive Life When Everything Feels Lost" caption="How to Build a Positive Life When Everything Feels Lost - Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/photos/a-sign-that-says-happiness-on-the-side-of-a-building-j7zVioklMjE)" >}}
 
 > _You don’t have to control your thoughts. You just have to stop letting them control you._
-> — Dan Millman
+> *Dan Millman*
 
 ---
 

@@ -22,7 +22,7 @@ source_medium = "https://medium.com/@phenrysay/93f29d6ea436"
 
 Eating an apple is good for you. Taking care of your teeth by brushing two or three times a day is just as important. If you neglect these small habits, you’ll end up with cavities, and trust me, that’s not something you want to deal with. I just got back from the dentist this afternoon. She took X-rays, showed me where I already have three cavities, and pointed out a few more spots that might turn into problems soon. You can actually see when a cavity is about to form, and it’s never a pleasant sight.
 
-Going to the dentist isn’t just uncomfortable—it’s expensive. My cleaning alone cost $273, and the rest of the treatment will be $750. That’s almost $1,000 just for my teeth. This really drives home how important it is to look after your dental health, and by extension, your overall health.
+Going to the dentist isn’t just uncomfortable; it’s expensive. My cleaning alone cost $273, and the rest of the treatment will be $750. That’s almost $1,000 just for my teeth. This really drives home how important it is to look after your dental health, and by extension, your overall health.
 
 No one knows how long they’ll live. The better you care for your health and the more you stick to good habits, the longer and better your life will be. Of course, your genetics, your DNA, and other factors like accidents play a role. But if you’re careful, avoid unnecessary risks, drive safely, and make your health a priority, you’re stacking the odds in your favor.
 
@@ -32,15 +32,15 @@ Personally, I try to live in a healthy way. I avoid stress, especially about thi
 
 Your life is yours, and you deserve to live it in good health. Health is priceless. You could be a billionaire, but if your health is ruined and you’re facing three cancers at once, money won’t bring you any joy. That’s a nightmare I wouldn’t wish on anyone.
 
-So, live well and take care of yourself. You deserve it. Everyone deserves good health. No one should have to suffer from poor health—it’s truly awful. I’m with you on this. I take care of myself, too. We’re all healthy now, but no one knows how long that will last. That’s why you need to start today. Take care of yourself and enjoy life, but never at the expense of your physical or mental health.
+So, live well and take care of yourself. You deserve it. Everyone deserves good health. No one should have to suffer from poor health; it’s truly awful. I’m with you on this. I take care of myself, too. We’re all healthy now, but no one knows how long that will last. That’s why you need to start today. Take care of yourself and enjoy life, but never at the expense of your physical or mental health.
 
 Mental health matters just as much. Avoid toxic people and anyone who brings you down. Surround yourself with those who support your well-being.
 
 > *Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.*
-> — Buddha
+> *Buddha*
 
 > *It is health that is real wealth and not pieces of gold and silver.*
-> — Mahatma Gandhi
+> *Mahatma Gandhi*
 
 ---
 
@@ -51,7 +51,7 @@ Mental health matters just as much. Avoid toxic people and anyone who brings you
 - *Taking care of your health is an investment that pays off every day.*
 - *Small habits like brushing your teeth and eating well save you pain and money later.*
 - *Let go of what you can’t control, and act quickly on what you can.*
-- *Your health is priceless—don’t trade it for anything.*
+- *Your health is priceless: don’t trade it for anything.*
 - *Avoid toxic people and protect your mental well-being.*
 
 ---

@@ -22,7 +22,7 @@ If you want to sell something, this approach makes it much easier. But beyond sa
 
 {{< figure src="https://images.unsplash.com/photo-1666549415033-b45039335fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWludmVudGlvbiUyMGluc3BpcmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxNjY5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant growing out of the ground" title="How to Be Unforgettable by Living With Passion" caption="How to Be Unforgettable by Living With Passion - Photo by [Courtney Cantu](https://unsplash.com/@courtneycantu) on [Unsplash](https://unsplash.com/photos/a-small-plant-growing-out-of-the-ground-5oNX232IzBM)" >}}
 
-First, you will be 100% present in every discussion. Second, you will notice things around you—maybe a community garden where everyone can plant their own flowers or vegetables. You might say, “This is the first time I’ve seen something like this, it’s fun!” These little moments of sharing make your conversations richer and more meaningful.
+First, you will be 100% present in every discussion. Second, you will notice things around you, maybe a community garden where everyone can plant their own flowers or vegetables. You might say, “This is the first time I’ve seen something like this, it’s fun!” These little moments of sharing make your conversations richer and more meaningful.
 
 When you are fully present, the value you bring to your discussions increases a lot. This changes everything. I am completely with you on this journey.
 
@@ -31,10 +31,10 @@ If you want to go even further in changing your daily life, you can start right 
 We can talk about clearing out what no longer serves you, about new habits, and about many things that can help you live a better life. I wish you all the best from the bottom of my heart. I hope these words inspire you and help you move forward.
 
 > *The only way to make sense out of change is to plunge into it, move with it, and join the dance.*
-— Alan Watts
+*Alan Watts*
 
 > *Passion is energy. Feel the power that comes from focusing on what excites you.*
-— Oprah Winfrey
+*Oprah Winfrey*
 
 {{< figure src="https://images.unsplash.com/photo-1609843025783-6a66a8f45e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWludmVudGlvbiUyMGluc3BpcmF0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxNjY5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green plant on brown soil" title="How to Be Unforgettable by Living With Passion" caption="How to Be Unforgettable by Living With Passion - Photo by [Albert Moreno](https://unsplash.com/@albertmorenodev) on [Unsplash](https://unsplash.com/photos/green-plant-on-brown-soil-nPz4Im6uapc)" >}}
 
@@ -44,7 +44,7 @@ We can talk about clearing out what no longer serves you, about new habits, and 
 - Show your enthusiasm and curiosity in every conversation.
 - Be fully present and genuine when you interact with others.
 - Small changes in your daily approach can lead to big transformations.
-- Notice and appreciate the little things around you—they can spark meaningful connections.
+- Notice and appreciate the little things around you; they can spark meaningful connections.
 
 ## Reflection
 - When was the last time you truly showed your passion in a conversation?

@@ -16,25 +16,25 @@ source_medium = "https://medium.com/@phenrysay/83e9d495cd31"
 
 We often feel like we always have to do more. There’s this constant pressure to be productive, to keep pushing, to never stop. It’s as if we’re always running after something, and it’s never enough. Discipline and organization are important, of course. But if you don’t take time for yourself, to enjoy life, you’ll run out of positive energy for the things you actually want to do.
 
-A balanced day is a well-organized one, but it also includes moments just for you. If you skip those, you’ll soon find yourself drained, unable to keep up with your own goals. At the end of the day, the real purpose of life is to be happy. That’s it. So making time for pleasure isn’t just a luxury—it’s essential.
+A balanced day is a well-organized one, but it also includes moments just for you. If you skip those, you’ll soon find yourself drained, unable to keep up with your own goals. At the end of the day, the real purpose of life is to be happy. That’s it. So making time for pleasure isn’t just a luxury; it’s essential.
 
 But what does “pleasure” really mean? It’s all about balance. If your idea of fun is seeing friends every day, but you do it all day long, you’ll end up feeling empty. On the other hand, if you only do it once a week or every few days, those moments become special, and you’ll feel much better. Everything in excess can hurt our happiness.
 
-The same goes for work. I was recently working on an assessment for university—a kind of report, like a mini-thesis. I enjoy doing this kind of research, and I feel proud when I finish. But if I spend the whole day, from morning to night, glued to my computer, I end up feeling terrible. That’s why it’s so important to find balance.
+The same goes for work. I was recently working on an assessment for university: a kind of report, like a mini-thesis. I enjoy doing this kind of research, and I feel proud when I finish. But if I spend the whole day, from morning to night, glued to my computer, I end up feeling terrible. That’s why it’s so important to find balance.
 
 {{< figure src="https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3b3JrLWxpZmUlMjBiYWxhbmNlJTIwc2VsZi1jYXJlJTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NDkzMzAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="People sitting near table with laptop" title="How to Find Balance Without Burning Out Chasing “More”?" caption="How to Find Balance Without Burning Out Chasing “More”? - Photo by [Campaign Creators](https://unsplash.com/@campaign_creators) on [Unsplash](https://unsplash.com/photos/people-sitting-near-table-with-laptop-computer-qCi_MzVODoU)" >}}
 
-One thing that changed everything for me was learning to separate different types of activities. For example, mixing manual tasks with more mental ones, or creating special spaces for focus. I discovered “study pods”—little isolated spots, sometimes in your garden or inside your home, where you can concentrate. For me, having a bubble like that made a huge difference.
+One thing that changed everything for me was learning to separate different types of activities. For example, mixing manual tasks with more mental ones, or creating special spaces for focus. I discovered “study pods”: little isolated spots, sometimes in your garden or inside your home, where you can concentrate. For me, having a bubble like that made a huge difference.
 
 It’s also about structuring your day: planning periods of deep focus, then real breaks. I use tools and apps like Swings 3 to help me stay on track. I organize my day from A to Z, with time for work, time for rest, and time for myself. The key is not to let procrastination take over, because that’s a real danger. But at the same time, don’t forget to give yourself permission to enjoy life.
 
 Your life belongs to you. It’s up to you to decide how to use your days, how to organize them so you feel your best. Don’t let anyone else decide for you. The right balance is different for everyone, but the principle is the same: mix discipline with pleasure, and you’ll find real happiness.
 
 > *“Happiness is not a matter of intensity but of balance, order, rhythm and harmony.”*  
-> — Thomas Merton
+> *Thomas Merton*
 
 > *“There is more to life than increasing its speed.”*  
-> — Mahatma Gandhi
+> *Mahatma Gandhi*
 
 ---
 

@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/7de8c7757f11"
 
 Getting something new, or finding fresh opportunities, often feels like a game of hide and seek. Sometimes you look, sometimes you don’t find anything. But the truth is, getting something new is simply about being curious. When you’re curious, when you’re on the lookout for new chances, that’s when you open new doors. That’s when luck starts to nudge you.
 
-Let’s talk about how you can actually invite more luck and success into your life—without waiting for a miracle.
+Let’s talk about how you can actually invite more luck and success into your life: without waiting for a miracle.
 
 ## Start With Positivity (And Yes, You Can Learn It)
 
@@ -24,13 +24,13 @@ The first thing I recommend is to be positive. It’s not always easy, and not e
 
 ### 1. Your Posture Speaks Louder Than Words
 
-Stand like someone who believes in themselves. When you look confident, you inspire trust in others and in yourself. It’s not about faking it, but about reminding yourself that you do believe in you. Shoulders back, chin up—simple, but powerful.
+Stand like someone who believes in themselves. When you look confident, you inspire trust in others and in yourself. It’s not about faking it, but about reminding yourself that you do believe in you. Shoulders back, chin up: simple, but powerful.
 
 ### 2. Positive Self-Talk: Your Secret Ritual
 
-Tell yourself positive things. I talk about this a lot in my book, but here’s the short version: self-affirmations are like little rituals of pride. Every morning, say to yourself, “Today will be an exceptional day.” These rituals are intentional practices to boost your self-confidence and self-worth.
+Tell yourself positive things. Self-affirmations are like small rituals of pride. Every morning, say to yourself, “Today will be an exceptional day.” These intentional practices help you begin with a more constructive mindset.
 
-Focus on your strengths, your wins, and what makes you unique. This could mean congratulating yourself for even small achievements, repeating affirmations in the mirror like “I am capable,” “I deserve happiness,” or “I deserve what I have.” Take a moment to celebrate your successes—write them in a journal, or share them with friends or family.
+Focus on your strengths, your wins, and what makes you unique. This could mean congratulating yourself for even small achievements, repeating affirmations in the mirror like “I am capable,” “I deserve happiness,” or “I deserve what I have.” Take a moment to celebrate your successes: write them in a journal, or share them with friends or family.
 
 The goal is to build a sense of personal pride, which leads to better self-esteem and a more positive mindset. When you do this, you set a completely different tone for everything that follows. You feel better, and you feel more confident.
 
@@ -38,17 +38,17 @@ The goal is to build a sense of personal pride, which leads to better self-estee
 
 ### 3. Never Speak Negatively About Yourself
 
-Never say things like, “I’m useless,” or “I’m good for nothing.” Not even as a joke. The words you use matter. They shape how you see yourself and what you believe is possible.
+Never say things like, “I’m useless,” or “I’m good for nothing.” Not even as a joke. The words you use matter. They influence how you see yourself and what you believe is possible.
 
 ### 4. Pay Attention to What You Focus On
 
-Be careful with your attention. If you’re always noticing what’s wrong around you—like someone not clearing their tray at a fast food place—you’re soaking in negativity. Instead, focus on yourself. You don’t know what’s going on in other people’s lives, and judging them only adds more negativity to your own.
+Be careful with your attention. If you’re always noticing what’s wrong around you (like someone not clearing their tray at a fast food place) you’re soaking in negativity. Instead, focus on yourself. You don’t know what’s going on in other people’s lives, and judging them only adds more negativity to your own.
 
 Life is full of opportunities and good things. Focus on those. That’s how you keep your mindset positive and open to luck.
 
 ## Curiosity: The Door to New Opportunities
 
-When you keep your attention on positive things and stay curious, you’ll start to notice new opportunities. Maybe you’ll spot a job opening you wouldn’t have seen otherwise, or you’ll hear about something interesting from a friend. This happened to me recently—I was searching for something in cybersecurity on LinkedIn and found a job offer from a friend. If I hadn’t been curious, I would have missed it.
+When you keep your attention on positive things and stay curious, you’ll start to notice new opportunities. Maybe you’ll spot a job opening you wouldn’t have seen otherwise, or you’ll hear about something interesting from a friend. This happened to me recently; I was searching for something in cybersecurity on LinkedIn and found a job offer from a friend. If I hadn’t been curious, I would have missed it.
 
 Always be aware of your surroundings and what’s happening around you. That’s how you catch chances you’d never see otherwise.
 
@@ -56,7 +56,7 @@ Always be aware of your surroundings and what’s happening around you. That’s
 
 Sometimes, we get stuck in bed, feeling low, thinking, “What’s the point? I’ve tried everything and nothing works.” But the truth is, everything you need is around you. It all depends on how you see things. If you look at life through a negative frame, that’s all you’ll see. But if you change your frame, suddenly you’ll see a whole range of new opportunities.
 
-It’s about changing your body language, your words, your posture, and—most importantly—your mindset.
+It’s about changing your body language, your words, your posture, and (most importantly) your mindset.
 
 *As Napoleon Hill said:*
 
@@ -64,7 +64,7 @@ It’s about changing your body language, your words, your posture, and—most i
 
 > *To succeed, you must first transform yourself into someone who can succeed, instead of chasing success as if it were an object.*
 
-— Napoleon Hill
+*Napoleon Hill*
 
 So, don’t put off what you want to do. Life is short and deserves to be enjoyed fully. Start now. Try new things, do what speaks to you, and focus on what you love.
 
@@ -74,7 +74,7 @@ So, don’t put off what you want to do. Life is short and deserves to be enjoye
 
 - *Curiosity opens doors to new opportunities.*
 - *Positive posture and self-talk build real confidence.*
-- *Never speak negatively about yourself—your words matter.*
+- *Never speak negatively about yourself: your words matter.*
 - *Focus on your own journey, not others’ mistakes.*
 - *Change your mindset, and you’ll see more chances around you.*
 

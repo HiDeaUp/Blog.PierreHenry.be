@@ -30,17 +30,17 @@ I started this habit years ago, and it has stuck with me ever since. My first ex
 
 Those months in Vancouver were unforgettable. I met incredible people, explored new places, and even attended a language school to meet more locals. I was traveling alone, running my business remotely, and had taken a six-month sabbatical from my job in Ireland. That break was exactly what I needed, and I’m grateful my company offered it after two years of working there.
 
-During my time in Canada and Iceland, the cold shower became a daily ritual. It changed my perspective on risk, built my resilience, and improved my perseverance and endurance. Just two minutes under cold water each morning made a huge difference. I still practice it today, and I talk about it in detail in my book, *Success Is Not Far Away*.
+During my time in Canada and Iceland, the cold shower became a daily ritual. It changed my perspective on risk, built my resilience, and improved my perseverance. Just two minutes under cold water each morning made a big difference, and I still practice it today.
 
 ## The Power of Routine
 
 Adding routines to your life gives you more control. The cold shower is the first routine I recommend. It’s simple, free, and incredibly effective. If you’re looking for a way to feel better, be more motivated, and take charge of your day, start with this habit.
 
 > *“If you want something you’ve never had, you must be willing to do something you’ve never done.”*  
-— Thomas Jefferson
+*Thomas Jefferson*
 
 > *“Discipline is the bridge between goals and accomplishment.”*  
-— Jim Rohn
+*Jim Rohn*
 
 ## Start Today
 
@@ -54,12 +54,12 @@ The best time to take action is now. If you have the right mindset and determina
 
 - *A cold shower each morning can boost your mood, motivation, and health.*
 - *Building routines gives you more control over your life.*
-- *Start small—just two minutes under cold water can make a difference.*
+- *Start small: just two minutes under cold water can make a difference.*
 
 ## Action Steps
 
 - *Try a cold shower tomorrow morning for two minutes.*
-- *Notice how you feel afterward—more awake, more present, more motivated.*
+- *Notice how you feel afterward: more awake, more present, more motivated.*
 - *Consider adding other simple routines to your day for even more benefits.*
 
 ## Reflection

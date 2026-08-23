@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/26ad0a012099"
 
 Have you ever noticed how a simple change of scenery can bring a wave of fresh ideas? Sometimes, when we feel stuck or in need of inspiration, the answer is as close as our immediate environment. Whether you’re working, creating, or just going about your day, the things around you can become unexpected sources of inspiration.
 
-Let’s say you’re looking at a wall and you have a towel in your hand. Suddenly, you think, “What if I hang this towel on the wall?” Just like that, you’ve combined two ordinary things—a wall and a towel—to create a new solution: a towel hook. This is a small example, but it shows how our surroundings can help us make new connections.
+Let’s say you’re looking at a wall and you have a towel in your hand. Suddenly, you think, “What if I hang this towel on the wall?” Just like that, you’ve combined two ordinary things (a wall and a towel) to create a new solution: a towel hook. This is a small example, but it shows how our surroundings can help us make new connections.
 
 When you step into a different environment, your mind starts to work in new ways. You might notice something you’ve never seen before, or you might remember something from the past and connect it with what’s in front of you. The brain loves making these links, especially when it’s faced with something unfamiliar.
 
@@ -23,10 +23,10 @@ When you step into a different environment, your mind starts to work in new ways
 The more you expose yourself to different places, the more your imagination wakes up. Even without realizing it, your mind starts to mix old memories with new experiences. Suddenly, an idea pops up, or you see a new way of doing something. This has helped me a lot, and that’s why I wanted to share this simple thought with you: your environment matters more than you think.
 
 > *The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.*
-— Marcel Proust
+*Marcel Proust*
 
 > *Creativity is just connecting things.*
-— Steve Jobs
+*Steve Jobs*
 
 If you want to go even further, try visiting places that are completely different from what you’re used to. The more unusual the environment, the more your brain will work to make sense of it, and the more likely you are to come up with something original. Sometimes, the best ideas come when you least expect them, simply because you changed your surroundings.
 

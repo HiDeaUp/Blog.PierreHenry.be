@@ -31,10 +31,10 @@ Most of the time, our thoughts are scattered and messy. But when you speak them 
 I hope this makes sense to you. I really believe that if you try this, it will help you grow. Structuring your thoughts isn’t easy, but with practice, it gets better. Every morning, whether you’re having an espresso, a biscuit, an apple, or anything else, take a moment to reflect. Go to a café, sit down, and talk to yourself. You’ll see how much stronger and more confident you become, and how much easier it is to improve your life.
 
 > _Knowing yourself is the beginning of all wisdom._
-> — Aristotle
+> *Aristotle*
 
 > _We do not learn from experience... we learn from reflecting on experience._
-> — John Dewey
+> *John Dewey*
 
 ---
 

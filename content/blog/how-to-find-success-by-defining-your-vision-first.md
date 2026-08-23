@@ -24,7 +24,7 @@ This is how you build the life you want. When you have your vision written down 
 
 {{< figure src="https://images.unsplash.com/photo-1740313498441-68da0e01df37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwdmlzaW9uJTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjYzOTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word success on a wooden table" title="How to Find Success by Defining Your Vision First" caption="How to Find Success by Defining Your Vision First - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-success-on-a-wooden-table-2YIShvIMMQc)" >}}
 
-If you keep doing what you’ve always done, don’t expect anything different. Change is necessary for a different life. That’s why having a vision for a new life or a dream project matters so much. Every day, you can contribute a little to your dream—maybe half an hour, an hour, or even just a few minutes. It’s all about taking one step after another.
+If you keep doing what you’ve always done, don’t expect anything different. Change is necessary for a different life. That’s why having a vision for a new life or a dream project matters so much. Every day, you can contribute a little to your dream, maybe half an hour, an hour, or even just a few minutes. It’s all about taking one step after another.
 
 Think of it like a long hike. You put one foot in front of the other, and eventually, you reach your destination. Or like writing a book: word after word, page after page, and after some time, you have a finished book. Your life works the same way. If you dedicate a bit of time every day, regularly, you’ll get to where you want to be.
 
@@ -32,11 +32,11 @@ I’m fully committed to this approach. Are you?
 
 > *If you want something you've never had, you must be willing to do something you've never done.*
 >
-> — Thomas Jefferson
+> *Thomas Jefferson*
 
 > *A journey of a thousand miles begins with a single step.*
 >
-> — Lao Tzu
+> *Lao Tzu*
 
 ---
 

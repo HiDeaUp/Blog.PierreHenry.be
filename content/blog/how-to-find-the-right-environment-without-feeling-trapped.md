@@ -23,10 +23,10 @@ For me, I remember living in Kent not too long ago. I stayed in a small bungalow
 What about you? What does your ideal environment look like? Try writing it down. Describe it in detail. Then, little by little, see how you can bring more of those elements into your daily life. Step by step, you can move closer to the kind of environment that lifts you up.
 
 > *The environment you choose is the foundation of your well-being.*
-> — Unknown
+> *Unknown*
 
 > *Sometimes, a change of place brings a change of mind.*
-> — Seneca
+> *Seneca*
 
 ---
 

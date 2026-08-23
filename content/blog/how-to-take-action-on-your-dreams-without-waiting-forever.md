@@ -18,7 +18,7 @@ Have you ever noticed how easy it is to dream about a different life, a new job,
 
 It’s not that they don’t have dreams or goals. They do. But the daily routine feels safe. Even if it’s not perfect, it’s familiar. So, days go by, months pass, and even years slip away. Nothing changes. The desire for something different is there, but the comfort of the present wins out.
 
-What’s interesting is that we can’t really judge what’s best for us—or for anyone else—until we’ve tried it ourselves. Each of us sees life differently. Our experiences, our feelings, and our needs are unique. That’s why it’s so important to make our own choices and learn from them.
+What’s interesting is that we can’t really judge what’s best for us (or for anyone else) until we’ve tried it ourselves. Each of us sees life differently. Our experiences, our feelings, and our needs are unique. That’s why it’s so important to make our own choices and learn from them.
 
 {{< figure src="https://images.unsplash.com/photo-1693423362454-7db6c8e07a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwdGFraW5nJTIwYWN0aW9uJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjUxNzk1OXww&ixlib=rb-4.1.0&q=80&w=1080" alt="A small plant sprouts out of the" title="How to Take Action on Your Dreams Without Waiting Forever" caption="How to Take Action on Your Dreams Without Waiting Forever - Photo by [Lucas Chizzali](https://unsplash.com/@chizze) on [Unsplash](https://unsplash.com/photos/a-small-plant-sprouts-out-of-the-pavement-kDHkfujUCyU)" >}}
 
@@ -27,10 +27,10 @@ Let’s say you’re thinking about moving to Sydney. You like your current life
 The key is to act. Don’t let fear or comfort stop you. If you try and it doesn’t work out, you’ve learned something valuable. You can always return to your old life, but now you’ll know you made the right choice for yourself.
 
 > _“The best time to plant a tree was twenty years ago. The second best time is now.”_
-— Chinese Proverb
+*Chinese Proverb*
 
 > _“You don’t have to see the whole staircase, just take the first step.”_
-— Martin Luther King Jr.
+: Martin Luther King Jr.
 
 The best moment to take action is always today. Don’t put off what you can do now. Your future self will thank you for every step you take, no matter how small.
 

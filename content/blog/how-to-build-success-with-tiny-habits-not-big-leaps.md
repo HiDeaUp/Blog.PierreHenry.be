@@ -20,9 +20,9 @@ The truth is, progress is rarely easy. It takes effort and discipline, especiall
 
 ## Make It a Habit, Not a Chore
 
-Building a daily habit is like brushing your teeth. You don’t ask yourself if you’re motivated to do it—you just do it, morning and night, because it’s part of your routine. The same should be true for your goals. If you make your actions automatic, you won’t have to rely on motivation, which comes and goes.
+Building a daily habit is like brushing your teeth. You don’t ask yourself if you’re motivated to do it; you just do it, morning and night, because it’s part of your routine. The same should be true for your goals. If you make your actions automatic, you won’t have to rely on motivation, which comes and goes.
 
-For example, when I take a shower in the morning or evening here in Sydney, I don’t think about whether I feel like it. I just do it, especially on those humid, tropical days. Your motivation should work the same way. If you skip your routine, imagine how you’ll feel—probably disappointed or discouraged. Let that discomfort push you to keep going. When you practice this, you’ll stop putting things off, because you’re already thinking about the consequences of not acting.
+For example, when I take a shower in the morning or evening here in Sydney, I don’t think about whether I feel like it. I just do it, especially on those humid, tropical days. Your motivation should work the same way. If you skip your routine, imagine how you’ll feel: probably disappointed or discouraged. Let that discomfort push you to keep going. When you practice this, you’ll stop putting things off, because you’re already thinking about the consequences of not acting.
 
 ## Start Small, Finish Big
 
@@ -32,23 +32,23 @@ Another trick is to set tiny goals. Instead of telling yourself you have to do 1
 
 ## Feed Your Body and Mind
 
-Success isn’t just about what you do, but also how you take care of yourself. Eating healthy, light meals gives you more energy and helps you get more done. The same goes for what you feed your mind. If you fill your head with negative news or endless social media, it drags you down. Instead, choose uplifting books, podcasts, or audiobooks that inspire you and help you grow.
+Success isn’t just about what you do, but also how you take care of yourself. Eating healthy, light meals gives you more energy and helps you get more done. The same goes for what you feed your mind. If you fill your head with negative news or constant social media, it drags you down. Instead, choose uplifting books, podcasts, or audiobooks that inspire you and help you grow.
 
 I love rewarding myself after a productive day. Sometimes it’s a swim in the pool, a light dinner with avocado and feta, or a coffee in the city. These small rewards keep me motivated and make the process enjoyable.
 
 ## Make Your Goals Visual
 
-It helps to keep your goals in sight—literally. Put up a vision board or a poster of someone you admire. Look at it every day to remind yourself where you’re headed. I barely use my TV, preferring to listen to audiobooks or watch inspiring talks. This keeps my mind focused on what matters and lifts my spirits.
+It helps to keep your goals in sight: literally. Put up a vision board or a poster of someone you admire. Look at it every day to remind yourself where you’re headed. I barely use my TV, preferring to listen to audiobooks or watch inspiring talks. This keeps my mind focused on what matters and lifts my spirits.
 
 Surrounding yourself with stories of people who have already succeeded can raise your own standards. When you see what’s possible, you start to believe you can do it too.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-> — Robert Collier
+> *Robert Collier*
 
 {{< figure src="https://images.unsplash.com/photo-1704881986230-8790b6066f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwaGFiaXRzJTIwcGVyc29uYWwlMjBkZXZlbG9wbWVudHxlbnwwfDB8fHwxNzU2NTA3MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles out the word love on a wooden surface" title="How to Build Success With Tiny Habits, Not Big Leaps" caption="How to Build Success With Tiny Habits, Not Big Leaps - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-out-the-word-love-on-a-wooden-surface-S30axalCoUo)" >}}
 
 > *You are the average of the five people you spend the most time with.*
-> — Jim Rohn
+> *Jim Rohn*
 
 ## The Real Shortcut to Success
 

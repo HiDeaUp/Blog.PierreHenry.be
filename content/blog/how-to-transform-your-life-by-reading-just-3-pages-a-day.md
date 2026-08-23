@@ -18,7 +18,7 @@ Reading is one of those daily habits that seems simple, yet it can completely ch
 
 For example, I often pick up a book on business or something practical. Even if there’s noise around me or distractions, I still make time to read a few pages. Depending on the book’s complexity, it might take five to fifteen minutes. If the book is dense or if I want to take notes or try out what I’m learning, it might take a bit longer.
 
-Sometimes, I read about meditation or music therapy. I always try to practice what I read right away. If I come across a new type of active meditation, I’ll try it on myself immediately. Recently, I read about how we all have a part of us that wants something good—like wanting to be with someone who respects us. But there’s often another part, shaped by past bad experiences, that’s afraid things will go wrong again. This fear can lead us to sabotage new relationships or even our work life.
+Sometimes, I read about meditation or music therapy. I always try to practice what I read right away. If I come across a new type of active meditation, I’ll try it on myself immediately. Recently, I read about how we all have a part of us that wants something good, like wanting to be with someone who respects us. But there’s often another part, influenced by past bad experiences, that’s afraid things will go wrong again. This fear can lead us to sabotage new relationships or even our work life.
 
 {{< figure src="https://images.unsplash.com/photo-1472068996216-8c972a0af9bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyZWFkaW5nJTIwaGFiaXRzJTIwcGVyc29uYWwlMjBncm93dGglMjBzZWxmLWltcHJvdmVtZW50fGVufDB8MHx8fDE3NTY2MzM0OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman sitting on bed with flying books" title="How to Transform Your Life by Reading Just 3 Pages a Day" caption="How to Transform Your Life by Reading Just 3 Pages a Day - Photo by [Lacie Cueto](https://unsplash.com/@laciemarie) on [Unsplash](https://unsplash.com/photos/woman-sitting-on-bed-with-flying-books-yHG6llFLjS0)" >}}
 
@@ -29,10 +29,10 @@ Practicing what you read right away is powerful. If you wait, the information fa
 Daily reading, especially non-fiction, lifts you up and helps you realize your own potential. We all have ten or twenty minutes in our day, yet we often skip this habit that, I’m convinced, can truly change your life.
 
 > *“Reading is to the mind what exercise is to the body.”*  
-— Joseph Addison
+*Joseph Addison*
 
 > *“The best way to learn is to do; the worst way to teach is to talk.”*  
-— Paul Halmos
+*Paul Halmos*
 
 ---
 

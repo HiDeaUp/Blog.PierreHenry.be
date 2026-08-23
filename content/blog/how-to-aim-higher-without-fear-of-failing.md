@@ -16,9 +16,9 @@ Have you ever caught yourself thinking, “If only I could just manage this litt
 
 When you set the bar low, you automatically put a ceiling on what you can achieve. If your goal is to make a thousand euros, you’ll probably stop pushing once you get there. Going beyond that will feel much harder, because in your mind, you’ve already “made it.” You might even start to believe you don’t deserve more. This is a trap that keeps so many people from growing.
 
-The only real limits are the ones we create in our own minds. We all have the potential to do much more than we think, but it starts with the right mindset. If you aim for the moon, you might end up in orbit. But if you aim for Mars or even Pluto, you might actually reach the moon—and that’s already much further than you would have gone otherwise. The higher you aim, the further you’ll go, even if you don’t hit your original target.
+The only real limits are the ones we create in our own minds. We all have the potential to do much more than we think, but it starts with the right mindset. If you aim for the moon, you might end up in orbit. But if you aim for Mars or even Pluto, you might actually reach the moon, and that’s already much further than you would have gone otherwise. The higher you aim, the further you’ll go, even if you don’t hit your original target.
 
-This isn’t just a nice metaphor. It’s a way of thinking that can change your life. The boundaries we see are often just mental habits, shaped by our environment and the people we spend time with. If you want to grow, you need to stretch those boundaries. One of the best ways to do this is to surround yourself—physically or virtually—with people who have already achieved what you want. Watch their talks, read their biographies, listen to their stories. If you can, travel to places where your field is thriving. Sometimes that means going to conferences in the US, or maybe in Asia, depending on your industry.
+This isn’t just a nice metaphor. It’s a way of thinking that can change your life. The boundaries we see are often just mental habits, influenced by our environment and the people we spend time with. If you want to grow, you need to stretch those boundaries. One of the best ways to do this is to surround yourself (physically or virtually) with people who have already achieved what you want. Watch their talks, read their biographies, listen to their stories. If you can, travel to places where your field is thriving. Sometimes that means going to conferences in the US, or maybe in Asia, depending on your industry.
 
 {{< figure src="https://images.unsplash.com/photo-1654525481543-c4621b0bcdb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxkcmVhbSUyMGJpZyUyMGdvYWwlMjBzZXR0aW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxMTE3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A man walking down a street next to a" title="How to Aim Higher Without Fear of Failing" caption="How to Aim Higher Without Fear of Failing - Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/photos/a-man-walking-down-a-street-next-to-a-building-5c0U4CY_lwA)" >}}
 
@@ -29,10 +29,10 @@ Right now, I’m writing this from a gallery near the Sydney Opera House. Austra
 Ask yourself: Who do I need to be around, virtually or in person, to reach my goals? What environment will push me to think bigger? The more ambitious your goals, the more you’ll grow. Don’t be afraid to have eyes bigger than your stomach when it comes to your dreams. That’s how you break through your old limits.
 
 > _The only limits in life are the ones you make in your mind._
-— Anonymous
+*Anonymous*
 
 > _Shoot for the moon. Even if you miss, you'll land among the stars._
-— Norman Vincent Peale
+*Norman Vincent Peale*
 
 {{< figure src="https://images.unsplash.com/photo-1525876183281-0d0d9308010d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxkcmVhbSUyMGJpZyUyMGdvYWwlMjBzZXR0aW5nJTIwcGVyc29uYWwlMjBncm93dGh8ZW58MHwwfHx8MTc1NjAxMTE3NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A simple message to dream with shimmery purple and pink glitter bokeh." title="How to Aim Higher Without Fear of Failing" caption="How to Aim Higher Without Fear of Failing - Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/dream-signage-surrounded-sequins-zi1GRsLym3s)" >}}
 
@@ -43,7 +43,7 @@ Ask yourself: Who do I need to be around, virtually or in person, to reach my go
 - Your only real limits are the ones you create for yourself.
 - Surround yourself with people who inspire you, even if it’s just online.
 - Focus on saving time and working smarter, not just harder.
-- Your environment shapes your ambition—choose it wisely.
+- Your environment affects your ambition: choose it wisely.
 
 ## Reflection
 - Are your current goals big enough to excite and scare you?

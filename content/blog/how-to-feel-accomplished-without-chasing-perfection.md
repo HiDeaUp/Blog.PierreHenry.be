@@ -29,10 +29,10 @@ There’s a great idea from Brian Tracy’s book, *Eat That Frog!* He says that 
 The real secret is to tackle the thing you’re dreading as soon as possible. Once it’s done, you can enjoy your day with the peace of mind that comes from knowing you’ve already achieved something important.
 
 > *Every day is a little life: every waking and rising a little birth, every fresh morning a little youth, every going to rest and sleep a little death.*
-> — Arthur Schopenhauer
+> *Arthur Schopenhauer*
 
 > *The key to satisfaction is progress, not perfection.*
-> — Anonymous
+> *Anonymous*
 
 ---
 

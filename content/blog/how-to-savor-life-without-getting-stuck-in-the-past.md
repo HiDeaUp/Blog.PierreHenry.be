@@ -24,13 +24,13 @@ Happiness is often found in the small pleasures of life. Feeling good and truly 
 
 Today belongs to you. You can start making better decisions and taking the right actions right away. That’s what makes all the difference. If you keep dwelling on what you didn’t do, you’ll only end up frustrated. Instead, today gives you the chance to build the life you want, step by step.
 
-As for the future, nobody knows what it will look like. The best way to shape your future is to act today. Taking charge of your life simply means taking action.
+As for the future, nobody knows what it will look like. The best way to build your future is to act today. Taking charge of your life simply means taking action.
 
 ## The Trap of Chasing Success Like an Object
 
 Happiness shouldn’t be put aside while you chase after success. It’s easy to let your happiness depend on reaching some goal, like getting the most prestigious degree, landing a dream job, or working for a famous company. These things might impress others, but do they really make you happy? Sometimes, you end up feeling trapped, living a life that doesn’t fully belong to you.
 
-If that works for you, great. But it’s even better to design a life that fits you perfectly. For many, that means becoming an entrepreneur, a freelancer, or working for yourself. When you create something of real value—whether it’s a game studio, a mobile app, a marketing project, or an online course—you feel proud of what you’ve built. Creating low-quality work won’t make you proud in ten years. But if you keep learning and give your best, it makes all the difference.
+If that works for you, great. But it’s even better to design a life that fits you perfectly. For many, that means becoming an entrepreneur, a freelancer, or working for yourself. When you create something of real value (whether it’s a game studio, a mobile app, a marketing project, or an online course) you feel proud of what you’ve built. Creating low-quality work won’t make you proud in ten years. But if you keep learning and give your best, it makes all the difference.
 
 ## Living in the Present and Enjoying the Small Things
 
@@ -42,7 +42,7 @@ For example, yesterday I was enjoying a good flat white with almond milk. I thou
 
 ## Invest Your Time, Not Just Your Money
 
-Instead of always trying to save a few cents, focus on using your time well. If you’re happy, you’ll bring more positive energy to your work, your projects, and your learning. I’ve often spent money on expensive coworking spaces or gone on solo writing weekends to finish a book or a course. That’s an investment in myself. It costs something, but it’s worth every cent because it helps me finish what matters to me.
+Instead of always trying to save a few cents, focus on using your time well. If you’re happy, you’ll bring more positive energy to your work, your projects, and your learning. I’ve often spent money on expensive coworking spaces or gone on solo writing weekends to finish a creative project. That’s an investment in myself. It costs something, but it’s worth every cent because it helps me finish what matters to me.
 
 The more choices you make in a day, the more tired you get. That’s why I keep things simple: I dress the same way most days, and as a vegetarian, my food choices are easy. Less decision fatigue means more energy for what matters.
 
@@ -52,30 +52,30 @@ In social psychology, there’s something called the “choice bias.” We tend 
 
 ## Experiences Matter More Than Possessions
 
-What really brings happiness? Having people you love around you, having freedom, doing meaningful work, and spending money on experiences rather than things. Helping others with your talents, keeping your expectations in check, exercising, eating well, and taking time to reflect—all these matter more than buying gadgets or cluttering your life with stuff.
+What really brings happiness? Having people you love around you, having freedom, doing meaningful work, and spending money on experiences rather than things. Helping others with your talents, keeping your expectations in check, exercising, eating well, and taking time to reflect: all these matter more than buying gadgets or cluttering your life with stuff.
 
 > _If the path is beautiful, we don’t ask where it leads._
-> — Anatole France
+> *Anatole France*
 
 > _If you can’t think, walk. If you’re thinking too much, walk. If you’re thinking badly, walk again._
-> — Jean Giono
+> *Jean Giono*
 
 {{< figure src="https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsbmVzcyUyMGhhcHBpbmVzcyUyMGxpdmluZyUyMGluJTIwdGhlJTIwcHJlc2VudHxlbnwwfDB8fHwxNzU1NjA4NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Buddhist Monk sotting meditation" title="How to Savor Life Without Getting Stuck in the Past" caption="How to Savor Life Without Getting Stuck in the Past - Photo by [TONG KBP](https://unsplash.com/@2023kbp) on [Unsplash](https://unsplash.com/photos/a-man-sitting-on-a-rock-by-a-river-0J8G8NhmkSU)" >}}
 
 > _Spend your money on life experiences, not material goods._
-> — Adapted from happiness research
+> *Adapted from happiness research*
 
 ## The Best Time to Act Is Now
 
-Life is short. Don’t wait for the “right” moment—it may never come. The best time to act is today. If the journey is enjoyable, you won’t even worry about the destination. Focus on the present, take action, and build a life you love.
+Life is short. Don’t wait for the “right” moment; it may never come. The best time to act is today. If the journey is enjoyable, you won’t even worry about the destination. Focus on the present, take action, and build a life you love.
 
 ---
 
 ## Key Takeaways
 
-- *Happiness is found in small, daily pleasures—don’t postpone it.*
+- *Happiness is found in small, daily pleasures: don’t postpone it.*
 - *Let go of regrets about the past; today is your chance to act.*
-- *Don’t chase success like an object—focus on becoming the person who can succeed.*
+- *Don’t chase success like an object: focus on becoming the person who can succeed.*
 - *Invest your time and energy in meaningful experiences, not just material things.*
 - *Limit your daily choices to reduce fatigue and make better decisions.*
 - *Surround yourself with people you love, do work that matters, and take care of your body and mind.*

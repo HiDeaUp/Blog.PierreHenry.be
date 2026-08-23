@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/c276b521d060"
 
 There is something truly special about being outside, surrounded by a beautiful environment. When the sky is blue, the weather is pleasant, and you find yourself outdoors, it feels fantastic. It’s not just about enjoying the sun or the fresh air. It’s about what these moments do for your mind and your spirit.
 
-When you’re in a warm climate, sitting in the shade, you can write, think about new things, or simply do what brings you joy during your breaks or weekends. Even in the evenings, spending time outside can be a wonderful experience. It’s important to make the most of these good environments, especially since we often spend time in places we don’t really like. You have the choice to seek out places that lift you up—places that are good for you.
+When you’re in a warm climate, sitting in the shade, you can write, think about new things, or simply do what brings you joy during your breaks or weekends. Even in the evenings, spending time outside can be a wonderful experience. It’s important to make the most of these good environments, especially since we often spend time in places we don’t really like. You have the choice to seek out places that lift you up: places that are good for you.
 
 Choosing the right environment is more important than we sometimes realize. Don’t settle for spaces that feel off or uncomfortable just because they’re familiar. There are always better places waiting to be discovered. Once you experience a truly good spot, you might wonder why you never thought of it before. Suddenly, you realize there are so many other wonderful places you could go, and each one brings something new to your life.
 
@@ -26,11 +26,11 @@ It’s true that real nature comes with its little inconveniences, like insects,
 
 > *Look deep into nature, and then you will understand everything better.*
 >
-> — Albert Einstein
+> *Albert Einstein*
 
 > *In every walk with nature, one receives far more than he seeks.*
 >
-> — John Muir
+> *John Muir*
 
 ---
 

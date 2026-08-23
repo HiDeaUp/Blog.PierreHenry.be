@@ -18,7 +18,7 @@ Stress and negativity sneak into our lives from all directions. Maybe it’s a t
 
 It’s easy to get caught up in these feelings. Maybe you had a disagreement with your partner, your parents, or your kids. You wanted to do things differently for once, but it turned into an argument. Suddenly, you’re labeled as stubborn or selfish, even though you usually go along with what others want. That sense of injustice can weigh heavily on your mind, adding to your mental clutter.
 
-But here’s what I’ve learned: when you take a step back and look at your life from a distance—imagine looking up at the stars or standing on top of a mountain—those problems shrink. They become tiny specks, almost invisible in the grand scheme of things. We often make a big deal out of issues that, in reality, are nothing more than dust.
+But here’s what I’ve learned: when you take a step back and look at your life from a distance (imagine looking up at the stars or standing on top of a mountain) those problems shrink. They become tiny specks, almost invisible in the grand scheme of things. We often make a big deal out of issues that, in reality, are nothing more than dust.
 
 The real challenge isn’t the problem itself. It’s remembering to enjoy the present moment, to make the most of every day. None of us knows how much time we have left. That’s why it’s so important to savor each instant, to find joy in the now.
 
@@ -26,35 +26,35 @@ When you start seeing life this way, everything changes. You begin to focus on w
 
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTU4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Calm Down Without Letting Small Problems Ruin Your Day" caption="How to Calm Down Without Letting Small Problems Ruin Your Day - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
-Life is short. We shouldn’t waste it worrying about problems that are, in the end, insignificant. Instead, look for what excites you—the “cherries on the cake” that make your days sweeter. Give yourself rewards, celebrate your small victories, and remember that every day is a chance to add a new brick to the castle of your life.
+Life is short. We shouldn’t waste it worrying about problems that are, in the end, insignificant. Instead, look for what excites you: the “cherries on the cake” that make your days sweeter. Give yourself rewards, celebrate your small victories, and remember that every day is a chance to add a new brick to the castle of your life.
 
 > *The biggest problem you face right now is not the problem itself, but forgetting to enjoy the present moment.*
 >
-> — Pierre
+> *Pierre*
 
 Time is like a train that never stops. If you don’t get on now, your share of the journey gets shorter every day. Unlike money, which you can always earn back, time only goes one way. We’re careful with our spending, but we rarely think about how we spend our time. We might waste hours chasing discounts or making detours for small savings, but those hours are gone forever.
 
-If you spend a little more money but save time, you’re actually gaining something much more valuable. The goal isn’t to collect things or save every penny—it’s to be happy, to enjoy what you do, and to love your life.
+If you spend a little more money but save time, you’re actually gaining something much more valuable. The goal isn’t to collect things or save every penny; it’s to be happy, to enjoy what you do, and to love your life.
 
 When you have a clear mind, free from distractions and negativity, you can think better, create more, and plan for what really matters. You’ll have space to reflect on your values, your dreams, and how you want to invest your time. This makes all the difference.
 
 > *Time is the only currency you can never earn back. Spend it wisely, and your life will feel richer every day.*
 >
-> — Pierre
+> *Pierre*
 
 So, next time you feel overwhelmed by stress or negativity, pause. Look at the world around you. Remember how small your problems are compared to the universe. Free up space in your mind for what truly matters. Build your life, brick by brick, into something strong and beautiful.
 
 {{< figure src="https://images.unsplash.com/photo-1713865471942-9551458f612f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwZW1vdGlvbmFsJTIwd2VsbGJlaW5nJTIwc2VsZi1jYXJlfGVufDB8MHx8fDE3NTU0MTU4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on a couch with a cup of coffee" title="How to Calm Down Without Letting Small Problems Ruin Your Day" caption="How to Calm Down Without Letting Small Problems Ruin Your Day - Photo by [Look Studio](https://unsplash.com/@lookphoto) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-a-cup-of-coffee-3GOfXlhkpxQ)" >}}
 
-> *Life is meant to be devoured, not nibbled at. Start today—because life won’t wait for you.*
+> *Life is meant to be devoured, not nibbled at. Start today, because life won’t wait for you.*
 >
-> — Pierre
+> *Pierre*
 
 ---
 
 ## Key Takeaways
 - Most daily problems are tiny in the grand scheme of things.
-- Focus on enjoying the present moment—don’t let stress steal your joy.
+- Focus on enjoying the present moment: don’t let stress steal your joy.
 - Time is more precious than money; spend it on what matters.
 - Build your life with small, meaningful actions every day.
 - Clear your mind of negativity to make space for creativity and growth.
@@ -62,7 +62,7 @@ So, next time you feel overwhelmed by stress or negativity, pause. Look at the w
 ## Action Steps
 - Next time you feel stressed, pause and look at the bigger picture.
 - Give yourself small rewards for completing tasks.
-- Reflect on how you spend your time—are you investing it in what truly matters?
+- Reflect on how you spend your time: are you investing it in what truly matters?
 - Make space in your mind by letting go of distractions and negativity.
 
 ## Reflection

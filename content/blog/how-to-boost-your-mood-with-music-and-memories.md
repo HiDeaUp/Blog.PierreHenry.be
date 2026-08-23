@@ -14,11 +14,11 @@ source_medium = "https://medium.com/@phenrysay/addeb5a06d10"
 
 Sometimes, we all feel a little down. There are days when our energy just isn’t there, and we wish we could feel full of life, ready to take on anything. The good news is, it’s possible to turn things around. Over the years, I’ve found one simple method that works every single time: connecting my mood to great memories, especially with the help of motivating music.
 
-Whenever I need a boost, I turn to music that lifts me up. I used to use brain.fr, which is a paid service, but honestly, you can find plenty of similar playlists on YouTube or Spotify for free. The key is to create your own playlist filled with songs that remind you of your happiest moments—times when you succeeded, vacations you loved, or just days when everything felt right.
+Whenever I need a boost, I turn to music that lifts me up. I used to use brain.fr, which is a paid service, but honestly, you can find plenty of similar playlists on YouTube or Spotify for free. The key is to create your own playlist filled with songs that remind you of your happiest moments: times when you succeeded, vacations you loved, or just days when everything felt right.
 
 But music isn’t the only tool. Visual memories are just as powerful. Print out photos from your favorite trips or moments that made you feel alive. Put them in a notebook, an album, or even on your wall. I have a wall in my room covered with these photos. When I feel low, I go into that room, look at those memories, and let them recharge me with positive energy.
 
-Here’s how it works for me: I see those photos, play my playlist through a Bluetooth speaker, and suddenly, I feel my mood shift. I remember those huge, joyful moments and get inspired to create new ones. Sometimes, this energy pushes me to start a new project, design a product, record an audio course, or launch a new service. It’s like a chain reaction—one good memory leads to another, and soon I’m back on track.
+Here’s how it works for me: I see those photos, play my playlist through a Bluetooth speaker, and suddenly, I feel my mood shift. I remember those huge, joyful moments and get inspired to create new ones. Sometimes, this energy pushes me to start a new project, design a product, record an audio essay, or launch a new service. It’s like a chain reaction: one good memory leads to another, and soon I’m back on track.
 
 {{< figure src="https://images.unsplash.com/photo-1551242033-3135dbf39ef2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxoYXBwaW5lc3MlMjBtZW1vcmllcyUyMG11c2ljfGVufDB8MHx8fDE3NTY1MTg5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and white vinyl player" title="How to Boost Your Mood With Music and Memories" caption="How to Boost Your Mood With Music and Memories - Photo by [Samantha Gades](https://unsplash.com/@srosinger3997) on [Unsplash](https://unsplash.com/photos/black-and-white-vinyl-player-rHTLI5qzKCU)" >}}
 
@@ -30,11 +30,11 @@ Going to the gym can help too. It’s another way to fill up on good energy for 
 
 > _Happiness is not something ready made. It comes from your own actions._
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > _The best way to cheer yourself up is to try to cheer somebody else up._
 >
-> — Mark Twain
+> *Mark Twain*
 
 If you want to go even further, I’ve written many articles on this topic and more. You can find them on my site, but for now, I hope these tips help you manufacture your own positive energy and create more happy memories.
 
@@ -47,7 +47,7 @@ If you want to go even further, I’ve written many articles on this topic and m
 - *Print and display photos from your happiest moments to recharge your energy.*
 - *Combine music and movement for an instant lift.*
 - *Watch inspiring talks or read biographies to put your problems in perspective.*
-- *Remember, everyone has ups and downs—find your own way to get motivated again.*
+- *Remember, everyone has ups and downs: find your own way to get motivated again.*
 
 ## Reflection
 - *What songs instantly bring back your happiest memories?*

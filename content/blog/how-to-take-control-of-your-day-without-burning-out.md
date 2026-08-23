@@ -29,10 +29,10 @@ Take more time for yourself. Eat better. Sleep better. If you want to go even fu
 Remember, productivity isn’t about squeezing every drop out of your day at the expense of your happiness. It’s about living better and enjoying your days more. When you focus on what matters, you’ll find more enthusiasm and satisfaction in your routine.
 
 > _“The key is not to prioritize what’s on your schedule, but to schedule your priorities.”_  
-— Stephen R. Covey
+: Stephen R. Covey
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-— Robert Collier
+*Robert Collier*
 
 ---
 
@@ -40,9 +40,9 @@ Remember, productivity isn’t about squeezing every drop out of your day at the
 
 ## Key Takeaways
 
-- *Focus on three important tasks each day—no more, no less.*
+- *Focus on three important tasks each day: no more, no less.*
 - *Accept that you can’t do everything, and that’s perfectly fine.*
-- *Small, consistent progress is more valuable than chasing endless to-do lists.*
+- *Small, consistent progress is more valuable than chasing long to-do lists.*
 - *Better organization leads to more energy, calm, and satisfaction.*
 
 ## Reflection

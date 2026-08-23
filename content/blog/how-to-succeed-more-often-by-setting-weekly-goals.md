@@ -30,13 +30,13 @@ Think of it like building a house brick by brick. Each week, you lay down anothe
 
 {{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxnb2FsJTIwc2V0dGluZyUyMG1vdGl2YXRpb24lMjB3ZWVrbHklMjBnb2Fsc3xlbnwwfDB8fHwxNzU2NjM5OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Succeed More Often by Setting Weekly Goals" caption="How to Succeed More Often by Setting Weekly Goals - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
-A goal isn’t just something you want to do—it needs a clear result. For example, if your goal is to launch an online course, ask yourself: What do I want to achieve? Maybe it’s earning a certain amount of money, or growing your email list by a set number of people. The key is to define what success looks like, so you know when you’ve reached it.
+A goal isn’t just something you want to do; it needs a clear result. For example, if your goal is to launch an online course, ask yourself: What do I want to achieve? Maybe it’s earning a certain amount of money, or growing your email list by a set number of people. The key is to define what success looks like, so you know when you’ve reached it.
 
 It’s not enough to say, “I want to create a course.” You need to plan how you’ll promote it, who you’ll reach out to, and what actions you’ll take each day. Maybe you’ll send emails to your list, share your story, or run ads online. Every step should move you closer to your result.
 
 > *A goal without a result is just a wish.*
 >
-> — Antoine de Saint-Exupéry
+> *Antoine de Saint-Exupéry*
 
 ## Break Down Your Goals
 
@@ -50,9 +50,9 @@ The real secret is to do a little bit every day. If you write one page a day, yo
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
-## Take Action—Every Day Counts
+## Take Action: Every Day Counts
 
 {{< figure src="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxnb2FsJTIwc2V0dGluZyUyMG1vdGl2YXRpb24lMjB3ZWVrbHklMjBnb2Fsc3xlbnwwfDB8fHwxNzU2NjM5OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and white card" title="How to Succeed More Often by Setting Weekly Goals" caption="How to Succeed More Often by Setting Weekly Goals - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-white-card-OXmym9cuaEY)" >}}
 
@@ -66,7 +66,7 @@ We all have different goals, but the most important thing is to act. Get up in t
 - *Break your goals into daily actions you can actually finish.*
 - *Define what success looks like for each goal.*
 - *Check your progress at the end of each week and adjust as needed.*
-- *Consistency beats intensity—do a little every day.*
+- *Consistency beats intensity: do a little every day.*
 
 ---
 

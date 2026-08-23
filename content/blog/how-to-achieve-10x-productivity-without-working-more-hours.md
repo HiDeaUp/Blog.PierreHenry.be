@@ -16,11 +16,11 @@ source_medium = "https://medium.com/@phenrysay/39a3ea44bc0c"
 
 Productivity is a word we hear everywhere, but what if I told you that most people are only scratching the surface? Today, I want to share a different approach: extreme productivity. Not just doing three times more, but ten times more. This isn’t about working harder, but about changing your daily habits and routines so deeply that your results become unrecognizable.
 
-Let’s start with the idea of habit stacking. If you’ve read *Atomic Habits*, you know this concept: building new habits by attaching them to existing ones. The author suggests listing your current habits—like having afternoon tea, going to bed, turning off the lights, sitting down for dinner, or brushing your teeth. These are already part of your daily routine. The trick is to use these anchor points to add new, positive habits.
+Let’s start with the idea of habit stacking. If you’ve read *Atomic Habits*, you know this concept: building new habits by attaching them to existing ones. The author suggests listing your current habits, like having afternoon tea, going to bed, turning off the lights, sitting down for dinner, or brushing your teeth. These are already part of your daily routine. The trick is to use these anchor points to add new, positive habits.
 
-For example, if you always have tea at 4 p.m., you could use that moment to read a few pages of a book or plan your next day. Brushing your teeth? Maybe that’s when you reflect on one thing you learned today. These small changes, stacked onto what you already do, can transform your day without overwhelming you.
+For example, if you always have tea at 4 p.m. you could use that moment to read a few pages of a book or plan your next day. Brushing your teeth? Maybe that’s when you reflect on one thing you learned today. These small changes, stacked onto what you already do, can transform your day without overwhelming you.
 
-Automation can help too. Tools like IFTTT, Zapier, or Make can automate reminders or tasks, freeing up your mind for more important things. Even simple environmental cues—like the sunrise, a text message, or the sound of birds—can become triggers for new habits.
+Automation can help too. Tools like IFTTT, Zapier, or Make can automate reminders or tasks, freeing up your mind for more important things. Even simple environmental cues (like the sunrise, a text message, or the sound of birds) can become triggers for new habits.
 
 But here’s the real shift: if you keep doing what you’ve always done, you’ll keep getting what you’ve always gotten. Expecting change without changing your actions is, frankly, madness. You need to iterate, to give yourself feedback, and to look for ways to improve every single day.
 
@@ -28,7 +28,7 @@ One powerful method is the daily rewind. Each evening, look back on your day as 
 
 {{< figure src="https://images.unsplash.com/photo-1571302171876-484bffd73852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBzZWxmLWltcHJvdmVtZW50JTIwZWZmaWNpZW5jeXxlbnwwfDB8fHwxNzU3NDA2MzczfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="audiobook, Jim Rohn" title="How to Achieve 10x Productivity Without Working More Hours" caption="How to Achieve 10x Productivity Without Working More Hours - Photo by [Lena Kudryavtseva](https://unsplash.com/@lenakuld) on [Unsplash](https://unsplash.com/photos/turned-on-iphone-a8yiMjWXl9g)" >}}
 
-This isn’t just theory. I do it myself, and it’s a game changer. I even write and edit my books this way, reviewing chapters in spare moments and always looking for ways to improve. My writing today is nothing like it was ten years ago, and that’s the point: we grow by reflecting and adjusting.
+This isn’t just theory. I do it myself, and it’s a major improvement. I even write and edit my books this way, reviewing chapters in spare moments and always looking for ways to improve. My writing today is nothing like it was ten years ago, and that’s the point: we grow by reflecting and adjusting.
 
 A goal without a plan is just a wish. If you want your goals to become reality, you need a clear, concrete plan. Break your goal into small steps and decide exactly what you’ll do tomorrow morning, tomorrow afternoon, and so on. Every day is a new chance to do better, to raise your standards, and to move closer to happiness.
 
@@ -38,11 +38,11 @@ Habit stacking, daily rewinds, and honest self-assessment are simple tools, but 
 
 > *A goal without a plan is only a wish.*
 >
-> — Brian Tracy
+> *Brian Tracy*
 
 > *If you always do what you’ve always done, you’ll always get what you’ve always got.*
 >
-> — Henry Ford
+> *Henry Ford*
 
 ---
 
@@ -53,7 +53,7 @@ Habit stacking, daily rewinds, and honest self-assessment are simple tools, but 
 - *Stack new habits onto your existing routines for real change.*
 - *Reflect on your day every evening, rewinding from night to morning.*
 - *Score your day and plan concrete actions to improve tomorrow.*
-- *Don’t wait—start applying these methods today for thirty days and see the results.*
+- *Don’t wait: start applying these methods today for thirty days and see the results.*
 
 ## Action Steps
 

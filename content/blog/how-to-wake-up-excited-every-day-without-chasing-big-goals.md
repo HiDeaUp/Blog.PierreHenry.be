@@ -25,7 +25,7 @@ The wonders of life aren’t just grand events. They’re the passions that pull
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 ## Building a Life Around What Moves You
 
@@ -37,19 +37,19 @@ Artificial intelligence fascinates me. If one day AI replaces my job, so be it. 
 
 ## Curiosity: The Secret Ingredient
 
-I’m always juggling new projects. Data science, for example, keeps my mind sharp. I hold a master’s in it, and I’m constantly learning, experimenting, and growing. Curiosity is essential. It keeps you alert, open, and ready for whatever comes next.
+I’m always juggling new projects. Data science, for example, keeps my mind focused. I hold a master’s in it, and I’m constantly learning, experimenting, and growing. Curiosity is essential. It keeps you alert, open, and ready for whatever comes next.
 
 > *Stay hungry, stay foolish.*
 >
-> — Steve Jobs
+> *Steve Jobs*
 
 ## The Power of Focus
 
-Let’s be honest: it’s easy to get distracted. Conversations drift, projects lose their shape, and before you know it, you’re off track. I’ve noticed this in myself, too. It’s important to stay focused, whether you’re talking with someone or building something new. Think of it like a laser, zeroed in on a single point. That’s how you make real progress, by pouring your energy into one thing at a time.
+Let’s be honest: it’s easy to get distracted. Conversations drift, projects lose their influence, and before you know it, you’re off track. I’ve noticed this in myself, too. It’s important to stay focused, whether you’re talking with someone or building something new. Think of it like a laser, zeroed in on a single point. That’s how you make real progress, by pouring your energy into one thing at a time.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 ## Find Your Ray of Sunshine
 

@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/a3ea49c04ec1"
 
 When was the last time you truly appreciated what you ate? Not just eating to fill up, but really savoring every bite, letting the flavors linger, and feeling grateful for the moment. For me, cheese is my guilty pleasure. I’m a true cheese lover. It’s my little weakness, my playful guide to happiness. I often snack on cheese, and it brings me real joy.
 
-Maybe for you, it’s risotto, jam sandwiches, tuna with rice, or rustic bread with celery and fresh cheese. These are the kinds of foods that, especially when they’re wholesome, can turn a simple meal into a celebration. Of course, cheese isn’t always the healthiest choice, but sometimes I like to enjoy it with a good glass of red wine, a salad, and a fresh baguette. Even if it’s not the best for my health, having this treat once a month makes it feel special. After all, we become what we eat, and I believe that eating good food—or even not-so-healthy food, as long as it brings you joy—lets you savor the present moment.
+Maybe for you, it’s risotto, jam sandwiches, tuna with rice, or rustic bread with celery and fresh cheese. These are the kinds of foods that, especially when they’re wholesome, can turn a simple meal into a celebration. Of course, cheese isn’t always the healthiest choice, but sometimes I like to enjoy it with a good glass of red wine, a salad, and a fresh baguette. Even if it’s not the best for my health, having this treat once a month makes it feel special. After all, we become what we eat, and I believe that eating good food (or even not-so-healthy food, as long as it brings you joy) lets you savor the present moment.
 
-What really matters is being present. When I eat, I try to put away my phone and computer. I focus only on the food and, if I’m lucky, the company—whether it’s my partner, my family, my kids, or a close friend. Sharing a meal without distractions lets you truly enjoy both the food and the people around you.
+What really matters is being present. When I eat, I try to put away my phone and computer. I focus only on the food and, if I’m lucky, the company: whether it’s my partner, my family, my kids, or a close friend. Sharing a meal without distractions lets you truly enjoy both the food and the people around you.
 
 {{< figure src="https://images.unsplash.com/photo-1599893326170-5d6bb9f3d330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxtaW5kZnVsJTIwZWF0aW5nJTIwaGFwcGluZXNzJTIwZm9vZCUyMHRoZXJhcHl8ZW58MHwwfHx8MTc1NjYzMzA5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Yellow smiley emoji on brown wooden table" title="How Savoring Food Can Boost Your Happiness Without Dieting" caption="How Savoring Food Can Boost Your Happiness Without Dieting - Photo by [Divani](https://unsplash.com/@heydivani) on [Unsplash](https://unsplash.com/photos/yellow-smiley-emoji-on-brown-wooden-table-6k3imOWQmS0)" >}}
 
@@ -30,11 +30,11 @@ So, I invite you to try it. Next time you eat something you love, slow down. Pay
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *Savor the little things, for one day you may look back and realize they were the big things.*
 >
-> — Robert Brault
+> *Robert Brault*
 
 {{< figure src="https://images.unsplash.com/photo-1672764259525-5bc33fa84a69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxtaW5kZnVsJTIwZWF0aW5nJTIwaGFwcGluZXNzJTIwZm9vZCUyMHRoZXJhcHl8ZW58MHwwfHx8MTc1NjYzMzA5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman a glass of water on a couch" title="How Savoring Food Can Boost Your Happiness Without Dieting" caption="How Savoring Food Can Boost Your Happiness Without Dieting - Photo by [Giorgio Trovato](https://unsplash.com/@giorgiotrovato) on [Unsplash](https://unsplash.com/photos/a-woman-drinking-a-glass-of-water-on-a-couch-wvHrmfc1SNw)" >}}
 

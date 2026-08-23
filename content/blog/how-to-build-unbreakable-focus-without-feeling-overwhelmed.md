@@ -24,7 +24,7 @@ So, tackle one thing at a time. Don’t look at the mountain of tasks waiting fo
 
 ## Build a Routine That Sticks
 
-Another powerful tool is routine. If you do something every day, no matter your mood or motivation, it becomes a habit. Motivation fades, but habits last. A good habit is like a positive addiction. You do it automatically, without thinking, just like brushing your teeth. You don’t ask yourself if you feel like brushing your teeth—you just do it. That’s the same mindset you need for your important tasks, whether it’s work, studying, or even going to the gym.
+Another powerful tool is routine. If you do something every day, no matter your mood or motivation, it becomes a habit. Motivation fades, but habits last. A good habit is like a positive addiction. You do it automatically, without thinking, just like brushing your teeth. You don’t ask yourself if you feel like brushing your teeth; you just do it. That’s the same mindset you need for your important tasks, whether it’s work, studying, or even going to the gym.
 
 {{< figure src="https://images.unsplash.com/photo-1504507926084-34cf0b939964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMHRyYWRpdGlvbmFsJTIwbWV0aG9kfGVufDB8MHx8fDE3NTYxMTEzMzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="While out and about at a music festival, snapped this while enjoy some good tunes!" title="How to Build Unbreakable Focus Without Feeling Overwhelmed" caption="How to Build Unbreakable Focus Without Feeling Overwhelmed - Photo by [Stefan Cosma](https://unsplash.com/@stefanbc) on [Unsplash](https://unsplash.com/photos/turned-on-focus-signage-0gO3-b-5m80)" >}}
 
@@ -34,7 +34,7 @@ Even if you only have 10 or 15 minutes, use that time well. Take a short break f
 
 It’s also important to feel comfortable and set up a space that helps you focus. If you like working in cafés, go for it. For example, in South Korea, where I am now, cafés are everywhere and they’re amazing. Apartments are small, so people use cafés as living rooms. You can find community rooms to play board games or just relax. There’s Wi-Fi everywhere, plenty of power outlets, and you can stay for hours with your laptop. No one bothers you, and you can really settle in.
 
-Ordering is easy, too. Many cafés have self-service machines where you can order food and drinks without waiting in line. You can even choose your language. It’s a fantastic setup for getting things done. I’ve become a real fan of these places—they’re comfortable, welcoming, and perfect for focus.
+Ordering is easy, too. Many cafés have self-service machines where you can order food and drinks without waiting in line. You can even choose your language. It’s a fantastic setup for getting things done. I’ve become a real fan of these places; they’re comfortable, welcoming, and perfect for focus.
 
 ## Final Thoughts
 
@@ -42,11 +42,11 @@ Stay focused. I’m cheering for you. Choose a space that works for you, keep di
 
 > _Success is the sum of small efforts, repeated day in and day out._
 >
-> — Robert Collier
+> *Robert Collier*
 
 > _You do not rise to the level of your goals. You fall to the level of your systems._
 >
-> — James Clear
+> *James Clear*
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmb2N1cyUyMHByb2R1Y3Rpdml0eSUyMHRyYWRpdGlvbmFsJTIwbWV0aG9kfGVufDB8MHx8fDE3NTYxMTEzMzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Build Unbreakable Focus Without Feeling Overwhelmed" caption="How to Build Unbreakable Focus Without Feeling Overwhelmed - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
@@ -55,7 +55,7 @@ Stay focused. I’m cheering for you. Choose a space that works for you, keep di
 ## Key Takeaways
 
 - *Visualize the end result, not the struggle.*
-- *Do one thing at a time—don’t multitask.*
+- *Do one thing at a time: don’t multitask.*
 - *Build a daily routine so your actions become habits.*
 - *Create an environment that helps you focus.*
 - *Keep breaks simple and avoid distractions.*

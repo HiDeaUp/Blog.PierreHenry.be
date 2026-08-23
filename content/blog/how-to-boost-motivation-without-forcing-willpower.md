@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/42d634e7b845"
 
 When we talk about motivation, most people think of that inner fire that pushes us forward. But let’s be honest: sometimes, especially in the early morning, that fire just isn’t there. You know you have a lot to do, but the bed feels too comfortable, and the motivation to get up is nowhere to be found.
 
-I remember when I was a kid, the night before my birthday was almost impossible. I was so excited about opening my presents the next morning that I couldn’t sleep. It felt like the best day of the year. The same thing happened during holidays like Christmas, or Saint Nicholas in countries like the Netherlands and Belgium. The excitement was so strong that going to bed felt impossible—I just wanted to wake up and see what was waiting for me by the fireplace.
+I remember when I was a kid, the night before my birthday was almost impossible. I was so excited about opening my presents the next morning that I couldn’t sleep. It felt like the best day of the year. The same thing happened during holidays like Christmas, or Saint Nicholas in countries like the Netherlands and Belgium. The excitement was so strong that going to bed felt impossible; I just wanted to wake up and see what was waiting for me by the fireplace.
 
 As adults, we lose that sense of anticipation. Mondays feel heavy, and Fridays are the only days that seem to have any spark. But what if you could turn a Monday morning into something that feels as exciting as a Friday afternoon? Imagine waking up early, not because you have to, but because you’re genuinely looking forward to starting a new project. Picture yourself at the end of the day, satisfied with what you’ve accomplished, already feeling proud of your progress.
 
@@ -29,10 +29,10 @@ The key is to give yourself something to look forward to. When you know there’
 So, don’t hesitate to reward yourself. It’s not about spoiling yourself, but about creating that little spark that makes everything feel lighter and more enjoyable. Give yourself that boost, and you’ll see how much more motivated you can be.
 
 *“Motivation is what gets you started. Habit is what keeps you going.”*  
-— Jim Ryun
+*Jim Ryun*
 
 *“Success is the sum of small efforts, repeated day in and day out.”*  
-— Robert Collier
+*Robert Collier*
 
 ---
 
@@ -43,7 +43,7 @@ So, don’t hesitate to reward yourself. It’s not about spoiling yourself, but
 - *Remember the excitement of childhood mornings and try to recreate it in your daily life.*
 - *Set up small rewards for yourself to make even the toughest days feel lighter.*
 - *Visualize the satisfaction you’ll feel after completing your tasks.*
-- *Motivation doesn’t always have to come from within—sometimes, a little external push is all you need.*
+- *Motivation doesn’t always have to come from within: sometimes, a little external push is all you need.*
 
 ---
 

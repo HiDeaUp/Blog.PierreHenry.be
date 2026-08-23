@@ -18,13 +18,13 @@ Have you ever noticed how, in almost every negotiation or relationship, people w
 
 Imagine you want to buy a house. As the buyer, you want the best house at the lowest price. The seller, on the other hand, wants to sell at the highest price possible. Both of you are looking at the same house, but from completely different angles. This tug-of-war happens all the time, not just with houses.
 
-Take online courses, for example. If I sell a course, I want to set a price that reflects the value and knowledge I offer. As a student, you want the best course for the lowest price. But here's something interesting: if you pay only five euros for a course, you might not feel motivated to finish it. If you pay three hundred or five hundred euros, you’re much more likely to see it through. Price can actually push us to commit.
+Take online courses, for example. A creator wants a price that reflects the value of the material, while a student wants useful teaching at a fair price. Price can also influence commitment. Someone who pays five euros may feel less motivated to finish than someone who makes a larger investment. The important point is to decide based on value and whether you will apply what you learn.
 
 The same thing happens at work. Employers want the best employee, someone who can do the most in the shortest time, ideally without a huge salary. Employees want a great company, friendly colleagues, interesting challenges, and, of course, a high salary. Once again, interests clash.
 
 {{< figure src="https://images.unsplash.com/photo-1638262052638-c413289d7cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxvcHBvc2luZyUyMGludGVyZXN0cyUyMGNvbmZsaWN0JTIwcmVzb2x1dGlvbiUyMG5lZ290aWF0aW9ufGVufDB8MHx8fDE3NTY2Mzk0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Two people shaking hands over a wooden table" title="How to Get What You Want Without Starting a Fight" caption="How to Get What You Want Without Starting a Fight - Photo by [Rock Staar](https://unsplash.com/@rockstaar_) on [Unsplash](https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-mEzNSWMVUuY)" >}}
 
-So, what can you do? The answer is simple: find a compromise. There’s your interest, the other person’s interest, and then there’s a third option—a middle ground. To get there, you need to put yourself in the other person’s shoes. Try to see things from their perspective. What do they really want? What matters most to them?
+So, what can you do? The answer is simple: find a compromise. There’s your interest, the other person’s interest, and then there’s a third option: a middle ground. To get there, you need to put yourself in the other person’s shoes. Try to see things from their perspective. What do they really want? What matters most to them?
 
 Let’s look at Apple as another example. Apple releases a new iPhone every year. They want you to buy the latest model, not keep your old phone for ten or twenty years. Of course, they can’t force you to buy a new phone every year. That wouldn’t be legal or ethical. Instead, they add new features that only work on the latest models. Even if you update your old iPhone, you won’t get all the new features. This creates a subtle push to upgrade, even if you hadn’t planned to.
 
@@ -34,7 +34,7 @@ So, when you face opposing interests, remember: it’s normal. Everyone wants so
 
 > *At the end of the day, we make our decisions emotionally, not rationally.*
 >
-> — Pierre
+> *Pierre*
 
 ---
 

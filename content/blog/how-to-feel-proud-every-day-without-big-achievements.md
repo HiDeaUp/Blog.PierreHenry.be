@@ -20,7 +20,7 @@ It’s easy to notice when you’re stuck. Those days when you look back and thi
 
 Instead of beating yourself up for not doing enough, try to see each day as a new chance. Imagine every morning as a fresh start, almost like a tiny new life. There’s a philosophy that says, “Each day is a life in miniature.” When you treat your day this way, it becomes easier to move forward. If today didn’t go as planned, ask yourself, “What can I do tomorrow?” Make a small plan for the next day, set a new challenge, or even just decide to go to bed a bit earlier so you can wake up with more energy.
 
-This approach isn’t about grand gestures. It’s about small, meaningful actions. Maybe you didn’t achieve everything you wanted today, and that’s okay. What matters is what you choose to do next. Ask yourself, “What could I do tomorrow that would make me proud?” That’s the real key to satisfaction—doing something, however small, that turns into pride.
+This approach isn’t about grand gestures. It’s about small, meaningful actions. Maybe you didn’t achieve everything you wanted today, and that’s okay. What matters is what you choose to do next. Ask yourself, “What could I do tomorrow that would make me proud?” That’s the real key to satisfaction: doing something, however small, that turns into pride.
 
 {{< figure src="https://images.unsplash.com/photo-1627024038686-b7451e666de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLXNhdGlzZmFjdGlvbiUyMHNtYWxsJTIwd2lucyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMzM5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Brown wooden blocks on white surface" title="How to Feel Proud Every Day Without Big Achievements" caption="How to Feel Proud Every Day Without Big Achievements - Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-hhBfE5q1gow)" >}}
 
@@ -30,11 +30,11 @@ So, if you want to feel more satisfied, focus on these small wins. Each day, do 
 
 > _Each day is a little life: every waking and rising a little birth, every fresh morning a little youth, every going to rest and sleep a little death._
 >
-> — Arthur Schopenhauer
+> *Arthur Schopenhauer*
 
 > _The key to success is to focus our conscious mind on things we desire, not things we fear._
 >
-> — Brian Tracy
+> *Brian Tracy*
 
 ---
 
@@ -43,7 +43,7 @@ So, if you want to feel more satisfied, focus on these small wins. Each day, do 
 {{< figure src="https://images.unsplash.com/photo-1624887009213-040347b804c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxzZWxmLXNhdGlzZmFjdGlvbiUyMHNtYWxsJTIwd2lucyUyMHNlbGYtaW1wcm92ZW1lbnR8ZW58MHwwfHx8MTc1NjUxMzM5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happy Heart Concept" title="How to Feel Proud Every Day Without Big Achievements" caption="How to Feel Proud Every Day Without Big Achievements - Photo by [Count Chris](https://unsplash.com/@countchris) on [Unsplash](https://unsplash.com/photos/red-and-yellow-smiley-balloon-hQNFPZK8F80)" >}}
 
 - *Satisfaction comes from small, daily achievements.*
-- *Treat each day as a new beginning—a “mini life.”*
+- *Treat each day as a new beginning: a “mini life.”*
 - *If you feel stuck, make a simple plan for tomorrow.*
 - *Start your day by doing the hardest task first (“eat the frog”).*
 - *Pride and satisfaction grow from consistent, small actions.*

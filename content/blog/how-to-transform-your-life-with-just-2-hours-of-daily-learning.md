@@ -18,7 +18,7 @@ Finding time to learn or work deeply can feel impossible, especially when you li
 
 But I discovered a method that changed everything: dedicating two hours each day to focused learning or work, away from your usual environment. If your home is full of distractions, find a café, a library, or any place where you can be alone with your thoughts. Right now, I’m writing this from a cozy café in Seoul, sipping a sweet drink that I can’t quite describe, but it’s delicious. The important thing is that I’m in a space where I can focus.
 
-To make this work, I use a simple timer app. I set a countdown for two hours, or however long I need, and commit to finishing my task before the timer runs out. Sometimes, I even reward myself when I’m done. This small ritual helps me stay on track and avoid the endless cycle of distractions. The app I use, Activity Timer, hasn’t been updated in years, but it still does the job perfectly. You can use any timer that works for you.
+To make this work, I use a simple timer app. I set a countdown for two hours, or however long I need, and commit to finishing my task before the timer runs out. Sometimes, I even reward myself when I’m done. This small ritual helps me stay on track and avoid the repeating cycle of distractions. The app I use, Activity Timer, hasn’t been updated in years, but it still does the job perfectly. You can use any timer that works for you.
 
 {{< figure src="https://images.unsplash.com/photo-1633284377026-12dfd762d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxsZWFybmluZyUyMGhhYml0cyUyMHByb2R1Y3Rpdml0eSUyMHRpbWUlMjBtYW5hZ2VtZW50fGVufDB8MHx8fDE3NTYwMDcyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A person typing on a laptop next to a clock" title="How to Transform Your Life With Just 2 Hours of Daily Learning" caption="How to Transform Your Life With Just 2 Hours of Daily Learning - Photo by [Mauricio Alarcón](https://unsplash.com/@maury3a) on [Unsplash](https://unsplash.com/photos/a-person-typing-on-a-laptop-next-to-a-clock-B0UWG_PGuyc)" >}}
 
@@ -27,12 +27,12 @@ Noise can still be a problem, especially in public places. That’s why I recomm
 This method isn’t just about productivity. When you set aside time for focused work, you start to feel more fulfilled and happier. You get more done, but you also feel freer and more satisfied with your day. It’s a small change that can have a big impact on your life.
 
 > _“The way to get started is to quit talking and begin doing.”_  
-— Walt Disney
+*Walt Disney*
 
 > _“Success is the sum of small efforts, repeated day in and day out.”_  
-— Robert Collier
+*Robert Collier*
 
-If you want to go even further, I’ve developed a deeper approach that helps you not only boost your productivity but also your happiness. With a clear plan, you’ll know exactly what you want to achieve tomorrow, next week, and beyond. The feedback I’ve received has been overwhelmingly positive, far more than I expected. It’s proof that when you give your all and keep updating your methods, you can help others do the same.
+With a clear plan, you can decide what you want to achieve tomorrow, next week, and beyond. The value comes from applying what you learn, reviewing the result, and adjusting your approach.
 
 ---
 

@@ -27,7 +27,7 @@ Instead, you need a system. Something solid. Discipline is what keeps you moving
 Routine is what carries you, not motivation. When your actions become automatic, you don’t have to think about them. You just do them. That’s how you turn your plans into reality.
 
 > *Success is the sum of small efforts, repeated day in and day out.*
-> — Robert Collier
+> *Robert Collier*
 
 ---
 

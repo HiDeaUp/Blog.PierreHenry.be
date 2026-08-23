@@ -20,7 +20,7 @@ But let’s talk about something more important: the content you feed your mind.
 
 For example, I brought a few books with me on this trip. One of them is *The High 5 Habit* by Mel Robbins. I was surprised by how much I liked it. I never really connected with her YouTube videos, but the book offers a simple exercise: every time you see yourself in the mirror, give yourself a high five. Even if your day is going badly, this small gesture can flip your mindset into a positive one. It’s about being kind to yourself, even when things aren’t perfect.
 
-When you do this exercise, your subconscious mind shifts. The negative, critical voice in your head quiets down, and your brain starts to highlight the positive. It’s a habit that helps you build a better version of yourself, even if it feels a bit strange at first—especially if you’re not used to high fives, which are more common in the US than in France or Australia.
+When you do this exercise, your subconscious mind shifts. The negative, critical voice in your head quiets down, and your brain starts to highlight the positive. It’s a habit that helps you build a better version of yourself, even if it feels a bit strange at first, especially if you’re not used to high fives, which are more common in the US than in France or Australia.
 
 {{< figure src="https://images.unsplash.com/photo-1695370992947-ece92da51cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzdWNjZXNzJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTY1MDc4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a sign on it" title="How to Feed Your Mind for Success Without Overwhelm" caption="How to Feed Your Mind for Success Without Overwhelm - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-sign-on-it-bWBWXiCoLvs)" >}}
 
@@ -31,10 +31,10 @@ If you want to succeed, your daily habits need to match your long-term goals. Th
 Everything you do each day should support your long-term goals. If your habits go against what you want, you’ll always feel a conflict inside. You can’t expect to go far if your daily actions don’t match your dreams.
 
 > *You become what you eat, but also what you see and think.*
-> — Brian Tracy
+> *Brian Tracy*
 
 > *What you feed your mind is just as important as what you feed your body.*
-> — Unknown
+> *Unknown*
 
 So, feed your mind with content that lifts you up. Make sure your daily actions are in line with your long-term goals. That’s the simple rule for real success.
 
@@ -43,7 +43,7 @@ So, feed your mind with content that lifts you up. Make sure your daily actions 
 ---
 
 ## Key Takeaways
-- What you consume—mentally and physically—shapes your results.
+- What you consume (mentally and physically) affects your results.
 - Small habits, like giving yourself a high five in the mirror, can shift your mindset.
 - Make sure your daily actions match your long-term goals.
 - Avoid content that drags you down or distracts you from what matters.

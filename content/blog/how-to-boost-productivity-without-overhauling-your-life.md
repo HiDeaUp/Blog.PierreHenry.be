@@ -18,15 +18,15 @@ When we talk about our environment, it’s not just about where we live, but abo
 
 ## Minimalism: More Than Just a Trend
 
-I keep my apartment pretty minimal. There’s not much clutter, and I like it that way. It clears my mind and helps me focus on what’s truly useful. For example, in my kitchen, I have just one good pan and a scoop. That’s all I need. I use them for almost everything—cooking pasta, making sauces, you name it. I also have a water filter and a few other basics, but nothing more. My place has a bit of a Japanese vibe: cushions, a low table, and a futon for sleeping. This setup lets me focus on what’s important, not on managing a bunch of stuff.
+I keep my apartment pretty minimal. There’s not much clutter, and I like it that way. It clears my mind and helps me focus on what’s truly useful. For example, in my kitchen, I have just one good pan and a scoop. That’s all I need. I use them for almost everything: cooking pasta, making sauces, you name it. I also have a water filter and a few other basics, but nothing more. My place has a bit of a Japanese vibe: cushions, a low table, and a futon for sleeping. This setup lets me focus on what’s important, not on managing a bunch of stuff.
 
 ## Simplifying Your Wardrobe
 
-The same goes for my clothes. Most of what I own is blue or white. When I wake up, I don’t waste time deciding what to wear. I know everything matches, and I feel good in it. I even have three shirts of the same model. Some people might think it’s odd, but I know I’m clean and comfortable, and that’s what matters. I buy quality clothes I love, and I stick to what works. One of my favorite shirts is from Kathmandu—it’s light, keeps me from sweating too much, and is perfect for both cool mornings and warm afternoons.
+The same goes for my clothes. Most of what I own is blue or white. When I wake up, I don’t waste time deciding what to wear. I know everything matches, and I feel good in it. I even have three shirts of the same model. Some people might think it’s odd, but I know I’m clean and comfortable, and that’s what matters. I buy quality clothes I love, and I stick to what works. One of my favorite shirts is from Kathmandu; it’s light, keeps me from sweating too much, and is perfect for both cool mornings and warm afternoons.
 
 ## A Workspace That Works
 
-For work, less is more. The best setup is a simple desk by a window. If you have a garden, even better. I once saw in a magazine a kind of garden cabin designed for working, surrounded by nature. It looked amazing—just you, your work, and the outdoors. That’s the kind of space that inspires real focus.
+For work, less is more. The best setup is a simple desk by a window. If you have a garden, even better. I once saw in a magazine a kind of garden cabin designed for working, surrounded by nature. It looked amazing: just you, your work, and the outdoors. That’s the kind of space that inspires real focus.
 
 {{< figure src="https://images.unsplash.com/photo-1748256622734-92241ae7b43f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjBlbnZpcm9ubWVudCUyMHdvcmtzcGFjZXxlbnwwfDB8fHwxNzU2NjQxOTkxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Open-plan office with multiple professionals working on computers, developing technical and design tasks in a collaborative environment." title="How to Boost Productivity Without Overhauling Your Life" caption="How to Boost Productivity Without Overhauling Your Life - Photo by [TECNIC Bioprocess Solutions](https://unsplash.com/@tecnic) on [Unsplash](https://unsplash.com/photos/office-workers-are-busy-working-on-computers-R4a4zrZ8KfQ)" >}}
 
@@ -40,13 +40,13 @@ For staying focused, I use the Forest app, which helps me work in 90-minute spri
 
 ## Routines and Rewards
 
-Having a routine is key. I wake up at 5:57 AM. It helps me start the day with purpose. Sometimes, to really focus, I’ll book a night or a weekend at a nice hotel. I promise myself not to use the gym or pool until I’ve finished my work. The reward at the end—a good meal, a coffee, or even just sparkling water—makes the effort feel worthwhile.
+Having a routine is key. I wake up at 5:57 AM. It helps me start the day with purpose. Sometimes, to really focus, I’ll book a night or a weekend at a nice hotel. I promise myself not to use the gym or pool until I’ve finished my work. The reward at the end (a good meal, a coffee, or even just sparkling water) makes the effort feel worthwhile.
 
-> _“Clutter is not just the stuff on your floor—it’s anything that stands between you and the life you want to be living.”_  
-— Peter Walsh
+> _“Clutter is not just the stuff on your floor; it’s anything that stands between you and the life you want to be living.”_
+*Peter Walsh*
 
 > _“The ability to simplify means to eliminate the unnecessary so that the necessary may speak.”_  
-— Hans Hofmann
+*Hans Hofmann*
 
 ## The Real Secret: Consistency
 
@@ -60,7 +60,7 @@ Your environment matters, but so does discipline. If you stick to your routines 
 
 - *A simple, uncluttered environment helps you focus and act.*
 - *Minimalism in your home and wardrobe saves time and mental energy.*
-- *Use tools and routines to boost productivity—work in focused sprints and reward yourself.*
+- *Use tools and routines to boost productivity: work in focused sprints and reward yourself.*
 - *Consistency is more important than intensity. Small steps every day win the race.*
 
 ## Action Steps

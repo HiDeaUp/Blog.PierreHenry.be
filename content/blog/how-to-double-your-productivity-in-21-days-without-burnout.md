@@ -28,20 +28,20 @@ This is not just about doing things faster. It is about doing them better, with 
 Set aside time for brainstorming. For example, every Saturday or Sunday, open your notebook and review the tasks you worked on during the week. Think about how you could do them better. If you are a freelancer working on front-end interfaces for clients, ask yourself: How can I speed up my workflow? How can I serve more clients with the same effort? Maybe you can improve your code generator, reduce errors, and free up time to invest in other projects or help your clients in new ways.
 
 > _Success is the sum of small efforts, repeated day in and day out._
-> — Robert Collier
+> *Robert Collier*
 
 {{< figure src="https://images.unsplash.com/photo-1701956532761-033da9b487ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwcm9kdWN0aXZpdHklMjAyMS1kYXklMjBjaGFsbGVuZ2UlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NjgyMTk3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A laptop sitting on top of a couch next to a cup of coffee" title="How to Double Your Productivity in 21 Days Without Burnout" caption="How to Double Your Productivity in 21 Days Without Burnout - Photo by [beyza yurtkuran](https://unsplash.com/@beyzaayurtkuran) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-couch-next-to-a-cup-of-coffee-RFCAormHN54)" >}}
 
 ## Compete Only With Yourself
 
-Never compare yourself to others. When you do, you are comparing your inside—what you know about yourself—with the outside of others, which is only what they show. The only fair comparison is with who you were yesterday.
+Never compare yourself to others. When you do, you are comparing your inside (what you know about yourself) with the outside of others, which is only what they show. The only fair comparison is with who you were yesterday.
 
 At the end of each day, give yourself a score out of 20. Maybe today was a 12 out of 20. That is okay. Ask yourself why. What could have made it better? Rewind your day in your mind, just like rewinding an old movie. What moments brought your score down? Maybe you were stressed, or a certain task made you unhappy.
 
 Write these thoughts down. The next morning, read your notes and set your intention for the day. Decide what you will do differently. Maybe you will delegate a task, avoid something that drains your energy, or schedule more time for relaxation. You might plan a bath, a spa visit, or simply more breaks. The goal is to raise your score, day by day, from 12 to 17 or 18 out of 20.
 
 > _Do not compare yourself to others. Compare yourself to the person you were yesterday._
-> — Jordan Peterson
+> *Jordan Peterson*
 
 ## Build Exceptional Days, Build an Exceptional Life
 
@@ -50,7 +50,7 @@ A perfect life is not about grand achievements or constant happiness. It is abou
 Focus your energy on what you can control and on making your daily routine better. Over time, these small changes will lead to more freedom, more happiness, and even more success in your business or personal life.
 
 > _The secret of your future is hidden in your daily routine._
-> — Mike Murdock
+> *Mike Murdock*
 
 {{< figure src="https://images.unsplash.com/photo-1701956532817-018bd4f4c34b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwcm9kdWN0aXZpdHklMjAyMS1kYXklMjBjaGFsbGVuZ2UlMjBlZmZpY2llbmN5fGVufDB8MHx8fDE3NjgyMTk3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A laptop sitting on top of a couch next to a cup of coffee" title="How to Double Your Productivity in 21 Days Without Burnout" caption="How to Double Your Productivity in 21 Days Without Burnout - Photo by [beyza yurtkuran](https://unsplash.com/@beyzaayurtkuran) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-couch-next-to-a-cup-of-coffee-VLxx2kFzx2k)" >}}
 

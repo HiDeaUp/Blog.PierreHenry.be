@@ -40,7 +40,7 @@ At the end of the day, everyone goes back to their own life. Holding onto anger 
 
 > *At the end of the day, everyone goes back to their own life. Holding onto anger or trying to prove you’re right rarely brings peace.*
 >
-> — Pierre
+> *Pierre*
 
 ## The Real Secret: Live for Yourself, Not Your Ego
 

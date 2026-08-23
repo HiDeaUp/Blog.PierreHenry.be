@@ -18,25 +18,25 @@ There’s something special about discovering a place that instantly makes you f
 
 I love going there early in the morning, between 5 and 8 am, when the city is still waking up. Sometimes, I even arrive at 4:30 am. There’s hardly anyone around except for a few workers cleaning up. I always feel safe and calm. The quiet is soothing, and it’s a perfect time to breathe and reset.
 
-Even in the evening, especially during the chilly Sydney winter, the place feels peaceful. These are my moments to gather myself, to feel better, to recover from the stress of the day. We all need these “rescue moments”—times when we can step back, take a breath, and feel a bit more like ourselves.
+Even in the evening, especially during the chilly Sydney winter, the place feels peaceful. These are my moments to gather myself, to feel better, to recover from the stress of the day. We all need these “rescue moments”: times when we can step back, take a breath, and feel a bit more like ourselves.
 
 Identifying your own spots and times for this is crucial. Maybe your day has been stressful or even chaotic. You need to step away, isolate yourself a little, and just breathe. When you find these places or times, you give yourself the chance to relax, lower your heart rate, and let your mind settle. This calm helps you think more clearly and see solutions to problems that seemed impossible before.
 
 {{< figure src="https://images.unsplash.com/photo-1687360440100-d4fbdc03bff9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWNhcmUlMjByZWNoYXJnaW5nJTIwbWVudGFsJTIwaGVhbHRofGVufDB8MHx8fDE3NTYxMTIxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Self of an woman" title="How Taking Quiet Breaks Can Boost Your Day Without Burnout" caption="How Taking Quiet Breaks Can Boost Your Day Without Burnout - Photo by [Hiki App](https://unsplash.com/@hikiapp) on [Unsplash](https://unsplash.com/photos/self-portrait-of-an-autistic-woman-YAVHheaHGi0)" >}}
 
-It’s easy to get stuck in a rut, especially when working on your own projects or business. Sometimes, we keep pushing forward without realizing we’re not working smart. Taking a step back gives you a clearer, bigger picture. Suddenly, you see what you should have done differently, or which strategy makes more sense. It’s like playing chess—you need to see the board, not just the next move.
+It’s easy to get stuck in a rut, especially when working on your own projects or business. Sometimes, we keep pushing forward without realizing we’re not working smart. Taking a step back gives you a clearer, bigger picture. Suddenly, you see what you should have done differently, or which strategy makes more sense. It’s like playing chess; you need to see the board, not just the next move.
 
 These moments of calm are not a waste of time. In fact, they make you more effective. Whether it’s a sauna, a massage, or simply a quiet walk, these breaks help you recharge and lower your stress. When you’re calm, you make better decisions and notice things you’d miss otherwise. Your mind works in the background, and you get those “aha” moments that move you forward.
 
-Making this a habit—three or four times a week—can change your life. You start to see your life from a new angle. You know which actions to take, which ones to skip, and whether what you’re doing really matters to you. Life is short, much shorter than we think. There’s no point spending weeks or months on things you don’t enjoy. Every day counts, and you don’t want to look back and regret lost time.
+Making this a habit (three or four times a week) can change your life. You start to see your life from a new angle. You know which actions to take, which ones to skip, and whether what you’re doing really matters to you. Life is short, much shorter than we think. There’s no point spending weeks or months on things you don’t enjoy. Every day counts, and you don’t want to look back and regret lost time.
 
 > _Life is a train that never stops. If you lose three weeks, you can’t get them back. You could have spent them doing something you love._
-> — Pierre
+> *Pierre*
 
-So, take the time to find your own moments of calm. Use them to think, to plan, and to make sure you’re living the life you want. Sometimes, the best ideas and the right decisions come when you’re not trying so hard—when you’re just letting your mind breathe.
+So, take the time to find your own moments of calm. Use them to think, to plan, and to make sure you’re living the life you want. Sometimes, the best ideas and the right decisions come when you’re not trying so hard: when you’re just letting your mind breathe.
 
 > _When you’re calm, you see the big picture. That’s when you know what really matters._
-> — Pierre
+> *Pierre*
 
 ---
 
@@ -47,7 +47,7 @@ So, take the time to find your own moments of calm. Use them to think, to plan, 
 - *Find places and times in your day that help you recharge.*
 - *Use these moments to step back, relax, and think more clearly.*
 - *Making this a habit helps you make better decisions and live more intentionally.*
-- *Don’t waste time on things you don’t enjoy—life is too short.*
+- *Don’t waste time on things you don’t enjoy: life is too short.*
 
 ## Reflection
 

@@ -37,10 +37,10 @@ When I lived in Ireland, it was common to work from home on Thursdays and Friday
 There are always ways to try new things. This gives you a preview of whether a different lifestyle might fit you better. Life is short. Write down your action plan now. List the things you want to do. Don’t wait.
 
 > _“The biggest risk is not taking any risk. In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks.”_
-> — Mark Zuckerberg
+> *Mark Zuckerberg*
 
 > _“You are never too old to set another goal or to dream a new dream.”_
-> — C.S. Lewis
+> *C.S. Lewis*
 
 {{< figure src="https://images.unsplash.com/photo-1747809467090-07744a38f797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlJTIwY2hhbmdlcyUyMHNlbGYlMjBkaXNjb3ZlcnklMjBwZXJzb25hbCUyMGdyb3d0aHxlbnwwfDB8fHwxNzU2ODUyMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="ブロック塀に咲く可憐な花" title="How to Redraw Your Path When Passion Feels Like a Job" caption="How to Redraw Your Path When Passion Feels Like a Job - Photo by [Buddy AN](https://unsplash.com/@stbuddyp) on [Unsplash](https://unsplash.com/photos/a-delicate-flower-blooms-in-a-stone-crevice-hO0DkJYE9lg)" >}}
 
@@ -48,7 +48,7 @@ There are always ways to try new things. This gives you a preview of whether a d
 
 ## Key Takeaways
 - Don’t let routine or pressure kill your passion.
-- If you’re unhappy, act now—don’t wait for the “right” moment.
+- If you’re unhappy, act now: don’t wait for the “right” moment.
 - Try new things, even small changes, to see what fits you.
 - Be honest with yourself and others about what you need.
 - Life is short. Make choices that bring you joy.
@@ -56,7 +56,7 @@ There are always ways to try new things. This gives you a preview of whether a d
 ## Action Steps
 - Write down what you really want from life.
 - Take one small step toward change this week.
-- Talk to someone about your needs—at work or at home.
+- Talk to someone about your needs: at work or at home.
 
 ## Reflection
 - Am I living the life I want, or just passing time?

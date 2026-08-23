@@ -16,19 +16,19 @@ source_medium = "https://medium.com/@phenrysay/467b3307440f"
 
 If you want to go further in your achievements, there’s a simple idea that can change everything: do one small thing every single day. It might sound basic, but this approach is incredibly powerful. When you accomplish a small task daily, you build momentum. Even just ten minutes a day, done consistently, can take you much further than you imagine.
 
-Let’s say you want to learn something new. If you’re not planning to use that knowledge soon, or if it doesn’t fit with your current priorities, it’s easy to lose motivation. But if you have a clear reason—maybe you’re learning Japanese because you’re traveling to Japan next month, or your partner is Japanese—then daily practice makes sense. The same goes for any language, whether it’s Italian, Norwegian, or something else. The key is to make sure your daily action matches your real goals.
+Let’s say you want to learn something new. If you’re not planning to use that knowledge soon, or if it doesn’t fit with your current priorities, it’s easy to lose motivation. But if you have a clear reason (maybe you’re learning Japanese because you’re traveling to Japan next month, or your partner is Japanese) then daily practice makes sense. The same goes for any language, whether it’s Italian, Norwegian, or something else. The key is to make sure your daily action matches your real goals.
 
-Once you decide that this daily habit is important for you, stick to it. Spend ten, twenty, or thirty minutes each day on it. The same principle applies to saving money. If you take a small step every day—like researching ways to save or making a tiny change in your spending—you’ll see a cumulative effect. It’s like compound interest: small actions add up over time and can completely transform your finances.
+Once you decide that this daily habit is important for you, stick to it. Spend ten, twenty, or thirty minutes each day on it. The same principle applies to saving money. If you take a small step every day (like researching ways to save or making a tiny change in your spending) you’ll see a cumulative effect. It’s like compound interest: small actions add up over time and can completely transform your finances.
 
 This daily commitment creates a ripple effect in your life. It’s not about making huge leaps overnight, but about steady, meaningful progress. Over time, you’ll look back and realize how far you’ve come.
 
 {{< figure src="https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzb25hbCUyMGRldmVsb3BtZW50JTIwZ29hbCUyMHNldHRpbmclMjBwcm9kdWN0aXZpdHl8ZW58MHwwfHx8MTc1NjUyMjk5N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Black and silver pen on gray textile" title="How to Make Progress With One Small Step a Day" caption="How to Make Progress With One Small Step a Day - Photo by [Ronnie Overgoor](https://unsplash.com/@ronnieovergoor) on [Unsplash](https://unsplash.com/photos/black-and-silver-pen-on-gray-textile-EdKCckXXRCI)" >}}
 
 > _Success is the sum of small efforts, repeated day in and day out._
-> — Robert Collier
+> *Robert Collier*
 
 > _Great things are not done by impulse, but by a series of small things brought together._
-> — Vincent Van Gogh
+> *Vincent Van Gogh*
 
 ---
 

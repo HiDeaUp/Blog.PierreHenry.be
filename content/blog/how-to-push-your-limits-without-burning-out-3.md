@@ -24,7 +24,7 @@ But you don’t always have to move. The internet gives you access to the best m
 
 {{< figure src="https://images.unsplash.com/photo-1598162942982-5cb74331817c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwcGVyc29uYWwtZ3Jvd3RoJTIwbW90aXZhdGlvbnxlbnwwfDB8fHwxNzU1NTc4MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="plant on orange wall background" title="How to Push Your Limits Without Burning Out" caption="How to Push Your Limits Without Burning Out - Photo by [Olivier Bergeron](https://unsplash.com/@obergeron) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-on-brown-pot-R7DFujwXyzg)" >}}
 
-Don’t just listen to advice—put it into practice. If you’re not in the right place, start by following YouTube channels or watching documentaries related to your field. Every time you watch something, compare yourself to the experts. If you’re into programming, watch coding conferences and see how others solve problems. Notice their speed, their way of thinking, and ask yourself what you can do to improve.
+Don’t just listen to advice: put it into practice. If you’re not in the right place, start by following YouTube channels or watching documentaries related to your field. Every time you watch something, compare yourself to the experts. If you’re into programming, watch coding conferences and see how others solve problems. Notice their speed, their way of thinking, and ask yourself what you can do to improve.
 
 Maybe you need to practice more. Try recording your screen while you code for fifteen minutes a day. This will force you to rely on your memory and skills, not just copy from tutorials. The same goes for public speaking. If you want to become a well-known speaker, study people like Brian Tracy. Watch conferences online, pause, and compare yourself. Stand in front of a mirror and ask yourself what you can do differently to improve your posture or presence.
 
@@ -32,11 +32,11 @@ Often, the only real limit is in your mind. Change your limiting beliefs, and yo
 
 > *The only limits you have are the ones you place on yourself.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *If you want to go fast, go alone. If you want to go far, go with others.*
 >
-> — African proverb
+> *African proverb*
 
 ---
 
@@ -58,5 +58,5 @@ Often, the only real limit is in your mind. Change your limiting beliefs, and yo
 
 ## Reflection
 - Are you really pushing yourself, or just staying comfortable?
-- Who are you surrounding yourself with—and are they helping you grow?
+- Who are you surrounding yourself with, and are they helping you grow?
 - What’s one small step you can take today to get closer to your ideal self?

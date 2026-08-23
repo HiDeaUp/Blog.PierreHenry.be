@@ -26,11 +26,11 @@ At first, people might question your slow pace. They might not see the value in 
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 > *It does not matter how slowly you go as long as you do not stop.*
 >
-> — Confucius
+> *Confucius*
 
 If you want to build something that lasts, focus on being regular. Do a little bit every day. Prioritize your well-being, your family, and your health. Show up for your business, but don’t let it take over your life. This is the real secret to long-term success.
 
@@ -45,6 +45,6 @@ If you want to build something that lasts, focus on being regular. Do a little b
 - Prioritize your health and lifestyle while building your business.
 
 ## Reflection
-- Are you sprinting like the hare, or moving steadily like the tortoise?
+- Are you sprinting like the hare, or moving consistently like the tortoise?
 - What small action can you take today that you can repeat tomorrow?
 - How can you make consistency your strongest habit?

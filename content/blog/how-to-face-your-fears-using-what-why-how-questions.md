@@ -34,11 +34,11 @@ The real secret is practice and experience. The more you do something, the less 
 
 > *Courage is not the absence of fear, but the triumph over it.*
 > 
-> — Nelson Mandela
+> *Nelson Mandela*
 
 > *The only way to get rid of the fear of doing something is to go out and do it.*
 > 
-> — Susan Jeffers
+> *Susan Jeffers*
 
 Facing your fears isn’t easy, but it’s often the only way to reach your dreams or do what needs to be done. Whether it’s skydiving, public speaking, or anything else, remember to ask yourself: What do I want to do? Why do I want to do it? How can I start, even in the smallest way? Step by step, you’ll get there.
 

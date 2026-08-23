@@ -3,8 +3,8 @@ title = "How to Design a Life You Love Without Overwhelm"
 slug = "how-to-design-a-life-you-love-without-overwhelm"
 date = "2025-08-31T21:51:36.780841"
 draft = false
-description = "Have you ever stopped to think about the environment you live in and how it shapes your daily happiness? The space you call home, the rhythm of your days, and the small habits you build all play a..."
-summary = "Have you ever stopped to think about the environment you live in and how it shapes your daily happiness? The space you call home, the rhythm of your days, and the small habits you build all play a..."
+description = "Have you ever stopped to think about the environment you live in and how it affects your daily happiness? The space you call home, the rhythm of your days, and the small habits you build all play a..."
+summary = "Have you ever stopped to think about the environment you live in and how it affects your daily happiness? The space you call home, the rhythm of your days, and the small habits you build all play a..."
 tags = ["habit building", "happiness", "lifestyle", "personal growth", "productivity", "self-improvement", "time management"]
 priority = true
 priority_topics = ["time management", "productivity"]
@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/ed9de55b35e4"
 
 {{< figure src="https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsaWZlc3R5bGUlMjBzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTY2NDEwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Green sweater" title="How to Design a Life You Love Without Overwhelm" caption="How to Design a Life You Love Without Overwhelm - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)" >}}
 
-Have you ever stopped to think about the environment you live in and how it shapes your daily happiness? The space you call home, the rhythm of your days, and the small habits you build all play a huge part in how you feel. It’s not just about having a nice place to live, but about creating a life that feels good to you—a life where you actually want to spend your time, relax, and enjoy yourself.
+Have you ever stopped to think about the environment you live in and how it affects your daily happiness? The space you call home, the rhythm of your days, and the small habits you build all play a huge part in how you feel. It’s not just about having a nice place to live, but about creating a life that feels good to you: a life where you actually want to spend your time, relax, and enjoy yourself.
 
 So, how do you go about building this kind of lifestyle? It starts with a simple question: *What does my ideal day look like?* Take a moment to imagine it. Would you prefer to wake up early, maybe around 5:30 or 6 in the morning, and head to bed by 10 or 11 at night? Or does your perfect day involve eating healthier, trying a new diet, or changing your eating habits altogether?
 
@@ -28,13 +28,13 @@ Once you have a clear picture, start making small changes. Adjust your schedule,
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 > *The details of our days do matter in the end.*
 >
-> — Annie Dillard
+> *Annie Dillard*
 
-Remember, your lifestyle is a reflection of your choices. You have the power to shape it, one decision at a time.
+Remember, your lifestyle is a reflection of your choices. You have the power to influence it, one decision at a time.
 
 {{< figure src="https://images.unsplash.com/photo-1515743083824-dbbe7f0022ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxsaWZlc3R5bGUlMjBzZWxmLWltcHJvdmVtZW50JTIwaGFwcGluZXNzfGVufDB8MHx8fDE3NTY2NDEwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="photo was taken in the Carpathian Mountains on a beautiful summer day" title="How to Design a Life You Love Without Overwhelm" caption="How to Design a Life You Love Without Overwhelm - Photo by [Anastasiia Tarasova](https://unsplash.com/@tarasovaanastasiia) on [Unsplash](https://unsplash.com/photos/woman-raising-hands-behind-mountain-covered-by-trees-cfRIm0U4SxQ)" >}}
 
@@ -44,7 +44,7 @@ Remember, your lifestyle is a reflection of your choices. You have the power to 
 - Picture your ideal day and environment.
 - Focus on what truly makes you happy, not what’s trendy.
 - Make small, meaningful changes to your daily routine.
-- Your lifestyle is yours to create—start with what feels right for you.
+- Your lifestyle is yours to create: start with what feels right for you.
 
 ## Reflection
 - What does my perfect day look like?

@@ -21,17 +21,17 @@ When You’re Holding Back: Why Full Commitment Matters
 
 Think about a project or dream that excites you. Are you truly giving it your all, or just testing the waters? Many of us hold back, investing only part of our energy. It feels safer, but it keeps us from real progress. The missing piece is total commitment.
 
-I’ve noticed this in myself and others: when you invest 100% in a project, everything changes. You’re not just going through the motions—you’re energized and focused. Full commitment unlocks motivation and determination that simply aren’t there when you’re holding back.
+I’ve noticed this in myself and others: when you invest 100% in a project, everything changes. You’re not just going through the motions; you’re energized and focused. Full commitment builds motivation and determination that simply aren’t there when you’re holding back.
 
 {{< figure src="https://images.unsplash.com/photo-1599403382687-6b5e9891f3ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHR5aW5nJTIwcnVubmluZyUyMHNob2VzJTIwc3VucmlzZXxlbnwwfDB8fHwxNzg1NDc4NTA0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pausing before the leap into dedication" title="What Changes When You Commit Fully to Your Goals" caption="Pausing before the leap into dedication - Photo by [Robert Harkness](https://unsplash.com/@robertharknessart)" >}}
 
 ## The Power of Full Commitment
 
-Anything is possible if you truly want it. When you believe in your goal with unwavering conviction, you start to see possibilities where others see obstacles. This isn’t about wishful thinking. It’s about belief that fuels action. If you want something badly enough and are determined, you’ll find ways to make it real. You’ll look for solutions, knock on doors, and when you hit a wall, you’ll search for another way through. Total investment gives you the energy and creativity to unlock opportunities you might otherwise miss.
+Anything is possible if you truly want it. When you believe in your goal with unwavering conviction, you start to see possibilities where others see obstacles. This isn’t about wishful thinking. It’s about belief that fuels action. If you want something badly enough and are determined, you’ll find ways to make it real. You’ll look for solutions, knock on doors, and when you hit a wall, you’ll search for another way through. Total investment gives you the energy and creativity to find opportunities you might otherwise miss.
 
 ## The Only Real Limits Are Self-Imposed
 
-Most limits are the ones we set for ourselves. It’s easy to blame circumstances or other people, but the real barrier is often in our own minds. Telling yourself something isn’t possible builds a wall between you and your goal. If you flip that script—if you truly believe you can achieve what you set out to do—you start to see those walls for what they are: illusions.
+Most limits are the ones we set for ourselves. It’s easy to blame circumstances or other people, but the real barrier is often in our own minds. Telling yourself something isn’t possible builds a wall between you and your goal. If you flip that script (if you truly believe you can achieve what you set out to do) you start to see those walls for what they are: illusions.
 
 The path won’t always be easy. There will be challenges and moments of doubt. But when you’re fully invested, you’re far more likely to persist. You’ll keep searching for ways to move forward, because you’ve already decided that giving up isn’t an option.
 
@@ -45,8 +45,8 @@ If you’ve been holding back, waiting for a sign, or protecting yourself from d
 2. Decide to invest yourself 100% in making it happen.
 3. Notice the excuses or doubts that come up, and remind yourself: the only real limits are the ones you create.
 4. When you hit a roadblock, look for another way. Ask yourself, “What haven’t I tried yet?”
-5. Surround yourself with reminders of your commitment—notes, routines, or supportive people.
+5. Surround yourself with reminders of your commitment: notes, routines, or supportive people.
 
 Most importantly, believe in your dream completely. Be persistent. Don’t let fear or uncertainty convince you to settle for less.
 
-I’m with you. I believe in your ability to make your dreams real—if you’re willing to go all in. The energy and breakthroughs you need are waiting on the other side of full commitment.
+I’m with you. I believe in your ability to make your dreams real: if you’re willing to go all in. The energy and breakthroughs you need are waiting on the other side of full commitment.

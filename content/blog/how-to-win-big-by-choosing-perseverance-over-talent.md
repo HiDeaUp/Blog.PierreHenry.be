@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/c11a5d6c6d5b"
 
 Perseverance is the number one key to moving forward and creating things that truly matter to you. The more you challenge yourself, the more you’ll build something meaningful. The further you push, the further you’ll go.
 
-When you decide to persevere every single day—whether it’s action A, B, or C—you’re already giving yourself a clear and defined vision in your mind. If you can, put up reminders at home, maybe a picture of what your goal will look like once you’ve achieved it. This visual cue keeps your purpose alive and sharp.
+When you decide to persevere every single day (whether it’s action A, B, or C) you’re already giving yourself a clear and defined vision in your mind. If you can, put up reminders at home, maybe a picture of what your goal will look like once you’ve achieved it. This visual cue keeps your purpose alive and focused.
 
-Set long-term goals for yourself. By long-term, I mean anywhere from six months to two years, not a lifetime. Picture your goal, maybe even someone you admire who has achieved something similar. Every day, remind yourself of this vision. Make it your obsession. Work on it every single day. It doesn’t have to be for hours—consistency is what pays off.
+Set long-term goals for yourself. By long-term, I mean anywhere from six months to two years, not a lifetime. Picture your goal, maybe even someone you admire who has achieved something similar. Every day, remind yourself of this vision. Make it your obsession. Work on it every single day. It doesn’t have to be for hours: consistency is what pays off.
 
 {{< figure src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwZXJzZXZlcmFuY2UlMjBtb3RpdmF0aW9uJTIwc3VjY2Vzc3xlbnwwfDB8fHwxNzU2NTI4MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Person holding purple and pink box" title="How to Win Big by Choosing Perseverance Over Talent" caption="How to Win Big by Choosing Perseverance Over Talent - Photo by [Eden Constantino](https://unsplash.com/@edenconstantin0) on [Unsplash](https://unsplash.com/photos/person-holding-purple-and-pink-box-iJg1YzsEfqo)" >}}
 
@@ -28,11 +28,11 @@ I truly wish you the best from the bottom of my heart as you move forward with y
 
 > *Success is the sum of small efforts, repeated day in and day out.*
 >
-> — Robert Collier
+> *Robert Collier*
 
 > *Perseverance is not a long race; it is many short races one after the other.*
 >
-> — Walter Elliot
+> *Walter Elliot*
 
 ---
 
@@ -41,7 +41,7 @@ I truly wish you the best from the bottom of my heart as you move forward with y
 ## Key Takeaways
 - Perseverance is the real key to meaningful progress.
 - Set a clear vision and remind yourself of it every day.
-- Consistency beats intensity—work on your goal daily, even for a short time.
+- Consistency beats intensity: work on your goal daily, even for a short time.
 - Visual reminders help keep your motivation alive.
 - Everything is possible if you keep going, step by step.
 

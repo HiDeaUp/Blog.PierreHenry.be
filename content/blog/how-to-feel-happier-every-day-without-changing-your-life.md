@@ -22,17 +22,17 @@ Here’s a simple challenge: make two lists. One for things you enjoy, and one f
 
 {{< figure src="https://images.unsplash.com/photo-1572373785011-af1fe5216e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHx3ZWxsLWJlaW5nJTIwZGFpbHklMjBoYWJpdHMlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYzMjQ1N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Happiness sign painted on the pavement" title="How to Feel Happier Every Day Without Changing Your Life" caption="How to Feel Happier Every Day Without Changing Your Life - Photo by [D Jonez](https://unsplash.com/@cooljonez) on [Unsplash](https://unsplash.com/photos/a-brick-sidewalk-with-a-yellow-arrow-painted-on-it-jj4x2mlEYQ0)" >}}
 
-Maybe you love eating a banana in the morning, or being surrounded by plants, or working in a tidy space. Once you know what makes you happy, shape your environment to match. Bit by bit, you’ll build a lifestyle that fits you, one that supports your happiness and growth.
+Maybe you love eating a banana in the morning, or being surrounded by plants, or working in a tidy space. Once you know what makes you happy, change your environment to match. Bit by bit, you’ll build a lifestyle that fits you, one that supports your happiness and growth.
 
 When your days are filled with what makes you feel good, you’ll have more positive energy. Smiling will come easier. You’ll feel lighter, and life will seem to smile back at you. The truth is, happiness isn’t something that just happens. You create it, one choice at a time.
 
 When you feel good in your own skin, you’re more likely to say yes to opportunities. You’ll be open to new experiences, to meeting people, to trying new things. This is how you attract more chances and more joy into your life.
 
 > *Happiness is not something ready made. It comes from your own actions.*
-> — Dalai Lama
+> *Dalai Lama*
 
 > *The best way to pay for a lovely moment is to enjoy it.*
-> — Richard Bach
+> *Richard Bach*
 
 {{< figure src="https://images.unsplash.com/photo-1530053364863-7afc6bcdca88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHx3ZWxsLWJlaW5nJTIwZGFpbHklMjBoYWJpdHMlMjBoYXBwaW5lc3N8ZW58MHwwfHx8MTc1NjYzMjQ1N3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Green sweater" title="How to Feel Happier Every Day Without Changing Your Life" caption="How to Feel Happier Every Day Without Changing Your Life - Photo by [Alessandro Sicari](https://unsplash.com/@alesicari) on [Unsplash](https://unsplash.com/photos/green-sweater-U6ig7VZGULk)" >}}
 
@@ -41,7 +41,7 @@ When you feel good in your own skin, you’re more likely to say yes to opportun
 ## Key Takeaways
 - *List what makes you feel good and what doesn’t.*
 - *Repeat the good moments until they become habits.*
-- *Shape your environment to support your happiness.*
+- *Change your environment to support your happiness.*
 - *When you feel good, you attract more opportunities.*
 
 ## Reflection

@@ -24,17 +24,17 @@ If you feel like your life is at a standstill, maybe this is the perfect moment 
 
 Even if you feel stuck in your daily routine, there are always different ways to move forward. Life can feel like a never-ending cycle of work and sleep, but you can always ask yourself: What else can I do? For example, if you spend a lot of time commuting, you can use that time to learn something new. There are plenty of platforms and tools out there to help you make the most of those “dead moments.” Personally, I love listening to audiobooks and audio conferences during these times. It’s a simple way to turn boring moments into opportunities for growth.
 
-Remember, the job you dislike is only temporary. It’s not your whole life. Maybe you’re saving money or building a financial safety net, but you know you’ll move on to something else soon. Give yourself a timeline—six months, a year—and plan for what comes next. Seeing your life as a series of steps, rather than a fixed path, can help you go much further.
+Remember, the job you dislike is only temporary. It’s not your whole life. Maybe you’re saving money or building a financial safety net, but you know you’ll move on to something else soon. Give yourself a timeline (six months, a year), and plan for what comes next. Seeing your life as a series of steps, rather than a fixed path, can help you go much further.
 
 I encourage you to look at your life this way. I’m with you, 100%. Don’t put off what you want to do. The only real limit is the one in your mind. Take action now, and build the life you want, step by step.
 
 > *Sometimes, what feels like a dead end is actually a stepping stone to where you want to go.*
 >
-> — Anonymous
+> *Anonymous*
 
 > *The only real limit is the one in your mind.*
 >
-> — Pierre
+> *Pierre*
 
 {{< figure src="https://images.unsplash.com/photo-1546440765-e7e3c881b5fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxmaW5kaW5nJTIwam95JTIwcGxlYXN1cmUlMjBpbiUyMGxpZmUlMjBvdmVyY29taW5nJTIwcm91dGluZXxlbnwwfDB8fHwxNzU2MTEyMzY1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Woman waving her hands during golden hour" title="How to Find Joy at Work Without Changing Your Job" caption="How to Find Joy at Work Without Changing Your Job - Photo by [Mink Mingle](https://unsplash.com/@minkmingle) on [Unsplash](https://unsplash.com/photos/woman-waving-her-hands-during-golden-hour-tXeTUbu9cFg)" >}}
 
@@ -43,7 +43,7 @@ I encourage you to look at your life this way. I’m with you, 100%. Don’t put
 ## Key Takeaways
 - Even boring or frustrating situations can teach you something valuable.
 - Use “dead moments” in your day to learn, grow, or plan for the future.
-- Your current job or routine is not forever—see it as a step, not a prison.
+- Your current job or routine is not forever: see it as a step, not a prison.
 - Taking action, even small steps, is the best way to move forward.
 
 ## Reflection

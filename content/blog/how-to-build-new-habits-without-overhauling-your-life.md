@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/7ba8c4d1ea29"
 
 {{< figure src="https://images.unsplash.com/photo-1521805103424-d8f8430e8933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYWJpdHMlMjBzZWxmLWltcHJvdmVtZW50JTIwcm91dGluZXxlbnwwfDB8fHwxNzU2NjM4MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Black barbell on tile Yuv iwByVRQ" title="How to Build New Habits Without Overhauling Your Life" caption="How to Build New Habits Without Overhauling Your Life - Photo by [Victor Freitas](https://unsplash.com/@victorfreitas) on [Unsplash](https://unsplash.com/photos/black-barbell-on-tile-flooring-Yuv-iwByVRQ)" >}}
 
-Have you ever felt the urge to add a little spice to your life, to break away from the usual and try something different? Life is short, and many of us crave variety. We want to create new connections in our brains, to keep things fresh and exciting. It’s not just about avoiding boredom—it's about challenging ourselves and growing.
+Have you ever felt the urge to add a little spice to your life, to break away from the usual and try something different? Life is short, and many of us crave variety. We want to create new connections in our brains, to keep things fresh and exciting. It’s not just about avoiding boredom; it's about challenging ourselves and growing.
 
 One of the best ways to do this is by shaking up your routine. Introducing something new, even something small, can make a real difference. It’s important to step out of the familiar and try activities that push us to learn or develop a new skill.
 
@@ -25,10 +25,10 @@ So, how can you make this happen? Start today. For the next 21 to 31 days, commi
 This isn’t just about ticking off a box. When you introduce a new habit, you’re rewiring your brain, building new pathways, and opening yourself up to fresh experiences. Over time, these small changes can lead to big results. You’ll find yourself more adaptable, more creative, and maybe even more fulfilled.
 
 > _The secret of your future is hidden in your daily routine._
-— Mike Murdock
+*Mike Murdock*
 
 > _We are what we repeatedly do. Excellence, then, is not an act, but a habit._
-— Will Durant
+*Will Durant*
 
 If you want to see real change, consistency is your best friend. Don’t worry about perfection. Focus on showing up every day, even if it’s just for a few minutes. The magic happens when you keep going, even when it feels tough or inconvenient.
 

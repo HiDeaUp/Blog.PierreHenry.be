@@ -20,7 +20,7 @@ Instead of focusing on what you can’t do, start with what you can. Maybe you c
 
 Life isn’t a race. It’s not about who gets there first. The only person you should compare yourself to is who you were yesterday. If you’re improving, even just a little, you’re on the right path. Comparing your inside to someone else’s outside will only lead to frustration. You don’t see the struggles behind other people’s achievements, just as they don’t see yours.
 
-Think of life as climbing a mountain. Each step, no matter how small, brings you closer to the top. If you start with nothing in your bank account and come from a country with a weak currency, maybe your first move is to study or work abroad, or take on freelance jobs for clients in developed countries. In some developing countries, fixed-term deposits can offer high interest rates—sometimes 8 to 12%. This can be a powerful tool to grow your savings safely, unlike the risks of the stock market.
+Think of life as climbing a mountain. Each step, no matter how small, brings you closer to the top. If you start with nothing in your bank account and come from a country with a weak currency, maybe your first move is to study or work abroad, or take on freelance jobs for clients in developed countries. In some developing countries, fixed-term deposits can offer high interest rates: sometimes 8 to 12%. This can be a powerful tool to grow your savings safely, unlike the risks of the stock market.
 
 {{< figure src="https://images.unsplash.com/photo-1499728603263-13726abce5fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxjb21wYXJpc29uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU2MDYxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="“The present moment is filled with joy and happiness. If you are attentive, you will see it.” ― Thich Nhat Hanh" title="How to Stop Comparing Yourself Without Feeling Left Behind" caption="How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Lesly Juarez](https://unsplash.com/@jblesly) on [Unsplash](https://unsplash.com/photos/mindfulness-printed-paper-near-window-DFtjXYd5Pto)" >}}
 
@@ -30,18 +30,18 @@ This is the power of the compound effect. Darren Hardy wrote a book about it, an
 
 Every action matters. Each choice you make can change your life for better or worse. Be aware of what you do each day. This awareness is the real key to success.
 
-Who you spend time with matters too. The people you talk to, the content you consume, all shape who you become. It’s not just about what you eat, but also what you feed your mind. If you meditate every day, you gradually train your brain to handle stress and negative thoughts better. Over time, you’ll notice a real difference.
+Who you spend time with matters too. The people you talk to, the content you consume, all influence who you become. It’s not just about what you eat, but also what you feed your mind. If you meditate every day, you gradually train your brain to handle stress and negative thoughts better. Over time, you’ll notice a real difference.
 
 > *Comparison is the thief of joy.*  
-— Theodore Roosevelt
+*Theodore Roosevelt*
 
 > *Small, smart choices, completed consistently over time, lead to radical differences.*  
-— Darren Hardy
+*Darren Hardy*
 
 {{< figure src="https://images.unsplash.com/photo-1695473507886-d49ecd5d3c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxjb21wYXJpc29uJTIwc2VsZi1pbXByb3ZlbWVudCUyMG1pbmRmdWxuZXNzfGVufDB8MHx8fDE3NTU2MDYxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A close up of a with a paper that reads in" title="How to Stop Comparing Yourself Without Feeling Left Behind" caption="How to Stop Comparing Yourself Without Feeling Left Behind - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-that-reads-mindfulness-in-6nRyHLIzRMo)" >}}
 
 > *You are the average of the five people you spend the most time with.*  
-— Jim Rohn
+*Jim Rohn*
 
 ---
 
@@ -50,7 +50,7 @@ Who you spend time with matters too. The people you talk to, the content you con
 - Take small steps toward your goals, and let the compound effect work for you.
 - Every action counts, both positive and negative.
 - Surround yourself with people and content that help you grow.
-- Be mindful of your daily habits—they shape your future.
+- Be mindful of your daily habits; they build your future.
 
 ## Reflection
 - Are you measuring your progress against your own past, or someone else’s highlight reel?

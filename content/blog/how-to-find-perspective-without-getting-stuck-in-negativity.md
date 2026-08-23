@@ -20,7 +20,7 @@ But what if you could break that cycle by simply putting things in perspective?
 
 ## The Power of Relativizing
 
-Let’s take that phone battery example. Instead of panicking, you could remind yourself: “My phone is about to die, but I’m not at home—so what? I can still pay for things with my card, maybe I have my watch, or I can just read a book. It’s not the end of the world.” By looking at the situation differently, you realize the worst-case scenario isn’t so dramatic after all.
+Let’s take that phone battery example. Instead of panicking, you could remind yourself: “My phone is about to die, but I’m not at home, so what? I can still pay for things with my card, maybe I have my watch, or I can just read a book. It’s not the end of the world.” By looking at the situation differently, you realize the worst-case scenario isn’t so dramatic after all.
 
 This approach works for bigger challenges too. When you’re facing tough times, it helps to remember that every problem has a beginning and an end. Stress and setbacks come and go. After a rough patch, something good is bound to happen. Even if you’re in a difficult spot right now, it won’t last forever. Solutions will appear, and new opportunities will come your way.
 
@@ -36,7 +36,7 @@ The same goes for bigger problems. If you lose your job, it might actually be th
 
 ## Rediscovering Your True Passions
 
-Let’s talk about passion. If you’re searching for what truly excites you, think back to what you loved doing between the ages of 8 and 13—before teenage influences crept in. What made you happy as a child? Often, those activities reveal your real passions.
+Let’s talk about passion. If you’re searching for what truly excites you, think back to what you loved doing between the ages of 8 and 13: before teenage influences crept in. What made you happy as a child? Often, those activities reveal your real passions.
 
 For example, if you loved drawing or playing with clay as a kid, is there a way to reconnect with that now as an adult? Maybe you were obsessed with Playmobil. Why not consider selling collectible Playmobil sets online? You’d be combining your childhood joy with your adult life, and maybe even turning it into a career.
 
@@ -51,16 +51,16 @@ The work you love is where you’ll shine. These are the tasks that bring the mo
 {{< figure src="https://images.unsplash.com/photo-1512665161421-91dd799d84c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxyZWxhdGl2aXNtJTIwcGVyc29uYWwlMjBncm93dGglMjBtaW5kc2V0fGVufDB8MHx8fDE3NTU2MDg4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Silhouette" title="How to Find Perspective Without Getting Stuck in Negativity" caption="How to Find Perspective Without Getting Stuck in Negativity - Photo by [Atharva Tulsi](https://unsplash.com/@atharva_tulsi) on [Unsplash](https://unsplash.com/photos/silhouette-photograph-of-person-during-golden-hour-rRvHnnAgn_Q)" >}}
 
 > *“Happiness is not having what you want. It is appreciating what you have.”*  
-— Rabbi Hyman Schachtel
+*Rabbi Hyman Schachtel*
 
 > *“The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.”*  
-— Marcel Proust
+*Marcel Proust*
 
 ---
 
 ## Key Takeaways
 
-- Put problems in perspective—the worst-case scenario is rarely as bad as it seems.
+- Put problems in perspective: the worst-case scenario is rarely as bad as it seems.
 - Negativity often comes from focusing on what’s missing instead of what’s possible.
 - Your childhood passions can guide you to your true calling as an adult.
 - Focus on the tasks you love and delegate the rest for better productivity.

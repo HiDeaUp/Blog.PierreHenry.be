@@ -12,13 +12,13 @@ source_medium = "https://medium.com/@phenrysay/6641e5ab41e3"
 
 {{< figure src="https://images.unsplash.com/photo-1586991362275-b7eb182f9026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwb3NpdGl2aXR5JTIwd2VsbGJlaW5nJTIwc3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2MDE0NDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Stay Positive" title="How to Feel Calm and Happy Without Ignoring Stress" caption="How to Feel Calm and Happy Without Ignoring Stress - Photo by [Nelly Antoniadou](https://unsplash.com/@nelly13) on [Unsplash](https://unsplash.com/photos/the-word-stay-positive-spelled-in-scrabble-type-on-a-wooden-surface-YYrg8BnmTdw)" >}}
 
-Feeling good is not just a luxury; it is a real need, especially when life brings its share of stress. Today, I want to share with you how daily sensations and small choices can help you feel relaxed and at peace. This matters even more if you live in a place where stress is always lurking—whether it comes from work, the city, or just the constant movement around you.
+Feeling good is not just a luxury; it is a real need, especially when life brings its share of stress. Today, I want to share with you how daily sensations and small choices can help you feel relaxed and at peace. This matters even more if you live in a place where stress is always lurking: whether it comes from work, the city, or just the constant movement around you.
 
 Some people are more sensitive than others to the hustle and bustle of big cities. Take my own experience: I now live in Sydney. It is an amazing city, very safe, and people here are genuinely friendly and open. Still, Sydney is a big city. No matter how kind people are, there is always some background stress, a bit of pollution, and the occasional honking. Even if it is not constant, it can get to you.
 
 When I lived in Paris, the stress was on another level. Paris is a beautiful city, but it is also intense. You really need moments to unwind and find peace, especially in cities like Paris, Brussels, or even London. London is a bit less intense than Paris, but it still has that city stress. In these places, you need to create your own moments of calm.
 
-I also lived in Dublin for a while. Dublin is different—there are people, but the city feels a bit sad to me. The weather is grey almost all year, and the buildings are not exactly cheerful. That is why it is so important to make your home a joyful place, somewhere you actually like to be. Your environment should lift you up. Without that, it is much harder to think positively, to be creative, or to see far ahead.
+I also lived in Dublin for a while. Dublin is different; there are people, but the city feels a bit sad to me. The weather is grey almost all year, and the buildings are not exactly cheerful. That is why it is so important to make your home a joyful place, somewhere you actually like to be. Your environment should lift you up. Without that, it is much harder to think positively, to be creative, or to see far ahead.
 
 {{< figure src="https://images.unsplash.com/photo-1546800237-ddc1372bc253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxwb3NpdGl2aXR5JTIwd2VsbGJlaW5nJTIwc3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfDB8fHwxNzU2MDE0NDUwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Be pieces" title="How to Feel Calm and Happy Without Ignoring Stress" caption="How to Feel Calm and Happy Without Ignoring Stress - Photo by [Amanda Jones](https://unsplash.com/@amandagraphc) on [Unsplash](https://unsplash.com/photos/be-positive-scrabble-pieces-e3jKBZoRnTs)" >}}
 
@@ -29,10 +29,10 @@ Working on your environment is key. Take a look at where you are right now. What
 I am with you, truly, and I hope these ideas help you. Wishing you a wonderful life and a wonderful day.
 
 > *A beautiful life is simply a collection of beautiful days.*
-> — Anonymous
+> *Anonymous*
 
-> *Your environment shapes your thoughts, your mood, and your future.*
-> — Unknown
+> *Your environment affects your thoughts, your mood, and your future.*
+> *Unknown*
 
 ---
 
@@ -43,7 +43,7 @@ I am with you, truly, and I hope these ideas help you. Wishing you a wonderful l
 - *Your surroundings have a big impact on your mood and creativity.*
 - *Make your home a place you enjoy, especially if your city feels stressful.*
 - *Plan small things each day to give yourself direction and joy.*
-- *A good life is built from good days—focus on making each day count.*
+- *A good life is built from good days: focus on making each day count.*
 
 ## Reflection
 

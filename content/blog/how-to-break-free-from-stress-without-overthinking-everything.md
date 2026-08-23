@@ -26,13 +26,13 @@ Sometimes, all you need is a quick workout at the gym, a short walk, a big glass
 
 The more you practice relaxing, the easier it becomes to find calm moments. You’ll find it easier to get things done today, tomorrow, and in the days ahead. Your long-term vision will become clearer, and life won’t feel so heavy.
 
-So, remember to de-stress and focus on being here, right now. That’s the best foundation for moving forward and taking action—not just rushing ahead, but doing so with a clear mind and a calm heart.
+So, remember to de-stress and focus on being here, right now. That’s the best foundation for moving forward and taking action, not just rushing ahead, but doing so with a clear mind and a calm heart.
 
 > _“Tension is who you think you should be. Relaxation is who you are.”_  
-— Chinese Proverb
+*Chinese Proverb*
 
 > _“Sometimes the most productive thing you can do is relax.”_  
-— Mark Black
+*Mark Black*
 
 ---
 

@@ -20,7 +20,7 @@ Think about those moments when you wanted to apply for a job at that restaurant,
 
 It happens in social situations too. There’s a dinner with friends, but most people there are strangers to you. You worry you won’t know what to say, that you’ll stay silent, and so you decide not to go. The same pattern repeats itself: you wait, you don’t act, and you postpone.
 
-This isn’t just about work or social life. It can be about investing your money, buying a house you love, or starting a business. You see the opportunity, but you worry: what if it goes wrong? The paperwork, the meetings with the notary, the fear of making a mistake—it all feels intimidating. So you don’t do it, even though you really wanted to.
+This isn’t just about work or social life. It can be about investing your money, buying a house you love, or starting a business. You see the opportunity, but you worry: what if it goes wrong? The paperwork, the meetings with the notary, the fear of making a mistake; it all feels intimidating. So you don’t do it, even though you really wanted to.
 
 I’ve been there too. I know what it’s like to hesitate, to feel stuck. But I realized that everything is possible if you decide to go for it. The more you take action, the more you achieve, and the higher you go. Of course, not everything will go as planned. Sometimes things turn out differently than we hoped. In some places, people call this failure. But is it really failure? Or is it just an experience that didn’t match our expectations?
 
@@ -33,10 +33,10 @@ Sometimes things won’t go your way. When that happens, you have two choices. Y
 That’s the real beauty of life. You keep moving forward, learning from each experience, and making your story even more interesting.
 
 *“Success is not final, failure is not fatal: it is the courage to continue that counts.”*  
-— Winston Churchill
+*Winston Churchill*
 
 *“The only real mistake is the one from which we learn nothing.”*  
-— Henry Ford
+*Henry Ford*
 
 ---
 
@@ -51,7 +51,7 @@ That’s the real beauty of life. You keep moving forward, learning from each ex
 
 ## Action Steps
 
-- *Identify one thing you’ve been putting off out of fear—take a small step toward it today.*
+- *Identify one thing you’ve been putting off out of fear: take a small step toward it today.*
 - *When something doesn’t go as planned, ask yourself what you learned instead of calling it a failure.*
 - *Remember: moving forward is more important than being perfect.*
 

@@ -32,11 +32,11 @@ Instead of idolizing others, focus on the person you want to become. Who do you 
 
 > *Comparison is the thief of joy.*
 >
-> — Theodore Roosevelt
+> *Theodore Roosevelt*
 
 > *Don’t compare your behind-the-scenes with everyone else’s highlight reel.*
 >
-> — Steven Furtick
+> *Steven Furtick*
 
 ---
 

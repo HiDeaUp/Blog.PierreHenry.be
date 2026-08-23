@@ -28,19 +28,19 @@ One way to make things easier is to optimize your environment or your routine. F
 
 But when a task is only externally motivated, it’s worth asking if you can avoid it altogether, automate it, or delegate it. Life is too short to spend it doing things you don’t like. You want to be the actor in your own life, not just a spectator. We often inherit the idea that work has to be painful, but that’s not true anymore. We live in a time where it’s easier than ever to work for yourself, to choose what you want to do. Sometimes, all you need is a laptop and an internet connection, and you can enjoy your surroundings while you work.
 
-When you take pleasure in what you do, the results are always better. That’s what I wish for you today: find something that brings you joy, and do it. If you want to remember things better, try teaching what you’ve learned to someone else. That’s why I make videos and share my knowledge—it helps me organize my thoughts and makes the learning stick.
+When you take pleasure in what you do, the results are always better. That’s what I wish for you today: find something that brings you joy, and do it. If you want to remember things better, try teaching what you’ve learned to someone else. That’s why I make videos and share my knowledge; it helps me organize my thoughts and makes the learning stick.
 
 And don’t keep your knowledge to yourself. Share it. When you pass on what you know, you help others and reinforce your own understanding. That’s how you grow, and that’s how you help others grow too.
 
 > _Life is too short to spend it doing things you don’t like. Be the actor in your own life, not just a spectator._
 >
-> — Pierre
+> *Pierre*
 
 > _When you take pleasure in what you do, the results are always better._
 >
-> — Pierre
+> *Pierre*
 
-So, don’t put off what you want to do. The best time to take action is now. Enjoy where you are, enjoy what you do, and let your motivation—whether internal or external—work for you.
+So, don’t put off what you want to do. The best time to take action is now. Enjoy where you are, enjoy what you do, and let your motivation (whether internal or external) work for you.
 
 ---
 
@@ -53,7 +53,7 @@ So, don’t put off what you want to do. The best time to take action is now. En
 - Optimize your environment to make tasks more enjoyable and easier to start.
 - If a task is only externally motivated and brings you no joy, see if you can avoid, automate, or delegate it.
 - Teaching what you learn helps you remember and grow.
-- Share your knowledge—don’t keep it to yourself.
+- Share your knowledge: don’t keep it to yourself.
 
 ---
 

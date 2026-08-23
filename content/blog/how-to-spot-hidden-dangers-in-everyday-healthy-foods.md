@@ -26,32 +26,32 @@ The real challenge is to find what makes you happy and not to overdo even the go
 
 You might start to question everything. Is this really what life is about? Maybe you’re meant for something else. Even if the setting looks perfect, if you overdo it, or if the environment is wrong, the good turns bad. It’s just like the apple: the context matters.
 
-I love my work as a software developer. I enjoy programming and solving problems. But if my office is unpleasant, or my coworkers are toxic, even the best job loses its shine. Lack of freedom, no flexible hours, no remote work—these things can ruin what you love.
+I love my work as a software developer. I enjoy programming and solving problems. But if my office is unpleasant, or my coworkers are toxic, even the best job loses its shine. Lack of freedom, no flexible hours, no remote work: these things can ruin what you love.
 
 It’s important to look at the whole picture. Maybe you dream of traveling. But if you go to Bali and spend all day locked in your hotel room working, what’s the point? Even if you always wanted to go there, if you can’t enjoy the place or your life, it’s not worth much.
 
 Sometimes, we want something so badly that we turn it into torture. We dream of being free, independent, our own boss. But then we end up working 70 or 80 hours a week, buried under tasks. Our clients become worse than any boss we ever had. We build our own prison with our business.
 
-So, be careful. Work on your business, not just in it. Otherwise, you risk creating your own cage, with less freedom and more pressure than before. The fear of not paying your bills, the endless to-do list, the stress—it all piles up.
+So, be careful. Work on your business, not just in it. Otherwise, you risk creating your own cage, with less freedom and more pressure than before. The fear of not paying your bills, the constant to-do list, the stress; it all piles up.
 
-The message here is simple: context is everything. The environment, the people, the way you do things—they all matter as much as the thing itself. Don’t let your dreams turn into your prison. Find balance, delegate what you dislike if you can, and focus on what truly brings you joy.
+The message here is simple: context is everything. The environment, the people, the way you do things; they all matter as much as the thing itself. Don’t let your dreams turn into your prison. Find balance, delegate what you dislike if you can, and focus on what truly brings you joy.
 
 > *Happiness is not something ready made. It comes from your own actions.*
 >
-> — Dalai Lama
+> *Dalai Lama*
 
 {{< figure src="https://images.unsplash.com/photo-1676335880099-d582e101c120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxwZXJjZXB0aW9uJTIwaGlkZGVuJTIwdHJ1dGhzJTIwYXBwZWFyYW5jZXN8ZW58MHwwfHx8MTc1NjUyMDIwN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Female hand showing camera filter." title="How to Spot Hidden Dangers in Everyday Healthy Foods" caption="How to Spot Hidden Dangers in Everyday Healthy Foods - Photo by [Fast Glass FX](https://unsplash.com/@fastglassfx) on [Unsplash](https://unsplash.com/photos/a-hand-holding-a-magnifying-glass-over-a-body-of-water-lXTCREjbjnM)" >}}
 
 > *We are what we repeatedly do. Excellence, then, is not an act, but a habit.*
 >
-> — Aristotle
+> *Aristotle*
 
 ---
 
 ## Key Takeaways
 - Not everything that looks good is good for you; context matters.
 - Overdoing even what you love can turn joy into pressure.
-- The environment and people around you shape your happiness as much as your work.
+- The environment and people around you build your happiness as much as your work.
 - Don’t let your dreams become your prison; balance is key.
 - Delegate or avoid what drains you, and focus on what truly brings you joy.
 

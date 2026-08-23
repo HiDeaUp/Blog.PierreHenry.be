@@ -16,7 +16,7 @@ source_medium = "https://medium.com/@phenrysay/288fb891267b"
 
 Have you ever found yourself just standing around, waiting for the tram or the bus, staring into space or scrolling aimlessly through your phone? Most of us do it without thinking. But what if those little pockets of time could actually be used for something more meaningful?
 
-Instead of waiting passively, I try to use these moments to do something useful. For example, while waiting for public transport, I often brainstorm ideas for problems I’m facing in my life. Sometimes, I read something interesting on my phone or listen to an audiobook. There are so many things you can do while waiting—being observant of your surroundings, learning something new, or even just reflecting on your day.
+Instead of waiting passively, I try to use these moments to do something useful. For example, while waiting for public transport, I often brainstorm ideas for problems I’m facing in my life. Sometimes, I read something interesting on my phone or listen to an audiobook. There are so many things you can do while waiting: being observant of your surroundings, learning something new, or even just reflecting on your day.
 
 Of course, it’s easy to fall into the trap of scrolling through social media or playing silly games just to kill time. But think about it: when you kill time, you’re actually killing a bit of your life. Time lost is life lost. If scrolling through social media or playing games genuinely makes you happy, go for it. But if you’re just doing it out of habit, maybe it’s time to try something else.
 
@@ -24,13 +24,13 @@ Of course, it’s easy to fall into the trap of scrolling through social media o
 
 One trick I use is keeping a list of all the small tasks I need to do in a reminder app. Whenever I find myself waiting, I check the list and tackle a few tasks. Maybe I need to send an email, check something online, submit a contact form, or clean up my inbox. These are small things, but they add up. By using these little moments, I get more done and feel better about how I spend my time.
 
-It’s not about being busy all the time. It’s about making the most of the moments you usually let slip by. Every minute counts, and how you use those minutes shapes your day—and your life.
+It’s not about being busy all the time. It’s about making the most of the moments you usually let slip by. Every minute counts, and how you use those minutes affects your day, and your life.
 
 > *When you kill time, you’re actually killing a bit of your life. Time lost is life lost.*
-> — Pierre
+> *Pierre*
 
 > *It’s not about being busy all the time. It’s about making the most of the moments you usually let slip by.*
-> — Pierre
+> *Pierre*
 
 ---
 
@@ -39,7 +39,7 @@ It’s not about being busy all the time. It’s about making the most of the mo
 ## Key Takeaways
 - Use waiting time for small, useful tasks or personal growth.
 - Keep a list of things to do and tackle them during idle moments.
-- Be mindful of how you spend your time—don’t just kill it.
+- Be mindful of how you spend your time: don’t just kill it.
 - Small actions add up and can make a big difference in your life.
 
 ## Action Steps

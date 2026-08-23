@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/109f31bf8153"
 
 {{< figure src="https://images.unsplash.com/photo-1713428856048-d52b6474b5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHJlc3MlMjBtYW5hZ2VtZW50JTIwYW54aWV0eSUyMHJlbGllZiUyMG1lbnRhbCUyMGhlYWx0aHxlbnwwfDB8fHwxNzU2NTEwOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="A woman sitting on the floor with a laptop" title="How to Reduce Stress Without Letting Anxiety Stop You" caption="How to Reduce Stress Without Letting Anxiety Stop You - Photo by [Angelina Sarycheva](https://unsplash.com/@oxalife) on [Unsplash](https://unsplash.com/photos/a-woman-sitting-on-the-floor-with-a-laptop-vFefVZLzQYU)" >}}
 
-Stress is something we all know too well. Sometimes, it creeps in as worry, and other times, it feels like a heavy weight from past experiences. This stress can freeze us, making it hard to do even the things we once wanted. Often, it’s a single event that triggers this anxiety, and suddenly, our minds start spinning stories—usually the worst-case scenarios.
+Stress is something we all know too well. Sometimes, it creeps in as worry, and other times, it feels like a heavy weight from past experiences. This stress can freeze us, making it hard to do even the things we once wanted. Often, it’s a single event that triggers this anxiety, and suddenly, our minds start spinning stories: usually the worst-case scenarios.
 
 We find ourselves thinking, “But what if this happens? What if that goes wrong?” And in the end, we do nothing. We stay stuck. The sad part is, the things we’re putting off are often dreams or projects that could bring real joy or meaning to our lives. But fear and stress keep us from taking the leap.
 
@@ -26,17 +26,17 @@ So, how do you move forward when stress is holding you back? First, ask yourself
 
 It’s important to be clear with your partner. Sign agreements, put everything in writing, and make sure you’re both on the same page. If things go wrong, you’ll have a plan. This isn’t just about business. It’s about any big step in life. Always think ahead and protect yourself, but don’t let fear stop you from moving.
 
-The worst thing you can do is nothing. If you stay where you are, nothing will change. Days will pass, and life will stay the same. Instead, take action—even if you’re anxious. Ask yourself what steps you can take to feel safer and more confident. Maybe you don’t have to risk everything at once. Maybe you can find ways to move forward while keeping what matters most safe.
+The worst thing you can do is nothing. If you stay where you are, nothing will change. Days will pass, and life will stay the same. Instead, take action: even if you’re anxious. Ask yourself what steps you can take to feel safer and more confident. Maybe you don’t have to risk everything at once. Maybe you can find ways to move forward while keeping what matters most safe.
 
 When you do this, two things happen. First, you act much faster. Second, you feel calmer because you know you’ve done what you can to protect yourself and your loved ones. That’s what really matters.
 
 > *If you want something you’ve never had, you must be willing to do something you’ve never done.*
 >
-> — Thomas Jefferson
+> *Thomas Jefferson*
 
 > *The only thing we have to fear is fear itself.*
 >
-> — Franklin D. Roosevelt
+> *Franklin D. Roosevelt*
 
 ---
 
@@ -47,7 +47,7 @@ When you do this, two things happen. First, you act much faster. Second, you fee
 - Stress and anxiety often stop us from chasing our dreams.
 - If you want change, you need to act, even if you’re scared.
 - Protect yourself by planning ahead and sharing risks when possible.
-- Doing nothing is the worst choice—life will not change unless you do.
+- Doing nothing is the worst choice: life will not change unless you do.
 - Taking action, even small steps, brings peace of mind and real progress.
 
 ---

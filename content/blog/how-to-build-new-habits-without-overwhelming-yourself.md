@@ -16,9 +16,9 @@ source_medium = "https://medium.com/@phenrysay/12ae2619103a"
 
 Building something new is not just about chasing big goals or setting ambitious targets. It’s about making your vision real, step by step, over the long term. We often talk about goals and objectives, but rarely do we focus on the magic of creating a new habit every single day. Yet, this is where real change begins.
 
-Whenever you try something new, your brain forms fresh connections. These new pathways allow you to see the world differently, to notice things you never would have imagined before. By doing something out of the ordinary, you’re not just adding a new skill—you’re rewiring your mind.
+Whenever you try something new, your brain forms fresh connections. These new pathways allow you to see the world differently, to notice things you never would have imagined before. By doing something out of the ordinary, you’re not just adding a new skill; you’re rewiring your mind.
 
-Take me, for example. I’m a pretty cerebral person, spending most of my time on the computer. My background is in computer engineering. But if you asked me to bake a rum baba, I’d be out of my comfort zone. Maybe it’s because my mother used to love making rum babas when I was a kid, or maybe it’s a strawberry charlotte, a clafoutis, or even a ratatouille. The point is, when you try your hand at something new—like cooking a dish you’ve never made before—you open yourself up to a whole new world.
+Take me, for example. I’m a pretty cerebral person, spending most of my time on the computer. My background is in computer engineering. But if you asked me to bake a rum baba, I’d be out of my comfort zone. Maybe it’s because my mother used to love making rum babas when I was a kid, or maybe it’s a strawberry charlotte, a clafoutis, or even a ratatouille. The point is, when you try your hand at something new (like cooking a dish you’ve never made before) you open yourself up to a whole new world.
 
 {{< figure src="https://images.unsplash.com/photo-1589829085413-56de8ae18c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxidWlsZGluZyUyMGlubm92YXRpb24lMjBoYWJpdCUyMGZvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NjM5ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Building on his national bestseller The Rational Optimist, Matt Ridley chronicles the history of innovation, and how we need to change our thinking on the subject." title="How to Build New Habits Without Overwhelming Yourself" caption="How to Build New Habits Without Overwhelming Yourself - Photo by [Matt Ridley](https://unsplash.com/@mattwridley) on [Unsplash](https://unsplash.com/photos/matt-ridleys-how-innovation-works-H-LIL57PHCc)" >}}
 
@@ -30,11 +30,11 @@ Listen to yourself. Trust your instincts. Do what speaks to you and what feels t
 
 > _If you want something you’ve never had, you must be willing to do something you’ve never done._
 > 
-> — Thomas Jefferson
+> *Thomas Jefferson*
 
 > _The only way to make sense out of change is to plunge into it, move with it, and join the dance._
 > 
-> — Alan Watts
+> *Alan Watts*
 
 {{< figure src="https://images.unsplash.com/photo-1704969723938-0c310608d6c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxidWlsZGluZyUyMGlubm92YXRpb24lMjBoYWJpdCUyMGZvcm1hdGlvbnxlbnwwfDB8fHwxNzU2NjM5ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tiles the word on a wooden surface" title="How to Build New Habits Without Overwhelming Yourself" caption="How to Build New Habits Without Overwhelming Yourself - Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/photos/scrabble-tiles-spelling-the-word-innovation-on-a-wooden-surface-QJOxrWXTARM)" >}}
 
@@ -43,7 +43,7 @@ Listen to yourself. Trust your instincts. Do what speaks to you and what feels t
 ## Key Takeaways
 - Building something new starts with small daily habits.
 - Trying new things rewires your brain and opens up new possibilities.
-- Don’t wait for the “right” moment—start today.
+- Don’t wait for the “right” moment: start today.
 - Listen to your own voice, not just what others are doing.
 - You only have one life, so make it count by exploring new passions.
 

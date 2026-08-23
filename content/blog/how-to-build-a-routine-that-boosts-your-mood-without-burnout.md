@@ -16,16 +16,16 @@ source_medium = "https://medium.com/@phenrysay/acca7f45622f"
 
 A good routine is valuable because it frees us from being at the mercy of our mood each day. Often, we recognize the importance of routines, but we fall into the trap of simply repeating the habits we've already established. We go to bed, wake up, and carry on as usual, rarely respecting the new routines or habits we want to introduce into our lives.
 
-The real challenge is not just sticking to what we know, but daring to add something new—something that pushes us a little further. This is where the magic happens. I want to challenge you: tonight, take a moment to create your routine for the week ahead. Set a clear, specific goal for yourself. By Sunday, you should be able to say, “I accomplished this: A, B, and C.” Write down this goal. Make it visible.
+The real challenge is not just sticking to what we know, but daring to add something new: something that pushes us a little further. This is where the magic happens. I want to challenge you: tonight, take a moment to create your routine for the week ahead. Set a clear, specific goal for yourself. By Sunday, you should be able to say, “I accomplished this: A, B, and C.” Write down this goal. Make it visible.
 
 Once you have your goal, break it down into daily actions. Each day, commit to doing the things that will bring you closer to your weekly objective. These should be habits you can repeat, things that become part of your daily rhythm. The key is consistency, not perfection.
 
 {{< figure src="https://images.unsplash.com/photo-1676282827717-842a6257b39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxyb3V0aW5lJTIwcHJvZHVjdGl2aXR5JTIwZ29hbCUyMHNldHRpbmd8ZW58MHwwfHx8MTc1NjUxNjkyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Cooking elements on a countertop and a sticky note with the hashtag #BakingTime" title="How to Build a Routine That Boosts Your Mood Without Burnout" caption="How to Build a Routine That Boosts Your Mood Without Burnout - Photo by [Walls.io](https://unsplash.com/@walls_io) on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-a-whisk-and-a-yellow-post-it-note-NfKjFyoJJFQ)" >}}
 
-What makes this approach powerful is that it gives you direction. Instead of drifting through the week, you have a target. You know exactly what you want to achieve, and each day becomes a step toward that outcome. This is how routines become more than just habits—they become tools for real progress.
+What makes this approach powerful is that it gives you direction. Instead of drifting through the week, you have a target. You know exactly what you want to achieve, and each day becomes a step toward that outcome. This is how routines become more than just habits; they become tools for real progress.
 
 > _“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”_  
-— Aristotle
+*Aristotle*
 
 So, tonight, don’t just think about your routine. Write it down. Make it real. Give yourself a goal for the week, and let your daily actions carry you there.
 

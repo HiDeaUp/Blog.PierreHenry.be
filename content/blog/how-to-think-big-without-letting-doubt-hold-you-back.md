@@ -16,7 +16,7 @@ Have you ever felt that your background, your education, or even your current en
 
 If you already have a goal, that’s great. If you don’t, I encourage you to take a moment and decide what kind of project or dream you’d like to pursue. It doesn’t matter where you come from or what your situation is. Even if you think your environment isn’t made for success, there is always a way forward.
 
-The most important thing is your mindset. The only real barrier is the one you build in your own head. When you act as if there are no limits, when you tell yourself that anything is possible, and you want it so much that it becomes an obsession—morning, noon, night, and even in your dreams—you will reach your goal. You can go far, much farther than you ever imagined. I promise you that.
+The most important thing is your mindset. The only real barrier is the one you build in your own head. When you act as if there are no limits, when you tell yourself that anything is possible, and you want it so much that it becomes an obsession (morning, noon, night, and even in your dreams) you will reach your goal. You can go far, much farther than you ever imagined. I promise you that.
 
 Let me share something personal. Some people believe that homeschooling isn’t a good environment for success. I was lucky enough to experience homeschooling, thanks to my mother. It was an amazing experience. I remember studying in the garden, surrounded by singing birds and trees. Some said it wouldn’t lead to success, but the truth is quite the opposite.
 
@@ -28,11 +28,11 @@ Life is short. It’s sad to think about not living the life you truly want. Eve
 
 > _The only limits in our lives are those we accept in our minds._
 >
-> — Anonymous
+> *Anonymous*
 
 > _Success is not for the chosen few, but for those who choose it every single day._
 >
-> — Unknown
+> *Unknown*
 
 ---
 

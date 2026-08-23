@@ -18,13 +18,13 @@ The key is to have a clear vision of what you want to achieve in a year. Once yo
 
 {{< figure src="https://images.unsplash.com/photo-1596644901977-aab647c68f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwyfHxzZWxmLWltcHJvdmVtZW50JTIwZGFpbHklMjBoYWJpdHMlMjBtaWNyby1jaGFuZ2VzfGVufDB8MHx8fDE3NTY1MjU3ODl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="lisbon, run, stair steps, man running, sport" title="How to Get Big Results With Tiny Daily Habits" caption="How to Get Big Results With Tiny Daily Habits - Photo by [Paula Guerreiro](https://unsplash.com/@pguerreiro) on [Unsplash](https://unsplash.com/photos/girl-in-pink-shirt-and-blue-shorts-walking-on-wooden-pathway-kAMZbVp5BDg)" >}}
 
-This approach isn’t about working harder, but about working steadily. The magic comes from not stopping. Even when you don’t feel like it, even when you’re tired, just do your 15 minutes. Over time, these small efforts pile up and create results that seem huge compared to the effort you put in each day.
+This approach isn’t about working harder, but about working consistently. The magic comes from not stopping. Even when you don’t feel like it, even when you’re tired, just do your 15 minutes. Over time, these small efforts pile up and create results that seem huge compared to the effort you put in each day.
 
 > _Success is the sum of small efforts, repeated day in and day out._
-— Robert Collier
+*Robert Collier*
 
 > _Great things are not done by impulse, but by a series of small things brought together._
-— Vincent Van Gogh
+*Vincent Van Gogh*
 
 It’s easy to underestimate what you can achieve in a year by doing a little bit every day. But if you keep at it, you’ll look back and be amazed at how far you’ve come. The hardest part is often just getting started and sticking with it, but once you make it a habit, it becomes part of your routine.
 

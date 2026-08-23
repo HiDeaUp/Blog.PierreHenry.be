@@ -14,7 +14,7 @@ source_medium = "https://medium.com/@phenrysay/3fd90bc864ea"
 
 {{< figure src="https://images.unsplash.com/photo-1681439474763-e961dc9c652f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uJTIwc2VsZi1pbXByb3ZlbWVudCUyMGhhYml0LWJ1aWxkaW5nfGVufDB8MHx8fDE3NTY1MjU1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A neon sign that reads work sweat achieve" title="How to Start Something New Without Overthinking It" caption="How to Start Something New Without Overthinking It - Photo by [Dania Shaeeb](https://unsplash.com/@daniashaeeb) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-reads-work-sweat-achieve-MyI4zs5SMNs)" >}}
 
-Have you ever wanted to start something new? Maybe a fresh challenge or just a different way of living? We all feel that urge to push ourselves, to go beyond what we know. But real progress starts with projects—simple ones, and often small. Simplicity is key. Always choose simple over complicated.
+Have you ever wanted to start something new? Maybe a fresh challenge or just a different way of living? We all feel that urge to push ourselves, to go beyond what we know. But real progress starts with projects: simple ones, and often small. Simplicity is key. Always choose simple over complicated.
 
 When you want to begin, make your project as simple as possible. Then, make it as small as possible. Simple, small, and quick. Pick just one project and stick with it for a month. At the end of the month, look back and see how it went.
 
@@ -30,15 +30,15 @@ At the end of the month, review your progress. Was it a success or not? If not, 
 
 No matter where you live, your background, or your education, you can find a way. Maybe you’ll have to work harder than others. Maybe it will take more time or money. Sometimes, if you don’t have money, you might need to take a temporary job to support your project. But everything is possible. It might take sacrifice, but you can do it.
 
-I believe in you. I know you can make it happen. If you want to go further, I’ve written two books that go deep into these ideas. I spent years writing them, and I put everything I know into those pages. I’m sure they’ll help you.
+I believe in you. I know you can make it happen. Start with one clear action today.
 
 > _The only limits that exist are the ones we set for ourselves._
 >
-> — Pierre Ory
+> *Pierre Ory*
 
 > _If you want something strongly enough, you’ll find a way._
 >
-> — Pierre Ory
+> *Pierre Ory*
 
 ---
 
@@ -47,7 +47,7 @@ I believe in you. I know you can make it happen. If you want to go further, I’
 ## Key Takeaways
 - Start simple, start small, and focus on one project for a month.
 - Work on your project every morning for one hour.
-- Make your project your obsession—focus all your energy on it.
+- Make your project your obsession: focus all your energy on it.
 - At the end of the month, review your progress and adjust if needed.
 - Believe in yourself. Everything is possible if you really want it.
 
