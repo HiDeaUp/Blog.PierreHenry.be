@@ -2,6 +2,7 @@
 title = "Set a Default Application on Linux with xdg-mime"
 slug = "set-a-default-application-on-linux-with-xdg-mime"
 date = "2012-01-21T16:17:13+01:00"
+lastmod = "2026-09-05T00:00:00+00:00"
 draft = false
 description = "How to inspect and change the default Linux application for a file type with xdg-mime, without editing system files as root."
 summary = "Linux desktop applications are associated with MIME types. xdg-mime lets me identify the type, set its handler, and verify the result at user level."
@@ -53,7 +54,7 @@ find /usr/share/applications ~/.local/share/applications \
   -iname '*geany*.desktop' 2>/dev/null
 ```
 
-The ID passed to `xdg-mime` is normally the filename, not its full path.
+For an entry directly inside an `applications` directory, the ID is the filename. Nested entries use their relative path with `/` replaced by `-`, as defined by the [desktop entry specification](https://specifications.freedesktop.org/desktop-entry/latest/file-naming.html). Custom XDG directories and applications installed through Flatpak or Snap can store entries elsewhere; the search above covers the common native-package locations.
 
 ## Set and Verify the Default
 
@@ -72,7 +73,7 @@ I finish with an end-to-end check:
 xdg-open ./notes.txt
 ```
 
-If the wrong application still opens, I check that the desktop file exists, declares support for the MIME type, and is the value returned by the query. The underlying associations are stored in `mimeapps.list` files with a defined order of precedence, but I prefer the command-line tool for a normal change.
+If the wrong application still opens, I check that the desktop file exists and declares support for the MIME type. I also check the desktop's graphical association settings: the [Ubuntu manual](https://manpages.ubuntu.com/manpages/stonking/man1/xdg-mime.1.html) explains that the query can differ from what `xdg-open` launches because it delegates to desktop-specific tools. The underlying associations are stored in `mimeapps.list` files with a defined order of precedence.
 
 The [freedesktop.org MIME applications specification](https://specifications.freedesktop.org/mime-apps/latest-single/) explains how defaults are selected. The [`xdg-mime` manual](https://portland.freedesktop.org/doc/xdg-mime.html) documents the commands used here.
 
