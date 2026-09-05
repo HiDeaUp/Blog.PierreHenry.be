@@ -2,6 +2,7 @@
 title = "Run an External Program from PHP Without a Fragile Shell Command"
 slug = "run-an-external-program-from-php-without-a-fragile-shell-command"
 date = "2012-03-02T00:32:57+01:00"
+lastmod = "2026-09-05T00:00:00+00:00"
 draft = false
 description = "A practical way to run an external program from PHP with fixed executables, argument arrays, timeouts, limited permissions, and checked failures."
 summary = "PHP can start another program, but joining input into a shell command creates avoidable risk. I prefer argument arrays and explicit operating limits."
@@ -30,41 +31,72 @@ For a Composer project, the [Symfony Process component](https://symfony.com/doc/
 composer require symfony/process
 ```
 
-Here is a small example with an explicit allowlist:
+Here is a complete command-line example. It requires PHP CLI and Composer. In the project directory, `run.php` contains:
 
 ```php
 <?php
 
-use Symfony\Component\Process\Exception\ProcessFailedException;
+use Symfony\Component\Process\Exception\ProcessTimedOutException;
+use Symfony\Component\Process\Exception\RuntimeException as ProcessRuntimeException;
 use Symfony\Component\Process\Process;
 
-$mode = $_POST['mode'] ?? '';
+require __DIR__ . '/vendor/autoload.php';
+
+if (PHP_SAPI !== 'cli') {
+    exit('Run this example from the command line.');
+}
+
+$mode = $argv[1] ?? 'preview';
 $allowedModes = ['preview', 'export'];
 
 if (!in_array($mode, $allowedModes, true)) {
-    throw new InvalidArgumentException('Unsupported mode.');
+    fwrite(STDERR, "Unsupported mode.\n");
+    exit(2);
 }
 
-$phpBinary = '/usr/bin/php'; // Fixed in deployment configuration.
+$phpBinary = PHP_BINARY;
 
 $process = new Process([
     $phpBinary,
     __DIR__ . '/worker.php',
     '--mode',
     $mode,
-]);
+], __DIR__);
 $process->setTimeout(30);
 
 try {
     $process->mustRun();
-    $result = trim($process->getOutput());
-} catch (ProcessFailedException $exception) {
-    // Record an internal failure without exposing command details to the user.
-    throw new RuntimeException('The worker failed.', 0, $exception);
+    echo $process->getOutput();
+} catch (ProcessTimedOutException $exception) {
+    fwrite(STDERR, "The worker exceeded its time limit.\n");
+    exit(1);
+} catch (ProcessRuntimeException $exception) {
+    fwrite(STDERR, "The worker could not complete.\n");
+    exit(1);
 }
 ```
 
-The executable and every argument are separate array elements. I keep the CLI path in deployment configuration and verify it when the application starts. I do not concatenate `$mode` into a shell command. Symfony recommends this form because it handles argument escaping and avoids invoking shell features that are not needed.
+Alongside it, `worker.php` contains a small demonstration that prints the accepted mode. It does not export any data:
+
+```php
+<?php
+
+$options = getopt('', ['mode:']);
+$mode = $options['mode'] ?? '';
+
+if (!in_array($mode, ['preview', 'export'], true)) {
+    fwrite(STDERR, "Unsupported mode.\n");
+    exit(2);
+}
+
+echo "Mode: {$mode}\n";
+```
+
+Running `php run.php preview` prints `Mode: preview`. An unsupported argument exits before starting the worker. A worker failure and a timeout produce separate, short error messages.
+
+The executable and each argument are separate array elements. `PHP_BINARY` works here because the parent is explicitly a CLI script. In a web application, I configure and verify a PHP CLI executable separately. Argument arrays do not replace input validation or restrict what the chosen program can do.
+
+This demonstration has a fixed, small output. A timeout alone does not limit output size, and Symfony inherits the parent's environment by default. Before using a different worker, I review its output volume, inherited secrets, and permissions. The checks below describe that additional work.
 
 ## Native PHP Can Also Avoid a Command String
 
