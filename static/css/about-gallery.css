@@ -1,0 +1,98 @@
+.about-photo-mosaic {
+  margin: 1.5rem 0;
+}
+
+.about-photo-grid {
+  display: grid;
+  gap: 0.5rem;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-template-rows: repeat(2, 12rem) 10rem;
+}
+
+.about-photo {
+  min-height: 0;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.about-photo img {
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.about-photo--roquefort {
+  grid-column: 1 / 8;
+  grid-row: 1 / 4;
+}
+
+.about-photo--portrait {
+  grid-column: 8 / 13;
+  grid-row: 1 / 3;
+}
+
+.about-photo--ristretto {
+  grid-column: 8 / 11;
+  grid-row: 3;
+}
+
+.about-photo--chocolate {
+  grid-column: 11 / 13;
+  grid-row: 3;
+}
+
+.about-photo--roquefort img {
+  object-position: center;
+}
+
+.about-photo--portrait img {
+  object-position: center 38%;
+}
+
+.about-photo--ristretto img {
+  object-position: center;
+}
+
+.about-photo--chocolate img {
+  object-position: center 58%;
+}
+
+.about-photo-mosaic > .image-caption {
+  color: #777;
+  font-size: 0.82em;
+  line-height: 1.4;
+  margin-top: 0.6rem;
+  text-align: center;
+}
+
+@media (max-width: 560px) {
+  .about-photo-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: 17rem 16rem 11rem;
+  }
+
+  .about-photo--roquefort {
+    grid-column: 1 / 3;
+    grid-row: 1;
+  }
+
+  .about-photo--portrait {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .about-photo--chocolate {
+    grid-column: 2;
+    grid-row: 2;
+  }
+
+  .about-photo--ristretto {
+    grid-column: 1 / 3;
+    grid-row: 3;
+  }
+
+  .about-photo--portrait img {
+    object-position: center 35%;
+  }
+}
