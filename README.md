@@ -4,7 +4,7 @@ Minimal Hugo site for blog.pierrehenry.be, using the fantastic clean and [minima
 
 ## What This Repo Contains
 
-This site publishes Pierre-Henry Soria's English articles with an emphasis on:
+This site publishes Pierre-Henry's English articles with an emphasis on:
 
 - Tech and software engineering
 - Digital nomad work and travel
@@ -46,9 +46,9 @@ The importer keeps only English-ready markdown files with structured metadata, n
 
 ## Founder
 
-[![Pierre-Henry Soria](https://s.gravatar.com/avatar/a210fe61253c43c869d71eaed0e90149?s=200 "Pierre-Henry Soria - Software AI Engineer")](https://pierrehenry.dev)
+[![Pierre-Henry](https://s.gravatar.com/avatar/a210fe61253c43c869d71eaed0e90149?s=200 "Pierre-Henry - Software AI Engineer")](https://pierrehenry.dev)
 
-**Pierre-Henry Soria**
+**Pierre-Henry**
 
 Passionate software AI engineer building intelligent systems to solve real-world problems.
 

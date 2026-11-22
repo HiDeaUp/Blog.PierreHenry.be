@@ -1,9 +1,9 @@
 baseURL = "https://blog.pierrehenry.be/"
 theme = "hugo-bearblog"
 
-title = "Pierre-Henry Soria – CTO Insights, Software Architecture & Product Leadership"
-author = "Pierre-Henry Soria"
-copyright = "Copyright © 2026, Pierre-Henry Soria."
+title = "Pierre-Henry – CTO Insights, Software Architecture & Product Leadership"
+author = "Pierre-Henry"
+copyright = "Copyright © 2026, Pierre-Henry."
 locale = "en-US"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -15,10 +15,10 @@ enableRobotsTXT = true
   blog = "/blog/:slug/"
 
 [params]
-  author = "Pierre-Henry Soria"
+  author = "Pierre-Henry"
   description = "CTO insights, software architecture, engineering leadership, and product strategy. Lessons in building, scaling, and leading teams, with a focus on technical decision-making, business impact, and AI-driven product development."
-  keywords = ["CTO", "software architecture", "engineering leadership", "product strategy", "AI engineering", "system design", "business impact", "Pierre-Henry Soria"]
-  title = "Pierre-Henry Soria – Engineering Leadership & Product Strategy"
+  keywords = ["CTO", "software architecture", "engineering leadership", "product strategy", "AI engineering", "system design", "business impact", "Pierre-Henry"]
+  title = "Pierre-Henry – Engineering Leadership & Product Strategy"
   hideMadeWithLine = true
   enablePostNavigator = true
   dateFormat = "2006-01-02"

@@ -1,13 +1,13 @@
 +++
-title = "About Pierre-Henry Soria"
-description = "Meet Pierre-Henry Soria, a problem-solving product engineer who builds software, contributes to open-source ecosystems, and writes about technology, intentional work, and life design."
+title = "About Pierre-Henry"
+description = "Meet Pierre-Henry, a problem-solving product engineer who builds software, contributes to open-source ecosystems, and writes about technology, intentional work, and life design."
 menu = "main"
 weight = 3
 +++
 
-# Pierre-Henry Soria
+# Pierre-Henry
 
-{{< figure src="/images/pierre-henry-soria.jpg" alt="Pierre-Henry Soria playing a compact keyboard beside a window" title="Pierre-Henry Soria" caption="Pierre-Henry Soria at home, making time for music and reflection." >}}
+{{< figure src="/images/pierre-henry.jpg" alt="Pierre-Henry playing a compact keyboard beside a window" title="Pierre-Henry" caption="Pierre-Henry at home, making time for music and reflection." >}}
 
 I am a passionate problem-solving and product engineer with a strong interest in open-source ecosystems and data science. I enjoy building and shipping software that turns useful ideas into clear, reliable products.
 

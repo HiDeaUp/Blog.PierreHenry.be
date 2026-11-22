@@ -36,7 +36,7 @@ It’s not always easy to make these changes, but I believe in you. Remember, th
 
 > *The only real limits are the ones you set in your mind.*
 >
-> *Pierre-Henry Soria*
+> *Pierre-Henry*
 
 {{< figure src="https://images.unsplash.com/photo-1677834715909-abc7adffc31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwzfHxoYXBwaW5lc3MlMjB3ZWxsYmVpbmclMjBkYWlseSUyMHJvdXRpbmV8ZW58MHwwfHx8MTc1NjUxODYwOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Don't Worry Be Happy" title="How to Find More Happiness by Rearranging Your Day" caption="How to Find More Happiness by Rearranging Your Day - Photo by [Samuel Regan-Asante](https://unsplash.com/@reganography) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-dont-worry-be-happy-LgKl1i-vUjs)" >}}
 
